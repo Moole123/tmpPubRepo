@@ -1,0 +1,144 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015110201000",
+  "dataSourceId": "na",
+  "name": "インドネシアで列車どうしが衝突 14人死亡80人以上けが",
+  "headline": "インドネシアで列車どうしが衝突 14人死亡80人以上けが",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015110201000",
+    "playlistId": "news-nwa-international-nationwide-20260428",
+    "newsarticleName": "インドネシアで列車どうしが衝突 14人死亡80人以上けが",
+    "playlistName": "4月28日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "27日夜、インドネシアの首都ジャカルタ近郊で列車どうしが衝突し、この事故で少なくとも14人が死亡し、80人以上がけがをしました。\n\n\nインドネシアでは首都ジャカルタ近郊の鉄道の駅で現地時間の27日午後",
+  "dateModified": "2026-04-28T16:00:37+09:00",
+  "datePublished": "2026-04-28T16:00:37+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260428/K10015110201_2604281535_0428160038_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260428/K10015110201_2604281535_0428160038_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0002359",
+      "name": "インドネシア",
+      "display": true
+    },
+    {
+      "id": "0001538",
+      "name": "事件・事故",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "27日夜、インドネシアの首都ジャカルタ近郊で列車どうしが衝突し、この事故で少なくとも14人が死亡し、80人以上がけがをしました。\n\n\nインドネシアでは首都ジャカルタ近郊の鉄道の駅で現地時間の27日午後",
+  "articleBody": "27日夜、インドネシアの首都ジャカルタ近郊で列車どうしが衝突し、この事故で少なくとも14人が死亡し、80人以上がけがをしました。\n\n\nインドネシアでは首都ジャカルタ近郊の鉄道の駅で現地時間の27日午後9時ごろ、日本時間の27日午後11時ごろ、列車どうしが衝突する事故がありました。\n\n国営鉄道などによりますと、駅に通勤電車が停車していたところ、長距離列車が追突したとみられ、この事故でこれまでに少なくとも14人が死亡し、84人がけがをしました。\n\n在インドネシア日本大使館によりますと、日本人の被害は確認されていないということです。\n\n国家運輸安全委員会は現地に調査官を派遣し、事故原因を詳しく調査しています。\n\n28日、負傷者が入院している病院を訪れたプラボウォ大統領は、事故の原因を迅速に究明し、再発を防ぐため鉄道の安全システム全体を検証する考えを示しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "27日夜、インドネシアの首都ジャカルタ近郊で列車どうしが衝突し、この事故で少なくとも14人が死亡し、80人以上がけがをしました。\n",
+    "markedBody": "インドネシアでは首都ジャカルタ近郊の鉄道の駅で現地時間の27日午後9時ごろ、日本時間の27日午後11時ごろ、列車どうしが衝突する事故がありました。\n\n国営鉄道などによりますと、駅に通勤電車が停車していたところ、長距離列車が追突したとみられ、この事故でこれまでに少なくとも14人が死亡し、84人がけがをしました。\n\n在インドネシア日本大使館によりますと、日本人の被害は確認されていないということです。\n\n国家運輸安全委員会は現地に調査官を派遣し、事故原因を詳しく調査しています。\n\n28日、負傷者が入院している病院を訪れたプラボウォ大統領は、事故の原因を迅速に究明し、再発を防ぐため鉄道の安全システム全体を検証する考えを示しました。\n",
+    "trimmedLead": "27日夜、インドネシアの首都ジャカルタ近郊で列車どうしが衝突し、この事故で少なくとも14人が死亡し、80人以上がけがをしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015110201000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015110201000",
+  "video": [],
+  "citation": [
+    {
+      "name": "東シナ海や南シナ海めぐり 日中が安保理で批判の応酬",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109821000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260428/K10015109821_2604281317_0428135457_01_02.jpg",
+      "datePublished": "2026-04-28T13:54:56+09:00"
+    },
+    {
+      "name": "NPTの再検討会議始まる 冒頭からアメリカとイラン 非難の応酬",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109701000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260428/K10015109701_2604280341_0428054021_01_02.jpg",
+      "datePublished": "2026-04-28T14:40:53+09:00"
+    },
+    {
+      "name": "トランプ氏参加の夕食会発砲事件 大統領暗殺未遂で訴追 初出廷",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109751000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260428/K10015109751_2604280541_0428091142_01_02.jpg",
+      "datePublished": "2026-04-28T13:50:37+09:00"
+    },
+    {
+      "name": "中国 米メタによるAI企業の買収を禁止 技術流出懸念か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015110041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260428/K10015110041_2604281300_0428132811_01_02.jpg",
+      "datePublished": "2026-04-28T13:28:10+09:00"
+    },
+    {
+      "name": "英国王のアメリカ訪問“特別な関係”の修復は？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015110031000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260428/K10015110031_2604281234_0428132137_01_02.jpg",
+      "datePublished": "2026-04-28T13:21:36+09:00"
+    },
+    {
+      "name": "【会見ライブ】日銀 金融政策を維持 植田総裁 今後の見通しは",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109901000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260428/K10015109901_2604281534_0428153652_01_03.jpg",
+      "datePublished": "2026-04-28T16:09:37+09:00"
+    },
+    {
+      "name": "岩手 大槌町の山林火災 消防“火の勢い おおむね制御下”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260428/K10015109691_2604281201_0428120200_01_02.jpg",
+      "datePublished": "2026-04-28T13:16:55+09:00"
+    },
+    {
+      "name": "JR西日本 りそなグループと資本業務提携の方向で最終調整",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260428/K10015109801_2604281100_0428120020_01_02.jpg",
+      "datePublished": "2026-04-28T13:34:36+09:00"
+    },
+    {
+      "name": "【ノーカット動画】りくりゅう引退会見「やりきった」プロへ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109481000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260428/K10015109481_2604281038_0428104029_01_02.jpg",
+      "datePublished": "2026-04-28T15:34:39+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

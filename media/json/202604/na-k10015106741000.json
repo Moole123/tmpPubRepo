@@ -1,0 +1,154 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015106741000",
+  "dataSourceId": "na",
+  "name": "福島第一原発2号機原子炉調査 炉内にも核燃料デブリ残存か",
+  "headline": "福島第一原発2号機原子炉調査 炉内にも核燃料デブリ残存か",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015106741000",
+    "playlistId": "news-nwa-society-nationwide-20260423",
+    "newsarticleName": "福島第一原発2号機原子炉調査 炉内にも核燃料デブリ残存か",
+    "playlistName": "4月23日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "東京電力は、福島第一原子力発電所2号機で行った原子炉の内部調査の結果を公表し原子炉内で極めて高い放射線量が測定されたことを明らかにしました。原発事故のあと、メルトダウンした原子炉内の放射線量が測定され",
+  "dateModified": "2026-04-23T21:19:04+09:00",
+  "datePublished": "2026-04-23T21:19:04+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260423/K10015106741_2604232105_0423211905_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260423/K10015106741_2604232105_0423211905_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0001453",
+      "name": "福島第一原発",
+      "display": true
+    },
+    {
+      "id": "0002207",
+      "name": "福島県",
+      "display": true
+    },
+    {
+      "id": "0000021",
+      "name": "原発",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "東京電力は、福島第一原子力発電所2号機で行った原子炉の内部調査の結果を公表し原子炉内で極めて高い放射線量が測定されたことを明らかにしました。原発事故のあと、メルトダウンした原子炉内の放射線量が測定され",
+  "articleBody": "東京電力は、福島第一原子力発電所2号機で行った原子炉の内部調査の結果を公表し原子炉内で極めて高い放射線量が測定されたことを明らかにしました。原発事故のあと、メルトダウンした原子炉内の放射線量が測定されたのは初めてで、東京電力は「核燃料デブリ」が原子炉内にも一定程度、残っている可能性があるとして、取り出しに向けた検討などにいかすことにしています。\n\n\n2011年に起きた福島第一原発の事故でメルトダウンした1号機から3号機には、溶け落ちた「核燃料デブリ」が大量に残され、その取り出しが廃炉作業の大きな課題になっていて、東京電力は4月16日、2号機で初めて、原子炉の内部調査を行いました。\n\n調査は線量計を取り付けたファイバースコープを配管を通じて原子炉の中まで入れる方法で行われ、その結果、原子炉の底部から5メートルほど上の位置で、1時間当たりおよそ4.7シーベルトの極めて高い放射線量が測定されたということです。\n\n原発事故のあと、メルトダウンした原子炉内の放射線量が測定されたのは初めてです。\n\nこれまでに2号機では原子炉を覆う格納容器で「核燃料デブリ」が確認され、試験的な取り出しが行われましたが、東京電力は今回の調査から原子炉内にも一定程度の「核燃料デブリ」が残っている可能性があるとしています。\n\nまた、原子炉内にあるステンレス製の構造物や、ポンプの画像も公開され、撮影できた範囲では大きな破損は確認されなかったということです。\n\n東京電力は、調査結果をさらに分析し、「核燃料デブリ」の取り出しに向けた工法の検討などにいかすことにしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "東京電力は、福島第一原子力発電所2号機で行った原子炉の内部調査の結果を公表し原子炉内で極めて高い放射線量が測定されたことを明らかにしました。原発事故のあと、メルトダウンした原子炉内の放射線量が測定されたのは初めてで、東京電力は「核燃料デブリ」が原子炉内にも一定程度、残っている可能性があるとして、取り出しに向けた検討などにいかすことにしています。\n",
+    "markedBody": "2011年に起きた福島第一原発の事故でメルトダウンした1号機から3号機には、溶け落ちた「核燃料デブリ」が大量に残され、その取り出しが廃炉作業の大きな課題になっていて、東京電力は4月16日、2号機で初めて、原子炉の内部調査を行いました。\n\n調査は線量計を取り付けたファイバースコープを配管を通じて原子炉の中まで入れる方法で行われ、その結果、原子炉の底部から5メートルほど上の位置で、1時間当たりおよそ4.7シーベルトの極めて高い放射線量が測定されたということです。\n\n原発事故のあと、メルトダウンした原子炉内の放射線量が測定されたのは初めてです。\n\nこれまでに2号機では原子炉を覆う格納容器で「核燃料デブリ」が確認され、試験的な取り出しが行われましたが、東京電力は今回の調査から原子炉内にも一定程度の「核燃料デブリ」が残っている可能性があるとしています。\n\n![](https://news.web.nhk/news/html/20260423/K10015106741_2604232105_0423211905_02_03.jpg)\n\nまた、原子炉内にあるステンレス製の構造物や、ポンプの画像も公開され、撮影できた範囲では大きな破損は確認されなかったということです。\n\n東京電力は、調査結果をさらに分析し、「核燃料デブリ」の取り出しに向けた工法の検討などにいかすことにしています。\n",
+    "trimmedLead": "東京電力は、福島第一原子力発電所2号機で行った原子炉の内部調査の結果を公表し原子炉内で極めて高い放射線量が測定されたことを明らかにしました。原発事故のあと、メルトダウンした原子炉内の放射線量が測定されたのは初めてで、東京電力は「核燃料デブリ」が原子炉内にも一定程度、残っている可能性があるとして、取り出しに向けた検討などにいかすことにしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015106741000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015106741000",
+  "video": [],
+  "citation": [
+    {
+      "name": "原発事故15年 廃炉完了への遠い道のり",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015074551000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260313/K10015074551_2603131133_0313143841_01_02.jpg",
+      "datePublished": "2026-03-13T14:38:40+09:00"
+    },
+    {
+      "name": "東京電力福島第一原発２号機で初の原子炉内部調査",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015100991000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260416/K10015100991_2604161810_0416181806_01_02.jpg",
+      "datePublished": "2026-04-16T18:18:06+09:00"
+    },
+    {
+      "name": "福島第一原発事故特集サイト",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0001453",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30908502.jpg"
+    },
+    {
+      "name": "自衛隊員 クマに襲われけが 訓練で飛び火し影響確認中に 福島",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106611000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015106611_2604231801_0423182646_01_02.jpg",
+      "datePublished": "2026-04-23T18:26:45+09:00"
+    },
+    {
+      "name": "後発地震注意情報 専門家“発表への慣れ懸念”　命守る備えを",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106121000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015106121_2604231700_0423182225_01_02.jpg",
+      "datePublished": "2026-04-23T18:22:24+09:00"
+    },
+    {
+      "name": "【詳しく】後発地震注意情報 各地で備え 観光業への影響も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105821000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015105821_2604231840_0423184718_01_02.jpg",
+      "datePublished": "2026-04-23T18:47:17+09:00"
+    },
+    {
+      "name": "岩手 大槌町の山林火災 延焼続く 夜を徹して消火活動や警戒へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106021000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015106021_2604231832_0423183351_01_02.jpg",
+      "datePublished": "2026-04-23T19:45:59+09:00"
+    },
+    {
+      "name": "東京ドームシティ遊具落下事故 油圧制御装置 当日点検予定か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106641000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015106641_2604231846_0423191623_01_02.jpg",
+      "datePublished": "2026-04-23T19:16:22+09:00"
+    },
+    {
+      "name": "北海道 知床沖の観光船沈没事故から4年 斜里町で追悼式",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015106371_2604231637_0423183555_01_02.jpg",
+      "datePublished": "2026-04-23T18:35:54+09:00"
+    },
+    {
+      "name": "3月の石油化学製品の国内生産量 大幅減少 イラン情勢の影響で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106501000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015106501_2604231649_0423181828_01_02.jpg",
+      "datePublished": "2026-04-23T19:33:13+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

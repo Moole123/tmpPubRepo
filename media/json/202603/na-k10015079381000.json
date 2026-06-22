@@ -1,0 +1,160 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015079381000",
+  "dataSourceId": "na",
+  "name": "国民会議の有識者会議 初会合は24日に開催へ",
+  "headline": "国民会議の有識者会議 初会合は24日に開催へ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015079381000",
+    "playlistId": "news-nwa-politics-nationwide-20260319",
+    "newsarticleName": "国民会議の有識者会議 初会合は24日に開催へ",
+    "playlistName": "3月19日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "消費税の減税などを議論する超党派の「国民会議」をめぐり、会議のもとで、専門的・技術的な論点を精査する「有識者会議」の初会合が来週24日に開かれることになりました。\n\n\nこれは、「国民会議」を担当する城",
+  "dateModified": "2026-03-19T11:44:00+09:00",
+  "datePublished": "2026-03-19T11:44:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260319/K10015079381_2603191104_0319114401_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260319/K10015079381_2603191104_0319114401_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0000709",
+      "name": "消費税",
+      "display": true
+    },
+    {
+      "id": "0002791",
+      "name": "給付付き税額控除",
+      "display": true
+    },
+    {
+      "id": "0002133",
+      "name": "物価高騰",
+      "display": true
+    },
+    {
+      "id": "0002739",
+      "name": "経済団体",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "消費税の減税などを議論する超党派の「国民会議」をめぐり、会議のもとで、専門的・技術的な論点を精査する「有識者会議」の初会合が来週24日に開かれることになりました。\n\n\nこれは、「国民会議」を担当する城",
+  "articleBody": "消費税の減税などを議論する超党派の「国民会議」をめぐり、会議のもとで、専門的・技術的な論点を精査する「有識者会議」の初会合が来週24日に開かれることになりました。\n\n\nこれは、「国民会議」を担当する城内成長戦略担当大臣が閣議のあとの記者会見で明らかにしました。\n\nそれによりますと、食料品の消費税を2年間ゼロにすることや「給付付き税額控除」の制度設計について専門的・技術的な論点を精査する「有識者会議」の初会合を来週24日の午前に開催するということです。\n\n「有識者会議」には、政府の社会保障関係の会議体などでトップを務めた元慶應義塾塾長の清家篤氏が座長に就任するほか、地方自治体や経済界からも参加が予定されています。\n\n清家氏は関係閣僚と各党の実務者からなる「実務者会議」にも出席することになっていて、連携しながら制度設計の議論を進めるとしています。\n\n城内大臣は「有識者の税制や社会保障制度、社会経済に関する高い見識を生かした、充実した議論を期待している」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "消費税の減税などを議論する超党派の「国民会議」をめぐり、会議のもとで、専門的・技術的な論点を精査する「有識者会議」の初会合が来週24日に開かれることになりました。\n",
+    "markedBody": "これは、「国民会議」を担当する城内成長戦略担当大臣が閣議のあとの記者会見で明らかにしました。\n\nそれによりますと、食料品の消費税を2年間ゼロにすることや「給付付き税額控除」の制度設計について専門的・技術的な論点を精査する「有識者会議」の初会合を来週24日の午前に開催するということです。\n\n「有識者会議」には、政府の社会保障関係の会議体などでトップを務めた元慶應義塾塾長の清家篤氏が座長に就任するほか、地方自治体や経済界からも参加が予定されています。\n\n清家氏は関係閣僚と各党の実務者からなる「実務者会議」にも出席することになっていて、連携しながら制度設計の議論を進めるとしています。\n\n城内大臣は「有識者の税制や社会保障制度、社会経済に関する高い見識を生かした、充実した議論を期待している」と述べました。\n",
+    "trimmedLead": "消費税の減税などを議論する超党派の「国民会議」をめぐり、会議のもとで、専門的・技術的な論点を精査する「有識者会議」の初会合が来週24日に開かれることになりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015079381000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015079381000",
+  "video": [],
+  "citation": [
+    {
+      "name": "消費税減税 実務者会議 小売業団体がシステム改修負担など意見",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015078831000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260318/K10015078831_2603181800_0318195450_01_02.jpg",
+      "datePublished": "2026-03-18T19:54:49+09:00"
+    },
+    {
+      "name": "国民会議の有識者会議 メンバー12人公表 座長に清家篤氏が就任",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015077721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260317/K10015077721_2603171118_0317115152_01_02.jpg",
+      "datePublished": "2026-03-17T16:51:38+09:00"
+    },
+    {
+      "name": "国民会議 実務者会議初会合 消費税減税の制度設計推進を確認",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015073981000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260312/K10015073981_2603121855_0312201845_01_02.jpg",
+      "datePublished": "2026-03-12T20:18:45+09:00"
+    },
+    {
+      "name": "日米首脳会談 日本時間20日未明に イラン情勢などで意見交換へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015078991000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260319/K10015078991_2603182015_0319052047_01_03.jpg",
+      "datePublished": "2026-03-19T05:20:46+09:00"
+    },
+    {
+      "name": "イラン ガス田に攻撃受け カタールの液化天然ガス施設を攻撃",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015079031000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260319/K10015079031_2603190546_0319064714_01_02.jpg",
+      "datePublished": "2026-03-19T12:05:50+09:00"
+    },
+    {
+      "name": "ガソリン 激変緩和措置始まる 約1～2週間で小売価格反映見込み",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015079001000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260319/K10015079001_2603191148_0319120511_01_03.jpg",
+      "datePublished": "2026-03-19T12:05:10+09:00"
+    },
+    {
+      "name": "ガソリン小売価格 44の都道府県で過去最高に 【一覧掲載】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015079051000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260319/K10015079051_2603182050_0319045543_01_02.jpg",
+      "datePublished": "2026-03-19T04:55:42+09:00"
+    },
+    {
+      "name": "大谷翔平 オープン戦で初登板 5回途中まで投げ無失点",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015079261000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260319/K10015079261_2603190842_0319084608_01_02.jpg",
+      "datePublished": "2026-03-19T11:02:43+09:00"
+    },
+    {
+      "name": "【今大会の注目点は】高校野球 センバツ 初の指名打者制導入",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015078951000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260319/K10015078951_2603182254_0319043736_01_02.jpg",
+      "datePublished": "2026-03-19T04:37:35+09:00"
+    },
+    {
+      "name": "「また家族一緒に暮らしたい」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015064421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260318/K10015064421_2603081011_0318194719_01_02.jpg",
+      "datePublished": "2026-03-18T19:47:18+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

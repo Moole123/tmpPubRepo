@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014879781000",
+  "dataSourceId": "na",
+  "name": "国交省 新たに大臣を本部長とする「渇水対策本部」を設置",
+  "headline": "国交省 新たに大臣を本部長とする「渇水対策本部」を設置",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014879781000",
+    "playlistId": "news-nwa-disaster-nationwide-20250730",
+    "newsarticleName": "国交省 新たに大臣を本部長とする「渇水対策本部」を設置",
+    "playlistName": "7月30日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "渇水に伴う取水制限を実施している河川が増えていることなどを受けて国土交通省は「渇水情報連絡室」を設けて対応してきましたが、30日新たに大臣を本部長とする「渇水対策本部」を設置しました。\n\n\n対策本部を",
+  "dateModified": "2025-07-30T19:47:40+09:00",
+  "datePublished": "2025-07-30T19:47:40+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250730/K10014879781_2507301941_0730194558_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250730/K10014879781_2507301941_0730194558_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害",
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "渇水に伴う取水制限を実施している河川が増えていることなどを受けて国土交通省は「渇水情報連絡室」を設けて対応してきましたが、30日新たに大臣を本部長とする「渇水対策本部」を設置しました。\n\n\n対策本部を",
+  "articleBody": "渇水に伴う取水制限を実施している河川が増えていることなどを受けて国土交通省は「渇水情報連絡室」を設けて対応してきましたが、30日新たに大臣を本部長とする「渇水対策本部」を設置しました。\n\n\n対策本部を設置したのは、新潟県で雨が少なく市民生活に影響が出ていることや、東北地方の一部の地域で渇水が深刻化してきているためだということです。\n\n設置にあわせ大臣から地方整備局などに対して地元自治体とつくる対策協議会を通じ水の利用者間で調整を図るよう指示を出していて、特に稲穂が出る時期のため農林水産省とも連携して対応するよう伝えています。\n",
+  "detailedArticleBody": {
+    "markedLead": "渇水に伴う取水制限を実施している河川が増えていることなどを受けて国土交通省は「渇水情報連絡室」を設けて対応してきましたが、30日新たに大臣を本部長とする「渇水対策本部」を設置しました。\n",
+    "markedBody": "対策本部を設置したのは、新潟県で雨が少なく市民生活に影響が出ていることや、東北地方の一部の地域で渇水が深刻化してきているためだということです。\n\n設置にあわせ大臣から地方整備局などに対して地元自治体とつくる対策協議会を通じ水の利用者間で調整を図るよう指示を出していて、特に稲穂が出る時期のため農林水産省とも連携して対応するよう伝えています。\n",
+    "trimmedLead": "渇水に伴う取水制限を実施している河川が増えていることなどを受けて国土交通省は「渇水情報連絡室」を設けて対応してきましたが、30日新たに大臣を本部長とする「渇水対策本部」を設置しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014879781000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014879781000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

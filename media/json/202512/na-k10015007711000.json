@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015007711000",
+  "dataSourceId": "na",
+  "name": "文科相 能登半島地震の被災地訪問“教育関係施設 復旧に全力”",
+  "headline": "文科相 能登半島地震の被災地訪問“教育関係施設 復旧に全力”",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015007711000",
+    "playlistId": "news-nwa-politics-nationwide-20251218",
+    "newsarticleName": "文科相 能登半島地震の被災地訪問“教育関係施設 復旧に全力”",
+    "playlistName": "12月18日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "松本文部科学大臣は、能登半島地震の被災地を訪れて小学校などを視察し、教育関係施設の復旧や学習環境の整備に全力を挙げる考えを示しました。\n\n\n松本文部科学大臣は18日、就任後、初めて能登半島地震の被災地",
+  "dateModified": "2025-12-18T19:25:05+09:00",
+  "datePublished": "2025-12-18T19:25:05+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251218/K10015007711_2512181922_1218192506_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251218/K10015007711_2512181922_1218192506_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "松本文部科学大臣は、能登半島地震の被災地を訪れて小学校などを視察し、教育関係施設の復旧や学習環境の整備に全力を挙げる考えを示しました。\n\n\n松本文部科学大臣は18日、就任後、初めて能登半島地震の被災地",
+  "articleBody": "松本文部科学大臣は、能登半島地震の被災地を訪れて小学校などを視察し、教育関係施設の復旧や学習環境の整備に全力を挙げる考えを示しました。\n\n\n松本文部科学大臣は18日、就任後、初めて能登半島地震の被災地を訪れ、石川県輪島市の小学校を視察しました。\n\nそして、グラウンドに建てられた仮設の校舎で児童たちが授業を受ける様子を確認したほか、学校関係者らから教育関係施設の復旧状況などについて説明を受けました。\n\n続いて、能登町の高校に移動し、生徒たちがふだん学習している内容などをめぐって意見を交わしました。\n\nこのあと松本大臣は記者団に対し「学校施設をはじめ復旧・復興はまだ道半ばだ。しっかりと国として後押しし進めていく」と述べ、教育関係施設の復旧や学習環境の整備に全力を挙げる考えを示しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "松本文部科学大臣は、能登半島地震の被災地を訪れて小学校などを視察し、教育関係施設の復旧や学習環境の整備に全力を挙げる考えを示しました。\n",
+    "markedBody": "松本文部科学大臣は18日、就任後、初めて能登半島地震の被災地を訪れ、石川県輪島市の小学校を視察しました。\n\nそして、グラウンドに建てられた仮設の校舎で児童たちが授業を受ける様子を確認したほか、学校関係者らから教育関係施設の復旧状況などについて説明を受けました。\n\n続いて、能登町の高校に移動し、生徒たちがふだん学習している内容などをめぐって意見を交わしました。\n\nこのあと松本大臣は記者団に対し「学校施設をはじめ復旧・復興はまだ道半ばだ。しっかりと国として後押しし進めていく」と述べ、教育関係施設の復旧や学習環境の整備に全力を挙げる考えを示しました。\n",
+    "trimmedLead": "松本文部科学大臣は、能登半島地震の被災地を訪れて小学校などを視察し、教育関係施設の復旧や学習環境の整備に全力を挙げる考えを示しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015007711000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015007711000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

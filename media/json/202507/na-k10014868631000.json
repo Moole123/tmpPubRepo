@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014868631000",
+  "dataSourceId": "na",
+  "name": "米 ロサンゼルス 車が群衆に突っ込み少なくとも30人けが",
+  "headline": "米 ロサンゼルス 車が群衆に突っ込み少なくとも30人けが",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014868631000",
+    "playlistId": "news-nwa-international-nationwide-20250720",
+    "newsarticleName": "米 ロサンゼルス 車が群衆に突っ込み少なくとも30人けが",
+    "playlistName": "7月20日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "アメリカ西部ロサンゼルスで19日、車が群衆に突っ込み、少なくとも30人がけがをしました。車の運転手は病院で手当てを受けていて、警察は回復を待って取り調べを行う方針だということです。\n\n\nアメリカ西部ロ",
+  "dateModified": "2025-07-20T06:00:50+09:00",
+  "datePublished": "2025-07-20T06:00:50+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250720/K10014868631_2507200457_0720060051_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250720/K10014868631_2507200457_0720060051_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "アメリカ西部ロサンゼルスで19日、車が群衆に突っ込み、少なくとも30人がけがをしました。車の運転手は病院で手当てを受けていて、警察は回復を待って取り調べを行う方針だということです。\n\n\nアメリカ西部ロ",
+  "articleBody": "アメリカ西部ロサンゼルスで19日、車が群衆に突っ込み、少なくとも30人がけがをしました。車の運転手は病院で手当てを受けていて、警察は回復を待って取り調べを行う方針だということです。\n\n\nアメリカ西部ロサンゼルスで19日未明、音楽会場の前に集まっていた人たちに車が突っ込み、消防によりますと、少なくとも30人がけがをしました。\n\nこのうち7人が重体だということです。\n\nロサンゼルスにある日本総領事館によりますと、今のところ日本人が巻き込まれたという情報は入っていないということです。\n\n地元メディアは、車を運転していた人物はその後、近くにいた人たちから車の外に出されて、男によって銃で撃たれたと伝えています。\n\n運転手は病院で手当てを受けていて、警察は、回復を待って取り調べを行う方針だということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカ西部ロサンゼルスで19日、車が群衆に突っ込み、少なくとも30人がけがをしました。車の運転手は病院で手当てを受けていて、警察は回復を待って取り調べを行う方針だということです。\n",
+    "markedBody": "アメリカ西部ロサンゼルスで19日未明、音楽会場の前に集まっていた人たちに車が突っ込み、消防によりますと、少なくとも30人がけがをしました。\n\nこのうち7人が重体だということです。\n\nロサンゼルスにある日本総領事館によりますと、今のところ日本人が巻き込まれたという情報は入っていないということです。\n\n地元メディアは、車を運転していた人物はその後、近くにいた人たちから車の外に出されて、男によって銃で撃たれたと伝えています。\n\n運転手は病院で手当てを受けていて、警察は、回復を待って取り調べを行う方針だということです。\n",
+    "trimmedLead": "アメリカ西部ロサンゼルスで19日、車が群衆に突っ込み、少なくとも30人がけがをしました。車の運転手は病院で手当てを受けていて、警察は回復を待って取り調べを行う方針だということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014868631000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014868631000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

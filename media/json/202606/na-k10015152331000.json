@@ -1,0 +1,159 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015152331000",
+  "dataSourceId": "na",
+  "name": "ドジャース 大谷 15号HR 大リーグ通算300号まであと5本に",
+  "headline": "ドジャース 大谷 15号HR 大リーグ通算300号まであと5本に",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015152331000",
+    "playlistId": "news-nwa-sports-nationwide-20260617",
+    "newsarticleName": "ドジャース 大谷 15号HR 大リーグ通算300号まであと5本に",
+    "playlistName": "6月17日のスポーツニュース",
+    "genreId": "sports",
+    "genreIdSlug": "sports"
+  },
+  "description": "大リーグ、ドジャースの大谷翔平選手が、16日、レイズ戦に1番指名打者で先発出場し、6回の第3打席でセンターオーバーの15号ソロホームランを打ちました。\n\nホームランは3試合ぶり、大リーグ通算295本目",
+  "dateModified": "2026-06-17T13:09:12+09:00",
+  "datePublished": "2026-06-17T13:09:12+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260617/K10015152331_2606171305_0617130913_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260617/K10015152331_2606171305_0617130913_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "スポーツ"
+  ],
+  "topic": [
+    {
+      "id": "0002020",
+      "name": "大谷翔平",
+      "display": true
+    },
+    {
+      "id": "0000006",
+      "name": "大リーグ",
+      "display": true
+    },
+    {
+      "id": "0001591",
+      "name": "野球",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "大リーグ、ドジャースの大谷翔平選手が、16日、レイズ戦に1番指名打者で先発出場し、6回の第3打席でセンターオーバーの15号ソロホームランを打ちました。\n\nホームランは3試合ぶり、大リーグ通算295本目",
+  "articleBody": "大リーグ、ドジャースの大谷翔平選手が、16日、レイズ戦に1番指名打者で先発出場し、6回の第3打席でセンターオーバーの15号ソロホームランを打ちました。\n\nホームランは3試合ぶり、大リーグ通算295本目のホームランで、300号まであと5本です。\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "大リーグ、ドジャースの大谷翔平選手が、16日、レイズ戦に1番指名打者で先発出場し、6回の第3打席でセンターオーバーの15号ソロホームランを打ちました。\n\nホームランは3試合ぶり、大リーグ通算295本目のホームランで、300号まであと5本です。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20260617/K10015152331_2606171305_0617130913_02_03.jpg)\n",
+    "trimmedLead": "大リーグ、ドジャースの大谷翔平選手が、16日、レイズ戦に1番指名打者で先発出場し、6回の第3打席でセンターオーバーの15号ソロホームランを打ちました。\n\nホームランは3試合ぶり、大リーグ通算295本目のホームランで、300号まであと5本です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015152331000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015152331000",
+  "video": [],
+  "citation": [
+    {
+      "name": "サッカーW杯 フランスがセネガルに勝利 エムバペが2得点",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015152061000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260617/K10015152061_2606170618_0617063014_01_02.jpg",
+      "datePublished": "2026-06-17T10:44:48+09:00"
+    },
+    {
+      "name": "サッカーW杯 見どころ【6月18日】イングランドが初戦",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015152091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260617/K10015152091_2606170813_0617111637_01_02.jpg",
+      "datePublished": "2026-06-17T11:49:20+09:00"
+    },
+    {
+      "name": "サッカーW杯 ノルウェーがイラクに勝利 ハーランドが2ゴール",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015152131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260617/K10015152131_2606170937_0617093720_01_02.jpg",
+      "datePublished": "2026-06-17T14:11:41+09:00"
+    },
+    {
+      "name": "サッカーW杯 日本代表 キャンプ地ナッシュビルの施設を公開",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015152071000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260617/K10015152071_2606170638_0617065323_01_02.jpg",
+      "datePublished": "2026-06-17T06:53:22+09:00"
+    },
+    {
+      "name": "浦和レッズ 新監督にチョウ 貴裁氏が就任 サッカーJ1",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015151531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260616/K10015151531_2606161906_0616203543_01_02.jpg",
+      "datePublished": "2026-06-16T20:35:42+09:00"
+    },
+    {
+      "name": "プロ野球交流戦 西武が初優勝 勝率は過去最高",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015151871000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260616/K10015151871_2606162208_0616221208_01_02.jpg",
+      "datePublished": "2026-06-16T23:28:46+09:00"
+    },
+    {
+      "name": "【プロ野球結果】交流戦 西武が阪神に勝ち初の優勝",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015151851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260616/K10015151851_2606162322_0617050325_01_02.jpg",
+      "datePublished": "2026-06-16T22:58:06+09:00"
+    },
+    {
+      "name": "プロ野球 楽天 新監督に吉井理人氏が就任へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015151061000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260616/K10015151061_2606161157_0616120908_01_02.jpg",
+      "datePublished": "2026-06-16T12:09:07+09:00"
+    },
+    {
+      "name": "FIFAワールドカップ2026【NHK特設サイト】",
+      "url": "https://nhk.jp/fifawc?cid=wc26-newsweb-awayomi",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31365091.jpg"
+    },
+    {
+      "name": "【出場チーム紹介】サッカーワールドカップ 48チームの成績 注目選手など詳しく",
+      "url": "https://news.web.nhk/news/special/rich_contents/playlist/soccer_worldcup/team/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31446661.jpg"
+    },
+    {
+      "name": "【随時更新】サッカーＷ杯 1次リーグ 全日程・結果",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015147291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015147291_2606111633_0612035920_01_02.jpg",
+      "datePublished": "2026-06-17T14:32:06+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

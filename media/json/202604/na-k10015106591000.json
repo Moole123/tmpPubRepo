@@ -1,0 +1,145 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015106591000",
+  "dataSourceId": "na",
+  "name": "4月景気判断「緩やかに回復」維持 「設備投資」など上方修正",
+  "headline": "4月景気判断「緩やかに回復」維持 「設備投資」など上方修正",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015106591000",
+    "playlistId": "news-nwa-business-nationwide-20260423",
+    "newsarticleName": "4月景気判断「緩やかに回復」維持 「設備投資」など上方修正",
+    "playlistName": "4月23日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "政府は、4月の月例経済報告で景気の現状について「緩やかに回復しているが、中東情勢の影響を注視する必要がある」として、3月の基調判断を維持しました。\n\n\n個別の項目では\n▽「設備投資」は中東情勢が不透明",
+  "dateModified": "2026-04-23T18:19:27+09:00",
+  "datePublished": "2026-04-23T18:19:27+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260423/K10015106591_2604231752_0423181928_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260423/K10015106591_2604231752_0423181928_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0002431",
+      "name": "月例経済報告",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "政府は、4月の月例経済報告で景気の現状について「緩やかに回復しているが、中東情勢の影響を注視する必要がある」として、3月の基調判断を維持しました。\n\n\n個別の項目では\n▽「設備投資」は中東情勢が不透明",
+  "articleBody": "政府は、4月の月例経済報告で景気の現状について「緩やかに回復しているが、中東情勢の影響を注視する必要がある」として、3月の基調判断を維持しました。\n\n\n個別の項目では\n▽「設備投資」は中東情勢が不透明な状況でも人手不足を背景に企業の投資意欲は堅調だとして7か月ぶりに上方修正したほか\n▽「公共投資」も公共工事の執行が順調に進んでいるとして8か月ぶりに上方修正しました。\n\n一方▽個人消費は「持ち直しの動きがみられる」という判断は維持したうえで、中東情勢を踏まえて「消費者マインドがこのところ弱い動きになっていることに注意が必要だ」という表現が追加されました。\n",
+  "detailedArticleBody": {
+    "markedLead": "政府は、4月の月例経済報告で景気の現状について「緩やかに回復しているが、中東情勢の影響を注視する必要がある」として、3月の基調判断を維持しました。\n",
+    "markedBody": "個別の項目では\\\n▽「設備投資」は中東情勢が不透明な状況でも人手不足を背景に企業の投資意欲は堅調だとして7か月ぶりに上方修正したほか\\\n▽「公共投資」も公共工事の執行が順調に進んでいるとして8か月ぶりに上方修正しました。\n\n一方▽個人消費は「持ち直しの動きがみられる」という判断は維持したうえで、中東情勢を踏まえて「消費者マインドがこのところ弱い動きになっていることに注意が必要だ」という表現が追加されました。\n",
+    "trimmedLead": "政府は、4月の月例経済報告で景気の現状について「緩やかに回復しているが、中東情勢の影響を注視する必要がある」として、3月の基調判断を維持しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015106591000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015106591000",
+  "video": [],
+  "citation": [
+    {
+      "name": "「国家情報局」設置法案 賛成多数で衆院通過",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106361000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015106361_2604231408_0423140947_01_02.jpg",
+      "datePublished": "2026-04-24T00:09:52+09:00"
+    },
+    {
+      "name": "高市首相 サウジアラビア皇太子と電話 エネルギー供給拡大要請",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015106441_2604231513_0423152743_01_02.jpg",
+      "datePublished": "2026-04-23T15:27:43+09:00"
+    },
+    {
+      "name": "大手損保3社の社員 出向中にトヨタ内部情報を持ち出し",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106451000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015106451_2604231525_0423153149_01_02.jpg",
+      "datePublished": "2026-04-23T15:31:49+09:00"
+    },
+    {
+      "name": "株価 6万円の大台初めて突破 その後は売り注文膨らみ値下がり",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106061000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015106061_2604230909_0423091357_01_02.jpg",
+      "datePublished": "2026-04-23T17:52:41+09:00"
+    },
+    {
+      "name": "岩手 大槌町の山林火災 延焼続く 夜を徹して消火活動や警戒へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106021000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015106021_2604231832_0423183351_01_02.jpg",
+      "datePublished": "2026-04-23T19:45:59+09:00"
+    },
+    {
+      "name": "【詳しく】後発地震注意情報 各地で備え 観光業への影響も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105821000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015105821_2604231840_0423184718_01_02.jpg",
+      "datePublished": "2026-04-23T18:47:17+09:00"
+    },
+    {
+      "name": "政府 牧野フライスTOBに中止勧告 “国の安全損なうおそれ”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106171000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015106171_2604231113_0423113935_01_02.jpg",
+      "datePublished": "2026-04-23T14:53:19+09:00"
+    },
+    {
+      "name": "オンラインカジノ検挙 317人で過去最多 警察庁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106351000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015106351_2604231402_0423142322_01_02.jpg",
+      "datePublished": "2026-04-23T14:23:20+09:00"
+    },
+    {
+      "name": "米 海上封鎖で経済的圧力 各国の外交続くも協議開催は不透明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105831000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015105831_2604231045_0423115602_01_02.jpg",
+      "datePublished": "2026-04-23T19:02:43+09:00"
+    },
+    {
+      "name": "東京23区中古マンション 平均1億2400万円 30％上昇",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106101000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015106101_2604231017_0423110604_01_02.jpg",
+      "datePublished": "2026-04-23T11:06:04+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

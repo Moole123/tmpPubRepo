@@ -1,0 +1,102 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014894681000",
+  "dataSourceId": "na",
+  "name": "トランプ政権 インテルへの出資検討か 米メディア",
+  "headline": "トランプ政権 インテルへの出資検討か 米メディア",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014894681000",
+    "playlistId": "news-nwa-international-nationwide-20250815",
+    "newsarticleName": "トランプ政権 インテルへの出資検討か 米メディア",
+    "playlistName": "8月15日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "アメリカのメディア、ブルームバーグは14日、トランプ政権が大手半導体メーカー、「インテル」への出資について協議していると報じました。資金を拠出して半導体の国内生産を強化するねらいがあるものとみられます",
+  "dateModified": "2025-08-15T11:24:12+09:00",
+  "datePublished": "2025-08-15T11:24:12+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250815/K10014894681_2508151044_0815112113_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250815/K10014894681_2508151044_0815112113_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際",
+    "経済"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "アメリカのメディア、ブルームバーグは14日、トランプ政権が大手半導体メーカー、「インテル」への出資について協議していると報じました。資金を拠出して半導体の国内生産を強化するねらいがあるものとみられます",
+  "articleBody": "アメリカのメディア、ブルームバーグは14日、トランプ政権が大手半導体メーカー、「インテル」への出資について協議していると報じました。資金を拠出して半導体の国内生産を強化するねらいがあるものとみられます。\n\n\nアメリカのメディア、ブルームバーグは14日、関係者の話としてトランプ政権が経営再建中のインテルの株式の取得について会社側と協議していると報じました。\n\n出資の規模は明らかになっておらず、両者が詳細を詰めているものの、まだ流動的な部分が残っているということです。\n\nインテルはAI向けの半導体をめぐる開発競争で後れをとり去年、巨額の赤字を計上するなど、経営の立て直しが課題となっています。\n\nトランプ政権としては、資金を拠出して計画が遅れている中西部オハイオ州の半導体工場の建設を支援し、国内生産を強化するねらいがあるものとみられます。\n\nトランプ政権をめぐっては半導体メーカーの「エヌビディア」などに対して中国向けの製品の輸出を認める見返りに売り上げの15％を支払うことで合意したとも報じられていて、アメリカメディアは「主要産業への直接的な介入の新たな事例だ」と伝えています。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカのメディア、ブルームバーグは14日、トランプ政権が大手半導体メーカー、「インテル」への出資について協議していると報じました。資金を拠出して半導体の国内生産を強化するねらいがあるものとみられます。\n",
+    "markedBody": "アメリカのメディア、ブルームバーグは14日、関係者の話としてトランプ政権が経営再建中のインテルの株式の取得について会社側と協議していると報じました。\n\n出資の規模は明らかになっておらず、両者が詳細を詰めているものの、まだ流動的な部分が残っているということです。\n\nインテルはAI向けの半導体をめぐる開発競争で後れをとり去年、巨額の赤字を計上するなど、経営の立て直しが課題となっています。\n\nトランプ政権としては、資金を拠出して計画が遅れている中西部オハイオ州の半導体工場の建設を支援し、国内生産を強化するねらいがあるものとみられます。\n\nトランプ政権をめぐっては半導体メーカーの「エヌビディア」などに対して中国向けの製品の輸出を認める見返りに売り上げの15％を支払うことで合意したとも報じられていて、アメリカメディアは「主要産業への直接的な介入の新たな事例だ」と伝えています。\n",
+    "trimmedLead": "アメリカのメディア、ブルームバーグは14日、トランプ政権が大手半導体メーカー、「インテル」への出資について協議していると報じました。資金を拠出して半導体の国内生産を強化するねらいがあるものとみられます。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014894681000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014894681000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "トランプ政権 インテルへの出資検討か 米メディア",
+      "description": "アメリカのメディア、ブルームバーグは14日、トランプ政権が大手半導体メーカー、「インテル」への出資について協議していると報じました。資金を拠出して半導体の国内生産を強化するねらいがあるものとみられます",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10014894681_202508151106_202508151106/index.m3u8&mrposter=/news/html/20250815/K10014894681_2508151044_0815112113_01_03.jpg",
+      "duration": "PT1M4S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10014894681_202508151106_202508151106/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20250815/K10014894681_2508151044_0815112113_01_03.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

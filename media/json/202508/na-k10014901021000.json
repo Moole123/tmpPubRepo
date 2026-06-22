@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014901021000",
+  "dataSourceId": "na",
+  "name": "インド モディ首相 29日から2日間訪日 首脳会談で関係強化へ",
+  "headline": "インド モディ首相 29日から2日間訪日 首脳会談で関係強化へ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014901021000",
+    "playlistId": "news-nwa-politics-nationwide-20250822",
+    "newsarticleName": "インド モディ首相 29日から2日間訪日 首脳会談で関係強化へ",
+    "playlistName": "8月22日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "政府はインドのモディ首相が来週29日から2日間の日程で日本を訪れ、石破総理大臣と首脳会談を行うと発表しました。石破総理大臣は首脳どうしの関係強化を図るとともに、経済安全保障の分野などでの協力を具体化し",
+  "dateModified": "2025-08-22T19:33:54+09:00",
+  "datePublished": "2025-08-22T19:33:54+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250822/K10014901021_2508221900_0822193356_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250822/K10014901021_2508221900_0822193356_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治",
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "政府はインドのモディ首相が来週29日から2日間の日程で日本を訪れ、石破総理大臣と首脳会談を行うと発表しました。石破総理大臣は首脳どうしの関係強化を図るとともに、経済安全保障の分野などでの協力を具体化し",
+  "articleBody": "政府はインドのモディ首相が来週29日から2日間の日程で日本を訪れ、石破総理大臣と首脳会談を行うと発表しました。石破総理大臣は首脳どうしの関係強化を図るとともに、経済安全保障の分野などでの協力を具体化したい考えです。\n\n\n日本政府の発表によりますと、インドのモディ首相は来週29日から2日間の日程で日本を訪れ、石破総理大臣は29日に東京で首脳会談や夕食会を行うということです。\n\n両首脳の対面での会談は去年10月にラオスでの国際会議に合わせて行って以来、2回目となります。\n\nまた、両首脳は30日にそろって宮城県を訪れ、半導体製造装置メーカーの工場などを視察する予定です。\n\n石破総理大臣としては会談や視察を通じて首脳どうしの関係強化を図るとともに、経済安全保障の分野などでの協力を具体化したい考えです。\n",
+  "detailedArticleBody": {
+    "markedLead": "政府はインドのモディ首相が来週29日から2日間の日程で日本を訪れ、石破総理大臣と首脳会談を行うと発表しました。石破総理大臣は首脳どうしの関係強化を図るとともに、経済安全保障の分野などでの協力を具体化したい考えです。\n",
+    "markedBody": "日本政府の発表によりますと、インドのモディ首相は来週29日から2日間の日程で日本を訪れ、石破総理大臣は29日に東京で首脳会談や夕食会を行うということです。\n\n両首脳の対面での会談は去年10月にラオスでの国際会議に合わせて行って以来、2回目となります。\n\nまた、両首脳は30日にそろって宮城県を訪れ、半導体製造装置メーカーの工場などを視察する予定です。\n\n石破総理大臣としては会談や視察を通じて首脳どうしの関係強化を図るとともに、経済安全保障の分野などでの協力を具体化したい考えです。\n",
+    "trimmedLead": "政府はインドのモディ首相が来週29日から2日間の日程で日本を訪れ、石破総理大臣と首脳会談を行うと発表しました。石破総理大臣は首脳どうしの関係強化を図るとともに、経済安全保障の分野などでの協力を具体化したい考えです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014901021000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014901021000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

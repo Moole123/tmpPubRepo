@@ -1,0 +1,86 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015059571000",
+  "dataSourceId": "na",
+  "name": "トランプ政権 新関税10％発動 経団連やメーカーなどの反応",
+  "headline": "トランプ政権 新関税10％発動 経団連やメーカーなどの反応",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015059571000",
+    "playlistId": "news-nwa-international-nationwide-20260224",
+    "newsarticleName": "トランプ政権 新関税10％発動 経団連やメーカーなどの反応",
+    "playlistName": "2月24日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "アメリカのトランプ政権は、関税措置をめぐる裁判で敗訴したことを受けて日本時間24日午後2時すぎ、相互関税などの徴収を停止する一方、幅広い国を対象にした10％の新たな関税措置を発動しました。トランプ大統",
+  "dateModified": "2026-02-24T19:42:52+09:00",
+  "datePublished": "2026-02-24T14:25:11+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260224/K10015059571_2602241410_0224142512_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260224/K10015059571_2602241410_0224142512_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0002605",
+      "name": "関税",
+      "display": true
+    },
+    {
+      "id": "0000277",
+      "name": "トランプ大統領",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    }
+  ],
+  "abstract": "アメリカのトランプ政権は、関税措置をめぐる裁判で敗訴したことを受けて日本時間24日午後2時すぎ、相互関税などの徴収を停止する一方、幅広い国を対象にした10％の新たな関税措置を発動しました。トランプ大統",
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015059571000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015059571000",
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

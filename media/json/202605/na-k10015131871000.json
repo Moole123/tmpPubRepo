@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015131871000",
+  "dataSourceId": "na",
+  "name": "工事現場でセメントに巻き込まれ2人死亡 滋賀 草津",
+  "headline": "工事現場でセメントに巻き込まれ2人死亡 滋賀 草津",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015131871000",
+    "playlistId": "news-nwa-society-nationwide-20260526",
+    "newsarticleName": "工事現場でセメントに巻き込まれ2人死亡 滋賀 草津",
+    "playlistName": "5月26日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "26日午前、滋賀県草津市の工事現場で、地下で作業をしていた2人が流し込まれたセメントに巻き込まれ、死亡しました。\n\n\n26日午前10時半すぎ、草津市西草津の工事現場の地下で「作業をしていた男性2人がセ",
+  "dateModified": "2026-05-26T15:31:01+09:00",
+  "datePublished": "2026-05-26T15:31:01+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260526/K10015131871_2605261513_0526153102_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260526/K10015131871_2605261513_0526153102_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0001538",
+      "name": "事件・事故",
+      "display": true
+    },
+    {
+      "id": "0002225",
+      "name": "滋賀県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "26日午前、滋賀県草津市の工事現場で、地下で作業をしていた2人が流し込まれたセメントに巻き込まれ、死亡しました。\n\n\n26日午前10時半すぎ、草津市西草津の工事現場の地下で「作業をしていた男性2人がセ",
+  "articleBody": "26日午前、滋賀県草津市の工事現場で、地下で作業をしていた2人が流し込まれたセメントに巻き込まれ、死亡しました。\n\n\n26日午前10時半すぎ、草津市西草津の工事現場の地下で「作業をしていた男性2人がセメントをかぶった」と、別の作業員から警察に通報がありました。\n\n警察によりますと、当時、現場ではセメントを流し込む作業が行われ、2人はこれに巻き込まれたということで、病院に運ばれましたが、いずれも死亡しました。\n\n滋賀県によりますと、工事は、使わなくなった農業用水の管にセメントを注入して空洞をなくすため、県の発注で行われていたということです。\n\n警察は工事関係者から事情を聴くなどして詳しい状況を調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "26日午前、滋賀県草津市の工事現場で、地下で作業をしていた2人が流し込まれたセメントに巻き込まれ、死亡しました。\n",
+    "markedBody": "26日午前10時半すぎ、草津市西草津の工事現場の地下で「作業をしていた男性2人がセメントをかぶった」と、別の作業員から警察に通報がありました。\n\n警察によりますと、当時、現場ではセメントを流し込む作業が行われ、2人はこれに巻き込まれたということで、病院に運ばれましたが、いずれも死亡しました。\n\n滋賀県によりますと、工事は、使わなくなった農業用水の管にセメントを注入して空洞をなくすため、県の発注で行われていたということです。\n\n警察は工事関係者から事情を聴くなどして詳しい状況を調べています。\n",
+    "trimmedLead": "26日午前、滋賀県草津市の工事現場で、地下で作業をしていた2人が流し込まれたセメントに巻き込まれ、死亡しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015131871000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015131871000",
+  "video": [],
+  "citation": [
+    {
+      "name": "巨人 阿部慎之助監督が辞任 娘への暴行疑いで逮捕を受けて",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260526/K10015131461_2605261150_0526115121_01_02.jpg",
+      "datePublished": "2026-05-26T12:46:15+09:00"
+    },
+    {
+      "name": "韓国軍「北朝鮮が黄海に向けて飛しょう体を発射」発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131731000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260526/K10015131731_2605261311_0526131248_01_02.jpg",
+      "datePublished": "2026-05-26T13:12:48+09:00"
+    },
+    {
+      "name": "カンヌ映画祭 最優秀女優賞 岡本多緒さんら会見",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131491000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260526/K10015131491_2605261319_0526141202_01_02.jpg",
+      "datePublished": "2026-05-26T14:12:01+09:00"
+    },
+    {
+      "name": "兵庫 母娘殺害事件 たつの市内の複数駅の防犯カメラに容疑者",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131621000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260526/K10015131621_2605261231_0526124238_01_03.jpg",
+      "datePublished": "2026-05-26T12:42:38+09:00"
+    },
+    {
+      "name": "「国家情報局」設置法案 きょう午後 参院委員会で採決・可決へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260526/K10015131591_2605261207_0526124822_01_03.jpg",
+      "datePublished": "2026-05-26T15:32:35+09:00"
+    },
+    {
+      "name": "海外で「かけ子」させる目的で女性誘拐か 暴力団員逮捕 警視庁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131551000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260526/K10015131551_2605261149_0526133221_01_03.jpg",
+      "datePublished": "2026-05-26T13:32:20+09:00"
+    },
+    {
+      "name": "電気・ガス料金支援へ 今年度の予備費5135億円の支出決定",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260526/K10015131441_2605261021_0526153035_01_03.jpg",
+      "datePublished": "2026-05-26T12:09:04+09:00"
+    },
+    {
+      "name": "ドジャース大谷翔平 1安打1打点 逆転勝利に貢献 チームは3連勝",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260526/K10015131791_2605261426_0526145040_01_02.jpg",
+      "datePublished": "2026-05-26T14:50:39+09:00"
+    },
+    {
+      "name": "物価高の今こそ！お得なリユース活用術",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015130591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260526/K10015130591_2605250915_0526125527_01_02.jpg",
+      "datePublished": "2026-05-26T12:55:26+09:00"
+    },
+    {
+      "name": "“魂の交流”描く 濱口竜介監督「急に具合が悪くなる」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015130671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260525/K10015130671_2605251440_0525170146_01_02.jpg",
+      "datePublished": "2026-05-25T17:01:45+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

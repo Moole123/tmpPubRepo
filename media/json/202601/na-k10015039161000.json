@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015039161000",
+  "dataSourceId": "na",
+  "name": "高市首相動静 2026年1月29日",
+  "headline": "高市首相動静 2026年1月29日",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015039161000",
+    "playlistId": "news-nwa-politics-nationwide-20260130",
+    "newsarticleName": "高市首相動静 2026年1月29日",
+    "playlistName": "1月30日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "（高市首相動静 2026年1月29日）\n\n\n09:28 公邸発\n09:41 JR東京駅着\n09:48 のぞみ65号で同駅発\n12:45 JR姫路駅着\n12:48 同駅発\n12:51 同駅南口のロータリ",
+  "dateModified": "2026-01-30T09:49:20+09:00",
+  "datePublished": "2026-01-30T09:49:20+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260130/K10015039161_2601300904_0130094921_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260130/K10015039161_2601300904_0130094921_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "（高市首相動静 2026年1月29日）\n\n\n09:28 公邸発\n09:41 JR東京駅着\n09:48 のぞみ65号で同駅発\n12:45 JR姫路駅着\n12:48 同駅発\n12:51 同駅南口のロータリ",
+  "articleBody": "（高市首相動静 2026年1月29日）\n\n\n09:28 公邸発\n09:41 JR東京駅着\n09:48 のぞみ65号で同駅発\n12:45 JR姫路駅着\n12:48 同駅発\n12:51 同駅南口のロータリー着。街頭演説\n13:16 同所発\n14:06 神戸市垂水区の兵庫県立舞子公園着。街頭演説\n14:37 同所発\n15:31 兵庫県西宮市のホテルヒューイット甲子園着。宴会場「甲陽」で自民党の衆議院議員選挙候補者の演説会に出席。演説。甲子園素盞嗚神社の畑中秀敏宮司から「招き虎」受け取り\n16:16 同所発\n17:35 同県南あわじ市の淡路島南パーキングエリア着。休憩\n17:38 同所発\n17:59 徳島県板野町の道の駅「いたの」着。街頭演説\n18:32 同所発\n18:52 徳島空港着\n19:27 全日空286便で同空港発\n20:25 羽田空港着\n20:36 同空港発\n20:58 公邸着\n",
+  "detailedArticleBody": {
+    "markedLead": "（高市首相動静 2026年1月29日）\n",
+    "markedBody": "09:28 公邸発\\\n09:41 JR東京駅着\\\n09:48 のぞみ65号で同駅発\\\n12:45 JR姫路駅着\\\n12:48 同駅発\\\n12:51 同駅南口のロータリー着。街頭演説\\\n13:16 同所発\\\n14:06 神戸市垂水区の兵庫県立舞子公園着。街頭演説\\\n14:37 同所発\\\n15:31 兵庫県西宮市のホテルヒューイット甲子園着。宴会場「甲陽」で自民党の衆議院議員選挙候補者の演説会に出席。演説。甲子園素盞嗚神社の畑中秀敏宮司から「招き虎」受け取り\\\n16:16 同所発\\\n17:35 同県南あわじ市の淡路島南パーキングエリア着。休憩\\\n17:38 同所発\\\n17:59 徳島県板野町の道の駅「いたの」着。街頭演説\\\n18:32 同所発\\\n18:52 徳島空港着\\\n19:27 全日空286便で同空港発\\\n20:25 羽田空港着\\\n20:36 同空港発\\\n20:58 公邸着\n",
+    "trimmedLead": "（高市首相動静 2026年1月29日）\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015039161000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015039161000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

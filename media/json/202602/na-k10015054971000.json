@@ -1,0 +1,160 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015054971000",
+  "dataSourceId": "na",
+  "name": "株価 値上がり 値下がりしていた銘柄を買い戻す動き",
+  "headline": "株価 値上がり 値下がりしていた銘柄を買い戻す動き",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015054971000",
+    "playlistId": "news-nwa-business-nationwide-20260218",
+    "newsarticleName": "株価 値上がり 値下がりしていた銘柄を買い戻す動き",
+    "playlistName": "2月18日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "18日の東京株式市場、このところ値下がりしていた銘柄を買い戻す動きが出て日経平均株価は値上がりしました。\n\n\n▽日経平均株価、18日の終値は17日と比べて577円35銭高い5万7143円84銭。\n\n▽",
+  "dateModified": "2026-02-18T16:04:39+09:00",
+  "datePublished": "2026-02-18T12:01:52+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260218/K10015054971_2602181538_0218161711_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260218/K10015054971_2602181538_0218161711_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0002423",
+      "name": "金融",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "0002736",
+      "name": "資源・エネルギー",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "18日の東京株式市場、このところ値下がりしていた銘柄を買い戻す動きが出て日経平均株価は値上がりしました。\n\n\n▽日経平均株価、18日の終値は17日と比べて577円35銭高い5万7143円84銭。\n\n▽",
+  "articleBody": "18日の東京株式市場、このところ値下がりしていた銘柄を買い戻す動きが出て日経平均株価は値上がりしました。\n\n\n▽日経平均株価、18日の終値は17日と比べて577円35銭高い5万7143円84銭。\n\n▽東証株価指数＝トピックスは45.70上がって3807.25。\n\n▽1日の出来高は22億6946万株でした。\n\n市場関係者は「午後に入っても買い注文が続き、日経平均株価は一時800円余り上昇する場面があった。日米合意にもとづく対米投資をめぐっては、第1弾のプロジェクトに関係するエネルギー、海運、重工関連などの銘柄で積極的な買い注文が見られた」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "18日の東京株式市場、このところ値下がりしていた銘柄を買い戻す動きが出て日経平均株価は値上がりしました。\n",
+    "markedBody": "▽日経平均株価、18日の終値は17日と比べて577円35銭高い5万7143円84銭。\n\n▽東証株価指数＝トピックスは45.70上がって3807.25。\n\n▽1日の出来高は22億6946万株でした。\n\n市場関係者は「午後に入っても買い注文が続き、日経平均株価は一時800円余り上昇する場面があった。日米合意にもとづく対米投資をめぐっては、第1弾のプロジェクトに関係するエネルギー、海運、重工関連などの銘柄で積極的な買い注文が見られた」と話しています。\n",
+    "trimmedLead": "18日の東京株式市場、このところ値下がりしていた銘柄を買い戻す動きが出て日経平均株価は値上がりしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015054971000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015054971000",
+  "video": [],
+  "citation": [
+    {
+      "name": "第105代総理大臣に高市早苗氏選出 閣僚は全員再任【更新中】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015054851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260218/K10015054851_2602181507_0218150830_01_02.jpg",
+      "datePublished": "2026-02-18T19:23:26+09:00"
+    },
+    {
+      "name": "政府 対米投資の第1弾発表 赤澤経産相 “双方にメリット”強調",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015054891000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260218/K10015054891_2602181127_0218120612_01_02.jpg",
+      "datePublished": "2026-02-18T18:05:38+09:00"
+    },
+    {
+      "name": "のと共栄信用金庫に公的資金96億円投入 復興を後押し 金融庁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015055051000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260218/K10015055051_2602181337_0218143346_01_02.jpg",
+      "datePublished": "2026-02-18T17:43:55+09:00"
+    },
+    {
+      "name": "1月の貿易統計 米国向け輸出額 2か月連続で減少",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015054821000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260218/K10015054821_2602181118_0218112636_01_02.jpg",
+      "datePublished": "2026-02-18T11:26:35+09:00"
+    },
+    {
+      "name": "80兆円規模の対米投資“第1弾を選定”トランプ大統領が発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015054771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260218/K10015054771_2602180550_0218055517_01_02.jpg",
+      "datePublished": "2026-02-18T11:11:31+09:00"
+    },
+    {
+      "name": "米国防総省“長い別の滑走路なしでは普天間基地 返還せず”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015055091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260218/K10015055091_2602181732_0218173253_01_03.jpg",
+      "datePublished": "2026-02-18T15:21:17+09:00"
+    },
+    {
+      "name": "ガソリン小売価格 2週ぶり値上がり 全国平均1リットル156.7円",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015055111000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260218/K10015055111_2602181513_0218152645_01_02.jpg",
+      "datePublished": "2026-02-18T15:26:45+09:00"
+    },
+    {
+      "name": "阿蘇山 遊覧ヘリ事故 “3人の遺体とみられる人の姿確認” 消防",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015055121000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260218/K10015055121_2602181816_0218182311_01_03.jpg",
+      "datePublished": "2026-02-18T19:03:43+09:00"
+    },
+    {
+      "name": "去年の生鮮野菜の輸入量 前年比20％以上増 天候不順の影響か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015054611000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260218/K10015054611_2602172153_0218073853_01_03.jpg",
+      "datePublished": "2026-02-18T07:38:52+09:00"
+    },
+    {
+      "name": "日本のメダル 史上最多19個に 前回・北京大会を上回る 五輪",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015054581000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260218/K10015054581_2602172115_0218010027_01_02.jpg",
+      "datePublished": "2026-02-18T08:37:02+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014872851000",
+  "dataSourceId": "na",
+  "name": "台風8号が発生",
+  "headline": "台風8号が発生",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014872851000",
+    "playlistId": "news-nwa-disaster-nationwide-20250723",
+    "newsarticleName": "台風8号が発生",
+    "playlistName": "7月23日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "23日夜、南シナ海で台風8号が発生しました。今後、台風は沖縄の南の海上を北寄りに進むと予想されていますが、進路の予想にはまだ幅があり、気象庁は今後の情報に注意するよう呼びかけています。\n\n\n気象庁によ",
+  "dateModified": "2025-07-23T22:37:13+09:00",
+  "datePublished": "2025-07-23T22:37:13+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250723/K10014872851_2507232232_0723223647_02_01.jpg",
+      "height": 359,
+      "width": 639
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250723/K10014872851_2507232232_0723223647_01_02.jpg",
+      "height": 359,
+      "width": 639
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "23日夜、南シナ海で台風8号が発生しました。今後、台風は沖縄の南の海上を北寄りに進むと予想されていますが、進路の予想にはまだ幅があり、気象庁は今後の情報に注意するよう呼びかけています。\n\n\n気象庁によ",
+  "articleBody": "23日夜、南シナ海で台風8号が発生しました。今後、台風は沖縄の南の海上を北寄りに進むと予想されていますが、進路の予想にはまだ幅があり、気象庁は今後の情報に注意するよう呼びかけています。\n\n\n気象庁によりますと、23日午後9時、南シナ海で熱帯低気圧が台風8号に変わりました。\n\n中心の気圧は、994ヘクトパスカル、中心付近の最大風速は18メートル、最大瞬間風速は25メートルで、半径165キロ以内では風速15メートル以上の強い風が吹いています。\n\n台風は1時間におよそ15キロの速さで西へ進んでいて、今後進路を北東に変えフィリピンのルソン島付近を通過し、沖縄の南の海上を進むと予想されています。\n\n進路の予想にはまだ幅があり、気象庁は今後の情報に注意するよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "23日夜、南シナ海で台風8号が発生しました。今後、台風は沖縄の南の海上を北寄りに進むと予想されていますが、進路の予想にはまだ幅があり、気象庁は今後の情報に注意するよう呼びかけています。\n",
+    "markedBody": "気象庁によりますと、23日午後9時、南シナ海で熱帯低気圧が台風8号に変わりました。\n\n中心の気圧は、994ヘクトパスカル、中心付近の最大風速は18メートル、最大瞬間風速は25メートルで、半径165キロ以内では風速15メートル以上の強い風が吹いています。\n\n台風は1時間におよそ15キロの速さで西へ進んでいて、今後進路を北東に変えフィリピンのルソン島付近を通過し、沖縄の南の海上を進むと予想されています。\n\n進路の予想にはまだ幅があり、気象庁は今後の情報に注意するよう呼びかけています。\n",
+    "trimmedLead": "23日夜、南シナ海で台風8号が発生しました。今後、台風は沖縄の南の海上を北寄りに進むと予想されていますが、進路の予想にはまだ幅があり、気象庁は今後の情報に注意するよう呼びかけています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014872851000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014872851000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

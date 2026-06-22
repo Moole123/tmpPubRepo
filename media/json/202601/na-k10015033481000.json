@@ -1,0 +1,101 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015033481000",
+  "dataSourceId": "na",
+  "name": "ウクライナに日本製の鉄道レール供与",
+  "headline": "ウクライナに日本製の鉄道レール供与",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015033481000",
+    "playlistId": "news-nwa-international-nationwide-20260123",
+    "newsarticleName": "ウクライナに日本製の鉄道レール供与",
+    "playlistName": "1月23日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "ロシアによる攻撃で大きな被害を受けているウクライナの鉄道の復旧を支援するため、日本で製造されたレールが現地の鉄道会社に供与されました。\n\n\nウクライナの首都キーウでは22日、国営の鉄道会社にレールを引",
+  "dateModified": "2026-01-23T05:33:50+09:00",
+  "datePublished": "2026-01-23T05:33:50+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260123/K10015033481_2601230237_0123053350_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260123/K10015033481_2601230237_0123053350_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "ロシアによる攻撃で大きな被害を受けているウクライナの鉄道の復旧を支援するため、日本で製造されたレールが現地の鉄道会社に供与されました。\n\n\nウクライナの首都キーウでは22日、国営の鉄道会社にレールを引",
+  "articleBody": "ロシアによる攻撃で大きな被害を受けているウクライナの鉄道の復旧を支援するため、日本で製造されたレールが現地の鉄道会社に供与されました。\n\n\nウクライナの首都キーウでは22日、国営の鉄道会社にレールを引き渡す式典がJICA＝国際協力機構の関係者やウクライナ駐在の中込大使などが出席して行われました。\n\nこのなかでJICAウクライナ事務所の服部修所長はウクライナ語で「日本はウクライナとその国民が復興と平和への道を歩むにあたり、これからも支援を続ける」とあいさつしました。\n\n今回、供与されるのは日本で製造されたレール3000トン、長さにしておよそ22キロ分だということです。\n\n鉄道会社によりますと、ロシア軍による鉄道施設への攻撃は去年1年間でおよそ1200件と前の年から急増したということです。\n\nウクライナ国鉄のオレクサンドル・ペルツォフスキ総裁は「日本の支援は私たちが鉄道を動かし続ける上で極めて重要で、感謝している」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "ロシアによる攻撃で大きな被害を受けているウクライナの鉄道の復旧を支援するため、日本で製造されたレールが現地の鉄道会社に供与されました。\n",
+    "markedBody": "ウクライナの首都キーウでは22日、国営の鉄道会社にレールを引き渡す式典がJICA＝国際協力機構の関係者やウクライナ駐在の中込大使などが出席して行われました。\n\nこのなかでJICAウクライナ事務所の服部修所長はウクライナ語で「日本はウクライナとその国民が復興と平和への道を歩むにあたり、これからも支援を続ける」とあいさつしました。\n\n今回、供与されるのは日本で製造されたレール3000トン、長さにしておよそ22キロ分だということです。\n\n![](https://news.web.nhk/news/html/20260123/K10015033481_2601230237_0123053350_02_03.jpg)\n\n鉄道会社によりますと、ロシア軍による鉄道施設への攻撃は去年1年間でおよそ1200件と前の年から急増したということです。\n\nウクライナ国鉄のオレクサンドル・ペルツォフスキ総裁は「日本の支援は私たちが鉄道を動かし続ける上で極めて重要で、感謝している」と話していました。\n\n![](https://news.web.nhk/news/html/20260123/K10015033481_2601230237_0123053350_02_04.jpg)\n",
+    "trimmedLead": "ロシアによる攻撃で大きな被害を受けているウクライナの鉄道の復旧を支援するため、日本で製造されたレールが現地の鉄道会社に供与されました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015033481000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015033481000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "ウクライナに日本製の鉄道レール供与",
+      "description": "ロシアによる攻撃で大きな被害を受けているウクライナの鉄道の復旧を支援するため、日本で製造されたレールが現地の鉄道会社に供与されました。\n\n\nウクライナの首都キーウでは22日、国営の鉄道会社にレールを引",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015033481_202601231014_202601231029/index.m3u8&mrposter=/news/html/20260123/K10015033481_2601230237_0123053350_01_02.jpg",
+      "duration": "PT59S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015033481_202601231014_202601231029/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260123/K10015033481_2601230237_0123053350_01_02.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

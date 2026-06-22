@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015143531000",
+  "dataSourceId": "na",
+  "name": "福岡 八女 川で高校生とみられる男性が溺れて死亡",
+  "headline": "福岡 八女 川で高校生とみられる男性が溺れて死亡",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015143531000",
+    "playlistId": "news-nwa-society-nationwide-20260607",
+    "newsarticleName": "福岡 八女 川で高校生とみられる男性が溺れて死亡",
+    "playlistName": "6月7日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "7日夕方、福岡県八女市の川で、高校生とみられる男性がおぼれているのが見つかり、病院に搬送されましたが、その後、死亡が確認されました。\n\n\n警察によりますと、7日午後5時すぎ、八女市上陽町を流れる星野川",
+  "dateModified": "2026-06-07T20:52:31+09:00",
+  "datePublished": "2026-06-07T19:25:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260607/K10015143531_2606071913_0607192501_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260607/K10015143531_2606071913_0607192501_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0001538",
+      "name": "事件・事故",
+      "display": true
+    },
+    {
+      "id": "0002240",
+      "name": "福岡県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "7日夕方、福岡県八女市の川で、高校生とみられる男性がおぼれているのが見つかり、病院に搬送されましたが、その後、死亡が確認されました。\n\n\n警察によりますと、7日午後5時すぎ、八女市上陽町を流れる星野川",
+  "articleBody": "7日夕方、福岡県八女市の川で、高校生とみられる男性がおぼれているのが見つかり、病院に搬送されましたが、その後、死亡が確認されました。\n\n\n警察によりますと、7日午後5時すぎ、八女市上陽町を流れる星野川で、「男性がおぼれている」と消防に通報がありました。\n\n捜索にあたった消防が、午後5時半前に川に沈んでいた男性を見つけ、意識不明の重体で病院に搬送しましたが、およそ1時間後に死亡が確認されました。\n\n警察によりますと、男性は高校生とみられるということです。\n\n現場の川は、八女市の観光地「ほたると石橋の里公園」のすぐ近くで、警察と消防が詳しい状況を調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "7日夕方、福岡県八女市の川で、高校生とみられる男性がおぼれているのが見つかり、病院に搬送されましたが、その後、死亡が確認されました。\n",
+    "markedBody": "警察によりますと、7日午後5時すぎ、八女市上陽町を流れる星野川で、「男性がおぼれている」と消防に通報がありました。\n\n捜索にあたった消防が、午後5時半前に川に沈んでいた男性を見つけ、意識不明の重体で病院に搬送しましたが、およそ1時間後に死亡が確認されました。\n\n警察によりますと、男性は高校生とみられるということです。\n\n現場の川は、八女市の観光地「ほたると石橋の里公園」のすぐ近くで、警察と消防が詳しい状況を調べています。\n",
+    "trimmedLead": "7日夕方、福岡県八女市の川で、高校生とみられる男性がおぼれているのが見つかり、病院に搬送されましたが、その後、死亡が確認されました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015143531000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015143531000",
+  "video": [],
+  "citation": [
+    {
+      "name": "沖縄 大雨に厳重警戒を 関東甲信と東海で梅雨入り",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015143271000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260607/K10015143271_2606071905_0607191403_01_03.jpg",
+      "datePublished": "2026-06-07T20:46:55+09:00"
+    },
+    {
+      "name": "カンボジア詐欺拠点の幹部か タイで日本人の男を拘束 警察発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015143041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260607/K10015143041_2606070023_0607054052_01_02.jpg",
+      "datePublished": "2026-06-07T06:17:27+09:00"
+    },
+    {
+      "name": "栃木強盗殺人 現場指示役か夫婦再逮捕 「知らない」と容疑否認",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015143501000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260607/K10015143501_2606071818_0607183712_01_02.jpg",
+      "datePublished": "2026-06-07T18:37:11+09:00"
+    },
+    {
+      "name": "日本列島のナウマンゾウ これまでの推定より1万年早く絶滅か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015143021000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260607/K10015143021_2606061937_0607044937_01_02.jpg",
+      "datePublished": "2026-06-07T05:45:34+09:00"
+    },
+    {
+      "name": "サッカーW杯日本代表 新ルール意識した練習 練習場はまた変更",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015143311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260607/K10015143311_2606071154_0607120831_01_02.jpg",
+      "datePublished": "2026-06-07T14:59:05+09:00"
+    },
+    {
+      "name": "米“W杯イラン選手にビザ発給”も一部拒否 イラン側は懸念表明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015142751000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260606/K10015142751_2606061000_0606110949_01_02.jpg",
+      "datePublished": "2026-06-07T16:34:58+09:00"
+    },
+    {
+      "name": "ICE取り締まりのミネアポリス 歌手プリンスの功績たたえる催し",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015143391000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260607/K10015143391_2606071412_0607151808_01_02.jpg",
+      "datePublished": "2026-06-07T15:18:07+09:00"
+    },
+    {
+      "name": "頭の形が… 身長が… 子育ての心配ごと あおる情報 本当は？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015138291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260606/K10015138291_2606051742_0606182828_01_02.jpg",
+      "datePublished": "2026-06-06T18:28:27+09:00"
+    },
+    {
+      "name": "「目が見えないこと“も”武器に」 お笑い芸人 濱田祐太郎さん",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015138091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260606/K10015138091_2606021609_0606113147_01_02.jpg",
+      "datePublished": "2026-06-06T11:31:46+09:00"
+    },
+    {
+      "name": "“つげワールド”は終わらない",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015137211000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260604/K10015137211_2606031503_0604062856_01_02.jpg",
+      "datePublished": "2026-06-04T06:28:55+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

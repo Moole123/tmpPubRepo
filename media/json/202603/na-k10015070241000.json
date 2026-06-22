@@ -1,0 +1,135 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015070241000",
+  "dataSourceId": "na",
+  "name": "【地震速報】福島で震度4 津波の心配なし",
+  "headline": "【地震速報】福島で震度4 津波の心配なし",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015070241000",
+    "playlistId": "news-nwa-disaster-nationwide-20260310",
+    "newsarticleName": "【地震速報】福島で震度4 津波の心配なし",
+    "playlistName": "3月10日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "10日午後3時28分ごろ、福島県で震度4の揺れを観測する地震がありました。この地震による津波の心配はありません。\n\n\n震度4の揺れを観測したのは福島県の田村市と本宮市、それに大熊町でした。\n\nまた、震",
+  "dateModified": "2026-03-10T15:58:30+09:00",
+  "datePublished": "2026-03-10T15:31:03+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260310/K10015070241_2603101533_0310153601_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260310/K10015070241_2603101533_0310153601_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0002207",
+      "name": "福島県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "10日午後3時28分ごろ、福島県で震度4の揺れを観測する地震がありました。この地震による津波の心配はありません。\n\n\n震度4の揺れを観測したのは福島県の田村市と本宮市、それに大熊町でした。\n\nまた、震",
+  "articleBody": "10日午後3時28分ごろ、福島県で震度4の揺れを観測する地震がありました。この地震による津波の心配はありません。\n\n\n震度4の揺れを観測したのは福島県の田村市と本宮市、それに大熊町でした。\n\nまた、震度3の揺れを郡山市やいわき市など福島県の各地で観測したほか、震度2と1の揺れを東北と関東の広い範囲で観測しました。\n\n気象庁によりますと震源地は福島県沖で、震源の深さは60キロ、地震の規模を示すマグニチュードは4.6と推定されています。\n\n震度3以上を観測した市町村\n\n▼震度4が、福島県田村市、福島県本宮市、福島県大熊町。\n▼震度3が、福島県郡山市、福島県いわき市、福島県白河市、福島県須賀川市、福島県二本松市、福島県鏡石町、福島県天栄村、福島県泉崎村、福島県石川町、福島県玉川村、福島県平田村、福島県浅川町、福島県古殿町、福島県小野町、福島県広野町、福島県楢葉町、福島県川内村、福島県双葉町、福島県浪江町、福島県葛尾村、福島県新地町。\n\n福島第一原発 新たな異常なし 東京電力\n\n東京電力によりますと、福島県の大熊町と双葉町にある福島第一原子力発電所では、これまでのところ、今回の地震による新たな異常は確認されていないということです。\n\nまた、原発周辺の放射線量を測定するモニタリングポストの値にも変化はないということです。\n\nこの地震で大熊町は震度4、双葉町は震度3の揺れを観測しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "10日午後3時28分ごろ、福島県で震度4の揺れを観測する地震がありました。この地震による津波の心配はありません。\n",
+    "markedBody": "震度4の揺れを観測したのは福島県の田村市と本宮市、それに大熊町でした。\n\nまた、震度3の揺れを郡山市やいわき市など福島県の各地で観測したほか、震度2と1の揺れを東北と関東の広い範囲で観測しました。\n\n気象庁によりますと震源地は福島県沖で、震源の深さは60キロ、地震の規模を示すマグニチュードは4.6と推定されています。\n\n### 震度3以上を観測した市町村\n\n▼震度4が、福島県田村市、福島県本宮市、福島県大熊町。\\\n▼震度3が、福島県郡山市、福島県いわき市、福島県白河市、福島県須賀川市、福島県二本松市、福島県鏡石町、福島県天栄村、福島県泉崎村、福島県石川町、福島県玉川村、福島県平田村、福島県浅川町、福島県古殿町、福島県小野町、福島県広野町、福島県楢葉町、福島県川内村、福島県双葉町、福島県浪江町、福島県葛尾村、福島県新地町。\n\n### 福島第一原発 新たな異常なし 東京電力\n\n東京電力によりますと、福島県の大熊町と双葉町にある福島第一原子力発電所では、これまでのところ、今回の地震による新たな異常は確認されていないということです。\n\nまた、原発周辺の放射線量を測定するモニタリングポストの値にも変化はないということです。\n\nこの地震で大熊町は震度4、双葉町は震度3の揺れを観測しました。\n",
+    "trimmedLead": "10日午後3時28分ごろ、福島県で震度4の揺れを観測する地震がありました。この地震による津波の心配はありません。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015070241000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015070241000",
+  "video": [],
+  "citation": [
+    {
+      "name": "【最新の地震情報】各地の震度・震源を詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/earthquake/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30060617.jpg"
+    },
+    {
+      "name": "地震発生 その時どう行動する!?",
+      "url": "https://news.web.nhk/newsweb/na/nc-790dbe02-3696-4956-b2ac-83401a4f8f5b",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045984.jpg"
+    },
+    {
+      "name": "地震動予測地図 震度６弱以上 各地のリスク",
+      "url": "https://news.web.nhk/newsweb/na/nc-04b01a9b-a30f-46c5-af92-bd6f205a005f",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045805.jpg"
+    },
+    {
+      "name": "「エレベーターに閉じ込められた」いったいどうすれば？",
+      "url": "https://news.web.nhk/newsweb/na/nc-ca2734b0-c080-45e4-a5c5-2bbc97205783",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045827.jpg"
+    },
+    {
+      "name": "停電したら…スマホ ライトの便利な使い方 何に注意する？",
+      "url": "https://news.web.nhk/newsweb/na/nc-e7670e0f-f375-44c9-9586-bcb576117b56",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045886.jpg"
+    },
+    {
+      "name": "火災の初期消火 消火器の使い方や対策は？",
+      "url": "https://news.web.nhk/newsweb/na/nc-813b665d-4bc8-4cc1-9df8-39020c4f8bb0",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045799.jpg"
+    },
+    {
+      "name": "災害時の偽情報や誤情報に注意 拡散で命にかかわるリスクも",
+      "url": "https://news.web.nhk/newsweb/na/nc-b777764c-a841-41c5-8a78-0b496adee8d9",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045938.jpg"
+    },
+    {
+      "name": "南海トラフ巨大地震「新被害想定」私のまちは",
+      "url": "https://news.web.nhk/newsweb/na/nc-a2084f03-7197-4f79-b727-4fda9d15eecd",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_28817111.jpg"
+    },
+    {
+      "name": "NHKONE防災 災害リスク・備えをまとめて",
+      "url": "https://news.web.nhk/newsweb/sp/pl/editorial-nwa-0000000132",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30066327.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

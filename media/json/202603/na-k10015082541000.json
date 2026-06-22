@@ -1,0 +1,178 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015082541000",
+  "dataSourceId": "na",
+  "name": "コロンビア 125人乗せた軍の輸送機が墜落 これまでに34人死亡",
+  "headline": "コロンビア 125人乗せた軍の輸送機が墜落 これまでに34人死亡",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015082541000",
+    "playlistId": "news-nwa-international-nationwide-20260324",
+    "newsarticleName": "コロンビア 125人乗せた軍の輸送機が墜落 これまでに34人死亡",
+    "playlistName": "3月24日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "南米コロンビアで23日、兵士など125人を乗せた軍の輸送機が墜落し、これまでに34人が死亡しました。\n\n\nコロンビア南部のペルーやエクアドルとの国境に近いプトゥマヨ県で、23日、兵士などあわせて125",
+  "dateModified": "2026-03-24T11:12:52+09:00",
+  "datePublished": "2026-03-24T11:12:52+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260324/K10015082541_2603241103_0324111253_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260324/K10015082541_2603241103_0324111253_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0002774",
+      "name": "コロンビア",
+      "display": true
+    },
+    {
+      "id": "0001538",
+      "name": "事件・事故",
+      "display": true
+    },
+    {
+      "id": "0002632",
+      "name": "中南米",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "南米コロンビアで23日、兵士など125人を乗せた軍の輸送機が墜落し、これまでに34人が死亡しました。\n\n\nコロンビア南部のペルーやエクアドルとの国境に近いプトゥマヨ県で、23日、兵士などあわせて125",
+  "articleBody": "南米コロンビアで23日、兵士など125人を乗せた軍の輸送機が墜落し、これまでに34人が死亡しました。\n\n\nコロンビア南部のペルーやエクアドルとの国境に近いプトゥマヨ県で、23日、兵士などあわせて125人を乗せたC130輸送機が、空港を離陸した直後に墜落しました。\n\n地元の知事によりますと、これまでに34人の死亡が確認され、数十人が病院で手当てを受けているほか、21人の行方がわかっていないということです。\n\n現場の映像では、はっきり確認できるのは機体の尾翼だけで、周囲では火が上がり、煙が立ち上っています。\n\nアメリカのメディアは、この地域では武装した麻薬密売組織に対応するために兵士が投入されていると伝えています。\n\nコロンビアの当局は、行方不明者の捜索を急ぐとともに、事故原因について詳しく調べることにしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "南米コロンビアで23日、兵士など125人を乗せた軍の輸送機が墜落し、これまでに34人が死亡しました。\n",
+    "markedBody": "コロンビア南部のペルーやエクアドルとの国境に近いプトゥマヨ県で、23日、兵士などあわせて125人を乗せたC130輸送機が、空港を離陸した直後に墜落しました。\n\n地元の知事によりますと、これまでに34人の死亡が確認され、数十人が病院で手当てを受けているほか、21人の行方がわかっていないということです。\n\n現場の映像では、はっきり確認できるのは機体の尾翼だけで、周囲では火が上がり、煙が立ち上っています。\n\nアメリカのメディアは、この地域では武装した麻薬密売組織に対応するために兵士が投入されていると伝えています。\n\nコロンビアの当局は、行方不明者の捜索を急ぐとともに、事故原因について詳しく調べることにしています。\n",
+    "trimmedLead": "南米コロンビアで23日、兵士など125人を乗せた軍の輸送機が墜落し、これまでに34人が死亡しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015082541000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015082541000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "コロンビア 125人乗せた軍の輸送機が墜落 これまでに34人死亡",
+      "description": "南米コロンビアで23日、兵士など125人を乗せた軍の輸送機が墜落し、これまでに34人が死亡しました。\n\n\nコロンビア南部のペルーやエクアドルとの国境に近いプトゥマヨ県で、23日、兵士などあわせて125",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015082541_202603241106_202603241108/index.m3u8&mrposter=/news/html/20260324/K10015082541_2603241103_0324111253_01_03.jpg",
+      "duration": "PT54S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015082541_202603241106_202603241108/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260324/K10015082541_2603241103_0324111253_01_03.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "トランプ氏「イランと有意義な協議を行った」 イラン側は否定",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260323/K10015082331_2603232032_0323204307_01_02.jpg",
+      "datePublished": "2026-03-24T12:48:32+09:00"
+    },
+    {
+      "name": "NY原油市場 WTI先物価格が一時約14％下落 緊張緩和への期待で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260324/K10015082421_2603240546_0324062033_01_02.jpg",
+      "datePublished": "2026-03-24T06:20:32+09:00"
+    },
+    {
+      "name": "イラン情勢 被害を受けたエネルギー関連施設",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082171000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260323/K10015082171_2603231939_0323194840_01_02.jpg",
+      "datePublished": "2026-03-23T19:48:39+09:00"
+    },
+    {
+      "name": "キム総書記「米がテロや侵略行為」“自衛の核開発”推進強調",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082481000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260324/K10015082481_2603240940_0324100835_01_02.jpg",
+      "datePublished": "2026-03-24T10:08:34+09:00"
+    },
+    {
+      "name": "株価 一時1100円超値上がりも 売り注文増で値上がり幅は縮小",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260324/K10015082471_2603240910_0324091444_01_02.jpg",
+      "datePublished": "2026-03-24T12:10:25+09:00"
+    },
+    {
+      "name": "トヨタが米国工場に1600億円投資を発表 HV車の生産能力強化へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082451000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260324/K10015082451_2603240726_0324080949_01_02.jpg",
+      "datePublished": "2026-03-24T08:09:48+09:00"
+    },
+    {
+      "name": "中国でもガソリン価格引き上げ 北京で1リットルあたり約197円",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082281000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260324/K10015082281_2603232301_0324062422_01_02.jpg",
+      "datePublished": "2026-03-24T06:24:22+09:00"
+    },
+    {
+      "name": "英ロンドン ユダヤ系団体の救急車放火 ヘイトクライムとし捜査",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082351000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260323/K10015082351_2603232056_0323212311_01_02.jpg",
+      "datePublished": "2026-03-23T21:23:11+09:00"
+    },
+    {
+      "name": "タイ 25日からモーターショー 燃料高騰で燃費性能高い車に注力",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082111000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260323/K10015082111_2603231725_0323180728_01_02.jpg",
+      "datePublished": "2026-03-23T18:07:28+09:00"
+    },
+    {
+      "name": "BTS活動再開も弾みに！ イ政権のK-POP戦略",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015081881000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260323/K10015081881_2603231238_0323133442_01_02.jpg",
+      "datePublished": "2026-03-23T13:34:41+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

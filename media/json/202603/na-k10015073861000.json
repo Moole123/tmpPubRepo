@@ -1,0 +1,142 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015073861000",
+  "dataSourceId": "na",
+  "name": "衆院本会議 記名投票などの「点呼」 AIによる自動音声導入へ",
+  "headline": "衆院本会議 記名投票などの「点呼」 AIによる自動音声導入へ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015073861000",
+    "playlistId": "news-nwa-politics-nationwide-20260312",
+    "newsarticleName": "衆院本会議 記名投票などの「点呼」 AIによる自動音声導入へ",
+    "playlistName": "3月12日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "衆議院本会議で、記名投票などが行われる際に議員の名前を一人一人読み上げる「点呼」に、職員の負担軽減や読み間違いを防ぐ観点から、AIによる自動音声が導入されることになりました。\n\n\n衆議院本会議では総理",
+  "dateModified": "2026-03-12T16:35:15+09:00",
+  "datePublished": "2026-03-12T16:35:15+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260312/K10015073861_2603121614_0312163516_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260312/K10015073861_2603121614_0312163516_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0000010",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "0002393",
+      "name": "衆議院",
+      "display": true
+    },
+    {
+      "id": "0002392",
+      "name": "国会",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "衆議院本会議で、記名投票などが行われる際に議員の名前を一人一人読み上げる「点呼」に、職員の負担軽減や読み間違いを防ぐ観点から、AIによる自動音声が導入されることになりました。\n\n\n衆議院本会議では総理",
+  "articleBody": "衆議院本会議で、記名投票などが行われる際に議員の名前を一人一人読み上げる「点呼」に、職員の負担軽減や読み間違いを防ぐ観点から、AIによる自動音声が導入されることになりました。\n\n\n衆議院本会議では総理大臣指名選挙をはじめ、記名投票などが行われる際に、衆議院事務局の職員が議員の名前を一人一人読み上げる「点呼」が行われています。\n\nこれについて、12日に開かれた衆議院議院運営委員会の理事会では、職員の負担軽減や読み間違いを防ぐ観点から、AIによる自動音声を導入することで与野党が合意しました。\n\n先月、野党側からの提案をきっかけに検討が進められ、事務局の職員や与野党の理事が、実際の音声を確認するなど準備を重ねて導入に至ったということです。\n\n山口議院運営委員長は記者団に対し「点呼が肉声だと間違いも多くAIでできないかという提言があった。女性と男性の声の2種類を用意し、交互に使いたい。機械が故障したら肉声で点呼を行う」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "衆議院本会議で、記名投票などが行われる際に議員の名前を一人一人読み上げる「点呼」に、職員の負担軽減や読み間違いを防ぐ観点から、AIによる自動音声が導入されることになりました。\n",
+    "markedBody": "衆議院本会議では総理大臣指名選挙をはじめ、記名投票などが行われる際に、衆議院事務局の職員が議員の名前を一人一人読み上げる「点呼」が行われています。\n\nこれについて、12日に開かれた衆議院議院運営委員会の理事会では、職員の負担軽減や読み間違いを防ぐ観点から、AIによる自動音声を導入することで与野党が合意しました。\n\n先月、野党側からの提案をきっかけに検討が進められ、事務局の職員や与野党の理事が、実際の音声を確認するなど準備を重ねて導入に至ったということです。\n\n山口議院運営委員長は記者団に対し「点呼が肉声だと間違いも多くAIでできないかという提言があった。女性と男性の声の2種類を用意し、交互に使いたい。機械が故障したら肉声で点呼を行う」と述べました。\n",
+    "trimmedLead": "衆議院本会議で、記名投票などが行われる際に議員の名前を一人一人読み上げる「点呼」に、職員の負担軽減や読み間違いを防ぐ観点から、AIによる自動音声が導入されることになりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015073861000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015073861000",
+  "video": [],
+  "citation": [
+    {
+      "name": "新年度予算案 あす予算委の採決 職権で決定 野党側は反発",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015073551000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260312/K10015073551_2603121223_0312131012_01_02.jpg",
+      "datePublished": "2026-03-12T19:14:09+09:00"
+    },
+    {
+      "name": "政府 「酒酔い運転」も新たに数値基準を設ける方針示す",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015073831000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260312/K10015073831_2603121541_0312160321_01_02.jpg",
+      "datePublished": "2026-03-12T16:03:21+09:00"
+    },
+    {
+      "name": "ホルムズ海峡 事実上の封鎖 長期化懸念広がる【詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015073311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260312/K10015073311_2603121417_0312142512_01_03.jpg",
+      "datePublished": "2026-03-13T02:31:40+09:00"
+    },
+    {
+      "name": "日産 米配車大手ウーバーと自動運転タクシー分野で協業を発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015073721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260312/K10015073721_2603121303_0312131538_01_02.jpg",
+      "datePublished": "2026-03-12T13:15:37+09:00"
+    },
+    {
+      "name": "スギ花粉 全国的に本格的な飛散シーズンに 例年より多い地域も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015073761000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260312/K10015073761_2603121504_0312151616_01_02.jpg",
+      "datePublished": "2026-03-12T20:15:12+09:00"
+    },
+    {
+      "name": "“エアコンのような性能”うたう商品に注意 国民生活センター",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015073691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260312/K10015073691_2603121244_0312132035_01_02.jpg",
+      "datePublished": "2026-03-12T13:20:34+09:00"
+    },
+    {
+      "name": "“観光”と“被災地訪問” これからの震災伝承のヒントとは",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015073731000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260312/K10015073731_2603121313_0312160604_01_02.jpg",
+      "datePublished": "2026-03-12T16:06:03+09:00"
+    },
+    {
+      "name": "3.11 あの日を忘れない 東日本大震災・原発事故15年特集サイト",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0000019",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30907482.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

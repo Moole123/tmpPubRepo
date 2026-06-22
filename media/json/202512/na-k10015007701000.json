@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015007701000",
+  "dataSourceId": "na",
+  "name": "小泉防衛相と比国防相 中国軍レーダー照射問題に強い懸念共有",
+  "headline": "小泉防衛相と比国防相 中国軍レーダー照射問題に強い懸念共有",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015007701000",
+    "playlistId": "news-nwa-politics-nationwide-20251218",
+    "newsarticleName": "小泉防衛相と比国防相 中国軍レーダー照射問題に強い懸念共有",
+    "playlistName": "12月18日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "小泉防衛大臣は、フィリピンのテオドロ国防相とオンラインで会談し、中国軍の戦闘機が航空自衛隊の戦闘機にレーダーを照射した問題について強い懸念を共有し、力や威圧によるあらゆる一方的な現状変更への試みに強く",
+  "dateModified": "2025-12-18T19:18:07+09:00",
+  "datePublished": "2025-12-18T19:18:07+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251218/K10015007701_2512181855_1218191808_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251218/K10015007701_2512181855_1218191808_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "小泉防衛大臣は、フィリピンのテオドロ国防相とオンラインで会談し、中国軍の戦闘機が航空自衛隊の戦闘機にレーダーを照射した問題について強い懸念を共有し、力や威圧によるあらゆる一方的な現状変更への試みに強く",
+  "articleBody": "小泉防衛大臣は、フィリピンのテオドロ国防相とオンラインで会談し、中国軍の戦闘機が航空自衛隊の戦闘機にレーダーを照射した問題について強い懸念を共有し、力や威圧によるあらゆる一方的な現状変更への試みに強く反対することを確認しました。\n\n\n会談で、小泉大臣は、中国軍の戦闘機が航空自衛隊の戦闘機にレーダーを断続的に照射した問題や、中国軍とロシア軍の爆撃機が、東シナ海から四国沖の太平洋までの上空を共同で飛行したことを説明しました。\n\nそして、両大臣は強い懸念を共有しました。\n\nそのうえで、中国を念頭に東シナ海と南シナ海での力や威圧によるあらゆる一方的な現状変更への試みに強く反対することを確認するとともに、両国の協力関係をさらに強化・発展させていく必要があるという認識で一致しました。\n\nまた、両国の防衛協力を強化するため、引き続き防衛装備や技術面での協力を推進していくことでも一致しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "小泉防衛大臣は、フィリピンのテオドロ国防相とオンラインで会談し、中国軍の戦闘機が航空自衛隊の戦闘機にレーダーを照射した問題について強い懸念を共有し、力や威圧によるあらゆる一方的な現状変更への試みに強く反対することを確認しました。\n",
+    "markedBody": "会談で、小泉大臣は、中国軍の戦闘機が航空自衛隊の戦闘機にレーダーを断続的に照射した問題や、中国軍とロシア軍の爆撃機が、東シナ海から四国沖の太平洋までの上空を共同で飛行したことを説明しました。\n\nそして、両大臣は強い懸念を共有しました。\n\nそのうえで、中国を念頭に東シナ海と南シナ海での力や威圧によるあらゆる一方的な現状変更への試みに強く反対することを確認するとともに、両国の協力関係をさらに強化・発展させていく必要があるという認識で一致しました。\n\nまた、両国の防衛協力を強化するため、引き続き防衛装備や技術面での協力を推進していくことでも一致しました。\n",
+    "trimmedLead": "小泉防衛大臣は、フィリピンのテオドロ国防相とオンラインで会談し、中国軍の戦闘機が航空自衛隊の戦闘機にレーダーを照射した問題について強い懸念を共有し、力や威圧によるあらゆる一方的な現状変更への試みに強く反対することを確認しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015007701000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015007701000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

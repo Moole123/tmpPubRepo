@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015122891000",
+  "dataSourceId": "na",
+  "name": "京都 右京区で山林火災 消火活動続く",
+  "headline": "京都 右京区で山林火災 消火活動続く",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015122891000",
+    "playlistId": "news-nwa-society-nationwide-20260515",
+    "newsarticleName": "京都 右京区で山林火災 消火活動続く",
+    "playlistName": "5月15日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "15日夕方、京都市右京区鳴滝沢の山林で火災が発生し、午後6時現在も消火活動が続けられています。\n\n\n消防によりますと、15日午後4時半ごろ、京都市右京区鳴滝沢の山林で「白い煙が上がっている」と通報があ",
+  "dateModified": "2026-05-15T19:06:58+09:00",
+  "datePublished": "2026-05-15T19:06:58+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260515/K10015122891_2605151856_0515190659_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260515/K10015122891_2605151856_0515190659_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002689",
+      "name": "火災",
+      "display": true
+    },
+    {
+      "id": "0002226",
+      "name": "京都府",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "15日夕方、京都市右京区鳴滝沢の山林で火災が発生し、午後6時現在も消火活動が続けられています。\n\n\n消防によりますと、15日午後4時半ごろ、京都市右京区鳴滝沢の山林で「白い煙が上がっている」と通報があ",
+  "articleBody": "15日夕方、京都市右京区鳴滝沢の山林で火災が発生し、午後6時現在も消火活動が続けられています。\n\n\n消防によりますと、15日午後4時半ごろ、京都市右京区鳴滝沢の山林で「白い煙が上がっている」と通報がありました。\n\n消防車やヘリコプターなどが出動して消火活動を行っていますが、午後6時現在、火は消えておらず、これまでのところ1500平方メートルが燃えているとみられるということです。\n\n付近に住宅はなく、この火事によるけが人はいないということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "15日夕方、京都市右京区鳴滝沢の山林で火災が発生し、午後6時現在も消火活動が続けられています。\n",
+    "markedBody": "消防によりますと、15日午後4時半ごろ、京都市右京区鳴滝沢の山林で「白い煙が上がっている」と通報がありました。\n\n消防車やヘリコプターなどが出動して消火活動を行っていますが、午後6時現在、火は消えておらず、これまでのところ1500平方メートルが燃えているとみられるということです。\n\n付近に住宅はなく、この火事によるけが人はいないということです。\n",
+    "trimmedLead": "15日夕方、京都市右京区鳴滝沢の山林で火災が発生し、午後6時現在も消火活動が続けられています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015122891000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015122891000",
+  "video": [],
+  "citation": [
+    {
+      "name": "住宅強盗3人死傷事件 当日のうちに埼玉県に車で逃走か 栃木",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015122831000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015122831_2605151815_0515181949_01_02.jpg",
+      "datePublished": "2026-05-15T18:42:58+09:00"
+    },
+    {
+      "name": "花巻空港の敷地内にクマ 滑走路を一時閉鎖 その後敷地外へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015122861000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015122861_2605151845_0515185010_01_02.jpg",
+      "datePublished": "2026-05-15T19:29:10+09:00"
+    },
+    {
+      "name": "スーパーのコメ価格 5キロ税込み3742円 3週連続の値下がり",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015122811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015122811_2605151709_0515173032_01_02.jpg",
+      "datePublished": "2026-05-15T20:08:12+09:00"
+    },
+    {
+      "name": "住宅強盗3人死傷 “車で逃走”供述も 無登録ナンバーか 栃木",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015122391000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015122391_2605151157_0515120515_01_02.jpg",
+      "datePublished": "2026-05-15T17:58:38+09:00"
+    },
+    {
+      "name": "磐越道バス事故 事故回避の操作なくガードレールが車体貫通か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015122651000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015122651_2605151509_0515160851_01_02.jpg",
+      "datePublished": "2026-05-15T17:47:04+09:00"
+    },
+    {
+      "name": "米中首脳会談 トランプ大統領 3日間の訪中終えて帰国の途に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015122131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015122131_2605150232_0515054810_01_02.jpg",
+      "datePublished": "2026-05-15T19:09:54+09:00"
+    },
+    {
+      "name": "長期金利2.73％まで上昇 物価上昇や財政負担への懸念など背景",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015122241000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015122241_2605150939_0515094414_01_02.jpg",
+      "datePublished": "2026-05-15T18:06:03+09:00"
+    },
+    {
+      "name": "サッカーW杯 日本代表26人決定 三笘 南野は外れる【詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015122361000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015122361_2605151602_0515162602_01_02.jpg",
+      "datePublished": "2026-05-15T20:00:35+09:00"
+    },
+    {
+      "name": "サッカー日本代表 W杯 過去7大会【全結果】今大会目指すのは",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120341000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015120341_2605141919_0515183711_01_02.jpg",
+      "datePublished": "2026-05-15T18:37:09+09:00"
+    },
+    {
+      "name": "「名探偵コナン」毛利蘭役 声優の山崎和佳奈さん死去 61歳",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015122711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015122711_2605151652_0515170147_01_02.jpg",
+      "datePublished": "2026-05-15T17:01:46+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

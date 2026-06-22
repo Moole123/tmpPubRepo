@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014870361000",
+  "dataSourceId": "na",
+  "name": "参議院選挙 比例代表 保守 百田尚樹氏 当選",
+  "headline": "参議院選挙 比例代表 保守 百田尚樹氏 当選",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014870361000",
+    "playlistId": "news-nwa-politics-nationwide-20250721",
+    "newsarticleName": "参議院選挙 比例代表 保守 百田尚樹氏 当選",
+    "playlistName": "7月21日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "比例代表で、日本保守党の新人、百田尚樹氏が当選しました。百田氏は69歳。放送作家として活躍したあと、2006年に小説家としてデビューし「永遠の0」などのヒット作を出しました。\n\n\nおととし、日本保守党",
+  "dateModified": "2025-07-21T18:17:27+09:00",
+  "datePublished": "2025-07-21T18:17:27+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250721/K10014870361_2507211819_0721182302_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250721/K10014870361_2507211819_0721182302_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "比例代表で、日本保守党の新人、百田尚樹氏が当選しました。百田氏は69歳。放送作家として活躍したあと、2006年に小説家としてデビューし「永遠の0」などのヒット作を出しました。\n\n\nおととし、日本保守党",
+  "articleBody": "比例代表で、日本保守党の新人、百田尚樹氏が当選しました。百田氏は69歳。放送作家として活躍したあと、2006年に小説家としてデビューし「永遠の0」などのヒット作を出しました。\n\n\nおととし、日本保守党を立ち上げて代表に就任し、去年の衆議院選挙に比例代表近畿ブロックから立候補しましたが落選しました。\n\n百田氏は食料品の消費税率をゼロ％にするのを含め、減税を通じた経済の活性化などを訴え、高い知名度も生かして全国的に支持を広げ、初めての当選を果たしました。\n",
+  "detailedArticleBody": {
+    "markedLead": "比例代表で、日本保守党の新人、百田尚樹氏が当選しました。百田氏は69歳。放送作家として活躍したあと、2006年に小説家としてデビューし「永遠の0」などのヒット作を出しました。\n",
+    "markedBody": "おととし、日本保守党を立ち上げて代表に就任し、去年の衆議院選挙に比例代表近畿ブロックから立候補しましたが落選しました。\n\n百田氏は食料品の消費税率をゼロ％にするのを含め、減税を通じた経済の活性化などを訴え、高い知名度も生かして全国的に支持を広げ、初めての当選を果たしました。\n",
+    "trimmedLead": "比例代表で、日本保守党の新人、百田尚樹氏が当選しました。百田氏は69歳。放送作家として活躍したあと、2006年に小説家としてデビューし「永遠の0」などのヒット作を出しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014870361000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014870361000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

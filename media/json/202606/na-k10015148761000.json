@@ -1,0 +1,151 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015148761000",
+  "dataSourceId": "na",
+  "name": "高市首相 自民小野寺氏と会談 消費税減税めぐり意見交換",
+  "headline": "高市首相 自民小野寺氏と会談 消費税減税めぐり意見交換",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015148761000",
+    "playlistId": "news-nwa-politics-nationwide-20260612",
+    "newsarticleName": "高市首相 自民小野寺氏と会談 消費税減税めぐり意見交換",
+    "playlistName": "6月12日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "食料品の消費税減税をめぐり、高市総理大臣は12日、自民党の小野寺税制調査会長と会談しました。超党派の「国民会議」の実務者会議で議論されてきた内容の報告を受け、減税をする場合の税率や実施時期などについて",
+  "dateModified": "2026-06-12T19:36:04+09:00",
+  "datePublished": "2026-06-12T19:36:04+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260612/K10015148761_2606121856_0612193605_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260612/K10015148761_2606121856_0612193605_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治",
+    "暮らし"
+  ],
+  "topic": [
+    {
+      "id": "0000709",
+      "name": "消費税",
+      "display": true
+    },
+    {
+      "id": "0000236",
+      "name": "税制改正",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "食料品の消費税減税をめぐり、高市総理大臣は12日、自民党の小野寺税制調査会長と会談しました。超党派の「国民会議」の実務者会議で議論されてきた内容の報告を受け、減税をする場合の税率や実施時期などについて",
+  "articleBody": "食料品の消費税減税をめぐり、高市総理大臣は12日、自民党の小野寺税制調査会長と会談しました。超党派の「国民会議」の実務者会議で議論されてきた内容の報告を受け、減税をする場合の税率や実施時期などについて意見を交わしたものとみられます。\n\n\n食料品の消費税減税をめぐっては超党派の「国民会議」の実務者会議で議論が続いていて、政府・与党内ではレジシステムの改修期間を考慮して、来年4月から1％に引き下げる案も検討されています。\n\nこうした中、高市総理大臣は、12日夕方、総理大臣官邸で、実務者会議の議長を務める自民党の小野寺税制調査会長と会談しました。\n\nこの中では、実務者会議でこれまで議論されてきた内容の報告を受けたものとみられます。\n\nその上で、夏前の中間とりまとめに向けて、消費税を減税する場合の税率や実施時期、それに仮に1％にする場合の低所得者への対応などについて意見を交わしたものとみられます。\n\n実務者会議は、来週の会合で中間とりまとめに向けた議論を行うことにしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "食料品の消費税減税をめぐり、高市総理大臣は12日、自民党の小野寺税制調査会長と会談しました。超党派の「国民会議」の実務者会議で議論されてきた内容の報告を受け、減税をする場合の税率や実施時期などについて意見を交わしたものとみられます。\n",
+    "markedBody": "食料品の消費税減税をめぐっては超党派の「国民会議」の実務者会議で議論が続いていて、政府・与党内ではレジシステムの改修期間を考慮して、来年4月から1％に引き下げる案も検討されています。\n\nこうした中、高市総理大臣は、12日夕方、総理大臣官邸で、実務者会議の議長を務める自民党の小野寺税制調査会長と会談しました。\n\nこの中では、実務者会議でこれまで議論されてきた内容の報告を受けたものとみられます。\n\nその上で、夏前の中間とりまとめに向けて、消費税を減税する場合の税率や実施時期、それに仮に1％にする場合の低所得者への対応などについて意見を交わしたものとみられます。\n\n実務者会議は、来週の会合で中間とりまとめに向けた議論を行うことにしています。\n",
+    "trimmedLead": "食料品の消費税減税をめぐり、高市総理大臣は12日、自民党の小野寺税制調査会長と会談しました。超党派の「国民会議」の実務者会議で議論されてきた内容の報告を受け、減税をする場合の税率や実施時期などについて意見を交わしたものとみられます。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015148761000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015148761000",
+  "video": [],
+  "citation": [
+    {
+      "name": "H3ロケット打ち上げ成功 6つの小型衛星を軌道に投入 JAXA",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148131_2606121148_0612115757_01_03.jpg",
+      "datePublished": "2026-06-12T20:19:53+09:00"
+    },
+    {
+      "name": "関東では「ひょう」も 浸水など十分注意 13日も大気不安定に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148331_2606121458_0612161332_01_03.jpg",
+      "datePublished": "2026-06-12T19:26:04+09:00"
+    },
+    {
+      "name": "iPS細胞使う心臓病治療の治験1例目を実施 カテーテルで移植",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148611000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148611_2606121730_0612181929_01_02.jpg",
+      "datePublished": "2026-06-12T18:19:28+09:00"
+    },
+    {
+      "name": "米メディアが覚書の内容伝える イラン“最終結論至らず”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015147941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015147941_2606121906_0612192135_01_03.jpg",
+      "datePublished": "2026-06-12T19:21:34+09:00"
+    },
+    {
+      "name": "俳優 中村玉緒さん死去 86歳 映画やバラエティー番組で活躍",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148421_2606121319_0612131944_01_02.jpg",
+      "datePublished": "2026-06-12T19:23:58+09:00"
+    },
+    {
+      "name": "韓国 ユン前大統領に懲役30年の判決 北朝鮮に無人機 軍に指示",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148521_2606121547_0612163852_01_02.jpg",
+      "datePublished": "2026-06-12T17:34:59+09:00"
+    },
+    {
+      "name": "高市首相 G7サミットで石油備蓄強化支援など3項目提案を表明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015147631000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260611/K10015147631_2606111845_0611192519_01_02.jpg",
+      "datePublished": "2026-06-11T21:09:40+09:00"
+    },
+    {
+      "name": "サッカーW杯 開幕戦は8万人余で満員 チケット高額化に懸念も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148261000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148261_2606121457_0612145846_01_02.jpg",
+      "datePublished": "2026-06-12T14:36:34+09:00"
+    },
+    {
+      "name": "日本航空を厳重注意 客室乗務員の飲酒で 国交省",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148531_2606121603_0612163443_01_02.jpg",
+      "datePublished": "2026-06-12T16:34:42+09:00"
+    },
+    {
+      "name": "生命保険の営業職員 新たな呼び名は「ソナエルジュ」に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148651000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148651_2606121720_0612175859_01_02.jpg",
+      "datePublished": "2026-06-12T17:58:59+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

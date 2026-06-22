@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015005401000",
+  "dataSourceId": "na",
+  "name": "定数削減法案を継続審議とするか 17日衆院議運委で採決へ",
+  "headline": "定数削減法案を継続審議とするか 17日衆院議運委で採決へ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015005401000",
+    "playlistId": "news-nwa-politics-nationwide-20251216",
+    "newsarticleName": "定数削減法案を継続審議とするか 17日衆院議運委で採決へ",
+    "playlistName": "12月16日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "国会の会期末を控え、与野党は衆議院議員の定数削減法案を継続審議とするかどうかについて、17日の衆議院議院運営委員会で採決することで合意しました。\n\n\n臨時国会の会期末が17日に迫る中、自民党と日本維新",
+  "dateModified": "2025-12-16T14:19:32+09:00",
+  "datePublished": "2025-12-16T14:19:32+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251216/K10015005401_2512161349_1216141933_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251216/K10015005401_2512161349_1216141933_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "国会の会期末を控え、与野党は衆議院議員の定数削減法案を継続審議とするかどうかについて、17日の衆議院議院運営委員会で採決することで合意しました。\n\n\n臨時国会の会期末が17日に迫る中、自民党と日本維新",
+  "articleBody": "国会の会期末を控え、与野党は衆議院議員の定数削減法案を継続審議とするかどうかについて、17日の衆議院議院運営委員会で採決することで合意しました。\n\n\n臨時国会の会期末が17日に迫る中、自民党と日本維新の会が連立合意に基づいて提出した衆議院議員の定数を削減するための法案は依然審議入りしていません。\n\n衆議院議院運営委員会は16日に理事会を開き、定数削減法案の取り扱いについて協議しました。\n\nそして与野党は法案を継続審議とするかどうかについて、17日の委員会で採決することで合意しました。\n\n衆議院事務局によりますと、衆議院では各委員会からの申し出がない場合でも、議院運営委員会で採決したうえで、本会議で継続審議の手続きを行った先例があり、今回の対応はこれに基づくものだということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "国会の会期末を控え、与野党は衆議院議員の定数削減法案を継続審議とするかどうかについて、17日の衆議院議院運営委員会で採決することで合意しました。\n",
+    "markedBody": "臨時国会の会期末が17日に迫る中、自民党と日本維新の会が連立合意に基づいて提出した衆議院議員の定数を削減するための法案は依然審議入りしていません。\n\n衆議院議院運営委員会は16日に理事会を開き、定数削減法案の取り扱いについて協議しました。\n\nそして与野党は法案を継続審議とするかどうかについて、17日の委員会で採決することで合意しました。\n\n衆議院事務局によりますと、衆議院では各委員会からの申し出がない場合でも、議院運営委員会で採決したうえで、本会議で継続審議の手続きを行った先例があり、今回の対応はこれに基づくものだということです。\n",
+    "trimmedLead": "国会の会期末を控え、与野党は衆議院議員の定数削減法案を継続審議とするかどうかについて、17日の衆議院議院運営委員会で採決することで合意しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015005401000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015005401000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

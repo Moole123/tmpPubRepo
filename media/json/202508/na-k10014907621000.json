@@ -1,0 +1,102 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014907621000",
+  "dataSourceId": "na",
+  "name": "通信技術「フェリカ」のぜい弱性 事業者「安全性に問題ない」",
+  "headline": "通信技術「フェリカ」のぜい弱性 事業者「安全性に問題ない」",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014907621000",
+    "playlistId": "news-nwa-business-nationwide-20250830",
+    "newsarticleName": "通信技術「フェリカ」のぜい弱性 事業者「安全性に問題ない」",
+    "playlistName": "8月30日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "交通系ICカードなどに幅広く使われている通信技術「フェリカ」の一部のICチップにセキュリティーのぜい弱性が見つかった問題について、サービスを提供する事業者からは「安全性に問題はない」という見解が相次い",
+  "dateModified": "2025-08-30T05:23:43+09:00",
+  "datePublished": "2025-08-30T05:23:43+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250830/K10014907621_2508292042_0830003834_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250830/K10014907621_2508292042_0830003834_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済",
+    "暮らし"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "交通系ICカードなどに幅広く使われている通信技術「フェリカ」の一部のICチップにセキュリティーのぜい弱性が見つかった問題について、サービスを提供する事業者からは「安全性に問題はない」という見解が相次い",
+  "articleBody": "交通系ICカードなどに幅広く使われている通信技術「フェリカ」の一部のICチップにセキュリティーのぜい弱性が見つかった問題について、サービスを提供する事業者からは「安全性に問題はない」という見解が相次いでいて、開発元のソニーは、引き続き状況の確認や今後の対応策を検討しています。\n\n\nソニーが開発した「フェリカ」は専用のICチップを搭載したカードやスマートフォンをかざすだけで高速データ通信ができる技術で、2017年以前に出荷された一部のICチップについてセキュリティーのぜい弱性が見つかりました。\n\n「フェリカ」は交通系ICカードや電子マネーの決済などに幅広く使われていて、このうちJR東日本は「Suica」について「独自のセキュリティー対策でチャージや決済は安全に利用できる」としているほか、JR西日本も「ICOCA」について「残高や運賃の管理はサーバー側でセキュリティーを構築しているため問題はない」としています。\n\nまた「WAON」を提供するイオンも「独自のセキュリティーを設け、二重にロックをかけている状態なので、安全性に問題はない」という見解を示したほか、「nanaco」を展開するセブン・カードサービスは「遠隔でアクセスされるものではないので、大きな問題はないと考えている。残高の不自然な動きなどは日々監視している」としています。\n\n開発元のソニーは、サービスを提供する事業者に対して、安全に利用できるかどうか状況の確認を進めるとともに、今後の対応策を検討しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "交通系ICカードなどに幅広く使われている通信技術「フェリカ」の一部のICチップにセキュリティーのぜい弱性が見つかった問題について、サービスを提供する事業者からは「安全性に問題はない」という見解が相次いでいて、開発元のソニーは、引き続き状況の確認や今後の対応策を検討しています。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20250830/K10014907621_2508292042_0830003834_02_03.jpg)\n\nソニーが開発した「フェリカ」は専用のICチップを搭載したカードやスマートフォンをかざすだけで高速データ通信ができる技術で、2017年以前に出荷された一部のICチップについてセキュリティーのぜい弱性が見つかりました。\n\n「フェリカ」は交通系ICカードや電子マネーの決済などに幅広く使われていて、このうちJR東日本は「Suica」について「独自のセキュリティー対策でチャージや決済は安全に利用できる」としているほか、JR西日本も「ICOCA」について「残高や運賃の管理はサーバー側でセキュリティーを構築しているため問題はない」としています。\n\nまた「WAON」を提供するイオンも「独自のセキュリティーを設け、二重にロックをかけている状態なので、安全性に問題はない」という見解を示したほか、「nanaco」を展開するセブン・カードサービスは「遠隔でアクセスされるものではないので、大きな問題はないと考えている。残高の不自然な動きなどは日々監視している」としています。\n\n開発元のソニーは、サービスを提供する事業者に対して、安全に利用できるかどうか状況の確認を進めるとともに、今後の対応策を検討しています。\n",
+    "trimmedLead": "交通系ICカードなどに幅広く使われている通信技術「フェリカ」の一部のICチップにセキュリティーのぜい弱性が見つかった問題について、サービスを提供する事業者からは「安全性に問題はない」という見解が相次いでいて、開発元のソニーは、引き続き状況の確認や今後の対応策を検討しています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014907621000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014907621000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "通信技術「フェリカ」のぜい弱性 事業者「安全性に問題ない」",
+      "description": "交通系ICカードなどに幅広く使われている通信技術「フェリカ」の一部のICチップにセキュリティーのぜい弱性が見つかった問題について、サービスを提供する事業者からは「安全性に問題はない」という見解が相次い",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10014907621_202508300616_202508300618/index.m3u8&mrposter=/news/html/20250830/K10014907621_2508292042_0830003834_01_02.jpg",
+      "duration": "PT1M21S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10014907621_202508300616_202508300618/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20250830/K10014907621_2508292042_0830003834_01_02.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

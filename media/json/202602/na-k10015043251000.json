@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015043251000",
+  "dataSourceId": "na",
+  "name": "ガソリン小売価格 2週連続値上がり 全国平均1リットル155.6円",
+  "headline": "ガソリン小売価格 2週連続値上がり 全国平均1リットル155.6円",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015043251000",
+    "playlistId": "news-nwa-business-nationwide-20260204",
+    "newsarticleName": "ガソリン小売価格 2週連続値上がり 全国平均1リットル155.6円",
+    "playlistName": "2月4日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "レギュラーガソリンの小売価格は、2日時点の全国平均で、1リットル当たり155.6円と、前の週から0.2円値上がりしました。値上がりは2週連続です。\n\n\n国の委託を受けてガソリン価格を調査している石油情",
+  "dateModified": "2026-02-04T15:40:51+09:00",
+  "datePublished": "2026-02-04T15:40:51+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260204/K10015043251_2602041521_0204154052_02_01.jpg",
+      "height": 719,
+      "width": 1279
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260204/K10015043251_2602041521_0204154052_01_02.jpg",
+      "height": 719,
+      "width": 1279
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "レギュラーガソリンの小売価格は、2日時点の全国平均で、1リットル当たり155.6円と、前の週から0.2円値上がりしました。値上がりは2週連続です。\n\n\n国の委託を受けてガソリン価格を調査している石油情",
+  "articleBody": "レギュラーガソリンの小売価格は、2日時点の全国平均で、1リットル当たり155.6円と、前の週から0.2円値上がりしました。値上がりは2週連続です。\n\n\n国の委託を受けてガソリン価格を調査している石油情報センターは、イラン情勢の緊迫化を受けて原油価格が上昇したことなどが要因だとしています。\n\n価格の見通しについて、石油情報センターは「イラン情勢は緊迫した状況が続いており、来週も小幅な値上がりが見込まれる」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "レギュラーガソリンの小売価格は、2日時点の全国平均で、1リットル当たり155.6円と、前の週から0.2円値上がりしました。値上がりは2週連続です。\n",
+    "markedBody": "国の委託を受けてガソリン価格を調査している石油情報センターは、イラン情勢の緊迫化を受けて原油価格が上昇したことなどが要因だとしています。\n\n価格の見通しについて、石油情報センターは「イラン情勢は緊迫した状況が続いており、来週も小幅な値上がりが見込まれる」と話しています。\n",
+    "trimmedLead": "レギュラーガソリンの小売価格は、2日時点の全国平均で、1リットル当たり155.6円と、前の週から0.2円値上がりしました。値上がりは2週連続です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015043251000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015043251000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

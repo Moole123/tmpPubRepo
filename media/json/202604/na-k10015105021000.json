@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015105021000",
+  "dataSourceId": "na",
+  "name": "サッカー女子日本代表 世界ランキング5位に上昇",
+  "headline": "サッカー女子日本代表 世界ランキング5位に上昇",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015105021000",
+    "playlistId": "news-nwa-sports-nationwide-20260421",
+    "newsarticleName": "サッカー女子日本代表 世界ランキング5位に上昇",
+    "playlistName": "4月21日のスポーツニュース",
+    "genreId": "sports",
+    "genreIdSlug": "sports"
+  },
+  "description": "サッカー女子の最新の世界ランキングが発表され、日本代表「なでしこジャパン」は前回から順位を3つあげて5位となりました。\n\n\nFIFA＝国際サッカー連盟は21日、女子の最新の世界ランキングを発表し、日本",
+  "dateModified": "2026-04-21T22:33:10+09:00",
+  "datePublished": "2026-04-21T22:33:10+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260421/K10015105021_2604212215_0421223311_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260421/K10015105021_2604212215_0421223311_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "スポーツ"
+  ],
+  "topic": [
+    {
+      "id": "0002443",
+      "name": "なでしこジャパン",
+      "display": true
+    },
+    {
+      "id": "0002444",
+      "name": "サッカーワールドカップ2026",
+      "display": true
+    },
+    {
+      "id": "0000002",
+      "name": "サッカー",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "サッカー女子の最新の世界ランキングが発表され、日本代表「なでしこジャパン」は前回から順位を3つあげて5位となりました。\n\n\nFIFA＝国際サッカー連盟は21日、女子の最新の世界ランキングを発表し、日本",
+  "articleBody": "サッカー女子の最新の世界ランキングが発表され、日本代表「なでしこジャパン」は前回から順位を3つあげて5位となりました。\n\n\nFIFA＝国際サッカー連盟は21日、女子の最新の世界ランキングを発表し、日本は前回の8位から5位へ浮上しました。\nトップ5に入るのは去年3月以来です。\n\n日本は3月のアジアカップで2大会ぶりの優勝を果たし、4月に行われた世界ランキング2位のアメリカとの強化試合では1勝2敗と負け越したものの、アメリカに対して去年の国際大会以来となる通算3勝目をあげました。\n\nニルス・ニールセン前監督の退任にともない、4月の強化試合は狩野倫久監督代行が指揮を執り、日本サッカー協会はブラジルで開催される来年のワールドカップに向けたさらなる強化を視野に新監督の選定を進めています。\n\nランキングの上位は1位がスペイン、2位がアメリカ、3位がイングランド、4位がドイツとなっています。\n",
+  "detailedArticleBody": {
+    "markedLead": "サッカー女子の最新の世界ランキングが発表され、日本代表「なでしこジャパン」は前回から順位を3つあげて5位となりました。\n",
+    "markedBody": "FIFA＝国際サッカー連盟は21日、女子の最新の世界ランキングを発表し、日本は前回の8位から5位へ浮上しました。\\\nトップ5に入るのは去年3月以来です。\n\n日本は3月のアジアカップで2大会ぶりの優勝を果たし、4月に行われた世界ランキング2位のアメリカとの強化試合では1勝2敗と負け越したものの、アメリカに対して去年の国際大会以来となる通算3勝目をあげました。\n\nニルス・ニールセン前監督の退任にともない、4月の強化試合は狩野倫久監督代行が指揮を執り、日本サッカー協会はブラジルで開催される来年のワールドカップに向けたさらなる強化を視野に新監督の選定を進めています。\n\nランキングの上位は1位がスペイン、2位がアメリカ、3位がイングランド、4位がドイツとなっています。\n",
+    "trimmedLead": "サッカー女子の最新の世界ランキングが発表され、日本代表「なでしこジャパン」は前回から順位を3つあげて5位となりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015105021000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015105021000",
+  "video": [],
+  "citation": [
+    {
+      "name": "サッカー「なでしこジャパン」 アメリカとの第3戦に敗れ1勝2敗",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015102371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260418/K10015102371_2604181419_0418144059_01_02.jpg",
+      "datePublished": "2026-04-18T14:40:58+09:00"
+    },
+    {
+      "name": "サッカーW杯 日本代表のサポートにU19日本代表の約20人が帯同",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260420/K10015104091_2604202210_0420221642_01_02.jpg",
+      "datePublished": "2026-04-20T22:16:41+09:00"
+    },
+    {
+      "name": "【プロ野球結果】ヤクルト連勝2で止まる 広島は連敗3で止める",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104891000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015104891_2604212159_0421220102_01_02.jpg",
+      "datePublished": "2026-04-22T00:16:11+09:00"
+    },
+    {
+      "name": "巨人の泉口友汰 練習中打球が顔に当たり搬送 脳しんとうの診断",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104651000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015104651_2604211519_0421164212_01_02.jpg",
+      "datePublished": "2026-04-21T17:32:11+09:00"
+    },
+    {
+      "name": "北海道・三陸沖後発地震注意情報 “日頃の備え 改めて確認を”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015104141_2604210018_0421002942_01_02.jpg",
+      "datePublished": "2026-04-21T18:46:17+09:00"
+    },
+    {
+      "name": "地震影響 荷物の配達遅れ 臨時休校 カキ水揚げ中止も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015104421_2604211410_0421142056_01_02.jpg",
+      "datePublished": "2026-04-21T21:50:07+09:00"
+    },
+    {
+      "name": "東京ドームシティ 従業員が体を挟まれ死亡 点検中に遊具落下か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104511000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015104511_2604211258_0421183300_01_03.jpg",
+      "datePublished": "2026-04-21T23:31:42+09:00"
+    },
+    {
+      "name": "岩手 紫波町 クマに襲われ警察官けが 近くに女性1人の遺体",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015104441_2604211322_0421155607_01_02.jpg",
+      "datePublished": "2026-04-21T19:24:37+09:00"
+    },
+    {
+      "name": "ノジマ 日立の家電事業の買収を発表 買収額約1100億円の見通し",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015104691_2604211725_0421173435_01_02.jpg",
+      "datePublished": "2026-04-21T19:11:42+09:00"
+    },
+    {
+      "name": "人気の「狭小住宅」 国の計画から「最低居住面積水準」削除に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015104531_2604211439_0421192754_01_03.jpg",
+      "datePublished": "2026-04-21T19:27:53+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

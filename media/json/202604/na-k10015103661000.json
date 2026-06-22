@@ -1,0 +1,141 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015103661000",
+  "dataSourceId": "na",
+  "name": "東北新幹線 秋田新幹線 運転見合わせ",
+  "headline": "東北新幹線 秋田新幹線 運転見合わせ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015103661000",
+    "playlistId": "news-nwa-disaster-nationwide-20260420",
+    "newsarticleName": "東北新幹線 秋田新幹線 運転見合わせ",
+    "playlistName": "4月20日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "JR東日本によりますと、東北新幹線は、地震で停電が起きた影響で東京駅と新青森駅の間の上下線で午後5時前から運転を見合わせています。\n停電は宮城県の白石蔵王駅と新青森駅の間で発生したということです。\n\n",
+  "dateModified": "2026-04-20T17:34:38+09:00",
+  "datePublished": "2026-04-20T17:14:28+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260420/K10015103661_2604201712_0420171429_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260420/K10015103661_2604201712_0420171429_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002427",
+      "name": "鉄道",
+      "display": true
+    },
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "JR東日本によりますと、東北新幹線は、地震で停電が起きた影響で東京駅と新青森駅の間の上下線で午後5時前から運転を見合わせています。\n停電は宮城県の白石蔵王駅と新青森駅の間で発生したということです。\n\n",
+  "articleBody": "JR東日本によりますと、東北新幹線は、地震で停電が起きた影響で東京駅と新青森駅の間の上下線で午後5時前から運転を見合わせています。\n停電は宮城県の白石蔵王駅と新青森駅の間で発生したということです。\n\n上越新幹線と北陸新幹線は平常どおり運転しているということです。\n\n\nまた、秋田新幹線は秋田駅と盛岡駅の間の上下線で午後5時前から運転を見合わせています。\n",
+  "detailedArticleBody": {
+    "markedLead": "JR東日本によりますと、東北新幹線は、地震で停電が起きた影響で東京駅と新青森駅の間の上下線で午後5時前から運転を見合わせています。\\\n停電は宮城県の白石蔵王駅と新青森駅の間で発生したということです。\n\n上越新幹線と北陸新幹線は平常どおり運転しているということです。\n",
+    "markedBody": "また、秋田新幹線は秋田駅と盛岡駅の間の上下線で午後5時前から運転を見合わせています。\n",
+    "trimmedLead": "JR東日本によりますと、東北新幹線は、地震で停電が起きた影響で東京駅と新青森駅の間の上下線で午後5時前から運転を見合わせています。\n停電は宮城県の白石蔵王駅と新青森駅の間で発生したということです。\n\n上越新幹線と北陸新幹線は平常どおり運転しているということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015103661000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015103661000",
+  "video": [],
+  "citation": [
+    {
+      "name": "【津波情報】最新の発表状況を詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/tsunami/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30060586.jpg"
+    },
+    {
+      "name": "津波注意報・警報 とるべき行動は？",
+      "url": "https://news.web.nhk/newsweb/na/nc-85c6d291-a5e7-46a7-8e69-ac0e5f83f089",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30046082.jpg"
+    },
+    {
+      "name": "地震・津波 発生時や備えのポイント イラスト解説",
+      "url": "https://news.web.nhk/newsweb/na/nc-28c42bc2-428e-4daa-ba42-f06c071cf15b",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30046381.jpg"
+    },
+    {
+      "name": "津波マップ 発表中の津波予想や観測情報を地図表示",
+      "url": "https://news.web.nhk/bousai-map/tsunami/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31036926.jpg"
+    },
+    {
+      "name": "南海トラフ巨大地震「新被害想定」私のまちは",
+      "url": "https://news.web.nhk/newsweb/na/nc-a2084f03-7197-4f79-b727-4fda9d15eecd",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_28817111.jpg"
+    },
+    {
+      "name": "南海トラフ巨大地震 津波死者 早期避難で約7割減に",
+      "url": "https://news.web.nhk/newsweb/na/nc-ba050161-38c0-4c9d-babd-d748f6fa7fda",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_28817171.jpg"
+    },
+    {
+      "name": "東日本大震災とは 被害 メカニズム 教訓をまとめて",
+      "url": "https://news.web.nhk/newsweb/na/nc-23578ac5-9989-419c-b05c-26eca938e22b",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30046202.jpg"
+    },
+    {
+      "name": "NHKONE防災 災害リスク・備えをまとめて",
+      "url": "https://news.web.nhk/newsweb/sp/pl/editorial-nwa-0000000132",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30066327.jpg"
+    },
+    {
+      "name": "天気防災サイト あなたの街の天気予報や災害情報を即時提供",
+      "url": "https://news.web.nhk/kishou-saigai/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037196.jpg"
+    },
+    {
+      "name": "天気防災マップ ふだんの雨雲予想から災害時のリスク情報まで",
+      "url": "https://news.web.nhk/bousai-map/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037154.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014928781000",
+  "dataSourceId": "na",
+  "name": "イギリスやベルギーなど空港でシステム障害 サイバー攻撃か",
+  "headline": "イギリスやベルギーなど空港でシステム障害 サイバー攻撃か",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014928781000",
+    "playlistId": "news-nwa-international-nationwide-20250921",
+    "newsarticleName": "イギリスやベルギーなど空港でシステム障害 サイバー攻撃か",
+    "playlistName": "9月21日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "イギリスやベルギーなどの空港で20日、搭乗システムに障害が起きて多くの便に遅延や欠航が発生し、このうちベルギーの空港では21日も欠航などが続く見通しです。ロイター通信はシステムを提供する企業へのサイバ",
+  "dateModified": "2025-09-21T06:43:13+09:00",
+  "datePublished": "2025-09-21T06:43:13+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-640x360.png",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "イギリスやベルギーなどの空港で20日、搭乗システムに障害が起きて多くの便に遅延や欠航が発生し、このうちベルギーの空港では21日も欠航などが続く見通しです。ロイター通信はシステムを提供する企業へのサイバ",
+  "articleBody": "イギリスやベルギーなどの空港で20日、搭乗システムに障害が起きて多くの便に遅延や欠航が発生し、このうちベルギーの空港では21日も欠航などが続く見通しです。ロイター通信はシステムを提供する企業へのサイバー攻撃が原因だと伝えています。\n\n\nロイター通信などによりますと、19日夜以降、ベルギーのブリュッセル空港とイギリスのヒースロー空港、それに、ドイツのベルリンの空港で搭乗システムに相次いで障害が発生し、20日、3つの空港を発着する多くの便が遅延したほか、あわせて29便が欠航したということです。\n\nヒースロー空港では大きな荷物を持った利用客がチェックインカウンターの前で長い列を作っていました。\n\nロイター通信はシステムを提供しているアメリカの企業へのサイバー攻撃が原因であるものの、背景は不明だと伝えています。\n\nブリュッセル空港では、混乱を避けるため、航空各社に対し21日に出発する予定の便の半数を欠航にするよう要請していて影響が続いています。\n",
+  "detailedArticleBody": {
+    "markedLead": "イギリスやベルギーなどの空港で20日、搭乗システムに障害が起きて多くの便に遅延や欠航が発生し、このうちベルギーの空港では21日も欠航などが続く見通しです。ロイター通信はシステムを提供する企業へのサイバー攻撃が原因だと伝えています。\n",
+    "markedBody": "ロイター通信などによりますと、19日夜以降、ベルギーのブリュッセル空港とイギリスのヒースロー空港、それに、ドイツのベルリンの空港で搭乗システムに相次いで障害が発生し、20日、3つの空港を発着する多くの便が遅延したほか、あわせて29便が欠航したということです。\n\nヒースロー空港では大きな荷物を持った利用客がチェックインカウンターの前で長い列を作っていました。\n\nロイター通信はシステムを提供しているアメリカの企業へのサイバー攻撃が原因であるものの、背景は不明だと伝えています。\n\nブリュッセル空港では、混乱を避けるため、航空各社に対し21日に出発する予定の便の半数を欠航にするよう要請していて影響が続いています。\n",
+    "trimmedLead": "イギリスやベルギーなどの空港で20日、搭乗システムに障害が起きて多くの便に遅延や欠航が発生し、このうちベルギーの空港では21日も欠航などが続く見通しです。ロイター通信はシステムを提供する企業へのサイバー攻撃が原因だと伝えています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014928781000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014928781000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": false,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015091641000",
+  "dataSourceId": "na",
+  "name": "“ホルムズ海峡 イラン側が一部の船舶から通航料徴収”米報道",
+  "headline": "“ホルムズ海峡 イラン側が一部の船舶から通航料徴収”米報道",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015091641000",
+    "playlistId": "news-nwa-international-nationwide-20260403",
+    "newsarticleName": "“ホルムズ海峡 イラン側が一部の船舶から通航料徴収”米報道",
+    "playlistName": "4月3日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "ホルムズ海峡では事実上の封鎖が続いていますが、一部の船舶については海峡を通過できたケースもあります。アメリカのメディア、ブルームバーグは1日、複数の関係者の話として、イラン側が通航料を徴収して船舶の通",
+  "dateModified": "2026-04-03T17:57:38+09:00",
+  "datePublished": "2026-04-03T17:57:38+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260403/K10015091641_2604031739_0403175739_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260403/K10015091641_2604031739_0403175739_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0002794",
+      "name": "ホルムズ海峡",
+      "display": true
+    },
+    {
+      "id": "0000820",
+      "name": "イラン情勢",
+      "display": true
+    },
+    {
+      "id": "0001597",
+      "name": "イラン",
+      "display": true
+    },
+    {
+      "id": "0000819",
+      "name": "原油価格",
+      "display": true
+    },
+    {
+      "id": "0002736",
+      "name": "資源・エネルギー",
+      "display": true
+    },
+    {
+      "id": "0002631",
+      "name": "中東",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ホルムズ海峡では事実上の封鎖が続いていますが、一部の船舶については海峡を通過できたケースもあります。アメリカのメディア、ブルームバーグは1日、複数の関係者の話として、イラン側が通航料を徴収して船舶の通",
+  "articleBody": "ホルムズ海峡では事実上の封鎖が続いていますが、一部の船舶については海峡を通過できたケースもあります。アメリカのメディア、ブルームバーグは1日、複数の関係者の話として、イラン側が通航料を徴収して船舶の通航を認めていると報じました。\n\n\nそれによりますと、船舶の運航会社はイランの革命防衛隊とつながりのある仲介会社に連絡し、船の所有者や船籍のほか、積んでいる貨物の詳細や目的地、乗組員名簿などの情報を提供します。\n\n仲介会社は、これらの情報を革命防衛隊の海軍に送り、そこでこの船がイスラエルやアメリカなどイランが敵対視する国と関係がないことを確認するための審査が行われます。審査を通れば、通航料の交渉が始まります。\n\nイランは各国を5段階でランク付けしていて、友好度が高いほど有利な条件を得やすいということです。\n\n交渉は原油タンカーの場合、1バレルあたりおよそ1ドルから始まり、中国の通貨・人民元や暗号資産で支払われます。\n\n超大型の原油タンカーは通常、およそ200万バレルの積載能力があるということで、1バレルあたり1ドルの通航料を支払った場合、日本円にしておよそ3億2000万円となる計算です。\n\n通航料が支払われた後、革命防衛隊は「許可コード」を発行して航路を指示し、船舶は通航の合意を結んだ国の旗を掲げ、哨戒艇に付き添われながら海峡を抜けるということです。\n\nこうしたことから、関係者の間では「イランの料金所」と呼ばれているということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "ホルムズ海峡では事実上の封鎖が続いていますが、一部の船舶については海峡を通過できたケースもあります。アメリカのメディア、ブルームバーグは1日、複数の関係者の話として、イラン側が通航料を徴収して船舶の通航を認めていると報じました。\n",
+    "markedBody": "それによりますと、船舶の運航会社はイランの革命防衛隊とつながりのある仲介会社に連絡し、船の所有者や船籍のほか、積んでいる貨物の詳細や目的地、乗組員名簿などの情報を提供します。\n\n仲介会社は、これらの情報を革命防衛隊の海軍に送り、そこでこの船がイスラエルやアメリカなどイランが敵対視する国と関係がないことを確認するための審査が行われます。審査を通れば、通航料の交渉が始まります。\n\nイランは各国を5段階でランク付けしていて、友好度が高いほど有利な条件を得やすいということです。\n\n交渉は原油タンカーの場合、1バレルあたりおよそ1ドルから始まり、中国の通貨・人民元や暗号資産で支払われます。\n\n超大型の原油タンカーは通常、およそ200万バレルの積載能力があるということで、1バレルあたり1ドルの通航料を支払った場合、日本円にしておよそ3億2000万円となる計算です。\n\n通航料が支払われた後、革命防衛隊は「許可コード」を発行して航路を指示し、船舶は通航の合意を結んだ国の旗を掲げ、哨戒艇に付き添われながら海峡を抜けるということです。\n\nこうしたことから、関係者の間では「イランの料金所」と呼ばれているということです。\n",
+    "trimmedLead": "ホルムズ海峡では事実上の封鎖が続いていますが、一部の船舶については海峡を通過できたケースもあります。アメリカのメディア、ブルームバーグは1日、複数の関係者の話として、イラン側が通航料を徴収して船舶の通航を認めていると報じました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015091641000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015091641000",
+  "video": [],
+  "citation": [
+    {
+      "name": "米軍がテヘラン郊外の橋を攻撃 イラン側は徹底抗戦続ける構え",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015091101000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260403/K10015091101_2604031141_0403115614_01_03.jpg",
+      "datePublished": "2026-04-03T15:47:31+09:00"
+    },
+    {
+      "name": "【まとめて詳しく】トランプ大統領演説 内容 影響 事実関係は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015091131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260403/K10015091131_2604030609_0403061222_01_02.jpg",
+      "datePublished": "2026-04-03T06:12:21+09:00"
+    },
+    {
+      "name": "トランプ大統領 輸入医薬品に100％の追加関税 署名 日本は15％",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015091221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260403/K10015091221_2604031009_0403105233_01_03.jpg",
+      "datePublished": "2026-04-03T15:06:53+09:00"
+    },
+    {
+      "name": "トランプ大統領 司法長官を解任 エプスタイン文書めぐり不満か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015091121000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260403/K10015091121_2604030523_0403055549_01_02.jpg",
+      "datePublished": "2026-04-03T05:55:48+09:00"
+    },
+    {
+      "name": "マイクロソフト 日本国内でのAI開発に約1兆6000億円投資",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015091261000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260403/K10015091261_2604031645_0403172056_01_03.jpg",
+      "datePublished": "2026-04-03T17:20:55+09:00"
+    },
+    {
+      "name": "ゼレンスキー大統領 “ロシアは復活祭での停戦意思なし”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015091151000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260403/K10015091151_2604030616_0403083753_01_02.jpg",
+      "datePublished": "2026-04-03T08:37:52+09:00"
+    },
+    {
+      "name": "「アルテミス計画」の宇宙船 地球回る軌道外れ 月への飛行開始",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015091311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260403/K10015091311_2604031308_0403130951_01_03.jpg",
+      "datePublished": "2026-04-03T12:14:33+09:00"
+    },
+    {
+      "name": "イランをめぐる戦争 見えない出口",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015091391000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260403/K10015091391_2604031208_0403131810_01_02.jpg",
+      "datePublished": "2026-04-03T13:18:09+09:00"
+    },
+    {
+      "name": "ペルシャ湾の石油、天然ガス施設の被害深刻か 地図化して分析",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015089671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260402/K10015089671_2604021646_0402195123_01_02.jpg",
+      "datePublished": "2026-04-02T19:51:22+09:00"
+    },
+    {
+      "name": "イラン攻撃 問われる原発の安全確保",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015091371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260403/K10015091371_2604031159_0403154225_01_02.jpg",
+      "datePublished": "2026-04-03T15:42:24+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

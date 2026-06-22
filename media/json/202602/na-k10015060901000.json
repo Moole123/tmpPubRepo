@@ -1,0 +1,167 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015060901000",
+  "dataSourceId": "na",
+  "name": "株価 初の5万9000円台 米株高や日銀の早期利上げ観測後退で",
+  "headline": "株価 初の5万9000円台 米株高や日銀の早期利上げ観測後退で",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015060901000",
+    "playlistId": "news-nwa-business-nationwide-20260226",
+    "newsarticleName": "株価 初の5万9000円台 米株高や日銀の早期利上げ観測後退で",
+    "playlistName": "2月26日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "26日の東京株式市場、25日のニューヨーク市場で主要な株価指数が上昇したことなどから買い注文が広がり、日経平均株価は取り引き時間中の最高値を更新して、初めて5万9000円台をつけました。\n\n\n26日の",
+  "dateModified": "2026-02-26T09:51:28+09:00",
+  "datePublished": "2026-02-26T09:07:59+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260226/K10015060901_2602260905_0226090800_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260226/K10015060901_2602260905_0226090800_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0002423",
+      "name": "金融",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "26日の東京株式市場、25日のニューヨーク市場で主要な株価指数が上昇したことなどから買い注文が広がり、日経平均株価は取り引き時間中の最高値を更新して、初めて5万9000円台をつけました。\n\n\n26日の",
+  "articleBody": "26日の東京株式市場、25日のニューヨーク市場で主要な株価指数が上昇したことなどから買い注文が広がり、日経平均株価は取り引き時間中の最高値を更新して、初めて5万9000円台をつけました。\n\n\n26日の東京株式市場は、取り引き開始直後から買い注文が広がり、日経平均株価は一時、700円以上上昇して、初めて5万9000円を超えました。\n\n25日のニューヨーク市場で主要な株価指数が上昇したことに加えて、25日に政府が示した日銀の審議委員の人事案をきっかけに日銀の早期の利上げが遠のいたという見方が広がったことも、株価の上昇につながっています。\n\n市場関係者は「アメリカの市場での株価上昇に加えて、いくぶん円安傾向となっていることで、輸出関連銘柄を中心に買い注文が出ている。一方で、このところの値上がりに対して警戒する見方もあり、上昇の勢いはあまり強くない」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "26日の東京株式市場、25日のニューヨーク市場で主要な株価指数が上昇したことなどから買い注文が広がり、日経平均株価は取り引き時間中の最高値を更新して、初めて5万9000円台をつけました。\n",
+    "markedBody": "26日の東京株式市場は、取り引き開始直後から買い注文が広がり、日経平均株価は一時、700円以上上昇して、初めて5万9000円を超えました。\n\n25日のニューヨーク市場で主要な株価指数が上昇したことに加えて、25日に政府が示した日銀の審議委員の人事案をきっかけに日銀の早期の利上げが遠のいたという見方が広がったことも、株価の上昇につながっています。\n\n市場関係者は「アメリカの市場での株価上昇に加えて、いくぶん円安傾向となっていることで、輸出関連銘柄を中心に買い注文が出ている。一方で、このところの値上がりに対して警戒する見方もあり、上昇の勢いはあまり強くない」と話しています。\n",
+    "trimmedLead": "26日の東京株式市場、25日のニューヨーク市場で主要な株価指数が上昇したことなどから買い注文が広がり、日経平均株価は取り引き時間中の最高値を更新して、初めて5万9000円台をつけました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015060901000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015060901000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "株価 初の5万9000円台 米株高や日銀の早期利上げ観測後退で",
+      "description": "26日の東京株式市場、25日のニューヨーク市場で主要な株価指数が上昇したことなどから買い注文が広がり、日経平均株価は取り引き時間中の最高値を更新して、初めて5万9000円台をつけました。\n\n\n26日の",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015060901_202602261008_202602261009/index.m3u8&mrposter=/news/html/20260226/K10015060901_2602260905_0226090800_01_02.jpg",
+      "duration": "PT58S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015060901_202602261008_202602261009/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260226/K10015060901_2602260905_0226090800_01_02.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "米 エヌビディア 3か月間の決算 最終利益 前年同期比94％増",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015060761000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260226/K10015060761_2602260713_0226072040_01_02.jpg",
+      "datePublished": "2026-02-26T07:20:39+09:00"
+    },
+    {
+      "name": "マイクロソフト 競合クラウド指定し その後ソフト利用制限か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015060721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260226/K10015060721_2602260024_0226062122_01_02.jpg",
+      "datePublished": "2026-02-26T06:21:22+09:00"
+    },
+    {
+      "name": "春闘 大手自動車メーカー 初回の労使交渉で満額回答相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015060541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260225/K10015060541_2602251759_0225210954_01_02.jpg",
+      "datePublished": "2026-02-25T22:22:21+09:00"
+    },
+    {
+      "name": "2月の月例経済報告 景気の現状「緩やかに回復」基調判断を維持",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015060671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260225/K10015060671_2602252055_0225210041_01_02.jpg",
+      "datePublished": "2026-02-25T21:00:40+09:00"
+    },
+    {
+      "name": "「国民会議」きょう初会合 “食料品消費税2年間ゼロ”など議論",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015060711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260226/K10015060711_2602252315_0226053153_01_02.jpg",
+      "datePublished": "2026-02-26T05:31:52+09:00"
+    },
+    {
+      "name": "東京スカイツリー 26日営業再開 原因は“ヒューズが熱で切断”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015060601000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260225/K10015060601_2602251814_0225192150_01_03.jpg",
+      "datePublished": "2026-02-25T21:27:20+09:00"
+    },
+    {
+      "name": "トランプ大統領 歴代最長の一般教書演説【ノーカット動画】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015059991000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260225/K10015059991_2602251142_0225114334_01_02.jpg",
+      "datePublished": "2026-02-25T19:30:26+09:00"
+    },
+    {
+      "name": "【ノーカット動画】フィギュア “りくりゅう”ペアが会見",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015060331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260225/K10015060331_2602251456_0225145817_01_02.jpg",
+      "datePublished": "2026-02-25T17:50:42+09:00"
+    },
+    {
+      "name": "“魔法のつえ”が奪われた 最高裁Noで新たなトランプ関税は？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015059291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260224/K10015059291_2602241818_0224195945_01_02.jpg",
+      "datePublished": "2026-02-24T19:59:44+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

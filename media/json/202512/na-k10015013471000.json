@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015013471000",
+  "dataSourceId": "na",
+  "name": "日本の自動車メーカー 11月の米の新車販売 6社中5社で減少",
+  "headline": "日本の自動車メーカー 11月の米の新車販売 6社中5社で減少",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015013471000",
+    "playlistId": "news-nwa-business-nationwide-20251225",
+    "newsarticleName": "日本の自動車メーカー 11月の米の新車販売 6社中5社で減少",
+    "playlistName": "12月25日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "日本の自動車メーカーが先月アメリカで販売した新車の台数は、6社のうち5社で減少しました。関税引き上げによる値上げを前にした駆け込み需要が落ち着いたことに加え、一部で半導体不足による生産の一時停止の影響",
+  "dateModified": "2025-12-25T15:26:39+09:00",
+  "datePublished": "2025-12-25T15:26:39+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251225/K10015013471_2512251524_1225152640_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251225/K10015013471_2512251524_1225152640_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済",
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "日本の自動車メーカーが先月アメリカで販売した新車の台数は、6社のうち5社で減少しました。関税引き上げによる値上げを前にした駆け込み需要が落ち着いたことに加え、一部で半導体不足による生産の一時停止の影響",
+  "articleBody": "日本の自動車メーカーが先月アメリカで販売した新車の台数は、6社のうち5社で減少しました。関税引き上げによる値上げを前にした駆け込み需要が落ち着いたことに加え、一部で半導体不足による生産の一時停止の影響も出ました。\n\n\n日本の主な自動車メーカーが発表した先月のアメリカでの新車販売台数は、6社のうち5社が去年の同じ月を下回りました。\n\nこのうち\n▽ホンダは去年の同じ月と比べて、15.3％減って10万2824台\n▽日産自動車は7.7％減って、6万6014台\n▽SUBARUは9.7％減って5万2081台\n▽マツダは1.5％減って、3万2909台\n▽三菱自動車工業は、33.3％減って、6046台でした。\n\n各社は、関税引き上げによる値上げやEV購入に関する税制優遇措置の廃止を前にした駆け込み需要が落ち着いたことなどが要因だとしています。\n\nまた、ホンダは半導体不足でメキシコの工場での車両生産を一時、停止した影響なども出たとしています。\n\n一方\n▽トヨタはハイブリッド車の販売が引き続き堅調なことなどから2.7％増えて、21万2772台でした。\n",
+  "detailedArticleBody": {
+    "markedLead": "日本の自動車メーカーが先月アメリカで販売した新車の台数は、6社のうち5社で減少しました。関税引き上げによる値上げを前にした駆け込み需要が落ち着いたことに加え、一部で半導体不足による生産の一時停止の影響も出ました。\n",
+    "markedBody": "日本の主な自動車メーカーが発表した先月のアメリカでの新車販売台数は、6社のうち5社が去年の同じ月を下回りました。\n\nこのうち\\\n▽ホンダは去年の同じ月と比べて、15.3％減って10万2824台\\\n▽日産自動車は7.7％減って、6万6014台\\\n▽SUBARUは9.7％減って5万2081台\\\n▽マツダは1.5％減って、3万2909台\\\n▽三菱自動車工業は、33.3％減って、6046台でした。\n\n各社は、関税引き上げによる値上げやEV購入に関する税制優遇措置の廃止を前にした駆け込み需要が落ち着いたことなどが要因だとしています。\n\nまた、ホンダは半導体不足でメキシコの工場での車両生産を一時、停止した影響なども出たとしています。\n\n一方\\\n▽トヨタはハイブリッド車の販売が引き続き堅調なことなどから2.7％増えて、21万2772台でした。\n",
+    "trimmedLead": "日本の自動車メーカーが先月アメリカで販売した新車の台数は、6社のうち5社で減少しました。関税引き上げによる値上げを前にした駆け込み需要が落ち着いたことに加え、一部で半導体不足による生産の一時停止の影響も出ました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015013471000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015013471000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

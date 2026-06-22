@@ -1,0 +1,167 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015092791000",
+  "dataSourceId": "na",
+  "name": "東北から九州にかけて気温上昇 25度以上の夏日予想のところも",
+  "headline": "東北から九州にかけて気温上昇 25度以上の夏日予想のところも",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015092791000",
+    "playlistId": "news-nwa-disaster-nationwide-20260406",
+    "newsarticleName": "東北から九州にかけて気温上昇 25度以上の夏日予想のところも",
+    "playlistName": "4月6日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "6日は東北から九州にかけての広い範囲で気温が上がり、25度以上の夏日となるところもある見込みです。\n\n\n気象庁によりますと、5日は高気圧に覆われて各地で晴れて気温が上がり、関東や九州などでは夏日となっ",
+  "dateModified": "2026-04-06T06:25:53+09:00",
+  "datePublished": "2026-04-06T06:25:53+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260406/K10015092791_2604060624_0406062553_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260406/K10015092791_2604060624_0406062553_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0000035",
+      "name": "気象",
+      "display": true
+    },
+    {
+      "id": "0002716",
+      "name": "気象庁",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "6日は東北から九州にかけての広い範囲で気温が上がり、25度以上の夏日となるところもある見込みです。\n\n\n気象庁によりますと、5日は高気圧に覆われて各地で晴れて気温が上がり、関東や九州などでは夏日となっ",
+  "articleBody": "6日は東北から九州にかけての広い範囲で気温が上がり、25度以上の夏日となるところもある見込みです。\n\n\n気象庁によりますと、5日は高気圧に覆われて各地で晴れて気温が上がり、関東や九州などでは夏日となったところもありました。\n\n6日も、東北から九州にかけての広い範囲で晴れて気温が上がる見込みで、日中の最高気温は▽さいたま市や名古屋市、甲府市、福井市で25度と夏日が予想されているほか、▽東京の都心や福岡市、山形市、鳥取市で24度、▽大阪市や金沢市で23度、▽広島市で21度などと4月下旬から5月下旬並みになるところもある見込みです。\n\n一方、低気圧や前線が近づく影響で、夕方以降は、西から雨雲が広がり沖縄県や鹿児島県では7日にかけて、局地的に非常に激しい雨の降るところがある見込みで、低い土地の浸水や土砂災害などに十分注意が必要です。\n",
+  "detailedArticleBody": {
+    "markedLead": "6日は東北から九州にかけての広い範囲で気温が上がり、25度以上の夏日となるところもある見込みです。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20260406/K10015092791_2604060625_0406062553_02_04.jpg)\n\n気象庁によりますと、5日は高気圧に覆われて各地で晴れて気温が上がり、関東や九州などでは夏日となったところもありました。\n\n6日も、東北から九州にかけての広い範囲で晴れて気温が上がる見込みで、日中の最高気温は▽さいたま市や名古屋市、甲府市、福井市で25度と夏日が予想されているほか、▽東京の都心や福岡市、山形市、鳥取市で24度、▽大阪市や金沢市で23度、▽広島市で21度などと4月下旬から5月下旬並みになるところもある見込みです。\n\n一方、低気圧や前線が近づく影響で、夕方以降は、西から雨雲が広がり沖縄県や鹿児島県では7日にかけて、局地的に非常に激しい雨の降るところがある見込みで、低い土地の浸水や土砂災害などに十分注意が必要です。\n",
+    "trimmedLead": "6日は東北から九州にかけての広い範囲で気温が上がり、25度以上の夏日となるところもある見込みです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015092791000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015092791000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "東北から九州にかけて気温上昇 25度以上の夏日予想のところも",
+      "description": "6日は東北から九州にかけての広い範囲で気温が上がり、25度以上の夏日となるところもある見込みです。\n\n\n気象庁によりますと、5日は高気圧に覆われて各地で晴れて気温が上がり、関東や九州などでは夏日となっ",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015092791_202604060624_202604060624/index.m3u8&mrposter=/news/html/20260406/K10015092791_2604060624_0406062553_01_03.jpg",
+      "duration": "PT1M20S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015092791_202604060624_202604060624/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260406/K10015092791_2604060624_0406062553_01_03.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "今年度予算案 自然成立前に与野党の最終調整行われる見通し",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015092611000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015092611_2604051850_0406054222_01_02.jpg",
+      "datePublished": "2026-04-06T05:42:21+09:00"
+    },
+    {
+      "name": "トランプ大統領 “エネルギー施設の破壊行わない期限”延長か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015092771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015092771_2604060500_0406053757_01_02.jpg",
+      "datePublished": "2026-04-06T05:37:57+09:00"
+    },
+    {
+      "name": "政府 原油の調達“来年の年明けまで必要な量を確保できる”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015092621000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015092621_2604051859_0406053420_01_02.jpg",
+      "datePublished": "2026-04-06T05:34:19+09:00"
+    },
+    {
+      "name": "各地で気温上昇 夏日も あすも20度を超えるところ多い見込み",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015092381000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260405/K10015092381_2604050552_0405060042_01_02.jpg",
+      "datePublished": "2026-04-05T18:52:22+09:00"
+    },
+    {
+      "name": "天皇皇后両陛下と愛子さま 福島訪問へ 東日本大震災から15年",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015092641000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015092641_2604052340_0406053103_01_02.jpg",
+      "datePublished": "2026-04-06T05:31:02+09:00"
+    },
+    {
+      "name": "ドジャース 大谷翔平 2試合ぶり先制2号ソロホームラン",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015092781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015092781_2604060540_0406054112_01_02.jpg",
+      "datePublished": "2026-04-06T05:27:26+09:00"
+    },
+    {
+      "name": "富士山噴火で大量降灰の懸念 停電時の「頼みの綱」にも影響？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015092331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260405/K10015092331_2604042354_0405081711_01_03.jpg",
+      "datePublished": "2026-04-05T08:17:10+09:00"
+    },
+    {
+      "name": "急増するナッツアレルギー 重症化のリスクも",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015087561000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260405/K10015087561_2604021207_0405102550_01_02.jpg",
+      "datePublished": "2026-04-05T10:25:49+09:00"
+    },
+    {
+      "name": "気軽にお茶が飲めなくなる！？ 「抹茶ブーム」も背景に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015088471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260404/K10015088471_2604021016_0404113247_01_02.jpg",
+      "datePublished": "2026-04-04T11:32:46+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

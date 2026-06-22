@@ -1,0 +1,184 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015137771000",
+  "dataSourceId": "na",
+  "name": "福島 工場や住宅などでクマに襲われ4人けが 病院に搬送",
+  "headline": "福島 工場や住宅などでクマに襲われ4人けが 病院に搬送",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015137771000",
+    "playlistId": "news-nwa-society-nationwide-20260602",
+    "newsarticleName": "福島 工場や住宅などでクマに襲われ4人けが 病院に搬送",
+    "playlistName": "6月2日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "2日朝、福島市の工場や住宅などで複数の人が相次いでクマに襲われ、4人がけがをして病院に搬送されました。いずれも意識はあるということです。\n\n\n警察によりますと、2日午前6時半ごろ、福島市笹木野で「クマ",
+  "dateModified": "2026-06-02T11:48:22+09:00",
+  "datePublished": "2026-06-02T09:16:36+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260602/K10015137771_2606020936_0602121528_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260602/K10015137771_2606020936_0602121528_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002515",
+      "name": "クマ被害",
+      "display": true
+    },
+    {
+      "id": "0002207",
+      "name": "福島県",
+      "display": true
+    },
+    {
+      "id": "0000417",
+      "name": "環境",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "2日朝、福島市の工場や住宅などで複数の人が相次いでクマに襲われ、4人がけがをして病院に搬送されました。いずれも意識はあるということです。\n\n\n警察によりますと、2日午前6時半ごろ、福島市笹木野で「クマ",
+  "articleBody": "2日朝、福島市の工場や住宅などで複数の人が相次いでクマに襲われ、4人がけがをして病院に搬送されました。いずれも意識はあるということです。\n\n\n警察によりますと、2日午前6時半ごろ、福島市笹木野で「クマにかまれた」と、鋳造会社の関係者から警察に通報がありました。\n\nクマが鋳造会社の工場で2人を襲い、その後、近くの事業所と住宅で別の2人を襲ったとみられるということです。\n\n警察や消防によりますと、これまでに男女あわせて4人がけがをして病院に搬送されました。\n\nいずれも意識はあるということです。\n\nクマは事業所の敷地内にとどまっているとみられ、警察や市が警戒を続けるとともに、現場に近づかないよう呼びかけています。\n\n現場はJR奥羽本線の笹木野駅近くの事業所や住宅が建ち並ぶ地域で、警察によりますと、先週から1日夜にかけて周辺でクマの目撃が相次いでいたということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "2日朝、福島市の工場や住宅などで複数の人が相次いでクマに襲われ、4人がけがをして病院に搬送されました。いずれも意識はあるということです。\n",
+    "markedBody": "警察によりますと、2日午前6時半ごろ、福島市笹木野で「クマにかまれた」と、鋳造会社の関係者から警察に通報がありました。\n\nクマが鋳造会社の工場で2人を襲い、その後、近くの事業所と住宅で別の2人を襲ったとみられるということです。\n\n警察や消防によりますと、これまでに男女あわせて4人がけがをして病院に搬送されました。\n\nいずれも意識はあるということです。\n\nクマは事業所の敷地内にとどまっているとみられ、警察や市が警戒を続けるとともに、現場に近づかないよう呼びかけています。\n\n現場はJR奥羽本線の笹木野駅近くの事業所や住宅が建ち並ぶ地域で、警察によりますと、先週から1日夜にかけて周辺でクマの目撃が相次いでいたということです。\n",
+    "trimmedLead": "2日朝、福島市の工場や住宅などで複数の人が相次いでクマに襲われ、4人がけがをして病院に搬送されました。いずれも意識はあるということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015137771000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015137771000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "福島 工場や住宅などでクマに襲われ4人けが 病院に搬送",
+      "description": "2日朝、福島市の工場や住宅などで複数の人が相次いでクマに襲われ、4人がけがをして病院に搬送されました。いずれも意識はあるということです。\n\n\n警察によりますと、2日午前6時半ごろ、福島市笹木野で「クマ",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015137771_202606021214_202606021215/index.m3u8&mrposter=/news/html/20260602/K10015137771_2606020936_0602121528_01_03.jpg",
+      "duration": "PT1M19S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015137771_202606021214_202606021215/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260602/K10015137771_2606020936_0602121528_01_03.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "岩手 釜石 クマが網戸破り家の中に 住人の大声で逃げる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015137341000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260601/K10015137341_2606011634_0601170958_01_02.jpg",
+      "datePublished": "2026-06-01T19:06:31+09:00"
+    },
+    {
+      "name": "最新クマ対策 AI・ドローンで被害防げ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015131471_2605281240_0528165620_01_02.jpg",
+      "datePublished": "2026-05-28T16:56:19+09:00"
+    },
+    {
+      "name": "イラン情勢 影響はクマ対策にも",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015135821000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260530/K10015135821_2605301224_0530171930_01_02.jpg",
+      "datePublished": "2026-05-30T17:19:29+09:00"
+    },
+    {
+      "name": "台風6号 九州南部・四国で線状降水帯おそれ 厳重警戒",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015137661000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260602/K10015137661_2606021145_0602115523_01_03.jpg",
+      "datePublished": "2026-06-02T12:56:44+09:00"
+    },
+    {
+      "name": "【台風影響】九州地方中心に330便余欠航 新幹線も運休の可能性",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015137741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260602/K10015137741_2606020348_0602055429_01_02.jpg",
+      "datePublished": "2026-06-02T12:26:17+09:00"
+    },
+    {
+      "name": "株価 値下がり きのう最高値更新で利益確定の売りも",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015137911000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260602/K10015137911_2606021104_0602112430_01_02.jpg",
+      "datePublished": "2026-06-02T13:07:07+09:00"
+    },
+    {
+      "name": "米AI新興企業「アンソロピック」新規株式公開を申請と発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015137731000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260602/K10015137731_2606020331_0602043906_01_02.jpg",
+      "datePublished": "2026-06-02T07:36:21+09:00"
+    },
+    {
+      "name": "「国旗損壊罪」条文案を大筋了承 自民部会・作業チーム",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015137441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260601/K10015137441_2606011736_0601182851_01_02.jpg",
+      "datePublished": "2026-06-01T23:42:06+09:00"
+    },
+    {
+      "name": "「フラット35」 6月の適用金利が3.21％ 3％超は現行で初",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015137521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260601/K10015137521_2606012032_0601203611_01_02.jpg",
+      "datePublished": "2026-06-01T20:36:10+09:00"
+    },
+    {
+      "name": "ウクライナ 各地でロシア軍の攻撃 4人死亡 被害状況の把握急ぐ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015137851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260602/K10015137851_2606021052_0602111159_01_02.jpg",
+      "datePublished": "2026-06-02T11:11:58+09:00"
+    },
+    {
+      "name": "埼玉 ケアマネ殺害疑いの息子は一方的な思い込みで事件か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015137721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260602/K10015137721_2606020256_0602055229_01_02.jpg",
+      "datePublished": "2026-06-02T05:52:29+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

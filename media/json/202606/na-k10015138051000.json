@@ -1,0 +1,184 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015138051000",
+  "dataSourceId": "na",
+  "name": "秋田 高齢女性が死亡 近くでクマ駆除 襲われたか",
+  "headline": "秋田 高齢女性が死亡 近くでクマ駆除 襲われたか",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015138051000",
+    "playlistId": "news-nwa-society-nationwide-20260602",
+    "newsarticleName": "秋田 高齢女性が死亡 近くでクマ駆除 襲われたか",
+    "playlistName": "6月2日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "秋田市の山あいにある集落で2日朝、70代の女性が遺体で見つかり、付近にいたクマが駆除されました。警察はクマに襲われた可能性があるとみて調べています。\n\n\n警察によりますと、2日午前7時20分ごろ、秋田",
+  "dateModified": "2026-06-02T12:53:19+09:00",
+  "datePublished": "2026-06-02T12:18:07+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260602/K10015138051_2606021202_0602121808_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260602/K10015138051_2606021202_0602121808_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002515",
+      "name": "クマ被害",
+      "display": true
+    },
+    {
+      "id": "0002205",
+      "name": "秋田県",
+      "display": true
+    },
+    {
+      "id": "0000417",
+      "name": "環境",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "秋田市の山あいにある集落で2日朝、70代の女性が遺体で見つかり、付近にいたクマが駆除されました。警察はクマに襲われた可能性があるとみて調べています。\n\n\n警察によりますと、2日午前7時20分ごろ、秋田",
+  "articleBody": "秋田市の山あいにある集落で2日朝、70代の女性が遺体で見つかり、付近にいたクマが駆除されました。警察はクマに襲われた可能性があるとみて調べています。\n\n\n警察によりますと、2日午前7時20分ごろ、秋田市河辺和田に住む竹林貞子さん（73）の家族から「母親がクマに襲われたかもしれない」という通報がありました。\n\n警察が捜索したところ、自宅のすぐ脇の山林から竹林さんが遺体で見つかったということです。\n\n近くにはクマ1頭がいて、午前9時40分ごろ、駆除されたということです。\n\n警察は現場の状況などからクマに襲われた可能性があるとみて調べています。\n\n現場は秋田市郊外の山あいの集落です。\n",
+  "detailedArticleBody": {
+    "markedLead": "秋田市の山あいにある集落で2日朝、70代の女性が遺体で見つかり、付近にいたクマが駆除されました。警察はクマに襲われた可能性があるとみて調べています。\n",
+    "markedBody": "警察によりますと、2日午前7時20分ごろ、秋田市河辺和田に住む竹林貞子さん（73）の家族から「母親がクマに襲われたかもしれない」という通報がありました。\n\n警察が捜索したところ、自宅のすぐ脇の山林から竹林さんが遺体で見つかったということです。\n\n近くにはクマ1頭がいて、午前9時40分ごろ、駆除されたということです。\n\n警察は現場の状況などからクマに襲われた可能性があるとみて調べています。\n\n現場は秋田市郊外の山あいの集落です。\n",
+    "trimmedLead": "秋田市の山あいにある集落で2日朝、70代の女性が遺体で見つかり、付近にいたクマが駆除されました。警察はクマに襲われた可能性があるとみて調べています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015138051000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015138051000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "秋田 高齢女性が死亡 近くでクマ駆除 襲われたか",
+      "description": "秋田市の山あいにある集落で2日朝、70代の女性が遺体で見つかり、付近にいたクマが駆除されました。警察はクマに襲われた可能性があるとみて調べています。\n\n\n警察によりますと、2日午前7時20分ごろ、秋田",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015138051_202606021212_202606021213/index.m3u8&mrposter=/news/html/20260602/K10015138051_2606021202_0602121808_01_03.jpg",
+      "duration": "PT33S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015138051_202606021212_202606021213/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260602/K10015138051_2606021202_0602121808_01_03.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "福島 工場や住宅などでクマに襲われ4人けが 病院に搬送",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015137771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260602/K10015137771_2606020936_0602121528_01_03.jpg",
+      "datePublished": "2026-06-02T11:48:22+09:00"
+    },
+    {
+      "name": "岩手 釜石 クマが網戸破り家の中に 住人の大声で逃げる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015137341000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260601/K10015137341_2606011634_0601170958_01_02.jpg",
+      "datePublished": "2026-06-01T19:06:31+09:00"
+    },
+    {
+      "name": "最新クマ対策 AI・ドローンで被害防げ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015131471_2605281240_0528165620_01_02.jpg",
+      "datePublished": "2026-05-28T16:56:19+09:00"
+    },
+    {
+      "name": "台風6号 九州南部・四国で線状降水帯おそれ 厳重警戒",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015137661000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260602/K10015137661_2606021145_0602115523_01_03.jpg",
+      "datePublished": "2026-06-02T12:56:44+09:00"
+    },
+    {
+      "name": "【ライブ配信】台風6号 各地の様子",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015136991000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260601/K10015136991_2606011115_0601111636_01_02.jpg",
+      "datePublished": "2026-06-02T12:39:26+09:00"
+    },
+    {
+      "name": "新たな防災気象情報スタート 専門家“地域リスク調べ活用を”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133611000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015133611_2605281021_0528115033_01_02.jpg",
+      "datePublished": "2026-05-28T18:46:11+09:00"
+    },
+    {
+      "name": "新たな防災気象情報 専門家 “避難スイッチに”【Q＆A解説】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015132671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260527/K10015132671_2605271846_0527225649_01_02.jpg",
+      "datePublished": "2026-05-27T22:56:48+09:00"
+    },
+    {
+      "name": "株価 値下がり きのう最高値更新で利益確定の売りも",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015137911000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260602/K10015137911_2606021104_0602112430_01_02.jpg",
+      "datePublished": "2026-06-02T13:07:07+09:00"
+    },
+    {
+      "name": "人材派遣大手 「派遣料金」引き上げカルテルか 公取委立ち入り",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015138041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260602/K10015138041_2606021220_0602122546_01_03.jpg",
+      "datePublished": "2026-06-02T12:40:10+09:00"
+    },
+    {
+      "name": "イランメディア「協議停止」 トランプ大統領「攻撃停止合意」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015137671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260602/K10015137671_2606020330_0602060715_01_02.jpg",
+      "datePublished": "2026-06-02T12:11:39+09:00"
+    },
+    {
+      "name": "米国防総省 報道室を立ち入り禁止に メディア側は撤回求める",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015138061000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260602/K10015138061_2606021155_0602124648_01_02.jpg",
+      "datePublished": "2026-06-02T12:46:48+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

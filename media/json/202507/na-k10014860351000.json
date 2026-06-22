@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014860351000",
+  "dataSourceId": "na",
+  "name": "株価 小幅な値動き 米関税政策の不透明感などから売り買い交錯",
+  "headline": "株価 小幅な値動き 米関税政策の不透明感などから売り買い交錯",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014860351000",
+    "playlistId": "news-nwa-business-nationwide-20250711",
+    "newsarticleName": "株価 小幅な値動き 米関税政策の不透明感などから売り買い交錯",
+    "playlistName": "7月11日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "11日の東京株式市場、アメリカの関税政策の不透明感などから、売り買いが交錯し、日経平均株価は、小幅な値動きとなりました。\n\n\n▽日経平均株価、11日の終値は10日と比べて76円68銭安い、3万9569",
+  "dateModified": "2025-07-11T16:51:08+09:00",
+  "datePublished": "2025-07-11T12:27:34+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250711/K10014860351_2507111610_0711165110_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250711/K10014860351_2507111610_0711165110_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "11日の東京株式市場、アメリカの関税政策の不透明感などから、売り買いが交錯し、日経平均株価は、小幅な値動きとなりました。\n\n\n▽日経平均株価、11日の終値は10日と比べて76円68銭安い、3万9569",
+  "articleBody": "11日の東京株式市場、アメリカの関税政策の不透明感などから、売り買いが交錯し、日経平均株価は、小幅な値動きとなりました。\n\n\n▽日経平均株価、11日の終値は10日と比べて76円68銭安い、3万9569円68銭。\n\n▽一方、東証株価指数＝トピックスは10.90上がって、2823.24。\n\n▽一日の出来高は、18億6480万株でした。\n\n市場関係者は「午後も半導体関連の銘柄などに買い注文が入ったものの、アメリカの関税政策の不透明感や週末を控えた利益確定の動きから売り注文が出て値動きは小幅にとどまった。来週は、日米の消費者物価指数や台湾の半導体受託生産大手のTSMCの決算などが株価にどう影響するのか注目されている」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "11日の東京株式市場、アメリカの関税政策の不透明感などから、売り買いが交錯し、日経平均株価は、小幅な値動きとなりました。\n",
+    "markedBody": "▽日経平均株価、11日の終値は10日と比べて76円68銭安い、3万9569円68銭。\n\n▽一方、東証株価指数＝トピックスは10.90上がって、2823.24。\n\n▽一日の出来高は、18億6480万株でした。\n\n市場関係者は「午後も半導体関連の銘柄などに買い注文が入ったものの、アメリカの関税政策の不透明感や週末を控えた利益確定の動きから売り注文が出て値動きは小幅にとどまった。来週は、日米の消費者物価指数や台湾の半導体受託生産大手のTSMCの決算などが株価にどう影響するのか注目されている」と話しています。\n",
+    "trimmedLead": "11日の東京株式市場、アメリカの関税政策の不透明感などから、売り買いが交錯し、日経平均株価は、小幅な値動きとなりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014860351000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014860351000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

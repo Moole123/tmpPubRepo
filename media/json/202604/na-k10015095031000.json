@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015095031000",
+  "dataSourceId": "na",
+  "name": "「なぜネコはごはんを残すのか」 岩手大学が研究結果発表",
+  "headline": "「なぜネコはごはんを残すのか」 岩手大学が研究結果発表",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015095031000",
+    "playlistId": "news-nwa-scienceculture-nationwide-20260408",
+    "newsarticleName": "「なぜネコはごはんを残すのか」 岩手大学が研究結果発表",
+    "playlistName": "4月8日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "「なぜネコはごはんを残すのか」。多くの飼い主が抱えるこの疑問について、岩手大学の研究グループは「匂いへの慣れ」がネコの食欲を低下させるためで、匂いを変えることで食欲を取り戻せるとする研究結果を発表しま",
+  "dateModified": "2026-04-08T18:42:17+09:00",
+  "datePublished": "2026-04-08T18:42:17+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260408/K10015095031_2604081815_0408184218_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260408/K10015095031_2604081815_0408184218_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "0002390",
+      "name": "サイエンス",
+      "display": true
+    },
+    {
+      "id": "0002203",
+      "name": "岩手県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "「なぜネコはごはんを残すのか」。多くの飼い主が抱えるこの疑問について、岩手大学の研究グループは「匂いへの慣れ」がネコの食欲を低下させるためで、匂いを変えることで食欲を取り戻せるとする研究結果を発表しま",
+  "articleBody": "「なぜネコはごはんを残すのか」。多くの飼い主が抱えるこの疑問について、岩手大学の研究グループは「匂いへの慣れ」がネコの食欲を低下させるためで、匂いを変えることで食欲を取り戻せるとする研究結果を発表しました。\n\n\n岩手大学の研究グループは、ネコが一度に多くの餌を食べず、食事の途中で食べるのをやめるのはなぜか調べるため、12匹のネコに条件を変えながら10分間隔で6回餌を与えて食べる量の変化を測定する実験を行いました。\n\nその結果、毎回同じ餌を与えたときは食べる量は減り続けましたが、5回目までは同じ餌を与え、6回目だけ別の餌に切り替えると食べる量が回復しました。\n\nそして、毎回同じ餌でも6回目だけ別の餌の匂いを加えてみると、同じように食べる量が回復したということです。\n\nこうした結果から研究グループは、ネコが途中で食べるのをやめるのは単なる満腹のためだけではなく、「匂いへの慣れ」が食欲を一時的に低下させるためで、餌の匂いを変えることで食欲を取り戻せることがわかったとしています。\n\n岩手大学農学部の宮崎雅雄教授は「ペットフードを開発する際、味や栄養素は同じでも“匂いのトッピング”のようなものを開発することで、ネコの食生活にバラエティーを生み出すことが可能になるのではないか。処方された餌しか食べることができない病気のネコに餌を多く食べてもらうことにも活用できるのではないか」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "「なぜネコはごはんを残すのか」。多くの飼い主が抱えるこの疑問について、岩手大学の研究グループは「匂いへの慣れ」がネコの食欲を低下させるためで、匂いを変えることで食欲を取り戻せるとする研究結果を発表しました。\n",
+    "markedBody": "岩手大学の研究グループは、ネコが一度に多くの餌を食べず、食事の途中で食べるのをやめるのはなぜか調べるため、12匹のネコに条件を変えながら10分間隔で6回餌を与えて食べる量の変化を測定する実験を行いました。\n\nその結果、毎回同じ餌を与えたときは食べる量は減り続けましたが、5回目までは同じ餌を与え、6回目だけ別の餌に切り替えると食べる量が回復しました。\n\nそして、毎回同じ餌でも6回目だけ別の餌の匂いを加えてみると、同じように食べる量が回復したということです。\n\nこうした結果から研究グループは、ネコが途中で食べるのをやめるのは単なる満腹のためだけではなく、「匂いへの慣れ」が食欲を一時的に低下させるためで、餌の匂いを変えることで食欲を取り戻せることがわかったとしています。\n\n![](https://news.web.nhk/news/html/20260408/K10015095031_2604081815_0408184218_02_03.jpg)\n\n岩手大学農学部の宮崎雅雄教授は「ペットフードを開発する際、味や栄養素は同じでも“匂いのトッピング”のようなものを開発することで、ネコの食生活にバラエティーを生み出すことが可能になるのではないか。処方された餌しか食べることができない病気のネコに餌を多く食べてもらうことにも活用できるのではないか」と話しています。\n",
+    "trimmedLead": "「なぜネコはごはんを残すのか」。多くの飼い主が抱えるこの疑問について、岩手大学の研究グループは「匂いへの慣れ」がネコの食欲を低下させるためで、匂いを変えることで食欲を取り戻せるとする研究結果を発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015095031000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015095031000",
+  "video": [],
+  "citation": [
+    {
+      "name": "地球からは確認できない“月の裏側”の写真 NASAが一部公開",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094841000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260408/K10015094841_2604081526_0408162943_01_02.jpg",
+      "datePublished": "2026-04-08T16:29:42+09:00"
+    },
+    {
+      "name": "“一目千本” 山肌覆う奈良 吉野山の桜 【上空からの映像】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260408/K10015094591_2604081212_0408155654_01_03.jpg",
+      "datePublished": "2026-04-08T15:56:53+09:00"
+    },
+    {
+      "name": "「ばけばけ」 トミー・バストウさんの素顔に迫る",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015090131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260408/K10015090131_2604081339_0408161352_01_02.jpg",
+      "datePublished": "2026-04-08T16:13:50+09:00"
+    },
+    {
+      "name": "“エアコン2027年問題” 価格は？知っておきたい点は？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094661000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260408/K10015094661_2604081131_0408152031_01_02.jpg",
+      "datePublished": "2026-04-08T15:20:30+09:00"
+    },
+    {
+      "name": "高市首相 イラン大統領と電話会談 海峡の航行の安全確保求める",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094951000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260408/K10015094951_2604081651_0408165326_01_02.jpg",
+      "datePublished": "2026-04-08T18:50:03+09:00"
+    },
+    {
+      "name": "米とイラン 2週間停戦で合意 “海峡 安全航行可能”イラン外相",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260408/K10015094531_2604081801_0408180536_01_02.jpg",
+      "datePublished": "2026-04-08T16:27:31+09:00"
+    },
+    {
+      "name": "【随時更新】日本国内の反応は アメリカとイラン 停戦合意で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094621000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260408/K10015094621_2604081018_0408102903_01_02.jpg",
+      "datePublished": "2026-04-08T18:40:33+09:00"
+    },
+    {
+      "name": "【解説】日本経済への影響は “米・イラン停戦で合意”報道で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094651000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260408/K10015094651_2604081058_0408112920_01_03.jpg",
+      "datePublished": "2026-04-08T11:29:19+09:00"
+    },
+    {
+      "name": "株価 2800円余値上がり 終値として過去3番目に大きい上昇幅",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094551000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260408/K10015094551_2604081053_0408113026_01_02.jpg",
+      "datePublished": "2026-04-08T16:42:51+09:00"
+    },
+    {
+      "name": "“ホルムズ海峡 2週間 安全航行も可能” イラン外相 SNSに投稿",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094561000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260408/K10015094561_2604080829_0408083130_01_02.jpg",
+      "datePublished": "2026-04-08T11:52:13+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

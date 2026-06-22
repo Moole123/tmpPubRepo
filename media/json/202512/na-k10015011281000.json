@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015011281000",
+  "dataSourceId": "na",
+  "name": "高市首相 来年度予算案の閣議決定へ 詰めの作業進める考え示す",
+  "headline": "高市首相 来年度予算案の閣議決定へ 詰めの作業進める考え示す",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015011281000",
+    "playlistId": "news-nwa-politics-nationwide-20251223",
+    "newsarticleName": "高市首相 来年度予算案の閣議決定へ 詰めの作業進める考え示す",
+    "playlistName": "12月23日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "自民党の役員会で高市総理大臣は、来年度の税制改正で、いわゆる「年収の壁」の引き上げをめぐる、国民民主党との協議などにあたった党の幹部をねぎらったうえで、来年度予算案の閣議決定に向けて詰めの作業を進める",
+  "dateModified": "2025-12-23T12:38:37+09:00",
+  "datePublished": "2025-12-23T12:38:37+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251223/K10015011281_2512231201_1223123838_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251223/K10015011281_2512231201_1223123838_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "自民党の役員会で高市総理大臣は、来年度の税制改正で、いわゆる「年収の壁」の引き上げをめぐる、国民民主党との協議などにあたった党の幹部をねぎらったうえで、来年度予算案の閣議決定に向けて詰めの作業を進める",
+  "articleBody": "自民党の役員会で高市総理大臣は、来年度の税制改正で、いわゆる「年収の壁」の引き上げをめぐる、国民民主党との協議などにあたった党の幹部をねぎらったうえで、来年度予算案の閣議決定に向けて詰めの作業を進める考えを示しました。\n\n\nこの中で、高市総理大臣は、来年度の税制改正について「いわゆる『年収の壁』の引き上げや、『環境性能割』の廃止、防衛力強化に向けた財源確保措置など、強い経済、強い外交・安全保障の推進に向けた税制改正とすることができた」と述べ、国民民主党との協議などにあたった自民党の幹部をねぎらいました。\n\nその上で、来年度予算案の今週26日の閣議決定に向けて、詰めの作業を進める考えを示しました。\n\nそして、高市総理大臣は「来年も政府と党で力を合わせて政権運営にあたっていきたい」と呼びかけました。\n",
+  "detailedArticleBody": {
+    "markedLead": "自民党の役員会で高市総理大臣は、来年度の税制改正で、いわゆる「年収の壁」の引き上げをめぐる、国民民主党との協議などにあたった党の幹部をねぎらったうえで、来年度予算案の閣議決定に向けて詰めの作業を進める考えを示しました。\n",
+    "markedBody": "この中で、高市総理大臣は、来年度の税制改正について「いわゆる『年収の壁』の引き上げや、『環境性能割』の廃止、防衛力強化に向けた財源確保措置など、強い経済、強い外交・安全保障の推進に向けた税制改正とすることができた」と述べ、国民民主党との協議などにあたった自民党の幹部をねぎらいました。\n\nその上で、来年度予算案の今週26日の閣議決定に向けて、詰めの作業を進める考えを示しました。\n\nそして、高市総理大臣は「来年も政府と党で力を合わせて政権運営にあたっていきたい」と呼びかけました。\n",
+    "trimmedLead": "自民党の役員会で高市総理大臣は、来年度の税制改正で、いわゆる「年収の壁」の引き上げをめぐる、国民民主党との協議などにあたった党の幹部をねぎらったうえで、来年度予算案の閣議決定に向けて詰めの作業を進める考えを示しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015011281000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015011281000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

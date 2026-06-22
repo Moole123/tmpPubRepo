@@ -1,0 +1,145 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015065861000",
+  "dataSourceId": "na",
+  "name": "外務省 “イラン滞在日本人2人が隣国アゼルバイジャンに退避”",
+  "headline": "外務省 “イラン滞在日本人2人が隣国アゼルバイジャンに退避”",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015065861000",
+    "playlistId": "news-nwa-international-nationwide-20260304",
+    "newsarticleName": "外務省 “イラン滞在日本人2人が隣国アゼルバイジャンに退避”",
+    "playlistName": "3月4日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "外務省によりますと、イランに滞在していた日本人2人が政府の支援を受けて日本時間の4日朝、隣国のアゼルバイジャンに退避しました。\n\n\n2人は日本時間の3日午前11時半ごろ、日本政府が手配したバスでイラン",
+  "dateModified": "2026-03-04T06:44:52+09:00",
+  "datePublished": "2026-03-04T06:44:52+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260304/K10015065861_2603040622_0304064453_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260304/K10015065861_2603040622_0304064453_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際",
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0002398",
+      "name": "外務省",
+      "display": true
+    },
+    {
+      "id": "0000820",
+      "name": "イラン情勢",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "外務省によりますと、イランに滞在していた日本人2人が政府の支援を受けて日本時間の4日朝、隣国のアゼルバイジャンに退避しました。\n\n\n2人は日本時間の3日午前11時半ごろ、日本政府が手配したバスでイラン",
+  "articleBody": "外務省によりますと、イランに滞在していた日本人2人が政府の支援を受けて日本時間の4日朝、隣国のアゼルバイジャンに退避しました。\n\n\n2人は日本時間の3日午前11時半ごろ、日本政府が手配したバスでイランの首都テヘランを出発し、4日午前5時前にアゼルバイジャンの首都バクーに到着したということです。\n\nバクーでは外務省から派遣された「海外緊急展開チーム」の職員らが支援に当たっていて、2人の健康状態などに問題はないということです。\n\n政府はおよそ200人の日本人が滞在しているイラン全土に「退避勧告」を出していて、今後も希望者がいれば退避の支援を検討する方針です。\n",
+  "detailedArticleBody": {
+    "markedLead": "外務省によりますと、イランに滞在していた日本人2人が政府の支援を受けて日本時間の4日朝、隣国のアゼルバイジャンに退避しました。\n",
+    "markedBody": "2人は日本時間の3日午前11時半ごろ、日本政府が手配したバスでイランの首都テヘランを出発し、4日午前5時前にアゼルバイジャンの首都バクーに到着したということです。\n\nバクーでは外務省から派遣された「海外緊急展開チーム」の職員らが支援に当たっていて、2人の健康状態などに問題はないということです。\n\n政府はおよそ200人の日本人が滞在しているイラン全土に「退避勧告」を出していて、今後も希望者がいれば退避の支援を検討する方針です。\n",
+    "trimmedLead": "外務省によりますと、イランに滞在していた日本人2人が政府の支援を受けて日本時間の4日朝、隣国のアゼルバイジャンに退避しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015065861000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015065861000",
+  "video": [],
+  "citation": [
+    {
+      "name": "トランプ大統領 イランへの軍事作戦「非常に順調」成果強調",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015065791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260304/K10015065791_2603040703_0304072517_01_03.jpg",
+      "datePublished": "2026-03-04T07:25:16+09:00"
+    },
+    {
+      "name": "トランプ大統領 「米海軍がホルムズ海峡のタンカー護衛」SNSに",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015065801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260304/K10015065801_2603040504_0304050506_01_02.jpg",
+      "datePublished": "2026-03-04T05:05:05+09:00"
+    },
+    {
+      "name": "トランプ大統領「スペインと貿易断つ」基地使用認めずと非難",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015065781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260304/K10015065781_2603040312_0304032027_01_02.jpg",
+      "datePublished": "2026-03-04T05:29:32+09:00"
+    },
+    {
+      "name": "イスラエル軍 イランの大統領府などを攻撃と発表 レバノンでも",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015065521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260303/K10015065521_2603032040_0303204130_01_02.jpg",
+      "datePublished": "2026-03-04T01:13:20+09:00"
+    },
+    {
+      "name": "イスラエル「テヘランのインフラ標的 大規模空爆開始」SNS投稿",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015065131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260303/K10015065131_2603040323_0304032440_01_02.jpg",
+      "datePublished": "2026-03-03T23:14:06+09:00"
+    },
+    {
+      "name": "カタール LNG生産停止 日本への影響は?【解説】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015064831000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260303/K10015064831_2603031027_0303112209_01_03.jpg",
+      "datePublished": "2026-03-03T11:22:08+09:00"
+    },
+    {
+      "name": "米・イスラエル攻撃で重大局面のイラン",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015064921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260303/K10015064921_2603031129_0303170859_01_02.jpg",
+      "datePublished": "2026-03-03T17:08:58+09:00"
+    },
+    {
+      "name": "男性も被害者に ロシアによる性暴力の実態とは？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015061291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260302/K10015061291_2603021813_0302182231_01_02.jpg",
+      "datePublished": "2026-03-02T17:33:55+09:00"
+    },
+    {
+      "name": "エプスタイン氏との関係について伊藤穰一氏が自身のHPで説明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015065691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260304/K10015065691_2603040018_0304055535_01_02.jpg",
+      "datePublished": "2026-03-04T05:55:34+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

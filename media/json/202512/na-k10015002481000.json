@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015002481000",
+  "dataSourceId": "na",
+  "name": "民事裁判手続きのIT化 オンラインで訴状の提出実施へ 来年5月21日から",
+  "headline": "民事裁判手続きIT化 オンラインで訴状提出実施へ 来年5月から",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015002481000",
+    "playlistId": "news-nwa-society-nationwide-20251212",
+    "newsarticleName": "民事裁判手続きのIT化 オンラインで訴状の提出実施へ 来年5月21日から",
+    "playlistName": "12月12日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "民事裁判の手続きをめぐり、政府は、裁判所へのオンラインでの訴状などの提出を、来年5月21日から実施することを決めました。これにより、法改正に伴うIT化はすべて実現することになります。\n\n\n2022年に",
+  "dateModified": "2025-12-12T18:36:24+09:00",
+  "datePublished": "2025-12-12T18:36:24+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251212/K10015002481_2512121820_1212183625_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251212/K10015002481_2512121820_1212183625_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会",
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "民事裁判の手続きをめぐり、政府は、裁判所へのオンラインでの訴状などの提出を、来年5月21日から実施することを決めました。これにより、法改正に伴うIT化はすべて実現することになります。\n\n\n2022年に",
+  "articleBody": "民事裁判の手続きをめぐり、政府は、裁判所へのオンラインでの訴状などの提出を、来年5月21日から実施することを決めました。これにより、法改正に伴うIT化はすべて実現することになります。\n\n\n2022年に成立した改正民事訴訟法などにより、民事裁判の手続きは段階的にIT化が進められ、口頭弁論でのウェブ会議の活用などが始まっています。\n\nそして、政府は12日の閣議で、裁判所への訴状などのオンラインでの提出や、訴状や判決など裁判の記録を裁判所が原則として電子データで管理し、当事者などがインターネット上で閲覧しダウンロードできるようにすることを、来年5月21日から実施することを決めました。\n\nこれにより、法改正に伴うIT化はすべて実現することになります。\n\n平口法務大臣は閣議のあとの記者会見で「改正法は大きな影響を与えるものであり、引き続き周知・広報をはじめとした準備に取り組んでいく」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "民事裁判の手続きをめぐり、政府は、裁判所へのオンラインでの訴状などの提出を、来年5月21日から実施することを決めました。これにより、法改正に伴うIT化はすべて実現することになります。\n",
+    "markedBody": "2022年に成立した改正民事訴訟法などにより、民事裁判の手続きは段階的にIT化が進められ、口頭弁論でのウェブ会議の活用などが始まっています。\n\nそして、政府は12日の閣議で、裁判所への訴状などのオンラインでの提出や、訴状や判決など裁判の記録を裁判所が原則として電子データで管理し、当事者などがインターネット上で閲覧しダウンロードできるようにすることを、来年5月21日から実施することを決めました。\n\nこれにより、法改正に伴うIT化はすべて実現することになります。\n\n![](https://news.web.nhk/news/html/20251212/K10015002481_2512121820_1212183625_02_03.jpg)\n\n平口法務大臣は閣議のあとの記者会見で「改正法は大きな影響を与えるものであり、引き続き周知・広報をはじめとした準備に取り組んでいく」と述べました。\n",
+    "trimmedLead": "民事裁判の手続きをめぐり、政府は、裁判所へのオンラインでの訴状などの提出を、来年5月21日から実施することを決めました。これにより、法改正に伴うIT化はすべて実現することになります。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015002481000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015002481000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

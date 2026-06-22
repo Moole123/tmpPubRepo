@@ -1,0 +1,165 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015100901000",
+  "dataSourceId": "na",
+  "name": "新潟 東京電力柏崎刈羽原発6号機が営業運転 首都圏などに電力供給",
+  "headline": "東京電力柏崎刈羽原発6号機が営業運転 首都圏などに電力供給",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015100901000",
+    "playlistId": "news-nwa-society-nationwide-20260416",
+    "newsarticleName": "新潟 東京電力柏崎刈羽原発6号機が営業運転 首都圏などに電力供給",
+    "playlistName": "4月16日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "東京電力は、ことし1月に再稼働させた新潟県にある柏崎刈羽原子力発電所6号機で、16日午後、営業運転を始めました。\n\n柏崎刈羽原発が営業運転し、発電した電力が首都圏などに供給されるのは、東京電力福島第一",
+  "dateModified": "2026-04-16T16:33:51+09:00",
+  "datePublished": "2026-04-16T16:05:14+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260416/K10015100901_2604161545_0416160515_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260416/K10015100901_2604161545_0416160515_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0000021",
+      "name": "原発",
+      "display": true
+    },
+    {
+      "id": "0002708",
+      "name": "原子力規制委員会",
+      "display": true
+    },
+    {
+      "id": "0002736",
+      "name": "資源・エネルギー",
+      "display": true
+    },
+    {
+      "id": "0002215",
+      "name": "新潟県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "東京電力は、ことし1月に再稼働させた新潟県にある柏崎刈羽原子力発電所6号機で、16日午後、営業運転を始めました。\n\n柏崎刈羽原発が営業運転し、発電した電力が首都圏などに供給されるのは、東京電力福島第一",
+  "articleBody": "東京電力は、ことし1月に再稼働させた新潟県にある柏崎刈羽原子力発電所6号機で、16日午後、営業運転を始めました。\n\n柏崎刈羽原発が営業運転し、発電した電力が首都圏などに供給されるのは、東京電力福島第一原発の事故のあと、6号機が運転を停止してからおよそ14年ぶりです。\n\n\nことし1月に再稼働した柏崎刈羽原発6号機では、16日、原子炉や発電機のタービンなど設備全体が正常に機能しているかを原子力規制委員会が確認する最終的な検査が行われました。\n\nその結果、問題がないことが確認されたということで、16日午後4時、原子力規制庁の担当者から稲垣武之所長に「使用前確認証」が交付され、6号機は営業運転を始めました。\n\n柏崎刈羽原発の営業運転で発電した電力が首都圏や静岡県東部の東京電力管内に供給されるのは、6号機が福島第一原発の事故のあと、2012年3月に定期検査で運転を停止してからおよそ14年ぶりとなります。\n\n国によりますと、東京電力管内ではこの夏の電力需給のひっ迫が懸念されていますが、柏崎刈羽原発6号機の営業運転で、電力の安定供給に最低限、必要とされる水準を上回る見込みだということです。\n\n一方、電気料金について、東京電力は2023年の家庭向けの主要プランの値上げの際に、6号機の再稼働を前提に値上げ幅を圧縮しているなどとして、今回の営業運転で値下げする予定はないとしています。\n\n柏崎刈羽原発6号機は、福島第一原発の事故のあと、東京電力の原発としては初めて再稼働しましたが、警報の不具合で原子炉を停止させた影響などで営業運転の開始は2回延期され、当初の予定より49日遅くなりました。\n",
+  "detailedArticleBody": {
+    "markedLead": "東京電力は、ことし1月に再稼働させた新潟県にある柏崎刈羽原子力発電所6号機で、16日午後、営業運転を始めました。\n\n柏崎刈羽原発が営業運転し、発電した電力が首都圏などに供給されるのは、東京電力福島第一原発の事故のあと、6号機が運転を停止してからおよそ14年ぶりです。\n",
+    "markedBody": "ことし1月に再稼働した柏崎刈羽原発6号機では、16日、原子炉や発電機のタービンなど設備全体が正常に機能しているかを原子力規制委員会が確認する最終的な検査が行われました。\n\nその結果、問題がないことが確認されたということで、16日午後4時、原子力規制庁の担当者から稲垣武之所長に「使用前確認証」が交付され、6号機は営業運転を始めました。\n\n柏崎刈羽原発の営業運転で発電した電力が首都圏や静岡県東部の東京電力管内に供給されるのは、6号機が福島第一原発の事故のあと、2012年3月に定期検査で運転を停止してからおよそ14年ぶりとなります。\n\n国によりますと、東京電力管内ではこの夏の電力需給のひっ迫が懸念されていますが、柏崎刈羽原発6号機の営業運転で、電力の安定供給に最低限、必要とされる水準を上回る見込みだということです。\n\n一方、電気料金について、東京電力は2023年の家庭向けの主要プランの値上げの際に、6号機の再稼働を前提に値上げ幅を圧縮しているなどとして、今回の営業運転で値下げする予定はないとしています。\n\n柏崎刈羽原発6号機は、福島第一原発の事故のあと、東京電力の原発としては初めて再稼働しましたが、警報の不具合で原子炉を停止させた影響などで営業運転の開始は2回延期され、当初の予定より49日遅くなりました。\n",
+    "trimmedLead": "東京電力は、ことし1月に再稼働させた新潟県にある柏崎刈羽原子力発電所6号機で、16日午後、営業運転を始めました。\n\n柏崎刈羽原発が営業運転し、発電した電力が首都圏などに供給されるのは、東京電力福島第一原発の事故のあと、6号機が運転を停止してからおよそ14年ぶりです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015100901000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015100901000",
+  "video": [],
+  "citation": [
+    {
+      "name": "京都 11歳男児遺体遺棄事件 父親が殺害も認める供述 警察",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015100451000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260416/K10015100451_2604161004_0416100953_01_03.jpg",
+      "datePublished": "2026-04-16T16:30:11+09:00"
+    },
+    {
+      "name": "熊本地震 本震から10年 追悼と復興の動き",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015100621000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260416/K10015100621_2604161143_0416131617_01_02.jpg",
+      "datePublished": "2026-04-16T16:00:27+09:00"
+    },
+    {
+      "name": "熊本地震10年 県と市町村初の合同追悼式 記憶と教訓の継承誓う",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015100301000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260416/K10015100301_2604161203_0416121111_01_02.jpg",
+      "datePublished": "2026-04-16T16:15:41+09:00"
+    },
+    {
+      "name": "熊本地震10年 特集サイト",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0000053",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31090203.jpg"
+    },
+    {
+      "name": "成田空港で小型ジェット機が滑走路を逸脱 けが人なし",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015100791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260416/K10015100791_2604161326_0416140845_01_02.jpg",
+      "datePublished": "2026-04-16T16:17:30+09:00"
+    },
+    {
+      "name": "教員らの児童盗撮事件 グループ開設の元教員に実刑判決",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015100801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260416/K10015100801_2604161345_0416152139_01_02.jpg",
+      "datePublished": "2026-04-16T15:21:39+09:00"
+    },
+    {
+      "name": "新潟 店員が切られけが 77歳の容疑者を逮捕 銃刀法違反の疑い",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015100591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260416/K10015100591_2604161030_0416110046_01_02.jpg",
+      "datePublished": "2026-04-16T15:41:58+09:00"
+    },
+    {
+      "name": "日経平均株価 終値で初の5万9000円台に 最高値を更新",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015100561000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260416/K10015100561_2604161531_0416160648_01_02.jpg",
+      "datePublished": "2026-04-16T16:06:47+09:00"
+    },
+    {
+      "name": "仲介国パキスタンがイラン訪問 米イラン2回目協議へ調整",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015100431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260416/K10015100431_2604161103_0416115718_01_02.jpg",
+      "datePublished": "2026-04-16T14:36:02+09:00"
+    },
+    {
+      "name": "トランプ大統領 キリストと寄り添って見える画像を引用し投稿",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015100841000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260416/K10015100841_2604161448_0416152204_01_02.jpg",
+      "datePublished": "2026-04-16T15:22:03+09:00"
+    },
+    {
+      "name": "ドジャース 大谷翔平 投手専念で今季2勝目 毎回の10奪三振",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015100581000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260416/K10015100581_2604161509_0416150928_01_02.jpg",
+      "datePublished": "2026-04-16T16:42:23+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

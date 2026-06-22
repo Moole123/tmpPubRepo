@@ -1,0 +1,193 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015083601000",
+  "dataSourceId": "na",
+  "name": "レギュラーガソリン小売価格 1リットル177.7円 過去最高の前週比13.1円値下がり 激変緩和措置 反映された形",
+  "headline": "ガソリン小売価格 1リットル177.7円 前週から13.1円値下がり",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015083601000",
+    "playlistId": "news-nwa-business-nationwide-20260325",
+    "newsarticleName": "レギュラーガソリン小売価格 1リットル177.7円 過去最高の前週比13.1円値下がり 激変緩和措置 反映された形",
+    "playlistName": "3月25日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "レギュラーガソリンの小売価格は、23日時点の全国平均で1リットルあたり177.7円と、過去最高となった前の週から13.1円、値下がりしました。今月19日の出荷分から実施されている政府の激変緩和措置が小",
+  "dateModified": "2026-03-25T15:35:47+09:00",
+  "datePublished": "2026-03-25T14:10:42+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260325/K10015083601_2603251414_0325141647_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260325/K10015083601_2603251414_0325141647_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000819",
+      "name": "原油価格",
+      "display": true
+    },
+    {
+      "id": "0002800",
+      "name": "イラン情勢 日本への影響・対応",
+      "display": true
+    },
+    {
+      "id": "0000820",
+      "name": "イラン情勢",
+      "display": true
+    },
+    {
+      "id": "0002736",
+      "name": "資源・エネルギー",
+      "display": true
+    },
+    {
+      "id": "0002133",
+      "name": "物価高騰",
+      "display": true
+    },
+    {
+      "id": "0002794",
+      "name": "ホルムズ海峡",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "レギュラーガソリンの小売価格は、23日時点の全国平均で1リットルあたり177.7円と、過去最高となった前の週から13.1円、値下がりしました。今月19日の出荷分から実施されている政府の激変緩和措置が小",
+  "articleBody": "レギュラーガソリンの小売価格は、23日時点の全国平均で1リットルあたり177.7円と、過去最高となった前の週から13.1円、値下がりしました。今月19日の出荷分から実施されている政府の激変緩和措置が小売価格に反映された形です。\n\n\n国の委託を受けてガソリン価格を調査している石油情報センターによりますと、レギュラーガソリンの小売価格は23日時点の全国平均で過去最高だった前の週から13.1円値下がりし、1リットルあたり177.7円となりました。\n\n値下がりは6週ぶりです。\n\nイラン情勢を背景に原油価格の高騰は続いていますが、ガソリンの小売価格を1リットルあたり170円程度に抑える政府の激変緩和措置が今月19日の出荷分から実施され、小売価格に反映された形です。\n\nあわせて経済産業省は、26日からの出荷分を対象とした補助金は1リットルあたり48.1円と、前の週よりおよそ18円上がってこれまでで最も高くなると発表しました。\n\n石油情報センターは来週の価格の見通しについて、「地域によって差があるものの、激変緩和措置の実施によって全国の平均価格は政府が目指している170円にさらに近づくとみられる」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "レギュラーガソリンの小売価格は、23日時点の全国平均で1リットルあたり177.7円と、過去最高となった前の週から13.1円、値下がりしました。今月19日の出荷分から実施されている政府の激変緩和措置が小売価格に反映された形です。\n",
+    "markedBody": "国の委託を受けてガソリン価格を調査している石油情報センターによりますと、レギュラーガソリンの小売価格は23日時点の全国平均で過去最高だった前の週から13.1円値下がりし、1リットルあたり177.7円となりました。\n\n値下がりは6週ぶりです。\n\nイラン情勢を背景に原油価格の高騰は続いていますが、ガソリンの小売価格を1リットルあたり170円程度に抑える政府の激変緩和措置が今月19日の出荷分から実施され、小売価格に反映された形です。\n\nあわせて経済産業省は、26日からの出荷分を対象とした補助金は1リットルあたり48.1円と、前の週よりおよそ18円上がってこれまでで最も高くなると発表しました。\n\n石油情報センターは来週の価格の見通しについて、「地域によって差があるものの、激変緩和措置の実施によって全国の平均価格は政府が目指している170円にさらに近づくとみられる」と話しています。\n",
+    "trimmedLead": "レギュラーガソリンの小売価格は、23日時点の全国平均で1リットルあたり177.7円と、過去最高となった前の週から13.1円、値下がりしました。今月19日の出荷分から実施されている政府の激変緩和措置が小売価格に反映された形です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015083601000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015083601000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "ガソリン小売価格 1リットル177.7円 前週から13.1円値下がり",
+      "description": "レギュラーガソリンの小売価格は、23日時点の全国平均で1リットルあたり177.7円と、過去最高となった前の週から13.1円、値下がりしました。今月19日の出荷分から実施されている政府の激変緩和措置が小",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015083601_202603251604_202603251606/index.m3u8&mrposter=/news/html/20260325/K10015083601_2603251414_0325141647_01_02.jpg",
+      "duration": "PT1M10S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015083601_202603251604_202603251606/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260325/K10015083601_2603251414_0325141647_01_02.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "化学メーカー団体“来月までは石油化学製品の製造続けられる”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260324/K10015082941_2603241629_0324211424_01_02.jpg",
+      "datePublished": "2026-03-24T21:14:24+09:00"
+    },
+    {
+      "name": "「ナフサ」供給懸念 長期化すれば医療現場に影響も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015083141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260324/K10015083141_2603241909_0324191144_01_02.jpg",
+      "datePublished": "2026-03-24T19:11:44+09:00"
+    },
+    {
+      "name": "株価 一時5万4000円台を回復 イラン情勢めぐる警戒感後退で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015083521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260325/K10015083521_2603250943_0325095445_01_02.jpg",
+      "datePublished": "2026-03-25T16:09:17+09:00"
+    },
+    {
+      "name": "フィリピン 国家エネルギー非常事態を宣言 イラン情勢に伴い",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015083451000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260325/K10015083451_2603250328_0325082055_01_02.jpg",
+      "datePublished": "2026-03-25T08:20:54+09:00"
+    },
+    {
+      "name": "“米 戦闘終結へ15項目の計画送付” イラン側 協議自体否定",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015083481000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260325/K10015083481_2603251234_0325131914_01_03.jpg",
+      "datePublished": "2026-03-25T15:40:52+09:00"
+    },
+    {
+      "name": "“マウスのクローンからクローン 58代目が限界”山梨大など",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015083791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260325/K10015083791_2603251356_0325161241_01_02.jpg",
+      "datePublished": "2026-03-25T16:12:40+09:00"
+    },
+    {
+      "name": "奈良 山下知事 “大阪のシカを奈良公園に放つなどはできない”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015083741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260325/K10015083741_2603251328_0325141721_01_02.jpg",
+      "datePublished": "2026-03-25T14:17:20+09:00"
+    },
+    {
+      "name": "西武渋谷店 9月末に閉店と発表 再開発で地権者と合意できず",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015083801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260325/K10015083801_2603251409_0325141853_01_02.jpg",
+      "datePublished": "2026-03-25T16:14:59+09:00"
+    },
+    {
+      "name": "マンション大規模修繕の闇～なりすまし見抜いた住民たちの記録",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015079521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260323/K10015079521_2603191648_0323133828_01_02.jpg",
+      "datePublished": "2026-03-23T13:38:27+09:00"
+    },
+    {
+      "name": "“苦しまなければ上達できない” 美食の国の厨房で何が？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015064121000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260322/K10015064121_2603031653_0322103331_01_02.jpg",
+      "datePublished": "2026-03-22T10:33:30+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

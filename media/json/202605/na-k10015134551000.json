@@ -1,0 +1,156 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015134551000",
+  "dataSourceId": "na",
+  "name": "完全失業率 4月は2.5％ 前の月より0.2ポイント改善 総務省",
+  "headline": "完全失業率 4月は2.5％ 前の月より0.2ポイント改善 総務省",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015134551000",
+    "playlistId": "news-nwa-society-nationwide-20260529",
+    "newsarticleName": "完全失業率 4月は2.5％ 前の月より0.2ポイント改善 総務省",
+    "playlistName": "5月29日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "4月の全国の完全失業率は2.5％で、前の月より0.2ポイント改善しました。\n\n\n総務省によりますと、4月の就業者数は6860万人で、前の年の同じ月と比べて64万人増え、3か月連続で増加しました。\n\n主",
+  "dateModified": "2026-05-29T09:47:15+09:00",
+  "datePublished": "2026-05-29T08:39:17+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260529/K10015134551_2605290838_0529083918_02_01.jpg",
+      "height": 719,
+      "width": 1279
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260529/K10015134551_2605290838_0529083918_01_02.jpg",
+      "height": 719,
+      "width": 1279
+    }
+  },
+  "genre": [
+    "社会",
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0002738",
+      "name": "統計・指標",
+      "display": true
+    },
+    {
+      "id": "0000279",
+      "name": "仕事・働き方",
+      "display": true
+    },
+    {
+      "id": "0002399",
+      "name": "総務省",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "4月の全国の完全失業率は2.5％で、前の月より0.2ポイント改善しました。\n\n\n総務省によりますと、4月の就業者数は6860万人で、前の年の同じ月と比べて64万人増え、3か月連続で増加しました。\n\n主",
+  "articleBody": "4月の全国の完全失業率は2.5％で、前の月より0.2ポイント改善しました。\n\n\n総務省によりますと、4月の就業者数は6860万人で、前の年の同じ月と比べて64万人増え、3か月連続で増加しました。\n\n主な産業別の就業者では、「宿泊業、飲食サービス業」が前の年の同じ月と比べて35万人、「生活関連サービス業、娯楽業」が16万人、それぞれ増加しています。\n\nまた、正規の職員や従業員の数は3735万人で、前の年の同じ月と比べて26万人増え、30か月連続の増加となりました。\n\n一方、完全失業者数は193万人で、前の年の同じ月に比べて5万人増えました。\n\nこの結果、季節による変動要因を除いた全国の完全失業率は2.5％で、前の月より0.2ポイント改善しました。\n\n総務省は「年度の切り替わりで転職をしたり新たに働き始めたりするケースが増えたことが要因と考えられる。引き続き就業者や完全失業者の動向を注視したい」としています。\n",
+  "detailedArticleBody": {
+    "markedLead": "4月の全国の完全失業率は2.5％で、前の月より0.2ポイント改善しました。\n",
+    "markedBody": "総務省によりますと、4月の就業者数は6860万人で、前の年の同じ月と比べて64万人増え、3か月連続で増加しました。\n\n主な産業別の就業者では、「宿泊業、飲食サービス業」が前の年の同じ月と比べて35万人、「生活関連サービス業、娯楽業」が16万人、それぞれ増加しています。\n\nまた、正規の職員や従業員の数は3735万人で、前の年の同じ月と比べて26万人増え、30か月連続の増加となりました。\n\n一方、完全失業者数は193万人で、前の年の同じ月に比べて5万人増えました。\n\nこの結果、季節による変動要因を除いた全国の完全失業率は2.5％で、前の月より0.2ポイント改善しました。\n\n総務省は「年度の切り替わりで転職をしたり新たに働き始めたりするケースが増えたことが要因と考えられる。引き続き就業者や完全失業者の動向を注視したい」としています。\n",
+    "trimmedLead": "4月の全国の完全失業率は2.5％で、前の月より0.2ポイント改善しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015134551000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015134551000",
+  "video": [],
+  "citation": [
+    {
+      "name": "日本の人口は1億2305万人 減少幅は過去最大 国勢調査速報値",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134531_2605290046_0529083052_01_02.jpg",
+      "datePublished": "2026-05-29T09:34:49+09:00"
+    },
+    {
+      "name": "全国の有効求人倍率 4月は1.18倍で前月と同水準 人手不足続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134291_2605290844_0529084533_01_02.jpg",
+      "datePublished": "2026-05-29T08:45:32+09:00"
+    },
+    {
+      "name": "栃木強盗殺人 海外出国の逮捕状出された容疑者を公開手配へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134441_2605282353_0529000108_01_02.jpg",
+      "datePublished": "2026-05-29T00:01:07+09:00"
+    },
+    {
+      "name": "広い範囲で真夏日予想 熱中症対策を 台風6号の最新情報に注意",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134411000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134411_2605290553_0529060853_01_02.jpg",
+      "datePublished": "2026-05-29T06:08:53+09:00"
+    },
+    {
+      "name": "覚書めぐり暫定合意と米報道 イラン報道「最終決定されず」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134541_2605290353_0529045956_01_02.jpg",
+      "datePublished": "2026-05-29T07:13:36+09:00"
+    },
+    {
+      "name": "熊本 八代新庁舎汚職事件 ジャーナリスト名乗り職員に接触か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134401_2605282234_0529051635_01_02.jpg",
+      "datePublished": "2026-05-29T05:16:34+09:00"
+    },
+    {
+      "name": "首都直下地震対策 感震ブレーカーをおおむね設置 基本計画案",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134381000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134381_2605282358_0529052339_01_02.jpg",
+      "datePublished": "2026-05-29T05:23:39+09:00"
+    },
+    {
+      "name": "スルメイカ 昨年度の漁獲上限を超過 管理の難しさ浮き彫りに",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134371_2605282346_0529052810_01_02.jpg",
+      "datePublished": "2026-05-29T05:28:09+09:00"
+    },
+    {
+      "name": "エアコン事故に注意 本格的な夏前に周辺の点検と試運転を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134491000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015134491_2605282338_0528235034_01_02.jpg",
+      "datePublished": "2026-05-28T23:50:33+09:00"
+    },
+    {
+      "name": "最新クマ対策 AI・ドローンで被害防げ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015131471_2605281240_0528165620_01_02.jpg",
+      "datePublished": "2026-05-28T16:56:19+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

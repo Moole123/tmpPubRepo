@@ -1,0 +1,101 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014829711000",
+  "dataSourceId": "na",
+  "name": "2025年梅雨入り 中国地方と近畿、東海は9日発表 九州北部と四国は8日",
+  "headline": "中国地方・近畿・東海が梅雨入り いずれも平年より3日遅く",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014829711000",
+    "playlistId": "news-nwa-disaster-nationwide-20250609",
+    "newsarticleName": "2025年梅雨入り 中国地方と近畿、東海は9日発表 九州北部と四国は8日",
+    "playlistName": "6月9日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "梅雨前線や湿った空気の影響で中国地方と近畿、東海では雨が降り、この先1週間も雨や曇りの日が多くなると予想されることから、気象庁は午前11時に「中国地方と近畿、東海が梅雨入りしたと見られる」と発表しまし",
+  "dateModified": "2025-06-09T11:12:19+09:00",
+  "datePublished": "2025-06-09T11:12:19+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250609/K10014829711_2506091107_0609111146_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250609/K10014829711_2506091107_0609111146_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "梅雨前線や湿った空気の影響で中国地方と近畿、東海では雨が降り、この先1週間も雨や曇りの日が多くなると予想されることから、気象庁は午前11時に「中国地方と近畿、東海が梅雨入りしたと見られる」と発表しまし",
+  "articleBody": "梅雨前線や湿った空気の影響で中国地方と近畿、東海では雨が降り、この先1週間も雨や曇りの日が多くなると予想されることから、気象庁は午前11時に「中国地方と近畿、東海が梅雨入りしたと見られる」と発表しました。\n\n\n各地の梅雨入りはいずれも平年より3日遅く、去年と比べると中国地方は11日、近畿は8日、東海は12日それぞれ早くなっています。\n\nいまの雨雲の状況は アプリで確認\n\nいまの雨雲の状況は アプリで確認\nアプリでは、雨雲レーダーをはじめ、現在地やお住まいの地域の天気予報や、気になる会見などのライブ配信、最新のニュースをご確認いただけます\n",
+  "detailedArticleBody": {
+    "markedLead": "梅雨前線や湿った空気の影響で中国地方と近畿、東海では雨が降り、この先1週間も雨や曇りの日が多くなると予想されることから、気象庁は午前11時に「中国地方と近畿、東海が梅雨入りしたと見られる」と発表しました。\n",
+    "markedBody": "各地の梅雨入りはいずれも平年より3日遅く、去年と比べると中国地方は11日、近畿は8日、東海は12日それぞれ早くなっています。\n\n:::nw--link-type4 {href=https://news.web.nhk/news/news_bousai_app/index.html}\n![いまの雨雲の状況は アプリで確認](https://news.web.nhk/news/html/20250609/K10014829711_2506091212_0609123312_02_04.jpg)\n\n**いまの雨雲の状況は アプリで確認**\\\nアプリでは、雨雲レーダーをはじめ、現在地やお住まいの地域の天気予報や、気になる会見などのライブ配信、最新のニュースをご確認いただけます\n:::\n",
+    "trimmedLead": "梅雨前線や湿った空気の影響で中国地方と近畿、東海では雨が降り、この先1週間も雨や曇りの日が多くなると予想されることから、気象庁は午前11時に「中国地方と近畿、東海が梅雨入りしたと見られる」と発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014829711000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014829711000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "中国地方・近畿・東海が梅雨入り いずれも平年より3日遅く",
+      "description": "梅雨前線や湿った空気の影響で中国地方と近畿、東海では雨が降り、この先1週間も雨や曇りの日が多くなると予想されることから、気象庁は午前11時に「中国地方と近畿、東海が梅雨入りしたと見られる」と発表しまし",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10014829711_202506091107_202506091111/index.m3u8&mrposter=/news/html/20250609/K10014829711_2506091107_0609111146_01_03.jpg",
+      "duration": "PT31S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10014829711_202506091107_202506091111/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20250609/K10014829711_2506091107_0609111146_01_03.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

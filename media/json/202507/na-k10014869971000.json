@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014869971000",
+  "dataSourceId": "na",
+  "name": "松江 海の日に 海に浮かべたいかだに乗って綱引き大会",
+  "headline": "松江 海の日に 海に浮かべたいかだに乗って綱引き大会",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014869971000",
+    "playlistId": "news-nwa-life-nationwide-20250721",
+    "newsarticleName": "松江 海の日に 海に浮かべたいかだに乗って綱引き大会",
+    "playlistName": "7月21日の暮らしニュース",
+    "genreId": "life",
+    "genreIdSlug": "life"
+  },
+  "description": "「海の日」の21日、松江市の海水浴場で、海に浮かべたいかだに乗って、綱引きで競う大会が開かれました。\n\n\nこの綱引き大会は、松江市の北浦海水浴場で毎年海の日にあわせて開かれていて、小学生から大人までの",
+  "dateModified": "2025-07-21T17:33:56+09:00",
+  "datePublished": "2025-07-21T17:33:56+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250721/K10014869971_2507211636_0721164811_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250721/K10014869971_2507211636_0721164811_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "暮らし",
+    "地域"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "「海の日」の21日、松江市の海水浴場で、海に浮かべたいかだに乗って、綱引きで競う大会が開かれました。\n\n\nこの綱引き大会は、松江市の北浦海水浴場で毎年海の日にあわせて開かれていて、小学生から大人までの",
+  "articleBody": "「海の日」の21日、松江市の海水浴場で、海に浮かべたいかだに乗って、綱引きで競う大会が開かれました。\n\n\nこの綱引き大会は、松江市の北浦海水浴場で毎年海の日にあわせて開かれていて、小学生から大人までの300人余りが参加しました。\n\nそして、5人でチームを組み、海水浴場に浮かぶ、縦4メートル、横2メートルのいかだに乗って、同じようにいかだに乗った相手チームと綱引きで競いました。\n\n対戦時間は45秒で、綱を引き寄せるか、相手チームを全員海に落とせば勝ちとなります。\n\n参加者たちは対戦が始まると、全員で息をそろえて力強く綱を引いていました。\n\n中には熱戦のあまり、綱ごと引っ張られて海に落ちる人もいて、浜辺からは大きな歓声が上がっていました。\n\n毎年参加しているという松江市の30代の女性は「ことしの海はとても気持ちがいいです。バーベキューも楽しみたいです」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "「海の日」の21日、松江市の海水浴場で、海に浮かべたいかだに乗って、綱引きで競う大会が開かれました。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20250721/K10014869971_2507211636_0721164811_02_03.jpg)\n\nこの綱引き大会は、松江市の北浦海水浴場で毎年海の日にあわせて開かれていて、小学生から大人までの300人余りが参加しました。\n\nそして、5人でチームを組み、海水浴場に浮かぶ、縦4メートル、横2メートルのいかだに乗って、同じようにいかだに乗った相手チームと綱引きで競いました。\n\n対戦時間は45秒で、綱を引き寄せるか、相手チームを全員海に落とせば勝ちとなります。\n\n![](https://news.web.nhk/news/html/20250721/K10014869971_2507211636_0721164811_02_04.jpg)\n\n参加者たちは対戦が始まると、全員で息をそろえて力強く綱を引いていました。\n\n中には熱戦のあまり、綱ごと引っ張られて海に落ちる人もいて、浜辺からは大きな歓声が上がっていました。\n\n![](https://news.web.nhk/news/html/20250721/K10014869971_2507211636_0721164811_02_05.jpg)\n\n毎年参加しているという松江市の30代の女性は「ことしの海はとても気持ちがいいです。バーベキューも楽しみたいです」と話していました。\n",
+    "trimmedLead": "「海の日」の21日、松江市の海水浴場で、海に浮かべたいかだに乗って、綱引きで競う大会が開かれました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014869971000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014869971000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

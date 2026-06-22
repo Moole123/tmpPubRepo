@@ -1,0 +1,166 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015155511000",
+  "dataSourceId": "na",
+  "name": "神戸 マンションで切断された遺体見つかる",
+  "headline": "神戸 マンションで切断された遺体見つかる",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015155511000",
+    "playlistId": "news-nwa-society-nationwide-20260620",
+    "newsarticleName": "神戸 マンションで切断された遺体見つかる",
+    "playlistName": "6月20日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "20日午後、神戸市のマンションの1室で、切断された状態の遺体が見つかりました。警察が身元の確認を進めるとともに事件に巻き込まれたとみて詳しい状況を調べています。\n\n\n捜査関係者によりますと、神戸市中央",
+  "dateModified": "2026-06-20T21:17:53+09:00",
+  "datePublished": "2026-06-20T21:17:53+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260620/K10015155511_2606202116_0620211754_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260620/K10015155511_2606202116_0620211754_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0001538",
+      "name": "事件・事故",
+      "display": true
+    },
+    {
+      "id": "0002228",
+      "name": "兵庫県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "20日午後、神戸市のマンションの1室で、切断された状態の遺体が見つかりました。警察が身元の確認を進めるとともに事件に巻き込まれたとみて詳しい状況を調べています。\n\n\n捜査関係者によりますと、神戸市中央",
+  "articleBody": "20日午後、神戸市のマンションの1室で、切断された状態の遺体が見つかりました。警察が身元の確認を進めるとともに事件に巻き込まれたとみて詳しい状況を調べています。\n\n\n捜査関係者によりますと、神戸市中央区のマンションから異臭がするという通報があったため、警察官が駆けつけたところ、20日午後、このマンションの1室で切断された状態の遺体が見つかりました。\n\n遺体は、時間が経過している可能性があるということです。\n\n現場は神戸市の中心部の元町駅から北西にある住宅地で、警察が身元の確認を進めるとともに、事件に巻き込まれたとみて詳しい状況を調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "20日午後、神戸市のマンションの1室で、切断された状態の遺体が見つかりました。警察が身元の確認を進めるとともに事件に巻き込まれたとみて詳しい状況を調べています。\n",
+    "markedBody": "捜査関係者によりますと、神戸市中央区のマンションから異臭がするという通報があったため、警察官が駆けつけたところ、20日午後、このマンションの1室で切断された状態の遺体が見つかりました。\n\n遺体は、時間が経過している可能性があるということです。\n\n現場は神戸市の中心部の元町駅から北西にある住宅地で、警察が身元の確認を進めるとともに、事件に巻き込まれたとみて詳しい状況を調べています。\n",
+    "trimmedLead": "20日午後、神戸市のマンションの1室で、切断された状態の遺体が見つかりました。警察が身元の確認を進めるとともに事件に巻き込まれたとみて詳しい状況を調べています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015155511000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015155511000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "神戸 マンションで切断された遺体見つかる",
+      "description": "20日午後、神戸市のマンションの1室で、切断された状態の遺体が見つかりました。警察が身元の確認を進めるとともに事件に巻き込まれたとみて詳しい状況を調べています。\n\n\n捜査関係者によりますと、神戸市中央",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015155511_202606202113_202606202115/index.m3u8&mrposter=/news/html/20260620/K10015155511_2606202116_0620211754_01_03.jpg",
+      "duration": "PT38S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015155511_202606202113_202606202115/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260620/K10015155511_2606202116_0620211754_01_03.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "“米特使とイラン外相がスイスへ”報道 協議の実現が焦点",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015154941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260620/K10015154941_2606201929_0620193101_01_03.jpg",
+      "datePublished": "2026-06-20T19:31:01+09:00"
+    },
+    {
+      "name": "東海道新幹線 人身事故 ホーム柵の開放部から線路に立ち入りか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015155431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260620/K10015155431_2606201839_0620191642_01_03.jpg",
+      "datePublished": "2026-06-20T19:16:41+09:00"
+    },
+    {
+      "name": "東北南部と新潟県含む北陸が梅雨入り 激しい雨のおそれ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015155191000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260620/K10015155191_2606201747_0620175916_01_03.jpg",
+      "datePublished": "2026-06-20T17:52:50+09:00"
+    },
+    {
+      "name": "台風7号発生 沖縄県に近づくおそれ 今後の情報に注意",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015155061000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260620/K10015155061_2606201037_0620103756_01_02.jpg",
+      "datePublished": "2026-06-20T04:42:16+09:00"
+    },
+    {
+      "name": "東京 北区 小学校の火事 音楽準備室が火元とみて現場検証",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015154921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260620/K10015154921_2606201148_0620120734_01_02.jpg",
+      "datePublished": "2026-06-20T12:17:37+09:00"
+    },
+    {
+      "name": "皇族数確保 要綱案22日に提示へ 各党・各会派にも説明 政府",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015154891000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260620/K10015154891_2606200013_0620052328_01_02.jpg",
+      "datePublished": "2026-06-20T05:23:27+09:00"
+    },
+    {
+      "name": "天皇皇后両陛下 オランダで桜の記念植樹",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015154911000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260620/K10015154911_2606200052_0620052041_01_02.jpg",
+      "datePublished": "2026-06-20T05:20:40+09:00"
+    },
+    {
+      "name": "ドジャース 大谷翔平選手 第2子の誕生をSNSで発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015155171000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260620/K10015155171_2606201716_0620172743_01_02.jpg",
+      "datePublished": "2026-06-20T17:27:42+09:00"
+    },
+    {
+      "name": "FIFAワールドカップ2026【NHK特設サイト】",
+      "url": "https://nhk.jp/fifawc?cid=wc26-newsweb-awayomi",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31365091.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015129041000",
+  "dataSourceId": "na",
+  "name": "スーパーのコメ価格 5キロ税込み3768円 4週ぶり値上がり",
+  "headline": "スーパーのコメ価格 5キロ税込み3768円 4週ぶり値上がり",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015129041000",
+    "playlistId": "news-nwa-business-nationwide-20260522",
+    "newsarticleName": "スーパーのコメ価格 5キロ税込み3768円 4週ぶり値上がり",
+    "playlistName": "5月22日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "全国のスーパーで今月17日までの1週間に販売されたコメの平均価格は、5キロ当たり税込みで3768円と前の週より26円値上がりしました。4週ぶりの上昇となったものの、農林水産省は、値下げ販売の動きは続い",
+  "dateModified": "2026-05-22T18:10:42+09:00",
+  "datePublished": "2026-05-22T17:34:35+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260522/K10015129041_2605221711_0522173436_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260522/K10015129041_2605221711_0522173436_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0002613",
+      "name": "コメ",
+      "display": true
+    },
+    {
+      "id": "0002420",
+      "name": "農業",
+      "display": true
+    },
+    {
+      "id": "0002400",
+      "name": "農林水産省",
+      "display": true
+    },
+    {
+      "id": "0002133",
+      "name": "物価高騰",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "全国のスーパーで今月17日までの1週間に販売されたコメの平均価格は、5キロ当たり税込みで3768円と前の週より26円値上がりしました。4週ぶりの上昇となったものの、農林水産省は、値下げ販売の動きは続い",
+  "articleBody": "全国のスーパーで今月17日までの1週間に販売されたコメの平均価格は、5キロ当たり税込みで3768円と前の週より26円値上がりしました。4週ぶりの上昇となったものの、農林水産省は、値下げ販売の動きは続いているとして、「値下がりの傾向に変わりはない」としています。\n\n\n農林水産省は、全国のスーパーおよそ1000店でのコメの販売価格をまとめて毎週発表しています。\n\nそれによりますと、今月11日から17日までの1週間の平均価格は、5キロ当たり税込みで3768円と前の週より26円値上がりしました。\n\n価格の上昇は4週ぶりです。\n\n内訳を見ると、産地と品種が単一の銘柄米は32円値上がりして3841円、ブレンド米なども7円値上がりし、3541円でした。\n\n値上がりとなったものの、上昇幅は前の週の値下がり分より小さく、コメの在庫量が去年を上回る中、小売店や卸売業者の間で値下げして販売する動きも続いているとして、農林水産省は「値下がりの傾向に変わりはない」としています。\n",
+  "detailedArticleBody": {
+    "markedLead": "全国のスーパーで今月17日までの1週間に販売されたコメの平均価格は、5キロ当たり税込みで3768円と前の週より26円値上がりしました。4週ぶりの上昇となったものの、農林水産省は、値下げ販売の動きは続いているとして、「値下がりの傾向に変わりはない」としています。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20260522/K10015129041_2605221808_0522181043_02_03.jpg)\n\n農林水産省は、全国のスーパーおよそ1000店でのコメの販売価格をまとめて毎週発表しています。\n\nそれによりますと、今月11日から17日までの1週間の平均価格は、5キロ当たり税込みで3768円と前の週より26円値上がりしました。\n\n価格の上昇は4週ぶりです。\n\n内訳を見ると、産地と品種が単一の銘柄米は32円値上がりして3841円、ブレンド米なども7円値上がりし、3541円でした。\n\n値上がりとなったものの、上昇幅は前の週の値下がり分より小さく、コメの在庫量が去年を上回る中、小売店や卸売業者の間で値下げして販売する動きも続いているとして、農林水産省は「値下がりの傾向に変わりはない」としています。\n",
+    "trimmedLead": "全国のスーパーで今月17日までの1週間に販売されたコメの平均価格は、5キロ当たり税込みで3768円と前の週より26円値上がりしました。4週ぶりの上昇となったものの、農林水産省は、値下げ販売の動きは続いているとして、「値下がりの傾向に変わりはない」としています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015129041000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015129041000",
+  "video": [],
+  "citation": [
+    {
+      "name": "鈴木農相 “主食用米 需要を大幅に超過すれば価格は下落”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015128741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260522/K10015128741_2605221452_0522151319_01_02.jpg",
+      "datePublished": "2026-05-22T15:13:19+09:00"
+    },
+    {
+      "name": "主食用米の作付面積は去年並みの水準に 農水省4月末調査",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015126751000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260520/K10015126751_2605201610_0520171135_01_02.jpg",
+      "datePublished": "2026-05-20T17:11:34+09:00"
+    },
+    {
+      "name": "消費者の節約志向で雑貨店やスーパーに変化も… 4月の物価は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015128341000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260522/K10015128341_2605221707_0522174107_01_03.jpg",
+      "datePublished": "2026-05-22T17:56:11+09:00"
+    },
+    {
+      "name": "「日本国国旗損壊罪」法案の骨子案を大筋了承 自民作業チーム",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015128541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260522/K10015128541_2605221215_0522124416_01_03.jpg",
+      "datePublished": "2026-05-22T19:30:04+09:00"
+    },
+    {
+      "name": "辺野古沖転覆事故 死亡の船長を海上運送法違反疑いで国が告発",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015128381000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260522/K10015128381_2605221426_0522143810_01_02.jpg",
+      "datePublished": "2026-05-22T17:36:03+09:00"
+    },
+    {
+      "name": "辺野古沖転覆 “高校の教育内容は政治的中立性に違反” 文科省",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015128371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260522/K10015128371_2605220945_0522100249_01_02.jpg",
+      "datePublished": "2026-05-22T19:34:42+09:00"
+    },
+    {
+      "name": "サントリーホールディングス 新浪剛史元会長を不起訴 福岡地検",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015128851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260522/K10015128851_2605221610_0522165211_01_02.jpg",
+      "datePublished": "2026-05-22T16:52:11+09:00"
+    },
+    {
+      "name": "東京 新宿 強盗予備事件で新たに少年ら4人逮捕 SNSで応募も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015129011000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260522/K10015129011_2605221649_0522171859_01_02.jpg",
+      "datePublished": "2026-05-22T17:18:58+09:00"
+    },
+    {
+      "name": "兵庫の中世豪族の民家2棟 新たに国宝指定へ 文化庁の審議会",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015128691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260522/K10015128691_2605221337_0522170456_01_02.jpg",
+      "datePublished": "2026-05-22T17:04:55+09:00"
+    },
+    {
+      "name": "エアコンが高くなる！？ 命守るための適切な使い方は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015121221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260521/K10015121221_2605201307_0521175105_01_02.jpg",
+      "datePublished": "2026-05-21T17:51:03+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

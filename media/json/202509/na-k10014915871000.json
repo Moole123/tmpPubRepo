@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014915871000",
+  "dataSourceId": "na",
+  "name": "ブラジルで盆踊りモチーフのダンス交流 日本文化紹介イベント",
+  "headline": "ブラジルで盆踊りモチーフのダンス交流 日本文化紹介イベント",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014915871000",
+    "playlistId": "news-nwa-international-nationwide-20250907",
+    "newsarticleName": "ブラジルで盆踊りモチーフのダンス交流 日本文化紹介イベント",
+    "playlistName": "9月7日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "世界最大の日系人社会のある南米のブラジルで、日本の文化を紹介するイベントが開かれ、日系人団体が考案した盆踊りをモチーフにしたダンスを大勢の若者が楽しみました。\n\n\nこのイベントは、ブラジル南部パラナ州",
+  "dateModified": "2025-09-07T18:51:43+09:00",
+  "datePublished": "2025-09-07T18:51:43+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250907/K10014915871_2509071809_0907185145_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250907/K10014915871_2509071809_0907185145_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "世界最大の日系人社会のある南米のブラジルで、日本の文化を紹介するイベントが開かれ、日系人団体が考案した盆踊りをモチーフにしたダンスを大勢の若者が楽しみました。\n\n\nこのイベントは、ブラジル南部パラナ州",
+  "articleBody": "世界最大の日系人社会のある南米のブラジルで、日本の文化を紹介するイベントが開かれ、日系人団体が考案した盆踊りをモチーフにしたダンスを大勢の若者が楽しみました。\n\n\nこのイベントは、ブラジル南部パラナ州ロンドリーナで毎年この時期に開かれ、日本のポップミュージックにあわせて踊る、盆踊りをモチーフにしたダンスが呼び物になっています。\n\n6日は、このダンスの曲を歌う歌手の相川七瀬さんが初めて出演し、人気曲を披露して会場を盛り上げました。\n\n相川さんは、日系人団体が振り付けを担当した新曲も披露して、大勢の若者などと一緒に踊って交流を深めていました。\n\n参加した地元の人は「相川さんと一緒に踊ることができて感動した」と話していました。\n\n相川さんは「日系人団体の人たちが日本の伝統あるものをブラジル流に形を変えて伝えていることがすごくうれしい」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "世界最大の日系人社会のある南米のブラジルで、日本の文化を紹介するイベントが開かれ、日系人団体が考案した盆踊りをモチーフにしたダンスを大勢の若者が楽しみました。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20250907/K10014915871_2509071809_0907185145_02_03.jpg)\n\nこのイベントは、ブラジル南部パラナ州ロンドリーナで毎年この時期に開かれ、日本のポップミュージックにあわせて踊る、盆踊りをモチーフにしたダンスが呼び物になっています。\n\n6日は、このダンスの曲を歌う歌手の相川七瀬さんが初めて出演し、人気曲を披露して会場を盛り上げました。\n\n相川さんは、日系人団体が振り付けを担当した新曲も披露して、大勢の若者などと一緒に踊って交流を深めていました。\n\n参加した地元の人は「相川さんと一緒に踊ることができて感動した」と話していました。\n\n相川さんは「日系人団体の人たちが日本の伝統あるものをブラジル流に形を変えて伝えていることがすごくうれしい」と話していました。\n",
+    "trimmedLead": "世界最大の日系人社会のある南米のブラジルで、日本の文化を紹介するイベントが開かれ、日系人団体が考案した盆踊りをモチーフにしたダンスを大勢の若者が楽しみました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014915871000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014915871000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

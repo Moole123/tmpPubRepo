@@ -1,0 +1,101 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015017541000",
+  "dataSourceId": "na",
+  "name": "ブルガリアがヨーロッパの単一通貨ユーロを導入 21か国に拡大",
+  "headline": "ブルガリアがヨーロッパの単一通貨ユーロを導入 21か国に拡大",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015017541000",
+    "playlistId": "news-nwa-international-nationwide-20260101",
+    "newsarticleName": "ブルガリアがヨーロッパの単一通貨ユーロを導入 21か国に拡大",
+    "playlistName": "1月1日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "東欧のブルガリアが1日からユーロを導入し、ユーロ圏は21か国に拡大しました。\n\n\nヨーロッパの単一通貨、ユーロは、1999年にドイツやフランスなど11か国で導入されたあと段階的に導入する国が増え、こと",
+  "dateModified": "2026-01-01T10:41:34+09:00",
+  "datePublished": "2026-01-01T10:41:34+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260101/K10015017541_2601011031_0101104135_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260101/K10015017541_2601011031_0101104135_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "東欧のブルガリアが1日からユーロを導入し、ユーロ圏は21か国に拡大しました。\n\n\nヨーロッパの単一通貨、ユーロは、1999年にドイツやフランスなど11か国で導入されたあと段階的に導入する国が増え、こと",
+  "articleBody": "東欧のブルガリアが1日からユーロを導入し、ユーロ圏は21か国に拡大しました。\n\n\nヨーロッパの単一通貨、ユーロは、1999年にドイツやフランスなど11か国で導入されたあと段階的に導入する国が増え、ことしからブルガリアが加わってユーロ圏は21か国になりました。\n\nユーロ圏に新たな国が加わるのは3年前・2023年に導入したクロアチア以来となります。\n\n現地では、今後1か月かけて従来の通貨「レフ」からの切り替えが進められることになっています。\n\nブルガリアは、EU＝ヨーロッパ連合の加盟国の中で1人当たりのGDP＝国内総生産が最も低く、ユーロの導入によってビジネスの活性化や、外国人観光客の増加が期待されています。\n\nEUのフォンデアライエン委員長は12月31日、声明で「ブルガリアにとってよい一歩で、ヨーロッパ全体も強くする。私たちの経済をより強じんにし、世界的な競争力を高める」と述べ、歓迎しています。\n\n一方、EUの加盟国で今もユーロを導入していないのは、過去に国民投票で参加を見送ったスウェーデンなど6か国となっています。\n",
+  "detailedArticleBody": {
+    "markedLead": "東欧のブルガリアが1日からユーロを導入し、ユーロ圏は21か国に拡大しました。\n",
+    "markedBody": "ヨーロッパの単一通貨、ユーロは、1999年にドイツやフランスなど11か国で導入されたあと段階的に導入する国が増え、ことしからブルガリアが加わってユーロ圏は21か国になりました。\n\nユーロ圏に新たな国が加わるのは3年前・2023年に導入したクロアチア以来となります。\n\n現地では、今後1か月かけて従来の通貨「レフ」からの切り替えが進められることになっています。\n\nブルガリアは、EU＝ヨーロッパ連合の加盟国の中で1人当たりのGDP＝国内総生産が最も低く、ユーロの導入によってビジネスの活性化や、外国人観光客の増加が期待されています。\n\nEUのフォンデアライエン委員長は12月31日、声明で「ブルガリアにとってよい一歩で、ヨーロッパ全体も強くする。私たちの経済をより強じんにし、世界的な競争力を高める」と述べ、歓迎しています。\n\n一方、EUの加盟国で今もユーロを導入していないのは、過去に国民投票で参加を見送ったスウェーデンなど6か国となっています。\n",
+    "trimmedLead": "東欧のブルガリアが1日からユーロを導入し、ユーロ圏は21か国に拡大しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015017541000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015017541000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "ブルガリアがヨーロッパの単一通貨ユーロを導入 21か国に拡大",
+      "description": "東欧のブルガリアが1日からユーロを導入し、ユーロ圏は21か国に拡大しました。\n\n\nヨーロッパの単一通貨、ユーロは、1999年にドイツやフランスなど11か国で導入されたあと段階的に導入する国が増え、こと",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015017541_202601011327_202601011327/index.m3u8&mrposter=/news/html/20260101/K10015017541_2601011031_0101104135_01_02.jpg",
+      "duration": "PT1M6S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015017541_202601011327_202601011327/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260101/K10015017541_2601011031_0101104135_01_02.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

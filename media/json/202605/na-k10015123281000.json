@@ -1,0 +1,138 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015123281000",
+  "dataSourceId": "na",
+  "name": "ハンタウイルス感染 8人に修正 変異の報告なし WHO",
+  "headline": "ハンタウイルス感染 8人に修正 変異の報告なし WHO",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015123281000",
+    "playlistId": "news-nwa-international-nationwide-20260516",
+    "newsarticleName": "ハンタウイルス感染 8人に修正 変異の報告なし WHO",
+    "playlistName": "5月16日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "ハンタウイルスの集団感染が疑われているクルーズ船をめぐり、WHO＝世界保健機関は、これまで9人としていた感染者数について、1人少ない8人に修正しました。感染力を強めるような変異は今のところ報告されてい",
+  "dateModified": "2026-05-16T09:16:04+09:00",
+  "datePublished": "2026-05-16T09:16:04+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260516/K10015123281_2605160159_0516091604_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260516/K10015123281_2605160159_0516091604_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0002807",
+      "name": "ハンタウイルス",
+      "display": true
+    },
+    {
+      "id": "0002340",
+      "name": "WHO",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ハンタウイルスの集団感染が疑われているクルーズ船をめぐり、WHO＝世界保健機関は、これまで9人としていた感染者数について、1人少ない8人に修正しました。感染力を強めるような変異は今のところ報告されてい",
+  "articleBody": "ハンタウイルスの集団感染が疑われているクルーズ船をめぐり、WHO＝世界保健機関は、これまで9人としていた感染者数について、1人少ない8人に修正しました。感染力を強めるような変異は今のところ報告されていないとしたうえで、感染が一般の人々に拡大するリスクは低いとしています。\n\n\nWHOのテドロス事務局長は15日、記者会見を開き、ハンタウイルスの集団感染が疑われているクルーズ船について、感染が確認された人数をこれまでの9人から8人に修正しました。\n\nWHOの担当者は、アメリカで一度、陽性の結果が出た人について、その後、陰性であることが確認されたと報告を受けたためだとしています。\n\nまた今回、感染が確認されたハンタウイルスについて各国の研究機関からの報告では、これまでのところ感染力を強めるなどの新たな変異は見つかっていないと明らかにしました。\n\nテドロス事務局長は、クルーズ船に残りオランダに向かっている乗員についても、症状がある人はいないとしたうえで、「今回の事態が一般の人々に影響を及ぼすリスクは低い」と強調しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "ハンタウイルスの集団感染が疑われているクルーズ船をめぐり、WHO＝世界保健機関は、これまで9人としていた感染者数について、1人少ない8人に修正しました。感染力を強めるような変異は今のところ報告されていないとしたうえで、感染が一般の人々に拡大するリスクは低いとしています。\n",
+    "markedBody": "WHOのテドロス事務局長は15日、記者会見を開き、ハンタウイルスの集団感染が疑われているクルーズ船について、感染が確認された人数をこれまでの9人から8人に修正しました。\n\nWHOの担当者は、アメリカで一度、陽性の結果が出た人について、その後、陰性であることが確認されたと報告を受けたためだとしています。\n\nまた今回、感染が確認されたハンタウイルスについて各国の研究機関からの報告では、これまでのところ感染力を強めるなどの新たな変異は見つかっていないと明らかにしました。\n\nテドロス事務局長は、クルーズ船に残りオランダに向かっている乗員についても、症状がある人はいないとしたうえで、「今回の事態が一般の人々に影響を及ぼすリスクは低い」と強調しました。\n",
+    "trimmedLead": "ハンタウイルスの集団感染が疑われているクルーズ船をめぐり、WHO＝世界保健機関は、これまで9人としていた感染者数について、1人少ない8人に修正しました。感染力を強めるような変異は今のところ報告されていないとしたうえで、感染が一般の人々に拡大するリスクは低いとしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015123281000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015123281000",
+  "video": [],
+  "citation": [
+    {
+      "name": "ハンタウイルス 感染拡大のリスクは？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015121481000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260514/K10015121481_2605141314_0514164914_01_02.jpg",
+      "datePublished": "2026-05-14T16:49:13+09:00"
+    },
+    {
+      "name": "ハンタウイルス “全乗員・乗客に42日間の隔離を推奨” WHO",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015118901000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260512/K10015118901_2605120443_0512050405_01_02.jpg",
+      "datePublished": "2026-05-12T14:48:29+09:00"
+    },
+    {
+      "name": "戦闘終結に向けた協議 依然難航か 米・イラン双方が不信感",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015123191000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260516/K10015123191_2605160722_0516073205_01_02.jpg",
+      "datePublished": "2026-05-16T07:32:04+09:00"
+    },
+    {
+      "name": "トランプ大統領 中国訪問終え 台湾への武器売却判断へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015123181000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260516/K10015123181_2605160545_0516054846_01_02.jpg",
+      "datePublished": "2026-05-16T05:48:45+09:00"
+    },
+    {
+      "name": "プーチン大統領が今月20日に訪中の見通し 香港の英字紙報道",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015122841000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015122841_2605151847_0515185958_01_02.jpg",
+      "datePublished": "2026-05-15T18:59:57+09:00"
+    },
+    {
+      "name": "キューバ “燃料が底ついた” 圧力強める米に譲歩するか焦点に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015122251000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015122251_2605150932_0515095719_01_02.jpg",
+      "datePublished": "2026-05-15T09:57:18+09:00"
+    },
+    {
+      "name": "サッカーＷ杯まで1か月 メキシコの治安対策は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015121711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015121711_2605141844_0515061437_01_02.jpg",
+      "datePublished": "2026-05-15T06:14:36+09:00"
+    },
+    {
+      "name": "レアアース なぜ“中国支配”を許したのか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120481000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015120481_2605141827_0515113455_01_02.jpg",
+      "datePublished": "2026-05-15T11:34:54+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015128621000",
+  "dataSourceId": "na",
+  "name": "最先端AIめぐり当面の対応を要請 “システム停止も” 金融庁",
+  "headline": "最先端AIめぐり当面の対応を要請 “システム停止も” 金融庁",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015128621000",
+    "playlistId": "news-nwa-business-nationwide-20260522",
+    "newsarticleName": "最先端AIめぐり当面の対応を要請 “システム停止も” 金融庁",
+    "playlistName": "5月22日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "非常に高い性能を持ち、悪用された場合、金融システムなどに深刻なリスクをもたらすおそれも指摘されている新たなAIモデルをめぐり、金融庁は22日、銀行などに当面の対応を要請しました。対策を講じてもサイバー",
+  "dateModified": "2026-05-22T13:42:07+09:00",
+  "datePublished": "2026-05-22T13:42:07+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260522/K10015128621_2605221311_0522134208_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260522/K10015128621_2605221311_0522134208_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "0002408",
+      "name": "金融庁",
+      "display": true
+    },
+    {
+      "id": "0002423",
+      "name": "金融",
+      "display": true
+    },
+    {
+      "id": "0000325",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "0000010",
+      "name": "生成AI・人工知能",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "非常に高い性能を持ち、悪用された場合、金融システムなどに深刻なリスクをもたらすおそれも指摘されている新たなAIモデルをめぐり、金融庁は22日、銀行などに当面の対応を要請しました。対策を講じてもサイバー",
+  "articleBody": "非常に高い性能を持ち、悪用された場合、金融システムなどに深刻なリスクをもたらすおそれも指摘されている新たなAIモデルをめぐり、金融庁は22日、銀行などに当面の対応を要請しました。対策を講じてもサイバー攻撃から守れない可能性がある場合は、システムを停止させることも検討するよう求めています。\n\n\nアメリカの新興AI企業、アンソロピックが開発したAIモデル「クロード・ミュトス」は、OS＝基本ソフトなどのぜい弱性を特定できる能力が高いとされる一方、サイバー攻撃に悪用されれば金融システムなどに深刻なリスクをもたらすおそれがあるとも指摘されています。\n\nこうした最先端のAIモデルをめぐり、金融庁は22日、官民の作業部会の議論を踏まえた当面の対応をまとめ、銀行などに要請しました。\n\nこの中では、金融システムで短期間に大量のぜい弱性が検出される可能性があるとして、優先して対応すべきサービスやシステムを特定しておくべきだと指摘しています。\n\nそのうえで、システムを攻撃から守るための改修作業に向けて、追加の要員を確保することや、対策を講じてもシステムを守れない可能性がある場合は、システムを停止させることも選択肢に入れて検討するよう求めています。\n\n片山金融担当大臣は、22日の閣議のあとの会見で、「引き続きフロンティアAIによる脅威、変化に対して、金融機関などの迅速な対応を促していく」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "非常に高い性能を持ち、悪用された場合、金融システムなどに深刻なリスクをもたらすおそれも指摘されている新たなAIモデルをめぐり、金融庁は22日、銀行などに当面の対応を要請しました。対策を講じてもサイバー攻撃から守れない可能性がある場合は、システムを停止させることも検討するよう求めています。\n",
+    "markedBody": "アメリカの新興AI企業、アンソロピックが開発したAIモデル「クロード・ミュトス」は、OS＝基本ソフトなどのぜい弱性を特定できる能力が高いとされる一方、サイバー攻撃に悪用されれば金融システムなどに深刻なリスクをもたらすおそれがあるとも指摘されています。\n\nこうした最先端のAIモデルをめぐり、金融庁は22日、官民の作業部会の議論を踏まえた当面の対応をまとめ、銀行などに要請しました。\n\nこの中では、金融システムで短期間に大量のぜい弱性が検出される可能性があるとして、優先して対応すべきサービスやシステムを特定しておくべきだと指摘しています。\n\nそのうえで、システムを攻撃から守るための改修作業に向けて、追加の要員を確保することや、対策を講じてもシステムを守れない可能性がある場合は、システムを停止させることも選択肢に入れて検討するよう求めています。\n\n片山金融担当大臣は、22日の閣議のあとの会見で、「引き続きフロンティアAIによる脅威、変化に対して、金融機関などの迅速な対応を促していく」と述べました。\n",
+    "trimmedLead": "非常に高い性能を持ち、悪用された場合、金融システムなどに深刻なリスクをもたらすおそれも指摘されている新たなAIモデルをめぐり、金融庁は22日、銀行などに当面の対応を要請しました。対策を講じてもサイバー攻撃から守れない可能性がある場合は、システムを停止させることも検討するよう求めています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015128621000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015128621000",
+  "video": [],
+  "citation": [
+    {
+      "name": "高性能AI対策 政府が企業にぜい弱性の早期発見を呼びかけ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015124841000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260518/K10015124841_2605181827_0518190933_01_02.jpg",
+      "datePublished": "2026-05-18T19:09:32+09:00"
+    },
+    {
+      "name": "「ミュトス」影響でセキュリティー会社に問い合わせ相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015124801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260518/K10015124801_2605181803_0518180727_01_02.jpg",
+      "datePublished": "2026-05-18T18:07:26+09:00"
+    },
+    {
+      "name": "高性能AIモデル “データ漏えい防止に万全対応を” 林総務相",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015127951000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260521/K10015127951_2605211751_0521181209_01_02.jpg",
+      "datePublished": "2026-05-21T18:12:08+09:00"
+    },
+    {
+      "name": "辺野古沖転覆 “高校の教育内容は政治的中立性に違反” 文科省",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015128371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260522/K10015128371_2605220945_0522100249_01_02.jpg",
+      "datePublished": "2026-05-22T13:34:53+09:00"
+    },
+    {
+      "name": "旭山動物園職員 殺人容疑で再逮捕 “ロープで首絞め殺害した”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015128511000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260522/K10015128511_2605221141_0522114634_01_02.jpg",
+      "datePublished": "2026-05-22T12:13:44+09:00"
+    },
+    {
+      "name": "犬や猫を劣悪な環境で虐待か 動物愛護団体代表を逮捕 警視庁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015128451000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260522/K10015128451_2605221200_0522121158_01_02.jpg",
+      "datePublished": "2026-05-22T12:26:07+09:00"
+    },
+    {
+      "name": "「産油国共同備蓄」の補充原油 UAEから日本到着 放出開始後初",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015128441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260522/K10015128441_2605221053_0522110852_01_02.jpg",
+      "datePublished": "2026-05-22T11:08:51+09:00"
+    },
+    {
+      "name": "最先端AI「クロード・ミュトス」悪用リスクも…対策へ議論開始",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015121241000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260514/K10015121241_2605141939_0514195849_01_03.jpg",
+      "datePublished": "2026-05-14T19:58:48+09:00"
+    },
+    {
+      "name": "【Q＆A】最新AI「ミュトス」は何が違う？必要な対応は？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015121901000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015121901_2605142022_0515050713_01_02.jpg",
+      "datePublished": "2026-05-15T05:07:12+09:00"
+    },
+    {
+      "name": "AI時代の情報セキュリティー対策",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015127571000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260521/K10015127571_2605211123_0521144724_01_02.jpg",
+      "datePublished": "2026-05-21T14:47:23+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

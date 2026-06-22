@@ -1,0 +1,145 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015082501000",
+  "dataSourceId": "na",
+  "name": "高市首相動静 2026年3月23日",
+  "headline": "高市首相動静 2026年3月23日",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015082501000",
+    "playlistId": "news-nwa-politics-nationwide-20260324",
+    "newsarticleName": "高市首相動静 2026年3月23日",
+    "playlistName": "3月24日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "（高市首相動静 2026年3月23日）\n\n\n12:15 徒歩で公邸発\n12:16 官邸着\n12:51 官邸発\n12:52 国会着\n12:54 参議院議長応接室に入る\n12:57 同室出る。参議院本会議",
+  "dateModified": "2026-03-24T10:54:03+09:00",
+  "datePublished": "2026-03-24T10:54:03+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260324/K10015082501_2603241029_0324105404_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260324/K10015082501_2603241029_0324105404_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0002532",
+      "name": "首相動静",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "（高市首相動静 2026年3月23日）\n\n\n12:15 徒歩で公邸発\n12:16 官邸着\n12:51 官邸発\n12:52 国会着\n12:54 参議院議長応接室に入る\n12:57 同室出る。参議院本会議",
+  "articleBody": "（高市首相動静 2026年3月23日）\n\n\n12:15 徒歩で公邸発\n12:16 官邸着\n12:51 官邸発\n12:52 国会着\n12:54 参議院議長応接室に入る\n12:57 同室出る。参議院本会議場に入る\n13:01 参議院本会議開会\n14:55 参議院本会議途中退席\n14:57 国会発\n14:59 官邸着\n16:51 官邸発\n16:52 国会着\n16:54 自民党総裁室に入る\n17:00 自民党役員会（～17:12）\n17:13 同室出る\n17:15 国会発\n17:17 官邸着\n18:00 政労使会議（～18:29）\n18:31 徒歩で官邸発\n18:33 公邸着\n",
+  "detailedArticleBody": {
+    "markedLead": "（高市首相動静 2026年3月23日）\n",
+    "markedBody": "12:15 徒歩で公邸発\\\n12:16 官邸着\\\n12:51 官邸発\\\n12:52 国会着\\\n12:54 参議院議長応接室に入る\\\n12:57 同室出る。参議院本会議場に入る\\\n13:01 参議院本会議開会\\\n14:55 参議院本会議途中退席\\\n14:57 国会発\\\n14:59 官邸着\\\n16:51 官邸発\\\n16:52 国会着\\\n16:54 自民党総裁室に入る\\\n17:00 自民党役員会（～17:12）\\\n17:13 同室出る\\\n17:15 国会発\\\n17:17 官邸着\\\n18:00 政労使会議（～18:29）\\\n18:31 徒歩で官邸発\\\n18:33 公邸着\n",
+    "trimmedLead": "（高市首相動静 2026年3月23日）\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015082501000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015082501000",
+  "video": [],
+  "citation": [
+    {
+      "name": "株価 一時1100円超値上がりも 売り注文増で値上がり幅は縮小",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260324/K10015082471_2603240910_0324091444_01_02.jpg",
+      "datePublished": "2026-03-24T12:10:25+09:00"
+    },
+    {
+      "name": "2月の消費者物価指数 去年同月比1.6％上昇 2％を下回る",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260324/K10015082461_2603240841_0324085633_01_02.jpg",
+      "datePublished": "2026-03-24T11:27:07+09:00"
+    },
+    {
+      "name": "トランプ氏「イランと有意義な協議を行った」 イラン側は否定",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260323/K10015082331_2603232032_0323204307_01_02.jpg",
+      "datePublished": "2026-03-24T12:48:32+09:00"
+    },
+    {
+      "name": "新年度予算案めぐり暫定予算案を検討 野党側は充実審議求める",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082271000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260324/K10015082271_2603232222_0324060644_01_02.jpg",
+      "datePublished": "2026-03-24T12:16:12+09:00"
+    },
+    {
+      "name": "トヨタが米国工場に1600億円投資を発表 HV車の生産能力強化へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082451000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260324/K10015082451_2603240726_0324080949_01_02.jpg",
+      "datePublished": "2026-03-24T08:09:48+09:00"
+    },
+    {
+      "name": "種苗法改正へ 品種登録前でも輸出差し止めなど規制強化の方針",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082361000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260324/K10015082361_2603232133_0324051204_01_02.jpg",
+      "datePublished": "2026-03-24T05:12:03+09:00"
+    },
+    {
+      "name": "アメリカ各地の空港にICE職員を投入 利用者から不安の声も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082411000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260324/K10015082411_2603240506_0324052754_01_02.jpg",
+      "datePublished": "2026-03-24T05:27:53+09:00"
+    },
+    {
+      "name": "天皇陛下 体調回復 25日から予定どおり岩手と宮城訪問 宮内庁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082381000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260324/K10015082381_2603232139_0324054507_01_02.jpg",
+      "datePublished": "2026-03-24T05:45:07+09:00"
+    },
+    {
+      "name": "マンション大規模修繕の闇～なりすまし見抜いた住民たちの記録",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015079521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260323/K10015079521_2603191648_0323133828_01_02.jpg",
+      "datePublished": "2026-03-23T13:38:27+09:00"
+    },
+    {
+      "name": "“分岐点の4年”へ 教員不足と働き方改革",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015081871000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260323/K10015081871_2603231225_0323160922_01_02.jpg",
+      "datePublished": "2026-03-23T16:09:21+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": false,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014914861000",
+  "dataSourceId": "na",
+  "name": "自民 麻生氏と茂木氏が会談 臨時総裁選の情勢めぐり意見交換か",
+  "headline": "自民 麻生氏と茂木氏が会談 臨時総裁選の情勢めぐり意見交換か",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014914861000",
+    "playlistId": "news-nwa-politics-nationwide-20250905",
+    "newsarticleName": "自民 麻生氏と茂木氏が会談 臨時総裁選の情勢めぐり意見交換か",
+    "playlistName": "9月5日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "自民党の麻生最高顧問と茂木前幹事長は5日午後6時ごろから3時間近くにわたって東京都内の日本料理店で会談しました。\n\n\nこの中では、臨時の総裁選挙の是非をめぐって国会議員による書面の提出を3日後に控える",
+  "dateModified": "2025-09-05T22:16:36+09:00",
+  "datePublished": "2025-09-05T22:16:36+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250905/K10014914861_2509052124_0905221638_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250905/K10014914861_2509052124_0905221638_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "自民党の麻生最高顧問と茂木前幹事長は5日午後6時ごろから3時間近くにわたって東京都内の日本料理店で会談しました。\n\n\nこの中では、臨時の総裁選挙の是非をめぐって国会議員による書面の提出を3日後に控える",
+  "articleBody": "自民党の麻生最高顧問と茂木前幹事長は5日午後6時ごろから3時間近くにわたって東京都内の日本料理店で会談しました。\n\n\nこの中では、臨時の総裁選挙の是非をめぐって国会議員による書面の提出を3日後に控える中、党内情勢をめぐって意見を交わしたものとみられます。\n\nまた、臨時の総裁選挙の実施が決まった場合の対応をめぐっても協議したものとみられます。\n\n会談のあと、茂木氏は記者団に対し「いろいろ意見交換した」と述べました。\n\n党内で唯一の派閥を率いる麻生氏は3日、「次の衆議院選挙で勝利できる体制を整えることこそ行っていかなければならないことだ」と述べ、臨時の総裁選挙の実施を求める考えを明らかにしています。\n\nまた、茂木氏も先に石破総理大臣の辞任を含め党執行部の刷新が必要だという考えを示していて、実施を求めるものとみられます。\n",
+  "detailedArticleBody": {
+    "markedLead": "自民党の麻生最高顧問と茂木前幹事長は5日午後6時ごろから3時間近くにわたって東京都内の日本料理店で会談しました。\n",
+    "markedBody": "この中では、臨時の総裁選挙の是非をめぐって国会議員による書面の提出を3日後に控える中、党内情勢をめぐって意見を交わしたものとみられます。\n\nまた、臨時の総裁選挙の実施が決まった場合の対応をめぐっても協議したものとみられます。\n\n会談のあと、茂木氏は記者団に対し「いろいろ意見交換した」と述べました。\n\n党内で唯一の派閥を率いる麻生氏は3日、「次の衆議院選挙で勝利できる体制を整えることこそ行っていかなければならないことだ」と述べ、臨時の総裁選挙の実施を求める考えを明らかにしています。\n\nまた、茂木氏も先に石破総理大臣の辞任を含め党執行部の刷新が必要だという考えを示していて、実施を求めるものとみられます。\n",
+    "trimmedLead": "自民党の麻生最高顧問と茂木前幹事長は5日午後6時ごろから3時間近くにわたって東京都内の日本料理店で会談しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014914861000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014914861000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

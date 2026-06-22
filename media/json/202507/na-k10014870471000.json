@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014870471000",
+  "dataSourceId": "na",
+  "name": "商品発注などでAI活用 人手不足が深刻な現場で効果も",
+  "headline": "商品発注などでAI活用 人手不足が深刻な現場で効果も",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014870471000",
+    "playlistId": "news-nwa-business-nationwide-20250722",
+    "newsarticleName": "商品発注などでAI活用 人手不足が深刻な現場で効果も",
+    "playlistName": "7月22日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "人手不足が深刻な小売業の現場では、AIを商品発注などに活用することで、従業員の負担軽減や適切な在庫の確保につなげる動きが広がっています。\n\n\nコンビニ大手のファミリーマートでは、6月から国内のおよそ5",
+  "dateModified": "2025-07-22T05:27:21+09:00",
+  "datePublished": "2025-07-22T05:27:21+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250722/K10014870471_2507212004_0721223303_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250722/K10014870471_2507212004_0721223303_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "人手不足が深刻な小売業の現場では、AIを商品発注などに活用することで、従業員の負担軽減や適切な在庫の確保につなげる動きが広がっています。\n\n\nコンビニ大手のファミリーマートでは、6月から国内のおよそ5",
+  "articleBody": "人手不足が深刻な小売業の現場では、AIを商品発注などに活用することで、従業員の負担軽減や適切な在庫の確保につなげる動きが広がっています。\n\n\nコンビニ大手のファミリーマートでは、6月から国内のおよそ500店舗で商品発注にAIを活用しています。\n\nこのAIは過去1年間の販売実績のほか、店舗周辺の通行量、それに気象データなどを分析し、店ごとに最適な発注数を導き出すことができるということです。\n\n会社では、パンやサンドイッチ、それにおにぎりなどの発注に利用していて、発注にかかる時間をこれまでの半分程度に削減できたほか、商品が品切れになる「欠品率」もおよそ4％引き下げられたことから、今後、ほかの店舗への展開も検討することにしています。\n\nファミリーマート営業推進部の高橋博副部長は「人では考えられないような膨大なデータをAIが一瞬で計算して発注することができる。業務の効率化や店舗の利益向上につなげていきたい」と話していました。\n\nまた流通大手の「イオン」も傘下のスーパーで弁当や生鮮食品をどの程度値引きするかについて、AIを活用しているということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "人手不足が深刻な小売業の現場では、AIを商品発注などに活用することで、従業員の負担軽減や適切な在庫の確保につなげる動きが広がっています。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20250722/K10014870471_2507212004_0721223303_02_03.jpg)\n\nコンビニ大手のファミリーマートでは、6月から国内のおよそ500店舗で商品発注にAIを活用しています。\n\nこのAIは過去1年間の販売実績のほか、店舗周辺の通行量、それに気象データなどを分析し、店ごとに最適な発注数を導き出すことができるということです。\n\n会社では、パンやサンドイッチ、それにおにぎりなどの発注に利用していて、発注にかかる時間をこれまでの半分程度に削減できたほか、商品が品切れになる「欠品率」もおよそ4％引き下げられたことから、今後、ほかの店舗への展開も検討することにしています。\n\nファミリーマート営業推進部の高橋博副部長は「人では考えられないような膨大なデータをAIが一瞬で計算して発注することができる。業務の効率化や店舗の利益向上につなげていきたい」と話していました。\n\nまた流通大手の「イオン」も傘下のスーパーで弁当や生鮮食品をどの程度値引きするかについて、AIを活用しているということです。\n",
+    "trimmedLead": "人手不足が深刻な小売業の現場では、AIを商品発注などに活用することで、従業員の負担軽減や適切な在庫の確保につなげる動きが広がっています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014870471000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014870471000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

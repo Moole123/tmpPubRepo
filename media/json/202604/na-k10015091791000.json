@@ -1,0 +1,145 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015091791000",
+  "dataSourceId": "na",
+  "name": "毎日新聞社 元取締役のセクハラ行為を発表",
+  "headline": "毎日新聞社 元取締役のセクハラ行為を発表",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015091791000",
+    "playlistId": "news-nwa-society-nationwide-20260403",
+    "newsarticleName": "毎日新聞社 元取締役のセクハラ行為を発表",
+    "playlistName": "4月3日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "毎日新聞社は取締役だった男性がおよそ10年前、会社で働いていた女性にキスをするなどセクハラ行為をしていたと3日、発表しました。\n\n\n毎日新聞社によりますと、およそ10年前、当時の男性取締役が会社で働い",
+  "dateModified": "2026-04-03T20:47:48+09:00",
+  "datePublished": "2026-04-03T20:47:48+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260403/K10015091791_2604032012_0403204749_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260403/K10015091791_2604032012_0403204749_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002733",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "毎日新聞社は取締役だった男性がおよそ10年前、会社で働いていた女性にキスをするなどセクハラ行為をしていたと3日、発表しました。\n\n\n毎日新聞社によりますと、およそ10年前、当時の男性取締役が会社で働い",
+  "articleBody": "毎日新聞社は取締役だった男性がおよそ10年前、会社で働いていた女性にキスをするなどセクハラ行為をしていたと3日、発表しました。\n\n\n毎日新聞社によりますと、およそ10年前、当時の男性取締役が会社で働いていた女性に懇親会が終了したあとのタクシーの車内でキスなどをしたということです。\n\n当時、女性が上司に被害の相談をしたものの、人事部門などに共有されず、会社として組織的な対応ができなかったとしています。\n\n女性から申告があり、今回調査した結果、不適切な性的接触があったと判断したとしています。\n\nハラスメントの防止に向けては役員や社員を対象にした研修や社内調査を定期的に行うなどとしています。\n\n毎日新聞社は「女性に対し、深くおわびします。会社の当時の対応も不適切でした。コンプライアンス意識のさらなる向上に努めてまいります」とコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "毎日新聞社は取締役だった男性がおよそ10年前、会社で働いていた女性にキスをするなどセクハラ行為をしていたと3日、発表しました。\n",
+    "markedBody": "毎日新聞社によりますと、およそ10年前、当時の男性取締役が会社で働いていた女性に懇親会が終了したあとのタクシーの車内でキスなどをしたということです。\n\n当時、女性が上司に被害の相談をしたものの、人事部門などに共有されず、会社として組織的な対応ができなかったとしています。\n\n女性から申告があり、今回調査した結果、不適切な性的接触があったと判断したとしています。\n\nハラスメントの防止に向けては役員や社員を対象にした研修や社内調査を定期的に行うなどとしています。\n\n毎日新聞社は「女性に対し、深くおわびします。会社の当時の対応も不適切でした。コンプライアンス意識のさらなる向上に努めてまいります」とコメントしています。\n",
+    "trimmedLead": "毎日新聞社は取締役だった男性がおよそ10年前、会社で働いていた女性にキスをするなどセクハラ行為をしていたと3日、発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015091791000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015091791000",
+  "video": [],
+  "citation": [
+    {
+      "name": "福井県 知事など特別職対象に含めたハラスメント防止条例成立",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015078871000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260318/K10015078871_2603181833_0318190729_01_02.jpg",
+      "datePublished": "2026-03-18T19:07:28+09:00"
+    },
+    {
+      "name": "その時あなたは… セクハラの現場で第三者ができる5つのこと",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014765681000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20250331/K10014765681_2503311645_0331164701_01_02.jpg",
+      "datePublished": "2025-03-31T17:58:36+09:00"
+    },
+    {
+      "name": "京都 南丹 男児不明 ため池捜索も新たな手がかり見つからず",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015091531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260403/K10015091531_2604031524_0403154500_01_02.jpg",
+      "datePublished": "2026-04-03T18:39:38+09:00"
+    },
+    {
+      "name": "中道 小川代表 女性天皇めぐる発言を訂正し陳謝",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015091481000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260403/K10015091481_2604031400_0403150848_01_02.jpg",
+      "datePublished": "2026-04-03T15:08:47+09:00"
+    },
+    {
+      "name": "米軍がテヘラン郊外の橋を攻撃 イラン側反発 徹底抗戦の構え",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015091101000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260403/K10015091101_2604031141_0403115614_01_03.jpg",
+      "datePublished": "2026-04-03T20:22:51+09:00"
+    },
+    {
+      "name": "代替ルートで調達の原油 来月から本格的に到着の見通し 経産省",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015091651000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260403/K10015091651_2604031742_0403180250_01_02.jpg",
+      "datePublished": "2026-04-03T18:02:49+09:00"
+    },
+    {
+      "name": "第2次高市内閣 閣僚の資産公開 平均6591万円 1億円超は5人",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015091551000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260403/K10015091551_2604031604_0403170057_01_02.jpg",
+      "datePublished": "2026-04-03T17:00:57+09:00"
+    },
+    {
+      "name": "人も企業も税収も 東京“一極集中” どう考える？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015090641000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260403/K10015090641_2604031257_0403174016_01_02.jpg",
+      "datePublished": "2026-04-03T17:40:15+09:00"
+    },
+    {
+      "name": "“有事のドル買い”なぜ進む？背景は【経済コラム】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015090941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260403/K10015090941_2604031312_0403164741_01_02.jpg",
+      "datePublished": "2026-04-03T16:47:40+09:00"
+    },
+    {
+      "name": "村木厚子さんにNW9星キャスターが聞く 40年で女性の社会進出は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015090921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260402/K10015090921_2604022145_0402220031_01_03.jpg",
+      "datePublished": "2026-04-03T12:57:32+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

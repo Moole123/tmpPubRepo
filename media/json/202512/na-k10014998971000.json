@@ -1,0 +1,101 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014998971000",
+  "dataSourceId": "na",
+  "name": "皇后さま 62歳の誕生日 皇居で祝賀行事行われる",
+  "headline": "皇后さま 62歳の誕生日 皇居で祝賀行事行われる",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014998971000",
+    "playlistId": "news-nwa-society-nationwide-20251209",
+    "newsarticleName": "皇后さま 62歳の誕生日 皇居で祝賀行事行われる",
+    "playlistName": "12月9日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "皇后さまは9日、62歳の誕生日を迎えられ、皇居で祝賀行事が行われました。\n\n\n皇后さまは9日午前、皇居・宮殿で、天皇陛下とともに誕生日の祝賀行事に臨み、秋篠宮ご一家をはじめ、皇族方や高市総理大臣などか",
+  "dateModified": "2025-12-09T18:07:09+09:00",
+  "datePublished": "2025-12-09T18:07:09+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251209/K10014998971_2512091732_1209180710_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251209/K10014998971_2512091732_1209180710_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "皇后さまは9日、62歳の誕生日を迎えられ、皇居で祝賀行事が行われました。\n\n\n皇后さまは9日午前、皇居・宮殿で、天皇陛下とともに誕生日の祝賀行事に臨み、秋篠宮ご一家をはじめ、皇族方や高市総理大臣などか",
+  "articleBody": "皇后さまは9日、62歳の誕生日を迎えられ、皇居で祝賀行事が行われました。\n\n\n皇后さまは9日午前、皇居・宮殿で、天皇陛下とともに誕生日の祝賀行事に臨み、秋篠宮ご一家をはじめ、皇族方や高市総理大臣などから祝賀を受けられました。\n\nそして、午後4時ごろ、誕生日を迎えたあいさつのため、天皇陛下とともに、東京 港区の赤坂御用地にある上皇ご夫妻のお住まいの仙洞御所を訪ねられました。\n\n赤坂御用地の門に集まった人たちから「おめでとうございます」などと声をかけられると、皇后さまは車の窓を開けて、天皇陛下とともに手を振りながら笑顔で応えられていました。\n",
+  "detailedArticleBody": {
+    "markedLead": "皇后さまは9日、62歳の誕生日を迎えられ、皇居で祝賀行事が行われました。\n",
+    "markedBody": "皇后さまは9日午前、皇居・宮殿で、天皇陛下とともに誕生日の祝賀行事に臨み、秋篠宮ご一家をはじめ、皇族方や高市総理大臣などから祝賀を受けられました。\n\n![](https://news.web.nhk/news/html/20251209/K10014998971_2512091732_1209180710_02_03.jpg)\n\nそして、午後4時ごろ、誕生日を迎えたあいさつのため、天皇陛下とともに、東京 港区の赤坂御用地にある上皇ご夫妻のお住まいの仙洞御所を訪ねられました。\n\n赤坂御用地の門に集まった人たちから「おめでとうございます」などと声をかけられると、皇后さまは車の窓を開けて、天皇陛下とともに手を振りながら笑顔で応えられていました。\n",
+    "trimmedLead": "皇后さまは9日、62歳の誕生日を迎えられ、皇居で祝賀行事が行われました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014998971000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014998971000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "皇后さま 62歳の誕生日 皇居で祝賀行事行われる",
+      "description": "皇后さまは9日、62歳の誕生日を迎えられ、皇居で祝賀行事が行われました。\n\n\n皇后さまは9日午前、皇居・宮殿で、天皇陛下とともに誕生日の祝賀行事に臨み、秋篠宮ご一家をはじめ、皇族方や高市総理大臣などか",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10014998971_202512091948_202512091948/index.m3u8&mrposter=/news/html/20251209/K10014998971_2512091732_1209180710_01_02.jpg",
+      "duration": "PT38S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10014998971_202512091948_202512091948/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20251209/K10014998971_2512091732_1209180710_01_02.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

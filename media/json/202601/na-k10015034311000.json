@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015034311000",
+  "dataSourceId": "na",
+  "name": "スーパーのコメ平均価格 5キロ4283円 2週ぶり値上がり",
+  "headline": "スーパーのコメ平均価格 5キロ4283円 2週ぶり値上がり",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015034311000",
+    "playlistId": "news-nwa-business-nationwide-20260123",
+    "newsarticleName": "スーパーのコメ平均価格 5キロ4283円 2週ぶり値上がり",
+    "playlistName": "1月23日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "全国のスーパーで今月18日までの1週間に販売されたコメの平均価格は、5キロあたり税込みで4283円と、前の週より16円値上がりしました。値上がりは2週ぶりです。\n\n\n農林水産省は、全国のスーパーおよそ",
+  "dateModified": "2026-01-23T18:29:48+09:00",
+  "datePublished": "2026-01-23T17:21:12+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260123/K10015034311_2601231729_0123172950_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260123/K10015034311_2601231729_0123172950_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済",
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "全国のスーパーで今月18日までの1週間に販売されたコメの平均価格は、5キロあたり税込みで4283円と、前の週より16円値上がりしました。値上がりは2週ぶりです。\n\n\n農林水産省は、全国のスーパーおよそ",
+  "articleBody": "全国のスーパーで今月18日までの1週間に販売されたコメの平均価格は、5キロあたり税込みで4283円と、前の週より16円値上がりしました。値上がりは2週ぶりです。\n\n\n農林水産省は、全国のスーパーおよそ1000店でのコメの販売価格をまとめて毎週、発表しています。\n\nそれによりますと、今月12日から18日までの1週間の平均価格は、5キロあたり税込みで4283円と、前の週より16円値上がりしました。\n\n値上がりは2週ぶりです。\n\n販売されたコメの割合は産地と品種が単一の銘柄米が前の週より1ポイント下がって70％、ブレンド米などは逆に1ポイント上がって30％でした。\n\n平均価格をみると、銘柄米は前の週より40円高い5キロあたり税込み4481円、ブレンド米などは38円安い3813円でした。\n\nコメの取り引きに携わる関係者の間では、在庫の増加を理由にこの先、コメの価格は下落するとの見方が強まっていますが、依然高止まりが続いています。\n",
+  "detailedArticleBody": {
+    "markedLead": "全国のスーパーで今月18日までの1週間に販売されたコメの平均価格は、5キロあたり税込みで4283円と、前の週より16円値上がりしました。値上がりは2週ぶりです。\n",
+    "markedBody": "農林水産省は、全国のスーパーおよそ1000店でのコメの販売価格をまとめて毎週、発表しています。\n\nそれによりますと、今月12日から18日までの1週間の平均価格は、5キロあたり税込みで4283円と、前の週より16円値上がりしました。\n\n値上がりは2週ぶりです。\n\n販売されたコメの割合は産地と品種が単一の銘柄米が前の週より1ポイント下がって70％、ブレンド米などは逆に1ポイント上がって30％でした。\n\n平均価格をみると、銘柄米は前の週より40円高い5キロあたり税込み4481円、ブレンド米などは38円安い3813円でした。\n\nコメの取り引きに携わる関係者の間では、在庫の増加を理由にこの先、コメの価格は下落するとの見方が強まっていますが、依然高止まりが続いています。\n",
+    "trimmedLead": "全国のスーパーで今月18日までの1週間に販売されたコメの平均価格は、5キロあたり税込みで4283円と、前の週より16円値上がりしました。値上がりは2週ぶりです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015034311000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015034311000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015131321000",
+  "dataSourceId": "na",
+  "name": "パキスタン北部の山岳地帯で日本人男性死亡 岩の割れ目転落か",
+  "headline": "パキスタン北部の山岳地帯で日本人男性死亡 岩の割れ目転落か",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015131321000",
+    "playlistId": "news-nwa-international-nationwide-20260526",
+    "newsarticleName": "パキスタン北部の山岳地帯で日本人男性死亡 岩の割れ目転落か",
+    "playlistName": "5月26日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "パキスタン北部の山岳地帯でトレッキングをしていた日本人の男性が行方不明になり、23日に遺体で見つかりました。地元当局は、男性が誤って岩の割れ目に転落したとみています。\n\n\nイスラマバードにある日本大使",
+  "dateModified": "2026-05-26T00:03:03+09:00",
+  "datePublished": "2026-05-26T00:03:03+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260526/K10015131321_2605252329_0526000304_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260526/K10015131321_2605252329_0526000304_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0002356",
+      "name": "パキスタン",
+      "display": true
+    },
+    {
+      "id": "0001538",
+      "name": "事件・事故",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "パキスタン北部の山岳地帯でトレッキングをしていた日本人の男性が行方不明になり、23日に遺体で見つかりました。地元当局は、男性が誤って岩の割れ目に転落したとみています。\n\n\nイスラマバードにある日本大使",
+  "articleBody": "パキスタン北部の山岳地帯でトレッキングをしていた日本人の男性が行方不明になり、23日に遺体で見つかりました。地元当局は、男性が誤って岩の割れ目に転落したとみています。\n\n\nイスラマバードにある日本大使館によりますと、5月17日パキスタン北部のスカルドゥ近郊をトレッキングしていた日本人が行方不明になったと地元当局から連絡が寄せられました。\n\n地元の登山関係者によりますと、行方不明になったのは64歳の男性で、標高およそ3700メートルの景勝地「マスルールロック」に向かっていた途中だったということです。\n\n捜索の結果、23日、現地の救助隊が岩の割れ目で遺体を発見し、行方が分からなくなっていた男性と確認されたということで、地元当局は男性が誤って転落したとみています。\n\nパキスタン北部は7000メートル級の山々が連なり、毎年この時期には外国から登山家や観光客が多く訪れています。\n",
+  "detailedArticleBody": {
+    "markedLead": "パキスタン北部の山岳地帯でトレッキングをしていた日本人の男性が行方不明になり、23日に遺体で見つかりました。地元当局は、男性が誤って岩の割れ目に転落したとみています。\n",
+    "markedBody": "イスラマバードにある日本大使館によりますと、5月17日パキスタン北部のスカルドゥ近郊をトレッキングしていた日本人が行方不明になったと地元当局から連絡が寄せられました。\n\n地元の登山関係者によりますと、行方不明になったのは64歳の男性で、標高およそ3700メートルの景勝地「マスルールロック」に向かっていた途中だったということです。\n\n捜索の結果、23日、現地の救助隊が岩の割れ目で遺体を発見し、行方が分からなくなっていた男性と確認されたということで、地元当局は男性が誤って転落したとみています。\n\nパキスタン北部は7000メートル級の山々が連なり、毎年この時期には外国から登山家や観光客が多く訪れています。\n\n![](https://news.web.nhk/news/html/20260526/K10015131321_2605252329_0526000304_02_03.jpg)\n",
+    "trimmedLead": "パキスタン北部の山岳地帯でトレッキングをしていた日本人の男性が行方不明になり、23日に遺体で見つかりました。地元当局は、男性が誤って岩の割れ目に転落したとみています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015131321000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015131321000",
+  "video": [],
+  "citation": [
+    {
+      "name": "パキスタン南西部で爆発23人死亡 反政府武装勢力が犯行声明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015130411000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260524/K10015130411_2605241907_0524195901_01_02.jpg",
+      "datePublished": "2026-05-24T19:59:00+09:00"
+    },
+    {
+      "name": "フィリピン北部でビル倒壊 4人死亡 10人以上閉じ込め 地元当局",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015130841000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260525/K10015130841_2605251330_0525142606_01_02.jpg",
+      "datePublished": "2026-05-25T14:26:05+09:00"
+    },
+    {
+      "name": "プロ野球 巨人の阿部慎之助監督逮捕 18歳の娘に暴行した疑い",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260525/K10015131291_2605252227_0525222945_01_02.jpg",
+      "datePublished": "2026-05-25T23:52:12+09:00"
+    },
+    {
+      "name": "本田圭佑選手が語るサッカー日本代表「ビッグサプライズは…」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260525/K10015131091_2605251844_0525215208_01_02.jpg",
+      "datePublished": "2026-05-25T21:52:07+09:00"
+    },
+    {
+      "name": "トランプ氏“合意急ぐ必要ない” イラン側“差し迫ってない”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015130431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260525/K10015130431_2605251202_0525121943_01_03.jpg",
+      "datePublished": "2026-05-25T19:38:28+09:00"
+    },
+    {
+      "name": "日本企業管理で初めてホルムズ海峡通過 原油タンカー日本到着",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015130441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260525/K10015130441_2605251159_0525120007_01_02.jpg",
+      "datePublished": "2026-05-25T19:40:36+09:00"
+    },
+    {
+      "name": "カンヌ映画祭 最優秀女優賞に岡本多緒さん 日本人初",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015129961000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260524/K10015129961_2605240616_0524061952_01_02.jpg",
+      "datePublished": "2026-05-24T18:11:21+09:00"
+    },
+    {
+      "name": "“生え際をチェックしてるだけ” 「フランス流」の偽情報対策",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015110061000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260525/K10015110061_2605221530_0525104259_01_02.jpg",
+      "datePublished": "2026-05-25T10:42:58+09:00"
+    },
+    {
+      "name": "ガザとパレスチナ人の苦境に再び関心を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015128551000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260522/K10015128551_2605221156_0522173307_01_02.jpg",
+      "datePublished": "2026-05-22T17:33:06+09:00"
+    },
+    {
+      "name": "医療 健康相談もAIで? がん情報では誤回答も どうつきあう?",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015125491000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260522/K10015125491_2605211914_0522174252_01_02.jpg",
+      "datePublished": "2026-05-22T17:42:51+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

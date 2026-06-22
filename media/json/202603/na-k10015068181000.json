@@ -1,0 +1,187 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015068181000",
+  "dataSourceId": "na",
+  "name": "アンソロピック “米政府から安全保障上リスクに指定された”",
+  "headline": "アンソロピック “米政府から安全保障上リスクに指定された”",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015068181000",
+    "playlistId": "news-nwa-international-nationwide-20260306",
+    "newsarticleName": "アンソロピック “米政府から安全保障上リスクに指定された”",
+    "playlistName": "3月6日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "生成AIを開発するアメリカの新興企業「アンソロピック」は、国防総省から国家安全保障上のサプライチェーン上のリスクに正式に指定されたと発表しました。アメリカのメディアは自国の企業がこうした指定を受けるの",
+  "dateModified": "2026-03-06T15:11:19+09:00",
+  "datePublished": "2026-03-06T15:11:19+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260306/K10015068181_2603061314_0306151120_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260306/K10015068181_2603061314_0306151120_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0000010",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "0000277",
+      "name": "トランプ大統領",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "0000820",
+      "name": "イラン情勢",
+      "display": true
+    },
+    {
+      "id": "0002473",
+      "name": "安全保障",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "生成AIを開発するアメリカの新興企業「アンソロピック」は、国防総省から国家安全保障上のサプライチェーン上のリスクに正式に指定されたと発表しました。アメリカのメディアは自国の企業がこうした指定を受けるの",
+  "articleBody": "生成AIを開発するアメリカの新興企業「アンソロピック」は、国防総省から国家安全保障上のサプライチェーン上のリスクに正式に指定されたと発表しました。アメリカのメディアは自国の企業がこうした指定を受けるのは初めてだと伝えていてAIの軍事利用をめぐるトランプ政権との対立が際立っています。\n\n\nアンソロピックのダリオ・アモデイCEOは5日、声明文の中で、会社が国家安全保障上のサプライチェーン上のリスクに指定されたことを明らかにしました。\n\n現地メディアによりますと、今回の指定によって国防総省と取り引きなどがある企業は、アンソロピックの製品を使用していないことの証明が求められるようになるということです。\n\nアメリカのメディアは「国家安全保障上のサプライチェーン上のリスク」は敵対的な国の企業などを想定したもので、自国の企業が指定を受けるのは初めてだと伝えています。\n\nアンソロピックのAIモデル「Claude」をめぐっては、アンソロピック側が人間の判断が介在しない完全に自律した兵器やアメリカ国民の大規模な監視に使わないよう求めたのに対し、トランプ政権は「あらゆる合法的な利用」を主張し、対立が表面化していました。\n\n複数のメディアは、「Claude」がアメリカ軍によるベネズエラやイランへの軍事作戦で活用されたとも伝えています。\n",
+  "detailedArticleBody": {
+    "markedLead": "生成AIを開発するアメリカの新興企業「アンソロピック」は、国防総省から国家安全保障上のサプライチェーン上のリスクに正式に指定されたと発表しました。アメリカのメディアは自国の企業がこうした指定を受けるのは初めてだと伝えていてAIの軍事利用をめぐるトランプ政権との対立が際立っています。\n",
+    "markedBody": "アンソロピックのダリオ・アモデイCEOは5日、声明文の中で、会社が国家安全保障上のサプライチェーン上のリスクに指定されたことを明らかにしました。\n\n現地メディアによりますと、今回の指定によって国防総省と取り引きなどがある企業は、アンソロピックの製品を使用していないことの証明が求められるようになるということです。\n\nアメリカのメディアは「国家安全保障上のサプライチェーン上のリスク」は敵対的な国の企業などを想定したもので、自国の企業が指定を受けるのは初めてだと伝えています。\n\nアンソロピックのAIモデル「Claude」をめぐっては、アンソロピック側が人間の判断が介在しない完全に自律した兵器やアメリカ国民の大規模な監視に使わないよう求めたのに対し、トランプ政権は「あらゆる合法的な利用」を主張し、対立が表面化していました。\n\n複数のメディアは、「Claude」がアメリカ軍によるベネズエラやイランへの軍事作戦で活用されたとも伝えています。\n",
+    "trimmedLead": "生成AIを開発するアメリカの新興企業「アンソロピック」は、国防総省から国家安全保障上のサプライチェーン上のリスクに正式に指定されたと発表しました。アメリカのメディアは自国の企業がこうした指定を受けるのは初めてだと伝えていてAIの軍事利用をめぐるトランプ政権との対立が際立っています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015068181000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015068181000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "アンソロピック “米政府から安全保障上リスクに指定された”",
+      "description": "生成AIを開発するアメリカの新興企業「アンソロピック」は、国防総省から国家安全保障上のサプライチェーン上のリスクに正式に指定されたと発表しました。アメリカのメディアは自国の企業がこうした指定を受けるの",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index_r.html?mrurl=https://media.vd.st.nhk/news/r/k10015068181_202603061604_202603061604/index.m3u8&mrposter=/news/html/20260306/K10015068181_2603061314_0306151120_01_02.jpg",
+      "duration": "PT1M15S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/r/k10015068181_202603061604_202603061604/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260306/K10015068181_2603061314_0306151120_01_02.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "米政府機関 「アンソロピック」のAIの製品利用中止 競合製品に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015065921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260304/K10015065921_2603041052_0304110415_01_02.jpg",
+      "datePublished": "2026-03-04T11:04:14+09:00"
+    },
+    {
+      "name": "トランプ氏 イラン軍事作戦後 キューバ対応に乗り出す考え示唆",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015067951000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260306/K10015067951_2603061056_0306110713_01_02.jpg",
+      "datePublished": "2026-03-06T11:07:13+09:00"
+    },
+    {
+      "name": "トランプ政権元高官 “イラン側の報復能力 すでに大幅に低下”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015067911000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260306/K10015067911_2603061019_0306104621_01_02.jpg",
+      "datePublished": "2026-03-06T10:46:20+09:00"
+    },
+    {
+      "name": "イラン情勢 “日本人2人拘束”  オマーン湾で日本関係船舶損傷",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015067961000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260306/K10015067961_2603061155_0306120031_01_02.jpg",
+      "datePublished": "2026-03-06T17:22:16+09:00"
+    },
+    {
+      "name": "中東の日本人旅行者などの輸送 陸路は早ければ7日以降に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015068071000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260306/K10015068071_2603061746_0306175605_01_02.jpg",
+      "datePublished": "2026-03-06T19:52:07+09:00"
+    },
+    {
+      "name": "米財務長官 “インドのロシア産原油購入30日間限定で認める”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015068031000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260306/K10015068031_2603061133_0306115935_01_02.jpg",
+      "datePublished": "2026-03-06T15:13:53+09:00"
+    },
+    {
+      "name": "イスラエル軍 “イランに13回目の波状攻撃” イランも攻撃継続",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015067581000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260306/K10015067581_2603060513_0306060836_01_02.jpg",
+      "datePublished": "2026-03-06T08:11:04+09:00"
+    },
+    {
+      "name": "NYダウ 一時1100ドル超値下がり 原油市場 先物は値上がり高値",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015067751000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260306/K10015067751_2603060205_0306021101_01_02.jpg",
+      "datePublished": "2026-03-06T08:01:38+09:00"
+    },
+    {
+      "name": "米・イスラエル攻撃で重大局面のイラン",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015064921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260303/K10015064921_2603031129_0303170859_01_02.jpg",
+      "datePublished": "2026-03-03T17:08:58+09:00"
+    },
+    {
+      "name": "【イラン情勢 特集サイト】最新状況は？ そもそもなぜ対立？ 日本や各国の対応は？",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0000820",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30921833.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": true,
+    "rawHtmlFlg": false
+  }
+}

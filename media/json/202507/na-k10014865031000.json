@@ -1,0 +1,101 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014865031000",
+  "dataSourceId": "na",
+  "name": "新型コロナ飲み薬 約250万人分期限切れで廃棄  国が購入",
+  "headline": "新型コロナ飲み薬 約250万人分期限切れで廃棄  国が購入",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014865031000",
+    "playlistId": "news-nwa-society-nationwide-20250716",
+    "newsarticleName": "新型コロナ飲み薬 約250万人分期限切れで廃棄  国が購入",
+    "playlistName": "7月16日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "国が無償で提供するために購入した新型コロナウイルスの飲み薬、およそ250万人分が期限切れのため廃棄されていたことが厚生労働省への取材で分かりました。\n\n\n国は特措法に基づき、新型コロナの3種類の飲み薬",
+  "dateModified": "2025-07-16T17:58:33+09:00",
+  "datePublished": "2025-07-16T17:58:33+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250716/K10014865031_2507161802_0716180437_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250716/K10014865031_2507161802_0716180437_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "国が無償で提供するために購入した新型コロナウイルスの飲み薬、およそ250万人分が期限切れのため廃棄されていたことが厚生労働省への取材で分かりました。\n\n\n国は特措法に基づき、新型コロナの3種類の飲み薬",
+  "articleBody": "国が無償で提供するために購入した新型コロナウイルスの飲み薬、およそ250万人分が期限切れのため廃棄されていたことが厚生労働省への取材で分かりました。\n\n\n国は特措法に基づき、新型コロナの3種類の飲み薬、およそ560万人分を購入し、おととし5月に新型コロナが感染症法上の「5類」に移行するまでの間、医療機関や薬局に無償で提供してきました。\n\n厚生労働省によりますと、このうち使用期限が切れたとして、「パキロビッドパック」およそ175万人分と、「ラゲブリオ」およそ78万人分の合わせておよそ250万人分がことし2月末までに廃棄されたということです。\n\nまた、「ゾコーバ」についてもおよそ177万人分が来年7月末までに廃棄される見通しだということです。\n\n厚生労働省はこれらの飲み薬の活用方法を検討してきましたが、無償で提供を行った場合、市場に影響を与えるため廃棄することになったということです。\n\n厚生労働省は「当初、コロナの治療薬は供給量が限られており、必要な人にしっかりと届けるため、国で買い上げた」と説明しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "国が無償で提供するために購入した新型コロナウイルスの飲み薬、およそ250万人分が期限切れのため廃棄されていたことが厚生労働省への取材で分かりました。\n",
+    "markedBody": "国は特措法に基づき、新型コロナの3種類の飲み薬、およそ560万人分を購入し、おととし5月に新型コロナが感染症法上の「5類」に移行するまでの間、医療機関や薬局に無償で提供してきました。\n\n厚生労働省によりますと、このうち使用期限が切れたとして、「パキロビッドパック」およそ175万人分と、「ラゲブリオ」およそ78万人分の合わせておよそ250万人分がことし2月末までに廃棄されたということです。\n\nまた、「ゾコーバ」についてもおよそ177万人分が来年7月末までに廃棄される見通しだということです。\n\n厚生労働省はこれらの飲み薬の活用方法を検討してきましたが、無償で提供を行った場合、市場に影響を与えるため廃棄することになったということです。\n\n厚生労働省は「当初、コロナの治療薬は供給量が限られており、必要な人にしっかりと届けるため、国で買い上げた」と説明しています。\n",
+    "trimmedLead": "国が無償で提供するために購入した新型コロナウイルスの飲み薬、およそ250万人分が期限切れのため廃棄されていたことが厚生労働省への取材で分かりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014865031000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014865031000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "新型コロナ飲み薬 約250万人分期限切れで廃棄  国が購入",
+      "description": "国が無償で提供するために購入した新型コロナウイルスの飲み薬、およそ250万人分が期限切れのため廃棄されていたことが厚生労働省への取材で分かりました。\n\n\n国は特措法に基づき、新型コロナの3種類の飲み薬",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10014865031_202507161809_202507161814/index.m3u8&mrposter=/news/html/20250716/K10014865031_2507161802_0716180437_01_02.jpg",
+      "duration": "PT1M15S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10014865031_202507161809_202507161814/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20250716/K10014865031_2507161802_0716180437_01_02.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014869801000",
+  "dataSourceId": "na",
+  "name": "参議院選挙 比例代表 国民 足立康史氏 当選",
+  "headline": "参議院選挙 比例代表 国民 足立康史氏 当選",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014869801000",
+    "playlistId": "news-nwa-politics-nationwide-20250721",
+    "newsarticleName": "参議院選挙 比例代表 国民 足立康史氏 当選",
+    "playlistName": "7月21日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "比例代表で、国民民主党の新人、足立康史氏が当選しました。\n\n\n足立氏は大阪出身で59歳。経済産業省で大臣官房参事官などを務めたあと、2012年の衆議院選挙で大阪9区から日本維新の会の公認で立候補して初",
+  "dateModified": "2025-07-21T11:03:27+09:00",
+  "datePublished": "2025-07-21T11:03:27+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250721/K10014869801_2507211050_0721105031_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250721/K10014869801_2507211050_0721105031_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "比例代表で、国民民主党の新人、足立康史氏が当選しました。\n\n\n足立氏は大阪出身で59歳。経済産業省で大臣官房参事官などを務めたあと、2012年の衆議院選挙で大阪9区から日本維新の会の公認で立候補して初",
+  "articleBody": "比例代表で、国民民主党の新人、足立康史氏が当選しました。\n\n\n足立氏は大阪出身で59歳。経済産業省で大臣官房参事官などを務めたあと、2012年の衆議院選挙で大阪9区から日本維新の会の公認で立候補して初当選し、4期務めました。\n\nこの間、党の国会議員団の政務調査会長などを務めましたが、去年、執行部と議論することなく、党を批判したとして半年間の党員資格停止の処分を受け、10月に行われた衆議院選挙には立候補せず、引退を表明していました。\n\n足立氏は今回、新しい政治をつくる取り組みに加わりたいとして、国民民主党から比例代表で立候補しました。\n\nSNSを活用した選挙戦で、地元の大阪をはじめ、全国から一定の支持を集め、初めての当選を果たしました。\n",
+  "detailedArticleBody": {
+    "markedLead": "比例代表で、国民民主党の新人、足立康史氏が当選しました。\n",
+    "markedBody": "足立氏は大阪出身で59歳。経済産業省で大臣官房参事官などを務めたあと、2012年の衆議院選挙で大阪9区から日本維新の会の公認で立候補して初当選し、4期務めました。\n\nこの間、党の国会議員団の政務調査会長などを務めましたが、去年、執行部と議論することなく、党を批判したとして半年間の党員資格停止の処分を受け、10月に行われた衆議院選挙には立候補せず、引退を表明していました。\n\n足立氏は今回、新しい政治をつくる取り組みに加わりたいとして、国民民主党から比例代表で立候補しました。\n\nSNSを活用した選挙戦で、地元の大阪をはじめ、全国から一定の支持を集め、初めての当選を果たしました。\n",
+    "trimmedLead": "比例代表で、国民民主党の新人、足立康史氏が当選しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014869801000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014869801000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015153561000",
+  "dataSourceId": "na",
+  "name": "大阪 結核で男性死亡 職場の関係者など14人集団感染",
+  "headline": "大阪 結核で男性死亡 職場の関係者など14人集団感染",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015153561000",
+    "playlistId": "news-nwa-society-nationwide-20260618",
+    "newsarticleName": "大阪 結核で男性死亡 職場の関係者など14人集団感染",
+    "playlistName": "6月18日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "大阪市は市内で働いていた40代の男性が結核で死亡し、その職場の関係者など14人が集団感染していたと発表しました。市は、2週間以上せきなどが続く場合は、早めに医療機関を受診するよう呼びかけています。\n\n",
+  "dateModified": "2026-06-18T16:23:28+09:00",
+  "datePublished": "2026-06-18T16:23:28+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260618/K10015153561_2606181539_0618162329_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260618/K10015153561_2606181539_0618162329_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002227",
+      "name": "大阪府",
+      "display": true
+    },
+    {
+      "id": "0000414",
+      "name": "医療・健康",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "大阪市は市内で働いていた40代の男性が結核で死亡し、その職場の関係者など14人が集団感染していたと発表しました。市は、2週間以上せきなどが続く場合は、早めに医療機関を受診するよう呼びかけています。\n\n",
+  "articleBody": "大阪市は市内で働いていた40代の男性が結核で死亡し、その職場の関係者など14人が集団感染していたと発表しました。市は、2週間以上せきなどが続く場合は、早めに医療機関を受診するよう呼びかけています。\n\n\n大阪市によりますと市内の事業所で働いていた40代の男性が去年10月、医療機関で結核と診断されました。\n\n男性はその1年ほど前からせきやたんが出る症状があり、胸の痛みやだるさも訴えていたということで、診断からおよそ1か月後に死亡しました。\n\n市が男性と接触した人を調べたところ、これまでに職場の関係者などあわせて14人が結核に集団感染していたことがわかったということです。\n\nこのうち5人が発病し、医療機関で治療を受けているということで、市は男性と接触し感染が疑われる人について順次、検査を実施しているということです。\n\n大阪市内では結核の感染者は減少傾向にありますが、おととしは1年間で60人が死亡しています。\n\n市は、たんがからむせきや微熱、だるさなどが2週間以上続く場合には、結核を疑い、早めに医療機関を受診するよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "大阪市は市内で働いていた40代の男性が結核で死亡し、その職場の関係者など14人が集団感染していたと発表しました。市は、2週間以上せきなどが続く場合は、早めに医療機関を受診するよう呼びかけています。\n",
+    "markedBody": "大阪市によりますと市内の事業所で働いていた40代の男性が去年10月、医療機関で結核と診断されました。\n\n男性はその1年ほど前からせきやたんが出る症状があり、胸の痛みやだるさも訴えていたということで、診断からおよそ1か月後に死亡しました。\n\n市が男性と接触した人を調べたところ、これまでに職場の関係者などあわせて14人が結核に集団感染していたことがわかったということです。\n\nこのうち5人が発病し、医療機関で治療を受けているということで、市は男性と接触し感染が疑われる人について順次、検査を実施しているということです。\n\n大阪市内では結核の感染者は減少傾向にありますが、おととしは1年間で60人が死亡しています。\n\n市は、たんがからむせきや微熱、だるさなどが2週間以上続く場合には、結核を疑い、早めに医療機関を受診するよう呼びかけています。\n",
+    "trimmedLead": "大阪市は市内で働いていた40代の男性が結核で死亡し、その職場の関係者など14人が集団感染していたと発表しました。市は、2週間以上せきなどが続く場合は、早めに医療機関を受診するよう呼びかけています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015153561000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015153561000",
+  "video": [],
+  "citation": [
+    {
+      "name": "SFTS患者数 過去最多を上回るペースで増加 マダニ対策の徹底を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015151141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260616/K10015151141_2606161315_0616135358_01_02.jpg",
+      "datePublished": "2026-06-16T17:10:10+09:00"
+    },
+    {
+      "name": "感染症データと医療・健康情報",
+      "url": "https://www3.nhk.or.jp/news/special/medical/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_25624923.jpg"
+    },
+    {
+      "name": "約20種類の感染症データ・情報",
+      "url": "https://www3.nhk.or.jp/news/special/infection/dashboard/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_24419677.jpg"
+    },
+    {
+      "name": "はしかで寝たきりに 感染の10年後、少年をおそった難病",
+      "url": "https://www3.nhk.or.jp/news/html/20240326/k10014401591000.html",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_25330162.jpg"
+    },
+    {
+      "name": "米とイランの大統領が覚書に署名 合意内容の履行が焦点",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015153101000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260618/K10015153101_2606180656_0618072429_01_02.jpg",
+      "datePublished": "2026-06-18T13:07:40+09:00"
+    },
+    {
+      "name": "ニデック 株主総会始まる 不正会計問題で社長が陳謝",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015153341000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260618/K10015153341_2606181247_0618134333_01_03.jpg",
+      "datePublished": "2026-06-18T13:43:32+09:00"
+    },
+    {
+      "name": "中国からベビーシッター不正に入国させたか会社役員ら逮捕",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015153211000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260618/K10015153211_2606181453_0618145436_01_03.jpg",
+      "datePublished": "2026-06-18T12:10:03+09:00"
+    },
+    {
+      "name": "国民投票法改正案 衆院憲法審査会で賛成多数で可決",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015153261000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260618/K10015153261_2606181124_0618112725_01_02.jpg",
+      "datePublished": "2026-06-18T12:51:45+09:00"
+    },
+    {
+      "name": "消費税減税 自民 小野寺税調会長 “理解得るため議論加速を”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015153371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260618/K10015153371_2606181302_0618143655_01_02.jpg",
+      "datePublished": "2026-06-18T15:16:12+09:00"
+    },
+    {
+      "name": "大麻所持の罪で起訴 バレーボール元日本代表が保釈され謝罪",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015153461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260618/K10015153461_2606181413_0618142237_01_02.jpg",
+      "datePublished": "2026-06-18T14:22:36+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

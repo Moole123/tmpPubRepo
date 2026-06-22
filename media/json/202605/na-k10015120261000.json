@@ -1,0 +1,162 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015120261000",
+  "dataSourceId": "na",
+  "name": "生活保護申請 2月は約1万8000件 前年同月比5.4％減",
+  "headline": "生活保護申請 2月は約1万8000件 前年同月比5.4％減",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015120261000",
+    "playlistId": "news-nwa-society-nationwide-20260513",
+    "newsarticleName": "生活保護申請 2月は約1万8000件 前年同月比5.4％減",
+    "playlistName": "5月13日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "ことし2月の生活保護の申請件数は全国で1万8058件で、前の年の同じ月と比べて5.4％減少しました。\n\n\n厚生労働省によりますと、ことし2月に申請された生活保護の件数は、全国で1万8058件で、前の年",
+  "dateModified": "2026-05-13T12:51:14+09:00",
+  "datePublished": "2026-05-13T12:51:14+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260513/K10015120261_2605131245_0513125114_02_01.jpg",
+      "height": 719,
+      "width": 1279
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260513/K10015120261_2605131245_0513125114_01_02.jpg",
+      "height": 719,
+      "width": 1279
+    }
+  },
+  "genre": [
+    "社会",
+    "暮らし"
+  ],
+  "topic": [
+    {
+      "id": "0002738",
+      "name": "統計・指標",
+      "display": true
+    },
+    {
+      "id": "0002705",
+      "name": "福祉・介護",
+      "display": true
+    },
+    {
+      "id": "0002401",
+      "name": "厚生労働省",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ことし2月の生活保護の申請件数は全国で1万8058件で、前の年の同じ月と比べて5.4％減少しました。\n\n\n厚生労働省によりますと、ことし2月に申請された生活保護の件数は、全国で1万8058件で、前の年",
+  "articleBody": "ことし2月の生活保護の申請件数は全国で1万8058件で、前の年の同じ月と比べて5.4％減少しました。\n\n\n厚生労働省によりますと、ことし2月に申請された生活保護の件数は、全国で1万8058件で、前の年の同じ月と比べて1033件、率にして5.4％減少し、直近10年の同じ月では4番目に多くなっています。\n\nまた、生活保護の受給をことし2月に新たに始めたのは1万6380世帯で、前の年の同じ月と比べて1135世帯、率にして6.5％減少しました。\n\n生活保護を受給している世帯は全国で164万1614世帯で、前の年の同じ月と比べて4570世帯、率にして0.3％減少しました。\n\n厚生労働省は「申請件数は去年より減少しているものの、この1年間で見れば、増えたり減ったりしているので減少傾向にあるとは言えない。必要な人には速やかに支給の決定がなされるよう取り組みたい」とコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "ことし2月の生活保護の申請件数は全国で1万8058件で、前の年の同じ月と比べて5.4％減少しました。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20260513/K10015120261_2605131246_0513125114_02_03.jpg)\n\n厚生労働省によりますと、ことし2月に申請された生活保護の件数は、全国で1万8058件で、前の年の同じ月と比べて1033件、率にして5.4％減少し、直近10年の同じ月では4番目に多くなっています。\n\nまた、生活保護の受給をことし2月に新たに始めたのは1万6380世帯で、前の年の同じ月と比べて1135世帯、率にして6.5％減少しました。\n\n生活保護を受給している世帯は全国で164万1614世帯で、前の年の同じ月と比べて4570世帯、率にして0.3％減少しました。\n\n厚生労働省は「申請件数は去年より減少しているものの、この1年間で見れば、増えたり減ったりしているので減少傾向にあるとは言えない。必要な人には速やかに支給の決定がなされるよう取り組みたい」とコメントしています。\n",
+    "trimmedLead": "ことし2月の生活保護の申請件数は全国で1万8058件で、前の年の同じ月と比べて5.4％減少しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015120261000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015120261000",
+  "video": [],
+  "citation": [
+    {
+      "name": "昨年度の経常収支 34兆円余の黒字 3年連続で過去最大を更新",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015120091_2605131045_0513105046_01_02.jpg",
+      "datePublished": "2026-05-13T10:50:45+09:00"
+    },
+    {
+      "name": "長期金利2.6％まで上昇 約29年ぶりの高水準",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120121000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015120121_2605130931_0513093355_01_02.jpg",
+      "datePublished": "2026-05-13T11:04:20+09:00"
+    },
+    {
+      "name": "フィギュア坂本花織 引退会見 競技生活振り返り“青春だな”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120111000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015120111_2605131114_0513112407_01_02.jpg",
+      "datePublished": "2026-05-13T12:32:46+09:00"
+    },
+    {
+      "name": "虐待など対応 児童福祉司の担当ケース 平均25件に半減 国調査",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015119741_2605122001_0513054152_01_03.jpg",
+      "datePublished": "2026-05-13T05:41:52+09:00"
+    },
+    {
+      "name": "あいちFGと三重の三十三FGが経営統合に向け最終調整",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015120141_2605131014_0513101456_01_03.jpg",
+      "datePublished": "2026-05-13T11:56:15+09:00"
+    },
+    {
+      "name": "給付付き税額控除 支援対象の所得水準や財源確保など検討課題",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015119921_2605130105_0513045721_01_02.jpg",
+      "datePublished": "2026-05-13T04:57:20+09:00"
+    },
+    {
+      "name": "新築マンション引き渡し遅延の可能性 通知広がる イラン影響で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119831000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015119831_2605122121_0513062346_01_02.jpg",
+      "datePublished": "2026-05-13T06:23:46+09:00"
+    },
+    {
+      "name": "トランプ大統領 中国へ出発 経済・台湾・イランなど議論",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119961000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015119961_2605130359_0513040231_01_02.jpg",
+      "datePublished": "2026-05-13T07:42:36+09:00"
+    },
+    {
+      "name": "磐越道部活バス事故 4月から約1か月で少なくとも5件の物損事故",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119991000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015119991_2605130016_0513050926_01_03.jpg",
+      "datePublished": "2026-05-13T05:09:25+09:00"
+    },
+    {
+      "name": "ハンタウイルス クルーズ船の感染確認9人に WHO",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120031000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260512/K10015120031_2605122349_0512235023_01_03.jpg",
+      "datePublished": "2026-05-12T23:16:30+09:00"
+    },
+    {
+      "name": "金利も価格も上昇 住宅購入の注意点は？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119181000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260512/K10015119181_2605121143_0512141027_01_02.jpg",
+      "datePublished": "2026-05-12T14:10:26+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

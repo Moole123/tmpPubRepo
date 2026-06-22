@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015033151000",
+  "dataSourceId": "na",
+  "name": "大阪 堺のシャープ工場跡地 KDDIのデータセンター稼働開始",
+  "headline": "大阪 堺のシャープ工場跡地 KDDIのデータセンター稼働開始",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015033151000",
+    "playlistId": "news-nwa-business-nationwide-20260122",
+    "newsarticleName": "大阪 堺のシャープ工場跡地 KDDIのデータセンター稼働開始",
+    "playlistName": "1月22日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "大阪 堺市にあった大手電機メーカー「シャープ」のテレビ向け大型液晶パネルの工場跡地に、通信大手のKDDIがデータセンターを整備し、22日から稼働を始めました。\n\n\nKDDIは市況の低迷による業績の悪化",
+  "dateModified": "2026-01-22T18:39:02+09:00",
+  "datePublished": "2026-01-22T18:39:02+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260122/K10015033151_2601221745_0122183903_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260122/K10015033151_2601221745_0122183903_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "大阪 堺市にあった大手電機メーカー「シャープ」のテレビ向け大型液晶パネルの工場跡地に、通信大手のKDDIがデータセンターを整備し、22日から稼働を始めました。\n\n\nKDDIは市況の低迷による業績の悪化",
+  "articleBody": "大阪 堺市にあった大手電機メーカー「シャープ」のテレビ向け大型液晶パネルの工場跡地に、通信大手のKDDIがデータセンターを整備し、22日から稼働を始めました。\n\n\nKDDIは市況の低迷による業績の悪化などで、おととし8月に生産を停止した大阪 堺市にあったシャープのテレビ向け大型液晶パネル工場の土地や建物の一部をおよそ100億円で取得し、その跡地をデータセンターとして整備しました。\n\n稼働初日の22日は開所式が開かれ、報道陣などに内部が公開されました。\n\nデータセンターは、急速に普及するAI＝人工知能の活用に欠かせない大量のデータを処理したり保存したりする施設で、今回、設置されたサーバーの半導体はアメリカの半導体大手「エヌビディア」から供給を受けています。\n\n高度な計算処理能力とセキュリティーが強みで、2030年までに医薬品の開発や金融や行政の分野に特化したAIモデルの設計など、およそ400に上るプロジェクトに役立てたいとしています。\n\n開所式でKDDIの松田浩路社長は「社会インフラを担う事業者として、通信基盤とAI基盤の両輪で日本のデジタル社会を支え、この取り組みを加速していきたい」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "大阪 堺市にあった大手電機メーカー「シャープ」のテレビ向け大型液晶パネルの工場跡地に、通信大手のKDDIがデータセンターを整備し、22日から稼働を始めました。\n",
+    "markedBody": "KDDIは市況の低迷による業績の悪化などで、おととし8月に生産を停止した大阪 堺市にあったシャープのテレビ向け大型液晶パネル工場の土地や建物の一部をおよそ100億円で取得し、その跡地をデータセンターとして整備しました。\n\n稼働初日の22日は開所式が開かれ、報道陣などに内部が公開されました。\n\nデータセンターは、急速に普及するAI＝人工知能の活用に欠かせない大量のデータを処理したり保存したりする施設で、今回、設置されたサーバーの半導体はアメリカの半導体大手「エヌビディア」から供給を受けています。\n\n高度な計算処理能力とセキュリティーが強みで、2030年までに医薬品の開発や金融や行政の分野に特化したAIモデルの設計など、およそ400に上るプロジェクトに役立てたいとしています。\n\n開所式でKDDIの松田浩路社長は「社会インフラを担う事業者として、通信基盤とAI基盤の両輪で日本のデジタル社会を支え、この取り組みを加速していきたい」と述べました。\n",
+    "trimmedLead": "大阪 堺市にあった大手電機メーカー「シャープ」のテレビ向け大型液晶パネルの工場跡地に、通信大手のKDDIがデータセンターを整備し、22日から稼働を始めました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015033151000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015033151000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

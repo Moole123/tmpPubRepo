@@ -1,0 +1,188 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015151401000",
+  "dataSourceId": "na",
+  "name": "ソフトバンク 米オープンAIと連携 セキュリティ対策提供へ",
+  "headline": "ソフトバンク 米オープンAIと連携 セキュリティ対策提供へ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015151401000",
+    "playlistId": "news-nwa-business-nationwide-20260616",
+    "newsarticleName": "ソフトバンク 米オープンAIと連携 セキュリティ対策提供へ",
+    "playlistName": "6月16日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "極めて高性能なAIモデルが開発され、悪用された場合の深刻なリスクが懸念されるなか、ソフトバンクグループの孫正義社長は、アメリカのオープンAIと連携し、セキュリティ対策のサービスを国内のインフラ関連の企",
+  "dateModified": "2026-06-16T19:11:44+09:00",
+  "datePublished": "2026-06-16T19:11:44+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260616/K10015151401_2606161800_0616191145_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260616/K10015151401_2606161800_0616191145_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000010",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "0000009",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "0000325",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "0002733",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "極めて高性能なAIモデルが開発され、悪用された場合の深刻なリスクが懸念されるなか、ソフトバンクグループの孫正義社長は、アメリカのオープンAIと連携し、セキュリティ対策のサービスを国内のインフラ関連の企",
+  "articleBody": "極めて高性能なAIモデルが開発され、悪用された場合の深刻なリスクが懸念されるなか、ソフトバンクグループの孫正義社長は、アメリカのオープンAIと連携し、セキュリティ対策のサービスを国内のインフラ関連の企業などに提供していく考えを明らかにしました。\n\n\nアメリカの新興AI企業が開発した「クロード・ミュトス」など、性能が極めて高い最新のAIモデルは、サイバー攻撃に悪用された場合、金融システムなどに深刻なリスクをもたらすおそれがあるとも指摘されています。\n\nこうした中、ソフトバンクグループの孫社長は、16日に都内で企業向けのイベントを開き、「AIの最先端モデルによって、黒船襲来以来の危機がやってきたのではないかと心配している」と述べました。\n\nそのうえで、「クロード・ミュトス」と同等の性能があるとされるAIモデルを開発したアメリカのオープンAIと連携し、高度なサイバー攻撃に備えたセキュリティー対策のサービスを年内にも始める考えを明らかにしました。\n\nシステムのぜい弱性を評価し、修復までの支援を行うサービスで、金融や電力、それに公共交通などの、インフラ関連の企業などに提供していくことにしています。\n\nソフトバンクグループなどは、サービスを担当する技術者を、現在の20倍となる1000人規模まで増やし、幅広い企業にセキュリティー対策のサービスを提供することを目指しているということです。\n\n孫氏 オープンAIの幹部とともに片山金融相に面会\n\n発表にあわせて、ソフトバンクグループの孫正義社長は、アメリカのオープンAIの幹部とともに、16日、片山金融担当大臣と面会しました。\n\n面会のあと、孫社長は「AIサイバーアタックがこれから大々的に日本にやってくるので、問題や意識の共有、対策について、突っ込んだ話をさせていただいた」と述べました。\n\nそのうえで「オープンAIについては、信頼をもって徹底的にサイバー攻撃からの防御のために使っていく。片山大臣からは、頑張ってほしいと言われた」と述べました。\n\n片山金融相 「AIの良い部分が共有されるよう協力態勢を」\n\n一方、片山大臣は「AIの良い部分が人類に共有されるよう、何とか、この脅威を乗り越えられないかという意味で一致した。協力態勢をとっていきたいと話した」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "極めて高性能なAIモデルが開発され、悪用された場合の深刻なリスクが懸念されるなか、ソフトバンクグループの孫正義社長は、アメリカのオープンAIと連携し、セキュリティ対策のサービスを国内のインフラ関連の企業などに提供していく考えを明らかにしました。\n",
+    "markedBody": "アメリカの新興AI企業が開発した「クロード・ミュトス」など、性能が極めて高い最新のAIモデルは、サイバー攻撃に悪用された場合、金融システムなどに深刻なリスクをもたらすおそれがあるとも指摘されています。\n\nこうした中、ソフトバンクグループの孫社長は、16日に都内で企業向けのイベントを開き、「AIの最先端モデルによって、黒船襲来以来の危機がやってきたのではないかと心配している」と述べました。\n\nそのうえで、「クロード・ミュトス」と同等の性能があるとされるAIモデルを開発したアメリカのオープンAIと連携し、高度なサイバー攻撃に備えたセキュリティー対策のサービスを年内にも始める考えを明らかにしました。\n\nシステムのぜい弱性を評価し、修復までの支援を行うサービスで、金融や電力、それに公共交通などの、インフラ関連の企業などに提供していくことにしています。\n\nソフトバンクグループなどは、サービスを担当する技術者を、現在の20倍となる1000人規模まで増やし、幅広い企業にセキュリティー対策のサービスを提供することを目指しているということです。\n\n### 孫氏 オープンAIの幹部とともに片山金融相に面会\n\n発表にあわせて、ソフトバンクグループの孫正義社長は、アメリカのオープンAIの幹部とともに、16日、片山金融担当大臣と面会しました。\n\n面会のあと、孫社長は「AIサイバーアタックがこれから大々的に日本にやってくるので、問題や意識の共有、対策について、突っ込んだ話をさせていただいた」と述べました。\n\nそのうえで「オープンAIについては、信頼をもって徹底的にサイバー攻撃からの防御のために使っていく。片山大臣からは、頑張ってほしいと言われた」と述べました。\n\n### 片山金融相 「AIの良い部分が共有されるよう協力態勢を」\n\n一方、片山大臣は「AIの良い部分が人類に共有されるよう、何とか、この脅威を乗り越えられないかという意味で一致した。協力態勢をとっていきたいと話した」と述べました。\n",
+    "trimmedLead": "極めて高性能なAIモデルが開発され、悪用された場合の深刻なリスクが懸念されるなか、ソフトバンクグループの孫正義社長は、アメリカのオープンAIと連携し、セキュリティ対策のサービスを国内のインフラ関連の企業などに提供していく考えを明らかにしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015151401000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015151401000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "ソフトバンク 米オープンAIと連携 セキュリティ対策提供へ",
+      "description": "極めて高性能なAIモデルが開発され、悪用された場合の深刻なリスクが懸念されるなか、ソフトバンクグループの孫正義社長は、アメリカのオープンAIと連携し、セキュリティ対策のサービスを国内のインフラ関連の企",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015151401_202606161828_202606161828/index.m3u8&mrposter=/news/html/20260616/K10015151401_2606161800_0616191145_01_03.jpg",
+      "duration": "PT1M7S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015151401_202606161828_202606161828/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260616/K10015151401_2606161800_0616191145_01_03.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "アンソロピックAI提供停止 松本デジタル相「ほかのAI活用」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015151071000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260616/K10015151071_2606161213_0616132329_01_02.jpg",
+      "datePublished": "2026-06-16T13:23:28+09:00"
+    },
+    {
+      "name": "アンソロピック 最新AIモデルの提供を停止 米政府の命令受け",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015149041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260613/K10015149041_2606131020_0613105255_01_02.jpg",
+      "datePublished": "2026-06-13T18:00:08+09:00"
+    },
+    {
+      "name": "AI悪用のサイバー攻撃に備え システム運用一時停止も 政府",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148481000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148481_2606121432_0612160602_01_02.jpg",
+      "datePublished": "2026-06-12T16:06:01+09:00"
+    },
+    {
+      "name": "米アンソロピック ミュトス級AIを一般提供開始 安全対策加えて",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015145721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260610/K10015145721_2606100821_0610083900_01_02.jpg",
+      "datePublished": "2026-06-10T08:39:00+09:00"
+    },
+    {
+      "name": "AI ミュトス利用可能でサイバーセキュリティー強化 デジタル相",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015139651000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260603/K10015139651_2606031310_0603135429_01_02.jpg",
+      "datePublished": "2026-06-03T13:54:28+09:00"
+    },
+    {
+      "name": "イギリス 16歳未満のSNS利用を禁止する方針",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015150731000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260616/K10015150731_2606152328_0616082651_01_02.jpg",
+      "datePublished": "2026-06-16T08:26:50+09:00"
+    },
+    {
+      "name": "消費者白書 SNS関係のトラブルなどの相談 初の年間10万件超に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148281000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148281_2606121159_0612132224_01_03.jpg",
+      "datePublished": "2026-06-12T13:22:23+09:00"
+    },
+    {
+      "name": "Booking.comの予約客に不審なメッセージ相次ぐ 注意呼びかけ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148701000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148701_2606121837_0612184618_01_02.jpg",
+      "datePublished": "2026-06-12T18:46:17+09:00"
+    },
+    {
+      "name": "【詳しく】利上げで暮らしへの影響は？金利どこまで上がる？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015150921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260616/K10015150921_2606161815_0616181748_01_02.jpg",
+      "datePublished": "2026-06-16T19:16:30+09:00"
+    },
+    {
+      "name": "これを見ればわかる！まもなくG7サミット",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015150191000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260615/K10015150191_2606151133_0615160417_01_02.jpg",
+      "datePublished": "2026-06-15T16:04:16+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

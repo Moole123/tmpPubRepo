@@ -1,0 +1,144 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015064781000",
+  "dataSourceId": "na",
+  "name": "高市首相動静 2026年3月2日",
+  "headline": "高市首相動静 2026年3月2日",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015064781000",
+    "playlistId": "news-nwa-politics-nationwide-20260303",
+    "newsarticleName": "高市首相動静 2026年3月2日",
+    "playlistName": "3月3日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "（高市首相動静 2026年3月2日）\n\n\n08:52 公邸発\n08:54 国会着\n08:56 衆議院第1委員室入る\n08:58 小泉進次郎防衛大臣と会話\n09:00 衆議院予算委員会開会\n12:00 ",
+  "dateModified": "2026-03-03T09:55:08+09:00",
+  "datePublished": "2026-03-03T09:55:08+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260303/K10015064781_2603030928_0303095509_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260303/K10015064781_2603030928_0303095509_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0002532",
+      "name": "首相動静",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "（高市首相動静 2026年3月2日）\n\n\n08:52 公邸発\n08:54 国会着\n08:56 衆議院第1委員室入る\n08:58 小泉進次郎防衛大臣と会話\n09:00 衆議院予算委員会開会\n12:00 ",
+  "articleBody": "（高市首相動静 2026年3月2日）\n\n\n08:52 公邸発\n08:54 国会着\n08:56 衆議院第1委員室入る\n08:58 小泉進次郎防衛大臣と会話\n09:00 衆議院予算委員会開会\n12:00 衆議院予算委員会休憩\n12:01 同室出る\n12:03 国会発\n12:05 官邸着\n12:53 官邸発\n12:54 国会着\n12:56 衆議院第1委員室入る\n12:58 片山さつき財務大臣と会話（～12:59）\n13:00 衆議院予算委員会再開\n15:24 衆議院予算委員会休憩。同室出る\n15:28 同室入る\n15:29 林芳正総務大臣と会話（～15:30）\n15:35 衆議院予算委員会再開\n17:12 衆議院予算委員会散会\n17:14 同室出る\n17:16 自民党総裁室入る\n17:17 党役員会（～17:31）\n17:32 同室出る\n17:34 同党幹事長会議室入る\n17:35 京都府知事選挙立候補予定者に推薦証交付（～17:36）\n17:37 同室出る\n17:38 国会発\n17:40 官邸着\n19:16 徒歩で官邸発\n19:17 公邸着\n",
+  "detailedArticleBody": {
+    "markedLead": "（高市首相動静 2026年3月2日）\n",
+    "markedBody": "08:52 公邸発\\\n08:54 国会着\\\n08:56 衆議院第1委員室入る\\\n08:58 小泉進次郎防衛大臣と会話\\\n09:00 衆議院予算委員会開会\\\n12:00 衆議院予算委員会休憩\\\n12:01 同室出る\\\n12:03 国会発\\\n12:05 官邸着\\\n12:53 官邸発\\\n12:54 国会着\\\n12:56 衆議院第1委員室入る\\\n12:58 片山さつき財務大臣と会話（～12:59）\\\n13:00 衆議院予算委員会再開\\\n15:24 衆議院予算委員会休憩。同室出る\\\n15:28 同室入る\\\n15:29 林芳正総務大臣と会話（～15:30）\\\n15:35 衆議院予算委員会再開\\\n17:12 衆議院予算委員会散会\\\n17:14 同室出る\\\n17:16 自民党総裁室入る\\\n17:17 党役員会（～17:31）\\\n17:32 同室出る\\\n17:34 同党幹事長会議室入る\\\n17:35 京都府知事選挙立候補予定者に推薦証交付（～17:36）\\\n17:37 同室出る\\\n17:38 国会発\\\n17:40 官邸着\\\n19:16 徒歩で官邸発\\\n19:17 公邸着\n",
+    "trimmedLead": "（高市首相動静 2026年3月2日）\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015064781000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015064781000",
+  "video": [],
+  "citation": [
+    {
+      "name": "トランプ大統領 対イラン“大きい波 まもなく来る”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015064731000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260303/K10015064731_2603030411_0303050252_01_02.jpg",
+      "datePublished": "2026-03-03T17:06:16+09:00"
+    },
+    {
+      "name": "イラン革命防衛隊幹部“ホルムズ海峡封鎖” と警告 米軍は否定",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015064761000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260303/K10015064761_2603030643_0303064438_01_02.jpg",
+      "datePublished": "2026-03-03T08:38:58+09:00"
+    },
+    {
+      "name": "【イラン情勢 特集サイト】最新状況は？ そもそもなぜ対立？ 日本や各国の対応は？",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0000820",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30921833.jpg"
+    },
+    {
+      "name": "1月の完全失業率 2.7％ 前月より0.1ポイント悪化",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015064791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260303/K10015064791_2603030846_0303084717_01_02.jpg",
+      "datePublished": "2026-03-03T10:22:53+09:00"
+    },
+    {
+      "name": "関東甲信 山沿い中心 あすにかけ大雪か 交通影響に十分注意",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015064771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260303/K10015064771_2603031918_0303191929_01_03.jpg",
+      "datePublished": "2026-03-03T15:01:57+09:00"
+    },
+    {
+      "name": "WBC日本代表 オリックスとの強化試合 敗れる 大谷翔平は無安打",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015064431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260302/K10015064431_2603022010_0302201518_01_02.jpg",
+      "datePublished": "2026-03-03T00:30:56+09:00"
+    },
+    {
+      "name": "「MMRワクチン」 製造販売了承 国内で約30年ぶりに使用へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015064661000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260302/K10015064661_2603022300_0302231710_01_02.jpg",
+      "datePublished": "2026-03-02T23:17:09+09:00"
+    },
+    {
+      "name": "女性にテキーラ32杯飲ませ死亡 初公判で男の被告 無罪を主張",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015064171000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260302/K10015064171_2603021344_0302140804_01_02.jpg",
+      "datePublished": "2026-03-02T14:08:03+09:00"
+    },
+    {
+      "name": "大江健三郎さん 未発表の短編小説2編見つかる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015064471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260303/K10015064471_2603021931_0303051548_01_02.jpg",
+      "datePublished": "2026-03-03T05:15:47+09:00"
+    },
+    {
+      "name": "“脱アメリカ”本当にできる？悩めるヨーロッパの覚悟とは",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015061231000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260301/K10015061231_2602271322_0301143231_01_02.jpg",
+      "datePublished": "2026-03-01T14:32:30+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

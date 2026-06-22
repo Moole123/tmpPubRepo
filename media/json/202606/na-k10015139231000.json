@@ -1,0 +1,161 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015139231000",
+  "dataSourceId": "na",
+  "name": "横浜市戸塚区の一部に避難指示 平戸永谷川で浸水のおそれ",
+  "headline": "横浜市戸塚区の一部に避難指示 平戸永谷川で浸水のおそれ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015139231000",
+    "playlistId": "news-nwa-disaster-nationwide-20260603",
+    "newsarticleName": "横浜市戸塚区の一部に避難指示 平戸永谷川で浸水のおそれ",
+    "playlistName": "6月3日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "横浜市は、戸塚区を流れる平戸永谷川で避難判断水位を超えて浸水のおそれがあるとして、3日午前7時10分、川の周辺に住む2227世帯5233人に、避難指示を出しました。5段階の警戒レベルのうち警戒レベル4",
+  "dateModified": "2026-06-03T08:03:59+09:00",
+  "datePublished": "2026-06-03T08:03:59+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260603/K10015139231_2606030759_0603080400_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260603/K10015139231_2606030759_0603080400_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002618",
+      "name": "避難",
+      "display": true
+    },
+    {
+      "id": "0002617",
+      "name": "大雨情報",
+      "display": true
+    },
+    {
+      "id": "0001345",
+      "name": "台風",
+      "display": true
+    },
+    {
+      "id": "0000035",
+      "name": "気象",
+      "display": true
+    },
+    {
+      "id": "0002214",
+      "name": "神奈川県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "横浜市は、戸塚区を流れる平戸永谷川で避難判断水位を超えて浸水のおそれがあるとして、3日午前7時10分、川の周辺に住む2227世帯5233人に、避難指示を出しました。5段階の警戒レベルのうち警戒レベル4",
+  "articleBody": "横浜市は、戸塚区を流れる平戸永谷川で避難判断水位を超えて浸水のおそれがあるとして、3日午前7時10分、川の周辺に住む2227世帯5233人に、避難指示を出しました。5段階の警戒レベルのうち警戒レベル4の情報で、危険な場所から全員避難するよう呼びかけています。\n\n\n河川の最新情報はニュース防災アプリで\n\n河川の最新情報はニュース防災アプリで\n河川の水位データや河川カメラの画像を確認できます\n",
+  "detailedArticleBody": {
+    "markedLead": "横浜市は、戸塚区を流れる平戸永谷川で避難判断水位を超えて浸水のおそれがあるとして、3日午前7時10分、川の周辺に住む2227世帯5233人に、避難指示を出しました。5段階の警戒レベルのうち警戒レベル4の情報で、危険な場所から全員避難するよう呼びかけています。\n",
+    "markedBody": ":::nw--link-type4 {href=https://www.nhk.or.jp/nhkone/service/app/news_bousai/}\n![河川の最新情報はニュース防災アプリで](https://news.web.nhk/news/html/20260603/K10015139231_2606030833_0603083518_02_03.jpg)\n\n**河川の最新情報はニュース防災アプリで**\\\n河川の水位データや河川カメラの画像を確認できます\n:::\n\n```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"002\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\r\n    <div class=\"fs-wrap\">\r\n      <h2 class=\"freespace-title\">河川の洪水危険度マップ</h2>\r\n\r\n      <a href=\"https://news.web.nhk/bousai-map/flood/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"tenkiBousaiMap-fullscreenBtn\">全画面でマップを見る</a>\r\n\r\n      <div class=\"tenkiBousaiMap-wrap\">\r\n        <iframe src=\"https://news.web.nhk/bousai-map/flood/?lat=36.3562&amp;lng=137.0922&amp;zoom=3.6&amp;mapMenu=off&amp;help=off&amp;floodSelection=off&amp;cameraToggle=off&amp;disableUserLocation=on\" allowfullscreen=\"allowfullscreen\" scrolling=\"no\" class=\"js-iframe-dataMap\"></iframe>\r\n      </div>\r\n    </div>\n</div>\n```\n",
+    "noHtmlMarkedLead": "横浜市は、戸塚区を流れる平戸永谷川で避難判断水位を超えて浸水のおそれがあるとして、3日午前7時10分、川の周辺に住む2227世帯5233人に、避難指示を出しました。5段階の警戒レベルのうち警戒レベル4の情報で、危険な場所から全員避難するよう呼びかけています。\n",
+    "noHtmlMarkedBody": ":::nw--link-type4 {href=https://www.nhk.or.jp/nhkone/service/app/news_bousai/}\n![河川の最新情報はニュース防災アプリで](https://news.web.nhk/news/html/20260603/K10015139231_2606030833_0603083518_02_03.jpg)\n\n**河川の最新情報はニュース防災アプリで**\\\n河川の水位データや河川カメラの画像を確認できます\n:::\n",
+    "trimmedLead": "横浜市は、戸塚区を流れる平戸永谷川で避難判断水位を超えて浸水のおそれがあるとして、3日午前7時10分、川の周辺に住む2227世帯5233人に、避難指示を出しました。5段階の警戒レベルのうち警戒レベル4の情報で、危険な場所から全員避難するよう呼びかけています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015139231000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015139231000",
+  "video": [],
+  "citation": [
+    {
+      "name": "台風6号 和歌山県に氾濫特別警報 東海や関東でも厳重警戒",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015138881000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260603/K10015138881_2606030845_0603085159_01_02.jpg",
+      "datePublished": "2026-06-03T08:51:58+09:00"
+    },
+    {
+      "name": "台風6号 東海道新幹線に影響の可能性 在来線情報 空の便欠航も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015138791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260602/K10015138791_2606022134_0602215923_01_02.jpg",
+      "datePublished": "2026-06-03T08:57:57+09:00"
+    },
+    {
+      "name": "【台風影響】3日も羽田発着便など欠航 新幹線も運休の可能性",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015137741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260602/K10015137741_2606020348_0602055429_01_02.jpg",
+      "datePublished": "2026-06-02T23:15:59+09:00"
+    },
+    {
+      "name": "人材派遣大手 「派遣料金」引き上げカルテルか 公取委立ち入り",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015138041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260602/K10015138041_2606021220_0602122546_01_03.jpg",
+      "datePublished": "2026-06-02T21:04:34+09:00"
+    },
+    {
+      "name": "米イランやり取り停止か レバノン情勢でいっそう不透明に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015138921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260603/K10015138921_2606030053_0603005622_01_02.jpg",
+      "datePublished": "2026-06-03T05:56:54+09:00"
+    },
+    {
+      "name": "クロード・ミュトス 日本政府と一部の国内銀行が利用可能に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015138831000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260603/K10015138831_2606030015_0603003649_01_02.jpg",
+      "datePublished": "2026-06-03T04:01:14+09:00"
+    },
+    {
+      "name": "歌手の菅原洋一さん死去 92歳 「知りたくないの」などヒット曲",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015138211000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260602/K10015138211_2606021428_0602143024_01_02.jpg",
+      "datePublished": "2026-06-02T17:08:16+09:00"
+    },
+    {
+      "name": "【プロ野球結果】巨人 則本が今季7回目登板で移籍後初勝利",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015138731000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260602/K10015138731_2606022109_0602215832_01_02.jpg",
+      "datePublished": "2026-06-02T22:48:03+09:00"
+    },
+    {
+      "name": "子どものSNS利用規制 国内のルールはどうなる？【Q＆A】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015137951000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260602/K10015137951_2606021740_0602185942_01_02.jpg",
+      "datePublished": "2026-06-02T19:35:05+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": true
+  }
+}

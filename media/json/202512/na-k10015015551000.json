@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015015551000",
+  "dataSourceId": "na",
+  "name": "タイ 来年2月の総選挙 立候補の届け出始まる 選挙戦が本格化",
+  "headline": "タイ 来年2月の総選挙 立候補の届け出始まる 選挙戦が本格化",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015015551000",
+    "playlistId": "news-nwa-international-nationwide-20251227",
+    "newsarticleName": "タイ 来年2月の総選挙 立候補の届け出始まる 選挙戦が本格化",
+    "playlistName": "12月27日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "タイで来年2月に行われる総選挙の立候補の届け出が始まり、選挙戦が本格的に始まりました。隣国カンボジアとの軍事衝突で強硬姿勢を見せてきたアヌティン首相が、政権を維持できるのか注目されています。\n\n\nタイ",
+  "dateModified": "2025-12-27T17:28:21+09:00",
+  "datePublished": "2025-12-27T17:28:21+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251227/K10015015551_2512271711_1227172822_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251227/K10015015551_2512271711_1227172822_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "タイで来年2月に行われる総選挙の立候補の届け出が始まり、選挙戦が本格的に始まりました。隣国カンボジアとの軍事衝突で強硬姿勢を見せてきたアヌティン首相が、政権を維持できるのか注目されています。\n\n\nタイ",
+  "articleBody": "タイで来年2月に行われる総選挙の立候補の届け出が始まり、選挙戦が本格的に始まりました。隣国カンボジアとの軍事衝突で強硬姿勢を見せてきたアヌティン首相が、政権を維持できるのか注目されています。\n\n\nタイで来年2月に行われる議会下院の選挙の立候補の届け出が27日から始まり、各地に設けられた会場では、多くの支持者が集まる中、各候補者が立候補を届け出ました。\n\nタイではことし8月、隣国カンボジアとの国境問題への対応をめぐって当時の首相が失職し、アヌティン首相が就任しましたが、少数与党での不安定な政権運営が続いてきました。\n\nそのため、アヌティン首相は当初の予定よりも前倒しして議会を解散し、今月、再燃したカンボジアとの軍事衝突では強硬姿勢を示し、支持の拡大を図ってきたとみられます。\n\n今月行われた最新の世論調査では、アヌティン首相が率いるタイ名誉党に対して、前回の選挙で躍進した前進党の後継の民衆党が優位に立っている一方、支持する政党が決まっていない人が3割を超えていて、アヌティン首相が政権を維持できるのか注目されています。\n",
+  "detailedArticleBody": {
+    "markedLead": "タイで来年2月に行われる総選挙の立候補の届け出が始まり、選挙戦が本格的に始まりました。隣国カンボジアとの軍事衝突で強硬姿勢を見せてきたアヌティン首相が、政権を維持できるのか注目されています。\n",
+    "markedBody": "タイで来年2月に行われる議会下院の選挙の立候補の届け出が27日から始まり、各地に設けられた会場では、多くの支持者が集まる中、各候補者が立候補を届け出ました。\n\nタイではことし8月、隣国カンボジアとの国境問題への対応をめぐって当時の首相が失職し、アヌティン首相が就任しましたが、少数与党での不安定な政権運営が続いてきました。\n\nそのため、アヌティン首相は当初の予定よりも前倒しして議会を解散し、今月、再燃したカンボジアとの軍事衝突では強硬姿勢を示し、支持の拡大を図ってきたとみられます。\n\n今月行われた最新の世論調査では、アヌティン首相が率いるタイ名誉党に対して、前回の選挙で躍進した前進党の後継の民衆党が優位に立っている一方、支持する政党が決まっていない人が3割を超えていて、アヌティン首相が政権を維持できるのか注目されています。\n",
+    "trimmedLead": "タイで来年2月に行われる総選挙の立候補の届け出が始まり、選挙戦が本格的に始まりました。隣国カンボジアとの軍事衝突で強硬姿勢を見せてきたアヌティン首相が、政権を維持できるのか注目されています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015015551000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015015551000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

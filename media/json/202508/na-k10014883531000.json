@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014883531000",
+  "dataSourceId": "na",
+  "name": "静岡 南伊豆町 海水浴場で60代男性が溺れ意識不明の重体",
+  "headline": "静岡 南伊豆町 海水浴場で60代男性が溺れ意識不明の重体",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014883531000",
+    "playlistId": "news-nwa-society-nationwide-20250803",
+    "newsarticleName": "静岡 南伊豆町 海水浴場で60代男性が溺れ意識不明の重体",
+    "playlistName": "8月3日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "3日午前、静岡県南伊豆町の海水浴場で60代の男性が溺れ、救助されて病院に運ばれましたが意識不明の重体となっています。\n\n\n3日午前11時すぎ、南伊豆町湊の「弓ヶ浜海水浴場」で「人が溺れていた」と、ライ",
+  "dateModified": "2025-08-03T15:56:12+09:00",
+  "datePublished": "2025-08-03T15:56:12+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250803/K10014883531_2508031539_0803155526_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250803/K10014883531_2508031539_0803155526_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "3日午前、静岡県南伊豆町の海水浴場で60代の男性が溺れ、救助されて病院に運ばれましたが意識不明の重体となっています。\n\n\n3日午前11時すぎ、南伊豆町湊の「弓ヶ浜海水浴場」で「人が溺れていた」と、ライ",
+  "articleBody": "3日午前、静岡県南伊豆町の海水浴場で60代の男性が溺れ、救助されて病院に運ばれましたが意識不明の重体となっています。\n\n\n3日午前11時すぎ、南伊豆町湊の「弓ヶ浜海水浴場」で「人が溺れていた」と、ライフセーバーから近くを巡回していた警察官に通報がありました。\n\n警察によりますと、溺れたのは60代の男性で、ライフセーバーや近くの人に助け出され、ドクターヘリで病院に搬送されましたが、意識不明の重体となっています。\n\n男性は家族とともに海水浴場を訪れ、当時は海でボディーボードをしていたと見られ、警察が詳しい状況を調べています。\n\n静岡県内では水の事故が相次いでいて、2日は下田市と東伊豆町でいずれも海水浴中だった40代の男性2人が死亡したほか、沼津市の池では15歳の高校1年生の2人が溺れて死亡しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "3日午前、静岡県南伊豆町の海水浴場で60代の男性が溺れ、救助されて病院に運ばれましたが意識不明の重体となっています。\n",
+    "markedBody": "3日午前11時すぎ、南伊豆町湊の「弓ヶ浜海水浴場」で「人が溺れていた」と、ライフセーバーから近くを巡回していた警察官に通報がありました。\n\n警察によりますと、溺れたのは60代の男性で、ライフセーバーや近くの人に助け出され、ドクターヘリで病院に搬送されましたが、意識不明の重体となっています。\n\n男性は家族とともに海水浴場を訪れ、当時は海でボディーボードをしていたと見られ、警察が詳しい状況を調べています。\n\n静岡県内では水の事故が相次いでいて、2日は下田市と東伊豆町でいずれも海水浴中だった40代の男性2人が死亡したほか、沼津市の池では15歳の高校1年生の2人が溺れて死亡しました。\n",
+    "trimmedLead": "3日午前、静岡県南伊豆町の海水浴場で60代の男性が溺れ、救助されて病院に運ばれましたが意識不明の重体となっています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014883531000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014883531000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

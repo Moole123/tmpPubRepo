@@ -1,0 +1,103 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014866641000",
+  "dataSourceId": "na",
+  "name": "参議院選挙2025 愛知選挙区 国民民主党 水野孝一氏 初めての当選",
+  "headline": "参議院選挙 愛知選挙区 国民 水野孝一氏 初めての当選",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014866641000",
+    "playlistId": "news-nwa-politics-nationwide-20250721",
+    "newsarticleName": "参議院選挙2025 愛知選挙区 国民民主党 水野孝一氏 初めての当選",
+    "playlistName": "7月21日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "愛知選挙区は、国民民主党の新人、水野孝一氏が、初めての当選を果たしました。\n\n\n水野氏は48歳。\n\n名古屋市で26年前に始まった「にっぽんど真ん中祭り」の中心メンバーの1人で、祭りを運営する公益財団法",
+  "dateModified": "2025-07-21T04:25:39+09:00",
+  "datePublished": "2025-07-20T20:58:38+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250720/K10014866641_2507202120_0720212920_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250720/K10014866641_2507202120_0720212920_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "愛知選挙区は、国民民主党の新人、水野孝一氏が、初めての当選を果たしました。\n\n\n水野氏は48歳。\n\n名古屋市で26年前に始まった「にっぽんど真ん中祭り」の中心メンバーの1人で、祭りを運営する公益財団法",
+  "articleBody": "愛知選挙区は、国民民主党の新人、水野孝一氏が、初めての当選を果たしました。\n\n\n水野氏は48歳。\n\n名古屋市で26年前に始まった「にっぽんど真ん中祭り」の中心メンバーの1人で、祭りを運営する公益財団法人の元専務理事です。\n\n選挙戦では、幅広い世代の税負担を減らして手取りを増やすとともに、中小企業を支援し経済の好循環を実現するなどと訴え、初めての当選を果たしました。\n\n20日、投票が行われた参議院選挙の愛知選挙区に立候補した国民民主党の新人の水野孝一氏は59万6180票を得て、初めての当選を果たしました。\n\n当選から一夜明けた21日、水野氏は名古屋市中区の事務所で記者団の取材に応じ「特に最終盤は皆さんの思いをすごく感じるようになり、その期待に応えないといけないという思いが日に日に強くなった。59万の人に名前を書いてもらった重みを実感している」と述べました。\n\nこのあと水野氏は名古屋市千種区の寺で開かれている縁日を訪れ、行き交う人たちに手を振ってあいさつしたり、握手をしたりしていました。\n\n水野氏は「1丁目1番地の手取りを増やす経済政策。現役世代から豊かになることによって、全ての世代が元気になり、ひいてはこの国が力強く豊かになる。まずは現役世代から豊かになるというところをしっかりやっていきたい」と抱負を述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "愛知選挙区は、国民民主党の新人、水野孝一氏が、初めての当選を果たしました。\n",
+    "markedBody": "```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"001\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\r\n  <div class=\"fs-wrap\">\r\n    <div class=\"ifmap\">\r\n      <iframe id=\"map1\" title=\"map1\" height=\"540px\" scrolling=\"no\" allowfullscreen=\"\" src=\"https://news.web.nhk/senkyo/database/sangiin/2025/kaihyomap/?embed=true&amp;detail=senk55158\"></iframe>\r\n    </div>\r\n  </div>\r\n  <style>\r\n    .ifmap {\r\n      max-width: 600px;\r\n      width: 100%;\r\n      margin: 0 auto;\r\n      height: 0;\r\n      position: relative;\r\n      border: 1px solid #ccc;\r\n      min-height: 501px;\r\n    }\r\n    .ifmap iframe {\r\n      position: absolute;\r\n      top: 0;\r\n      left: 0;\r\n      width: 100%;\r\n      height: 100%;\r\n    }\r\n    /* ↓ PC用CSS */\r\n    @media print, screen and (min-width: 601px) {\r\n      .ifmap {\r\n        padding-top: 106.25%; /* iframe枠の高さ調節 */\r\n      }\r\n    }\r\n    /* ↓ SP用CSS */\r\n    @media only screen and (max-width: 600px) {\r\n      .ifmap {\r\n        padding-top: 150.25%; /* iframe枠の高さ調節 */\r\n      }\r\n    }\r\n  </style>\n</div>\n```\n\n水野氏は48歳。\n\n名古屋市で26年前に始まった「にっぽんど真ん中祭り」の中心メンバーの1人で、祭りを運営する公益財団法人の元専務理事です。\n\n選挙戦では、幅広い世代の税負担を減らして手取りを増やすとともに、中小企業を支援し経済の好循環を実現するなどと訴え、初めての当選を果たしました。\n\n20日、投票が行われた参議院選挙の愛知選挙区に立候補した国民民主党の新人の水野孝一氏は59万6180票を得て、初めての当選を果たしました。\n\n当選から一夜明けた21日、水野氏は名古屋市中区の事務所で記者団の取材に応じ「特に最終盤は皆さんの思いをすごく感じるようになり、その期待に応えないといけないという思いが日に日に強くなった。59万の人に名前を書いてもらった重みを実感している」と述べました。\n\nこのあと水野氏は名古屋市千種区の寺で開かれている縁日を訪れ、行き交う人たちに手を振ってあいさつしたり、握手をしたりしていました。\n\n水野氏は「1丁目1番地の手取りを増やす経済政策。現役世代から豊かになることによって、全ての世代が元気になり、ひいてはこの国が力強く豊かになる。まずは現役世代から豊かになるというところをしっかりやっていきたい」と抱負を述べました。\n",
+    "noHtmlMarkedLead": "愛知選挙区は、国民民主党の新人、水野孝一氏が、初めての当選を果たしました。\n",
+    "noHtmlMarkedBody": "水野氏は48歳。\n\n名古屋市で26年前に始まった「にっぽんど真ん中祭り」の中心メンバーの1人で、祭りを運営する公益財団法人の元専務理事です。\n\n選挙戦では、幅広い世代の税負担を減らして手取りを増やすとともに、中小企業を支援し経済の好循環を実現するなどと訴え、初めての当選を果たしました。\n\n20日、投票が行われた参議院選挙の愛知選挙区に立候補した国民民主党の新人の水野孝一氏は59万6180票を得て、初めての当選を果たしました。\n\n当選から一夜明けた21日、水野氏は名古屋市中区の事務所で記者団の取材に応じ「特に最終盤は皆さんの思いをすごく感じるようになり、その期待に応えないといけないという思いが日に日に強くなった。59万の人に名前を書いてもらった重みを実感している」と述べました。\n\nこのあと水野氏は名古屋市千種区の寺で開かれている縁日を訪れ、行き交う人たちに手を振ってあいさつしたり、握手をしたりしていました。\n\n水野氏は「1丁目1番地の手取りを増やす経済政策。現役世代から豊かになることによって、全ての世代が元気になり、ひいてはこの国が力強く豊かになる。まずは現役世代から豊かになるというところをしっかりやっていきたい」と抱負を述べました。\n",
+    "trimmedLead": "愛知選挙区は、国民民主党の新人、水野孝一氏が、初めての当選を果たしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014866641000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014866641000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "参議院選挙 愛知選挙区 国民 水野孝一氏 初めての当選",
+      "description": "愛知選挙区は、国民民主党の新人、水野孝一氏が、初めての当選を果たしました。\n\n\n水野氏は48歳。\n\n名古屋市で26年前に始まった「にっぽんど真ん中祭り」の中心メンバーの1人で、祭りを運営する公益財団法",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10014866641_202507202120_202507202123/index.m3u8&mrposter=/news/html/20250720/K10014866641_2507202120_0720212920_01_03.jpg",
+      "duration": "PT35S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10014866641_202507202120_202507202123/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20250720/K10014866641_2507202120_0720212920_01_03.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": true
+  }
+}

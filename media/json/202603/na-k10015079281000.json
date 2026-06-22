@@ -1,0 +1,165 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015079281000",
+  "dataSourceId": "na",
+  "name": "株価 一時1600円以上値下がり",
+  "headline": "株価 一時1600円以上値下がり",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015079281000",
+    "playlistId": "news-nwa-business-nationwide-20260319",
+    "newsarticleName": "株価 一時1600円以上値下がり",
+    "playlistName": "3月19日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "19日の東京株式市場、日経平均株価は一時、1600円以上値下がりしています。\n\n\nイスラエルとイラン双方によるエネルギー関連施設への攻撃の応酬が続いていると伝わり、原油の先物価格が上昇したことに加え、",
+  "dateModified": "2026-03-19T10:16:32+09:00",
+  "datePublished": "2026-03-19T09:12:16+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260319/K10015079281_2603191015_0319101633_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260319/K10015079281_2603191015_0319101633_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0002423",
+      "name": "金融",
+      "display": true
+    },
+    {
+      "id": "0000820",
+      "name": "イラン情勢",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "0000819",
+      "name": "原油価格",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "19日の東京株式市場、日経平均株価は一時、1600円以上値下がりしています。\n\n\nイスラエルとイラン双方によるエネルギー関連施設への攻撃の応酬が続いていると伝わり、原油の先物価格が上昇したことに加え、",
+  "articleBody": "19日の東京株式市場、日経平均株価は一時、1600円以上値下がりしています。\n\n\nイスラエルとイラン双方によるエネルギー関連施設への攻撃の応酬が続いていると伝わり、原油の先物価格が上昇したことに加え、アメリカのFRB＝連邦準備制度理事会のパウエル議長の会見を受けて、今後の利下げペースが緩やかになるとの見方が広がり、ニューヨーク市場の主要な株価指数がそろって下落したことから東京市場でも全面安の展開となっています。\n",
+  "detailedArticleBody": {
+    "markedLead": "19日の東京株式市場、日経平均株価は一時、1600円以上値下がりしています。\n",
+    "markedBody": "イスラエルとイラン双方によるエネルギー関連施設への攻撃の応酬が続いていると伝わり、原油の先物価格が上昇したことに加え、アメリカのFRB＝連邦準備制度理事会のパウエル議長の会見を受けて、今後の利下げペースが緩やかになるとの見方が広がり、ニューヨーク市場の主要な株価指数がそろって下落したことから東京市場でも全面安の展開となっています。\n",
+    "trimmedLead": "19日の東京株式市場、日経平均株価は一時、1600円以上値下がりしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015079281000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015079281000",
+  "video": [],
+  "citation": [
+    {
+      "name": "NYダウ 700ドル余値下がり FRB議長会見受け 売り注文広がる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015079231000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260319/K10015079231_2603190629_0319071206_01_02.jpg",
+      "datePublished": "2026-03-19T07:12:05+09:00"
+    },
+    {
+      "name": "日米首脳会談 日本時間20日未明に イラン情勢などで意見交換へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015078991000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260319/K10015078991_2603182015_0319052047_01_03.jpg",
+      "datePublished": "2026-03-19T05:20:46+09:00"
+    },
+    {
+      "name": "イランの天然ガス施設にイスラエルなど攻撃か【各国の動き】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015079031000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260319/K10015079031_2603190546_0319064714_01_02.jpg",
+      "datePublished": "2026-03-19T07:40:16+09:00"
+    },
+    {
+      "name": "NY原油市場 先物価格 一時1バレル＝100ドル超に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015079221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260319/K10015079221_2603190600_0319071244_01_02.jpg",
+      "datePublished": "2026-03-19T07:12:43+09:00"
+    },
+    {
+      "name": "ガソリン 激変緩和措置始まる 約1～2週間で小売価格反映見込み",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015079001000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260319/K10015079001_2603182139_0319064940_01_02.jpg",
+      "datePublished": "2026-03-19T06:49:39+09:00"
+    },
+    {
+      "name": "ガソリン小売価格 44の都道府県で過去最高に 【一覧掲載】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015079051000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260319/K10015079051_2603182050_0319045543_01_02.jpg",
+      "datePublished": "2026-03-19T04:55:42+09:00"
+    },
+    {
+      "name": "米国家情報長官室 台湾有事めぐる高市首相答弁“重大な転換”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015079211000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260319/K10015079211_2603190548_0319073905_01_02.jpg",
+      "datePublished": "2026-03-19T10:46:32+09:00"
+    },
+    {
+      "name": "米FRB 2会合連続で利下げを見送り インフレ再び加速を警戒か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015079041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260319/K10015079041_2603182340_0319030739_01_02.jpg",
+      "datePublished": "2026-03-19T07:23:27+09:00"
+    },
+    {
+      "name": "大谷翔平 オープン戦で初登板 5回途中まで投げ無失点",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015079261000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260319/K10015079261_2603190842_0319084608_01_02.jpg",
+      "datePublished": "2026-03-19T07:50:45+09:00"
+    },
+    {
+      "name": "【今大会の注目点は】高校野球 センバツ 初の指名打者制導入",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015078951000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260319/K10015078951_2603182254_0319043736_01_02.jpg",
+      "datePublished": "2026-03-19T04:37:35+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

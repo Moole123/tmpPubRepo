@@ -1,0 +1,159 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015091591000",
+  "dataSourceId": "na",
+  "name": "「アルテミス計画」宇宙船が出す電波追跡に福井の大学が参加",
+  "headline": "「アルテミス計画」宇宙船が出す電波追跡に福井の大学が参加",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015091591000",
+    "playlistId": "news-nwa-scienceculture-nationwide-20260403",
+    "newsarticleName": "「アルテミス計画」宇宙船が出す電波追跡に福井の大学が参加",
+    "playlistName": "4月3日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "アメリカが主導する国際月探査プロジェクト「アルテミス計画」で宇宙飛行士を乗せた宇宙船が打ち上げられましたが、この宇宙船が出す電波を追跡するNASA＝アメリカ航空宇宙局の取り組みに福井県内の大学が参加し",
+  "dateModified": "2026-04-03T18:11:00+09:00",
+  "datePublished": "2026-04-03T18:11:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260403/K10015091591_2604031639_0403181101_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260403/K10015091591_2604031639_0403181101_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "科学・文化",
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0002125",
+      "name": "宇宙",
+      "display": true
+    },
+    {
+      "id": "0002305",
+      "name": "月面着陸",
+      "display": true
+    },
+    {
+      "id": "0002390",
+      "name": "サイエンス",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "0002418",
+      "name": "通信",
+      "display": true
+    },
+    {
+      "id": "0000034",
+      "name": "教育",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "アメリカが主導する国際月探査プロジェクト「アルテミス計画」で宇宙飛行士を乗せた宇宙船が打ち上げられましたが、この宇宙船が出す電波を追跡するNASA＝アメリカ航空宇宙局の取り組みに福井県内の大学が参加し",
+  "articleBody": "アメリカが主導する国際月探査プロジェクト「アルテミス計画」で宇宙飛行士を乗せた宇宙船が打ち上げられましたが、この宇宙船が出す電波を追跡するNASA＝アメリカ航空宇宙局の取り組みに福井県内の大学が参加し、3日、電波の受信に成功しました。\n\n\nNASAは日本時間の2日、「アルテミス計画」では初めてとなる宇宙飛行士を乗せた宇宙船の打ち上げに成功し、宇宙船は月へ向けた飛行を続けています。\n\n宇宙船はNASAが地上のアンテナで追跡していますが、NASAは今後の技術検証を目的に各国の民間企業や研究機関に追跡データを提供するよう呼びかけ、世界14か国から34の組織が参加しています。\n\n日本からは、衛星通信事業を手がけるスカパーJSATと、福井工業大学が選ばれ、このうち福井工業大学では3日、直径13.5メートルのパラボラアンテナがある福井県あわら市の施設に担当者が集まり、午前1時から8時まで作業を行いました。\n\nアンテナが宇宙船の電波を受信できるか確認したところ、午前2時前に電波を受信したことがモニター画面で確認されたということです。\n\n大学では今月11日まであわせて9回、電波の受信を試み、得られたデータをNASAに提供するということです。\n\n福井工業大学の中城智之教授は「受信できてほっとしている。世界的に月探査計画が広がっていく中で、大学が参画する第一歩になると思う」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカが主導する国際月探査プロジェクト「アルテミス計画」で宇宙飛行士を乗せた宇宙船が打ち上げられましたが、この宇宙船が出す電波を追跡するNASA＝アメリカ航空宇宙局の取り組みに福井県内の大学が参加し、3日、電波の受信に成功しました。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20260403/K10015091591_2604031639_0403181101_02_03.jpg)\n\nNASAは日本時間の2日、「アルテミス計画」では初めてとなる宇宙飛行士を乗せた宇宙船の打ち上げに成功し、宇宙船は月へ向けた飛行を続けています。\n\n宇宙船はNASAが地上のアンテナで追跡していますが、NASAは今後の技術検証を目的に各国の民間企業や研究機関に追跡データを提供するよう呼びかけ、世界14か国から34の組織が参加しています。\n\n![](https://news.web.nhk/news/html/20260403/K10015091591_2604031639_0403181101_02_04.jpg)\n\n日本からは、衛星通信事業を手がけるスカパーJSATと、福井工業大学が選ばれ、このうち福井工業大学では3日、直径13.5メートルのパラボラアンテナがある福井県あわら市の施設に担当者が集まり、午前1時から8時まで作業を行いました。\n\nアンテナが宇宙船の電波を受信できるか確認したところ、午前2時前に電波を受信したことがモニター画面で確認されたということです。\n\n大学では今月11日まであわせて9回、電波の受信を試み、得られたデータをNASAに提供するということです。\n\n![](https://news.web.nhk/news/html/20260403/K10015091591_2604031639_0403181101_02_05.jpg)\n\n福井工業大学の中城智之教授は「受信できてほっとしている。世界的に月探査計画が広がっていく中で、大学が参画する第一歩になると思う」と話していました。\n",
+    "trimmedLead": "アメリカが主導する国際月探査プロジェクト「アルテミス計画」で宇宙飛行士を乗せた宇宙船が打ち上げられましたが、この宇宙船が出す電波を追跡するNASA＝アメリカ航空宇宙局の取り組みに福井県内の大学が参加し、3日、電波の受信に成功しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015091591000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015091591000",
+  "video": [],
+  "citation": [
+    {
+      "name": "「アルテミス計画」の宇宙船 地球回る軌道外れ 月への飛行開始",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015091311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260403/K10015091311_2604031308_0403130951_01_03.jpg",
+      "datePublished": "2026-04-03T12:14:33+09:00"
+    },
+    {
+      "name": "「アルテミス計画」打ち上げ成功 人類 約半世紀ぶり月へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015090331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260402/K10015090331_2604021447_0402170945_01_03.jpg",
+      "datePublished": "2026-04-02T18:55:25+09:00"
+    },
+    {
+      "name": "日仏首脳 「宇宙ごみ」対策に取り組む都内の企業を視察",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015090601000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260402/K10015090601_2604021229_0402144913_01_03.jpg",
+      "datePublished": "2026-04-02T14:49:12+09:00"
+    },
+    {
+      "name": "”宇宙データセンター” 計画相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015088431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260331/K10015088431_2603311135_0331145422_01_02.jpg",
+      "datePublished": "2026-03-31T14:54:21+09:00"
+    },
+    {
+      "name": "ISSに2度長期滞在 古川聡さんがJAXA退職「やりきった」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015087411000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260330/K10015087411_2603301728_0330175852_01_02.jpg",
+      "datePublished": "2026-03-30T17:58:51+09:00"
+    },
+    {
+      "name": "米国務省 アルテミス計画で有人の月探査を前に技術紹介ツアー",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015086111000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260327/K10015086111_2603272018_0327222820_01_02.jpg",
+      "datePublished": "2026-03-27T22:28:19+09:00"
+    },
+    {
+      "name": "米軍がテヘラン郊外の橋を攻撃 イラン側は徹底抗戦続ける構え",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015091101000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260403/K10015091101_2604031141_0403115614_01_03.jpg",
+      "datePublished": "2026-04-03T15:47:31+09:00"
+    },
+    {
+      "name": "トランプ大統領 輸入医薬品に100％の追加関税 署名 日本は15％",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015091221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260403/K10015091221_2604031009_0403105233_01_03.jpg",
+      "datePublished": "2026-04-03T15:06:53+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015066811000",
+  "dataSourceId": "na",
+  "name": "株価 一時2300円超の値上がり",
+  "headline": "株価 一時2300円超の値上がり",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015066811000",
+    "playlistId": "news-nwa-business-nationwide-20260305",
+    "newsarticleName": "株価 一時2300円超の値上がり",
+    "playlistName": "3月5日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "5日の東京株式市場、日経平均株価は一時、2300円以上値上がりしています。このところ、株価はイラン情勢への懸念から大幅な下落が続いてきましたがいったん買い戻す動きが出ています。\n\n\n5日の東京株式市場",
+  "dateModified": "2026-03-05T09:56:32+09:00",
+  "datePublished": "2026-03-05T09:08:02+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260305/K10015066811_2603050933_0305095633_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260305/K10015066811_2603050933_0305095633_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0000820",
+      "name": "イラン情勢",
+      "display": true
+    },
+    {
+      "id": "0002423",
+      "name": "金融",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "5日の東京株式市場、日経平均株価は一時、2300円以上値上がりしています。このところ、株価はイラン情勢への懸念から大幅な下落が続いてきましたがいったん買い戻す動きが出ています。\n\n\n5日の東京株式市場",
+  "articleBody": "5日の東京株式市場、日経平均株価は一時、2300円以上値上がりしています。このところ、株価はイラン情勢への懸念から大幅な下落が続いてきましたがいったん買い戻す動きが出ています。\n\n\n5日の東京株式市場は取引開始直後から買い注文が膨らんで、日経平均株価は一時、2300円以上、値上がりしています。\n\n日経平均株価は、イラン情勢が悪化し、経済に悪影響が及ぶことへの懸念から、4日までの3日間で4600円ほど値下がりしていましたが、いったん買い戻す動きが出ています。\n\n市場関係者は「イラン情勢の悪化を受けて投資家がリスクを回避する姿勢が強まっていたが、影響はそこまで長期化しないのではないかという観測も出ている。また、4日のニューヨーク市場でアメリカ経済が堅調だという見方から主要な株価指数が上昇したことも支えとなっている」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "5日の東京株式市場、日経平均株価は一時、2300円以上値上がりしています。このところ、株価はイラン情勢への懸念から大幅な下落が続いてきましたがいったん買い戻す動きが出ています。\n",
+    "markedBody": "5日の東京株式市場は取引開始直後から買い注文が膨らんで、日経平均株価は一時、2300円以上、値上がりしています。\n\n日経平均株価は、イラン情勢が悪化し、経済に悪影響が及ぶことへの懸念から、4日までの3日間で4600円ほど値下がりしていましたが、いったん買い戻す動きが出ています。\n\n市場関係者は「イラン情勢の悪化を受けて投資家がリスクを回避する姿勢が強まっていたが、影響はそこまで長期化しないのではないかという観測も出ている。また、4日のニューヨーク市場でアメリカ経済が堅調だという見方から主要な株価指数が上昇したことも支えとなっている」と話しています。\n",
+    "trimmedLead": "5日の東京株式市場、日経平均株価は一時、2300円以上値上がりしています。このところ、株価はイラン情勢への懸念から大幅な下落が続いてきましたがいったん買い戻す動きが出ています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015066811000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015066811000",
+  "video": [],
+  "citation": [
+    {
+      "name": "NYダウ 230ドル余の値上がり 下落にいったん歯止め",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015066781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260305/K10015066781_2603050645_0305065248_01_02.jpg",
+      "datePublished": "2026-03-05T06:52:48+09:00"
+    },
+    {
+      "name": "米国防長官“イラン海軍艦艇を魚雷攻撃 制空権を完全掌握へ”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015066761000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260305/K10015066761_2603050419_0305052306_01_02.jpg",
+      "datePublished": "2026-03-05T08:49:12+09:00"
+    },
+    {
+      "name": "イスラエル軍テヘランを空爆 イランは無人機攻撃 英仏が対応に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015066001000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260304/K10015066001_2603041911_0304191444_01_02.jpg",
+      "datePublished": "2026-03-04T23:44:48+09:00"
+    },
+    {
+      "name": "中東各地で空域閉鎖 日本人旅行者などの退避支援を検討 政府",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015066731000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260305/K10015066731_2603050353_0305060802_01_02.jpg",
+      "datePublished": "2026-03-05T06:08:01+09:00"
+    },
+    {
+      "name": "米財務長官 関税率15％への引き上げ “おそらく今週中になる”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015066751000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260305/K10015066751_2603050401_0305064337_01_02.jpg",
+      "datePublished": "2026-03-05T06:43:36+09:00"
+    },
+    {
+      "name": "ロシア軍無人機 スターリンク不正アクセス遮断で戦況に影響か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015066791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260305/K10015066791_2603050649_0305070521_01_02.jpg",
+      "datePublished": "2026-03-05T07:05:20+09:00"
+    },
+    {
+      "name": "新年度予算案 与党側は土曜日審議を提案も 野党側は一斉に批判",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015066741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260305/K10015066741_2603050353_0305051033_01_02.jpg",
+      "datePublished": "2026-03-05T05:10:32+09:00"
+    },
+    {
+      "name": "「カイロス3号機」きょう午前11時10分に改めて打ち上げへ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015066591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260305/K10015066591_2603042018_0305052754_01_02.jpg",
+      "datePublished": "2026-03-05T10:29:40+09:00"
+    },
+    {
+      "name": "「フィッシング詐欺メール」急増 去年1年間の報告 200万件超に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015066601000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260305/K10015066601_2603042028_0305051320_01_02.jpg",
+      "datePublished": "2026-03-05T05:13:20+09:00"
+    },
+    {
+      "name": "どう確保する？ 消費税減税 財源の5兆円",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015064851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260303/K10015064851_2603031616_0303190634_01_02.jpg",
+      "datePublished": "2026-03-03T19:06:33+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

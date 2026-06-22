@@ -1,0 +1,170 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015155001000",
+  "dataSourceId": "na",
+  "name": "“イスラエルとヒズボラ 停戦で合意” 米政府当局者",
+  "headline": "“イスラエルとヒズボラ 停戦で合意” 米政府当局者",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015155001000",
+    "playlistId": "news-nwa-international-nationwide-20260619",
+    "newsarticleName": "“イスラエルとヒズボラ 停戦で合意” 米政府当局者",
+    "playlistName": "6月19日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "アメリカ政府の当局者は19日、NHKの取材に対し、イスラエルとイスラム教シーア派組織ヒズボラが、現地時間の19日午後4時、日本時間の19日午後10時からの停戦で合意したと明らかにしました。\n\n\nこの当",
+  "dateModified": "2026-06-19T23:21:42+09:00",
+  "datePublished": "2026-06-19T22:51:09+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260619/K10015155001_2606192239_0619225109_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260619/K10015155001_2606192239_0619225109_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0002355",
+      "name": "イスラエル",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "0001597",
+      "name": "イラン",
+      "display": true
+    },
+    {
+      "id": "0002587",
+      "name": "レバノン",
+      "display": true
+    },
+    {
+      "id": "0002558",
+      "name": "カタール",
+      "display": true
+    },
+    {
+      "id": "0002631",
+      "name": "中東",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "アメリカ政府の当局者は19日、NHKの取材に対し、イスラエルとイスラム教シーア派組織ヒズボラが、現地時間の19日午後4時、日本時間の19日午後10時からの停戦で合意したと明らかにしました。\n\n\nこの当",
+  "articleBody": "アメリカ政府の当局者は19日、NHKの取材に対し、イスラエルとイスラム教シーア派組織ヒズボラが、現地時間の19日午後4時、日本時間の19日午後10時からの停戦で合意したと明らかにしました。\n\n\nこの当局者は、アメリカとカタールがイランの支援も得て仲介したとしています。\n\nこれについてイスラエル政府はコメントを出していませんが、現地メディアは政府高官の話として停戦合意は発効したと伝えています。\n\nまた別の現地メディアは、政府高官がイスラエル軍はレバノン南部に駐留し続け、ヒズボラが攻撃すれば反撃すると述べたと報じています。\n\n一方、ヒズボラ側は、ロイター通信がヒズボラの関係者2人の話としてイスラエルとの停戦を履行したと報じています。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカ政府の当局者は19日、NHKの取材に対し、イスラエルとイスラム教シーア派組織ヒズボラが、現地時間の19日午後4時、日本時間の19日午後10時からの停戦で合意したと明らかにしました。\n",
+    "markedBody": "この当局者は、アメリカとカタールがイランの支援も得て仲介したとしています。\n\nこれについてイスラエル政府はコメントを出していませんが、現地メディアは政府高官の話として停戦合意は発効したと伝えています。\n\nまた別の現地メディアは、政府高官がイスラエル軍はレバノン南部に駐留し続け、ヒズボラが攻撃すれば反撃すると述べたと報じています。\n\n一方、ヒズボラ側は、ロイター通信がヒズボラの関係者2人の話としてイスラエルとの停戦を履行したと報じています。\n",
+    "trimmedLead": "アメリカ政府の当局者は19日、NHKの取材に対し、イスラエルとイスラム教シーア派組織ヒズボラが、現地時間の19日午後4時、日本時間の19日午後10時からの停戦で合意したと明らかにしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015155001000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015155001000",
+  "video": [],
+  "citation": [
+    {
+      "name": "米・イラン 19日予定の協議“延期” レバノンでは戦闘続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015153851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260619/K10015153851_2606182045_0619072213_01_02.jpg",
+      "datePublished": "2026-06-19T19:59:04+09:00"
+    },
+    {
+      "name": "ロシアASEAN首脳会議 ウクライナへの侵攻 影落とす結果に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015154011000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260619/K10015154011_2606190637_0619070047_01_02.jpg",
+      "datePublished": "2026-06-19T07:00:47+09:00"
+    },
+    {
+      "name": "外国人向けビザ手数料 7月から5倍に引き上げを決定 政府",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015154841000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260619/K10015154841_2606192030_0619205539_01_02.jpg",
+      "datePublished": "2026-06-19T20:55:38+09:00"
+    },
+    {
+      "name": "キューバ 市場自由化の方針 圧力受けアメリカに譲歩か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015154461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260619/K10015154461_2606191501_0619162059_01_02.jpg",
+      "datePublished": "2026-06-19T16:20:58+09:00"
+    },
+    {
+      "name": "NATO国防相会合 欧州国防力強化の方針を確認",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015153991000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260619/K10015153991_2606190440_0619053731_01_02.jpg",
+      "datePublished": "2026-06-19T09:16:04+09:00"
+    },
+    {
+      "name": "中国外務省 高市首相のG7での発言を批判",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015153911000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260619/K10015153911_2606182242_0619052124_01_02.jpg",
+      "datePublished": "2026-06-19T05:21:24+09:00"
+    },
+    {
+      "name": "北朝鮮 キム・ヨジョン氏 非核化確認のG7声明を非難",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015153861000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260618/K10015153861_2606182049_0618205348_01_02.jpg",
+      "datePublished": "2026-06-18T20:53:48+09:00"
+    },
+    {
+      "name": "米シカゴに「オバマ大統領センター」がオープン",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015154141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260619/K10015154141_2606191044_0619104835_01_02.jpg",
+      "datePublished": "2026-06-19T10:48:34+09:00"
+    },
+    {
+      "name": "ミャンマー民主派指導者のスー・チー氏 81歳に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015154791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260619/K10015154791_2606191959_0619201103_01_02.jpg",
+      "datePublished": "2026-06-19T20:11:02+09:00"
+    },
+    {
+      "name": "【随時更新】ロシア ウクライナに軍事侵攻（6月19日の動き）",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015129001000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260619/K10015129001_2605221603_0619070127_01_02.jpg",
+      "datePublished": "2026-06-19T07:01:26+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

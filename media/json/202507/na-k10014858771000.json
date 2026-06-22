@@ -1,0 +1,101 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014858771000",
+  "dataSourceId": "na",
+  "name": "6月の企業物価指数 前年同月比2.9％上昇",
+  "headline": "6月の企業物価指数 前年同月比2.9％上昇",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014858771000",
+    "playlistId": "news-nwa-business-nationwide-20250710",
+    "newsarticleName": "6月の企業物価指数 前年同月比2.9％上昇",
+    "playlistName": "7月10日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "企業の間で取り引きされるモノの価格を示す6月の企業物価指数は、去年の同じ月と比べて2.9％上昇しました。コメや鶏肉といった農林水産物などの上昇が全体を押し上げていますが、伸び率は10か月ぶりに2％台に",
+  "dateModified": "2025-07-10T14:55:49+09:00",
+  "datePublished": "2025-07-10T09:11:07+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250710/K10014858771_2507100859_0710090252_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250710/K10014858771_2507100859_0710090252_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "企業の間で取り引きされるモノの価格を示す6月の企業物価指数は、去年の同じ月と比べて2.9％上昇しました。コメや鶏肉といった農林水産物などの上昇が全体を押し上げていますが、伸び率は10か月ぶりに2％台に",
+  "articleBody": "企業の間で取り引きされるモノの価格を示す6月の企業物価指数は、去年の同じ月と比べて2.9％上昇しました。コメや鶏肉といった農林水産物などの上昇が全体を押し上げていますが、伸び率は10か月ぶりに2％台になりました。\n\n\n日銀が発表した6月の企業物価指数の速報値は、2020年の平均を100とした水準で126.2となり、去年の同じ月と比べて2.9％上昇しました。\n\n伸び率は前の月の3.3％から縮小していて2％台になるのは10か月ぶりです。\n\n日銀はコメや鶏肉などの農林水産物や飲食料品の上昇が全体を押し上げた一方で、ガソリン価格を定額で補助する政府の新たな措置などで伸びは鈍化したとしています。\n\n一方、円ベースでみた先月の輸入物価指数は原油価格の落ち込みで、去年の同じ月と比べて12.3％下落しました。\n\n日銀は、海外経済や地政学リスクの影響のほか、トランプ政権の関税措置で企業の価格を決める行動に影響が出ないかなどを注視したいとしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "企業の間で取り引きされるモノの価格を示す6月の企業物価指数は、去年の同じ月と比べて2.9％上昇しました。コメや鶏肉といった農林水産物などの上昇が全体を押し上げていますが、伸び率は10か月ぶりに2％台になりました。\n",
+    "markedBody": "日銀が発表した6月の企業物価指数の速報値は、2020年の平均を100とした水準で126.2となり、去年の同じ月と比べて2.9％上昇しました。\n\n伸び率は前の月の3.3％から縮小していて2％台になるのは10か月ぶりです。\n\n日銀はコメや鶏肉などの農林水産物や飲食料品の上昇が全体を押し上げた一方で、ガソリン価格を定額で補助する政府の新たな措置などで伸びは鈍化したとしています。\n\n一方、円ベースでみた先月の輸入物価指数は原油価格の落ち込みで、去年の同じ月と比べて12.3％下落しました。\n\n日銀は、海外経済や地政学リスクの影響のほか、トランプ政権の関税措置で企業の価格を決める行動に影響が出ないかなどを注視したいとしています。\n",
+    "trimmedLead": "企業の間で取り引きされるモノの価格を示す6月の企業物価指数は、去年の同じ月と比べて2.9％上昇しました。コメや鶏肉といった農林水産物などの上昇が全体を押し上げていますが、伸び率は10か月ぶりに2％台になりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014858771000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014858771000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "6月の企業物価指数 前年同月比2.9％上昇",
+      "description": "企業の間で取り引きされるモノの価格を示す6月の企業物価指数は、去年の同じ月と比べて2.9％上昇しました。コメや鶏肉といった農林水産物などの上昇が全体を押し上げていますが、伸び率は10か月ぶりに2％台に",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10014858771_202507101105_202507101105/index.m3u8&mrposter=/news/html/20250710/K10014858771_2507100859_0710090252_01_02.jpg",
+      "duration": "PT1M2S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10014858771_202507101105_202507101105/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20250710/K10014858771_2507100859_0710090252_01_02.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015081701000",
+  "dataSourceId": "na",
+  "name": "長野 大桑村 住宅全焼 焼け跡から2人の遺体 住人の70代夫婦か",
+  "headline": "長野 大桑村 住宅全焼 焼け跡から2人の遺体 住人の70代夫婦か",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015081701000",
+    "playlistId": "news-nwa-society-nationwide-20260323",
+    "newsarticleName": "長野 大桑村 住宅全焼 焼け跡から2人の遺体 住人の70代夫婦か",
+    "playlistName": "3月23日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "23日朝早く、長野県大桑村で住宅から火が出て全焼し、焼け跡から2人が遺体で見つかりました。警察は亡くなったのは火事のあと連絡が取れなくなっているこの家に住む70代の夫婦とみて確認を進めるとともに、出火",
+  "dateModified": "2026-03-23T11:28:47+09:00",
+  "datePublished": "2026-03-23T11:28:47+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260323/K10015081701_2603231059_0323112848_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260323/K10015081701_2603231059_0323112848_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002689",
+      "name": "火災",
+      "display": true
+    },
+    {
+      "id": "0002220",
+      "name": "長野県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "23日朝早く、長野県大桑村で住宅から火が出て全焼し、焼け跡から2人が遺体で見つかりました。警察は亡くなったのは火事のあと連絡が取れなくなっているこの家に住む70代の夫婦とみて確認を進めるとともに、出火",
+  "articleBody": "23日朝早く、長野県大桑村で住宅から火が出て全焼し、焼け跡から2人が遺体で見つかりました。警察は亡くなったのは火事のあと連絡が取れなくなっているこの家に住む70代の夫婦とみて確認を進めるとともに、出火原因を調べています。\n\n\n23日午前5時前、長野県大桑村長野の住宅から「炎が上がっている」と近所の人から消防に通報がありました。\n\nこの火事で、消防車など5台が出て火はおよそ3時間後に消し止められましたが、木造2階建ての住宅が全焼して焼け跡から2人が遺体で見つかりました。\n\n警察によりますと、この家には下野昌一さん（78）と70代の妻が2人で暮らしていて、火事のあと連絡が取れなくなっているということです。\n\n警察は亡くなったのは下野さん夫婦とみて確認を進めるとともに、出火原因を調べています。\n\n現場はJR大桑駅から南におよそ400メートル離れた、畑や住宅が点在する場所です。\n",
+  "detailedArticleBody": {
+    "markedLead": "23日朝早く、長野県大桑村で住宅から火が出て全焼し、焼け跡から2人が遺体で見つかりました。警察は亡くなったのは火事のあと連絡が取れなくなっているこの家に住む70代の夫婦とみて確認を進めるとともに、出火原因を調べています。\n",
+    "markedBody": "23日午前5時前、長野県大桑村長野の住宅から「炎が上がっている」と近所の人から消防に通報がありました。\n\nこの火事で、消防車など5台が出て火はおよそ3時間後に消し止められましたが、木造2階建ての住宅が全焼して焼け跡から2人が遺体で見つかりました。\n\n警察によりますと、この家には下野昌一さん（78）と70代の妻が2人で暮らしていて、火事のあと連絡が取れなくなっているということです。\n\n警察は亡くなったのは下野さん夫婦とみて確認を進めるとともに、出火原因を調べています。\n\n現場はJR大桑駅から南におよそ400メートル離れた、畑や住宅が点在する場所です。\n",
+    "trimmedLead": "23日朝早く、長野県大桑村で住宅から火が出て全焼し、焼け跡から2人が遺体で見つかりました。警察は亡くなったのは火事のあと連絡が取れなくなっているこの家に住む70代の夫婦とみて確認を進めるとともに、出火原因を調べています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015081701000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015081701000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "長野 大桑村 住宅全焼 焼け跡から2人の遺体 住人の70代夫婦か",
+      "description": "23日朝早く、長野県大桑村で住宅から火が出て全焼し、焼け跡から2人が遺体で見つかりました。警察は亡くなったのは火事のあと連絡が取れなくなっているこの家に住む70代の夫婦とみて確認を進めるとともに、出火",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015081701_202603231238_202603231239/index.m3u8&mrposter=/news/html/20260323/K10015081701_2603231059_0323112848_01_02.jpg",
+      "duration": "PT38S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015081701_202603231238_202603231239/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260323/K10015081701_2603231059_0323112848_01_02.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "群馬 上野村 山林火災 延焼の範囲拡大 鎮火のめど立たず",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015081681000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260323/K10015081681_2603230729_0323073415_01_02.jpg",
+      "datePublished": "2026-03-23T12:18:02+09:00"
+    },
+    {
+      "name": "静岡 住宅で火事 1人遺体見つかる 80代夫婦と連絡取れず",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015081651000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260323/K10015081651_2603230541_0323054248_01_02.jpg",
+      "datePublished": "2026-03-23T05:42:48+09:00"
+    },
+    {
+      "name": "静岡市 県道脇で土砂崩れ 残る人もきょう中に下山できる見通し",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015081641000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260323/K10015081641_2603230049_0323051825_01_02.jpg",
+      "datePublished": "2026-03-23T05:18:24+09:00"
+    },
+    {
+      "name": "株価 一時2600円超値下がり 原油供給めぐる混乱長引く懸念で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015081731000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260323/K10015081731_2603231025_0323115330_01_02.jpg",
+      "datePublished": "2026-03-23T11:53:29+09:00"
+    },
+    {
+      "name": "NY原油市場 先物価格 一時1バレル＝100ドル超に 事態悪化懸念",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015081691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260323/K10015081691_2603230721_0323073559_01_02.jpg",
+      "datePublished": "2026-03-23T08:34:27+09:00"
+    },
+    {
+      "name": "米 “ホルムズ海峡開放しなければ攻撃” 期限まで24時間切る",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015081541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260323/K10015081541_2603230501_0323115554_01_02.jpg",
+      "datePublished": "2026-03-23T12:24:55+09:00"
+    },
+    {
+      "name": "政府 ガソリン価格 激変緩和措置 予備費から約8000億円支出へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015081721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260323/K10015081721_2603230832_0323084349_01_02.jpg",
+      "datePublished": "2026-03-23T08:43:48+09:00"
+    },
+    {
+      "name": "高校野球 センバツ【大会5日目の見どころ】1回戦3試合",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015081531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260323/K10015081531_2603222003_0323052242_01_02.jpg",
+      "datePublished": "2026-03-23T05:22:41+09:00"
+    },
+    {
+      "name": "ベルギー 連続テロ事件から10年 現地で犠牲者を悼む式典",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015081661000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260323/K10015081661_2603230424_0323052112_01_02.jpg",
+      "datePublished": "2026-03-23T05:21:11+09:00"
+    },
+    {
+      "name": "“苦しまなければ上達できない” 美食の国の厨房で何が？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015064121000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260322/K10015064121_2603031653_0322103331_01_02.jpg",
+      "datePublished": "2026-03-22T10:33:30+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

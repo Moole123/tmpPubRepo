@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014917241000",
+  "dataSourceId": "na",
+  "name": "メキシコ バスと貨物列車が衝突 10人死亡 40人以上けが",
+  "headline": "メキシコ バスと貨物列車が衝突 10人死亡 40人以上けが",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014917241000",
+    "playlistId": "news-nwa-international-nationwide-20250909",
+    "newsarticleName": "メキシコ バスと貨物列車が衝突 10人死亡 40人以上けが",
+    "playlistName": "9月9日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "メキシコ中部で8日、線路を渡ろうとしていた2階建てのバスと貨物列車が衝突し、これまでに10人が死亡し、40人以上がけがをしました。\n\n\n首都メキシコシティーの北西およそ130キロのアトラコムルコで、現",
+  "dateModified": "2025-09-09T10:41:54+09:00",
+  "datePublished": "2025-09-09T08:05:52+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250909/K10014917241_2509090832_0909083321_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250909/K10014917241_2509090832_0909083321_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "メキシコ中部で8日、線路を渡ろうとしていた2階建てのバスと貨物列車が衝突し、これまでに10人が死亡し、40人以上がけがをしました。\n\n\n首都メキシコシティーの北西およそ130キロのアトラコムルコで、現",
+  "articleBody": "メキシコ中部で8日、線路を渡ろうとしていた2階建てのバスと貨物列車が衝突し、これまでに10人が死亡し、40人以上がけがをしました。\n\n\n首都メキシコシティーの北西およそ130キロのアトラコムルコで、現地時間の8日午前8時ごろ、線路を渡ろうとしていた2階建てのバスと貨物列車が衝突しました。\n\n現地の当局によりますと、この事故でこれまでに10人が死亡し、40人以上がけがをしたということです。\n\n現地からの映像では、遮断機のない踏切の手前でバスがいったん停止してから線路を渡りはじめたところ、横から走ってきた列車と衝突する様子が捉えられています。\n\n地元メディアは、バスが、列車が近づいていることを知らせる音を無視して線路内に入ったとする目撃情報も伝えていて、当局が事故の原因を調べています。\n\nメキシコシティーにある日本大使館によりますと、いまのところ日本人が巻き込まれたという情報はないということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "メキシコ中部で8日、線路を渡ろうとしていた2階建てのバスと貨物列車が衝突し、これまでに10人が死亡し、40人以上がけがをしました。\n",
+    "markedBody": "首都メキシコシティーの北西およそ130キロのアトラコムルコで、現地時間の8日午前8時ごろ、線路を渡ろうとしていた2階建てのバスと貨物列車が衝突しました。\n\n現地の当局によりますと、この事故でこれまでに10人が死亡し、40人以上がけがをしたということです。\n\n現地からの映像では、遮断機のない踏切の手前でバスがいったん停止してから線路を渡りはじめたところ、横から走ってきた列車と衝突する様子が捉えられています。\n\n地元メディアは、バスが、列車が近づいていることを知らせる音を無視して線路内に入ったとする目撃情報も伝えていて、当局が事故の原因を調べています。\n\nメキシコシティーにある日本大使館によりますと、いまのところ日本人が巻き込まれたという情報はないということです。\n",
+    "trimmedLead": "メキシコ中部で8日、線路を渡ろうとしていた2階建てのバスと貨物列車が衝突し、これまでに10人が死亡し、40人以上がけがをしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014917241000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014917241000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

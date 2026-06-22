@@ -1,0 +1,183 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015114731000",
+  "dataSourceId": "na",
+  "name": "大型連休後半 Uターンラッシュがピークの見込み",
+  "headline": "大型連休後半 Uターンラッシュがピークの見込み",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015114731000",
+    "playlistId": "news-nwa-society-nationwide-20260505",
+    "newsarticleName": "大型連休後半 Uターンラッシュがピークの見込み",
+    "playlistName": "5月5日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "大型連休をふるさとや行楽地などで過ごした人たちのUターンラッシュは、5日がピークとなる見込みで、各地の高速道路では午後にかけて30キロを超える渋滞が予想されています。JR各社や航空各社によりますと、新",
+  "dateModified": "2026-05-05T07:09:37+09:00",
+  "datePublished": "2026-05-05T07:09:37+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260505/K10015114731_2605050707_0505070938_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260505/K10015114731_2605050707_0505070938_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002683",
+      "name": "交通・インフラ",
+      "display": true
+    },
+    {
+      "id": "0002417",
+      "name": "自動車",
+      "display": true
+    },
+    {
+      "id": "0002427",
+      "name": "鉄道",
+      "display": true
+    },
+    {
+      "id": "0002424",
+      "name": "航空",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "大型連休をふるさとや行楽地などで過ごした人たちのUターンラッシュは、5日がピークとなる見込みで、各地の高速道路では午後にかけて30キロを超える渋滞が予想されています。JR各社や航空各社によりますと、新",
+  "articleBody": "大型連休をふるさとや行楽地などで過ごした人たちのUターンラッシュは、5日がピークとなる見込みで、各地の高速道路では午後にかけて30キロを超える渋滞が予想されています。JR各社や航空各社によりますと、新幹線の上りと海外から日本に向かう空の便は5日が混雑のピークとなる見込みです。\n\n\n高速道路の上りも5日が混雑のピークで、関越自動車道は埼玉県の坂戸西スマートインターチェンジ付近を先頭に午後2時ごろに40キロ、東北自動車道は埼玉県の加須インターチェンジ付近を先頭に午後6時ごろに35キロ、神戸淡路鳴門自動車道は兵庫県の舞子トンネル出口付近を先頭に午後4時ごろに35キロ、中央自動車道は東京と神奈川県にまたがる小仏トンネル付近を先頭に午後1時ごろに25キロなどと各地で渋滞が予想されています。\n\n高速道路各社はホームページで渋滞予測を確認して、混雑が予想される時間帯を避けるよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "大型連休をふるさとや行楽地などで過ごした人たちのUターンラッシュは、5日がピークとなる見込みで、各地の高速道路では午後にかけて30キロを超える渋滞が予想されています。JR各社や航空各社によりますと、新幹線の上りと海外から日本に向かう空の便は5日が混雑のピークとなる見込みです。\n",
+    "markedBody": "高速道路の上りも5日が混雑のピークで、関越自動車道は埼玉県の坂戸西スマートインターチェンジ付近を先頭に午後2時ごろに40キロ、東北自動車道は埼玉県の加須インターチェンジ付近を先頭に午後6時ごろに35キロ、神戸淡路鳴門自動車道は兵庫県の舞子トンネル出口付近を先頭に午後4時ごろに35キロ、中央自動車道は東京と神奈川県にまたがる小仏トンネル付近を先頭に午後1時ごろに25キロなどと各地で渋滞が予想されています。\n\n高速道路各社はホームページで渋滞予測を確認して、混雑が予想される時間帯を避けるよう呼びかけています。\n",
+    "trimmedLead": "大型連休をふるさとや行楽地などで過ごした人たちのUターンラッシュは、5日がピークとなる見込みで、各地の高速道路では午後にかけて30キロを超える渋滞が予想されています。JR各社や航空各社によりますと、新幹線の上りと海外から日本に向かう空の便は5日が混雑のピークとなる見込みです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015114731000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015114731000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "大型連休後半 Uターンラッシュがピークの見込み",
+      "description": "大型連休をふるさとや行楽地などで過ごした人たちのUターンラッシュは、5日がピークとなる見込みで、各地の高速道路では午後にかけて30キロを超える渋滞が予想されています。JR各社や航空各社によりますと、新",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015114731_202605050707_202605050707/index.m3u8&mrposter=/news/html/20260505/K10015114731_2605050707_0505070938_01_03.jpg",
+      "duration": "PT1M7S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015114731_202605050707_202605050707/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260505/K10015114731_2605050707_0505070938_01_03.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "高市首相 オーストラリアと連携強化で一致 5日夜帰国へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015114561000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260505/K10015114561_2605042333_0505044757_01_02.jpg",
+      "datePublished": "2026-05-05T04:47:56+09:00"
+    },
+    {
+      "name": "片山財務相 ADBと連携し途上国支援に貢献する考え強調",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015114681000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260505/K10015114681_2605050147_0505045313_01_02.jpg",
+      "datePublished": "2026-05-05T04:53:12+09:00"
+    },
+    {
+      "name": "山口 車どうしの衝突事故 2人意識不明 1人は小学生",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015114701000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260505/K10015114701_2605050423_0505043955_01_02.jpg",
+      "datePublished": "2026-05-05T04:39:54+09:00"
+    },
+    {
+      "name": "米船籍の商船“ホルムズ通過”イラン反発 情勢は急速に緊迫化",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015114601000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260505/K10015114601_2605050513_0505054526_01_02.jpg",
+      "datePublished": "2026-05-05T05:45:25+09:00"
+    },
+    {
+      "name": "保育施設の5％近くがスポットワーク保育士等活用 こども家庭庁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015114591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260505/K10015114591_2605042039_0505053204_01_02.jpg",
+      "datePublished": "2026-05-05T05:32:04+09:00"
+    },
+    {
+      "name": "15歳未満の子どもの数1329万人 45年連続で減少 総務省推計",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015114411000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260504/K10015114411_2605041445_0504170359_01_02.jpg",
+      "datePublished": "2026-05-04T17:03:58+09:00"
+    },
+    {
+      "name": "急速に円高進む 一時1ドル155円台に 再び市場介入との見方も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015114421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260504/K10015114421_2605041331_0504144547_01_02.jpg",
+      "datePublished": "2026-05-04T18:04:14+09:00"
+    },
+    {
+      "name": "ドジャース 大谷翔平 投手部門で月間MVP初受賞",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015114691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260505/K10015114691_2605050552_0505055451_01_02.jpg",
+      "datePublished": "2026-05-05T05:54:51+09:00"
+    },
+    {
+      "name": "「子どもショートステイ」知ってますか？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015111581000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260503/K10015111581_2604302010_0503111952_01_02.jpg",
+      "datePublished": "2026-05-03T11:19:51+09:00"
+    },
+    {
+      "name": "NATOは何しに日本へ？気になるのは“あの国”との距離感",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109841000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260504/K10015109841_2605011509_0504111440_01_02.jpg",
+      "datePublished": "2026-05-04T11:14:39+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

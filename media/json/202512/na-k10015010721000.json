@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015010721000",
+  "dataSourceId": "na",
+  "name": "杉田 元官房副長官が死去 政府の事務方トップを歴代最長務める",
+  "headline": "杉田 元官房副長官が死去 政府の事務方トップを歴代最長務める",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015010721000",
+    "playlistId": "news-nwa-politics-nationwide-20251222",
+    "newsarticleName": "杉田 元官房副長官が死去 政府の事務方トップを歴代最長務める",
+    "playlistName": "12月22日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "政府の事務方トップの官房副長官を歴代最長の9年近くにわたって務めた杉田和博氏が亡くなりました。84歳でした。\n\n\n杉田和博氏は1966年に警察庁に入り、警備・公安部門が長く、内閣情報官や内閣危機管理監",
+  "dateModified": "2025-12-22T21:04:51+09:00",
+  "datePublished": "2025-12-22T21:04:51+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251222/K10015010721_2512222004_1222210452_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251222/K10015010721_2512222004_1222210452_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "政府の事務方トップの官房副長官を歴代最長の9年近くにわたって務めた杉田和博氏が亡くなりました。84歳でした。\n\n\n杉田和博氏は1966年に警察庁に入り、警備・公安部門が長く、内閣情報官や内閣危機管理監",
+  "articleBody": "政府の事務方トップの官房副長官を歴代最長の9年近くにわたって務めた杉田和博氏が亡くなりました。84歳でした。\n\n\n杉田和博氏は1966年に警察庁に入り、警備・公安部門が長く、内閣情報官や内閣危機管理監などを務めたあと、2012年12月の第2次安倍内閣の発足時に事務方トップの官房副長官に起用されました。\n\nその後の菅内閣でも再任されて在任期間は9年近くとなり、村山内閣から小泉内閣まで副長官を務めた古川貞二郎氏を超え、歴代最長となりました。\n\nまた、2017年からは中央省庁の幹部職員の人事を一元的に管理する内閣人事局の局長も務めました。\n\n在任中は、上皇さまの天皇退位に伴う一連の対応や、新型コロナウイルス対策など、政府内の調整にあたり、政権を支えました。\n\n関係者によりますと杉田氏は、22日までに亡くなったということです。\n\n84歳でした。\n",
+  "detailedArticleBody": {
+    "markedLead": "政府の事務方トップの官房副長官を歴代最長の9年近くにわたって務めた杉田和博氏が亡くなりました。84歳でした。\n",
+    "markedBody": "杉田和博氏は1966年に警察庁に入り、警備・公安部門が長く、内閣情報官や内閣危機管理監などを務めたあと、2012年12月の第2次安倍内閣の発足時に事務方トップの官房副長官に起用されました。\n\nその後の菅内閣でも再任されて在任期間は9年近くとなり、村山内閣から小泉内閣まで副長官を務めた古川貞二郎氏を超え、歴代最長となりました。\n\nまた、2017年からは中央省庁の幹部職員の人事を一元的に管理する内閣人事局の局長も務めました。\n\n在任中は、上皇さまの天皇退位に伴う一連の対応や、新型コロナウイルス対策など、政府内の調整にあたり、政権を支えました。\n\n関係者によりますと杉田氏は、22日までに亡くなったということです。\n\n84歳でした。\n",
+    "trimmedLead": "政府の事務方トップの官房副長官を歴代最長の9年近くにわたって務めた杉田和博氏が亡くなりました。84歳でした。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015010721000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015010721000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

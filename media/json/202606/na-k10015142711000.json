@@ -1,0 +1,177 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015142711000",
+  "dataSourceId": "na",
+  "name": "ナスダック株価指数 半導体売りで4％超の下落 利上げ警戒",
+  "headline": "ナスダック株価指数 半導体売りで4％超の下落 利上げ警戒",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015142711000",
+    "playlistId": "news-nwa-international-nationwide-20260606",
+    "newsarticleName": "ナスダック株価指数 半導体売りで4％超の下落 利上げ警戒",
+    "playlistName": "6月6日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "5日のニューヨーク株式市場では半導体関連の銘柄を中心に売り注文が広がり、ハイテク株の比率が高いナスダックの株価指数は4％を超える大幅な下落となりました。FRB＝連邦準備制度理事会が年内に利上げに踏み切",
+  "dateModified": "2026-06-06T06:32:05+09:00",
+  "datePublished": "2026-06-06T06:32:05+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260606/K10015142711_2606060631_0606063206_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260606/K10015142711_2606060631_0606063206_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0002423",
+      "name": "金融",
+      "display": true
+    },
+    {
+      "id": "0002370",
+      "name": "ニューヨーク",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "0002421",
+      "name": "半導体",
+      "display": true
+    },
+    {
+      "id": "0000010",
+      "name": "生成AI・人工知能",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "5日のニューヨーク株式市場では半導体関連の銘柄を中心に売り注文が広がり、ハイテク株の比率が高いナスダックの株価指数は4％を超える大幅な下落となりました。FRB＝連邦準備制度理事会が年内に利上げに踏み切",
+  "articleBody": "5日のニューヨーク株式市場では半導体関連の銘柄を中心に売り注文が広がり、ハイテク株の比率が高いナスダックの株価指数は4％を超える大幅な下落となりました。FRB＝連邦準備制度理事会が年内に利上げに踏み切るのではないかとの観測が強まったことなどから、売り注文につながりました。\n\n\nニューヨーク株式市場ではAIの需要拡大への期待を背景に半導体関連の銘柄ではこのところ株価の上昇傾向が続いていましたが、5日はAIをめぐる過熱感が意識され、売り注文が広がりました。\n\nハイテク株の比率が高いナスダックの株価指数は前日から1100ポイント余り下落し、2万5709.43となりました。\n\n率にすると4％を超える大幅な下落となり、トランプ政権による「相互関税」で金融市場が動揺していた去年4月以来の下落率となりました。\n\nこの日に発表されたアメリカの雇用統計で、農業分野以外の就業者の伸びが市場予想を大きく上回ったことで、投資家の間でFRBが年内の利上げに踏み切るのではないかとの観測が広がったことも、売り注文につながった形です。\n\nダウ平均株価の終値は前日と比べて695ドル15セント安い、5万866ドル78セントでした。\n\n市場関係者は「アメリカの労働市場が回復を見せるなか、今後の物価の動向によってはFRBが利下げではなく利上げに踏み切るとの観測が強まってきていて、そうした見通しの変化が投資家の心理を急激に冷やした格好だ」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "5日のニューヨーク株式市場では半導体関連の銘柄を中心に売り注文が広がり、ハイテク株の比率が高いナスダックの株価指数は4％を超える大幅な下落となりました。FRB＝連邦準備制度理事会が年内に利上げに踏み切るのではないかとの観測が強まったことなどから、売り注文につながりました。\n",
+    "markedBody": "ニューヨーク株式市場ではAIの需要拡大への期待を背景に半導体関連の銘柄ではこのところ株価の上昇傾向が続いていましたが、5日はAIをめぐる過熱感が意識され、売り注文が広がりました。\n\nハイテク株の比率が高いナスダックの株価指数は前日から1100ポイント余り下落し、2万5709.43となりました。\n\n率にすると4％を超える大幅な下落となり、トランプ政権による「相互関税」で金融市場が動揺していた去年4月以来の下落率となりました。\n\nこの日に発表されたアメリカの雇用統計で、農業分野以外の就業者の伸びが市場予想を大きく上回ったことで、投資家の間でFRBが年内の利上げに踏み切るのではないかとの観測が広がったことも、売り注文につながった形です。\n\nダウ平均株価の終値は前日と比べて695ドル15セント安い、5万866ドル78セントでした。\n\n市場関係者は「アメリカの労働市場が回復を見せるなか、今後の物価の動向によってはFRBが利下げではなく利上げに踏み切るとの観測が強まってきていて、そうした見通しの変化が投資家の心理を急激に冷やした格好だ」と話しています。\n",
+    "trimmedLead": "5日のニューヨーク株式市場では半導体関連の銘柄を中心に売り注文が広がり、ハイテク株の比率が高いナスダックの株価指数は4％を超える大幅な下落となりました。FRB＝連邦準備制度理事会が年内に利上げに踏み切るのではないかとの観測が強まったことなどから、売り注文につながりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015142711000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015142711000",
+  "video": [],
+  "citation": [
+    {
+      "name": "米雇用統計 農業分野以外の就業者増加 市場予想大幅上回る",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015142521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260605/K10015142521_2606052219_0605222026_01_02.jpg",
+      "datePublished": "2026-06-05T23:21:56+09:00"
+    },
+    {
+      "name": "AI相場 第2幕が始まった？【経済コラム】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015141361000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260605/K10015141361_2606051102_0605182519_01_02.jpg",
+      "datePublished": "2026-06-05T18:25:18+09:00"
+    },
+    {
+      "name": "ラオス ソンサイ首相 6月10日に来日 高市首相と初の首脳会談へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015142421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260605/K10015142421_2606051936_0605203533_01_02.jpg",
+      "datePublished": "2026-06-05T20:35:32+09:00"
+    },
+    {
+      "name": "米アラスカ州とアフリカから代替調達の原油が到着へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015142361000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260605/K10015142361_2606051754_0605181851_01_02.jpg",
+      "datePublished": "2026-06-05T18:18:50+09:00"
+    },
+    {
+      "name": "中国 習近平国家主席が8日から北朝鮮訪問へ 2019年以来",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015141781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260605/K10015141781_2606051122_0605113745_01_02.jpg",
+      "datePublished": "2026-06-05T17:01:54+09:00"
+    },
+    {
+      "name": "ゼレンスキー大統領 プーチン大統領に公開書簡 “直接会談を”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015142151000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260605/K10015142151_2606051538_0605155813_01_02.jpg",
+      "datePublished": "2026-06-05T15:58:12+09:00"
+    },
+    {
+      "name": "天安門事件から37年 台湾で追悼集会 香港では追悼封じ込め続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015141551000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260605/K10015141551_2606050411_0605054450_01_02.jpg",
+      "datePublished": "2026-06-05T05:44:49+09:00"
+    },
+    {
+      "name": "レバノンめぐり停戦合意も イスラエルとヒズボラ攻撃の応酬",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015141571000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260605/K10015141571_2606050643_0605064351_01_02.jpg",
+      "datePublished": "2026-06-05T19:36:28+09:00"
+    },
+    {
+      "name": "米のAI活用科学戦略に日本が参加 日米両政府が各800億円投資へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015141871000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260605/K10015141871_2606051246_0605132153_01_02.jpg",
+      "datePublished": "2026-06-05T13:21:52+09:00"
+    },
+    {
+      "name": "世界銀行総裁 日本とどう連携？ 途上国の若者の雇用不足に警鐘",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015137941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260605/K10015137941_2606051221_0605171257_01_02.jpg",
+      "datePublished": "2026-06-05T17:12:56+09:00"
+    },
+    {
+      "name": "47年前の呪縛は今も？アメリカ「対イラン強硬派」の源流とは",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260604/K10015131711_2606041417_0604212035_01_02.jpg",
+      "datePublished": "2026-06-04T21:20:34+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015015081000",
+  "dataSourceId": "na",
+  "name": "中国 “日本への旅行客これまでの6割以下に” 旅行会社に指示",
+  "headline": "中国 “日本への旅行客これまでの6割以下に” 旅行会社に指示",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015015081000",
+    "playlistId": "news-nwa-international-nationwide-20251226",
+    "newsarticleName": "中国 “日本への旅行客これまでの6割以下に” 旅行会社に指示",
+    "playlistName": "12月26日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "日中関係が悪化する中、中国当局が中国国内の複数の旅行会社に、日本への旅行客をこれまでの6割以下に抑えるよう指示を出していたことが関係者への取材で分かりました。\n\n\n関係者によりますと、中国当局が12月",
+  "dateModified": "2025-12-26T19:28:00+09:00",
+  "datePublished": "2025-12-26T19:28:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251226/K10015015081_2512261917_1226192801_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251226/K10015015081_2512261917_1226192801_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "日中関係が悪化する中、中国当局が中国国内の複数の旅行会社に、日本への旅行客をこれまでの6割以下に抑えるよう指示を出していたことが関係者への取材で分かりました。\n\n\n関係者によりますと、中国当局が12月",
+  "articleBody": "日中関係が悪化する中、中国当局が中国国内の複数の旅行会社に、日本への旅行客をこれまでの6割以下に抑えるよう指示を出していたことが関係者への取材で分かりました。\n\n\n関係者によりますと、中国当局が12月、中国国内の複数の旅行会社に対して日本への旅行客をこれまでの6割以下に抑えるよう指示を出したということです。\n\n中国政府はいわゆる「台湾有事」をめぐる高市総理大臣の国会答弁に強く反発し、11月から、日本への渡航を控えるよう国民に呼びかけていて、今回の指示も日本への圧力の一環とみられます。\n\n中国政府の呼びかけを受けて、中国の複数の大手航空会社は来年3月下旬まで日本との間の航空券のキャンセルを無料で受け付ける対応をとっています。\n\nこうした中、中国メディアは中国と日本を結ぶ来月の航空便は12月22日の時点で2000便以上の運航が取り消されたなどと伝えています。\n\nその数は、全体のおよそ4割にあたるとしていて、日本への旅行の影響を大きく伝えています\n",
+  "detailedArticleBody": {
+    "markedLead": "日中関係が悪化する中、中国当局が中国国内の複数の旅行会社に、日本への旅行客をこれまでの6割以下に抑えるよう指示を出していたことが関係者への取材で分かりました。\n",
+    "markedBody": "関係者によりますと、中国当局が12月、中国国内の複数の旅行会社に対して日本への旅行客をこれまでの6割以下に抑えるよう指示を出したということです。\n\n中国政府はいわゆる「台湾有事」をめぐる高市総理大臣の国会答弁に強く反発し、11月から、日本への渡航を控えるよう国民に呼びかけていて、今回の指示も日本への圧力の一環とみられます。\n\n中国政府の呼びかけを受けて、中国の複数の大手航空会社は来年3月下旬まで日本との間の航空券のキャンセルを無料で受け付ける対応をとっています。\n\nこうした中、中国メディアは中国と日本を結ぶ来月の航空便は12月22日の時点で2000便以上の運航が取り消されたなどと伝えています。\n\nその数は、全体のおよそ4割にあたるとしていて、日本への旅行の影響を大きく伝えています\n",
+    "trimmedLead": "日中関係が悪化する中、中国当局が中国国内の複数の旅行会社に、日本への旅行客をこれまでの6割以下に抑えるよう指示を出していたことが関係者への取材で分かりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015015081000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015015081000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

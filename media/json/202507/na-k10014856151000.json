@@ -1,0 +1,101 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014856151000",
+  "dataSourceId": "na",
+  "name": "乗用車がパトカーに衝突 男が車乗り捨て逃走 行方捜査 相模原",
+  "headline": "乗用車がパトカーに衝突 男が車乗り捨て逃走 行方捜査 相模原",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014856151000",
+    "playlistId": "news-nwa-society-nationwide-20250707",
+    "newsarticleName": "乗用車がパトカーに衝突 男が車乗り捨て逃走 行方捜査 相模原",
+    "playlistName": "7月7日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "7日未明、相模原市の交差点で乗用車がパトカーに衝突して、運転していたとみられる若い男が車を乗り捨てて逃走し、警察がひき逃げなどの疑いで行方を捜査しています。乗用車は、警視庁が不審車両として追跡したもの",
+  "dateModified": "2025-07-07T15:19:48+09:00",
+  "datePublished": "2025-07-07T15:19:48+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250707/K10014856151_2507071441_0707151916_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250707/K10014856151_2507071441_0707151916_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "7日未明、相模原市の交差点で乗用車がパトカーに衝突して、運転していたとみられる若い男が車を乗り捨てて逃走し、警察がひき逃げなどの疑いで行方を捜査しています。乗用車は、警視庁が不審車両として追跡したもの",
+  "articleBody": "7日未明、相模原市の交差点で乗用車がパトカーに衝突して、運転していたとみられる若い男が車を乗り捨てて逃走し、警察がひき逃げなどの疑いで行方を捜査しています。乗用車は、警視庁が不審車両として追跡したものの見失った車だったということです。\n\n\n7日午前2時ごろ、相模原市緑区の市道の交差点で乗用車が神奈川県警のパトカーに衝突し、パトカーに乗っていた警察官2人が手や足に軽いけがをしました。\n\n警察によりますと、乗用車を運転していたとみられる若い男は車を乗り捨てて現場から逃走しました。\n\n衝突した乗用車は警視庁が、不審車両として追跡したものの見失った車だったということです。\n\n乗用車は目撃情報などから、赤信号を無視して交差点に進入したとみられ、警察はひき逃げなどの疑いで逃げた男の行方を捜査しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "7日未明、相模原市の交差点で乗用車がパトカーに衝突して、運転していたとみられる若い男が車を乗り捨てて逃走し、警察がひき逃げなどの疑いで行方を捜査しています。乗用車は、警視庁が不審車両として追跡したものの見失った車だったということです。\n",
+    "markedBody": "7日午前2時ごろ、相模原市緑区の市道の交差点で乗用車が神奈川県警のパトカーに衝突し、パトカーに乗っていた警察官2人が手や足に軽いけがをしました。\n\n警察によりますと、乗用車を運転していたとみられる若い男は車を乗り捨てて現場から逃走しました。\n\n衝突した乗用車は警視庁が、不審車両として追跡したものの見失った車だったということです。\n\n乗用車は目撃情報などから、赤信号を無視して交差点に進入したとみられ、警察はひき逃げなどの疑いで逃げた男の行方を捜査しています。\n",
+    "trimmedLead": "7日未明、相模原市の交差点で乗用車がパトカーに衝突して、運転していたとみられる若い男が車を乗り捨てて逃走し、警察がひき逃げなどの疑いで行方を捜査しています。乗用車は、警視庁が不審車両として追跡したものの見失った車だったということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014856151000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014856151000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "乗用車がパトカーに衝突 男が車乗り捨て逃走 行方捜査 相模原",
+      "description": "7日未明、相模原市の交差点で乗用車がパトカーに衝突して、運転していたとみられる若い男が車を乗り捨てて逃走し、警察がひき逃げなどの疑いで行方を捜査しています。乗用車は、警視庁が不審車両として追跡したもの",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10014856151_202507071509_202507071511/index.m3u8&mrposter=/news/html/20250707/K10014856151_2507071441_0707151916_01_03.jpg",
+      "duration": "PT46S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10014856151_202507071509_202507071511/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20250707/K10014856151_2507071441_0707151916_01_03.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

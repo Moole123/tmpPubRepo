@@ -1,0 +1,148 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015080991000",
+  "dataSourceId": "na",
+  "name": "さいたま 複数の住宅燃える火事 80代女性と連絡取れず",
+  "headline": "さいたま 複数の住宅燃える火事 80代女性と連絡取れず",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015080991000",
+    "playlistId": "news-nwa-society-nationwide-20260321",
+    "newsarticleName": "さいたま 複数の住宅燃える火事 80代女性と連絡取れず",
+    "playlistName": "3月21日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "21日午後、さいたま市で複数の住宅が燃える火事がありました。火元の住宅に住む80代の女性と連絡が取れなくなっていて、警察が確認を進めています。\n\n\n21日午後3時前、さいたま市南区白幡で「住宅から炎が",
+  "dateModified": "2026-03-21T18:37:17+09:00",
+  "datePublished": "2026-03-21T18:37:17+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260321/K10015080991_2603211834_0321183718_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260321/K10015080991_2603211834_0321183718_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002689",
+      "name": "火災",
+      "display": true
+    },
+    {
+      "id": "0002211",
+      "name": "埼玉県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "21日午後、さいたま市で複数の住宅が燃える火事がありました。火元の住宅に住む80代の女性と連絡が取れなくなっていて、警察が確認を進めています。\n\n\n21日午後3時前、さいたま市南区白幡で「住宅から炎が",
+  "articleBody": "21日午後、さいたま市で複数の住宅が燃える火事がありました。火元の住宅に住む80代の女性と連絡が取れなくなっていて、警察が確認を進めています。\n\n\n21日午後3時前、さいたま市南区白幡で「住宅から炎があがっている」という119番通報が相次ぎました。\n\nポンプ車などあわせて18台が出て、午後5時半すぎに火はほぼ消し止められましたが、火元の木造2階建ての住宅が全焼したほか、周辺の複数の住宅が焼けました。\n\n警察によりますと、火元の住宅には83歳の母親と50代の息子が住んでいて、息子は外出していて無事でしたが、火事のあと母親と連絡が取れなくなっていることから警察が確認を進めています。\n\n現場は、JR武蔵浦和駅から南東に500メートルほど離れた住宅街です。\n",
+  "detailedArticleBody": {
+    "markedLead": "21日午後、さいたま市で複数の住宅が燃える火事がありました。火元の住宅に住む80代の女性と連絡が取れなくなっていて、警察が確認を進めています。\n",
+    "markedBody": "21日午後3時前、さいたま市南区白幡で「住宅から炎があがっている」という119番通報が相次ぎました。\n\nポンプ車などあわせて18台が出て、午後5時半すぎに火はほぼ消し止められましたが、火元の木造2階建ての住宅が全焼したほか、周辺の複数の住宅が焼けました。\n\n警察によりますと、火元の住宅には83歳の母親と50代の息子が住んでいて、息子は外出していて無事でしたが、火事のあと母親と連絡が取れなくなっていることから警察が確認を進めています。\n\n現場は、JR武蔵浦和駅から南東に500メートルほど離れた住宅街です。\n",
+    "trimmedLead": "21日午後、さいたま市で複数の住宅が燃える火事がありました。火元の住宅に住む80代の女性と連絡が取れなくなっていて、警察が確認を進めています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015080991000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015080991000",
+  "video": [],
+  "citation": [
+    {
+      "name": "韓国 自動車関連工場火災 14人が遺体で見つかる 身元確認急ぐ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015080751000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260321/K10015080751_2603210816_0321082331_01_02.jpg",
+      "datePublished": "2026-03-21T18:00:43+09:00"
+    },
+    {
+      "name": "三重 新名神6人死亡事故 警察が運送会社事務所を捜索",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015080601000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260321/K10015080601_2603202220_0321050954_01_02.jpg",
+      "datePublished": "2026-03-21T12:30:56+09:00"
+    },
+    {
+      "name": "福井 防波堤で海に転落 ベトナム国籍の1人死亡 3人行方不明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015080741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260321/K10015080741_2603210916_0321101059_01_03.jpg",
+      "datePublished": "2026-03-21T12:00:18+09:00"
+    },
+    {
+      "name": "トランプ氏“段階的縮小を検討”投稿も事態収束の見通し立たず",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015080621000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260321/K10015080621_2603210443_0321115523_01_02.jpg",
+      "datePublished": "2026-03-21T17:15:09+09:00"
+    },
+    {
+      "name": "維新 党大会 吉村代表 連立政権で改革進める責任と役割を強調",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015080971000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260321/K10015080971_2603211657_0321170621_01_02.jpg",
+      "datePublished": "2026-03-21T17:06:20+09:00"
+    },
+    {
+      "name": "政府 シェルター確保で民間との連携推進へ 基本方針案まとめる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015080801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260321/K10015080801_2603211051_0321143710_01_02.jpg",
+      "datePublished": "2026-03-21T14:37:09+09:00"
+    },
+    {
+      "name": "大相撲春場所 霧島の優勝決まる 3年前の九州場所以来3回目",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015080891000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260321/K10015080891_2603211757_0321175810_01_02.jpg",
+      "datePublished": "2026-03-21T18:47:07+09:00"
+    },
+    {
+      "name": "ドジャース 山本由伸 オープン戦に先発 5回7奪三振 無失点",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015080921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260321/K10015080921_2603211441_0321150231_01_02.jpg",
+      "datePublished": "2026-03-21T15:02:31+09:00"
+    },
+    {
+      "name": "センバツ高校野球2026【NHK ONE ニュース】最新情報・特集",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0001497",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31024001.jpg"
+    },
+    {
+      "name": "センバツ NHK ONEで全試合を同時・見逃し配信！",
+      "url": "https://www.web.nhk/tv/pl/series-tep-48MGQ77561/list?mediaAction=watch",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31023323.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

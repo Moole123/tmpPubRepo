@@ -1,0 +1,149 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015078891000",
+  "dataSourceId": "na",
+  "name": "柏崎刈羽原発6号機の警報 “原因は発電機関連の部品の破損” 東京電力",
+  "headline": "柏崎刈羽原発6号機の警報 “原因は発電機関連の部品の破損”",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015078891000",
+    "playlistId": "news-nwa-scienceculture-nationwide-20260318",
+    "newsarticleName": "柏崎刈羽原発6号機の警報 “原因は発電機関連の部品の破損” 東京電力",
+    "playlistName": "3月18日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "東京電力は、新潟県にある柏崎刈羽原子力発電所6号機で今月、漏電を示す警報が作動し、調査のため発電と送電を停止させたことについて、発電機に関連する部品の破損が原因だったと発表しました。破損の理由は分かっ",
+  "dateModified": "2026-03-18T19:09:21+09:00",
+  "datePublished": "2026-03-18T19:09:21+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260318/K10015078891_2603181903_0318190922_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260318/K10015078891_2603181903_0318190922_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "0000021",
+      "name": "原発",
+      "display": true
+    },
+    {
+      "id": "0002215",
+      "name": "新潟県",
+      "display": true
+    },
+    {
+      "id": "0002708",
+      "name": "原子力規制委員会",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "東京電力は、新潟県にある柏崎刈羽原子力発電所6号機で今月、漏電を示す警報が作動し、調査のため発電と送電を停止させたことについて、発電機に関連する部品の破損が原因だったと発表しました。破損の理由は分かっ",
+  "articleBody": "東京電力は、新潟県にある柏崎刈羽原子力発電所6号機で今月、漏電を示す警報が作動し、調査のため発電と送電を停止させたことについて、発電機に関連する部品の破損が原因だったと発表しました。破損の理由は分かっておらず、調査に時間がかかる場合は原子炉の停止も検討するとしています。\n\n\nことし1月に再稼働した柏崎刈羽原発6号機では、営業運転に向けた検査をしていた今月12日、発電機からのわずかな漏電を示す警報が鳴ったことから、東京電力は今月14日、発電と送電を停止させ、原因を調べています。\n\nこれについて東京電力は18日、警報が作動したのは、漏電した場合に電流を地面に逃がし、発電機を守る部品の破損によるものだったと発表しました。\n\n発電機からの漏電は実際には起きていなかったということです。\n\nまた、原子炉に異常はなく、現在も出力を抑えて運転を続けているということで、安全上の問題や外部への影響はないとしています。\n\n東京電力によりますと、なぜ部品が破損したのか、横浜市にある研究施設でさらに調べたうえで、部品の交換などをするということで、調査に時間がかかる場合は原子炉の停止も検討するとしています。\n\n東京電力は、営業運転の開始時期については「未定」だとしていて、調査を進めながら工程を精査し、原子力規制委員会に改めて申請するとしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "東京電力は、新潟県にある柏崎刈羽原子力発電所6号機で今月、漏電を示す警報が作動し、調査のため発電と送電を停止させたことについて、発電機に関連する部品の破損が原因だったと発表しました。破損の理由は分かっておらず、調査に時間がかかる場合は原子炉の停止も検討するとしています。\n",
+    "markedBody": "ことし1月に再稼働した柏崎刈羽原発6号機では、営業運転に向けた検査をしていた今月12日、発電機からのわずかな漏電を示す警報が鳴ったことから、東京電力は今月14日、発電と送電を停止させ、原因を調べています。\n\n![](https://news.web.nhk/news/html/20260318/K10015078891_2603181903_0318190922_02_03.jpg)\n\nこれについて東京電力は18日、警報が作動したのは、漏電した場合に電流を地面に逃がし、発電機を守る部品の破損によるものだったと発表しました。\n\n発電機からの漏電は実際には起きていなかったということです。\n\nまた、原子炉に異常はなく、現在も出力を抑えて運転を続けているということで、安全上の問題や外部への影響はないとしています。\n\n東京電力によりますと、なぜ部品が破損したのか、横浜市にある研究施設でさらに調べたうえで、部品の交換などをするということで、調査に時間がかかる場合は原子炉の停止も検討するとしています。\n\n東京電力は、営業運転の開始時期については「未定」だとしていて、調査を進めながら工程を精査し、原子力規制委員会に改めて申請するとしています。\n",
+    "trimmedLead": "東京電力は、新潟県にある柏崎刈羽原子力発電所6号機で今月、漏電を示す警報が作動し、調査のため発電と送電を停止させたことについて、発電機に関連する部品の破損が原因だったと発表しました。破損の理由は分かっておらず、調査に時間がかかる場合は原子炉の停止も検討するとしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015078891000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015078891000",
+  "video": [],
+  "citation": [
+    {
+      "name": "柏崎刈羽原発6号機 営業運転開始を延期 警報の原因特定できず",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015077861000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260317/K10015077861_2603171413_0317145407_01_02.jpg",
+      "datePublished": "2026-03-17T14:54:06+09:00"
+    },
+    {
+      "name": "東電 柏崎刈羽原発6号機の発送電停止 営業運転は延期の見通し",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015075741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260314/K10015075741_2603141351_0314145845_01_02.jpg",
+      "datePublished": "2026-03-14T14:58:44+09:00"
+    },
+    {
+      "name": "思ってたのと違った「核のボタン」 最前線の基地で見たものは",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015064441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260318/K10015064441_2603061849_0318113103_01_02.jpg",
+      "datePublished": "2026-03-18T11:31:01+09:00"
+    },
+    {
+      "name": "首相 事態早期沈静化へ トランプ氏と意見交わす考え 参予算委",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015078461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260318/K10015078461_2603181713_0318173224_01_02.jpg",
+      "datePublished": "2026-03-18T17:32:23+09:00"
+    },
+    {
+      "name": "高市首相 あさって日米首脳会談へ今夜出発 イラン対応も焦点に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015078211000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260318/K10015078211_2603180235_0318052337_01_03.jpg",
+      "datePublished": "2026-03-18T18:11:59+09:00"
+    },
+    {
+      "name": "ガソリン小売価格 1リットル190.8円 現在の調査方法で過去最高",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015078681000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260318/K10015078681_2603181422_0318142252_01_02.jpg",
+      "datePublished": "2026-03-18T16:26:54+09:00"
+    },
+    {
+      "name": "トランプ大統領 “NATOや日本など同盟国の支援は必要ない”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015078321000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260318/K10015078321_2603180159_0318021622_01_02.jpg",
+      "datePublished": "2026-03-18T20:37:53+09:00"
+    },
+    {
+      "name": "春闘 集中回答日 自動車や電機など大手 満額含む回答相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015078471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260318/K10015078471_2603181440_0318144534_01_03.jpg",
+      "datePublished": "2026-03-18T20:09:07+09:00"
+    },
+    {
+      "name": "浮かび上がるあの日のつぶやき",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015077021000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260317/K10015077021_2603171321_0317165206_01_02.jpg",
+      "datePublished": "2026-03-17T16:52:05+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

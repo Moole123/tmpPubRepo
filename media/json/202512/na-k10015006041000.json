@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015006041000",
+  "dataSourceId": "na",
+  "name": "カンボジア 日本人16人を当局が拘束 特殊詐欺事件に関与か",
+  "headline": "カンボジア 日本人16人を当局が拘束 特殊詐欺事件に関与か",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015006041000",
+    "playlistId": "news-nwa-international-nationwide-20251216",
+    "newsarticleName": "カンボジア 日本人16人を当局が拘束 特殊詐欺事件に関与か",
+    "playlistName": "12月16日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "カンボジア南部で12月、日本人16人が特殊詐欺に関わった疑いがあるとして、現地当局に拘束されたことが日本大使館への取材でわかりました。\n\n\nカンボジアの首都プノンペンにある日本大使館によりますと、南部",
+  "dateModified": "2025-12-16T21:52:25+09:00",
+  "datePublished": "2025-12-16T21:52:25+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251216/K10015006041_2512162132_1216215226_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251216/K10015006041_2512162132_1216215226_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "カンボジア南部で12月、日本人16人が特殊詐欺に関わった疑いがあるとして、現地当局に拘束されたことが日本大使館への取材でわかりました。\n\n\nカンボジアの首都プノンペンにある日本大使館によりますと、南部",
+  "articleBody": "カンボジア南部で12月、日本人16人が特殊詐欺に関わった疑いがあるとして、現地当局に拘束されたことが日本大使館への取材でわかりました。\n\n\nカンボジアの首都プノンペンにある日本大使館によりますと、南部のシアヌークビルにある詐欺拠点で、12月11日に日本人16人が拘束されたと、現地当局から連絡があったということです。\n\n拘束された日本人は特殊詐欺に関わった疑いがあるということで、大使館では情報の確認を進めるとともに当局と連携して対応していくとしています。\n\nシアヌークビルは、中国の企業による大規模なリゾート開発が進み、ホテルやカジノなどが建ち並ぶ一方で、国際的な詐欺グループの拠点になっていると指摘されています。\n\n東南アジアではカンボジアだけでなく、マレーシアやミャンマーなどにある詐欺グループの拠点で、日本人が特殊詐欺に関わったとして拘束されるケースが相次いでいます。\n",
+  "detailedArticleBody": {
+    "markedLead": "カンボジア南部で12月、日本人16人が特殊詐欺に関わった疑いがあるとして、現地当局に拘束されたことが日本大使館への取材でわかりました。\n",
+    "markedBody": "カンボジアの首都プノンペンにある日本大使館によりますと、南部のシアヌークビルにある詐欺拠点で、12月11日に日本人16人が拘束されたと、現地当局から連絡があったということです。\n\n拘束された日本人は特殊詐欺に関わった疑いがあるということで、大使館では情報の確認を進めるとともに当局と連携して対応していくとしています。\n\nシアヌークビルは、中国の企業による大規模なリゾート開発が進み、ホテルやカジノなどが建ち並ぶ一方で、国際的な詐欺グループの拠点になっていると指摘されています。\n\n東南アジアではカンボジアだけでなく、マレーシアやミャンマーなどにある詐欺グループの拠点で、日本人が特殊詐欺に関わったとして拘束されるケースが相次いでいます。\n",
+    "trimmedLead": "カンボジア南部で12月、日本人16人が特殊詐欺に関わった疑いがあるとして、現地当局に拘束されたことが日本大使館への取材でわかりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015006041000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015006041000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

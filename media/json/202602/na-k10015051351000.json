@@ -1,0 +1,144 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015051351000",
+  "dataSourceId": "na",
+  "name": "特別国会18日召集を決定 政府",
+  "headline": "特別国会18日召集を決定 政府",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015051351000",
+    "playlistId": "news-nwa-politics-nationwide-20260213",
+    "newsarticleName": "特別国会18日召集を決定 政府",
+    "playlistName": "2月13日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "政府は持ち回りの閣議で、総理大臣指名選挙などを行う特別国会を来週18日に召集することを決定しました。\n\n\n13日に開かれた衆議院の各会派の代表者による協議会と、参議院議院運営委員会の理事会で、木原官房",
+  "dateModified": "2026-02-13T20:51:47+09:00",
+  "datePublished": "2026-02-13T20:51:47+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260213/K10015051351_2602132041_0213205148_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260213/K10015051351_2602132041_0213205148_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0002672",
+      "name": "高市内閣",
+      "display": true
+    },
+    {
+      "id": "0002392",
+      "name": "国会",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "政府は持ち回りの閣議で、総理大臣指名選挙などを行う特別国会を来週18日に召集することを決定しました。\n\n\n13日に開かれた衆議院の各会派の代表者による協議会と、参議院議院運営委員会の理事会で、木原官房",
+  "articleBody": "政府は持ち回りの閣議で、総理大臣指名選挙などを行う特別国会を来週18日に召集することを決定しました。\n\n\n13日に開かれた衆議院の各会派の代表者による協議会と、参議院議院運営委員会の理事会で、木原官房長官は衆議院選挙を受けて総理大臣指名選挙などを行う特別国会を来週18日に召集する方針を伝えました。これを受けて政府は持ち回りの閣議で、こうした日程を決定しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "政府は持ち回りの閣議で、総理大臣指名選挙などを行う特別国会を来週18日に召集することを決定しました。\n",
+    "markedBody": "13日に開かれた衆議院の各会派の代表者による協議会と、参議院議院運営委員会の理事会で、木原官房長官は衆議院選挙を受けて総理大臣指名選挙などを行う特別国会を来週18日に召集する方針を伝えました。これを受けて政府は持ち回りの閣議で、こうした日程を決定しました。\n",
+    "trimmedLead": "政府は持ち回りの閣議で、総理大臣指名選挙などを行う特別国会を来週18日に召集することを決定しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015051351000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015051351000",
+  "video": [],
+  "citation": [
+    {
+      "name": "高市首相 日銀 植田総裁と16日会談へ 衆院選後初めて",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015051291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015051291_2602132010_0213203642_01_02.jpg",
+      "datePublished": "2026-02-13T20:36:41+09:00"
+    },
+    {
+      "name": "高市首相 新年度予算案 “1日も早い成立に向け努力を”と指示",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050871000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050871_2602131210_0213124547_01_02.jpg",
+      "datePublished": "2026-02-13T19:27:17+09:00"
+    },
+    {
+      "name": "中道 新代表に小川淳也氏を選出 階猛氏を抑える 立民出身",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050371_2602131824_0213191002_01_02.jpg",
+      "datePublished": "2026-02-13T20:41:43+09:00"
+    },
+    {
+      "name": "天皇誕生日の一般参賀 警備対策強化へ 新年一般参賀の事件受け",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015051211000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015051211_2602131839_0213185918_01_02.jpg",
+      "datePublished": "2026-02-13T18:59:17+09:00"
+    },
+    {
+      "name": "筋ジストロフィーの治療薬 保険適用対象に 価格3億円余 中医協",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015051201000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015051201_2602131849_0213190846_01_02.jpg",
+      "datePublished": "2026-02-13T19:54:33+09:00"
+    },
+    {
+      "name": "伊勢崎3人死亡 危険運転の罪認定 被告に懲役20年判決 前橋地裁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015051011000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015051011_2602131524_0213153238_01_02.jpg",
+      "datePublished": "2026-02-13T19:06:41+09:00"
+    },
+    {
+      "name": "兵庫 元局長の私的情報の漏えいに関与か 元総務部長を書類送検",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015051261000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015051261_2602131924_0213193828_01_02.jpg",
+      "datePublished": "2026-02-13T19:38:27+09:00"
+    },
+    {
+      "name": "ミラノ・コルティナ五輪 日本のメダル数は【2月13日】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050621000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050621_2602130537_0213055422_01_02.jpg",
+      "datePublished": "2026-02-13T05:54:22+09:00"
+    },
+    {
+      "name": "ミラノ・コルティナ五輪 見どころ【2/13～14】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050601000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050601_2602130359_0213055826_01_02.jpg",
+      "datePublished": "2026-02-13T05:58:25+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

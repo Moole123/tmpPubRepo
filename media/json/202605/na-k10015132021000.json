@@ -1,0 +1,159 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015132021000",
+  "dataSourceId": "na",
+  "name": "5月の月例経済報告「緩やかに回復」維持 企業物価は上昇",
+  "headline": "5月の月例経済報告「緩やかに回復」維持 企業物価は上昇",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015132021000",
+    "playlistId": "news-nwa-business-nationwide-20260526",
+    "newsarticleName": "5月の月例経済報告「緩やかに回復」維持 企業物価は上昇",
+    "playlistName": "5月26日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "政府は、今月の月例経済報告で景気の現状について「緩やかに回復しているが、中東情勢の影響を注視する必要がある」として、先月の基調判断を維持しました。\n\n\n個別の項目では「国内企業物価」は中東情勢の影響で",
+  "dateModified": "2026-05-26T18:03:27+09:00",
+  "datePublished": "2026-05-26T18:03:27+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260526/K10015132021_2605261744_0526180327_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260526/K10015132021_2605261744_0526180327_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0002431",
+      "name": "月例経済報告",
+      "display": true
+    },
+    {
+      "id": "0002738",
+      "name": "統計・指標",
+      "display": true
+    },
+    {
+      "id": "0002800",
+      "name": "イラン情勢 日本への影響・対応",
+      "display": true
+    },
+    {
+      "id": "0000820",
+      "name": "イラン情勢",
+      "display": true
+    },
+    {
+      "id": "0002631",
+      "name": "中東",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "政府は、今月の月例経済報告で景気の現状について「緩やかに回復しているが、中東情勢の影響を注視する必要がある」として、先月の基調判断を維持しました。\n\n\n個別の項目では「国内企業物価」は中東情勢の影響で",
+  "articleBody": "政府は、今月の月例経済報告で景気の現状について「緩やかに回復しているが、中東情勢の影響を注視する必要がある」として、先月の基調判断を維持しました。\n\n\n個別の項目では「国内企業物価」は中東情勢の影響でナフサなどの石油化学製品の価格が大きく上昇していることを受けて、これまで「緩やかに上昇している」としていた表現を「このところ上昇している」に変更しました。\n\nこの項目の表現の変更は半年ぶりです。\n",
+  "detailedArticleBody": {
+    "markedLead": "政府は、今月の月例経済報告で景気の現状について「緩やかに回復しているが、中東情勢の影響を注視する必要がある」として、先月の基調判断を維持しました。\n",
+    "markedBody": "個別の項目では「国内企業物価」は中東情勢の影響でナフサなどの石油化学製品の価格が大きく上昇していることを受けて、これまで「緩やかに上昇している」としていた表現を「このところ上昇している」に変更しました。\n\nこの項目の表現の変更は半年ぶりです。\n",
+    "trimmedLead": "政府は、今月の月例経済報告で景気の現状について「緩やかに回復しているが、中東情勢の影響を注視する必要がある」として、先月の基調判断を維持しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015132021000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015132021000",
+  "video": [],
+  "citation": [
+    {
+      "name": "4月景気判断「緩やかに回復」維持 「設備投資」など上方修正",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015106591_2604231752_0423181928_01_02.jpg",
+      "datePublished": "2026-04-23T18:19:27+09:00"
+    },
+    {
+      "name": "「国家情報局」設置法案 きょう午後 参院委員会で採決・可決へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260526/K10015131591_2605261207_0526124822_01_03.jpg",
+      "datePublished": "2026-05-26T15:32:35+09:00"
+    },
+    {
+      "name": "補正予算案の審議日程 引き続き協議 自民・中道 国対委員長",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131681000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260526/K10015131681_2605261235_0526135757_01_02.jpg",
+      "datePublished": "2026-05-26T17:15:07+09:00"
+    },
+    {
+      "name": "奄美除く鹿児島 あす未明～夕方 線状降水帯のおそれ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131971000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260526/K10015131971_2605261713_0526171527_01_02.jpg",
+      "datePublished": "2026-05-26T17:15:26+09:00"
+    },
+    {
+      "name": "巨人 阿部慎之助監督が辞任 娘への暴行疑いで逮捕を受けて",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260526/K10015131461_2605261732_0526173939_01_03.jpg",
+      "datePublished": "2026-05-26T17:39:38+09:00"
+    },
+    {
+      "name": "イランの濃縮ウランめぐり駆け引き 米軍は“自衛”の攻撃も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131601000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260526/K10015131601_2605261252_0526141645_01_02.jpg",
+      "datePublished": "2026-05-26T17:38:58+09:00"
+    },
+    {
+      "name": "カンヌ映画祭 最優秀女優賞 岡本多緒さんら会見",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131491000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260526/K10015131491_2605261649_0526172441_01_02.jpg",
+      "datePublished": "2026-05-26T17:24:41+09:00"
+    },
+    {
+      "name": "サッカー日本代表 W杯前国内合宿で中村敬斗らが連係を確認",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131911000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260526/K10015131911_2605261621_0526162650_01_02.jpg",
+      "datePublished": "2026-05-26T16:26:49+09:00"
+    },
+    {
+      "name": "はしか感染者 ことし累計498人に 過去10年の最多に迫るペース",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260526/K10015131691_2605261524_0526154350_01_02.jpg",
+      "datePublished": "2026-05-26T15:43:49+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

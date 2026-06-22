@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015048891000",
+  "dataSourceId": "na",
+  "name": "石川 手取川の浄水場に油混入 10日午後11時40分すぎに水道水の供給を再開 石川県が安全性を確認",
+  "headline": "石川 手取川の浄水場に油混入 水道水の供給を再開",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015048891000",
+    "playlistId": "news-nwa-society-nationwide-20260211",
+    "newsarticleName": "石川 手取川の浄水場に油混入 10日午後11時40分すぎに水道水の供給を再開 石川県が安全性を確認",
+    "playlistName": "2月11日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "石川県内の広い範囲に水道水を供給している手取川の浄水場の取水口で10日、油が混入しているのが見つかり、石川県は13の市と町への水道水の供給を一時、停止しました。その後、油が検出されなくなり、安全性が確",
+  "dateModified": "2026-02-11T00:18:35+09:00",
+  "datePublished": "2026-02-10T22:39:52+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260210/K10015048891_2602102210_0210223953_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260210/K10015048891_2602102210_0210223953_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002217",
+      "name": "石川県",
+      "display": true
+    },
+    {
+      "id": "0002623",
+      "name": "ライフライン",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "石川県内の広い範囲に水道水を供給している手取川の浄水場の取水口で10日、油が混入しているのが見つかり、石川県は13の市と町への水道水の供給を一時、停止しました。その後、油が検出されなくなり、安全性が確",
+  "articleBody": "石川県内の広い範囲に水道水を供給している手取川の浄水場の取水口で10日、油が混入しているのが見つかり、石川県は13の市と町への水道水の供給を一時、停止しました。その後、油が検出されなくなり、安全性が確認されたとして、県は10日午後11時40分すぎに水道水の供給を再開しました。\n\n\n石川県によりますと、10日午後1時ごろ、白山市にある手取川の鶴来浄水場の取水口で、油が混入しているのが確認されたということです。\n\n鶴来浄水場からは金沢市や七尾市、小松市などあわせて13の市と町に水道水が供給されていて、油の混入を受けてきのう午後7時ごろに供給を停止しました。\n\nその後、油が検出されなくなり安全性が確認されたとして、石川県は午後11時40分すぎに水道水の供給を再開しました。\n\n県は油が混入した原因の調査を進めています。\n",
+  "detailedArticleBody": {
+    "markedLead": "石川県内の広い範囲に水道水を供給している手取川の浄水場の取水口で10日、油が混入しているのが見つかり、石川県は13の市と町への水道水の供給を一時、停止しました。その後、油が検出されなくなり、安全性が確認されたとして、県は10日午後11時40分すぎに水道水の供給を再開しました。\n",
+    "markedBody": "石川県によりますと、10日午後1時ごろ、白山市にある手取川の鶴来浄水場の取水口で、油が混入しているのが確認されたということです。\n\n鶴来浄水場からは金沢市や七尾市、小松市などあわせて13の市と町に水道水が供給されていて、油の混入を受けてきのう午後7時ごろに供給を停止しました。\n\nその後、油が検出されなくなり安全性が確認されたとして、石川県は午後11時40分すぎに水道水の供給を再開しました。\n\n県は油が混入した原因の調査を進めています。\n",
+    "trimmedLead": "石川県内の広い範囲に水道水を供給している手取川の浄水場の取水口で10日、油が混入しているのが見つかり、石川県は13の市と町への水道水の供給を一時、停止しました。その後、油が検出されなくなり、安全性が確認されたとして、県は10日午後11時40分すぎに水道水の供給を再開しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015048891000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015048891000",
+  "video": [],
+  "citation": [
+    {
+      "name": "静岡 伊東や神奈川 箱根町で断水 水道管の凍結や漏水が原因か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015048581000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260210/K10015048581_2602101947_0210200113_01_02.jpg",
+      "datePublished": "2026-02-10T20:53:44+09:00"
+    },
+    {
+      "name": "各地で気温上昇 あすにかけ広く雨や湿った雪 雪崩など十分注意",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015048621000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260210/K10015048621_2602101934_0210194515_01_02.jpg",
+      "datePublished": "2026-02-10T19:45:14+09:00"
+    },
+    {
+      "name": "大雪 りんごの木の枝折れる被害 市が緊急で農道除雪 青森 弘前",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015048591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260210/K10015048591_2602101858_0210201718_01_02.jpg",
+      "datePublished": "2026-02-10T20:17:17+09:00"
+    },
+    {
+      "name": "大雪被害 87の市町村に特別交付税 約130億円を繰り上げ交付へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015048321000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260210/K10015048321_2602101300_0210140353_01_02.jpg",
+      "datePublished": "2026-02-10T14:03:52+09:00"
+    },
+    {
+      "name": "日本航空 “手荷物当日配送”利用者の個人情報 漏えいの可能性",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015048551000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260210/K10015048551_2602101841_0210191103_01_02.jpg",
+      "datePublished": "2026-02-10T19:11:03+09:00"
+    },
+    {
+      "name": "深刻な渇水続く高知市 水道水の水圧下げる「減圧給水」へ準備",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015048311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260210/K10015048311_2602101206_0210135100_01_03.jpg",
+      "datePublished": "2026-02-10T13:50:59+09:00"
+    },
+    {
+      "name": "関東～九州の太平洋側中心 雨少なくダム貯水率低下 0％も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015047711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260209/K10015047711_2602091839_0209191558_01_02.jpg",
+      "datePublished": "2026-02-09T19:15:57+09:00"
+    },
+    {
+      "name": "JR東日本社長 改めて陳謝 山手線などで大規模な輸送障害相次ぎ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015048521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260210/K10015048521_2602101801_0210181512_01_03.jpg",
+      "datePublished": "2026-02-10T18:15:11+09:00"
+    },
+    {
+      "name": "小林製薬 “紅麹”問題の被害者510人 補償費用など36億円余に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015048831000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260210/K10015048831_2602102130_0210214417_01_02.jpg",
+      "datePublished": "2026-02-10T21:44:16+09:00"
+    },
+    {
+      "name": "国交省 郵便局の約6割対象 軽自動車の一部使用停止処分を通知",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015048431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260210/K10015048431_2602101650_0210173707_01_02.jpg",
+      "datePublished": "2026-02-10T18:17:10+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015070631000",
+  "dataSourceId": "na",
+  "name": "【潜水映像】東日本大震災 いまも海底に残る津波の痕跡 岩手 大槌町",
+  "headline": "【潜水映像】東日本大震災 いまも残る津波の痕跡 岩手 大槌町",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015070631000",
+    "playlistId": "news-nwa-disaster-nationwide-20260309",
+    "newsarticleName": "【潜水映像】東日本大震災 いまも海底に残る津波の痕跡 岩手 大槌町",
+    "playlistName": "3月9日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "岩手県大槌町は、2011年3月11日に発生した東日本大震災で、最大22メートルの大津波が押し寄せました。800人以上が亡くなり、400人を超える人たちの行方がいまも分かっていません。\n\nあれから15年",
+  "dateModified": "2026-03-09T19:59:54+09:00",
+  "datePublished": "2026-03-09T19:59:54+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260309/K10015070631_2603091407_0309195955_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260309/K10015070631_2603091407_0309195955_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害",
+    "地域"
+  ],
+  "topic": [
+    {
+      "id": "0000019",
+      "name": "東日本大震災",
+      "display": true
+    },
+    {
+      "id": "0002203",
+      "name": "岩手県",
+      "display": true
+    },
+    {
+      "id": "0002792",
+      "name": "潜水取材",
+      "display": true
+    },
+    {
+      "id": "0002621",
+      "name": "津波",
+      "display": true
+    },
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "岩手県大槌町は、2011年3月11日に発生した東日本大震災で、最大22メートルの大津波が押し寄せました。800人以上が亡くなり、400人を超える人たちの行方がいまも分かっていません。\n\nあれから15年",
+  "articleBody": "岩手県大槌町は、2011年3月11日に発生した東日本大震災で、最大22メートルの大津波が押し寄せました。800人以上が亡くなり、400人を超える人たちの行方がいまも分かっていません。\n\nあれから15年。町は平穏を取り戻したかのように見えますが、実は海の中には、15年前の“あの日”がまだ残っています。\n\n（3月9日「おはよう日本」7時台で放送）\n\n\nいまも海底に残る津波の痕跡\n\nいまも海底に残る津波の痕跡\nリポートの内容はこの記事で詳しくお伝えしています\n",
+  "detailedArticleBody": {
+    "markedLead": "岩手県大槌町は、2011年3月11日に発生した東日本大震災で、最大22メートルの大津波が押し寄せました。800人以上が亡くなり、400人を超える人たちの行方がいまも分かっていません。\n\nあれから15年。町は平穏を取り戻したかのように見えますが、実は海の中には、15年前の“あの日”がまだ残っています。\n\n（3月9日「おはよう日本」7時台で放送）\n",
+    "markedBody": ":::nw--link-type4 {href=https://news.web.nhk/newsweb/na/na-k10015064281000}\n![いまも海底に残る津波の痕跡](https://news.web.nhk/news/html/20260309/K10015070631_2603091156_0309195955_02_04.jpg)\n\n**いまも海底に残る津波の痕跡**\\\nリポートの内容はこの記事で詳しくお伝えしています\n:::\n",
+    "trimmedLead": "岩手県大槌町は、2011年3月11日に発生した東日本大震災で、最大22メートルの大津波が押し寄せました。800人以上が亡くなり、400人を超える人たちの行方がいまも分かっていません。\n\nあれから15年。町は平穏を取り戻したかのように見えますが、実は海の中には、15年前の“あの日”がまだ残っています。\n\n（3月9日「おはよう日本」7時台で放送）\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015070631000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015070631000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "【潜水映像】東日本大震災 いまも残る津波の痕跡 岩手 大槌町",
+      "description": "岩手県大槌町は、2011年3月11日に発生した東日本大震災で、最大22メートルの大津波が押し寄せました。800人以上が亡くなり、400人を超える人たちの行方がいまも分かっていません。\n\nあれから15年",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015070631_202603091200_202603091200/index.m3u8&mrposter=/news/html/20260309/K10015070631_2603091407_0309195955_01_03.jpg",
+      "duration": "PT4M22S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015070631_202603091200_202603091200/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260309/K10015070631_2603091407_0309195955_01_03.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "3.11 あの日を忘れない 東日本大震災・原発事故15年特集サイト",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0000019",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30907482.jpg"
+    },
+    {
+      "name": "福島第一原発事故特集サイト",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0001453",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30908502.jpg"
+    },
+    {
+      "name": "【詳しく】災害公営住宅で“孤立死” 特に50代60代が なぜ？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015068771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260307/K10015068771_2603071116_0307112055_01_03.jpg",
+      "datePublished": "2026-03-07T11:20:54+09:00"
+    },
+    {
+      "name": "“震災理由で心身 暮らしに影響”約3割【震災15年アンケート】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015065191000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260307/K10015065191_2603051844_0307050559_01_02.jpg",
+      "datePublished": "2026-03-07T05:05:58+09:00"
+    },
+    {
+      "name": "“よく生きたねと褒めてもらえるよう”娘がつづる15年目の思い",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015065071000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260305/K10015065071_2603031429_0305203723_01_02.jpg",
+      "datePublished": "2026-03-05T20:37:22+09:00"
+    },
+    {
+      "name": "“ゴメン生き延びてしまった” 南三陸町長が手帳に刻んだ15年",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015066111000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260306/K10015066111_2603041908_0306200057_01_02.jpg",
+      "datePublished": "2026-03-06T20:00:56+09:00"
+    },
+    {
+      "name": "「震災遺構」増える修繕費 “長く後世に” 模索する現場",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015068021000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260306/K10015068021_2603061546_0306180640_01_02.jpg",
+      "datePublished": "2026-03-06T18:06:39+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

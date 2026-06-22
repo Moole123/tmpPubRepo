@@ -1,0 +1,101 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014917831000",
+  "dataSourceId": "na",
+  "name": "9月5日の竜巻で50代男性が死亡 乗っていた車横転 静岡県吉田町",
+  "headline": "9月5日の竜巻で50代男性が死亡 乗っていた車横転 静岡県吉田町",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014917831000",
+    "playlistId": "news-nwa-disaster-nationwide-20250909",
+    "newsarticleName": "9月5日の竜巻で50代男性が死亡 乗っていた車横転 静岡県吉田町",
+    "playlistName": "9月9日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "静岡県吉田町は、9月5日の台風の接近に伴う竜巻で、車が横転し乗っていた50代の男性が死亡したと発表しました。静岡県によりますと、今回の竜巻による死者が確認されたのは県内で初めてです。\n\n\n吉田町により",
+  "dateModified": "2025-09-09T18:36:56+09:00",
+  "datePublished": "2025-09-09T18:36:56+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250909/K10014917831_2509091828_0909183252_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250909/K10014917831_2509091828_0909183252_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "静岡県吉田町は、9月5日の台風の接近に伴う竜巻で、車が横転し乗っていた50代の男性が死亡したと発表しました。静岡県によりますと、今回の竜巻による死者が確認されたのは県内で初めてです。\n\n\n吉田町により",
+  "articleBody": "静岡県吉田町は、9月5日の台風の接近に伴う竜巻で、車が横転し乗っていた50代の男性が死亡したと発表しました。静岡県によりますと、今回の竜巻による死者が確認されたのは県内で初めてです。\n\n\n吉田町によりますと、9月5日午後1時ごろ、吉田町神戸にある商業施設の駐車場で、藤枝市に住む50代の男性が乗っていた車が、竜巻に巻き込まれて横転しました。\n\n男性は自力で車から脱出し、病院に搬送されましたが、5日の夜、急性硬膜下血腫により死亡したということです。\n\n県によりますと、今回の竜巻で死者が確認されたのは県内で初めてです。\n",
+  "detailedArticleBody": {
+    "markedLead": "静岡県吉田町は、9月5日の台風の接近に伴う竜巻で、車が横転し乗っていた50代の男性が死亡したと発表しました。静岡県によりますと、今回の竜巻による死者が確認されたのは県内で初めてです。\n",
+    "markedBody": "吉田町によりますと、9月5日午後1時ごろ、吉田町神戸にある商業施設の駐車場で、藤枝市に住む50代の男性が乗っていた車が、竜巻に巻き込まれて横転しました。\n\n男性は自力で車から脱出し、病院に搬送されましたが、5日の夜、急性硬膜下血腫により死亡したということです。\n\n県によりますと、今回の竜巻で死者が確認されたのは県内で初めてです。\n",
+    "trimmedLead": "静岡県吉田町は、9月5日の台風の接近に伴う竜巻で、車が横転し乗っていた50代の男性が死亡したと発表しました。静岡県によりますと、今回の竜巻による死者が確認されたのは県内で初めてです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014917831000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014917831000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "9月5日の竜巻で50代男性が死亡 乗っていた車横転 静岡県吉田町",
+      "description": "静岡県吉田町は、9月5日の台風の接近に伴う竜巻で、車が横転し乗っていた50代の男性が死亡したと発表しました。静岡県によりますと、今回の竜巻による死者が確認されたのは県内で初めてです。\n\n\n吉田町により",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10014917831_202509091917_202509091917/index.m3u8&mrposter=/news/html/20250909/K10014917831_2509091828_0909183252_01_02.jpg",
+      "duration": "PT3M41S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10014917831_202509091917_202509091917/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20250909/K10014917831_2509091828_0909183252_01_02.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

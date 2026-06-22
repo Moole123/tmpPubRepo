@@ -1,0 +1,148 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015142501000",
+  "dataSourceId": "na",
+  "name": "バレーボール 石川祐希がトルコリーグの強豪ジラートに移籍",
+  "headline": "バレーボール 石川祐希がトルコリーグの強豪ジラートに移籍",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015142501000",
+    "playlistId": "news-nwa-sports-nationwide-20260605",
+    "newsarticleName": "バレーボール 石川祐希がトルコリーグの強豪ジラートに移籍",
+    "playlistName": "6月5日のスポーツニュース",
+    "genreId": "sports",
+    "genreIdSlug": "sports"
+  },
+  "description": "バレーボール男子日本代表のキャプテン、石川祐希選手がトルコリーグの強豪、ジラートに移籍することが発表されました。\n\n\n30歳の石川選手は的確にコースを打ち抜くスパイクや高い守備力が持ち味で、日本代表の",
+  "dateModified": "2026-06-05T21:35:41+09:00",
+  "datePublished": "2026-06-05T21:35:41+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260605/K10015142501_2606052052_0605213542_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260605/K10015142501_2606052052_0605213542_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "スポーツ"
+  ],
+  "topic": [
+    {
+      "id": "0001850",
+      "name": "バレーボール",
+      "display": true
+    },
+    {
+      "id": "0002327",
+      "name": "トルコ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "バレーボール男子日本代表のキャプテン、石川祐希選手がトルコリーグの強豪、ジラートに移籍することが発表されました。\n\n\n30歳の石川選手は的確にコースを打ち抜くスパイクや高い守備力が持ち味で、日本代表の",
+  "articleBody": "バレーボール男子日本代表のキャプテン、石川祐希選手がトルコリーグの強豪、ジラートに移籍することが発表されました。\n\n\n30歳の石川選手は的確にコースを打ち抜くスパイクや高い守備力が持ち味で、日本代表のキャプテンとしてオリンピックに東京大会とパリ大会の2大会連続で出場し、いずれもベスト8進出に貢献しました。\n\nおととしからの2シーズンはイタリア1部リーグの強豪、ペルージャでプレーしていました。\n\n石川選手が移籍するジラートは今シーズン、トルコリーグで優勝し、欧州チャンピオンズリーグでも3位に入った強豪チームです。\n\n石川選手は「トルコリーグでのプレーは初めてで新しい経験しかありません。その新しい経験が必ず僕を成長させてくれると確信しています。ジラートでもサポーターやファンの皆さんに応援してもらえる選手になれるようプレーしていきたい」とコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "バレーボール男子日本代表のキャプテン、石川祐希選手がトルコリーグの強豪、ジラートに移籍することが発表されました。\n",
+    "markedBody": "30歳の石川選手は的確にコースを打ち抜くスパイクや高い守備力が持ち味で、日本代表のキャプテンとしてオリンピックに東京大会とパリ大会の2大会連続で出場し、いずれもベスト8進出に貢献しました。\n\nおととしからの2シーズンはイタリア1部リーグの強豪、ペルージャでプレーしていました。\n\n石川選手が移籍するジラートは今シーズン、トルコリーグで優勝し、欧州チャンピオンズリーグでも3位に入った強豪チームです。\n\n石川選手は「トルコリーグでのプレーは初めてで新しい経験しかありません。その新しい経験が必ず僕を成長させてくれると確信しています。ジラートでもサポーターやファンの皆さんに応援してもらえる選手になれるようプレーしていきたい」とコメントしています。\n",
+    "trimmedLead": "バレーボール男子日本代表のキャプテン、石川祐希選手がトルコリーグの強豪、ジラートに移籍することが発表されました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015142501000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015142501000",
+  "video": [],
+  "citation": [
+    {
+      "name": "バレーボール日本代表 高橋藍がポーランドの強豪に移籍発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015135551000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015135551_2605292149_0529215917_01_02.jpg",
+      "datePublished": "2026-05-29T21:59:17+09:00"
+    },
+    {
+      "name": "カブス 今永6失点 鈴木代打でヒット チームはサヨナラ勝ち",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015142011000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260605/K10015142011_2606051445_0605150956_01_02.jpg",
+      "datePublished": "2026-06-05T15:09:55+09:00"
+    },
+    {
+      "name": "ブルージェイズ 岡本和真 2安打 チームは勝ち 連敗を4で止める",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015142141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260605/K10015142141_2606051534_0605154150_01_02.jpg",
+      "datePublished": "2026-06-05T15:41:49+09:00"
+    },
+    {
+      "name": "サッカーW杯へ強化試合 スウェーデンがギリシャと引き分け",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015142191000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260605/K10015142191_2606051630_0605163135_01_02.jpg",
+      "datePublished": "2026-06-05T16:31:34+09:00"
+    },
+    {
+      "name": "ゴルフ全米女子オープン開幕 渋野日向子が3位につけ好スタート",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015141961000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260605/K10015141961_2606051354_0605140541_01_02.jpg",
+      "datePublished": "2026-06-05T14:05:40+09:00"
+    },
+    {
+      "name": "イチローさん マリナーズOBによるホームラン競争出場へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015141771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260605/K10015141771_2606051127_0605114813_01_02.jpg",
+      "datePublished": "2026-06-05T11:48:12+09:00"
+    },
+    {
+      "name": "高校野球 センバツ期間中のひぼう中傷投稿700件以上確認",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015142431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260605/K10015142431_2606051932_0605203702_01_02.jpg",
+      "datePublished": "2026-06-05T20:37:01+09:00"
+    },
+    {
+      "name": "決勝は最安値で100万円超？ “高すぎる”W杯にアメリカで物議",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015140841000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260604/K10015140841_2606041651_0604182736_01_02.jpg",
+      "datePublished": "2026-06-04T18:27:35+09:00"
+    },
+    {
+      "name": "【特集サイト】FIFAワールドカップ2026 最新ニュース",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002444",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31347758.jpg"
+    },
+    {
+      "name": "FIFAワールドカップ2026【NHK特設サイト】",
+      "url": "https://nhk.jp/fifawc?cid=wc26-newsweb-awayomi",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31365091.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

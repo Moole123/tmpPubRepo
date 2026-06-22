@@ -1,0 +1,149 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015125791000",
+  "dataSourceId": "na",
+  "name": "東京 奥多摩町 山中に遺体 クマに襲われた可能性含め調べ",
+  "headline": "東京 奥多摩町 山中に遺体 クマに襲われた可能性含め調べ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015125791000",
+    "playlistId": "news-nwa-society-nationwide-20260519",
+    "newsarticleName": "東京 奥多摩町 山中に遺体 クマに襲われた可能性含め調べ",
+    "playlistName": "5月19日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "19日午後、東京 奥多摩町の山中で遺体の一部が見つかりました。周辺には大型動物のものとみられる足跡があったということで、警視庁は、身元の確認を進めるとともに、山岳事故やクマに襲われるなどして亡くなった",
+  "dateModified": "2026-05-19T18:56:26+09:00",
+  "datePublished": "2026-05-19T18:56:26+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260519/K10015125791_2605191853_0519185627_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260519/K10015125791_2605191853_0519185627_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002515",
+      "name": "クマ被害",
+      "display": true
+    },
+    {
+      "id": "0002213",
+      "name": "東京都",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "19日午後、東京 奥多摩町の山中で遺体の一部が見つかりました。周辺には大型動物のものとみられる足跡があったということで、警視庁は、身元の確認を進めるとともに、山岳事故やクマに襲われるなどして亡くなった",
+  "articleBody": "19日午後、東京 奥多摩町の山中で遺体の一部が見つかりました。周辺には大型動物のものとみられる足跡があったということで、警視庁は、身元の確認を進めるとともに、山岳事故やクマに襲われるなどして亡くなった可能性もあるとみて詳しく調べています。\n\n\n警視庁によりますと、19日午後1時ごろ、東京 奥多摩町日原の登山道から100メートル余りの崖下で、性別や年齢のわからない遺体の一部が見つかりました。\n\n5月14日に休日で登山に訪れていた警察官が見つけ、警視庁が19日朝から捜索を行っていたということです。\n\n遺体の周辺には、大型動物のものとみられる足跡やふんがあったということです。\n\n警視庁は、身元の確認を進めるとともに、山岳事故やクマに襲われるなどして亡くなった可能性もあるとみて詳しく調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "19日午後、東京 奥多摩町の山中で遺体の一部が見つかりました。周辺には大型動物のものとみられる足跡があったということで、警視庁は、身元の確認を進めるとともに、山岳事故やクマに襲われるなどして亡くなった可能性もあるとみて詳しく調べています。\n",
+    "markedBody": "警視庁によりますと、19日午後1時ごろ、東京 奥多摩町日原の登山道から100メートル余りの崖下で、性別や年齢のわからない遺体の一部が見つかりました。\n\n5月14日に休日で登山に訪れていた警察官が見つけ、警視庁が19日朝から捜索を行っていたということです。\n\n遺体の周辺には、大型動物のものとみられる足跡やふんがあったということです。\n\n警視庁は、身元の確認を進めるとともに、山岳事故やクマに襲われるなどして亡くなった可能性もあるとみて詳しく調べています。\n",
+    "trimmedLead": "19日午後、東京 奥多摩町の山中で遺体の一部が見つかりました。周辺には大型動物のものとみられる足跡があったということで、警視庁は、身元の確認を進めるとともに、山岳事故やクマに襲われるなどして亡くなった可能性もあるとみて詳しく調べています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015125791000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015125791000",
+  "video": [],
+  "citation": [
+    {
+      "name": "東京 八王子 親子とみられるクマ2頭出没 市が注意呼びかけ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015124701000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260518/K10015124701_2605181633_0518164623_01_02.jpg",
+      "datePublished": "2026-05-18T16:46:22+09:00"
+    },
+    {
+      "name": "新潟 南魚沼 田んぼでクマに体当たりされ70代男性けが",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015125421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260519/K10015125421_2605191315_0519135548_01_02.jpg",
+      "datePublished": "2026-05-19T13:55:48+09:00"
+    },
+    {
+      "name": "「クマ被害」ニュース 特集サイト",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002515",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30409129.jpg"
+    },
+    {
+      "name": "兵庫 たつの 住宅で親子の女性2人血を流し死亡 殺害か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015125711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260519/K10015125711_2605191912_0519191535_01_03.jpg",
+      "datePublished": "2026-05-19T19:15:34+09:00"
+    },
+    {
+      "name": "会議中に部下を刃物で切りつけたか 50代上司を逮捕 警視庁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015125721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260519/K10015125721_2605191749_0519181746_01_02.jpg",
+      "datePublished": "2026-05-19T18:17:45+09:00"
+    },
+    {
+      "name": "北海道新幹線の線路敷設で談合疑い 公取委が立ち入り検査",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015125501000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260519/K10015125501_2605191431_0519152036_01_02.jpg",
+      "datePublished": "2026-05-19T17:43:47+09:00"
+    },
+    {
+      "name": "栃木強盗殺人事件 高校生ら計画どおり進まず ちりぢりに逃走か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015125371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260519/K10015125371_2605191220_0519124334_01_03.jpg",
+      "datePublished": "2026-05-19T12:43:33+09:00"
+    },
+    {
+      "name": "日韓首脳 エネルギー協力立ち上げで一致 具体的な行動を検討へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015125201000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260519/K10015125201_2605191813_0519182133_01_02.jpg",
+      "datePublished": "2026-05-19T18:35:14+09:00"
+    },
+    {
+      "name": "日清オイリオ 業務用油の一部でナフサ由来の容器を一斗缶に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015125701000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260519/K10015125701_2605191742_0519182239_01_02.jpg",
+      "datePublished": "2026-05-19T18:22:39+09:00"
+    },
+    {
+      "name": "高市首相 中傷動画に関与発言の男性と「会ったことない」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015125381000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260519/K10015125381_2605191206_0519123918_01_02.jpg",
+      "datePublished": "2026-05-19T12:39:17+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

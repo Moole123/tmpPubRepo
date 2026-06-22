@@ -1,0 +1,151 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015072471000",
+  "dataSourceId": "na",
+  "name": "JR大阪駅近くの工事現場 下水道の管が地上部分にせり出したか",
+  "headline": "JR大阪駅近くの工事現場 下水道の管が地上部分にせり出したか",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015072471000",
+    "playlistId": "news-nwa-society-nationwide-20260311",
+    "newsarticleName": "JR大阪駅近くの工事現場 下水道の管が地上部分にせり出したか",
+    "playlistName": "3月11日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "警察によりますと、11日午前7時前、JR大阪駅近くにある国道の工事現場で「コンクリートが上から落ちてきている」と110番通報がありました。警察が詳しく調べたところ、地中にあった直径が数メートルほどの下",
+  "dateModified": "2026-03-11T09:58:32+09:00",
+  "datePublished": "2026-03-11T09:58:32+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260311/K10015072471_2603110926_0311095833_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260311/K10015072471_2603110926_0311095833_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002227",
+      "name": "大阪府",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "警察によりますと、11日午前7時前、JR大阪駅近くにある国道の工事現場で「コンクリートが上から落ちてきている」と110番通報がありました。警察が詳しく調べたところ、地中にあった直径が数メートルほどの下",
+  "articleBody": "警察によりますと、11日午前7時前、JR大阪駅近くにある国道の工事現場で「コンクリートが上から落ちてきている」と110番通報がありました。警察が詳しく調べたところ、地中にあった直径が数メートルほどの下水道の管が、地上部分にせり出してきたとみられるということです。これまでのところ、けが人はいないということです。現在、現場付近の国道などが通行止めになっていて、大阪市の担当部署が詳しい状況や原因を調べています。\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "警察によりますと、11日午前7時前、JR大阪駅近くにある国道の工事現場で「コンクリートが上から落ちてきている」と110番通報がありました。警察が詳しく調べたところ、地中にあった直径が数メートルほどの下水道の管が、地上部分にせり出してきたとみられるということです。これまでのところ、けが人はいないということです。現在、現場付近の国道などが通行止めになっていて、大阪市の担当部署が詳しい状況や原因を調べています。\n",
+    "markedBody": "```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"001\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\r\n<div class=\"fs-wrap\">\r\n  <h2 class=\"freespace-title\">【ライブ配信中】</h2>\r\n  <div class=\"video-player-fixed\">\r\n    <iframe src=\"https://news.web.nhk/n-data/conf/realtime/movie/player_rt0012612_02_v3.html\" allowfullscreen=\"allowfullscreen\"></iframe>\r\n  </div>\r\n</div>\n</div>\n```\n",
+    "noHtmlMarkedLead": "警察によりますと、11日午前7時前、JR大阪駅近くにある国道の工事現場で「コンクリートが上から落ちてきている」と110番通報がありました。警察が詳しく調べたところ、地中にあった直径が数メートルほどの下水道の管が、地上部分にせり出してきたとみられるということです。これまでのところ、けが人はいないということです。現在、現場付近の国道などが通行止めになっていて、大阪市の担当部署が詳しい状況や原因を調べています。\n",
+    "trimmedLead": "警察によりますと、11日午前7時前、JR大阪駅近くにある国道の工事現場で「コンクリートが上から落ちてきている」と110番通報がありました。警察が詳しく調べたところ、地中にあった直径が数メートルほどの下水道の管が、地上部分にせり出してきたとみられるということです。これまでのところ、けが人はいないということです。現在、現場付近の国道などが通行止めになっていて、大阪市の担当部署が詳しい状況や原因を調べています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015072471000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015072471000",
+  "video": [],
+  "citation": [
+    {
+      "name": "東日本大震災から15年 被災者の暮らし 継続的な支援が課題に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015071711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260311/K10015071711_2603101622_0311043656_01_02.jpg",
+      "datePublished": "2026-03-11T04:36:55+09:00"
+    },
+    {
+      "name": "イランがホルムズ海峡に機雷を敷設か 米報道",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015072361000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260311/K10015072361_2603110537_0311054104_01_02.jpg",
+      "datePublished": "2026-03-11T07:48:10+09:00"
+    },
+    {
+      "name": "トランプ大統領顧問 “戦争撤退の計画を示すよう促す” 報道",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015072311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260311/K10015072311_2603110416_0311052422_01_02.jpg",
+      "datePublished": "2026-03-11T06:13:52+09:00"
+    },
+    {
+      "name": "新年度予算案 衆議院通過めぐり与野党の駆け引き続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015072121000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260311/K10015072121_2603110111_0311014116_01_02.jpg",
+      "datePublished": "2026-03-11T01:41:15+09:00"
+    },
+    {
+      "name": "G7エネルギー担当相会議 “石油備蓄の協調放出含め用意ある”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015072271000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260310/K10015072271_2603102340_0310234653_01_03.jpg",
+      "datePublished": "2026-03-11T07:14:00+09:00"
+    },
+    {
+      "name": "高市首相 米駐日大使と面会 日米首脳会談めぐり意見交換",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015071971000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260310/K10015071971_2603101840_0310184643_01_02.jpg",
+      "datePublished": "2026-03-10T20:33:09+09:00"
+    },
+    {
+      "name": "津波からの避難 徒歩が難しい人は… 車避難の課題どう向き合う",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015070841000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260310/K10015070841_2603091939_0310112635_01_02.jpg",
+      "datePublished": "2026-03-10T11:26:34+09:00"
+    },
+    {
+      "name": "吉田元所長 最後の“証言ビデオ”が語る危機の実態",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015067901000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260309/K10015067901_2603091547_0309180035_01_02.jpg",
+      "datePublished": "2026-03-09T18:00:34+09:00"
+    },
+    {
+      "name": "3.11 あの日を忘れない 東日本大震災・原発事故15年特集サイト",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0000019",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30907482.jpg"
+    },
+    {
+      "name": "身近な人が行方不明“せめて遺骨見つかって”【震災15年調査】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015070701000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260311/K10015070701_2603101443_0311055118_01_02.jpg",
+      "datePublished": "2026-03-11T05:51:17+09:00"
+    },
+    {
+      "name": "“コミュニティー存続危機” 震災15年 地域を守るヒントとは？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015070621000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260311/K10015070621_2603101754_0311084324_01_02.jpg",
+      "datePublished": "2026-03-11T08:43:23+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": true
+  }
+}

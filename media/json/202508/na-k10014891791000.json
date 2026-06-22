@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014891791000",
+  "dataSourceId": "na",
+  "name": "中国 7月の新車販売台数 前年同月比14.7％増 EVなどの販売好調",
+  "headline": "中国 7月の新車販売台数 前年同月比14.7％増 EVなどの販売好調",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014891791000",
+    "playlistId": "news-nwa-international-nationwide-20250811",
+    "newsarticleName": "中国 7月の新車販売台数 前年同月比14.7％増 EVなどの販売好調",
+    "playlistName": "8月11日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "中国の7月の輸出を含めた新車の販売台数は、EV＝電気自動車などの「新エネルギー車」の販売が好調だったことなどから、去年の同じ月と比べて14％余り増えました。ただ、アメリカと中国による貿易協議の先行きは",
+  "dateModified": "2025-08-11T17:20:34+09:00",
+  "datePublished": "2025-08-11T17:20:34+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250811/K10014891791_2508111641_0811172013_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250811/K10014891791_2508111641_0811172013_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "中国の7月の輸出を含めた新車の販売台数は、EV＝電気自動車などの「新エネルギー車」の販売が好調だったことなどから、去年の同じ月と比べて14％余り増えました。ただ、アメリカと中国による貿易協議の先行きは",
+  "articleBody": "中国の7月の輸出を含めた新車の販売台数は、EV＝電気自動車などの「新エネルギー車」の販売が好調だったことなどから、去年の同じ月と比べて14％余り増えました。ただ、アメリカと中国による貿易協議の先行きは依然として不透明で、今後、販売動向にどう影響するかが焦点となります。\n\n\n中国の自動車メーカーなどでつくる「自動車工業協会」によりますと、7月の新車の販売台数は輸出を含めて259万3000台で、去年の同じ月と比べて、14.7％増えました。\n\nこれは、政府が推し進める自動車の買い替え促進策の効果で、EVなどの「新エネルギー車」の販売が去年の同じ月と比べて27.4％増えたためで、販売台数に占める新エネルギー車の割合は、48.7％となりました。\n\nまた、全体の輸出台数は57万5000台となり、去年の同じ月と比べて、22.6％増えました。\n\nただ、中国の国内市場では、値下げ競争の激化によって自動車メーカーの経営環境が厳しさを増しているほか、アメリカと中国による貿易協議の先行きは依然として不透明で、今後、販売動向にどう影響するかが焦点となります。\n",
+  "detailedArticleBody": {
+    "markedLead": "中国の7月の輸出を含めた新車の販売台数は、EV＝電気自動車などの「新エネルギー車」の販売が好調だったことなどから、去年の同じ月と比べて14％余り増えました。ただ、アメリカと中国による貿易協議の先行きは依然として不透明で、今後、販売動向にどう影響するかが焦点となります。\n",
+    "markedBody": "中国の自動車メーカーなどでつくる「自動車工業協会」によりますと、7月の新車の販売台数は輸出を含めて259万3000台で、去年の同じ月と比べて、14.7％増えました。\n\nこれは、政府が推し進める自動車の買い替え促進策の効果で、EVなどの「新エネルギー車」の販売が去年の同じ月と比べて27.4％増えたためで、販売台数に占める新エネルギー車の割合は、48.7％となりました。\n\nまた、全体の輸出台数は57万5000台となり、去年の同じ月と比べて、22.6％増えました。\n\nただ、中国の国内市場では、値下げ競争の激化によって自動車メーカーの経営環境が厳しさを増しているほか、アメリカと中国による貿易協議の先行きは依然として不透明で、今後、販売動向にどう影響するかが焦点となります。\n",
+    "trimmedLead": "中国の7月の輸出を含めた新車の販売台数は、EV＝電気自動車などの「新エネルギー車」の販売が好調だったことなどから、去年の同じ月と比べて14％余り増えました。ただ、アメリカと中国による貿易協議の先行きは依然として不透明で、今後、販売動向にどう影響するかが焦点となります。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014891791000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014891791000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

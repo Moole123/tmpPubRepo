@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015005031000",
+  "dataSourceId": "na",
+  "name": "高市首相動静 2025年12月15日",
+  "headline": "高市首相動静 2025年12月15日",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015005031000",
+    "playlistId": "news-nwa-politics-nationwide-20251216",
+    "newsarticleName": "高市首相動静 2025年12月15日",
+    "playlistName": "12月16日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "（高市首相動静 2025年12月15日）\n\n\n08:48 東京・赤坂の衆議院議員宿舎発\n08:52 国会着\n08:54 参議院第1委員会室入る\n09:00 参議院予算委員会開会\n11:41 参議院予算",
+  "dateModified": "2025-12-16T09:22:24+09:00",
+  "datePublished": "2025-12-16T09:22:24+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251216/K10015005031_2512160912_1216092225_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251216/K10015005031_2512160912_1216092225_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "（高市首相動静 2025年12月15日）\n\n\n08:48 東京・赤坂の衆議院議員宿舎発\n08:52 国会着\n08:54 参議院第1委員会室入る\n09:00 参議院予算委員会開会\n11:41 参議院予算",
+  "articleBody": "（高市首相動静 2025年12月15日）\n\n\n08:48 東京・赤坂の衆議院議員宿舎発\n08:52 国会着\n08:54 参議院第1委員会室入る\n09:00 参議院予算委員会開会\n11:41 参議院予算委員会休憩\n11:42 同室出る\n11:45 国会発\n11:47 官邸着\n12:47 官邸発\n12:52 国会着\n12:54 参議院第1委員会室入る\n13:00 参議院予算委員会再開\n15:20 参議院予算委員会散会\n15:21 同室出る\n15:23 国会発\n15:25 官邸着\n16:55 官邸発\n16:56 国会着\n16:58 自民党総裁室入る\n17:01 党役員会（～17:10）\n17:19 同室出る\n17:20 国会発\n17:22 官邸着\n17:35 日本自動車会議所の豊田章男会長と面会（～18:19）\n18:57 官邸発\n19:02 東京・赤坂の衆議院議員宿舎着\n",
+  "detailedArticleBody": {
+    "markedLead": "（高市首相動静 2025年12月15日）\n",
+    "markedBody": "08:48 東京・赤坂の衆議院議員宿舎発\\\n08:52 国会着\\\n08:54 参議院第1委員会室入る\\\n09:00 参議院予算委員会開会\\\n11:41 参議院予算委員会休憩\\\n11:42 同室出る\\\n11:45 国会発\\\n11:47 官邸着\\\n12:47 官邸発\\\n12:52 国会着\\\n12:54 参議院第1委員会室入る\\\n13:00 参議院予算委員会再開\\\n15:20 参議院予算委員会散会\\\n15:21 同室出る\\\n15:23 国会発\\\n15:25 官邸着\\\n16:55 官邸発\\\n16:56 国会着\\\n16:58 自民党総裁室入る\\\n17:01 党役員会（～17:10）\\\n17:19 同室出る\\\n17:20 国会発\\\n17:22 官邸着\\\n17:35 日本自動車会議所の豊田章男会長と面会（～18:19）\\\n18:57 官邸発\\\n19:02 東京・赤坂の衆議院議員宿舎着\n",
+    "trimmedLead": "（高市首相動静 2025年12月15日）\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015005031000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015005031000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015048051000",
+  "dataSourceId": "na",
+  "name": "NYダウ 小幅値上がりで最高値更新 IT大手などに買い注文",
+  "headline": "NYダウ 小幅値上がりで最高値更新 IT大手などに買い注文",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015048051000",
+    "playlistId": "news-nwa-international-nationwide-20260210",
+    "newsarticleName": "NYダウ 小幅値上がりで最高値更新 IT大手などに買い注文",
+    "playlistName": "2月10日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "9日のニューヨーク株式市場ではIT大手など一部の銘柄に買い注文が集まり、ダウ平均株価は先週末から小幅に値上がりして最高値を更新しました。\n\n\n生成AIをめぐる開発競争が激しさを増すなか、欧米のメディア",
+  "dateModified": "2026-02-10T06:54:31+09:00",
+  "datePublished": "2026-02-10T06:54:31+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260210/K10015048051_2602100650_0210065432_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260210/K10015048051_2602100650_0210065432_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0002370",
+      "name": "ニューヨーク",
+      "display": true
+    },
+    {
+      "id": "0002423",
+      "name": "金融",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "9日のニューヨーク株式市場ではIT大手など一部の銘柄に買い注文が集まり、ダウ平均株価は先週末から小幅に値上がりして最高値を更新しました。\n\n\n生成AIをめぐる開発競争が激しさを増すなか、欧米のメディア",
+  "articleBody": "9日のニューヨーク株式市場ではIT大手など一部の銘柄に買い注文が集まり、ダウ平均株価は先週末から小幅に値上がりして最高値を更新しました。\n\n\n生成AIをめぐる開発競争が激しさを増すなか、欧米のメディアは9日、「ChatGPT」を手がける「オープンAI」が再び勢いを増しているなどと報じました。\n\nこれを受けてニューヨーク株式市場ではオープンAIとの関係が深いIT大手「マイクロソフト」や、半導体大手「エヌビディア」などの銘柄に買い注文が集まり、ダウ平均株価の終値は先週末と比べて20ドル20セント高い、5万135ドル87セントでした。\n\n市場関係者は「株価が最高値圏にあるなかで、ハイテク関連以外の銘柄では利益を確定するための売り注文も出やすく、全体的に上昇幅は限定的だった」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "9日のニューヨーク株式市場ではIT大手など一部の銘柄に買い注文が集まり、ダウ平均株価は先週末から小幅に値上がりして最高値を更新しました。\n",
+    "markedBody": "生成AIをめぐる開発競争が激しさを増すなか、欧米のメディアは9日、「ChatGPT」を手がける「オープンAI」が再び勢いを増しているなどと報じました。\n\nこれを受けてニューヨーク株式市場ではオープンAIとの関係が深いIT大手「マイクロソフト」や、半導体大手「エヌビディア」などの銘柄に買い注文が集まり、ダウ平均株価の終値は先週末と比べて20ドル20セント高い、5万135ドル87セントでした。\n\n市場関係者は「株価が最高値圏にあるなかで、ハイテク関連以外の銘柄では利益を確定するための売り注文も出やすく、全体的に上昇幅は限定的だった」と話しています。\n",
+    "trimmedLead": "9日のニューヨーク株式市場ではIT大手など一部の銘柄に買い注文が集まり、ダウ平均株価は先週末から小幅に値上がりして最高値を更新しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015048051000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015048051000",
+  "video": [],
+  "citation": [
+    {
+      "name": "円相場 一時1ドル＝155円台半ばまで値上がり",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015047991000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260210/K10015047991_2602100433_0210043553_01_02.jpg",
+      "datePublished": "2026-02-10T04:35:52+09:00"
+    },
+    {
+      "name": "経団連会長 “選挙結果「歓迎」政策本位の政治遂行を”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015047731000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260209/K10015047731_2602091831_0209193205_01_02.jpg",
+      "datePublished": "2026-02-09T19:32:05+09:00"
+    },
+    {
+      "name": "株価 終値 初の5万6000円台で最高値更新 長期金利は上昇",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015047251000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260209/K10015047251_2602090935_0209094000_01_02.jpg",
+      "datePublished": "2026-02-09T18:13:10+09:00"
+    },
+    {
+      "name": "北朝鮮 キム総書記 “新たな5か年計画 軍の役割高まる”と強調",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015047431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260209/K10015047431_2602091151_0209121956_01_02.jpg",
+      "datePublished": "2026-02-09T12:19:55+09:00"
+    },
+    {
+      "name": "香港「リンゴ日報」創業者に懲役20年の判決",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015047391000",
+      "thumbnailUrl": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png",
+      "datePublished": "2026-02-09T22:24:50+09:00"
+    },
+    {
+      "name": "ウクライナ ロシアの大規模攻撃 エネルギー関連施設などが被害",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015046701000",
+      "thumbnailUrl": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png",
+      "datePublished": "2026-02-09T13:06:32+09:00"
+    },
+    {
+      "name": "イスラエル ネタニヤフ首相 米トランプ大統領と首脳会談へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015046171000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260208/K10015046171_2602080942_0208103545_01_02.jpg",
+      "datePublished": "2026-02-08T09:45:01+09:00"
+    },
+    {
+      "name": "衆議院選挙 海外の反応",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015046981000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260209/K10015046981_2602090124_0209015019_01_02.jpg",
+      "datePublished": "2026-02-09T21:05:29+09:00"
+    },
+    {
+      "name": "ゼレンスキー大統領 欧州10か所に無人機輸出拠点設置の考え",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015047121000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260209/K10015047121_2602090516_0209053734_01_02.jpg",
+      "datePublished": "2026-02-09T05:37:33+09:00"
+    },
+    {
+      "name": "ワシントン・ポスト紙CEOが辞任 従業員を大量解雇で社内反発か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015046311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260208/K10015046311_2602081305_0208133251_01_02.jpg",
+      "datePublished": "2026-02-08T13:32:50+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

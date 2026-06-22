@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015032761000",
+  "dataSourceId": "na",
+  "name": "みらい “子どもの数にあわせ税金安くする「子育て減税」を”",
+  "headline": "みらい “子どもの数にあわせ税金安くする「子育て減税」を”",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015032761000",
+    "playlistId": "news-nwa-politics-nationwide-20260122",
+    "newsarticleName": "みらい “子どもの数にあわせ税金安くする「子育て減税」を”",
+    "playlistName": "1月22日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "チームみらいは1月22日、衆議院選挙の公約を発表し、子どもの数にあわせて税金を安くする「子育て減税」の導入などを盛り込んでいます。\n\n\n公約では、未来に向けた成長投資を掲げ、子どもの数にあわせて親が納",
+  "dateModified": "2026-01-22T17:02:30+09:00",
+  "datePublished": "2026-01-22T17:02:30+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260122/K10015032761_2601221535_0122170231_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260122/K10015032761_2601221535_0122170231_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "チームみらいは1月22日、衆議院選挙の公約を発表し、子どもの数にあわせて税金を安くする「子育て減税」の導入などを盛り込んでいます。\n\n\n公約では、未来に向けた成長投資を掲げ、子どもの数にあわせて親が納",
+  "articleBody": "チームみらいは1月22日、衆議院選挙の公約を発表し、子どもの数にあわせて税金を安くする「子育て減税」の導入などを盛り込んでいます。\n\n\n公約では、未来に向けた成長投資を掲げ、子どもの数にあわせて親が納める税金を安くする「子育て減税」を導入するほか、AIやロボットなど新たな産業に大胆に投資し、経済成長を実現するとしています。\n\nまた、働く人の負担を軽くするため、社会保険料を引き下げて手取りを増やす一方、社会を支える土台として消費税の税率は今のまま守るとしています。\n\n高額療養費制度は、負担上限額を引き上げずに維持するとしています。\n\nさらに、行政サービスや給付金を自動で届ける仕組みの構築や、政治資金の透明化も盛り込んでいます。\n\n安野党首は記者会見で「未来と今、テクノロジーに主眼を置いた政策を進め、未来は明るいと信じられる国をつくりたい」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "チームみらいは1月22日、衆議院選挙の公約を発表し、子どもの数にあわせて税金を安くする「子育て減税」の導入などを盛り込んでいます。\n",
+    "markedBody": "公約では、未来に向けた成長投資を掲げ、子どもの数にあわせて親が納める税金を安くする「子育て減税」を導入するほか、AIやロボットなど新たな産業に大胆に投資し、経済成長を実現するとしています。\n\nまた、働く人の負担を軽くするため、社会保険料を引き下げて手取りを増やす一方、社会を支える土台として消費税の税率は今のまま守るとしています。\n\n高額療養費制度は、負担上限額を引き上げずに維持するとしています。\n\nさらに、行政サービスや給付金を自動で届ける仕組みの構築や、政治資金の透明化も盛り込んでいます。\n\n安野党首は記者会見で「未来と今、テクノロジーに主眼を置いた政策を進め、未来は明るいと信じられる国をつくりたい」と述べました。\n",
+    "trimmedLead": "チームみらいは1月22日、衆議院選挙の公約を発表し、子どもの数にあわせて税金を安くする「子育て減税」の導入などを盛り込んでいます。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015032761000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015032761000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

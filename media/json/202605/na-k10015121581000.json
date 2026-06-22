@@ -1,0 +1,149 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015121581000",
+  "dataSourceId": "na",
+  "name": "クマが寺に出没 訪れる人に注意喚起 青森 八戸",
+  "headline": "クマが寺に出没 訪れる人に注意喚起 青森 八戸",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015121581000",
+    "playlistId": "news-nwa-society-nationwide-20260514",
+    "newsarticleName": "クマが寺に出没 訪れる人に注意喚起 青森 八戸",
+    "playlistName": "5月14日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "今月上旬、青森県八戸市の寺でクマが目撃され、寺は、墓参りに訪れる人などに注意を呼びかけています。\n\n\n八戸市市川町にある願成寺によりますと、今月5日午後5時ごろ、墓参りに訪れた家族連れが境内にいるクマ",
+  "dateModified": "2026-05-14T15:00:22+09:00",
+  "datePublished": "2026-05-14T15:00:22+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260514/K10015121581_2605141451_0514150022_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260514/K10015121581_2605141451_0514150022_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002515",
+      "name": "クマ被害",
+      "display": true
+    },
+    {
+      "id": "0002202",
+      "name": "青森県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "今月上旬、青森県八戸市の寺でクマが目撃され、寺は、墓参りに訪れる人などに注意を呼びかけています。\n\n\n八戸市市川町にある願成寺によりますと、今月5日午後5時ごろ、墓参りに訪れた家族連れが境内にいるクマ",
+  "articleBody": "今月上旬、青森県八戸市の寺でクマが目撃され、寺は、墓参りに訪れる人などに注意を呼びかけています。\n\n\n八戸市市川町にある願成寺によりますと、今月5日午後5時ごろ、墓参りに訪れた家族連れが境内にいるクマを目撃しました。\n\nクマは、寺が設置した複数の防犯カメラに写っていて、境内を歩く様子や、田んぼのほうに走っていく様子が記録されていました。\n\nけが人はいませんでした。\n\n寺は住宅や田畑が広がる地域にあり、これまで境内でのクマの目撃はなかったということです。\n\n寺には霊園が併設されていて、地元の人が墓参りに訪れるため、寺は、掲示板にチラシを貼るなどして、注意を呼びかけています。\n\n住職の妻の斉藤陽子さんは「休日にはお子さんを連れて墓参りに来る人も多いですし、本当に驚きました。クマが出たことをまだ知らない人も多いので、注意の呼びかけの方法を考えたい」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "今月上旬、青森県八戸市の寺でクマが目撃され、寺は、墓参りに訪れる人などに注意を呼びかけています。\n",
+    "markedBody": "八戸市市川町にある願成寺によりますと、今月5日午後5時ごろ、墓参りに訪れた家族連れが境内にいるクマを目撃しました。\n\nクマは、寺が設置した複数の防犯カメラに写っていて、境内を歩く様子や、田んぼのほうに走っていく様子が記録されていました。\n\nけが人はいませんでした。\n\n寺は住宅や田畑が広がる地域にあり、これまで境内でのクマの目撃はなかったということです。\n\n![](https://news.web.nhk/news/html/20260514/K10015121581_2605141445_0514150022_02_03.jpg)\n\n寺には霊園が併設されていて、地元の人が墓参りに訪れるため、寺は、掲示板にチラシを貼るなどして、注意を呼びかけています。\n\n住職の妻の斉藤陽子さんは「休日にはお子さんを連れて墓参りに来る人も多いですし、本当に驚きました。クマが出たことをまだ知らない人も多いので、注意の呼びかけの方法を考えたい」と話していました。\n",
+    "trimmedLead": "今月上旬、青森県八戸市の寺でクマが目撃され、寺は、墓参りに訪れる人などに注意を呼びかけています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015121581000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015121581000",
+  "video": [],
+  "citation": [
+    {
+      "name": "岩手大学構内にクマ 警察や市が警戒 盛岡",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015121351000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260514/K10015121351_2605141221_0514122946_01_02.jpg",
+      "datePublished": "2026-05-14T12:29:45+09:00"
+    },
+    {
+      "name": "「クマ被害」ニュース 特集サイト",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002515",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30409129.jpg"
+    },
+    {
+      "name": "東京 江戸川区 観光バスが電柱2本に衝突 付近は停電",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015121271000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260514/K10015121271_2605141139_0514114542_01_03.jpg",
+      "datePublished": "2026-05-14T11:57:01+09:00"
+    },
+    {
+      "name": "強盗に3人殴られ1人死亡 関与か男1人を確保 栃木 上三川町",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015121381000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260514/K10015121381_2605141305_0514134709_01_02.jpg",
+      "datePublished": "2026-05-14T15:22:05+09:00"
+    },
+    {
+      "name": "【速報中】トランプ大統領と習主席 米中首脳会談が終わる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015121151000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260514/K10015121151_2605141215_0514130225_01_02.jpg",
+      "datePublished": "2026-05-14T15:11:18+09:00"
+    },
+    {
+      "name": "【解説】米中首脳会談 冒頭発言や双方のねらいをどう見る",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015121361000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260514/K10015121361_2605141225_0514131230_01_02.jpg",
+      "datePublished": "2026-05-14T15:31:06+09:00"
+    },
+    {
+      "name": "ENEOS管理の原油タンカーがホルムズ海峡通過の報道",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015121201000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260514/K10015121201_2605141037_0514104701_01_02.jpg",
+      "datePublished": "2026-05-14T14:41:22+09:00"
+    },
+    {
+      "name": "磐越道部活バス事故 警察がバスの車体を検証 原因を解明へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015121331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260514/K10015121331_2605141209_0514122746_01_02.jpg",
+      "datePublished": "2026-05-14T12:27:45+09:00"
+    },
+    {
+      "name": "自転車「青切符」制度 開始1か月で2000件超交付 警察庁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015121391000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260514/K10015121391_2605141222_0514131051_01_02.jpg",
+      "datePublished": "2026-05-14T13:36:56+09:00"
+    },
+    {
+      "name": "物価高の“なぜ” 専門家に聞きました",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119451000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015119451_2605131200_0513201115_01_02.jpg",
+      "datePublished": "2026-05-13T20:11:14+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

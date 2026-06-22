@@ -1,0 +1,149 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015110541000",
+  "dataSourceId": "na",
+  "name": "岩手 紫波町 発見の遺体は不明の女性と確認 クマに襲われ死亡",
+  "headline": "岩手 紫波町 発見の遺体は不明の女性と確認 クマに襲われ死亡",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015110541000",
+    "playlistId": "news-nwa-society-nationwide-20260428",
+    "newsarticleName": "岩手 紫波町 発見の遺体は不明の女性と確認 クマに襲われ死亡",
+    "playlistName": "4月28日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "今月21日、岩手県内陸にある紫波町の山あいで見つかった遺体について、警察が詳しく調べたところ、1人で山菜採りに出かけて、行方がわからなくなっていた盛岡市の55歳の女性と確認されました。警察によりますと",
+  "dateModified": "2026-04-28T20:59:57+09:00",
+  "datePublished": "2026-04-28T20:59:57+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260428/K10015110541_2604281944_0428205958_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260428/K10015110541_2604281944_0428205958_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002203",
+      "name": "岩手県",
+      "display": true
+    },
+    {
+      "id": "0002515",
+      "name": "クマ被害",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "今月21日、岩手県内陸にある紫波町の山あいで見つかった遺体について、警察が詳しく調べたところ、1人で山菜採りに出かけて、行方がわからなくなっていた盛岡市の55歳の女性と確認されました。警察によりますと",
+  "articleBody": "今月21日、岩手県内陸にある紫波町の山あいで見つかった遺体について、警察が詳しく調べたところ、1人で山菜採りに出かけて、行方がわからなくなっていた盛岡市の55歳の女性と確認されました。警察によりますと、遺体の状況から、女性はクマに襲われて死亡したということです。\n\n\n今月21日、紫波町の山あいで、男性警察官が猟友会のメンバーとともに行方不明になっていた人を捜索していたところ、クマと遭遇し、顔をひっかかれるなどのけがをしました。\n\nクマはその場で猟友会のメンバーに駆除されましたが、その後の捜索で、数十メートルほど離れた場所で女性の遺体が見つかりました。\n\n警察が遺体を詳しく調べたところ、1人で山菜採りに出かけて、行方がわからなくなっていた盛岡市本宮の団体職員、天沼秀子さん（55）と確認されました。\n\n警察によりますと死因は出血性ショックで、遺体の状況からクマに襲われて死亡したということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "今月21日、岩手県内陸にある紫波町の山あいで見つかった遺体について、警察が詳しく調べたところ、1人で山菜採りに出かけて、行方がわからなくなっていた盛岡市の55歳の女性と確認されました。警察によりますと、遺体の状況から、女性はクマに襲われて死亡したということです。\n",
+    "markedBody": "今月21日、紫波町の山あいで、男性警察官が猟友会のメンバーとともに行方不明になっていた人を捜索していたところ、クマと遭遇し、顔をひっかかれるなどのけがをしました。\n\nクマはその場で猟友会のメンバーに駆除されましたが、その後の捜索で、数十メートルほど離れた場所で女性の遺体が見つかりました。\n\n警察が遺体を詳しく調べたところ、1人で山菜採りに出かけて、行方がわからなくなっていた盛岡市本宮の団体職員、天沼秀子さん（55）と確認されました。\n\n警察によりますと死因は出血性ショックで、遺体の状況からクマに襲われて死亡したということです。\n",
+    "trimmedLead": "今月21日、岩手県内陸にある紫波町の山あいで見つかった遺体について、警察が詳しく調べたところ、1人で山菜採りに出かけて、行方がわからなくなっていた盛岡市の55歳の女性と確認されました。警察によりますと、遺体の状況から、女性はクマに襲われて死亡したということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015110541000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015110541000",
+  "video": [],
+  "citation": [
+    {
+      "name": "岩手 紫波町 遺体発見の前日に消防団員もクマに襲われる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105991000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015105991_2604230106_0423052034_01_02.jpg",
+      "datePublished": "2026-04-23T05:20:33+09:00"
+    },
+    {
+      "name": "岩手 紫波町 クマに襲われ警察官けが 近くに女性1人の遺体",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015104441_2604211322_0421155607_01_02.jpg",
+      "datePublished": "2026-04-21T19:24:37+09:00"
+    },
+    {
+      "name": "「クマ被害」ニュース 特集サイト",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002515",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30409129.jpg"
+    },
+    {
+      "name": "岩手 大槌町の山林火災 2日連続の雨 消火活動続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260428/K10015109691_2604281201_0428120200_01_02.jpg",
+      "datePublished": "2026-04-28T19:33:51+09:00"
+    },
+    {
+      "name": "【詳しく】日銀 利上げ見送り “物価上振れリスクに注意必要”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109901000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260428/K10015109901_2604281534_0428153652_01_03.jpg",
+      "datePublished": "2026-04-28T19:12:59+09:00"
+    },
+    {
+      "name": "新たな防災気象情報 5月28日発表開始 どう変わる？【詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260428/K10015109811_2604281629_0428172216_01_02.jpg",
+      "datePublished": "2026-04-28T17:22:15+09:00"
+    },
+    {
+      "name": "トランプ氏参加の夕食会発砲事件 大統領暗殺未遂で訴追 初出廷",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109751000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260428/K10015109751_2604280541_0428091142_01_02.jpg",
+      "datePublished": "2026-04-28T13:50:37+09:00"
+    },
+    {
+      "name": "米 イランの新提案を議論 懐疑的な見方も交渉継続か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260428/K10015109711_2604281220_0428122258_01_02.jpg",
+      "datePublished": "2026-04-28T19:05:36+09:00"
+    },
+    {
+      "name": "【ノーカット動画】りくりゅう引退会見「やりきった」プロへ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109481000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260428/K10015109481_2604281038_0428104029_01_02.jpg",
+      "datePublished": "2026-04-28T19:52:28+09:00"
+    },
+    {
+      "name": "税金のプロが教える 税の“チェックポイント”とは？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015103521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260428/K10015103521_2604201400_0428101921_01_02.jpg",
+      "datePublished": "2026-04-28T10:19:20+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

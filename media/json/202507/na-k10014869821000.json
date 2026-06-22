@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014869821000",
+  "dataSourceId": "na",
+  "name": "参議院選挙 比例代表 立民 水岡俊一氏 当選",
+  "headline": "参議院選挙 比例代表 立民 水岡俊一氏 当選",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014869821000",
+    "playlistId": "news-nwa-politics-nationwide-20250721",
+    "newsarticleName": "参議院選挙 比例代表 立民 水岡俊一氏 当選",
+    "playlistName": "7月21日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "比例代表で立憲民主党の現職、水岡俊一氏が当選しました。\n\n\n水岡氏は69歳。中学校の教員を経て、2004年の参議院選挙で兵庫選挙区に当時の民主党から立候補して初当選し、その後、野田内閣の総理大臣補佐官",
+  "dateModified": "2025-07-21T11:19:35+09:00",
+  "datePublished": "2025-07-21T11:19:35+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250721/K10014869821_2507211100_0721110102_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250721/K10014869821_2507211100_0721110102_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "比例代表で立憲民主党の現職、水岡俊一氏が当選しました。\n\n\n水岡氏は69歳。中学校の教員を経て、2004年の参議院選挙で兵庫選挙区に当時の民主党から立候補して初当選し、その後、野田内閣の総理大臣補佐官",
+  "articleBody": "比例代表で立憲民主党の現職、水岡俊一氏が当選しました。\n\n\n水岡氏は69歳。中学校の教員を経て、2004年の参議院選挙で兵庫選挙区に当時の民主党から立候補して初当選し、その後、野田内閣の総理大臣補佐官などを務めました。\n\n現在は、立憲民主党の参議院議員会長を務めています。\n\n水岡氏は、教職員関連の労働組合の支援を受けて支持を集め、4回目の当選を果たしました。\n",
+  "detailedArticleBody": {
+    "markedLead": "比例代表で立憲民主党の現職、水岡俊一氏が当選しました。\n",
+    "markedBody": "水岡氏は69歳。中学校の教員を経て、2004年の参議院選挙で兵庫選挙区に当時の民主党から立候補して初当選し、その後、野田内閣の総理大臣補佐官などを務めました。\n\n現在は、立憲民主党の参議院議員会長を務めています。\n\n水岡氏は、教職員関連の労働組合の支援を受けて支持を集め、4回目の当選を果たしました。\n",
+    "trimmedLead": "比例代表で立憲民主党の現職、水岡俊一氏が当選しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014869821000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014869821000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

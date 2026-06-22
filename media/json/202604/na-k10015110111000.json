@@ -1,0 +1,168 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015110111000",
+  "dataSourceId": "na",
+  "name": "広島 製薬会社の工場で「タンクが爆発」 作業員5人けが",
+  "headline": "広島 製薬会社の工場で「タンクが爆発」 作業員5人けが",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015110111000",
+    "playlistId": "news-nwa-society-nationwide-20260428",
+    "newsarticleName": "広島 製薬会社の工場で「タンクが爆発」 作業員5人けが",
+    "playlistName": "4月28日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "28日午前、広島県三次市にある製薬会社の工場で、「タンクが爆発した」と通報があり、警察によりますと5人の男性作業員がけがをして、病院に搬送されました。警察などが火が出た原因を調べています。\n\n\n28日",
+  "dateModified": "2026-04-28T19:09:37+09:00",
+  "datePublished": "2026-04-28T13:53:21+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260428/K10015110111_2604281350_0428135322_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260428/K10015110111_2604281350_0428135322_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002234",
+      "name": "広島県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "28日午前、広島県三次市にある製薬会社の工場で、「タンクが爆発した」と通報があり、警察によりますと5人の男性作業員がけがをして、病院に搬送されました。警察などが火が出た原因を調べています。\n\n\n28日",
+  "articleBody": "28日午前、広島県三次市にある製薬会社の工場で、「タンクが爆発した」と通報があり、警察によりますと5人の男性作業員がけがをして、病院に搬送されました。警察などが火が出た原因を調べています。\n\n\n28日午前11時半ごろ、三次市南畑敷町にある「丸善製薬」の工場で、「タンクが爆発した」と消防に通報がありました。\n\n引火性の液体が保管されていた屋外のタンク2基が炎上し、消防が消火にあたったところ、火はおよそ3時間後に消し止められました。\n\n警察によりますと、5人の男性作業員がやけどや骨折などのけがをして、病院に搬送されたということです。\n\n当時は、委託された外部の業者が2つのタンクをつなぐ配管を取り付ける作業をしていたということです。\n\n警察などが火が出た原因を調べています。\n\n「丸善製薬」はホームページ上でコメントを公表し、「関係機関と連携して原因の調査を進めています。ご心配とご迷惑をおかけし、深くおわびします」などとしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "28日午前、広島県三次市にある製薬会社の工場で、「タンクが爆発した」と通報があり、警察によりますと5人の男性作業員がけがをして、病院に搬送されました。警察などが火が出た原因を調べています。\n",
+    "markedBody": "28日午前11時半ごろ、三次市南畑敷町にある「丸善製薬」の工場で、「タンクが爆発した」と消防に通報がありました。\n\n引火性の液体が保管されていた屋外のタンク2基が炎上し、消防が消火にあたったところ、火はおよそ3時間後に消し止められました。\n\n警察によりますと、5人の男性作業員がやけどや骨折などのけがをして、病院に搬送されたということです。\n\n当時は、委託された外部の業者が2つのタンクをつなぐ配管を取り付ける作業をしていたということです。\n\n警察などが火が出た原因を調べています。\n\n「丸善製薬」はホームページ上でコメントを公表し、「関係機関と連携して原因の調査を進めています。ご心配とご迷惑をおかけし、深くおわびします」などとしています。\n",
+    "trimmedLead": "28日午前、広島県三次市にある製薬会社の工場で、「タンクが爆発した」と通報があり、警察によりますと5人の男性作業員がけがをして、病院に搬送されました。警察などが火が出た原因を調べています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015110111000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015110111000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "広島 製薬会社の工場で「タンクが爆発」 作業員5人けが",
+      "description": "28日午前、広島県三次市にある製薬会社の工場で、「タンクが爆発した」と通報があり、警察によりますと5人の男性作業員がけがをして、病院に搬送されました。警察などが火が出た原因を調べています。\n\n\n28日",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015110111_202604281416_202604281416/index.m3u8&mrposter=/news/html/20260428/K10015110111_2604281350_0428135322_01_02.jpg",
+      "duration": "PT34S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015110111_202604281416_202604281416/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260428/K10015110111_2604281350_0428135322_01_02.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "【ノーカット動画】りくりゅう引退会見「やりきった」プロへ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109481000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260428/K10015109481_2604281038_0428104029_01_02.jpg",
+      "datePublished": "2026-04-28T19:52:28+09:00"
+    },
+    {
+      "name": "JR西日本 りそなグループと資本業務提携の方向で最終調整",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260428/K10015109801_2604281100_0428120020_01_02.jpg",
+      "datePublished": "2026-04-28T13:34:36+09:00"
+    },
+    {
+      "name": "【詳しく】日銀 利上げ見送り “物価上振れリスクに注意必要”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109901000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260428/K10015109901_2604281534_0428153652_01_03.jpg",
+      "datePublished": "2026-04-28T19:12:59+09:00"
+    },
+    {
+      "name": "サンマの漁獲可能量が過去最少に 9万1000トン余り",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260428/K10015109941_2604281154_0428121545_01_02.jpg",
+      "datePublished": "2026-04-28T12:15:44+09:00"
+    },
+    {
+      "name": "岩手 大槌町の山林火災 2日連続の雨 消火活動続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260428/K10015109691_2604281201_0428120200_01_02.jpg",
+      "datePublished": "2026-04-28T19:33:51+09:00"
+    },
+    {
+      "name": "京都 男児遺体遺棄事件 父親を立ち会わせて現場の状況確認",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109911000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260428/K10015109911_2604281147_0428121117_01_02.jpg",
+      "datePublished": "2026-04-28T12:11:16+09:00"
+    },
+    {
+      "name": "トランプ氏参加の夕食会発砲事件 大統領暗殺未遂で訴追 初出廷",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109751000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260428/K10015109751_2604280541_0428091142_01_02.jpg",
+      "datePublished": "2026-04-28T13:50:37+09:00"
+    },
+    {
+      "name": "米 イランの新提案を議論 懐疑的な見方も交渉継続か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260428/K10015109711_2604281220_0428122258_01_02.jpg",
+      "datePublished": "2026-04-28T19:05:36+09:00"
+    },
+    {
+      "name": "春の褒章 603人と28団体が受章 “りくりゅう”ペアも",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109611000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260428/K10015109611_2604272127_0428052017_01_02.jpg",
+      "datePublished": "2026-04-28T05:20:16+09:00"
+    },
+    {
+      "name": "治療しながら両立したかった…",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106991000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015106991_2604271326_0427190947_01_02.jpg",
+      "datePublished": "2026-04-27T19:09:46+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

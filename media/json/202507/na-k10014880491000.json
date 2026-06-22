@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014880491000",
+  "dataSourceId": "na",
+  "name": "中国 7月の製造業の景況感 4か月連続で節目下回る",
+  "headline": "中国 7月の製造業の景況感 4か月連続で節目下回る",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014880491000",
+    "playlistId": "news-nwa-international-nationwide-20250731",
+    "newsarticleName": "中国 7月の製造業の景況感 4か月連続で節目下回る",
+    "playlistName": "7月31日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "中国の７月の製造業の景況感を示す指数は、６月から悪化し、景気判断の節目となる「50」を4か月連続で下回りました。企業の間でアメリカとの貿易摩擦が再び激化することへの警戒感が続いています。\n\n\n中国の国",
+  "dateModified": "2025-07-31T12:37:11+09:00",
+  "datePublished": "2025-07-31T12:37:11+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250731/K10014880491_2507311207_0731123713_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250731/K10014880491_2507311207_0731123713_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際",
+    "経済"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "中国の７月の製造業の景況感を示す指数は、６月から悪化し、景気判断の節目となる「50」を4か月連続で下回りました。企業の間でアメリカとの貿易摩擦が再び激化することへの警戒感が続いています。\n\n\n中国の国",
+  "articleBody": "中国の７月の製造業の景況感を示す指数は、６月から悪化し、景気判断の節目となる「50」を4か月連続で下回りました。企業の間でアメリカとの貿易摩擦が再び激化することへの警戒感が続いています。\n\n\n中国の国家統計局が製造業3200社を対象に調査した７月の製造業PMI＝購買担当者景況感指数は49.3でした。\n\n6月と比べて0.4ポイント悪化し、景気のよしあしを判断する節目となる「50」を4か月連続で下回りました。\n\nこれは、生産が伸び悩んだことや、新規の受注が減少したことなどが主な要因で、企業の間でアメリカとの貿易摩擦が再び激化することへの警戒感が続いています。\n\n企業の規模別でみると、\n▽大企業が50.3と節目の「50」を上回った一方、\n▽中規模な企業が49.5\n▽小規模な企業が46.4と、中小企業で節目を下回っています。\n\n一方、サービス業など非製造業の指数は、先月から0.4ポイント悪化し、50.1となりました。\n\nアメリカと中国は、互いに課していた追加関税を引き下げたうえで関税措置などをめぐる協議を続けていて、今後の協議の行方が企業の景況感を左右することになりそうです。\n",
+  "detailedArticleBody": {
+    "markedLead": "中国の７月の製造業の景況感を示す指数は、６月から悪化し、景気判断の節目となる「50」を4か月連続で下回りました。企業の間でアメリカとの貿易摩擦が再び激化することへの警戒感が続いています。\n",
+    "markedBody": "中国の国家統計局が製造業3200社を対象に調査した７月の製造業PMI＝購買担当者景況感指数は49.3でした。\n\n6月と比べて0.4ポイント悪化し、景気のよしあしを判断する節目となる「50」を4か月連続で下回りました。\n\nこれは、生産が伸び悩んだことや、新規の受注が減少したことなどが主な要因で、企業の間でアメリカとの貿易摩擦が再び激化することへの警戒感が続いています。\n\n企業の規模別でみると、\\\n▽大企業が50.3と節目の「50」を上回った一方、\\\n▽中規模な企業が49.5\\\n▽小規模な企業が46.4と、中小企業で節目を下回っています。\n\n一方、サービス業など非製造業の指数は、先月から0.4ポイント悪化し、50.1となりました。\n\nアメリカと中国は、互いに課していた追加関税を引き下げたうえで関税措置などをめぐる協議を続けていて、今後の協議の行方が企業の景況感を左右することになりそうです。\n",
+    "trimmedLead": "中国の７月の製造業の景況感を示す指数は、６月から悪化し、景気判断の節目となる「50」を4か月連続で下回りました。企業の間でアメリカとの貿易摩擦が再び激化することへの警戒感が続いています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014880491000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014880491000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015059491000",
+  "dataSourceId": "na",
+  "name": "東京電力 柏崎刈羽原発6号機 計画的停止の原子炉を再起動",
+  "headline": "東京電力 柏崎刈羽原発6号機 計画的停止の原子炉を再起動",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015059491000",
+    "playlistId": "news-nwa-society-nationwide-20260224",
+    "newsarticleName": "東京電力 柏崎刈羽原発6号機 計画的停止の原子炉を再起動",
+    "playlistName": "2月24日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "東京電力は、設備の検査のため計画的に停止させていた柏崎刈羽原子力発電所6号機を、24日朝、起動させたと発表しました。当初は24日未明に起動させましたが警報が鳴ったためいったん操作を停止し、およそ5時間",
+  "dateModified": "2026-02-24T14:25:57+09:00",
+  "datePublished": "2026-02-24T14:25:57+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260224/K10015059491_2602241408_0224142558_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260224/K10015059491_2602241408_0224142558_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "0000021",
+      "name": "原発",
+      "display": true
+    },
+    {
+      "id": "0002736",
+      "name": "資源・エネルギー",
+      "display": true
+    },
+    {
+      "id": "0002215",
+      "name": "新潟県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "東京電力は、設備の検査のため計画的に停止させていた柏崎刈羽原子力発電所6号機を、24日朝、起動させたと発表しました。当初は24日未明に起動させましたが警報が鳴ったためいったん操作を停止し、およそ5時間",
+  "articleBody": "東京電力は、設備の検査のため計画的に停止させていた柏崎刈羽原子力発電所6号機を、24日朝、起動させたと発表しました。当初は24日未明に起動させましたが警報が鳴ったためいったん操作を停止し、およそ5時間半後に再び起動させたということです。\n\n\n東京電力は1月、新潟県にある柏崎刈羽原発6号機を再稼働させたあと、営業運転に向けた検査を行っていて、2月19日からは計画的に運転を停止して発電設備などを調べていました。\n\n検査で問題がなかったことから、東京電力は24日午前1時に原子炉を起動させるため、核分裂反応を抑える制御棒を引き抜く操作を行いましたが、この直後に制御棒を動かす部品の不具合を示す警報が鳴ったことから、いったん操作を停止したということです。\n\nその後、マニュアルに沿って制御棒を再び動かしたところ、警報は鳴らず、東京電力は不具合が解消したと判断し、午前6時半ごろに原子炉を再び起動させたと発表しました。\n\n東京電力は今後、原子炉で発生した蒸気を発電機のタービンに送ったうえで発電と送電を再開し、出力を高めた状態で検査を行い、3月18日に営業運転を始める計画です。\n\n柏崎刈羽原発6号機は1月、再稼働した際、制御棒に関連する警報の設定に不具合があり、17日間にわたり運転を停止しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "東京電力は、設備の検査のため計画的に停止させていた柏崎刈羽原子力発電所6号機を、24日朝、起動させたと発表しました。当初は24日未明に起動させましたが警報が鳴ったためいったん操作を停止し、およそ5時間半後に再び起動させたということです。\n",
+    "markedBody": "東京電力は1月、新潟県にある柏崎刈羽原発6号機を再稼働させたあと、営業運転に向けた検査を行っていて、2月19日からは計画的に運転を停止して発電設備などを調べていました。\n\n検査で問題がなかったことから、東京電力は24日午前1時に原子炉を起動させるため、核分裂反応を抑える制御棒を引き抜く操作を行いましたが、この直後に制御棒を動かす部品の不具合を示す警報が鳴ったことから、いったん操作を停止したということです。\n\nその後、マニュアルに沿って制御棒を再び動かしたところ、警報は鳴らず、東京電力は不具合が解消したと判断し、午前6時半ごろに原子炉を再び起動させたと発表しました。\n\n東京電力は今後、原子炉で発生した蒸気を発電機のタービンに送ったうえで発電と送電を再開し、出力を高めた状態で検査を行い、3月18日に営業運転を始める計画です。\n\n柏崎刈羽原発6号機は1月、再稼働した際、制御棒に関連する警報の設定に不具合があり、17日間にわたり運転を停止しました。\n",
+    "trimmedLead": "東京電力は、設備の検査のため計画的に停止させていた柏崎刈羽原子力発電所6号機を、24日朝、起動させたと発表しました。当初は24日未明に起動させましたが警報が鳴ったためいったん操作を停止し、およそ5時間半後に再び起動させたということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015059491000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015059491000",
+  "video": [],
+  "citation": [
+    {
+      "name": "東京電力 柏崎刈羽原発6号機 本格的な発電と送電を開始",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260216/K10015053541_2602162222_0216222937_01_02.jpg",
+      "datePublished": "2026-02-16T22:29:36+09:00"
+    },
+    {
+      "name": "原発のテロ対策施設 設置期限など見直しへ 原子力規制委",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015055451000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260219/K10015055451_2602182116_0219045100_01_02.jpg",
+      "datePublished": "2026-02-19T04:50:59+09:00"
+    },
+    {
+      "name": "原発で重大事故の場合 「屋内退避」の運用方法を了承 規制委",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015055161000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260218/K10015055161_2602181655_0218182035_01_02.jpg",
+      "datePublished": "2026-02-18T18:20:34+09:00"
+    },
+    {
+      "name": "震災・原発事故15年 特集サイト「3.11 あの日を忘れない」",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0000019",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30779564.jpg"
+    },
+    {
+      "name": "新年度予算案 高市首相“野党にも協力求め年度内成立目指す”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015059051000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260224/K10015059051_2602241718_0224185708_01_02.jpg",
+      "datePublished": "2026-02-24T19:07:20+09:00"
+    },
+    {
+      "name": "カナダ首相 来月6日に訪日 高市首相と首脳会談へ 政府",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015059381000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260224/K10015059381_2602241151_0224121712_01_02.jpg",
+      "datePublished": "2026-02-24T12:17:11+09:00"
+    },
+    {
+      "name": "中国 20の日本企業などに軍民両用品目の輸出を禁止",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015059371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260224/K10015059371_2602241142_0224115851_01_02.jpg",
+      "datePublished": "2026-02-24T20:53:33+09:00"
+    },
+    {
+      "name": "“米軍制服組トップ イラン軍事作戦 大きなリスク伴う可能性”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015059251000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260224/K10015059251_2602241219_0224122535_01_03.jpg",
+      "datePublished": "2026-02-24T12:25:34+09:00"
+    },
+    {
+      "name": "トランプ政権 10％の新関税措置発動へ 15％に引き上げの考えも",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015059091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260224/K10015059091_2602240353_0224050401_01_02.jpg",
+      "datePublished": "2026-02-24T14:27:13+09:00"
+    },
+    {
+      "name": "ロシアのウクライナ侵攻から4年 キーウ各地で市民が犠牲者追悼",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015059101000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260224/K10015059101_2602241942_0224200832_01_02.jpg",
+      "datePublished": "2026-02-24T22:12:28+09:00"
+    },
+    {
+      "name": "ミラノ・コルティナ五輪 日本選手団が帰国",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015059401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260224/K10015059401_2602241338_0224135457_01_02.jpg",
+      "datePublished": "2026-02-24T15:28:23+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

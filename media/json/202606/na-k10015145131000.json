@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015145131000",
+  "dataSourceId": "na",
+  "name": "米アップル AIアシスタント機能刷新を発表 開発者会議で",
+  "headline": "米アップル AIアシスタント機能刷新を発表 開発者会議で",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015145131000",
+    "playlistId": "news-nwa-international-nationwide-20260609",
+    "newsarticleName": "米アップル AIアシスタント機能刷新を発表 開発者会議で",
+    "playlistName": "6月9日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "アメリカのIT大手アップルは開発者向けの会議で、スマートフォンなどに搭載するAIアシスタントにIT大手グーグルが開発した生成AIを活用し、機能を刷新したと発表しました。複数のアプリから必要な情報を引き",
+  "dateModified": "2026-06-09T16:52:09+09:00",
+  "datePublished": "2026-06-09T16:03:26+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260609/K10015145131_2606091520_0609160326_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260609/K10015145131_2606091520_0609160326_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0000010",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "0000009",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "アメリカのIT大手アップルは開発者向けの会議で、スマートフォンなどに搭載するAIアシスタントにIT大手グーグルが開発した生成AIを活用し、機能を刷新したと発表しました。複数のアプリから必要な情報を引き",
+  "articleBody": "アメリカのIT大手アップルは開発者向けの会議で、スマートフォンなどに搭載するAIアシスタントにIT大手グーグルが開発した生成AIを活用し、機能を刷新したと発表しました。複数のアプリから必要な情報を引き出して質問への回答やメールの作成でユーザーを支援するとしていて、AIアシスタント機能の提供をめぐって競争が激しくなる中、巻き返しにつながるかが課題となっています。\n\n\nアップルは8日からアメリカ西部カリフォルニア州の本社で開発者向けの会議を開き、その様子を公開しました。\n\nこの中で会社は、スマートフォンなどに搭載するAIアシスタントにIT大手グーグルが開発した生成AI「Gemini」を活用し、「Siri AI」として機能を刷新したと発表しました。\n\nメールや写真など複数のアプリから必要な情報を引き出し、質問に回答するほか、メールを作成してユーザーを支援するなどとしています。\n\nAIアシスタントをめぐって、会社は2年前に機能の刷新を掲げていましたが、その後、AIアシスタント機能の提供をめぐって競争が激しくなる中で遅れを指摘されていて、巻き返しにつながるかが課題となっています。\n\n長年アップル取材の記者は\n\nアメリカの有力紙、ニューヨーク・タイムズの記者でおよそ10年にわたってアップルを取材してきたトリップ・ミックル氏は、「私たちは今、AIの革命と変革の初期の段階にある。アップルはAI機能の導入に後れをとってきた」と指摘しました。\n\nその上で、ミックル氏は、「AIの技術は今後、人々がデバイスを使う方法に非常に大きな変革をもたらす可能性を秘めており、アップルがその分野をリードするのか、それとも変革の波にのみこまれるのか、私たちは今後数年間、非常に注意深く見守っていく必要がある」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカのIT大手アップルは開発者向けの会議で、スマートフォンなどに搭載するAIアシスタントにIT大手グーグルが開発した生成AIを活用し、機能を刷新したと発表しました。複数のアプリから必要な情報を引き出して質問への回答やメールの作成でユーザーを支援するとしていて、AIアシスタント機能の提供をめぐって競争が激しくなる中、巻き返しにつながるかが課題となっています。\n",
+    "markedBody": "アップルは8日からアメリカ西部カリフォルニア州の本社で開発者向けの会議を開き、その様子を公開しました。\n\nこの中で会社は、スマートフォンなどに搭載するAIアシスタントにIT大手グーグルが開発した生成AI「Gemini」を活用し、「Siri AI」として機能を刷新したと発表しました。\n\nメールや写真など複数のアプリから必要な情報を引き出し、質問に回答するほか、メールを作成してユーザーを支援するなどとしています。\n\nAIアシスタントをめぐって、会社は2年前に機能の刷新を掲げていましたが、その後、AIアシスタント機能の提供をめぐって競争が激しくなる中で遅れを指摘されていて、巻き返しにつながるかが課題となっています。\n\n### 長年アップル取材の記者は\n\nアメリカの有力紙、ニューヨーク・タイムズの記者でおよそ10年にわたってアップルを取材してきたトリップ・ミックル氏は、「私たちは今、AIの革命と変革の初期の段階にある。アップルはAI機能の導入に後れをとってきた」と指摘しました。\n\nその上で、ミックル氏は、「AIの技術は今後、人々がデバイスを使う方法に非常に大きな変革をもたらす可能性を秘めており、アップルがその分野をリードするのか、それとも変革の波にのみこまれるのか、私たちは今後数年間、非常に注意深く見守っていく必要がある」と話していました。\n",
+    "trimmedLead": "アメリカのIT大手アップルは開発者向けの会議で、スマートフォンなどに搭載するAIアシスタントにIT大手グーグルが開発した生成AIを活用し、機能を刷新したと発表しました。複数のアプリから必要な情報を引き出して質問への回答やメールの作成でユーザーを支援するとしていて、AIアシスタント機能の提供をめぐって競争が激しくなる中、巻き返しにつながるかが課題となっています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015145131000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015145131000",
+  "video": [],
+  "citation": [
+    {
+      "name": "オープンAI 新規株式公開を申請 評価額は3月末時点で約136兆円",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015144701000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260609/K10015144701_2606090714_0609071722_01_02.jpg",
+      "datePublished": "2026-06-09T11:51:45+09:00"
+    },
+    {
+      "name": "トランプ大統領 AIの安全保障分野での利用加速を文書で指示",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015142851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260606/K10015142851_2606061534_0606153504_01_03.jpg",
+      "datePublished": "2026-06-06T13:16:00+09:00"
+    },
+    {
+      "name": "米大統領 イスラエル首相にイランとの戦闘「孤立」招くと警告",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015144661000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260609/K10015144661_2606090453_0609052004_01_02.jpg",
+      "datePublished": "2026-06-09T11:47:25+09:00"
+    },
+    {
+      "name": "フィリピン沖大地震で37人死亡 倒壊現場などで救助活動続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015144591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260609/K10015144591_2606082301_0609051134_01_02.jpg",
+      "datePublished": "2026-06-09T16:47:20+09:00"
+    },
+    {
+      "name": "北朝鮮メディア 中朝首脳会談の成果強調 核開発への言及なし",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015144931000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260609/K10015144931_2606091156_0609120307_01_02.jpg",
+      "datePublished": "2026-06-09T12:27:59+09:00"
+    },
+    {
+      "name": "米国防総省 中国軍と関わりある企業に百度・アリババなど追加",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015144781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260609/K10015144781_2606091003_0609101647_01_03.jpg",
+      "datePublished": "2026-06-09T14:03:45+09:00"
+    },
+    {
+      "name": "ロシア 英仏独のウクライナ軍事支援に強く反発",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015144671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260609/K10015144671_2606090554_0609062241_01_02.jpg",
+      "datePublished": "2026-06-09T06:22:40+09:00"
+    },
+    {
+      "name": "高市首相 13日から英伊仏3か国訪問 G7サミット出席へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015144991000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260609/K10015144991_2606091314_0609132816_01_02.jpg",
+      "datePublished": "2026-06-09T13:28:16+09:00"
+    },
+    {
+      "name": "IAEA「キム総書記視察の工場 新たな核施設と特徴一致」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015144681000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260609/K10015144681_2606090549_0609062429_01_02.jpg",
+      "datePublished": "2026-06-09T06:24:28+09:00"
+    },
+    {
+      "name": "韓国 イ・ジェミョン政権発足1年",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015141851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260605/K10015141851_2606051207_0605165443_01_02.jpg",
+      "datePublished": "2026-06-05T16:54:42+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

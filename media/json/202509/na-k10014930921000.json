@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014930921000",
+  "dataSourceId": "na",
+  "name": "大雨被害 秋田 能代市に普通交付税の一部を繰り上げて交付へ",
+  "headline": "大雨被害 秋田 能代市に普通交付税の一部を繰り上げて交付へ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014930921000",
+    "playlistId": "news-nwa-politics-nationwide-20250924",
+    "newsarticleName": "大雨被害 秋田 能代市に普通交付税の一部を繰り上げて交付へ",
+    "playlistName": "9月24日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "9月2日からの記録的な大雨で被害が出た秋田県能代市に対し、普通交付税あわせて5億円余りが、25日に繰り上げて交付されることになりました。\n\n\n普通交付税は、地方自治体の財源不足を補うため、国から年に4",
+  "dateModified": "2025-09-24T15:15:08+09:00",
+  "datePublished": "2025-09-24T15:15:08+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250924/K10014930921_2509241454_0924151440_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250924/K10014930921_2509241454_0924151440_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治",
+    "気象・災害"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "9月2日からの記録的な大雨で被害が出た秋田県能代市に対し、普通交付税あわせて5億円余りが、25日に繰り上げて交付されることになりました。\n\n\n普通交付税は、地方自治体の財源不足を補うため、国から年に4",
+  "articleBody": "9月2日からの記録的な大雨で被害が出た秋田県能代市に対し、普通交付税あわせて5億円余りが、25日に繰り上げて交付されることになりました。\n\n\n普通交付税は、地方自治体の財源不足を補うため、国から年に4回に分けて交付されていて、大規模な災害があった場合などには、時期を繰り上げて交付されます。\n\n総務省は、9月2日からの記録的な大雨で被害が出た秋田県能代市の資金繰りを円滑にして復旧を支援するため、ことし11月に交付予定の普通交付税の一部、あわせて5億9500万円を、9月25日に繰り上げて交付することを決めました。\n",
+  "detailedArticleBody": {
+    "markedLead": "9月2日からの記録的な大雨で被害が出た秋田県能代市に対し、普通交付税あわせて5億円余りが、25日に繰り上げて交付されることになりました。\n",
+    "markedBody": "普通交付税は、地方自治体の財源不足を補うため、国から年に4回に分けて交付されていて、大規模な災害があった場合などには、時期を繰り上げて交付されます。\n\n総務省は、9月2日からの記録的な大雨で被害が出た秋田県能代市の資金繰りを円滑にして復旧を支援するため、ことし11月に交付予定の普通交付税の一部、あわせて5億9500万円を、9月25日に繰り上げて交付することを決めました。\n",
+    "trimmedLead": "9月2日からの記録的な大雨で被害が出た秋田県能代市に対し、普通交付税あわせて5億円余りが、25日に繰り上げて交付されることになりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014930921000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014930921000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

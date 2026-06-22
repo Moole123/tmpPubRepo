@@ -1,0 +1,145 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015108691000",
+  "dataSourceId": "na",
+  "name": "新潟 魚沼で山林火災 消火活動進めるも延焼続く",
+  "headline": "新潟 魚沼で山林火災 消火活動進めるも延焼続く",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015108691000",
+    "playlistId": "news-nwa-society-nationwide-20260426",
+    "newsarticleName": "新潟 魚沼で山林火災 消火活動進めるも延焼続く",
+    "playlistName": "4月26日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "26日午前、新潟県魚沼市で山林火災が発生し、消防が消火活動を進めていますが、延焼が続いています。警察や消防によりますとこれまでに、けが人などは確認されていないということです。\n\n\n26日午前10時半ご",
+  "dateModified": "2026-04-26T18:28:55+09:00",
+  "datePublished": "2026-04-26T17:34:11+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260426/K10015108691_2604261720_0426173411_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260426/K10015108691_2604261720_0426173411_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会",
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002689",
+      "name": "火災",
+      "display": true
+    },
+    {
+      "id": "0002215",
+      "name": "新潟県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "26日午前、新潟県魚沼市で山林火災が発生し、消防が消火活動を進めていますが、延焼が続いています。警察や消防によりますとこれまでに、けが人などは確認されていないということです。\n\n\n26日午前10時半ご",
+  "articleBody": "26日午前、新潟県魚沼市で山林火災が発生し、消防が消火活動を進めていますが、延焼が続いています。警察や消防によりますとこれまでに、けが人などは確認されていないということです。\n\n\n26日午前10時半ごろ、魚沼市赤土の山林で「斜面が燃えている」と近くに住む人から消防に通報がありました。\n\n警察や消防によりますと火が出たのは、県道の東側にある以前、スキー場だった山林だということです。\n\n消防が、ふもとから山の中腹にホースを伸ばして放水を行っているほか、長野県の防災ヘリコプターが上空からの消火活動を進めていますが、午後5時半時点で消し止められておらず延焼が続いています。\n\nこれまでのところ、けが人や逃げ遅れた人は確認されていないということです。\n\n魚沼市は午後4時に広神農村環境改善センターに自主避難所を開設しました。\n\n26日、新潟県全域には乾燥注意報が発表されていて、消防は日没後も地上からの放水による消火活動を続けることにしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "26日午前、新潟県魚沼市で山林火災が発生し、消防が消火活動を進めていますが、延焼が続いています。警察や消防によりますとこれまでに、けが人などは確認されていないということです。\n",
+    "markedBody": "26日午前10時半ごろ、魚沼市赤土の山林で「斜面が燃えている」と近くに住む人から消防に通報がありました。\n\n警察や消防によりますと火が出たのは、県道の東側にある以前、スキー場だった山林だということです。\n\n消防が、ふもとから山の中腹にホースを伸ばして放水を行っているほか、長野県の防災ヘリコプターが上空からの消火活動を進めていますが、午後5時半時点で消し止められておらず延焼が続いています。\n\nこれまでのところ、けが人や逃げ遅れた人は確認されていないということです。\n\n魚沼市は午後4時に広神農村環境改善センターに自主避難所を開設しました。\n\n26日、新潟県全域には乾燥注意報が発表されていて、消防は日没後も地上からの放水による消火活動を続けることにしています。\n",
+    "trimmedLead": "26日午前、新潟県魚沼市で山林火災が発生し、消防が消火活動を進めていますが、延焼が続いています。警察や消防によりますとこれまでに、けが人などは確認されていないということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015108691000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015108691000",
+  "video": [],
+  "citation": [
+    {
+      "name": "トランプ大統領が参加した夕食会で銃撃事件 容疑者拘束で捜査",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015108571000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260426/K10015108571_2604261001_0426103033_01_02.jpg",
+      "datePublished": "2026-04-26T18:58:20+09:00"
+    },
+    {
+      "name": "【中継】岩手 大槌町山林火災 北側の山に広がる あす午後雨か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015108391000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260426/K10015108391_2604260616_0426063901_01_02.jpg",
+      "datePublished": "2026-04-26T19:03:26+09:00"
+    },
+    {
+      "name": "福島 喜多方で山林火災 178世帯458人に避難指示",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015108641000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260426/K10015108641_2604261452_0426154301_01_02.jpg",
+      "datePublished": "2026-04-26T18:22:21+09:00"
+    },
+    {
+      "name": "後発地震注意情報 専門家“震源周辺リスク残る 備え続けて”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015108491000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260426/K10015108491_2604260518_0426060033_01_02.jpg",
+      "datePublished": "2026-04-26T17:55:56+09:00"
+    },
+    {
+      "name": "日韓両政府 次官級「2プラス2」来月初開催へ 安保協力強化図る",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015108591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260426/K10015108591_2604261235_0426130517_01_02.jpg",
+      "datePublished": "2026-04-26T13:05:16+09:00"
+    },
+    {
+      "name": "米イラン協議 先行き依然不透明 米は海上封鎖で圧力強める",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015108471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260426/K10015108471_2604261136_0426114849_01_02.jpg",
+      "datePublished": "2026-04-26T18:23:37+09:00"
+    },
+    {
+      "name": "篠原勝之さん死去「ゲージツ家のクマさん」の愛称で親しまれる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015108431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260425/K10015108431_2604252050_0425213027_01_02.jpg",
+      "datePublished": "2026-04-25T21:30:26+09:00"
+    },
+    {
+      "name": "JR福知山線脱線事故 “最後の生存者”が語ったこと",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015108351000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260425/K10015108351_2604251926_0425211229_01_02.jpg",
+      "datePublished": "2026-04-25T21:12:29+09:00"
+    },
+    {
+      "name": "偽広告で下着を販売 小遣い稼ぎだった いったい誰が！？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106261000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260425/K10015106261_2604241824_0425170315_01_02.jpg",
+      "datePublished": "2026-04-25T17:03:14+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

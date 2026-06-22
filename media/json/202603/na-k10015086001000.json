@@ -1,0 +1,156 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015086001000",
+  "dataSourceId": "na",
+  "name": "海保 仙台塩釜港で巡視船から重油流出を確認 回収作業続く",
+  "headline": "海保 仙台塩釜港で巡視船から重油流出を確認 回収作業続く",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015086001000",
+    "playlistId": "news-nwa-society-nationwide-20260327",
+    "newsarticleName": "海保 仙台塩釜港で巡視船から重油流出を確認 回収作業続く",
+    "playlistName": "3月27日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "25日、宮城県の仙台塩釜港に停泊していた海上保安部の巡視船から燃料の重油が流出しているのが確認されました。海上保安部によりますと、27日の時点で流出は止まっているということですが、回収作業が続けられて",
+  "dateModified": "2026-03-27T19:13:45+09:00",
+  "datePublished": "2026-03-27T19:13:45+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260327/K10015086001_2603271836_0327191346_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260327/K10015086001_2603271836_0327191346_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002699",
+      "name": "海上保安庁",
+      "display": true
+    },
+    {
+      "id": "0002204",
+      "name": "宮城県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "25日、宮城県の仙台塩釜港に停泊していた海上保安部の巡視船から燃料の重油が流出しているのが確認されました。海上保安部によりますと、27日の時点で流出は止まっているということですが、回収作業が続けられて",
+  "articleBody": "25日、宮城県の仙台塩釜港に停泊していた海上保安部の巡視船から燃料の重油が流出しているのが確認されました。海上保安部によりますと、27日の時点で流出は止まっているということですが、回収作業が続けられています。\n\n\n宮城海上保安部によりますと、25日の午前6時前、仙台塩釜港で油が浮いていると漁業者から通報があり、調査したところ、港に停泊している「巡視船ざおう」から重油が流れ出しているのが確認されました。\n\n27日の時点で、巡視船からの油の流出は止まっているということですが、巡視船を中心に直径およそ2.7キロにわたって油が確認されていて、量は1000リットル以上にのぼるということです。\n\n海上保安部では、油を吸着するマットで回収作業を行っているほか、オイルフェンスを設置する措置をとっています。\n\n海上保安部は引き続き油の回収作業をしながら、巡視船から油が流れ出た原因を調査することにしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "25日、宮城県の仙台塩釜港に停泊していた海上保安部の巡視船から燃料の重油が流出しているのが確認されました。海上保安部によりますと、27日の時点で流出は止まっているということですが、回収作業が続けられています。\n",
+    "markedBody": "宮城海上保安部によりますと、25日の午前6時前、仙台塩釜港で油が浮いていると漁業者から通報があり、調査したところ、港に停泊している「巡視船ざおう」から重油が流れ出しているのが確認されました。\n\n27日の時点で、巡視船からの油の流出は止まっているということですが、巡視船を中心に直径およそ2.7キロにわたって油が確認されていて、量は1000リットル以上にのぼるということです。\n\n![](https://news.web.nhk/news/html/20260327/K10015086001_2603271836_0327191346_02_03.jpg)\n\n海上保安部では、油を吸着するマットで回収作業を行っているほか、オイルフェンスを設置する措置をとっています。\n\n海上保安部は引き続き油の回収作業をしながら、巡視船から油が流れ出た原因を調査することにしています。\n",
+    "trimmedLead": "25日、宮城県の仙台塩釜港に停泊していた海上保安部の巡視船から燃料の重油が流出しているのが確認されました。海上保安部によりますと、27日の時点で流出は止まっているということですが、回収作業が続けられています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015086001000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015086001000",
+  "video": [],
+  "citation": [
+    {
+      "name": "政府 新年度の暫定予算案を閣議決定 総額約8兆5600億円",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015085351000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260327/K10015085351_2603271105_0327111035_01_02.jpg",
+      "datePublished": "2026-03-27T17:16:47+09:00"
+    },
+    {
+      "name": "経産相 “アジア諸国に備蓄石油提供求められても協力難しい”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015085681000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260327/K10015085681_2603271454_0327165129_01_02.jpg",
+      "datePublished": "2026-03-27T16:51:28+09:00"
+    },
+    {
+      "name": "ヒグマ駆除で猟銃所持許可取り消しは違法 原告逆転勝訴 最高裁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015085691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260327/K10015085691_2603271546_0327162723_01_02.jpg",
+      "datePublished": "2026-03-27T18:33:16+09:00"
+    },
+    {
+      "name": "長期金利が一時2.385％に 約27年ぶりの高い水準まで上昇",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015085721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260327/K10015085721_2603271533_0327163107_01_02.jpg",
+      "datePublished": "2026-03-27T18:53:10+09:00"
+    },
+    {
+      "name": "原子力規制委 審査での不正防止対策強化へ 浜岡原発の不正受け",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015085831000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260327/K10015085831_2603271627_0327174436_01_02.jpg",
+      "datePublished": "2026-03-27T17:44:35+09:00"
+    },
+    {
+      "name": "しずおかFGと名古屋銀行 経営統合に向け協議で基本合意と発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015085441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260327/K10015085441_2603271117_0327111839_01_03.jpg",
+      "datePublished": "2026-03-27T18:10:45+09:00"
+    },
+    {
+      "name": "米政府の「アンソロピック」への措置 一時差し止め 連邦地裁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015085771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260327/K10015085771_2603271612_0327181114_01_02.jpg",
+      "datePublished": "2026-03-27T18:11:13+09:00"
+    },
+    {
+      "name": "海自イージス艦「トマホーク」発射できるよう米で改修し式典",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015085301000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260327/K10015085301_2603270854_0327092819_01_02.jpg",
+      "datePublished": "2026-03-27T14:10:05+09:00"
+    },
+    {
+      "name": "スーパー コメ平均価格 6週連続で値下がり 5キロ 3978円",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015085841000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260327/K10015085841_2603271708_0327174103_01_02.jpg",
+      "datePublished": "2026-03-27T17:41:02+09:00"
+    },
+    {
+      "name": "漫画家 つげ義春さん88歳で死去 代表作「ねじ式」「無能の人」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015085561000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260327/K10015085561_2603271433_0327180145_01_02.jpg",
+      "datePublished": "2026-03-27T18:01:44+09:00"
+    },
+    {
+      "name": "原油高にどう対応？石油危機の経験から考える【経済コラム】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015084621000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260327/K10015084621_2603271644_0327180527_01_02.jpg",
+      "datePublished": "2026-03-27T18:05:26+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

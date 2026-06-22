@@ -1,0 +1,173 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015104591000",
+  "dataSourceId": "na",
+  "name": "ランサムウエア 被害企業222社 “身代金支払った”と回答",
+  "headline": "ランサムウエア 被害企業222社 “身代金支払った”と回答",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015104591000",
+    "playlistId": "news-nwa-society-nationwide-20260421",
+    "newsarticleName": "ランサムウエア 被害企業222社 “身代金支払った”と回答",
+    "playlistName": "4月21日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "身代金要求型のコンピューターウイルス「ランサムウエア」で暗号化されてしまったデータを復旧するために、ハッカー側に身代金を支払った国内の企業が少なくとも220社余りにのぼることが民間の団体の調査で分かり",
+  "dateModified": "2026-04-21T15:24:25+09:00",
+  "datePublished": "2026-04-21T15:24:25+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260421/K10015104591_2604211504_0421152426_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260421/K10015104591_2604211504_0421152426_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000325",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "0000009",
+      "name": "IT・ネット",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "身代金要求型のコンピューターウイルス「ランサムウエア」で暗号化されてしまったデータを復旧するために、ハッカー側に身代金を支払った国内の企業が少なくとも220社余りにのぼることが民間の団体の調査で分かり",
+  "articleBody": "身代金要求型のコンピューターウイルス「ランサムウエア」で暗号化されてしまったデータを復旧するために、ハッカー側に身代金を支払った国内の企業が少なくとも220社余りにのぼることが民間の団体の調査で分かりました。セキュリティーの専門家は「犯罪グループの収益となる身代金の支払いに応じるべきではない」と指摘しています。\n\n\n個人情報の保護などに取り組む一般財団法人、「日本情報経済社会推進協会」は、ことし1月、データを勝手に暗号化して身代金を要求する「ランサムウエア」による被害について調査し、国内の企業1107社から回答を得ました。\n\n被害にあった経験があると答えた企業は507社で、このうち暗号化されたデータを復旧するため、サイバー攻撃を仕掛けてきたハッカー側に身代金を支払ったと回答した企業は222社にのぼりました。\n\n身代金を支払ったとする企業のうち、6割余りにあたる139社は、支払ったあとも暗号化されたデータやシステムを復旧できなかったということです。\n\n一方で、支払わずに復旧させたと答えた企業も141社ありました。\n\nサイバー犯罪に詳しい神戸大学の森井昌克特命教授は「身代金を支払っても完全に復旧できるとは限らず、盗まれた情報を流出させられたり、身代金を再要求されたりする可能性もある。犯罪グループにお金を払うことになってしまうので、支払いには応じるべきではない。基本的なセキュリティー対策やオフラインでバックアップを取るなど被害にあわないための対策を進めてほしい」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "身代金要求型のコンピューターウイルス「ランサムウエア」で暗号化されてしまったデータを復旧するために、ハッカー側に身代金を支払った国内の企業が少なくとも220社余りにのぼることが民間の団体の調査で分かりました。セキュリティーの専門家は「犯罪グループの収益となる身代金の支払いに応じるべきではない」と指摘しています。\n",
+    "markedBody": "個人情報の保護などに取り組む一般財団法人、「日本情報経済社会推進協会」は、ことし1月、データを勝手に暗号化して身代金を要求する「ランサムウエア」による被害について調査し、国内の企業1107社から回答を得ました。\n\n被害にあった経験があると答えた企業は507社で、このうち暗号化されたデータを復旧するため、サイバー攻撃を仕掛けてきたハッカー側に身代金を支払ったと回答した企業は222社にのぼりました。\n\n身代金を支払ったとする企業のうち、6割余りにあたる139社は、支払ったあとも暗号化されたデータやシステムを復旧できなかったということです。\n\n一方で、支払わずに復旧させたと答えた企業も141社ありました。\n\n![](https://news.web.nhk/news/html/20260421/K10015104591_2604211447_0421152426_02_03.jpg)\n\nサイバー犯罪に詳しい神戸大学の森井昌克特命教授は「身代金を支払っても完全に復旧できるとは限らず、盗まれた情報を流出させられたり、身代金を再要求されたりする可能性もある。犯罪グループにお金を払うことになってしまうので、支払いには応じるべきではない。基本的なセキュリティー対策やオフラインでバックアップを取るなど被害にあわないための対策を進めてほしい」と話していました。\n",
+    "trimmedLead": "身代金要求型のコンピューターウイルス「ランサムウエア」で暗号化されてしまったデータを復旧するために、ハッカー側に身代金を支払った国内の企業が少なくとも220社余りにのぼることが民間の団体の調査で分かりました。セキュリティーの専門家は「犯罪グループの収益となる身代金の支払いに応じるべきではない」と指摘しています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015104591000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015104591000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "ランサムウエア 被害企業222社 “身代金支払った”と回答",
+      "description": "身代金要求型のコンピューターウイルス「ランサムウエア」で暗号化されてしまったデータを復旧するために、ハッカー側に身代金を支払った国内の企業が少なくとも220社余りにのぼることが民間の団体の調査で分かり",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015104591_202604211611_202604211612/index.m3u8&mrposter=/news/html/20260421/K10015104591_2604211504_0421152426_01_02.jpg",
+      "duration": "PT1M17S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015104591_202604211611_202604211612/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260421/K10015104591_2604211504_0421152426_01_02.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "通販大手で起きたサイバー攻撃 被害の実態と教訓は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015011711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20251225/K10015011711_2512251808_1225194743_01_02.jpg",
+      "datePublished": "2025-12-25T19:47:41+09:00"
+    },
+    {
+      "name": "【Q＆A】サイバー攻撃対策で流通業界が連携 団体を設立 なぜ？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015093211000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015093211_2604061531_0406163306_01_02.jpg",
+      "datePublished": "2026-04-06T18:27:53+09:00"
+    },
+    {
+      "name": "陸自 戦車の射撃訓練中に砲弾破裂 隊員3人死亡 1人けが 大分",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104341000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015104341_2604211203_0421120432_01_02.jpg",
+      "datePublished": "2026-04-21T17:29:47+09:00"
+    },
+    {
+      "name": "北海道・三陸沖後発地震注意情報 “日頃の備え 改めて確認を”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015104141_2604210018_0421002942_01_02.jpg",
+      "datePublished": "2026-04-21T14:42:30+09:00"
+    },
+    {
+      "name": "北海道・三陸沖後発地震注意情報とは 発表される地域と対策は？",
+      "url": "https://news.web.nhk/newsweb/na/nc-cc6fdf5b-0bac-483a-ae5b-0f26b0d19536",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31187807.jpg"
+    },
+    {
+      "name": "東京ドームシティの施設で作業員が体を挟まれる 意識不明か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104511000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015104511_2604211258_0421131216_01_02.jpg",
+      "datePublished": "2026-04-21T16:33:06+09:00"
+    },
+    {
+      "name": "プルデンシャル生命 新規営業の自粛期間 延長の方向で最終調整",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015104521_2604211300_0421135541_01_02.jpg",
+      "datePublished": "2026-04-21T13:55:40+09:00"
+    },
+    {
+      "name": "政府 「5類型」撤廃を決定 「武器」移転が原則可能に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015104291_2604211516_0421152616_01_02.jpg",
+      "datePublished": "2026-04-21T17:02:50+09:00"
+    },
+    {
+      "name": "大谷翔平 52試合連続出塁 アジア出身選手の大リーグ記録に並ぶ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015104541_2604211341_0421140238_01_02.jpg",
+      "datePublished": "2026-04-21T15:37:11+09:00"
+    },
+    {
+      "name": "「がんに○○が効く?」 SNSから薬の個人輸入に誘導 リスクは?",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015101501000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260418/K10015101501_2604171845_0418173738_01_02.jpg",
+      "datePublished": "2026-04-18T17:37:37+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

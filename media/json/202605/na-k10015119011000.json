@@ -1,0 +1,139 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015119011000",
+  "dataSourceId": "na",
+  "name": "株価 午前は値上がり 6万2800円台 半導体関連中心に買い注文",
+  "headline": "株価 午前は値上がり 6万2800円台 半導体関連中心に買い注文",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015119011000",
+    "playlistId": "news-nwa-business-nationwide-20260512",
+    "newsarticleName": "株価 午前は値上がり 6万2800円台 半導体関連中心に買い注文",
+    "playlistName": "5月12日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "12日の東京株式市場、11日のニューヨーク市場で主要な株価指数が上昇した流れを受けて、半導体関連の銘柄を中心に買い注文が出て、株価は値上がりしています。\n\n\n日経平均株価、午前の終値は11日と比べて3",
+  "dateModified": "2026-05-12T12:18:16+09:00",
+  "datePublished": "2026-05-12T12:18:16+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260512/K10015119011_2605121152_0512121817_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260512/K10015119011_2605121152_0512121817_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "12日の東京株式市場、11日のニューヨーク市場で主要な株価指数が上昇した流れを受けて、半導体関連の銘柄を中心に買い注文が出て、株価は値上がりしています。\n\n\n日経平均株価、午前の終値は11日と比べて3",
+  "articleBody": "12日の東京株式市場、11日のニューヨーク市場で主要な株価指数が上昇した流れを受けて、半導体関連の銘柄を中心に買い注文が出て、株価は値上がりしています。\n\n\n日経平均株価、午前の終値は11日と比べて387円56銭高い、6万2805円44銭。\n\n東証株価指数＝トピックスは24.74上がって、3865.67となっています。\n\n午前の出来高は13億2114万株でした。\n\n市場関係者は「半導体関連の銘柄を中心に買い注文が出ている一方、中東情勢をめぐってイランの回答をアメリカのトランプ大統領が非難するなど、戦闘終結に向けた先行きへの不透明感が意識され、値上がり幅が抑えられる形になっている」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "12日の東京株式市場、11日のニューヨーク市場で主要な株価指数が上昇した流れを受けて、半導体関連の銘柄を中心に買い注文が出て、株価は値上がりしています。\n",
+    "markedBody": "日経平均株価、午前の終値は11日と比べて387円56銭高い、6万2805円44銭。\n\n東証株価指数＝トピックスは24.74上がって、3865.67となっています。\n\n午前の出来高は13億2114万株でした。\n\n市場関係者は「半導体関連の銘柄を中心に買い注文が出ている一方、中東情勢をめぐってイランの回答をアメリカのトランプ大統領が非難するなど、戦闘終結に向けた先行きへの不透明感が意識され、値上がり幅が抑えられる形になっている」と話しています。\n",
+    "trimmedLead": "12日の東京株式市場、11日のニューヨーク市場で主要な株価指数が上昇した流れを受けて、半導体関連の銘柄を中心に買い注文が出て、株価は値上がりしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015119011000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015119011000",
+  "video": [],
+  "citation": [
+    {
+      "name": "磐越道事故 去年3月の退職後はマイクロバス運転機会ほぼなしか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015118971000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260512/K10015118971_2605112354_0512050532_01_02.jpg",
+      "datePublished": "2026-05-12T05:05:31+09:00"
+    },
+    {
+      "name": "JR東海道線の電車内でスプレー噴射か 16歳少年を逮捕",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119111000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260512/K10015119111_2605120953_0512100656_01_02.jpg",
+      "datePublished": "2026-05-12T12:13:15+09:00"
+    },
+    {
+      "name": "天皇皇后両陛下 6月にオランダとベルギー公式訪問が正式決定",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260512/K10015119091_2605120853_0512091351_01_02.jpg",
+      "datePublished": "2026-05-12T10:56:53+09:00"
+    },
+    {
+      "name": "日本近海で新種の深海生物38種発見 JAMSTECなど調査",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015118791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260511/K10015118791_2605112017_0511231128_01_02.jpg",
+      "datePublished": "2026-05-11T23:11:27+09:00"
+    },
+    {
+      "name": "長期金利 2.54％まで上昇 27年ぶり高水準 物価上昇への懸念",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119101000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260512/K10015119101_2605120937_0512094955_01_02.jpg",
+      "datePublished": "2026-05-12T09:49:54+09:00"
+    },
+    {
+      "name": "ふるさと納税 仲介サイト手数料 総務省が引き下げ要請へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260512/K10015119131_2605121026_0512103437_01_02.jpg",
+      "datePublished": "2026-05-12T10:34:36+09:00"
+    },
+    {
+      "name": "カルビー 一部商品パッケージ 白黒の2色に変更 中東情勢の影響",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015118701000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260511/K10015118701_2605111933_0511194655_01_02.jpg",
+      "datePublished": "2026-05-11T19:46:54+09:00"
+    },
+    {
+      "name": "“トランプ大統領 安全保障チームと今後の選択肢協議” 米報道",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015118891000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260512/K10015118891_2605120519_0512055117_01_02.jpg",
+      "datePublished": "2026-05-12T12:03:09+09:00"
+    },
+    {
+      "name": "崩れた信頼 DNA鑑定不正の深層に迫る",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015118331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260511/K10015118331_2605111443_0511190136_01_02.jpg",
+      "datePublished": "2026-05-11T19:01:35+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

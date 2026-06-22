@@ -1,0 +1,102 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014876761000",
+  "dataSourceId": "na",
+  "name": "不妊治療 AIで卵子の数など予測するモデルを開発 東大など",
+  "headline": "不妊治療 AIで卵子の数など予測するモデルを開発 東大など",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014876761000",
+    "playlistId": "news-nwa-society-nationwide-20250728",
+    "newsarticleName": "不妊治療 AIで卵子の数など予測するモデルを開発 東大など",
+    "playlistName": "7月28日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "不妊の原因の1つに加齢による卵巣の機能の低下があるとされていますが、東京大学などの研究グループは、不妊治療などに役立ててもらおうと、「AI」＝人工知能を使って患者の卵子の数などを予測するモデルを開発し",
+  "dateModified": "2025-07-28T13:43:46+09:00",
+  "datePublished": "2025-07-28T13:43:46+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250728/K10014876761_2507281308_0728134258_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250728/K10014876761_2507281308_0728134258_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会",
+    "科学・文化"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "不妊の原因の1つに加齢による卵巣の機能の低下があるとされていますが、東京大学などの研究グループは、不妊治療などに役立ててもらおうと、「AI」＝人工知能を使って患者の卵子の数などを予測するモデルを開発し",
+  "articleBody": "不妊の原因の1つに加齢による卵巣の機能の低下があるとされていますが、東京大学などの研究グループは、不妊治療などに役立ててもらおうと、「AI」＝人工知能を使って患者の卵子の数などを予測するモデルを開発しました。\n\n\n卵巣の機能は年齢とともに低下し卵子の数も減っていくとされていますが、不妊治療の前などに行われる血液検査は精度に課題があり、実際に不妊治療を受けるまで評価が難しいことが課題となっています。\n\n産婦人科が専門の東京大学の原田美由紀教授らのグループは、大学病院などで不妊治療を受けた440人余りの患者の年齢や月経周期などの情報や検査結果をAIに学習させ、卵巣の機能を予測するモデルを開発しました。\n\nモデルに患者の年齢や出産の回数、血液検査の結果など5つの項目を入力すると卵子の数が少ないかどうかが判定される仕組みで、予測の結果は血液検査単独の場合の精度を上回ったということです。\n\nグループはさらに卵子の質の低下について予測するモデルも開発し一定の精度を確認したとしていて今後、数年以内に医療現場や家庭で使えるアプリなどの開発を目指したいとしています。\n\n原田教授は「このモデルを使えば不妊治療の前に卵子の状態を知ることができるようになる。患者それぞれにあわせた不妊治療につなげたい」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "不妊の原因の1つに加齢による卵巣の機能の低下があるとされていますが、東京大学などの研究グループは、不妊治療などに役立ててもらおうと、「AI」＝人工知能を使って患者の卵子の数などを予測するモデルを開発しました。\n",
+    "markedBody": "卵巣の機能は年齢とともに低下し卵子の数も減っていくとされていますが、不妊治療の前などに行われる血液検査は精度に課題があり、実際に不妊治療を受けるまで評価が難しいことが課題となっています。\n\n産婦人科が専門の東京大学の原田美由紀教授らのグループは、大学病院などで不妊治療を受けた440人余りの患者の年齢や月経周期などの情報や検査結果をAIに学習させ、卵巣の機能を予測するモデルを開発しました。\n\nモデルに患者の年齢や出産の回数、血液検査の結果など5つの項目を入力すると卵子の数が少ないかどうかが判定される仕組みで、予測の結果は血液検査単独の場合の精度を上回ったということです。\n\nグループはさらに卵子の質の低下について予測するモデルも開発し一定の精度を確認したとしていて今後、数年以内に医療現場や家庭で使えるアプリなどの開発を目指したいとしています。\n\n![](https://news.web.nhk/news/html/20250728/K10014876761_2507281308_0728134258_02_03.jpg)\n\n原田教授は「このモデルを使えば不妊治療の前に卵子の状態を知ることができるようになる。患者それぞれにあわせた不妊治療につなげたい」と話していました。\n",
+    "trimmedLead": "不妊の原因の1つに加齢による卵巣の機能の低下があるとされていますが、東京大学などの研究グループは、不妊治療などに役立ててもらおうと、「AI」＝人工知能を使って患者の卵子の数などを予測するモデルを開発しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014876761000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014876761000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "不妊治療 AIで卵子の数など予測するモデルを開発 東大など",
+      "description": "不妊の原因の1つに加齢による卵巣の機能の低下があるとされていますが、東京大学などの研究グループは、不妊治療などに役立ててもらおうと、「AI」＝人工知能を使って患者の卵子の数などを予測するモデルを開発し",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10014876761_202507281618_202507281618/index.m3u8&mrposter=/news/html/20250728/K10014876761_2507281308_0728134258_01_02.jpg",
+      "duration": "PT41S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10014876761_202507281618_202507281618/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20250728/K10014876761_2507281308_0728134258_01_02.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

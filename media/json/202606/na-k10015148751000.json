@@ -1,0 +1,177 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015148751000",
+  "dataSourceId": "na",
+  "name": "北陸電力が志賀原発の津波想定を引き上げ 能登半島地震を受け",
+  "headline": "北陸電力が志賀原発の津波想定を引き上げ 能登半島地震を受け",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015148751000",
+    "playlistId": "news-nwa-disaster-nationwide-20260612",
+    "newsarticleName": "北陸電力が志賀原発の津波想定を引き上げ 能登半島地震を受け",
+    "playlistName": "6月12日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "北陸電力は、おととしの能登半島地震などを受け、石川県にある志賀原子力発電所で想定される津波の高さを引き上げたことを明らかにしました。新たな津波の想定はこれまでより5メートルほど高い最大12メートル余り",
+  "dateModified": "2026-06-12T19:35:05+09:00",
+  "datePublished": "2026-06-12T19:35:05+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260612/K10015148751_2606121917_0612193506_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260612/K10015148751_2606121917_0612193506_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "0000021",
+      "name": "原発",
+      "display": true
+    },
+    {
+      "id": "0002217",
+      "name": "石川県",
+      "display": true
+    },
+    {
+      "id": "0002519",
+      "name": "能登半島地震",
+      "display": true
+    },
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0002621",
+      "name": "津波",
+      "display": true
+    },
+    {
+      "id": "0002708",
+      "name": "原子力規制委員会",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "北陸電力は、おととしの能登半島地震などを受け、石川県にある志賀原子力発電所で想定される津波の高さを引き上げたことを明らかにしました。新たな津波の想定はこれまでより5メートルほど高い最大12メートル余り",
+  "articleBody": "北陸電力は、おととしの能登半島地震などを受け、石川県にある志賀原子力発電所で想定される津波の高さを引き上げたことを明らかにしました。新たな津波の想定はこれまでより5メートルほど高い最大12メートル余りで、今後、津波対策も含めて、原子力規制委員会の審査で議論されることになります。\n\n\n石川県にある志賀原発2号機の再稼働に必要となる原子力規制委員会の審査では、原発で想定される地震や津波の議論が続いています。\n\n12日の審査会合で、北陸電力は最新の津波の評価を説明し、おととし1月の能登半島地震などを受け、能登半島の北側の海底にある活断層が広い範囲で連動する可能性が出てきたため改めて計算したところ、想定される津波の高さは最大12メートル余りとなり、これまでより5メートルほど高くなったことを明らかにしました。\n\n志賀原発は海抜11メートルの敷地にあり、4メートルの高さの防潮堤が設置されていますが、規制側からは、防潮堤の耐震性も含めて安全対策が十分かどうか検討するよう求める意見が出され、今後、津波の評価とともに審査で議論されることになります。\n\n志賀原発をめぐっては、国土地理院が航空写真などをもとに、原発の周辺に北陸電力が確認していない活断層が存在するなどと指摘したことを踏まえ、地震の評価についても規制委員会の審査で議論が続けられています。\n",
+  "detailedArticleBody": {
+    "markedLead": "北陸電力は、おととしの能登半島地震などを受け、石川県にある志賀原子力発電所で想定される津波の高さを引き上げたことを明らかにしました。新たな津波の想定はこれまでより5メートルほど高い最大12メートル余りで、今後、津波対策も含めて、原子力規制委員会の審査で議論されることになります。\n",
+    "markedBody": "石川県にある志賀原発2号機の再稼働に必要となる原子力規制委員会の審査では、原発で想定される地震や津波の議論が続いています。\n\n12日の審査会合で、北陸電力は最新の津波の評価を説明し、おととし1月の能登半島地震などを受け、能登半島の北側の海底にある活断層が広い範囲で連動する可能性が出てきたため改めて計算したところ、想定される津波の高さは最大12メートル余りとなり、これまでより5メートルほど高くなったことを明らかにしました。\n\n志賀原発は海抜11メートルの敷地にあり、4メートルの高さの防潮堤が設置されていますが、規制側からは、防潮堤の耐震性も含めて安全対策が十分かどうか検討するよう求める意見が出され、今後、津波の評価とともに審査で議論されることになります。\n\n志賀原発をめぐっては、国土地理院が航空写真などをもとに、原発の周辺に北陸電力が確認していない活断層が存在するなどと指摘したことを踏まえ、地震の評価についても規制委員会の審査で議論が続けられています。\n",
+    "trimmedLead": "北陸電力は、おととしの能登半島地震などを受け、石川県にある志賀原子力発電所で想定される津波の高さを引き上げたことを明らかにしました。新たな津波の想定はこれまでより5メートルほど高い最大12メートル余りで、今後、津波対策も含めて、原子力規制委員会の審査で議論されることになります。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015148751000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015148751000",
+  "video": [],
+  "citation": [
+    {
+      "name": "石川 志賀町 海岸に巨大ホース漂着 県が撤去へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015147641000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260611/K10015147641_2606111846_0611190830_01_02.jpg",
+      "datePublished": "2026-06-11T19:08:29+09:00"
+    },
+    {
+      "name": "東京株式市場 キオクシアHDの時価総額が国内首位に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148141_2606121048_0612111146_01_02.jpg",
+      "datePublished": "2026-06-12T16:30:54+09:00"
+    },
+    {
+      "name": "俳優 中村玉緒さん死去 86歳 映画やバラエティー番組で活躍",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148421_2606121319_0612131944_01_02.jpg",
+      "datePublished": "2026-06-12T19:23:58+09:00"
+    },
+    {
+      "name": "Booking.comの予約客に不審なメッセージ相次ぐ 注意呼びかけ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148701000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148701_2606121837_0612184618_01_02.jpg",
+      "datePublished": "2026-06-12T18:46:17+09:00"
+    },
+    {
+      "name": "サッカーW杯 開幕 日本代表 遠藤航がけがで離脱 町野を招集",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015147931000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015147931_2606120133_0612013411_01_02.jpg",
+      "datePublished": "2026-06-12T12:02:59+09:00"
+    },
+    {
+      "name": "首都直下地震対策 基本計画決定 「感震ブレーカー」設置推進へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148111000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148111_2606121219_0612150806_01_03.jpg",
+      "datePublished": "2026-06-12T18:25:45+09:00"
+    },
+    {
+      "name": "生命保険の営業職員 新たな呼び名は「ソナエルジュ」に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148651000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148651_2606121720_0612175859_01_02.jpg",
+      "datePublished": "2026-06-12T17:58:59+09:00"
+    },
+    {
+      "name": "再審制度の見直し 刑事訴訟法改正案が衆院法務委で可決",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148501000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148501_2606121503_0612163652_01_02.jpg",
+      "datePublished": "2026-06-12T19:26:40+09:00"
+    },
+    {
+      "name": "自民 衆院予算委集中審議 22日開催を提案 中道“充実審議を”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148381000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148381_2606121252_0612144953_01_02.jpg",
+      "datePublished": "2026-06-12T14:49:52+09:00"
+    },
+    {
+      "name": "個人情報保護法改正案 参院で審議入り 立民“氏名など削除を”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148441_2606121354_0612154001_01_02.jpg",
+      "datePublished": "2026-06-12T15:40:00+09:00"
+    },
+    {
+      "name": "天皇皇后両陛下 13日からオランダ・ベルギーを公式訪問",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015147711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015147711_2606112013_0612052744_01_02.jpg",
+      "datePublished": "2026-06-12T18:45:18+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

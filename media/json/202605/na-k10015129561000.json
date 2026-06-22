@@ -1,0 +1,173 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015129561000",
+  "dataSourceId": "na",
+  "name": "北海道 苫小牧 車が中央分離帯の街路樹衝突 2人死亡1人大けが",
+  "headline": "北海道 苫小牧 車が中央分離帯の街路樹衝突 2人死亡1人大けが",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015129561000",
+    "playlistId": "news-nwa-society-nationwide-20260523",
+    "newsarticleName": "北海道 苫小牧 車が中央分離帯の街路樹衝突 2人死亡1人大けが",
+    "playlistName": "5月23日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "北海道苫小牧市で3人が乗った乗用車が中央分離帯に乗り上げて街路樹に衝突し、2人が死亡し、1人が大けがをしました。\n\n\n22日午後8時40分ごろ、苫小牧市北星町で乗用車が中央分離帯に乗り上げ、街路樹に衝",
+  "dateModified": "2026-05-23T08:19:10+09:00",
+  "datePublished": "2026-05-23T08:19:10+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260523/K10015129561_2605230745_0523081911_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260523/K10015129561_2605230745_0523081911_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0001538",
+      "name": "事件・事故",
+      "display": true
+    },
+    {
+      "id": "0002201",
+      "name": "北海道",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "北海道苫小牧市で3人が乗った乗用車が中央分離帯に乗り上げて街路樹に衝突し、2人が死亡し、1人が大けがをしました。\n\n\n22日午後8時40分ごろ、苫小牧市北星町で乗用車が中央分離帯に乗り上げ、街路樹に衝",
+  "articleBody": "北海道苫小牧市で3人が乗った乗用車が中央分離帯に乗り上げて街路樹に衝突し、2人が死亡し、1人が大けがをしました。\n\n\n22日午後8時40分ごろ、苫小牧市北星町で乗用車が中央分離帯に乗り上げ、街路樹に衝突して横転しました。\n\n警察によりますと車には10代から20代とみられる男女3人が乗っていて、いずれも病院に搬送されましたが、このうち運転していた男性と、乗っていた女性1人が死亡しました。\n\nもう1人の女性は大けがをして手当てを受けていて、意識はあるということです。\n\n現場は片側2車線の直線道路で、警察が事故の原因を調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "北海道苫小牧市で3人が乗った乗用車が中央分離帯に乗り上げて街路樹に衝突し、2人が死亡し、1人が大けがをしました。\n",
+    "markedBody": "22日午後8時40分ごろ、苫小牧市北星町で乗用車が中央分離帯に乗り上げ、街路樹に衝突して横転しました。\n\n警察によりますと車には10代から20代とみられる男女3人が乗っていて、いずれも病院に搬送されましたが、このうち運転していた男性と、乗っていた女性1人が死亡しました。\n\nもう1人の女性は大けがをして手当てを受けていて、意識はあるということです。\n\n現場は片側2車線の直線道路で、警察が事故の原因を調べています。\n",
+    "trimmedLead": "北海道苫小牧市で3人が乗った乗用車が中央分離帯に乗り上げて街路樹に衝突し、2人が死亡し、1人が大けがをしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015129561000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015129561000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "北海道 苫小牧 車が中央分離帯の街路樹衝突 2人死亡1人大けが",
+      "description": "北海道苫小牧市で3人が乗った乗用車が中央分離帯に乗り上げて街路樹に衝突し、2人が死亡し、1人が大けがをしました。\n\n\n22日午後8時40分ごろ、苫小牧市北星町で乗用車が中央分離帯に乗り上げ、街路樹に衝",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015129561_202605231004_202605231004/index.m3u8&mrposter=/news/html/20260523/K10015129561_2605230745_0523081911_01_02.jpg",
+      "duration": "PT38S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015129561_202605231004_202605231004/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260523/K10015129561_2605230745_0523081911_01_02.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "辺野古沖転覆事故 “救助の船長は通報番号わからず” 生徒証言",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015129481000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260523/K10015129481_2605230112_0523054104_01_02.jpg",
+      "datePublished": "2026-05-23T05:41:03+09:00"
+    },
+    {
+      "name": "旭山動物園職員 妻殺害容疑で再逮捕 園内から複数のロープ押収",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015129331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260523/K10015129331_2605222342_0523050131_01_02.jpg",
+      "datePublished": "2026-05-23T05:01:30+09:00"
+    },
+    {
+      "name": "NPT再検討会議「最終文書」採択できず閉会へ 米イランが対立",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015129541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260523/K10015129541_2605230625_0523063722_01_02.jpg",
+      "datePublished": "2026-05-23T08:35:42+09:00"
+    },
+    {
+      "name": "はしか感染の20代女性 東京ドームでイベントを観覧",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015129511000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260523/K10015129511_2605230528_0523053457_01_02.jpg",
+      "datePublished": "2026-05-23T05:34:56+09:00"
+    },
+    {
+      "name": "安定的な皇位継承 来週以降のとりまとめに向け調整急ぐ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015129231000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260523/K10015129231_2605222236_0523050352_01_02.jpg",
+      "datePublished": "2026-05-23T05:03:51+09:00"
+    },
+    {
+      "name": "大相撲夏場所14日目 単独トップの大関 霧島 伯乃富士と対戦",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015129321000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260523/K10015129321_2605222148_0523051314_01_02.jpg",
+      "datePublished": "2026-05-23T05:13:13+09:00"
+    },
+    {
+      "name": "「日本国国旗損壊罪」法案の骨子案を大筋了承 自民作業チーム",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015128541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260522/K10015128541_2605221215_0522124416_01_03.jpg",
+      "datePublished": "2026-05-22T19:30:04+09:00"
+    },
+    {
+      "name": "「YKK AP」会長ら3人退任へ 私的飲食で会社の経費使用",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015129401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260522/K10015129401_2605222138_0522214300_01_02.jpg",
+      "datePublished": "2026-05-22T21:42:59+09:00"
+    },
+    {
+      "name": "エアコンが高くなる！？ 命守るための適切な使い方は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015121221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260521/K10015121221_2605201307_0521175105_01_02.jpg",
+      "datePublished": "2026-05-21T17:51:03+09:00"
+    },
+    {
+      "name": "金利上昇29年ぶりの水準に 試される夏【経済コラム】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015128491000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260522/K10015128491_2605221324_0522191715_01_02.jpg",
+      "datePublished": "2026-05-22T19:17:15+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

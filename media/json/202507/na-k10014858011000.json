@@ -1,0 +1,102 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014858011000",
+  "dataSourceId": "na",
+  "name": "和歌山 高校の前で女子生徒が車にはねられ 意識なく搬送も回復",
+  "headline": "和歌山 高校の前で女子生徒が車にはねられ 意識なく搬送も回復",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014858011000",
+    "playlistId": "news-nwa-society-nationwide-20250709",
+    "newsarticleName": "和歌山 高校の前で女子生徒が車にはねられ 意識なく搬送も回復",
+    "playlistName": "7月9日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "9日午前、和歌山市の高校の前で、登校中の17歳の女子生徒が車にはねられ、頭などにけがをして病院に運ばれました。搬送時は意識がない状態でしたが、その後、回復したということで、警察が事故の状況を詳しく調べ",
+  "dateModified": "2025-07-09T20:36:56+09:00",
+  "datePublished": "2025-07-09T12:17:25+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250709/K10014858011_2507091202_0709121727_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250709/K10014858011_2507091202_0709121727_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会",
+    "地域"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "9日午前、和歌山市の高校の前で、登校中の17歳の女子生徒が車にはねられ、頭などにけがをして病院に運ばれました。搬送時は意識がない状態でしたが、その後、回復したということで、警察が事故の状況を詳しく調べ",
+  "articleBody": "9日午前、和歌山市の高校の前で、登校中の17歳の女子生徒が車にはねられ、頭などにけがをして病院に運ばれました。搬送時は意識がない状態でしたが、その後、回復したということで、警察が事故の状況を詳しく調べています。\n\n\n警察によりますと、9日午前8時半前、和歌山市の県立和歌山東高校の前を通る県道で、登校中の17歳の女子生徒が軽自動車にはねられました。\n\n生徒は、頭などにけがをして病院に運ばれ、搬送時は意識がない状態でしたが、その後、回復し命に別状はないということです。\n\n現場は片側2車線の見通しのよい直線道路で、警察は、車を運転していた84歳の男性から話を聞くなどして、事故の状況を詳しく調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "9日午前、和歌山市の高校の前で、登校中の17歳の女子生徒が車にはねられ、頭などにけがをして病院に運ばれました。搬送時は意識がない状態でしたが、その後、回復したということで、警察が事故の状況を詳しく調べています。\n",
+    "markedBody": "警察によりますと、9日午前8時半前、和歌山市の県立和歌山東高校の前を通る県道で、登校中の17歳の女子生徒が軽自動車にはねられました。\n\n生徒は、頭などにけがをして病院に運ばれ、搬送時は意識がない状態でしたが、その後、回復し命に別状はないということです。\n\n現場は片側2車線の見通しのよい直線道路で、警察は、車を運転していた84歳の男性から話を聞くなどして、事故の状況を詳しく調べています。\n",
+    "trimmedLead": "9日午前、和歌山市の高校の前で、登校中の17歳の女子生徒が車にはねられ、頭などにけがをして病院に運ばれました。搬送時は意識がない状態でしたが、その後、回復したということで、警察が事故の状況を詳しく調べています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014858011000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014858011000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "和歌山 高校の前で女子生徒が車にはねられ 意識なく搬送も回復",
+      "description": "9日午前、和歌山市の高校の前で、登校中の17歳の女子生徒が車にはねられ、頭などにけがをして病院に運ばれました。搬送時は意識がない状態でしたが、その後、回復したということで、警察が事故の状況を詳しく調べ",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10014858011_202507091202_202507091205/index.m3u8&mrposter=/news/html/20250709/K10014858011_2507091202_0709121727_01_03.jpg",
+      "duration": "PT38S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10014858011_202507091202_202507091205/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20250709/K10014858011_2507091202_0709121727_01_03.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

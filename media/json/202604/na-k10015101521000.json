@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015101521000",
+  "dataSourceId": "na",
+  "name": "株価 値下がり 半導体関連などの銘柄が売られる",
+  "headline": "株価 値下がり 半導体関連などの銘柄が売られる",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015101521000",
+    "playlistId": "news-nwa-business-nationwide-20260417",
+    "newsarticleName": "株価 値下がり 半導体関連などの銘柄が売られる",
+    "playlistName": "4月17日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "17日の東京株式市場、半導体関連など値上がりしていた銘柄を売って利益を確定しようという動きが出て、日経平均株価は値下がりしています。\n\n\n▽日経平均株価、午前の終値は、16日の終値と比べて587円47",
+  "dateModified": "2026-04-17T12:13:42+09:00",
+  "datePublished": "2026-04-17T12:13:42+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260417/K10015101521_2604171156_0417121342_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260417/K10015101521_2604171156_0417121342_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0002421",
+      "name": "半導体",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "17日の東京株式市場、半導体関連など値上がりしていた銘柄を売って利益を確定しようという動きが出て、日経平均株価は値下がりしています。\n\n\n▽日経平均株価、午前の終値は、16日の終値と比べて587円47",
+  "articleBody": "17日の東京株式市場、半導体関連など値上がりしていた銘柄を売って利益を確定しようという動きが出て、日経平均株価は値下がりしています。\n\n\n▽日経平均株価、午前の終値は、16日の終値と比べて587円47銭安い5万8930円87銭。\n\n▽東証株価指数=トピックスは43.03下がって3771.43。\n\n▽午前の出来高は、9億3091万株でした。\n\n市場関係者は「16日最高値を更新した日経平均株価が心理的な節目となる6万円が目前に迫る中で、いったん利益を確定しようと半導体関連など値上がりしていた銘柄が売られている」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "17日の東京株式市場、半導体関連など値上がりしていた銘柄を売って利益を確定しようという動きが出て、日経平均株価は値下がりしています。\n",
+    "markedBody": "▽日経平均株価、午前の終値は、16日の終値と比べて587円47銭安い5万8930円87銭。\n\n▽東証株価指数\\=トピックスは43.03下がって3771.43。\n\n▽午前の出来高は、9億3091万株でした。\n\n市場関係者は「16日最高値を更新した日経平均株価が心理的な節目となる6万円が目前に迫る中で、いったん利益を確定しようと半導体関連など値上がりしていた銘柄が売られている」と話しています。\n",
+    "trimmedLead": "17日の東京株式市場、半導体関連など値上がりしていた銘柄を売って利益を確定しようという動きが出て、日経平均株価は値下がりしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015101521000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015101521000",
+  "video": [],
+  "citation": [
+    {
+      "name": "ナスダック指数最高値更新 12営業日連続上昇は2009年以来",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015101331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260417/K10015101331_2604171029_0417103002_01_02.jpg",
+      "datePublished": "2026-04-17T06:45:33+09:00"
+    },
+    {
+      "name": "アジアが米国産原油に注目“超大型タンカー予約難しく”米報道",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015101431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260417/K10015101431_2604171127_0417120038_01_02.jpg",
+      "datePublished": "2026-04-17T12:00:37+09:00"
+    },
+    {
+      "name": "京都 11歳男児遺体遺棄事件 父親が遺体遺棄の方法検索か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015101231000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260417/K10015101231_2604170043_0417052328_01_02.jpg",
+      "datePublished": "2026-04-17T11:59:55+09:00"
+    },
+    {
+      "name": "イスラエルとレバノン 10日間の停戦に合意",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015101301000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260417/K10015101301_2604171158_0417115922_01_02.jpg",
+      "datePublished": "2026-04-17T12:40:55+09:00"
+    },
+    {
+      "name": "赤澤経産相 “塗料用シンナーや一部住宅設備の供給にめど”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015101441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260417/K10015101441_2604171125_0417115630_01_02.jpg",
+      "datePublished": "2026-04-17T11:56:30+09:00"
+    },
+    {
+      "name": "東京電力 柏崎刈羽原発6号機営業運転 安定運転の継続が課題",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015101181000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260417/K10015101181_2604162054_0417053557_01_02.jpg",
+      "datePublished": "2026-04-17T11:48:46+09:00"
+    },
+    {
+      "name": "日銀 植田総裁 “負の供給ショック”踏まえ金融政策を判断",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015101421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260417/K10015101421_2604171105_0417114052_01_03.jpg",
+      "datePublished": "2026-04-17T11:40:51+09:00"
+    },
+    {
+      "name": "気温40度以上の新たな呼び名は「酷暑日」に 気象庁発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015101371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260417/K10015101371_2604171223_0417123800_01_03.jpg",
+      "datePublished": "2026-04-17T12:37:59+09:00"
+    },
+    {
+      "name": "南スーダンPKO 現地司令部トップとして陸自幹部派遣を決定",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015101361000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260417/K10015101361_2604170945_0417100735_01_02.jpg",
+      "datePublished": "2026-04-17T11:32:08+09:00"
+    },
+    {
+      "name": "法務省 生成AIでの画像や声の無断利用事例で検討会設置へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015101401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260417/K10015101401_2604171054_0417111452_01_02.jpg",
+      "datePublished": "2026-04-17T11:14:51+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015151661000",
+  "dataSourceId": "na",
+  "name": "羽田・成田・福島空港 地震の影響なし",
+  "headline": "羽田・成田・福島空港 地震の影響なし",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015151661000",
+    "playlistId": "news-nwa-disaster-nationwide-20260616",
+    "newsarticleName": "羽田・成田・福島空港 地震の影響なし",
+    "playlistName": "6月16日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "国土交通省東京空港事務所によりますと、羽田空港では地震による航空機の運航への影響はないということです。\n\n成田空港会社によりますと、成田空港では午後8時現在、地震による運航への影響はないということです",
+  "dateModified": "2026-06-16T20:44:40+09:00",
+  "datePublished": "2026-06-16T20:08:02+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260616/K10015151661_2606162004_0616200803_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260616/K10015151661_2606162004_0616200803_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002424",
+      "name": "航空",
+      "display": true
+    },
+    {
+      "id": "0002683",
+      "name": "交通・インフラ",
+      "display": true
+    },
+    {
+      "id": "0002213",
+      "name": "東京都",
+      "display": true
+    },
+    {
+      "id": "0002212",
+      "name": "千葉県",
+      "display": true
+    },
+    {
+      "id": "0002409",
+      "name": "国土交通省",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "国土交通省東京空港事務所によりますと、羽田空港では地震による航空機の運航への影響はないということです。\n\n成田空港会社によりますと、成田空港では午後8時現在、地震による運航への影響はないということです",
+  "articleBody": "国土交通省東京空港事務所によりますと、羽田空港では地震による航空機の運航への影響はないということです。\n\n成田空港会社によりますと、成田空港では午後8時現在、地震による運航への影響はないということです。\n\n\n福島空港 影響なし\n\n全日空と日本航空によりますと、今回の地震で震度3の揺れを観測した羽田空港と福島空港での航空機の運航への影響はないということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "国土交通省東京空港事務所によりますと、羽田空港では地震による航空機の運航への影響はないということです。\n\n成田空港会社によりますと、成田空港では午後8時現在、地震による運航への影響はないということです。\n",
+    "markedBody": "### 福島空港 影響なし\n\n全日空と日本航空によりますと、今回の地震で震度3の揺れを観測した羽田空港と福島空港での航空機の運航への影響はないということです。\n",
+    "trimmedLead": "国土交通省東京空港事務所によりますと、羽田空港では地震による航空機の運航への影響はないということです。\n\n成田空港会社によりますと、成田空港では午後8時現在、地震による運航への影響はないということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015151661000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015151661000",
+  "video": [],
+  "citation": [
+    {
+      "name": "【地震情報】群馬県南部 埼玉県北部で震度5弱 津波なし",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148981000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260616/K10015148981_2606161951_0616195218_01_02.jpg",
+      "datePublished": "2026-06-16T22:28:32+09:00"
+    },
+    {
+      "name": "震度5弱の揺れ 注意点は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015151621000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260616/K10015151621_2606161955_0616195735_01_02.jpg",
+      "datePublished": "2026-06-16T19:57:34+09:00"
+    },
+    {
+      "name": "【地震関連など】各地の最新ニュースはこちらから",
+      "url": "https://news.web.nhk/news/special/rich_contents/lnews/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31393968.jpg"
+    },
+    {
+      "name": "鉄道運行情報",
+      "url": "https://news.web.nhk/news/traffic/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30083519.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

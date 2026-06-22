@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014898801000",
+  "dataSourceId": "na",
+  "name": "吉本興業 ダウンタウンのコンテンツ 11月にネット配信開始へ",
+  "headline": "吉本興業 ダウンタウンのコンテンツ 11月にネット配信開始へ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014898801000",
+    "playlistId": "news-nwa-scienceculture-nationwide-20250820",
+    "newsarticleName": "吉本興業 ダウンタウンのコンテンツ 11月にネット配信開始へ",
+    "playlistName": "8月20日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "吉本興業は、お笑いコンビ「ダウンタウン」によるコンテンツをインターネットで配信する有料のサービスを、ことし11月に開始すると、20日に発表しました。\n\n\n「ダウンタウン」の松本人志氏は、去年から芸能活",
+  "dateModified": "2025-08-20T19:33:41+09:00",
+  "datePublished": "2025-08-20T19:33:41+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250820/K10014898801_2508201835_0820184731_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250820/K10014898801_2508201835_0820184731_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "科学・文化",
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "吉本興業は、お笑いコンビ「ダウンタウン」によるコンテンツをインターネットで配信する有料のサービスを、ことし11月に開始すると、20日に発表しました。\n\n\n「ダウンタウン」の松本人志氏は、去年から芸能活",
+  "articleBody": "吉本興業は、お笑いコンビ「ダウンタウン」によるコンテンツをインターネットで配信する有料のサービスを、ことし11月に開始すると、20日に発表しました。\n\n\n「ダウンタウン」の松本人志氏は、去年から芸能活動を休止していますが、これに合わせて再開するものとみられます。\n\n「ダウンタウン」の松本人志氏は、性的な被害を受けたとする女性の証言が週刊文春などに掲載されたことを受けて、去年から芸能活動を休止していました。\n\nその後、記事で名誉を傷つけられたとして、発行元の文藝春秋側に賠償などを求める訴えを起こしましたが、去年11月、双方が合意して訴えは取り下げられました。\n\n当時、吉本興業は、松本氏の活動について、「関係各所と相談の上、決まり次第、お知らせさせていただきます」としていましたが、「ダウンタウン」によるコンテンツを、インターネットで配信する有料のサービスを、ことし11月1日に開始することを、20日にホームページで発表しました。\n\n活動を休止している松本氏は、これに合わせて再開するものとみられます。\n",
+  "detailedArticleBody": {
+    "markedLead": "吉本興業は、お笑いコンビ「ダウンタウン」によるコンテンツをインターネットで配信する有料のサービスを、ことし11月に開始すると、20日に発表しました。\n",
+    "markedBody": "「ダウンタウン」の松本人志氏は、去年から芸能活動を休止していますが、これに合わせて再開するものとみられます。\n\n「ダウンタウン」の松本人志氏は、性的な被害を受けたとする女性の証言が週刊文春などに掲載されたことを受けて、去年から芸能活動を休止していました。\n\nその後、記事で名誉を傷つけられたとして、発行元の文藝春秋側に賠償などを求める訴えを起こしましたが、去年11月、双方が合意して訴えは取り下げられました。\n\n当時、吉本興業は、松本氏の活動について、「関係各所と相談の上、決まり次第、お知らせさせていただきます」としていましたが、「ダウンタウン」によるコンテンツを、インターネットで配信する有料のサービスを、ことし11月1日に開始することを、20日にホームページで発表しました。\n\n活動を休止している松本氏は、これに合わせて再開するものとみられます。\n",
+    "trimmedLead": "吉本興業は、お笑いコンビ「ダウンタウン」によるコンテンツをインターネットで配信する有料のサービスを、ことし11月に開始すると、20日に発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014898801000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014898801000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

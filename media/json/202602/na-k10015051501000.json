@@ -1,0 +1,180 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015051501000",
+  "dataSourceId": "na",
+  "name": "松山の寺で火事 焼け跡から1人遺体で見つかる",
+  "headline": "松山の寺で火事 焼け跡から1人遺体で見つかる",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015051501000",
+    "playlistId": "news-nwa-society-nationwide-20260214",
+    "newsarticleName": "松山の寺で火事 焼け跡から1人遺体で見つかる",
+    "playlistName": "2月14日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "13日夜、松山市の寺で火事があり、火はおよそ1時間後にほぼ消し止められましたが焼け跡から1人が遺体で見つかりました。\n\n\n13日午後9時半ごろ、松山市朝日ヶ丘で「寺が燃えている」と警察に通報がありまし",
+  "dateModified": "2026-02-14T00:04:21+09:00",
+  "datePublished": "2026-02-13T22:00:28+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260213/K10015051501_2602132208_0213220919_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260213/K10015051501_2602132208_0213220919_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002689",
+      "name": "火災",
+      "display": true
+    },
+    {
+      "id": "0002238",
+      "name": "愛媛県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "13日夜、松山市の寺で火事があり、火はおよそ1時間後にほぼ消し止められましたが焼け跡から1人が遺体で見つかりました。\n\n\n13日午後9時半ごろ、松山市朝日ヶ丘で「寺が燃えている」と警察に通報がありまし",
+  "articleBody": "13日夜、松山市の寺で火事があり、火はおよそ1時間後にほぼ消し止められましたが焼け跡から1人が遺体で見つかりました。\n\n\n13日午後9時半ごろ、松山市朝日ヶ丘で「寺が燃えている」と警察に通報がありました。\n\n消防によりますと、火はおよそ1時間後にほぼ消し止められましたが、焼け跡から1人が遺体で見つかりました。\n\nまた、寺の建物に隣接する住宅にいた男性2人が煙を吸って病院に搬送されましたが、いずれも意識はあるということです。\n\n消防によりますと火事の後、この家に住む女性1人と連絡が取れなくなっているということで、警察は遺体の身元の確認を進めています。\n",
+  "detailedArticleBody": {
+    "markedLead": "13日夜、松山市の寺で火事があり、火はおよそ1時間後にほぼ消し止められましたが焼け跡から1人が遺体で見つかりました。\n",
+    "markedBody": "13日午後9時半ごろ、松山市朝日ヶ丘で「寺が燃えている」と警察に通報がありました。\n\n消防によりますと、火はおよそ1時間後にほぼ消し止められましたが、焼け跡から1人が遺体で見つかりました。\n\nまた、寺の建物に隣接する住宅にいた男性2人が煙を吸って病院に搬送されましたが、いずれも意識はあるということです。\n\n消防によりますと火事の後、この家に住む女性1人と連絡が取れなくなっているということで、警察は遺体の身元の確認を進めています。\n",
+    "noHtmlMarkedLead": "消防によりますと、13日午後9時半ごろ、松山市朝日ヶ丘で建物から火が出ていると通報がありました。現在消防が消火活動にあたるとともに、逃げ遅れた人がいないかなど確認を進めています。\n",
+    "trimmedLead": "13日夜、松山市の寺で火事があり、火はおよそ1時間後にほぼ消し止められましたが焼け跡から1人が遺体で見つかりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015051501000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015051501000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "松山の寺で火事 焼け跡から1人遺体で見つかる",
+      "description": "13日夜、松山市の寺で火事があり、火はおよそ1時間後にほぼ消し止められましたが焼け跡から1人が遺体で見つかりました。\n\n\n13日午後9時半ごろ、松山市朝日ヶ丘で「寺が燃えている」と警察に通報がありまし",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015051501_202602132205_202602132209/index.m3u8&mrposter=/news/html/20260213/K10015051501_2602132208_0213220919_01_03.jpg",
+      "duration": "PT20S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015051501_202602132205_202602132209/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260213/K10015051501_2602132208_0213220919_01_03.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "高市首相 新年度予算案 “1日も早い成立に向け努力を”と指示",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050871000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050871_2602131210_0213124547_01_02.jpg",
+      "datePublished": "2026-02-13T19:27:17+09:00"
+    },
+    {
+      "name": "高市首相 日銀 植田総裁と16日会談へ 衆院選後初めて",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015051291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015051291_2602132010_0213203642_01_02.jpg",
+      "datePublished": "2026-02-13T20:36:41+09:00"
+    },
+    {
+      "name": "中道 新代表に小川淳也氏を選出 階猛氏を抑える 立民出身",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050371_2602131824_0213191002_01_02.jpg",
+      "datePublished": "2026-02-13T20:41:43+09:00"
+    },
+    {
+      "name": "中道 新代表に小川淳也氏 党内・他党の反応は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050771_2602131112_0213160250_01_02.jpg",
+      "datePublished": "2026-02-13T18:29:35+09:00"
+    },
+    {
+      "name": "中道 新代表の小川淳也氏が会見 “党内融和へバランスに配慮”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050811_2602131428_0213170954_01_03.jpg",
+      "datePublished": "2026-02-13T17:09:53+09:00"
+    },
+    {
+      "name": "広島地検の検事自殺 国が遺族に1億9400万円の解決金 和解成立",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015051141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015051141_2602131757_0213184529_01_02.jpg",
+      "datePublished": "2026-02-13T18:45:28+09:00"
+    },
+    {
+      "name": "筋ジストロフィーの治療薬 保険適用対象に 価格3億円余 中医協",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015051201000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015051201_2602131849_0213190846_01_02.jpg",
+      "datePublished": "2026-02-13T19:54:33+09:00"
+    },
+    {
+      "name": "伊勢崎3人死亡 危険運転の罪認定 被告に懲役20年判決 前橋地裁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015051011000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015051011_2602131524_0213153238_01_02.jpg",
+      "datePublished": "2026-02-13T19:06:41+09:00"
+    },
+    {
+      "name": "兵庫 元局長の私的情報の漏えいに関与か 元総務部長を書類送検",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015051261000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015051261_2602131924_0213193828_01_02.jpg",
+      "datePublished": "2026-02-13T19:38:27+09:00"
+    },
+    {
+      "name": "ミラノ・コルティナ五輪 見どころ【2/13～14】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050601000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050601_2602130359_0213055826_01_02.jpg",
+      "datePublished": "2026-02-13T05:58:25+09:00"
+    },
+    {
+      "name": "ミラノ・コルティナ五輪【結果】2／12～13タイムライン",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260212/K10015050221_2602140030_0214003138_01_02.jpg",
+      "datePublished": "2026-02-13T08:48:44+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015047781000",
+  "dataSourceId": "na",
+  "name": "スキージャンプ トップ選手らの飛び方の特徴 「富岳」で分析",
+  "headline": "スキージャンプ トップ選手らの飛び方の特徴 「富岳」で分析",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015047781000",
+    "playlistId": "news-nwa-scienceculture-nationwide-20260210",
+    "newsarticleName": "スキージャンプ トップ選手らの飛び方の特徴 「富岳」で分析",
+    "playlistName": "2月10日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "ミラノ・コルティナオリンピックで日本選手の活躍が注目されるスキージャンプについて、スーパーコンピューター「富岳」を使うことでトップ選手たちのジャンプの特徴を明らかにしたと理化学研究所などのグループが発",
+  "dateModified": "2026-02-10T07:37:39+09:00",
+  "datePublished": "2026-02-10T07:37:39+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260210/K10015047781_2602092041_0210073740_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260210/K10015047781_2602092041_0210073740_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "科学・文化",
+    "スポーツ"
+  ],
+  "topic": [
+    {
+      "id": "0002390",
+      "name": "サイエンス",
+      "display": true
+    },
+    {
+      "id": "0002046",
+      "name": "スキージャンプ",
+      "display": true
+    },
+    {
+      "id": "0002451",
+      "name": "ミラノ・コルティナ オリンピック",
+      "display": true
+    },
+    {
+      "id": "0001877",
+      "name": "オリンピック・パラリンピック",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ミラノ・コルティナオリンピックで日本選手の活躍が注目されるスキージャンプについて、スーパーコンピューター「富岳」を使うことでトップ選手たちのジャンプの特徴を明らかにしたと理化学研究所などのグループが発",
+  "articleBody": "ミラノ・コルティナオリンピックで日本選手の活躍が注目されるスキージャンプについて、スーパーコンピューター「富岳」を使うことでトップ選手たちのジャンプの特徴を明らかにしたと理化学研究所などのグループが発表しました。グループでは「これから育つ選手たちが自分の方向性を見極めるのに役立てたい」としています。\n\n\n理化学研究所や北翔大学などのグループは、スキージャンプのオリンピック代表を含む、国内74選手の踏み切り直後の飛行姿勢の変化を延べ500回以上撮影しました。\n\nこの映像を解析したところ、腰や足の関節の角度から7つのタイプの飛び方に分類され、このうちトップ選手たちは主に4つのタイプを採用していることが分かりました。\n\nそして、気流の変化などをスーパーコンピューター「富岳」でシミュレーションしたところ、小林陵侑選手はジャンプの直後に体を浮かせる大きな力を獲得する飛び方となっていて、二階堂蓮選手の飛び方は空気抵抗を抑える特徴があることなどが分かったということです。\n\nグループではトップ選手たちのジャンプの特徴を明らかにできたとしていて、北翔大学の山本敬三教授は「選手やコーチの頭の中にある経験則をコンピューターで再現することに成功した。これから育つ選手が自分の方向性を見極めるのに役立てたい」としています。\n",
+  "detailedArticleBody": {
+    "markedLead": "ミラノ・コルティナオリンピックで日本選手の活躍が注目されるスキージャンプについて、スーパーコンピューター「富岳」を使うことでトップ選手たちのジャンプの特徴を明らかにしたと理化学研究所などのグループが発表しました。グループでは「これから育つ選手たちが自分の方向性を見極めるのに役立てたい」としています。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20260210/K10015047781_2602092041_0210073740_02_03.jpg)\n\n理化学研究所や北翔大学などのグループは、スキージャンプのオリンピック代表を含む、国内74選手の踏み切り直後の飛行姿勢の変化を延べ500回以上撮影しました。\n\nこの映像を解析したところ、腰や足の関節の角度から7つのタイプの飛び方に分類され、このうちトップ選手たちは主に4つのタイプを採用していることが分かりました。\n\nそして、気流の変化などをスーパーコンピューター「富岳」でシミュレーションしたところ、小林陵侑選手はジャンプの直後に体を浮かせる大きな力を獲得する飛び方となっていて、二階堂蓮選手の飛び方は空気抵抗を抑える特徴があることなどが分かったということです。\n\nグループではトップ選手たちのジャンプの特徴を明らかにできたとしていて、北翔大学の山本敬三教授は「選手やコーチの頭の中にある経験則をコンピューターで再現することに成功した。これから育つ選手が自分の方向性を見極めるのに役立てたい」としています。\n",
+    "trimmedLead": "ミラノ・コルティナオリンピックで日本選手の活躍が注目されるスキージャンプについて、スーパーコンピューター「富岳」を使うことでトップ選手たちのジャンプの特徴を明らかにしたと理化学研究所などのグループが発表しました。グループでは「これから育つ選手たちが自分の方向性を見極めるのに役立てたい」としています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015047781000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015047781000",
+  "video": [],
+  "citation": [
+    {
+      "name": "スピードスケート女子1000m 高木美帆が銅メダル 五輪",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015047811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260210/K10015047811_2602100303_0210035411_01_02.jpg",
+      "datePublished": "2026-02-10T09:06:31+09:00"
+    },
+    {
+      "name": "大けがで得た“楽しむ” ジャンプ 丸山希が銅メダル【解説】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015046221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260208/K10015046221_2602081747_0208174820_01_02.jpg",
+      "datePublished": "2026-02-08T17:48:19+09:00"
+    },
+    {
+      "name": "ミラノ・コルティナ五輪【結果】2／9～10タイムライン",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015047771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260210/K10015047771_2602102212_0210221314_01_02.jpg",
+      "datePublished": "2026-02-10T06:37:27+09:00"
+    },
+    {
+      "name": "【最新ニュースまとめて】ミラノ・コルティナ オリンピック",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002451",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30750181.jpg"
+    },
+    {
+      "name": "全競技・全種目配信！ミラノ・コルティナ2026オリンピック 特設ページ",
+      "url": "https://www.web.nhk/olympics/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30792241.jpg"
+    },
+    {
+      "name": "「早発閉経」“別の病気で使われる薬が有効” 順天堂大学など",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015047581000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260209/K10015047581_2602091645_0209182812_01_02.jpg",
+      "datePublished": "2026-02-09T18:28:11+09:00"
+    },
+    {
+      "name": "高市首相 “公約実現に向け党一丸で取り組む”【会見動画も】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015047361000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260209/K10015047361_2602091802_0209180255_01_02.jpg",
+      "datePublished": "2026-02-09T19:22:50+09:00"
+    },
+    {
+      "name": "【衆院選 開票結果】小選挙区・比例代表の当落や得票数・各党獲得議席は",
+      "url": "https://news.web.nhk/senkyo/database/shugiin/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30816588.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

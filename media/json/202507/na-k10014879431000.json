@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014879431000",
+  "dataSourceId": "na",
+  "name": "避難の際の熱中症に注意 “ためらわずに119番を” 消防庁",
+  "headline": "避難の際の熱中症に注意 “ためらわずに119番を” 消防庁",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014879431000",
+    "playlistId": "news-nwa-disaster-nationwide-20250730",
+    "newsarticleName": "避難の際の熱中症に注意 “ためらわずに119番を” 消防庁",
+    "playlistName": "7月30日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "総務省消防庁は、津波警報が発表される中、避難場所が高台などの屋外や車の中が多くなることから、ふだん以上に熱中症に注意し、体調が悪化した場合はためらわずに119番通報をするよう呼びかけています。\n\n\n総",
+  "dateModified": "2025-07-30T15:29:40+09:00",
+  "datePublished": "2025-07-30T15:29:40+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250730/K10014879431_2507301528_0730152859_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250730/K10014879431_2507301528_0730152859_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害",
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "総務省消防庁は、津波警報が発表される中、避難場所が高台などの屋外や車の中が多くなることから、ふだん以上に熱中症に注意し、体調が悪化した場合はためらわずに119番通報をするよう呼びかけています。\n\n\n総",
+  "articleBody": "総務省消防庁は、津波警報が発表される中、避難場所が高台などの屋外や車の中が多くなることから、ふだん以上に熱中症に注意し、体調が悪化した場合はためらわずに119番通報をするよう呼びかけています。\n\n\n総務省消防庁は、こまめに水分や塩分をとること、屋外の場合は涼しい服装で、日陰を選ぶなど、暑さを避けて避難してほしいとしています。\n\n特に車の中にとどまる場合は、風通しのよい場所に駐車すること、断熱シートがあれば活用すること、子どもを絶対に1人にしないことなどの注意点を挙げています。\n\n一方で、体調が悪くなるなど自覚症状が出た場合は「ためらわずに119番通報をしてほしい」と話しています。\n\n判断に迷う場合は「＃7119」など、専用の相談ダイヤルに問い合わせてほしいと呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "総務省消防庁は、津波警報が発表される中、避難場所が高台などの屋外や車の中が多くなることから、ふだん以上に熱中症に注意し、体調が悪化した場合はためらわずに119番通報をするよう呼びかけています。\n",
+    "markedBody": "総務省消防庁は、こまめに水分や塩分をとること、屋外の場合は涼しい服装で、日陰を選ぶなど、暑さを避けて避難してほしいとしています。\n\n特に車の中にとどまる場合は、風通しのよい場所に駐車すること、断熱シートがあれば活用すること、子どもを絶対に1人にしないことなどの注意点を挙げています。\n\n一方で、体調が悪くなるなど自覚症状が出た場合は「ためらわずに119番通報をしてほしい」と話しています。\n\n判断に迷う場合は「＃7119」など、専用の相談ダイヤルに問い合わせてほしいと呼びかけています。\n",
+    "trimmedLead": "総務省消防庁は、津波警報が発表される中、避難場所が高台などの屋外や車の中が多くなることから、ふだん以上に熱中症に注意し、体調が悪化した場合はためらわずに119番通報をするよう呼びかけています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014879431000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014879431000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

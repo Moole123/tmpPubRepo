@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014874631000",
+  "dataSourceId": "na",
+  "name": "円相場 ドルに対して値下がり　米経済先行き堅調との見方から",
+  "headline": "円相場 ドルに対して値下がり　米経済先行き堅調との見方から",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014874631000",
+    "playlistId": "news-nwa-business-nationwide-20250725",
+    "newsarticleName": "円相場 ドルに対して値下がり　米経済先行き堅調との見方から",
+    "playlistName": "7月25日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "25日の東京外国為替市場、アメリカ経済の先行きが堅調だとの見方からドルを買う動きが活発になり、円相場はドルに対して値下がりしました。\n\n\n午後5時時点の円相場は、24日と比べて96銭円安ドル高の1ドル",
+  "dateModified": "2025-07-25T19:08:45+09:00",
+  "datePublished": "2025-07-25T19:08:45+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250725/K10014874631_2507251853_0725190847_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250725/K10014874631_2507251853_0725190847_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "25日の東京外国為替市場、アメリカ経済の先行きが堅調だとの見方からドルを買う動きが活発になり、円相場はドルに対して値下がりしました。\n\n\n午後5時時点の円相場は、24日と比べて96銭円安ドル高の1ドル",
+  "articleBody": "25日の東京外国為替市場、アメリカ経済の先行きが堅調だとの見方からドルを買う動きが活発になり、円相場はドルに対して値下がりしました。\n\n\n午後5時時点の円相場は、24日と比べて96銭円安ドル高の1ドル＝147円37銭から39銭でした。\n\n一方、ユーロに対しては、1円円安ユーロ高の1ユーロ＝173円20銭から24銭でした。\n\nユーロはドルに対して1ユーロ＝1.1752から54ドルでした。\n\n市場関係者は「アメリカ経済の先行きが堅調との見方からドル買いが活発になり、円安ドル高が進んだ。来週予定されている日銀の金融政策決定会合で日銀がどんな方針を示すか市場の注目が集まっている」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "25日の東京外国為替市場、アメリカ経済の先行きが堅調だとの見方からドルを買う動きが活発になり、円相場はドルに対して値下がりしました。\n",
+    "markedBody": "午後5時時点の円相場は、24日と比べて96銭円安ドル高の1ドル＝147円37銭から39銭でした。\n\n一方、ユーロに対しては、1円円安ユーロ高の1ユーロ＝173円20銭から24銭でした。\n\nユーロはドルに対して1ユーロ＝1.1752から54ドルでした。\n\n市場関係者は「アメリカ経済の先行きが堅調との見方からドル買いが活発になり、円安ドル高が進んだ。来週予定されている日銀の金融政策決定会合で日銀がどんな方針を示すか市場の注目が集まっている」と話していました。\n",
+    "trimmedLead": "25日の東京外国為替市場、アメリカ経済の先行きが堅調だとの見方からドルを買う動きが活発になり、円相場はドルに対して値下がりしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014874631000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014874631000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

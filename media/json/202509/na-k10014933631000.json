@@ -1,0 +1,101 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014933631000",
+  "dataSourceId": "na",
+  "name": "新型コロナ “ワクチン接種後に短期間で抗体減少も” 名大など",
+  "headline": "新型コロナ “ワクチン接種後に短期間で抗体減少も” 名大など",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014933631000",
+    "playlistId": "news-nwa-scienceculture-nationwide-20250927",
+    "newsarticleName": "新型コロナ “ワクチン接種後に短期間で抗体減少も” 名大など",
+    "playlistName": "9月27日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "新型コロナウイルスワクチンの3回目の接種を受けた人の抗体の量の変化を名古屋大学などの研究チームが解析した結果、接種後、短期間で抗体が減少するグループがあることが分かりました。今後、こうしたグループを事",
+  "dateModified": "2025-09-27T06:08:08+09:00",
+  "datePublished": "2025-09-27T06:08:08+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250927/K10014933631_2509262023_0927060809_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250927/K10014933631_2509262023_0927060809_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "科学・文化"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "新型コロナウイルスワクチンの3回目の接種を受けた人の抗体の量の変化を名古屋大学などの研究チームが解析した結果、接種後、短期間で抗体が減少するグループがあることが分かりました。今後、こうしたグループを事",
+  "articleBody": "新型コロナウイルスワクチンの3回目の接種を受けた人の抗体の量の変化を名古屋大学などの研究チームが解析した結果、接種後、短期間で抗体が減少するグループがあることが分かりました。今後、こうしたグループを事前に予測できるようになれば、より効率的な接種につながるとしています。\n\n\n名古屋大学や福島県立医科大学などの研究チームは新型コロナワクチンの3回目の接種を受けた福島県内の2500人余りを対象に、血液中の抗体の量がどう変化するかをAIを使った新たな手法で解析しました。\n\nその結果\n▽接種後に抗体が多く作られ、長い間保たれる「耐久型」\n▽抗体は多く作られるものの短い期間で減少する「急速低下型」\n▽作られる抗体の量が少なくすぐに減少する「ぜい弱型」\nの3つの特徴的なグループがあることがわかったということです。\n\nこのうち「急速低下型」と「ぜい弱型」では、追加接種から3か月を過ぎるとワクチン接種後に新型コロナに感染する「ブレークスルー感染」を経験するリスクが「耐久型」と比べて高かったということです。\n\n研究チームは、事前にどのグループか予測できるようになれば、「ブレークスルー感染」のリスクの高い人に優先的に接種をするなど効率的な接種ができるようになるとしています。\n\n名古屋大学大学院理学研究科の岩見真吾教授は「どのタイミングでワクチンを接種したらいいのかといった個人レベルでの対策にもつながるのではないか」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "新型コロナウイルスワクチンの3回目の接種を受けた人の抗体の量の変化を名古屋大学などの研究チームが解析した結果、接種後、短期間で抗体が減少するグループがあることが分かりました。今後、こうしたグループを事前に予測できるようになれば、より効率的な接種につながるとしています。\n",
+    "markedBody": "名古屋大学や福島県立医科大学などの研究チームは新型コロナワクチンの3回目の接種を受けた福島県内の2500人余りを対象に、血液中の抗体の量がどう変化するかをAIを使った新たな手法で解析しました。\n\nその結果\\\n▽接種後に抗体が多く作られ、長い間保たれる「耐久型」\\\n▽抗体は多く作られるものの短い期間で減少する「急速低下型」\\\n▽作られる抗体の量が少なくすぐに減少する「ぜい弱型」\\\nの3つの特徴的なグループがあることがわかったということです。\n\nこのうち「急速低下型」と「ぜい弱型」では、追加接種から3か月を過ぎるとワクチン接種後に新型コロナに感染する「ブレークスルー感染」を経験するリスクが「耐久型」と比べて高かったということです。\n\n研究チームは、事前にどのグループか予測できるようになれば、「ブレークスルー感染」のリスクの高い人に優先的に接種をするなど効率的な接種ができるようになるとしています。\n\n![](https://news.web.nhk/news/html/20250927/K10014933631_2509262023_0927060809_02_03.jpg)\n\n名古屋大学大学院理学研究科の岩見真吾教授は「どのタイミングでワクチンを接種したらいいのかといった個人レベルでの対策にもつながるのではないか」と話しています。\n",
+    "trimmedLead": "新型コロナウイルスワクチンの3回目の接種を受けた人の抗体の量の変化を名古屋大学などの研究チームが解析した結果、接種後、短期間で抗体が減少するグループがあることが分かりました。今後、こうしたグループを事前に予測できるようになれば、より効率的な接種につながるとしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014933631000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014933631000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "新型コロナ “ワクチン接種後に短期間で抗体減少も” 名大など",
+      "description": "新型コロナウイルスワクチンの3回目の接種を受けた人の抗体の量の変化を名古屋大学などの研究チームが解析した結果、接種後、短期間で抗体が減少するグループがあることが分かりました。今後、こうしたグループを事",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10014933631_202509271305_202509271305/index.m3u8&mrposter=/news/html/20250927/K10014933631_2509262023_0927060809_01_02.jpg",
+      "duration": "PT1M23S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10014933631_202509271305_202509271305/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20250927/K10014933631_2509262023_0927060809_01_02.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014865451000",
+  "dataSourceId": "na",
+  "name": "トランプ大統領 日本に25％の関税措置 8月1日発動の可能性を改めて示す",
+  "headline": "トランプ大統領 日本に25％関税措置 “8月1日発動”改めて示す",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014865451000",
+    "playlistId": "news-nwa-international-nationwide-20250717",
+    "newsarticleName": "トランプ大統領 日本に25％の関税措置 8月1日発動の可能性を改めて示す",
+    "playlistName": "7月17日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "アメリカのトランプ大統領は、日本との関税交渉をめぐり「日本については、おそらく書簡の内容どおりになると思う」と述べて、日本からの輸入品に対して8月1日から25％の関税措置を発動する可能性を改めて示しま",
+  "dateModified": "2025-07-17T05:11:06+09:00",
+  "datePublished": "2025-07-17T05:11:06+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250717/K10014865451_2507170200_0717044835_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250717/K10014865451_2507170200_0717044835_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際",
+    "経済"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "アメリカのトランプ大統領は、日本との関税交渉をめぐり「日本については、おそらく書簡の内容どおりになると思う」と述べて、日本からの輸入品に対して8月1日から25％の関税措置を発動する可能性を改めて示しま",
+  "articleBody": "アメリカのトランプ大統領は、日本との関税交渉をめぐり「日本については、おそらく書簡の内容どおりになると思う」と述べて、日本からの輸入品に対して8月1日から25％の関税措置を発動する可能性を改めて示しました。\n\n\nアメリカのトランプ大統領は16日、ホワイトハウスで各国との関税交渉について記者団の質問に答えました。\n\nこのなかで、日本との交渉をめぐり「日本については、おそらく書簡の内容どおりになると思う」と述べました。\n\nトランプ大統領は、これまでに石破総理大臣に宛てた書簡で、日本からの輸入品に対して8月1日から25％の関税を課すと通知していて、書簡の内容に従って関税措置を発動する可能性を改めて示した形です。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカのトランプ大統領は、日本との関税交渉をめぐり「日本については、おそらく書簡の内容どおりになると思う」と述べて、日本からの輸入品に対して8月1日から25％の関税措置を発動する可能性を改めて示しました。\n",
+    "markedBody": "アメリカのトランプ大統領は16日、ホワイトハウスで各国との関税交渉について記者団の質問に答えました。\n\n![](https://news.web.nhk/news/html/20250717/K10014865451_2507170553_0717055334_02_04.jpg)\n\nこのなかで、日本との交渉をめぐり「日本については、おそらく書簡の内容どおりになると思う」と述べました。\n\nトランプ大統領は、これまでに石破総理大臣に宛てた書簡で、日本からの輸入品に対して8月1日から25％の関税を課すと通知していて、書簡の内容に従って関税措置を発動する可能性を改めて示した形です。\n",
+    "trimmedLead": "アメリカのトランプ大統領は、日本との関税交渉をめぐり「日本については、おそらく書簡の内容どおりになると思う」と述べて、日本からの輸入品に対して8月1日から25％の関税措置を発動する可能性を改めて示しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014865451000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014865451000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "トランプ大統領 日本に25％関税措置 “8月1日発動”改めて示す",
+      "description": "アメリカのトランプ大統領は、日本との関税交渉をめぐり「日本については、おそらく書簡の内容どおりになると思う」と述べて、日本からの輸入品に対して8月1日から25％の関税措置を発動する可能性を改めて示しま",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10014865451_202507170549_202507170553/index.m3u8&mrposter=/news/html/20250717/K10014865451_2507170200_0717044835_01_02.jpg",
+      "duration": "PT38S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10014865451_202507170549_202507170553/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20250717/K10014865451_2507170200_0717044835_01_02.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

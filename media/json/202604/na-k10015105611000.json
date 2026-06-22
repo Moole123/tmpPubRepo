@@ -1,0 +1,160 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015105611000",
+  "dataSourceId": "na",
+  "name": "円相場 小幅に値下がり 停戦協議への不透明感",
+  "headline": "円相場 小幅に値下がり 停戦協議への不透明感",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015105611000",
+    "playlistId": "news-nwa-business-nationwide-20260422",
+    "newsarticleName": "円相場 小幅に値下がり 停戦協議への不透明感",
+    "playlistName": "4月22日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "22日の東京外国為替市場、円相場はドルに対して小幅に値下がりしました。\n\n\n午後5時時点の円相場は、21日と比べて20銭円安ドル高の1ドル＝159円21銭～23銭でした。\n\nまた、ユーロに対しては、1",
+  "dateModified": "2026-04-22T18:07:40+09:00",
+  "datePublished": "2026-04-22T18:07:40+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260422/K10015105611_2604221805_0422180740_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260422/K10015105611_2604221805_0422180740_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0000820",
+      "name": "イラン情勢",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "0001597",
+      "name": "イラン",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "22日の東京外国為替市場、円相場はドルに対して小幅に値下がりしました。\n\n\n午後5時時点の円相場は、21日と比べて20銭円安ドル高の1ドル＝159円21銭～23銭でした。\n\nまた、ユーロに対しては、1",
+  "articleBody": "22日の東京外国為替市場、円相場はドルに対して小幅に値下がりしました。\n\n\n午後5時時点の円相場は、21日と比べて20銭円安ドル高の1ドル＝159円21銭～23銭でした。\n\nまた、ユーロに対しては、11銭円安ユーロ高の1ユーロ＝187円16銭～20銭でした。\n\nユーロはドルに対して1ユーロ＝1.1755～57ドルでした。\n\n市場関係者は「トランプ大統領がイランとの停戦を延長するという考えを示したものの、今後の協議の具体的な日程は明らかになっていないなど不透明な部分が多い。原油の先物価格も1バレル＝90ドルをはさむ高い水準で推移していて、ドルを買って円を売る動きが出ている」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "22日の東京外国為替市場、円相場はドルに対して小幅に値下がりしました。\n",
+    "markedBody": "午後5時時点の円相場は、21日と比べて20銭円安ドル高の1ドル＝159円21銭～23銭でした。\n\nまた、ユーロに対しては、11銭円安ユーロ高の1ユーロ＝187円16銭～20銭でした。\n\nユーロはドルに対して1ユーロ＝1.1755～57ドルでした。\n\n市場関係者は「トランプ大統領がイランとの停戦を延長するという考えを示したものの、今後の協議の具体的な日程は明らかになっていないなど不透明な部分が多い。原油の先物価格も1バレル＝90ドルをはさむ高い水準で推移していて、ドルを買って円を売る動きが出ている」と話しています。\n",
+    "trimmedLead": "22日の東京外国為替市場、円相場はドルに対して小幅に値下がりしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015105611000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015105611000",
+  "video": [],
+  "citation": [
+    {
+      "name": "株価 終値の最高値を更新 イラン情勢の警戒感和らぐ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105231000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015105231_2604221534_0422155005_01_02.jpg",
+      "datePublished": "2026-04-22T15:50:04+09:00"
+    },
+    {
+      "name": "NYダウ293ドル安 米イランの協議不透明との見方から売り注文",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105121000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015105121_2604220751_0422080335_01_02.jpg",
+      "datePublished": "2026-04-22T08:03:35+09:00"
+    },
+    {
+      "name": "トランプ大統領 停戦延長と投稿 イランとの協議が結論至るまで",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105081000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015105081_2604220554_0422055505_01_03.jpg",
+      "datePublished": "2026-04-22T10:27:24+09:00"
+    },
+    {
+      "name": "ペルシャ湾内の船舶から新たに日本人乗組員4人が下船",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015105141_2604220931_0422093252_01_02.jpg",
+      "datePublished": "2026-04-22T10:32:45+09:00"
+    },
+    {
+      "name": "プルデンシャル生命 新規営業の自粛 半年延長を発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015105091_2604220632_0422063303_01_02.jpg",
+      "datePublished": "2026-04-22T07:16:39+09:00"
+    },
+    {
+      "name": "「国家情報局」設置法案 与党きょう採決を 与野党詰めの調整",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104881000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015104881_2604220128_0422053222_01_02.jpg",
+      "datePublished": "2026-04-22T05:32:21+09:00"
+    },
+    {
+      "name": "「５類型」撤廃で武器輸出原則可能に フィリピンと協議開始へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104871000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015104871_2604212245_0422054433_01_03.jpg",
+      "datePublished": "2026-04-22T05:44:32+09:00"
+    },
+    {
+      "name": "北海道・三陸沖後発地震注意情報 “日頃の備え 改めて確認を”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015104141_2604210018_0421002942_01_02.jpg",
+      "datePublished": "2026-04-22T05:10:19+09:00"
+    },
+    {
+      "name": "米FRB議長指名のウォーシュ氏 “大統領から独立して政策判断”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015105041_2604220203_0422020453_01_02.jpg",
+      "datePublished": "2026-04-22T09:20:13+09:00"
+    },
+    {
+      "name": "子どものいのちを守る 学校現場の自殺対策は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015103411000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015103411_2604201255_0421174035_01_02.jpg",
+      "datePublished": "2026-04-21T17:40:34+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

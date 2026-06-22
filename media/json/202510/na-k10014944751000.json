@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014944751000",
+  "dataSourceId": "na",
+  "name": "自民 高市総裁「核融合」テーマ講演 次世代エネルギー源で期待",
+  "headline": "自民 高市総裁「核融合」テーマ講演 次世代エネルギー源で期待",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014944751000",
+    "playlistId": "news-nwa-politics-nationwide-20251008",
+    "newsarticleName": "自民 高市総裁「核融合」テーマ講演 次世代エネルギー源で期待",
+    "playlistName": "10月8日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "自民党の高市総裁は、野党各党へのあいさつ回りを前に8日午後、国会内で次世代のエネルギー源として期待される「核融合」をテーマに講演しました。\n\n\n高市氏は冒頭、総裁選挙を振り返り「挑戦するのは1回目は2",
+  "dateModified": "2025-10-08T16:33:32+09:00",
+  "datePublished": "2025-10-08T16:33:32+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251008/K10014944751_2510081615_1008163333_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251008/K10014944751_2510081615_1008163333_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "自民党の高市総裁は、野党各党へのあいさつ回りを前に8日午後、国会内で次世代のエネルギー源として期待される「核融合」をテーマに講演しました。\n\n\n高市氏は冒頭、総裁選挙を振り返り「挑戦するのは1回目は2",
+  "articleBody": "自民党の高市総裁は、野党各党へのあいさつ回りを前に8日午後、国会内で次世代のエネルギー源として期待される「核融合」をテーマに講演しました。\n\n\n高市氏は冒頭、総裁選挙を振り返り「挑戦するのは1回目は2021年で2回目が去年だった。ことしが3回目となり、『3度目の正直』と言う人もいれば『2度あることは3度ある』と言った人もいて、なかなか厳しい戦いだったが、一生懸命、頑張っていく」と述べました。\n\nそのうえで、「核融合」を利用した発電について「技術さえ保有していれば多くの国がエネルギーをつくることが可能になる。資源の保有から技術の保有にエネルギー覇権が移る姿が望ましく、技術の獲得でエネルギー安全保障の確保をしっかりと行うことが私の基本的考え方だ」と述べました。\n\nまた、講演では安全が確保された原子力発電所の再稼働や建て替えが重要だという認識を示しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "自民党の高市総裁は、野党各党へのあいさつ回りを前に8日午後、国会内で次世代のエネルギー源として期待される「核融合」をテーマに講演しました。\n",
+    "markedBody": "高市氏は冒頭、総裁選挙を振り返り「挑戦するのは1回目は2021年で2回目が去年だった。ことしが3回目となり、『3度目の正直』と言う人もいれば『2度あることは3度ある』と言った人もいて、なかなか厳しい戦いだったが、一生懸命、頑張っていく」と述べました。\n\nそのうえで、「核融合」を利用した発電について「技術さえ保有していれば多くの国がエネルギーをつくることが可能になる。資源の保有から技術の保有にエネルギー覇権が移る姿が望ましく、技術の獲得でエネルギー安全保障の確保をしっかりと行うことが私の基本的考え方だ」と述べました。\n\nまた、講演では安全が確保された原子力発電所の再稼働や建て替えが重要だという認識を示しました。\n",
+    "trimmedLead": "自民党の高市総裁は、野党各党へのあいさつ回りを前に8日午後、国会内で次世代のエネルギー源として期待される「核融合」をテーマに講演しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014944751000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014944751000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

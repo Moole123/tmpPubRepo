@@ -1,0 +1,166 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015135471000",
+  "dataSourceId": "na",
+  "name": "浜岡原発データ不正受け中国電力が島根原発の地震評価を説明",
+  "headline": "浜岡原発データ不正受け中国電力が島根原発の地震評価を説明",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015135471000",
+    "playlistId": "news-nwa-society-nationwide-20260529",
+    "newsarticleName": "浜岡原発データ不正受け中国電力が島根原発の地震評価を説明",
+    "playlistName": "5月29日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "中部電力が浜岡原子力発電所の審査で不正なデータ処理を行っていた問題を受け、中国電力は、自主的に確認した結果、島根原発の審査で、地震のデータの選定方法について説明していない部分があったと明らかにしました",
+  "dateModified": "2026-05-29T20:44:30+09:00",
+  "datePublished": "2026-05-29T20:44:30+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260529/K10015135471_2605292021_0529204431_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260529/K10015135471_2605292021_0529204431_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0000021",
+      "name": "原発",
+      "display": true
+    },
+    {
+      "id": "0002708",
+      "name": "原子力規制委員会",
+      "display": true
+    },
+    {
+      "id": "0002222",
+      "name": "静岡県",
+      "display": true
+    },
+    {
+      "id": "0002232",
+      "name": "島根県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "中部電力が浜岡原子力発電所の審査で不正なデータ処理を行っていた問題を受け、中国電力は、自主的に確認した結果、島根原発の審査で、地震のデータの選定方法について説明していない部分があったと明らかにしました",
+  "articleBody": "中部電力が浜岡原子力発電所の審査で不正なデータ処理を行っていた問題を受け、中国電力は、自主的に確認した結果、島根原発の審査で、地震のデータの選定方法について説明していない部分があったと明らかにしました。中国電力は不正なデータ処理にはあたらないとしていて、規制側も問題ないと評価しています。\n\n\n静岡県にある浜岡原発の審査では中部電力が耐震設計の目安となる「基準地震動」に関するデータを意図的に選定するなどして過小評価した疑いがあることが明らかになっています。\n\n29日は原子力規制委員会で、中国電力が松江市に建設している島根原発3号機の審査会合が開かれ、事業者側が、島根原発の「基準地震動」を算出する際、浜岡原発と同じ計算方法を使っていたことから、自主的に算出過程などを確認した結果を説明しました。\n\nそれによりますと、審査では、50通りの地震のデータをもとに評価したと説明していましたが、実際は数百通りのデータの中から担当者が極端な値を除いてデータを選んでいたということです。\n\nただ、過小評価となるデータの選定や、意図的な操作は行っておらず、「基準地震動」は適切に算出されたと説明しました。\n\n規制委員会の山岡耕春委員は「理想としてはこうした方法は排除したほうがいい」と指摘したうえで、不正なデータ処理にはあたらないとして、問題ないと評価しました。\n\n浜岡原発のデータ不正問題を受け、ほかの原発の審査で事業者側が地震のデータ処理について改めて説明するのは初めてです。\n",
+  "detailedArticleBody": {
+    "markedLead": "中部電力が浜岡原子力発電所の審査で不正なデータ処理を行っていた問題を受け、中国電力は、自主的に確認した結果、島根原発の審査で、地震のデータの選定方法について説明していない部分があったと明らかにしました。中国電力は不正なデータ処理にはあたらないとしていて、規制側も問題ないと評価しています。\n",
+    "markedBody": "静岡県にある浜岡原発の審査では中部電力が耐震設計の目安となる「基準地震動」に関するデータを意図的に選定するなどして過小評価した疑いがあることが明らかになっています。\n\n29日は原子力規制委員会で、中国電力が松江市に建設している島根原発3号機の審査会合が開かれ、事業者側が、島根原発の「基準地震動」を算出する際、浜岡原発と同じ計算方法を使っていたことから、自主的に算出過程などを確認した結果を説明しました。\n\nそれによりますと、審査では、50通りの地震のデータをもとに評価したと説明していましたが、実際は数百通りのデータの中から担当者が極端な値を除いてデータを選んでいたということです。\n\nただ、過小評価となるデータの選定や、意図的な操作は行っておらず、「基準地震動」は適切に算出されたと説明しました。\n\n規制委員会の山岡耕春委員は「理想としてはこうした方法は排除したほうがいい」と指摘したうえで、不正なデータ処理にはあたらないとして、問題ないと評価しました。\n\n浜岡原発のデータ不正問題を受け、ほかの原発の審査で事業者側が地震のデータ処理について改めて説明するのは初めてです。\n",
+    "trimmedLead": "中部電力が浜岡原子力発電所の審査で不正なデータ処理を行っていた問題を受け、中国電力は、自主的に確認した結果、島根原発の審査で、地震のデータの選定方法について説明していない部分があったと明らかにしました。中国電力は不正なデータ処理にはあたらないとしていて、規制側も問題ないと評価しています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015135471000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015135471000",
+  "video": [],
+  "citation": [
+    {
+      "name": "原子力規制委 浜岡原発データ不正受け 罰則の導入検討",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133071000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260527/K10015133071_2605271654_0527175247_01_02.jpg",
+      "datePublished": "2026-05-27T17:52:47+09:00"
+    },
+    {
+      "name": "中部電力 浜岡原発での不適切手続きで経産省に報告",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015132881000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260527/K10015132881_2605271550_0527163031_01_02.jpg",
+      "datePublished": "2026-05-27T16:30:30+09:00"
+    },
+    {
+      "name": "福島第一原発2号機 燃料プールの使用済み核燃料 6月に搬出開始",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015134311_2605281954_0528204940_01_02.jpg",
+      "datePublished": "2026-05-28T20:49:39+09:00"
+    },
+    {
+      "name": "台風6号 来週に沖縄・奄美接近か 九州～関東甲信も大雨おそれ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015135141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015135141_2605291844_0529184813_01_02.jpg",
+      "datePublished": "2026-05-29T18:48:12+09:00"
+    },
+    {
+      "name": "政府・日銀 11兆円規模の市場介入 4月28日～5月27日",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015135371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015135371_2605291910_0529191137_01_03.jpg",
+      "datePublished": "2026-05-29T19:36:19+09:00"
+    },
+    {
+      "name": "6月に値上げの食品 1000品目超 今後も値上げ続くか【詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134751000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134751_2605291349_0529135242_01_03.jpg",
+      "datePublished": "2026-05-29T17:31:32+09:00"
+    },
+    {
+      "name": "名古屋 マイクロバスと歩行者が衝突 2人意識ない状態で搬送",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015135381000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015135381_2605291848_0529192112_01_03.jpg",
+      "datePublished": "2026-05-29T19:06:54+09:00"
+    },
+    {
+      "name": "クロマグロに異例の事態 複数県で漁の停止や制限 漁獲量が増で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015135021000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015135021_2605291842_0529184838_01_02.jpg",
+      "datePublished": "2026-05-29T19:27:13+09:00"
+    },
+    {
+      "name": "北海道 旭川 高校生殺害事件 被告“被害者おいて立ち去った”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015135091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015135091_2605291604_0529185926_01_02.jpg",
+      "datePublished": "2026-05-29T18:59:25+09:00"
+    },
+    {
+      "name": "事件の偽情報でアプリ登録誘導 「詳細はここから」に注意",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015135351000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015135351_2605291827_0529194024_01_03.jpg",
+      "datePublished": "2026-05-29T19:40:23+09:00"
+    },
+    {
+      "name": "サッカーW杯 日本代表合宿 久保ら合流しメンバーほぼそろう",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015135211000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015135211_2605291659_0529180058_01_02.jpg",
+      "datePublished": "2026-05-29T19:46:47+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

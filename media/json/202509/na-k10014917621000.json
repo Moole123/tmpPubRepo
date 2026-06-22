@@ -1,0 +1,101 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014917621000",
+  "dataSourceId": "na",
+  "name": "ネパール政府 19人死亡の抗議デモ受け 主要SNSめぐる措置撤回",
+  "headline": "ネパール政府 19人死亡の抗議デモ受け 主要SNSめぐる措置撤回",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014917621000",
+    "playlistId": "news-nwa-international-nationwide-20250909",
+    "newsarticleName": "ネパール政府 19人死亡の抗議デモ受け 主要SNSめぐる措置撤回",
+    "playlistName": "9月9日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "ネパール政府は、19人が死亡した抗議デモを受け、フェイスブックやインスタグラムなど主要なSNSを使用できなくする措置を撤回しました。\n\n\nネパール政府はサイバー犯罪やヘイトクライム対策を理由にSNS事",
+  "dateModified": "2025-09-09T15:50:46+09:00",
+  "datePublished": "2025-09-09T15:50:46+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250909/K10014917621_2509091546_0909154924_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250909/K10014917621_2509091546_0909154924_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "ネパール政府は、19人が死亡した抗議デモを受け、フェイスブックやインスタグラムなど主要なSNSを使用できなくする措置を撤回しました。\n\n\nネパール政府はサイバー犯罪やヘイトクライム対策を理由にSNS事",
+  "articleBody": "ネパール政府は、19人が死亡した抗議デモを受け、フェイスブックやインスタグラムなど主要なSNSを使用できなくする措置を撤回しました。\n\n\nネパール政府はサイバー犯罪やヘイトクライム対策を理由にSNS事業者に対して事前の登録を求め、これに応じなかった事業者のSNSを今月4日から使用できなくする措置をとりました。\n\n対象になったのはフェイスブックやインスタグラム、YouTube、それにXなど主要なSNSです。\n\nこの措置に抗議するデモが8日、首都カトマンズなど各地で発生し主要メディアによりますと一部が警察と衝突するなどして19人が死亡したほか、300人以上がけがをしたということです。\n\nこれを受けてネパール政府は8日、緊急の閣議を開き、措置を撤回しました。\n\nオリ首相は8日声明を発表し、「抗議活動で犠牲者が出たことに深い悲しみを覚える」としたうえで「政府はソーシャルメディアの利用に反対したことはなく、自由に利用できる環境を確保する」と述べました。\n\n一方、主要メディアは、政府の抗議デモへの対応について首相の責任を問う声が出ていると伝えていて、措置の撤回で事態が収束に向かうかが焦点です。\n",
+  "detailedArticleBody": {
+    "markedLead": "ネパール政府は、19人が死亡した抗議デモを受け、フェイスブックやインスタグラムなど主要なSNSを使用できなくする措置を撤回しました。\n",
+    "markedBody": "ネパール政府はサイバー犯罪やヘイトクライム対策を理由にSNS事業者に対して事前の登録を求め、これに応じなかった事業者のSNSを今月4日から使用できなくする措置をとりました。\n\n対象になったのはフェイスブックやインスタグラム、YouTube、それにXなど主要なSNSです。\n\nこの措置に抗議するデモが8日、首都カトマンズなど各地で発生し主要メディアによりますと一部が警察と衝突するなどして19人が死亡したほか、300人以上がけがをしたということです。\n\nこれを受けてネパール政府は8日、緊急の閣議を開き、措置を撤回しました。\n\nオリ首相は8日声明を発表し、「抗議活動で犠牲者が出たことに深い悲しみを覚える」としたうえで「政府はソーシャルメディアの利用に反対したことはなく、自由に利用できる環境を確保する」と述べました。\n\n一方、主要メディアは、政府の抗議デモへの対応について首相の責任を問う声が出ていると伝えていて、措置の撤回で事態が収束に向かうかが焦点です。\n",
+    "trimmedLead": "ネパール政府は、19人が死亡した抗議デモを受け、フェイスブックやインスタグラムなど主要なSNSを使用できなくする措置を撤回しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014917621000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014917621000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "ネパール政府 19人死亡の抗議デモ受け 主要SNSめぐる措置撤回",
+      "description": "ネパール政府は、19人が死亡した抗議デモを受け、フェイスブックやインスタグラムなど主要なSNSを使用できなくする措置を撤回しました。\n\n\nネパール政府はサイバー犯罪やヘイトクライム対策を理由にSNS事",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10014917621_202509091613_202509091614/index.m3u8&mrposter=/news/html/20250909/K10014917621_2509091546_0909154924_01_02.jpg",
+      "duration": "PT41S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10014917621_202509091613_202509091614/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20250909/K10014917621_2509091546_0909154924_01_02.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

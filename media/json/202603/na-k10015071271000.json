@@ -1,0 +1,151 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015071271000",
+  "dataSourceId": "na",
+  "name": "NYダウ 一時800ドル超下落 原油急騰で世界経済への影響懸念",
+  "headline": "NYダウ 一時800ドル超下落 原油急騰で世界経済への影響懸念",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015071271000",
+    "playlistId": "news-nwa-international-nationwide-20260309",
+    "newsarticleName": "NYダウ 一時800ドル超下落 原油急騰で世界経済への影響懸念",
+    "playlistName": "3月9日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "9日のニューヨーク株式市場では、取り引き開始直後から売り注文が広がり、ダウ平均株価は先週末の終値と比べて一時、800ドルを超える値下がりとなっています。\n\n\nアメリカなどとイランとの間で攻撃の応酬が続",
+  "dateModified": "2026-03-09T23:26:23+09:00",
+  "datePublished": "2026-03-09T23:08:19+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260309/K10015071271_2603092307_0309230820_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260309/K10015071271_2603092307_0309230820_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "9日のニューヨーク株式市場では、取り引き開始直後から売り注文が広がり、ダウ平均株価は先週末の終値と比べて一時、800ドルを超える値下がりとなっています。\n\n\nアメリカなどとイランとの間で攻撃の応酬が続",
+  "articleBody": "9日のニューヨーク株式市場では、取り引き開始直後から売り注文が広がり、ダウ平均株価は先週末の終値と比べて一時、800ドルを超える値下がりとなっています。\n\n\nアメリカなどとイランとの間で攻撃の応酬が続く中、原油の海上輸送の要衝であるホルムズ海峡が事実上、封鎖された状態が長期化するという不安から原油の先物価格が急騰し、投資家の間では世界経済に悪影響を与えるとの懸念が広がっています。\n\nアジアやヨーロッパの株式市場も大きく株価が下落しており、世界的な株安となっています。\n",
+  "detailedArticleBody": {
+    "markedLead": "9日のニューヨーク株式市場では、取り引き開始直後から売り注文が広がり、ダウ平均株価は先週末の終値と比べて一時、800ドルを超える値下がりとなっています。\n",
+    "markedBody": "アメリカなどとイランとの間で攻撃の応酬が続く中、原油の海上輸送の要衝であるホルムズ海峡が事実上、封鎖された状態が長期化するという不安から原油の先物価格が急騰し、投資家の間では世界経済に悪影響を与えるとの懸念が広がっています。\n\nアジアやヨーロッパの株式市場も大きく株価が下落しており、世界的な株安となっています。\n",
+    "trimmedLead": "9日のニューヨーク株式市場では、取り引き開始直後から売り注文が広がり、ダウ平均株価は先週末の終値と比べて一時、800ドルを超える値下がりとなっています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015071271000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015071271000",
+  "video": [],
+  "citation": [
+    {
+      "name": "G7が緊急会合へ IEA加盟国の備蓄石油 市場への放出の可能性で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015070771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260309/K10015070771_2603091802_0309180305_01_03.jpg",
+      "datePublished": "2026-03-09T17:31:07+09:00"
+    },
+    {
+      "name": "原油急騰 NY先物 一時119ドル台まで上昇 家計への打撃も懸念",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015070401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260309/K10015070401_2603090735_0309080439_01_02.jpg",
+      "datePublished": "2026-03-09T18:48:38+09:00"
+    },
+    {
+      "name": "外務省 ヨルダン イラク レバノン 一部の地域に渡航中止勧告",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015071221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260309/K10015071221_2603092154_0309220253_01_02.jpg",
+      "datePublished": "2026-03-09T22:02:52+09:00"
+    },
+    {
+      "name": "高市首相 10日に米駐日大使と面会へ 首脳会談など意見交換か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015071161000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260309/K10015071161_2603092116_0309212752_01_02.jpg",
+      "datePublished": "2026-03-09T21:27:51+09:00"
+    },
+    {
+      "name": "イランの小学校への攻撃 国際調査グループ“米軍によるもの”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015071071000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260309/K10015071071_2603092019_0309210345_01_02.jpg",
+      "datePublished": "2026-03-09T21:03:45+09:00"
+    },
+    {
+      "name": "イラン最高指導者にハメネイ師の次男選出 モジタバ師とは?",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015070341000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260309/K10015070341_2603091128_0309113049_01_02.jpg",
+      "datePublished": "2026-03-09T19:04:37+09:00"
+    },
+    {
+      "name": "“トランプ政権 イランに地上部隊派遣の可能性検討” 米報道",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015070721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260309/K10015070721_2603091402_0309142359_01_02.jpg",
+      "datePublished": "2026-03-09T14:23:58+09:00"
+    },
+    {
+      "name": "中国 台湾行政院長の訪日に反発 日本側は立場に変更なしと説明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015071121000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260309/K10015071121_2603092042_0309210157_01_02.jpg",
+      "datePublished": "2026-03-09T21:01:56+09:00"
+    },
+    {
+      "name": "ゼレンスキー大統領“湾岸諸国へウクライナの専門家を派遣”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015070351000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260309/K10015070351_2603090425_0309060104_01_02.jpg",
+      "datePublished": "2026-03-09T06:01:03+09:00"
+    },
+    {
+      "name": "「ミドルパワーの結束」カナダ首相が演説に込めた意味は？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015069291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260309/K10015069291_2603091834_0309201932_01_02.jpg",
+      "datePublished": "2026-03-09T20:19:31+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

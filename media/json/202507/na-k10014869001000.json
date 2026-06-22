@@ -1,0 +1,101 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014869001000",
+  "dataSourceId": "na",
+  "name": "参議院選挙2025 比例代表 チームみらい 安野貴博氏 当選 チームみらいが国会の議席を獲得するのは初",
+  "headline": "参議院選挙 比例代表 みらい 安野貴博氏 当選",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014869001000",
+    "playlistId": "news-nwa-politics-nationwide-20250720",
+    "newsarticleName": "参議院選挙2025 比例代表 チームみらい 安野貴博氏 当選 チームみらいが国会の議席を獲得するのは初",
+    "playlistName": "7月20日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "比例代表で、チームみらいの新人、安野貴博氏が当選しました。チームみらいが国会の議席を獲得するのは初めてです。\n\n\n安野氏は34歳。\n\nAIエンジニアで、去年の東京都知事選挙に立候補しましたが、落選しま",
+  "dateModified": "2025-07-20T20:51:24+09:00",
+  "datePublished": "2025-07-20T20:51:24+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250720/K10014869001_2507210601_0721060319_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250720/K10014869001_2507210601_0721060319_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "比例代表で、チームみらいの新人、安野貴博氏が当選しました。チームみらいが国会の議席を獲得するのは初めてです。\n\n\n安野氏は34歳。\n\nAIエンジニアで、去年の東京都知事選挙に立候補しましたが、落選しま",
+  "articleBody": "比例代表で、チームみらいの新人、安野貴博氏が当選しました。チームみらいが国会の議席を獲得するのは初めてです。\n\n\n安野氏は34歳。\n\nAIエンジニアで、去年の東京都知事選挙に立候補しましたが、落選しました。\n\nことし5月には「テクノロジーで誰も取り残さない日本をつくる」として、みずからを党首とする政治団体「チームみらい」を立ち上げました。\n\nそして今回の参議院選挙にはみずからを含め、選挙区と比例代表、あわせて15人を擁立し、初めての国政選挙に挑みました。\n\n安野氏は、AIエンジニアとしての知名度を生かしながら全国で一定の支持を集め、初めての当選を果たしました。\n",
+  "detailedArticleBody": {
+    "markedLead": "比例代表で、チームみらいの新人、安野貴博氏が当選しました。チームみらいが国会の議席を獲得するのは初めてです。\n",
+    "markedBody": "安野氏は34歳。\n\nAIエンジニアで、去年の東京都知事選挙に立候補しましたが、落選しました。\n\nことし5月には「テクノロジーで誰も取り残さない日本をつくる」として、みずからを党首とする政治団体「チームみらい」を立ち上げました。\n\nそして今回の参議院選挙にはみずからを含め、選挙区と比例代表、あわせて15人を擁立し、初めての国政選挙に挑みました。\n\n安野氏は、AIエンジニアとしての知名度を生かしながら全国で一定の支持を集め、初めての当選を果たしました。\n",
+    "trimmedLead": "比例代表で、チームみらいの新人、安野貴博氏が当選しました。チームみらいが国会の議席を獲得するのは初めてです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014869001000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014869001000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "参議院選挙 比例代表 みらい 安野貴博氏 当選",
+      "description": "比例代表で、チームみらいの新人、安野貴博氏が当選しました。チームみらいが国会の議席を獲得するのは初めてです。\n\n\n安野氏は34歳。\n\nAIエンジニアで、去年の東京都知事選挙に立候補しましたが、落選しま",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10014869001_202507210603_202507210603/index.m3u8&mrposter=/news/html/20250720/K10014869001_2507210601_0721060319_01_03.jpg",
+      "duration": "PT35S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10014869001_202507210603_202507210603/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20250720/K10014869001_2507210601_0721060319_01_03.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

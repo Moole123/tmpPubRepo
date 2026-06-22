@@ -1,0 +1,138 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015115711000",
+  "dataSourceId": "na",
+  "name": "株価 初の6万1000円台 イラン情勢の緊張緩和期待で",
+  "headline": "株価 初の6万1000円台 イラン情勢の緊張緩和期待で",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015115711000",
+    "playlistId": "news-nwa-business-nationwide-20260507",
+    "newsarticleName": "株価 初の6万1000円台 イラン情勢の緊張緩和期待で",
+    "playlistName": "5月7日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "連休明けの7日の東京株式市場、取引開始直後から買い注文が広がり、日経平均株価は取引時間中の最高値を更新して初めて6万1000円台をつけました。\n\nアメリカとイランの間で覚書を作成することで合意に近づい",
+  "dateModified": "2026-05-07T09:11:22+09:00",
+  "datePublished": "2026-05-07T09:11:22+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260507/K10015115711_2605070913_0507091623_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260507/K10015115711_2605070913_0507091623_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0002423",
+      "name": "金融",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "連休明けの7日の東京株式市場、取引開始直後から買い注文が広がり、日経平均株価は取引時間中の最高値を更新して初めて6万1000円台をつけました。\n\nアメリカとイランの間で覚書を作成することで合意に近づい",
+  "articleBody": "連休明けの7日の東京株式市場、取引開始直後から買い注文が広がり、日経平均株価は取引時間中の最高値を更新して初めて6万1000円台をつけました。\n\nアメリカとイランの間で覚書を作成することで合意に近づいていると伝わったことをきっかけに、戦闘終結につながるのではないかとの見方が出ていて、株価を押し上げています。\n\n\n2000円超の大幅な上昇\n\nその後、日経平均株価は2000円を超える大幅な上昇となっています。\n",
+  "detailedArticleBody": {
+    "markedLead": "連休明けの7日の東京株式市場、取引開始直後から買い注文が広がり、日経平均株価は取引時間中の最高値を更新して初めて6万1000円台をつけました。\n\nアメリカとイランの間で覚書を作成することで合意に近づいていると伝わったことをきっかけに、戦闘終結につながるのではないかとの見方が出ていて、株価を押し上げています。\n",
+    "markedBody": "### 2000円超の大幅な上昇\n\nその後、日経平均株価は2000円を超える大幅な上昇となっています。\n",
+    "trimmedLead": "連休明けの7日の東京株式市場、取引開始直後から買い注文が広がり、日経平均株価は取引時間中の最高値を更新して初めて6万1000円台をつけました。\n\nアメリカとイランの間で覚書を作成することで合意に近づいていると伝わったことをきっかけに、戦闘終結につながるのではないかとの見方が出ていて、株価を押し上げています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015115711000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015115711000",
+  "video": [],
+  "citation": [
+    {
+      "name": "福島 磐越道 高校生死亡の事故 現場に目立ったブレーキ痕なし",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115551000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015115551_2605070107_0507053027_01_03.jpg",
+      "datePublished": "2026-05-07T05:30:26+09:00"
+    },
+    {
+      "name": "京都 男児殺害事件 父親 車内のやりとり機に衝動的に襲ったか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015115541_2605062312_0507054415_01_03.jpg",
+      "datePublished": "2026-05-07T05:44:14+09:00"
+    },
+    {
+      "name": "ハンタウイルス集団感染疑いのクルーズ船 カナリア諸島へ出発",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015115531_2605070549_0507060344_01_02.jpg",
+      "datePublished": "2026-05-07T06:03:43+09:00"
+    },
+    {
+      "name": "ハンタウイルスとは",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115391000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260506/K10015115391_2605061810_0506193843_01_02.jpg",
+      "datePublished": "2026-05-06T19:38:43+09:00"
+    },
+    {
+      "name": "“米とイランが覚書作成で合意に近づく”報道 イランはけん制",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115511000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015115511_2605070621_0507063255_01_02.jpg",
+      "datePublished": "2026-05-07T06:32:54+09:00"
+    },
+    {
+      "name": "NYダウ 600ドル余上昇 ナスダック・S＆P500指数は最高値更新",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115631000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015115631_2605070624_0507064320_01_02.jpg",
+      "datePublished": "2026-05-07T06:43:19+09:00"
+    },
+    {
+      "name": "岩手 大槌町で再び山林火災 一時 煙立ち上る 消防が警戒続ける",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115561000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015115561_2605062241_0507055232_01_03.jpg",
+      "datePublished": "2026-05-07T05:52:31+09:00"
+    },
+    {
+      "name": "ドジャース大谷翔平 26打席ぶりヒット 2安打1打点で勝利に貢献",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015115671_2605070802_0507080928_01_02.jpg",
+      "datePublished": "2026-05-07T08:09:27+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

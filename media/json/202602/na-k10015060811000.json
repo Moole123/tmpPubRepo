@@ -1,0 +1,156 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015060811000",
+  "dataSourceId": "na",
+  "name": "円相場 1ドル＝156円台後半に値下がり 早期利上げ困難の観測で",
+  "headline": "円相場 1ドル＝156円台後半に値下がり 早期利上げ困難の観測で",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015060811000",
+    "playlistId": "news-nwa-business-nationwide-20260226",
+    "newsarticleName": "円相場 1ドル＝156円台後半に値下がり 早期利上げ困難の観測で",
+    "playlistName": "2月26日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "25日の外国為替市場では投資家の間で日銀による早期の利上げが難しくなるのではないかとの観測が出たことで、円を売ってドルを買う動きが進み、円相場は一時1ドル＝156円台後半まで値下がりしました。\n\n\n日",
+  "dateModified": "2026-02-26T05:53:15+09:00",
+  "datePublished": "2026-02-26T05:53:15+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260226/K10015060811_2602260503_0226055316_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260226/K10015060811_2602260503_0226055316_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済",
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0002423",
+      "name": "金融",
+      "display": true
+    },
+    {
+      "id": "0002310",
+      "name": "日本銀行（日銀）",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "25日の外国為替市場では投資家の間で日銀による早期の利上げが難しくなるのではないかとの観測が出たことで、円を売ってドルを買う動きが進み、円相場は一時1ドル＝156円台後半まで値下がりしました。\n\n\n日",
+  "articleBody": "25日の外国為替市場では投資家の間で日銀による早期の利上げが難しくなるのではないかとの観測が出たことで、円を売ってドルを買う動きが進み、円相場は一時1ドル＝156円台後半まで値下がりしました。\n\n\n日本政府は25日、日銀の審議委員2人の人事案を国会に提示しましたが、金融緩和を重視する候補だと報じられたことなどで投資家の間では日銀による早期の利上げが難しくなるとか、今後の利上げのペースが緩やかになるのではないかとの観測が広がりました。\n\nこのため25日のロンドン外国為替市場では円を売ってドルを買う動きが進み、円相場は一時1ドル＝156円台後半まで値下がりしました。\n\nただ、その後のニューヨーク市場では円を買い戻す動きも出て一段と円安が進む展開にはなっていません。\n\n市場関係者は「海外の投資家の間では日銀の利上げ路線に対する政権の姿勢を見極めたいという雰囲気が強まっている」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "25日の外国為替市場では投資家の間で日銀による早期の利上げが難しくなるのではないかとの観測が出たことで、円を売ってドルを買う動きが進み、円相場は一時1ドル＝156円台後半まで値下がりしました。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20260226/K10015060811_2602260503_0226055316_02_03.jpg)\n\n日本政府は25日、日銀の審議委員2人の人事案を国会に提示しましたが、金融緩和を重視する候補だと報じられたことなどで投資家の間では日銀による早期の利上げが難しくなるとか、今後の利上げのペースが緩やかになるのではないかとの観測が広がりました。\n\nこのため25日のロンドン外国為替市場では円を売ってドルを買う動きが進み、円相場は一時1ドル＝156円台後半まで値下がりしました。\n\nただ、その後のニューヨーク市場では円を買い戻す動きも出て一段と円安が進む展開にはなっていません。\n\n市場関係者は「海外の投資家の間では日銀の利上げ路線に対する政権の姿勢を見極めたいという雰囲気が強まっている」と話しています。\n",
+    "trimmedLead": "25日の外国為替市場では投資家の間で日銀による早期の利上げが難しくなるのではないかとの観測が出たことで、円を売ってドルを買う動きが進み、円相場は一時1ドル＝156円台後半まで値下がりしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015060811000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015060811000",
+  "video": [],
+  "citation": [
+    {
+      "name": "「国民会議」きょう初会合 “食料品消費税2年間ゼロ”など議論",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015060711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260226/K10015060711_2602252315_0226053153_01_02.jpg",
+      "datePublished": "2026-02-26T05:31:52+09:00"
+    },
+    {
+      "name": "各地でまとまった雨 東日本 26日朝にかけ 雨降り続く見込み",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015060261000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260225/K10015060261_2602251218_0225122151_01_02.jpg",
+      "datePublished": "2026-02-25T19:31:13+09:00"
+    },
+    {
+      "name": "政府の規制改革推進会議 “企業の契約書 AIの自動作成活用を”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015060771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260226/K10015060771_2602252209_0226051150_01_02.jpg",
+      "datePublished": "2026-02-26T05:11:49+09:00"
+    },
+    {
+      "name": "東京スカイツリー 26日営業再開 原因は“ヒューズが熱で切断”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015060601000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260225/K10015060601_2602251814_0225192150_01_03.jpg",
+      "datePublished": "2026-02-25T21:27:20+09:00"
+    },
+    {
+      "name": "春闘 大手自動車メーカー 初回の労使交渉で満額回答相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015060541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260225/K10015060541_2602251759_0225210954_01_02.jpg",
+      "datePublished": "2026-02-25T22:22:21+09:00"
+    },
+    {
+      "name": "高市首相 食料品消費税ゼロ “時期は国民会議で”衆院代表質問",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015060451000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260225/K10015060451_2602251645_0225171904_01_02.jpg",
+      "datePublished": "2026-02-25T19:22:15+09:00"
+    },
+    {
+      "name": "大津市の幼稚園教諭 “賃下げ” に？理由を市に聞いた",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015060511000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260225/K10015060511_2602251859_0225194738_01_02.jpg",
+      "datePublished": "2026-02-25T19:47:37+09:00"
+    },
+    {
+      "name": "トランプ大統領 歴代最長の一般教書演説【ノーカット動画】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015059991000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260225/K10015059991_2602251142_0225114334_01_02.jpg",
+      "datePublished": "2026-02-25T19:30:26+09:00"
+    },
+    {
+      "name": "【ノーカット動画】フィギュア “りくりゅう”ペアが会見",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015060331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260225/K10015060331_2602251456_0225145817_01_02.jpg",
+      "datePublished": "2026-02-25T17:50:42+09:00"
+    },
+    {
+      "name": "核開発めぐる米とイランの3回目協議 緊張緩和につながるか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015060741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260226/K10015060741_2602260010_0226053827_01_02.jpg",
+      "datePublished": "2026-02-26T05:38:26+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

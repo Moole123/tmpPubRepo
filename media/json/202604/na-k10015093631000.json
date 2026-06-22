@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015093631000",
+  "dataSourceId": "na",
+  "name": "福島第二原子力発電所1号機 冷却再開 “外部への影響なし”",
+  "headline": "福島第二原子力発電所1号機 冷却再開 “外部への影響なし”",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015093631000",
+    "playlistId": "news-nwa-society-nationwide-20260407",
+    "newsarticleName": "福島第二原子力発電所1号機 冷却再開 “外部への影響なし”",
+    "playlistName": "4月7日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "東京電力は、ポンプが故障した影響で5日午後に冷却を停止した福島第二原子力発電所1号機の燃料プールについて、6日夜、予備のポンプに切り替えて冷却を再開したと発表しました。燃料プールの水温は低く、外部への",
+  "dateModified": "2026-04-07T05:49:55+09:00",
+  "datePublished": "2026-04-07T05:49:55+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260407/K10015093631_2604070358_0407054956_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260407/K10015093631_2604070358_0407054956_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002207",
+      "name": "福島県",
+      "display": true
+    },
+    {
+      "id": "0000021",
+      "name": "原発",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "東京電力は、ポンプが故障した影響で5日午後に冷却を停止した福島第二原子力発電所1号機の燃料プールについて、6日夜、予備のポンプに切り替えて冷却を再開したと発表しました。燃料プールの水温は低く、外部への",
+  "articleBody": "東京電力は、ポンプが故障した影響で5日午後に冷却を停止した福島第二原子力発電所1号機の燃料プールについて、6日夜、予備のポンプに切り替えて冷却を再開したと発表しました。燃料プールの水温は低く、外部への影響はないということです。\n\n\n廃炉作業中の福島第二原発の1号機にある使用済み核燃料などを保管する燃料プールで、5日午後3時ごろ、冷却水を循環させるためのポンプが故障しているのが見つかり、東京電力はプールの冷却を停止しました。\n\nその後、東京電力が故障したポンプを確認したところ、モーターの電源ケーブルに損傷が見つかったため、予備のポンプに切り替える準備を進め、6日午後11時前、ポンプを起動させ、燃料プールの冷却を再開したということです。\n\n1号機の燃料プールには使用済み核燃料など2500体余りが保管されていますが、プールの冷却を再開した際の水温は32.5度で、東京電力がプールを管理する際の上限としている65度を下回っているということです。\n\nまた、原発周辺の放射線量を測定するモニタリングポストの値に変化はなく、外部への影響はないということです。\n\n東京電力は今後、故障したポンプのモーターの電源ケーブルが損傷した原因を調べることにしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "東京電力は、ポンプが故障した影響で5日午後に冷却を停止した福島第二原子力発電所1号機の燃料プールについて、6日夜、予備のポンプに切り替えて冷却を再開したと発表しました。燃料プールの水温は低く、外部への影響はないということです。\n",
+    "markedBody": "廃炉作業中の福島第二原発の1号機にある使用済み核燃料などを保管する燃料プールで、5日午後3時ごろ、冷却水を循環させるためのポンプが故障しているのが見つかり、東京電力はプールの冷却を停止しました。\n\nその後、東京電力が故障したポンプを確認したところ、モーターの電源ケーブルに損傷が見つかったため、予備のポンプに切り替える準備を進め、6日午後11時前、ポンプを起動させ、燃料プールの冷却を再開したということです。\n\n1号機の燃料プールには使用済み核燃料など2500体余りが保管されていますが、プールの冷却を再開した際の水温は32.5度で、東京電力がプールを管理する際の上限としている65度を下回っているということです。\n\nまた、原発周辺の放射線量を測定するモニタリングポストの値に変化はなく、外部への影響はないということです。\n\n東京電力は今後、故障したポンプのモーターの電源ケーブルが損傷した原因を調べることにしています。\n",
+    "trimmedLead": "東京電力は、ポンプが故障した影響で5日午後に冷却を停止した福島第二原子力発電所1号機の燃料プールについて、6日夜、予備のポンプに切り替えて冷却を再開したと発表しました。燃料プールの水温は低く、外部への影響はないということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015093631000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015093631000",
+  "video": [],
+  "citation": [
+    {
+      "name": "福島第二原発1号機 燃料プール冷却停止 “直ちに問題起きず”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015092741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260405/K10015092741_2604052214_0405223652_01_02.jpg",
+      "datePublished": "2026-04-05T22:36:51+09:00"
+    },
+    {
+      "name": "天皇ご一家 福島の「東日本大震災・原子力災害伝承館」を訪問",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015093361000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015093361_2604061813_0406190355_01_02.jpg",
+      "datePublished": "2026-04-06T21:08:30+09:00"
+    },
+    {
+      "name": "トランプ氏 エネルギー施設攻撃延期か 停戦条件協議との報道も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015092771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015092771_2604061937_0406195954_01_03.jpg",
+      "datePublished": "2026-04-06T21:37:26+09:00"
+    },
+    {
+      "name": "再審制度見直し “証拠開示あり方も政府案は不十分” 自民会議",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015093431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015093431_2604061959_0406205043_01_02.jpg",
+      "datePublished": "2026-04-06T20:50:43+09:00"
+    },
+    {
+      "name": "6日は気温上昇 7日は沖縄と鹿児島で非常に激しい雨のおそれ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015093421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015093421_2604061902_0406194849_01_02.jpg",
+      "datePublished": "2026-04-06T19:48:48+09:00"
+    },
+    {
+      "name": "生活保護受給者状況 20代単身受給者が増加 25年前と比べ7倍に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015093371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015093371_2604061824_0406194749_01_02.jpg",
+      "datePublished": "2026-04-06T19:47:48+09:00"
+    },
+    {
+      "name": "京都 南丹 男児不明 小学校で保護者説明会 学校は対応を謝罪",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015093481000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015093481_2604062057_0406211246_01_02.jpg",
+      "datePublished": "2026-04-07T04:12:08+09:00"
+    },
+    {
+      "name": "沖縄 辺野古沖の転覆事故 京都府が高校に複数回聞き取り調査",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015093491000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015093491_2604062052_0406211020_01_02.jpg",
+      "datePublished": "2026-04-06T21:10:19+09:00"
+    },
+    {
+      "name": "人類が約半世紀ぶりに月の重力圏に「アルテミス計画」宇宙船",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015093191000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015093191_2604061503_0406151425_01_03.jpg",
+      "datePublished": "2026-04-06T19:45:16+09:00"
+    },
+    {
+      "name": "「見たくない…」 斜線だらけの通知表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015092531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015092531_2604051753_0406220305_01_02.jpg",
+      "datePublished": "2026-04-06T22:03:04+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

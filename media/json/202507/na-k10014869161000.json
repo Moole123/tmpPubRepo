@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014869161000",
+  "dataSourceId": "na",
+  "name": "参院選 掲示など選挙違反疑い警告13件 脅迫事案も確認 警視庁",
+  "headline": "参院選 掲示など選挙違反疑い警告13件 脅迫事案も確認 警視庁",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014869161000",
+    "playlistId": "news-nwa-politics-nationwide-20250720",
+    "newsarticleName": "参院選 掲示など選挙違反疑い警告13件 脅迫事案も確認 警視庁",
+    "playlistName": "7月20日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "20日に投票が行われた参議院選挙で警視庁は、街頭での掲示などをめぐって選挙違反の疑いがあるとして13件の警告を出しました。このほか、候補者や陣営に対して脅迫するような事案が複数確認されていることから捜",
+  "dateModified": "2025-07-20T21:42:03+09:00",
+  "datePublished": "2025-07-20T21:42:03+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250720/K10014869161_2507202139_0720214205_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250720/K10014869161_2507202139_0720214205_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "20日に投票が行われた参議院選挙で警視庁は、街頭での掲示などをめぐって選挙違反の疑いがあるとして13件の警告を出しました。このほか、候補者や陣営に対して脅迫するような事案が複数確認されていることから捜",
+  "articleBody": "20日に投票が行われた参議院選挙で警視庁は、街頭での掲示などをめぐって選挙違反の疑いがあるとして13件の警告を出しました。このほか、候補者や陣営に対して脅迫するような事案が複数確認されていることから捜査を進めているということです。\n\n\n警視庁によりますと、今回の参議院選挙で選挙違反の疑いがあるとして出された警告は20日午後8時までに13件で、前回3年前の選挙の同じ期間と比べて41件減りました。\n\n警告の多くは、街頭での演説の際などに禁止された場所に「のぼり旗」を立てたり禁止された方法でポスターを掲示したりした「文書掲示」や、認められていない方法でビラを配るなどした「文書頒布」に関する違反だということです。\n\nこのほか、選挙期間中に候補者や陣営に対してメールなどで脅迫するような事案が複数確認されていることから捜査を進めているということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "20日に投票が行われた参議院選挙で警視庁は、街頭での掲示などをめぐって選挙違反の疑いがあるとして13件の警告を出しました。このほか、候補者や陣営に対して脅迫するような事案が複数確認されていることから捜査を進めているということです。\n",
+    "markedBody": "警視庁によりますと、今回の参議院選挙で選挙違反の疑いがあるとして出された警告は20日午後8時までに13件で、前回3年前の選挙の同じ期間と比べて41件減りました。\n\n警告の多くは、街頭での演説の際などに禁止された場所に「のぼり旗」を立てたり禁止された方法でポスターを掲示したりした「文書掲示」や、認められていない方法でビラを配るなどした「文書頒布」に関する違反だということです。\n\nこのほか、選挙期間中に候補者や陣営に対してメールなどで脅迫するような事案が複数確認されていることから捜査を進めているということです。\n",
+    "trimmedLead": "20日に投票が行われた参議院選挙で警視庁は、街頭での掲示などをめぐって選挙違反の疑いがあるとして13件の警告を出しました。このほか、候補者や陣営に対して脅迫するような事案が複数確認されていることから捜査を進めているということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014869161000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014869161000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

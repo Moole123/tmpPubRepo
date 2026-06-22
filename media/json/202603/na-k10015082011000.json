@@ -1,0 +1,144 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015082011000",
+  "dataSourceId": "na",
+  "name": "社民党の党首選 福島瑞穂氏 大椿裕子氏 上位2人による再選挙に",
+  "headline": "社民党の党首選 福島瑞穂氏 大椿裕子氏 上位2人による再選挙に",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015082011000",
+    "playlistId": "news-nwa-politics-nationwide-20260323",
+    "newsarticleName": "社民党の党首選 福島瑞穂氏 大椿裕子氏 上位2人による再選挙に",
+    "playlistName": "3月23日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "任期満了に伴う社民党の党首選挙は開票の結果、3人の候補者がいずれも過半数を獲得できず、現職の福島瑞穂氏と元参議院議員の大椿裕子氏の上位2人による再選挙が行われることになりました。\n\n\n今月4日に告示さ",
+  "dateModified": "2026-03-23T17:14:22+09:00",
+  "datePublished": "2026-03-23T17:14:22+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260323/K10015082011_2603231702_0323171423_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260323/K10015082011_2603231702_0323171423_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0000304",
+      "name": "選挙",
+      "display": true
+    },
+    {
+      "id": "0002392",
+      "name": "国会",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "任期満了に伴う社民党の党首選挙は開票の結果、3人の候補者がいずれも過半数を獲得できず、現職の福島瑞穂氏と元参議院議員の大椿裕子氏の上位2人による再選挙が行われることになりました。\n\n\n今月4日に告示さ",
+  "articleBody": "任期満了に伴う社民党の党首選挙は開票の結果、3人の候補者がいずれも過半数を獲得できず、現職の福島瑞穂氏と元参議院議員の大椿裕子氏の上位2人による再選挙が行われることになりました。\n\n\n今月4日に告示された社民党の党首選挙は、3人が立候補して13年ぶりの選挙戦となり、22日までの2日間、全国の地方組織で党員による投票が行われました。\n\n23日午前10時から各地で開票が行われ、党本部で集計された結果、現職の党首で参議院議員の福島瑞穂氏が1876票、元参議院議員の大椿裕子氏が1297票、副党首で参議院議員のラサール石井氏が967票となりました。\n\nいずれも過半数を獲得できず、福島氏と大椿氏の上位2人による再選挙が行われることになりました。\n\n再選挙は来月4日と5日に全国の地方組織で投票が行われ、6日に開票される予定です。\n",
+  "detailedArticleBody": {
+    "markedLead": "任期満了に伴う社民党の党首選挙は開票の結果、3人の候補者がいずれも過半数を獲得できず、現職の福島瑞穂氏と元参議院議員の大椿裕子氏の上位2人による再選挙が行われることになりました。\n",
+    "markedBody": "今月4日に告示された社民党の党首選挙は、3人が立候補して13年ぶりの選挙戦となり、22日までの2日間、全国の地方組織で党員による投票が行われました。\n\n23日午前10時から各地で開票が行われ、党本部で集計された結果、現職の党首で参議院議員の福島瑞穂氏が1876票、元参議院議員の大椿裕子氏が1297票、副党首で参議院議員のラサール石井氏が967票となりました。\n\nいずれも過半数を獲得できず、福島氏と大椿氏の上位2人による再選挙が行われることになりました。\n\n再選挙は来月4日と5日に全国の地方組織で投票が行われ、6日に開票される予定です。\n",
+    "trimmedLead": "任期満了に伴う社民党の党首選挙は開票の結果、3人の候補者がいずれも過半数を獲得できず、現職の福島瑞穂氏と元参議院議員の大椿裕子氏の上位2人による再選挙が行われることになりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015082011000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015082011000",
+  "video": [],
+  "citation": [
+    {
+      "name": "“紀州のドン・ファン”殺害事件2審 元妻に1審に続き無罪判決",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015081741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260323/K10015081741_2603231521_0323152209_01_03.jpg",
+      "datePublished": "2026-03-23T18:48:38+09:00"
+    },
+    {
+      "name": "NY ラガーディア空港で航空機と車両衝突 2人死亡か 現地報道",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015081921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260323/K10015081921_2603231503_0323150626_01_02.jpg",
+      "datePublished": "2026-03-23T18:08:24+09:00"
+    },
+    {
+      "name": "官房長官“首脳会談で具体的約束ない”ホルムズ海峡安全確保で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015081891000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260323/K10015081891_2603231256_0323142018_01_02.jpg",
+      "datePublished": "2026-03-23T14:20:17+09:00"
+    },
+    {
+      "name": "米 “ホルムズ海峡開放しなければ攻撃” 期限まで24時間切る",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015081541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260323/K10015081541_2603230501_0323115554_01_02.jpg",
+      "datePublished": "2026-03-23T17:33:54+09:00"
+    },
+    {
+      "name": "11年前の承諾殺人 当初“自殺”判断 神奈川県警が遺族に謝罪",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015081851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260323/K10015081851_2603231206_0323130015_01_03.jpg",
+      "datePublished": "2026-03-23T15:20:02+09:00"
+    },
+    {
+      "name": "大相撲 3回目の優勝 霧島「強くてかっこいい大関になりたい」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015081751000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260323/K10015081751_2603231006_0323120814_01_02.jpg",
+      "datePublished": "2026-03-23T12:25:36+09:00"
+    },
+    {
+      "name": "山梨 身延山久遠寺 樹齢約400年のしだれ桜",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015081811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260323/K10015081811_2603231430_0323151414_01_03.jpg",
+      "datePublished": "2026-03-23T15:14:13+09:00"
+    },
+    {
+      "name": "マンション大規模修繕の闇～なりすまし見抜いた住民たちの記録",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015079521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260323/K10015079521_2603191648_0323133828_01_02.jpg",
+      "datePublished": "2026-03-23T13:38:27+09:00"
+    },
+    {
+      "name": "“苦しまなければ上達できない” 美食の国の厨房で何が？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015064121000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260322/K10015064121_2603031653_0322103331_01_02.jpg",
+      "datePublished": "2026-03-22T10:33:30+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

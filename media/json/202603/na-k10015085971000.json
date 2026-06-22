@@ -1,0 +1,161 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015085971000",
+  "dataSourceId": "na",
+  "name": "円相場 一時1ドル＝160円に迫る水準まで円安進む",
+  "headline": "円相場 一時1ドル＝160円に迫る水準まで円安進む",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015085971000",
+    "playlistId": "news-nwa-business-nationwide-20260327",
+    "newsarticleName": "円相場 一時1ドル＝160円に迫る水準まで円安進む",
+    "playlistName": "3月27日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "27日の東京外国為替市場、アメリカとイランの協議が長引き事態の収束に時間がかかるという見方から有事に強いとされるドルを買う動きが強まり、円相場は一時、1ドル＝160円に迫る水準まで円安が進みました。\n",
+  "dateModified": "2026-03-27T19:03:35+09:00",
+  "datePublished": "2026-03-27T19:03:35+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260327/K10015085971_2603271853_0327190336_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260327/K10015085971_2603271853_0327190336_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0002423",
+      "name": "金融",
+      "display": true
+    },
+    {
+      "id": "0002800",
+      "name": "イラン情勢 日本への影響・対応",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "27日の東京外国為替市場、アメリカとイランの協議が長引き事態の収束に時間がかかるという見方から有事に強いとされるドルを買う動きが強まり、円相場は一時、1ドル＝160円に迫る水準まで円安が進みました。\n",
+  "articleBody": "27日の東京外国為替市場、アメリカとイランの協議が長引き事態の収束に時間がかかるという見方から有事に強いとされるドルを買う動きが強まり、円相場は一時、1ドル＝160円に迫る水準まで円安が進みました。\n\n\n27日の東京外国為替市場、日中は1ドル＝159円台半ばでの取り引きが続いていましたが、夕方になって原油の国際的な取り引きの指標となるWTIの先物価格が一時1バレル＝95ドル台まで値上がりしたのに伴って円売り・ドル買いの動きが強まり、円相場は一時、1ドル＝159円台後半まで値下がりしました。\n\nアメリカとイランによる戦闘の収束に向けた協議をめぐって、双方のさまざまな動きが伝えられる中、投資家の間で「事態の収束には時間がかかるのではないか」といった見方が広がり、原油先物価格の上昇に伴って有事に強いとされるドルが買われたのが背景です。\n\n午後5時時点の円相場は、26日と比べて45銭、円安ドル高の1ドル＝159円94銭から96銭でした。\n\n一方、ユーロに対しては、6銭、円高ユーロ安の1ユーロ＝184円21銭から25銭でした。\n\nユーロはドルに対して1ユーロ＝1.1517から18ドルでした。\n\n市場関係者は「アメリカによる地上作戦などの検討も伝えられるなど、事態が好転する兆しがいまだ見えないと投資家は受け止めている。原油価格の上昇に伴う世界的なインフレ懸念を背景に、さまざまな取り引きの決済に使われるドルの需要が高まっている」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "27日の東京外国為替市場、アメリカとイランの協議が長引き事態の収束に時間がかかるという見方から有事に強いとされるドルを買う動きが強まり、円相場は一時、1ドル＝160円に迫る水準まで円安が進みました。\n",
+    "markedBody": "27日の東京外国為替市場、日中は1ドル＝159円台半ばでの取り引きが続いていましたが、夕方になって原油の国際的な取り引きの指標となるWTIの先物価格が一時1バレル＝95ドル台まで値上がりしたのに伴って円売り・ドル買いの動きが強まり、円相場は一時、1ドル＝159円台後半まで値下がりしました。\n\nアメリカとイランによる戦闘の収束に向けた協議をめぐって、双方のさまざまな動きが伝えられる中、投資家の間で「事態の収束には時間がかかるのではないか」といった見方が広がり、原油先物価格の上昇に伴って有事に強いとされるドルが買われたのが背景です。\n\n午後5時時点の円相場は、26日と比べて45銭、円安ドル高の1ドル＝159円94銭から96銭でした。\n\n一方、ユーロに対しては、6銭、円高ユーロ安の1ユーロ＝184円21銭から25銭でした。\n\nユーロはドルに対して1ユーロ＝1.1517から18ドルでした。\n\n市場関係者は「アメリカによる地上作戦などの検討も伝えられるなど、事態が好転する兆しがいまだ見えないと投資家は受け止めている。原油価格の上昇に伴う世界的なインフレ懸念を背景に、さまざまな取り引きの決済に使われるドルの需要が高まっている」と話しています。\n",
+    "trimmedLead": "27日の東京外国為替市場、アメリカとイランの協議が長引き事態の収束に時間がかかるという見方から有事に強いとされるドルを買う動きが強まり、円相場は一時、1ドル＝160円に迫る水準まで円安が進みました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015085971000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015085971000",
+  "video": [],
+  "citation": [
+    {
+      "name": "ヒグマ駆除で猟銃所持許可取り消しは違法 原告逆転勝訴 最高裁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015085691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260327/K10015085691_2603271546_0327162723_01_02.jpg",
+      "datePublished": "2026-03-27T18:33:16+09:00"
+    },
+    {
+      "name": "長期金利が一時2.385％に 約27年ぶりの高い水準まで上昇",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015085721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260327/K10015085721_2603271533_0327163107_01_02.jpg",
+      "datePublished": "2026-03-27T18:53:10+09:00"
+    },
+    {
+      "name": "政府 新年度の暫定予算案を閣議決定 総額約8兆5600億円",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015085351000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260327/K10015085351_2603271105_0327111035_01_02.jpg",
+      "datePublished": "2026-03-27T17:16:47+09:00"
+    },
+    {
+      "name": "トランプ氏“施設攻撃は10日間猶予”兵士追加派遣検討の報道も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015085251000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260327/K10015085251_2603271905_0327190945_01_03.jpg",
+      "datePublished": "2026-03-27T19:31:27+09:00"
+    },
+    {
+      "name": "片山財務相 原油価格高騰に新たな支援策必要なら“予備費で”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015085851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260327/K10015085851_2603271652_0327173955_01_02.jpg",
+      "datePublished": "2026-03-27T17:39:54+09:00"
+    },
+    {
+      "name": "政府 クマ対策のロードマップ決定 地域ごとの捕獲目標数など",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015085501000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260327/K10015085501_2603271116_0327130719_01_02.jpg",
+      "datePublished": "2026-03-27T16:42:16+09:00"
+    },
+    {
+      "name": "しずおかFGと名古屋銀行 経営統合に向け協議で基本合意と発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015085441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260327/K10015085441_2603271117_0327111839_01_03.jpg",
+      "datePublished": "2026-03-27T18:10:45+09:00"
+    },
+    {
+      "name": "文科省の統計不適切運用 同様のケース こども家庭庁などで9件",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015085671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260327/K10015085671_2603271456_0327163813_01_02.jpg",
+      "datePublished": "2026-03-27T16:38:12+09:00"
+    },
+    {
+      "name": "東レ ナフサ価格上昇で「サーチャージ制度」導入",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015085741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260327/K10015085741_2603271606_0327164737_01_02.jpg",
+      "datePublished": "2026-03-27T16:47:36+09:00"
+    },
+    {
+      "name": "特定技能制度 「外食業」受け入れ数 5月にも上限超える見通し",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015085591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260327/K10015085591_2603271224_0327164805_01_02.jpg",
+      "datePublished": "2026-03-27T16:48:04+09:00"
+    },
+    {
+      "name": "“あした”を奪われた息子 加害者と向き合った両親の思いとは",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015078441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260327/K10015078441_2603181440_0327111641_01_02.jpg",
+      "datePublished": "2026-03-27T11:16:40+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

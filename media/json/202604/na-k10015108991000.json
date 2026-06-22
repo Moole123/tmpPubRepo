@@ -1,0 +1,165 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015108991000",
+  "dataSourceId": "na",
+  "name": "【地震 交通影響】JR北海道 一部で運転見合わせ",
+  "headline": "【地震 交通影響】JR北海道 一部で運転見合わせ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015108991000",
+    "playlistId": "news-nwa-disaster-nationwide-20260427",
+    "newsarticleName": "【地震 交通影響】JR北海道 一部で運転見合わせ",
+    "playlistName": "4月27日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "午前5時24分ごろ、北海道の十勝地方南部で震度5強の強い揺れを観測する地震がありました。\n\nこの地震による交通への影響です。\n\n\n【JR】\n\nJR北海道によりますと午前7時10分現在、地震の影響で、\n",
+  "dateModified": "2026-04-27T08:59:42+09:00",
+  "datePublished": "2026-04-27T06:18:38+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260427/K10015108991_2604270610_0427061838_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260427/K10015108991_2604270610_0427061838_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0002201",
+      "name": "北海道",
+      "display": true
+    },
+    {
+      "id": "0002683",
+      "name": "交通・インフラ",
+      "display": true
+    },
+    {
+      "id": "0002427",
+      "name": "鉄道",
+      "display": true
+    },
+    {
+      "id": "0002424",
+      "name": "航空",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "午前5時24分ごろ、北海道の十勝地方南部で震度5強の強い揺れを観測する地震がありました。\n\nこの地震による交通への影響です。\n\n\n【JR】\n\nJR北海道によりますと午前7時10分現在、地震の影響で、\n",
+  "articleBody": "午前5時24分ごろ、北海道の十勝地方南部で震度5強の強い揺れを観測する地震がありました。\n\nこの地震による交通への影響です。\n\n\n【JR】\n\nJR北海道によりますと午前7時10分現在、地震の影響で、\n▽日高線の全線と\n▽根室線の池田と音別の間でそれぞれ始発から運転を見合わせているということです。\n\nまた、新千歳空港と札幌方面を結ぶ快速エアポートで運休や遅れが出ているということです。\n\n地震の影響で、\n▽特急列車では札幌と釧路を結ぶ「おおぞら」が1号から6号、札幌と帯広を結ぶ「とかち」が1号と2号の、あわせて8本が運休するほか、\n▽快速エアポートが3本、\n▽普通列車が26本の、あわせて37本が運休するということです。\n\n北海道の鉄道運行情報はこちらから\n\n【高速道路】\n\n日本道路交通情報センターのホームページによりますと、地震の影響で\n▽道東自動車道の本別インターチェンジと白糠インターチェンジの間、\n▽日高自動車道の日高厚賀インターチェンジと新冠インターチェンジの間は、通行止めになっていましたが午前8時半までに解除されました。\n\n【空の便】\n\n北海道エアポートなどによりますと、午前6時時点で帯広市の帯広空港は通常通り利用できるということです。\n\nまた、航空各社によりますと、帯広空港を発着する便で欠航や遅れなどの予定はないということです。航空会社は引き続き状況の確認などを進めています。\n",
+  "detailedArticleBody": {
+    "markedLead": "午前5時24分ごろ、北海道の十勝地方南部で震度5強の強い揺れを観測する地震がありました。\n\nこの地震による交通への影響です。\n",
+    "markedBody": "### 【JR】\n\nJR北海道によりますと午前7時10分現在、地震の影響で、\\\n▽日高線の全線と\\\n▽根室線の池田と音別の間でそれぞれ始発から運転を見合わせているということです。\n\nまた、新千歳空港と札幌方面を結ぶ快速エアポートで運休や遅れが出ているということです。\n\n地震の影響で、\\\n▽特急列車では札幌と釧路を結ぶ「おおぞら」が1号から6号、札幌と帯広を結ぶ「とかち」が1号と2号の、あわせて8本が運休するほか、\\\n▽快速エアポートが3本、\\\n▽普通列車が26本の、あわせて37本が運休するということです。\n\n:::nw--link-type6 {href=https://news.web.nhk/news/traffic/hokkaido/}\n**北海道の鉄道運行情報はこちらから**\n:::\n\n### 【高速道路】\n\n日本道路交通情報センターのホームページによりますと、地震の影響で\\\n▽道東自動車道の本別インターチェンジと白糠インターチェンジの間、\\\n▽日高自動車道の日高厚賀インターチェンジと新冠インターチェンジの間は、通行止めになっていましたが午前8時半までに解除されました。\n\n### 【空の便】\n\n北海道エアポートなどによりますと、午前6時時点で帯広市の帯広空港は通常通り利用できるということです。\n\nまた、航空各社によりますと、帯広空港を発着する便で欠航や遅れなどの予定はないということです。航空会社は引き続き状況の確認などを進めています。\n",
+    "trimmedLead": "午前5時24分ごろ、北海道の十勝地方南部で震度5強の強い揺れを観測する地震がありました。\n\nこの地震による交通への影響です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015108991000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015108991000",
+  "video": [],
+  "citation": [
+    {
+      "name": "【地震速報】北海道十勝南部で震度5強 津波の心配なし",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015108931000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015108931_2604270927_0427093014_01_03.jpg",
+      "datePublished": "2026-04-27T09:24:32+09:00"
+    },
+    {
+      "name": "気象庁が会見「今後1週間程度 同程度の地震に注意」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109001000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015109001_2604270731_0427073208_01_02.jpg",
+      "datePublished": "2026-04-27T09:23:47+09:00"
+    },
+    {
+      "name": "北海道で震度5強 泊原発は異常や被害確認されず",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109021000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015109021_2604270601_0427060224_01_02.jpg",
+      "datePublished": "2026-04-27T06:19:50+09:00"
+    },
+    {
+      "name": "北海道で震度5強 青森の原子力関連施設 異常確認されず",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109031000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015109031_2604270653_0427065443_01_02.jpg",
+      "datePublished": "2026-04-27T06:04:05+09:00"
+    },
+    {
+      "name": "【Q＆A】後発地震注意情報 呼びかけなぜ1週間？今後の行動は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015108821000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015108821_2604262101_0427081548_01_02.jpg",
+      "datePublished": "2026-04-27T08:15:48+09:00"
+    },
+    {
+      "name": "ドジャース 大谷翔平 12試合ぶり6号ソロHR 3安打1打点の活躍",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109061000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015109061_2604270759_0427080109_01_02.jpg",
+      "datePublished": "2026-04-27T09:00:11+09:00"
+    },
+    {
+      "name": "福島 喜多方 山林火災 消火活動を再開 178世帯に避難指示",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015108851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015108851_2604262127_0427063249_01_02.jpg",
+      "datePublished": "2026-04-27T07:29:24+09:00"
+    },
+    {
+      "name": "三陸沖地震から1週間 呼びかけ期間は夕方まで 備え継続を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015108971000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015108971_2604270500_0427051554_01_03.jpg",
+      "datePublished": "2026-04-27T05:15:53+09:00"
+    },
+    {
+      "name": "岩手 大槌町の山林火災 発生6日目も延焼続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015108891000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015108891_2604262313_0427050559_01_02.jpg",
+      "datePublished": "2026-04-27T08:30:47+09:00"
+    },
+    {
+      "name": "偽広告で下着を販売 小遣い稼ぎだった いったい誰が！？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106261000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260425/K10015106261_2604241824_0425170315_01_02.jpg",
+      "datePublished": "2026-04-25T17:03:14+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

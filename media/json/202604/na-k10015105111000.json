@@ -1,0 +1,145 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015105111000",
+  "dataSourceId": "na",
+  "name": "高市首相動静 2026年4月21日",
+  "headline": "高市首相動静 2026年4月21日",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015105111000",
+    "playlistId": "news-nwa-politics-nationwide-20260422",
+    "newsarticleName": "高市首相動静 2026年4月21日",
+    "playlistName": "4月22日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "（高市首相動静 2026年4月21日）\n\n\n08:12 徒歩で公邸発\n08:13 官邸着\n08:20 閣議（～08:29）\n09:00 メキシコのシェインバウム大統領と電話会談（～09:20）\n09:",
+  "dateModified": "2026-04-22T10:28:32+09:00",
+  "datePublished": "2026-04-22T10:28:32+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260422/K10015105111_2604220942_0422102833_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260422/K10015105111_2604220942_0422102833_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0002532",
+      "name": "首相動静",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "（高市首相動静 2026年4月21日）\n\n\n08:12 徒歩で公邸発\n08:13 官邸着\n08:20 閣議（～08:29）\n09:00 メキシコのシェインバウム大統領と電話会談（～09:20）\n09:",
+  "articleBody": "（高市首相動静 2026年4月21日）\n\n\n08:12 徒歩で公邸発\n08:13 官邸着\n08:20 閣議（～08:29）\n09:00 メキシコのシェインバウム大統領と電話会談（～09:20）\n09:58 自衛隊部隊表彰式（～10:07）\n11:31 官邸発\n11:40 東京 内幸町の帝国ホテル着。宴会場「孔雀の間」で経済同友会の懇談会に出席し、あいさつ\n12:00 同所発\n12:04 官邸着\n12:05 全国町村会の藤原忠彦元会長と面会（～12:07）\n13:50 神奈川県の黒岩祐治知事と面会（～14:10）\n14:46 官邸発\n14:53 皇居着。内奏\n15:33 皇居発\n15:43 官邸着\n16:30 カタールのタミム首長と電話会談（～16:50）\n17:05 市川恵一国家安全保障局長、原和也内閣情報官と面会（～17:17）\n17:18 原内閣情報官と面会（～17:25）\n18:12 報道各社のインタビュー（～18:25）\n18:26 徒歩で官邸発\n18:27 公邸着\n18:30 衆議院の坂本哲志予算委員長らと会食。木原稔、尾崎正直正副官房長官同席（～20:30）\n",
+  "detailedArticleBody": {
+    "markedLead": "（高市首相動静 2026年4月21日）\n",
+    "markedBody": "08:12 徒歩で公邸発\\\n08:13 官邸着\\\n08:20 閣議（～08:29）\\\n09:00 メキシコのシェインバウム大統領と電話会談（～09:20）\\\n09:58 自衛隊部隊表彰式（～10:07）\\\n11:31 官邸発\\\n11:40 東京 内幸町の帝国ホテル着。宴会場「孔雀の間」で経済同友会の懇談会に出席し、あいさつ\\\n12:00 同所発\\\n12:04 官邸着\\\n12:05 全国町村会の藤原忠彦元会長と面会（～12:07）\\\n13:50 神奈川県の黒岩祐治知事と面会（～14:10）\\\n14:46 官邸発\\\n14:53 皇居着。内奏\\\n15:33 皇居発\\\n15:43 官邸着\\\n16:30 カタールのタミム首長と電話会談（～16:50）\\\n17:05 市川恵一国家安全保障局長、原和也内閣情報官と面会（～17:17）\\\n17:18 原内閣情報官と面会（～17:25）\\\n18:12 報道各社のインタビュー（～18:25）\\\n18:26 徒歩で官邸発\\\n18:27 公邸着\\\n18:30 衆議院の坂本哲志予算委員長らと会食。木原稔、尾崎正直正副官房長官同席（～20:30）\n",
+    "trimmedLead": "（高市首相動静 2026年4月21日）\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015105111000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015105111000",
+  "video": [],
+  "citation": [
+    {
+      "name": "「国家情報局」設置法案 きょう採決で与野党が合意",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105151000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015105151_2604220931_0422093414_01_02.jpg",
+      "datePublished": "2026-04-22T09:24:49+09:00"
+    },
+    {
+      "name": "自民 有村総務会長 靖国神社に参拝 高市総裁の玉串料納める",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015105131_2604220801_0422080440_01_02.jpg",
+      "datePublished": "2026-04-22T11:25:05+09:00"
+    },
+    {
+      "name": "トランプ大統領 停戦延長と投稿 イランとの協議が結論至るまで",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105081000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015105081_2604220554_0422055505_01_03.jpg",
+      "datePublished": "2026-04-22T10:27:24+09:00"
+    },
+    {
+      "name": "「５類型」撤廃で武器輸出原則可能に フィリピンと協議開始へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104871000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015104871_2604212245_0422054433_01_03.jpg",
+      "datePublished": "2026-04-22T05:44:32+09:00"
+    },
+    {
+      "name": "米FRB議長指名のウォーシュ氏 “大統領から独立して政策判断”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015105041_2604220203_0422020453_01_02.jpg",
+      "datePublished": "2026-04-22T09:20:13+09:00"
+    },
+    {
+      "name": "北海道・三陸沖後発地震注意情報 “日頃の備え 改めて確認を”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015104141_2604210018_0421002942_01_02.jpg",
+      "datePublished": "2026-04-22T05:10:19+09:00"
+    },
+    {
+      "name": "陸自戦車の砲弾破裂事故 当時の無線交信内容を聞き取りへ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105001000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015105001_2604220242_0422051148_01_02.jpg",
+      "datePublished": "2026-04-22T05:11:47+09:00"
+    },
+    {
+      "name": "「国家情報局」設置法案 与党きょう採決を 与野党詰めの調整",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104881000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015104881_2604220128_0422053222_01_02.jpg",
+      "datePublished": "2026-04-22T05:32:21+09:00"
+    },
+    {
+      "name": "東京ドームシティ 従業員が体を挟まれ死亡 点検中に遊具落下か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104511000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015104511_2604211258_0421183300_01_03.jpg",
+      "datePublished": "2026-04-21T23:31:42+09:00"
+    },
+    {
+      "name": "子どものいのちを守る 学校現場の自殺対策は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015103411000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015103411_2604201255_0421174035_01_02.jpg",
+      "datePublished": "2026-04-21T17:40:34+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

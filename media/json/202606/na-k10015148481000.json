@@ -1,0 +1,165 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015148481000",
+  "dataSourceId": "na",
+  "name": "AI悪用のサイバー攻撃に備え システム運用一時停止も 政府",
+  "headline": "AI悪用のサイバー攻撃に備え システム運用一時停止も 政府",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015148481000",
+    "playlistId": "news-nwa-politics-nationwide-20260612",
+    "newsarticleName": "AI悪用のサイバー攻撃に備え システム運用一時停止も 政府",
+    "playlistName": "6月12日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "政府は、高性能なAIを悪用したサイバー攻撃に備え、セキュリティー上のぜい弱性を速やかに修正する必要がある場合、情報システムの運用を一時停止するなど対策の強化を発表しました。\n\n\nアメリカの新興AI企業",
+  "dateModified": "2026-06-12T16:06:01+09:00",
+  "datePublished": "2026-06-12T16:06:01+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260612/K10015148481_2606121432_0612160602_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260612/K10015148481_2606121432_0612160602_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0000325",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "0000010",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "0000009",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "0002405",
+      "name": "デジタル庁",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "政府は、高性能なAIを悪用したサイバー攻撃に備え、セキュリティー上のぜい弱性を速やかに修正する必要がある場合、情報システムの運用を一時停止するなど対策の強化を発表しました。\n\n\nアメリカの新興AI企業",
+  "articleBody": "政府は、高性能なAIを悪用したサイバー攻撃に備え、セキュリティー上のぜい弱性を速やかに修正する必要がある場合、情報システムの運用を一時停止するなど対策の強化を発表しました。\n\n\nアメリカの新興AI企業、アンソロピックが開発した高性能なAIモデル「クロード・ミュトス」などは、OS＝基本ソフトやウェブブラウザのぜい弱性を特定できる能力が高く、悪用された場合、社会基盤の機能が止まるリスクが指摘されています。\n\nこうした現状を踏まえ、政府は、12日付けで、各府省庁などがサイバーセキュリティー対策を講じる際のガイドラインを改め、対策を強化すると発表しました。\n\nセキュリティー上のぜい弱性を速やかに修正する必要がある場合、情報システムの運用を一時停止するほか、対策の状況を定期的に確認するなどとしています。\n\n松本デジタル大臣は、閣議のあと記者団に対し「各府省庁が守ってほしいベースラインだ。今後、多くのぜい弱性が発見されることが見込まれるが、抜かりなく、修正作業を進めてほしい」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "政府は、高性能なAIを悪用したサイバー攻撃に備え、セキュリティー上のぜい弱性を速やかに修正する必要がある場合、情報システムの運用を一時停止するなど対策の強化を発表しました。\n",
+    "markedBody": "アメリカの新興AI企業、アンソロピックが開発した高性能なAIモデル「クロード・ミュトス」などは、OS＝基本ソフトやウェブブラウザのぜい弱性を特定できる能力が高く、悪用された場合、社会基盤の機能が止まるリスクが指摘されています。\n\nこうした現状を踏まえ、政府は、12日付けで、各府省庁などがサイバーセキュリティー対策を講じる際のガイドラインを改め、対策を強化すると発表しました。\n\nセキュリティー上のぜい弱性を速やかに修正する必要がある場合、情報システムの運用を一時停止するほか、対策の状況を定期的に確認するなどとしています。\n\n松本デジタル大臣は、閣議のあと記者団に対し「各府省庁が守ってほしいベースラインだ。今後、多くのぜい弱性が発見されることが見込まれるが、抜かりなく、修正作業を進めてほしい」と述べました。\n",
+    "trimmedLead": "政府は、高性能なAIを悪用したサイバー攻撃に備え、セキュリティー上のぜい弱性を速やかに修正する必要がある場合、情報システムの運用を一時停止するなど対策の強化を発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015148481000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015148481000",
+  "video": [],
+  "citation": [
+    {
+      "name": "米アンソロピック ミュトス級AIを一般提供開始 安全対策加えて",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015145721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260610/K10015145721_2606100821_0610083900_01_02.jpg",
+      "datePublished": "2026-06-10T08:39:00+09:00"
+    },
+    {
+      "name": "三井住友FGなど金融大手 アンソロピック・NECとAI連携を発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015147391000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260611/K10015147391_2606111721_0611190905_01_02.jpg",
+      "datePublished": "2026-06-11T19:09:04+09:00"
+    },
+    {
+      "name": "クロード・ミュトス 日本の大手セキュリティー会社も導入発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015141271000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260604/K10015141271_2606041713_0604180532_01_02.jpg",
+      "datePublished": "2026-06-04T18:05:32+09:00"
+    },
+    {
+      "name": "H3ロケット打ち上げ成功 6つの小型衛星を軌道に投入 JAXA",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148131_2606121148_0612115757_01_03.jpg",
+      "datePublished": "2026-06-12T15:47:20+09:00"
+    },
+    {
+      "name": "高市首相 G7サミットなどで13日から欧州訪問 政府が正式発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148371_2606121253_0612142706_01_02.jpg",
+      "datePublished": "2026-06-12T14:27:05+09:00"
+    },
+    {
+      "name": "除染で取り除かれた土“首都圏などで利用を” 自民 首相に提言",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148271000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148271_2606121221_0612132524_01_02.jpg",
+      "datePublished": "2026-06-12T13:25:23+09:00"
+    },
+    {
+      "name": "“秘書官 知人女性を5回ホテルの部屋に招く”官房長官明らかに",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148191000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148191_2606121134_0612121127_01_02.jpg",
+      "datePublished": "2026-06-12T12:11:26+09:00"
+    },
+    {
+      "name": "俳優 中村玉緒さん死去 86歳 映画やバラエティー番組で活躍",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148421_2606121319_0612131944_01_02.jpg",
+      "datePublished": "2026-06-12T14:03:11+09:00"
+    },
+    {
+      "name": "核燃料600体取り出し開始 福島第一原発2号機",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148341000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148341_2606121213_0612141737_01_02.jpg",
+      "datePublished": "2026-06-12T14:17:36+09:00"
+    },
+    {
+      "name": "FIFAワールドカップ2026【NHK特設サイト】",
+      "url": "https://nhk.jp/fifawc?cid=wc26-newsweb-awayomi",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31365091.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

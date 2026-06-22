@@ -1,0 +1,160 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015123431000",
+  "dataSourceId": "na",
+  "name": "ブルージェイズ 岡本和真 先制点につながるツーベースヒット",
+  "headline": "ブルージェイズ 岡本和真 先制点につながるツーベースヒット",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015123431000",
+    "playlistId": "news-nwa-sports-nationwide-20260516",
+    "newsarticleName": "ブルージェイズ 岡本和真 先制点につながるツーベースヒット",
+    "playlistName": "5月16日のスポーツニュース",
+    "genreId": "sports",
+    "genreIdSlug": "sports"
+  },
+  "description": "大リーグ、ブルージェイズの岡本和真選手は、タイガース戦で先制点につながるツーベースヒットを打ちました。\n\n\nブルージェイズは15日、相手の本拠地デトロイトでタイガースと対戦し、岡本選手は4番・サードで",
+  "dateModified": "2026-05-16T12:43:37+09:00",
+  "datePublished": "2026-05-16T12:43:37+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260516/K10015123431_2605161216_0516124338_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260516/K10015123431_2605161216_0516124338_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "スポーツ"
+  ],
+  "topic": [
+    {
+      "id": "0002770",
+      "name": "岡本和真",
+      "display": true
+    },
+    {
+      "id": "0000006",
+      "name": "大リーグ",
+      "display": true
+    },
+    {
+      "id": "0001591",
+      "name": "野球",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "大リーグ、ブルージェイズの岡本和真選手は、タイガース戦で先制点につながるツーベースヒットを打ちました。\n\n\nブルージェイズは15日、相手の本拠地デトロイトでタイガースと対戦し、岡本選手は4番・サードで",
+  "articleBody": "大リーグ、ブルージェイズの岡本和真選手は、タイガース戦で先制点につながるツーベースヒットを打ちました。\n\n\nブルージェイズは15日、相手の本拠地デトロイトでタイガースと対戦し、岡本選手は4番・サードで出場しました。\n\n2回の第1打席は先頭バッターで初球をとらえ、ライトへのツーベースヒットを打ってチャンスをつくり、後続のタイムリーで先制のホームを踏みました。\n\nしかし、その後はヒットが出ず、3回の第2打席は空振り三振、6回の第3打席はセカンドゴロに打ち取られ、2対2の同点で迎えた9回の第4打席も空振り三振に倒れました。\n\n岡本選手はこの試合4打数1安打で、打率は2割3分9厘です。\n\nブルージェイズは9回ウラにタイムリーヒットを打たれて、2対3でサヨナラ負けしました。\n",
+  "detailedArticleBody": {
+    "markedLead": "大リーグ、ブルージェイズの岡本和真選手は、タイガース戦で先制点につながるツーベースヒットを打ちました。\n",
+    "markedBody": "ブルージェイズは15日、相手の本拠地デトロイトでタイガースと対戦し、岡本選手は4番・サードで出場しました。\n\n2回の第1打席は先頭バッターで初球をとらえ、ライトへのツーベースヒットを打ってチャンスをつくり、後続のタイムリーで先制のホームを踏みました。\n\nしかし、その後はヒットが出ず、3回の第2打席は空振り三振、6回の第3打席はセカンドゴロに打ち取られ、2対2の同点で迎えた9回の第4打席も空振り三振に倒れました。\n\n岡本選手はこの試合4打数1安打で、打率は2割3分9厘です。\n\nブルージェイズは9回ウラにタイムリーヒットを打たれて、2対3でサヨナラ負けしました。\n",
+    "trimmedLead": "大リーグ、ブルージェイズの岡本和真選手は、タイガース戦で先制点につながるツーベースヒットを打ちました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015123431000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015123431000",
+  "video": [],
+  "citation": [
+    {
+      "name": "プロ野球「危険スイング」で初の警告",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015123241000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015123241_2605160806_0516080709_01_02.jpg",
+      "datePublished": "2026-05-15T23:49:55+09:00"
+    },
+    {
+      "name": "オリックス 山下舜平大 右ひじじん帯を手術 今季復帰は絶望的",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015122781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015122781_2605151649_0515172600_01_02.jpg",
+      "datePublished": "2026-05-15T17:25:59+09:00"
+    },
+    {
+      "name": "元広島 羽月隆太郎被告 初公判「周囲にも薬物使用の選手いた」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015122431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015122431_2605151142_0515122358_01_02.jpg",
+      "datePublished": "2026-05-15T17:59:41+09:00"
+    },
+    {
+      "name": "男子ゴルフ 全米プロ2日目 松山英樹が3位浮上 首位と1打差に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015123401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260516/K10015123401_2605161037_0516115726_01_02.jpg",
+      "datePublished": "2026-05-16T11:57:25+09:00"
+    },
+    {
+      "name": "ゴルフ アメリカ女子2日目 竹田麗央が5位 首位と3打差",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015123371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260516/K10015123371_2605161014_0516103710_01_02.jpg",
+      "datePublished": "2026-05-16T10:37:09+09:00"
+    },
+    {
+      "name": "体操NHK杯 男子1日目 全日本選手権6連覇の橋本がトップ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015123111000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015123111_2605152213_0515222145_01_02.jpg",
+      "datePublished": "2026-05-15T22:21:44+09:00"
+    },
+    {
+      "name": "サッカーW杯 日本代表メンバー 長友 遠藤など【選手反応】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015122701000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015122701_2605151850_0515193258_01_02.jpg",
+      "datePublished": "2026-05-15T23:45:09+09:00"
+    },
+    {
+      "name": "森保一監督を直撃 サッカーW杯日本代表発表 “最高の26人”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015122971000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015122971_2605152146_0515215457_01_02.jpg",
+      "datePublished": "2026-05-15T21:54:56+09:00"
+    },
+    {
+      "name": "サッカーW杯 日本代表26人決定 三笘 南野は外れる【詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015122361000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015122361_2605151602_0515162602_01_02.jpg",
+      "datePublished": "2026-05-15T20:00:35+09:00"
+    },
+    {
+      "name": "サッカーＷ杯 1次リーグ 組み合わせ・日程【一覧】全48チーム",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120681000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260514/K10015120681_2605132301_0514123253_01_02.jpg",
+      "datePublished": "2026-05-15T19:08:53+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

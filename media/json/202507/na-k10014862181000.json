@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014862181000",
+  "dataSourceId": "na",
+  "name": "ブルーインパルス 2日続けて大阪・関西万博会場の上空を華麗に飛行",
+  "headline": "ブルーインパルス 2日続けて万博会場の上空を華麗に飛行",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014862181000",
+    "playlistId": "news-nwa-society-nationwide-20250713",
+    "newsarticleName": "ブルーインパルス 2日続けて大阪・関西万博会場の上空を華麗に飛行",
+    "playlistName": "7月13日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "大阪・関西万博は開催期間が折り返しとなる中、13日も会場の上空で航空自衛隊のアクロバット飛行チーム「ブルーインパルス」の展示飛行が行われました。\n\n\n「ブルーインパルス」の展示飛行は、ことし4月の万博",
+  "dateModified": "2025-07-13T17:45:45+09:00",
+  "datePublished": "2025-07-13T17:45:45+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250713/K10014862181_2507131727_0713174547_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250713/K10014862181_2507131727_0713174547_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "大阪・関西万博は開催期間が折り返しとなる中、13日も会場の上空で航空自衛隊のアクロバット飛行チーム「ブルーインパルス」の展示飛行が行われました。\n\n\n「ブルーインパルス」の展示飛行は、ことし4月の万博",
+  "articleBody": "大阪・関西万博は開催期間が折り返しとなる中、13日も会場の上空で航空自衛隊のアクロバット飛行チーム「ブルーインパルス」の展示飛行が行われました。\n\n\n「ブルーインパルス」の展示飛行は、ことし4月の万博開幕日に予定されていましたが、天候悪化で中止となったため、7月12日と13日の2日間、改めて実施されることになりました。\n\nそして、12日に続いて13日も天候に恵まれ、午後3時前に関西空港を離陸した6機は、通天閣や大阪城など大阪の名所を巡るルートを飛びました。\n\nそして、万博会場の上空では、旋回しながら白いスモークで大屋根リングのような大きな円を描くなど、華麗な飛行が披露されました。\n\nこの時間、大阪では、万博会場だけでなく各地で一斉に空を見上げて航空ショーを楽しむ多くの人たちの姿が見られました。\n",
+  "detailedArticleBody": {
+    "markedLead": "大阪・関西万博は開催期間が折り返しとなる中、13日も会場の上空で航空自衛隊のアクロバット飛行チーム「ブルーインパルス」の展示飛行が行われました。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20250713/K10014862181_2507131727_0713174547_02_03.jpg)\n\n「ブルーインパルス」の展示飛行は、ことし4月の万博開幕日に予定されていましたが、天候悪化で中止となったため、7月12日と13日の2日間、改めて実施されることになりました。\n\nそして、12日に続いて13日も天候に恵まれ、午後3時前に関西空港を離陸した6機は、通天閣や大阪城など大阪の名所を巡るルートを飛びました。\n\nそして、万博会場の上空では、旋回しながら白いスモークで大屋根リングのような大きな円を描くなど、華麗な飛行が披露されました。\n\nこの時間、大阪では、万博会場だけでなく各地で一斉に空を見上げて航空ショーを楽しむ多くの人たちの姿が見られました。\n",
+    "trimmedLead": "大阪・関西万博は開催期間が折り返しとなる中、13日も会場の上空で航空自衛隊のアクロバット飛行チーム「ブルーインパルス」の展示飛行が行われました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014862181000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014862181000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

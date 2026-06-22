@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015034281000",
+  "dataSourceId": "na",
+  "name": "インフルエンザ患者数 前週からわずかに増加 流行続く",
+  "headline": "インフルエンザ患者数 前週からわずかに増加 流行続く",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015034281000",
+    "playlistId": "news-nwa-life-nationwide-20260123",
+    "newsarticleName": "インフルエンザ患者数 前週からわずかに増加 流行続く",
+    "playlistName": "1月23日の暮らしニュース",
+    "genreId": "life",
+    "genreIdSlug": "life"
+  },
+  "description": "今月18日までの1週間に全国から報告されたインフルエンザの患者数は1医療機関当たり11.33人で前の週からわずかに増加しました。26の府県で10人を超えるなど依然、流行が続いています。\n\n\n国立健康危",
+  "dateModified": "2026-01-23T19:03:01+09:00",
+  "datePublished": "2026-01-23T19:03:01+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260123/K10015034281_2601231901_0123190302_02_01.jpg",
+      "height": 719,
+      "width": 1279
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260123/K10015034281_2601231901_0123190302_01_02.jpg",
+      "height": 719,
+      "width": 1279
+    }
+  },
+  "genre": [
+    "暮らし",
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "今月18日までの1週間に全国から報告されたインフルエンザの患者数は1医療機関当たり11.33人で前の週からわずかに増加しました。26の府県で10人を超えるなど依然、流行が続いています。\n\n\n国立健康危",
+  "articleBody": "今月18日までの1週間に全国から報告されたインフルエンザの患者数は1医療機関当たり11.33人で前の週からわずかに増加しました。26の府県で10人を超えるなど依然、流行が続いています。\n\n\n国立健康危機管理研究機構などによりますと、今月18日までの1週間に全国3000か所余りの医療機関から報告されたインフルエンザの患者数は1医療機関当たり11.33人で前の週から0.79人増えました。\n\n都道府県別では\n▽宮崎県で30.75人\n▽鹿児島県で27.98人\n▽大分県で21.43人\n▽沖縄県で19.78人\n▽愛媛県で19.43人\n▽佐賀県で19.08人などと\n26の府県で10人を超えていて依然、流行が続いています。\n\nまた検出されたインフルエンザのウイルスはA型がおよそ90％と主流になっていますが、B型が徐々に増加し、11％となっています。\n\n厚生労働省は手洗いや適切なマスクの着用など感染対策を徹底するよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "今月18日までの1週間に全国から報告されたインフルエンザの患者数は1医療機関当たり11.33人で前の週からわずかに増加しました。26の府県で10人を超えるなど依然、流行が続いています。\n",
+    "markedBody": "国立健康危機管理研究機構などによりますと、今月18日までの1週間に全国3000か所余りの医療機関から報告されたインフルエンザの患者数は1医療機関当たり11.33人で前の週から0.79人増えました。\n\n都道府県別では\\\n▽宮崎県で30.75人\\\n▽鹿児島県で27.98人\\\n▽大分県で21.43人\\\n▽沖縄県で19.78人\\\n▽愛媛県で19.43人\\\n▽佐賀県で19.08人などと\\\n26の府県で10人を超えていて依然、流行が続いています。\n\nまた検出されたインフルエンザのウイルスはA型がおよそ90％と主流になっていますが、B型が徐々に増加し、11％となっています。\n\n厚生労働省は手洗いや適切なマスクの着用など感染対策を徹底するよう呼びかけています。\n",
+    "trimmedLead": "今月18日までの1週間に全国から報告されたインフルエンザの患者数は1医療機関当たり11.33人で前の週からわずかに増加しました。26の府県で10人を超えるなど依然、流行が続いています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015034281000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015034281000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

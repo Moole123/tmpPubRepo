@@ -1,0 +1,101 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014893211000",
+  "dataSourceId": "na",
+  "name": "生成AI悪用新ウイルス確認 日本へのサイバー攻撃注意呼びかけ",
+  "headline": "生成AI悪用新ウイルス確認 日本へのサイバー攻撃注意呼びかけ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014893211000",
+    "playlistId": "news-nwa-scienceculture-nationwide-20250813",
+    "newsarticleName": "生成AI悪用新ウイルス確認 日本へのサイバー攻撃注意呼びかけ",
+    "playlistName": "8月13日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "生成AIを悪用して情報を盗み出す新手のコンピューターウイルスが海外で確認され、セキュリティー会社では、従来のウイルス対策ソフトでは検知が難しく、今後、日本へのサイバー攻撃に使われる可能性もあるとして、",
+  "dateModified": "2025-08-13T14:23:16+09:00",
+  "datePublished": "2025-08-13T14:23:16+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250813/K10014893211_2508131358_0813142251_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250813/K10014893211_2508131358_0813142251_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "科学・文化"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "生成AIを悪用して情報を盗み出す新手のコンピューターウイルスが海外で確認され、セキュリティー会社では、従来のウイルス対策ソフトでは検知が難しく、今後、日本へのサイバー攻撃に使われる可能性もあるとして、",
+  "articleBody": "生成AIを悪用して情報を盗み出す新手のコンピューターウイルスが海外で確認され、セキュリティー会社では、従来のウイルス対策ソフトでは検知が難しく、今後、日本へのサイバー攻撃に使われる可能性もあるとして、注意を呼びかけています。\n\n\nセキュリティー会社のトレンドマイクロによりますと、「LAMEHUG」と呼ばれるこのコンピューターウイルスは、7月、ウクライナの政府機関を狙ったサイバー攻撃で確認されました。\n\nウイルスはメールの添付ファイルを開くと感染し、ネット上にある生成AIに「パソコン上の情報を集めてコピーし、指定したサイトに送るための命令文を書いて」などと要請します。\n\nするとAIは、要請されたプログラムを生成してウイルスに返答し、それをウイルスが実行することで、攻撃者が指定したサイトに集めた情報を送らせるという仕組みです。\n\n実際のサイバー攻撃に組み込まれる形で生成AIを悪用したウイルスが確認されるのは初めてで、本体には明確な攻撃プログラムが含まれていないため、従来のウイルス対策ソフトでは検知が難しいということです。\n\nウイルスの作成に関わったとみられるロシア系のハッカー集団は過去に日本を標的にしたことがあり、セキュリティー会社では、今後、日本へのサイバー攻撃に使われる可能性もあるとして、注意を呼びかけています。\n\nトレンドマイクロの岡本勝之さんは「AIを悪用し自律的に攻撃を行うウイルスに発展していく可能性が出てきた。添付ファイルに違和感があるメールは開かないなど慎重な姿勢が重要だ」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "生成AIを悪用して情報を盗み出す新手のコンピューターウイルスが海外で確認され、セキュリティー会社では、従来のウイルス対策ソフトでは検知が難しく、今後、日本へのサイバー攻撃に使われる可能性もあるとして、注意を呼びかけています。\n",
+    "markedBody": "セキュリティー会社のトレンドマイクロによりますと、「LAMEHUG」と呼ばれるこのコンピューターウイルスは、7月、ウクライナの政府機関を狙ったサイバー攻撃で確認されました。\n\nウイルスはメールの添付ファイルを開くと感染し、ネット上にある生成AIに「パソコン上の情報を集めてコピーし、指定したサイトに送るための命令文を書いて」などと要請します。\n\nするとAIは、要請されたプログラムを生成してウイルスに返答し、それをウイルスが実行することで、攻撃者が指定したサイトに集めた情報を送らせるという仕組みです。\n\n実際のサイバー攻撃に組み込まれる形で生成AIを悪用したウイルスが確認されるのは初めてで、本体には明確な攻撃プログラムが含まれていないため、従来のウイルス対策ソフトでは検知が難しいということです。\n\nウイルスの作成に関わったとみられるロシア系のハッカー集団は過去に日本を標的にしたことがあり、セキュリティー会社では、今後、日本へのサイバー攻撃に使われる可能性もあるとして、注意を呼びかけています。\n\n![](https://news.web.nhk/news/html/20250813/K10014893211_2508131358_0813142251_02_03.jpg)\n\nトレンドマイクロの岡本勝之さんは「AIを悪用し自律的に攻撃を行うウイルスに発展していく可能性が出てきた。添付ファイルに違和感があるメールは開かないなど慎重な姿勢が重要だ」と話していました。\n",
+    "trimmedLead": "生成AIを悪用して情報を盗み出す新手のコンピューターウイルスが海外で確認され、セキュリティー会社では、従来のウイルス対策ソフトでは検知が難しく、今後、日本へのサイバー攻撃に使われる可能性もあるとして、注意を呼びかけています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014893211000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014893211000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "生成AI悪用新ウイルス確認 日本へのサイバー攻撃注意呼びかけ",
+      "description": "生成AIを悪用して情報を盗み出す新手のコンピューターウイルスが海外で確認され、セキュリティー会社では、従来のウイルス対策ソフトでは検知が難しく、今後、日本へのサイバー攻撃に使われる可能性もあるとして、",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10014893211_202508131432_202508131432/index.m3u8&mrposter=/news/html/20250813/K10014893211_2508131358_0813142251_01_02.jpg",
+      "duration": "PT1M29S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10014893211_202508131432_202508131432/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20250813/K10014893211_2508131358_0813142251_01_02.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

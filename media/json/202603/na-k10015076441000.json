@@ -1,0 +1,161 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015076441000",
+  "dataSourceId": "na",
+  "name": "日本人3人 サウジアラビアから韓国に軍輸送機で到着 政府発表",
+  "headline": "日本人3人 サウジアラビアから韓国に軍輸送機で到着 政府発表",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015076441000",
+    "playlistId": "news-nwa-politics-nationwide-20260315",
+    "newsarticleName": "日本人3人 サウジアラビアから韓国に軍輸送機で到着 政府発表",
+    "playlistName": "3月15日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "イラン情勢の緊迫化を受け、政府は15日夜、日本人3人がサウジアラビアから渡航を希望していた韓国に、韓国軍の輸送機で到着したと発表しました。\n\n\nこれについて高市総理大臣は、旧ツイッターのXに「韓国政府",
+  "dateModified": "2026-03-15T19:46:53+09:00",
+  "datePublished": "2026-03-15T19:46:53+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260315/K10015076441_2603151912_0315194654_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260315/K10015076441_2603151912_0315194654_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治",
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0000820",
+      "name": "イラン情勢",
+      "display": true
+    },
+    {
+      "id": "0002301",
+      "name": "韓国",
+      "display": true
+    },
+    {
+      "id": "0002353",
+      "name": "サウジアラビア",
+      "display": true
+    },
+    {
+      "id": "0002672",
+      "name": "高市内閣",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "イラン情勢の緊迫化を受け、政府は15日夜、日本人3人がサウジアラビアから渡航を希望していた韓国に、韓国軍の輸送機で到着したと発表しました。\n\n\nこれについて高市総理大臣は、旧ツイッターのXに「韓国政府",
+  "articleBody": "イラン情勢の緊迫化を受け、政府は15日夜、日本人3人がサウジアラビアから渡航を希望していた韓国に、韓国軍の輸送機で到着したと発表しました。\n\n\nこれについて高市総理大臣は、旧ツイッターのXに「韓国政府及び韓国軍のみなさまに感謝申し上げる。先般は日本政府が手配したチャーター機に韓国の方々及びその外国籍家族のあわせて16人が搭乗した。これらは『第三国における自国民保護に関する日韓間の相互協力』の取り組みの一環だ」と投稿しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "イラン情勢の緊迫化を受け、政府は15日夜、日本人3人がサウジアラビアから渡航を希望していた韓国に、韓国軍の輸送機で到着したと発表しました。\n",
+    "markedBody": "これについて高市総理大臣は、旧ツイッターのXに「韓国政府及び韓国軍のみなさまに感謝申し上げる。先般は日本政府が手配したチャーター機に韓国の方々及びその外国籍家族のあわせて16人が搭乗した。これらは『第三国における自国民保護に関する日韓間の相互協力』の取り組みの一環だ」と投稿しました。\n",
+    "trimmedLead": "イラン情勢の緊迫化を受け、政府は15日夜、日本人3人がサウジアラビアから渡航を希望していた韓国に、韓国軍の輸送機で到着したと発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015076441000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015076441000",
+  "video": [],
+  "citation": [
+    {
+      "name": "トランプ氏 戦闘終結に向けた条件「まだ十分に整っていない」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015076161000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260315/K10015076161_2603151102_0315130407_01_02.jpg",
+      "datePublished": "2026-03-15T19:30:28+09:00"
+    },
+    {
+      "name": "トランプ氏 ホルムズ海峡安全確保へ 日本などの艦船派遣に期待",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015076011000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260315/K10015076011_2603150554_0315055708_01_02.jpg",
+      "datePublished": "2026-03-15T18:16:49+09:00"
+    },
+    {
+      "name": "中東からチャーター機で1100人余退避  政府“追加運航なし”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015075981000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260315/K10015075981_2603142307_0315054341_01_02.jpg",
+      "datePublished": "2026-03-15T05:43:40+09:00"
+    },
+    {
+      "name": "日本人女性 カタールから出国できず バスでサウジアラビアへ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015069321000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260307/K10015069321_2603071745_0307182854_01_02.jpg",
+      "datePublished": "2026-03-07T18:28:53+09:00"
+    },
+    {
+      "name": "中東からチャーター機到着 退避は1104人に 次の運航計画なし",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015075611000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260314/K10015075611_2603140818_0314103155_01_02.jpg",
+      "datePublished": "2026-03-14T11:06:41+09:00"
+    },
+    {
+      "name": "トランプ政権 中東諸国が仲介もイランとの協議を拒否 ロイター",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015076081000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260315/K10015076081_2603150858_0315090248_01_02.jpg",
+      "datePublished": "2026-03-15T09:02:47+09:00"
+    },
+    {
+      "name": "豪 サッカー女子イラン代表選手ら7人にビザ発給も 4人が帰国へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015076311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260315/K10015076311_2603151722_0315181823_01_02.jpg",
+      "datePublished": "2026-03-15T18:18:22+09:00"
+    },
+    {
+      "name": "4億円強奪事件 容疑者ら 奪った金で高級腕時計や車を購入か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015076331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260315/K10015076331_2603151744_0315185459_01_02.jpg",
+      "datePublished": "2026-03-15T18:54:58+09:00"
+    },
+    {
+      "name": "イラン攻撃 トランプ大統領の“誤算”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015074681000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260313/K10015074681_2603131257_0313161909_01_02.jpg",
+      "datePublished": "2026-03-13T16:19:08+09:00"
+    },
+    {
+      "name": "中東に広がる戦火 イランのねらいは",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015071631000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260310/K10015071631_2603101154_0310162758_01_02.jpg",
+      "datePublished": "2026-03-10T16:27:57+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

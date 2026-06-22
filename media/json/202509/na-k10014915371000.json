@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014915371000",
+  "dataSourceId": "na",
+  "name": "石破首相 赤澤経済再生相から米関税に関する報告受ける",
+  "headline": "石破首相 赤澤経済再生相から米関税に関する報告受ける",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014915371000",
+    "playlistId": "news-nwa-politics-nationwide-20250906",
+    "newsarticleName": "石破首相 赤澤経済再生相から米関税に関する報告受ける",
+    "playlistName": "9月6日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "石破総理大臣は、6日午後5時ごろから総理大臣公邸で、ワシントンから帰国した赤澤経済再生担当大臣と会談し、林官房長官らも同席しました。そして、トランプ大統領が自動車などへの関税を15％に引き下げる大統領",
+  "dateModified": "2025-09-06T19:32:03+09:00",
+  "datePublished": "2025-09-06T19:32:03+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250906/K10014915371_2509061901_0906193205_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250906/K10014915371_2509061901_0906193205_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "石破総理大臣は、6日午後5時ごろから総理大臣公邸で、ワシントンから帰国した赤澤経済再生担当大臣と会談し、林官房長官らも同席しました。そして、トランプ大統領が自動車などへの関税を15％に引き下げる大統領",
+  "articleBody": "石破総理大臣は、6日午後5時ごろから総理大臣公邸で、ワシントンから帰国した赤澤経済再生担当大臣と会談し、林官房長官らも同席しました。そして、トランプ大統領が自動車などへの関税を15％に引き下げる大統領令に署名し、赤澤大臣がラトニック商務長官とともに日本からの投資に関する文書に署名したことなどについて、報告を受けました。\n\n\n赤澤大臣は、午後5時半すぎに林官房長官らが退出したあと、6時15分ごろまで総理大臣公邸に残りました。\n\n石破総理大臣と個別に会談し、自民党の臨時の総裁選挙が実施されるかどうかをめぐる党内情勢などについて意見を交わしたものとみられます。\n",
+  "detailedArticleBody": {
+    "markedLead": "石破総理大臣は、6日午後5時ごろから総理大臣公邸で、ワシントンから帰国した赤澤経済再生担当大臣と会談し、林官房長官らも同席しました。そして、トランプ大統領が自動車などへの関税を15％に引き下げる大統領令に署名し、赤澤大臣がラトニック商務長官とともに日本からの投資に関する文書に署名したことなどについて、報告を受けました。\n",
+    "markedBody": "赤澤大臣は、午後5時半すぎに林官房長官らが退出したあと、6時15分ごろまで総理大臣公邸に残りました。\n\n石破総理大臣と個別に会談し、自民党の臨時の総裁選挙が実施されるかどうかをめぐる党内情勢などについて意見を交わしたものとみられます。\n",
+    "trimmedLead": "石破総理大臣は、6日午後5時ごろから総理大臣公邸で、ワシントンから帰国した赤澤経済再生担当大臣と会談し、林官房長官らも同席しました。そして、トランプ大統領が自動車などへの関税を15％に引き下げる大統領令に署名し、赤澤大臣がラトニック商務長官とともに日本からの投資に関する文書に署名したことなどについて、報告を受けました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014915371000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014915371000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

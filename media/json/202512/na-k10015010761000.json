@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015010761000",
+  "dataSourceId": "na",
+  "name": "クマによる人身被害 12月に入り5人",
+  "headline": "クマによる人身被害 12月に入り5人",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015010761000",
+    "playlistId": "news-nwa-society-nationwide-20251222",
+    "newsarticleName": "クマによる人身被害 12月に入り5人",
+    "playlistName": "12月22日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "クマによる人身被害は、NHKのまとめでことし4月から12月22日午後5時時点までで、22の都道府県で少なくとも235人にのぼっています。\n\n\nこのうち、13人が死亡し、12月に入って被害にあった人は富",
+  "dateModified": "2025-12-22T21:06:15+09:00",
+  "datePublished": "2025-12-22T21:06:15+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251222/K10015010761_2512222045_1222210616_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251222/K10015010761_2512222045_1222210616_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "クマによる人身被害は、NHKのまとめでことし4月から12月22日午後5時時点までで、22の都道府県で少なくとも235人にのぼっています。\n\n\nこのうち、13人が死亡し、12月に入って被害にあった人は富",
+  "articleBody": "クマによる人身被害は、NHKのまとめでことし4月から12月22日午後5時時点までで、22の都道府県で少なくとも235人にのぼっています。\n\n\nこのうち、13人が死亡し、12月に入って被害にあった人は富山県などであわせて5人となっています。\n\n一方、今月20日に宮城県大和町の山林で89歳の男性が倒れているのが見つかってその後死亡が確認され、警察は男性の頭に傷があるなど現場の状況から、クマに襲われた可能性があるとみて調べています。\n\n環境省によりますと、クマによる被害と確認された場合は、12月に入ってのクマによる死亡事案は2006年度の統計開始以降で初めてになるということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "クマによる人身被害は、NHKのまとめでことし4月から12月22日午後5時時点までで、22の都道府県で少なくとも235人にのぼっています。\n",
+    "markedBody": "このうち、13人が死亡し、12月に入って被害にあった人は富山県などであわせて5人となっています。\n\n一方、今月20日に宮城県大和町の山林で89歳の男性が倒れているのが見つかってその後死亡が確認され、警察は男性の頭に傷があるなど現場の状況から、クマに襲われた可能性があるとみて調べています。\n\n環境省によりますと、クマによる被害と確認された場合は、12月に入ってのクマによる死亡事案は2006年度の統計開始以降で初めてになるということです。\n",
+    "trimmedLead": "クマによる人身被害は、NHKのまとめでことし4月から12月22日午後5時時点までで、22の都道府県で少なくとも235人にのぼっています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015010761000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015010761000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

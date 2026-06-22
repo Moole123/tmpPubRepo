@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015083411000",
+  "dataSourceId": "na",
+  "name": "高校野球 センバツ 初の指名打者制 1回戦16試合で26校が採用",
+  "headline": "高校野球 センバツ 初の指名打者制 1回戦16試合で26校が採用",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015083411000",
+    "playlistId": "news-nwa-sports-nationwide-20260324",
+    "newsarticleName": "高校野球 センバツ 初の指名打者制 1回戦16試合で26校が採用",
+    "playlistName": "3月24日のスポーツニュース",
+    "genreId": "sports",
+    "genreIdSlug": "sports"
+  },
+  "description": "甲子園球場で行われているセンバツ高校野球は、24日で1回戦すべての16試合を終えました。今大会から初めて導入された指名打者制は、各チームが試合前に、採用するかどうかを判断しますが、1回戦の先発メンバー",
+  "dateModified": "2026-03-24T21:56:31+09:00",
+  "datePublished": "2026-03-24T21:56:31+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260324/K10015083411_2603242117_0324215632_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260324/K10015083411_2603242117_0324215632_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "スポーツ"
+  ],
+  "topic": [
+    {
+      "id": "0001497",
+      "name": "センバツ 高校野球",
+      "display": true
+    },
+    {
+      "id": "0000803",
+      "name": "高校野球",
+      "display": true
+    },
+    {
+      "id": "0001591",
+      "name": "野球",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "甲子園球場で行われているセンバツ高校野球は、24日で1回戦すべての16試合を終えました。今大会から初めて導入された指名打者制は、各チームが試合前に、採用するかどうかを判断しますが、1回戦の先発メンバー",
+  "articleBody": "甲子園球場で行われているセンバツ高校野球は、24日で1回戦すべての16試合を終えました。今大会から初めて導入された指名打者制は、各チームが試合前に、採用するかどうかを判断しますが、1回戦の先発メンバーで指名打者を起用したチームは、32の出場校のうち、26校にのぼりました。\n\n\n打順別では、\n▽指名打者を1番で起用したのが東京の帝京高校\n▽3番で起用したのが兵庫の神戸国際大付属高校\n▽4番での起用が青森の八戸学院光星高校と大阪桐蔭高校\n▽5番での起用が宮城の東北高校で、\nこのほかの21チームは6番から9番で起用していました。\n\nまた、八戸学院光星高校は32校の中で唯一、ピッチャー兼指名打者として投打の中心となる北口晃大投手を起用しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "甲子園球場で行われているセンバツ高校野球は、24日で1回戦すべての16試合を終えました。今大会から初めて導入された指名打者制は、各チームが試合前に、採用するかどうかを判断しますが、1回戦の先発メンバーで指名打者を起用したチームは、32の出場校のうち、26校にのぼりました。\n",
+    "markedBody": "打順別では、\\\n▽指名打者を1番で起用したのが東京の帝京高校\\\n▽3番で起用したのが兵庫の神戸国際大付属高校\\\n▽4番での起用が青森の八戸学院光星高校と大阪桐蔭高校\\\n▽5番での起用が宮城の東北高校で、\\\nこのほかの21チームは6番から9番で起用していました。\n\nまた、八戸学院光星高校は32校の中で唯一、ピッチャー兼指名打者として投打の中心となる北口晃大投手を起用しました。\n",
+    "trimmedLead": "甲子園球場で行われているセンバツ高校野球は、24日で1回戦すべての16試合を終えました。今大会から初めて導入された指名打者制は、各チームが試合前に、採用するかどうかを判断しますが、1回戦の先発メンバーで指名打者を起用したチームは、32の出場校のうち、26校にのぼりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015083411000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015083411000",
+  "video": [],
+  "citation": [
+    {
+      "name": "高校野球 センバツ 八戸学院光星が滋賀学園に勝ち準々決勝へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082971000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260324/K10015082971_2603241652_0324171810_01_02.jpg",
+      "datePublished": "2026-03-24T22:10:08+09:00"
+    },
+    {
+      "name": "高校野球 センバツ 中京大中京が帝京に勝って準々決勝に進出",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260324/K10015082851_2603241423_0324143620_01_02.jpg",
+      "datePublished": "2026-03-24T19:48:37+09:00"
+    },
+    {
+      "name": "【今大会の注目点は】高校野球 センバツ 初の指名打者制導入",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015078951000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260319/K10015078951_2603182254_0319043736_01_02.jpg",
+      "datePublished": "2026-03-19T04:37:35+09:00"
+    },
+    {
+      "name": "センバツ高校野球開幕 DH導入の背景は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015079491000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260319/K10015079491_2603191214_0319175532_01_02.jpg",
+      "datePublished": "2026-03-19T17:55:31+09:00"
+    },
+    {
+      "name": "【出場校一覧】センバツ32校 歴史は？チームの特徴は？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015067341000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260306/K10015067341_2603051926_0306135649_01_02.jpg",
+      "datePublished": "2026-03-06T13:56:48+09:00"
+    },
+    {
+      "name": "センバツ 山梨学院 骨折の菰田投手 監督「今大会 出場難しい」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082871000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260324/K10015082871_2603241613_0324161635_01_02.jpg",
+      "datePublished": "2026-03-24T16:16:35+09:00"
+    },
+    {
+      "name": "センバツ 山梨学院の菰田陽生投手 左手首付近の骨折と診断",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082161000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260323/K10015082161_2603231822_0323184910_01_02.jpg",
+      "datePublished": "2026-03-23T18:49:09+09:00"
+    },
+    {
+      "name": "プロ野球 リプレーセンター公開 各地の試合での検証を一括で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082831000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260324/K10015082831_2603241413_0324154144_01_02.jpg",
+      "datePublished": "2026-03-24T15:41:43+09:00"
+    },
+    {
+      "name": "ドジャース 大谷は2試合連続ツーベースヒット 佐々木は8四死球",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082981000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260324/K10015082981_2603241723_0324173651_01_02.jpg",
+      "datePublished": "2026-03-24T17:36:50+09:00"
+    },
+    {
+      "name": "カブス 鈴木誠也 開幕はけが人リスト入り WBCで右ひざ負傷",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260324/K10015082441_2603240708_0324081202_01_02.jpg",
+      "datePublished": "2026-03-24T08:12:01+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

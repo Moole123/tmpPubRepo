@@ -1,0 +1,166 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015108221000",
+  "dataSourceId": "na",
+  "name": "米AI新興アンソロピックに出資 巨大テクノロジー企業で広がる",
+  "headline": "米AI新興アンソロピックに出資 巨大テクノロジー企業で広がる",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015108221000",
+    "playlistId": "news-nwa-international-nationwide-20260425",
+    "newsarticleName": "米AI新興アンソロピックに出資 巨大テクノロジー企業で広がる",
+    "playlistName": "4月25日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "アメリカのAI開発企業「アンソロピック」に対し、巨大テクノロジー企業からの出資が相次いでいます。現地メディアは、「グーグル」が最大で6兆3000億円余りを出資する計画を報じ、巨大テクノロジー企業の間で",
+  "dateModified": "2026-04-25T17:02:40+09:00",
+  "datePublished": "2026-04-25T17:02:40+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260425/K10015108221_2604251513_0425170241_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260425/K10015108221_2604251513_0425170241_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000010",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "0000009",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "0002421",
+      "name": "半導体",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "0002733",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "アメリカのAI開発企業「アンソロピック」に対し、巨大テクノロジー企業からの出資が相次いでいます。現地メディアは、「グーグル」が最大で6兆3000億円余りを出資する計画を報じ、巨大テクノロジー企業の間で",
+  "articleBody": "アメリカのAI開発企業「アンソロピック」に対し、巨大テクノロジー企業からの出資が相次いでいます。現地メディアは、「グーグル」が最大で6兆3000億円余りを出資する計画を報じ、巨大テクノロジー企業の間で、新興のAI企業の技術を自社のビジネスに活用しようとする動きが広がっています。\n\n\n複数の現地メディアは24日、グーグルがアンソロピックに、まず100億ドル出資し、その後、業績目標の達成状況に応じて300億ドル、あわせて最大400億ドル、日本円で6兆3000億円余りを出資する計画だと報じました。\n\nアンソロピックは、パソコン上で幅広い作業を自律的にこなすAIや、プログラミング向けのAIなどを相次いで発表し、これらのサービスの普及や需要の高さから市場の関心が高まっています。\n\nアンソロピックには、アマゾンからの最大250億ドルの出資や、マイクロソフトとエヌビディアを含む、複数の企業などからのあわせて300億ドルの出資が発表されるなど、巨大テクノロジー企業の間で、アンソロピックの技術を自社のビジネスに活用しようとする動きが広がっています。\n\n一方でアンソロピック側は、これらの企業のクラウドサービスや半導体を利用しているため、両者の間で実態上、サービスやモノ、資金が循環する構図になって、外側からリスクが見えづらくなるという懸念も出ています。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカのAI開発企業「アンソロピック」に対し、巨大テクノロジー企業からの出資が相次いでいます。現地メディアは、「グーグル」が最大で6兆3000億円余りを出資する計画を報じ、巨大テクノロジー企業の間で、新興のAI企業の技術を自社のビジネスに活用しようとする動きが広がっています。\n",
+    "markedBody": "複数の現地メディアは24日、グーグルがアンソロピックに、まず100億ドル出資し、その後、業績目標の達成状況に応じて300億ドル、あわせて最大400億ドル、日本円で6兆3000億円余りを出資する計画だと報じました。\n\nアンソロピックは、パソコン上で幅広い作業を自律的にこなすAIや、プログラミング向けのAIなどを相次いで発表し、これらのサービスの普及や需要の高さから市場の関心が高まっています。\n\nアンソロピックには、アマゾンからの最大250億ドルの出資や、マイクロソフトとエヌビディアを含む、複数の企業などからのあわせて300億ドルの出資が発表されるなど、巨大テクノロジー企業の間で、アンソロピックの技術を自社のビジネスに活用しようとする動きが広がっています。\n\n一方でアンソロピック側は、これらの企業のクラウドサービスや半導体を利用しているため、両者の間で実態上、サービスやモノ、資金が循環する構図になって、外側からリスクが見えづらくなるという懸念も出ています。\n",
+    "trimmedLead": "アメリカのAI開発企業「アンソロピック」に対し、巨大テクノロジー企業からの出資が相次いでいます。現地メディアは、「グーグル」が最大で6兆3000億円余りを出資する計画を報じ、巨大テクノロジー企業の間で、新興のAI企業の技術を自社のビジネスに活用しようとする動きが広がっています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015108221000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015108221000",
+  "video": [],
+  "citation": [
+    {
+      "name": "米スペースX AI新興企業を9兆円超で買収などの権利取得",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106161000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015106161_2604231109_0423111923_01_02.jpg",
+      "datePublished": "2026-04-23T11:19:22+09:00"
+    },
+    {
+      "name": "米 メタ マイクロソフト 人員削減や早期退職募集 AI開発背景か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015107011000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015107011_2604241000_0424104831_01_02.jpg",
+      "datePublished": "2026-04-24T10:48:31+09:00"
+    },
+    {
+      "name": "AIの進化見据え金融庁が作業部会 官民連携で対策検討へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015107431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015107431_2604241630_0424165233_01_02.jpg",
+      "datePublished": "2026-04-24T16:52:33+09:00"
+    },
+    {
+      "name": "片山金融相 金融関係者と会合へ 米の新興企業のAIモデルめぐり",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015105721_2604221946_0422195018_01_02.jpg",
+      "datePublished": "2026-04-22T19:50:17+09:00"
+    },
+    {
+      "name": "“中国拠点企業 先端AI「蒸留」で模倣”と非難 ホワイトハウス",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015107001000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015107001_2604241100_0424111207_01_03.jpg",
+      "datePublished": "2026-04-24T18:52:18+09:00"
+    },
+    {
+      "name": "岩手 大槌町 山林火災で住宅近くまで火が迫る地点増える",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015107961000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260425/K10015107961_2604251927_0425192801_01_03.jpg",
+      "datePublished": "2026-04-25T19:17:50+09:00"
+    },
+    {
+      "name": "8年前の六本木女性殺人事件 国際手配の容疑者逮捕 容疑否認",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015108171000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260425/K10015108171_2604251313_0425135515_01_02.jpg",
+      "datePublished": "2026-04-25T17:39:33+09:00"
+    },
+    {
+      "name": "JR福知山線脱線事故から21年 犠牲者に祈り 兵庫 尼崎",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015107811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260425/K10015107811_2604251130_0425120333_01_02.jpg",
+      "datePublished": "2026-04-25T18:08:54+09:00"
+    },
+    {
+      "name": "米特使らパキスタンへ イラン代表団はパキスタン高官と会談",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015107801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260425/K10015107801_2604250620_0425062458_01_02.jpg",
+      "datePublished": "2026-04-25T19:16:00+09:00"
+    },
+    {
+      "name": "北京モーターショー開幕 ガソリン高でEVなどの優位性アピール",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015107461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015107461_2604241710_0424184157_01_02.jpg",
+      "datePublished": "2026-04-24T19:57:56+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

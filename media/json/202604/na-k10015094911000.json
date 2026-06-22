@@ -1,0 +1,156 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015094911000",
+  "dataSourceId": "na",
+  "name": "能登半島地震 石川県内の2人を災害関連死と認定 死者727人に",
+  "headline": "能登半島地震 石川県内の2人を災害関連死と認定 死者727人に",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015094911000",
+    "playlistId": "news-nwa-society-nationwide-20260408",
+    "newsarticleName": "能登半島地震 石川県内の2人を災害関連死と認定 死者727人に",
+    "playlistName": "4月8日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "能登半島地震のあとに亡くなった石川県内の2人が新たに災害関連死と認定されました。これによって能登半島地震の災害関連死は499人となり、直接死も含めた死者は727人となりました。\n\n\n新たに災害関連死と",
+  "dateModified": "2026-04-08T17:44:19+09:00",
+  "datePublished": "2026-04-08T17:44:19+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260408/K10015094911_2604081724_0408174420_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260408/K10015094911_2604081724_0408174420_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会",
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002519",
+      "name": "能登半島地震",
+      "display": true
+    },
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0002217",
+      "name": "石川県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "能登半島地震のあとに亡くなった石川県内の2人が新たに災害関連死と認定されました。これによって能登半島地震の災害関連死は499人となり、直接死も含めた死者は727人となりました。\n\n\n新たに災害関連死と",
+  "articleBody": "能登半島地震のあとに亡くなった石川県内の2人が新たに災害関連死と認定されました。これによって能登半島地震の災害関連死は499人となり、直接死も含めた死者は727人となりました。\n\n\n新たに災害関連死と認定されたのは、珠洲市と穴水町のそれぞれ1人です。\n\nこのうち珠洲市の80代の男性は、入所する施設で被災して介護環境の変化や遠方への避難で心身に相当な負荷が生じ、亡くなったということです。\n\nまた、穴水町の80代の女性は、入所する施設で被災して介護環境の変化や転院のための長時間の移動などで心身に相当な負荷が生じ、体力が低下して病気を発症し、亡くなったということです。\n\nこれによって能登半島地震の災害関連死は、石川県で485人、富山県で8人、それに新潟県で6人のあわせて499人となり、直接死も含めた死者は727人となりました。\n\n石川県内の自治体には、さらにおよそ200人の遺族から申請が出されていて、審査が進むと能登半島地震の死者は今後も増える可能性があります。\n",
+  "detailedArticleBody": {
+    "markedLead": "能登半島地震のあとに亡くなった石川県内の2人が新たに災害関連死と認定されました。これによって能登半島地震の災害関連死は499人となり、直接死も含めた死者は727人となりました。\n",
+    "markedBody": "新たに災害関連死と認定されたのは、珠洲市と穴水町のそれぞれ1人です。\n\nこのうち珠洲市の80代の男性は、入所する施設で被災して介護環境の変化や遠方への避難で心身に相当な負荷が生じ、亡くなったということです。\n\nまた、穴水町の80代の女性は、入所する施設で被災して介護環境の変化や転院のための長時間の移動などで心身に相当な負荷が生じ、体力が低下して病気を発症し、亡くなったということです。\n\nこれによって能登半島地震の災害関連死は、石川県で485人、富山県で8人、それに新潟県で6人のあわせて499人となり、直接死も含めた死者は727人となりました。\n\n石川県内の自治体には、さらにおよそ200人の遺族から申請が出されていて、審査が進むと能登半島地震の死者は今後も増える可能性があります。\n",
+    "trimmedLead": "能登半島地震のあとに亡くなった石川県内の2人が新たに災害関連死と認定されました。これによって能登半島地震の災害関連死は499人となり、直接死も含めた死者は727人となりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015094911000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015094911000",
+  "video": [],
+  "citation": [
+    {
+      "name": "能登半島地震で妻子亡くした警察官「家族に胸を張れる人生を」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015089131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260401/K10015089131_2603312155_0401055422_01_03.jpg",
+      "datePublished": "2026-04-01T05:54:21+09:00"
+    },
+    {
+      "name": "南海トラフ 巨大地震可能性評価“特段変化なし” 気象庁検討会",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094231000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260407/K10015094231_2604071855_0407191735_01_02.jpg",
+      "datePublished": "2026-04-07T19:17:34+09:00"
+    },
+    {
+      "name": "米とイラン 2週間停戦で合意 “海峡 安全航行可能”イラン外相",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260408/K10015094531_2604081801_0408180536_01_02.jpg",
+      "datePublished": "2026-04-08T16:27:31+09:00"
+    },
+    {
+      "name": "【解説】急転直下 アメリカ・イラン停戦合意 専門家はどう見る",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260408/K10015094741_2604081815_0408183903_01_02.jpg",
+      "datePublished": "2026-04-08T18:39:01+09:00"
+    },
+    {
+      "name": "“ホルムズ海峡 2週間 安全航行も可能” イラン外相 SNSに投稿",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094561000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260408/K10015094561_2604080829_0408083130_01_02.jpg",
+      "datePublished": "2026-04-08T11:52:13+09:00"
+    },
+    {
+      "name": "NY原油市場 WTI先物価格 一時1バレル＝91ドル台まで急激に下落",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260407/K10015094471_2604072338_0407234009_01_02.jpg",
+      "datePublished": "2026-04-08T11:32:41+09:00"
+    },
+    {
+      "name": "ガソリン価格 全国平均1リットル167.4円 3週連続で下落",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094831000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260408/K10015094831_2604081517_0408153734_01_02.jpg",
+      "datePublished": "2026-04-08T15:37:33+09:00"
+    },
+    {
+      "name": "川崎 製鉄所で高所作業の3人死亡事故 重りの上で作業中転落か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094731000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260408/K10015094731_2604081245_0408131215_01_03.jpg",
+      "datePublished": "2026-04-08T17:26:45+09:00"
+    },
+    {
+      "name": "東京 広尾 ブランド買い取り店で窃盗 被害は約1億2700万円相当",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260408/K10015094691_2604081145_0408132621_01_03.jpg",
+      "datePublished": "2026-04-08T18:45:36+09:00"
+    },
+    {
+      "name": "福島 郡山 住宅街にいたクマ 高速道路沿いの茂みに 警戒続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260408/K10015094791_2604081409_0408153404_01_03.jpg",
+      "datePublished": "2026-04-08T15:34:04+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

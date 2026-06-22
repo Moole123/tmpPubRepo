@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014863891000",
+  "dataSourceId": "na",
+  "name": "東京 足立区 「自殺したい 猟銃持っている」通報の男性 住宅内で死亡",
+  "headline": "東京「自殺したい 猟銃持っている」通報の男性 住宅内で死亡",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014863891000",
+    "playlistId": "news-nwa-society-nationwide-20250715",
+    "newsarticleName": "東京 足立区 「自殺したい 猟銃持っている」通報の男性 住宅内で死亡",
+    "playlistName": "7月15日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "15日午後、東京 足立区に住む男性から「自殺したい。猟銃を持っている」などと110番通報があり、警視庁が周辺の住民を避難させるなどの対応にあたりましたが、その後、住宅内で死亡しているのが見つかったとい",
+  "dateModified": "2025-07-15T20:36:05+09:00",
+  "datePublished": "2025-07-15T17:21:42+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250715/K10014863891_2507151708_0715171159_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250715/K10014863891_2507151708_0715171159_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "15日午後、東京 足立区に住む男性から「自殺したい。猟銃を持っている」などと110番通報があり、警視庁が周辺の住民を避難させるなどの対応にあたりましたが、その後、住宅内で死亡しているのが見つかったとい",
+  "articleBody": "15日午後、東京 足立区に住む男性から「自殺したい。猟銃を持っている」などと110番通報があり、警視庁が周辺の住民を避難させるなどの対応にあたりましたが、その後、住宅内で死亡しているのが見つかったということです。\n\n\n15日午後2時半すぎ、東京 足立区舎人に住む70代の男性から「自殺したい」などと110番通報がありました。\n\n男性は1人暮らしで、「猟銃を持っている」と話し、住宅の中から出てこなかったことから、警視庁は周辺に規制線を張り、住民を避難させるなどして対応にあたりましたが、午後7時すぎに、住宅内で死亡しているのが見つかったということです。\n\n男性は猟銃を所持するための許可を受けていたということで、警視庁は自殺を図ったとみて詳しい状況を調べています。\n\n現場は日暮里・舎人ライナーの見沼代親水公園駅から北西に300メートル余り離れた住宅街です。\n",
+  "detailedArticleBody": {
+    "markedLead": "15日午後、東京 足立区に住む男性から「自殺したい。猟銃を持っている」などと110番通報があり、警視庁が周辺の住民を避難させるなどの対応にあたりましたが、その後、住宅内で死亡しているのが見つかったということです。\n",
+    "markedBody": "15日午後2時半すぎ、東京 足立区舎人に住む70代の男性から「自殺したい」などと110番通報がありました。\n\n男性は1人暮らしで、「猟銃を持っている」と話し、住宅の中から出てこなかったことから、警視庁は周辺に規制線を張り、住民を避難させるなどして対応にあたりましたが、午後7時すぎに、住宅内で死亡しているのが見つかったということです。\n\n男性は猟銃を所持するための許可を受けていたということで、警視庁は自殺を図ったとみて詳しい状況を調べています。\n\n現場は日暮里・舎人ライナーの見沼代親水公園駅から北西に300メートル余り離れた住宅街です。\n",
+    "trimmedLead": "15日午後、東京 足立区に住む男性から「自殺したい。猟銃を持っている」などと110番通報があり、警視庁が周辺の住民を避難させるなどの対応にあたりましたが、その後、住宅内で死亡しているのが見つかったということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014863891000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014863891000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

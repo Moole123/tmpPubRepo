@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015051291000",
+  "dataSourceId": "na",
+  "name": "高市首相 日銀 植田総裁と16日会談へ 衆院選後初めて",
+  "headline": "高市首相 日銀 植田総裁と16日会談へ 衆院選後初めて",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015051291000",
+    "playlistId": "news-nwa-politics-nationwide-20260213",
+    "newsarticleName": "高市首相 日銀 植田総裁と16日会談へ 衆院選後初めて",
+    "playlistName": "2月13日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "高市総理大臣は日銀の植田総裁と会談することになりました。会談は衆議院選挙後初めてで、経済や物価の動向などについて意見を交わすものとみられます。\n\n\n政府は13日夜、高市総理大臣と日銀の植田総裁が16日",
+  "dateModified": "2026-02-13T20:36:41+09:00",
+  "datePublished": "2026-02-13T20:36:41+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260213/K10015051291_2602132010_0213203642_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260213/K10015051291_2602132010_0213203642_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0002672",
+      "name": "高市内閣",
+      "display": true
+    },
+    {
+      "id": "0002310",
+      "name": "日本銀行（日銀）",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "高市総理大臣は日銀の植田総裁と会談することになりました。会談は衆議院選挙後初めてで、経済や物価の動向などについて意見を交わすものとみられます。\n\n\n政府は13日夜、高市総理大臣と日銀の植田総裁が16日",
+  "articleBody": "高市総理大臣は日銀の植田総裁と会談することになりました。会談は衆議院選挙後初めてで、経済や物価の動向などについて意見を交わすものとみられます。\n\n\n政府は13日夜、高市総理大臣と日銀の植田総裁が16日午後、総理大臣官邸で会談すると発表しました。会談は衆議院選挙後初めてで、経済や物価の動向などについて意見を交わすものとみられます。\n",
+  "detailedArticleBody": {
+    "markedLead": "高市総理大臣は日銀の植田総裁と会談することになりました。会談は衆議院選挙後初めてで、経済や物価の動向などについて意見を交わすものとみられます。\n",
+    "markedBody": "政府は13日夜、高市総理大臣と日銀の植田総裁が16日午後、総理大臣官邸で会談すると発表しました。会談は衆議院選挙後初めてで、経済や物価の動向などについて意見を交わすものとみられます。\n",
+    "trimmedLead": "高市総理大臣は日銀の植田総裁と会談することになりました。会談は衆議院選挙後初めてで、経済や物価の動向などについて意見を交わすものとみられます。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015051291000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015051291000",
+  "video": [],
+  "citation": [
+    {
+      "name": "高市首相 新年度予算案 “1日も早い成立に向け努力を”と指示",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050871000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050871_2602131210_0213124547_01_02.jpg",
+      "datePublished": "2026-02-13T19:27:17+09:00"
+    },
+    {
+      "name": "日銀 田村審議委員「2％物価安定」“賃上げ確認で達成判断も”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015051031000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015051031_2602131548_0213164053_01_02.jpg",
+      "datePublished": "2026-02-13T16:40:52+09:00"
+    },
+    {
+      "name": "天皇誕生日の一般参賀 警備対策強化へ 新年一般参賀の事件受け",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015051211000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015051211_2602131839_0213185918_01_02.jpg",
+      "datePublished": "2026-02-13T18:59:17+09:00"
+    },
+    {
+      "name": "伊勢崎3人死亡 危険運転の罪認定 被告に懲役20年判決 前橋地裁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015051011000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015051011_2602131524_0213153238_01_02.jpg",
+      "datePublished": "2026-02-13T19:06:41+09:00"
+    },
+    {
+      "name": "中道 新代表の小川淳也氏が会見 “党内融和へバランスに配慮”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050811_2602131428_0213170954_01_03.jpg",
+      "datePublished": "2026-02-13T17:09:53+09:00"
+    },
+    {
+      "name": "中道 新代表に小川淳也氏 党内・他党の反応は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050771_2602131112_0213160250_01_02.jpg",
+      "datePublished": "2026-02-13T18:29:35+09:00"
+    },
+    {
+      "name": "兵庫 元局長の私的情報の漏えいに関与か 元総務部長を書類送検",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015051261000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015051261_2602131924_0213193828_01_02.jpg",
+      "datePublished": "2026-02-13T19:38:27+09:00"
+    },
+    {
+      "name": "診療報酬加算引き上げへ 中医協が改定案答申 患者窓口負担も増",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050791_2602131454_0213161253_01_03.jpg",
+      "datePublished": "2026-02-13T19:36:31+09:00"
+    },
+    {
+      "name": "ミラノ・コルティナ五輪 日本のメダル数は【2月13日】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050621000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050621_2602130537_0213055422_01_02.jpg",
+      "datePublished": "2026-02-13T05:54:22+09:00"
+    },
+    {
+      "name": "ミラノ・コルティナ五輪 見どころ【2/13～14】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050601000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050601_2602130359_0213055826_01_02.jpg",
+      "datePublished": "2026-02-13T05:58:25+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

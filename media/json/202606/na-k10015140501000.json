@@ -1,0 +1,153 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015140501000",
+  "dataSourceId": "na",
+  "name": "レッドソックス 吉田正尚 2試合ぶりのヒット チームは大勝",
+  "headline": "レッドソックス 吉田正尚 2試合ぶりのヒット チームは大勝",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015140501000",
+    "playlistId": "news-nwa-sports-nationwide-20260604",
+    "newsarticleName": "レッドソックス 吉田正尚 2試合ぶりのヒット チームは大勝",
+    "playlistName": "6月4日のスポーツニュース",
+    "genreId": "sports",
+    "genreIdSlug": "sports"
+  },
+  "description": "大リーグ、レッドソックスの吉田正尚選手はオリオールズ戦で2試合ぶりにヒットを打ってチームは大勝しました。\n\n\n吉田選手は3日、本拠地ボストンで行われたオリオールズ戦に5番・指名打者で先発出場しました。",
+  "dateModified": "2026-06-04T12:27:16+09:00",
+  "datePublished": "2026-06-04T12:27:16+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260604/K10015140501_2606041222_0604122717_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260604/K10015140501_2606041222_0604122717_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "スポーツ"
+  ],
+  "topic": [
+    {
+      "id": "0002433",
+      "name": "吉田正尚",
+      "display": true
+    },
+    {
+      "id": "0000006",
+      "name": "大リーグ",
+      "display": true
+    },
+    {
+      "id": "0001591",
+      "name": "野球",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "大リーグ、レッドソックスの吉田正尚選手はオリオールズ戦で2試合ぶりにヒットを打ってチームは大勝しました。\n\n\n吉田選手は3日、本拠地ボストンで行われたオリオールズ戦に5番・指名打者で先発出場しました。",
+  "articleBody": "大リーグ、レッドソックスの吉田正尚選手はオリオールズ戦で2試合ぶりにヒットを打ってチームは大勝しました。\n\n\n吉田選手は3日、本拠地ボストンで行われたオリオールズ戦に5番・指名打者で先発出場しました。\n\n1回の第1打席はセカンドゴロに倒れましたが、3回の第2打席はインコース高めのカーブをセンター前に運び、2試合ぶりのヒットをマークしました。\n\n3対0とリードして迎えた5回の第3打席はノーアウト二塁からフォアボールを選んでチャンスを広げ、続くバッターの打球を相手のセンターが見失ってスリーベースヒットとなる間に一気にホームにかえりました。\n\n6回の第4打席はデッドボール、8回の第5打席は三振で、吉田選手は3打数1安打、フォアボールとデッドボールが1つずつで、打率は2割5分2厘です。\n\n試合はレッドソックスが5回に5点を追加して8対1で大勝しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "大リーグ、レッドソックスの吉田正尚選手はオリオールズ戦で2試合ぶりにヒットを打ってチームは大勝しました。\n",
+    "markedBody": "吉田選手は3日、本拠地ボストンで行われたオリオールズ戦に5番・指名打者で先発出場しました。\n\n1回の第1打席はセカンドゴロに倒れましたが、3回の第2打席はインコース高めのカーブをセンター前に運び、2試合ぶりのヒットをマークしました。\n\n3対0とリードして迎えた5回の第3打席はノーアウト二塁からフォアボールを選んでチャンスを広げ、続くバッターの打球を相手のセンターが見失ってスリーベースヒットとなる間に一気にホームにかえりました。\n\n6回の第4打席はデッドボール、8回の第5打席は三振で、吉田選手は3打数1安打、フォアボールとデッドボールが1つずつで、打率は2割5分2厘です。\n\n試合はレッドソックスが5回に5点を追加して8対1で大勝しました。\n",
+    "trimmedLead": "大リーグ、レッドソックスの吉田正尚選手はオリオールズ戦で2試合ぶりにヒットを打ってチームは大勝しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015140501000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015140501000",
+  "video": [],
+  "citation": [
+    {
+      "name": "ホワイトソックス村上宗隆が月間最優秀新人 日本選手で9人目",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015140311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260604/K10015140311_2606040712_0604071812_01_02.jpg",
+      "datePublished": "2026-06-04T07:18:11+09:00"
+    },
+    {
+      "name": "【プロ野球結果】巨人2連勝 代打の丸が逆転満塁ホームラン",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015140241000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260603/K10015140241_2606032333_0604090333_01_02.jpg",
+      "datePublished": "2026-06-03T23:33:23+09:00"
+    },
+    {
+      "name": "DeNA 牧秀悟 右太もも裏のけがで離脱も 4日から一軍合流",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015140261000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260603/K10015140261_2606032259_0603230550_01_02.jpg",
+      "datePublished": "2026-06-03T23:05:50+09:00"
+    },
+    {
+      "name": "サッカーW杯日本代表 メキシコのモンテレイで事前合宿スタート",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015140291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260604/K10015140291_2606040514_0604055956_01_02.jpg",
+      "datePublished": "2026-06-04T07:30:32+09:00"
+    },
+    {
+      "name": "【特集サイト】サッカー日本代表 最新ニュース",
+      "url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-0002442",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31300636.jpg"
+    },
+    {
+      "name": "九州北部 中国地方 近畿が梅雨入り 気象庁が発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015140401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260604/K10015140401_2606041129_0604113005_01_02.jpg",
+      "datePublished": "2026-06-04T11:52:53+09:00"
+    },
+    {
+      "name": "高市首相 “補正予算案の予備費 物価動向注視し適切に対応”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015140381000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260604/K10015140381_2606041036_0604115214_01_02.jpg",
+      "datePublished": "2026-06-04T11:52:13+09:00"
+    },
+    {
+      "name": "ヤマダホールディングスとエディオン 経営統合の方向で検討",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015140341000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260604/K10015140341_2606040847_0604084852_01_02.jpg",
+      "datePublished": "2026-06-04T11:55:50+09:00"
+    },
+    {
+      "name": "兵庫 たつの 母娘殺害事件 川で見つかった遺体は容疑者と確認",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015140301000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260604/K10015140301_2606040630_0604063315_01_02.jpg",
+      "datePublished": "2026-06-04T07:11:22+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

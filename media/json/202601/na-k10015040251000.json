@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015040251000",
+  "dataSourceId": "na",
+  "name": "トランプ大統領 首都ワシントンで「インディカー・シリーズ」レース開催へ",
+  "headline": "トランプ大統領 首都ワシントンで伝統の自動車レース開催へ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015040251000",
+    "playlistId": "news-nwa-international-nationwide-20260131",
+    "newsarticleName": "トランプ大統領 首都ワシントンで「インディカー・シリーズ」レース開催へ",
+    "playlistName": "1月31日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "トランプ大統領はアメリカ独立250年を記念するイベントのひとつとして、伝統の自動車レース、インディカー・シリーズをことし8月に首都ワシントンで開催すると明らかにしました。\n\n\nインディカー・シリーズは",
+  "dateModified": "2026-01-31T08:06:51+09:00",
+  "datePublished": "2026-01-31T08:06:51+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260131/K10015040251_2601310712_0131080652_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260131/K10015040251_2601310712_0131080652_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "トランプ大統領はアメリカ独立250年を記念するイベントのひとつとして、伝統の自動車レース、インディカー・シリーズをことし8月に首都ワシントンで開催すると明らかにしました。\n\n\nインディカー・シリーズは",
+  "articleBody": "トランプ大統領はアメリカ独立250年を記念するイベントのひとつとして、伝統の自動車レース、インディカー・シリーズをことし8月に首都ワシントンで開催すると明らかにしました。\n\n\nインディカー・シリーズはF1とともに自動車レースの最高峰のひとつとされます。\n\nトランプ大統領は30日、このアメリカ伝統のレースをことし8月21日から23日に首都ワシントンで開催するとして、具体的なルートの選定を進めることなどを、運輸長官や内務長官に指示する大統領令に署名しました。\n\nアメリカ独立250年を記念するイベントのひとつとして位置づけ、観光名所のワシントン記念塔やリンカーン記念堂があるナショナルモール周辺でレースを行いたいとしています。\n\nトランプ大統領は「多くの人がレースを見に来るだろう。記録を塗り替えるかもしれない。アメリカの自動車レースの偉大さをたたえる祭典だ」と述べて、開催の意義を強調しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "トランプ大統領はアメリカ独立250年を記念するイベントのひとつとして、伝統の自動車レース、インディカー・シリーズをことし8月に首都ワシントンで開催すると明らかにしました。\n",
+    "markedBody": "インディカー・シリーズはF1とともに自動車レースの最高峰のひとつとされます。\n\nトランプ大統領は30日、このアメリカ伝統のレースをことし8月21日から23日に首都ワシントンで開催するとして、具体的なルートの選定を進めることなどを、運輸長官や内務長官に指示する大統領令に署名しました。\n\nアメリカ独立250年を記念するイベントのひとつとして位置づけ、観光名所のワシントン記念塔やリンカーン記念堂があるナショナルモール周辺でレースを行いたいとしています。\n\nトランプ大統領は「多くの人がレースを見に来るだろう。記録を塗り替えるかもしれない。アメリカの自動車レースの偉大さをたたえる祭典だ」と述べて、開催の意義を強調しました。\n",
+    "trimmedLead": "トランプ大統領はアメリカ独立250年を記念するイベントのひとつとして、伝統の自動車レース、インディカー・シリーズをことし8月に首都ワシントンで開催すると明らかにしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015040251000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015040251000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

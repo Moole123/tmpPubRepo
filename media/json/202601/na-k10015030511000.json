@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015030511000",
+  "dataSourceId": "na",
+  "name": "南アフリカで通学バス事故 子ども13人死亡",
+  "headline": "南アフリカで通学バス事故 子ども13人死亡",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015030511000",
+    "playlistId": "news-nwa-international-nationwide-20260120",
+    "newsarticleName": "南アフリカで通学バス事故 子ども13人死亡",
+    "playlistName": "1月20日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "南アフリカで19日、通学用の小型バスがトラックと衝突し、乗っていた子ども13人が死亡しました。\n\n\n南アフリカ北部のハウテン州の教育当局によりますと、19日午前7時ごろ、通学用の小型バスがトラックと衝",
+  "dateModified": "2026-01-20T09:45:51+09:00",
+  "datePublished": "2026-01-20T09:45:51+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260120/K10015030511_2601200853_0120094552_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260120/K10015030511_2601200853_0120094552_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "南アフリカで19日、通学用の小型バスがトラックと衝突し、乗っていた子ども13人が死亡しました。\n\n\n南アフリカ北部のハウテン州の教育当局によりますと、19日午前7時ごろ、通学用の小型バスがトラックと衝",
+  "articleBody": "南アフリカで19日、通学用の小型バスがトラックと衝突し、乗っていた子ども13人が死亡しました。\n\n\n南アフリカ北部のハウテン州の教育当局によりますと、19日午前7時ごろ、通学用の小型バスがトラックと衝突しました。\n\nこの事故で、小型バスに乗っていた少なくとも13人の子どもが死亡したほか、複数が大けがをして病院で治療を受けているということです。\n\nロイター通信が配信した事故現場の映像では、小型バスの車体が大きく壊れ、衝撃の大きさがうかがえます。\n\n地元のメディアは、バスが別の車を追い越そうとした際に前から来たトラックと正面衝突した可能性があると伝えていて、警察は事故の詳しい原因を捜査しています。\n\nロイター通信によりますと、南アフリカでは、去年1年間に交通事故で1万1000人以上が亡くなっていて、運転マナーの向上が大きな課題になっています。\n",
+  "detailedArticleBody": {
+    "markedLead": "南アフリカで19日、通学用の小型バスがトラックと衝突し、乗っていた子ども13人が死亡しました。\n",
+    "markedBody": "南アフリカ北部のハウテン州の教育当局によりますと、19日午前7時ごろ、通学用の小型バスがトラックと衝突しました。\n\nこの事故で、小型バスに乗っていた少なくとも13人の子どもが死亡したほか、複数が大けがをして病院で治療を受けているということです。\n\nロイター通信が配信した事故現場の映像では、小型バスの車体が大きく壊れ、衝撃の大きさがうかがえます。\n\n地元のメディアは、バスが別の車を追い越そうとした際に前から来たトラックと正面衝突した可能性があると伝えていて、警察は事故の詳しい原因を捜査しています。\n\nロイター通信によりますと、南アフリカでは、去年1年間に交通事故で1万1000人以上が亡くなっていて、運転マナーの向上が大きな課題になっています。\n",
+    "trimmedLead": "南アフリカで19日、通学用の小型バスがトラックと衝突し、乗っていた子ども13人が死亡しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015030511000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015030511000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

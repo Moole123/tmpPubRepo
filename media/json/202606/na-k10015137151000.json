@@ -1,0 +1,138 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015137151000",
+  "dataSourceId": "na",
+  "name": "韓国 航空宇宙関連企業の工場で爆発 従業員5人死亡",
+  "headline": "韓国 航空宇宙関連企業の工場で爆発 従業員5人死亡",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015137151000",
+    "playlistId": "news-nwa-international-nationwide-20260601",
+    "newsarticleName": "韓国 航空宇宙関連企業の工場で爆発 従業員5人死亡",
+    "playlistName": "6月1日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "韓国中部の航空宇宙関連企業の工場で6月1日、爆発と火災が発生し、従業員5人が死亡しました。韓国メディアによりますと、この工場では2018年とその翌年にも爆発事故があり、あわせて8人が死亡しているという",
+  "dateModified": "2026-06-01T17:23:54+09:00",
+  "datePublished": "2026-06-01T13:10:59+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260601/K10015137151_2606011256_0601131100_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260601/K10015137151_2606011256_0601131100_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0002301",
+      "name": "韓国",
+      "display": true
+    },
+    {
+      "id": "0001538",
+      "name": "事件・事故",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "韓国中部の航空宇宙関連企業の工場で6月1日、爆発と火災が発生し、従業員5人が死亡しました。韓国メディアによりますと、この工場では2018年とその翌年にも爆発事故があり、あわせて8人が死亡しているという",
+  "articleBody": "韓国中部の航空宇宙関連企業の工場で6月1日、爆発と火災が発生し、従業員5人が死亡しました。韓国メディアによりますと、この工場では2018年とその翌年にも爆発事故があり、あわせて8人が死亡しているということです。\n\n\n韓国中部のテジョン（大田）にある航空宇宙関連企業「ハンファエアロスペース」の工場内で6月1日午前11時ごろ、爆発があり、工場の建物が全焼しました。\n\n消防などによりますと、爆発が起きた付近で作業中だった従業員5人が死亡し、2人がけがをしました。\n\n韓国の行政安全省は、工場内でロケットの推進体が爆発したとしていて、警察や消防が被害の状況や原因を調べています。\n\n韓国メディアによりますと、この工場では航空機や宇宙産業の関連製品のほか、防衛関連の装備なども製造しているということです。\n\n火薬などを扱っているこの工場では、2018年と2019年にも爆発事故があり、あわせて8人が死亡しているということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "韓国中部の航空宇宙関連企業の工場で6月1日、爆発と火災が発生し、従業員5人が死亡しました。韓国メディアによりますと、この工場では2018年とその翌年にも爆発事故があり、あわせて8人が死亡しているということです。\n",
+    "markedBody": "韓国中部のテジョン（大田）にある航空宇宙関連企業「ハンファエアロスペース」の工場内で6月1日午前11時ごろ、爆発があり、工場の建物が全焼しました。\n\n消防などによりますと、爆発が起きた付近で作業中だった従業員5人が死亡し、2人がけがをしました。\n\n韓国の行政安全省は、工場内でロケットの推進体が爆発したとしていて、警察や消防が被害の状況や原因を調べています。\n\n韓国メディアによりますと、この工場では航空機や宇宙産業の関連製品のほか、防衛関連の装備なども製造しているということです。\n\n火薬などを扱っているこの工場では、2018年と2019年にも爆発事故があり、あわせて8人が死亡しているということです。\n",
+    "trimmedLead": "韓国中部の航空宇宙関連企業の工場で6月1日、爆発と火災が発生し、従業員5人が死亡しました。韓国メディアによりますと、この工場では2018年とその翌年にも爆発事故があり、あわせて8人が死亡しているということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015137151000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015137151000",
+  "video": [],
+  "citation": [
+    {
+      "name": "30年で人口50万減 韓国第2の都市が消える？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015107471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015107471_2605291630_0529175345_01_02.jpg",
+      "datePublished": "2026-05-29T17:53:44+09:00"
+    },
+    {
+      "name": "コロンビア大統領選挙 左派と右派の候補者で決選投票へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015137001000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260601/K10015137001_2606011120_0601123308_01_02.jpg",
+      "datePublished": "2026-06-01T12:33:07+09:00"
+    },
+    {
+      "name": "米イランの覚書めぐり双方が“修正”報道 駆け引き続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015136771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260601/K10015136771_2606010617_0601062943_01_02.jpg",
+      "datePublished": "2026-06-01T17:22:19+09:00"
+    },
+    {
+      "name": "ウクライナ大統領「ロシアに長距離攻撃」攻撃の応酬激化も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015136751000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260601/K10015136751_2606010322_0601051827_01_02.jpg",
+      "datePublished": "2026-06-01T05:18:26+09:00"
+    },
+    {
+      "name": "ソフトバンクG 仏で14兆円投じAIデータセンター開発へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015136711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260601/K10015136711_2606010103_0601051732_01_02.jpg",
+      "datePublished": "2026-06-01T05:17:32+09:00"
+    },
+    {
+      "name": "米大統領が覚書の修正要求か イスラエルはヒズボラへの攻撃も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015136521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260531/K10015136521_2605311903_0531190955_01_02.jpg",
+      "datePublished": "2026-05-31T19:09:55+09:00"
+    },
+    {
+      "name": "ロシア “ウクライナが原発を攻撃” ウクライナは否定",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015136671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260531/K10015136671_2605312101_0531211820_01_02.jpg",
+      "datePublished": "2026-05-31T21:18:19+09:00"
+    },
+    {
+      "name": "アジア安全保障会議 閉幕 “中堅国中心に連携強化必要”意見も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015136581000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260531/K10015136581_2605311905_0531192736_01_02.jpg",
+      "datePublished": "2026-05-31T19:27:35+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

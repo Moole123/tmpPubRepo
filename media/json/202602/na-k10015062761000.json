@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015062761000",
+  "dataSourceId": "na",
+  "name": "松山 住宅で火事 70代の夫婦が死亡",
+  "headline": "松山 住宅で火事 70代の夫婦が死亡",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015062761000",
+    "playlistId": "news-nwa-society-nationwide-20260228",
+    "newsarticleName": "松山 住宅で火事 70代の夫婦が死亡",
+    "playlistName": "2月28日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "28日未明、松山市の住宅で火事があり、この家に住む高齢の夫婦2人が死亡しました。\n\n\n28日午前0時50分ごろ、松山市久万ノ台の住宅から火が出ていると、近所の人から消防と警察に通報がありました。\n\n警",
+  "dateModified": "2026-02-28T06:31:07+09:00",
+  "datePublished": "2026-02-28T06:31:07+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260228/K10015062761_2602280607_0228063108_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260228/K10015062761_2602280607_0228063108_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002689",
+      "name": "火災",
+      "display": true
+    },
+    {
+      "id": "0002238",
+      "name": "愛媛県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "28日未明、松山市の住宅で火事があり、この家に住む高齢の夫婦2人が死亡しました。\n\n\n28日午前0時50分ごろ、松山市久万ノ台の住宅から火が出ていると、近所の人から消防と警察に通報がありました。\n\n警",
+  "articleBody": "28日未明、松山市の住宅で火事があり、この家に住む高齢の夫婦2人が死亡しました。\n\n\n28日午前0時50分ごろ、松山市久万ノ台の住宅から火が出ていると、近所の人から消防と警察に通報がありました。\n\n警察によりますと、火はおよそ2時間半後に消し止められましたが、木造2階建ての住宅の1階部分20平方メートル余りが焼けました。\n\nこの家に住む葛原智さん（78）と葛原三惠さん（77）の夫婦が病院に搬送されましたが、いずれも死亡しました。\n\n現場の住宅は夫婦の2人暮らしで、1階の台所と居間が激しく焼けていたということです。\n\n警察と消防が火事の詳しい原因などを調べています。\n\n現場は、JR三津浜駅から東に1キロほど離れた住宅街の一角です。\n",
+  "detailedArticleBody": {
+    "markedLead": "28日未明、松山市の住宅で火事があり、この家に住む高齢の夫婦2人が死亡しました。\n",
+    "markedBody": "28日午前0時50分ごろ、松山市久万ノ台の住宅から火が出ていると、近所の人から消防と警察に通報がありました。\n\n警察によりますと、火はおよそ2時間半後に消し止められましたが、木造2階建ての住宅の1階部分20平方メートル余りが焼けました。\n\nこの家に住む葛原智さん（78）と葛原三惠さん（77）の夫婦が病院に搬送されましたが、いずれも死亡しました。\n\n現場の住宅は夫婦の2人暮らしで、1階の台所と居間が激しく焼けていたということです。\n\n警察と消防が火事の詳しい原因などを調べています。\n\n現場は、JR三津浜駅から東に1キロほど離れた住宅街の一角です。\n",
+    "trimmedLead": "28日未明、松山市の住宅で火事があり、この家に住む高齢の夫婦2人が死亡しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015062761000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015062761000",
+  "video": [],
+  "citation": [
+    {
+      "name": "農水省 民間にもコメ備蓄義務づけへ検討 政府の4分の1を上限に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015062601000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260228/K10015062601_2602272255_0228050501_01_02.jpg",
+      "datePublished": "2026-02-28T05:05:01+09:00"
+    },
+    {
+      "name": "困窮世帯の約4割 進学費用のため借金や節約 支援団体調査",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015062401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260228/K10015062401_2602271947_0228050240_01_02.jpg",
+      "datePublished": "2026-02-28T05:02:39+09:00"
+    },
+    {
+      "name": "北海道 旭川 路上で倒れていた幼い女の子が死亡 ひき逃げか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015062651000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260227/K10015062651_2602272334_0227234115_01_02.jpg",
+      "datePublished": "2026-02-28T01:32:17+09:00"
+    },
+    {
+      "name": "新年度予算案が実質的審議入り 国民と中道 国民会議参加も検討",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015062611000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260228/K10015062611_2602280102_0228060242_01_02.jpg",
+      "datePublished": "2026-02-28T06:02:41+09:00"
+    },
+    {
+      "name": "NYダウ 一時800ドル超の値下がり",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015062711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260228/K10015062711_2602280119_0228012445_01_02.jpg",
+      "datePublished": "2026-02-28T07:01:37+09:00"
+    },
+    {
+      "name": "最低賃金 適用開始遅れ相次ぎ 厚労省審議会が運用のあり方議論",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015062631000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260227/K10015062631_2602272310_0227235103_01_02.jpg",
+      "datePublished": "2026-02-28T02:06:15+09:00"
+    },
+    {
+      "name": "トランプ大統領 核開発などめぐる協議 イラン側の交渉姿勢非難",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015062661000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260228/K10015062661_2602280541_0228054547_01_02.jpg",
+      "datePublished": "2026-02-28T08:10:17+09:00"
+    },
+    {
+      "name": "オープンAI アマゾンやソフトバンクなどから資金調達 17兆円余",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015062641000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260227/K10015062641_2602272327_0227233340_01_02.jpg",
+      "datePublished": "2026-02-28T02:28:34+09:00"
+    },
+    {
+      "name": "小学館編集部“略式命令受けた漫画家起用は問題”作品配信停止",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015062591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260227/K10015062591_2602272151_0227223514_01_02.jpg",
+      "datePublished": "2026-02-27T22:35:13+09:00"
+    },
+    {
+      "name": "増える奨学金返済の“肩代わり” なぜ？背景は？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015061091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260227/K10015061091_2602271220_0227192752_01_02.jpg",
+      "datePublished": "2026-02-27T19:27:52+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

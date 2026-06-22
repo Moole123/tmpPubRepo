@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015005731000",
+  "dataSourceId": "na",
+  "name": "新幹線 年末年始の予約状況 ピークは下り12月27日 上り1月3日",
+  "headline": "新幹線 年末年始の予約状況 ピークは下り12月27日 上り1月3日",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015005731000",
+    "playlistId": "news-nwa-society-nationwide-20251216",
+    "newsarticleName": "新幹線 年末年始の予約状況 ピークは下り12月27日 上り1月3日",
+    "playlistName": "12月16日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "JR各社は16日、年末年始の新幹線の予約状況を発表しました。予約のピークは、下りが12月27日、上りが1月3日となっています。\n\n\nJR各社によりますと、12月26日から1月4日までの新幹線の指定席の",
+  "dateModified": "2025-12-16T17:26:31+09:00",
+  "datePublished": "2025-12-16T17:26:31+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251216/K10015005731_2512161721_1216172632_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251216/K10015005731_2512161721_1216172632_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "JR各社は16日、年末年始の新幹線の予約状況を発表しました。予約のピークは、下りが12月27日、上りが1月3日となっています。\n\n\nJR各社によりますと、12月26日から1月4日までの新幹線の指定席の",
+  "articleBody": "JR各社は16日、年末年始の新幹線の予約状況を発表しました。予約のピークは、下りが12月27日、上りが1月3日となっています。\n\n\nJR各社によりますと、12月26日から1月4日までの新幹線の指定席の予約席数は、15日時点で合わせておよそ430万席と、前の年の同じ期間より3％増え、一日当たりの予約席数は過去最多となっています。\n\nJRグループ全体の新幹線の予約率は53％で、予約のピークは、下りが12月27日、上りが1月3日です。\n\n各新幹線の予約率は、\n▽北海道新幹線が26％\n▽東北新幹線が59％\n▽上越新幹線が54％\n▽北陸新幹線の、JR東日本の区間が58％、JR西日本の区間が49％\n▽東海道新幹線が51％\n▽山陽新幹線が43％\n▽九州新幹線が44％\n▽西九州新幹線が34％となっています。\n\nJR各社は「ピークの日を避けて、比較的空席がある早朝や夜間の予約を検討してほしい」などとしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "JR各社は16日、年末年始の新幹線の予約状況を発表しました。予約のピークは、下りが12月27日、上りが1月3日となっています。\n",
+    "markedBody": "JR各社によりますと、12月26日から1月4日までの新幹線の指定席の予約席数は、15日時点で合わせておよそ430万席と、前の年の同じ期間より3％増え、一日当たりの予約席数は過去最多となっています。\n\nJRグループ全体の新幹線の予約率は53％で、予約のピークは、下りが12月27日、上りが1月3日です。\n\n各新幹線の予約率は、\\\n▽北海道新幹線が26％\\\n▽東北新幹線が59％\\\n▽上越新幹線が54％\\\n▽北陸新幹線の、JR東日本の区間が58％、JR西日本の区間が49％\\\n▽東海道新幹線が51％\\\n▽山陽新幹線が43％\\\n▽九州新幹線が44％\\\n▽西九州新幹線が34％となっています。\n\nJR各社は「ピークの日を避けて、比較的空席がある早朝や夜間の予約を検討してほしい」などとしています。\n",
+    "trimmedLead": "JR各社は16日、年末年始の新幹線の予約状況を発表しました。予約のピークは、下りが12月27日、上りが1月3日となっています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015005731000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015005731000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

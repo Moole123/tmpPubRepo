@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014898481000",
+  "dataSourceId": "na",
+  "name": "衆議院 立民 丸尾圭祐氏 繰り上げ当選 衆議院議員の辞職に伴い",
+  "headline": "衆議院 立民 丸尾圭祐氏 繰り上げ当選 衆議院議員の辞職に伴い",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014898481000",
+    "playlistId": "news-nwa-politics-nationwide-20250820",
+    "newsarticleName": "衆議院 立民 丸尾圭祐氏 繰り上げ当選 衆議院議員の辞職に伴い",
+    "playlistName": "8月20日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "立憲民主党の衆議院議員が辞職したことに伴い、去年行われた衆議院選挙の比例代表の名簿から丸尾圭祐氏の繰り上げ当選が決まりました。\n\n\n立憲民主党の比例代表九州ブロック選出の衆議院議員が、福岡県内の市長選",
+  "dateModified": "2025-08-20T12:44:41+09:00",
+  "datePublished": "2025-08-20T12:44:41+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250820/K10014898481_2508201153_0820123604_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250820/K10014898481_2508201153_0820123604_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "立憲民主党の衆議院議員が辞職したことに伴い、去年行われた衆議院選挙の比例代表の名簿から丸尾圭祐氏の繰り上げ当選が決まりました。\n\n\n立憲民主党の比例代表九州ブロック選出の衆議院議員が、福岡県内の市長選",
+  "articleBody": "立憲民主党の衆議院議員が辞職したことに伴い、去年行われた衆議院選挙の比例代表の名簿から丸尾圭祐氏の繰り上げ当選が決まりました。\n\n\n立憲民主党の比例代表九州ブロック選出の衆議院議員が、福岡県内の市長選挙に立候補するため、今月、辞職したことを受けて、中央選挙管理会は、20日、選挙会を開きました。\n\nそして、去年行われた衆議院選挙の比例代表九州ブロックの立憲民主党の名簿から、次点だった丸尾圭祐氏の繰り上げ当選が決まりました。\n\n丸尾氏は43歳。福岡市出身で大学院を修了後、国会議員の秘書を10年余り務めました。去年の衆議院選挙では福岡1区と比例代表に重複立候補し、落選していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "立憲民主党の衆議院議員が辞職したことに伴い、去年行われた衆議院選挙の比例代表の名簿から丸尾圭祐氏の繰り上げ当選が決まりました。\n",
+    "markedBody": "立憲民主党の比例代表九州ブロック選出の衆議院議員が、福岡県内の市長選挙に立候補するため、今月、辞職したことを受けて、中央選挙管理会は、20日、選挙会を開きました。\n\nそして、去年行われた衆議院選挙の比例代表九州ブロックの立憲民主党の名簿から、次点だった丸尾圭祐氏の繰り上げ当選が決まりました。\n\n丸尾氏は43歳。福岡市出身で大学院を修了後、国会議員の秘書を10年余り務めました。去年の衆議院選挙では福岡1区と比例代表に重複立候補し、落選していました。\n",
+    "trimmedLead": "立憲民主党の衆議院議員が辞職したことに伴い、去年行われた衆議院選挙の比例代表の名簿から丸尾圭祐氏の繰り上げ当選が決まりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014898481000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014898481000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

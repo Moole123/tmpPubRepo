@@ -1,0 +1,151 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015154841000",
+  "dataSourceId": "na",
+  "name": "外国人向けビザ手数料 7月から5倍に引き上げを決定 政府",
+  "headline": "外国人向けビザ手数料 7月から5倍に引き上げを決定 政府",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015154841000",
+    "playlistId": "news-nwa-politics-nationwide-20260619",
+    "newsarticleName": "外国人向けビザ手数料 7月から5倍に引き上げを決定 政府",
+    "playlistName": "6月19日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "政府は、外国人向けのビザの発給手数料を来月から、今の5倍に引き上げることを決めました。\n\n\n政府は、19日の閣議で、50年近く据え置かれてきた外国人向けのビザの発給手数料について、来月1日から今の5倍",
+  "dateModified": "2026-06-19T20:55:38+09:00",
+  "datePublished": "2026-06-19T20:55:38+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260619/K10015154841_2606192030_0619205539_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260619/K10015154841_2606192030_0619205539_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治",
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0002398",
+      "name": "外務省",
+      "display": true
+    },
+    {
+      "id": "0002425",
+      "name": "観光",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "政府は、外国人向けのビザの発給手数料を来月から、今の5倍に引き上げることを決めました。\n\n\n政府は、19日の閣議で、50年近く据え置かれてきた外国人向けのビザの発給手数料について、来月1日から今の5倍",
+  "articleBody": "政府は、外国人向けのビザの発給手数料を来月から、今の5倍に引き上げることを決めました。\n\n\n政府は、19日の閣議で、50年近く据え置かれてきた外国人向けのビザの発給手数料について、来月1日から今の5倍に引き上げることを決定しました。\n\n具体的には、\n▽日本を訪れるたびに必要な通常のビザが今の3000円から1万5000円に、\n▽期間内であれば複数回入国できるビザが今の6000円から3万円に、\nそれぞれ、引き上げられます。\n\n茂木外務大臣は記者会見で「手数料の額は1978年に定められたもので、現在までの物価の上昇や為替相場の変動に対応するため見直しを行った。さまざまな影響なども考えたうえの対応であり、すぐにインバウンドに影響が出るとは考えていない」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "政府は、外国人向けのビザの発給手数料を来月から、今の5倍に引き上げることを決めました。\n",
+    "markedBody": "政府は、19日の閣議で、50年近く据え置かれてきた外国人向けのビザの発給手数料について、来月1日から今の5倍に引き上げることを決定しました。\n\n具体的には、\\\n▽日本を訪れるたびに必要な通常のビザが今の3000円から1万5000円に、\\\n▽期間内であれば複数回入国できるビザが今の6000円から3万円に、\\\nそれぞれ、引き上げられます。\n\n茂木外務大臣は記者会見で「手数料の額は1978年に定められたもので、現在までの物価の上昇や為替相場の変動に対応するため見直しを行った。さまざまな影響なども考えたうえの対応であり、すぐにインバウンドに影響が出るとは考えていない」と述べました。\n",
+    "trimmedLead": "政府は、外国人向けのビザの発給手数料を来月から、今の5倍に引き上げることを決めました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015154841000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015154841000",
+  "video": [],
+  "citation": [
+    {
+      "name": "外国人日本渡航前に一部入国審査実施へ 改正入管法など成立",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134951000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134951_2605291339_0529160702_01_02.jpg",
+      "datePublished": "2026-05-29T16:07:01+09:00"
+    },
+    {
+      "name": "東海道新幹線 ダイヤ乱れ 東京 名古屋 新大阪で「列車ホテル」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015154711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260619/K10015154711_2606192042_0619204322_01_03.jpg",
+      "datePublished": "2026-06-19T22:34:11+09:00"
+    },
+    {
+      "name": "東京 北区 小学校で火事 児童ら計11人病院搬送 うち3人が骨折",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015154231000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260619/K10015154231_2606191136_0619113634_01_02.jpg",
+      "datePublished": "2026-06-19T20:08:19+09:00"
+    },
+    {
+      "name": "各地で真夏日に あすは西～東日本で激しい雨のおそれ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015154271000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260619/K10015154271_2606191835_0619184700_01_02.jpg",
+      "datePublished": "2026-06-19T18:46:59+09:00"
+    },
+    {
+      "name": "米・イラン 19日予定の協議“延期” レバノンでは戦闘続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015153851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260619/K10015153851_2606182045_0619072213_01_02.jpg",
+      "datePublished": "2026-06-19T19:59:04+09:00"
+    },
+    {
+      "name": "安定的な皇位継承 皇族数確保に向けた法案の骨子案が判明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015154771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260619/K10015154771_2606192001_0619200117_01_02.jpg",
+      "datePublished": "2026-06-19T22:04:18+09:00"
+    },
+    {
+      "name": "日清食品 カップ焼きそば28万食余を自主回収",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015154761000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260619/K10015154761_2606191950_0619195423_01_02.jpg",
+      "datePublished": "2026-06-19T19:54:22+09:00"
+    },
+    {
+      "name": "セブン-イレブン 加盟店負担軽減の新契約 半世紀ぶりの見直し",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015154731000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260619/K10015154731_2606191843_0619185119_01_02.jpg",
+      "datePublished": "2026-06-19T18:51:18+09:00"
+    },
+    {
+      "name": "日本代表 第2戦のチュニジア戦が行われるモンテレイに到着",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015154261000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260619/K10015154261_2606191823_0619185042_01_02.jpg",
+      "datePublished": "2026-06-19T18:50:41+09:00"
+    },
+    {
+      "name": "クロマグロ“豊漁”の裏で 海が変わる～気候変動と魚たち～",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015143991000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260619/K10015143991_2606190939_0619184211_01_02.jpg",
+      "datePublished": "2026-06-19T18:42:09+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

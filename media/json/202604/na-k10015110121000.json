@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015110121000",
+  "dataSourceId": "na",
+  "name": "ホワイトソックス 村上宗隆 12号逆転スリーランホームラン 両リーグ単独トップに",
+  "headline": "ホワイトソックス 村上宗隆 12号逆転HR 両リーグ単独トップに",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015110121000",
+    "playlistId": "news-nwa-sports-nationwide-20260428",
+    "newsarticleName": "ホワイトソックス 村上宗隆 12号逆転スリーランホームラン 両リーグ単独トップに",
+    "playlistName": "4月28日のスポーツニュース",
+    "genreId": "sports",
+    "genreIdSlug": "sports"
+  },
+  "description": "大リーグ、ホワイトソックスの村上宗隆選手が27日、エンジェルス戦に2番ファーストで先発出場し、4対5とリードされて迎えた7回の第4打席で3試合ぶりとなる今シーズン12号の逆転スリーランホームランを打ち",
+  "dateModified": "2026-04-28T14:44:04+09:00",
+  "datePublished": "2026-04-28T14:44:04+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260428/K10015110121_2604281429_0428144405_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260428/K10015110121_2604281429_0428144405_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "スポーツ"
+  ],
+  "topic": [
+    {
+      "id": "0002745",
+      "name": "村上宗隆",
+      "display": true
+    },
+    {
+      "id": "0001591",
+      "name": "野球",
+      "display": true
+    },
+    {
+      "id": "0000006",
+      "name": "大リーグ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "大リーグ、ホワイトソックスの村上宗隆選手が27日、エンジェルス戦に2番ファーストで先発出場し、4対5とリードされて迎えた7回の第4打席で3試合ぶりとなる今シーズン12号の逆転スリーランホームランを打ち",
+  "articleBody": "大リーグ、ホワイトソックスの村上宗隆選手が27日、エンジェルス戦に2番ファーストで先発出場し、4対5とリードされて迎えた7回の第4打席で3試合ぶりとなる今シーズン12号の逆転スリーランホームランを打ちました。\n\nホームランランキングではアストロズのアルバレス選手、ヤンキースのジャッジ選手と11本で両リーグを通じてトップに並んでいましたがこの時点で単独トップになりました。\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "大リーグ、ホワイトソックスの村上宗隆選手が27日、エンジェルス戦に2番ファーストで先発出場し、4対5とリードされて迎えた7回の第4打席で3試合ぶりとなる今シーズン12号の逆転スリーランホームランを打ちました。\n\nホームランランキングではアストロズのアルバレス選手、ヤンキースのジャッジ選手と11本で両リーグを通じてトップに並んでいましたがこの時点で単独トップになりました。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20260428/K10015110121_2604281425_0428144405_02_03.jpg)\n",
+    "trimmedLead": "大リーグ、ホワイトソックスの村上宗隆選手が27日、エンジェルス戦に2番ファーストで先発出場し、4対5とリードされて迎えた7回の第4打席で3試合ぶりとなる今シーズン12号の逆転スリーランホームランを打ちました。\n\nホームランランキングではアストロズのアルバレス選手、ヤンキースのジャッジ選手と11本で両リーグを通じてトップに並んでいましたがこの時点で単独トップになりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015110121000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015110121000",
+  "video": [],
+  "citation": [
+    {
+      "name": "【ノーカット動画】りくりゅう引退会見「やりきった」プロへ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109481000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260428/K10015109481_2604281038_0428104029_01_02.jpg",
+      "datePublished": "2026-04-28T12:52:10+09:00"
+    },
+    {
+      "name": "ドジャース 大谷翔平 12試合ぶり6号ソロHR 3安打1打点の活躍",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109061000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015109061_2604271036_0427103813_01_02.jpg",
+      "datePublished": "2026-04-27T11:39:44+09:00"
+    },
+    {
+      "name": "プロ野球のことしの平均年俸5216万円 5年連続で過去最高を更新",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109501000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015109501_2604271829_0427191908_01_02.jpg",
+      "datePublished": "2026-04-27T19:19:08+09:00"
+    },
+    {
+      "name": "サッカー 岩清水梓が引退へ なでしこジャパンW杯優勝に貢献",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109661000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015109661_2604272042_0427210247_01_02.jpg",
+      "datePublished": "2026-04-27T21:02:46+09:00"
+    },
+    {
+      "name": "NBAプレーオフ 八村塁が13得点もレイカーズは敗れ3勝1敗に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015109331_2604271529_0427160528_01_02.jpg",
+      "datePublished": "2026-04-27T18:43:16+09:00"
+    },
+    {
+      "name": "ホワイトソックス 村上宗隆 4打数ノーヒット チームは2連敗",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015109091_2604271238_0427123851_01_02.jpg",
+      "datePublished": "2026-04-27T08:01:54+09:00"
+    },
+    {
+      "name": "メッツ千賀滉大 3回途中3失点で4敗目",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015109141_2604271302_0427133237_01_02.jpg",
+      "datePublished": "2026-04-27T13:32:36+09:00"
+    },
+    {
+      "name": "ブルージェイズ 岡本和真 3打数ノーヒット チームは2連勝",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109081000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015109081_2604271236_0427123630_01_02.jpg",
+      "datePublished": "2026-04-27T08:02:32+09:00"
+    },
+    {
+      "name": "大相撲夏場所の番付発表 大関復帰の霧島は東の大関に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015108861000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015108861_2604271512_0427151806_01_02.jpg",
+      "datePublished": "2026-04-27T16:14:47+09:00"
+    },
+    {
+      "name": "大相撲夏場所 新入幕 若ノ勝「憧れの土俵で勝ち越しを」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109251000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015109251_2604271323_0427140751_01_02.jpg",
+      "datePublished": "2026-04-27T14:07:50+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

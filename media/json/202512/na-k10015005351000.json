@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015005351000",
+  "dataSourceId": "na",
+  "name": "与野党 選択的夫婦別姓めぐり 氏制度をテーマに閉会中審査へ",
+  "headline": "与野党 選択的夫婦別姓めぐり 氏制度をテーマに閉会中審査へ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015005351000",
+    "playlistId": "news-nwa-politics-nationwide-20251216",
+    "newsarticleName": "与野党 選択的夫婦別姓めぐり 氏制度をテーマに閉会中審査へ",
+    "playlistName": "12月16日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "選択的夫婦別姓をめぐり、与野党は衆議院法務委員会で氏制度をテーマに閉会中審査を開くことで合意しました。\n\n\n選択的夫婦別姓をめぐっては、立憲民主党と、国民民主党がそれぞれ制度の導入に向けた民法の改正案",
+  "dateModified": "2025-12-16T13:45:39+09:00",
+  "datePublished": "2025-12-16T13:45:39+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251216/K10015005351_2512161331_1216134540_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251216/K10015005351_2512161331_1216134540_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治",
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "選択的夫婦別姓をめぐり、与野党は衆議院法務委員会で氏制度をテーマに閉会中審査を開くことで合意しました。\n\n\n選択的夫婦別姓をめぐっては、立憲民主党と、国民民主党がそれぞれ制度の導入に向けた民法の改正案",
+  "articleBody": "選択的夫婦別姓をめぐり、与野党は衆議院法務委員会で氏制度をテーマに閉会中審査を開くことで合意しました。\n\n\n選択的夫婦別姓をめぐっては、立憲民主党と、国民民主党がそれぞれ制度の導入に向けた民法の改正案を、日本維新の会が戸籍に旧姓を記載する制度を設けることなどを盛り込んだ旧姓の通称使用の拡大に向けた法案を提出し、与野党は今の国会で審議することを申し合わせていました。\n\nこれを受けて、与野党は17日の会期末を前に衆議院法務委員会の理事懇談会で対応を協議し、氏制度をテーマに閉会中審査を行うことで合意しました。\n\n閉会中審査では、選択的夫婦別姓や旧姓の通称使用の拡大などをめぐって意見が交わされる見通しです。\n",
+  "detailedArticleBody": {
+    "markedLead": "選択的夫婦別姓をめぐり、与野党は衆議院法務委員会で氏制度をテーマに閉会中審査を開くことで合意しました。\n",
+    "markedBody": "選択的夫婦別姓をめぐっては、立憲民主党と、国民民主党がそれぞれ制度の導入に向けた民法の改正案を、日本維新の会が戸籍に旧姓を記載する制度を設けることなどを盛り込んだ旧姓の通称使用の拡大に向けた法案を提出し、与野党は今の国会で審議することを申し合わせていました。\n\nこれを受けて、与野党は17日の会期末を前に衆議院法務委員会の理事懇談会で対応を協議し、氏制度をテーマに閉会中審査を行うことで合意しました。\n\n閉会中審査では、選択的夫婦別姓や旧姓の通称使用の拡大などをめぐって意見が交わされる見通しです。\n",
+    "trimmedLead": "選択的夫婦別姓をめぐり、与野党は衆議院法務委員会で氏制度をテーマに閉会中審査を開くことで合意しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015005351000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015005351000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

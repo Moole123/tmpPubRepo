@@ -1,0 +1,151 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015121161000",
+  "dataSourceId": "na",
+  "name": "長期金利2.635％まで上昇 1997年5月以来 約29年ぶり高水準",
+  "headline": "長期金利2.635％まで上昇 1997年5月以来 約29年ぶり高水準",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015121161000",
+    "playlistId": "news-nwa-business-nationwide-20260514",
+    "newsarticleName": "長期金利2.635％まで上昇 1997年5月以来 約29年ぶり高水準",
+    "playlistName": "5月14日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "14日の債券市場では長期金利がおよそ29年ぶりの高い水準となる2.635％まで上昇しました。\n\n\n14日の債券市場では国債を売る動きが進み、長期金利の代表的な指標である10年ものの国債の利回りは、一時",
+  "dateModified": "2026-05-14T18:43:38+09:00",
+  "datePublished": "2026-05-14T09:53:39+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260514/K10015121161_2605140951_0514095340_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260514/K10015121161_2605140951_0514095340_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0002760",
+      "name": "金利",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "14日の債券市場では長期金利がおよそ29年ぶりの高い水準となる2.635％まで上昇しました。\n\n\n14日の債券市場では国債を売る動きが進み、長期金利の代表的な指標である10年ものの国債の利回りは、一時",
+  "articleBody": "14日の債券市場では長期金利がおよそ29年ぶりの高い水準となる2.635％まで上昇しました。\n\n\n14日の債券市場では国債を売る動きが進み、長期金利の代表的な指標である10年ものの国債の利回りは、一時、2.635％まで上昇しました。\n\n日本相互証券によりますと、1997年5月以来、およそ29年ぶりの高い水準です。\n\n原油先物価格の高止まりによって世界的な物価上昇につながるのではないかという見方が出ていることに加え、14日、日銀の増審議委員が講演で「景気下振れの兆しがはっきりとした数字で表れないのであればできるかぎり早い段階での利上げが望ましい」と述べ、日銀の利上げが意識されたことなどが要因です。\n\n市場関係者は「政府・与党内で、中東情勢の影響が長引いた場合今年度の補正予算案の編成が必要になるのではないかという見方も出る中で、国の財政状況への懸念が改めて意識されていることも長期金利の上昇につながっていると見られる」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "14日の債券市場では長期金利がおよそ29年ぶりの高い水準となる2.635％まで上昇しました。\n",
+    "markedBody": "14日の債券市場では国債を売る動きが進み、長期金利の代表的な指標である10年ものの国債の利回りは、一時、2.635％まで上昇しました。\n\n日本相互証券によりますと、1997年5月以来、およそ29年ぶりの高い水準です。\n\n原油先物価格の高止まりによって世界的な物価上昇につながるのではないかという見方が出ていることに加え、14日、日銀の増審議委員が講演で「景気下振れの兆しがはっきりとした数字で表れないのであればできるかぎり早い段階での利上げが望ましい」と述べ、日銀の利上げが意識されたことなどが要因です。\n\n市場関係者は「政府・与党内で、中東情勢の影響が長引いた場合今年度の補正予算案の編成が必要になるのではないかという見方も出る中で、国の財政状況への懸念が改めて意識されていることも長期金利の上昇につながっていると見られる」と話しています。\n",
+    "trimmedLead": "14日の債券市場では長期金利がおよそ29年ぶりの高い水準となる2.635％まで上昇しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015121161000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015121161000",
+  "video": [],
+  "citation": [
+    {
+      "name": "トランプ大統領 中国訪問を開始 きょう習主席と首脳会談へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015121041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260514/K10015121041_2605140130_0514024635_01_02.jpg",
+      "datePublished": "2026-05-14T09:31:42+09:00"
+    },
+    {
+      "name": "再審制度の見直し 刑事訴訟法改正案 あす閣議決定へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120931000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260514/K10015120931_2605140141_0514024831_01_02.jpg",
+      "datePublished": "2026-05-14T10:49:40+09:00"
+    },
+    {
+      "name": "政府 中東情勢受け夏の電気・ガス料金補助を検討へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260514/K10015120941_2605140118_0514055904_01_02.jpg",
+      "datePublished": "2026-05-14T05:59:03+09:00"
+    },
+    {
+      "name": "脳梗塞の回復に脳内の免疫細胞が関与 東京科学大など",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120961000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260514/K10015120961_2605132256_0514053751_01_02.jpg",
+      "datePublished": "2026-05-14T05:37:50+09:00"
+    },
+    {
+      "name": "130億年前の原始的な銀河を観測 金沢大など国際研究チーム",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120951000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260514/K10015120951_2605140004_0514000807_01_02.jpg",
+      "datePublished": "2026-05-14T00:02:06+09:00"
+    },
+    {
+      "name": "エアコン使用でも熱中症で死亡 周囲が高齢者などに声かけを",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015120461_2605131755_0513185017_01_02.jpg",
+      "datePublished": "2026-05-13T20:26:02+09:00"
+    },
+    {
+      "name": "作曲家 大野雄二さん死去 84歳 「ルパン三世」「小さな旅」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120491000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015120491_2605131540_0513160835_01_02.jpg",
+      "datePublished": "2026-05-13T16:08:34+09:00"
+    },
+    {
+      "name": "大相撲夏場所5日目の見どころ 4連勝の大関霧島は平戸海と対戦",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120901000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260514/K10015120901_2605132139_0514054210_01_02.jpg",
+      "datePublished": "2026-05-14T05:42:09+09:00"
+    },
+    {
+      "name": "【プロ野球結果】パ・リーグ 西武が今シーズン初の6連勝",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120891000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015120891_2605132250_0514092851_01_02.jpg",
+      "datePublished": "2026-05-14T09:28:50+09:00"
+    },
+    {
+      "name": "J1特別大会 第12節 神戸5試合ぶり勝ち点3 首位の名古屋と並ぶ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015121021000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015121021_2605132250_0513225233_01_02.jpg",
+      "datePublished": "2026-05-13T22:38:04+09:00"
+    },
+    {
+      "name": "金利も価格も上昇 住宅購入の注意点は？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119181000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260512/K10015119181_2605121143_0512141027_01_02.jpg",
+      "datePublished": "2026-05-12T14:10:26+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

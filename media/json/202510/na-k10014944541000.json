@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014944541000",
+  "dataSourceId": "na",
+  "name": "維新 藤田共同代表 首相指名選挙めぐり“野党一致は難しい”",
+  "headline": "維新 藤田共同代表 首相指名選挙めぐり“野党一致は難しい”",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014944541000",
+    "playlistId": "news-nwa-politics-nationwide-20251008",
+    "newsarticleName": "維新 藤田共同代表 首相指名選挙めぐり“野党一致は難しい”",
+    "playlistName": "10月8日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "国会での総理大臣指名選挙をめぐり、日本維新の会の藤田共同代表は、立憲民主党から野党で一致した対応をとりたいと呼びかけられたことについて、野党内には考え方が違う党もあるとして、まとまるのは難しいという認",
+  "dateModified": "2025-10-08T14:00:14+09:00",
+  "datePublished": "2025-10-08T14:00:14+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251008/K10014944541_2510081341_1008140016_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251008/K10014944541_2510081341_1008140016_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "国会での総理大臣指名選挙をめぐり、日本維新の会の藤田共同代表は、立憲民主党から野党で一致した対応をとりたいと呼びかけられたことについて、野党内には考え方が違う党もあるとして、まとまるのは難しいという認",
+  "articleBody": "国会での総理大臣指名選挙をめぐり、日本維新の会の藤田共同代表は、立憲民主党から野党で一致した対応をとりたいと呼びかけられたことについて、野党内には考え方が違う党もあるとして、まとまるのは難しいという認識を示しました。\n\n\n次の臨時国会で行われる総理大臣指名選挙をめぐり、立憲民主党の安住幹事長は、7日、日本維新の会の中司幹事長に対し野党で統一候補をつくって一致した対応をとりたいと呼びかけました。\n\nこれについて日本維新の会の藤田共同代表は記者会見で「野党どうしでも政策観が遠い党もあり、非常に難しい。一緒になるのは相当ハードルが高く、雲をつかむような話だ」と述べました。\n\n一方、藤田氏は「野党第1党の立憲民主党が総理大臣指名選挙で自分の党の代表ではなく、ほかの選択肢も含めて協議をお願いしたいというのは非常に勇気があり、重いことだと思うので、門前払いにするような失礼なことはすべきではなく、話を聞くことはしたい」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "国会での総理大臣指名選挙をめぐり、日本維新の会の藤田共同代表は、立憲民主党から野党で一致した対応をとりたいと呼びかけられたことについて、野党内には考え方が違う党もあるとして、まとまるのは難しいという認識を示しました。\n",
+    "markedBody": "次の臨時国会で行われる総理大臣指名選挙をめぐり、立憲民主党の安住幹事長は、7日、日本維新の会の中司幹事長に対し野党で統一候補をつくって一致した対応をとりたいと呼びかけました。\n\nこれについて日本維新の会の藤田共同代表は記者会見で「野党どうしでも政策観が遠い党もあり、非常に難しい。一緒になるのは相当ハードルが高く、雲をつかむような話だ」と述べました。\n\n一方、藤田氏は「野党第1党の立憲民主党が総理大臣指名選挙で自分の党の代表ではなく、ほかの選択肢も含めて協議をお願いしたいというのは非常に勇気があり、重いことだと思うので、門前払いにするような失礼なことはすべきではなく、話を聞くことはしたい」と述べました。\n",
+    "trimmedLead": "国会での総理大臣指名選挙をめぐり、日本維新の会の藤田共同代表は、立憲民主党から野党で一致した対応をとりたいと呼びかけられたことについて、野党内には考え方が違う党もあるとして、まとまるのは難しいという認識を示しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014944541000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014944541000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

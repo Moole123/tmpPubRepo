@@ -1,0 +1,169 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015103971000",
+  "dataSourceId": "na",
+  "name": "地震・津波で宅配に影響 北海道・東北中心に配達停止や遅れ",
+  "headline": "地震・津波で宅配に影響 北海道・東北中心に配達停止や遅れ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015103971000",
+    "playlistId": "news-nwa-disaster-nationwide-20260420",
+    "newsarticleName": "地震・津波で宅配に影響 北海道・東北中心に配達停止や遅れ",
+    "playlistName": "4月20日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "今回の地震と津波で宅配に影響が出ています。\n\n\nヤマト運輸は、津波警報や津波注意報が発令されている地域を中心に集荷や配達、店舗での荷物の受け付けを停止しています。\n\nまた、フェリーや鉄道に遅れなどが生",
+  "dateModified": "2026-04-20T20:40:53+09:00",
+  "datePublished": "2026-04-20T20:40:53+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260420/K10015103971_2604202250_0420225033_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260420/K10015103971_2604202250_0420225033_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0002744",
+      "name": "物流",
+      "display": true
+    },
+    {
+      "id": "0002621",
+      "name": "津波",
+      "display": true
+    },
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0002201",
+      "name": "北海道",
+      "display": true
+    },
+    {
+      "id": "0002202",
+      "name": "青森県",
+      "display": true
+    },
+    {
+      "id": "0002203",
+      "name": "岩手県",
+      "display": true
+    },
+    {
+      "id": "0002620",
+      "name": "北海道・三陸沖後発地震",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "今回の地震と津波で宅配に影響が出ています。\n\n\nヤマト運輸は、津波警報や津波注意報が発令されている地域を中心に集荷や配達、店舗での荷物の受け付けを停止しています。\n\nまた、フェリーや鉄道に遅れなどが生",
+  "articleBody": "今回の地震と津波で宅配に影響が出ています。\n\n\nヤマト運輸は、津波警報や津波注意報が発令されている地域を中心に集荷や配達、店舗での荷物の受け付けを停止しています。\n\nまた、フェリーや鉄道に遅れなどが生じていることから北海道と東北を発着地とする荷物の配達に遅れが出ているということです。\n\n佐川急便も、同様に沿岸部などを中心に集荷や配達業務を停止しています。\n\nまた、北海道、青森県、岩手県の一部の地域を発着地とする荷物の配達に遅れが出ているということです。\n\n日本郵便も、一部の地域で郵便物などの集配を休止しているところがあるということです。\n\n今後の地震や津波の状況によっては、北海道と東北の太平洋沿岸を中心とする地域で郵便物などの配達に遅れが出る可能性があるとしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "今回の地震と津波で宅配に影響が出ています。\n",
+    "markedBody": "ヤマト運輸は、津波警報や津波注意報が発令されている地域を中心に集荷や配達、店舗での荷物の受け付けを停止しています。\n\nまた、フェリーや鉄道に遅れなどが生じていることから北海道と東北を発着地とする荷物の配達に遅れが出ているということです。\n\n佐川急便も、同様に沿岸部などを中心に集荷や配達業務を停止しています。\n\nまた、北海道、青森県、岩手県の一部の地域を発着地とする荷物の配達に遅れが出ているということです。\n\n日本郵便も、一部の地域で郵便物などの集配を休止しているところがあるということです。\n\n今後の地震や津波の状況によっては、北海道と東北の太平洋沿岸を中心とする地域で郵便物などの配達に遅れが出る可能性があるとしています。\n",
+    "trimmedLead": "今回の地震と津波で宅配に影響が出ています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015103971000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015103971000",
+  "video": [],
+  "citation": [
+    {
+      "name": "【津波情報】北海道～福島に津波注意報 久慈港で80cm津波観測",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015103601000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260420/K10015103601_2604202016_0420201927_01_02.jpg",
+      "datePublished": "2026-04-20T22:54:29+09:00"
+    },
+    {
+      "name": "北海道・三陸沖後発地震注意情報 “巨大地震の可能性高まる”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015103791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260420/K10015103791_2604202003_0420200841_01_02.jpg",
+      "datePublished": "2026-04-20T20:26:42+09:00"
+    },
+    {
+      "name": "北海道・三陸沖後発地震注意情報 発表されたらどうする? Q＆A",
+      "url": "https://news.web.nhk/newsweb/na/nc-cc6fdf5b-0bac-483a-ae5b-0f26b0d19536",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30057163.jpg"
+    },
+    {
+      "name": "【地震情報】青森県階上町で震度5強 青森 岩手 宮城で震度5弱",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015103581000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260420/K10015103581_2604202045_0420204806_01_02.jpg",
+      "datePublished": "2026-04-20T19:47:30+09:00"
+    },
+    {
+      "name": "津波警報直後から SNSで偽情報・偽動画相次ぐ 注意を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015103911000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260420/K10015103911_2604201915_0420191807_01_02.jpg",
+      "datePublished": "2026-04-20T20:34:09+09:00"
+    },
+    {
+      "name": "全日空 日本航空 国際線燃油サーチャージ引き上げ 5月に前倒し",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015103431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260420/K10015103431_2604201848_0420203048_01_02.jpg",
+      "datePublished": "2026-04-20T20:54:08+09:00"
+    },
+    {
+      "name": "南鳥島での「文献調査」実施容認 小笠原村長が文書で国に報告",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015103541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260420/K10015103541_2604201425_0420151356_01_02.jpg",
+      "datePublished": "2026-04-20T19:13:32+09:00"
+    },
+    {
+      "name": "仙台 住宅街でクマ捕獲 宮城県全域に「クマ出没警報」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015103501000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260420/K10015103501_2604201334_0420140927_01_02.jpg",
+      "datePublished": "2026-04-20T19:10:04+09:00"
+    },
+    {
+      "name": "世界が注目 ホルムズ海峡を時系列で見る",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015100911000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260419/K10015100911_2604171613_0419100640_01_02.jpg",
+      "datePublished": "2026-04-19T10:06:39+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

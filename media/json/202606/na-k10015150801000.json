@@ -1,0 +1,160 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015150801000",
+  "dataSourceId": "na",
+  "name": "サッカーワールドカップ2026 ベルギー対エジプトは引き分け",
+  "headline": "サッカーW杯 ベルギー対エジプトは引き分け",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015150801000",
+    "playlistId": "news-nwa-sports-nationwide-20260616",
+    "newsarticleName": "サッカーワールドカップ2026 ベルギー対エジプトは引き分け",
+    "playlistName": "6月16日のスポーツニュース",
+    "genreId": "sports",
+    "genreIdSlug": "sports"
+  },
+  "description": "サッカーワールドカップ北中米大会の1次リーグのグループG、ベルギー 対 エジプトは1対1で引き分けました。\n\n\nエジプトは前半20分、ミッドフィルダーのアーシュール選手の強烈なミドルシュートで先制しま",
+  "dateModified": "2026-06-16T06:14:29+09:00",
+  "datePublished": "2026-06-16T06:14:29+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260616/K10015150801_2606152341_0616061430_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260616/K10015150801_2606152341_0616061430_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "スポーツ"
+  ],
+  "topic": [
+    {
+      "id": "0002444",
+      "name": "サッカーワールドカップ2026",
+      "display": true
+    },
+    {
+      "id": "0002821",
+      "name": "グループG",
+      "display": true
+    },
+    {
+      "id": "0002347",
+      "name": "ベルギー",
+      "display": true
+    },
+    {
+      "id": "0002368",
+      "name": "エジプト",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "サッカーワールドカップ北中米大会の1次リーグのグループG、ベルギー 対 エジプトは1対1で引き分けました。\n\n\nエジプトは前半20分、ミッドフィルダーのアーシュール選手の強烈なミドルシュートで先制しま",
+  "articleBody": "サッカーワールドカップ北中米大会の1次リーグのグループG、ベルギー 対 エジプトは1対1で引き分けました。\n\n\nエジプトは前半20分、ミッドフィルダーのアーシュール選手の強烈なミドルシュートで先制しました。\n\n一方のベルギーは後半21分、直前に投入されたベテランのフォワード、ルカク選手が右サイドからのクロスをゴール前で受けて相手のオウンゴールを誘い、同点に追いつきました。\n\n両チームは終盤まで激しく競り合いましたが、試合は1対1で引き分けとなり、勝ち点1を分け合いました。\n",
+  "detailedArticleBody": {
+    "markedLead": "サッカーワールドカップ北中米大会の1次リーグのグループG、ベルギー 対 エジプトは1対1で引き分けました。\n",
+    "markedBody": "エジプトは前半20分、ミッドフィルダーのアーシュール選手の強烈なミドルシュートで先制しました。\n\n一方のベルギーは後半21分、直前に投入されたベテランのフォワード、ルカク選手が右サイドからのクロスをゴール前で受けて相手のオウンゴールを誘い、同点に追いつきました。\n\n両チームは終盤まで激しく競り合いましたが、試合は1対1で引き分けとなり、勝ち点1を分け合いました。\n",
+    "trimmedLead": "サッカーワールドカップ北中米大会の1次リーグのグループG、ベルギー 対 エジプトは1対1で引き分けました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015150801000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015150801000",
+  "video": [],
+  "citation": [
+    {
+      "name": "サッカーW杯 強豪スペインと初出場カボベルデが引き分け",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015150791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260616/K10015150791_2606152340_0616031200_01_02.jpg",
+      "datePublished": "2026-06-16T05:29:56+09:00"
+    },
+    {
+      "name": "【随時更新】サッカーＷ杯 1次リーグ 全日程・結果",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015147291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015147291_2606111633_0612035920_01_02.jpg",
+      "datePublished": "2026-06-15T17:11:15+09:00"
+    },
+    {
+      "name": "Ｗ杯 日本対オランダ 海外のPV会場でもサポーターが声援",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015150321000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260615/K10015150321_2606151416_0615142014_01_02.jpg",
+      "datePublished": "2026-06-15T21:21:14+09:00"
+    },
+    {
+      "name": "W杯ゴールの鎌田大地 小学生時代の指導者「何か持ってる」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015150561000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260615/K10015150561_2606151907_0615192512_01_02.jpg",
+      "datePublished": "2026-06-15T19:25:11+09:00"
+    },
+    {
+      "name": "W杯 日本 初戦はオランダと引き分け 2度追いつく【詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015149851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260615/K10015149851_2606150809_0615081821_01_02.jpg",
+      "datePublished": "2026-06-15T18:49:34+09:00"
+    },
+    {
+      "name": "W杯イラン代表がアメリカ到着「私たちはサッカーに専念」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015150481000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260615/K10015150481_2606151832_0615183647_01_02.jpg",
+      "datePublished": "2026-06-15T18:36:46+09:00"
+    },
+    {
+      "name": "“史上最強”日本代表 強さの秘密",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015146871000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260613/K10015146871_2606121733_0613150236_01_02.jpg",
+      "datePublished": "2026-06-13T15:02:35+09:00"
+    },
+    {
+      "name": "サッカーワールドカップ開幕 日本代表は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148231000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148231_2606121146_0612140816_01_02.jpg",
+      "datePublished": "2026-06-12T14:08:15+09:00"
+    },
+    {
+      "name": "トランプ大統領 “覚書すでに署名 19日にホルムズ海峡開放”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015150721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260616/K10015150721_2606160130_0616055102_01_02.jpg",
+      "datePublished": "2026-06-16T06:24:41+09:00"
+    },
+    {
+      "name": "G7サミット 仏で開幕 イラン情勢やウクライナ情勢など議論",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015150771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260616/K10015150771_2606160015_0616053311_01_02.jpg",
+      "datePublished": "2026-06-16T05:51:54+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

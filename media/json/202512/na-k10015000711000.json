@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015000711000",
+  "dataSourceId": "na",
+  "name": "参院予算委 補正予算案 12日と15日に総括質疑で与野党合意",
+  "headline": "参院予算委 補正予算案 12日と15日に総括質疑で与野党合意",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015000711000",
+    "playlistId": "news-nwa-politics-nationwide-20251211",
+    "newsarticleName": "参院予算委 補正予算案 12日と15日に総括質疑で与野党合意",
+    "playlistName": "12月11日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "今年度の補正予算案の審議日程をめぐり、参議院予算委員会は理事懇談会を開き、12日と来週15日の2日間、高市総理大臣とすべての閣僚に出席を求めて総括質疑を行うことで与野党が合意しました。\n\n\n新たな経済",
+  "dateModified": "2025-12-11T10:51:05+09:00",
+  "datePublished": "2025-12-11T10:51:05+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251211/K10015000711_2512111030_1211105106_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251211/K10015000711_2512111030_1211105106_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "今年度の補正予算案の審議日程をめぐり、参議院予算委員会は理事懇談会を開き、12日と来週15日の2日間、高市総理大臣とすべての閣僚に出席を求めて総括質疑を行うことで与野党が合意しました。\n\n\n新たな経済",
+  "articleBody": "今年度の補正予算案の審議日程をめぐり、参議院予算委員会は理事懇談会を開き、12日と来週15日の2日間、高市総理大臣とすべての閣僚に出席を求めて総括質疑を行うことで与野党が合意しました。\n\n\n新たな経済対策の裏付けとなる今年度の補正予算案は、11日、衆議院予算委員会に続いて本会議でも採決が行われ、自民党と日本維新の会に加え、国民民主党などの賛成多数で可決されて、参議院に送られる運びです。\n\nこうした中、参議院予算委員会は、11日朝、理事懇談会を開いて補正予算案の審議日程を協議し、12日と来週15日の2日間、高市総理大臣とすべての閣僚に出席を求めて総括質疑を行うことで与野党が合意しました。\n\nまた、その後の日程については、引き続き協議することになりました。\n",
+  "detailedArticleBody": {
+    "markedLead": "今年度の補正予算案の審議日程をめぐり、参議院予算委員会は理事懇談会を開き、12日と来週15日の2日間、高市総理大臣とすべての閣僚に出席を求めて総括質疑を行うことで与野党が合意しました。\n",
+    "markedBody": "新たな経済対策の裏付けとなる今年度の補正予算案は、11日、衆議院予算委員会に続いて本会議でも採決が行われ、自民党と日本維新の会に加え、国民民主党などの賛成多数で可決されて、参議院に送られる運びです。\n\nこうした中、参議院予算委員会は、11日朝、理事懇談会を開いて補正予算案の審議日程を協議し、12日と来週15日の2日間、高市総理大臣とすべての閣僚に出席を求めて総括質疑を行うことで与野党が合意しました。\n\nまた、その後の日程については、引き続き協議することになりました。\n",
+    "trimmedLead": "今年度の補正予算案の審議日程をめぐり、参議院予算委員会は理事懇談会を開き、12日と来週15日の2日間、高市総理大臣とすべての閣僚に出席を求めて総括質疑を行うことで与野党が合意しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015000711000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015000711000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

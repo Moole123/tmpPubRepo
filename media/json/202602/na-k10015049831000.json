@@ -1,0 +1,178 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015049831000",
+  "dataSourceId": "na",
+  "name": "グーグル AI検索サービスから商品購入できる仕組み 米で導入へ",
+  "headline": "グーグル AI検索サービスから商品購入できる仕組み 米で導入へ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015049831000",
+    "playlistId": "news-nwa-international-nationwide-20260212",
+    "newsarticleName": "グーグル AI検索サービスから商品購入できる仕組み 米で導入へ",
+    "playlistName": "2月12日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "アメリカのIT大手「グーグル」は、AI機能を組み込んだ検索サービスから、商品を購入できる仕組みをアメリカで導入すると発表しました。生成AIの開発をめぐり巨額のコストがかかる中、企業の間で新たな収益源を",
+  "dateModified": "2026-02-12T13:14:03+09:00",
+  "datePublished": "2026-02-12T13:14:03+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260212/K10015049831_2602121308_0212131404_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260212/K10015049831_2602121308_0212131404_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000010",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "0000009",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "アメリカのIT大手「グーグル」は、AI機能を組み込んだ検索サービスから、商品を購入できる仕組みをアメリカで導入すると発表しました。生成AIの開発をめぐり巨額のコストがかかる中、企業の間で新たな収益源を",
+  "articleBody": "アメリカのIT大手「グーグル」は、AI機能を組み込んだ検索サービスから、商品を購入できる仕組みをアメリカで導入すると発表しました。生成AIの開発をめぐり巨額のコストがかかる中、企業の間で新たな収益源を確保しようと模索する動きが広がっています。\n\n\nこれは、グーグルが11日、公式ブログで明らかにしたものです。\n\nそれによりますと、アメリカのユーザーを対象に、AI機能を組み込んだ検索サービスの「AIモード」や、生成AI「Gemini」のアプリを利用する際に、買い物ができるサービスを導入するということです。\n\n例えば「AIモード」では、ユーザーが購入を検討している目当ての物について尋ねると、AIが広告とともに商品の候補を示して特徴や価格を表示するほか、そこから購入サイトに直接アクセスすることが可能だとしています。\n\n同様の動きは生成AIのサービスを提供する企業の間で広がっていて、生成AIの「ChatGPT」を手がけるオープンAIも、1月、広告を試験的に導入すると発表しました。\n\n生成AIの開発に巨額のコストがかかる中、企業の間で新たな収益源を確保しようと模索する動きが広がっています。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカのIT大手「グーグル」は、AI機能を組み込んだ検索サービスから、商品を購入できる仕組みをアメリカで導入すると発表しました。生成AIの開発をめぐり巨額のコストがかかる中、企業の間で新たな収益源を確保しようと模索する動きが広がっています。\n",
+    "markedBody": "これは、グーグルが11日、公式ブログで明らかにしたものです。\n\nそれによりますと、アメリカのユーザーを対象に、AI機能を組み込んだ検索サービスの「AIモード」や、生成AI「Gemini」のアプリを利用する際に、買い物ができるサービスを導入するということです。\n\n![](https://news.web.nhk/news/html/20260212/K10015049831_2602121308_0212131404_02_03.jpg)\n\n例えば「AIモード」では、ユーザーが購入を検討している目当ての物について尋ねると、AIが広告とともに商品の候補を示して特徴や価格を表示するほか、そこから購入サイトに直接アクセスすることが可能だとしています。\n\n同様の動きは生成AIのサービスを提供する企業の間で広がっていて、生成AIの「ChatGPT」を手がけるオープンAIも、1月、広告を試験的に導入すると発表しました。\n\n生成AIの開発に巨額のコストがかかる中、企業の間で新たな収益源を確保しようと模索する動きが広がっています。\n",
+    "trimmedLead": "アメリカのIT大手「グーグル」は、AI機能を組み込んだ検索サービスから、商品を購入できる仕組みをアメリカで導入すると発表しました。生成AIの開発をめぐり巨額のコストがかかる中、企業の間で新たな収益源を確保しようと模索する動きが広がっています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015049831000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015049831000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "グーグル AI検索サービスから商品購入できる仕組み 米で導入へ",
+      "description": "アメリカのIT大手「グーグル」は、AI機能を組み込んだ検索サービスから、商品を購入できる仕組みをアメリカで導入すると発表しました。生成AIの開発をめぐり巨額のコストがかかる中、企業の間で新たな収益源を",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015049831_202602122022_202602122023/index.m3u8&mrposter=/news/html/20260212/K10015049831_2602121308_0212131404_01_02.jpg",
+      "duration": "PT40S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015049831_202602122022_202602122023/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260212/K10015049831_2602121308_0212131404_01_02.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "中道 代表選挙 階氏と小川氏が立候補 あす投票 新代表選出へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015049371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260212/K10015049371_2602121652_0212165606_01_03.jpg",
+      "datePublished": "2026-02-12T19:15:12+09:00"
+    },
+    {
+      "name": "株価 一時5万8000円台に乗せるも値下がり",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015049691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260212/K10015049691_2602121616_0212163045_01_02.jpg",
+      "datePublished": "2026-02-12T16:30:44+09:00"
+    },
+    {
+      "name": "円相場 一時1ドル152円台前半まで値上がり",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015049701000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260212/K10015049701_2602121814_0212183625_01_02.jpg",
+      "datePublished": "2026-02-12T18:36:24+09:00"
+    },
+    {
+      "name": "SNSでわいせつ動画送らせ拡散か 高校の野球部員2人を書類送検",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015049721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260212/K10015049721_2602120955_0212101514_01_02.jpg",
+      "datePublished": "2026-02-12T17:22:04+09:00"
+    },
+    {
+      "name": "特殊詐欺の被害 去年1414億円で過去最悪 “ニセ警察”が大幅増",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015049781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260212/K10015049781_2602121153_0212120030_01_02.jpg",
+      "datePublished": "2026-02-12T19:51:12+09:00"
+    },
+    {
+      "name": "セブン-イレブン 北海道でおにぎりなどの製造 一日3回を2回に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015049321000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260212/K10015049321_2602112121_0212064623_01_02.jpg",
+      "datePublished": "2026-02-12T06:46:22+09:00"
+    },
+    {
+      "name": "スノボ男子HP予選 戸塚2位 平野歩夢7位 日本勢全員決勝へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015049631000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260212/K10015049631_2602120647_0212064944_01_02.jpg",
+      "datePublished": "2026-02-12T08:32:44+09:00"
+    },
+    {
+      "name": "【最新ニュースまとめて】ミラノ・コルティナ オリンピック",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002451",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30750181.jpg"
+    },
+    {
+      "name": "衆院選 自民 歴史的圧勝 中道 大敗 背景と今後は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015048211000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260210/K10015048211_2602101124_0210183800_01_02.jpg",
+      "datePublished": "2026-02-10T18:37:59+09:00"
+    },
+    {
+      "name": "追跡！暗号資産の闇（中編） 執念の捜査で容疑者逮捕も…",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015044351000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260211/K10015044351_2602061623_0211163408_01_02.jpg",
+      "datePublished": "2026-02-11T16:34:07+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

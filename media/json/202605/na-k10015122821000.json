@@ -1,0 +1,154 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015122821000",
+  "dataSourceId": "na",
+  "name": "円相場値下がり 1ドル＝158円台半ば",
+  "headline": "円相場値下がり 1ドル＝158円台半ば",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015122821000",
+    "playlistId": "news-nwa-business-nationwide-20260515",
+    "newsarticleName": "円相場値下がり 1ドル＝158円台半ば",
+    "playlistName": "5月15日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "15日の東京外国為替市場、円相場はドルに対して値下がりしました。\n\n\n午後5時時点の円相場は、14日と比べて52銭、円安ドル高の1ドル＝158円44銭～45銭でした。\n\n一方、ユーロに対しては、51銭",
+  "dateModified": "2026-05-15T18:20:48+09:00",
+  "datePublished": "2026-05-15T18:20:48+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260515/K10015122821_2605151807_0515182048_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260515/K10015122821_2605151807_0515182048_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0000819",
+      "name": "原油価格",
+      "display": true
+    },
+    {
+      "id": "0002133",
+      "name": "物価高騰",
+      "display": true
+    },
+    {
+      "id": "0002804",
+      "name": "補正予算案・経済対策",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "15日の東京外国為替市場、円相場はドルに対して値下がりしました。\n\n\n午後5時時点の円相場は、14日と比べて52銭、円安ドル高の1ドル＝158円44銭～45銭でした。\n\n一方、ユーロに対しては、51銭",
+  "articleBody": "15日の東京外国為替市場、円相場はドルに対して値下がりしました。\n\n\n午後5時時点の円相場は、14日と比べて52銭、円安ドル高の1ドル＝158円44銭～45銭でした。\n\n一方、ユーロに対しては、51銭、円高ユーロ安の1ユーロ＝184円37銭～41銭でした。\n\nユーロはドルに対して1ユーロ＝1.1636～38ドルでした。\n\n市場関係者は「原油価格が高止まりする中、原油を輸入に頼る日本では物価上昇を通じて、実質的な通貨の価値が目減りするという見方が続いている。さらに15日は今年度の補正予算案の編成が必要になれば国の財政負担につながると意識され、円を売る圧力が強まった」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "15日の東京外国為替市場、円相場はドルに対して値下がりしました。\n",
+    "markedBody": "午後5時時点の円相場は、14日と比べて52銭、円安ドル高の1ドル＝158円44銭～45銭でした。\n\n一方、ユーロに対しては、51銭、円高ユーロ安の1ユーロ＝184円37銭～41銭でした。\n\nユーロはドルに対して1ユーロ＝1.1636～38ドルでした。\n\n市場関係者は「原油価格が高止まりする中、原油を輸入に頼る日本では物価上昇を通じて、実質的な通貨の価値が目減りするという見方が続いている。さらに15日は今年度の補正予算案の編成が必要になれば国の財政負担につながると意識され、円を売る圧力が強まった」と話しています。\n",
+    "trimmedLead": "15日の東京外国為替市場、円相場はドルに対して値下がりしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015122821000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015122821000",
+  "video": [],
+  "citation": [
+    {
+      "name": "日経平均6万円台 実力か買われすぎか【経済コラム】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015121681000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015121681_2605151123_0515175911_01_02.jpg",
+      "datePublished": "2026-05-15T17:59:10+09:00"
+    },
+    {
+      "name": "大王製紙 8月に家庭用・業務用の全製品値上げ 中東情勢 影響で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015122761000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015122761_2605151701_0515171632_01_02.jpg",
+      "datePublished": "2026-05-15T17:16:31+09:00"
+    },
+    {
+      "name": "スーパーのコメ価格 5キロ税込み3742円 3週連続の値下がり",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015122811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015122811_2605151709_0515173032_01_02.jpg",
+      "datePublished": "2026-05-15T20:08:12+09:00"
+    },
+    {
+      "name": "JA全農 秋の農作業向け肥料値上げへ イラン情勢影響で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015122771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015122771_2605151701_0515173134_01_03.jpg",
+      "datePublished": "2026-05-15T17:31:33+09:00"
+    },
+    {
+      "name": "企業に中東情勢の逆風 切り抜けるには",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015122401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015122401_2605151128_0515170511_01_02.jpg",
+      "datePublished": "2026-05-15T17:05:10+09:00"
+    },
+    {
+      "name": "物価高騰や円安の影響は研究現場にも 文部科学省が意識調査",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015122371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015122371_2605151118_0515130302_01_02.jpg",
+      "datePublished": "2026-05-15T13:03:01+09:00"
+    },
+    {
+      "name": "片山財務相 補正予算案の編成ただちに必要なし 臨機応変に対応",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015122451000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015122451_2605151154_0515125444_01_03.jpg",
+      "datePublished": "2026-05-15T12:54:43+09:00"
+    },
+    {
+      "name": "4月企業物価指数 イラン情勢で約3年ぶりの上昇幅に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015122291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015122291_2605151115_0515111617_01_02.jpg",
+      "datePublished": "2026-05-15T10:50:35+09:00"
+    },
+    {
+      "name": "自民参院議員会長 中東情勢長引けば今国会で補正予算案も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015122001000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260514/K10015122001_2605142103_0514211648_01_02.jpg",
+      "datePublished": "2026-05-14T21:16:47+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

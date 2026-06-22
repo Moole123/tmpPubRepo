@@ -1,0 +1,164 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015154271000",
+  "dataSourceId": "na",
+  "name": "各地で真夏日予想 九州では非常に激しい雨が降るおそれ",
+  "headline": "各地で真夏日予想 九州では非常に激しい雨が降るおそれ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015154271000",
+    "playlistId": "news-nwa-disaster-nationwide-20260619",
+    "newsarticleName": "各地で真夏日予想 九州では非常に激しい雨が降るおそれ",
+    "playlistName": "6月19日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "19日は、関東から近畿を中心に気温が上がり、各地で30度以上の真夏日が予想されていて、熱中症への対策を心がけてください。一方、梅雨前線の影響で、九州では大気の状態が非常に不安定になっていて局地的に非常",
+  "dateModified": "2026-06-19T12:20:01+09:00",
+  "datePublished": "2026-06-19T12:20:01+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260619/K10015154271_2606191154_0619122002_02_01.jpg",
+      "height": 719,
+      "width": 1279
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260619/K10015154271_2606191154_0619122002_01_02.jpg",
+      "height": 719,
+      "width": 1279
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0000035",
+      "name": "気象",
+      "display": true
+    },
+    {
+      "id": "0000649",
+      "name": "熱中症",
+      "display": true
+    },
+    {
+      "id": "0002617",
+      "name": "大雨情報",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "19日は、関東から近畿を中心に気温が上がり、各地で30度以上の真夏日が予想されていて、熱中症への対策を心がけてください。一方、梅雨前線の影響で、九州では大気の状態が非常に不安定になっていて局地的に非常",
+  "articleBody": "19日は、関東から近畿を中心に気温が上がり、各地で30度以上の真夏日が予想されていて、熱中症への対策を心がけてください。一方、梅雨前線の影響で、九州では大気の状態が非常に不安定になっていて局地的に非常に激しい雨が降るおそれがあり、土砂災害や低い土地の浸水、川の増水に注意が必要です。\n\n\n気象庁によりますと19日は関東から近畿を中心に晴れて、気温が上がっています。\n\n午前11時までの最高気温は、\n▽名古屋市で31.6度\n▽福井市で31度ちょうど\n▽鳥取市で30.8度\n▽兵庫県豊岡市で30.4度\n▽前橋市で30.3度と、すでに真夏日になっています。\n\nこのあとも気温は上がる見込みで日中の最高気温は\n▽甲府市や岐阜市、京都市で34度\n▽名古屋市で33度\n▽前橋市や福井市、大阪市で32度\n▽鳥取市で31度\n▽東京の都心や広島市、松江市で30度と予想されています。\n\n水分をこまめに補給しエアコンを適切に使うなど、熱中症への対策を心がけてください。\n\n一方、停滞する梅雨前線の影響で、九州では大気の状態が非常に不安定になっていて、この時間は大分県や鹿児島県に発達した雨雲がかかっています。\n\n午前11時半までの1時間では\n▽大分県豊後高田市で39ミリ\n▽鹿児島県指宿市で38ミリの激しい雨が降りました。\n\n九州では19日、雷を伴って激しい雨が降り、局地的には1時間に50ミリの非常に激しい雨が降るおそれがあります。\n\nまた、上空の寒気の影響で、北日本でも局地的に雨雲が発達していて、青森県ではレベル4土砂災害危険警報が発表されている地域があります。\n\n気象庁は土砂災害や低い土地の浸水、川の増水のほか、落雷や突風、ひょうに注意するよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "19日は、関東から近畿を中心に気温が上がり、各地で30度以上の真夏日が予想されていて、熱中症への対策を心がけてください。一方、梅雨前線の影響で、九州では大気の状態が非常に不安定になっていて局地的に非常に激しい雨が降るおそれがあり、土砂災害や低い土地の浸水、川の増水に注意が必要です。\n",
+    "markedBody": "気象庁によりますと19日は関東から近畿を中心に晴れて、気温が上がっています。\n\n午前11時までの最高気温は、\\\n▽名古屋市で31.6度\\\n▽福井市で31度ちょうど\\\n▽鳥取市で30.8度\\\n▽兵庫県豊岡市で30.4度\\\n▽前橋市で30.3度と、すでに真夏日になっています。\n\nこのあとも気温は上がる見込みで日中の最高気温は\\\n▽甲府市や岐阜市、京都市で34度\\\n▽名古屋市で33度\\\n▽前橋市や福井市、大阪市で32度\\\n▽鳥取市で31度\\\n▽東京の都心や広島市、松江市で30度と予想されています。\n\n水分をこまめに補給しエアコンを適切に使うなど、熱中症への対策を心がけてください。\n\n一方、停滞する梅雨前線の影響で、九州では大気の状態が非常に不安定になっていて、この時間は大分県や鹿児島県に発達した雨雲がかかっています。\n\n午前11時半までの1時間では\\\n▽大分県豊後高田市で39ミリ\\\n▽鹿児島県指宿市で38ミリの激しい雨が降りました。\n\n九州では19日、雷を伴って激しい雨が降り、局地的には1時間に50ミリの非常に激しい雨が降るおそれがあります。\n\nまた、上空の寒気の影響で、北日本でも局地的に雨雲が発達していて、青森県ではレベル4土砂災害危険警報が発表されている地域があります。\n\n気象庁は土砂災害や低い土地の浸水、川の増水のほか、落雷や突風、ひょうに注意するよう呼びかけています。\n",
+    "trimmedLead": "19日は、関東から近畿を中心に気温が上がり、各地で30度以上の真夏日が予想されていて、熱中症への対策を心がけてください。一方、梅雨前線の影響で、九州では大気の状態が非常に不安定になっていて局地的に非常に激しい雨が降るおそれがあり、土砂災害や低い土地の浸水、川の増水に注意が必要です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015154271000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015154271000",
+  "video": [],
+  "citation": [
+    {
+      "name": "天気防災サイト あなたの街の天気予報や災害情報を即時提供",
+      "url": "https://news.web.nhk/kishou-saigai/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037196.jpg"
+    },
+    {
+      "name": "熱中症予防マップ あなたの街の暑さ指数を地図表示",
+      "url": "https://news.web.nhk/bousai-map/heatstroke/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037202.jpg"
+    },
+    {
+      "name": "大雨 最新情報 雨雲レーダーは「NHK ONE ニュース・防災アプリ」で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014929581000",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30116131.jpg"
+    },
+    {
+      "name": "東京 北区 小学校で火事 児童数人煙吸う 全員避難",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015154231000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260619/K10015154231_2606191136_0619113634_01_02.jpg",
+      "datePublished": "2026-06-19T12:11:19+09:00"
+    },
+    {
+      "name": "滋賀 日野町の強盗殺人事件の再審で検察が有罪主張しない方針",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015154181000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260619/K10015154181_2606191209_0619121501_01_03.jpg",
+      "datePublished": "2026-06-19T12:06:03+09:00"
+    },
+    {
+      "name": "アメリカとイラン 実務協議予定決まらず レバノンでは戦闘続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015153851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260619/K10015153851_2606182045_0619072213_01_02.jpg",
+      "datePublished": "2026-06-19T12:10:34+09:00"
+    },
+    {
+      "name": "伊豆諸島 利島の岩場に貨物船乗り上げ けが人なし",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015154131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260619/K10015154131_2606191022_0619103856_01_02.jpg",
+      "datePublished": "2026-06-19T11:31:21+09:00"
+    },
+    {
+      "name": "医療法人の事業譲渡めぐり3億5000万円詐取疑いで逮捕 警視庁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015154101000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260619/K10015154101_2606190925_0619095030_01_02.jpg",
+      "datePublished": "2026-06-19T11:34:08+09:00"
+    },
+    {
+      "name": "株価 取引時間中の最高値更新 円相場は161円台の円安水準",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015154081000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260619/K10015154081_2606190910_0619091433_01_02.jpg",
+      "datePublished": "2026-06-19T12:22:36+09:00"
+    },
+    {
+      "name": "日銀元総裁の独白 なぜ円安続く？「重く受け止める必要あり」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015150971000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260618/K10015150971_2606181853_0618202425_01_02.jpg",
+      "datePublished": "2026-06-18T20:24:24+09:00"
+    },
+    {
+      "name": "W杯 日本代表 チュニジア戦に向け非公開で調整 モンテレイへ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015154001000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260619/K10015154001_2606190553_0619062300_01_02.jpg",
+      "datePublished": "2026-06-19T09:25:49+09:00"
+    },
+    {
+      "name": "【随時更新】サッカーＷ杯 1次リーグ 全日程・結果 動画も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015152841000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260618/K10015152841_2606172120_0618203210_01_02.jpg",
+      "datePublished": "2026-06-19T10:49:38+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

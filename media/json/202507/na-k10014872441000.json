@@ -1,0 +1,102 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014872441000",
+  "dataSourceId": "na",
+  "name": "【動画】大阪 天神祭を前に恒例の「ギャルみこし」",
+  "headline": "大阪 天神祭を前に恒例の「ギャルみこし」",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014872441000",
+    "playlistId": "news-nwa-life-nationwide-20250724",
+    "newsarticleName": "【動画】大阪 天神祭を前に恒例の「ギャルみこし」",
+    "playlistName": "7月24日の暮らしニュース",
+    "genreId": "life",
+    "genreIdSlug": "life"
+  },
+  "description": "大阪の夏を彩る「天神祭」が24日から始まるのを前に、23日、祭り気分を盛り上げる恒例の「ギャルみこし」が行われました。\n\n\nこれは、天神祭を盛り上げようと毎年行われていて、23日、16歳から30歳の女",
+  "dateModified": "2025-07-24T05:25:59+09:00",
+  "datePublished": "2025-07-24T05:25:59+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250724/K10014872441_2507231717_0723171843_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250724/K10014872441_2507231717_0723171843_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "暮らし",
+    "科学・文化"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "大阪の夏を彩る「天神祭」が24日から始まるのを前に、23日、祭り気分を盛り上げる恒例の「ギャルみこし」が行われました。\n\n\nこれは、天神祭を盛り上げようと毎年行われていて、23日、16歳から30歳の女",
+  "articleBody": "大阪の夏を彩る「天神祭」が24日から始まるのを前に、23日、祭り気分を盛り上げる恒例の「ギャルみこし」が行われました。\n\n\nこれは、天神祭を盛り上げようと毎年行われていて、23日、16歳から30歳の女性80人がかわるがわるみこしを担いで、大阪・北区の天神橋筋商店街を練り歩きました。\n\nねじり鉢巻きにはっぴ姿の女性たちは、重さが200キロほどのみこしを「わっしょい、わっしょい」と威勢よく担いでいました。\n\nそして、見に来た人たちに大阪独特の手締め「大阪締め」を披露し、祭り気分を盛り上げていました。\n\n参加した25歳の女性は「地元の祭りを盛り上げたいと思いました。暑くて、みこしも重いですが、参加できたことに感動しています」と話していました。\n\n見に来ていた70代の女性は「みこしを担ぐ姿がかわいいですね。元気をもらいました」と話していました。\n\n天神祭は、24日と25日の2日間、大阪天満宮などで行われます。\n",
+  "detailedArticleBody": {
+    "markedLead": "大阪の夏を彩る「天神祭」が24日から始まるのを前に、23日、祭り気分を盛り上げる恒例の「ギャルみこし」が行われました。\n",
+    "markedBody": "これは、天神祭を盛り上げようと毎年行われていて、23日、16歳から30歳の女性80人がかわるがわるみこしを担いで、大阪・北区の天神橋筋商店街を練り歩きました。\n\nねじり鉢巻きにはっぴ姿の女性たちは、重さが200キロほどのみこしを「わっしょい、わっしょい」と威勢よく担いでいました。\n\nそして、見に来た人たちに大阪独特の手締め「大阪締め」を披露し、祭り気分を盛り上げていました。\n\n参加した25歳の女性は「地元の祭りを盛り上げたいと思いました。暑くて、みこしも重いですが、参加できたことに感動しています」と話していました。\n\n見に来ていた70代の女性は「みこしを担ぐ姿がかわいいですね。元気をもらいました」と話していました。\n\n天神祭は、24日と25日の2日間、大阪天満宮などで行われます。\n\n![](https://news.web.nhk/news/html/20250724/K10014872441_2507231716_0723171843_02_04.jpg)\n",
+    "trimmedLead": "大阪の夏を彩る「天神祭」が24日から始まるのを前に、23日、祭り気分を盛り上げる恒例の「ギャルみこし」が行われました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014872441000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014872441000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "大阪 天神祭を前に恒例の「ギャルみこし」",
+      "description": "大阪の夏を彩る「天神祭」が24日から始まるのを前に、23日、祭り気分を盛り上げる恒例の「ギャルみこし」が行われました。\n\n\nこれは、天神祭を盛り上げようと毎年行われていて、23日、16歳から30歳の女",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10014872441_202507231715_202507231717/index.m3u8&mrposter=/news/html/20250724/K10014872441_2507231717_0723171843_01_03.jpg",
+      "duration": "PT22S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10014872441_202507231715_202507231717/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20250724/K10014872441_2507231717_0723171843_01_03.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

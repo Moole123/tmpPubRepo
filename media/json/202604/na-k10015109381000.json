@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015109381000",
+  "dataSourceId": "na",
+  "name": "村田製作所 取引先や従業員の個人情報など約8万8000件流出か",
+  "headline": "村田製作所 取引先や従業員の個人情報など約8万8000件流出か",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015109381000",
+    "playlistId": "news-nwa-business-nationwide-20260427",
+    "newsarticleName": "村田製作所 取引先や従業員の個人情報など約8万8000件流出か",
+    "playlistName": "4月27日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "社内システムへの不正アクセスが明らかになった電子部品大手の「村田製作所」は、取引先や従業員の個人情報など、合わせておよそ8万8000件が外部に流出したか、流出したおそれがあるとする調査結果を公表しまし",
+  "dateModified": "2026-04-27T16:52:05+09:00",
+  "datePublished": "2026-04-27T16:52:05+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260427/K10015109381_2604271623_0427165206_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260427/K10015109381_2604271623_0427165206_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000009",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "0002226",
+      "name": "京都府",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "社内システムへの不正アクセスが明らかになった電子部品大手の「村田製作所」は、取引先や従業員の個人情報など、合わせておよそ8万8000件が外部に流出したか、流出したおそれがあるとする調査結果を公表しまし",
+  "articleBody": "社内システムへの不正アクセスが明らかになった電子部品大手の「村田製作所」は、取引先や従業員の個人情報など、合わせておよそ8万8000件が外部に流出したか、流出したおそれがあるとする調査結果を公表しました。流出した情報が悪用されたケースは、現時点では確認されていないということです。\n\n\n京都府長岡京市に本社を置く村田製作所は、社内のシステムが、何者かに不正アクセスを受けていたことが分かり、先月から詳しい調査を進めていました。\n\nこれについて会社は27日、調査結果を公表しました。\n\nそれによりますと、外部への流出が確認されたか、流出したおそれがある個人情報を含むデータの件数は、取引先など社外の関係者については、氏名やメールアドレスなどおよそ1万5000件、従業員やその家族などの会社関係者は、氏名や住所、銀行口座の情報などおよそ7万3000件に上るということです。\n\nまた、取引先との請求書や契約書、それに売り上げなどに関する情報も流出したおそれがあることも分かったということです。\n\n会社によりますと、流出した情報が悪用されたケースは、現時点では確認されておらず、情報セキュリティーに関する対策を済ませたとしています。\n\n村田製作所は「今回の事案を厳粛に受け止め、情報セキュリティーの考え方と体制を見直し、強化する。ご迷惑とご心配をおかけすることを改めて深くおわびします」とコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "社内システムへの不正アクセスが明らかになった電子部品大手の「村田製作所」は、取引先や従業員の個人情報など、合わせておよそ8万8000件が外部に流出したか、流出したおそれがあるとする調査結果を公表しました。流出した情報が悪用されたケースは、現時点では確認されていないということです。\n",
+    "markedBody": "京都府長岡京市に本社を置く村田製作所は、社内のシステムが、何者かに不正アクセスを受けていたことが分かり、先月から詳しい調査を進めていました。\n\nこれについて会社は27日、調査結果を公表しました。\n\nそれによりますと、外部への流出が確認されたか、流出したおそれがある個人情報を含むデータの件数は、取引先など社外の関係者については、氏名やメールアドレスなどおよそ1万5000件、従業員やその家族などの会社関係者は、氏名や住所、銀行口座の情報などおよそ7万3000件に上るということです。\n\nまた、取引先との請求書や契約書、それに売り上げなどに関する情報も流出したおそれがあることも分かったということです。\n\n会社によりますと、流出した情報が悪用されたケースは、現時点では確認されておらず、情報セキュリティーに関する対策を済ませたとしています。\n\n村田製作所は「今回の事案を厳粛に受け止め、情報セキュリティーの考え方と体制を見直し、強化する。ご迷惑とご心配をおかけすることを改めて深くおわびします」とコメントしています。\n",
+    "trimmedLead": "社内システムへの不正アクセスが明らかになった電子部品大手の「村田製作所」は、取引先や従業員の個人情報など、合わせておよそ8万8000件が外部に流出したか、流出したおそれがあるとする調査結果を公表しました。流出した情報が悪用されたケースは、現時点では確認されていないということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015109381000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015109381000",
+  "video": [],
+  "citation": [
+    {
+      "name": "岩手 大槌町の山林火災 発生6日目も延焼続く 鎮圧めど立たず",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015108891000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015108891_2604270514_0427100900_01_03.jpg",
+      "datePublished": "2026-04-27T13:16:27+09:00"
+    },
+    {
+      "name": "福島 喜多方山林火災「ほぼ消し止められた」 鎮圧を発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015109221_2604271213_0427121925_01_02.jpg",
+      "datePublished": "2026-04-27T13:40:16+09:00"
+    },
+    {
+      "name": "【地震情報】北海道十勝南部で震度5強 津波なし",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015108931000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015108931_2604270927_0427093014_01_03.jpg",
+      "datePublished": "2026-04-27T11:40:48+09:00"
+    },
+    {
+      "name": "三陸沖地震から1週間 呼びかけ期間は夕方まで 備え継続を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015108971000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015108971_2604270500_0427051554_01_03.jpg",
+      "datePublished": "2026-04-27T11:33:05+09:00"
+    },
+    {
+      "name": "日産 昨年度の業績見通し 営業赤字から営業黒字に上方修正へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109321000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015109321_2604271521_0427160745_01_02.jpg",
+      "datePublished": "2026-04-27T16:07:44+09:00"
+    },
+    {
+      "name": "中東での新車販売台数が減少 自動車各社 イラン情勢影響",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109301000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015109301_2604271518_0427161127_01_02.jpg",
+      "datePublished": "2026-04-27T16:11:27+09:00"
+    },
+    {
+      "name": "米 夕食会発砲事件 “暗殺者名乗り 政権幹部を順に標的に”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109171000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015109171_2604271121_0427121859_01_02.jpg",
+      "datePublished": "2026-04-27T12:18:58+09:00"
+    },
+    {
+      "name": "“ナフサ供給不安”企業の44％「すでに影響」 生団連調べ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015109291_2604271434_0427145347_01_02.jpg",
+      "datePublished": "2026-04-27T14:53:47+09:00"
+    },
+    {
+      "name": "JERA「電気料金 夏ごろに高騰懸念」イラン情勢受け",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109271000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015109271_2604271403_0427143048_01_02.jpg",
+      "datePublished": "2026-04-27T14:30:47+09:00"
+    },
+    {
+      "name": "ボクシング 元世界王者の重岡兄弟 リング事故を乗り越えて",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015109131_2604271023_0427153019_01_02.jpg",
+      "datePublished": "2026-04-27T15:30:18+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

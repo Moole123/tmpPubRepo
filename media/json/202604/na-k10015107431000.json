@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015107431000",
+  "dataSourceId": "na",
+  "name": "AIの進化見据え金融庁が作業部会 官民連携で対策検討へ",
+  "headline": "AIの進化見据え金融庁が作業部会 官民連携で対策検討へ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015107431000",
+    "playlistId": "news-nwa-business-nationwide-20260424",
+    "newsarticleName": "AIの進化見据え金融庁が作業部会 官民連携で対策検討へ",
+    "playlistName": "4月24日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "アメリカの新興AI企業が開発したAIモデルをめぐって、金融システムのリスクになるのではないかという警戒が広がる中、金融庁は新たな作業部会をつくり、AIの技術進歩を踏まえたセキュリティー対策を大手銀行な",
+  "dateModified": "2026-04-24T16:52:33+09:00",
+  "datePublished": "2026-04-24T16:52:33+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260424/K10015107431_2604241630_0424165233_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260424/K10015107431_2604241630_0424165233_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000010",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "0002408",
+      "name": "金融庁",
+      "display": true
+    },
+    {
+      "id": "0002423",
+      "name": "金融",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "アメリカの新興AI企業が開発したAIモデルをめぐって、金融システムのリスクになるのではないかという警戒が広がる中、金融庁は新たな作業部会をつくり、AIの技術進歩を踏まえたセキュリティー対策を大手銀行な",
+  "articleBody": "アメリカの新興AI企業が開発したAIモデルをめぐって、金融システムのリスクになるのではないかという警戒が広がる中、金融庁は新たな作業部会をつくり、AIの技術進歩を踏まえたセキュリティー対策を大手銀行などと検討していくことになりました。\n\n\nアメリカの新興AI企業、アンソロピックが開発したAIモデル「クロード・ミュトス」は、OS＝基本ソフトやウェブブラウザのぜい弱性を特定できる能力が高いとされていて、仮にサイバー攻撃に悪用された場合、金融システムに深刻なリスクをもたらす可能性があるとされています。\n\nこうした中、金融庁は24日、日銀の植田総裁や日本取引所グループの山道裕己CEO、それに大手銀行のトップらと会合を開き、今後の対応について意見を交わしました。\n\nそして、AIの技術進歩に官民が連携して備える必要があるとして、金融庁が新たにつくる作業部会でセキュリティー対策を検討していくことになりました。\n\n会合のあと片山金融担当大臣は、記者団に対して「金融機関は重要インフラ機能を担う立場として、システムのぜい弱性に関する情報の把握や不測の事態が発生したときの備えがこれまで以上に重要になる。作業部会を中心に迅速に検討を行っていく」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカの新興AI企業が開発したAIモデルをめぐって、金融システムのリスクになるのではないかという警戒が広がる中、金融庁は新たな作業部会をつくり、AIの技術進歩を踏まえたセキュリティー対策を大手銀行などと検討していくことになりました。\n",
+    "markedBody": "アメリカの新興AI企業、アンソロピックが開発したAIモデル「クロード・ミュトス」は、OS＝基本ソフトやウェブブラウザのぜい弱性を特定できる能力が高いとされていて、仮にサイバー攻撃に悪用された場合、金融システムに深刻なリスクをもたらす可能性があるとされています。\n\nこうした中、金融庁は24日、日銀の植田総裁や日本取引所グループの山道裕己CEO、それに大手銀行のトップらと会合を開き、今後の対応について意見を交わしました。\n\nそして、AIの技術進歩に官民が連携して備える必要があるとして、金融庁が新たにつくる作業部会でセキュリティー対策を検討していくことになりました。\n\n会合のあと片山金融担当大臣は、記者団に対して「金融機関は重要インフラ機能を担う立場として、システムのぜい弱性に関する情報の把握や不測の事態が発生したときの備えがこれまで以上に重要になる。作業部会を中心に迅速に検討を行っていく」と述べました。\n",
+    "trimmedLead": "アメリカの新興AI企業が開発したAIモデルをめぐって、金融システムのリスクになるのではないかという警戒が広がる中、金融庁は新たな作業部会をつくり、AIの技術進歩を踏まえたセキュリティー対策を大手銀行などと検討していくことになりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015107431000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015107431000",
+  "video": [],
+  "citation": [
+    {
+      "name": "“中国拠点企業 先端AI「蒸留」で模倣”と非難 ホワイトハウス",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015107001000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015107001_2604241100_0424111207_01_03.jpg",
+      "datePublished": "2026-04-24T18:52:18+09:00"
+    },
+    {
+      "name": "米 メタ マイクロソフト 人員削減や早期退職募集 AI開発背景か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015107011000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015107011_2604241000_0424104831_01_02.jpg",
+      "datePublished": "2026-04-24T10:48:31+09:00"
+    },
+    {
+      "name": "会議システム「Zoom」のロゴ使用めぐり運営企業側に賠償命令",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015107301000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015107301_2604241404_0424140607_01_02.jpg",
+      "datePublished": "2026-04-24T22:42:33+09:00"
+    },
+    {
+      "name": "岩手 大槌町山林火災延焼続く 平成以降2番目に大きな被害",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106911000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015106911_2604240021_0424051421_01_02.jpg",
+      "datePublished": "2026-04-24T21:25:40+09:00"
+    },
+    {
+      "name": "アメリカの強硬姿勢にイラン反発 仲介の動きも続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106881000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015106881_2604241135_0424115505_01_03.jpg",
+      "datePublished": "2026-04-24T21:13:31+09:00"
+    },
+    {
+      "name": "イラン“政府側と革命防衛隊の軍部で対立か” 専門家 分析",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015107391000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015107391_2604241533_0424161638_01_02.jpg",
+      "datePublished": "2026-04-24T16:16:37+09:00"
+    },
+    {
+      "name": "“イラン最高指導者が革命防衛隊に意思決定を委ねる”米報道",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015107161000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015107161_2604241138_0424121821_01_02.jpg",
+      "datePublished": "2026-04-24T12:18:20+09:00"
+    },
+    {
+      "name": "日経平均株価 終値の最高値を更新 半導体関連銘柄が買われる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015107171000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015107171_2604241541_0424154419_01_02.jpg",
+      "datePublished": "2026-04-24T16:19:57+09:00"
+    },
+    {
+      "name": "ワーナー パラマウントによる買収提案を株主総会で承認",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106931000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015106931_2604240643_0424065857_01_02.jpg",
+      "datePublished": "2026-04-24T06:58:56+09:00"
+    },
+    {
+      "name": "中国が米にパンダ貸与 米大統領の訪中前に「パンダ外交」か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015107381000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015107381_2604241535_0424161455_01_02.jpg",
+      "datePublished": "2026-04-24T16:14:54+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

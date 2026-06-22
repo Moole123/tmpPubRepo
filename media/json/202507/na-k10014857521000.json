@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014857521000",
+  "dataSourceId": "na",
+  "name": "山口 光 88歳の女性 庭で倒れ死亡 熱中症か",
+  "headline": "山口 光 88歳の女性 庭で倒れ死亡 熱中症か",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014857521000",
+    "playlistId": "news-nwa-disaster-nationwide-20250708",
+    "newsarticleName": "山口 光 88歳の女性 庭で倒れ死亡 熱中症か",
+    "playlistName": "7月8日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "山口県光市で88歳の女性が住宅の庭で倒れているのが見つかり、病院に搬送されましたが、死亡しました。消防によりますと、熱中症とみられるということです。\n\n\n8日午後3時すぎ、光市で、88歳の女性が住宅の",
+  "dateModified": "2025-07-08T19:11:37+09:00",
+  "datePublished": "2025-07-08T19:11:37+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250708/K10014857521_2507081853_0708191141_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250708/K10014857521_2507081853_0708191141_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "山口県光市で88歳の女性が住宅の庭で倒れているのが見つかり、病院に搬送されましたが、死亡しました。消防によりますと、熱中症とみられるということです。\n\n\n8日午後3時すぎ、光市で、88歳の女性が住宅の",
+  "articleBody": "山口県光市で88歳の女性が住宅の庭で倒れているのが見つかり、病院に搬送されましたが、死亡しました。消防によりますと、熱中症とみられるということです。\n\n\n8日午後3時すぎ、光市で、88歳の女性が住宅の庭で倒れているのを家族が見つけ、消防に通報しました。\n\n消防によりますと、女性は意識がない状態で病院に搬送されましたが、死亡しました。\n\n熱中症とみられるということです。\n\n山口県内では8日も各地で気温が上がり、「熱中症警戒アラート」が発表されていて、光市に隣接する下松市では、7月としては観測史上最も高い35.9度の最高気温を観測しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "山口県光市で88歳の女性が住宅の庭で倒れているのが見つかり、病院に搬送されましたが、死亡しました。消防によりますと、熱中症とみられるということです。\n",
+    "markedBody": "8日午後3時すぎ、光市で、88歳の女性が住宅の庭で倒れているのを家族が見つけ、消防に通報しました。\n\n消防によりますと、女性は意識がない状態で病院に搬送されましたが、死亡しました。\n\n熱中症とみられるということです。\n\n山口県内では8日も各地で気温が上がり、「熱中症警戒アラート」が発表されていて、光市に隣接する下松市では、7月としては観測史上最も高い35.9度の最高気温を観測しました。\n",
+    "trimmedLead": "山口県光市で88歳の女性が住宅の庭で倒れているのが見つかり、病院に搬送されましたが、死亡しました。消防によりますと、熱中症とみられるということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014857521000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014857521000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

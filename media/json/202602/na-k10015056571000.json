@@ -1,0 +1,161 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015056571000",
+  "dataSourceId": "na",
+  "name": "ルノー 去年1年間の決算 最終的な損益 約2兆円の赤字に",
+  "headline": "ルノー 去年1年間の決算 最終的な損益 約2兆円の赤字に",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015056571000",
+    "playlistId": "news-nwa-international-nationwide-20260219",
+    "newsarticleName": "ルノー 去年1年間の決算 最終的な損益 約2兆円の赤字に",
+    "playlistName": "2月19日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "フランスの自動車メーカー、ルノーの去年1年間の決算は、最終的な損益がおよそ2兆円の赤字となりました。提携先の日産自動車の業績が大きく悪化して株価が低迷する中、会計処理を変更したことに伴う損失が膨らんだ",
+  "dateModified": "2026-02-19T22:13:49+09:00",
+  "datePublished": "2026-02-19T22:13:49+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260219/K10015056571_2602192204_0219221350_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260219/K10015056571_2602192204_0219221350_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0002729",
+      "name": "決算",
+      "display": true
+    },
+    {
+      "id": "0002417",
+      "name": "自動車",
+      "display": true
+    },
+    {
+      "id": "0002036",
+      "name": "フランス",
+      "display": true
+    },
+    {
+      "id": "0002733",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "フランスの自動車メーカー、ルノーの去年1年間の決算は、最終的な損益がおよそ2兆円の赤字となりました。提携先の日産自動車の業績が大きく悪化して株価が低迷する中、会計処理を変更したことに伴う損失が膨らんだ",
+  "articleBody": "フランスの自動車メーカー、ルノーの去年1年間の決算は、最終的な損益がおよそ2兆円の赤字となりました。提携先の日産自動車の業績が大きく悪化して株価が低迷する中、会計処理を変更したことに伴う損失が膨らんだ形です。\n\n\nルノーが19日に発表した去年1年間の決算によりますと、売り上げは579億2200万ユーロ、日本円にして10兆5000億円余りで、前の年より3％増えましたが、最終的な損益は109億3100万ユーロ、およそ2兆円の赤字になりました。\n\n会社は去年、保有する日産自動車の株式について会計処理の変更を行いましたが、業績の悪化で日産の株価が低迷していたことで93億ユーロの損失が発生したなどとしています。\n\nフランソワ・プロボCEOは記者会見で今後の協業について「日産の業績が安定してくれば今より多くの機会が生まれるだろう。両社は地理的に強く補完しあえる関係だ」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "フランスの自動車メーカー、ルノーの去年1年間の決算は、最終的な損益がおよそ2兆円の赤字となりました。提携先の日産自動車の業績が大きく悪化して株価が低迷する中、会計処理を変更したことに伴う損失が膨らんだ形です。\n",
+    "markedBody": "ルノーが19日に発表した去年1年間の決算によりますと、売り上げは579億2200万ユーロ、日本円にして10兆5000億円余りで、前の年より3％増えましたが、最終的な損益は109億3100万ユーロ、およそ2兆円の赤字になりました。\n\n会社は去年、保有する日産自動車の株式について会計処理の変更を行いましたが、業績の悪化で日産の株価が低迷していたことで93億ユーロの損失が発生したなどとしています。\n\nフランソワ・プロボCEOは記者会見で今後の協業について「日産の業績が安定してくれば今より多くの機会が生まれるだろう。両社は地理的に強く補完しあえる関係だ」と述べました。\n",
+    "trimmedLead": "フランスの自動車メーカー、ルノーの去年1年間の決算は、最終的な損益がおよそ2兆円の赤字となりました。提携先の日産自動車の業績が大きく悪化して株価が低迷する中、会計処理を変更したことに伴う損失が膨らんだ形です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015056571000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015056571000",
+  "video": [],
+  "citation": [
+    {
+      "name": "国内 主な自動車メーカー 9か月間の決算で3社が最終赤字に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015052611000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260216/K10015052611_2602152016_0216063842_01_02.jpg",
+      "datePublished": "2026-02-16T06:38:41+09:00"
+    },
+    {
+      "name": "ホンダ 原付き免許で運転可能な電動バイク 来月下旬から販売へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015056021000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260219/K10015056021_2602191349_0219150523_01_02.jpg",
+      "datePublished": "2026-02-19T15:05:22+09:00"
+    },
+    {
+      "name": "iPS細胞の再生医療 世界初実用化へ 心臓病 パーキンソン病対象",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015056071000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260219/K10015056071_2602191901_0219191350_01_02.jpg",
+      "datePublished": "2026-02-19T22:47:11+09:00"
+    },
+    {
+      "name": "英 チャールズ国王の弟 アンドルー元王子が逮捕 BBCなど報じる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015056361000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260219/K10015056361_2602191957_0219203509_01_02.jpg",
+      "datePublished": "2026-02-19T22:35:30+09:00"
+    },
+    {
+      "name": "「無料で海外旅行」SNSで誘われ 大学生カンボジアで連絡取れず",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015056401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260219/K10015056401_2602191945_0219204329_01_02.jpg",
+      "datePublished": "2026-02-19T20:43:28+09:00"
+    },
+    {
+      "name": "埼玉 八潮 道路陥没「リスクの高まり 推測できた」原因究明委",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015056031000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260219/K10015056031_2602191746_0219200642_01_02.jpg",
+      "datePublished": "2026-02-19T20:06:42+09:00"
+    },
+    {
+      "name": "不動産価格の高騰背景に「共有持分」だけの売買 広がる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015056121000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260219/K10015056121_2602191530_0219194700_01_02.jpg",
+      "datePublished": "2026-02-19T19:46:59+09:00"
+    },
+    {
+      "name": "悪用の証券口座 犯罪グループに譲渡したか 28歳を逮捕 警視庁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015056041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260219/K10015056041_2602191418_0219144307_01_02.jpg",
+      "datePublished": "2026-02-19T19:34:10+09:00"
+    },
+    {
+      "name": "東京 赤坂 サウナ店火災 夫婦死亡 別の個室でも一時閉じ込め",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015056321000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260219/K10015056321_2602192025_0219202740_01_03.jpg",
+      "datePublished": "2026-02-19T19:22:21+09:00"
+    },
+    {
+      "name": "“のり弁”はどうなる？ 海藻の未来が危うい",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260219/K10015053811_2602191525_0219162521_01_02.jpg",
+      "datePublished": "2026-02-19T16:25:20+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

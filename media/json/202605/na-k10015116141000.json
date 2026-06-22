@@ -1,0 +1,167 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015116141000",
+  "dataSourceId": "na",
+  "name": "大型連休 新幹線と特急は去年比約5％増 飛行機は約9％増",
+  "headline": "大型連休 新幹線と特急は去年比約5％増 飛行機は約9％増",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015116141000",
+    "playlistId": "news-nwa-society-nationwide-20260507",
+    "newsarticleName": "大型連休 新幹線と特急は去年比約5％増 飛行機は約9％増",
+    "playlistName": "5月7日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "ことしの大型連休の期間中に新幹線と特急列車を利用した人は、去年よりおよそ5％増え、飛行機を利用した人は国内線、国際線ともにおよそ9％増えました。\n\n\nJR各社は、6日までの13日間の、大型連休期間中の",
+  "dateModified": "2026-05-07T19:06:16+09:00",
+  "datePublished": "2026-05-07T19:06:16+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260507/K10015116141_2605071851_0507190616_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260507/K10015116141_2605071851_0507190616_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002427",
+      "name": "鉄道",
+      "display": true
+    },
+    {
+      "id": "0002424",
+      "name": "航空",
+      "display": true
+    },
+    {
+      "id": "0002683",
+      "name": "交通・インフラ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ことしの大型連休の期間中に新幹線と特急列車を利用した人は、去年よりおよそ5％増え、飛行機を利用した人は国内線、国際線ともにおよそ9％増えました。\n\n\nJR各社は、6日までの13日間の、大型連休期間中の",
+  "articleBody": "ことしの大型連休の期間中に新幹線と特急列車を利用した人は、去年よりおよそ5％増え、飛行機を利用した人は国内線、国際線ともにおよそ9％増えました。\n\n\nJR各社は、6日までの13日間の、大型連休期間中の利用状況を7日に発表しました。\n\nそれによりますとJRグループ全体の新幹線と特急列車の利用者数は1476万人余りで、去年と比べておよそ5％増加したということです。\n\nJR各社は、ことしは日の並びがよく、長期間の休みをとりやすかったこともあり、多くの旅行客などが利用したのではないかと分析しています。\n\nまた、国内の航空各社も大型連休の利用者数を発表し、6日までの8日間の国内線の利用者数は、11社で合わせておよそ268万人で、去年より9％余り増えました。\n\n国際線の利用者数は、6社で合わせて53万人余りで、去年より9％余り増えたということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "ことしの大型連休の期間中に新幹線と特急列車を利用した人は、去年よりおよそ5％増え、飛行機を利用した人は国内線、国際線ともにおよそ9％増えました。\n",
+    "markedBody": "JR各社は、6日までの13日間の、大型連休期間中の利用状況を7日に発表しました。\n\nそれによりますとJRグループ全体の新幹線と特急列車の利用者数は1476万人余りで、去年と比べておよそ5％増加したということです。\n\nJR各社は、ことしは日の並びがよく、長期間の休みをとりやすかったこともあり、多くの旅行客などが利用したのではないかと分析しています。\n\n![](https://news.web.nhk/news/html/20260507/K10015116141_2605071827_0507190616_02_03.jpg)\n\nまた、国内の航空各社も大型連休の利用者数を発表し、6日までの8日間の国内線の利用者数は、11社で合わせておよそ268万人で、去年より9％余り増えました。\n\n国際線の利用者数は、6社で合わせて53万人余りで、去年より9％余り増えたということです。\n",
+    "trimmedLead": "ことしの大型連休の期間中に新幹線と特急列車を利用した人は、去年よりおよそ5％増え、飛行機を利用した人は国内線、国際線ともにおよそ9％増えました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015116141000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015116141000",
+  "video": [],
+  "citation": [
+    {
+      "name": "京都 男児殺害事件「本当の父親じゃないと言われ」趣旨の供述",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015116131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015116131_2605071827_0507183153_01_02.jpg",
+      "datePublished": "2026-05-07T18:31:53+09:00"
+    },
+    {
+      "name": "磐越道 高校生死亡の事故 運転手の逮捕状請求【詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015116041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015116041_2605071911_0507191553_01_03.jpg",
+      "datePublished": "2026-05-07T19:13:32+09:00"
+    },
+    {
+      "name": "株価 終値 初の6万2000円台で最高値更新 上昇幅3300円超と最大",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015115711_2605071534_0507155652_01_02.jpg",
+      "datePublished": "2026-05-07T16:35:12+09:00"
+    },
+    {
+      "name": "再審制度の見直し 検察不服申し立て原則禁止で引き続き調整",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015115791_2605071530_0507175638_01_02.jpg",
+      "datePublished": "2026-05-07T18:43:01+09:00"
+    },
+    {
+      "name": "三菱UFJがグーグルと提携 AI活用で次世代金融インフラづくりへ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015116081000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015116081_2605071718_0507180332_01_02.jpg",
+      "datePublished": "2026-05-07T18:03:31+09:00"
+    },
+    {
+      "name": "熊本 八代市新庁舎工事めぐり 市議ら あっせん収賄容疑で逮捕",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015115941_2605071446_0507145210_01_02.jpg",
+      "datePublished": "2026-05-07T18:25:36+09:00"
+    },
+    {
+      "name": "米 軍事的圧力強め合意迫る イラン「脅しは効果がない」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115511000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015115511_2605070621_0507063255_01_02.jpg",
+      "datePublished": "2026-05-07T19:24:26+09:00"
+    },
+    {
+      "name": "クマの目撃相次ぐ ニワトリの被害も 岐阜 関",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015116021000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015116021_2605071634_0507165226_01_02.jpg",
+      "datePublished": "2026-05-07T16:52:25+09:00"
+    },
+    {
+      "name": "俳優の大葉健二さん死去 71歳 「宇宙刑事ギャバン」などで人気",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015116101000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015116101_2605071739_0507181127_01_02.jpg",
+      "datePublished": "2026-05-07T18:11:26+09:00"
+    },
+    {
+      "name": "ハンタウイルス確認のクルーズ船 3人移送 感染源調査も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115981000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015115981_2605071522_0507152602_01_03.jpg",
+      "datePublished": "2026-05-07T15:26:01+09:00"
+    },
+    {
+      "name": "エプスタイン問題 ラトニック商務長官が議会で証言 現職閣僚初",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115831000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015115831_2605071526_0507155101_01_02.jpg",
+      "datePublished": "2026-05-07T15:50:59+09:00"
+    },
+    {
+      "name": "高騰する不動産に台湾マネー？その実態と背景を追う",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094861000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015094861_2604211730_0507100812_01_02.jpg",
+      "datePublished": "2026-05-07T10:08:11+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

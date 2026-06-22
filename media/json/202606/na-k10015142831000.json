@@ -1,0 +1,182 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015142831000",
+  "dataSourceId": "na",
+  "name": "福島県内の7割の地域 放射線量が全国と同レベルに",
+  "headline": "福島県内の7割の地域 放射線量が全国と同レベルに",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015142831000",
+    "playlistId": "news-nwa-scienceculture-nationwide-20260606",
+    "newsarticleName": "福島県内の7割の地域 放射線量が全国と同レベルに",
+    "playlistName": "6月6日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "原子力規制委員会は東京電力福島第一原子力発電所の事故のあと、およそ15年間にわたり続けてきた福島県内の放射線量の測定結果をまとめました。去年12月には、県内の面積の7割にあたる地域で1時間当たりの放射",
+  "dateModified": "2026-06-06T18:19:19+09:00",
+  "datePublished": "2026-06-06T18:19:19+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260606/K10015142831_2606061252_0606181920_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260606/K10015142831_2606061252_0606181920_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "0002207",
+      "name": "福島県",
+      "display": true
+    },
+    {
+      "id": "0001453",
+      "name": "福島第一原発",
+      "display": true
+    },
+    {
+      "id": "0000021",
+      "name": "原発",
+      "display": true
+    },
+    {
+      "id": "0002708",
+      "name": "原子力規制委員会",
+      "display": true
+    },
+    {
+      "id": "0000019",
+      "name": "東日本大震災",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "原子力規制委員会は東京電力福島第一原子力発電所の事故のあと、およそ15年間にわたり続けてきた福島県内の放射線量の測定結果をまとめました。去年12月には、県内の面積の7割にあたる地域で1時間当たりの放射",
+  "articleBody": "原子力規制委員会は東京電力福島第一原子力発電所の事故のあと、およそ15年間にわたり続けてきた福島県内の放射線量の測定結果をまとめました。去年12月には、県内の面積の7割にあたる地域で1時間当たりの放射線量が全国と同じレベルになったとしています。\n\n\n原子力規制委員会は、福島第一原発の事故のあと、福島県内に設置されたモニタリングポストや、測定器を取り付けた小型の無人ヘリコプターなどで空間の放射線量を計測していて、およそ15年間にわたる変化を公表しました。\n\nそれによりますと、2011年7月には県内の面積の9割にあたる地域で1時間当たりの放射線量が0.1マイクロシーベルトを超えていましたが、放射線量は徐々に下がり、去年12月には0.1マイクロシーベルトを超えている地域は3割まで縮小し、残り7割の地域は全国と同じレベルになったということです。\n\nまた、データを分析したところ、除染の効果や地面の放射性物質が雨で流されるなどした影響で、時間の経過とともに放射線量が自然に下がる理論上の想定より、低下のペースが速かったということです。\n\n規制委員会の山中伸介委員長は「福島県の人たちの理解が深まるように放射線量の変化を丁寧に説明したい。原発事故後の環境の変化への関心は大きいので、今後も測定を続ける必要がある」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "原子力規制委員会は東京電力福島第一原子力発電所の事故のあと、およそ15年間にわたり続けてきた福島県内の放射線量の測定結果をまとめました。去年12月には、県内の面積の7割にあたる地域で1時間当たりの放射線量が全国と同じレベルになったとしています。\n",
+    "markedBody": "原子力規制委員会は、福島第一原発の事故のあと、福島県内に設置されたモニタリングポストや、測定器を取り付けた小型の無人ヘリコプターなどで空間の放射線量を計測していて、およそ15年間にわたる変化を公表しました。\n\n![](https://news.web.nhk/news/html/20260606/K10015142831_2606061252_0606181920_02_04.jpg)\n\nそれによりますと、2011年7月には県内の面積の9割にあたる地域で1時間当たりの放射線量が0.1マイクロシーベルトを超えていましたが、放射線量は徐々に下がり、去年12月には0.1マイクロシーベルトを超えている地域は3割まで縮小し、残り7割の地域は全国と同じレベルになったということです。\n\nまた、データを分析したところ、除染の効果や地面の放射性物質が雨で流されるなどした影響で、時間の経過とともに放射線量が自然に下がる理論上の想定より、低下のペースが速かったということです。\n\n![](https://news.web.nhk/news/html/20260606/K10015142831_2606061814_0606181920_02_05.jpg)\n\n規制委員会の山中伸介委員長は「福島県の人たちの理解が深まるように放射線量の変化を丁寧に説明したい。原発事故後の環境の変化への関心は大きいので、今後も測定を続ける必要がある」と話しています。\n",
+    "trimmedLead": "原子力規制委員会は東京電力福島第一原子力発電所の事故のあと、およそ15年間にわたり続けてきた福島県内の放射線量の測定結果をまとめました。去年12月には、県内の面積の7割にあたる地域で1時間当たりの放射線量が全国と同じレベルになったとしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015142831000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015142831000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "福島県内の7割の地域 放射線量が全国と同レベルに",
+      "description": "原子力規制委員会は東京電力福島第一原子力発電所の事故のあと、およそ15年間にわたり続けてきた福島県内の放射線量の測定結果をまとめました。去年12月には、県内の面積の7割にあたる地域で1時間当たりの放射",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015142831_202606061817_202606061817/index.m3u8&mrposter=/news/html/20260606/K10015142831_2606061252_0606181920_01_03.jpg",
+      "duration": "PT1M20S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015142831_202606061817_202606061817/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260606/K10015142831_2606061252_0606181920_01_03.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "東京電力 福島第一原発2号機 燃料プールの核燃料取り出し開始",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015138281000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260602/K10015138281_2606021550_0602161317_01_02.jpg",
+      "datePublished": "2026-06-02T16:13:16+09:00"
+    },
+    {
+      "name": "原発 2040年代までに最大5基 建て替えの必要 経産省が見通し",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015141641000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260605/K10015141641_2606051645_0605172226_01_03.jpg",
+      "datePublished": "2026-06-05T23:31:17+09:00"
+    },
+    {
+      "name": "奈良の「飛鳥・藤原の宮都」世界文化遺産に登録される見通しに",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015142291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260606/K10015142291_2606052221_0606033621_01_02.jpg",
+      "datePublished": "2026-06-06T15:23:45+09:00"
+    },
+    {
+      "name": "九州南部 線状降水帯発生のおそれ 7日未明～昼前",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015142821000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260606/K10015142821_2606061843_0606184657_01_02.jpg",
+      "datePublished": "2026-06-06T18:11:14+09:00"
+    },
+    {
+      "name": "トランプ大統領 再び軍事力行使示唆 イランは無人機発射か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015142611000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260606/K10015142611_2606060559_0606114808_01_02.jpg",
+      "datePublished": "2026-06-06T13:42:30+09:00"
+    },
+    {
+      "name": "パスポート申請手数料減額へ 7月以降は申請大幅増の予想",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015142741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260606/K10015142741_2606060943_0606095524_01_02.jpg",
+      "datePublished": "2026-06-06T09:55:23+09:00"
+    },
+    {
+      "name": "北朝鮮 キム総書記 “海軍を核戦争の抑止力の一翼へ強化”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015142801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260606/K10015142801_2606061132_0606114155_01_02.jpg",
+      "datePublished": "2026-06-06T11:41:54+09:00"
+    },
+    {
+      "name": "サッカーW杯日本代表 非公開練習でセットプレーの対応など確認",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015142781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260606/K10015142781_2606061131_0606113653_01_02.jpg",
+      "datePublished": "2026-06-06T12:53:06+09:00"
+    },
+    {
+      "name": "「目が見えないこと“も”武器に」 お笑い芸人 濱田祐太郎さん",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015138091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260606/K10015138091_2606021609_0606113147_01_02.jpg",
+      "datePublished": "2026-06-06T11:31:46+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

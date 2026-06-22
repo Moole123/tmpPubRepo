@@ -1,0 +1,156 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015148701000",
+  "dataSourceId": "na",
+  "name": "Booking.comの予約客に不審なメッセージ相次ぐ 注意呼びかけ",
+  "headline": "Booking.comの予約客に不審なメッセージ相次ぐ 注意呼びかけ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015148701000",
+    "playlistId": "news-nwa-business-nationwide-20260612",
+    "newsarticleName": "Booking.comの予約客に不審なメッセージ相次ぐ 注意呼びかけ",
+    "playlistName": "6月12日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "日本ホテル協会は、宿泊予約サイト「Booking.com」を通じてホテルを予約した客に、クレジットカードの情報を入力させようとする不審なメッセージが届く事例が相次いでいるとして、注意を呼びかけています",
+  "dateModified": "2026-06-12T18:46:17+09:00",
+  "datePublished": "2026-06-12T18:46:17+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260612/K10015148701_2606121837_0612184618_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260612/K10015148701_2606121837_0612184618_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済",
+    "暮らし"
+  ],
+  "topic": [
+    {
+      "id": "0000009",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "0002425",
+      "name": "観光",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "日本ホテル協会は、宿泊予約サイト「Booking.com」を通じてホテルを予約した客に、クレジットカードの情報を入力させようとする不審なメッセージが届く事例が相次いでいるとして、注意を呼びかけています",
+  "articleBody": "日本ホテル協会は、宿泊予約サイト「Booking.com」を通じてホテルを予約した客に、クレジットカードの情報を入力させようとする不審なメッセージが届く事例が相次いでいるとして、注意を呼びかけています。\n\n\n日本ホテル協会によりますと、ことしの大型連休ごろから宿泊予約サイト「Booking.com」を通じてホテルを予約した客に、ホテルが発信したように装った不審なメッセージが届く事例が相次いでいるとしています。\n\nメッセージはアプリやメールで届き、実際の予約番号や宿泊日程が記載されているということです。\n\nそして、「手続きをしなければ予約がキャンセルされる」などとしてリンク先のフィッシングサイトに誘導し、クレジットカードの情報を入力させようとする手口だとしています。\n\n予約番号などがどのように漏えいしたかは分かっておらず、こうした事例が90件ほど報告されたホテルもあるということで、協会は、運営会社に原因の調査や対策を求めています。\n\n協会からの連絡を受けて観光庁もサイトの運営会社に状況を確認していて、サイトでは6月5日から「メールやメッセージでクレジットカード情報の提供を求めることはない」などと注意を呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "日本ホテル協会は、宿泊予約サイト「Booking.com」を通じてホテルを予約した客に、クレジットカードの情報を入力させようとする不審なメッセージが届く事例が相次いでいるとして、注意を呼びかけています。\n",
+    "markedBody": "日本ホテル協会によりますと、ことしの大型連休ごろから宿泊予約サイト「Booking.com」を通じてホテルを予約した客に、ホテルが発信したように装った不審なメッセージが届く事例が相次いでいるとしています。\n\nメッセージはアプリやメールで届き、実際の予約番号や宿泊日程が記載されているということです。\n\nそして、「手続きをしなければ予約がキャンセルされる」などとしてリンク先のフィッシングサイトに誘導し、クレジットカードの情報を入力させようとする手口だとしています。\n\n予約番号などがどのように漏えいしたかは分かっておらず、こうした事例が90件ほど報告されたホテルもあるということで、協会は、運営会社に原因の調査や対策を求めています。\n\n協会からの連絡を受けて観光庁もサイトの運営会社に状況を確認していて、サイトでは6月5日から「メールやメッセージでクレジットカード情報の提供を求めることはない」などと注意を呼びかけています。\n",
+    "trimmedLead": "日本ホテル協会は、宿泊予約サイト「Booking.com」を通じてホテルを予約した客に、クレジットカードの情報を入力させようとする不審なメッセージが届く事例が相次いでいるとして、注意を呼びかけています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015148701000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015148701000",
+  "video": [],
+  "citation": [
+    {
+      "name": "AI悪用のサイバー攻撃に備え システム運用一時停止も 政府",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148481000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148481_2606121432_0612160602_01_02.jpg",
+      "datePublished": "2026-06-12T16:06:01+09:00"
+    },
+    {
+      "name": "消費者白書 SNS関係のトラブルなどの相談 初の年間10万件超に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148281000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148281_2606121159_0612132224_01_03.jpg",
+      "datePublished": "2026-06-12T13:22:23+09:00"
+    },
+    {
+      "name": "H3ロケット打ち上げ成功 6つの小型衛星を軌道に投入 JAXA",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148131_2606121148_0612115757_01_03.jpg",
+      "datePublished": "2026-06-12T20:19:53+09:00"
+    },
+    {
+      "name": "東京株式市場 キオクシアHDの時価総額が国内首位に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148141_2606121048_0612111146_01_02.jpg",
+      "datePublished": "2026-06-12T16:30:54+09:00"
+    },
+    {
+      "name": "韓国 ユン前大統領に懲役30年の判決 北朝鮮に無人機 軍に指示",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148521_2606121547_0612163852_01_02.jpg",
+      "datePublished": "2026-06-12T17:34:59+09:00"
+    },
+    {
+      "name": "日本航空を厳重注意 客室乗務員の飲酒で 国交省",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148531_2606121603_0612163443_01_02.jpg",
+      "datePublished": "2026-06-12T16:34:42+09:00"
+    },
+    {
+      "name": "関東では「ひょう」も 浸水など十分注意 13日も大気不安定に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148331_2606121458_0612161332_01_03.jpg",
+      "datePublished": "2026-06-12T19:26:04+09:00"
+    },
+    {
+      "name": "iPS細胞使う心臓病治療の治験1例目を実施 カテーテルで移植",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148611000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148611_2606121730_0612181929_01_02.jpg",
+      "datePublished": "2026-06-12T18:19:28+09:00"
+    },
+    {
+      "name": "俳優 中村玉緒さん死去 86歳 映画やバラエティー番組で活躍",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148421_2606121319_0612131944_01_02.jpg",
+      "datePublished": "2026-06-12T19:23:58+09:00"
+    },
+    {
+      "name": "サッカーW杯 開幕戦は8万人余で満員 チケット高額化に懸念も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148261000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148261_2606121457_0612145846_01_02.jpg",
+      "datePublished": "2026-06-12T14:36:34+09:00"
+    },
+    {
+      "name": "FIFAワールドカップ2026【NHK特設サイト】",
+      "url": "https://nhk.jp/fifawc?cid=wc26-newsweb-awayomi",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31365091.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

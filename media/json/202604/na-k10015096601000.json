@@ -1,0 +1,173 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015096601000",
+  "dataSourceId": "na",
+  "name": "高市首相 自民党幹部と昼食ともにし会談 予算審議など振り返る",
+  "headline": "高市首相 自民党幹部と昼食ともにし会談 予算審議など振り返る",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015096601000",
+    "playlistId": "news-nwa-politics-nationwide-20260410",
+    "newsarticleName": "高市首相 自民党幹部と昼食ともにし会談 予算審議など振り返る",
+    "playlistName": "4月10日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "高市総理大臣は、自民党の麻生副総裁や鈴木幹事長らと昼食をともにしながら会談し、今週成立した今年度予算の審議などを振り返りました。\n\n\n高市総理大臣は、10日、総理大臣官邸で、自民党の麻生副総裁や鈴木幹",
+  "dateModified": "2026-04-10T19:59:52+09:00",
+  "datePublished": "2026-04-10T19:59:52+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260410/K10015096601_2604101512_0410195952_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260410/K10015096601_2604101512_0410195952_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0002672",
+      "name": "高市内閣",
+      "display": true
+    },
+    {
+      "id": "0000456",
+      "name": "2026年度予算",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "高市総理大臣は、自民党の麻生副総裁や鈴木幹事長らと昼食をともにしながら会談し、今週成立した今年度予算の審議などを振り返りました。\n\n\n高市総理大臣は、10日、総理大臣官邸で、自民党の麻生副総裁や鈴木幹",
+  "articleBody": "高市総理大臣は、自民党の麻生副総裁や鈴木幹事長らと昼食をともにしながら会談し、今週成立した今年度予算の審議などを振り返りました。\n\n\n高市総理大臣は、10日、総理大臣官邸で、自民党の麻生副総裁や鈴木幹事長、それに萩生田幹事長代行と、およそ1時間、昼食をともにしながら会談しました。\n\nこの中では、今週7日に成立した今年度予算の審議を振り返ったほか、12日、東京都内のホテルで開催される自民党大会についても話題に上ったということです。\n\n高市総理大臣は、去年12月にも、昼食をともにしながら自民党幹部と会談しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "高市総理大臣は、自民党の麻生副総裁や鈴木幹事長らと昼食をともにしながら会談し、今週成立した今年度予算の審議などを振り返りました。\n",
+    "markedBody": "高市総理大臣は、10日、総理大臣官邸で、自民党の麻生副総裁や鈴木幹事長、それに萩生田幹事長代行と、およそ1時間、昼食をともにしながら会談しました。\n\nこの中では、今週7日に成立した今年度予算の審議を振り返ったほか、12日、東京都内のホテルで開催される自民党大会についても話題に上ったということです。\n\n高市総理大臣は、去年12月にも、昼食をともにしながら自民党幹部と会談しています。\n",
+    "trimmedLead": "高市総理大臣は、自民党の麻生副総裁や鈴木幹事長らと昼食をともにしながら会談し、今週成立した今年度予算の審議などを振り返りました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015096601000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015096601000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "高市首相 自民党幹部と昼食ともにし会談 予算審議など振り返る",
+      "description": "高市総理大臣は、自民党の麻生副総裁や鈴木幹事長らと昼食をともにしながら会談し、今週成立した今年度予算の審議などを振り返りました。\n\n\n高市総理大臣は、10日、総理大臣官邸で、自民党の麻生副総裁や鈴木幹",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015096601_202604101556_202604101556/index.m3u8&mrposter=/news/html/20260410/K10015096601_2604101512_0410195952_01_03.jpg",
+      "duration": "PT30S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015096601_202604101556_202604101556/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260410/K10015096601_2604101512_0410195952_01_03.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "高市首相動静 2026年4月9日",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015096271000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260410/K10015096271_2604100808_0410081221_01_02.jpg",
+      "datePublished": "2026-04-10T08:12:21+09:00"
+    },
+    {
+      "name": "高市首相動静 2026年4月8日",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015095391000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260409/K10015095391_2604090932_0409103043_01_02.jpg",
+      "datePublished": "2026-04-09T10:30:42+09:00"
+    },
+    {
+      "name": "高市首相動静 2026年4月7日",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094571000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260408/K10015094571_2604080847_0408100441_01_02.jpg",
+      "datePublished": "2026-04-08T10:04:41+09:00"
+    },
+    {
+      "name": "高市首相動静 2026年4月6日",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015093681000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260407/K10015093681_2604070922_0407102204_01_02.jpg",
+      "datePublished": "2026-04-07T10:22:03+09:00"
+    },
+    {
+      "name": "高市首相動静 2026年4月3日～5日",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015092821000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015092821_2604060917_0406103357_01_02.jpg",
+      "datePublished": "2026-04-06T10:33:56+09:00"
+    },
+    {
+      "name": "国会 今年度予算が成立 「国家情報局」設置法案など論戦続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260408/K10015094421_2604080053_0408044754_01_02.jpg",
+      "datePublished": "2026-04-08T04:47:53+09:00"
+    },
+    {
+      "name": "今年度予算成立 後半国会の焦点は？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260408/K10015094721_2604081158_0408135801_01_02.jpg",
+      "datePublished": "2026-04-08T13:58:00+09:00"
+    },
+    {
+      "name": "高市首相 石油「国家備蓄」約20日分を追加放出へ 来月上旬以降",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015096281000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260410/K10015096281_2604100905_0410094423_01_02.jpg",
+      "datePublished": "2026-04-10T16:18:14+09:00"
+    },
+    {
+      "name": "「国家情報局」設置法案 衆院内閣委で実質的な審議始まる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015096461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260410/K10015096461_2604101208_0410123811_01_03.jpg",
+      "datePublished": "2026-04-10T18:34:28+09:00"
+    },
+    {
+      "name": "政策効果低い補助金など見直し 財務相 “各省庁が自己点検を”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015096501000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260410/K10015096501_2604101222_0410130413_01_02.jpg",
+      "datePublished": "2026-04-10T13:04:12+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

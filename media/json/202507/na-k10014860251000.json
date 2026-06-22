@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014860251000",
+  "dataSourceId": "na",
+  "name": "【地震速報】鹿児島 悪石島で震度3 津波の心配なし（10:16）",
+  "headline": "【地震速報】鹿児島 悪石島で震度3 津波の心配なし（10:16）",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014860251000",
+    "playlistId": "news-nwa-disaster-nationwide-20250711",
+    "newsarticleName": "【地震速報】鹿児島 悪石島で震度3 津波の心配なし（10:16）",
+    "playlistName": "7月11日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "11日午前10時16分ごろ、鹿児島県十島村の悪石島で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。\n\n\n震源地はトカラ列島近海で、震源の深さは20キロ、地震の規模を示す",
+  "dateModified": "2025-07-11T10:41:36+09:00",
+  "datePublished": "2025-07-11T10:20:30+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250711/K10014860251_2507111023_0711102340_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250711/K10014860251_2507111023_0711102340_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "11日午前10時16分ごろ、鹿児島県十島村の悪石島で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。\n\n\n震源地はトカラ列島近海で、震源の深さは20キロ、地震の規模を示す",
+  "articleBody": "11日午前10時16分ごろ、鹿児島県十島村の悪石島で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。\n\n\n震源地はトカラ列島近海で、震源の深さは20キロ、地震の規模を示すマグニチュードは3.6と推定されています。\n\nトカラ列島の悪石島や小宝島付近では6月21日から地震活動が非常に活発になっていて、7月3日には震度6弱の揺れを観測する地震が発生したほか、その後も震度5強や震度5弱の揺れが相次いでいます。\n\nこの地域では2023年や2021年にも活発な地震活動がありましたが、震度1以上の地震回数は過去のケースを大きく上回っています。\n\n気象庁は、当面、最大震度6弱程度の揺れを伴う地震に注意するよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "11日午前10時16分ごろ、鹿児島県十島村の悪石島で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。\n",
+    "markedBody": "震源地はトカラ列島近海で、震源の深さは20キロ、地震の規模を示すマグニチュードは3.6と推定されています。\n\nトカラ列島の悪石島や小宝島付近では6月21日から地震活動が非常に活発になっていて、7月3日には震度6弱の揺れを観測する地震が発生したほか、その後も震度5強や震度5弱の揺れが相次いでいます。\n\nこの地域では2023年や2021年にも活発な地震活動がありましたが、震度1以上の地震回数は過去のケースを大きく上回っています。\n\n気象庁は、当面、最大震度6弱程度の揺れを伴う地震に注意するよう呼びかけています。\n",
+    "trimmedLead": "11日午前10時16分ごろ、鹿児島県十島村の悪石島で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014860251000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014860251000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

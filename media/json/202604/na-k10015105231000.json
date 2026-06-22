@@ -1,0 +1,145 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015105231000",
+  "dataSourceId": "na",
+  "name": "株価 取引時間中の最高値更新",
+  "headline": "株価 取引時間中の最高値更新",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015105231000",
+    "playlistId": "news-nwa-business-nationwide-20260422",
+    "newsarticleName": "株価 取引時間中の最高値更新",
+    "playlistName": "4月22日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "22日の東京株式市場、アメリカのトランプ大統領がイランとの間の停戦を延長すると明らかにしたことで投資家の警戒感がいくぶん和らぎ、日経平均株価は、取引時間中の最高値を更新しています。\n\n\n午前中、日経平",
+  "dateModified": "2026-04-22T12:02:32+09:00",
+  "datePublished": "2026-04-22T11:24:03+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260422/K10015105231_2604221114_0422112404_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260422/K10015105231_2604221114_0422112404_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "22日の東京株式市場、アメリカのトランプ大統領がイランとの間の停戦を延長すると明らかにしたことで投資家の警戒感がいくぶん和らぎ、日経平均株価は、取引時間中の最高値を更新しています。\n\n\n午前中、日経平",
+  "articleBody": "22日の東京株式市場、アメリカのトランプ大統領がイランとの間の停戦を延長すると明らかにしたことで投資家の警戒感がいくぶん和らぎ、日経平均株価は、取引時間中の最高値を更新しています。\n\n\n午前中、日経平均株価は一時、5万9700円台まで値上がりする場面があり、今月16日につけた取引時間中の最高値を更新しました。\n\n日経平均株価、午前の終値は、21日の終値と比べ304円39銭高い5万9653円56銭でした。\n\n一方、東証株価指数=トピックスは22.75下がって3747.63。\n\n午前の出来高は、10億1239万株でした。\n\n市場関係者は、「トランプ大統領による停戦延長の表明によって情勢の悪化を懸念していた投資家の警戒感がいくぶん和らぎ、半導体関連など、一部の銘柄に買い注文が入っている。ただ協議の行方が不透明な部分もあり、市場全体では売り注文も多く、値下がりしている銘柄の方が多い」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "22日の東京株式市場、アメリカのトランプ大統領がイランとの間の停戦を延長すると明らかにしたことで投資家の警戒感がいくぶん和らぎ、日経平均株価は、取引時間中の最高値を更新しています。\n",
+    "markedBody": "午前中、日経平均株価は一時、5万9700円台まで値上がりする場面があり、今月16日につけた取引時間中の最高値を更新しました。\n\n![](https://news.web.nhk/news/html/20260422/K10015105231_2604221139_0422120233_02_03.jpg)\n\n日経平均株価、午前の終値は、21日の終値と比べ304円39銭高い5万9653円56銭でした。\n\n一方、東証株価指数\\=トピックスは22.75下がって3747.63。\n\n午前の出来高は、10億1239万株でした。\n\n市場関係者は、「トランプ大統領による停戦延長の表明によって情勢の悪化を懸念していた投資家の警戒感がいくぶん和らぎ、半導体関連など、一部の銘柄に買い注文が入っている。ただ協議の行方が不透明な部分もあり、市場全体では売り注文も多く、値下がりしている銘柄の方が多い」と話しています。\n",
+    "trimmedLead": "22日の東京株式市場、アメリカのトランプ大統領がイランとの間の停戦を延長すると明らかにしたことで投資家の警戒感がいくぶん和らぎ、日経平均株価は、取引時間中の最高値を更新しています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015105231000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015105231000",
+  "video": [],
+  "citation": [
+    {
+      "name": "「国家情報局」設置法案 与党きょう採決を 与野党詰めの調整",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104881000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015104881_2604220128_0422053222_01_02.jpg",
+      "datePublished": "2026-04-22T05:32:21+09:00"
+    },
+    {
+      "name": "プルデンシャル生命 新規営業の自粛 半年延長を発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015105091_2604220632_0422063303_01_02.jpg",
+      "datePublished": "2026-04-22T07:16:39+09:00"
+    },
+    {
+      "name": "ペルシャ湾内の船舶から新たに日本人乗組員4人が下船",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015105141_2604220931_0422093252_01_02.jpg",
+      "datePublished": "2026-04-22T10:32:45+09:00"
+    },
+    {
+      "name": "トランプ大統領 停戦延長と投稿 イランとの協議が結論至るまで",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105081000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015105081_2604220554_0422055505_01_03.jpg",
+      "datePublished": "2026-04-22T10:27:24+09:00"
+    },
+    {
+      "name": "人気の「狭小住宅」 国の計画から「最低居住面積水準」削除に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015104531_2604211439_0421192754_01_03.jpg",
+      "datePublished": "2026-04-21T19:27:53+09:00"
+    },
+    {
+      "name": "「５類型」撤廃で武器輸出原則可能に フィリピンと協議開始へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104871000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015104871_2604212245_0422054433_01_03.jpg",
+      "datePublished": "2026-04-22T05:44:32+09:00"
+    },
+    {
+      "name": "北海道・三陸沖後発地震注意情報 “日頃の備え 改めて確認を”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015104141_2604210018_0421002942_01_02.jpg",
+      "datePublished": "2026-04-22T05:10:19+09:00"
+    },
+    {
+      "name": "陸自戦車の砲弾破裂事故 当時の無線交信内容を聞き取りへ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105001000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015105001_2604220242_0422051148_01_02.jpg",
+      "datePublished": "2026-04-22T05:11:47+09:00"
+    },
+    {
+      "name": "米FRB議長指名のウォーシュ氏 “大統領から独立して政策判断”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015105041_2604220203_0422020453_01_02.jpg",
+      "datePublished": "2026-04-22T09:20:13+09:00"
+    },
+    {
+      "name": "子どものいのちを守る 学校現場の自殺対策は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015103411000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015103411_2604201255_0421174035_01_02.jpg",
+      "datePublished": "2026-04-21T17:40:34+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015133671000",
+  "dataSourceId": "na",
+  "name": "ドジャース 大谷翔平 9号ソロホームラン 二刀流で先発出場",
+  "headline": "ドジャース 大谷翔平 9号ソロホームラン 二刀流で先発出場",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015133671000",
+    "playlistId": "news-nwa-sports-nationwide-20260528",
+    "newsarticleName": "ドジャース 大谷翔平 9号ソロホームラン 二刀流で先発出場",
+    "playlistName": "5月28日のスポーツニュース",
+    "genreId": "sports",
+    "genreIdSlug": "sports"
+  },
+  "description": "大リーグ、ドジャースの大谷翔平選手が27日、ロッキーズ戦に投打の二刀流で先発出場し、1回の第1打席でセンター後方へ先制の9号ソロホームランを打ちました。\n\n\nロッキーズの先発は、菅野智之投手で、大谷選",
+  "dateModified": "2026-05-28T11:31:54+09:00",
+  "datePublished": "2026-05-28T11:31:54+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260528/K10015133671_2605281149_0528114937_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260528/K10015133671_2605281149_0528114937_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "スポーツ"
+  ],
+  "topic": [
+    {
+      "id": "0002020",
+      "name": "大谷翔平",
+      "display": true
+    },
+    {
+      "id": "0002589",
+      "name": "菅野智之",
+      "display": true
+    },
+    {
+      "id": "0000006",
+      "name": "大リーグ",
+      "display": true
+    },
+    {
+      "id": "0001591",
+      "name": "野球",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "大リーグ、ドジャースの大谷翔平選手が27日、ロッキーズ戦に投打の二刀流で先発出場し、1回の第1打席でセンター後方へ先制の9号ソロホームランを打ちました。\n\n\nロッキーズの先発は、菅野智之投手で、大谷選",
+  "articleBody": "大リーグ、ドジャースの大谷翔平選手が27日、ロッキーズ戦に投打の二刀流で先発出場し、1回の第1打席でセンター後方へ先制の9号ソロホームランを打ちました。\n\n\nロッキーズの先発は、菅野智之投手で、大谷選手とは大リーグで初の投げ合いとなっています。\n",
+  "detailedArticleBody": {
+    "markedLead": "大リーグ、ドジャースの大谷翔平選手が27日、ロッキーズ戦に投打の二刀流で先発出場し、1回の第1打席でセンター後方へ先制の9号ソロホームランを打ちました。\n",
+    "markedBody": "ロッキーズの先発は、菅野智之投手で、大谷選手とは大リーグで初の投げ合いとなっています。\n",
+    "trimmedLead": "大リーグ、ドジャースの大谷翔平選手が27日、ロッキーズ戦に投打の二刀流で先発出場し、1回の第1打席でセンター後方へ先制の9号ソロホームランを打ちました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015133671000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015133671000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "ドジャース 大谷翔平 9号ソロホームラン 二刀流で先発出場",
+      "description": "大リーグ、ドジャースの大谷翔平選手が27日、ロッキーズ戦に投打の二刀流で先発出場し、1回の第1打席でセンター後方へ先制の9号ソロホームランを打ちました。\n\n\nロッキーズの先発は、菅野智之投手で、大谷選",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index_r.html?mrurl=https://media.vd.st.nhk/news/r/k10015133671_202605281230_202605281231/index.m3u8&mrposter=/news/html/20260528/K10015133671_2605281149_0528114937_01_02.jpg",
+      "duration": "PT47S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/r/k10015133671_202605281230_202605281231/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260528/K10015133671_2605281149_0528114937_01_02.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "ドジャース大谷翔平 死球後代打送られる あすの登板に支障なし",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015132871000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260527/K10015132871_2605271514_0527154952_01_02.jpg",
+      "datePublished": "2026-05-27T15:49:51+09:00"
+    },
+    {
+      "name": "ホワイトソックス 村上宗隆 20号ホームラン リーグ単独トップ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133651000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015133651_2605281102_0528110324_01_02.jpg",
+      "datePublished": "2026-05-28T10:58:32+09:00"
+    },
+    {
+      "name": "ブルージェイズ 岡本和真 11号勝ち越しホームランで勝利に貢献",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133601000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015133601_2605281148_0528114851_01_02.jpg",
+      "datePublished": "2026-05-28T10:30:16+09:00"
+    },
+    {
+      "name": "【プロ野球結果】5連敗中の巨人 ベテランの活躍で連敗止める",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260527/K10015133311_2605272257_0528124747_01_02.jpg",
+      "datePublished": "2026-05-27T23:54:16+09:00"
+    },
+    {
+      "name": "プロ野球 FA権での移籍に伴う「選手による補償」撤廃方針 NPB",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133121000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260527/K10015133121_2605271736_0527184702_01_02.jpg",
+      "datePublished": "2026-05-27T18:47:01+09:00"
+    },
+    {
+      "name": "「無理しすぎて…」個別トレーニングで相次ぐけが 3つの要因は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260527/K10015131851_2605272206_0527221622_01_02.jpg",
+      "datePublished": "2026-05-27T22:16:21+09:00"
+    },
+    {
+      "name": "元ヤクルト ホーナー氏が死去 68歳 日本球界に鮮烈な印象",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015132581000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260527/K10015132581_2605271057_0527111527_01_02.jpg",
+      "datePublished": "2026-05-27T16:42:30+09:00"
+    },
+    {
+      "name": "大相撲 福岡出身の嵐富士が十両昇進 “嵐を巻き起こす相撲を”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015132841000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260527/K10015132841_2605271450_0527151520_01_02.jpg",
+      "datePublished": "2026-05-27T15:15:19+09:00"
+    },
+    {
+      "name": "本田圭佑選手が語るサッカー日本代表「ビッグサプライズは…」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260525/K10015131091_2605251844_0525215208_01_02.jpg",
+      "datePublished": "2026-05-25T21:52:07+09:00"
+    },
+    {
+      "name": "FIFAワールドカップ2026【NHK特設サイト】",
+      "url": "https://nhk.jp/fifawc?cid=wc26-newsweb-awayomi",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31365091.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": true,
+    "rawHtmlFlg": false
+  }
+}

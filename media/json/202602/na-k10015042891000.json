@@ -1,0 +1,101 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015042891000",
+  "dataSourceId": "na",
+  "name": "JERA カタール国営会社からLNG購入へ27年間の長期契約",
+  "headline": "JERA カタール国営会社からLNG購入へ27年間の長期契約",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015042891000",
+    "playlistId": "news-nwa-business-nationwide-20260204",
+    "newsarticleName": "JERA カタール国営会社からLNG購入へ27年間の長期契約",
+    "playlistName": "2月4日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "日本最大の発電事業者、「JERA」は、中東・カタール国営の会社とLNG＝液化天然ガスを27年間にわたって購入する長期契約を結んだと発表しました。データセンター向けなど電力需要の増加が見込まれるなか、火",
+  "dateModified": "2026-02-04T05:22:52+09:00",
+  "datePublished": "2026-02-04T05:22:52+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260204/K10015042891_2602040043_0204052253_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260204/K10015042891_2602040043_0204052253_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "日本最大の発電事業者、「JERA」は、中東・カタール国営の会社とLNG＝液化天然ガスを27年間にわたって購入する長期契約を結んだと発表しました。データセンター向けなど電力需要の増加が見込まれるなか、火",
+  "articleBody": "日本最大の発電事業者、「JERA」は、中東・カタール国営の会社とLNG＝液化天然ガスを27年間にわたって購入する長期契約を結んだと発表しました。データセンター向けなど電力需要の増加が見込まれるなか、火力発電の燃料として安定調達につなげるねらいがあります。\n\n\n発表によりますと、日本最大の発電事業者、JERAは、中東のカタール国営の石油・ガス会社、「カタール・エナジー」とLNGの売買契約を結んだということです。\n\n再来年、2028年から27年間にわたって、毎年、日本の国内消費量の5％程度にあたるおよそ300万トンを購入するということです。調達価格は明らかにしていません。\n\nLNGは火力発電の主力の燃料で、4年前にロシアがウクライナに侵攻した際には需給がひっ迫して価格が高騰しました。\n\nさらに生成AIの普及に伴ってデータセンター向けなど電力需要の増加が見込まれるなか、安定調達が課題となっています。\n\nカタールは世界有数の天然ガス生産国で、JERAは2021年まで長期契約で年間およそ620万トンのLNGを購入していましたが、価格などの条件面で折り合わず、その後、調達量をおよそ70万トンに縮小していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "日本最大の発電事業者、「JERA」は、中東・カタール国営の会社とLNG＝液化天然ガスを27年間にわたって購入する長期契約を結んだと発表しました。データセンター向けなど電力需要の増加が見込まれるなか、火力発電の燃料として安定調達につなげるねらいがあります。\n",
+    "markedBody": "発表によりますと、日本最大の発電事業者、JERAは、中東のカタール国営の石油・ガス会社、「カタール・エナジー」とLNGの売買契約を結んだということです。\n\n再来年、2028年から27年間にわたって、毎年、日本の国内消費量の5％程度にあたるおよそ300万トンを購入するということです。調達価格は明らかにしていません。\n\nLNGは火力発電の主力の燃料で、4年前にロシアがウクライナに侵攻した際には需給がひっ迫して価格が高騰しました。\n\nさらに生成AIの普及に伴ってデータセンター向けなど電力需要の増加が見込まれるなか、安定調達が課題となっています。\n\nカタールは世界有数の天然ガス生産国で、JERAは2021年まで長期契約で年間およそ620万トンのLNGを購入していましたが、価格などの条件面で折り合わず、その後、調達量をおよそ70万トンに縮小していました。\n",
+    "trimmedLead": "日本最大の発電事業者、「JERA」は、中東・カタール国営の会社とLNG＝液化天然ガスを27年間にわたって購入する長期契約を結んだと発表しました。データセンター向けなど電力需要の増加が見込まれるなか、火力発電の燃料として安定調達につなげるねらいがあります。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015042891000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015042891000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "JERA カタール国営会社からLNG購入へ27年間の長期契約",
+      "description": "日本最大の発電事業者、「JERA」は、中東・カタール国営の会社とLNG＝液化天然ガスを27年間にわたって購入する長期契約を結んだと発表しました。データセンター向けなど電力需要の増加が見込まれるなか、火",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015042891_202602040806_202602040806/index.m3u8&mrposter=/news/html/20260204/K10015042891_2602040043_0204052253_01_02.jpg",
+      "duration": "PT1M14S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015042891_202602040806_202602040806/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260204/K10015042891_2602040043_0204052253_01_02.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

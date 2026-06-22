@@ -1,0 +1,178 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015120411000",
+  "dataSourceId": "na",
+  "name": "天皇陛下 皇居の水田で恒例の田植え",
+  "headline": "天皇陛下 皇居の水田で恒例の田植え",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015120411000",
+    "playlistId": "news-nwa-society-nationwide-20260513",
+    "newsarticleName": "天皇陛下 皇居の水田で恒例の田植え",
+    "playlistName": "5月13日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "天皇陛下は13日、皇居にある水田で恒例の田植えをされました。\n\n\n皇居での稲作は昭和天皇が農業の奨励のために始めた恒例行事で、天皇陛下は長靴を履き、午前11時におよそ240平方メートルある水田に入られ",
+  "dateModified": "2026-05-13T14:20:27+09:00",
+  "datePublished": "2026-05-13T14:20:27+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260513/K10015120411_2605131417_0513142028_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260513/K10015120411_2605131417_0513142028_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0000527",
+      "name": "皇室",
+      "display": true
+    },
+    {
+      "id": "0002420",
+      "name": "農業",
+      "display": true
+    },
+    {
+      "id": "0002613",
+      "name": "コメ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "天皇陛下は13日、皇居にある水田で恒例の田植えをされました。\n\n\n皇居での稲作は昭和天皇が農業の奨励のために始めた恒例行事で、天皇陛下は長靴を履き、午前11時におよそ240平方メートルある水田に入られ",
+  "articleBody": "天皇陛下は13日、皇居にある水田で恒例の田植えをされました。\n\n\n皇居での稲作は昭和天皇が農業の奨励のために始めた恒例行事で、天皇陛下は長靴を履き、午前11時におよそ240平方メートルある水田に入られました。\n\nそして、4月にみずから種もみをまき、10センチから15センチほどに育った、うるち米の「ニホンマサリ」と、もち米の「マンゲツモチ」の苗、合わせて20株を側近から受け取り、1株ずつ植えられました。\n\n13日の東京都心は朝からよく晴れ、天皇陛下は照りつける日ざしの中、腰を落として丁寧に取り組まれていました。\n\n秋に収穫されるコメは、11月に皇居で行われる新嘗祭（にいなめさい）などで使われることになっています。\n",
+  "detailedArticleBody": {
+    "markedLead": "天皇陛下は13日、皇居にある水田で恒例の田植えをされました。\n",
+    "markedBody": "皇居での稲作は昭和天皇が農業の奨励のために始めた恒例行事で、天皇陛下は長靴を履き、午前11時におよそ240平方メートルある水田に入られました。\n\n![](https://news.web.nhk/news/html/20260513/K10015120411_2605131417_0513142028_02_03.jpg)\n\nそして、4月にみずから種もみをまき、10センチから15センチほどに育った、うるち米の「ニホンマサリ」と、もち米の「マンゲツモチ」の苗、合わせて20株を側近から受け取り、1株ずつ植えられました。\n\n13日の東京都心は朝からよく晴れ、天皇陛下は照りつける日ざしの中、腰を落として丁寧に取り組まれていました。\n\n秋に収穫されるコメは、11月に皇居で行われる新嘗祭（にいなめさい）などで使われることになっています。\n",
+    "trimmedLead": "天皇陛下は13日、皇居にある水田で恒例の田植えをされました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015120411000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015120411000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "天皇陛下 皇居の水田で恒例の田植え",
+      "description": "天皇陛下は13日、皇居にある水田で恒例の田植えをされました。\n\n\n皇居での稲作は昭和天皇が農業の奨励のために始めた恒例行事で、天皇陛下は長靴を履き、午前11時におよそ240平方メートルある水田に入られ",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015120411_202605131503_202605131503/index.m3u8&mrposter=/news/html/20260513/K10015120411_2605131417_0513142028_01_02.jpg",
+      "duration": "PT50S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015120411_202605131503_202605131503/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260513/K10015120411_2605131417_0513142028_01_02.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "天皇皇后両陛下 6月にオランダとベルギー公式訪問が正式決定",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260512/K10015119091_2605120853_0512091351_01_02.jpg",
+      "datePublished": "2026-05-12T10:56:53+09:00"
+    },
+    {
+      "name": "パーキンソン病治療 iPS細胞使用「アムシェプリ」保険適用へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120281000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015120281_2605131248_0513132736_01_02.jpg",
+      "datePublished": "2026-05-13T15:25:34+09:00"
+    },
+    {
+      "name": "ニデック 無断で設計変更など 不適切行為の疑いを発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120301000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015120301_2605131258_0513134032_01_02.jpg",
+      "datePublished": "2026-05-13T15:15:34+09:00"
+    },
+    {
+      "name": "旧姓通称使用拡大に必要な法案 今国会の提出見送る方向 政府",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015120291_2605131333_0513134304_01_03.jpg",
+      "datePublished": "2026-05-13T13:43:03+09:00"
+    },
+    {
+      "name": "フィギュア坂本花織 引退会見 競技生活振り返り“青春だな”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120111000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015120111_2605131114_0513112407_01_02.jpg",
+      "datePublished": "2026-05-13T12:32:46+09:00"
+    },
+    {
+      "name": "あいちFGと三重の三十三FG 経営統合で基本合意を決定",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015120141_2605130937_0513140007_01_02.jpg",
+      "datePublished": "2026-05-13T14:00:06+09:00"
+    },
+    {
+      "name": "ドジャース 大谷翔平 7号ソロホームラン 53打席ぶり",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015120221_2605131219_0513122018_01_03.jpg",
+      "datePublished": "2026-05-13T12:18:09+09:00"
+    },
+    {
+      "name": "トランプ大統領 中国へ出発 経済・台湾・イランなど議論",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119961000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015119961_2605130359_0513040231_01_02.jpg",
+      "datePublished": "2026-05-13T07:42:36+09:00"
+    },
+    {
+      "name": "磐越道部活バス事故 4月から約1か月で少なくとも5件の物損事故",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119991000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015119991_2605130016_0513050926_01_03.jpg",
+      "datePublished": "2026-05-13T05:09:25+09:00"
+    },
+    {
+      "name": "金利も価格も上昇 住宅購入の注意点は？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119181000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260512/K10015119181_2605121143_0512141027_01_02.jpg",
+      "datePublished": "2026-05-12T14:10:26+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

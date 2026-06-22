@@ -1,0 +1,159 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015056151000",
+  "dataSourceId": "na",
+  "name": "能登半島地震 災害関連死 新たに7人認定 死者は718人に",
+  "headline": "能登半島地震 災害関連死 新たに7人認定 死者は718人に",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015056151000",
+    "playlistId": "news-nwa-disaster-nationwide-20260219",
+    "newsarticleName": "能登半島地震 災害関連死 新たに7人認定 死者は718人に",
+    "playlistName": "2月19日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "能登半島地震のあとに亡くなった石川県内の7人が新たに災害関連死と認定されました。これによって能登半島地震の災害関連死は490人となり、直接死も含めた死者は718人となりました。\n\n\n新たに災害関連死と",
+  "dateModified": "2026-02-19T16:06:58+09:00",
+  "datePublished": "2026-02-19T16:06:58+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260219/K10015056151_2602191600_0219160658_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260219/K10015056151_2602191600_0219160658_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002519",
+      "name": "能登半島地震",
+      "display": true
+    },
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0002217",
+      "name": "石川県",
+      "display": true
+    },
+    {
+      "id": "0002216",
+      "name": "富山県",
+      "display": true
+    },
+    {
+      "id": "0002215",
+      "name": "新潟県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "能登半島地震のあとに亡くなった石川県内の7人が新たに災害関連死と認定されました。これによって能登半島地震の災害関連死は490人となり、直接死も含めた死者は718人となりました。\n\n\n新たに災害関連死と",
+  "articleBody": "能登半島地震のあとに亡くなった石川県内の7人が新たに災害関連死と認定されました。これによって能登半島地震の災害関連死は490人となり、直接死も含めた死者は718人となりました。\n\n\n新たに災害関連死と認定されたのは、七尾市の4人と羽咋市の2人、それに能登町の1人のあわせて7人です。\n\nこのうち、能登町の80代の男性は、特別養護老人ホームで被災し、ストレスや介護環境の変化がある中で新型コロナウイルスに感染するなどして体力が低下し、亡くなったということです。\n\nこれによって能登半島地震の災害関連死は、石川県で476人、富山県で8人、それに新潟県で6人の合わせて490人となり、直接死も含めた死者は718人となりました。\n\n石川県内の自治体には、さらに220人を超える遺族から申請が出されていて、審査が進むと能登半島地震の死者は今後も増える可能性があります。\n",
+  "detailedArticleBody": {
+    "markedLead": "能登半島地震のあとに亡くなった石川県内の7人が新たに災害関連死と認定されました。これによって能登半島地震の災害関連死は490人となり、直接死も含めた死者は718人となりました。\n",
+    "markedBody": "新たに災害関連死と認定されたのは、七尾市の4人と羽咋市の2人、それに能登町の1人のあわせて7人です。\n\nこのうち、能登町の80代の男性は、特別養護老人ホームで被災し、ストレスや介護環境の変化がある中で新型コロナウイルスに感染するなどして体力が低下し、亡くなったということです。\n\nこれによって能登半島地震の災害関連死は、石川県で476人、富山県で8人、それに新潟県で6人の合わせて490人となり、直接死も含めた死者は718人となりました。\n\n石川県内の自治体には、さらに220人を超える遺族から申請が出されていて、審査が進むと能登半島地震の死者は今後も増える可能性があります。\n",
+    "trimmedLead": "能登半島地震のあとに亡くなった石川県内の7人が新たに災害関連死と認定されました。これによって能登半島地震の災害関連死は490人となり、直接死も含めた死者は718人となりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015056151000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015056151000",
+  "video": [],
+  "citation": [
+    {
+      "name": "能登半島地震から2年で奥能登地域の人口14.1％減少",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015041941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260202/K10015041941_2602022249_0202225258_01_02.jpg",
+      "datePublished": "2026-02-02T22:52:57+09:00"
+    },
+    {
+      "name": "のと共栄信用金庫に公的資金96億円投入 復興を後押し 金融庁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015055051000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260218/K10015055051_2602181337_0218143346_01_02.jpg",
+      "datePublished": "2026-02-18T17:43:55+09:00"
+    },
+    {
+      "name": "「お父さんは頑張って生きているよ」 大間圭介さんの2年",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015021681000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260109/K10015021681_2601081505_0109170807_01_02.jpg",
+      "datePublished": "2026-01-09T17:08:06+09:00"
+    },
+    {
+      "name": "ホンダ 原付き免許で運転可能な電動バイク 来月下旬から販売へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015056021000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260219/K10015056021_2602191349_0219150523_01_02.jpg",
+      "datePublished": "2026-02-19T15:05:22+09:00"
+    },
+    {
+      "name": "偽造株券証拠提出し逮捕の容疑者 8億3000万円着服疑いで再逮捕",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015055861000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260219/K10015055861_2602191149_0219150146_01_02.jpg",
+      "datePublished": "2026-02-19T15:01:45+09:00"
+    },
+    {
+      "name": "悪用の証券口座 犯罪グループに譲渡したか 28歳を逮捕 警視庁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015056041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260219/K10015056041_2602191418_0219144307_01_02.jpg",
+      "datePublished": "2026-02-19T15:53:08+09:00"
+    },
+    {
+      "name": "大手商社の40代社員 米軍横須賀基地に不法侵入か 警察が捜査へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015055891000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260219/K10015055891_2602191230_0219140330_01_03.jpg",
+      "datePublished": "2026-02-19T14:03:29+09:00"
+    },
+    {
+      "name": "日本の金メダル計5個に 過去最多の長野大会に並ぶ 冬季五輪",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015055411000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260219/K10015055411_2602181917_0219001257_01_02.jpg",
+      "datePublished": "2026-02-19T06:42:54+09:00"
+    },
+    {
+      "name": "冬季五輪初のメダリスト 猪谷千春さん イタリアで70年ぶり再会",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015055731000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260219/K10015055731_2602191009_0219104513_01_02.jpg",
+      "datePublished": "2026-02-19T10:45:12+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

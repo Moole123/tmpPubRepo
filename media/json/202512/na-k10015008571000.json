@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015008571000",
+  "dataSourceId": "na",
+  "name": "12月の月例経済報告「緩やかに回復」基調判断 4か月連続で維持",
+  "headline": "12月の月例経済報告「緩やかに回復」基調判断 4か月連続で維持",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015008571000",
+    "playlistId": "news-nwa-business-nationwide-20251219",
+    "newsarticleName": "12月の月例経済報告「緩やかに回復」基調判断 4か月連続で維持",
+    "playlistName": "12月19日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "政府は12月の月例経済報告で、景気の現状について「アメリカの通商政策による影響が自動車産業を中心にみられるものの、緩やかに回復している」として基調判断を4か月連続で維持しました。\n\n\n個別の項目では\n",
+  "dateModified": "2025-12-19T18:06:55+09:00",
+  "datePublished": "2025-12-19T18:06:55+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251219/K10015008571_2512191733_1219180656_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251219/K10015008571_2512191733_1219180656_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "政府は12月の月例経済報告で、景気の現状について「アメリカの通商政策による影響が自動車産業を中心にみられるものの、緩やかに回復している」として基調判断を4か月連続で維持しました。\n\n\n個別の項目では\n",
+  "articleBody": "政府は12月の月例経済報告で、景気の現状について「アメリカの通商政策による影響が自動車産業を中心にみられるものの、緩やかに回復している」として基調判断を4か月連続で維持しました。\n\n\n個別の項目では\n▽「公共投資」は、公共工事の発注が一服しているとして、「堅調に推移している」から「底堅く推移している」に13か月ぶりに下方修正しました。\n\nまた、「輸出」は、ことし9月に関税率が引き下げられたアメリカ向けの自動車で\n▽輸出台数は関税措置の前の水準に戻っている一方、\n▽輸出価格は依然として低い水準にあることから、「おおむね横ばいとなっている」と、6か月連続で同じ判断としています。\n",
+  "detailedArticleBody": {
+    "markedLead": "政府は12月の月例経済報告で、景気の現状について「アメリカの通商政策による影響が自動車産業を中心にみられるものの、緩やかに回復している」として基調判断を4か月連続で維持しました。\n",
+    "markedBody": "個別の項目では\\\n▽「公共投資」は、公共工事の発注が一服しているとして、「堅調に推移している」から「底堅く推移している」に13か月ぶりに下方修正しました。\n\nまた、「輸出」は、ことし9月に関税率が引き下げられたアメリカ向けの自動車で\\\n▽輸出台数は関税措置の前の水準に戻っている一方、\\\n▽輸出価格は依然として低い水準にあることから、「おおむね横ばいとなっている」と、6か月連続で同じ判断としています。\n",
+    "trimmedLead": "政府は12月の月例経済報告で、景気の現状について「アメリカの通商政策による影響が自動車産業を中心にみられるものの、緩やかに回復している」として基調判断を4か月連続で維持しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015008571000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015008571000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

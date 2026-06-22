@@ -1,0 +1,151 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015085081000",
+  "dataSourceId": "na",
+  "name": "沖電気と日立 ATM事業の統合発表",
+  "headline": "沖電気と日立 ATM事業の統合発表",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015085081000",
+    "playlistId": "news-nwa-business-nationwide-20260326",
+    "newsarticleName": "沖電気と日立 ATM事業の統合発表",
+    "playlistName": "3月26日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "沖電気工業と日立製作所は、ATM事業を統合すると発表しました。キャッシュレス化を背景にATMの設置台数が減少傾向にある中、両社は、統合によって事業の効率化を進めることで、新たなサービスの開発につなげる",
+  "dateModified": "2026-03-26T22:44:06+09:00",
+  "datePublished": "2026-03-26T22:44:06+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260326/K10015085081_2603262240_0326224407_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260326/K10015085081_2603262240_0326224407_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0002733",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "沖電気工業と日立製作所は、ATM事業を統合すると発表しました。キャッシュレス化を背景にATMの設置台数が減少傾向にある中、両社は、統合によって事業の効率化を進めることで、新たなサービスの開発につなげる",
+  "articleBody": "沖電気工業と日立製作所は、ATM事業を統合すると発表しました。キャッシュレス化を背景にATMの設置台数が減少傾向にある中、両社は、統合によって事業の効率化を進めることで、新たなサービスの開発につなげるとしています。\n\n\n発表によりますと沖電気工業と日立製作所はATMの事業を統合します。\n\n日立製作所の子会社に沖電気工業の事業を承継したうえで、両社がこの会社に出資し、ことし10月の事業の開始を目指します。\n\nキャッシュレス化を背景に、ATMの設置台数は、減少傾向が続いていて、全国銀行協会によりますと、ゆうちょ銀行や流通系の銀行を除き、大手銀行や地方銀行などが設置している台数は、おととし9月末の時点で8万3000台あまりと、最も多かった1999年時点と比べて、およそ3万5000台減少しています。\n\nその一方で、QRコード決済との連携といった新たな投資も求められていて、両社は、統合によって事業の効率化を進めることで、新たなサービスの開発につなげたいとしています。\n\nATMの事業をめぐっては、大手メーカーの富士通が2028年3月末で提供を終えると発表していて、今回の統合によって、国内の生産体制は大きく再編されることになります。\n",
+  "detailedArticleBody": {
+    "markedLead": "沖電気工業と日立製作所は、ATM事業を統合すると発表しました。キャッシュレス化を背景にATMの設置台数が減少傾向にある中、両社は、統合によって事業の効率化を進めることで、新たなサービスの開発につなげるとしています。\n",
+    "markedBody": "発表によりますと沖電気工業と日立製作所はATMの事業を統合します。\n\n日立製作所の子会社に沖電気工業の事業を承継したうえで、両社がこの会社に出資し、ことし10月の事業の開始を目指します。\n\nキャッシュレス化を背景に、ATMの設置台数は、減少傾向が続いていて、全国銀行協会によりますと、ゆうちょ銀行や流通系の銀行を除き、大手銀行や地方銀行などが設置している台数は、おととし9月末の時点で8万3000台あまりと、最も多かった1999年時点と比べて、およそ3万5000台減少しています。\n\nその一方で、QRコード決済との連携といった新たな投資も求められていて、両社は、統合によって事業の効率化を進めることで、新たなサービスの開発につなげたいとしています。\n\nATMの事業をめぐっては、大手メーカーの富士通が2028年3月末で提供を終えると発表していて、今回の統合によって、国内の生産体制は大きく再編されることになります。\n",
+    "trimmedLead": "沖電気工業と日立製作所は、ATM事業を統合すると発表しました。キャッシュレス化を背景にATMの設置台数が減少傾向にある中、両社は、統合によって事業の効率化を進めることで、新たなサービスの開発につなげるとしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015085081000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015085081000",
+  "video": [],
+  "citation": [
+    {
+      "name": "暫定予算案提出も引き続き新年度予算案の年度内成立目指す",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015084431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260326/K10015084431_2603261531_0326183908_01_02.jpg",
+      "datePublished": "2026-03-26T19:23:57+09:00"
+    },
+    {
+      "name": "アメリカとイランの主張 食い違い続く 先行き なお不透明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015084361000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260326/K10015084361_2603261820_0326185522_01_02.jpg",
+      "datePublished": "2026-03-26T18:55:21+09:00"
+    },
+    {
+      "name": "石油の「国家備蓄」放出始まる 原油輸送 代替ルート探る動きも",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015084541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260326/K10015084541_2603261137_0326114145_01_02.jpg",
+      "datePublished": "2026-03-26T18:04:01+09:00"
+    },
+    {
+      "name": "バスの燃料調達入札 全国の10の自治体で成立せず 価格高騰で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015084781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260326/K10015084781_2603261846_0326184739_01_02.jpg",
+      "datePublished": "2026-03-26T18:33:23+09:00"
+    },
+    {
+      "name": "将棋「王将戦」最終局 藤井六冠が永瀬九段に勝ちタイトル5連覇",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015084791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260326/K10015084791_2603261701_0326171354_01_02.jpg",
+      "datePublished": "2026-03-26T18:42:07+09:00"
+    },
+    {
+      "name": "北海道新幹線 開業から10年 札幌への延伸計画 大幅に遅れる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015084221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260326/K10015084221_2603261617_0326164615_01_03.jpg",
+      "datePublished": "2026-03-26T19:29:46+09:00"
+    },
+    {
+      "name": "ローム 東芝 三菱電機 パワー半導体の事業で統合交渉へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015084961000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260326/K10015084961_2603261841_0326184949_01_02.jpg",
+      "datePublished": "2026-03-26T18:49:48+09:00"
+    },
+    {
+      "name": "北海道 旭川 いじめ訴訟 和解成立 市が7000万円支払いへ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015084821000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260326/K10015084821_2603261722_0326174836_01_02.jpg",
+      "datePublished": "2026-03-26T17:48:35+09:00"
+    },
+    {
+      "name": "ことしのマンガ大賞 児島青さんの「本なら売るほど」選ばれる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015084831000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260326/K10015084831_2603261734_0326180600_01_02.jpg",
+      "datePublished": "2026-03-26T18:05:59+09:00"
+    },
+    {
+      "name": "古い蛍光灯器具にLED 発火のおそれ 適切な方法で交換を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015084461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260326/K10015084461_2603261526_0326163928_01_02.jpg",
+      "datePublished": "2026-03-26T17:55:42+09:00"
+    },
+    {
+      "name": "トランプ大統領 5月14日と15日に中国訪問 習主席と会談へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015084331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260326/K10015084331_2603260301_0326031238_01_02.jpg",
+      "datePublished": "2026-03-26T17:54:04+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015044821000",
+  "dataSourceId": "na",
+  "name": "株価 値上がり 値下がりした銘柄を買い戻す動き",
+  "headline": "株価 値上がり 値下がりした銘柄を買い戻す動き",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015044821000",
+    "playlistId": "news-nwa-business-nationwide-20260206",
+    "newsarticleName": "株価 値上がり 値下がりした銘柄を買い戻す動き",
+    "playlistName": "2月6日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "6日の東京株式市場、このところ値下がりした銘柄を買い戻す動きが出て、株価は値上がりしました。\n\n\n▽日経平均株価、6日の終値は5日と比べて435円64銭高い5万4253円68銭。\n\n▽東証株価指数＝ト",
+  "dateModified": "2026-02-06T16:17:51+09:00",
+  "datePublished": "2026-02-06T12:26:09+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260206/K10015044821_2602061559_0206161752_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260206/K10015044821_2602061559_0206161752_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0002421",
+      "name": "半導体",
+      "display": true
+    },
+    {
+      "id": "0002582",
+      "name": "衆議院選挙",
+      "display": true
+    },
+    {
+      "id": "0000304",
+      "name": "選挙",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "6日の東京株式市場、このところ値下がりした銘柄を買い戻す動きが出て、株価は値上がりしました。\n\n\n▽日経平均株価、6日の終値は5日と比べて435円64銭高い5万4253円68銭。\n\n▽東証株価指数＝ト",
+  "articleBody": "6日の東京株式市場、このところ値下がりした銘柄を買い戻す動きが出て、株価は値上がりしました。\n\n\n▽日経平均株価、6日の終値は5日と比べて435円64銭高い5万4253円68銭。\n\n▽東証株価指数＝トピックスは46.59上がって3699.00。\n\n▽一日の出来高は28億544万株でした。\n\n市場関係者は「午前に続いて午後もこのところ値下がりしていた半導体関連の銘柄などに買い注文が入り、株価を押し上げた。あさって投票が行われる衆議院選挙で各党の獲得議席がどうなるか、投資家の関心が高まっている」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "6日の東京株式市場、このところ値下がりした銘柄を買い戻す動きが出て、株価は値上がりしました。\n",
+    "markedBody": "▽日経平均株価、6日の終値は5日と比べて435円64銭高い5万4253円68銭。\n\n▽東証株価指数＝トピックスは46.59上がって3699.00。\n\n▽一日の出来高は28億544万株でした。\n\n市場関係者は「午前に続いて午後もこのところ値下がりしていた半導体関連の銘柄などに買い注文が入り、株価を押し上げた。あさって投票が行われる衆議院選挙で各党の獲得議席がどうなるか、投資家の関心が高まっている」と話していました。\n",
+    "trimmedLead": "6日の東京株式市場、このところ値下がりした銘柄を買い戻す動きが出て、株価は値上がりしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015044821000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015044821000",
+  "video": [],
+  "citation": [
+    {
+      "name": "NYダウ 590ドル余り値下がり 雇用情勢の減速への警戒感から",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015044661000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260206/K10015044661_2602060811_0206082057_01_02.jpg",
+      "datePublished": "2026-02-06T08:20:56+09:00"
+    },
+    {
+      "name": "12月の景気動向指数 前月比0.4ポイント低下 基調判断据え置き",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015044991000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260206/K10015044991_2602061548_0206155203_01_02.jpg",
+      "datePublished": "2026-02-06T15:52:03+09:00"
+    },
+    {
+      "name": "アマゾン 3か月決算で増収増益 クラウドなど主力事業が好調",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015044471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260206/K10015044471_2602052110_0206090244_01_02.jpg",
+      "datePublished": "2026-02-06T11:02:08+09:00"
+    },
+    {
+      "name": "エンゲル係数44年ぶりの高水準 食料品値上がり背景に 家計調査",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015044651000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260206/K10015044651_2602061347_0206140643_01_03.jpg",
+      "datePublished": "2026-02-06T14:06:42+09:00"
+    },
+    {
+      "name": "北海道で猛吹雪 7日から日本海側中心に大雪 太平洋側で積雪も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015044601000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260206/K10015044601_2602061807_0206194859_01_03.jpg",
+      "datePublished": "2026-02-06T23:33:49+09:00"
+    },
+    {
+      "name": "柏崎刈羽原発6号機 9日に再起動と発表 営業運転は来月18日開始",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015044721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260206/K10015044721_2602061020_0206114250_01_02.jpg",
+      "datePublished": "2026-02-06T15:47:39+09:00"
+    },
+    {
+      "name": "ミラノ・コルティナ五輪開幕へ 現地の様子は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015044561000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260206/K10015044561_2602060525_0206061801_01_02.jpg",
+      "datePublished": "2026-02-06T18:09:53+09:00"
+    },
+    {
+      "name": "スノーボード 男子ビッグエア予選 日本勢全員が決勝進出",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015044631000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260206/K10015044631_2602060745_0206075844_01_02.jpg",
+      "datePublished": "2026-02-06T08:37:52+09:00"
+    },
+    {
+      "name": "衆議院選挙 街頭演説あすまで 党首らは接戦とみる選挙区などへ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015044401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260206/K10015044401_2602052043_0206051723_01_02.jpg",
+      "datePublished": "2026-02-06T05:50:37+09:00"
+    },
+    {
+      "name": "記録的積雪 死亡事故も相次ぐ 命を守るポイントは？【詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015041701000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260202/K10015041701_2602021615_0202195438_01_02.jpg",
+      "datePublished": "2026-02-02T19:54:38+09:00"
+    },
+    {
+      "name": "衆院選 ボートマッチ 候補者・政党とのマッチング",
+      "url": "https://news.web.nhk/senkyo/database/shugiin/2026/votematch/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30757107.jpg"
+    },
+    {
+      "name": "選挙とフェイク情報 SNS投稿分析で見えてきた「パターン」とは",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014834281000",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30770703.jpg"
+    },
+    {
+      "name": "【最新ニュースまとめて】ミラノ・コルティナ オリンピック",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002451",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30750181.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

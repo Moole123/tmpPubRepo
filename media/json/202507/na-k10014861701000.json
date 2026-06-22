@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014861701000",
+  "dataSourceId": "na",
+  "name": "千葉 鴨川 海岸で男子中学生1人不明 溺れたとみて捜索",
+  "headline": "千葉 鴨川 海岸で男子中学生1人不明 溺れたとみて捜索",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014861701000",
+    "playlistId": "news-nwa-society-nationwide-20250712",
+    "newsarticleName": "千葉 鴨川 海岸で男子中学生1人不明 溺れたとみて捜索",
+    "playlistName": "7月12日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "12日夕方、千葉県鴨川市の海岸で遊んでいた男子中学生1人の行方がわからなくなり、警察や海上保安署などは海で溺れたとみて捜索しています。\n\n\n警察や消防によりますと、12日午後4時半すぎ、千葉県鴨川市横",
+  "dateModified": "2025-07-12T20:50:59+09:00",
+  "datePublished": "2025-07-12T19:45:01+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250712/K10014861701_2507121934_0712205424_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250712/K10014861701_2507121934_0712205424_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "12日夕方、千葉県鴨川市の海岸で遊んでいた男子中学生1人の行方がわからなくなり、警察や海上保安署などは海で溺れたとみて捜索しています。\n\n\n警察や消防によりますと、12日午後4時半すぎ、千葉県鴨川市横",
+  "articleBody": "12日夕方、千葉県鴨川市の海岸で遊んでいた男子中学生1人の行方がわからなくなり、警察や海上保安署などは海で溺れたとみて捜索しています。\n\n\n警察や消防によりますと、12日午後4時半すぎ、千葉県鴨川市横渚の海岸で「若い男性が沖合に流されて、見えなくなった」と通りかかった人から消防に通報がありました。\n\n海上保安署によりますと、行方がわからなくなったのは、市内在住で12歳の中学1年の男子で、6人の友人たちと砂浜で遊んでいましたが、友人が気づいた時には沖合に流されていたということです。\n\n消防によりますと、この海岸は海水浴場として今月20日に海開きを予定していて、12日は海開き前で監視員はいなかったということです。\n\n警察や海上保安署などは男子中学生が海で溺れたとみて行方を捜索しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "12日夕方、千葉県鴨川市の海岸で遊んでいた男子中学生1人の行方がわからなくなり、警察や海上保安署などは海で溺れたとみて捜索しています。\n",
+    "markedBody": "警察や消防によりますと、12日午後4時半すぎ、千葉県鴨川市横渚の海岸で「若い男性が沖合に流されて、見えなくなった」と通りかかった人から消防に通報がありました。\n\n海上保安署によりますと、行方がわからなくなったのは、市内在住で12歳の中学1年の男子で、6人の友人たちと砂浜で遊んでいましたが、友人が気づいた時には沖合に流されていたということです。\n\n消防によりますと、この海岸は海水浴場として今月20日に海開きを予定していて、12日は海開き前で監視員はいなかったということです。\n\n警察や海上保安署などは男子中学生が海で溺れたとみて行方を捜索しています。\n",
+    "trimmedLead": "12日夕方、千葉県鴨川市の海岸で遊んでいた男子中学生1人の行方がわからなくなり、警察や海上保安署などは海で溺れたとみて捜索しています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014861701000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014861701000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

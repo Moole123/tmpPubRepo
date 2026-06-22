@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015126551000",
+  "dataSourceId": "na",
+  "name": "広島 宮島 “きえずの火”守り続ける寺院の建物全焼",
+  "headline": "広島 宮島 “きえずの火”守り続ける寺院の建物全焼",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015126551000",
+    "playlistId": "news-nwa-society-nationwide-20260520",
+    "newsarticleName": "広島 宮島 “きえずの火”守り続ける寺院の建物全焼",
+    "playlistName": "5月20日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "20日午前、広島県廿日市市の宮島の山頂付近にある寺院の建物が全焼する火事がありました。けがをした人はいませんでした。建物は「霊火堂」と呼ばれ、1200年以上前に弘法大師 空海が修行した際の火を「きえず",
+  "dateModified": "2026-05-20T14:45:00+09:00",
+  "datePublished": "2026-05-20T14:45:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260520/K10015126551_2605201341_0520144501_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260520/K10015126551_2605201341_0520144501_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002689",
+      "name": "火災",
+      "display": true
+    },
+    {
+      "id": "0002234",
+      "name": "広島県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "20日午前、広島県廿日市市の宮島の山頂付近にある寺院の建物が全焼する火事がありました。けがをした人はいませんでした。建物は「霊火堂」と呼ばれ、1200年以上前に弘法大師 空海が修行した際の火を「きえず",
+  "articleBody": "20日午前、広島県廿日市市の宮島の山頂付近にある寺院の建物が全焼する火事がありました。けがをした人はいませんでした。建物は「霊火堂」と呼ばれ、1200年以上前に弘法大師 空海が修行した際の火を「きえずの火」として絶やさずに守り続けているとされています。\n\n\n20日午前8時半ごろ、廿日市市の宮島にある弥山の山頂付近で、「大聖院」の「霊火堂」と呼ばれる建物が焼けていると寺院の関係者から消防に通報がありました。\n\n火はおよそ2時間後にほぼ消し止められましたが、消防によりますと、この建物が全焼したということです。\n\nけがをした人はいませんでした。\n\n寺院によりますと、「霊火堂」では、弘法大師 空海が1200年以上前の西暦806年に修行した際の火を「きえずの火」として絶やさずに守り続けているとされています。\n\nこの影響で、市は午前9時半ごろから観光客などに対して弥山への入山を控えるよう呼びかけていて、山頂付近につながる「宮島ロープウエー」は運行を休止しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "20日午前、広島県廿日市市の宮島の山頂付近にある寺院の建物が全焼する火事がありました。けがをした人はいませんでした。建物は「霊火堂」と呼ばれ、1200年以上前に弘法大師 空海が修行した際の火を「きえずの火」として絶やさずに守り続けているとされています。\n",
+    "markedBody": "20日午前8時半ごろ、廿日市市の宮島にある弥山の山頂付近で、「大聖院」の「霊火堂」と呼ばれる建物が焼けていると寺院の関係者から消防に通報がありました。\n\n火はおよそ2時間後にほぼ消し止められましたが、消防によりますと、この建物が全焼したということです。\n\nけがをした人はいませんでした。\n\n寺院によりますと、「霊火堂」では、弘法大師 空海が1200年以上前の西暦806年に修行した際の火を「きえずの火」として絶やさずに守り続けているとされています。\n\nこの影響で、市は午前9時半ごろから観光客などに対して弥山への入山を控えるよう呼びかけていて、山頂付近につながる「宮島ロープウエー」は運行を休止しています。\n",
+    "trimmedLead": "20日午前、広島県廿日市市の宮島の山頂付近にある寺院の建物が全焼する火事がありました。けがをした人はいませんでした。建物は「霊火堂」と呼ばれ、1200年以上前に弘法大師 空海が修行した際の火を「きえずの火」として絶やさずに守り続けているとされています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015126551000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015126551000",
+  "video": [],
+  "citation": [
+    {
+      "name": "【地震情報】鹿児島 奄美地方で震度5強 “1週間程度 注意を”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015124331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260520/K10015124331_2605201152_0520115402_01_02.jpg",
+      "datePublished": "2026-05-20T15:34:44+09:00"
+    },
+    {
+      "name": "【鹿児島 震度5強】気象庁「1週間程度 注意を」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015126431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260520/K10015126431_2605201313_0520132320_01_03.jpg",
+      "datePublished": "2026-05-20T13:46:51+09:00"
+    },
+    {
+      "name": "「防災庁」設置法案 参議院で22日審議入りへ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015126311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260520/K10015126311_2605201122_0520140535_01_02.jpg",
+      "datePublished": "2026-05-20T14:05:34+09:00"
+    },
+    {
+      "name": "津市の山林火災 鎮火めどたたず自衛隊ヘリからも放水開始",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015126071000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260520/K10015126071_2605200747_0520084105_01_02.jpg",
+      "datePublished": "2026-05-20T08:41:04+09:00"
+    },
+    {
+      "name": "栃木強盗殺人事件 住宅に人がいる前提で準備進め襲撃か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015126091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260520/K10015126091_2605200019_0520062950_01_03.jpg",
+      "datePublished": "2026-05-20T06:29:50+09:00"
+    },
+    {
+      "name": "中ロ首脳会談 両国の連携確認し国際社会に結束誇示か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015126001000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260520/K10015126001_2605201253_0520130817_01_03.jpg",
+      "datePublished": "2026-05-20T15:31:24+09:00"
+    },
+    {
+      "name": "兵庫 母娘死亡の住宅で現場検証続く 窓ガラス割れた形跡なし",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015126061000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260520/K10015126061_2605201212_0520123115_01_03.jpg",
+      "datePublished": "2026-05-20T12:15:53+09:00"
+    },
+    {
+      "name": "栃木強盗殺人事件 逮捕の夫婦 実行役に高速SAで役割分担指示か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015126361000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260520/K10015126361_2605201148_0520122153_01_02.jpg",
+      "datePublished": "2026-05-20T12:21:52+09:00"
+    },
+    {
+      "name": "郵便回収業務の入札で収賄か 日本郵便の元社員逮捕 警視庁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015126291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260520/K10015126291_2605201101_0520113050_01_02.jpg",
+      "datePublished": "2026-05-20T11:33:13+09:00"
+    },
+    {
+      "name": "中国 上海で傷害事件 日本人2人けが 安全確保呼びかけ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015126171000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260520/K10015126171_2605200252_0520050949_01_02.jpg",
+      "datePublished": "2026-05-20T13:09:21+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

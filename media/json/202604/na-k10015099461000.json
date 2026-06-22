@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015099461000",
+  "dataSourceId": "na",
+  "name": "東京23区 武蔵野 三鷹のタクシー運賃 20日から値上げ",
+  "headline": "東京23区 武蔵野 三鷹のタクシー運賃 20日から値上げ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015099461000",
+    "playlistId": "news-nwa-business-nationwide-20260415",
+    "newsarticleName": "東京23区 武蔵野 三鷹のタクシー運賃 20日から値上げ",
+    "playlistName": "4月15日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "東京23区のタクシー運賃が今月20日から値上げされます。初乗り運賃は据え置かれるものの、距離に応じて加算される運賃などが値上げされます。\n\n\nタクシー運賃が値上げされる対象地域は、東京23区と武蔵野市",
+  "dateModified": "2026-04-15T05:15:15+09:00",
+  "datePublished": "2026-04-15T05:15:15+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260415/K10015099461_2604142128_0415051515_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260415/K10015099461_2604142128_0415051515_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0002213",
+      "name": "東京都",
+      "display": true
+    },
+    {
+      "id": "0002683",
+      "name": "交通・インフラ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "東京23区のタクシー運賃が今月20日から値上げされます。初乗り運賃は据え置かれるものの、距離に応じて加算される運賃などが値上げされます。\n\n\nタクシー運賃が値上げされる対象地域は、東京23区と武蔵野市",
+  "articleBody": "東京23区のタクシー運賃が今月20日から値上げされます。初乗り運賃は据え置かれるものの、距離に応じて加算される運賃などが値上げされます。\n\n\nタクシー運賃が値上げされる対象地域は、東京23区と武蔵野市、三鷹市で、今月20日に出庫する車両から実施されます。\n\n普通車の場合、初乗り運賃の上限額500円は据え置かれるものの、適用される距離が今の1.096キロから1キロへと短くなります。\n\nまた、走行距離に応じて加算される運賃も変わり、今は255メートルごとに100円上がりますが、20日からは232メートルごとに100円上がることになります。\n\n各タクシー会社が燃料費の上昇や運転手の賃上げに対応するためで、去年7月以降、手続きが進められていました。この地域のタクシー運賃の値上げは2022年11月以来です。\n\nタクシー運賃の値上げは先月には東京の多摩地区や埼玉県、千葉県といった首都圏の各地域のほか、山形県などでも実施され、全国的に広がっています。\n",
+  "detailedArticleBody": {
+    "markedLead": "東京23区のタクシー運賃が今月20日から値上げされます。初乗り運賃は据え置かれるものの、距離に応じて加算される運賃などが値上げされます。\n",
+    "markedBody": "タクシー運賃が値上げされる対象地域は、東京23区と武蔵野市、三鷹市で、今月20日に出庫する車両から実施されます。\n\n普通車の場合、初乗り運賃の上限額500円は据え置かれるものの、適用される距離が今の1.096キロから1キロへと短くなります。\n\nまた、走行距離に応じて加算される運賃も変わり、今は255メートルごとに100円上がりますが、20日からは232メートルごとに100円上がることになります。\n\n各タクシー会社が燃料費の上昇や運転手の賃上げに対応するためで、去年7月以降、手続きが進められていました。この地域のタクシー運賃の値上げは2022年11月以来です。\n\nタクシー運賃の値上げは先月には東京の多摩地区や埼玉県、千葉県といった首都圏の各地域のほか、山形県などでも実施され、全国的に広がっています。\n",
+    "trimmedLead": "東京23区のタクシー運賃が今月20日から値上げされます。初乗り運賃は据え置かれるものの、距離に応じて加算される運賃などが値上げされます。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015099461000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015099461000",
+  "video": [],
+  "citation": [
+    {
+      "name": "札幌 路線バスの運転手不足が深刻化 海外で人材募集し育成へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015099051000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260414/K10015099051_2604141528_0414173916_01_02.jpg",
+      "datePublished": "2026-04-14T17:39:16+09:00"
+    },
+    {
+      "name": "モバイルバッテリー 今月24日から航空機内での使用禁止に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015098851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260414/K10015098851_2604141124_0414132252_01_02.jpg",
+      "datePublished": "2026-04-14T17:16:57+09:00"
+    },
+    {
+      "name": "【詳細】京都 南丹 遺体は男児と発表 死因不詳 死亡は先月下旬",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015099321000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260414/K10015099321_2604141956_0414200940_01_03.jpg",
+      "datePublished": "2026-04-14T20:09:39+09:00"
+    },
+    {
+      "name": "京都 遺体に隠されたような形跡なし 警察が身元の特定進める",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015098611000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260414/K10015098611_2604141656_0414170129_01_02.jpg",
+      "datePublished": "2026-04-14T17:52:19+09:00"
+    },
+    {
+      "name": "米のホルムズ海峡封鎖でイラン反発 次の対面協議めぐる報道も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015098791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260414/K10015098791_2604141127_0414115533_01_02.jpg",
+      "datePublished": "2026-04-14T19:26:28+09:00"
+    },
+    {
+      "name": "【詳しく】熊本地震の前震から10年 「ずっと見守っていて」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015098731000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260414/K10015098731_2604141215_0414123154_01_03.jpg",
+      "datePublished": "2026-04-14T19:44:33+09:00"
+    },
+    {
+      "name": "熊本地震 最初の震度7から10年 災害関連死は今も課題に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015098471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260414/K10015098471_2604132054_0414050234_01_02.jpg",
+      "datePublished": "2026-04-14T11:05:20+09:00"
+    },
+    {
+      "name": "トランプ関税から1年 自由貿易の試練",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015099001000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260414/K10015099001_2604141245_0414172430_01_02.jpg",
+      "datePublished": "2026-04-14T17:24:29+09:00"
+    },
+    {
+      "name": "長期金利上昇 “背景は27年前と異なる” 専門家",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015098641000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260414/K10015098641_2604132220_0414053036_01_02.jpg",
+      "datePublished": "2026-04-14T05:30:35+09:00"
+    },
+    {
+      "name": "中国大使館侵入事件 自衛官「夢で神のお告げ聞いた」供述",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015098871000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260414/K10015098871_2604141133_0414115224_01_02.jpg",
+      "datePublished": "2026-04-14T17:15:26+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

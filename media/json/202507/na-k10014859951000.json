@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014859951000",
+  "dataSourceId": "na",
+  "name": "東京 目黒川の氾濫危険情報 解除",
+  "headline": "東京 目黒川の氾濫危険情報 解除",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014859951000",
+    "playlistId": "news-nwa-disaster-nationwide-20250710",
+    "newsarticleName": "東京 目黒川の氾濫危険情報 解除",
+    "playlistName": "7月10日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "大雨の影響で、東京・品川区と目黒区を流れる目黒川は、目黒区で一時、氾濫危険水位を超え、東京都と気象庁が氾濫危険情報を出していましたが、その後水位が下がり、氾濫のおそれがなくなったとして午後8時45分に",
+  "dateModified": "2025-07-10T20:54:06+09:00",
+  "datePublished": "2025-07-10T20:54:06+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250710/K10014859951_2507102051_0710205253_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250710/K10014859951_2507102051_0710205253_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "大雨の影響で、東京・品川区と目黒区を流れる目黒川は、目黒区で一時、氾濫危険水位を超え、東京都と気象庁が氾濫危険情報を出していましたが、その後水位が下がり、氾濫のおそれがなくなったとして午後8時45分に",
+  "articleBody": "大雨の影響で、東京・品川区と目黒区を流れる目黒川は、目黒区で一時、氾濫危険水位を超え、東京都と気象庁が氾濫危険情報を出していましたが、その後水位が下がり、氾濫のおそれがなくなったとして午後8時45分に解除しました。\n\n\n東京 目黒川が氾濫危険水位に（19:17）\n",
+  "detailedArticleBody": {
+    "markedLead": "大雨の影響で、東京・品川区と目黒区を流れる目黒川は、目黒区で一時、氾濫危険水位を超え、東京都と気象庁が氾濫危険情報を出していましたが、その後水位が下がり、氾濫のおそれがなくなったとして午後8時45分に解除しました。\n",
+    "markedBody": ":::nw--link-type6 {href=https://news.web.nhk/news/html/20250710/k10014859771000.html}\n**東京 目黒川が氾濫危険水位に（19:17）**\n:::\n",
+    "trimmedLead": "大雨の影響で、東京・品川区と目黒区を流れる目黒川は、目黒区で一時、氾濫危険水位を超え、東京都と気象庁が氾濫危険情報を出していましたが、その後水位が下がり、氾濫のおそれがなくなったとして午後8時45分に解除しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014859951000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014859951000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015120121000",
+  "dataSourceId": "na",
+  "name": "長期金利2.6％まで上昇 約29年ぶりの高水準",
+  "headline": "長期金利2.6％まで上昇 約29年ぶりの高水準",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015120121000",
+    "playlistId": "news-nwa-business-nationwide-20260513",
+    "newsarticleName": "長期金利2.6％まで上昇 約29年ぶりの高水準",
+    "playlistName": "5月13日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "13日の債券市場では長期金利が上昇し、代表的な指標である10年ものの国債の利回りが2.6％まで上昇しました。日本相互証券によりますと、およそ29年ぶりの高い水準です。\n\n\n13日の債券市場では朝方から",
+  "dateModified": "2026-05-13T11:04:20+09:00",
+  "datePublished": "2026-05-13T09:16:43+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260513/K10015120121_2605130931_0513093355_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260513/K10015120121_2605130931_0513093355_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0002760",
+      "name": "金利",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "13日の債券市場では長期金利が上昇し、代表的な指標である10年ものの国債の利回りが2.6％まで上昇しました。日本相互証券によりますと、およそ29年ぶりの高い水準です。\n\n\n13日の債券市場では朝方から",
+  "articleBody": "13日の債券市場では長期金利が上昇し、代表的な指標である10年ものの国債の利回りが2.6％まで上昇しました。日本相互証券によりますと、およそ29年ぶりの高い水準です。\n\n\n13日の債券市場では朝方から国債を売る動きが進み、長期金利の代表的な指標である10年ものの国債の利回りは、2.6％まで上昇しました。\n\n日本相互証券によりますと、1997年6月以来、およそ29年ぶりの高い水準です。\n\nアメリカとイランの戦闘終結に向けた協議の先行きに不透明感が増す中、原油の先物価格が1バレル＝100ドルを上回る水準で推移していて、国内の物価上昇につながるのではないかという見方が強まっていることが背景です。\n\n市場関係者は、「日本時間の12日夜に発表されたアメリカの消費者物価指数の結果をきっかけに、『利下げが遠のいた』という見方から、アメリカでも長期金利が上昇しており、これが日本の市場に影響を及ぼしている側面もある」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "13日の債券市場では長期金利が上昇し、代表的な指標である10年ものの国債の利回りが2.6％まで上昇しました。日本相互証券によりますと、およそ29年ぶりの高い水準です。\n",
+    "markedBody": "13日の債券市場では朝方から国債を売る動きが進み、長期金利の代表的な指標である10年ものの国債の利回りは、2.6％まで上昇しました。\n\n日本相互証券によりますと、1997年6月以来、およそ29年ぶりの高い水準です。\n\nアメリカとイランの戦闘終結に向けた協議の先行きに不透明感が増す中、原油の先物価格が1バレル＝100ドルを上回る水準で推移していて、国内の物価上昇につながるのではないかという見方が強まっていることが背景です。\n\n市場関係者は、「日本時間の12日夜に発表されたアメリカの消費者物価指数の結果をきっかけに、『利下げが遠のいた』という見方から、アメリカでも長期金利が上昇しており、これが日本の市場に影響を及ぼしている側面もある」と話しています。\n",
+    "trimmedLead": "13日の債券市場では長期金利が上昇し、代表的な指標である10年ものの国債の利回りが2.6％まで上昇しました。日本相互証券によりますと、およそ29年ぶりの高い水準です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015120121000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015120121000",
+  "video": [],
+  "citation": [
+    {
+      "name": "高市首相 原油代替調達“来月7割以上確保”今月は備蓄放出せず",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119701000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260512/K10015119701_2605121938_0512195832_01_02.jpg",
+      "datePublished": "2026-05-12T22:36:50+09:00"
+    },
+    {
+      "name": "カルビー製品包装 “白黒2色” で関係企業に聴き取りへ 政府",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119161000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260512/K10015119161_2605121119_0512114211_01_02.jpg",
+      "datePublished": "2026-05-12T18:57:33+09:00"
+    },
+    {
+      "name": "給付付き税額控除 支援対象の所得水準や財源確保など検討課題",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015119921_2605130105_0513045721_01_02.jpg",
+      "datePublished": "2026-05-13T04:57:20+09:00"
+    },
+    {
+      "name": "虐待など対応 児童福祉司の担当ケース 平均25件に半減 国調査",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015119741_2605122001_0513054152_01_03.jpg",
+      "datePublished": "2026-05-13T05:41:52+09:00"
+    },
+    {
+      "name": "新築マンション引き渡し遅延の可能性 通知広がる イラン影響で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119831000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015119831_2605122121_0513062346_01_02.jpg",
+      "datePublished": "2026-05-13T06:23:46+09:00"
+    },
+    {
+      "name": "トランプ大統領 中国へ出発 経済・台湾・イランなど議論",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119961000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015119961_2605130359_0513040231_01_02.jpg",
+      "datePublished": "2026-05-13T07:42:36+09:00"
+    },
+    {
+      "name": "再審制度見直し 法案提出に向けた調整 大詰めの見通し",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119901000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015119901_2605130129_0513051603_01_03.jpg",
+      "datePublished": "2026-05-13T05:16:02+09:00"
+    },
+    {
+      "name": "磐越道部活バス事故 4月から約1か月で少なくとも5件の物損事故",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119991000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015119991_2605130016_0513050926_01_03.jpg",
+      "datePublished": "2026-05-13T05:09:25+09:00"
+    },
+    {
+      "name": "ハンタウイルス クルーズ船の感染確認9人に WHO",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120031000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260512/K10015120031_2605122349_0512235023_01_03.jpg",
+      "datePublished": "2026-05-12T23:16:30+09:00"
+    },
+    {
+      "name": "金利も価格も上昇 住宅購入の注意点は？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119181000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260512/K10015119181_2605121143_0512141027_01_02.jpg",
+      "datePublished": "2026-05-12T14:10:26+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

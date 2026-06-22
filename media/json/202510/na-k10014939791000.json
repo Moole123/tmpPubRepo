@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014939791000",
+  "dataSourceId": "na",
+  "name": "石破首相動静 2025年10月2日",
+  "headline": "石破首相動静 2025年10月2日",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014939791000",
+    "playlistId": "news-nwa-politics-nationwide-20251003",
+    "newsarticleName": "石破首相動静 2025年10月2日",
+    "playlistName": "10月3日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "（石破首相動静 2025年10月2日）\n\n\n07:51 公邸発\n07:54 参議院第2別館着。歯科診療所で歯のクリーニング\n08:19 同所発\n08:21 官邸着\n09:42 官邸発\n10:07 羽田",
+  "dateModified": "2025-10-03T10:32:27+09:00",
+  "datePublished": "2025-10-03T10:32:27+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251003/K10014939791_2510030950_1003103229_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251003/K10014939791_2510030950_1003103229_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "（石破首相動静 2025年10月2日）\n\n\n07:51 公邸発\n07:54 参議院第2別館着。歯科診療所で歯のクリーニング\n08:19 同所発\n08:21 官邸着\n09:42 官邸発\n10:07 羽田",
+  "articleBody": "（石破首相動静 2025年10月2日）\n\n\n07:51 公邸発\n07:54 参議院第2別館着。歯科診療所で歯のクリーニング\n08:19 同所発\n08:21 官邸着\n09:42 官邸発\n10:07 羽田空港着\n10:41 日本航空233便で同空港発\n11:38 岡山空港着\n11:49 同空港発\n12:28 岡山市中区の岡山国際ホテル着。宴会場「アスコットルーム」で岡山県の伊原木隆太知事らと地方創生に関する意見交換。昼食\n13:34 宴会場「丹頂の間」で岡山県商工会議所連合会の松田久会長ら産業界関係者と米国の関税措置に関する意見交換会。伊原木知事ら同席（～14:43）\n14:45 報道各社のインタビュー（～14:55）\n14:56 同所発\n15:10 JR岡山駅着\n15:20 のぞみ34号で同駅発\n18:33 JR東京駅着\n18:37 同駅発\n19:13 東京 渋谷の日本料理店「SHIZEN」で平将明デジタル大臣、赤澤亮正経済再生担当大臣と会食\n21:51 同所発\n22:03 公邸着\n",
+  "detailedArticleBody": {
+    "markedLead": "（石破首相動静 2025年10月2日）\n",
+    "markedBody": "07:51 公邸発\\\n07:54 参議院第2別館着。歯科診療所で歯のクリーニング\\\n08:19 同所発\\\n08:21 官邸着\\\n09:42 官邸発\\\n10:07 羽田空港着\\\n10:41 日本航空233便で同空港発\\\n11:38 岡山空港着\\\n11:49 同空港発\\\n12:28 岡山市中区の岡山国際ホテル着。宴会場「アスコットルーム」で岡山県の伊原木隆太知事らと地方創生に関する意見交換。昼食\\\n13:34 宴会場「丹頂の間」で岡山県商工会議所連合会の松田久会長ら産業界関係者と米国の関税措置に関する意見交換会。伊原木知事ら同席（～14:43）\\\n14:45 報道各社のインタビュー（～14:55）\\\n14:56 同所発\\\n15:10 JR岡山駅着\\\n15:20 のぞみ34号で同駅発\\\n18:33 JR東京駅着\\\n18:37 同駅発\\\n19:13 東京 渋谷の日本料理店「SHIZEN」で平将明デジタル大臣、赤澤亮正経済再生担当大臣と会食\\\n21:51 同所発\\\n22:03 公邸着\n",
+    "trimmedLead": "（石破首相動静 2025年10月2日）\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014939791000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014939791000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

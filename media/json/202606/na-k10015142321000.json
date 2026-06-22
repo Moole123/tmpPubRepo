@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015142321000",
+  "dataSourceId": "na",
+  "name": "スーパーのコメ平均価格 5キロ 税込み3673円 2週連続値下がり",
+  "headline": "スーパーのコメ平均価格 5キロ 税込み3673円 2週連続値下がり",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015142321000",
+    "playlistId": "news-nwa-business-nationwide-20260605",
+    "newsarticleName": "スーパーのコメ平均価格 5キロ 税込み3673円 2週連続値下がり",
+    "playlistName": "6月5日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "全国のスーパーで5月31日までの1週間に販売されたコメの平均価格は、5キロ当たり税込み3673円で、前の週より19円値下がりしました。値下がりは2週連続です。\n\n\n農林水産省は、全国のスーパーおよそ1",
+  "dateModified": "2026-06-05T17:52:45+09:00",
+  "datePublished": "2026-06-05T17:52:45+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260605/K10015142321_2606051850_0605185122_02_01.jpg",
+      "height": 719,
+      "width": 1279
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260605/K10015142321_2606051850_0605185122_01_02.jpg",
+      "height": 719,
+      "width": 1279
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0002613",
+      "name": "コメ",
+      "display": true
+    },
+    {
+      "id": "0002420",
+      "name": "農業",
+      "display": true
+    },
+    {
+      "id": "0002400",
+      "name": "農林水産省",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "全国のスーパーで5月31日までの1週間に販売されたコメの平均価格は、5キロ当たり税込み3673円で、前の週より19円値下がりしました。値下がりは2週連続です。\n\n\n農林水産省は、全国のスーパーおよそ1",
+  "articleBody": "全国のスーパーで5月31日までの1週間に販売されたコメの平均価格は、5キロ当たり税込み3673円で、前の週より19円値下がりしました。値下がりは2週連続です。\n\n\n農林水産省は、全国のスーパーおよそ1000店でのコメの販売価格をまとめて毎週発表しています。\n\nそれによりますと、5月25日から31日までの1週間の平均価格は5キロ当たり税込みで3673円と前の週より19円値下がりしました。\n\n値下がりは2週連続です。\n\n内訳を見ると、産地と品種が単一の銘柄米は6円値上がりして3764円となった一方、\nブレンド米などは46円値下がりして3418円でした。\n\n値下がりの背景について農林水産省は、去年産のコメの供給量が増えて例年より在庫水準が高まっていることから、小売店や卸売業者の間で価格を引き下げて販売する動きが進んでいることがあるとみています。\n",
+  "detailedArticleBody": {
+    "markedLead": "全国のスーパーで5月31日までの1週間に販売されたコメの平均価格は、5キロ当たり税込み3673円で、前の週より19円値下がりしました。値下がりは2週連続です。\n",
+    "markedBody": "農林水産省は、全国のスーパーおよそ1000店でのコメの販売価格をまとめて毎週発表しています。\n\nそれによりますと、5月25日から31日までの1週間の平均価格は5キロ当たり税込みで3673円と前の週より19円値下がりしました。\n\n値下がりは2週連続です。\n\n内訳を見ると、産地と品種が単一の銘柄米は6円値上がりして3764円となった一方、\\\nブレンド米などは46円値下がりして3418円でした。\n\n値下がりの背景について農林水産省は、去年産のコメの供給量が増えて例年より在庫水準が高まっていることから、小売店や卸売業者の間で価格を引き下げて販売する動きが進んでいることがあるとみています。\n",
+    "trimmedLead": "全国のスーパーで5月31日までの1週間に販売されたコメの平均価格は、5キロ当たり税込み3673円で、前の週より19円値下がりしました。値下がりは2週連続です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015142321000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015142321000",
+  "video": [],
+  "citation": [
+    {
+      "name": "コメ価格の見通し 在庫増加で下落の見方強まる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015140421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260604/K10015140421_2606041220_0604143520_01_03.jpg",
+      "datePublished": "2026-06-04T14:35:19+09:00"
+    },
+    {
+      "name": "コメ 5キロ税込み3692円 前週より値下がり 10か月ぶりの水準に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015135221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015135221_2605291710_0529171743_01_02.jpg",
+      "datePublished": "2026-05-29T18:49:46+09:00"
+    },
+    {
+      "name": "政府備蓄米の買い入れ ほぼ全量落札 今後値下がりの見方背景か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260527/K10015133291_2605272005_0527203001_01_02.jpg",
+      "datePublished": "2026-05-27T20:30:00+09:00"
+    },
+    {
+      "name": "盛岡 田んぼ走るクマ目撃 “向かってきたら死んでいたかも”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015141971000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260605/K10015141971_2606051418_0605143043_01_03.jpg",
+      "datePublished": "2026-06-05T14:30:42+09:00"
+    },
+    {
+      "name": "東京 1000万円窃盗事件で新たに容疑者逮捕 トクリュウ指示役か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015141811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260605/K10015141811_2606051156_0605122442_01_03.jpg",
+      "datePublished": "2026-06-05T15:22:32+09:00"
+    },
+    {
+      "name": "原発 2040年代までに最大5基 建て替えの必要 経産省が見通し",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015141641000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260605/K10015141641_2606051645_0605172226_01_03.jpg",
+      "datePublished": "2026-06-05T17:22:25+09:00"
+    },
+    {
+      "name": "検察庁の全職員対象にハラスメント調査実施へ 平口法相",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015142021000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260605/K10015142021_2606051450_0605150814_01_02.jpg",
+      "datePublished": "2026-06-05T16:23:32+09:00"
+    },
+    {
+      "name": "安定的な皇位継承 衆参両院議長・副議長のとりまとめ案が判明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015141751000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260605/K10015141751_2606051356_0605140227_01_03.jpg",
+      "datePublished": "2026-06-05T18:59:52+09:00"
+    },
+    {
+      "name": "高市首相 中傷動画報道の関連音声 動画作成やりとりではない",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015141051000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260604/K10015141051_2606041546_0604161639_01_02.jpg",
+      "datePublished": "2026-06-04T16:16:38+09:00"
+    },
+    {
+      "name": "47年前の呪縛は今も？アメリカ「対イラン強硬派」の源流とは",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260604/K10015131711_2606041417_0604212035_01_02.jpg",
+      "datePublished": "2026-06-04T21:20:34+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015120661000",
+  "dataSourceId": "na",
+  "name": "米の高性能AIモデル クロード・ミュトス 3メガバンク利用できるよう調整",
+  "headline": "米の高性能AIモデル 3メガバンクが利用できるよう調整",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015120661000",
+    "playlistId": "news-nwa-business-nationwide-20260513",
+    "newsarticleName": "米の高性能AIモデル クロード・ミュトス 3メガバンク利用できるよう調整",
+    "playlistName": "5月13日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "非常に高性能で、悪用された場合には深刻なリスクをもたらすおそれも指摘されるアメリカの新たなAIモデル、「クロード・ミュトス」について、日本のメガバンク3行が利用できるようになる方向で調整が進められてい",
+  "dateModified": "2026-05-13T18:08:28+09:00",
+  "datePublished": "2026-05-13T18:08:28+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260513/K10015120661_2605131754_0513180829_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260513/K10015120661_2605131754_0513180829_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0002423",
+      "name": "金融",
+      "display": true
+    },
+    {
+      "id": "0000010",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "0000009",
+      "name": "IT・ネット",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "非常に高性能で、悪用された場合には深刻なリスクをもたらすおそれも指摘されるアメリカの新たなAIモデル、「クロード・ミュトス」について、日本のメガバンク3行が利用できるようになる方向で調整が進められてい",
+  "articleBody": "非常に高性能で、悪用された場合には深刻なリスクをもたらすおそれも指摘されるアメリカの新たなAIモデル、「クロード・ミュトス」について、日本のメガバンク3行が利用できるようになる方向で調整が進められていることがわかりました。実現すれば、セキュリティー対策の強化につながることが期待されます。\n\n\nアメリカの新興AI企業、アンソロピックが開発したAIモデル「クロード・ミュトス」は、OS＝基本ソフトなどのぜい弱性を特定できる能力が高いとされる一方、サイバー攻撃に悪用された場合、金融システムなどに深刻なリスクをもたらすおそれがあるとも指摘されています。\n\n現在、利用はアメリカの一部の企業などに限られていますが、関係者によりますと、三菱UFJ銀行や三井住友銀行、みずほ銀行のメガバンク3行がこのAIモデルを利用できるようになる方向でアンソロピック側などとの調整が進められているということです。\n\n実現すれば日本企業では初めてのケースになるとみられ、これまで見つかっていなかった既存のシステムの不具合を見つけ出すなど、業界全体のセキュリティー対策の強化につながることが期待されます。\n\nこのAIモデルをめぐっては、12日行われた日米の財務相会談でも議題になり、会談のあと片山大臣は、アメリカ政府とも連携してセキュリティー対策の強化を図っていく考えを示していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "非常に高性能で、悪用された場合には深刻なリスクをもたらすおそれも指摘されるアメリカの新たなAIモデル、「クロード・ミュトス」について、日本のメガバンク3行が利用できるようになる方向で調整が進められていることがわかりました。実現すれば、セキュリティー対策の強化につながることが期待されます。\n",
+    "markedBody": "アメリカの新興AI企業、アンソロピックが開発したAIモデル「クロード・ミュトス」は、OS＝基本ソフトなどのぜい弱性を特定できる能力が高いとされる一方、サイバー攻撃に悪用された場合、金融システムなどに深刻なリスクをもたらすおそれがあるとも指摘されています。\n\n現在、利用はアメリカの一部の企業などに限られていますが、関係者によりますと、三菱UFJ銀行や三井住友銀行、みずほ銀行のメガバンク3行がこのAIモデルを利用できるようになる方向でアンソロピック側などとの調整が進められているということです。\n\n実現すれば日本企業では初めてのケースになるとみられ、これまで見つかっていなかった既存のシステムの不具合を見つけ出すなど、業界全体のセキュリティー対策の強化につながることが期待されます。\n\nこのAIモデルをめぐっては、12日行われた日米の財務相会談でも議題になり、会談のあと片山大臣は、アメリカ政府とも連携してセキュリティー対策の強化を図っていく考えを示していました。\n",
+    "trimmedLead": "非常に高性能で、悪用された場合には深刻なリスクをもたらすおそれも指摘されるアメリカの新たなAIモデル、「クロード・ミュトス」について、日本のメガバンク3行が利用できるようになる方向で調整が進められていることがわかりました。実現すれば、セキュリティー対策の強化につながることが期待されます。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015120661000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015120661000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "米の高性能AIモデル 3メガバンクが利用できるよう調整",
+      "description": "非常に高性能で、悪用された場合には深刻なリスクをもたらすおそれも指摘されるアメリカの新たなAIモデル、「クロード・ミュトス」について、日本のメガバンク3行が利用できるようになる方向で調整が進められてい",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015120661_202605131804_202605131804/index.m3u8&mrposter=/news/html/20260513/K10015120661_2605131754_0513180829_01_03.jpg",
+      "duration": "PT1M12S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015120661_202605131804_202605131804/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260513/K10015120661_2605131754_0513180829_01_03.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "AIのリスク見据え14日に作業部会 官民連携で対策検討へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260512/K10015119221_2605121158_0512122852_01_02.jpg",
+      "datePublished": "2026-05-12T12:28:52+09:00"
+    },
+    {
+      "name": "高性能AIモデルによるサイバー攻撃リスク対応を指示 高市首相",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119281000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260512/K10015119281_2605121320_0512133648_01_03.jpg",
+      "datePublished": "2026-05-12T20:40:57+09:00"
+    },
+    {
+      "name": "あいちFGと三重県の三十三FG 経営統合で基本合意と発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015120141_2605130937_0513140007_01_02.jpg",
+      "datePublished": "2026-05-13T19:13:12+09:00"
+    },
+    {
+      "name": "ニデック 無断で設計変更など不適切行為の疑い 調査委を設置",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120301000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015120301_2605131258_0513134032_01_02.jpg",
+      "datePublished": "2026-05-13T19:19:53+09:00"
+    },
+    {
+      "name": "株価 終値で最高値を更新 決算発表など受け",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015120131_2605131532_0513160948_01_02.jpg",
+      "datePublished": "2026-05-13T16:09:47+09:00"
+    },
+    {
+      "name": "ソフトバンクグループ 最終利益が5兆円超に 昨年度決算",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015120531_2605131603_0513161132_01_02.jpg",
+      "datePublished": "2026-05-13T18:12:43+09:00"
+    },
+    {
+      "name": "トランプ大統領 あす米中首脳会談 イラン情勢などの議論が焦点",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120171000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015120171_2605131121_0513114436_01_02.jpg",
+      "datePublished": "2026-05-13T19:13:41+09:00"
+    },
+    {
+      "name": "イラン革命防衛隊 “ホルムズ海峡の作戦上の境界 大幅に拡大”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119951000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015119951_2605131227_0513122847_01_03.jpg",
+      "datePublished": "2026-05-13T15:27:07+09:00"
+    },
+    {
+      "name": "作曲家 大野雄二さん死去 84歳 「ルパン三世」「小さな旅」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120491000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015120491_2605131540_0513160835_01_02.jpg",
+      "datePublished": "2026-05-13T16:08:34+09:00"
+    },
+    {
+      "name": "フィギュア坂本花織 単独インタビュー“後輩の未来が楽しみ”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015120541_2605131606_0513162456_01_02.jpg",
+      "datePublished": "2026-05-13T16:24:55+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

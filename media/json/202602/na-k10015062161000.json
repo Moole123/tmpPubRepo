@@ -1,0 +1,159 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015062161000",
+  "dataSourceId": "na",
+  "name": "インフルエンザ患者数 2週連続減少も 依然多い状況続く",
+  "headline": "インフルエンザ患者数 2週連続減少も 依然多い状況続く",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015062161000",
+    "playlistId": "news-nwa-scienceculture-nationwide-20260227",
+    "newsarticleName": "インフルエンザ患者数 2週連続減少も 依然多い状況続く",
+    "playlistName": "2月27日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "今月22日までの1週間に全国から報告されたインフルエンザの患者数は、1医療機関当たり34.54人で、2週続けて減ったものの依然、患者数が多い状況が続いています。\n\n\n国立健康危機管理研究機構などにより",
+  "dateModified": "2026-02-27T16:11:33+09:00",
+  "datePublished": "2026-02-27T16:11:33+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260227/K10015062161_2602271633_0227163912_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260227/K10015062161_2602271633_0227163912_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "0000517",
+      "name": "インフルエンザ",
+      "display": true
+    },
+    {
+      "id": "0000414",
+      "name": "医療・健康",
+      "display": true
+    },
+    {
+      "id": "0002401",
+      "name": "厚生労働省",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "今月22日までの1週間に全国から報告されたインフルエンザの患者数は、1医療機関当たり34.54人で、2週続けて減ったものの依然、患者数が多い状況が続いています。\n\n\n国立健康危機管理研究機構などにより",
+  "articleBody": "今月22日までの1週間に全国から報告されたインフルエンザの患者数は、1医療機関当たり34.54人で、2週続けて減ったものの依然、患者数が多い状況が続いています。\n\n\n国立健康危機管理研究機構などによりますと、今月22日までの1週間に全国3000か所余りの医療機関から報告されたインフルエンザの患者数は、前の週よりおよそ2万7000人少ない13万1200人でした。\n\n1医療機関当たりの患者数は34.54人で2週続けて減ったものの、患者数が多い状況が続いています。\n\n都道府県別では\n▽埼玉県で50.68人\n▽愛媛県で50.41人\n▽大分県で45.17人\n▽山口県で43.76人\n▽宮崎県で43.32人\n▽奈良県と鹿児島県で42.95人\nなどとなっていて、29の都府県で30人を超えています。\n\n厚生労働省は、手洗いや適切なマスクの着用など感染対策を徹底するよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "今月22日までの1週間に全国から報告されたインフルエンザの患者数は、1医療機関当たり34.54人で、2週続けて減ったものの依然、患者数が多い状況が続いています。\n",
+    "markedBody": "国立健康危機管理研究機構などによりますと、今月22日までの1週間に全国3000か所余りの医療機関から報告されたインフルエンザの患者数は、前の週よりおよそ2万7000人少ない13万1200人でした。\n\n1医療機関当たりの患者数は34.54人で2週続けて減ったものの、患者数が多い状況が続いています。\n\n都道府県別では\\\n▽埼玉県で50.68人\\\n▽愛媛県で50.41人\\\n▽大分県で45.17人\\\n▽山口県で43.76人\\\n▽宮崎県で43.32人\\\n▽奈良県と鹿児島県で42.95人\\\nなどとなっていて、29の都府県で30人を超えています。\n\n厚生労働省は、手洗いや適切なマスクの着用など感染対策を徹底するよう呼びかけています。\n",
+    "trimmedLead": "今月22日までの1週間に全国から報告されたインフルエンザの患者数は、1医療機関当たり34.54人で、2週続けて減ったものの依然、患者数が多い状況が続いています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015062161000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015062161000",
+  "video": [],
+  "citation": [
+    {
+      "name": "感染症データと医療・健康情報",
+      "url": "https://www3.nhk.or.jp/news/special/medical/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_25624923.jpg"
+    },
+    {
+      "name": "約20種類の感染症データ・情報",
+      "url": "https://www3.nhk.or.jp/news/special/infection/dashboard/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_24419677.jpg"
+    },
+    {
+      "name": "マウスのES細胞から「ミニ精巣」作製 世界初成功 大阪大学など",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015061601000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260227/K10015061601_2602262205_0227045947_01_02.jpg",
+      "datePublished": "2026-02-27T04:59:47+09:00"
+    },
+    {
+      "name": "iPS細胞 脊髄損傷患者に移植 早ければ来年12月にも治験開始へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015059941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260224/K10015059941_2602242233_0224224204_01_02.jpg",
+      "datePublished": "2026-02-24T22:42:03+09:00"
+    },
+    {
+      "name": "一息もつけない…子どもの付き添い入院 国の支援も進まず なぜ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015059451000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260226/K10015059451_2602261231_0226170817_01_02.jpg",
+      "datePublished": "2026-02-26T17:08:16+09:00"
+    },
+    {
+      "name": "高市首相 食料品消費税2年間ゼロ“臨時国会に法案提出したい”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015061951000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260227/K10015061951_2602271134_0227115503_01_02.jpg",
+      "datePublished": "2026-02-27T16:10:36+09:00"
+    },
+    {
+      "name": "女性の遺体などの写真盗んだか 52歳巡査部長を懲戒免職 警視庁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015062091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260227/K10015062091_2602271218_0227130006_01_02.jpg",
+      "datePublished": "2026-02-27T15:53:23+09:00"
+    },
+    {
+      "name": "「エプスタイン氏問題」 これまでの経緯と最新情報 【詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015061961000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260227/K10015061961_2602271107_0227135128_01_03.jpg",
+      "datePublished": "2026-02-27T13:51:27+09:00"
+    },
+    {
+      "name": "イラン核開発めぐり 米イラン高官協議 合意に至らず終了",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015061401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260226/K10015061401_2602261925_0226193432_01_03.jpg",
+      "datePublished": "2026-02-27T15:42:57+09:00"
+    },
+    {
+      "name": "元横綱 照ノ富士の伊勢ヶ濱親方 弟子に暴力か 相撲協会が調査",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015061931000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260227/K10015061931_2602271111_0227114459_01_02.jpg",
+      "datePublished": "2026-02-27T11:44:59+09:00"
+    },
+    {
+      "name": "ニッスイ 冷凍枝豆 3万パック余り回収  基準値超える農薬検出",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015062111000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260227/K10015062111_2602271328_0227134552_01_02.jpg",
+      "datePublished": "2026-02-27T13:45:51+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

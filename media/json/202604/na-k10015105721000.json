@@ -1,0 +1,187 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015105721000",
+  "dataSourceId": "na",
+  "name": "片山金融相 金融関係者と会合へ 米の新興企業のAIモデルめぐり",
+  "headline": "片山金融相 金融関係者と会合へ 米の新興企業のAIモデルめぐり",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015105721000",
+    "playlistId": "news-nwa-politics-nationwide-20260422",
+    "newsarticleName": "片山金融相 金融関係者と会合へ 米の新興企業のAIモデルめぐり",
+    "playlistName": "4月22日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "アメリカの新興AI企業が開発した新たなAIモデルをめぐって、悪用された場合、金融システムにリスクをもたらすおそれがあるといった指摘も出る中、片山金融担当大臣は近く、日銀や国内の大手金融機関などと会合を",
+  "dateModified": "2026-04-22T19:50:17+09:00",
+  "datePublished": "2026-04-22T19:50:17+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260422/K10015105721_2604221946_0422195018_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260422/K10015105721_2604221946_0422195018_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0002423",
+      "name": "金融",
+      "display": true
+    },
+    {
+      "id": "0002408",
+      "name": "金融庁",
+      "display": true
+    },
+    {
+      "id": "0000010",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "0000009",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "0000325",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "0002310",
+      "name": "日本銀行（日銀）",
+      "display": true
+    },
+    {
+      "id": "0002413",
+      "name": "東京証券取引所",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "アメリカの新興AI企業が開発した新たなAIモデルをめぐって、悪用された場合、金融システムにリスクをもたらすおそれがあるといった指摘も出る中、片山金融担当大臣は近く、日銀や国内の大手金融機関などと会合を",
+  "articleBody": "アメリカの新興AI企業が開発した新たなAIモデルをめぐって、悪用された場合、金融システムにリスクをもたらすおそれがあるといった指摘も出る中、片山金融担当大臣は近く、日銀や国内の大手金融機関などと会合を開き、対応について話し合う考えを明らかにしました。\n\n\nアメリカの新興AI企業、アンソロピックが開発した新たなAIモデル「クロード・ミュトス」はOS＝基本ソフトやウェブブラウザのぜい弱性を特定できる能力が高いとされていて、サイバー攻撃に悪用された場合、金融システムにリスクをもたらすおそれがあるといった指摘も出ています。\n\nこのAIモデルについて、片山金融担当大臣は22日、記者団に対し、国内の金融関係者と意見を交わすため、24日にも会合を開く考えを明らかにしました。\n\n会合は金融庁の呼びかけで開かれ、日銀や3つのメガバンク、それに東京証券取引所などが参加し、このAIモデルへの対応などについて話し合うということです。\n\n片山大臣は「まずは状況の認識や意見交換などを行い、国際金融社会のあちこちで問題が指摘され始めていることについて話し合いたい」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカの新興AI企業が開発した新たなAIモデルをめぐって、悪用された場合、金融システムにリスクをもたらすおそれがあるといった指摘も出る中、片山金融担当大臣は近く、日銀や国内の大手金融機関などと会合を開き、対応について話し合う考えを明らかにしました。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20260422/K10015105721_2604221946_0422195018_02_03.jpg)\n\nアメリカの新興AI企業、アンソロピックが開発した新たなAIモデル「クロード・ミュトス」はOS＝基本ソフトやウェブブラウザのぜい弱性を特定できる能力が高いとされていて、サイバー攻撃に悪用された場合、金融システムにリスクをもたらすおそれがあるといった指摘も出ています。\n\nこのAIモデルについて、片山金融担当大臣は22日、記者団に対し、国内の金融関係者と意見を交わすため、24日にも会合を開く考えを明らかにしました。\n\n会合は金融庁の呼びかけで開かれ、日銀や3つのメガバンク、それに東京証券取引所などが参加し、このAIモデルへの対応などについて話し合うということです。\n\n片山大臣は「まずは状況の認識や意見交換などを行い、国際金融社会のあちこちで問題が指摘され始めていることについて話し合いたい」と述べました。\n",
+    "trimmedLead": "アメリカの新興AI企業が開発した新たなAIモデルをめぐって、悪用された場合、金融システムにリスクをもたらすおそれがあるといった指摘も出る中、片山金融担当大臣は近く、日銀や国内の大手金融機関などと会合を開き、対応について話し合う考えを明らかにしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015105721000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015105721000",
+  "video": [],
+  "citation": [
+    {
+      "name": "“アンソロピック新AIモデルめぐり米財務長官ら緊急会合”報道",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015097101000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260411/K10015097101_2604111513_0411151340_01_03.jpg",
+      "datePublished": "2026-04-11T11:54:35+09:00"
+    },
+    {
+      "name": "株価 終値の最高値を更新 イラン情勢の警戒感和らぐ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105231000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015105231_2604221534_0422155005_01_02.jpg",
+      "datePublished": "2026-04-22T15:50:04+09:00"
+    },
+    {
+      "name": "北海道・三陸沖後発地震注意情報 日頃の備え学校でも呼びかけ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105201000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015105201_2604221152_0422115502_01_02.jpg",
+      "datePublished": "2026-04-22T18:26:31+09:00"
+    },
+    {
+      "name": "岩手 大槌町で山林火災 県が自衛隊に消火活動で災害派遣要請",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105551000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015105551_2604221812_0422181751_01_02.jpg",
+      "datePublished": "2026-04-22T20:02:28+09:00"
+    },
+    {
+      "name": "トランプ大統領 停戦延長と投稿 イランとの協議が結論至るまで",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105081000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015105081_2604220554_0422055505_01_03.jpg",
+      "datePublished": "2026-04-22T10:27:24+09:00"
+    },
+    {
+      "name": "「国家情報局」設置法案 衆院内閣委員会できょう午後採決へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105151000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015105151_2604221115_0422114244_01_02.jpg",
+      "datePublished": "2026-04-22T18:23:26+09:00"
+    },
+    {
+      "name": "自粛延長のプルデンシャル生命 “改革に時間必要”会見で社長",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015105591_2604221754_0422181639_01_02.jpg",
+      "datePublished": "2026-04-22T18:16:38+09:00"
+    },
+    {
+      "name": "米イラン停戦延長「3～5日」報道も イラン側は封鎖解除迫る",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105251000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015105251_2604221418_0422152101_01_03.jpg",
+      "datePublished": "2026-04-22T20:30:31+09:00"
+    },
+    {
+      "name": "人気の「狭小住宅」 国の計画から「最低居住面積水準」削除に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015104531_2604211439_0421192754_01_03.jpg",
+      "datePublished": "2026-04-21T19:27:53+09:00"
+    },
+    {
+      "name": "子どものいのちを守る 学校現場の自殺対策は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015103411000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015103411_2604201255_0421174035_01_02.jpg",
+      "datePublished": "2026-04-21T17:40:34+09:00"
+    },
+    {
+      "name": "“ながら運転”で奪われた息子の命",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015104711_2604221238_0422173942_01_02.jpg",
+      "datePublished": "2026-04-22T17:39:40+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

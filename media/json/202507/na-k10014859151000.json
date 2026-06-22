@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014859151000",
+  "dataSourceId": "na",
+  "name": "NHKとBS民放5社 4K 8Kでおすすめ番組キャンペーン実施へ",
+  "headline": "NHKとBS民放5社 4K 8Kでおすすめ番組キャンペーン実施へ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014859151000",
+    "playlistId": "news-nwa-life-nationwide-20250710",
+    "newsarticleName": "NHKとBS民放5社 4K 8Kでおすすめ番組キャンペーン実施へ",
+    "playlistName": "7月10日の暮らしニュース",
+    "genreId": "life",
+    "genreIdSlug": "life"
+  },
+  "description": "NHKとBS民放5社は、4K・8Kの衛星放送で、おすすめ番組を放送するキャンペーンを来週から実施することになりました。\n\n\n東京都内で午後開かれたPRイベントには、NHKの連続テレビ小説「あんぱん」に",
+  "dateModified": "2025-07-10T15:24:35+09:00",
+  "datePublished": "2025-07-10T15:24:35+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250710/K10014859151_2507101515_0710152350_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250710/K10014859151_2507101515_0710152350_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "暮らし"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "NHKとBS民放5社は、4K・8Kの衛星放送で、おすすめ番組を放送するキャンペーンを来週から実施することになりました。\n\n\n東京都内で午後開かれたPRイベントには、NHKの連続テレビ小説「あんぱん」に",
+  "articleBody": "NHKとBS民放5社は、4K・8Kの衛星放送で、おすすめ番組を放送するキャンペーンを来週から実施することになりました。\n\n\n東京都内で午後開かれたPRイベントには、NHKの連続テレビ小説「あんぱん」に出演している俳優の河合優実さんも駆けつけました。\n\n河合さんは、「『あんぱん』を4Kで見ると本当に、圧倒的な映像美で人物だけではなく高知県の景色の美しさなど、いろいろなことが映像表現として広がっている感じがしました」と話していました。\n\nNHKとBS民放5社のキャンペーンは、7月18日から31日まで実施され、NHKでは、BSプレミアム4Kで月曜日から金曜日まで「あんぱん」を放送します。\n\nまた、18日と25日には、BS8Kで、気鋭のアーティストたちの演奏を8Kの高品質な映像と5.1chの音声で楽しめる「8Kプレミアムコンサート」を放送することにしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "NHKとBS民放5社は、4K・8Kの衛星放送で、おすすめ番組を放送するキャンペーンを来週から実施することになりました。\n",
+    "markedBody": "東京都内で午後開かれたPRイベントには、NHKの連続テレビ小説「あんぱん」に出演している俳優の河合優実さんも駆けつけました。\n\n河合さんは、「『あんぱん』を4Kで見ると本当に、圧倒的な映像美で人物だけではなく高知県の景色の美しさなど、いろいろなことが映像表現として広がっている感じがしました」と話していました。\n\nNHKとBS民放5社のキャンペーンは、7月18日から31日まで実施され、NHKでは、BSプレミアム4Kで月曜日から金曜日まで「あんぱん」を放送します。\n\nまた、18日と25日には、BS8Kで、気鋭のアーティストたちの演奏を8Kの高品質な映像と5.1chの音声で楽しめる「8Kプレミアムコンサート」を放送することにしています。\n",
+    "trimmedLead": "NHKとBS民放5社は、4K・8Kの衛星放送で、おすすめ番組を放送するキャンペーンを来週から実施することになりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014859151000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014859151000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

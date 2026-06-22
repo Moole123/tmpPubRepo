@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014910711000",
+  "dataSourceId": "na",
+  "name": "「金先物価格」など最高値更新 アメリカ FRBの利下げ観測で",
+  "headline": "「金先物価格」など最高値更新 アメリカ FRBの利下げ観測で",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014910711000",
+    "playlistId": "news-nwa-business-nationwide-20250902",
+    "newsarticleName": "「金先物価格」など最高値更新 アメリカ FRBの利下げ観測で",
+    "playlistName": "9月2日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "アメリカの利下げ観測を背景に、投資家の間では、手持ちの資金を「金」に振り向ける動きが広がり、先物価格などが最高値を更新しています。\n\n\n大阪取引所では、取り引きの中心となる「来年8月もの」の金の先物価",
+  "dateModified": "2025-09-02T18:07:30+09:00",
+  "datePublished": "2025-09-02T18:07:30+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250902/K10014910711_2509021745_0902180601_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250902/K10014910711_2509021745_0902180601_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "アメリカの利下げ観測を背景に、投資家の間では、手持ちの資金を「金」に振り向ける動きが広がり、先物価格などが最高値を更新しています。\n\n\n大阪取引所では、取り引きの中心となる「来年8月もの」の金の先物価",
+  "articleBody": "アメリカの利下げ観測を背景に、投資家の間では、手持ちの資金を「金」に振り向ける動きが広がり、先物価格などが最高値を更新しています。\n\n\n大阪取引所では、取り引きの中心となる「来年8月もの」の金の先物価格が2日午前、1グラムあたり1万6785円をつけ、取り引き時間中の最高値を更新しました。\n\nまた、大手貴金属会社「田中貴金属工業」が2日に発表した金の小売価格は、1グラムあたり1万8348円をつけ、こちらも最高値を更新しました。\n\n金が値上がりしているのは、FRB＝連邦準備制度理事会が9月に利下げに踏み切るという観測が強まっているためで、投資家の間で、手持ちのドルを売って金を買う動きが広がっています。\n\n市場関係者は「トランプ大統領がFRBに圧力をかけていることもあって、アメリカの金融政策への不透明感から比較的安全な資産として金を買う動きも出ている。今後も金は高値で推移すると予想される」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカの利下げ観測を背景に、投資家の間では、手持ちの資金を「金」に振り向ける動きが広がり、先物価格などが最高値を更新しています。\n",
+    "markedBody": "大阪取引所では、取り引きの中心となる「来年8月もの」の金の先物価格が2日午前、1グラムあたり1万6785円をつけ、取り引き時間中の最高値を更新しました。\n\nまた、大手貴金属会社「田中貴金属工業」が2日に発表した金の小売価格は、1グラムあたり1万8348円をつけ、こちらも最高値を更新しました。\n\n金が値上がりしているのは、FRB＝連邦準備制度理事会が9月に利下げに踏み切るという観測が強まっているためで、投資家の間で、手持ちのドルを売って金を買う動きが広がっています。\n\n市場関係者は「トランプ大統領がFRBに圧力をかけていることもあって、アメリカの金融政策への不透明感から比較的安全な資産として金を買う動きも出ている。今後も金は高値で推移すると予想される」と話しています。\n",
+    "trimmedLead": "アメリカの利下げ観測を背景に、投資家の間では、手持ちの資金を「金」に振り向ける動きが広がり、先物価格などが最高値を更新しています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014910711000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014910711000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

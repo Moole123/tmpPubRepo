@@ -1,0 +1,158 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015083881000",
+  "dataSourceId": "na",
+  "name": "ホルムズ海峡付近 船舶の位置情報など通信妨害か 研究者が分析",
+  "headline": "ホルムズ海峡付近 船舶の位置情報など通信妨害か 研究者が分析",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015083881000",
+    "playlistId": "news-nwa-international-nationwide-20260325",
+    "newsarticleName": "ホルムズ海峡付近 船舶の位置情報など通信妨害か 研究者が分析",
+    "playlistName": "3月25日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "ホルムズ海峡付近を航行する船舶で、衝突事故防止などのために使われる船の位置情報などの通信が妨害されたとみられるケースが相次いでいることがわかりました。データ上、不自然な動きをする船が確認されていて、分",
+  "dateModified": "2026-03-25T17:04:27+09:00",
+  "datePublished": "2026-03-25T17:04:27+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260325/K10015083881_2603251536_0325170428_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260325/K10015083881_2603251536_0325170428_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0002794",
+      "name": "ホルムズ海峡",
+      "display": true
+    },
+    {
+      "id": "0000820",
+      "name": "イラン情勢",
+      "display": true
+    },
+    {
+      "id": "0002631",
+      "name": "中東",
+      "display": true
+    },
+    {
+      "id": "0001597",
+      "name": "イラン",
+      "display": true
+    },
+    {
+      "id": "0002736",
+      "name": "資源・エネルギー",
+      "display": true
+    },
+    {
+      "id": "0002133",
+      "name": "物価高騰",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ホルムズ海峡付近を航行する船舶で、衝突事故防止などのために使われる船の位置情報などの通信が妨害されたとみられるケースが相次いでいることがわかりました。データ上、不自然な動きをする船が確認されていて、分",
+  "articleBody": "ホルムズ海峡付近を航行する船舶で、衝突事故防止などのために使われる船の位置情報などの通信が妨害されたとみられるケースが相次いでいることがわかりました。データ上、不自然な動きをする船が確認されていて、分析した研究者は「船の安全に必要となる情報が信頼できなくなっている」と懸念を示しています。\n\n\n東京大学大学院の渡邉英徳教授は船に関する公開情報を使ってホルムズ海峡付近を航行するタンカーや貨物船の状況を分析しています。\n\n主に使っているのは船に搭載されるAIS＝船舶自動識別装置が発信した情報を公開する「マリントラフィック」などのデータで、今月中旬ごろから付近を航行する船の位置情報などの通信が妨害されたとみられるケースが相次いで確認されているということです。\n\n具体的には、データ上、複数の船が1か所に集まったり、同じ船が直線的な動きを繰り返したりするなど不自然な動きが確認され、衝突事故防止などのために使われる船の位置情報が正確に把握できない状況になっているということです。\n\nさらに、船の名前など発信する情報を偽装して通過を試みたとみられるケースもあり、なかにはすでに解体されたはずの日本に関係する船舶が海峡付近を航行したケースもあったということです。\n\n渡邉教授は「船の安全に必要となる情報が信頼できなくなっていて、こうした状況を解消するためにも可能なかぎり早く停戦することが必要だ」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "ホルムズ海峡付近を航行する船舶で、衝突事故防止などのために使われる船の位置情報などの通信が妨害されたとみられるケースが相次いでいることがわかりました。データ上、不自然な動きをする船が確認されていて、分析した研究者は「船の安全に必要となる情報が信頼できなくなっている」と懸念を示しています。\n",
+    "markedBody": "東京大学大学院の渡邉英徳教授は船に関する公開情報を使ってホルムズ海峡付近を航行するタンカーや貨物船の状況を分析しています。\n\n主に使っているのは船に搭載されるAIS＝船舶自動識別装置が発信した情報を公開する「マリントラフィック」などのデータで、今月中旬ごろから付近を航行する船の位置情報などの通信が妨害されたとみられるケースが相次いで確認されているということです。\n\n具体的には、データ上、複数の船が1か所に集まったり、同じ船が直線的な動きを繰り返したりするなど不自然な動きが確認され、衝突事故防止などのために使われる船の位置情報が正確に把握できない状況になっているということです。\n\nさらに、船の名前など発信する情報を偽装して通過を試みたとみられるケースもあり、なかにはすでに解体されたはずの日本に関係する船舶が海峡付近を航行したケースもあったということです。\n\n![](https://news.web.nhk/news/html/20260325/K10015083881_2603251536_0325170428_02_03.jpg)\n\n渡邉教授は「船の安全に必要となる情報が信頼できなくなっていて、こうした状況を解消するためにも可能なかぎり早く停戦することが必要だ」と話しています。\n",
+    "trimmedLead": "ホルムズ海峡付近を航行する船舶で、衝突事故防止などのために使われる船の位置情報などの通信が妨害されたとみられるケースが相次いでいることがわかりました。データ上、不自然な動きをする船が確認されていて、分析した研究者は「船の安全に必要となる情報が信頼できなくなっている」と懸念を示しています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015083881000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015083881000",
+  "video": [],
+  "citation": [
+    {
+      "name": "ガソリン小売価格 1リットル177.7円 前週から13.1円値下がり",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015083601000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260325/K10015083601_2603251839_0325184718_01_03.jpg",
+      "datePublished": "2026-03-25T18:47:16+09:00"
+    },
+    {
+      "name": "“米 戦闘終結へ15項目の計画送付” イラン側 協議自体否定",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015083481000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260325/K10015083481_2603251234_0325131914_01_03.jpg",
+      "datePublished": "2026-03-25T18:16:27+09:00"
+    },
+    {
+      "name": "高市首相 “機雷掃海目的の自衛隊派遣 決まっていることない”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015083631000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260325/K10015083631_2603251112_0325120042_01_02.jpg",
+      "datePublished": "2026-03-25T17:28:40+09:00"
+    },
+    {
+      "name": "奈良 山下知事 “大阪のシカを奈良公園に放つなどはできない”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015083741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260325/K10015083741_2603251328_0325141721_01_02.jpg",
+      "datePublished": "2026-03-25T14:17:20+09:00"
+    },
+    {
+      "name": "西武渋谷店 9月末に閉店と発表 再開発で地権者と合意できず",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015083801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260325/K10015083801_2603251409_0325141853_01_02.jpg",
+      "datePublished": "2026-03-25T17:43:12+09:00"
+    },
+    {
+      "name": "米 オープンAI 動画生成AI「Sora」サービス終了へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015083611000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260325/K10015083611_2603251117_0325112233_01_02.jpg",
+      "datePublished": "2026-03-25T11:22:33+09:00"
+    },
+    {
+      "name": "マンション大規模修繕の闇～なりすまし見抜いた住民たちの記録",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015079521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260323/K10015079521_2603191648_0323133828_01_02.jpg",
+      "datePublished": "2026-03-23T13:38:27+09:00"
+    },
+    {
+      "name": "“苦しまなければ上達できない” 美食の国の厨房で何が？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015064121000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260322/K10015064121_2603031653_0322103331_01_02.jpg",
+      "datePublished": "2026-03-22T10:33:30+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

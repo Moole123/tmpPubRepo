@@ -1,0 +1,145 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015127581000",
+  "dataSourceId": "na",
+  "name": "国家情報局法案 26日高市首相出席で質疑 採決日程協議継続",
+  "headline": "国家情報局法案 26日高市首相出席で質疑 採決日程協議継続",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015127581000",
+    "playlistId": "news-nwa-politics-nationwide-20260521",
+    "newsarticleName": "国家情報局法案 26日高市首相出席で質疑 採決日程協議継続",
+    "playlistName": "5月21日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "「国家情報局」を設置する法案をめぐり、与野党は来週26日に参議院内閣委員会で高市総理大臣に出席を求めて質疑を行うことで合意しました。一方、委員会での採決日程は折り合わず引き続き協議することになりました",
+  "dateModified": "2026-05-21T12:24:45+09:00",
+  "datePublished": "2026-05-21T12:24:45+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260521/K10015127581_2605211139_0521122445_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260521/K10015127581_2605211139_0521122445_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0002394",
+      "name": "参議院",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "「国家情報局」を設置する法案をめぐり、与野党は来週26日に参議院内閣委員会で高市総理大臣に出席を求めて質疑を行うことで合意しました。一方、委員会での採決日程は折り合わず引き続き協議することになりました",
+  "articleBody": "「国家情報局」を設置する法案をめぐり、与野党は来週26日に参議院内閣委員会で高市総理大臣に出席を求めて質疑を行うことで合意しました。一方、委員会での採決日程は折り合わず引き続き協議することになりました。\n\n\n政府のインテリジェンス機能の強化に向けて「国家情報局」を設置する法案は参議院内閣委員会で審議が行われていて、与野党は21日の理事会で今後の審議日程について協議しました。\n\nそして、来週26日に委員会で、高市総理大臣に出席を求めて質疑を行うことで合意しました。\n\n一方、与党側がその日のうちに採決することを提案したのに対し、野党側は審議状況を見極めたいなどと主張して折り合わず、引き続き協議することになりました。\n\nまた、立憲民主党は、今後、修正案を提出する意向を示しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "「国家情報局」を設置する法案をめぐり、与野党は来週26日に参議院内閣委員会で高市総理大臣に出席を求めて質疑を行うことで合意しました。一方、委員会での採決日程は折り合わず引き続き協議することになりました。\n",
+    "markedBody": "政府のインテリジェンス機能の強化に向けて「国家情報局」を設置する法案は参議院内閣委員会で審議が行われていて、与野党は21日の理事会で今後の審議日程について協議しました。\n\nそして、来週26日に委員会で、高市総理大臣に出席を求めて質疑を行うことで合意しました。\n\n一方、与党側がその日のうちに採決することを提案したのに対し、野党側は審議状況を見極めたいなどと主張して折り合わず、引き続き協議することになりました。\n\nまた、立憲民主党は、今後、修正案を提出する意向を示しました。\n",
+    "trimmedLead": "「国家情報局」を設置する法案をめぐり、与野党は来週26日に参議院内閣委員会で高市総理大臣に出席を求めて質疑を行うことで合意しました。一方、委員会での採決日程は折り合わず引き続き協議することになりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015127581000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015127581000",
+  "video": [],
+  "citation": [
+    {
+      "name": "自民 「合区」解消を 野党 改憲による解消に反対意見も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015127121000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260521/K10015127121_2605210127_0521053124_01_02.jpg",
+      "datePublished": "2026-05-21T05:31:23+09:00"
+    },
+    {
+      "name": "参議院憲法審査会 「1票の格差」テーマに各党が意見表明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015126821000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260520/K10015126821_2605201716_0520182753_01_02.jpg",
+      "datePublished": "2026-05-20T18:27:52+09:00"
+    },
+    {
+      "name": "「防災庁」設置法案 参議院で22日審議入りへ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015126311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260520/K10015126311_2605201122_0520140535_01_02.jpg",
+      "datePublished": "2026-05-20T14:05:34+09:00"
+    },
+    {
+      "name": "栃木強盗殺人事件 警察が指示役として逮捕した夫婦の自宅捜索",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015127481000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260521/K10015127481_2605211118_0521113808_01_02.jpg",
+      "datePublished": "2026-05-21T13:44:35+09:00"
+    },
+    {
+      "name": "貿易統計 4月の中東からの原油輸入量67％減 イラン情勢影響",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015127421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260521/K10015127421_2605210948_0521094850_01_02.jpg",
+      "datePublished": "2026-05-21T11:22:15+09:00"
+    },
+    {
+      "name": "米 キューバのラウル・カストロ氏を民間機撃墜事件で起訴",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015127341000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260521/K10015127341_2605210306_0521032156_01_02.jpg",
+      "datePublished": "2026-05-21T11:16:39+09:00"
+    },
+    {
+      "name": "中国 習主席が今月末にも北朝鮮訪問か 2019年以来 韓国報道",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015127531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260521/K10015127531_2605211056_0521111020_01_02.jpg",
+      "datePublished": "2026-05-21T11:10:19+09:00"
+    },
+    {
+      "name": "大相撲夏場所 朝乃山が12日目から休場 2敗の琴栄峰は不戦勝に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015127541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260521/K10015127541_2605211050_0521110010_01_02.jpg",
+      "datePublished": "2026-05-21T11:00:10+09:00"
+    },
+    {
+      "name": "気候変動対策は各国の義務 国連総会で行動求める決議",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015127511000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260521/K10015127511_2605211040_0521104541_01_02.jpg",
+      "datePublished": "2026-05-21T10:45:40+09:00"
+    },
+    {
+      "name": "米半導体エヌビディア 3か月決算 最終利益 前年同期の3.1倍に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015127411000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260521/K10015127411_2605210645_0521065736_01_02.jpg",
+      "datePublished": "2026-05-21T10:40:14+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

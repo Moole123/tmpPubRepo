@@ -1,0 +1,160 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015117791000",
+  "dataSourceId": "na",
+  "name": "ドジャース 大谷翔平 3試合連続ヒット チームは敗れ連勝止まる",
+  "headline": "ドジャース 大谷翔平 3試合連続ヒット チームは敗れ連勝止まる",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015117791000",
+    "playlistId": "news-nwa-sports-nationwide-20260510",
+    "newsarticleName": "ドジャース 大谷翔平 3試合連続ヒット チームは敗れ連勝止まる",
+    "playlistName": "5月10日のスポーツニュース",
+    "genreId": "sports",
+    "genreIdSlug": "sports"
+  },
+  "description": "大リーグ、ドジャースの大谷翔平選手がブレーブス戦に先発出場し、3試合連続のヒットを打ちましたが、チームは敗れて連勝が2で止まりました。\n\n\n大谷選手は9日、本拠地のロサンゼルスで行われたブレーブス戦に",
+  "dateModified": "2026-05-10T13:50:51+09:00",
+  "datePublished": "2026-05-10T13:50:51+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260510/K10015117791_2605101321_0510135052_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260510/K10015117791_2605101321_0510135052_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "スポーツ"
+  ],
+  "topic": [
+    {
+      "id": "0002020",
+      "name": "大谷翔平",
+      "display": true
+    },
+    {
+      "id": "0000006",
+      "name": "大リーグ",
+      "display": true
+    },
+    {
+      "id": "0001591",
+      "name": "野球",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "大リーグ、ドジャースの大谷翔平選手がブレーブス戦に先発出場し、3試合連続のヒットを打ちましたが、チームは敗れて連勝が2で止まりました。\n\n\n大谷選手は9日、本拠地のロサンゼルスで行われたブレーブス戦に",
+  "articleBody": "大リーグ、ドジャースの大谷翔平選手がブレーブス戦に先発出場し、3試合連続のヒットを打ちましたが、チームは敗れて連勝が2で止まりました。\n\n\n大谷選手は9日、本拠地のロサンゼルスで行われたブレーブス戦に1番・指名打者で先発出場しました。\n\nこの試合は第1打席が空振りの三振、第2打席はファーストゴロ、第3打席はインコースのストレートに再び空振りの三振に倒れました。\n\nそれでも8回の第4打席ではアウトコース高めのストレートを逆らわずにレフト前に運び、3試合連続のヒットで塁に出ました。\n\n大谷選手はこの試合4打数1安打で打率は2割4分8厘となっています。\n\nドジャースはこの試合、けがから復帰した左腕のスネル投手が今シーズン初先発となりましたが3回5失点と苦しみ、2対7で敗れて連勝が2で止まりました。\n",
+  "detailedArticleBody": {
+    "markedLead": "大リーグ、ドジャースの大谷翔平選手がブレーブス戦に先発出場し、3試合連続のヒットを打ちましたが、チームは敗れて連勝が2で止まりました。\n",
+    "markedBody": "大谷選手は9日、本拠地のロサンゼルスで行われたブレーブス戦に1番・指名打者で先発出場しました。\n\nこの試合は第1打席が空振りの三振、第2打席はファーストゴロ、第3打席はインコースのストレートに再び空振りの三振に倒れました。\n\n![](https://news.web.nhk/news/html/20260510/K10015117791_2605101320_0510135052_02_03.jpg)\n\nそれでも8回の第4打席ではアウトコース高めのストレートを逆らわずにレフト前に運び、3試合連続のヒットで塁に出ました。\n\n大谷選手はこの試合4打数1安打で打率は2割4分8厘となっています。\n\nドジャースはこの試合、けがから復帰した左腕のスネル投手が今シーズン初先発となりましたが3回5失点と苦しみ、2対7で敗れて連勝が2で止まりました。\n",
+    "trimmedLead": "大リーグ、ドジャースの大谷翔平選手がブレーブス戦に先発出場し、3試合連続のヒットを打ちましたが、チームは敗れて連勝が2で止まりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015117791000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015117791000",
+  "video": [],
+  "citation": [
+    {
+      "name": "ドジャース 大谷翔平が勝ち越しタイムリー チームの連勝に貢献",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015117461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260509/K10015117461_2605091456_0509150617_01_02.jpg",
+      "datePublished": "2026-05-09T15:06:16+09:00"
+    },
+    {
+      "name": "カブス 鈴木誠也 3試合連続ヒットも チームの連勝10で止まる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015117781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260510/K10015117781_2605101234_0510124601_01_02.jpg",
+      "datePublished": "2026-05-10T12:46:00+09:00"
+    },
+    {
+      "name": "ホワイトソックス 村上宗隆 無安打2三振 チームは連敗止める",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015117771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260510/K10015117771_2605101226_0510123002_01_02.jpg",
+      "datePublished": "2026-05-10T12:30:02+09:00"
+    },
+    {
+      "name": "ブルージェイズ 岡本和真 8試合連続ヒット 追加点のタイムリー",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015117701000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260510/K10015117701_2605101026_0510103014_01_02.jpg",
+      "datePublished": "2026-05-10T09:10:20+09:00"
+    },
+    {
+      "name": "ブライトン三笘薫 リーグ戦で左太もも裏あたりを痛め途中交代",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015117761000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260510/K10015117761_2605101158_0510122544_01_02.jpg",
+      "datePublished": "2026-05-10T12:25:43+09:00"
+    },
+    {
+      "name": "大相撲夏場所 初日の見どころ 大関復帰の霧島 隆の勝と対戦",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015117541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260510/K10015117541_2605091856_0510045029_01_02.jpg",
+      "datePublished": "2026-05-10T04:50:28+09:00"
+    },
+    {
+      "name": "卓球 団体世界選手権 日本女子が6大会連続で決勝進出",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015117571000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260509/K10015117571_2605092121_0509213916_01_02.jpg",
+      "datePublished": "2026-05-10T01:50:36+09:00"
+    },
+    {
+      "name": "卓球 団体世界選手権 日本男子が4大会ぶりの決勝進出",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015117651000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260510/K10015117651_2605100733_0510073750_01_02.jpg",
+      "datePublished": "2026-05-10T07:37:49+09:00"
+    },
+    {
+      "name": "女子ゴルフ 米ツアー 原英莉花が12位に順位上げ最終ラウンドへ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015117681000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260510/K10015117681_2605100901_0510090306_01_02.jpg",
+      "datePublished": "2026-05-10T06:54:30+09:00"
+    },
+    {
+      "name": "「次の一歩も“りくりゅう”で」引退表明後初のインタビュー",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015111561000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260502/K10015111561_2604301825_0502072803_01_02.jpg",
+      "datePublished": "2026-05-02T07:28:02+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

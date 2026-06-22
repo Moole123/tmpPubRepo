@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015135761000",
+  "dataSourceId": "na",
+  "name": "【地震速報】千葉県で震度３ 津波の心配なし",
+  "headline": "【地震速報】千葉県で震度３ 津波の心配なし",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015135761000",
+    "playlistId": "news-nwa-disaster-nationwide-20260530",
+    "newsarticleName": "【地震速報】千葉県で震度３ 津波の心配なし",
+    "playlistName": "5月30日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "30日午前6時38分ごろ千葉県で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。\n\n\n▽震度3の揺れを観測したのは千葉県長南町です。\n\nこのほか千葉県の広い範囲で震度2や",
+  "dateModified": "2026-05-30T06:56:06+09:00",
+  "datePublished": "2026-05-30T06:42:38+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260530/K10015135761_2605300643_0530064457_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260530/K10015135761_2605300643_0530064457_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0002212",
+      "name": "千葉県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "30日午前6時38分ごろ千葉県で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。\n\n\n▽震度3の揺れを観測したのは千葉県長南町です。\n\nこのほか千葉県の広い範囲で震度2や",
+  "articleBody": "30日午前6時38分ごろ千葉県で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。\n\n\n▽震度3の揺れを観測したのは千葉県長南町です。\n\nこのほか千葉県の広い範囲で震度2や震度1の揺れを観測しました。\n\n気象庁の観測によりますと、震源地は千葉県北東部で震源の深さは30キロ、地震の規模を示すマグニチュードは3.9と推定されています。\n",
+  "detailedArticleBody": {
+    "markedLead": "30日午前6時38分ごろ千葉県で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。\n",
+    "markedBody": "▽震度3の揺れを観測したのは千葉県長南町です。\n\nこのほか千葉県の広い範囲で震度2や震度1の揺れを観測しました。\n\n気象庁の観測によりますと、震源地は千葉県北東部で震源の深さは30キロ、地震の規模を示すマグニチュードは3.9と推定されています。\n",
+    "trimmedLead": "30日午前6時38分ごろ千葉県で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015135761000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015135761000",
+  "video": [],
+  "citation": [
+    {
+      "name": "【最新の地震情報】各地の震度・震源を詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/earthquake/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30060617.jpg"
+    },
+    {
+      "name": "地震発生 その時どう行動する!?",
+      "url": "https://news.web.nhk/newsweb/na/nc-790dbe02-3696-4956-b2ac-83401a4f8f5b",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045984.jpg"
+    },
+    {
+      "name": "地震マップ 最新の震度分布・震源をリアルタイム更新",
+      "url": "https://news.web.nhk/bousai-map/earthquake/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31036920.jpg"
+    },
+    {
+      "name": "地震動予測地図 震度６弱以上 各地のリスク",
+      "url": "https://news.web.nhk/newsweb/na/nc-04b01a9b-a30f-46c5-af92-bd6f205a005f",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045805.jpg"
+    },
+    {
+      "name": "首都直下地震 あなたの街の揺れは？自治体ごとの震度を詳しく",
+      "url": "https://news.web.nhk/newsweb/na/nc-9d41f247-b611-4c72-918e-b7bc60dfc006",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31134658.jpg"
+    },
+    {
+      "name": "首都直下地震 新たな被害想定 “死者 最大1万8000人”",
+      "url": "https://news.web.nhk/newsweb/na/nc-e348f9cc-3c19-4405-a5b0-210cab9aeaae",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31134676.jpg"
+    },
+    {
+      "name": "南海トラフ巨大地震「新被害想定」私のまちは",
+      "url": "https://news.web.nhk/newsweb/na/nc-a2084f03-7197-4f79-b727-4fda9d15eecd",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_28817111.jpg"
+    },
+    {
+      "name": "火災の初期消火 消火器の使い方や対策は？",
+      "url": "https://news.web.nhk/newsweb/na/nc-813b665d-4bc8-4cc1-9df8-39020c4f8bb0",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045799.jpg"
+    },
+    {
+      "name": "「エレベーターに閉じ込められた」いったいどうすれば？",
+      "url": "https://news.web.nhk/newsweb/na/nc-ca2734b0-c080-45e4-a5c5-2bbc97205783",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045827.jpg"
+    },
+    {
+      "name": "災害時の偽情報や誤情報に注意 拡散で命にかかわるリスクも",
+      "url": "https://news.web.nhk/newsweb/na/nc-b777764c-a841-41c5-8a78-0b496adee8d9",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045938.jpg"
+    },
+    {
+      "name": "NHKONE防災 災害リスク・備えをまとめて",
+      "url": "https://news.web.nhk/newsweb/sp/pl/editorial-nwa-0000000132",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30066327.jpg"
+    },
+    {
+      "name": "天気防災サイト あなたの街の天気予報や災害情報を即時提供",
+      "url": "https://news.web.nhk/kishou-saigai/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037196.jpg"
+    },
+    {
+      "name": "天気防災マップ ふだんの雨雲予想から災害時のリスク情報まで",
+      "url": "https://news.web.nhk/bousai-map/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037154.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

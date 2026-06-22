@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015147101000",
+  "dataSourceId": "na",
+  "name": "日銀 植田総裁入院 “政府との連携含め支障生じない”官房長官",
+  "headline": "日銀 植田総裁入院 “政府との連携含め支障生じない”官房長官",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015147101000",
+    "playlistId": "news-nwa-politics-nationwide-20260611",
+    "newsarticleName": "日銀 植田総裁入院 “政府との連携含め支障生じない”官房長官",
+    "playlistName": "6月11日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "日銀の植田総裁が入院したことについて、木原官房長官は、リモートワークで公務を続けるうえ、組織として業務を運営しているとして、政府との連携を含め、支障は生じないという認識を示しました。\n\n\n日銀は10日",
+  "dateModified": "2026-06-11T13:52:22+09:00",
+  "datePublished": "2026-06-11T13:52:22+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260611/K10015147101_2606111243_0611135223_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260611/K10015147101_2606111243_0611135223_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0002672",
+      "name": "高市内閣",
+      "display": true
+    },
+    {
+      "id": "0002310",
+      "name": "日本銀行（日銀）",
+      "display": true
+    },
+    {
+      "id": "0000009",
+      "name": "IT・ネット",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "日銀の植田総裁が入院したことについて、木原官房長官は、リモートワークで公務を続けるうえ、組織として業務を運営しているとして、政府との連携を含め、支障は生じないという認識を示しました。\n\n\n日銀は10日",
+  "articleBody": "日銀の植田総裁が入院したことについて、木原官房長官は、リモートワークで公務を続けるうえ、組織として業務を運営しているとして、政府との連携を含め、支障は生じないという認識を示しました。\n\n\n日銀は10日、植田総裁が感染症のため入院していると発表し、植田総裁は、来週15日、16日に控える金融政策決定会合を欠席する見込みです。\n\nこれについて、木原官房長官は午前の記者会見で「一日も早い回復を願っている。入院中、植田総裁はリモートワーク環境を通じて必要な公務を行うと報告を受けている」と述べました。\n\nそして、金融政策決定会合では、議長の職務を氷見野副総裁が代理するなどとしたうえで「日銀は組織として政策や業務を遂行している。総裁個人の一時的な入院により、政府との連携も含め、運営に支障が生じることはない」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "日銀の植田総裁が入院したことについて、木原官房長官は、リモートワークで公務を続けるうえ、組織として業務を運営しているとして、政府との連携を含め、支障は生じないという認識を示しました。\n",
+    "markedBody": "日銀は10日、植田総裁が感染症のため入院していると発表し、植田総裁は、来週15日、16日に控える金融政策決定会合を欠席する見込みです。\n\nこれについて、木原官房長官は午前の記者会見で「一日も早い回復を願っている。入院中、植田総裁はリモートワーク環境を通じて必要な公務を行うと報告を受けている」と述べました。\n\nそして、金融政策決定会合では、議長の職務を氷見野副総裁が代理するなどとしたうえで「日銀は組織として政策や業務を遂行している。総裁個人の一時的な入院により、政府との連携も含め、運営に支障が生じることはない」と述べました。\n",
+    "trimmedLead": "日銀の植田総裁が入院したことについて、木原官房長官は、リモートワークで公務を続けるうえ、組織として業務を運営しているとして、政府との連携を含め、支障は生じないという認識を示しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015147101000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015147101000",
+  "video": [],
+  "citation": [
+    {
+      "name": "日銀 “政策金利１％程度へ” 来週の会合で利上げを最終判断へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015145141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260609/K10015145141_2606091552_0609160721_01_02.jpg",
+      "datePublished": "2026-06-09T16:37:50+09:00"
+    },
+    {
+      "name": "日銀植田総裁が入院 来週の金融政策決定会合は欠席の見込み",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015146301000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260610/K10015146301_2606101905_0610205413_01_02.jpg",
+      "datePublished": "2026-06-10T20:54:12+09:00"
+    },
+    {
+      "name": "神奈川 相模原 河川敷に17歳女子高校生の遺体 殺人疑いで捜査",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015146971000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260611/K10015146971_2606111304_0611133356_01_03.jpg",
+      "datePublished": "2026-06-11T13:33:55+09:00"
+    },
+    {
+      "name": "米軍 前日に続きイラン攻撃 トマホークミサイル49発使用か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015146671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260611/K10015146671_2606110505_0611055436_01_02.jpg",
+      "datePublished": "2026-06-11T11:53:48+09:00"
+    },
+    {
+      "name": "FIFA会長 米とイラン対立に「どうにもできない状況がある」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015146681000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260611/K10015146681_2606110608_0611063714_01_02.jpg",
+      "datePublished": "2026-06-11T09:02:07+09:00"
+    },
+    {
+      "name": "サッカーワールドカップ 日本時間あす開幕 日本は優勝目指す",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015146901000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260611/K10015146901_2606111147_0611115230_01_02.jpg",
+      "datePublished": "2026-06-11T15:04:18+09:00"
+    },
+    {
+      "name": "株価 荒い値動き 一時1800円以上 値下がりの場面も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015146761000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260611/K10015146761_2606110916_0611091653_01_02.jpg",
+      "datePublished": "2026-06-11T12:10:17+09:00"
+    },
+    {
+      "name": "衆院定数削減 比例のみ45議席削減の法案了承 自民合同会議",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015146941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260611/K10015146941_2606111135_0611115907_01_02.jpg",
+      "datePublished": "2026-06-11T14:53:49+09:00"
+    },
+    {
+      "name": "【歴史 名場面振り返り】サッカーワールドカップ 1930～2022",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120321000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260610/K10015120321_2606070429_0610195050_01_02.jpg",
+      "datePublished": "2026-06-10T19:50:48+09:00"
+    },
+    {
+      "name": "サグラダ・ファミリア教会 「イエスの塔」完成記念のミサ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015146501000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260611/K10015146501_2606111105_0611110548_01_03.jpg",
+      "datePublished": "2026-06-11T08:40:50+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

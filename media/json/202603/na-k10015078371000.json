@@ -1,0 +1,140 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015078371000",
+  "dataSourceId": "na",
+  "name": "将棋 王将戦 藤井聡太六冠と永瀬拓矢九段 第6局が始まる",
+  "headline": "将棋 王将戦 藤井聡太六冠と永瀬拓矢九段 第6局が始まる",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015078371000",
+    "playlistId": "news-nwa-society-nationwide-20260318",
+    "newsarticleName": "将棋 王将戦 藤井聡太六冠と永瀬拓矢九段 第6局が始まる",
+    "playlistName": "3月18日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "将棋の八大タイトルの1つ、「王将戦」七番勝負の第6局が名古屋市で始まり、あとがない藤井聡太六冠（23）が勝って最終局に望みをつなげられるか、注目されます。\n\n\n「王将戦」第6局の会場は名古屋市の「名古",
+  "dateModified": "2026-03-18T10:51:34+09:00",
+  "datePublished": "2026-03-18T10:51:34+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260318/K10015078371_2603181000_0318105134_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260318/K10015078371_2603181000_0318105134_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "0002391",
+      "name": "囲碁・将棋",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "将棋の八大タイトルの1つ、「王将戦」七番勝負の第6局が名古屋市で始まり、あとがない藤井聡太六冠（23）が勝って最終局に望みをつなげられるか、注目されます。\n\n\n「王将戦」第6局の会場は名古屋市の「名古",
+  "articleBody": "将棋の八大タイトルの1つ、「王将戦」七番勝負の第6局が名古屋市で始まり、あとがない藤井聡太六冠（23）が勝って最終局に望みをつなげられるか、注目されます。\n\n\n「王将戦」第6局の会場は名古屋市の「名古屋将棋対局場」で、藤井六冠と挑戦者の永瀬拓矢九段（33）が盤の前に座り、午前9時、対局が始まりました。\n\n先手の藤井六冠はここまで2勝3敗と「角番」となっていて、この対局に敗れると、保持するタイトル数を「6」から「5」に減らすことになります。\n\nまた、藤井六冠はタイトル防衛がかかる「棋王戦」も2勝2敗で角番となっているほか今月「叡王戦」の挑戦者を決めるトーナメントで敗れことしの八冠復帰はなくなっています。\n\n一方の永瀬九段は、自身にとって初めてとなる「王将」タイトル奪取にあと1勝と迫っています。\n\n「王将戦」第6局の勝敗は19日午後に決まる見通しです。\n",
+  "detailedArticleBody": {
+    "markedLead": "将棋の八大タイトルの1つ、「王将戦」七番勝負の第6局が名古屋市で始まり、あとがない藤井聡太六冠（23）が勝って最終局に望みをつなげられるか、注目されます。\n",
+    "markedBody": "「王将戦」第6局の会場は名古屋市の「名古屋将棋対局場」で、藤井六冠と挑戦者の永瀬拓矢九段（33）が盤の前に座り、午前9時、対局が始まりました。\n\n先手の藤井六冠はここまで2勝3敗と「角番」となっていて、この対局に敗れると、保持するタイトル数を「6」から「5」に減らすことになります。\n\nまた、藤井六冠はタイトル防衛がかかる「棋王戦」も2勝2敗で角番となっているほか今月「叡王戦」の挑戦者を決めるトーナメントで敗れことしの八冠復帰はなくなっています。\n\n一方の永瀬九段は、自身にとって初めてとなる「王将」タイトル奪取にあと1勝と迫っています。\n\n「王将戦」第6局の勝敗は19日午後に決まる見通しです。\n",
+    "trimmedLead": "将棋の八大タイトルの1つ、「王将戦」七番勝負の第6局が名古屋市で始まり、あとがない藤井聡太六冠（23）が勝って最終局に望みをつなげられるか、注目されます。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015078371000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015078371000",
+  "video": [],
+  "citation": [
+    {
+      "name": "「王将戦」藤井六冠勝ち第6局へ タイトル防衛に望みつなぐ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015070951000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260309/K10015070951_2603091748_0309182350_01_02.jpg",
+      "datePublished": "2026-03-09T20:27:00+09:00"
+    },
+    {
+      "name": "トランプ大統領 “NATOや日本など同盟国の支援は必要ない”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015078321000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260318/K10015078321_2603180159_0318021622_01_02.jpg",
+      "datePublished": "2026-03-18T12:28:57+09:00"
+    },
+    {
+      "name": "高市首相 19日に日米首脳会談 イラン情勢への対応も焦点に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015078211000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260318/K10015078211_2603180235_0318052337_01_03.jpg",
+      "datePublished": "2026-03-18T11:01:17+09:00"
+    },
+    {
+      "name": "2月貿易統計 米向け輸出額 前年同月比8％減 減少は3か月連続",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015078361000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260318/K10015078361_2603180940_0318105015_01_02.jpg",
+      "datePublished": "2026-03-18T11:23:18+09:00"
+    },
+    {
+      "name": "日銀 きょうから金融政策決定会合 イラン情勢めぐる議論が焦点",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015078191000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260318/K10015078191_2603172056_0318043751_01_02.jpg",
+      "datePublished": "2026-03-18T04:37:50+09:00"
+    },
+    {
+      "name": "春闘 きょう集中回答日 物価上昇上回る賃上げ実現するかが焦点",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015078201000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260318/K10015078201_2603172157_0318042913_01_02.jpg",
+      "datePublished": "2026-03-18T08:22:30+09:00"
+    },
+    {
+      "name": "イギリス 2月の米イラン協議に参加 “攻撃は時期尚早” 英報道",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015078401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260318/K10015078401_2603180857_0318090838_01_03.jpg",
+      "datePublished": "2026-03-18T09:08:37+09:00"
+    },
+    {
+      "name": "NY原油 WTI先物価格が高止まり イラン情勢のエスカレート懸念",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015078331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260318/K10015078331_2603180311_0318062954_01_02.jpg",
+      "datePublished": "2026-03-18T06:29:54+09:00"
+    },
+    {
+      "name": "石油製品「ナフサ」供給懸念 メーカーの値上げ相次ぐ 今後は？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015077731000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260317/K10015077731_2603171633_0317193810_01_02.jpg",
+      "datePublished": "2026-03-17T19:41:53+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

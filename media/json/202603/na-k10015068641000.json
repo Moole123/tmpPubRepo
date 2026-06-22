@@ -1,0 +1,146 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015068641000",
+  "dataSourceId": "na",
+  "name": "村田製作所 不正アクセスでデータ流出 社外情報含む可能性も",
+  "headline": "村田製作所 不正アクセスでデータ流出 社外情報含む可能性も",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015068641000",
+    "playlistId": "news-nwa-business-nationwide-20260306",
+    "newsarticleName": "村田製作所 不正アクセスでデータ流出 社外情報含む可能性も",
+    "playlistName": "3月6日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "電子部品大手の「村田製作所」は、自社のシステムが何者かに不正アクセスされ、社内データが流出したことを明らかにしました。流出したデータには、社外の関係者の情報も含まれている可能性があり、会社側が詳しい調",
+  "dateModified": "2026-03-06T20:39:35+09:00",
+  "datePublished": "2026-03-06T20:39:35+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260306/K10015068641_2603062041_0306204204_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260306/K10015068641_2603062041_0306204204_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0000009",
+      "name": "IT・ネット",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "電子部品大手の「村田製作所」は、自社のシステムが何者かに不正アクセスされ、社内データが流出したことを明らかにしました。流出したデータには、社外の関係者の情報も含まれている可能性があり、会社側が詳しい調",
+  "articleBody": "電子部品大手の「村田製作所」は、自社のシステムが何者かに不正アクセスされ、社内データが流出したことを明らかにしました。流出したデータには、社外の関係者の情報も含まれている可能性があり、会社側が詳しい調査を進めています。\n\n\n発表によりますと、2月28日に自社のシステムが、何者かに不正アクセスを受けた可能性のあることが分かり、調査した結果、社内データの流出が判明したということです。\n\n流出したデータは取引先など、社外の関係者の情報も含まれている可能性があるということです。\n\n流出したデータの件数など、詳しいことは現在、調査中だとしています。\n\nまた、外部の専門機関と連携し、被害の拡大を防ぐための対策は済ませ、工場など製造現場には影響は出ていないとしています。\n\n不正アクセスについて村田製作所は「影響を受ける皆さま、および関係者の皆さまにご迷惑とご心配をおかけしますことを深くおわび申し上げます」とコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "電子部品大手の「村田製作所」は、自社のシステムが何者かに不正アクセスされ、社内データが流出したことを明らかにしました。流出したデータには、社外の関係者の情報も含まれている可能性があり、会社側が詳しい調査を進めています。\n",
+    "markedBody": "発表によりますと、2月28日に自社のシステムが、何者かに不正アクセスを受けた可能性のあることが分かり、調査した結果、社内データの流出が判明したということです。\n\n流出したデータは取引先など、社外の関係者の情報も含まれている可能性があるということです。\n\n流出したデータの件数など、詳しいことは現在、調査中だとしています。\n\nまた、外部の専門機関と連携し、被害の拡大を防ぐための対策は済ませ、工場など製造現場には影響は出ていないとしています。\n\n不正アクセスについて村田製作所は「影響を受ける皆さま、および関係者の皆さまにご迷惑とご心配をおかけしますことを深くおわび申し上げます」とコメントしています。\n",
+    "trimmedLead": "電子部品大手の「村田製作所」は、自社のシステムが何者かに不正アクセスされ、社内データが流出したことを明らかにしました。流出したデータには、社外の関係者の情報も含まれている可能性があり、会社側が詳しい調査を進めています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015068641000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015068641000",
+  "video": [],
+  "citation": [
+    {
+      "name": "トランプ大統領 作戦の見通し「予定より早く進んでいる」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015068581000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260306/K10015068581_2603061837_0306190244_01_02.jpg",
+      "datePublished": "2026-03-06T19:47:15+09:00"
+    },
+    {
+      "name": "コンテナが届かない 重油は値上がりの見通し 各業界は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015068261000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260306/K10015068261_2603061651_0306184200_01_02.jpg",
+      "datePublished": "2026-03-06T18:41:59+09:00"
+    },
+    {
+      "name": "高市首相 カナダ首相と会談 経済安全保障対話立ち上げなど一致",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015068391000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260306/K10015068391_2603062004_0306200612_01_02.jpg",
+      "datePublished": "2026-03-07T01:16:38+09:00"
+    },
+    {
+      "name": "自民 維新 5類型撤廃し「武器」移転を原則可能とする提言提出",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015067891000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260306/K10015067891_2603061609_0306173256_01_03.jpg",
+      "datePublished": "2026-03-06T18:37:12+09:00"
+    },
+    {
+      "name": "「食べログ」評価の変更めぐる訴訟 店側の敗訴が確定 最高裁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015068501000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260306/K10015068501_2603061746_0306181423_01_02.jpg",
+      "datePublished": "2026-03-06T18:14:23+09:00"
+    },
+    {
+      "name": "「震災遺構」増える修繕費 “長く後世に” 模索する現場",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015068021000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260306/K10015068021_2603061546_0306180640_01_02.jpg",
+      "datePublished": "2026-03-06T18:06:39+09:00"
+    },
+    {
+      "name": "日本生命の米法人 オープンAIに賠償など求め提訴 米裁判所",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015068511000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260306/K10015068511_2603061755_0306181353_01_03.jpg",
+      "datePublished": "2026-03-06T18:13:53+09:00"
+    },
+    {
+      "name": "イラン情勢 “日本人2人拘束”  オマーン湾で日本関係船舶損傷",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015067961000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260306/K10015067961_2603061155_0306120031_01_02.jpg",
+      "datePublished": "2026-03-06T17:22:16+09:00"
+    },
+    {
+      "name": "WBC 日本が台湾にコールド勝ち 大谷翔平が先制満塁HR【詳報】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015068491000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260306/K10015068491_2603062233_0306223729_01_02.jpg",
+      "datePublished": "2026-03-07T01:51:53+09:00"
+    },
+    {
+      "name": "WBC2026 日本代表の試合はいつ？結果は【随時更新】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015068291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260306/K10015068291_2603061516_0306164432_01_02.jpg",
+      "datePublished": "2026-03-06T16:44:31+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

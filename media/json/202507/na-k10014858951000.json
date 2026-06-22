@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014858951000",
+  "dataSourceId": "na",
+  "name": "株価 値下がり 円高進み輸出関連の銘柄などに売り注文",
+  "headline": "株価 値下がり 円高進み輸出関連の銘柄などに売り注文",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014858951000",
+    "playlistId": "news-nwa-business-nationwide-20250710",
+    "newsarticleName": "株価 値下がり 円高進み輸出関連の銘柄などに売り注文",
+    "playlistName": "7月10日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "10日の東京株式市場、外国為替市場で円高が進んでいることを背景に、輸出関連など多くの銘柄に売り注文が出て、日経平均株価は値下がりしました。\n\n\n▽日経平均株価、10日の終値は前日の終値より174円92",
+  "dateModified": "2025-07-10T19:01:45+09:00",
+  "datePublished": "2025-07-10T14:14:28+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250710/K10014858951_2507101539_0710162839_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250710/K10014858951_2507101539_0710162839_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "10日の東京株式市場、外国為替市場で円高が進んでいることを背景に、輸出関連など多くの銘柄に売り注文が出て、日経平均株価は値下がりしました。\n\n\n▽日経平均株価、10日の終値は前日の終値より174円92",
+  "articleBody": "10日の東京株式市場、外国為替市場で円高が進んでいることを背景に、輸出関連など多くの銘柄に売り注文が出て、日経平均株価は値下がりしました。\n\n\n▽日経平均株価、10日の終値は前日の終値より174円92銭安い3万9646円36銭。\n\n▽東証株価指数＝トピックスは15.82下がって2812.34。\n\n▽一日の出来高は20億184万株でした。\n\n市場関係者は「日経平均株価は4万円という節目を前に、このところ値上がりした銘柄を売って、利益を確定しようという動きがみられた。引き続き、アメリカの関税措置をめぐる日米交渉の不透明感を意識する投資家も多い」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "10日の東京株式市場、外国為替市場で円高が進んでいることを背景に、輸出関連など多くの銘柄に売り注文が出て、日経平均株価は値下がりしました。\n",
+    "markedBody": "▽日経平均株価、10日の終値は前日の終値より174円92銭安い3万9646円36銭。\n\n▽東証株価指数＝トピックスは15.82下がって2812.34。\n\n▽一日の出来高は20億184万株でした。\n\n市場関係者は「日経平均株価は4万円という節目を前に、このところ値上がりした銘柄を売って、利益を確定しようという動きがみられた。引き続き、アメリカの関税措置をめぐる日米交渉の不透明感を意識する投資家も多い」と話しています。\n",
+    "trimmedLead": "10日の東京株式市場、外国為替市場で円高が進んでいることを背景に、輸出関連など多くの銘柄に売り注文が出て、日経平均株価は値下がりしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014858951000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014858951000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015111801000",
+  "dataSourceId": "na",
+  "name": "島根原発2号機 設計と異なる部品 30年余り原子炉内で使用",
+  "headline": "島根原発2号機 設計と異なる部品 30年余り原子炉内で使用",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015111801000",
+    "playlistId": "news-nwa-scienceculture-nationwide-20260430",
+    "newsarticleName": "島根原発2号機 設計と異なる部品 30年余り原子炉内で使用",
+    "playlistName": "4月30日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "中国電力は、島根原子力発電所2号機で原子炉の核燃料を支える金具の1つに、30年余りにわたり誤ってテスト用の模擬部品を使っていたと明らかにしました。冷却水を流すための穴の直径が本来の設計より小さく、核燃",
+  "dateModified": "2026-04-30T18:04:59+09:00",
+  "datePublished": "2026-04-30T18:04:59+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260430/K10015111801_2604301746_0430180500_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260430/K10015111801_2604301746_0430180500_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "0000021",
+      "name": "原発",
+      "display": true
+    },
+    {
+      "id": "0002232",
+      "name": "島根県",
+      "display": true
+    },
+    {
+      "id": "0002736",
+      "name": "資源・エネルギー",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "中国電力は、島根原子力発電所2号機で原子炉の核燃料を支える金具の1つに、30年余りにわたり誤ってテスト用の模擬部品を使っていたと明らかにしました。冷却水を流すための穴の直径が本来の設計より小さく、核燃",
+  "articleBody": "中国電力は、島根原子力発電所2号機で原子炉の核燃料を支える金具の1つに、30年余りにわたり誤ってテスト用の模擬部品を使っていたと明らかにしました。冷却水を流すための穴の直径が本来の設計より小さく、核燃料1体の冷却効率に関する値が社内で定めた基準を下回っていたということで、中国電力は詳しい状況を調べることにしています。\n\n\n中国電力はおととし再稼働させた松江市にある島根原発2号機でことし2月から運転を停止して定期検査を行っていますが、30日、原子炉の核燃料を支える金具の1つが本来の設計と異なっていたと発表しました。\n\n具体的にはこの金具には原子炉に冷却水を流すための穴が空いていますが、その直径が本来の設計の半分以下だったということです。\n\nこの影響で原子炉の冷却水の量が乱れ、560体ある核燃料のうち1体で、およそ5か月間にわたり冷却効率に関する値が社内で定めた基準を下回っていたということです。\n\n中国電力は4月20日、この金具を取り外し、安全上の問題は起きていないとしています。\n\n中国電力によりますと、設計と異なる穴が空いていた金具はテスト用の模擬部品で1995年の部品交換の際に誤って装着され、30年余りにわたり使用されていたということです。\n\n中国電力は「ご心配をおかけしておわび申し上げます。原因調査を進めて再発防止に努めてまいります」とコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "中国電力は、島根原子力発電所2号機で原子炉の核燃料を支える金具の1つに、30年余りにわたり誤ってテスト用の模擬部品を使っていたと明らかにしました。冷却水を流すための穴の直径が本来の設計より小さく、核燃料1体の冷却効率に関する値が社内で定めた基準を下回っていたということで、中国電力は詳しい状況を調べることにしています。\n",
+    "markedBody": "中国電力はおととし再稼働させた松江市にある島根原発2号機でことし2月から運転を停止して定期検査を行っていますが、30日、原子炉の核燃料を支える金具の1つが本来の設計と異なっていたと発表しました。\n\n具体的にはこの金具には原子炉に冷却水を流すための穴が空いていますが、その直径が本来の設計の半分以下だったということです。\n\nこの影響で原子炉の冷却水の量が乱れ、560体ある核燃料のうち1体で、およそ5か月間にわたり冷却効率に関する値が社内で定めた基準を下回っていたということです。\n\n中国電力は4月20日、この金具を取り外し、安全上の問題は起きていないとしています。\n\n中国電力によりますと、設計と異なる穴が空いていた金具はテスト用の模擬部品で1995年の部品交換の際に誤って装着され、30年余りにわたり使用されていたということです。\n\n中国電力は「ご心配をおかけしておわび申し上げます。原因調査を進めて再発防止に努めてまいります」とコメントしています。\n",
+    "trimmedLead": "中国電力は、島根原子力発電所2号機で原子炉の核燃料を支える金具の1つに、30年余りにわたり誤ってテスト用の模擬部品を使っていたと明らかにしました。冷却水を流すための穴の直径が本来の設計より小さく、核燃料1体の冷却効率に関する値が社内で定めた基準を下回っていたということで、中国電力は詳しい状況を調べることにしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015111801000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015111801000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "島根原発2号機 設計と異なる部品 30年余り原子炉内で使用",
+      "description": "中国電力は、島根原子力発電所2号機で原子炉の核燃料を支える金具の1つに、30年余りにわたり誤ってテスト用の模擬部品を使っていたと明らかにしました。冷却水を流すための穴の直径が本来の設計より小さく、核燃",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015111801_202604301818_202604301818/index.m3u8&mrposter=/news/html/20260430/K10015111801_2604301746_0430180500_01_02.jpg",
+      "duration": "PT1M21S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015111801_202604301818_202604301818/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260430/K10015111801_2604301746_0430180500_01_02.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "旭山動物園の職員の逮捕状請求 遺体損壊の疑い 妻は行方不明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015111781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260430/K10015111781_2604301735_0430173910_01_02.jpg",
+      "datePublished": "2026-04-30T19:44:58+09:00"
+    },
+    {
+      "name": "東京 福生 ハンマーで殴り逃走 容疑者を公開手配 警視庁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015111261000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260430/K10015111261_2604301056_0430111705_01_03.jpg",
+      "datePublished": "2026-04-30T18:00:57+09:00"
+    },
+    {
+      "name": "岩手 大槌町山林火災 避難指示すべて解除 鎮圧へ消火活動続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015111521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260430/K10015111521_2604301209_0430125418_01_03.jpg",
+      "datePublished": "2026-04-30T19:46:00+09:00"
+    },
+    {
+      "name": "富山 女性がクマに襲われけが 「緊急銃猟」でクマ1頭を駆除",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015111461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260430/K10015111461_2604301212_0430121518_01_02.jpg",
+      "datePublished": "2026-04-30T15:26:34+09:00"
+    },
+    {
+      "name": "商船三井社長 ペルシャ湾外への1日も早い船舶移動で政府と連携",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015111601000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260430/K10015111601_2604301645_0430173052_01_02.jpg",
+      "datePublished": "2026-04-30T17:30:51+09:00"
+    },
+    {
+      "name": "東京電力 次期会長に産業革新投資機構社長の横尾敬介氏を内定",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015111751000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260430/K10015111751_2604301556_0430162238_01_02.jpg",
+      "datePublished": "2026-04-30T19:25:03+09:00"
+    },
+    {
+      "name": "株価 値下がり 原油先物価格の上昇で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015111451000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260430/K10015111451_2604301345_0430134630_01_02.jpg",
+      "datePublished": "2026-04-30T16:32:21+09:00"
+    },
+    {
+      "name": "レギュラーガソリン全国平均 1リットルあたり169.7円に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015111711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260430/K10015111711_2604301509_0430153503_01_02.jpg",
+      "datePublished": "2026-04-30T15:35:02+09:00"
+    },
+    {
+      "name": "帚木蓬生さん小説 販売中止 存命人物が作中で死亡とされ抗議",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015111741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260430/K10015111741_2604301544_0430163121_01_02.jpg",
+      "datePublished": "2026-04-30T16:31:20+09:00"
+    },
+    {
+      "name": "トランプ大統領に新たな軍事行動の説明へ 報道受け懸念広がる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015111281000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260430/K10015111281_2604300452_0430053911_01_02.jpg",
+      "datePublished": "2026-04-30T19:14:50+09:00"
+    },
+    {
+      "name": "ことしの傾向は“近場？” 大型連休は物価高なども背景か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015110991000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260429/K10015110991_2604291848_0429190552_01_02.jpg",
+      "datePublished": "2026-04-29T19:27:58+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015136761000",
+  "dataSourceId": "na",
+  "name": "米西部の日本製紙子会社工場で薬品タンク破裂 死者11人に",
+  "headline": "米西部の日本製紙子会社工場で薬品タンク破裂 死者11人に",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015136761000",
+    "playlistId": "news-nwa-international-nationwide-20260601",
+    "newsarticleName": "米西部の日本製紙子会社工場で薬品タンク破裂 死者11人に",
+    "playlistName": "6月1日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "アメリカ西部ワシントン州にある日本製紙の子会社の工場で先月26日、化学薬品が貯蔵されていたタンクが破裂した事故で、会社はあわせて11人の死亡が確認されたと明らかにしました。地元当局が事故の原因などを詳",
+  "dateModified": "2026-06-01T06:16:11+09:00",
+  "datePublished": "2026-06-01T06:16:11+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260601/K10015136761_2606010342_0601061612_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260601/K10015136761_2606010342_0601061612_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "アメリカ西部ワシントン州にある日本製紙の子会社の工場で先月26日、化学薬品が貯蔵されていたタンクが破裂した事故で、会社はあわせて11人の死亡が確認されたと明らかにしました。地元当局が事故の原因などを詳",
+  "articleBody": "アメリカ西部ワシントン州にある日本製紙の子会社の工場で先月26日、化学薬品が貯蔵されていたタンクが破裂した事故で、会社はあわせて11人の死亡が確認されたと明らかにしました。地元当局が事故の原因などを詳しく調べています。\n\n\nワシントン州ロングビューにある日本製紙の子会社、「日本ダイナウェーブ・パッケージング」の工場で先月26日、化学薬品が貯蔵されていたタンクが破裂し、倒壊しました。\n\n日本製紙や地元の消防によりますと、31日までに、行方がわからなくなっていた従業員9人全員の死亡が確認され、この事故で亡くなった人はあわせて11人になりました。\n\nまた、8人がけがをしているということです。\n\nタンクには紙の原料を製造する過程で使われる化学薬品が入っていたということで、地元当局はタンクが破裂した原因を詳しく調べるとともに、関係機関と連携して工場周辺の環境への影響についても確認を進めています。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカ西部ワシントン州にある日本製紙の子会社の工場で先月26日、化学薬品が貯蔵されていたタンクが破裂した事故で、会社はあわせて11人の死亡が確認されたと明らかにしました。地元当局が事故の原因などを詳しく調べています。\n",
+    "markedBody": "ワシントン州ロングビューにある日本製紙の子会社、「日本ダイナウェーブ・パッケージング」の工場で先月26日、化学薬品が貯蔵されていたタンクが破裂し、倒壊しました。\n\n日本製紙や地元の消防によりますと、31日までに、行方がわからなくなっていた従業員9人全員の死亡が確認され、この事故で亡くなった人はあわせて11人になりました。\n\nまた、8人がけがをしているということです。\n\nタンクには紙の原料を製造する過程で使われる化学薬品が入っていたということで、地元当局はタンクが破裂した原因を詳しく調べるとともに、関係機関と連携して工場周辺の環境への影響についても確認を進めています。\n",
+    "trimmedLead": "アメリカ西部ワシントン州にある日本製紙の子会社の工場で先月26日、化学薬品が貯蔵されていたタンクが破裂した事故で、会社はあわせて11人の死亡が確認されたと明らかにしました。地元当局が事故の原因などを詳しく調べています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015136761000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015136761000",
+  "video": [],
+  "citation": [
+    {
+      "name": "米西部の日本製紙の子会社で薬品のタンクが破裂 10人死傷",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015132631000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260527/K10015132631_2605271129_0527115322_01_02.jpg",
+      "datePublished": "2026-05-27T11:53:21+09:00"
+    },
+    {
+      "name": "【台風6号】沖縄・奄美に1日から接近 暴風や大雨など厳重警戒",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015136211000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260531/K10015136211_2606010232_0601023329_01_03.jpg",
+      "datePublished": "2026-05-31T22:55:54+09:00"
+    },
+    {
+      "name": "【台風影響】沖縄発着便など6月2日にかけて計400便以上が欠航",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015136311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260531/K10015136311_2605311122_0531113839_01_02.jpg",
+      "datePublished": "2026-05-31T21:23:26+09:00"
+    },
+    {
+      "name": "サッカー日本代表 壮行試合でアイスランドに1対0で勝利",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015136691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260531/K10015136691_2606010015_0601004038_01_02.jpg",
+      "datePublished": "2026-06-01T04:37:08+09:00"
+    },
+    {
+      "name": "4月のナフサ輸入量は減少も 代替調達先の米国からは209倍",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015136681000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260531/K10015136681_2605312100_0531212241_01_02.jpg",
+      "datePublished": "2026-05-31T21:22:40+09:00"
+    },
+    {
+      "name": "維新 吉村代表 「副首都」法案など“今の国会で成立図る”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015136501000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260531/K10015136501_2605312133_0531213358_01_02.jpg",
+      "datePublished": "2026-05-31T21:33:58+09:00"
+    },
+    {
+      "name": "新たな防災気象情報スタート 専門家“地域リスク調べ活用を”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133611000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015133611_2605281021_0528115033_01_02.jpg",
+      "datePublished": "2026-05-28T18:46:11+09:00"
+    },
+    {
+      "name": "新たな防災気象情報 専門家 “避難スイッチに”【Q＆A解説】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015132671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260527/K10015132671_2605271846_0527225649_01_02.jpg",
+      "datePublished": "2026-05-27T22:56:48+09:00"
+    },
+    {
+      "name": "天皇陛下と愛子さま 東京六大学野球 伝統の早慶戦を観戦",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015136481000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260531/K10015136481_2605311735_0531173959_01_02.jpg",
+      "datePublished": "2026-05-31T20:51:24+09:00"
+    },
+    {
+      "name": "ドジャース逆転負け 佐々木好投も勝敗つかず 大谷は1安打",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015136411000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260531/K10015136411_2605311504_0531150655_01_02.jpg",
+      "datePublished": "2026-05-31T17:29:19+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

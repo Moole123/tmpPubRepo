@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015071451000",
+  "dataSourceId": "na",
+  "name": "株価 一時1600円以上値上がり NY原油先物価格の下落で買い注文",
+  "headline": "株価 一時1600円以上値上がり NY原油先物価格の下落で買い注文",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015071451000",
+    "playlistId": "news-nwa-business-nationwide-20260310",
+    "newsarticleName": "株価 一時1600円以上値上がり NY原油先物価格の下落で買い注文",
+    "playlistName": "3月10日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "10日の東京株式市場、9日に記録的な急落となった日経平均株価は一時、1600円以上値上がりしています。\n\n\nG7各国が石油備蓄の協調放出を含む必要な対応をとる姿勢を示したことや、トランプ大統領の発言で",
+  "dateModified": "2026-03-10T09:18:02+09:00",
+  "datePublished": "2026-03-10T09:18:02+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260310/K10015071451_2603100918_0310091918_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260310/K10015071451_2603100918_0310091918_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0000819",
+      "name": "原油価格",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "10日の東京株式市場、9日に記録的な急落となった日経平均株価は一時、1600円以上値上がりしています。\n\n\nG7各国が石油備蓄の協調放出を含む必要な対応をとる姿勢を示したことや、トランプ大統領の発言で",
+  "articleBody": "10日の東京株式市場、9日に記録的な急落となった日経平均株価は一時、1600円以上値上がりしています。\n\n\nG7各国が石油備蓄の協調放出を含む必要な対応をとる姿勢を示したことや、トランプ大統領の発言でイラン情勢の長期化が避けられるとの見方が出ていることを受けて、9日のニューヨーク原油市場で先物価格が下落したことから、東京市場でも多くの銘柄に買い注文が集まっています。\n",
+  "detailedArticleBody": {
+    "markedLead": "10日の東京株式市場、9日に記録的な急落となった日経平均株価は一時、1600円以上値上がりしています。\n",
+    "markedBody": "G7各国が石油備蓄の協調放出を含む必要な対応をとる姿勢を示したことや、トランプ大統領の発言でイラン情勢の長期化が避けられるとの見方が出ていることを受けて、9日のニューヨーク原油市場で先物価格が下落したことから、東京市場でも多くの銘柄に買い注文が集まっています。\n",
+    "trimmedLead": "10日の東京株式市場、9日に記録的な急落となった日経平均株価は一時、1600円以上値上がりしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015071451000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015071451000",
+  "video": [],
+  "citation": [
+    {
+      "name": "NY原油市場 先物価格 一時81ドル台まで下落 早期収束に期待感",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015071321000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260310/K10015071321_2603100536_0310053800_01_02.jpg",
+      "datePublished": "2026-03-10T05:37:59+09:00"
+    },
+    {
+      "name": "NYダウ 一時800ドル超下落も買い戻しの動き 200ドル超値上がり",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015071271000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260309/K10015071271_2603092307_0309230820_01_02.jpg",
+      "datePublished": "2026-03-10T06:09:40+09:00"
+    },
+    {
+      "name": "去年10～12月のGDP改定値 年率換算+1.3％に上方修正",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015071431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260310/K10015071431_2603100900_0310090510_01_02.jpg",
+      "datePublished": "2026-03-10T09:05:09+09:00"
+    },
+    {
+      "name": "1月の家計調査 世帯の実質消費支出 2か月連続で減少",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015071411000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260310/K10015071411_2603100839_0310084616_01_02.jpg",
+      "datePublished": "2026-03-10T08:46:15+09:00"
+    },
+    {
+      "name": "政府 ガソリン・電気・ガス料金の補助など支援策検討へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015071301000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260310/K10015071301_2603100259_0310052412_01_02.jpg",
+      "datePublished": "2026-03-10T05:24:11+09:00"
+    },
+    {
+      "name": "G7財務相会議 フランス「石油備蓄放出含む必要な措置講じる」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015071241000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260309/K10015071241_2603100249_0310025340_01_03.jpg",
+      "datePublished": "2026-03-10T02:53:39+09:00"
+    },
+    {
+      "name": "中東の日本人旅行者ら281人乗せた第2便 成田空港に到着",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015071131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260309/K10015071131_2603100645_0310064710_01_02.jpg",
+      "datePublished": "2026-03-10T08:53:50+09:00"
+    },
+    {
+      "name": "株価 一時4200円超の急落 円や国債も売られ「トリプル安」に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015070431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260309/K10015070431_2603091113_0309111403_01_02.jpg",
+      "datePublished": "2026-03-09T19:18:28+09:00"
+    },
+    {
+      "name": "ロンドン市場 円相場 一時1ドル＝158円台まで値下がり",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015068841000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260306/K10015068841_2603062223_0306222452_01_02.jpg",
+      "datePublished": "2026-03-06T22:24:51+09:00"
+    },
+    {
+      "name": "「ミドルパワーの結束」カナダ首相が演説に込めた意味は？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015069291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260309/K10015069291_2603091834_0309201932_01_02.jpg",
+      "datePublished": "2026-03-09T20:19:31+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

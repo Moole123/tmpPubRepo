@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014868891000",
+  "dataSourceId": "na",
+  "name": "参院選 埼玉 春日部市 投票用紙を取り違えて交付するミス",
+  "headline": "参院選 埼玉 春日部市 投票用紙を取り違えて交付するミス",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014868891000",
+    "playlistId": "news-nwa-politics-nationwide-20250720",
+    "newsarticleName": "参院選 埼玉 春日部市 投票用紙を取り違えて交付するミス",
+    "playlistName": "7月20日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "埼玉県春日部市の選挙管理委員会は、20日投票が行われた参議院選挙で選挙区と比例代表の投票用紙を取り違えて交付するミスがあったと発表しました。\n\n\n春日部市選挙管理委員会によりますと20日午前7時すぎ、",
+  "dateModified": "2025-07-20T19:00:41+09:00",
+  "datePublished": "2025-07-20T19:00:41+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250720/K10014868891_2507201851_0720190043_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250720/K10014868891_2507201851_0720190043_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治",
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "埼玉県春日部市の選挙管理委員会は、20日投票が行われた参議院選挙で選挙区と比例代表の投票用紙を取り違えて交付するミスがあったと発表しました。\n\n\n春日部市選挙管理委員会によりますと20日午前7時すぎ、",
+  "articleBody": "埼玉県春日部市の選挙管理委員会は、20日投票が行われた参議院選挙で選挙区と比例代表の投票用紙を取り違えて交付するミスがあったと発表しました。\n\n\n春日部市選挙管理委員会によりますと20日午前7時すぎ、武里中学校に設けられた投票所で、訪れた25人の有権者に選挙区の投票用紙と比例代表の投票用紙を取り違えて交付したということです。\n\n投票所にいた職員が10分ほどたったあとにミスに気づきましたが、25人はすでに投票を終えていたということです。\n\n投票用紙を交付機に入れる際、本来複数の職員で行うべき確認を1人で行ったためミスが起きたとみられるということです。\n\n25人分の投票は無効になる可能性があるということで、市の選挙管理委員会は直接、謝罪することにしています。\n\n春日部市選挙管理委員会は「多大なるご迷惑をおかけし深くおわび申し上げる。複数人での確認を徹底し再発防止に努める」としています。\n",
+  "detailedArticleBody": {
+    "markedLead": "埼玉県春日部市の選挙管理委員会は、20日投票が行われた参議院選挙で選挙区と比例代表の投票用紙を取り違えて交付するミスがあったと発表しました。\n",
+    "markedBody": "春日部市選挙管理委員会によりますと20日午前7時すぎ、武里中学校に設けられた投票所で、訪れた25人の有権者に選挙区の投票用紙と比例代表の投票用紙を取り違えて交付したということです。\n\n投票所にいた職員が10分ほどたったあとにミスに気づきましたが、25人はすでに投票を終えていたということです。\n\n投票用紙を交付機に入れる際、本来複数の職員で行うべき確認を1人で行ったためミスが起きたとみられるということです。\n\n25人分の投票は無効になる可能性があるということで、市の選挙管理委員会は直接、謝罪することにしています。\n\n春日部市選挙管理委員会は「多大なるご迷惑をおかけし深くおわび申し上げる。複数人での確認を徹底し再発防止に努める」としています。\n",
+    "trimmedLead": "埼玉県春日部市の選挙管理委員会は、20日投票が行われた参議院選挙で選挙区と比例代表の投票用紙を取り違えて交付するミスがあったと発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014868891000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014868891000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

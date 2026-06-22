@@ -1,0 +1,84 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015132441000",
+  "dataSourceId": "na",
+  "name": "高市首相動静 2026年5月26日",
+  "headline": "高市首相動静 2026年5月26日",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015132441000",
+    "playlistId": "news-nwa-politics-nationwide-20260527",
+    "newsarticleName": "高市首相動静 2026年5月26日",
+    "playlistName": "5月27日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "（高市首相動静　2026年5月26日）\n\n\n08:12 徒歩で公邸発\n08:13 官邸着\n08:20 閣議（～08:27）\n09:50 官邸発\n09:52 国会着\n09:53 参議院第31委員会室入る",
+  "dateModified": "2026-05-27T08:07:48+09:00",
+  "datePublished": "2026-05-27T08:07:48+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260527/K10015132441_2605270749_0527080749_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260527/K10015132441_2605270749_0527080749_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0002532",
+      "name": "首相動静",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "（高市首相動静　2026年5月26日）\n\n\n08:12 徒歩で公邸発\n08:13 官邸着\n08:20 閣議（～08:27）\n09:50 官邸発\n09:52 国会着\n09:53 参議院第31委員会室入る",
+  "articleBody": "（高市首相動静　2026年5月26日）\n\n\n08:12 徒歩で公邸発\n08:13 官邸着\n08:20 閣議（～08:27）\n09:50 官邸発\n09:52 国会着\n09:53 参議院第31委員会室入る\n10:00 参議院内閣委員会開会\n10:59 参議院内閣委員会途中退席\n11:00 国会発\n11:03 官邸着\n13:22 官邸発\n13:23 国会着\n13:25 衆議院本会議場入る。衆議院本会議出席\n15:48 衆議院本会議散会\n15:49 衆議院本会議場出る\n15:51 国会発\n15:53 官邸着\n16:41 市川恵一国家安全保障局長、原和也内閣情報官と面会（～16:58）\n16:59 原内閣情報官と面会（～17:08）\n17:21 月例経済報告関係閣僚会議（～17:31）\n18:01 国家安全保障会議（～18:27）\n19:03 徒歩で官邸発\n19:04 公邸着\n",
+  "detailedArticleBody": {
+    "markedLead": "（高市首相動静　2026年5月26日）\n",
+    "markedBody": "08:12 徒歩で公邸発\\\n08:13 官邸着\\\n08:20 閣議（～08:27）\\\n09:50 官邸発\\\n09:52 国会着\\\n09:53 参議院第31委員会室入る\\\n10:00 参議院内閣委員会開会\\\n10:59 参議院内閣委員会途中退席\\\n11:00 国会発\\\n11:03 官邸着\\\n13:22 官邸発\\\n13:23 国会着\\\n13:25 衆議院本会議場入る。衆議院本会議出席\\\n15:48 衆議院本会議散会\\\n15:49 衆議院本会議場出る\\\n15:51 国会発\\\n15:53 官邸着\\\n16:41 市川恵一国家安全保障局長、原和也内閣情報官と面会（～16:58）\\\n16:59 原内閣情報官と面会（～17:08）\\\n17:21 月例経済報告関係閣僚会議（～17:31）\\\n18:01 国家安全保障会議（～18:27）\\\n19:03 徒歩で官邸発\\\n19:04 公邸着\n",
+    "trimmedLead": "（高市首相動静　2026年5月26日）\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015132441000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015132441000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": false,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

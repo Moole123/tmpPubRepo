@@ -1,0 +1,167 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015147921000",
+  "dataSourceId": "na",
+  "name": "ワールドカップ2026 サッカーW杯 開幕戦 メキシコが南アフリカに勝利",
+  "headline": "サッカーW杯 開幕戦 メキシコが南アフリカに勝利",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015147921000",
+    "playlistId": "news-nwa-sports-nationwide-20260612",
+    "newsarticleName": "ワールドカップ2026 サッカーW杯 開幕戦 メキシコが南アフリカに勝利",
+    "playlistName": "6月12日のスポーツニュース",
+    "genreId": "sports",
+    "genreIdSlug": "sports"
+  },
+  "description": "サッカーワールドカップ北中米大会が11日、日本時間の12日に開幕し、開幕戦となった1次リーグのグループA、メキシコ 対 南アフリカはメキシコが2対0で勝ちました。\n\n\nメキシコは前半9分、プレスをかけ",
+  "dateModified": "2026-06-12T06:16:48+09:00",
+  "datePublished": "2026-06-12T06:16:48+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260612/K10015147921_2606120107_0612061649_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260612/K10015147921_2606120107_0612061649_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "スポーツ"
+  ],
+  "topic": [
+    {
+      "id": "0002444",
+      "name": "サッカーワールドカップ2026",
+      "display": true
+    },
+    {
+      "id": "0000002",
+      "name": "サッカー",
+      "display": true
+    },
+    {
+      "id": "0002365",
+      "name": "メキシコ",
+      "display": true
+    },
+    {
+      "id": "0002366",
+      "name": "南アフリカ",
+      "display": true
+    },
+    {
+      "id": "0002815",
+      "name": "グループA",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "サッカーワールドカップ北中米大会が11日、日本時間の12日に開幕し、開幕戦となった1次リーグのグループA、メキシコ 対 南アフリカはメキシコが2対0で勝ちました。\n\n\nメキシコは前半9分、プレスをかけ",
+  "articleBody": "サッカーワールドカップ北中米大会が11日、日本時間の12日に開幕し、開幕戦となった1次リーグのグループA、メキシコ 対 南アフリカはメキシコが2対0で勝ちました。\n\n\nメキシコは前半9分、プレスをかけてボールを奪った後フォワードのキニョネス選手が右足でシュートを決めて今大会、最初のゴールをあげました。\n",
+  "detailedArticleBody": {
+    "markedLead": "サッカーワールドカップ北中米大会が11日、日本時間の12日に開幕し、開幕戦となった1次リーグのグループA、メキシコ 対 南アフリカはメキシコが2対0で勝ちました。\n",
+    "markedBody": "メキシコは前半9分、プレスをかけてボールを奪った後フォワードのキニョネス選手が右足でシュートを決めて今大会、最初のゴールをあげました。\n",
+    "trimmedLead": "サッカーワールドカップ北中米大会が11日、日本時間の12日に開幕し、開幕戦となった1次リーグのグループA、メキシコ 対 南アフリカはメキシコが2対0で勝ちました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015147921000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015147921000",
+  "video": [],
+  "citation": [
+    {
+      "name": "FIFAワールドカップ2026【NHK特設サイト】",
+      "url": "https://nhk.jp/fifawc?cid=wc26-newsweb-awayomi",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31365091.jpg"
+    },
+    {
+      "name": "“すごイレブン” サッカーW杯 この11人に注目！ピックアップ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015144631000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260610/K10015144631_2606101853_0610191318_01_02.jpg",
+      "datePublished": "2026-06-10T19:13:17+09:00"
+    },
+    {
+      "name": "【出場チーム紹介】サッカーワールドカップ 48チームの成績 注目選手など詳しく",
+      "url": "https://news.web.nhk/news/special/rich_contents/playlist/soccer_worldcup/team/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31446661.jpg"
+    },
+    {
+      "name": "【全スタジアムをチェック】サッカーワールドカップ2026 各会場の特徴は",
+      "url": "https://news.web.nhk/news/special/rich_contents/playlist/soccer_worldcup/stadium/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31444669.jpg"
+    },
+    {
+      "name": "決勝トーナメント進出の条件は？新ルールは【サッカーW杯】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015147901000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015147901_2606112352_0612002315_01_02.jpg",
+      "datePublished": "2026-06-12T00:23:14+09:00"
+    },
+    {
+      "name": "【歴史 名場面振り返り】サッカーワールドカップ 1930～2022",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120321000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260610/K10015120321_2606070429_0610195050_01_02.jpg",
+      "datePublished": "2026-06-10T19:50:48+09:00"
+    },
+    {
+      "name": "本田圭佑選手が語るサッカー日本代表「ビッグサプライズは…」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260525/K10015131091_2605251844_0525215208_01_02.jpg",
+      "datePublished": "2026-05-25T21:52:07+09:00"
+    },
+    {
+      "name": "サッカーワールドカップ 日本代表【プレーの特徴 経歴は】全26選手紹介",
+      "url": "https://news.web.nhk/news/special/rich_contents/playlist/soccer_worldcup/japan/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31427545.jpg"
+    },
+    {
+      "name": "サッカーＷ杯 1次リーグ 組み合わせ・日程【一覧】全48チーム",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120681000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260514/K10015120681_2605132301_0514123253_01_02.jpg",
+      "datePublished": "2026-05-15T19:08:53+09:00"
+    },
+    {
+      "name": "サッカー日本代表 W杯 過去7大会【全結果】今大会目指すのは",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120341000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015120341_2605141919_0515183711_01_02.jpg",
+      "datePublished": "2026-05-15T18:37:09+09:00"
+    },
+    {
+      "name": "下手だから、今がある ～サッカー長友佑都 5回目のW杯へ～",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015029941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260201/K10015029941_2601201313_0201110046_01_02.jpg",
+      "datePublished": "2026-02-01T11:00:44+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

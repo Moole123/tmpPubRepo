@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015013561000",
+  "dataSourceId": "na",
+  "name": "高市首相 “物価上昇を上回る賃上げを” 経団連に協力呼びかけ",
+  "headline": "高市首相 “物価上昇を上回る賃上げを” 経団連に協力呼びかけ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015013561000",
+    "playlistId": "news-nwa-politics-nationwide-20251225",
+    "newsarticleName": "高市首相 “物価上昇を上回る賃上げを” 経団連に協力呼びかけ",
+    "playlistName": "12月25日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "高市総理大臣は経団連の会合であいさつし、官民が連携して経済の好循環を実現したいとして来年春の労使交渉で物価上昇を上回る賃上げに協力を呼びかけました。\n\n\nこの中で高市総理大臣は、政府として賃上げを持続",
+  "dateModified": "2025-12-25T15:51:20+09:00",
+  "datePublished": "2025-12-25T15:51:20+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251225/K10015013561_2512251521_1225155121_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251225/K10015013561_2512251521_1225155121_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治",
+    "経済"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "高市総理大臣は経団連の会合であいさつし、官民が連携して経済の好循環を実現したいとして来年春の労使交渉で物価上昇を上回る賃上げに協力を呼びかけました。\n\n\nこの中で高市総理大臣は、政府として賃上げを持続",
+  "articleBody": "高市総理大臣は経団連の会合であいさつし、官民が連携して経済の好循環を実現したいとして来年春の労使交渉で物価上昇を上回る賃上げに協力を呼びかけました。\n\n\nこの中で高市総理大臣は、政府として賃上げを持続できる環境整備を後押ししていくと強調したうえで「官民連携により、日本経済の供給構造を強化して所得を増やし、消費マインドを上げる。消費が増えると事業収益も当然上がる。税率を上げずとも、税収を増加させていける。そのような好循環を実現することによって、国民に景気回復の果実を実感してもらいたい」と述べました。\n\nそして「今の暮らしや未来への不安を希望に変える、強い経済をつくる。日本列島を強く豊かにしていくために一緒に戦ってもらいたい」と述べ、来年春の労使交渉で物価上昇を上回る賃上げの実現に協力を呼びかけました。\n",
+  "detailedArticleBody": {
+    "markedLead": "高市総理大臣は経団連の会合であいさつし、官民が連携して経済の好循環を実現したいとして来年春の労使交渉で物価上昇を上回る賃上げに協力を呼びかけました。\n",
+    "markedBody": "この中で高市総理大臣は、政府として賃上げを持続できる環境整備を後押ししていくと強調したうえで「官民連携により、日本経済の供給構造を強化して所得を増やし、消費マインドを上げる。消費が増えると事業収益も当然上がる。税率を上げずとも、税収を増加させていける。そのような好循環を実現することによって、国民に景気回復の果実を実感してもらいたい」と述べました。\n\nそして「今の暮らしや未来への不安を希望に変える、強い経済をつくる。日本列島を強く豊かにしていくために一緒に戦ってもらいたい」と述べ、来年春の労使交渉で物価上昇を上回る賃上げの実現に協力を呼びかけました。\n",
+    "trimmedLead": "高市総理大臣は経団連の会合であいさつし、官民が連携して経済の好循環を実現したいとして来年春の労使交渉で物価上昇を上回る賃上げに協力を呼びかけました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015013561000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015013561000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

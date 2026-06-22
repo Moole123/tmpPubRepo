@@ -1,0 +1,101 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014857271000",
+  "dataSourceId": "na",
+  "name": "上半期に全国で倒産した企業件数 12年ぶりに5000件超える",
+  "headline": "上半期に全国で倒産した企業件数 12年ぶりに5000件超える",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014857271000",
+    "playlistId": "news-nwa-business-nationwide-20250708",
+    "newsarticleName": "上半期に全国で倒産した企業件数 12年ぶりに5000件超える",
+    "playlistName": "7月8日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "6月までの半年間に全国で倒産した企業の件数が5000件を超えました。物価高や人手不足などが背景にあり、この時期に倒産件数が5000件を超えるのは12年ぶりです。\n\n\n民間の調査会社「帝国データバンク」",
+  "dateModified": "2025-07-08T17:00:37+09:00",
+  "datePublished": "2025-07-08T17:00:37+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250708/K10014857271_2507081640_0708170038_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250708/K10014857271_2507081640_0708170038_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "6月までの半年間に全国で倒産した企業の件数が5000件を超えました。物価高や人手不足などが背景にあり、この時期に倒産件数が5000件を超えるのは12年ぶりです。\n\n\n民間の調査会社「帝国データバンク」",
+  "articleBody": "6月までの半年間に全国で倒産した企業の件数が5000件を超えました。物価高や人手不足などが背景にあり、この時期に倒産件数が5000件を超えるのは12年ぶりです。\n\n\n民間の調査会社「帝国データバンク」によりますと、先月までの半年間に、1000万円以上の負債を抱えて法的整理の手続きをとった企業などの倒産件数は前の年の同じ時期から116件増えて、5003件でした。\n\n上半期の倒産件数が5000件を超えるのは、2013年以来、12年ぶりです。\n\n業種別では、サービス業が1329件と最も多く、次いで小売業が1078件、建設業が986件などとなりました。\n\nまた負債額の規模では、5000万円未満の倒産が全体の63％を占め、比較的規模の小さい倒産が多くなっています。\n\n調査会社は「倒産増加の背景には物価高や人手不足、新型コロナ対策として実施されたいわゆる”ゼロゼロ融資”の返済負担などがある。今後もトランプ政権の関税措置の影響が懸念されることなどから、ことしの倒産件数は緩やかな増加傾向が続く見込みだ」としています。\n",
+  "detailedArticleBody": {
+    "markedLead": "6月までの半年間に全国で倒産した企業の件数が5000件を超えました。物価高や人手不足などが背景にあり、この時期に倒産件数が5000件を超えるのは12年ぶりです。\n",
+    "markedBody": "民間の調査会社「帝国データバンク」によりますと、先月までの半年間に、1000万円以上の負債を抱えて法的整理の手続きをとった企業などの倒産件数は前の年の同じ時期から116件増えて、5003件でした。\n\n上半期の倒産件数が5000件を超えるのは、2013年以来、12年ぶりです。\n\n業種別では、サービス業が1329件と最も多く、次いで小売業が1078件、建設業が986件などとなりました。\n\nまた負債額の規模では、5000万円未満の倒産が全体の63％を占め、比較的規模の小さい倒産が多くなっています。\n\n調査会社は「倒産増加の背景には物価高や人手不足、新型コロナ対策として実施されたいわゆる”ゼロゼロ融資”の返済負担などがある。今後もトランプ政権の関税措置の影響が懸念されることなどから、ことしの倒産件数は緩やかな増加傾向が続く見込みだ」としています。\n",
+    "trimmedLead": "6月までの半年間に全国で倒産した企業の件数が5000件を超えました。物価高や人手不足などが背景にあり、この時期に倒産件数が5000件を超えるのは12年ぶりです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014857271000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014857271000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "上半期に全国で倒産した企業件数 12年ぶりに5000件超える",
+      "description": "6月までの半年間に全国で倒産した企業の件数が5000件を超えました。物価高や人手不足などが背景にあり、この時期に倒産件数が5000件を超えるのは12年ぶりです。\n\n\n民間の調査会社「帝国データバンク」",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10014857271_202507081736_202507081737/index.m3u8&mrposter=/news/html/20250708/K10014857271_2507081640_0708170038_01_02.jpg",
+      "duration": "PT42S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10014857271_202507081736_202507081737/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20250708/K10014857271_2507081640_0708170038_01_02.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

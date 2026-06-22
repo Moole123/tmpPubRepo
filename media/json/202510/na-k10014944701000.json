@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014944701000",
+  "dataSourceId": "na",
+  "name": "国慶節の中国 大雪で登山者ら約900人 一時エベレストで足止め",
+  "headline": "国慶節の中国 大雪で登山者ら約900人 一時エベレストで足止め",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014944701000",
+    "playlistId": "news-nwa-international-nationwide-20251008",
+    "newsarticleName": "国慶節の中国 大雪で登山者ら約900人 一時エベレストで足止め",
+    "playlistName": "10月8日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "中国では国慶節の大型連休で各地の山が大勢の登山者でにぎわう中、大雪の影響で世界最高峰のエベレストで一時、およそ900人が足止めされたほか、青海省でも250人以上が足止めされてこのうち1人が死亡し、当局",
+  "dateModified": "2025-10-08T15:50:06+09:00",
+  "datePublished": "2025-10-08T15:50:06+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-640x360.png",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "中国では国慶節の大型連休で各地の山が大勢の登山者でにぎわう中、大雪の影響で世界最高峰のエベレストで一時、およそ900人が足止めされたほか、青海省でも250人以上が足止めされてこのうち1人が死亡し、当局",
+  "articleBody": "中国では国慶節の大型連休で各地の山が大勢の登山者でにぎわう中、大雪の影響で世界最高峰のエベレストで一時、およそ900人が足止めされたほか、青海省でも250人以上が足止めされてこのうち1人が死亡し、当局が注意を呼びかけています。\n\n\n中国メディアによりますと、チベット自治区ティンリ県のエベレストのキャンプ地で今月4日から大雪となり、大勢の登山者が足止めされました。\n\n現地からの映像では多くのテントが雪に埋まっている様子が確認できます。\n\n消防当局などが救助にあたった結果、7日までに580人の登山者と、300人余りのガイドなどが下山したということです。\n\nまた、内陸部の青海省の4000メートル級の山でも今月5日、大雪の影響で多くの登山者が足止めされ、250人以上が救助されましたが、男性1人が低体温症と高山病のため死亡したということです。\n\n中国では国慶節の大型連休で各地の山が大勢の登山者でにぎわっていますが、現地の消防当局は事前に計画を立てるとともに天候を十分に把握するよう注意を呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "中国では国慶節の大型連休で各地の山が大勢の登山者でにぎわう中、大雪の影響で世界最高峰のエベレストで一時、およそ900人が足止めされたほか、青海省でも250人以上が足止めされてこのうち1人が死亡し、当局が注意を呼びかけています。\n",
+    "markedBody": "中国メディアによりますと、チベット自治区ティンリ県のエベレストのキャンプ地で今月4日から大雪となり、大勢の登山者が足止めされました。\n\n現地からの映像では多くのテントが雪に埋まっている様子が確認できます。\n\n消防当局などが救助にあたった結果、7日までに580人の登山者と、300人余りのガイドなどが下山したということです。\n\nまた、内陸部の青海省の4000メートル級の山でも今月5日、大雪の影響で多くの登山者が足止めされ、250人以上が救助されましたが、男性1人が低体温症と高山病のため死亡したということです。\n\n中国では国慶節の大型連休で各地の山が大勢の登山者でにぎわっていますが、現地の消防当局は事前に計画を立てるとともに天候を十分に把握するよう注意を呼びかけています。\n",
+    "trimmedLead": "中国では国慶節の大型連休で各地の山が大勢の登山者でにぎわう中、大雪の影響で世界最高峰のエベレストで一時、およそ900人が足止めされたほか、青海省でも250人以上が足止めされてこのうち1人が死亡し、当局が注意を呼びかけています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014944701000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014944701000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": false,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

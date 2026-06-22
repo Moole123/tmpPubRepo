@@ -1,0 +1,152 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015048561000",
+  "dataSourceId": "na",
+  "name": "青森 つがる 除雪作業中に落雪に巻き込まれたか 77歳女性死亡",
+  "headline": "青森 つがる 除雪作業中に落雪に巻き込まれたか 77歳女性死亡",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015048561000",
+    "playlistId": "news-nwa-disaster-nationwide-20260210",
+    "newsarticleName": "青森 つがる 除雪作業中に落雪に巻き込まれたか 77歳女性死亡",
+    "playlistName": "2月10日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "10日午前、青森県つがる市で、77歳の女性が雪に埋もれた状態で見つかり、その場で死亡が確認されました。警察は、現場の状況から除雪作業中に車庫の屋根から落ちてきた雪に巻き込まれたとみて詳しい状況を調べて",
+  "dateModified": "2026-02-10T19:56:35+09:00",
+  "datePublished": "2026-02-10T19:56:35+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260210/K10015048561_2602101842_0210195636_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260210/K10015048561_2602101842_0210195636_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002731",
+      "name": "大雪・寒さ",
+      "display": true
+    },
+    {
+      "id": "0002202",
+      "name": "青森県",
+      "display": true
+    },
+    {
+      "id": "0001538",
+      "name": "事件・事故",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "10日午前、青森県つがる市で、77歳の女性が雪に埋もれた状態で見つかり、その場で死亡が確認されました。警察は、現場の状況から除雪作業中に車庫の屋根から落ちてきた雪に巻き込まれたとみて詳しい状況を調べて",
+  "articleBody": "10日午前、青森県つがる市で、77歳の女性が雪に埋もれた状態で見つかり、その場で死亡が確認されました。警察は、現場の状況から除雪作業中に車庫の屋根から落ちてきた雪に巻き込まれたとみて詳しい状況を調べています。\n\n\n9日夜、青森県つがる市森田町で「親族の女性と連絡がとれない」などと警察に通報がありました。\n\n警察や消防が女性の自宅などを中心に捜索しましたが9日夜は見つからず、10日朝から捜索を再開していました。\n\nそして午前9時半ごろ自宅の敷地内で女性が雪に埋もれた状態で見つかり、その場で死亡が確認されました。\n\n警察によりますと女性が見つかったのは車庫の近くで、現場からスコップが見つかったということです。\n\n警察は、現場の状況から除雪作業中に車庫の屋根から落ちてきた雪に巻き込まれたとみて詳しい状況を調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "10日午前、青森県つがる市で、77歳の女性が雪に埋もれた状態で見つかり、その場で死亡が確認されました。警察は、現場の状況から除雪作業中に車庫の屋根から落ちてきた雪に巻き込まれたとみて詳しい状況を調べています。\n",
+    "markedBody": "9日夜、青森県つがる市森田町で「親族の女性と連絡がとれない」などと警察に通報がありました。\n\n警察や消防が女性の自宅などを中心に捜索しましたが9日夜は見つからず、10日朝から捜索を再開していました。\n\nそして午前9時半ごろ自宅の敷地内で女性が雪に埋もれた状態で見つかり、その場で死亡が確認されました。\n\n警察によりますと女性が見つかったのは車庫の近くで、現場からスコップが見つかったということです。\n\n警察は、現場の状況から除雪作業中に車庫の屋根から落ちてきた雪に巻き込まれたとみて詳しい状況を調べています。\n",
+    "trimmedLead": "10日午前、青森県つがる市で、77歳の女性が雪に埋もれた状態で見つかり、その場で死亡が確認されました。警察は、現場の状況から除雪作業中に車庫の屋根から落ちてきた雪に巻き込まれたとみて詳しい状況を調べています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015048561000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015048561000",
+  "video": [],
+  "citation": [
+    {
+      "name": "大雪被害 87の市町村に特別交付税 約130億円を繰り上げ交付へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015048321000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260210/K10015048321_2602101300_0210140353_01_02.jpg",
+      "datePublished": "2026-02-10T14:03:52+09:00"
+    },
+    {
+      "name": "東名高速と新東名高速 雪影響の通行止め 約40時間ぶり解除",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015047871000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260210/K10015047871_2602100151_0210015755_01_02.jpg",
+      "datePublished": "2026-02-10T04:41:26+09:00"
+    },
+    {
+      "name": "大雪対策「雪下ろし」 屋根からの転落事故など防ぐには?",
+      "url": "https://news.web.nhk/newsweb/na/nc-13d35675-6b75-4a4b-938d-fdfc02cc3d77",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30066855.jpg"
+    },
+    {
+      "name": "大雪で「除雪」事故を防ぐポイントは？",
+      "url": "https://news.web.nhk/newsweb/na/nc-5c80b9e0-4451-4fe6-8365-a7d38915bb2d",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30066903.jpg"
+    },
+    {
+      "name": "赤澤経産相 あす訪米へ “80兆円規模の投資 第1弾の候補協議”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015048371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260210/K10015048371_2602101429_0210151254_01_02.jpg",
+      "datePublished": "2026-02-10T15:12:53+09:00"
+    },
+    {
+      "name": "プルデンシャル生命 不適切金銭受領で第三者委設置",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015048121000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260210/K10015048121_2602101410_0210141105_01_03.jpg",
+      "datePublished": "2026-02-10T15:35:45+09:00"
+    },
+    {
+      "name": "株価 終値 初の5万7000円超え 最高値更新",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015048101000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260210/K10015048101_2602101535_0210154719_01_02.jpg",
+      "datePublished": "2026-02-10T16:07:56+09:00"
+    },
+    {
+      "name": "NHK放送文化賞に松任谷由実さんなど6人",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015048331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260210/K10015048331_2602101247_0210170445_01_02.jpg",
+      "datePublished": "2026-02-10T17:04:44+09:00"
+    },
+    {
+      "name": "ミラノ・コルティナ五輪【結果】2／9～10タイムライン",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015047771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260210/K10015047771_2602102212_0210221314_01_02.jpg",
+      "datePublished": "2026-02-10T06:37:27+09:00"
+    },
+    {
+      "name": "【最新ニュースまとめて】ミラノ・コルティナ オリンピック",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002451",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30750181.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

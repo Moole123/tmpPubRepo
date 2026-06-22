@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015088831000",
+  "dataSourceId": "na",
+  "name": "円相場 小幅な値動き",
+  "headline": "円相場 小幅な値動き",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015088831000",
+    "playlistId": "news-nwa-business-nationwide-20260331",
+    "newsarticleName": "円相場 小幅な値動き",
+    "playlistName": "3月31日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "31日の東京外国為替市場、円相場は小幅な値動きとなりました。\n\n\n午後5時時点の円相場は、30日と比べて15銭円高ドル安の1ドル＝159円62～64銭でした。\n\n一方、ユーロに対しては、58銭円高ユー",
+  "dateModified": "2026-03-31T18:11:28+09:00",
+  "datePublished": "2026-03-31T18:11:28+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260331/K10015088831_2603311756_0331181129_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260331/K10015088831_2603311756_0331181129_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0002423",
+      "name": "金融",
+      "display": true
+    },
+    {
+      "id": "0000820",
+      "name": "イラン情勢",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "31日の東京外国為替市場、円相場は小幅な値動きとなりました。\n\n\n午後5時時点の円相場は、30日と比べて15銭円高ドル安の1ドル＝159円62～64銭でした。\n\n一方、ユーロに対しては、58銭円高ユー",
+  "articleBody": "31日の東京外国為替市場、円相場は小幅な値動きとなりました。\n\n\n午後5時時点の円相場は、30日と比べて15銭円高ドル安の1ドル＝159円62～64銭でした。\n\n一方、ユーロに対しては、58銭円高ユーロ安の1ユーロ＝183円12～16銭でした。\n\nユーロはドルに対して1ユーロ＝1.1472～74ドルでした。\n\n市場関係者は「トランプ大統領がホルムズ海峡の事実上の封鎖が続いたままでも軍事作戦を終える用意があると側近たちに伝えたと報じられたことを受けて、日中は円を買ってドルを売る動きもあったが、依然として先行きの不透明感で、一方的な展開にはならず、小幅な値動きとなった」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "31日の東京外国為替市場、円相場は小幅な値動きとなりました。\n",
+    "markedBody": "午後5時時点の円相場は、30日と比べて15銭円高ドル安の1ドル＝159円62～64銭でした。\n\n一方、ユーロに対しては、58銭円高ユーロ安の1ユーロ＝183円12～16銭でした。\n\nユーロはドルに対して1ユーロ＝1.1472～74ドルでした。\n\n市場関係者は「トランプ大統領がホルムズ海峡の事実上の封鎖が続いたままでも軍事作戦を終える用意があると側近たちに伝えたと報じられたことを受けて、日中は円を買ってドルを売る動きもあったが、依然として先行きの不透明感で、一方的な展開にはならず、小幅な値動きとなった」と話しています。\n",
+    "trimmedLead": "31日の東京外国為替市場、円相場は小幅な値動きとなりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015088831000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015088831000",
+  "video": [],
+  "citation": [
+    {
+      "name": "株価 大幅値下がりで始まるも一時上昇に転じるなど荒い値動き",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015088291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260331/K10015088291_2603311532_0331163413_01_02.jpg",
+      "datePublished": "2026-03-31T16:34:12+09:00"
+    },
+    {
+      "name": "KDDI 架空取引問題で約330億円が外部流出 子会社社長ら6人辞任",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015088541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260331/K10015088541_2603311647_0331165320_01_02.jpg",
+      "datePublished": "2026-03-31T17:42:57+09:00"
+    },
+    {
+      "name": "米報道官“軍事作戦期間 変わりない” イラン側反撃構え崩さず",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015088071000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260331/K10015088071_2603311123_0331115627_01_02.jpg",
+      "datePublished": "2026-03-31T18:16:39+09:00"
+    },
+    {
+      "name": "NY原油市場 WTIの先物価格が一時1バレル＝106ドル台まで上昇",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015088191000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260331/K10015088191_2603310616_0331072819_01_02.jpg",
+      "datePublished": "2026-03-31T15:03:10+09:00"
+    },
+    {
+      "name": "高市首相 石油製品の安定供給確保に向け指示 中東情勢受け",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015088391000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260331/K10015088391_2603311038_0331121504_01_02.jpg",
+      "datePublished": "2026-03-31T15:21:41+09:00"
+    },
+    {
+      "name": "フィリピン“日本から軽油約14万バレル調達”と発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015088161000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260331/K10015088161_2603310323_0331053449_01_02.jpg",
+      "datePublished": "2026-03-31T17:35:27+09:00"
+    },
+    {
+      "name": "対米投資 中小企業の事業拡大へ意見交換会 企業側からは課題も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015088671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260331/K10015088671_2603311513_0331161906_01_02.jpg",
+      "datePublished": "2026-03-31T16:19:05+09:00"
+    },
+    {
+      "name": "4月値上げの食品は2798品目に 去年10月以来の2000品目超",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015088321000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260331/K10015088321_2603311552_0331175406_01_02.jpg",
+      "datePublished": "2026-03-31T17:54:05+09:00"
+    },
+    {
+      "name": "あすから自転車「青切符」 注意のポイントとは？【詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015088371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260331/K10015088371_2603311712_0331172519_01_02.jpg",
+      "datePublished": "2026-03-31T17:25:18+09:00"
+    },
+    {
+      "name": "センバツ大阪桐蔭が優勝 4年ぶり5回目 春夏通算10回目【詳報】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015087691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260331/K10015087691_2603311600_0331161056_01_02.jpg",
+      "datePublished": "2026-03-31T18:09:56+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

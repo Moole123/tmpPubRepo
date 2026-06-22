@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014884641000",
+  "dataSourceId": "na",
+  "name": "秋田 大館 農作業中の80代男性 クマに襲われ腕にけが",
+  "headline": "秋田 大館 農作業中の80代男性 クマに襲われ腕にけが",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014884641000",
+    "playlistId": "news-nwa-society-nationwide-20250804",
+    "newsarticleName": "秋田 大館 農作業中の80代男性 クマに襲われ腕にけが",
+    "playlistName": "8月4日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "4日午後、秋田県大館市で、農作業をしていた80代の男性がクマに襲われて腕にけがをしました。命に別状はないということです。\n\n\n警察によりますと、4日午後3時20分ごろ、大館市比内町八木橋の田んぼで、1",
+  "dateModified": "2025-08-04T20:56:22+09:00",
+  "datePublished": "2025-08-04T20:56:22+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250804/K10014884641_2508042125_0804213855_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250804/K10014884641_2508042125_0804213855_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "4日午後、秋田県大館市で、農作業をしていた80代の男性がクマに襲われて腕にけがをしました。命に別状はないということです。\n\n\n警察によりますと、4日午後3時20分ごろ、大館市比内町八木橋の田んぼで、1",
+  "articleBody": "4日午後、秋田県大館市で、農作業をしていた80代の男性がクマに襲われて腕にけがをしました。命に別状はないということです。\n\n\n警察によりますと、4日午後3時20分ごろ、大館市比内町八木橋の田んぼで、1人で農作業をしていた80代の男性が近くの雑木林から出てきたクマに襲われました。\n\n男性は近くのコンビニエンスストアで助けを求め、病院に運ばれましたが、右腕にけがをしました。\n\n命に別状はないということです。\n\n秋田県内でことし発生したクマによる人身被害は今回で、5件目です。\n\n秋田県の情報マップシステム「クマダス」によりますと、先月1か月で、去年の4倍を超える967件のクマの目撃情報が寄せられていて、県は県内全域に「ツキノワグマ出没警報」を出して警戒を呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "4日午後、秋田県大館市で、農作業をしていた80代の男性がクマに襲われて腕にけがをしました。命に別状はないということです。\n",
+    "markedBody": "警察によりますと、4日午後3時20分ごろ、大館市比内町八木橋の田んぼで、1人で農作業をしていた80代の男性が近くの雑木林から出てきたクマに襲われました。\n\n男性は近くのコンビニエンスストアで助けを求め、病院に運ばれましたが、右腕にけがをしました。\n\n命に別状はないということです。\n\n秋田県内でことし発生したクマによる人身被害は今回で、5件目です。\n\n秋田県の情報マップシステム「クマダス」によりますと、先月1か月で、去年の4倍を超える967件のクマの目撃情報が寄せられていて、県は県内全域に「ツキノワグマ出没警報」を出して警戒を呼びかけています。\n",
+    "trimmedLead": "4日午後、秋田県大館市で、農作業をしていた80代の男性がクマに襲われて腕にけがをしました。命に別状はないということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014884641000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014884641000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

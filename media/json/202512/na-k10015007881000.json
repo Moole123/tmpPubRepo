@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015007881000",
+  "dataSourceId": "na",
+  "name": "中国 海南島 輸入品の7割以上の関税ゼロに 投資呼び込みねらう",
+  "headline": "中国 海南島 輸入品の7割以上の関税ゼロに 投資呼び込みねらう",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015007881000",
+    "playlistId": "news-nwa-international-nationwide-20251218",
+    "newsarticleName": "中国 海南島 輸入品の7割以上の関税ゼロに 投資呼び込みねらう",
+    "playlistName": "12月18日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "中国は、南部の海南島で輸入品全体の7割以上について、関税をゼロにする措置を始めました。減少した外国からの投資を呼び込むねらいがありますが、中国の景気が減速する中、どこまで効果があるかは不透明な情勢です",
+  "dateModified": "2025-12-18T21:58:30+09:00",
+  "datePublished": "2025-12-18T21:58:30+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-640x360.png",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "中国は、南部の海南島で輸入品全体の7割以上について、関税をゼロにする措置を始めました。減少した外国からの投資を呼び込むねらいがありますが、中国の景気が減速する中、どこまで効果があるかは不透明な情勢です",
+  "articleBody": "中国は、南部の海南島で輸入品全体の7割以上について、関税をゼロにする措置を始めました。減少した外国からの投資を呼び込むねらいがありますが、中国の景気が減速する中、どこまで効果があるかは不透明な情勢です。\n\n\n中国南部の海南島では18日、輸入品全体の74％にあたるおよそ6600品目について、関税をゼロにする措置を始めました。\n\n海南島への輸入品を中国国内の別の地域に出荷する場合は関税がかかりますが、島内で加工を行えば、それも免除されるということです。\n\n海南島は、中国の習近平国家主席が呼びかけて、自由貿易の拠点として整備することを決め、段階的に関税の撤廃や通関手続きの簡素化などが進められてきました。\n\nアメリカのトランプ政権が保護主義的な政策を進める中、中国としては、市場開放を進める姿勢をアピールするとともに、外国からの投資を呼び込むねらいがあるとみられます。\n\nただ、中国の景気が減速する中、外国企業の直接投資は減少していて、どこまで投資を呼び込めるかは不透明な情勢です。\n",
+  "detailedArticleBody": {
+    "markedLead": "中国は、南部の海南島で輸入品全体の7割以上について、関税をゼロにする措置を始めました。減少した外国からの投資を呼び込むねらいがありますが、中国の景気が減速する中、どこまで効果があるかは不透明な情勢です。\n",
+    "markedBody": "中国南部の海南島では18日、輸入品全体の74％にあたるおよそ6600品目について、関税をゼロにする措置を始めました。\n\n海南島への輸入品を中国国内の別の地域に出荷する場合は関税がかかりますが、島内で加工を行えば、それも免除されるということです。\n\n海南島は、中国の習近平国家主席が呼びかけて、自由貿易の拠点として整備することを決め、段階的に関税の撤廃や通関手続きの簡素化などが進められてきました。\n\nアメリカのトランプ政権が保護主義的な政策を進める中、中国としては、市場開放を進める姿勢をアピールするとともに、外国からの投資を呼び込むねらいがあるとみられます。\n\nただ、中国の景気が減速する中、外国企業の直接投資は減少していて、どこまで投資を呼び込めるかは不透明な情勢です。\n",
+    "trimmedLead": "中国は、南部の海南島で輸入品全体の7割以上について、関税をゼロにする措置を始めました。減少した外国からの投資を呼び込むねらいがありますが、中国の景気が減速する中、どこまで効果があるかは不透明な情勢です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015007881000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015007881000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": false,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

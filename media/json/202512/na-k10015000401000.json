@@ -1,0 +1,102 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015000401000",
+  "dataSourceId": "na",
+  "name": "補助金拡大 ガソリン税 暫定税率廃止と同水準に 政府",
+  "headline": "補助金拡大 ガソリン税 暫定税率廃止と同水準に 政府",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015000401000",
+    "playlistId": "news-nwa-politics-nationwide-20251211",
+    "newsarticleName": "補助金拡大 ガソリン税 暫定税率廃止と同水準に 政府",
+    "playlistName": "12月11日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "今月末でガソリン税の暫定税率が廃止されるのを前に、政府は石油元売り各社への補助金を11日からさらに拡大し、1リットルあたり25.1円とします。これで暫定税率の廃止分と同じ水準となり、小売価格は一段の値",
+  "dateModified": "2025-12-11T05:38:25+09:00",
+  "datePublished": "2025-12-11T05:38:25+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251211/K10015000401_2512102225_1211053826_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251211/K10015000401_2512102225_1211053826_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治",
+    "経済"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "今月末でガソリン税の暫定税率が廃止されるのを前に、政府は石油元売り各社への補助金を11日からさらに拡大し、1リットルあたり25.1円とします。これで暫定税率の廃止分と同じ水準となり、小売価格は一段の値",
+  "articleBody": "今月末でガソリン税の暫定税率が廃止されるのを前に、政府は石油元売り各社への補助金を11日からさらに拡大し、1リットルあたり25.1円とします。これで暫定税率の廃止分と同じ水準となり、小売価格は一段の値下がりが見込まれます。\n\n\nガソリン税の暫定税率は今月31日に、軽油引取税の暫定税率は来年4月1日に廃止されますが、政府は急な価格の下落による混乱を避けるため、石油元売り各社への補助金を段階的に拡大しています。\n\nガソリンの補助金は先月27日に20円に増やしましたが、11日から25.1円に拡大します。\n\nこれで暫定税率の廃止分と同じ水準となります。\n\n石油情報センターによりますと、これまでの補助金の段階的な拡大でレギュラーガソリンの小売価格は今月8日時点の全国平均で163.7円と、5週連続で値下がりしました。\n\n今回の補助金の拡大が小売価格に反映されるまでには一定の時間がかかる可能性がありますが、今後、年末にかけて一段と値下がりしていく見通しです。\n",
+  "detailedArticleBody": {
+    "markedLead": "今月末でガソリン税の暫定税率が廃止されるのを前に、政府は石油元売り各社への補助金を11日からさらに拡大し、1リットルあたり25.1円とします。これで暫定税率の廃止分と同じ水準となり、小売価格は一段の値下がりが見込まれます。\n",
+    "markedBody": "ガソリン税の暫定税率は今月31日に、軽油引取税の暫定税率は来年4月1日に廃止されますが、政府は急な価格の下落による混乱を避けるため、石油元売り各社への補助金を段階的に拡大しています。\n\nガソリンの補助金は先月27日に20円に増やしましたが、11日から25.1円に拡大します。\n\nこれで暫定税率の廃止分と同じ水準となります。\n\n石油情報センターによりますと、これまでの補助金の段階的な拡大でレギュラーガソリンの小売価格は今月8日時点の全国平均で163.7円と、5週連続で値下がりしました。\n\n今回の補助金の拡大が小売価格に反映されるまでには一定の時間がかかる可能性がありますが、今後、年末にかけて一段と値下がりしていく見通しです。\n",
+    "trimmedLead": "今月末でガソリン税の暫定税率が廃止されるのを前に、政府は石油元売り各社への補助金を11日からさらに拡大し、1リットルあたり25.1円とします。これで暫定税率の廃止分と同じ水準となり、小売価格は一段の値下がりが見込まれます。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015000401000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015000401000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "補助金拡大 ガソリン税 暫定税率廃止と同水準に 政府",
+      "description": "今月末でガソリン税の暫定税率が廃止されるのを前に、政府は石油元売り各社への補助金を11日からさらに拡大し、1リットルあたり25.1円とします。これで暫定税率の廃止分と同じ水準となり、小売価格は一段の値",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015000401_202512110736_202512110736/index.m3u8&mrposter=/news/html/20251211/K10015000401_2512102225_1211053826_01_02.jpg",
+      "duration": "PT42S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015000401_202512110736_202512110736/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20251211/K10015000401_2512102225_1211053826_01_02.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

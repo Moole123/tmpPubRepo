@@ -1,0 +1,131 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015109761000",
+  "dataSourceId": "na",
+  "name": "NY株式市場 ナスダックとS＆P500が最高値更新",
+  "headline": "NY株式市場 ナスダックとS＆P500が最高値更新",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015109761000",
+    "playlistId": "news-nwa-international-nationwide-20260428",
+    "newsarticleName": "NY株式市場 ナスダックとS＆P500が最高値更新",
+    "playlistName": "4月28日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "27日のニューヨーク株式市場では半導体など一部の銘柄に買い注文が入り、ハイテク関連株の比率が高いナスダックの株価指数などが小幅に上昇して、最高値を更新しました。\n\n\n27日のニューヨーク株式市場では、",
+  "dateModified": "2026-04-28T06:20:12+09:00",
+  "datePublished": "2026-04-28T06:20:12+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260428/K10015109761_2604280606_0428062013_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260428/K10015109761_2604280606_0428062013_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0002423",
+      "name": "金融",
+      "display": true
+    },
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0002370",
+      "name": "ニューヨーク",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "27日のニューヨーク株式市場では半導体など一部の銘柄に買い注文が入り、ハイテク関連株の比率が高いナスダックの株価指数などが小幅に上昇して、最高値を更新しました。\n\n\n27日のニューヨーク株式市場では、",
+  "articleBody": "27日のニューヨーク株式市場では半導体など一部の銘柄に買い注文が入り、ハイテク関連株の比率が高いナスダックの株価指数などが小幅に上昇して、最高値を更新しました。\n\n\n27日のニューヨーク株式市場では、大手半導体の「エヌビディア」など一部の銘柄に買い注文が入り、ナスダックの株価指数と多くの機関投資家が運用の指標としているS＆P500の株価指数が、それぞれ小幅に上昇して最高値を更新しました。\n\n市場関係者は「株価の上昇が続いているのは、半導体をはじめとした一部の分野に限られ、市場全体としては過熱感はそれほど高まっていない。イラン情勢がこう着するなかで投資家は、今週相次いで発表されるアメリカの大手IT企業の決算の内容に注目している」と話しています。\n\nダウ平均株価の終値は、先週末と比べて62ドル92セント安い、4万9167ドル79セントでした。\n",
+  "detailedArticleBody": {
+    "markedLead": "27日のニューヨーク株式市場では半導体など一部の銘柄に買い注文が入り、ハイテク関連株の比率が高いナスダックの株価指数などが小幅に上昇して、最高値を更新しました。\n",
+    "markedBody": "27日のニューヨーク株式市場では、大手半導体の「エヌビディア」など一部の銘柄に買い注文が入り、ナスダックの株価指数と多くの機関投資家が運用の指標としているS＆P500の株価指数が、それぞれ小幅に上昇して最高値を更新しました。\n\n市場関係者は「株価の上昇が続いているのは、半導体をはじめとした一部の分野に限られ、市場全体としては過熱感はそれほど高まっていない。イラン情勢がこう着するなかで投資家は、今週相次いで発表されるアメリカの大手IT企業の決算の内容に注目している」と話しています。\n\nダウ平均株価の終値は、先週末と比べて62ドル92セント安い、4万9167ドル79セントでした。\n",
+    "trimmedLead": "27日のニューヨーク株式市場では半導体など一部の銘柄に買い注文が入り、ハイテク関連株の比率が高いナスダックの株価指数などが小幅に上昇して、最高値を更新しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015109761000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015109761000",
+  "video": [],
+  "citation": [
+    {
+      "name": "大和証券Gがオリックス銀行を買収 預金・融資で競争力強化へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109651000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015109651_2604272027_0427212805_01_02.jpg",
+      "datePublished": "2026-04-27T21:28:05+09:00"
+    },
+    {
+      "name": "日産 昨年度の業績見通し 営業赤字から営業黒字に上方修正",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109321000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015109321_2604271521_0427160745_01_02.jpg",
+      "datePublished": "2026-04-27T18:49:45+09:00"
+    },
+    {
+      "name": "日立が過去最高益 イラン情勢で生産・原材料調達などに影響も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109551000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015109551_2604271922_0427202851_01_02.jpg",
+      "datePublished": "2026-04-27T20:28:50+09:00"
+    },
+    {
+      "name": "円相場 小幅値上がり “イランが米に新提案”報じられ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109491000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015109491_2604271757_0427194928_01_02.jpg",
+      "datePublished": "2026-04-27T19:49:27+09:00"
+    },
+    {
+      "name": "“極めて異常な水準” 急騰する航空燃料【経済コラム】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106301000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015106301_2604231905_0424190539_01_02.jpg",
+      "datePublished": "2026-04-24T19:05:38+09:00"
+    },
+    {
+      "name": "石油の「自主開発」 十分な成果を挙げているのか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104551000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015104551_2604231434_0423154805_01_02.jpg",
+      "datePublished": "2026-04-23T15:48:04+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

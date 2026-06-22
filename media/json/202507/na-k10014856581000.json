@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014856581000",
+  "dataSourceId": "na",
+  "name": "インドネシア火山の大規模噴火「日本への津波影響なし」気象庁",
+  "headline": "インドネシア火山の大規模噴火「日本への津波影響なし」気象庁",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014856581000",
+    "playlistId": "news-nwa-disaster-nationwide-20250707",
+    "newsarticleName": "インドネシア火山の大規模噴火「日本への津波影響なし」気象庁",
+    "playlistName": "7月7日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "日本時間の7日正午すぎ、インドネシアの火山で起きた大規模な噴火について、気象庁は噴火による津波の有無を調べていましたが、午後9時半に「日本への津波の影響はない」と発表しました。\n\n\n気象庁によりますと",
+  "dateModified": "2025-07-07T21:35:30+09:00",
+  "datePublished": "2025-07-07T21:35:30+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250707/K10014856581_2507072153_0707215340_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250707/K10014856581_2507072153_0707215340_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "日本時間の7日正午すぎ、インドネシアの火山で起きた大規模な噴火について、気象庁は噴火による津波の有無を調べていましたが、午後9時半に「日本への津波の影響はない」と発表しました。\n\n\n気象庁によりますと",
+  "articleBody": "日本時間の7日正午すぎ、インドネシアの火山で起きた大規模な噴火について、気象庁は噴火による津波の有無を調べていましたが、午後9時半に「日本への津波の影響はない」と発表しました。\n\n\n気象庁によりますと、日本時間の7日午後0時10分ごろインドネシアのレウォトビ火山で大規模な噴火が発生し、噴煙がおよそ1万9000メートルまで上がりました。\n\n大規模な噴火が起きると、気圧波による津波が発生することがあり気象庁は津波の有無について調べていました。\n\nその後、海外や日本の観測点で目立った潮位の変化は観測されず気象庁は噴火から9時間余りがたった午後9時半に「日本への津波の影響はない」と発表しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "日本時間の7日正午すぎ、インドネシアの火山で起きた大規模な噴火について、気象庁は噴火による津波の有無を調べていましたが、午後9時半に「日本への津波の影響はない」と発表しました。\n",
+    "markedBody": "気象庁によりますと、日本時間の7日午後0時10分ごろインドネシアのレウォトビ火山で大規模な噴火が発生し、噴煙がおよそ1万9000メートルまで上がりました。\n\n大規模な噴火が起きると、気圧波による津波が発生することがあり気象庁は津波の有無について調べていました。\n\nその後、海外や日本の観測点で目立った潮位の変化は観測されず気象庁は噴火から9時間余りがたった午後9時半に「日本への津波の影響はない」と発表しました。\n",
+    "trimmedLead": "日本時間の7日正午すぎ、インドネシアの火山で起きた大規模な噴火について、気象庁は噴火による津波の有無を調べていましたが、午後9時半に「日本への津波の影響はない」と発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014856581000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014856581000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": false,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

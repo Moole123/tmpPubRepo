@@ -1,0 +1,137 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015102441000",
+  "dataSourceId": "na",
+  "name": "【長野 地震】 専門家「同じような規模の地震 続く可能性も」",
+  "headline": "【長野 地震】 専門家「同じような規模の地震 続く可能性も」",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015102441000",
+    "playlistId": "news-nwa-disaster-nationwide-20260418",
+    "newsarticleName": "【長野 地震】 専門家「同じような規模の地震 続く可能性も」",
+    "playlistName": "4月18日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "長野県北部で、震度5強や震度5弱の揺れを観測する地震が続けて発生していることについて、東京大学地震研究所の酒井慎一教授は「午後3時前に発生した地震は、最大震度5強を観測した午後1時すぎの地震と同じよう",
+  "dateModified": "2026-04-18T15:54:20+09:00",
+  "datePublished": "2026-04-18T15:54:20+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-640x360.png",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0002220",
+      "name": "長野県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "長野県北部で、震度5強や震度5弱の揺れを観測する地震が続けて発生していることについて、東京大学地震研究所の酒井慎一教授は「午後3時前に発生した地震は、最大震度5強を観測した午後1時すぎの地震と同じよう",
+  "articleBody": "長野県北部で、震度5強や震度5弱の揺れを観測する地震が続けて発生していることについて、東京大学地震研究所の酒井慎一教授は「午後3時前に発生した地震は、最大震度5強を観測した午後1時すぎの地震と同じような場所で起きたのではないかと考える。震源の深さが浅いため、局所的に強い揺れとなっている場所が存在する可能性があり、何かが倒れたり崩れたりしていることも考えられる」と話しています。\n\n\nそのうえで、「同じような規模の地震は、このあたりではわりとよく発生する地震で今後も続く可能性がある。崖の近くなど危険な場所には近づかず、安全なところで過ごしてもらいたい」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "長野県北部で、震度5強や震度5弱の揺れを観測する地震が続けて発生していることについて、東京大学地震研究所の酒井慎一教授は「午後3時前に発生した地震は、最大震度5強を観測した午後1時すぎの地震と同じような場所で起きたのではないかと考える。震源の深さが浅いため、局所的に強い揺れとなっている場所が存在する可能性があり、何かが倒れたり崩れたりしていることも考えられる」と話しています。\n",
+    "markedBody": "そのうえで、「同じような規模の地震は、このあたりではわりとよく発生する地震で今後も続く可能性がある。崖の近くなど危険な場所には近づかず、安全なところで過ごしてもらいたい」と話しています。\n",
+    "trimmedLead": "長野県北部で、震度5強や震度5弱の揺れを観測する地震が続けて発生していることについて、東京大学地震研究所の酒井慎一教授は「午後3時前に発生した地震は、最大震度5強を観測した午後1時すぎの地震と同じような場所で起きたのではないかと考える。震源の深さが浅いため、局所的に強い揺れとなっている場所が存在する可能性があり、何かが倒れたり崩れたりしていることも考えられる」と話しています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015102441000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015102441000",
+  "video": [],
+  "citation": [
+    {
+      "name": "【地震情報】長野県北部で震度3 津波の心配なし（15:33）",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015102491000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260418/K10015102491_2604181548_0418154855_01_02.jpg",
+      "datePublished": "2026-04-18T15:37:33+09:00"
+    },
+    {
+      "name": "【地震 影響や被害は】長野県北部で震度5強",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015102341000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260418/K10015102341_2604181359_0418140307_01_02.jpg",
+      "datePublished": "2026-04-18T16:36:36+09:00"
+    },
+    {
+      "name": "【最新の地震情報】各地の震度・震源を詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/earthquake/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30060617.jpg"
+    },
+    {
+      "name": "地震発生 その時どう行動する!?",
+      "url": "https://news.web.nhk/newsweb/na/nc-790dbe02-3696-4956-b2ac-83401a4f8f5b",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045984.jpg"
+    },
+    {
+      "name": "地震マップ 最新の震度分布・震源をリアルタイム更新",
+      "url": "https://news.web.nhk/bousai-map/earthquake/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31036920.jpg"
+    },
+    {
+      "name": "南海トラフ巨大地震「新被害想定」私のまちは",
+      "url": "https://news.web.nhk/newsweb/na/nc-a2084f03-7197-4f79-b727-4fda9d15eecd",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_28817111.jpg"
+    },
+    {
+      "name": "「エレベーターに閉じ込められた」いったいどうすれば？",
+      "url": "https://news.web.nhk/newsweb/na/nc-ca2734b0-c080-45e4-a5c5-2bbc97205783",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045827.jpg"
+    },
+    {
+      "name": "災害時の偽情報や誤情報に注意 拡散で命にかかわるリスクも",
+      "url": "https://news.web.nhk/newsweb/na/nc-b777764c-a841-41c5-8a78-0b496adee8d9",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045938.jpg"
+    },
+    {
+      "name": "天気防災マップ ふだんの雨雲予想から災害時のリスク情報まで",
+      "url": "https://news.web.nhk/bousai-map/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037154.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": false,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

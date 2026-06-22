@@ -1,0 +1,149 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015067141000",
+  "dataSourceId": "na",
+  "name": "「教員不足」3800人余 4年間で2倍近くに増加 文科省調査",
+  "headline": "「教員不足」3800人余 4年間で2倍近くに増加 文科省調査",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015067141000",
+    "playlistId": "news-nwa-society-nationwide-20260305",
+    "newsarticleName": "「教員不足」3800人余 4年間で2倍近くに増加 文科省調査",
+    "playlistName": "3月5日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "学校現場の「教員不足」が深刻化しています。去年までの4年間で教員不足は2倍近く増加し、3800人余りにのぼることが文部科学省の調査で分かりました。専門家は「教員の働き方改革も進むが楽観視できる状況にな",
+  "dateModified": "2026-03-05T17:01:31+09:00",
+  "datePublished": "2026-03-05T17:01:31+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260305/K10015067141_2603051437_0305170131_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260305/K10015067141_2603051437_0305170131_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0000034",
+      "name": "教育",
+      "display": true
+    },
+    {
+      "id": "0002402",
+      "name": "文部科学省",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "学校現場の「教員不足」が深刻化しています。去年までの4年間で教員不足は2倍近く増加し、3800人余りにのぼることが文部科学省の調査で分かりました。専門家は「教員の働き方改革も進むが楽観視できる状況にな",
+  "articleBody": "学校現場の「教員不足」が深刻化しています。去年までの4年間で教員不足は2倍近く増加し、3800人余りにのぼることが文部科学省の調査で分かりました。専門家は「教員の働き方改革も進むが楽観視できる状況になく、早急に改善が必要だ」と指摘しています。\n\n\n文部科学省によりますと、全国の公立の小中学校や高校、特別支援学校で不足している教員は、去年5月時点で3827人にのぼり、前回調査を実施した2021年から2倍近くに増えました。\n\n教員不足の影響で担任がいない小学校のクラスは、前回より2.3倍に増えて1086件にのぼり、校長など管理職が担任を肩代わりするケースが116件あったということです。\n\nまた必要な特別支援学級は、前回調査のときよりも1万余りクラスが増えていて、正規の教員が確保できないため、全体の4分の1のクラスを非正規教員が担っています。\n\n不足の割合を自治体別にみると\n▽島根県が2.4％\n▽青森県が2.1％\n▽福島県が1.7％\nなど43の自治体で前回より悪化する一方、東京都や名古屋市などは「不足がない」としていて、地方と大都市との格差が拡大しています。\n\n不足の理由としては、産休や特別支援学級の増加などで必要な教員数が増える一方、教員の働き方や処遇などを理由に、採用倍率は過去最低を更新し続けていて、なり手不足が深刻化しています。\n\n教育研究家の妹尾昌俊さんは、「教員の働き方改革やなり手不足の対策は打ち出されているが、まだ不十分であり、楽観視できる状況にはない。教員志望者の不安に向き合い、働きやすい職場づくりなど早急に改善が必要だ」と指摘しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "学校現場の「教員不足」が深刻化しています。去年までの4年間で教員不足は2倍近く増加し、3800人余りにのぼることが文部科学省の調査で分かりました。専門家は「教員の働き方改革も進むが楽観視できる状況になく、早急に改善が必要だ」と指摘しています。\n",
+    "markedBody": "文部科学省によりますと、全国の公立の小中学校や高校、特別支援学校で不足している教員は、去年5月時点で3827人にのぼり、前回調査を実施した2021年から2倍近くに増えました。\n\n教員不足の影響で担任がいない小学校のクラスは、前回より2.3倍に増えて1086件にのぼり、校長など管理職が担任を肩代わりするケースが116件あったということです。\n\nまた必要な特別支援学級は、前回調査のときよりも1万余りクラスが増えていて、正規の教員が確保できないため、全体の4分の1のクラスを非正規教員が担っています。\n\n不足の割合を自治体別にみると\\\n▽島根県が2.4％\\\n▽青森県が2.1％\\\n▽福島県が1.7％\\\nなど43の自治体で前回より悪化する一方、東京都や名古屋市などは「不足がない」としていて、地方と大都市との格差が拡大しています。\n\n不足の理由としては、産休や特別支援学級の増加などで必要な教員数が増える一方、教員の働き方や処遇などを理由に、採用倍率は過去最低を更新し続けていて、なり手不足が深刻化しています。\n\n![](https://news.web.nhk/news/html/20260305/K10015067141_2603051437_0305170131_02_03.jpg)\n\n教育研究家の妹尾昌俊さんは、「教員の働き方改革やなり手不足の対策は打ち出されているが、まだ不十分であり、楽観視できる状況にはない。教員志望者の不安に向き合い、働きやすい職場づくりなど早急に改善が必要だ」と指摘しています。\n",
+    "trimmedLead": "学校現場の「教員不足」が深刻化しています。去年までの4年間で教員不足は2倍近く増加し、3800人余りにのぼることが文部科学省の調査で分かりました。専門家は「教員の働き方改革も進むが楽観視できる状況になく、早急に改善が必要だ」と指摘しています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015067141000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015067141000",
+  "video": [],
+  "citation": [
+    {
+      "name": "「北海道 上富良野町の山で雪崩」通報 1人が巻き込まれたか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015066991000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260305/K10015066991_2603051429_0305143144_01_02.jpg",
+      "datePublished": "2026-03-05T13:35:30+09:00"
+    },
+    {
+      "name": "「カイロス3号機」打ち上げ失敗 飛行中断のシステムに問題か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015066591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260305/K10015066591_2603051156_0305120819_01_03.jpg",
+      "datePublished": "2026-03-05T18:13:01+09:00"
+    },
+    {
+      "name": "トランプ大統領 “軍事作戦 期待超える成果” 正当性も主張",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015066921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260305/K10015066921_2603051143_0305115201_01_02.jpg",
+      "datePublished": "2026-03-05T16:18:34+09:00"
+    },
+    {
+      "name": "香港に送金しキックバック 74企業に所得隠し指摘 国税当局",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015066871000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260305/K10015066871_2603051135_0305114427_01_02.jpg",
+      "datePublished": "2026-03-05T12:20:19+09:00"
+    },
+    {
+      "name": "【イラン情勢 特集サイト】最新状況は？ そもそもなぜ対立？ 日本や各国の対応は？",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0000820",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30921833.jpg"
+    },
+    {
+      "name": "中東各地で空域閉鎖 日本人旅行者などの退避支援を検討 政府",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015066731000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260305/K10015066731_2603050353_0305060802_01_02.jpg",
+      "datePublished": "2026-03-05T06:08:01+09:00"
+    },
+    {
+      "name": "「フィッシング詐欺メール」急増 去年1年間の報告 200万件超に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015066601000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260305/K10015066601_2603042028_0305051320_01_02.jpg",
+      "datePublished": "2026-03-05T05:13:20+09:00"
+    },
+    {
+      "name": "新年度予算案 与党側は土曜日審議を提案も 野党側は一斉に批判",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015066741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260305/K10015066741_2603050353_0305051033_01_02.jpg",
+      "datePublished": "2026-03-05T05:10:32+09:00"
+    },
+    {
+      "name": "日本の教員 仕事の時間最長 教員不足感も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014950851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20251016/K10014950851_2510161207_1016184549_01_02.jpg",
+      "datePublished": "2025-10-16T18:45:47+09:00"
+    },
+    {
+      "name": "“つながり”を“にぎわい”につなげたい",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015065991000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260304/K10015065991_2603041525_0304182404_01_02.jpg",
+      "datePublished": "2026-03-04T18:24:03+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

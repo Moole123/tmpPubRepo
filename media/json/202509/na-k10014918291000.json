@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014918291000",
+  "dataSourceId": "na",
+  "name": "ノルウェー総選挙 首相続投の見通しも右派の躍進目立つ結果に",
+  "headline": "ノルウェー総選挙 首相続投の見通しも右派の躍進目立つ結果に",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014918291000",
+    "playlistId": "news-nwa-international-nationwide-20250910",
+    "newsarticleName": "ノルウェー総選挙 首相続投の見通しも右派の躍進目立つ結果に",
+    "playlistName": "9月10日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "北欧のノルウェーで総選挙が行われました。ストーレ首相が率いる与党・労働党を含む中道左派勢力が過半数となり、首相は続投する見通しとなった一方で、厳しい移民政策を掲げる右派政党の躍進が目立つ結果ともなりま",
+  "dateModified": "2025-09-10T10:17:31+09:00",
+  "datePublished": "2025-09-10T10:17:31+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250910/K10014918291_2509100952_0910101632_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250910/K10014918291_2509100952_0910101632_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "北欧のノルウェーで総選挙が行われました。ストーレ首相が率いる与党・労働党を含む中道左派勢力が過半数となり、首相は続投する見通しとなった一方で、厳しい移民政策を掲げる右派政党の躍進が目立つ結果ともなりま",
+  "articleBody": "北欧のノルウェーで総選挙が行われました。ストーレ首相が率いる与党・労働党を含む中道左派勢力が過半数となり、首相は続投する見通しとなった一方で、厳しい移民政策を掲げる右派政党の躍進が目立つ結果ともなりました。\n\n\nノルウェーでは8日まで議会の総選挙が行われ、地元メディアによりますと、ストーレ首相が率いる与党・労働党を含む中道左派勢力が過半数となりました。\n\nストーレ首相は、続投する見通しで、今後、連立に向けた交渉が予想されます。\n\n欧米のメディアは、ストーレ首相がことし2月、国内での知名度も高いNATO＝北大西洋条約機構の前の事務総長、ストルテンベルグ氏を財務相に起用したことで、労働党への支持が高まったなどと伝えています。\n\n一方、厳しい移民政策を掲げる右派の進歩党が今回、前回の選挙から議席を2倍以上伸ばしたということです。\n\nヨーロッパでは、フランスの極右政党やイギリスの右派ポピュリスト政党も支持を伸ばしていて、ノルウェーの総選挙でも右派の躍進が目立つ結果となりました。\n",
+  "detailedArticleBody": {
+    "markedLead": "北欧のノルウェーで総選挙が行われました。ストーレ首相が率いる与党・労働党を含む中道左派勢力が過半数となり、首相は続投する見通しとなった一方で、厳しい移民政策を掲げる右派政党の躍進が目立つ結果ともなりました。\n",
+    "markedBody": "ノルウェーでは8日まで議会の総選挙が行われ、地元メディアによりますと、ストーレ首相が率いる与党・労働党を含む中道左派勢力が過半数となりました。\n\nストーレ首相は、続投する見通しで、今後、連立に向けた交渉が予想されます。\n\n欧米のメディアは、ストーレ首相がことし2月、国内での知名度も高いNATO＝北大西洋条約機構の前の事務総長、ストルテンベルグ氏を財務相に起用したことで、労働党への支持が高まったなどと伝えています。\n\n一方、厳しい移民政策を掲げる右派の進歩党が今回、前回の選挙から議席を2倍以上伸ばしたということです。\n\nヨーロッパでは、フランスの極右政党やイギリスの右派ポピュリスト政党も支持を伸ばしていて、ノルウェーの総選挙でも右派の躍進が目立つ結果となりました。\n",
+    "trimmedLead": "北欧のノルウェーで総選挙が行われました。ストーレ首相が率いる与党・労働党を含む中道左派勢力が過半数となり、首相は続投する見通しとなった一方で、厳しい移民政策を掲げる右派政党の躍進が目立つ結果ともなりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014918291000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014918291000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014895251000",
+  "dataSourceId": "na",
+  "name": "福岡 宗像市沖合で発見の2遺体 福津市の行方不明男女と確認",
+  "headline": "福岡 宗像市沖合で発見の2遺体 福津市の行方不明男女と確認",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014895251000",
+    "playlistId": "news-nwa-disaster-nationwide-20250815",
+    "newsarticleName": "福岡 宗像市沖合で発見の2遺体 福津市の行方不明男女と確認",
+    "playlistName": "8月15日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "福岡県宗像市の沖合で13日から14日にかけて男女2人の遺体が見つかり、県は、今月10日に福津市の川で流され行方が分からなくなっていた2人と確認されたと発表しました。\n\n\n福岡県内では今月9日以降、線状",
+  "dateModified": "2025-08-15T19:31:07+09:00",
+  "datePublished": "2025-08-15T18:17:19+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250815/K10014895251_2508151816_0815181722_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250815/K10014895251_2508151816_0815181722_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "福岡県宗像市の沖合で13日から14日にかけて男女2人の遺体が見つかり、県は、今月10日に福津市の川で流され行方が分からなくなっていた2人と確認されたと発表しました。\n\n\n福岡県内では今月9日以降、線状",
+  "articleBody": "福岡県宗像市の沖合で13日から14日にかけて男女2人の遺体が見つかり、県は、今月10日に福津市の川で流され行方が分からなくなっていた2人と確認されたと発表しました。\n\n\n福岡県内では今月9日以降、線状降水帯が相次いで発生して記録的な大雨になり、福津市の川では今月10日の夕方、男女2人が流され、行方が分からなくなっていました。\n\n海上保安部によりますと福津市に隣接する宗像市の沖合で13日から14日にかけて相次いで男女2人の遺体が見つかっていましたが、県は15日、警察が行ったDNA鑑定の結果、福津市で流された2人と確認されたと発表しました。\n\n当初の通報では、2人は「60代とみられる」とされていましたが、海上保安部によりますといずれも70代だということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "福岡県宗像市の沖合で13日から14日にかけて男女2人の遺体が見つかり、県は、今月10日に福津市の川で流され行方が分からなくなっていた2人と確認されたと発表しました。\n",
+    "markedBody": "福岡県内では今月9日以降、線状降水帯が相次いで発生して記録的な大雨になり、福津市の川では今月10日の夕方、男女2人が流され、行方が分からなくなっていました。\n\n海上保安部によりますと福津市に隣接する宗像市の沖合で13日から14日にかけて相次いで男女2人の遺体が見つかっていましたが、県は15日、警察が行ったDNA鑑定の結果、福津市で流された2人と確認されたと発表しました。\n\n当初の通報では、2人は「60代とみられる」とされていましたが、海上保安部によりますといずれも70代だということです。\n",
+    "trimmedLead": "福岡県宗像市の沖合で13日から14日にかけて男女2人の遺体が見つかり、県は、今月10日に福津市の川で流され行方が分からなくなっていた2人と確認されたと発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014895251000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014895251000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

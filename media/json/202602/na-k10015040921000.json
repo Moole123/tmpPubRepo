@@ -1,0 +1,101 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015040921000",
+  "dataSourceId": "na",
+  "name": "国際ジャーナリストのモーリー・ロバートソンさん死去",
+  "headline": "国際ジャーナリストのモーリー・ロバートソンさん死去",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015040921000",
+    "playlistId": "news-nwa-society-nationwide-20260201",
+    "newsarticleName": "国際ジャーナリストのモーリー・ロバートソンさん死去",
+    "playlistName": "2月1日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "国際ジャーナリストでタレントのモーリー・ロバートソンさんが、先月29日、食道がんのため亡くなりました。63歳でした。\n\n\nモーリー・ロバートソンさんは、アメリカ出身で、日本とアメリカの両方で教育を受け",
+  "dateModified": "2026-02-01T11:51:33+09:00",
+  "datePublished": "2026-02-01T11:51:33+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260201/K10015040921_2602011133_0201115134_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260201/K10015040921_2602011133_0201115134_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "国際ジャーナリストでタレントのモーリー・ロバートソンさんが、先月29日、食道がんのため亡くなりました。63歳でした。\n\n\nモーリー・ロバートソンさんは、アメリカ出身で、日本とアメリカの両方で教育を受け",
+  "articleBody": "国際ジャーナリストでタレントのモーリー・ロバートソンさんが、先月29日、食道がんのため亡くなりました。63歳でした。\n\n\nモーリー・ロバートソンさんは、アメリカ出身で、日本とアメリカの両方で教育を受け、国際ジャーナリストやタレント、それにミュージシャンなどとして幅広く活躍しました。\n\n民放の情報番組でコメンテーターを務めるなど数多くのテレビ番組に出演し、2021年には、NHK大河ドラマ「青天を衝け」で、マシュー・ペリー役を演じました。\n\nマネジメント事務所によりますと、モーリー・ロバートソンさんは食道がんを患い療養を続けていましたが、先月29日の未明に都内で亡くなりました。63歳でした。\n",
+  "detailedArticleBody": {
+    "markedLead": "国際ジャーナリストでタレントのモーリー・ロバートソンさんが、先月29日、食道がんのため亡くなりました。63歳でした。\n",
+    "markedBody": "モーリー・ロバートソンさんは、アメリカ出身で、日本とアメリカの両方で教育を受け、国際ジャーナリストやタレント、それにミュージシャンなどとして幅広く活躍しました。\n\n民放の情報番組でコメンテーターを務めるなど数多くのテレビ番組に出演し、2021年には、NHK大河ドラマ「青天を衝け」で、マシュー・ペリー役を演じました。\n\nマネジメント事務所によりますと、モーリー・ロバートソンさんは食道がんを患い療養を続けていましたが、先月29日の未明に都内で亡くなりました。63歳でした。\n",
+    "trimmedLead": "国際ジャーナリストでタレントのモーリー・ロバートソンさんが、先月29日、食道がんのため亡くなりました。63歳でした。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015040921000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015040921000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "国際ジャーナリストのモーリー・ロバートソンさん死去",
+      "description": "国際ジャーナリストでタレントのモーリー・ロバートソンさんが、先月29日、食道がんのため亡くなりました。63歳でした。\n\n\nモーリー・ロバートソンさんは、アメリカ出身で、日本とアメリカの両方で教育を受け",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015040921_202602011210_202602011210/index.m3u8&mrposter=/news/html/20260201/K10015040921_2602011133_0201115134_01_02.jpg",
+      "duration": "PT47S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015040921_202602011210_202602011210/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260201/K10015040921_2602011133_0201115134_01_02.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

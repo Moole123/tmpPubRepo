@@ -1,0 +1,149 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015094191000",
+  "dataSourceId": "na",
+  "name": "昨年度クマによる人身被害 全国で過去最多238人 うち13人死亡",
+  "headline": "昨年度クマによる人身被害 全国で過去最多238人 うち13人死亡",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015094191000",
+    "playlistId": "news-nwa-society-nationwide-20260407",
+    "newsarticleName": "昨年度クマによる人身被害 全国で過去最多238人 うち13人死亡",
+    "playlistName": "4月7日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "7日に環境省が公表した昨年度のクマによる人身被害は、全国で238人にのぼり、このうち13人が死亡し、けが人・死者ともに過去最多となりました。\n\n\n過去最多となった238人のクマによる人身被害の都道府県",
+  "dateModified": "2026-04-07T19:12:32+09:00",
+  "datePublished": "2026-04-07T19:12:32+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260407/K10015094191_2604071854_0407191233_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260407/K10015094191_2604071854_0407191233_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002515",
+      "name": "クマ被害",
+      "display": true
+    },
+    {
+      "id": "0002410",
+      "name": "環境省",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "7日に環境省が公表した昨年度のクマによる人身被害は、全国で238人にのぼり、このうち13人が死亡し、けが人・死者ともに過去最多となりました。\n\n\n過去最多となった238人のクマによる人身被害の都道府県",
+  "articleBody": "7日に環境省が公表した昨年度のクマによる人身被害は、全国で238人にのぼり、このうち13人が死亡し、けが人・死者ともに過去最多となりました。\n\n\n過去最多となった238人のクマによる人身被害の都道府県別の内訳をみると、\n▽秋田県が67人で最も多く、\n次いで、\n▽岩手県が40人\n▽福島県が24人\n▽新潟県が17人\n▽長野県が16人\n▽山形県と群馬県がそれぞれ12人\n▽青森県が10人などとなりました。\n\nこのうち13人が死亡し、都道府県別では、\n▽岩手県で5人\n▽秋田県で4人\n▽北海道で2人\n▽宮城県と長野県でそれぞれ1人でした。\n\nこれまでは219人の人身被害で、このうち6人が死亡した2023年度が最多でしたが、昨年度はけが人・死者ともに上回る被害となりました。\n\n環境省は「この春、すでに各地でクマの目撃情報が相次いでいて、冬眠から目覚めたクマがさらに出没することが予想される。自治体からのクマ出没情報などをよく確認してほしい」としています。\n",
+  "detailedArticleBody": {
+    "markedLead": "7日に環境省が公表した昨年度のクマによる人身被害は、全国で238人にのぼり、このうち13人が死亡し、けが人・死者ともに過去最多となりました。\n",
+    "markedBody": "過去最多となった238人のクマによる人身被害の都道府県別の内訳をみると、\\\n▽秋田県が67人で最も多く、\\\n次いで、\\\n▽岩手県が40人\\\n▽福島県が24人\\\n▽新潟県が17人\\\n▽長野県が16人\\\n▽山形県と群馬県がそれぞれ12人\\\n▽青森県が10人などとなりました。\n\nこのうち13人が死亡し、都道府県別では、\\\n▽岩手県で5人\\\n▽秋田県で4人\\\n▽北海道で2人\\\n▽宮城県と長野県でそれぞれ1人でした。\n\nこれまでは219人の人身被害で、このうち6人が死亡した2023年度が最多でしたが、昨年度はけが人・死者ともに上回る被害となりました。\n\n環境省は「この春、すでに各地でクマの目撃情報が相次いでいて、冬眠から目覚めたクマがさらに出没することが予想される。自治体からのクマ出没情報などをよく確認してほしい」としています。\n",
+    "trimmedLead": "7日に環境省が公表した昨年度のクマによる人身被害は、全国で238人にのぼり、このうち13人が死亡し、けが人・死者ともに過去最多となりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015094191000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015094191000",
+  "video": [],
+  "citation": [
+    {
+      "name": "冬眠明けのクマ 活動量を増やす時期に 被害にあわないためには",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015088621000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260331/K10015088621_2603311604_0331210305_01_02.jpg",
+      "datePublished": "2026-03-31T21:03:04+09:00"
+    },
+    {
+      "name": "クマ対策 方針を転換「保護重視」から「個体数管理の強化」へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015091431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260403/K10015091431_2604031811_0403191619_01_02.jpg",
+      "datePublished": "2026-04-03T20:13:24+09:00"
+    },
+    {
+      "name": "今年度予算成立 高市首相「強い経済と財政の持続可能性両立」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094021000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260407/K10015094021_2604071753_0407175404_01_02.jpg",
+      "datePublished": "2026-04-07T20:02:57+09:00"
+    },
+    {
+      "name": "川崎の製鉄所 約40mの足場崩れ作業員5人が転落 3人重体1人不明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094161000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260407/K10015094161_2604071754_0407175538_01_02.jpg",
+      "datePublished": "2026-04-07T19:29:03+09:00"
+    },
+    {
+      "name": "京都 南丹 男児不明 自宅近くの山中を捜索 手がかり見つからず",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015093671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260407/K10015093671_2604070709_0407073330_01_02.jpg",
+      "datePublished": "2026-04-07T17:50:32+09:00"
+    },
+    {
+      "name": "はしかの感染者数197人 2020年以降最も早いペースで増加",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094101000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260407/K10015094101_2604071627_0407174323_01_03.jpg",
+      "datePublished": "2026-04-07T20:07:15+09:00"
+    },
+    {
+      "name": "コメの生産などにかかるコストは5キロ2800円余 試算まとまる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094121000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260407/K10015094121_2604071650_0407172336_01_02.jpg",
+      "datePublished": "2026-04-07T17:23:35+09:00"
+    },
+    {
+      "name": "トランプ氏 “期限過ぎれば即座に攻撃” 国際法違反の指摘も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015093641000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260407/K10015093641_2604070527_0407054603_01_02.jpg",
+      "datePublished": "2026-04-07T19:51:47+09:00"
+    },
+    {
+      "name": "若者に広がる新たな貧困の形",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015091301000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260407/K10015091301_2604071249_0407162248_01_02.jpg",
+      "datePublished": "2026-04-07T16:22:46+09:00"
+    },
+    {
+      "name": "自転車や「モペット」の事故・違反に注意",
+      "url": "https://news.web.nhk/newsweb/sp/pl/editorial-nwa-0000000485",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31121931.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

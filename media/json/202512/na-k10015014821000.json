@@ -1,0 +1,102 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015014821000",
+  "dataSourceId": "na",
+  "name": "能登半島地震から2年 金継ぎがつなぐ 希望のかけら",
+  "headline": "能登半島地震から2年 金継ぎがつなぐ 希望のかけら",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015014821000",
+    "playlistId": "news-nwa-disaster-nationwide-20251226",
+    "newsarticleName": "能登半島地震から2年 金継ぎがつなぐ 希望のかけら",
+    "playlistName": "12月26日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "能登半島地震では、地元の伝統工芸も大きな被害を受けました。\n\n現地では、仮設の工房などの整備が進む一方で、仕事を失ったりふるさとを離れたりした職人も少なくありません。\n\nそのうちの１人。\n\n地震で割れ",
+  "dateModified": "2025-12-26T17:43:59+09:00",
+  "datePublished": "2025-12-26T17:43:59+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251226/K10015014821_2512261831_1226183932_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251226/K10015014821_2512261831_1226183932_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害",
+    "科学・文化"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "能登半島地震では、地元の伝統工芸も大きな被害を受けました。\n\n現地では、仮設の工房などの整備が進む一方で、仕事を失ったりふるさとを離れたりした職人も少なくありません。\n\nそのうちの１人。\n\n地震で割れ",
+  "articleBody": "能登半島地震では、地元の伝統工芸も大きな被害を受けました。\n\n現地では、仮設の工房などの整備が進む一方で、仕事を失ったりふるさとを離れたりした職人も少なくありません。\n\nそのうちの１人。\n\n地震で割れた焼き物のかけら、それもあえて別々の器のかけらを、石川で盛んな「金継ぎ」の技でつないで１つの新たな作品として生まれ変わらせている、ある職人の思いを取材しました。\n\n\n※画像をクリックすると動画がご覧いただけます（データ放送では再生されません）\n",
+  "detailedArticleBody": {
+    "markedLead": "能登半島地震では、地元の伝統工芸も大きな被害を受けました。\n\n現地では、仮設の工房などの整備が進む一方で、仕事を失ったりふるさとを離れたりした職人も少なくありません。\n\nそのうちの１人。\n\n地震で割れた焼き物のかけら、それもあえて別々の器のかけらを、石川で盛んな「金継ぎ」の技でつないで１つの新たな作品として生まれ変わらせている、ある職人の思いを取材しました。\n",
+    "markedBody": "※画像をクリックすると動画がご覧いただけます（データ放送では再生されません）\n",
+    "trimmedLead": "能登半島地震では、地元の伝統工芸も大きな被害を受けました。\n\n現地では、仮設の工房などの整備が進む一方で、仕事を失ったりふるさとを離れたりした職人も少なくありません。\n\nそのうちの１人。\n\n地震で割れた焼き物のかけら、それもあえて別々の器のかけらを、石川で盛んな「金継ぎ」の技でつないで１つの新たな作品として生まれ変わらせている、ある職人の思いを取材しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015014821000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015014821000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "能登半島地震から2年 金継ぎがつなぐ 希望のかけら",
+      "description": "能登半島地震では、地元の伝統工芸も大きな被害を受けました。\n\n現地では、仮設の工房などの整備が進む一方で、仕事を失ったりふるさとを離れたりした職人も少なくありません。\n\nそのうちの１人。\n\n地震で割れ",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015014821_202512261726_202512261740/index.m3u8&mrposter=/news/html/20251226/K10015014821_2512261831_1226183932_01_03.jpg",
+      "duration": "PT6M43S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015014821_202512261726_202512261740/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20251226/K10015014821_2512261831_1226183932_01_03.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

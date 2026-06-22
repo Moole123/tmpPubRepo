@@ -1,0 +1,171 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015152041000",
+  "dataSourceId": "na",
+  "name": "NYダウ最高値更新 原油は一時75ドル台に下落",
+  "headline": "NYダウ最高値更新 原油は一時75ドル台に下落",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015152041000",
+    "playlistId": "news-nwa-business-nationwide-20260617",
+    "newsarticleName": "NYダウ最高値更新 原油は一時75ドル台に下落",
+    "playlistName": "6月17日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "16日のニューヨーク株式市場では、小売りなどの銘柄に買い注文が出てダウ平均株価は前日と比べて300ドルあまり値上がりし、最高値を更新しました。アメリカがイランに対する石油販売に関する制裁を緩和すると報",
+  "dateModified": "2026-06-17T06:06:23+09:00",
+  "datePublished": "2026-06-17T06:06:23+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260617/K10015152041_2606170555_0617060624_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260617/K10015152041_2606170555_0617060624_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済",
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0000819",
+      "name": "原油価格",
+      "display": true
+    },
+    {
+      "id": "0002370",
+      "name": "ニューヨーク",
+      "display": true
+    },
+    {
+      "id": "0002423",
+      "name": "金融",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "16日のニューヨーク株式市場では、小売りなどの銘柄に買い注文が出てダウ平均株価は前日と比べて300ドルあまり値上がりし、最高値を更新しました。アメリカがイランに対する石油販売に関する制裁を緩和すると報",
+  "articleBody": "16日のニューヨーク株式市場では、小売りなどの銘柄に買い注文が出てダウ平均株価は前日と比べて300ドルあまり値上がりし、最高値を更新しました。アメリカがイランに対する石油販売に関する制裁を緩和すると報じられ、原油の先物価格が大きく下落したことも株価の上昇を促したかたちです。\n\n\nニューヨーク株式市場では16日、小売りや金融などの銘柄を中心に買い注文が集まり、ダウ平均株価の終値は前日と比べて328ドル64セント高い、5万1999ドル67セントとなり、最高値を更新しました。\n\nアメリカがイランとの覚書に署名すると同時にイランの石油販売に関する制裁を緩和すると報じられたことを受けて、この日のニューヨーク原油市場で国際的な取り引きの指標となるWTIの先物価格が一時、1バレル＝75ドル台と、およそ3か月ぶりの安値をつけたことも株価の上昇を促したかたちです。\n\n一方、半導体などの銘柄は売られ、ハイテク株の比率が高いナスダックの株価指数は下落しました。\n\n市場関係者は「FRB＝連邦準備制度理事会が年内に利上げするとの観測も根強いなか、ウォーシュ議長が17日の記者会見で今後の金融政策の見通しについてどのように言及するかに投資家は注目している」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "16日のニューヨーク株式市場では、小売りなどの銘柄に買い注文が出てダウ平均株価は前日と比べて300ドルあまり値上がりし、最高値を更新しました。アメリカがイランに対する石油販売に関する制裁を緩和すると報じられ、原油の先物価格が大きく下落したことも株価の上昇を促したかたちです。\n",
+    "markedBody": "ニューヨーク株式市場では16日、小売りや金融などの銘柄を中心に買い注文が集まり、ダウ平均株価の終値は前日と比べて328ドル64セント高い、5万1999ドル67セントとなり、最高値を更新しました。\n\nアメリカがイランとの覚書に署名すると同時にイランの石油販売に関する制裁を緩和すると報じられたことを受けて、この日のニューヨーク原油市場で国際的な取り引きの指標となるWTIの先物価格が一時、1バレル＝75ドル台と、およそ3か月ぶりの安値をつけたことも株価の上昇を促したかたちです。\n\n一方、半導体などの銘柄は売られ、ハイテク株の比率が高いナスダックの株価指数は下落しました。\n\n市場関係者は「FRB＝連邦準備制度理事会が年内に利上げするとの観測も根強いなか、ウォーシュ議長が17日の記者会見で今後の金融政策の見通しについてどのように言及するかに投資家は注目している」と話しています。\n",
+    "trimmedLead": "16日のニューヨーク株式市場では、小売りなどの銘柄に買い注文が出てダウ平均株価は前日と比べて300ドルあまり値上がりし、最高値を更新しました。アメリカがイランに対する石油販売に関する制裁を緩和すると報じられ、原油の先物価格が大きく下落したことも株価の上昇を促したかたちです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015152041000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015152041000",
+  "video": [],
+  "citation": [
+    {
+      "name": "日銀 利上げに踏み切るも円安傾向続く 物価抑制で難しい対応も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015151901000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260617/K10015151901_2606170023_0617054724_01_02.jpg",
+      "datePublished": "2026-06-17T05:47:23+09:00"
+    },
+    {
+      "name": "【詳しく】利上げで暮らしへの影響は？金利どこまで上がる？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015150921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260616/K10015150921_2606161815_0616181748_01_02.jpg",
+      "datePublished": "2026-06-16T19:16:30+09:00"
+    },
+    {
+      "name": "G7サミット 中東やウクライナ情勢への対応を議論",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015151271000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260616/K10015151271_2606161708_0616184512_01_02.jpg",
+      "datePublished": "2026-06-17T05:53:11+09:00"
+    },
+    {
+      "name": "16日夜 群馬 埼玉で震度5弱の地震 今後1週間程度は注意を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015151981000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260617/K10015151981_2606162334_0617051824_01_02.jpg",
+      "datePublished": "2026-06-17T05:18:23+09:00"
+    },
+    {
+      "name": "消費税減税 実務者会議で案提示へ 来年4月から1％軸に調整",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015151881000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260617/K10015151881_2606170035_0617042657_01_02.jpg",
+      "datePublished": "2026-06-17T04:26:56+09:00"
+    },
+    {
+      "name": "アメリカとイランの署名式 19日にスイス中部で開催予定",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015151941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260617/K10015151941_2606170531_0617054818_01_02.jpg",
+      "datePublished": "2026-06-17T05:48:17+09:00"
+    },
+    {
+      "name": "自維国参4党 国旗損壊罪法案の成立図る 論戦活発化へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015151891000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260617/K10015151891_2606170037_0617043149_01_02.jpg",
+      "datePublished": "2026-06-17T04:31:48+09:00"
+    },
+    {
+      "name": "映画『火垂るの墓』公開当初の“幻”となっていたフィルム発見",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015151911000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260617/K10015151911_2606170153_0617035827_01_02.jpg",
+      "datePublished": "2026-06-17T03:58:26+09:00"
+    },
+    {
+      "name": "プロ野球交流戦 西武が初優勝 勝率は過去最高",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015151871000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260616/K10015151871_2606162208_0616221208_01_02.jpg",
+      "datePublished": "2026-06-16T23:28:46+09:00"
+    },
+    {
+      "name": "FIFAワールドカップ2026【NHK特設サイト】",
+      "url": "https://nhk.jp/fifawc?cid=wc26-newsweb-awayomi",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31365091.jpg"
+    },
+    {
+      "name": "オランダ公式訪問 天皇皇后両陛下 アムステルダム王宮に移動",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015151921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260617/K10015151921_2606162321_0617052401_01_02.jpg",
+      "datePublished": "2026-06-17T05:24:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

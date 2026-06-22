@@ -1,0 +1,157 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015123071000",
+  "dataSourceId": "na",
+  "name": "【地震】高市首相 “被害の情報なし 情報提供など指示”投稿",
+  "headline": "【地震】高市首相 “被害の情報なし 情報提供など指示”投稿",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015123071000",
+    "playlistId": "news-nwa-disaster-nationwide-20260515",
+    "newsarticleName": "【地震】高市首相 “被害の情報なし 情報提供など指示”投稿",
+    "playlistName": "5月15日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "高市総理大臣は15日夜9時ごろ、旧ツイッターの「X」に「現時点で人的被害や住家被害に関する情報はないが、引き続き、被害状況を確認中との報告を受けている。政府としては地震発生後、ただちに官邸危機管理セン",
+  "dateModified": "2026-05-15T21:21:34+09:00",
+  "datePublished": "2026-05-15T21:21:34+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260515/K10015123071_2605152124_0515213007_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260515/K10015123071_2605152124_0515213007_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害",
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0002672",
+      "name": "高市内閣",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "高市総理大臣は15日夜9時ごろ、旧ツイッターの「X」に「現時点で人的被害や住家被害に関する情報はないが、引き続き、被害状況を確認中との報告を受けている。政府としては地震発生後、ただちに官邸危機管理セン",
+  "articleBody": "高市総理大臣は15日夜9時ごろ、旧ツイッターの「X」に「現時点で人的被害や住家被害に関する情報はないが、引き続き、被害状況を確認中との報告を受けている。政府としては地震発生後、ただちに官邸危機管理センターに情報連絡室を設置し、私からも被害状況の把握、国民に対する適時、的確な情報提供などを指示し、全力で対応に当たっている」と投稿しました。\n\n\nそして「揺れの強かった地域の皆さまは引き続き、同程度の地震の発生に注意し、気を付けてお過ごしいただきますようお願いします」としています。\n",
+  "detailedArticleBody": {
+    "markedLead": "高市総理大臣は15日夜9時ごろ、旧ツイッターの「X」に「現時点で人的被害や住家被害に関する情報はないが、引き続き、被害状況を確認中との報告を受けている。政府としては地震発生後、ただちに官邸危機管理センターに情報連絡室を設置し、私からも被害状況の把握、国民に対する適時、的確な情報提供などを指示し、全力で対応に当たっている」と投稿しました。\n",
+    "markedBody": "そして「揺れの強かった地域の皆さまは引き続き、同程度の地震の発生に注意し、気を付けてお過ごしいただきますようお願いします」としています。\n",
+    "trimmedLead": "高市総理大臣は15日夜9時ごろ、旧ツイッターの「X」に「現時点で人的被害や住家被害に関する情報はないが、引き続き、被害状況を確認中との報告を受けている。政府としては地震発生後、ただちに官邸危機管理センターに情報連絡室を設置し、私からも被害状況の把握、国民に対する適時、的確な情報提供などを指示し、全力で対応に当たっている」と投稿しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015123071000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015123071000",
+  "video": [],
+  "citation": [
+    {
+      "name": "【地震速報】宮城県北部 中部で震度５弱 津波の心配なし",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015120041_2605152030_0515203456_01_02.jpg",
+      "datePublished": "2026-05-15T21:17:00+09:00"
+    },
+    {
+      "name": "長周期地震動 宮城 登米で「階級3」の揺れを観測",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015123051000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015123051_2605152055_0515205707_01_02.jpg",
+      "datePublished": "2026-05-15T20:57:06+09:00"
+    },
+    {
+      "name": "米中首脳会談 トランプ大統領 3日間の訪中終えて帰国の途に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015122131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015122131_2605150232_0515054810_01_02.jpg",
+      "datePublished": "2026-05-15T19:09:54+09:00"
+    },
+    {
+      "name": "サッカーW杯 日本代表26人決定 三笘 南野は外れる【詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015122361000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015122361_2605151602_0515162602_01_02.jpg",
+      "datePublished": "2026-05-15T20:00:35+09:00"
+    },
+    {
+      "name": "住宅強盗3人死傷事件 当日のうちに埼玉県に車で逃走か 栃木",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015122831000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015122831_2605151815_0515181949_01_02.jpg",
+      "datePublished": "2026-05-15T18:42:58+09:00"
+    },
+    {
+      "name": "安定的な皇位継承 衆院議長“とりまとめ進め 次回に案を提示”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015122471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015122471_2605151616_0515183051_01_02.jpg",
+      "datePublished": "2026-05-15T19:39:28+09:00"
+    },
+    {
+      "name": "花巻空港の敷地内にクマ 滑走路を一時閉鎖 その後敷地外へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015122861000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015122861_2605151845_0515185010_01_02.jpg",
+      "datePublished": "2026-05-15T19:29:10+09:00"
+    },
+    {
+      "name": "スーパーのコメ価格 5キロ税込み3742円 3週連続の値下がり",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015122811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015122811_2605151709_0515173032_01_02.jpg",
+      "datePublished": "2026-05-15T20:08:12+09:00"
+    },
+    {
+      "name": "日経平均6万円台 実力か買われすぎか【経済コラム】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015121681000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015121681_2605151123_0515175911_01_02.jpg",
+      "datePublished": "2026-05-15T17:59:10+09:00"
+    },
+    {
+      "name": "【Q＆A】最新AI「ミュトス」は何が違う？必要な対応は？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015121901000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015121901_2605142022_0515050713_01_02.jpg",
+      "datePublished": "2026-05-15T05:07:12+09:00"
+    },
+    {
+      "name": "都心にもデータセンター 建設ラッシュいったいなぜ？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015121461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015121461_2605141918_0515163710_01_02.jpg",
+      "datePublished": "2026-05-15T16:37:09+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

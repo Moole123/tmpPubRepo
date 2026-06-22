@@ -1,0 +1,144 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015153171000",
+  "dataSourceId": "na",
+  "name": "高市首相動静 2026年6月17日",
+  "headline": "高市首相動静 2026年6月17日",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015153171000",
+    "playlistId": "news-nwa-politics-nationwide-20260618",
+    "newsarticleName": "高市首相動静 2026年6月17日",
+    "playlistName": "6月18日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "（高市首相動静 2026年6月17日）\n\n\n（以下、すべて日本時間）\n00:20 フランス東部エビアンのホテル「ホテル・ロイヤル・エビアン・リゾート」で日仏首脳会談（～00:36）\n02:46 社交行",
+  "dateModified": "2026-06-18T08:19:25+09:00",
+  "datePublished": "2026-06-18T08:19:25+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260618/K10015153171_2606180802_0618081926_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260618/K10015153171_2606180802_0618081926_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0002532",
+      "name": "首相動静",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "（高市首相動静 2026年6月17日）\n\n\n（以下、すべて日本時間）\n00:20 フランス東部エビアンのホテル「ホテル・ロイヤル・エビアン・リゾート」で日仏首脳会談（～00:36）\n02:46 社交行",
+  "articleBody": "（高市首相動静 2026年6月17日）\n\n\n（以下、すべて日本時間）\n00:20 フランス東部エビアンのホテル「ホテル・ロイヤル・エビアン・リゾート」で日仏首脳会談（～00:36）\n02:46 社交行事（～05:30）\n17:29 セッション「すべての人の利益となる、均衡の取れた包摂的で、持続可能な経済成長の回復」\n19:26 日EU首脳会談（～19:47）\n20:55 ワーキングランチ「AIの安全で迅速かつ効率的な導入の確保」\n23:30 フランス東部アルシャンのコンベンションセンターで内外記者会見（～23:58）\n",
+  "detailedArticleBody": {
+    "markedLead": "（高市首相動静 2026年6月17日）\n",
+    "markedBody": "（以下、すべて日本時間）\\\n00:20 フランス東部エビアンのホテル「ホテル・ロイヤル・エビアン・リゾート」で日仏首脳会談（～00:36）\\\n02:46 社交行事（～05:30）\\\n17:29 セッション「すべての人の利益となる、均衡の取れた包摂的で、持続可能な経済成長の回復」\\\n19:26 日EU首脳会談（～19:47）\\\n20:55 ワーキングランチ「AIの安全で迅速かつ効率的な導入の確保」\\\n23:30 フランス東部アルシャンのコンベンションセンターで内外記者会見（～23:58）\n",
+    "trimmedLead": "（高市首相動静 2026年6月17日）\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015153171000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015153171000",
+  "video": [],
+  "citation": [
+    {
+      "name": "サッカーW杯 チュニジア戦へ日本が調整再開 久保は左ひざ負傷",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015153091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260618/K10015153091_2606180521_0618063124_01_02.jpg",
+      "datePublished": "2026-06-18T06:31:23+09:00"
+    },
+    {
+      "name": "G7サミット閉幕 仏マクロン大統領 “協力実現 大きな転換点”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015152391000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260617/K10015152391_2606171740_0617185022_01_02.jpg",
+      "datePublished": "2026-06-18T05:12:22+09:00"
+    },
+    {
+      "name": "高市首相 G7成果文書で一致したメッセージ “意義大きい”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015152941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260618/K10015152941_2606172340_0618031736_01_02.jpg",
+      "datePublished": "2026-06-18T03:17:36+09:00"
+    },
+    {
+      "name": "食料品の消費税減税 来年4月1％案 野党から批判や懸念も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015152871000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260618/K10015152871_2606180050_0618045553_01_02.jpg",
+      "datePublished": "2026-06-18T04:55:52+09:00"
+    },
+    {
+      "name": "天皇皇后両陛下 オランダで歓迎の晩さん会に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015153121000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260618/K10015153121_2606180615_0618063911_01_02.jpg",
+      "datePublished": "2026-06-18T06:39:10+09:00"
+    },
+    {
+      "name": "米イラン覚書草案報道 ホルムズ海峡通航再開へ合意履行なるか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015151941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260617/K10015151941_2606171145_0617125329_01_02.jpg",
+      "datePublished": "2026-06-18T04:31:47+09:00"
+    },
+    {
+      "name": "”介護殺人”加害者7割超が心身不調も相談は3人に1人 NHK分析",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015152831000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260618/K10015152831_2606172043_0618072314_01_02.jpg",
+      "datePublished": "2026-06-18T07:23:13+09:00"
+    },
+    {
+      "name": "ホワイトハウス “覚書に電子的に署名 すでに効力生じている”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015153101000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260618/K10015153101_2606180656_0618072429_01_02.jpg",
+      "datePublished": "2026-06-18T07:59:33+09:00"
+    },
+    {
+      "name": "米FRB 政策金利据え置き ウォーシュ議長「物価安定を実現」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015152921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260618/K10015152921_2606180332_0618033319_01_02.jpg",
+      "datePublished": "2026-06-18T06:52:21+09:00"
+    },
+    {
+      "name": "FIFAワールドカップ2026【NHK特設サイト】",
+      "url": "https://nhk.jp/fifawc?cid=wc26-newsweb-awayomi",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31365091.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

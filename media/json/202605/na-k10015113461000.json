@@ -1,0 +1,161 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015113461000",
+  "dataSourceId": "na",
+  "name": "広い範囲で気温上昇 高知県は真夏日も 東北 北海道は暴風警戒",
+  "headline": "広い範囲で気温上昇 高知県は真夏日も 東北 北海道は暴風警戒",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015113461000",
+    "playlistId": "news-nwa-disaster-nationwide-20260502",
+    "newsarticleName": "広い範囲で気温上昇 高知県は真夏日も 東北 北海道は暴風警戒",
+    "playlistName": "5月2日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "2日は広い範囲で晴れて気温が上がり、高知県では最高気温が30度以上の真夏日となっているところもあります。屋外での活動の際は、熱中症への対策も心がけるようにしてください。\n\n一方、発達している低気圧の影",
+  "dateModified": "2026-05-02T15:18:58+09:00",
+  "datePublished": "2026-05-02T15:18:58+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260502/K10015113461_2605021447_0502151859_02_01.jpg",
+      "height": 719,
+      "width": 1279
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260502/K10015113461_2605021447_0502151859_01_02.jpg",
+      "height": 719,
+      "width": 1279
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0000035",
+      "name": "気象",
+      "display": true
+    },
+    {
+      "id": "0000649",
+      "name": "熱中症",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "2日は広い範囲で晴れて気温が上がり、高知県では最高気温が30度以上の真夏日となっているところもあります。屋外での活動の際は、熱中症への対策も心がけるようにしてください。\n\n一方、発達している低気圧の影",
+  "articleBody": "2日は広い範囲で晴れて気温が上がり、高知県では最高気温が30度以上の真夏日となっているところもあります。屋外での活動の際は、熱中症への対策も心がけるようにしてください。\n\n一方、発達している低気圧の影響で、東北と北海道では向こう数時間、風が強い状態が続くおそれがあり、暴風による建物などへの被害や交通機関への影響に警戒が必要です。\n\n\n気象庁によりますと2日は関東甲信から九州、沖縄・奄美にかけて広く高気圧に覆われて晴れ、気温が上がっています。\n\n午後2時までの最高気温は高知県黒潮町佐賀で30.3度と真夏日となったほか、宮崎市で28.8度、千葉県市原市の牛久で28.7度、神奈川県小田原市で28.6度、東京・府中市で28.3度となっています。\n\n屋外での活動の際は、熱中症への対策も心がけるようにしてください。\n\n一方、発達している低気圧の影響で東北と北海道では風が強まり、仙台市では2日午前6時すぎに31.2メートルの最大瞬間風速を観測し、5月としては統計を取り始めてから1位を更新しました。\n\n午後になっても風は強く、午後2時までの3時間に観測された最大瞬間風速は北海道のえりも岬で30.8メートル、山形県長井市で28.9メートル、青森県八戸市で28.3メートル、宮城県の仙台空港で27.8メートル、福島市で26.9メートルなどとなっています。\n\n東北と北海道では向こう数時間、風が強い状態が続くおそれがあり、気象庁は暴風による建物などへの被害や大型連休中の交通機関への影響に警戒するよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "2日は広い範囲で晴れて気温が上がり、高知県では最高気温が30度以上の真夏日となっているところもあります。屋外での活動の際は、熱中症への対策も心がけるようにしてください。\n\n一方、発達している低気圧の影響で、東北と北海道では向こう数時間、風が強い状態が続くおそれがあり、暴風による建物などへの被害や交通機関への影響に警戒が必要です。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20260502/K10015113461_2605021524_0502152541_02_04.jpg)\n\n気象庁によりますと2日は関東甲信から九州、沖縄・奄美にかけて広く高気圧に覆われて晴れ、気温が上がっています。\n\n午後2時までの最高気温は高知県黒潮町佐賀で30.3度と真夏日となったほか、宮崎市で28.8度、千葉県市原市の牛久で28.7度、神奈川県小田原市で28.6度、東京・府中市で28.3度となっています。\n\n屋外での活動の際は、熱中症への対策も心がけるようにしてください。\n\n![](https://news.web.nhk/news/html/20260502/K10015113461_2605021448_0502151859_02_03.jpg)\n\n一方、発達している低気圧の影響で東北と北海道では風が強まり、仙台市では2日午前6時すぎに31.2メートルの最大瞬間風速を観測し、5月としては統計を取り始めてから1位を更新しました。\n\n午後になっても風は強く、午後2時までの3時間に観測された最大瞬間風速は北海道のえりも岬で30.8メートル、山形県長井市で28.9メートル、青森県八戸市で28.3メートル、宮城県の仙台空港で27.8メートル、福島市で26.9メートルなどとなっています。\n\n東北と北海道では向こう数時間、風が強い状態が続くおそれがあり、気象庁は暴風による建物などへの被害や大型連休中の交通機関への影響に警戒するよう呼びかけています。\n",
+    "trimmedLead": "2日は広い範囲で晴れて気温が上がり、高知県では最高気温が30度以上の真夏日となっているところもあります。屋外での活動の際は、熱中症への対策も心がけるようにしてください。\n\n一方、発達している低気圧の影響で、東北と北海道では向こう数時間、風が強い状態が続くおそれがあり、暴風による建物などへの被害や交通機関への影響に警戒が必要です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015113461000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015113461000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "広い範囲で気温上昇 高知県は真夏日も 東北 北海道は暴風警戒",
+      "description": "2日は広い範囲で晴れて気温が上がり、高知県では最高気温が30度以上の真夏日となっているところもあります。屋外での活動の際は、熱中症への対策も心がけるようにしてください。\n\n一方、発達している低気圧の影",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015113461_202605021523_202605021525/index.m3u8&mrposter=/news/html/20260502/K10015113461_2605021447_0502151859_01_02.jpg",
+      "duration": "PT50S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015113461_202605021523_202605021525/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260502/K10015113461_2605021447_0502151859_01_02.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "仙台で最大瞬間風速31.2m/s観測 東北 暴風や交通影響に警戒を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015113141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260502/K10015113141_2605021407_0502140759_01_02.jpg",
+      "datePublished": "2026-05-02T12:02:41+09:00"
+    },
+    {
+      "name": "【ライブ】大型連休混雑ピーク 高速は渋滞 新幹線は強風影響",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015113121000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260502/K10015113121_2605020958_0502095957_01_02.jpg",
+      "datePublished": "2026-05-02T14:27:51+09:00"
+    },
+    {
+      "name": "岩手 大槌町山林火災 町が「鎮圧」宣言 火災は沈静化",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015113391000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260502/K10015113391_2605021515_0502151611_01_03.jpg",
+      "datePublished": "2026-05-02T14:57:09+09:00"
+    },
+    {
+      "name": "旭山動物園 遺体損壊事件 車3台押収 乗りかえて運んだか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015113181000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260502/K10015113181_2605021141_0502114957_01_02.jpg",
+      "datePublished": "2026-05-02T11:49:56+09:00"
+    },
+    {
+      "name": "納豆や冷蔵ギョーザ販売休止の動き“資材の調達困難”など理由",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015112681000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260501/K10015112681_2605011601_0501160242_01_02.jpg",
+      "datePublished": "2026-05-01T16:02:41+09:00"
+    },
+    {
+      "name": "憲法テーマの書籍 売れ行き伸びる 憲法への関心広がる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015113011000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260502/K10015113011_2605012029_0502044815_01_02.jpg",
+      "datePublished": "2026-05-02T04:48:14+09:00"
+    },
+    {
+      "name": "「次の一歩も“りくりゅう”で」引退表明後初のインタビュー",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015111561000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260502/K10015111561_2604301825_0502072803_01_02.jpg",
+      "datePublished": "2026-05-02T07:28:02+09:00"
+    },
+    {
+      "name": "NPT再検討会議 広島の「胎内被爆者」核兵器の非人道性訴え",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015113171000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260502/K10015113171_2605020435_0502055344_01_02.jpg",
+      "datePublished": "2026-05-02T12:05:44+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

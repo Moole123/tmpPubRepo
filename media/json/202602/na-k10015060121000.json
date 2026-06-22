@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015060121000",
+  "dataSourceId": "na",
+  "name": "株価 終値として初めて5万8000円台に 最高値を更新",
+  "headline": "株価 終値として初めて5万8000円台に 最高値を更新",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015060121000",
+    "playlistId": "news-nwa-business-nationwide-20260225",
+    "newsarticleName": "株価 終値として初めて5万8000円台に 最高値を更新",
+    "playlistName": "2月25日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "25日の東京株式市場、日経平均株価は、終値として初めて5万8000円台にのせ、最高値を更新しました。\n\n\n25日の東京市場は、24日のニューヨーク市場でハイテク関連の銘柄が多いナスダックの株価指数が上",
+  "dateModified": "2026-02-25T16:11:34+09:00",
+  "datePublished": "2026-02-25T09:39:29+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260225/K10015060121_2602251532_0225154404_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260225/K10015060121_2602251532_0225154404_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0002423",
+      "name": "金融",
+      "display": true
+    },
+    {
+      "id": "0002421",
+      "name": "半導体",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "25日の東京株式市場、日経平均株価は、終値として初めて5万8000円台にのせ、最高値を更新しました。\n\n\n25日の東京市場は、24日のニューヨーク市場でハイテク関連の銘柄が多いナスダックの株価指数が上",
+  "articleBody": "25日の東京株式市場、日経平均株価は、終値として初めて5万8000円台にのせ、最高値を更新しました。\n\n\n25日の東京市場は、24日のニューヨーク市場でハイテク関連の銘柄が多いナスダックの株価指数が上昇した流れを受け、取り引き開始直後から半導体関連の銘柄などが積極的に買われました。\n\n午後の取り引きに入ると、政府が示した日銀の審議委員の人事案をきっかけに、日銀の早期の利上げが遠のいたとの見方が市場に広がったことで、株価の上昇幅はさらに拡大し、一時、1500円以上の値上がりとなりました。\n\n▽日経平均株価、25日の終値は24日の終値と比べて1262円3銭高い、5万8583円12銭となり、終値として初めて5万8000円台にのせ最高値を更新しました。\n\n▽東証株価指数＝トピックスは27.18上がって3843.16。\n\n▽1日の出来高は27億7074万株でした。\n\n市場関係者は「市場では審議委員の人事案で示された2人が、日銀の金融政策などについてどのような考えを示すのか、注目している」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "25日の東京株式市場、日経平均株価は、終値として初めて5万8000円台にのせ、最高値を更新しました。\n",
+    "markedBody": "25日の東京市場は、24日のニューヨーク市場でハイテク関連の銘柄が多いナスダックの株価指数が上昇した流れを受け、取り引き開始直後から半導体関連の銘柄などが積極的に買われました。\n\n午後の取り引きに入ると、政府が示した日銀の審議委員の人事案をきっかけに、日銀の早期の利上げが遠のいたとの見方が市場に広がったことで、株価の上昇幅はさらに拡大し、一時、1500円以上の値上がりとなりました。\n\n▽日経平均株価、25日の終値は24日の終値と比べて1262円3銭高い、5万8583円12銭となり、終値として初めて5万8000円台にのせ最高値を更新しました。\n\n▽東証株価指数＝トピックスは27.18上がって3843.16。\n\n▽1日の出来高は27億7074万株でした。\n\n市場関係者は「市場では審議委員の人事案で示された2人が、日銀の金融政策などについてどのような考えを示すのか、注目している」と話しています。\n",
+    "trimmedLead": "25日の東京株式市場、日経平均株価は、終値として初めて5万8000円台にのせ、最高値を更新しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015060121000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015060121000",
+  "video": [],
+  "citation": [
+    {
+      "name": "トランプ大統領 歴代最長の一般教書演説【ノーカット動画】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015059991000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260225/K10015059991_2602251142_0225114334_01_02.jpg",
+      "datePublished": "2026-02-25T15:18:10+09:00"
+    },
+    {
+      "name": "“イラン軍事作戦にリスク”報道は「事実無根」米報道官",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015060061000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260225/K10015060061_2602250646_0225075304_01_02.jpg",
+      "datePublished": "2026-02-25T10:44:35+09:00"
+    },
+    {
+      "name": "官房副長官「イランで邦人1人が1月に当局に拘束されたと確認」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015060161000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260225/K10015060161_2602251055_0225115348_01_02.jpg",
+      "datePublished": "2026-02-25T11:53:47+09:00"
+    },
+    {
+      "name": "円相場 値下がり “高市首相が追加利上げに難色”報道きっかけ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015059761000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260224/K10015059761_2602241801_0224181047_01_02.jpg",
+      "datePublished": "2026-02-24T18:10:46+09:00"
+    },
+    {
+      "name": "仏教経典学習のAI搭載 悩み相談にこたえるヒト型ロボット開発",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015059701000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260224/K10015059701_2602241735_0224174726_01_02.jpg",
+      "datePublished": "2026-02-24T17:47:25+09:00"
+    },
+    {
+      "name": "高市首相 カタログギフト配付「法令上問題ない」参院代表質問",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015060141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260225/K10015060141_2602251121_0225115049_01_02.jpg",
+      "datePublished": "2026-02-25T17:11:23+09:00"
+    },
+    {
+      "name": "千葉 野田 住宅に強盗 3人組が金庫奪う 住民の80代男性けが",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015060071000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260225/K10015060071_2602250756_0225075629_01_03.jpg",
+      "datePublished": "2026-02-25T15:17:26+09:00"
+    },
+    {
+      "name": "ゼレンスキー大統領 “ロシアとの和平協議 欧州の参加必要”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015060051000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260225/K10015060051_2602250618_0225061938_01_03.jpg",
+      "datePublished": "2026-02-25T06:19:37+09:00"
+    },
+    {
+      "name": "「研究開発税制」昨年度の減税額 初めて1兆円超 財務省が公表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015059851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260225/K10015059851_2602242024_0225050607_01_02.jpg",
+      "datePublished": "2026-02-25T05:06:06+09:00"
+    },
+    {
+      "name": "ミラノ・コルティナ五輪 日本選手団帰国し会見 大会振り返る",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015059671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260224/K10015059671_2602241623_0224163021_01_02.jpg",
+      "datePublished": "2026-02-24T19:27:50+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

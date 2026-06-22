@@ -1,0 +1,172 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015069871000",
+  "dataSourceId": "na",
+  "name": "茨城 取手 住宅1棟が焼ける火事 この家に住む高齢夫婦が死亡",
+  "headline": "茨城 取手 住宅1棟が焼ける火事 この家に住む高齢夫婦が死亡",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015069871000",
+    "playlistId": "news-nwa-society-nationwide-20260308",
+    "newsarticleName": "茨城 取手 住宅1棟が焼ける火事 この家に住む高齢夫婦が死亡",
+    "playlistName": "3月8日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "8日朝、茨城県取手市で住宅1棟が焼ける火事があり、この家に住む高齢の夫婦が死亡しました。警察は火事の詳しい原因を調べています。\n\n\n8日午前7時ごろ、取手市井野台の吉村正昭さん（82）の住宅の2階部分",
+  "dateModified": "2026-03-08T12:19:29+09:00",
+  "datePublished": "2026-03-08T12:19:29+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260308/K10015069871_2603081159_0308121930_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260308/K10015069871_2603081159_0308121930_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002208",
+      "name": "茨城県",
+      "display": true
+    },
+    {
+      "id": "0002689",
+      "name": "火災",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "8日朝、茨城県取手市で住宅1棟が焼ける火事があり、この家に住む高齢の夫婦が死亡しました。警察は火事の詳しい原因を調べています。\n\n\n8日午前7時ごろ、取手市井野台の吉村正昭さん（82）の住宅の2階部分",
+  "articleBody": "8日朝、茨城県取手市で住宅1棟が焼ける火事があり、この家に住む高齢の夫婦が死亡しました。警察は火事の詳しい原因を調べています。\n\n\n8日午前7時ごろ、取手市井野台の吉村正昭さん（82）の住宅の2階部分から煙が出ていると近所の人から消防に通報がありました。\n\n消防車両7台が出て消火活動にあたり、火はおよそ5時間後に消し止められましたが、警察や消防によりますと木造2階建ての住宅1棟が焼け、2階から吉村さんと妻の美代子さん（77）が発見され、その場で死亡が確認されました。\n\n現場はJR取手駅から北東におよそ1.8キロ離れた住宅が立ち並ぶ地域で、警察は火事の詳しい原因を調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "8日朝、茨城県取手市で住宅1棟が焼ける火事があり、この家に住む高齢の夫婦が死亡しました。警察は火事の詳しい原因を調べています。\n",
+    "markedBody": "8日午前7時ごろ、取手市井野台の吉村正昭さん（82）の住宅の2階部分から煙が出ていると近所の人から消防に通報がありました。\n\n消防車両7台が出て消火活動にあたり、火はおよそ5時間後に消し止められましたが、警察や消防によりますと木造2階建ての住宅1棟が焼け、2階から吉村さんと妻の美代子さん（77）が発見され、その場で死亡が確認されました。\n\n現場はJR取手駅から北東におよそ1.8キロ離れた住宅が立ち並ぶ地域で、警察は火事の詳しい原因を調べています。\n",
+    "trimmedLead": "8日朝、茨城県取手市で住宅1棟が焼ける火事があり、この家に住む高齢の夫婦が死亡しました。警察は火事の詳しい原因を調べています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015069871000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015069871000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "茨城 取手 住宅1棟が焼ける火事 この家に住む高齢夫婦が死亡",
+      "description": "8日朝、茨城県取手市で住宅1棟が焼ける火事があり、この家に住む高齢の夫婦が死亡しました。警察は火事の詳しい原因を調べています。\n\n\n8日午前7時ごろ、取手市井野台の吉村正昭さん（82）の住宅の2階部分",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015069871_202603081215_202603081216/index.m3u8&mrposter=/news/html/20260308/K10015069871_2603081159_0308121930_01_03.jpg",
+      "duration": "PT50S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015069871_202603081215_202603081216/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260308/K10015069871_2603081159_0308121930_01_03.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "トランプ大統領 クルド人武装組織のイラン攻撃“介入望まず”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015069791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260308/K10015069791_2603081048_0308111915_01_02.jpg",
+      "datePublished": "2026-03-08T11:19:15+09:00"
+    },
+    {
+      "name": "日本人旅行者ら100人以上搭乗のチャーター機 オマーンを出発",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015069611000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260308/K10015069611_2603080157_0308053636_01_02.jpg",
+      "datePublished": "2026-03-08T11:51:45+09:00"
+    },
+    {
+      "name": "茂木外相 日米首脳会談でイラン情勢沈静化向け協議へ 日曜討論",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015069821000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260308/K10015069821_2603081022_0308114449_01_02.jpg",
+      "datePublished": "2026-03-08T11:44:48+09:00"
+    },
+    {
+      "name": "WBC 日本 第3戦・豪州戦に勝利で1位突破決定 菅野智之が先発へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015069571000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260308/K10015069571_2603080024_0308022240_01_02.jpg",
+      "datePublished": "2026-03-08T02:22:40+09:00"
+    },
+    {
+      "name": "「反撃能力」長射程ミサイル熊本に搬入へ 早ければ8日深夜に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015069331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260307/K10015069331_2603071807_0307183225_01_02.jpg",
+      "datePublished": "2026-03-07T22:56:49+09:00"
+    },
+    {
+      "name": "都道府県版ジェンダー・ギャップ指数 政治分野 依然大きな格差",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015069441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260308/K10015069441_2603072239_0308054939_01_02.jpg",
+      "datePublished": "2026-03-08T07:33:29+09:00"
+    },
+    {
+      "name": "台湾でランタン祭り 青森のねぶた師が現地制作のねぶたも参加",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015069781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260308/K10015069781_2603080959_0308102502_01_02.jpg",
+      "datePublished": "2026-03-08T10:25:01+09:00"
+    },
+    {
+      "name": "3.11 あの日を忘れない 東日本大震災・原発事故15年特集サイト",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0000019",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30907482.jpg"
+    },
+    {
+      "name": "5歳でふるさとを追われた私が 東電社員になった理由",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015066951000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260308/K10015066951_2603051813_0308101900_01_02.jpg",
+      "datePublished": "2026-03-08T10:18:59+09:00"
+    },
+    {
+      "name": "帰ってきた「なっちゃん」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015069111000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260307/K10015069111_2603071109_0307213607_01_02.jpg",
+      "datePublished": "2026-03-07T21:36:06+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

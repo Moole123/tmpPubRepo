@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014874191000",
+  "dataSourceId": "na",
+  "name": "高校野球 福島は聖光学院 島根は開星が夏の甲子園へ",
+  "headline": "高校野球 福島は聖光学院 島根は開星が夏の甲子園へ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014874191000",
+    "playlistId": "news-nwa-sports-nationwide-20250725",
+    "newsarticleName": "高校野球 福島は聖光学院 島根は開星が夏の甲子園へ",
+    "playlistName": "7月25日のスポーツニュース",
+    "genreId": "sports",
+    "genreIdSlug": "sports"
+  },
+  "description": "夏の全国高校野球、25日は新たに福島と島根の2校が甲子園出場を決めました。\n\n\n福島 聖光学院が3季連続の甲子園出場へ\n\n福島出大会は、聖光学院が会津北嶺高校に10対3で勝ち、4年連続20回目の夏の甲",
+  "dateModified": "2025-07-25T15:31:23+09:00",
+  "datePublished": "2025-07-25T13:56:48+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250725/K10014874191_2507251315_0725135614_02_01.jpg",
+      "height": 719,
+      "width": 1280
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250725/K10014874191_2507251315_0725135614_01_02.jpg",
+      "height": 719,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "スポーツ",
+    "地域"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "夏の全国高校野球、25日は新たに福島と島根の2校が甲子園出場を決めました。\n\n\n福島 聖光学院が3季連続の甲子園出場へ\n\n福島出大会は、聖光学院が会津北嶺高校に10対3で勝ち、4年連続20回目の夏の甲",
+  "articleBody": "夏の全国高校野球、25日は新たに福島と島根の2校が甲子園出場を決めました。\n\n\n福島 聖光学院が3季連続の甲子園出場へ\n\n福島出大会は、聖光学院が会津北嶺高校に10対3で勝ち、4年連続20回目の夏の甲子園場を決めました。聖光学院はことしのセンバツ大会にも出場していて3季連続の甲子園出場です。\n\n島根 開星が8年ぶり11回目の出場へ\n\n島根大会は、25日、決勝が行われ、開星高校が松江南高校に26対2で勝って、8年ぶり11回目の夏の甲子園出場を決めました。\n",
+  "detailedArticleBody": {
+    "markedLead": "夏の全国高校野球、25日は新たに福島と島根の2校が甲子園出場を決めました。\n",
+    "markedBody": "### 福島 聖光学院が3季連続の甲子園出場へ\n\n福島出大会は、聖光学院が会津北嶺高校に10対3で勝ち、4年連続20回目の夏の甲子園場を決めました。聖光学院はことしのセンバツ大会にも出場していて3季連続の甲子園出場です。\n\n### 島根 開星が8年ぶり11回目の出場へ\n\n島根大会は、25日、決勝が行われ、開星高校が松江南高校に26対2で勝って、8年ぶり11回目の夏の甲子園出場を決めました。\n",
+    "trimmedLead": "夏の全国高校野球、25日は新たに福島と島根の2校が甲子園出場を決めました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014874191000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014874191000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

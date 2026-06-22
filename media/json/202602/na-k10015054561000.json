@@ -1,0 +1,151 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015054561000",
+  "dataSourceId": "na",
+  "name": "横浜 鶴見区 住宅5棟が焼ける火事 1人けが",
+  "headline": "横浜 鶴見区 住宅5棟が焼ける火事 1人けが",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015054561000",
+    "playlistId": "news-nwa-society-nationwide-20260218",
+    "newsarticleName": "横浜 鶴見区 住宅5棟が焼ける火事 1人けが",
+    "playlistName": "2月18日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "17日午後7時半ごろ、横浜市鶴見区であわせて住宅5棟が焼ける火事があり、火はおよそ5時間後に消し止められました。この火事で、火元の住宅に住む80代の男性が足に軽いけがをして病院に搬送されたということで",
+  "dateModified": "2026-02-18T02:08:11+09:00",
+  "datePublished": "2026-02-17T20:55:19+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260217/K10015054561_2602172052_0217205520_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260217/K10015054561_2602172052_0217205520_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002689",
+      "name": "火災",
+      "display": true
+    },
+    {
+      "id": "0002214",
+      "name": "神奈川県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "17日午後7時半ごろ、横浜市鶴見区であわせて住宅5棟が焼ける火事があり、火はおよそ5時間後に消し止められました。この火事で、火元の住宅に住む80代の男性が足に軽いけがをして病院に搬送されたということで",
+  "articleBody": "17日午後7時半ごろ、横浜市鶴見区であわせて住宅5棟が焼ける火事があり、火はおよそ5時間後に消し止められました。この火事で、火元の住宅に住む80代の男性が足に軽いけがをして病院に搬送されたということです。\n\n\n横浜市消防局によりますと、17日午後7時半ごろ、横浜市鶴見区上の宮の住宅で「煙が出て爆発音がした」と近くに住む人から消防に通報がありました。\n\n消防車などおよそ40台が出て消火活動にあたり、火はおよそ5時間後に消し止められましたが、警察や消防によりますと、住宅2棟が全焼するなどあわせて住宅5棟が焼けたということです。\n\nまた、警察によりますと、この火事で全焼した火元の住宅に1人で住む80代の男性が足に軽いけがをして病院に搬送されたということです。\n\n現場は東急東横線の菊名駅から北東におよそ600メートルの住宅密集地で、警察と消防が火事の原因を詳しく調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "17日午後7時半ごろ、横浜市鶴見区であわせて住宅5棟が焼ける火事があり、火はおよそ5時間後に消し止められました。この火事で、火元の住宅に住む80代の男性が足に軽いけがをして病院に搬送されたということです。\n",
+    "markedBody": "横浜市消防局によりますと、17日午後7時半ごろ、横浜市鶴見区上の宮の住宅で「煙が出て爆発音がした」と近くに住む人から消防に通報がありました。\n\n消防車などおよそ40台が出て消火活動にあたり、火はおよそ5時間後に消し止められましたが、警察や消防によりますと、住宅2棟が全焼するなどあわせて住宅5棟が焼けたということです。\n\nまた、警察によりますと、この火事で全焼した火元の住宅に1人で住む80代の男性が足に軽いけがをして病院に搬送されたということです。\n\n現場は東急東横線の菊名駅から北東におよそ600メートルの住宅密集地で、警察と消防が火事の原因を詳しく調べています。\n",
+    "noHtmlMarkedLead": "横浜市消防局によりますと、17日午後7時半ごろ、横浜市鶴見区の住宅で「煙が出て爆発音がした」と近くに住む人から消防に通報があったということです。消防によりますと、住宅5棟が燃えていて、現在、消防が消火活動にあたっています。また、警察によりますと、この火事で80代の男性が足にけがをして病院に搬送されているということです。現場は、東急東横線の菊名駅から北東におよそ600メートルの住宅密集地です。\n",
+    "trimmedLead": "17日午後7時半ごろ、横浜市鶴見区であわせて住宅5棟が焼ける火事があり、火はおよそ5時間後に消し止められました。この火事で、火元の住宅に住む80代の男性が足に軽いけがをして病院に搬送されたということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015054561000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015054561000",
+  "video": [],
+  "citation": [
+    {
+      "name": "フィギュア ペア “りくりゅう” 金メダル 日本勢で初 五輪",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260217/K10015053671_2602170639_0217065801_01_02.jpg",
+      "datePublished": "2026-02-17T11:06:36+09:00"
+    },
+    {
+      "name": "日本が獲得したメダル18個に 過去最多の前回・北京大会に並ぶ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053681000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260217/K10015053681_2602170635_0217070135_01_02.jpg",
+      "datePublished": "2026-02-17T07:57:21+09:00"
+    },
+    {
+      "name": "ジャンプ 男子スーパーチーム 日本は6位 雪強まり競技打ち切り",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053581000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260217/K10015053581_2602170349_0217052751_01_02.jpg",
+      "datePublished": "2026-02-17T08:26:48+09:00"
+    },
+    {
+      "name": "ミラノ・コルティナ五輪【結果】2/16～17タイムライン",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053491000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260216/K10015053491_2602180115_0218011714_01_02.jpg",
+      "datePublished": "2026-02-17T21:32:25+09:00"
+    },
+    {
+      "name": "インフルエンザ患者数 前週の約1.4倍に 5週連続増 B型割合増加",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053201000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260216/K10015053201_2602161626_0216163534_01_02.jpg",
+      "datePublished": "2026-02-16T16:35:33+09:00"
+    },
+    {
+      "name": "東京都「スギ花粉が飛び始めた」と発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260216/K10015053521_2602162130_0216214257_01_02.jpg",
+      "datePublished": "2026-02-16T21:42:56+09:00"
+    },
+    {
+      "name": "政府・自民 国民会議早期開始で調整 食料品消費税2年間ゼロで",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260217/K10015053401_2602162320_0217051411_01_02.jpg",
+      "datePublished": "2026-02-17T05:14:10+09:00"
+    },
+    {
+      "name": "東広島 男性死亡 窓ガラス割られ押し入った人物に襲われたか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260217/K10015053421_2602170002_0217051137_01_02.jpg",
+      "datePublished": "2026-02-17T05:11:37+09:00"
+    },
+    {
+      "name": "特殊詐欺など国境越えた犯罪対処 日本が東南アジア4か国を支援",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260217/K10015053461_2602162256_0217060456_01_02.jpg",
+      "datePublished": "2026-02-17T06:04:56+09:00"
+    },
+    {
+      "name": "“ルフィ”広域強盗 藤田被告に無期懲役【判決内容を詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260216/K10015053221_2602161538_0216154101_01_02.jpg",
+      "datePublished": "2026-02-16T21:12:39+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

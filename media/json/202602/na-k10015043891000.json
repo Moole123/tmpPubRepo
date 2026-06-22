@@ -1,0 +1,96 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015043891000",
+  "dataSourceId": "na",
+  "name": "【きょうのおはビズ 2月5日(木)】タイでも抹茶ブーム",
+  "headline": "【きょうのおはBiz 2月5日(木)】タイでも抹茶ブーム",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015043891000",
+    "playlistId": "news-nwa-business-nationwide-20260205",
+    "newsarticleName": "【きょうのおはビズ 2月5日(木)】タイでも抹茶ブーム",
+    "playlistName": "2月5日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けし",
+  "dateModified": "2026-02-05T11:10:23+09:00",
+  "datePublished": "2026-02-05T11:10:23+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260205/K10015043891_2602051023_0205111023_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260205/K10015043891_2602051023_0205111023_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0002641",
+      "name": "おはBiz",
+      "display": true
+    },
+    {
+      "id": "0001910",
+      "name": "おはよう日本",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けし",
+  "articleBody": "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けします。\n\n\n◎特集企画「Eyes on」を中心としたコンテンツはこちら↓\n\n画像をクリックしてリンク先で動画をご覧ください\n\n（画像をクリックしてリンク先で動画をご覧ください 6分00秒）\n▼スルメイカ 新年度の漁獲枠6万8400トンへ 今年度当初の3.5倍に\n▼【Eyes on】タイでも抹茶ブーム\n",
+  "detailedArticleBody": {
+    "markedLead": "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けします。\n",
+    "markedBody": "### ◎特集企画「Eyes on」を中心としたコンテンツはこちら↓\n\n:::nw--link-type5 {href=\"https://www.web.nhk/tv/an/ohayou/pl/series-tep-QLP4RZ8ZY3/ep/G9GQ1MY99V?startOffset=2\"}\n![画像をクリックしてリンク先で動画をご覧ください](https://news.web.nhk/news/html/20260205/K10015043891_2602051022_0205111023_02_03.jpg)\n:::\n\n**（画像をクリックしてリンク先で動画をご覧ください 6分00秒）**\\\n▼スルメイカ 新年度の漁獲枠6万8400トンへ 今年度当初の3.5倍に\\\n▼【Eyes on】タイでも抹茶ブーム\n",
+    "trimmedLead": "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けします。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015043891000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015043891000",
+  "video": [],
+  "citation": [
+    {
+      "name": "スルメイカ 新年度の漁獲枠案 “今年度当初の3.5倍に” 水産庁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015043431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260204/K10015043431_2602041810_0204184327_01_02.jpg",
+      "datePublished": "2026-02-04T18:43:26+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

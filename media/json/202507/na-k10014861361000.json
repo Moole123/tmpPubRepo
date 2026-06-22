@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014861361000",
+  "dataSourceId": "na",
+  "name": "【地震情報】鹿児島県 十島村で震度4 津波の心配なし (11:00)",
+  "headline": "【地震情報】鹿児島県 十島村で震度4 津波の心配なし (11:00)",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014861361000",
+    "playlistId": "news-nwa-disaster-nationwide-20250712",
+    "newsarticleName": "【地震情報】鹿児島県 十島村で震度4 津波の心配なし (11:00)",
+    "playlistName": "7月12日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "12日午前11時ごろ、鹿児島県十島村で震度4の揺れを観測する地震がありました。この地震による津波の心配はありません。\n\n\n各地の震度は、\n▽震度4が悪石島で、\n▽震度2が鹿児島県奄美市と小宝島、\n▽震",
+  "dateModified": "2025-07-12T11:19:39+09:00",
+  "datePublished": "2025-07-12T11:03:55+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250712/K10014861361_2507121106_0712110907_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250712/K10014861361_2507121106_0712110907_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "12日午前11時ごろ、鹿児島県十島村で震度4の揺れを観測する地震がありました。この地震による津波の心配はありません。\n\n\n各地の震度は、\n▽震度4が悪石島で、\n▽震度2が鹿児島県奄美市と小宝島、\n▽震",
+  "articleBody": "12日午前11時ごろ、鹿児島県十島村で震度4の揺れを観測する地震がありました。この地震による津波の心配はありません。\n\n\n各地の震度は、\n▽震度4が悪石島で、\n▽震度2が鹿児島県奄美市と小宝島、\n▽震度1が諏訪之瀬島と奄美大島の龍郷町、それに喜界島でした。\n\n気象庁によりますと、震源地はトカラ列島近海で、震源の深さは20キロ、地震の規模を示すマグニチュードは4.8と推定されています。\n\n鹿児島県のトカラ列島の悪石島や小宝島付近では、先月21日から地震活動が活発になり、これまでに悪石島で最大震度6弱の揺れを観測しています。\n\n今月6日には悪石島で震度5強の揺れを観測する地震が2回相次いで発生し、7日にも悪石島で震度5弱の揺れを観測する地震が起きました。\n\nこの地域ではおととしや4年前にも活発な地震活動がありましたが、震度1以上の地震回数は過去のケースを大きく上回っています。\n\n気象庁は、当面、最大震度6弱程度の揺れを伴う地震に注意するよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "12日午前11時ごろ、鹿児島県十島村で震度4の揺れを観測する地震がありました。この地震による津波の心配はありません。\n",
+    "markedBody": "各地の震度は、\\\n▽震度4が悪石島で、\\\n▽震度2が鹿児島県奄美市と小宝島、\\\n▽震度1が諏訪之瀬島と奄美大島の龍郷町、それに喜界島でした。\n\n気象庁によりますと、震源地はトカラ列島近海で、震源の深さは20キロ、地震の規模を示すマグニチュードは4.8と推定されています。\n\n鹿児島県のトカラ列島の悪石島や小宝島付近では、先月21日から地震活動が活発になり、これまでに悪石島で最大震度6弱の揺れを観測しています。\n\n今月6日には悪石島で震度5強の揺れを観測する地震が2回相次いで発生し、7日にも悪石島で震度5弱の揺れを観測する地震が起きました。\n\nこの地域ではおととしや4年前にも活発な地震活動がありましたが、震度1以上の地震回数は過去のケースを大きく上回っています。\n\n気象庁は、当面、最大震度6弱程度の揺れを伴う地震に注意するよう呼びかけています。\n",
+    "trimmedLead": "12日午前11時ごろ、鹿児島県十島村で震度4の揺れを観測する地震がありました。この地震による津波の心配はありません。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014861361000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014861361000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

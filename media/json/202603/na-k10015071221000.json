@@ -1,0 +1,171 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015071221000",
+  "dataSourceId": "na",
+  "name": "外務省 ヨルダン イラク レバノンの一部地域に「渡航中止勧告」 「危険情報」からレベル引き上げ",
+  "headline": "外務省 ヨルダン イラク レバノン 一部の地域に渡航中止勧告",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015071221000",
+    "playlistId": "news-nwa-politics-nationwide-20260309",
+    "newsarticleName": "外務省 ヨルダン イラク レバノンの一部地域に「渡航中止勧告」 「危険情報」からレベル引き上げ",
+    "playlistName": "3月9日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "中東情勢の悪化を受け、外務省はヨルダンやイラク、レバノンのいずれも一部の地域の「危険情報」をレベル3の「渡航中止勧告」に引き上げました。\n\n\n外務省は日本人に対し、これらの地域への渡航はやめるよう求め",
+  "dateModified": "2026-03-09T22:02:52+09:00",
+  "datePublished": "2026-03-09T22:02:52+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260309/K10015071221_2603092154_0309220253_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260309/K10015071221_2603092154_0309220253_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治",
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0002398",
+      "name": "外務省",
+      "display": true
+    },
+    {
+      "id": "0000820",
+      "name": "イラン情勢",
+      "display": true
+    },
+    {
+      "id": "0002631",
+      "name": "中東",
+      "display": true
+    },
+    {
+      "id": "0002798",
+      "name": "ヨルダン",
+      "display": true
+    },
+    {
+      "id": "0002354",
+      "name": "イラク",
+      "display": true
+    },
+    {
+      "id": "0002587",
+      "name": "レバノン",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "中東情勢の悪化を受け、外務省はヨルダンやイラク、レバノンのいずれも一部の地域の「危険情報」をレベル3の「渡航中止勧告」に引き上げました。\n\n\n外務省は日本人に対し、これらの地域への渡航はやめるよう求め",
+  "articleBody": "中東情勢の悪化を受け、外務省はヨルダンやイラク、レバノンのいずれも一部の地域の「危険情報」をレベル3の「渡航中止勧告」に引き上げました。\n\n\n外務省は日本人に対し、これらの地域への渡航はやめるよう求めるとともに、すでに滞在している人は不要不急の外出を避けるなど、十分な安全対策を講じるよう呼びかけています。\n\n外務省はイラクのバグダッドや西部、レバノン南部のイスラエルとの国境地帯や東部などには、引き続き最も高いレベル4の「退避勧告」を出しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "中東情勢の悪化を受け、外務省はヨルダンやイラク、レバノンのいずれも一部の地域の「危険情報」をレベル3の「渡航中止勧告」に引き上げました。\n",
+    "markedBody": "外務省は日本人に対し、これらの地域への渡航はやめるよう求めるとともに、すでに滞在している人は不要不急の外出を避けるなど、十分な安全対策を講じるよう呼びかけています。\n\n外務省はイラクのバグダッドや西部、レバノン南部のイスラエルとの国境地帯や東部などには、引き続き最も高いレベル4の「退避勧告」を出しています。\n",
+    "trimmedLead": "中東情勢の悪化を受け、外務省はヨルダンやイラク、レバノンのいずれも一部の地域の「危険情報」をレベル3の「渡航中止勧告」に引き上げました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015071221000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015071221000",
+  "video": [],
+  "citation": [
+    {
+      "name": "中東の日本人旅行者らのチャーター機第2便 サウジアラビア出発",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015071131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260309/K10015071131_2603092049_0309212220_01_02.jpg",
+      "datePublished": "2026-03-09T21:22:20+09:00"
+    },
+    {
+      "name": "中東にいる日本人旅行者らの退避 チャーター機2便を追加運航",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015070611000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260309/K10015070611_2603091422_0309142655_01_02.jpg",
+      "datePublished": "2026-03-09T14:26:55+09:00"
+    },
+    {
+      "name": "テヘラン イスラエルが燃料貯蔵施設攻撃 空が黒い雲で覆われる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015070831000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260309/K10015070831_2603091643_0309170855_01_02.jpg",
+      "datePublished": "2026-03-09T17:08:54+09:00"
+    },
+    {
+      "name": "イラン最高指導者にハメネイ師の次男選出 モジタバ師とは?",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015070341000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260309/K10015070341_2603091128_0309113049_01_02.jpg",
+      "datePublished": "2026-03-09T19:04:37+09:00"
+    },
+    {
+      "name": "“トランプ政権 イランに地上部隊派遣の可能性検討” 米報道",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015070721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260309/K10015070721_2603091402_0309142359_01_02.jpg",
+      "datePublished": "2026-03-09T14:23:58+09:00"
+    },
+    {
+      "name": "G7が緊急会合へ IEA加盟国の備蓄石油 市場への放出の可能性で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015070771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260309/K10015070771_2603091802_0309180305_01_03.jpg",
+      "datePublished": "2026-03-09T17:31:07+09:00"
+    },
+    {
+      "name": "原油急騰 NY先物 一時119ドル台まで上昇 家計への打撃も懸念",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015070401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260309/K10015070401_2603090735_0309080439_01_02.jpg",
+      "datePublished": "2026-03-09T18:48:38+09:00"
+    },
+    {
+      "name": "ゼレンスキー大統領“湾岸諸国へウクライナの専門家を派遣”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015070351000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260309/K10015070351_2603090425_0309060104_01_02.jpg",
+      "datePublished": "2026-03-09T06:01:03+09:00"
+    },
+    {
+      "name": "【イラン情勢】“新たな最高指導者 一定の合意と示唆” 報道",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015069791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260308/K10015069791_2603082104_0308210507_01_03.jpg",
+      "datePublished": "2026-03-08T21:05:06+09:00"
+    },
+    {
+      "name": "ドイツ メルツ政権発足から初の州議選 首相所属政党は第2党",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015070441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260309/K10015070441_2603090949_0309102926_01_02.jpg",
+      "datePublished": "2026-03-09T20:25:44+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

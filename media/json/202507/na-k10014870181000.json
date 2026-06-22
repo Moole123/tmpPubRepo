@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014870181000",
+  "dataSourceId": "na",
+  "name": "参議院選挙 比例代表 公明 原田大二郎氏 当選",
+  "headline": "参議院選挙 比例代表 公明 原田大二郎氏 当選",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014870181000",
+    "playlistId": "news-nwa-politics-nationwide-20250721",
+    "newsarticleName": "参議院選挙 比例代表 公明 原田大二郎氏 当選",
+    "playlistName": "7月21日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "参議院選挙の比例代表で、公明党の新人、原田大二郎氏が当選しました。\n\n\n原田氏は47歳。\n\n松山市などの医療機関で医師として勤務し、現在は党の青年局次長を務めています。\n\n原田氏は中国地方や四国地方を",
+  "dateModified": "2025-07-21T18:08:00+09:00",
+  "datePublished": "2025-07-21T18:07:35+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250721/K10014870181_2507211808_0721182026_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250721/K10014870181_2507211808_0721182026_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "参議院選挙の比例代表で、公明党の新人、原田大二郎氏が当選しました。\n\n\n原田氏は47歳。\n\n松山市などの医療機関で医師として勤務し、現在は党の青年局次長を務めています。\n\n原田氏は中国地方や四国地方を",
+  "articleBody": "参議院選挙の比例代表で、公明党の新人、原田大二郎氏が当選しました。\n\n\n原田氏は47歳。\n\n松山市などの医療機関で医師として勤務し、現在は党の青年局次長を務めています。\n\n原田氏は中国地方や四国地方を中心に支持を集め、初めての当選を果たしました。\n",
+  "detailedArticleBody": {
+    "markedLead": "参議院選挙の比例代表で、公明党の新人、原田大二郎氏が当選しました。\n",
+    "markedBody": "原田氏は47歳。\n\n松山市などの医療機関で医師として勤務し、現在は党の青年局次長を務めています。\n\n原田氏は中国地方や四国地方を中心に支持を集め、初めての当選を果たしました。\n",
+    "trimmedLead": "参議院選挙の比例代表で、公明党の新人、原田大二郎氏が当選しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014870181000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014870181000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

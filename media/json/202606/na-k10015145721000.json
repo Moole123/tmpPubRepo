@@ -1,0 +1,161 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015145721000",
+  "dataSourceId": "na",
+  "name": "米アンソロピック ミュトス級AIを一般提供開始 安全対策加えて",
+  "headline": "米アンソロピック ミュトス級AIを一般提供開始 安全対策加えて",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015145721000",
+    "playlistId": "news-nwa-business-nationwide-20260610",
+    "newsarticleName": "米アンソロピック ミュトス級AIを一般提供開始 安全対策加えて",
+    "playlistName": "6月10日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "アメリカのAI新興企業「アンソロピック」は9日、高性能なAIモデル「クロード・ミュトス」と同等のモデルについて、一般の顧客向けに提供を始めたと発表しました。「ミュトス」についてはサイバー攻撃に悪用され",
+  "dateModified": "2026-06-10T08:39:00+09:00",
+  "datePublished": "2026-06-10T08:39:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260610/K10015145721_2606100821_0610083900_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260610/K10015145721_2606100821_0610083900_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済",
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0000010",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "0000009",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "0000325",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "アメリカのAI新興企業「アンソロピック」は9日、高性能なAIモデル「クロード・ミュトス」と同等のモデルについて、一般の顧客向けに提供を始めたと発表しました。「ミュトス」についてはサイバー攻撃に悪用され",
+  "articleBody": "アメリカのAI新興企業「アンソロピック」は9日、高性能なAIモデル「クロード・ミュトス」と同等のモデルについて、一般の顧客向けに提供を始めたと発表しました。「ミュトス」についてはサイバー攻撃に悪用されるおそれがあるとしてこれまで一般への提供は見送ってきましたが、悪用される可能性がある指示には直接答えないなどの対策を加えたとしています。\n\n\n一般の顧客向けに提供が始まったのは、アンソロピックが開発した「クロード・フェイブル5」と呼ばれるAIモデルで、ソフトウエアのぜい弱性を発見する能力が極めて高いとされる「ミュトス」と同等の性能を持つとしています。\n\n一方で、生物学や化学、サイバーセキュリティーなど悪用されるリスクのある指示には、性能が劣る別のAIモデルが代わりに応答する仕組みとなっていて、会社は安全対策を取り入れたと説明しました。\n\n「ミュトス」をめぐっては、会社がことし4月に発表して以降、悪用されるリスクの高さから、提供先をおよそ50の企業や組織に限定していましたが、今月、およそ200に拡大しました。\n\n会社はこのモデルの次世代型となる「ミュトス5」の提供開始も合わせて発表し、提供を受ける各社は急ピッチでセキュリティー対策を進めることにしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカのAI新興企業「アンソロピック」は9日、高性能なAIモデル「クロード・ミュトス」と同等のモデルについて、一般の顧客向けに提供を始めたと発表しました。「ミュトス」についてはサイバー攻撃に悪用されるおそれがあるとしてこれまで一般への提供は見送ってきましたが、悪用される可能性がある指示には直接答えないなどの対策を加えたとしています。\n",
+    "markedBody": "一般の顧客向けに提供が始まったのは、アンソロピックが開発した「クロード・フェイブル5」と呼ばれるAIモデルで、ソフトウエアのぜい弱性を発見する能力が極めて高いとされる「ミュトス」と同等の性能を持つとしています。\n\n一方で、生物学や化学、サイバーセキュリティーなど悪用されるリスクのある指示には、性能が劣る別のAIモデルが代わりに応答する仕組みとなっていて、会社は安全対策を取り入れたと説明しました。\n\n「ミュトス」をめぐっては、会社がことし4月に発表して以降、悪用されるリスクの高さから、提供先をおよそ50の企業や組織に限定していましたが、今月、およそ200に拡大しました。\n\n会社はこのモデルの次世代型となる「ミュトス5」の提供開始も合わせて発表し、提供を受ける各社は急ピッチでセキュリティー対策を進めることにしています。\n",
+    "trimmedLead": "アメリカのAI新興企業「アンソロピック」は9日、高性能なAIモデル「クロード・ミュトス」と同等のモデルについて、一般の顧客向けに提供を始めたと発表しました。「ミュトス」についてはサイバー攻撃に悪用されるおそれがあるとしてこれまで一般への提供は見送ってきましたが、悪用される可能性がある指示には直接答えないなどの対策を加えたとしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015145721000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015145721000",
+  "video": [],
+  "citation": [
+    {
+      "name": "“イランに対して自衛のための攻撃を開始” アメリカ中央軍",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015145591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260610/K10015145591_2606100627_0610064552_01_02.jpg",
+      "datePublished": "2026-06-10T07:55:07+09:00"
+    },
+    {
+      "name": "司法長官に側近指名 トランプ政権人事で波紋",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015145051000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260609/K10015145051_2606091409_0609144804_01_02.jpg",
+      "datePublished": "2026-06-09T14:48:03+09:00"
+    },
+    {
+      "name": "G7サミット 首脳宣言とりまとめ見送りの見方強まる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015145371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260609/K10015145371_2606092035_0609204353_01_02.jpg",
+      "datePublished": "2026-06-09T20:43:52+09:00"
+    },
+    {
+      "name": "オープンAI 新規株式公開を申請 評価額は3月末時点で約136兆円",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015144701000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260609/K10015144701_2606090714_0609071722_01_02.jpg",
+      "datePublished": "2026-06-09T11:51:45+09:00"
+    },
+    {
+      "name": "フィリピン沖大地震で37人死亡 4人行方不明 救助続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015144591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260609/K10015144591_2606082301_0609051134_01_02.jpg",
+      "datePublished": "2026-06-09T23:32:27+09:00"
+    },
+    {
+      "name": "中国 習近平国家主席 北朝鮮訪問終え帰国",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015145211000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260609/K10015145211_2606091740_0609181024_01_02.jpg",
+      "datePublished": "2026-06-09T19:41:23+09:00"
+    },
+    {
+      "name": "米国防総省 中国軍と関わりある企業に百度・アリババなど追加",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015144781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260609/K10015144781_2606091003_0609101647_01_03.jpg",
+      "datePublished": "2026-06-09T19:42:41+09:00"
+    },
+    {
+      "name": "ロシア 英仏独のウクライナ軍事支援に強く反発",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015144671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260609/K10015144671_2606090554_0609062241_01_02.jpg",
+      "datePublished": "2026-06-09T06:22:40+09:00"
+    },
+    {
+      "name": "IAEA「キム総書記視察の工場 新たな核施設と特徴一致」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015144681000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260609/K10015144681_2606090549_0609062429_01_02.jpg",
+      "datePublished": "2026-06-09T06:24:28+09:00"
+    },
+    {
+      "name": "“未完の傑作”サグラダ・ファミリア 「イエスの塔」完成へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134061000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260609/K10015134061_2606091117_0609205533_01_02.jpg",
+      "datePublished": "2026-06-09T20:55:32+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

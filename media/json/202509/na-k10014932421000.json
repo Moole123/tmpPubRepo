@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014932421000",
+  "dataSourceId": "na",
+  "name": "中国軍で3隻目の空母「福建」 近く就役の見通し 中国国防省",
+  "headline": "中国軍で3隻目の空母「福建」 近く就役の見通し 中国国防省",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014932421000",
+    "playlistId": "news-nwa-international-nationwide-20250925",
+    "newsarticleName": "中国軍で3隻目の空母「福建」 近く就役の見通し 中国国防省",
+    "playlistName": "9月25日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "中国国防省は、中国軍で3隻目となる空母「福建」が近く就役する見通しであることを明らかにしました。\n\n\n中国国防省の張暁剛報道官は25日、定例の記者会見で最新の空母「福建」について「試験訓練は計画どおり",
+  "dateModified": "2025-09-25T20:40:35+09:00",
+  "datePublished": "2025-09-25T20:40:35+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250925/K10014932421_2509252003_0925203944_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250925/K10014932421_2509252003_0925203944_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "中国国防省は、中国軍で3隻目となる空母「福建」が近く就役する見通しであることを明らかにしました。\n\n\n中国国防省の張暁剛報道官は25日、定例の記者会見で最新の空母「福建」について「試験訓練は計画どおり",
+  "articleBody": "中国国防省は、中国軍で3隻目となる空母「福建」が近く就役する見通しであることを明らかにしました。\n\n\n中国国防省の張暁剛報道官は25日、定例の記者会見で最新の空母「福建」について「試験訓練は計画どおり順調に進んでいて、その日は遠くないだろう」と述べ、近く就役する見通しであることを明らかにしました。\n\n「福建」は「遼寧」と「山東」に次ぐ中国海軍の3隻目の空母で、国営メディアが今月22日、艦載機を加速して発進させることができる電磁式カタパルトを使った戦闘機や早期警戒管制機などの発着艦訓練に成功したと伝えていました。\n\n中国としては3隻目の空母の運用により、作戦能力を高めるねらいがあるとみられますが、中国が圧力を強める台湾のほか、アメリカや周辺国の間では中国の軍備増強への警戒感がさらに高まりそうです。\n",
+  "detailedArticleBody": {
+    "markedLead": "中国国防省は、中国軍で3隻目となる空母「福建」が近く就役する見通しであることを明らかにしました。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20250925/K10014932421_2509252003_0925203944_02_03.jpg)\n\n中国国防省の張暁剛報道官は25日、定例の記者会見で最新の空母「福建」について「試験訓練は計画どおり順調に進んでいて、その日は遠くないだろう」と述べ、近く就役する見通しであることを明らかにしました。\n\n「福建」は「遼寧」と「山東」に次ぐ中国海軍の3隻目の空母で、国営メディアが今月22日、艦載機を加速して発進させることができる電磁式カタパルトを使った戦闘機や早期警戒管制機などの発着艦訓練に成功したと伝えていました。\n\n中国としては3隻目の空母の運用により、作戦能力を高めるねらいがあるとみられますが、中国が圧力を強める台湾のほか、アメリカや周辺国の間では中国の軍備増強への警戒感がさらに高まりそうです。\n",
+    "trimmedLead": "中国国防省は、中国軍で3隻目となる空母「福建」が近く就役する見通しであることを明らかにしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014932421000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014932421000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

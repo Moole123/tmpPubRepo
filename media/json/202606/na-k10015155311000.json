@@ -1,0 +1,165 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015155311000",
+  "dataSourceId": "na",
+  "name": "ワールドカップ2026 サッカーW杯 パラグアイが今大会初勝利 トルコは1次リーグ敗退",
+  "headline": "サッカーW杯 パラグアイが今大会初勝利 トルコは1次リーグ敗退",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015155311000",
+    "playlistId": "news-nwa-sports-nationwide-20260620",
+    "newsarticleName": "ワールドカップ2026 サッカーW杯 パラグアイが今大会初勝利 トルコは1次リーグ敗退",
+    "playlistName": "6月20日のスポーツニュース",
+    "genreId": "sports",
+    "genreIdSlug": "sports"
+  },
+  "description": "サッカーワールドカップ北中米大会の1次リーグのグループD、トルコ対パラグアイはパラグアイが1対0でトルコに勝ちました。\n\n一方、トルコは2連敗で1次リーグ敗退が決まりました。\n\n\n【NHK ONEで配",
+  "dateModified": "2026-06-20T16:35:35+09:00",
+  "datePublished": "2026-06-20T15:14:26+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260620/K10015155311_2606201433_0620151427_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260620/K10015155311_2606201433_0620151427_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "スポーツ"
+  ],
+  "topic": [
+    {
+      "id": "0002444",
+      "name": "サッカーワールドカップ2026",
+      "display": true
+    },
+    {
+      "id": "0000002",
+      "name": "サッカー",
+      "display": true
+    },
+    {
+      "id": "0002819",
+      "name": "グループD",
+      "display": true
+    },
+    {
+      "id": "0002327",
+      "name": "トルコ",
+      "display": true
+    },
+    {
+      "id": "0002557",
+      "name": "パラグアイ",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    }
+  ],
+  "abstract": "サッカーワールドカップ北中米大会の1次リーグのグループD、トルコ対パラグアイはパラグアイが1対0でトルコに勝ちました。\n\n一方、トルコは2連敗で1次リーグ敗退が決まりました。\n\n\n【NHK ONEで配",
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015155311000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015155311000",
+  "citation": [
+    {
+      "name": "W杯 第2戦のチュニジア戦へ 森保監督 “強い気持ちで戦う”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015155081000",
+      "thumbnailUrl": "https://news.web.nhk/assets/ogp/nhk-one-news.png",
+      "datePublished": "2026-06-20T13:12:38+09:00"
+    },
+    {
+      "name": "W杯 久保建英選手のけが 「軽く捻挫」 所属クラブ幹部が言及",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015155041000",
+      "thumbnailUrl": "https://news.web.nhk/assets/ogp/nhk-one-news.png",
+      "datePublished": "2026-06-20T05:35:33+09:00"
+    },
+    {
+      "name": "【随時更新】サッカーＷ杯 1次リーグ グループD 全日程",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015147421000",
+      "thumbnailUrl": "https://news.web.nhk/assets/ogp/nhk-one-news.png",
+      "datePublished": "2026-06-20T16:12:35+09:00"
+    },
+    {
+      "name": "【随時更新】サッカーＷ杯 1次リーグ 全日程・結果 動画も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015152841000",
+      "thumbnailUrl": "https://news.web.nhk/assets/ogp/nhk-one-news.png",
+      "datePublished": "2026-06-20T16:11:08+09:00"
+    },
+    {
+      "name": "決勝トーナメント進出の条件は？新ルールは【サッカーW杯】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015147901000",
+      "thumbnailUrl": "https://news.web.nhk/assets/ogp/nhk-one-news.png",
+      "datePublished": "2026-06-12T00:23:14+09:00"
+    },
+    {
+      "name": "FIFAワールドカップ2026【NHK特設サイト】",
+      "url": "https://nhk.jp/fifawc?cid=wc26-newsweb-awayomi",
+      "thumbnailUrl": "https://news.web.nhk/assets/ogp/nhk-one-news.png"
+    },
+    {
+      "name": "W杯 日本 初戦はオランダと引き分け 2度追いつく【詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015149851000",
+      "thumbnailUrl": "https://news.web.nhk/assets/ogp/nhk-one-news.png",
+      "datePublished": "2026-06-15T18:49:34+09:00"
+    },
+    {
+      "name": "本田圭佑氏 “今の日本の強さあらわす 今後が楽しみ” W杯",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015150111000",
+      "thumbnailUrl": "https://news.web.nhk/assets/ogp/nhk-one-news.png",
+      "datePublished": "2026-06-15T12:26:24+09:00"
+    },
+    {
+      "name": "“史上最強”日本代表 強さの秘密",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015146871000",
+      "thumbnailUrl": "https://news.web.nhk/assets/ogp/nhk-one-news.png",
+      "datePublished": "2026-06-13T15:02:35+09:00"
+    },
+    {
+      "name": "【出場チーム紹介】サッカーワールドカップ 48チームの成績 注目選手など詳しく",
+      "url": "https://news.web.nhk/news/special/rich_contents/playlist/soccer_worldcup/team/",
+      "thumbnailUrl": "https://news.web.nhk/assets/ogp/nhk-one-news.png"
+    },
+    {
+      "name": "“すごイレブン” サッカーW杯 この11人に注目！ピックアップ",
+      "url": "https://news.web.nhk/newsweb/na/nc-988c5c19-78d1-4735-ba9e-f7f4907bd035",
+      "thumbnailUrl": "https://news.web.nhk/assets/ogp/nhk-one-news.png"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

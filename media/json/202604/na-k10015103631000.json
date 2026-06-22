@@ -1,0 +1,131 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015103631000",
+  "dataSourceId": "na",
+  "name": "【ライブ配信】岩手 青森 北海道に津波警報 各地の映像",
+  "headline": "【ライブ配信】岩手 青森 北海道に津波警報 各地の映像",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015103631000",
+    "playlistId": "news-nwa-disaster-nationwide-20260420",
+    "newsarticleName": "【ライブ配信】岩手 青森 北海道に津波警報 各地の映像",
+    "playlistName": "4月20日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "午後４時５３分ごろ、三陸沖で発生した地震について、気象庁は、新たに津波警報を▽青森県太平洋沿岸にも発表しました。\n\nこれにより、津波警報は\n▽岩手県と\n▽青森県太平洋沿岸、\n▽北海道太平洋沿岸中部に発",
+  "dateModified": "2026-04-20T17:21:57+09:00",
+  "datePublished": "2026-04-20T17:21:57+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260420/K10015103631_2604201713_0420172158_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260420/K10015103631_2604201713_0420172158_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002621",
+      "name": "津波",
+      "display": true
+    },
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "午後４時５３分ごろ、三陸沖で発生した地震について、気象庁は、新たに津波警報を▽青森県太平洋沿岸にも発表しました。\n\nこれにより、津波警報は\n▽岩手県と\n▽青森県太平洋沿岸、\n▽北海道太平洋沿岸中部に発",
+  "articleBody": "午後４時５３分ごろ、三陸沖で発生した地震について、気象庁は、新たに津波警報を▽青森県太平洋沿岸にも発表しました。\n\nこれにより、津波警報は\n▽岩手県と\n▽青森県太平洋沿岸、\n▽北海道太平洋沿岸中部に発表されています。\n\n各地の映像をご覧いただけます。\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "午後４時５３分ごろ、三陸沖で発生した地震について、気象庁は、新たに津波警報を▽青森県太平洋沿岸にも発表しました。\n\nこれにより、津波警報は\\\n▽岩手県と\\\n▽青森県太平洋沿岸、\\\n▽北海道太平洋沿岸中部に発表されています。\n\n各地の映像をご覧いただけます。\n",
+    "markedBody": "```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"001\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\r\n<div class=\"fs-wrap\">\r\n  <h2 class=\"freespace-title\">【ライブ配信中】</h2>\r\n  <div class=\"video-player-fixed\">\r\n    <iframe src=\"https://news.web.nhk/n-data/conf/realtime/movie/player_rt0012692_05_v3.html\" allowfullscreen=\"allowfullscreen\"></iframe>\r\n  </div>\r\n</div>\n</div>\n```\n\n```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"002\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\r\n<div class=\"fs-wrap\">\r\n  <h2 class=\"freespace-title\">【ライブ配信中】</h2>\r\n  <div class=\"video-player-fixed\">\r\n    <iframe src=\"https://news.web.nhk/n-data/conf/realtime/movie/player_rt0012692_06_v3.html\" allowfullscreen=\"allowfullscreen\"></iframe>\r\n  </div>\r\n</div>\n</div>\n```\n\n```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"003\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\r\n<div class=\"fs-wrap\">\r\n  <h2 class=\"freespace-title\">【ライブ配信中】</h2>\r\n  <div class=\"video-player-fixed\">\r\n    <iframe src=\"https://news.web.nhk/n-data/conf/realtime/movie/player_rt0012692_07_v3.html\" allowfullscreen=\"allowfullscreen\"></iframe>\r\n  </div>\r\n</div>\n</div>\n```\n\n```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"004\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\r\n<div class=\"fs-wrap\">\r\n  <h2 class=\"freespace-title\">【ライブ配信中】</h2>\r\n  <div class=\"video-player-fixed\">\r\n    <iframe src=\"https://news.web.nhk/n-data/conf/realtime/movie/player_rt0012693_01_v3.html\" allowfullscreen=\"allowfullscreen\"></iframe>\r\n  </div>\r\n</div>\n</div>\n```\n\n```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"005\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\r\n<div class=\"fs-wrap\">\r\n  <h2 class=\"freespace-title\">【ライブ配信中】</h2>\r\n  <div class=\"video-player-fixed\">\r\n    <iframe src=\"https://news.web.nhk/n-data/conf/realtime/movie/player_rt0012694_02_v3.html\" allowfullscreen=\"allowfullscreen\"></iframe>\r\n  </div>\r\n</div>\n</div>\n```\n",
+    "noHtmlMarkedLead": "午後４時５３分ごろ、三陸沖で発生した地震について、気象庁は、新たに津波警報を▽青森県太平洋沿岸にも発表しました。\n\nこれにより、津波警報は\\\n▽岩手県と\\\n▽青森県太平洋沿岸、\\\n▽北海道太平洋沿岸中部に発表されています。\n\n各地の映像をご覧いただけます。\n",
+    "trimmedLead": "午後４時５３分ごろ、三陸沖で発生した地震について、気象庁は、新たに津波警報を▽青森県太平洋沿岸にも発表しました。\n\nこれにより、津波警報は\n▽岩手県と\n▽青森県太平洋沿岸、\n▽北海道太平洋沿岸中部に発表されています。\n\n各地の映像をご覧いただけます。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015103631000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015103631000",
+  "video": [],
+  "citation": [
+    {
+      "name": "【最新の地震情報】各地の震度・震源を詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/earthquake/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30060617.jpg"
+    },
+    {
+      "name": "地震発生 その時どう行動する!?",
+      "url": "https://news.web.nhk/newsweb/na/nc-790dbe02-3696-4956-b2ac-83401a4f8f5b",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045984.jpg"
+    },
+    {
+      "name": "地震マップ 最新の震度分布・震源をリアルタイム更新",
+      "url": "https://news.web.nhk/bousai-map/earthquake/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31036920.jpg"
+    },
+    {
+      "name": "地震動予測地図 震度６弱以上 各地のリスク",
+      "url": "https://news.web.nhk/newsweb/na/nc-04b01a9b-a30f-46c5-af92-bd6f205a005f",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045805.jpg"
+    },
+    {
+      "name": "「エレベーターに閉じ込められた」いったいどうすれば？",
+      "url": "https://news.web.nhk/newsweb/na/nc-ca2734b0-c080-45e4-a5c5-2bbc97205783",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045827.jpg"
+    },
+    {
+      "name": "災害時の偽情報や誤情報に注意 拡散で命にかかわるリスクも",
+      "url": "https://news.web.nhk/newsweb/na/nc-b777764c-a841-41c5-8a78-0b496adee8d9",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045938.jpg"
+    },
+    {
+      "name": "NHKONE防災 災害リスク・備えをまとめて",
+      "url": "https://news.web.nhk/newsweb/sp/pl/editorial-nwa-0000000132",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30066327.jpg"
+    },
+    {
+      "name": "【津波情報】最新の発表状況を詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/tsunami/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30060586.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": true
+  }
+}

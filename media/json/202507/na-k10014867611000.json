@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014867611000",
+  "dataSourceId": "na",
+  "name": "高知 大豊町 特別天然記念物「杉の大杉」幹の一部割け落ちる",
+  "headline": "高知 大豊町 特別天然記念物「杉の大杉」幹の一部割け落ちる",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014867611000",
+    "playlistId": "news-nwa-disaster-nationwide-20250718",
+    "newsarticleName": "高知 大豊町 特別天然記念物「杉の大杉」幹の一部割け落ちる",
+    "playlistName": "7月18日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "高知県大豊町にある国の特別天然記念物に指定されている「杉の大杉」の幹の一部が割けて落ちているのが確認され、町では、ここ数日の大雨によって落ちた可能性があるとみて、詳しい状況を調べています。\n\n\n18日",
+  "dateModified": "2025-07-18T17:33:55+09:00",
+  "datePublished": "2025-07-18T17:33:55+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250718/K10014867611_2507181652_0718173307_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250718/K10014867611_2507181652_0718173307_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "高知県大豊町にある国の特別天然記念物に指定されている「杉の大杉」の幹の一部が割けて落ちているのが確認され、町では、ここ数日の大雨によって落ちた可能性があるとみて、詳しい状況を調べています。\n\n\n18日",
+  "articleBody": "高知県大豊町にある国の特別天然記念物に指定されている「杉の大杉」の幹の一部が割けて落ちているのが確認され、町では、ここ数日の大雨によって落ちた可能性があるとみて、詳しい状況を調べています。\n\n\n18日午前2時ごろ、大豊町で「八坂神社にある杉の大杉がはく落した」と近くの住民から町に連絡がありました。\n\n町によりますと、幹周りおよそ20メートルの「南大杉」が高さおよそ24メートルにわたって幹の一部が割け落ちているのが確認されました。\n\n「杉の大杉」は樹齢がおよそ3000年と推定され、国の特別天然記念物に指定されていて、歌手の美空ひばりさんが日本一の歌手になれるよう願かけをしたことでも知られています。\n\n町の教育委員会は、ここ数日の大雨によって落ちた可能性があるとみて詳しい状況を調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "高知県大豊町にある国の特別天然記念物に指定されている「杉の大杉」の幹の一部が割けて落ちているのが確認され、町では、ここ数日の大雨によって落ちた可能性があるとみて、詳しい状況を調べています。\n",
+    "markedBody": "18日午前2時ごろ、大豊町で「八坂神社にある杉の大杉がはく落した」と近くの住民から町に連絡がありました。\n\n町によりますと、幹周りおよそ20メートルの「南大杉」が高さおよそ24メートルにわたって幹の一部が割け落ちているのが確認されました。\n\n「杉の大杉」は樹齢がおよそ3000年と推定され、国の特別天然記念物に指定されていて、歌手の美空ひばりさんが日本一の歌手になれるよう願かけをしたことでも知られています。\n\n町の教育委員会は、ここ数日の大雨によって落ちた可能性があるとみて詳しい状況を調べています。\n",
+    "trimmedLead": "高知県大豊町にある国の特別天然記念物に指定されている「杉の大杉」の幹の一部が割けて落ちているのが確認され、町では、ここ数日の大雨によって落ちた可能性があるとみて、詳しい状況を調べています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014867611000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014867611000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

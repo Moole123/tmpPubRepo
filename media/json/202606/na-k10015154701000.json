@@ -1,0 +1,145 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015154701000",
+  "dataSourceId": "na",
+  "name": "日銀植田総裁が19日退院 来週23日から公務に",
+  "headline": "日銀植田総裁が19日退院 来週23日から公務に",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015154701000",
+    "playlistId": "news-nwa-business-nationwide-20260619",
+    "newsarticleName": "日銀植田総裁が19日退院 来週23日から公務に",
+    "playlistName": "6月19日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "日銀は、感染症の治療のため入院していた植田総裁が19日に退院したと発表しました。来週23日から公務にあたるということです。\n\n\n日銀の植田総裁は、感染症の治療のため今月9日から入院し、15日と16日に",
+  "dateModified": "2026-06-19T18:55:50+09:00",
+  "datePublished": "2026-06-19T18:55:50+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260619/K10015154701_2606191819_0619185550_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260619/K10015154701_2606191819_0619185550_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0002310",
+      "name": "日本銀行（日銀）",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "日銀は、感染症の治療のため入院していた植田総裁が19日に退院したと発表しました。来週23日から公務にあたるということです。\n\n\n日銀の植田総裁は、感染症の治療のため今月9日から入院し、15日と16日に",
+  "articleBody": "日銀は、感染症の治療のため入院していた植田総裁が19日に退院したと発表しました。来週23日から公務にあたるということです。\n\n\n日銀の植田総裁は、感染症の治療のため今月9日から入院し、15日と16日に開かれた金融政策決定会合を欠席しました。\n\n植田総裁は書面で意見を表明する一方、会合では8人の委員で採決が行われ、去年12月以来となる利上げを賛成多数で決めました。\n\n日銀によりますと植田総裁は19日退院し、来週23日から公務にあたるということです。\n\n2週間程度は治療のため通院を続けながら公務にあたるとしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "日銀は、感染症の治療のため入院していた植田総裁が19日に退院したと発表しました。来週23日から公務にあたるということです。\n",
+    "markedBody": "日銀の植田総裁は、感染症の治療のため今月9日から入院し、15日と16日に開かれた金融政策決定会合を欠席しました。\n\n植田総裁は書面で意見を表明する一方、会合では8人の委員で採決が行われ、去年12月以来となる利上げを賛成多数で決めました。\n\n日銀によりますと植田総裁は19日退院し、来週23日から公務にあたるということです。\n\n2週間程度は治療のため通院を続けながら公務にあたるとしています。\n",
+    "trimmedLead": "日銀は、感染症の治療のため入院していた植田総裁が19日に退院したと発表しました。来週23日から公務にあたるということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015154701000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015154701000",
+  "video": [],
+  "citation": [
+    {
+      "name": "日本人乗組員を乗せた日本関係船舶 残る1隻がペルシャ湾外に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015154561000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260619/K10015154561_2606191741_0619175553_01_03.jpg",
+      "datePublished": "2026-06-19T19:52:12+09:00"
+    },
+    {
+      "name": "東京 北区 小学校で火事 児童ら計11人病院搬送 うち3人が骨折",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015154231000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260619/K10015154231_2606191136_0619113634_01_02.jpg",
+      "datePublished": "2026-06-19T20:08:19+09:00"
+    },
+    {
+      "name": "再審制度の見直し 刑事訴訟法改正案が参議院で審議入り",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015154481000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260619/K10015154481_2606191517_0619174508_01_03.jpg",
+      "datePublished": "2026-06-19T17:45:07+09:00"
+    },
+    {
+      "name": "皇位継承 法案の骨子案 木原官房長官が衆参両院正副議長に説明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015154421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260619/K10015154421_2606191418_0619142623_01_02.jpg",
+      "datePublished": "2026-06-19T19:28:54+09:00"
+    },
+    {
+      "name": "国民投票法改正案 衆院を通過 本会議で賛成多数で可決",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015154441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260619/K10015154441_2606191411_0619143614_01_02.jpg",
+      "datePublished": "2026-06-19T19:04:52+09:00"
+    },
+    {
+      "name": "滋賀 日野町の強盗殺人事件の再審で検察が有罪主張しない方針",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015154181000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260619/K10015154181_2606191209_0619121501_01_03.jpg",
+      "datePublished": "2026-06-19T19:51:05+09:00"
+    },
+    {
+      "name": "“北陸新幹線に刃物持った乗客” けが人なし 乗客から話聞く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015154471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260619/K10015154471_2606191509_0619171910_01_03.jpg",
+      "datePublished": "2026-06-19T17:19:09+09:00"
+    },
+    {
+      "name": "米・イラン 19日予定の協議“延期” レバノンでは戦闘続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015153851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260619/K10015153851_2606182045_0619072213_01_02.jpg",
+      "datePublished": "2026-06-19T19:59:04+09:00"
+    },
+    {
+      "name": "日本代表 第2戦のチュニジア戦が行われるモンテレイに到着",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015154261000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260619/K10015154261_2606191823_0619185042_01_02.jpg",
+      "datePublished": "2026-06-19T18:50:41+09:00"
+    },
+    {
+      "name": "「京都賞」にペロブスカイト太陽電池の宮坂力さんなど3人",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015154511000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260619/K10015154511_2606191731_0619180457_01_02.jpg",
+      "datePublished": "2026-06-19T18:04:56+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

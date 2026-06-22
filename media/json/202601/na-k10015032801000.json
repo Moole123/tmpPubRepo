@@ -1,0 +1,102 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015032801000",
+  "dataSourceId": "na",
+  "name": "柏崎刈羽原発6号機 制御棒引き抜く作業中断 外部への影響なし",
+  "headline": "柏崎刈羽原発6号機 制御棒引き抜く作業中断 外部への影響なし",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015032801000",
+    "playlistId": "news-nwa-scienceculture-nationwide-20260122",
+    "newsarticleName": "柏崎刈羽原発6号機 制御棒引き抜く作業中断 外部への影響なし",
+    "playlistName": "1月22日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "東京電力は21日再稼働させた新潟県にある柏崎刈羽原子力発電所6号機で、22日午前0時半ごろ警報がなり、原子炉から制御棒を引き抜く作業を中断しているということです。東京電力によりますと、原子炉の状態に異",
+  "dateModified": "2026-01-22T13:55:27+09:00",
+  "datePublished": "2026-01-22T13:55:27+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260122/K10015032801_2601221330_0122135528_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260122/K10015032801_2601221330_0122135528_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "科学・文化",
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "東京電力は21日再稼働させた新潟県にある柏崎刈羽原子力発電所6号機で、22日午前0時半ごろ警報がなり、原子炉から制御棒を引き抜く作業を中断しているということです。東京電力によりますと、原子炉の状態に異",
+  "articleBody": "東京電力は21日再稼働させた新潟県にある柏崎刈羽原子力発電所6号機で、22日午前0時半ごろ警報がなり、原子炉から制御棒を引き抜く作業を中断しているということです。東京電力によりますと、原子炉の状態に異常はなく、外部への影響もないということで詳しい原因を調べています。\n\n\n東京電力は21日午後7時ごろ、新潟県にある柏崎刈羽原発6号機の原子炉から核分裂反応を抑える制御棒を引き抜いて再稼働させましたが、22日午前0時半ごろ、制御棒の操作や監視に関する警報がなり、制御棒を引き抜く作業を中断したということです。\n\n東京電力によりますと電気系統の不具合とみられ、関係するパネルの電気部品を交換したものの改善されていないということで、今のところ、作業の再開の見通しは立っていないということです。\n\n制御棒は、これまでのところ205本あるうち、52本が引き抜かれていますが、原子炉の状態に異常はなく、安全上の問題や外部への影響はないということです。\n\n東京電力は不具合の原因を詳しく調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "東京電力は21日再稼働させた新潟県にある柏崎刈羽原子力発電所6号機で、22日午前0時半ごろ警報がなり、原子炉から制御棒を引き抜く作業を中断しているということです。東京電力によりますと、原子炉の状態に異常はなく、外部への影響もないということで詳しい原因を調べています。\n",
+    "markedBody": "東京電力は21日午後7時ごろ、新潟県にある柏崎刈羽原発6号機の原子炉から核分裂反応を抑える制御棒を引き抜いて再稼働させましたが、22日午前0時半ごろ、制御棒の操作や監視に関する警報がなり、制御棒を引き抜く作業を中断したということです。\n\n東京電力によりますと電気系統の不具合とみられ、関係するパネルの電気部品を交換したものの改善されていないということで、今のところ、作業の再開の見通しは立っていないということです。\n\n制御棒は、これまでのところ205本あるうち、52本が引き抜かれていますが、原子炉の状態に異常はなく、安全上の問題や外部への影響はないということです。\n\n東京電力は不具合の原因を詳しく調べています。\n",
+    "trimmedLead": "東京電力は21日再稼働させた新潟県にある柏崎刈羽原子力発電所6号機で、22日午前0時半ごろ警報がなり、原子炉から制御棒を引き抜く作業を中断しているということです。東京電力によりますと、原子炉の状態に異常はなく、外部への影響もないということで詳しい原因を調べています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015032801000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015032801000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "柏崎刈羽原発6号機 制御棒引き抜く作業中断 外部への影響なし",
+      "description": "東京電力は21日再稼働させた新潟県にある柏崎刈羽原子力発電所6号機で、22日午前0時半ごろ警報がなり、原子炉から制御棒を引き抜く作業を中断しているということです。東京電力によりますと、原子炉の状態に異",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015032801_202601221359_202601221359/index.m3u8&mrposter=/news/html/20260122/K10015032801_2601221330_0122135528_01_02.jpg",
+      "duration": "PT56S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015032801_202601221359_202601221359/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260122/K10015032801_2601221330_0122135528_01_02.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

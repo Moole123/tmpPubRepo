@@ -1,0 +1,146 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015047131000",
+  "dataSourceId": "na",
+  "name": "ＪＲ宇都宮線 全線で運転再開",
+  "headline": "ＪＲ宇都宮線 全線で運転再開",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015047131000",
+    "playlistId": "news-nwa-society-nationwide-20260209",
+    "newsarticleName": "ＪＲ宇都宮線 全線で運転再開",
+    "playlistName": "2月9日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "JR宇都宮線は茨城県の古河駅と栃木県の野木駅の間で8日夜、架線が切れた影響で一部の区間で運転を見合わせていましたが、9日午後4時半すぎに全線で運転を再開しました。\n\n\nこの影響で運転を見合わせていた湘",
+  "dateModified": "2026-02-09T17:29:34+09:00",
+  "datePublished": "2026-02-09T08:46:53+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260209/K10015047131_2602091720_0209172935_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260209/K10015047131_2602091720_0209172935_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002427",
+      "name": "鉄道",
+      "display": true
+    },
+    {
+      "id": "0002209",
+      "name": "栃木県",
+      "display": true
+    },
+    {
+      "id": "0002211",
+      "name": "埼玉県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "JR宇都宮線は茨城県の古河駅と栃木県の野木駅の間で8日夜、架線が切れた影響で一部の区間で運転を見合わせていましたが、9日午後4時半すぎに全線で運転を再開しました。\n\n\nこの影響で運転を見合わせていた湘",
+  "articleBody": "JR宇都宮線は茨城県の古河駅と栃木県の野木駅の間で8日夜、架線が切れた影響で一部の区間で運転を見合わせていましたが、9日午後4時半すぎに全線で運転を再開しました。\n\n\nこの影響で運転を見合わせていた湘南新宿ラインの新宿駅から北の宇都宮線の列車については、9日の運転をとりやめるということです。\n\nJR東日本では、先月にも山手線や常磐線が停電などの影響で長時間運転できなくなるなどトラブルが相次いでいて、今回、架線が切れた原因について調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "JR宇都宮線は茨城県の古河駅と栃木県の野木駅の間で8日夜、架線が切れた影響で一部の区間で運転を見合わせていましたが、9日午後4時半すぎに全線で運転を再開しました。\n",
+    "markedBody": "この影響で運転を見合わせていた湘南新宿ラインの新宿駅から北の宇都宮線の列車については、9日の運転をとりやめるということです。\n\nJR東日本では、先月にも山手線や常磐線が停電などの影響で長時間運転できなくなるなどトラブルが相次いでいて、今回、架線が切れた原因について調べています。\n",
+    "trimmedLead": "JR宇都宮線は茨城県の古河駅と栃木県の野木駅の間で8日夜、架線が切れた影響で一部の区間で運転を見合わせていましたが、9日午後4時半すぎに全線で運転を再開しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015047131000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015047131000",
+  "video": [],
+  "citation": [
+    {
+      "name": "自民 316議席獲得 単独で3分の2超 中道は49議席【開票結果】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015046481000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260208/K10015046481_2602090319_0209052543_01_02.jpg",
+      "datePublished": "2026-02-09T07:19:47+09:00"
+    },
+    {
+      "name": "衆院選 全国開票マップ あなたの選挙区をクリックして確認",
+      "url": "https://news.web.nhk/senkyo/database/shugiin/2026/kaihyomap/index.html",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30803245.jpg"
+    },
+    {
+      "name": "衆院選 出口調査 全289選挙区の情勢は",
+      "url": "https://news.web.nhk/senkyo/database/shugiin/2026/exitpoll/index.html",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30803515.jpg"
+    },
+    {
+      "name": "【記者解説 動画】自民 300議席に達する可能性 理由や背景は？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015046711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260208/K10015046711_2602082055_0208213214_01_02.jpg",
+      "datePublished": "2026-02-08T21:32:13+09:00"
+    },
+    {
+      "name": "衆院選 ネットの関心 各党のSNSを分析 最も見られたのは？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015046321000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260208/K10015046321_2602081913_0208202441_01_02.jpg",
+      "datePublished": "2026-02-08T20:24:40+09:00"
+    },
+    {
+      "name": "山陰 近畿中心に大雪 東京都心など9日朝も氷点下冷え込み予想",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015046071000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260208/K10015046071_2602081513_0208151419_01_03.jpg",
+      "datePublished": "2026-02-09T01:00:00+09:00"
+    },
+    {
+      "name": "【大雪】交通機関への影響（9日午後6時）",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015046041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260208/K10015046041_2602080533_0208055318_01_02.jpg",
+      "datePublished": "2026-02-09T18:42:25+09:00"
+    },
+    {
+      "name": "【最新ニュースまとめて】ミラノ・コルティナ オリンピック",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002451",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30750181.jpg"
+    },
+    {
+      "name": "衆議院選挙 SNSで根拠ない情報広がる 開票日以降は特に注意",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015046371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260208/K10015046371_2602081733_0208173510_01_02.jpg",
+      "datePublished": "2026-02-08T17:30:39+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

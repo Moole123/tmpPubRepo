@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014879611000",
+  "dataSourceId": "na",
+  "name": "各地に津波警報 避難指示の対象は全国で200万人超に",
+  "headline": "各地に津波警報 避難指示の対象は全国で200万人超に",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014879611000",
+    "playlistId": "news-nwa-disaster-nationwide-20250730",
+    "newsarticleName": "各地に津波警報 避難指示の対象は全国で200万人超に",
+    "playlistName": "7月30日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "総務省消防庁によりますと、津波警報や注意報の発表を受けて「避難指示」の対象者は、午後5時の時点で全国で200万人を超えています。\n\n\n総務省消防庁によりますと午後5時の時点で「避難指示」は、21都道県",
+  "dateModified": "2025-07-30T18:00:13+09:00",
+  "datePublished": "2025-07-30T17:20:04+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250730/K10014879611_2507301718_0730171931_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250730/K10014879611_2507301718_0730171931_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "総務省消防庁によりますと、津波警報や注意報の発表を受けて「避難指示」の対象者は、午後5時の時点で全国で200万人を超えています。\n\n\n総務省消防庁によりますと午後5時の時点で「避難指示」は、21都道県",
+  "articleBody": "総務省消防庁によりますと、津波警報や注意報の発表を受けて「避難指示」の対象者は、午後5時の時点で全国で200万人を超えています。\n\n\n総務省消防庁によりますと午後5時の時点で「避難指示」は、21都道県の229市町村が合わせて96万7604世帯、201万1038人を対象に出しています。\n\n各自治体は、海岸や河口から直ちに離れ、内陸側へ避難することなどを呼びかけています。\n\n避難指示の対象者は、和歌山県が最も多く36万7186人、次いで北海道で35万2923人、神奈川県で26万3728人、福島県で24万4391人、静岡県で23万9391人などとなっています。\n",
+  "detailedArticleBody": {
+    "markedLead": "総務省消防庁によりますと、津波警報や注意報の発表を受けて「避難指示」の対象者は、午後5時の時点で全国で200万人を超えています。\n",
+    "markedBody": "総務省消防庁によりますと午後5時の時点で「避難指示」は、21都道県の229市町村が合わせて96万7604世帯、201万1038人を対象に出しています。\n\n各自治体は、海岸や河口から直ちに離れ、内陸側へ避難することなどを呼びかけています。\n\n避難指示の対象者は、和歌山県が最も多く36万7186人、次いで北海道で35万2923人、神奈川県で26万3728人、福島県で24万4391人、静岡県で23万9391人などとなっています。\n",
+    "trimmedLead": "総務省消防庁によりますと、津波警報や注意報の発表を受けて「避難指示」の対象者は、午後5時の時点で全国で200万人を超えています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014879611000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014879611000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

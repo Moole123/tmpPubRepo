@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015013771000",
+  "dataSourceId": "na",
+  "name": "デパート 11月の免税品売り上げ 去年同時期比2.5％減少",
+  "headline": "デパート 11月の免税品売り上げ 去年同時期比2.5％減少",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015013771000",
+    "playlistId": "news-nwa-business-nationwide-20251225",
+    "newsarticleName": "デパート 11月の免税品売り上げ 去年同時期比2.5％減少",
+    "playlistName": "12月25日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "全国のデパートの先月の外国人観光客向けの免税品の売り上げは、去年の同じ時期より2.5％減少しました。日本百貨店協会は中国政府が日本への渡航自粛を呼びかけた影響が徐々に出ているとしています。\n\n\n日本百",
+  "dateModified": "2025-12-25T17:47:24+09:00",
+  "datePublished": "2025-12-25T17:47:24+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251225/K10015013771_2512251745_1225174725_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251225/K10015013771_2512251745_1225174725_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "全国のデパートの先月の外国人観光客向けの免税品の売り上げは、去年の同じ時期より2.5％減少しました。日本百貨店協会は中国政府が日本への渡航自粛を呼びかけた影響が徐々に出ているとしています。\n\n\n日本百",
+  "articleBody": "全国のデパートの先月の外国人観光客向けの免税品の売り上げは、去年の同じ時期より2.5％減少しました。日本百貨店協会は中国政府が日本への渡航自粛を呼びかけた影響が徐々に出ているとしています。\n\n\n日本百貨店協会によりますと、全国のデパートの先月の売り上げは5214億円余りと既存店どうしで比べると去年の同じ月を0.9％上回り、4か月連続のプラスとなりました。\n\n一方、外国人旅行客向けの免税品の売り上げは、去年の同じ時期より2.5％減少し、2か月ぶりにマイナスとなりました。\n\n香港や韓国からの来店客数が減少していることに加えて、中国政府が日本への渡航の自粛を呼びかけたことで、先月下旬以降、中国からの旅行客の売り上げが、伸び悩んだことも影響したと見られます。\n\n日本百貨店協会の西阪義晴専務理事は「中国からの旅行客による売り上げは月間ではプラスを維持したが、徐々に客数や売り上げが減っているのは間違いない。来年の春節の時期を含めどうなるか懸念している」と述べ、影響が長期化することに懸念を示しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "全国のデパートの先月の外国人観光客向けの免税品の売り上げは、去年の同じ時期より2.5％減少しました。日本百貨店協会は中国政府が日本への渡航自粛を呼びかけた影響が徐々に出ているとしています。\n",
+    "markedBody": "日本百貨店協会によりますと、全国のデパートの先月の売り上げは5214億円余りと既存店どうしで比べると去年の同じ月を0.9％上回り、4か月連続のプラスとなりました。\n\n一方、外国人旅行客向けの免税品の売り上げは、去年の同じ時期より2.5％減少し、2か月ぶりにマイナスとなりました。\n\n香港や韓国からの来店客数が減少していることに加えて、中国政府が日本への渡航の自粛を呼びかけたことで、先月下旬以降、中国からの旅行客の売り上げが、伸び悩んだことも影響したと見られます。\n\n日本百貨店協会の西阪義晴専務理事は「中国からの旅行客による売り上げは月間ではプラスを維持したが、徐々に客数や売り上げが減っているのは間違いない。来年の春節の時期を含めどうなるか懸念している」と述べ、影響が長期化することに懸念を示しました。\n",
+    "trimmedLead": "全国のデパートの先月の外国人観光客向けの免税品の売り上げは、去年の同じ時期より2.5％減少しました。日本百貨店協会は中国政府が日本への渡航自粛を呼びかけた影響が徐々に出ているとしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015013771000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015013771000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

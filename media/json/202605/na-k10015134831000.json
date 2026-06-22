@@ -1,0 +1,154 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015134831000",
+  "dataSourceId": "na",
+  "name": "日本航空機 成田空港に緊急着陸 タイヤに不具合か A滑走路閉鎖",
+  "headline": "日本航空機 成田空港に緊急着陸 タイヤに不具合か A滑走路閉鎖",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015134831000",
+    "playlistId": "news-nwa-society-nationwide-20260529",
+    "newsarticleName": "日本航空機 成田空港に緊急着陸 タイヤに不具合か A滑走路閉鎖",
+    "playlistName": "5月29日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "国土交通省によりますと、29日午前、羽田空港を離陸して鹿児島空港に向かっていた日本航空645便が、離陸後にタイヤに不具合が出た可能性があるとして管制に緊急着陸を要請し、目的地を変更して成田空港に着陸し",
+  "dateModified": "2026-05-29T12:42:25+09:00",
+  "datePublished": "2026-05-29T12:42:25+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260529/K10015134831_2605291221_0529124225_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260529/K10015134831_2605291221_0529124225_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002424",
+      "name": "航空",
+      "display": true
+    },
+    {
+      "id": "0002683",
+      "name": "交通・インフラ",
+      "display": true
+    },
+    {
+      "id": "0002213",
+      "name": "東京都",
+      "display": true
+    },
+    {
+      "id": "0002409",
+      "name": "国土交通省",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "国土交通省によりますと、29日午前、羽田空港を離陸して鹿児島空港に向かっていた日本航空645便が、離陸後にタイヤに不具合が出た可能性があるとして管制に緊急着陸を要請し、目的地を変更して成田空港に着陸し",
+  "articleBody": "国土交通省によりますと、29日午前、羽田空港を離陸して鹿児島空港に向かっていた日本航空645便が、離陸後にタイヤに不具合が出た可能性があるとして管制に緊急着陸を要請し、目的地を変更して成田空港に着陸したということです。\n\n\n機体は正午前にA滑走路に着陸したあと、その場で停止していて、A滑走路は閉鎖されているということです。\n\n機体には乗客乗員合わせて226人が乗っているということで、けが人がいないかなど情報の確認を進めています。\n\n一方、羽田空港では、離陸に使われたD滑走路でタイヤの破片のようなものが見つかったということで、D滑走路を午後4時まで閉鎖するということです。\n\nいずれの空港も、航空機の離着陸は閉鎖されていない滑走路を使用して行っているということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "国土交通省によりますと、29日午前、羽田空港を離陸して鹿児島空港に向かっていた日本航空645便が、離陸後にタイヤに不具合が出た可能性があるとして管制に緊急着陸を要請し、目的地を変更して成田空港に着陸したということです。\n",
+    "markedBody": "機体は正午前にA滑走路に着陸したあと、その場で停止していて、A滑走路は閉鎖されているということです。\n\n機体には乗客乗員合わせて226人が乗っているということで、けが人がいないかなど情報の確認を進めています。\n\n一方、羽田空港では、離陸に使われたD滑走路でタイヤの破片のようなものが見つかったということで、D滑走路を午後4時まで閉鎖するということです。\n\nいずれの空港も、航空機の離着陸は閉鎖されていない滑走路を使用して行っているということです。\n",
+    "trimmedLead": "国土交通省によりますと、29日午前、羽田空港を離陸して鹿児島空港に向かっていた日本航空645便が、離陸後にタイヤに不具合が出た可能性があるとして管制に緊急着陸を要請し、目的地を変更して成田空港に着陸したということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015134831000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015134831000",
+  "video": [],
+  "citation": [
+    {
+      "name": "日本の人口は1億2305万人 減少幅は過去最大 国勢調査速報値",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134531_2605290046_0529083052_01_02.jpg",
+      "datePublished": "2026-05-29T11:30:43+09:00"
+    },
+    {
+      "name": "広い範囲で真夏日予想 熱中症対策を 台風6号の最新情報に注意",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134411000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134411_2605290553_0529060853_01_02.jpg",
+      "datePublished": "2026-05-29T06:08:53+09:00"
+    },
+    {
+      "name": "栃木強盗殺人 海外出国の逮捕状出された容疑者を公開手配へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134441_2605282353_0529000108_01_02.jpg",
+      "datePublished": "2026-05-29T00:01:07+09:00"
+    },
+    {
+      "name": "トヨタ 次世代EV一部車種の開発中止 米などでの需要減速踏まえ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134681000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134681_2605291017_0529101917_01_02.jpg",
+      "datePublished": "2026-05-29T10:19:16+09:00"
+    },
+    {
+      "name": "株価 一時1300円超値上がり NY株式市場の最高値更新の流れ受け",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134651000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134651_2605291226_0529123012_01_02.jpg",
+      "datePublished": "2026-05-29T12:30:11+09:00"
+    },
+    {
+      "name": "イランと覚書めぐり暫定合意と米関係者 合意実現は不透明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134541_2605290353_0529045956_01_02.jpg",
+      "datePublished": "2026-05-29T12:13:07+09:00"
+    },
+    {
+      "name": "自民・維新 衆議院の定数削減法案 今国会に提出へ検討を加速",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134361000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134361_2605282225_0529051911_01_02.jpg",
+      "datePublished": "2026-05-29T05:19:10+09:00"
+    },
+    {
+      "name": "生成AIによる声などの無断利用 法務省検討会で声優が対策要請",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134321000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015134321_2605282010_0528205724_01_02.jpg",
+      "datePublished": "2026-05-28T20:57:23+09:00"
+    },
+    {
+      "name": "最新クマ対策 AI・ドローンで被害防げ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015131471_2605281240_0528165620_01_02.jpg",
+      "datePublished": "2026-05-28T16:56:19+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

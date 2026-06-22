@@ -1,0 +1,101 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014926891000",
+  "dataSourceId": "na",
+  "name": "カムチャツカ半島東岸震源の地震 M7.8 日本では被害の心配なし",
+  "headline": "カムチャツカ半島東岸震源の地震 M7.8 日本では被害の心配なし",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014926891000",
+    "playlistId": "news-nwa-disaster-nationwide-20250919",
+    "newsarticleName": "カムチャツカ半島東岸震源の地震 M7.8 日本では被害の心配なし",
+    "playlistName": "9月19日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "ハワイにある太平洋津波警報センターから気象庁に入った連絡によりますと、日本時間の19日午前3時58分ごろ、ロシアのカムチャツカ半島の東岸を震源とするマグニチュード7.8の大きな地震がありました。\n\n気",
+  "dateModified": "2025-09-19T04:42:59+09:00",
+  "datePublished": "2025-09-19T04:31:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250919/K10014926891_2509190503_0919050416_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250919/K10014926891_2509190503_0919050416_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "ハワイにある太平洋津波警報センターから気象庁に入った連絡によりますと、日本時間の19日午前3時58分ごろ、ロシアのカムチャツカ半島の東岸を震源とするマグニチュード7.8の大きな地震がありました。\n\n気",
+  "articleBody": "ハワイにある太平洋津波警報センターから気象庁に入った連絡によりますと、日本時間の19日午前3時58分ごろ、ロシアのカムチャツカ半島の東岸を震源とするマグニチュード7.8の大きな地震がありました。\n\n気象庁によりますと、この地震で日本では多少の潮位の変化があるかも知れませんが、被害の心配はないということです。\n\n\nロシア沿岸で津波のおそれ\n\nUSGS＝アメリカの地質調査所によりますと、日本時間の19日午前3時58分ごろ、ロシア極東のカムチャツカ半島の沖合を震源とする地震がありました。\n\n震源の深さは10キロ、地震の規模を示すマグニチュードは7.8と推定されています。\n\nNOAA＝アメリカ海洋大気局は、この地震によってロシアの沿岸で津波が発生するおそれがあるとしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "ハワイにある太平洋津波警報センターから気象庁に入った連絡によりますと、日本時間の19日午前3時58分ごろ、ロシアのカムチャツカ半島の東岸を震源とするマグニチュード7.8の大きな地震がありました。\n\n気象庁によりますと、この地震で日本では多少の潮位の変化があるかも知れませんが、被害の心配はないということです。\n",
+    "markedBody": "### ロシア沿岸で津波のおそれ\n\nUSGS＝アメリカの地質調査所によりますと、日本時間の19日午前3時58分ごろ、ロシア極東のカムチャツカ半島の沖合を震源とする地震がありました。\n\n震源の深さは10キロ、地震の規模を示すマグニチュードは7.8と推定されています。\n\nNOAA＝アメリカ海洋大気局は、この地震によってロシアの沿岸で津波が発生するおそれがあるとしています。\n",
+    "trimmedLead": "ハワイにある太平洋津波警報センターから気象庁に入った連絡によりますと、日本時間の19日午前3時58分ごろ、ロシアのカムチャツカ半島の東岸を震源とするマグニチュード7.8の大きな地震がありました。\n\n気象庁によりますと、この地震で日本では多少の潮位の変化があるかも知れませんが、被害の心配はないということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014926891000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014926891000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "カムチャツカ半島東岸震源の地震 M7.8 日本では被害の心配なし",
+      "description": "ハワイにある太平洋津波警報センターから気象庁に入った連絡によりますと、日本時間の19日午前3時58分ごろ、ロシアのカムチャツカ半島の東岸を震源とするマグニチュード7.8の大きな地震がありました。\n\n気",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10014926891_202509190503_202509190503/index.m3u8&mrposter=/news/html/20250919/K10014926891_2509190503_0919050416_01_03.jpg",
+      "duration": "PT33S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10014926891_202509190503_202509190503/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20250919/K10014926891_2509190503_0919050416_01_03.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

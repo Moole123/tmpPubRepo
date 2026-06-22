@@ -1,0 +1,193 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015152111000",
+  "dataSourceId": "na",
+  "name": "5月中東からの原油輸入量 前年同月比61.9％減 代替調達は増加",
+  "headline": "5月中東からの原油輸入量 前年同月比61.9％減 代替調達は増加",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015152111000",
+    "playlistId": "news-nwa-business-nationwide-20260617",
+    "newsarticleName": "5月中東からの原油輸入量 前年同月比61.9％減 代替調達は増加",
+    "playlistName": "6月17日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "先月の貿易統計が発表され、ホルムズ海峡の事実上の封鎖が続いた影響で、中東からの原油の輸入量が前の年の同じ月より61％減少しました。その一方で、アメリカやASEAN地域からの原油などの輸入が増えていて、",
+  "dateModified": "2026-06-17T11:35:24+09:00",
+  "datePublished": "2026-06-17T09:13:31+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260617/K10015152111_2606171213_0617121416_02_01.jpg",
+      "height": 719,
+      "width": 1279
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260617/K10015152111_2606171213_0617121416_01_03.jpg",
+      "height": 719,
+      "width": 1279
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0002738",
+      "name": "統計・指標",
+      "display": true
+    },
+    {
+      "id": "0002736",
+      "name": "資源・エネルギー",
+      "display": true
+    },
+    {
+      "id": "0002430",
+      "name": "貿易統計",
+      "display": true
+    },
+    {
+      "id": "0002794",
+      "name": "ホルムズ海峡",
+      "display": true
+    },
+    {
+      "id": "0002803",
+      "name": "ナフサ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "先月の貿易統計が発表され、ホルムズ海峡の事実上の封鎖が続いた影響で、中東からの原油の輸入量が前の年の同じ月より61％減少しました。その一方で、アメリカやASEAN地域からの原油などの輸入が増えていて、",
+  "articleBody": "先月の貿易統計が発表され、ホルムズ海峡の事実上の封鎖が続いた影響で、中東からの原油の輸入量が前の年の同じ月より61％減少しました。その一方で、アメリカやASEAN地域からの原油などの輸入が増えていて、代替調達の動きが広がっていることがうかがえます。\n\n\n財務省が17日に発表した貿易統計によりますと、先月の日本の輸出額から輸入額を差し引いた貿易収支は3786億円の赤字でした。\n\n赤字は4か月ぶりで、ホルムズ海峡の事実上の封鎖が続く中、原油や石油製品の輸入量は減ったものの、世界的な価格の高騰が輸入額を押し上げた形です。\n\n国や地域別では、中東からの原油の輸入量が396万キロリットルと前の年の同じ月より、61.9％減少したほか、LNG＝液化天然ガスが72.1％、ナフサを含む揮発油が90％、それぞれ大きく減少しました。\n\nその一方で、アメリカからの原油の輸入量が57万キロリットルと、前の年の同じ月より24％増えたほか、ナフサを含む揮発油も6.6倍に拡大しました。\n\nまた、ASEAN地域からのナフサを含む揮発油の輸入量も93.5％増えていて、原油や石油製品の代替調達の動きが広がっていることがうかがえます。\n",
+  "detailedArticleBody": {
+    "markedLead": "先月の貿易統計が発表され、ホルムズ海峡の事実上の封鎖が続いた影響で、中東からの原油の輸入量が前の年の同じ月より61％減少しました。その一方で、アメリカやASEAN地域からの原油などの輸入が増えていて、代替調達の動きが広がっていることがうかがえます。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20260617/K10015152111_2606170917_0617092508_02_01.jpg)\n\n財務省が17日に発表した貿易統計によりますと、先月の日本の輸出額から輸入額を差し引いた貿易収支は3786億円の赤字でした。\n\n赤字は4か月ぶりで、ホルムズ海峡の事実上の封鎖が続く中、原油や石油製品の輸入量は減ったものの、世界的な価格の高騰が輸入額を押し上げた形です。\n\n国や地域別では、中東からの原油の輸入量が396万キロリットルと前の年の同じ月より、61.9％減少したほか、LNG＝液化天然ガスが72.1％、ナフサを含む揮発油が90％、それぞれ大きく減少しました。\n\nその一方で、アメリカからの原油の輸入量が57万キロリットルと、前の年の同じ月より24％増えたほか、ナフサを含む揮発油も6.6倍に拡大しました。\n\nまた、ASEAN地域からのナフサを含む揮発油の輸入量も93.5％増えていて、原油や石油製品の代替調達の動きが広がっていることがうかがえます。\n",
+    "trimmedLead": "先月の貿易統計が発表され、ホルムズ海峡の事実上の封鎖が続いた影響で、中東からの原油の輸入量が前の年の同じ月より61％減少しました。その一方で、アメリカやASEAN地域からの原油などの輸入が増えていて、代替調達の動きが広がっていることがうかがえます。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015152111000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015152111000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "5月中東からの原油輸入量 前年同月比61.9％減 代替調達は増加",
+      "description": "先月の貿易統計が発表され、ホルムズ海峡の事実上の封鎖が続いた影響で、中東からの原油の輸入量が前の年の同じ月より61％減少しました。その一方で、アメリカやASEAN地域からの原油などの輸入が増えていて、",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015152111_202606171212_202606171213/index.m3u8&mrposter=/news/html/20260617/K10015152111_2606171213_0617121416_01_03.jpg",
+      "duration": "PT1M11S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015152111_202606171212_202606171213/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260617/K10015152111_2606171213_0617121416_01_03.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "G7サミット 中東やウクライナ情勢への対応を議論",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015151271000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260616/K10015151271_2606161708_0616184512_01_02.jpg",
+      "datePublished": "2026-06-17T05:53:11+09:00"
+    },
+    {
+      "name": "日銀 利上げに踏み切るも円安傾向続く 物価抑制で難しい対応も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015151901000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260617/K10015151901_2606170023_0617054724_01_02.jpg",
+      "datePublished": "2026-06-17T05:47:23+09:00"
+    },
+    {
+      "name": "NYダウ最高値更新 原油は一時75ドル台に下落",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015152041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260617/K10015152041_2606170555_0617060624_01_02.jpg",
+      "datePublished": "2026-06-17T06:06:23+09:00"
+    },
+    {
+      "name": "16日夜 群馬 埼玉で震度5弱の地震 今後1週間程度は注意を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015151981000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260617/K10015151981_2606162334_0617051824_01_02.jpg",
+      "datePublished": "2026-06-17T05:18:23+09:00"
+    },
+    {
+      "name": "消費税減税 実務者会議で案提示へ 来年4月から1％軸に調整",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015151881000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260617/K10015151881_2606170035_0617042657_01_02.jpg",
+      "datePublished": "2026-06-17T04:26:56+09:00"
+    },
+    {
+      "name": "アメリカとイランの署名式 19日にスイス中部で開催予定",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015151941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260617/K10015151941_2606170531_0617054818_01_02.jpg",
+      "datePublished": "2026-06-17T11:28:15+09:00"
+    },
+    {
+      "name": "自維国参4党 国旗損壊罪法案の成立図る 論戦活発化へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015151891000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260617/K10015151891_2606170037_0617043149_01_02.jpg",
+      "datePublished": "2026-06-17T04:31:48+09:00"
+    },
+    {
+      "name": "映画『火垂るの墓』公開当初の“幻”となっていたフィルム発見",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015151911000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260617/K10015151911_2606170153_0617035827_01_02.jpg",
+      "datePublished": "2026-06-17T03:58:26+09:00"
+    },
+    {
+      "name": "プロ野球交流戦 西武が初優勝 勝率は過去最高",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015151871000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260616/K10015151871_2606162208_0616221208_01_02.jpg",
+      "datePublished": "2026-06-16T23:28:46+09:00"
+    },
+    {
+      "name": "FIFAワールドカップ2026【NHK特設サイト】",
+      "url": "https://nhk.jp/fifawc?cid=wc26-newsweb-awayomi",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31365091.jpg"
+    },
+    {
+      "name": "オランダ公式訪問 天皇皇后両陛下 アムステルダム王宮に移動",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015151921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260617/K10015151921_2606162321_0617052401_01_02.jpg",
+      "datePublished": "2026-06-17T05:24:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

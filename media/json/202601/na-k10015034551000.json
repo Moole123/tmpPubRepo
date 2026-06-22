@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015034551000",
+  "dataSourceId": "na",
+  "name": "政府 官邸の偽サイト確認 注意を呼びかけ 投資を勧誘する内容",
+  "headline": "政府 官邸の偽サイト確認 注意を呼びかけ 投資を勧誘する内容",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015034551000",
+    "playlistId": "news-nwa-politics-nationwide-20260124",
+    "newsarticleName": "政府 官邸の偽サイト確認 注意を呼びかけ 投資を勧誘する内容",
+    "playlistName": "1月24日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "政府は、投資を勧誘する総理大臣官邸ホームページの偽サイトの存在が確認されたとして、注意を呼びかけています。\n\n\n政府は23日夜、旧ツイッターの「X」で、「総理大臣官邸のホームページの偽サイトの存在が確",
+  "dateModified": "2026-01-24T02:50:57+09:00",
+  "datePublished": "2026-01-24T02:50:57+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260124/K10015034551_2601240111_0124025058_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260124/K10015034551_2601240111_0124025058_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "政府は、投資を勧誘する総理大臣官邸ホームページの偽サイトの存在が確認されたとして、注意を呼びかけています。\n\n\n政府は23日夜、旧ツイッターの「X」で、「総理大臣官邸のホームページの偽サイトの存在が確",
+  "articleBody": "政府は、投資を勧誘する総理大臣官邸ホームページの偽サイトの存在が確認されたとして、注意を呼びかけています。\n\n\n政府は23日夜、旧ツイッターの「X」で、「総理大臣官邸のホームページの偽サイトの存在が確認された」と明らかにしました。\n\n高市総理大臣の映像を悪用し、「日本政府が開発した金融ソリューション」「政府の保証により」などのことばで投資を勧誘する内容だということです。\n\n政府は「アクセスすると投資詐欺や個人情報を盗まれるなどの被害にあうおそれがある」として注意を呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "政府は、投資を勧誘する総理大臣官邸ホームページの偽サイトの存在が確認されたとして、注意を呼びかけています。\n",
+    "markedBody": "政府は23日夜、旧ツイッターの「X」で、「総理大臣官邸のホームページの偽サイトの存在が確認された」と明らかにしました。\n\n高市総理大臣の映像を悪用し、「日本政府が開発した金融ソリューション」「政府の保証により」などのことばで投資を勧誘する内容だということです。\n\n政府は「アクセスすると投資詐欺や個人情報を盗まれるなどの被害にあうおそれがある」として注意を呼びかけています。\n",
+    "trimmedLead": "政府は、投資を勧誘する総理大臣官邸ホームページの偽サイトの存在が確認されたとして、注意を呼びかけています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015034551000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015034551000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

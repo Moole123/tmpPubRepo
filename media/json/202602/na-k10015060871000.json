@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015060871000",
+  "dataSourceId": "na",
+  "name": "ブラジル南東部で記録的大雨 少なくとも40人死亡 行方不明者も",
+  "headline": "ブラジル南東部で記録的大雨 少なくとも40人死亡 行方不明者も",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015060871000",
+    "playlistId": "news-nwa-international-nationwide-20260226",
+    "newsarticleName": "ブラジル南東部で記録的大雨 少なくとも40人死亡 行方不明者も",
+    "playlistName": "2月26日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "ブラジル南東部で記録的な大雨によって土砂崩れなどが発生し、少なくとも40人が死亡したほか、多くの行方不明者も出ていて捜索活動が続けられています。\n\n\nブラジル南東部ミナスジェライス州の一部では今月23",
+  "dateModified": "2026-02-26T09:42:53+09:00",
+  "datePublished": "2026-02-26T09:42:53+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260226/K10015060871_2602260932_0226094253_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260226/K10015060871_2602260932_0226094253_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0002363",
+      "name": "ブラジル",
+      "display": true
+    },
+    {
+      "id": "0000035",
+      "name": "気象",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ブラジル南東部で記録的な大雨によって土砂崩れなどが発生し、少なくとも40人が死亡したほか、多くの行方不明者も出ていて捜索活動が続けられています。\n\n\nブラジル南東部ミナスジェライス州の一部では今月23",
+  "articleBody": "ブラジル南東部で記録的な大雨によって土砂崩れなどが発生し、少なくとも40人が死亡したほか、多くの行方不明者も出ていて捜索活動が続けられています。\n\n\nブラジル南東部ミナスジェライス州の一部では今月23日から25日にかけて降り続いた大雨の影響で各地で土砂崩れや洪水が発生しました。\n\n地元の自治体などによりますと、これまでに少なくとも40人の死亡が確認されたということです。\n\nまた、およそ30人が行方不明になっているとみられ、当局が捜索活動を進めています。\n\n最も被害の大きいジュイス・デ・フォーラでは市内の各地で土砂崩れが発生し、家を失うなどして避難している人の数は3500人以上にのぼっているということです。\n\n地元の自治体は集中的に雨が降ったことに加え、雨量が2月の想定の3倍にのぼったことが被害の拡大につながったとみています。\n",
+  "detailedArticleBody": {
+    "markedLead": "ブラジル南東部で記録的な大雨によって土砂崩れなどが発生し、少なくとも40人が死亡したほか、多くの行方不明者も出ていて捜索活動が続けられています。\n",
+    "markedBody": "ブラジル南東部ミナスジェライス州の一部では今月23日から25日にかけて降り続いた大雨の影響で各地で土砂崩れや洪水が発生しました。\n\n地元の自治体などによりますと、これまでに少なくとも40人の死亡が確認されたということです。\n\nまた、およそ30人が行方不明になっているとみられ、当局が捜索活動を進めています。\n\n最も被害の大きいジュイス・デ・フォーラでは市内の各地で土砂崩れが発生し、家を失うなどして避難している人の数は3500人以上にのぼっているということです。\n\n地元の自治体は集中的に雨が降ったことに加え、雨量が2月の想定の3倍にのぼったことが被害の拡大につながったとみています。\n",
+    "trimmedLead": "ブラジル南東部で記録的な大雨によって土砂崩れなどが発生し、少なくとも40人が死亡したほか、多くの行方不明者も出ていて捜索活動が続けられています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015060871000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015060871000",
+  "video": [],
+  "citation": [
+    {
+      "name": "原生林が1年間で東京都の約13倍消失？ アマゾンで何が？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014980111000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20251119/K10014980111_2511182101_1119163040_01_02.jpg",
+      "datePublished": "2025-11-19T16:30:39+09:00"
+    },
+    {
+      "name": "核開発めぐる米とイランの3回目協議 緊張緩和につながるか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015060741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260226/K10015060741_2602260010_0226053827_01_02.jpg",
+      "datePublished": "2026-02-26T05:38:26+09:00"
+    },
+    {
+      "name": "米通商代表部代表 “輸入品の関税率 従来の水準に今後戻す”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015060821000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260226/K10015060821_2602260550_0226062600_01_02.jpg",
+      "datePublished": "2026-02-26T06:25:59+09:00"
+    },
+    {
+      "name": "米 エヌビディア 3か月間の決算 最終利益 前年同期比94％増",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015060761000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260226/K10015060761_2602260713_0226072040_01_02.jpg",
+      "datePublished": "2026-02-26T07:20:39+09:00"
+    },
+    {
+      "name": "ゼレンスキー大統領 “来月初旬に米・ロと3か国で高官協議”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015060831000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260226/K10015060831_2602260605_0226064958_01_02.jpg",
+      "datePublished": "2026-02-26T08:24:20+09:00"
+    },
+    {
+      "name": "ウクライナ大統領府高官 “子ども連れ去り 解決急ぐべき”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015060751000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260226/K10015060751_2602260427_0226060543_01_02.jpg",
+      "datePublished": "2026-02-26T06:05:42+09:00"
+    },
+    {
+      "name": "ウクライナ 読書が静かなブームに 長引く軍事侵攻が影響",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015060691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260226/K10015060691_2602252155_0226063004_01_02.jpg",
+      "datePublished": "2026-02-26T06:30:03+09:00"
+    },
+    {
+      "name": "中国 習主席 ドイツ首相と会談 経済面など連携強化を確認",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015060801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260226/K10015060801_2602260309_0226070553_01_02.jpg",
+      "datePublished": "2026-02-26T07:05:53+09:00"
+    },
+    {
+      "name": "トランプ大統領 歴代最長の一般教書演説【ノーカット動画】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015059991000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260225/K10015059991_2602251142_0225114334_01_02.jpg",
+      "datePublished": "2026-02-25T19:30:26+09:00"
+    },
+    {
+      "name": "スー・チー氏後継と目されたリーダーがなぜ軍主導の選挙に?",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015055191000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260225/K10015055191_2602251740_0225210407_01_02.jpg",
+      "datePublished": "2026-02-25T21:04:06+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

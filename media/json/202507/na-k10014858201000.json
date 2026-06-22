@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014858201000",
+  "dataSourceId": "na",
+  "name": "香川 まんのう町造田地区に高齢者等避難の情報 404世帯824人",
+  "headline": "香川 まんのう町造田地区に高齢者等避難の情報 404世帯824人",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014858201000",
+    "playlistId": "news-nwa-disaster-nationwide-20250709",
+    "newsarticleName": "香川 まんのう町造田地区に高齢者等避難の情報 404世帯824人",
+    "playlistName": "7月9日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "香川県まんのう町は9日午後3時半、大雨で土砂災害の危険が高まるおそれがあるとして造田地区の全域404世帯824人に「高齢者等避難」の情報を出しました。\n\n\n「高齢者等避難」は5段階の警戒レベルのうち警",
+  "dateModified": "2025-07-09T16:02:21+09:00",
+  "datePublished": "2025-07-09T16:02:21+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250709/K10014858201_2507091601_0709160223_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250709/K10014858201_2507091601_0709160223_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "香川県まんのう町は9日午後3時半、大雨で土砂災害の危険が高まるおそれがあるとして造田地区の全域404世帯824人に「高齢者等避難」の情報を出しました。\n\n\n「高齢者等避難」は5段階の警戒レベルのうち警",
+  "articleBody": "香川県まんのう町は9日午後3時半、大雨で土砂災害の危険が高まるおそれがあるとして造田地区の全域404世帯824人に「高齢者等避難」の情報を出しました。\n\n\n「高齢者等避難」は5段階の警戒レベルのうち警戒レベル3にあたる情報です。\n町は高齢者や避難に時間のかかる人は避難を始めるよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "香川県まんのう町は9日午後3時半、大雨で土砂災害の危険が高まるおそれがあるとして造田地区の全域404世帯824人に「高齢者等避難」の情報を出しました。\n",
+    "markedBody": "「高齢者等避難」は5段階の警戒レベルのうち警戒レベル3にあたる情報です。\\\n町は高齢者や避難に時間のかかる人は避難を始めるよう呼びかけています。\n",
+    "trimmedLead": "香川県まんのう町は9日午後3時半、大雨で土砂災害の危険が高まるおそれがあるとして造田地区の全域404世帯824人に「高齢者等避難」の情報を出しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014858201000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014858201000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

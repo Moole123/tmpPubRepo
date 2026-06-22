@@ -1,0 +1,101 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014863711000",
+  "dataSourceId": "na",
+  "name": "青森 弘前 りんご畑でクマに襲われ70代女性けが 病院に搬送",
+  "headline": "青森 弘前 りんご畑でクマに襲われ70代女性けが 病院に搬送",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014863711000",
+    "playlistId": "news-nwa-society-nationwide-20250715",
+    "newsarticleName": "青森 弘前 りんご畑でクマに襲われ70代女性けが 病院に搬送",
+    "playlistName": "7月15日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "15日午前、青森県弘前市のりんご畑で70代の女性がクマに襲われてけがをして病院に搬送されました。消防によりますと女性は搬送時、意識はあったということで、警察などが付近をパトロールして注意を呼びかけてい",
+  "dateModified": "2025-07-15T13:05:52+09:00",
+  "datePublished": "2025-07-15T12:13:57+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250715/K10014863711_2507151239_0715124439_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250715/K10014863711_2507151239_0715124439_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "15日午前、青森県弘前市のりんご畑で70代の女性がクマに襲われてけがをして病院に搬送されました。消防によりますと女性は搬送時、意識はあったということで、警察などが付近をパトロールして注意を呼びかけてい",
+  "articleBody": "15日午前、青森県弘前市のりんご畑で70代の女性がクマに襲われてけがをして病院に搬送されました。消防によりますと女性は搬送時、意識はあったということで、警察などが付近をパトロールして注意を呼びかけています。\n\n\n弘前市や地元の消防によりますと、15日午前10時前、弘前市大和沢のりんご畑で農作業中の70代の女性がクマに襲われたということです。\n\nこの女性の家族から「クマに襲われた」と消防に通報があり、女性は顔や腕にけがをして市内の病院に運ばれました。\n\n搬送時は意識があり、会話はできる状態だったということです。\n\n現場はJR奥羽本線の石川駅から西に6キロほどの山沿いの斜面にりんご畑が広がる地域です。\n\n女性を襲ったクマはその後、行方がわかっておらず、警察と市が付近をパトロールして注意を呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "15日午前、青森県弘前市のりんご畑で70代の女性がクマに襲われてけがをして病院に搬送されました。消防によりますと女性は搬送時、意識はあったということで、警察などが付近をパトロールして注意を呼びかけています。\n",
+    "markedBody": "弘前市や地元の消防によりますと、15日午前10時前、弘前市大和沢のりんご畑で農作業中の70代の女性がクマに襲われたということです。\n\nこの女性の家族から「クマに襲われた」と消防に通報があり、女性は顔や腕にけがをして市内の病院に運ばれました。\n\n搬送時は意識があり、会話はできる状態だったということです。\n\n現場はJR奥羽本線の石川駅から西に6キロほどの山沿いの斜面にりんご畑が広がる地域です。\n\n女性を襲ったクマはその後、行方がわかっておらず、警察と市が付近をパトロールして注意を呼びかけています。\n",
+    "trimmedLead": "15日午前、青森県弘前市のりんご畑で70代の女性がクマに襲われてけがをして病院に搬送されました。消防によりますと女性は搬送時、意識はあったということで、警察などが付近をパトロールして注意を呼びかけています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014863711000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014863711000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "青森 弘前 りんご畑でクマに襲われ70代女性けが 病院に搬送",
+      "description": "15日午前、青森県弘前市のりんご畑で70代の女性がクマに襲われてけがをして病院に搬送されました。消防によりますと女性は搬送時、意識はあったということで、警察などが付近をパトロールして注意を呼びかけてい",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10014863711_202507151303_202507151303/index.m3u8&mrposter=/news/html/20250715/K10014863711_2507151239_0715124439_01_02.jpg",
+      "duration": "PT57S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10014863711_202507151303_202507151303/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20250715/K10014863711_2507151239_0715124439_01_02.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

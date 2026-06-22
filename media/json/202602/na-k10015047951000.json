@@ -1,0 +1,148 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015047951000",
+  "dataSourceId": "na",
+  "name": "早明浦ダム 貯水率低下 香川と徳島への第1次取水制限 始まる",
+  "headline": "早明浦ダム 貯水率低下 香川と徳島への第1次取水制限 始まる",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015047951000",
+    "playlistId": "news-nwa-society-nationwide-20260210",
+    "newsarticleName": "早明浦ダム 貯水率低下 香川と徳島への第1次取水制限 始まる",
+    "playlistName": "2月10日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "四国の早明浦ダムの貯水率が低下し、9日から香川県と徳島県への供給量を減らす取水制限が始まりました。\n\n\n高知県の早明浦ダムの貯水率は、9日午前0時の時点で平年を大きく下回る51.1％に低下しています。",
+  "dateModified": "2026-02-10T00:18:30+09:00",
+  "datePublished": "2026-02-10T00:18:30+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260210/K10015047951_2602100011_0210001831_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260210/K10015047951_2602100011_0210001831_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002237",
+      "name": "香川県",
+      "display": true
+    },
+    {
+      "id": "0002236",
+      "name": "徳島県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "四国の早明浦ダムの貯水率が低下し、9日から香川県と徳島県への供給量を減らす取水制限が始まりました。\n\n\n高知県の早明浦ダムの貯水率は、9日午前0時の時点で平年を大きく下回る51.1％に低下しています。",
+  "articleBody": "四国の早明浦ダムの貯水率が低下し、9日から香川県と徳島県への供給量を減らす取水制限が始まりました。\n\n\n高知県の早明浦ダムの貯水率は、9日午前0時の時点で平年を大きく下回る51.1％に低下しています。\n\nこのため9日午前9時から水の供給を香川県向けで20％、徳島県向けで17.5％それぞれ減らす、「第1次取水制限」が始まりました。\n\nこれを受けて香川県は、県庁の前に「節水にご協力をお願いします」などと書かれた看板を設置しました。\n\nまた、庁舎内のトイレでは、水道管のバルブを調整して水が出る量を通常の半分ほどに減らしていました。\n\n香川県は、今回の取水制限による生活や農業などへの大きな影響はないとしています。\n\n県水資源対策課の平尾誠治課長は、「県民の皆様には水を大切に使っていただきたい。今後も1か月程度、雨が少ないと見込まれ、より一層の節水をお願いしたい」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "四国の早明浦ダムの貯水率が低下し、9日から香川県と徳島県への供給量を減らす取水制限が始まりました。\n",
+    "markedBody": "高知県の早明浦ダムの貯水率は、9日午前0時の時点で平年を大きく下回る51.1％に低下しています。\n\nこのため9日午前9時から水の供給を香川県向けで20％、徳島県向けで17.5％それぞれ減らす、「第1次取水制限」が始まりました。\n\n![](https://news.web.nhk/news/html/20260210/K10015047951_2602092313_0210001831_02_03.jpg)\n\nこれを受けて香川県は、県庁の前に「節水にご協力をお願いします」などと書かれた看板を設置しました。\n\nまた、庁舎内のトイレでは、水道管のバルブを調整して水が出る量を通常の半分ほどに減らしていました。\n\n香川県は、今回の取水制限による生活や農業などへの大きな影響はないとしています。\n\n県水資源対策課の平尾誠治課長は、「県民の皆様には水を大切に使っていただきたい。今後も1か月程度、雨が少ないと見込まれ、より一層の節水をお願いしたい」と話していました。\n",
+    "trimmedLead": "四国の早明浦ダムの貯水率が低下し、9日から香川県と徳島県への供給量を減らす取水制限が始まりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015047951000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015047951000",
+  "video": [],
+  "citation": [
+    {
+      "name": "各地で今季1番の厳しい冷え込み 今週は日中の気温上がる見込み",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015046881000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260209/K10015046881_2602091226_0209125745_01_03.jpg",
+      "datePublished": "2026-02-09T19:41:44+09:00"
+    },
+    {
+      "name": "歴史的圧勝の自民党 午後に臨時役員会 公約実現の加速を確認へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015047421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260209/K10015047421_2602091134_0209114044_01_02.jpg",
+      "datePublished": "2026-02-09T12:29:50+09:00"
+    },
+    {
+      "name": "中道 野田・斉藤両共同代表 辞任へ 18日までに代表選挙を実施",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015047301000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260209/K10015047301_2602091604_0209161159_01_03.jpg",
+      "datePublished": "2026-02-09T16:11:59+09:00"
+    },
+    {
+      "name": "衆院選から一夜明け 当選者に聞く 結果の受け止めや抱負は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015047351000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260209/K10015047351_2602091055_0209113245_01_02.jpg",
+      "datePublished": "2026-02-09T19:15:12+09:00"
+    },
+    {
+      "name": "自民 316議席獲得 単独で3分の2超 中道は49議席【開票結果】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015046481000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260208/K10015046481_2602090319_0209052543_01_02.jpg",
+      "datePublished": "2026-02-09T07:19:47+09:00"
+    },
+    {
+      "name": "株価 終値 初の5万6000円台で最高値更新 長期金利は上昇",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015047251000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260209/K10015047251_2602090935_0209094000_01_02.jpg",
+      "datePublished": "2026-02-09T18:13:10+09:00"
+    },
+    {
+      "name": "トランプ大統領 高市首相に祝意 “取り組みの成功を祈る”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015047331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260209/K10015047331_2602091118_0209113745_01_02.jpg",
+      "datePublished": "2026-02-09T11:37:45+09:00"
+    },
+    {
+      "name": "衆院選 出口調査 全289選挙区の情勢は",
+      "url": "https://news.web.nhk/senkyo/database/shugiin/2026/exitpoll/index.html",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30803515.jpg"
+    },
+    {
+      "name": "去年1年間の実質賃金 4年連続マイナス 物価上昇が影響",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015047741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260209/K10015047741_2602101426_0210143043_01_02.jpg",
+      "datePublished": "2026-02-09T19:39:40+09:00"
+    },
+    {
+      "name": "【最新ニュースまとめて】ミラノ・コルティナ オリンピック",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002451",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30750181.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

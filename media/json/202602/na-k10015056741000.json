@@ -1,0 +1,184 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015056741000",
+  "dataSourceId": "na",
+  "name": "1月 消費者物価指数 去年同月比2％上昇 上昇率は前月より縮小",
+  "headline": "1月 消費者物価指数 去年同月比2％上昇 上昇率は前月より縮小",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015056741000",
+    "playlistId": "news-nwa-business-nationwide-20260220",
+    "newsarticleName": "1月 消費者物価指数 去年同月比2％上昇 上昇率は前月より縮小",
+    "playlistName": "2月20日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "家庭で消費するモノやサービスの値動きをみる、1月の消費者物価指数は、天候による変動が大きい生鮮食品を除いた指数が去年の同じ月より2％上昇しました。上昇率は前の月から0.4ポイント縮小していて、おととし",
+  "dateModified": "2026-02-20T11:25:10+09:00",
+  "datePublished": "2026-02-20T08:51:27+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260220/K10015056741_2602200843_0220085128_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260220/K10015056741_2602200843_0220085128_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0002429",
+      "name": "消費者物価指数",
+      "display": true
+    },
+    {
+      "id": "0002738",
+      "name": "統計・指標",
+      "display": true
+    },
+    {
+      "id": "0002133",
+      "name": "物価高騰",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "家庭で消費するモノやサービスの値動きをみる、1月の消費者物価指数は、天候による変動が大きい生鮮食品を除いた指数が去年の同じ月より2％上昇しました。上昇率は前の月から0.4ポイント縮小していて、おととし",
+  "articleBody": "家庭で消費するモノやサービスの値動きをみる、1月の消費者物価指数は、天候による変動が大きい生鮮食品を除いた指数が去年の同じ月より2％上昇しました。上昇率は前の月から0.4ポイント縮小していて、おととし1月以来2年ぶりの水準です。\n\n\n総務省が発表した先月の消費者物価指数は、天候による変動が大きい生鮮食品を除いた指数が2020年の平均を100として112.0となり、去年の同じ月より2％上昇しました。\n\n上昇率は前の月から0.4ポイント縮小していて、おととし1月以来、2年ぶりの水準です。\n\nこれはガソリン税の暫定税率が廃止されたことで「ガソリン」が去年の同じ月と比べてマイナス14.6％だったほか、電気代や都市ガス代なども値下がりしたことが要因です。\n\n一方、「生鮮食品を除く食料」は去年の同じ月と比べて6.2％上昇し、上昇率は6か月連続で縮小しているものの、高い状態が続いています。\n\n主な品目をみると、\n▽「コーヒー豆」が51％、\n▽「米類」が27.9％、\n▽「チョコレート」が25.8％、\n▽「鶏卵」が13.2％、\n▽「おにぎり」が11.8％、\n▽「鶏肉」が7.4％\nそれぞれ上昇しています。\n\nさらに、一般的な賃貸住宅の家賃を示す「民営家賃」は去年の同じ月と比べて0.7％上昇しました。\n\n総務省によりますと上昇率は1998年3月以来の水準で、東京都心を中心としたマンション価格の上昇が家賃の上昇にもつながっているということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "家庭で消費するモノやサービスの値動きをみる、1月の消費者物価指数は、天候による変動が大きい生鮮食品を除いた指数が去年の同じ月より2％上昇しました。上昇率は前の月から0.4ポイント縮小していて、おととし1月以来2年ぶりの水準です。\n",
+    "markedBody": "総務省が発表した先月の消費者物価指数は、天候による変動が大きい生鮮食品を除いた指数が2020年の平均を100として112.0となり、去年の同じ月より2％上昇しました。\n\n上昇率は前の月から0.4ポイント縮小していて、おととし1月以来、2年ぶりの水準です。\n\nこれはガソリン税の暫定税率が廃止されたことで「ガソリン」が去年の同じ月と比べてマイナス14.6％だったほか、電気代や都市ガス代なども値下がりしたことが要因です。\n\n一方、「生鮮食品を除く食料」は去年の同じ月と比べて6.2％上昇し、上昇率は6か月連続で縮小しているものの、高い状態が続いています。\n\n主な品目をみると、\\\n▽「コーヒー豆」が51％、\\\n▽「米類」が27.9％、\\\n▽「チョコレート」が25.8％、\\\n▽「鶏卵」が13.2％、\\\n▽「おにぎり」が11.8％、\\\n▽「鶏肉」が7.4％\\\nそれぞれ上昇しています。\n\nさらに、一般的な賃貸住宅の家賃を示す「民営家賃」は去年の同じ月と比べて0.7％上昇しました。\n\n総務省によりますと上昇率は1998年3月以来の水準で、東京都心を中心としたマンション価格の上昇が家賃の上昇にもつながっているということです。\n",
+    "trimmedLead": "家庭で消費するモノやサービスの値動きをみる、1月の消費者物価指数は、天候による変動が大きい生鮮食品を除いた指数が去年の同じ月より2％上昇しました。上昇率は前の月から0.4ポイント縮小していて、おととし1月以来2年ぶりの水準です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015056741000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015056741000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "1月 消費者物価指数 去年同月比2％上昇 上昇率は前月より縮小",
+      "description": "家庭で消費するモノやサービスの値動きをみる、1月の消費者物価指数は、天候による変動が大きい生鮮食品を除いた指数が去年の同じ月より2％上昇しました。上昇率は前の月から0.4ポイント縮小していて、おととし",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015056741_202602201214_202602201214/index.m3u8&mrposter=/news/html/20260220/K10015056741_2602200843_0220085128_01_02.jpg",
+      "duration": "PT1M23S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015056741_202602201214_202602201214/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260220/K10015056741_2602200843_0220085128_01_02.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "米 1月の消費者物価指数 前年同月比2.4％上昇",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015051541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015051541_2602132309_0213231140_01_02.jpg",
+      "datePublished": "2026-02-14T03:01:24+09:00"
+    },
+    {
+      "name": "中国 1月の消費者物価指数 4か月連続でプラスも伸び率は縮小",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015049151000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260211/K10015049151_2602111413_0211142216_01_02.jpg",
+      "datePublished": "2026-02-11T14:22:15+09:00"
+    },
+    {
+      "name": "東京23区 1月の消費者物価指数 前年同月比2％上昇",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015039151000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260130/K10015039151_2601300848_0130090657_01_02.jpg",
+      "datePublished": "2026-01-30T10:48:07+09:00"
+    },
+    {
+      "name": "去年の消費者物価指数 前年比 平均3.1％上昇",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015033581000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260123/K10015033581_2601231026_0123102726_01_02.jpg",
+      "datePublished": "2026-01-23T18:55:26+09:00"
+    },
+    {
+      "name": "日銀 政策金利0.75％へ利上げ 迫られる繊細なかじ取り",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015010391000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20251222/K10015010391_2512221225_1222172802_01_02.jpg",
+      "datePublished": "2025-12-22T17:28:01+09:00"
+    },
+    {
+      "name": "家計簿 見せてもらいました",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014739401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20250318/K10014739401_2503182031_0318203256_01_02.jpg",
+      "datePublished": "2025-03-18T18:20:03+09:00"
+    },
+    {
+      "name": "逮捕の容疑者「面識ない」 図書館で男女3人刺されけが 福岡",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015056631000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260220/K10015056631_2602200254_0220055033_01_02.jpg",
+      "datePublished": "2026-02-20T05:50:32+09:00"
+    },
+    {
+      "name": "iPS細胞の再生医療製品 製造販売を了承 世界初の実用化へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015056521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260220/K10015056521_2602192225_0220052745_01_02.jpg",
+      "datePublished": "2026-02-20T05:27:45+09:00"
+    },
+    {
+      "name": "AIインパクトサミット 安全利用へ共通ルール作りの意見相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015056531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260220/K10015056531_2602192302_0220054726_01_02.jpg",
+      "datePublished": "2026-02-20T05:47:25+09:00"
+    },
+    {
+      "name": "マッチングアプリで客引き ホストクラブに初の行政処分",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015056511000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260220/K10015056511_2602192148_0220052139_01_02.jpg",
+      "datePublished": "2026-02-20T05:21:38+09:00"
+    },
+    {
+      "name": "2029年度の財政状況の試算 「国債費」41兆3000億円に 財務省",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015056421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260220/K10015056421_2602192013_0220043730_01_02.jpg",
+      "datePublished": "2026-02-20T04:37:29+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

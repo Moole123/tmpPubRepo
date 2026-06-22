@@ -1,0 +1,145 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015058721000",
+  "dataSourceId": "na",
+  "name": "東京スカイツリー エレベーター停止で約20人閉じ込められる",
+  "headline": "東京スカイツリー エレベーター停止で約20人閉じ込められる",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015058721000",
+    "playlistId": "news-nwa-society-nationwide-20260222",
+    "newsarticleName": "東京スカイツリー エレベーター停止で約20人閉じ込められる",
+    "playlistName": "2月22日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "22日夜、「東京スカイツリー」のエレベーターでトラブルがあり途中で停止し、20人ほどが閉じ込められた状態になっています。警視庁によりますとこれまでのところけが人がいるという情報は入っていないということ",
+  "dateModified": "2026-02-22T22:43:18+09:00",
+  "datePublished": "2026-02-22T21:19:41+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260222/K10015058721_2602222146_0222224319_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260222/K10015058721_2602222146_0222224319_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002213",
+      "name": "東京都",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "22日夜、「東京スカイツリー」のエレベーターでトラブルがあり途中で停止し、20人ほどが閉じ込められた状態になっています。警視庁によりますとこれまでのところけが人がいるという情報は入っていないということ",
+  "articleBody": "22日夜、「東京スカイツリー」のエレベーターでトラブルがあり途中で停止し、20人ほどが閉じ込められた状態になっています。警視庁によりますとこれまでのところけが人がいるという情報は入っていないということです。\n\n\n警視庁や東京消防庁によりますと22日午後8時半前、東京・墨田区にある「東京スカイツリー」のエレベーターでトラブルがあり、地上から30メートルほどの高さのところで停止したと通報がありました。\n\nエレベーターの中には20人ほどが乗っていて、午後10時の時点で閉じ込められた状態が続いているということです。\n\n警視庁によりますと、近づいた警察官が乗客と直接話をしていて、これまでのところけがをした人がいるという情報は入っていないということです。\n\n東京スカイツリーの広報によりますと、エレベーターは展望台から降りてくる途中に停止したということで、救助や復旧に向けた作業を進めています。\n",
+  "detailedArticleBody": {
+    "markedLead": "22日夜、「東京スカイツリー」のエレベーターでトラブルがあり途中で停止し、20人ほどが閉じ込められた状態になっています。警視庁によりますとこれまでのところけが人がいるという情報は入っていないということです。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20260222/K10015058721_2602222046_0222211942_02_01.jpg)\n\n警視庁や東京消防庁によりますと22日午後8時半前、東京・墨田区にある「東京スカイツリー」のエレベーターでトラブルがあり、地上から30メートルほどの高さのところで停止したと通報がありました。\n\nエレベーターの中には20人ほどが乗っていて、午後10時の時点で閉じ込められた状態が続いているということです。\n\n警視庁によりますと、近づいた警察官が乗客と直接話をしていて、これまでのところけがをした人がいるという情報は入っていないということです。\n\n東京スカイツリーの広報によりますと、エレベーターは展望台から降りてくる途中に停止したということで、救助や復旧に向けた作業を進めています。\n",
+    "trimmedLead": "22日夜、「東京スカイツリー」のエレベーターでトラブルがあり途中で停止し、20人ほどが閉じ込められた状態になっています。警視庁によりますとこれまでのところけが人がいるという情報は入っていないということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015058721000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015058721000",
+  "video": [],
+  "citation": [
+    {
+      "name": "22日は「春一番」や夏日も 23日にかけ大気の状態非常に不安定",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015058531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260222/K10015058531_2602221924_0222200702_01_03.jpg",
+      "datePublished": "2026-02-22T21:45:08+09:00"
+    },
+    {
+      "name": "岡山「裸祭り」男性3人意識なし 主催者“参加者なだれ起こす”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015058351000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260222/K10015058351_2602220541_0222054334_01_02.jpg",
+      "datePublished": "2026-02-22T18:33:30+09:00"
+    },
+    {
+      "name": "ミラノ・コルティナオリンピック 閉会式へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015058661000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260222/K10015058661_2602221858_0222191453_01_02.jpg",
+      "datePublished": "2026-02-22T19:14:53+09:00"
+    },
+    {
+      "name": "「国民会議」“今週にも設置” 消費税の減税など議論へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015058551000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260222/K10015058551_2602221635_0222193254_01_03.jpg",
+      "datePublished": "2026-02-22T19:32:53+09:00"
+    },
+    {
+      "name": "トランプ大統領 “10％の新たな関税 税率を15％に引き上げる”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015058381000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260222/K10015058381_2602220209_0222120957_01_03.jpg",
+      "datePublished": "2026-02-22T15:40:58+09:00"
+    },
+    {
+      "name": "“新お家芸”スノーボード メダリスト帰国 【ノーカット動画】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015058491000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260222/K10015058491_2602221133_0222142152_01_02.jpg",
+      "datePublished": "2026-02-22T18:44:30+09:00"
+    },
+    {
+      "name": "フィギュアスケート エキシビション 選手たちが観客魅了 五輪",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015058421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260222/K10015058421_2602220715_0222080919_01_02.jpg",
+      "datePublished": "2026-02-22T10:32:54+09:00"
+    },
+    {
+      "name": "千葉 住宅火災 3人の遺体見つかる 小学生2人と祖母連絡取れず",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015058441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260222/K10015058441_2602220729_0222073142_01_02.jpg",
+      "datePublished": "2026-02-22T16:27:32+09:00"
+    },
+    {
+      "name": "島根 「竹島の日」式典 問題の早期解決に向けた特別決議を採択",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015058621000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260222/K10015058621_2602221806_0222180957_01_03.jpg",
+      "datePublished": "2026-02-22T18:09:56+09:00"
+    },
+    {
+      "name": "大阪マラソン 平林清澄 日本選手トップ5位 5人がMGC出場権獲得",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015058521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260222/K10015058521_2602221140_0222114825_01_02.jpg",
+      "datePublished": "2026-02-22T16:17:31+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

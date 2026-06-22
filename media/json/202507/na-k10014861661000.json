@@ -1,0 +1,101 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014861661000",
+  "dataSourceId": "na",
+  "name": "埼玉 戸田 ごみ処理施設で火災 消火活動続く",
+  "headline": "埼玉 戸田 ごみ処理施設で火災 消火活動続く",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014861661000",
+    "playlistId": "news-nwa-society-nationwide-20250712",
+    "newsarticleName": "埼玉 戸田 ごみ処理施設で火災 消火活動続く",
+    "playlistName": "7月12日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "12日、埼玉県戸田市にあるごみの処理施設で火災が発生し、現在も消火活動が続いています。\n\n\n12日正午すぎ、埼玉県戸田市のごみ処理施設「蕨戸田衛生センター組合」から「煙が充満している」と消防に通報があ",
+  "dateModified": "2025-07-12T19:20:54+09:00",
+  "datePublished": "2025-07-12T19:20:54+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250712/K10014861661_2507121847_0712192056_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250712/K10014861661_2507121847_0712192056_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "12日、埼玉県戸田市にあるごみの処理施設で火災が発生し、現在も消火活動が続いています。\n\n\n12日正午すぎ、埼玉県戸田市のごみ処理施設「蕨戸田衛生センター組合」から「煙が充満している」と消防に通報があ",
+  "articleBody": "12日、埼玉県戸田市にあるごみの処理施設で火災が発生し、現在も消火活動が続いています。\n\n\n12日正午すぎ、埼玉県戸田市のごみ処理施設「蕨戸田衛生センター組合」から「煙が充満している」と消防に通報がありました。\n\n消防や警察によりますと、地下1階にある砕いた粗大ゴミを運ぶ機械の近くから火が出たとみられていますが、詳しい状況は分かっていないということです。\n\n施設の屋上付近などからは一時、黒っぽい煙が上がり、現在も消火活動が続けられています。\n\nこれまでに、けがをした人や逃げ遅れた人はいないということです。\n\n現場はJR武蔵浦和駅から南に1.5キロほど離れた住宅や工場がある地域です。\n",
+  "detailedArticleBody": {
+    "markedLead": "12日、埼玉県戸田市にあるごみの処理施設で火災が発生し、現在も消火活動が続いています。\n",
+    "markedBody": "12日正午すぎ、埼玉県戸田市のごみ処理施設「蕨戸田衛生センター組合」から「煙が充満している」と消防に通報がありました。\n\n消防や警察によりますと、地下1階にある砕いた粗大ゴミを運ぶ機械の近くから火が出たとみられていますが、詳しい状況は分かっていないということです。\n\n施設の屋上付近などからは一時、黒っぽい煙が上がり、現在も消火活動が続けられています。\n\nこれまでに、けがをした人や逃げ遅れた人はいないということです。\n\n現場はJR武蔵浦和駅から南に1.5キロほど離れた住宅や工場がある地域です。\n",
+    "trimmedLead": "12日、埼玉県戸田市にあるごみの処理施設で火災が発生し、現在も消火活動が続いています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014861661000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014861661000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "埼玉 戸田 ごみ処理施設で火災 消火活動続く",
+      "description": "12日、埼玉県戸田市にあるごみの処理施設で火災が発生し、現在も消火活動が続いています。\n\n\n12日正午すぎ、埼玉県戸田市のごみ処理施設「蕨戸田衛生センター組合」から「煙が充満している」と消防に通報があ",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10014861661_202507121853_202507121854/index.m3u8&mrposter=/news/html/20250712/K10014861661_2507121847_0712192056_01_03.jpg",
+      "duration": "PT52S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10014861661_202507121853_202507121854/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20250712/K10014861661_2507121847_0712192056_01_03.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

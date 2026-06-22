@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014857221000",
+  "dataSourceId": "na",
+  "name": "株価 小幅に値上がり 25％関税めぐり交渉余地あるとの見方から",
+  "headline": "株価 小幅に値上がり 25％関税めぐり交渉余地あるとの見方から",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014857221000",
+    "playlistId": "news-nwa-business-nationwide-20250708",
+    "newsarticleName": "株価 小幅に値上がり 25％関税めぐり交渉余地あるとの見方から",
+    "playlistName": "7月8日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "8日の東京株式市場、アメリカのトランプ大統領が日本からの輸入品に対して来月1日から25％の関税を課すと発表したことをめぐり、引き続き交渉の余地があるという見方から、株価は小幅に値上がりしました。\n\n\n",
+  "dateModified": "2025-07-08T16:12:58+09:00",
+  "datePublished": "2025-07-08T16:12:58+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250708/K10014857221_2507081550_0708161259_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250708/K10014857221_2507081550_0708161259_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "8日の東京株式市場、アメリカのトランプ大統領が日本からの輸入品に対して来月1日から25％の関税を課すと発表したことをめぐり、引き続き交渉の余地があるという見方から、株価は小幅に値上がりしました。\n\n\n",
+  "articleBody": "8日の東京株式市場、アメリカのトランプ大統領が日本からの輸入品に対して来月1日から25％の関税を課すと発表したことをめぐり、引き続き交渉の余地があるという見方から、株価は小幅に値上がりしました。\n\n\n日経平均株価、8日の終値は7日より101円13銭高い3万9688円81銭。\n\n▽東証株価指数＝トピックスは4.82上がって2816.54。\n\n▽1日の出来高は20億751万株でした。\n\n市場関係者は「市場ではアメリカの関税措置で日本経済が下振れするリスクが引き続き懸念されている。一方で、来月1日の発動日まで交渉の余地が残っているという見方もあり、株価は小幅に値上がりした」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "8日の東京株式市場、アメリカのトランプ大統領が日本からの輸入品に対して来月1日から25％の関税を課すと発表したことをめぐり、引き続き交渉の余地があるという見方から、株価は小幅に値上がりしました。\n",
+    "markedBody": "日経平均株価、8日の終値は7日より101円13銭高い3万9688円81銭。\n\n▽東証株価指数＝トピックスは4.82上がって2816.54。\n\n▽1日の出来高は20億751万株でした。\n\n市場関係者は「市場ではアメリカの関税措置で日本経済が下振れするリスクが引き続き懸念されている。一方で、来月1日の発動日まで交渉の余地が残っているという見方もあり、株価は小幅に値上がりした」と話しています。\n",
+    "trimmedLead": "8日の東京株式市場、アメリカのトランプ大統領が日本からの輸入品に対して来月1日から25％の関税を課すと発表したことをめぐり、引き続き交渉の余地があるという見方から、株価は小幅に値上がりしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014857221000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014857221000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

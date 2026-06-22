@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015001561000",
+  "dataSourceId": "na",
+  "name": "タイ国籍少女の母親 収容先の台湾から今月中にタイ移送見通し",
+  "headline": "タイ国籍少女の母親 収容先の台湾から今月中にタイ移送見通し",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015001561000",
+    "playlistId": "news-nwa-international-nationwide-20251211",
+    "newsarticleName": "タイ国籍少女の母親 収容先の台湾から今月中にタイ移送見通し",
+    "playlistName": "12月11日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "母親に置き去りにされた当時12歳のタイ国籍の少女に都内の店で性的なサービスをさせていたとして店の経営者が逮捕された事件で、台湾で収容されている少女の母親について台湾の警察は日本側から特段の要請がなけれ",
+  "dateModified": "2025-12-11T23:27:01+09:00",
+  "datePublished": "2025-12-11T23:27:01+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251211/K10015001561_2512112323_1211232702_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251211/K10015001561_2512112323_1211232702_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際",
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "母親に置き去りにされた当時12歳のタイ国籍の少女に都内の店で性的なサービスをさせていたとして店の経営者が逮捕された事件で、台湾で収容されている少女の母親について台湾の警察は日本側から特段の要請がなけれ",
+  "articleBody": "母親に置き去りにされた当時12歳のタイ国籍の少女に都内の店で性的なサービスをさせていたとして店の経営者が逮捕された事件で、台湾で収容されている少女の母親について台湾の警察は日本側から特段の要請がなければ今月中にタイに移送することになるとの見方を示しました。\n\n\n東京 文京区の「個室マッサージ店」と称する店で当時12歳のタイ国籍の少女を雇って客に性的なサービスをさせていたとして先月、店の経営者が逮捕された事件では、少女を店に置き去りにし経営者に引き渡したとして警視庁が児童福祉法違反の疑いで母親の逮捕状を取って捜査を進めています。\n\n母親はことし9月に台湾に渡り、その後、出入境管理を担当する移民署に収容されていることが明らかになっていますが、移民署によりますと母親はビザなしで滞在できる期間を過ぎているということです。\n\nこのため台湾の警察は11日、NHKの取材に対し、日本側から特段の要請がなければ手続きに従って今月中に母親の母国であるタイに移送することになるとの見方を示しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "母親に置き去りにされた当時12歳のタイ国籍の少女に都内の店で性的なサービスをさせていたとして店の経営者が逮捕された事件で、台湾で収容されている少女の母親について台湾の警察は日本側から特段の要請がなければ今月中にタイに移送することになるとの見方を示しました。\n",
+    "markedBody": "東京 文京区の「個室マッサージ店」と称する店で当時12歳のタイ国籍の少女を雇って客に性的なサービスをさせていたとして先月、店の経営者が逮捕された事件では、少女を店に置き去りにし経営者に引き渡したとして警視庁が児童福祉法違反の疑いで母親の逮捕状を取って捜査を進めています。\n\n母親はことし9月に台湾に渡り、その後、出入境管理を担当する移民署に収容されていることが明らかになっていますが、移民署によりますと母親はビザなしで滞在できる期間を過ぎているということです。\n\nこのため台湾の警察は11日、NHKの取材に対し、日本側から特段の要請がなければ手続きに従って今月中に母親の母国であるタイに移送することになるとの見方を示しました。\n",
+    "trimmedLead": "母親に置き去りにされた当時12歳のタイ国籍の少女に都内の店で性的なサービスをさせていたとして店の経営者が逮捕された事件で、台湾で収容されている少女の母親について台湾の警察は日本側から特段の要請がなければ今月中にタイに移送することになるとの見方を示しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015001561000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015001561000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

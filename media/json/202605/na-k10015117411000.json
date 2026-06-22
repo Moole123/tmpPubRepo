@@ -1,0 +1,178 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015117411000",
+  "dataSourceId": "na",
+  "name": "ハンタウイルス 感染確認は6人に WHO",
+  "headline": "ハンタウイルス 感染確認は6人に WHO",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015117411000",
+    "playlistId": "news-nwa-international-nationwide-20260509",
+    "newsarticleName": "ハンタウイルス 感染確認は6人に WHO",
+    "playlistName": "5月9日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "クルーズ船で、ハンタウイルスの集団感染が疑われていることをめぐり、WHO＝世界保健機関は、感染者があわせて6人になったと明らかにしました。\n\n\nハンタウイルスの集団感染が疑われているクルーズ船は、スペ",
+  "dateModified": "2026-05-09T12:03:29+09:00",
+  "datePublished": "2026-05-09T12:03:29+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260509/K10015117411_2605091142_0509120329_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260509/K10015117411_2605091142_0509120329_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "0002807",
+      "name": "ハンタウイルス",
+      "display": true
+    },
+    {
+      "id": "0002340",
+      "name": "WHO",
+      "display": true
+    },
+    {
+      "id": "0000414",
+      "name": "医療・健康",
+      "display": true
+    },
+    {
+      "id": "0002499",
+      "name": "スペイン",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "クルーズ船で、ハンタウイルスの集団感染が疑われていることをめぐり、WHO＝世界保健機関は、感染者があわせて6人になったと明らかにしました。\n\n\nハンタウイルスの集団感染が疑われているクルーズ船は、スペ",
+  "articleBody": "クルーズ船で、ハンタウイルスの集団感染が疑われていることをめぐり、WHO＝世界保健機関は、感染者があわせて6人になったと明らかにしました。\n\n\nハンタウイルスの集団感染が疑われているクルーズ船は、スペイン領カナリア諸島に向かっていて、今月10日に到着する見通しです。\n\nWHOは8日、乗客、乗員、あわせておよそ150人のうち、感染が確認された人が6人になったと明らかにしました。\n\nさらに2人が感染の疑いがあるとしています。\n\n感染が確認された人と疑いのある人、あわせて8人のうち、3人が死亡しています。\n\nAFP通信によりますと、WHOのテドロス事務局長は9日、カナリア諸島に到着する予定で、現地で支援にあたるということです。\n\n今回、確認されたハンタウイルスの1つ、アンデスウイルスは感染から発症までの潜伏期間が最大で6週間程度あることからWHOは、今後も感染の確認は増える可能性はあるものの、公衆衛生上のリスクは低いと呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "クルーズ船で、ハンタウイルスの集団感染が疑われていることをめぐり、WHO＝世界保健機関は、感染者があわせて6人になったと明らかにしました。\n",
+    "markedBody": "ハンタウイルスの集団感染が疑われているクルーズ船は、スペイン領カナリア諸島に向かっていて、今月10日に到着する見通しです。\n\nWHOは8日、乗客、乗員、あわせておよそ150人のうち、感染が確認された人が6人になったと明らかにしました。\n\nさらに2人が感染の疑いがあるとしています。\n\n感染が確認された人と疑いのある人、あわせて8人のうち、3人が死亡しています。\n\nAFP通信によりますと、WHOのテドロス事務局長は9日、カナリア諸島に到着する予定で、現地で支援にあたるということです。\n\n今回、確認されたハンタウイルスの1つ、アンデスウイルスは感染から発症までの潜伏期間が最大で6週間程度あることからWHOは、今後も感染の確認は増える可能性はあるものの、公衆衛生上のリスクは低いと呼びかけています。\n",
+    "trimmedLead": "クルーズ船で、ハンタウイルスの集団感染が疑われていることをめぐり、WHO＝世界保健機関は、感染者があわせて6人になったと明らかにしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015117411000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015117411000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "ハンタウイルス 感染確認は6人に WHO",
+      "description": "クルーズ船で、ハンタウイルスの集団感染が疑われていることをめぐり、WHO＝世界保健機関は、感染者があわせて6人になったと明らかにしました。\n\n\nハンタウイルスの集団感染が疑われているクルーズ船は、スペ",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015117411_202605091208_202605091209/index.m3u8&mrposter=/news/html/20260509/K10015117411_2605091142_0509120329_01_02.jpg",
+      "duration": "PT1M37S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015117411_202605091208_202605091209/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260509/K10015117411_2605091142_0509120329_01_02.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "ハンタウイルスとは どんな症状が？拡大リスクは？【Q＆A】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015116901000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260509/K10015116901_2605081820_0509103418_01_02.jpg",
+      "datePublished": "2026-05-09T10:34:17+09:00"
+    },
+    {
+      "name": "ハンタウイルス 根拠なく不安あおるような投稿拡散 注意を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015116871000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260508/K10015116871_2605081929_0508194323_01_02.jpg",
+      "datePublished": "2026-05-08T19:43:23+09:00"
+    },
+    {
+      "name": "ハンタウイルス 下船した約30人の追跡調査を強化 WHO",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015117291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260509/K10015117291_2605090520_0509053710_01_02.jpg",
+      "datePublished": "2026-05-09T10:44:32+09:00"
+    },
+    {
+      "name": "ロシアとウクライナ 米提案で3日間停戦に合意 実現するか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015117301000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260509/K10015117301_2605090648_0509064822_01_02.jpg",
+      "datePublished": "2026-05-09T10:43:35+09:00"
+    },
+    {
+      "name": "トランプ大統領 戦闘終結提案へのイラン回答 “おそらく今夜”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015117231000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260508/K10015117231_2605091121_0509115601_01_02.jpg",
+      "datePublished": "2026-05-09T11:56:00+09:00"
+    },
+    {
+      "name": "磐越道 部活バス事故 運転手は数か月で複数回事故起こしたか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015117091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260509/K10015117091_2605082323_0509055653_01_02.jpg",
+      "datePublished": "2026-05-09T12:05:27+09:00"
+    },
+    {
+      "name": "高市首相 5月後半に韓国訪問し日韓首脳会談の方向で調整",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015117161000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260508/K10015117161_2605091020_0509102145_01_03.jpg",
+      "datePublished": "2026-05-08T22:35:01+09:00"
+    },
+    {
+      "name": "「検察庁を敵視は反社」検事の不適正な取り調べ その映像記録",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015116721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260508/K10015116721_2605081923_0508203136_01_02.jpg",
+      "datePublished": "2026-05-08T20:31:35+09:00"
+    },
+    {
+      "name": "悩みの相談相手など 利用広がる生成AI 注意点は【Q＆A】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015116201000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260508/K10015116201_2605080627_0508064446_01_03.jpg",
+      "datePublished": "2026-05-08T06:44:45+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

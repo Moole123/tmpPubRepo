@@ -1,0 +1,101 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014881791000",
+  "dataSourceId": "na",
+  "name": "福島第一原発 津波注意報受け停止していた処理水の放出再開",
+  "headline": "福島第一原発 津波注意報受け停止していた処理水の放出再開",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014881791000",
+    "playlistId": "news-nwa-society-nationwide-20250801",
+    "newsarticleName": "福島第一原発 津波注意報受け停止していた処理水の放出再開",
+    "playlistName": "8月1日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "東京電力は、ロシアのカムチャツカ半島付近で発生した巨大地震の影響で福島県の沿岸部に津波注意報が出されたことを受けて、7月30日から停止していた福島第一原子力発電所からの処理水の放出について、1日午前1",
+  "dateModified": "2025-08-01T16:40:45+09:00",
+  "datePublished": "2025-08-01T16:40:45+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250801/K10014881791_2508011500_0801160128_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250801/K10014881791_2508011500_0801160128_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "東京電力は、ロシアのカムチャツカ半島付近で発生した巨大地震の影響で福島県の沿岸部に津波注意報が出されたことを受けて、7月30日から停止していた福島第一原子力発電所からの処理水の放出について、1日午前1",
+  "articleBody": "東京電力は、ロシアのカムチャツカ半島付近で発生した巨大地震の影響で福島県の沿岸部に津波注意報が出されたことを受けて、7月30日から停止していた福島第一原子力発電所からの処理水の放出について、1日午前11時ごろに再開したと発表しました。\n\n\n福島第一原発にたまるトリチウムなどの放射性物質を含む処理水について東京電力は、おととし8月から政府の方針に従って基準を下回る濃度に薄めたうえで海への放出を行っています。\n\n7月14日からは13回目となる放出を行っていましたが、7月30日、ロシアのカムチャツカ半島付近で発生した巨大地震の影響で、福島県の沿岸部に津波注意報が発表されたことを受け、午前9時すぎに手動で停止させました。\n\n東京電力によりますと、7月31日午後4時半に福島県の沿岸部の津波注意報が解除され、1日朝、設備を点検したところ異常がなかったことが確認されたため、1日午前10時59分に放出を再開したということです。\n\n今回の処理水の放出は、当初の予定では1日中に終わる予定でしたが、放出の一時的な停止に伴い、3日の昼ごろまでかかる見込みだということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "東京電力は、ロシアのカムチャツカ半島付近で発生した巨大地震の影響で福島県の沿岸部に津波注意報が出されたことを受けて、7月30日から停止していた福島第一原子力発電所からの処理水の放出について、1日午前11時ごろに再開したと発表しました。\n",
+    "markedBody": "福島第一原発にたまるトリチウムなどの放射性物質を含む処理水について東京電力は、おととし8月から政府の方針に従って基準を下回る濃度に薄めたうえで海への放出を行っています。\n\n7月14日からは13回目となる放出を行っていましたが、7月30日、ロシアのカムチャツカ半島付近で発生した巨大地震の影響で、福島県の沿岸部に津波注意報が発表されたことを受け、午前9時すぎに手動で停止させました。\n\n東京電力によりますと、7月31日午後4時半に福島県の沿岸部の津波注意報が解除され、1日朝、設備を点検したところ異常がなかったことが確認されたため、1日午前10時59分に放出を再開したということです。\n\n今回の処理水の放出は、当初の予定では1日中に終わる予定でしたが、放出の一時的な停止に伴い、3日の昼ごろまでかかる見込みだということです。\n",
+    "trimmedLead": "東京電力は、ロシアのカムチャツカ半島付近で発生した巨大地震の影響で福島県の沿岸部に津波注意報が出されたことを受けて、7月30日から停止していた福島第一原子力発電所からの処理水の放出について、1日午前11時ごろに再開したと発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014881791000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014881791000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "福島第一原発 津波注意報受け停止していた処理水の放出再開",
+      "description": "東京電力は、ロシアのカムチャツカ半島付近で発生した巨大地震の影響で福島県の沿岸部に津波注意報が出されたことを受けて、7月30日から停止していた福島第一原子力発電所からの処理水の放出について、1日午前1",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10014881791_202508011715_202508011715/index.m3u8&mrposter=/news/html/20250801/K10014881791_2508011500_0801160128_01_02.jpg",
+      "duration": "PT38S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10014881791_202508011715_202508011715/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20250801/K10014881791_2508011500_0801160128_01_02.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

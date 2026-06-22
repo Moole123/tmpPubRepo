@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014907571000",
+  "dataSourceId": "na",
+  "name": "コメ平均価格 5キロあたり税込み3499円 前の週より80円下落",
+  "headline": "コメ平均価格 5キロあたり税込み3499円 前の週より80円下落",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014907571000",
+    "playlistId": "news-nwa-business-nationwide-20250829",
+    "newsarticleName": "コメ平均価格 5キロあたり税込み3499円 前の週より80円下落",
+    "playlistName": "8月29日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "全国およそ6000の店舗で今月24日までの1週間に販売されたコメの平均価格は5キロあたり税込みで3499円となり、前の週より80円下落しました。価格の下落は2週ぶりです。\n\n\n農林水産省は、随意契約の",
+  "dateModified": "2025-08-29T19:53:37+09:00",
+  "datePublished": "2025-08-29T18:30:14+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250829/K10014907571_2508291827_0829182725_02_01.jpg",
+      "height": 359,
+      "width": 639
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250829/K10014907571_2508291827_0829182725_01_02.jpg",
+      "height": 359,
+      "width": 639
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "全国およそ6000の店舗で今月24日までの1週間に販売されたコメの平均価格は5キロあたり税込みで3499円となり、前の週より80円下落しました。価格の下落は2週ぶりです。\n\n\n農林水産省は、随意契約の",
+  "articleBody": "全国およそ6000の店舗で今月24日までの1週間に販売されたコメの平均価格は5キロあたり税込みで3499円となり、前の週より80円下落しました。価格の下落は2週ぶりです。\n\n\n農林水産省は、随意契約の備蓄米によるコメ価格への影響などをより正確に示したいとして、6月から全国のスーパーなどおよそ6000店舗を対象にした民間のデータを公表しています。\n\nそれによりますと、今月24日までの1週間に販売されたコメの平均価格は、5キロあたり税込みで3499円と、前の週より80円下落しました。\n\n価格の下落は2週ぶりです。\n\n農林水産省は、割安な随意契約による備蓄米の販売が堅調だったことが一因ではないかとしています。\n\n地域ごとにみると、▽「北陸」が4268円とこのデータの集計を始めたことし2月以降でもっとも高くなった一方、▽「九州・沖縄」が2980円、▽「関東・首都圏」が3471円ともっとも安くなり、地域ごとの価格差が目立っています。\n",
+  "detailedArticleBody": {
+    "markedLead": "全国およそ6000の店舗で今月24日までの1週間に販売されたコメの平均価格は5キロあたり税込みで3499円となり、前の週より80円下落しました。価格の下落は2週ぶりです。\n",
+    "markedBody": "農林水産省は、随意契約の備蓄米によるコメ価格への影響などをより正確に示したいとして、6月から全国のスーパーなどおよそ6000店舗を対象にした民間のデータを公表しています。\n\nそれによりますと、今月24日までの1週間に販売されたコメの平均価格は、5キロあたり税込みで3499円と、前の週より80円下落しました。\n\n価格の下落は2週ぶりです。\n\n農林水産省は、割安な随意契約による備蓄米の販売が堅調だったことが一因ではないかとしています。\n\n地域ごとにみると、▽「北陸」が4268円とこのデータの集計を始めたことし2月以降でもっとも高くなった一方、▽「九州・沖縄」が2980円、▽「関東・首都圏」が3471円ともっとも安くなり、地域ごとの価格差が目立っています。\n",
+    "trimmedLead": "全国およそ6000の店舗で今月24日までの1週間に販売されたコメの平均価格は5キロあたり税込みで3499円となり、前の週より80円下落しました。価格の下落は2週ぶりです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014907571000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014907571000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

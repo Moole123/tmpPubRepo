@@ -1,0 +1,168 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015112731000",
+  "dataSourceId": "na",
+  "name": "桜と伝える震災の記憶 岩手 陸前高田",
+  "headline": "桜と伝える震災の記憶 岩手 陸前高田",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015112731000",
+    "playlistId": "news-nwa-life-nationwide-20260501",
+    "newsarticleName": "桜と伝える震災の記憶 岩手 陸前高田",
+    "playlistName": "5月1日の暮らしニュース",
+    "genreId": "life",
+    "genreIdSlug": "life"
+  },
+  "description": "東日本大震災で大きな被害を受けた岩手県陸前高田市では、津波の教訓を伝えるため、地域の人たちが津波の到達した範囲に沿って桜を植える活動を行っています。\n\n津波が来たときは桜を目印に避難をしてほしいと、1",
+  "dateModified": "2026-05-01T20:16:01+09:00",
+  "datePublished": "2026-05-01T20:16:01+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260501/K10015112731_2605011959_0501201602_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260501/K10015112731_2605011959_0501201602_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "暮らし",
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002203",
+      "name": "岩手県",
+      "display": true
+    },
+    {
+      "id": "0002201",
+      "name": "北海道",
+      "display": true
+    },
+    {
+      "id": "0002207",
+      "name": "福島県",
+      "display": true
+    },
+    {
+      "id": "0000019",
+      "name": "東日本大震災",
+      "display": true
+    },
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0002621",
+      "name": "津波",
+      "display": true
+    },
+    {
+      "id": "0001453",
+      "name": "福島第一原発",
+      "display": true
+    },
+    {
+      "id": "0000021",
+      "name": "原発",
+      "display": true
+    },
+    {
+      "id": "0000766",
+      "name": "桜情報",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "東日本大震災で大きな被害を受けた岩手県陸前高田市では、津波の教訓を伝えるため、地域の人たちが津波の到達した範囲に沿って桜を植える活動を行っています。\n\n津波が来たときは桜を目印に避難をしてほしいと、1",
+  "articleBody": "東日本大震災で大きな被害を受けた岩手県陸前高田市では、津波の教訓を伝えるため、地域の人たちが津波の到達した範囲に沿って桜を植える活動を行っています。\n\n津波が来たときは桜を目印に避難をしてほしいと、15年前から植え続けています。\n\nこの桜とともに、震災の記憶や教訓を伝えようと活動する女性を取材しました。\n\n\n桜植樹マップ\n\nこれまでに桜を植樹した場所と津波の到達範囲を地図に重ねて見ることができます。\n（2026年4月時点のデータです）\n\n北海道 南幌町 ふるさとをしのぶ桜\n\n北海道南幌町には、特別な思いを込めて植えられた1本のソメイヨシノがあります。\n\n東日本大震災と東京電力福島第一原子力発電所の事故によって北海道に避難した男性が、自宅の庭に植えたものです。\n\nその桜には、ふるさとを思い慕う気持ちが込められています。\n",
+  "detailedArticleBody": {
+    "markedLead": "東日本大震災で大きな被害を受けた岩手県陸前高田市では、津波の教訓を伝えるため、地域の人たちが津波の到達した範囲に沿って桜を植える活動を行っています。\n\n津波が来たときは桜を目印に避難をしてほしいと、15年前から植え続けています。\n\nこの桜とともに、震災の記憶や教訓を伝えようと活動する女性を取材しました。\n",
+    "markedBody": ":::nw--colored {style=background-color:#fee5e5}\n### 桜植樹マップ\n\nこれまでに桜を植樹した場所と津波の到達範囲を地図に重ねて見ることができます。\\\n（2026年4月時点のデータです）\n:::\n\n```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"002\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\r\n  <div class=\"fs-wrap\">\r\n    <div class=\"ifmap\">\r\n      <iframe id=\"map1\" title=\"map1\" scrolling=\"no\" allowfullscreen=\"\" src=\"https://news.web.nhk/data-map/20260423/morioka-sakuramap/?embed=true\"></iframe>\r\n    </div>\r\n  </div>\r\n  <style>\r\n    .ifmap {\r\n      max-width: 600px;\r\n      width: 100%;\r\n      margin: 0 auto;\r\n      height: 0;\r\n      position: relative;\r\n    }\r\n    .ifmap iframe {\r\n      position: absolute;\r\n      top: 0;\r\n      left: 0;\r\n      width: 100%;\r\n      height: 100%;\r\n      min-height: 501px;\r\n      border: 1px solid #ccc;\r\n    }\r\n    /* ↓ PC用CSS */\r\n    @media print, screen and (min-width: 601px) {\r\n      .ifmap {\r\n        padding-top: 106.25%; /* iframe枠の高さ調節 */\r\n      }\r\n    }\r\n    /* ↓ SP用CSS */\r\n    @media only screen and (max-width: 600px) {\r\n      .ifmap {\r\n        padding-top: 150.25%; /* iframe枠の高さ調節 */\r\n      }\r\n    }\r\n  </style>\n</div>\n```\n\n----\n\n### 北海道 南幌町 ふるさとをしのぶ桜\n\n```raw-html\n<figure class=\"nw--video\">\n<iframe loading=\"lazy\" data-video-id=\"k10015112731_202605011746_202605011809\" src=\"https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015112731_202605011746_202605011809/index.m3u8&amp;mrposter=/news/html/20260501/K10015112731_2605011746_0501201602_02_05.jpg\" allowfullscreen></iframe>\n</figure>\n```\n\n北海道南幌町には、特別な思いを込めて植えられた1本のソメイヨシノがあります。\n\n東日本大震災と東京電力福島第一原子力発電所の事故によって北海道に避難した男性が、自宅の庭に植えたものです。\n\nその桜には、ふるさとを思い慕う気持ちが込められています。\n",
+    "noHtmlMarkedLead": "東日本大震災で大きな被害を受けた岩手県陸前高田市では、津波の教訓を伝えるため、地域の人たちが津波の到達した範囲に沿って桜を植える活動を行っています。\n\n津波が来たときは桜を目印に避難をしてほしいと、15年前から植え続けています。\n\nこの桜とともに、震災の記憶や教訓を伝えようと活動する女性を取材しました。\n",
+    "noHtmlMarkedBody": ":::nw--colored {style=background-color:#fee5e5}\n### 桜植樹マップ\n\nこれまでに桜を植樹した場所と津波の到達範囲を地図に重ねて見ることができます。\\\n（2026年4月時点のデータです）\n:::\n\n***\n\n### 北海道 南幌町 ふるさとをしのぶ桜\n\n北海道南幌町には、特別な思いを込めて植えられた1本のソメイヨシノがあります。\n\n東日本大震災と東京電力福島第一原子力発電所の事故によって北海道に避難した男性が、自宅の庭に植えたものです。\n\nその桜には、ふるさとを思い慕う気持ちが込められています。\n",
+    "trimmedLead": "東日本大震災で大きな被害を受けた岩手県陸前高田市では、津波の教訓を伝えるため、地域の人たちが津波の到達した範囲に沿って桜を植える活動を行っています。\n\n津波が来たときは桜を目印に避難をしてほしいと、15年前から植え続けています。\n\nこの桜とともに、震災の記憶や教訓を伝えようと活動する女性を取材しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015112731000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015112731000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "桜と伝える震災の記憶 岩手 陸前高田",
+      "description": "東日本大震災で大きな被害を受けた岩手県陸前高田市では、津波の教訓を伝えるため、地域の人たちが津波の到達した範囲に沿って桜を植える活動を行っています。\n\n津波が来たときは桜を目印に避難をしてほしいと、1",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015112731_202605011932_202605011932/index.m3u8&mrposter=/news/html/20260501/K10015112731_2605011959_0501201602_01_03.jpg",
+      "duration": "PT5M20S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015112731_202605011932_202605011932/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260501/K10015112731_2605011959_0501201602_01_03.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "桜2026 全国の桜の映像をマップで",
+      "url": "https://news.web.nhk/newsweb/sp/pl/editorial-nwa-0000000365",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31072631.jpg"
+    },
+    {
+      "name": "北海道 伊達 “花の寺” 桜満開",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109111000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015109111_2605011054_0501140008_01_03.jpg",
+      "datePublished": "2026-05-01T14:00:07+09:00"
+    },
+    {
+      "name": "ウクライナ キーウ 桜でつながる人々の思い",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015110311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260428/K10015110311_2604281654_0428180939_01_03.jpg",
+      "datePublished": "2026-04-28T18:09:38+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": true
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015090771000",
+  "dataSourceId": "na",
+  "name": "衆院議運 選挙制度改革検討の協議会 改めて設置申し入れを確認",
+  "headline": "衆院議運 選挙制度改革検討の協議会 改めて設置申し入れを確認",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015090771000",
+    "playlistId": "news-nwa-politics-nationwide-20260402",
+    "newsarticleName": "衆院議運 選挙制度改革検討の協議会 改めて設置申し入れを確認",
+    "playlistName": "4月2日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "衆議院議院運営委員会は、選挙制度の抜本的な改革を検討するため、すべての会派が参加する協議会を改めて設置するよう森議長に申し入れることを確認しました。協議会では、衆議院議員の定数削減についても議論が行わ",
+  "dateModified": "2026-04-02T17:39:15+09:00",
+  "datePublished": "2026-04-02T17:39:15+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260402/K10015090771_2604021547_0402173916_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260402/K10015090771_2604021547_0402173916_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0000304",
+      "name": "選挙",
+      "display": true
+    },
+    {
+      "id": "0002582",
+      "name": "衆議院選挙",
+      "display": true
+    },
+    {
+      "id": "0002393",
+      "name": "衆議院",
+      "display": true
+    },
+    {
+      "id": "0002392",
+      "name": "国会",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "衆議院議院運営委員会は、選挙制度の抜本的な改革を検討するため、すべての会派が参加する協議会を改めて設置するよう森議長に申し入れることを確認しました。協議会では、衆議院議員の定数削減についても議論が行わ",
+  "articleBody": "衆議院議院運営委員会は、選挙制度の抜本的な改革を検討するため、すべての会派が参加する協議会を改めて設置するよう森議長に申し入れることを確認しました。協議会では、衆議院議員の定数削減についても議論が行われるものとみられます。\n\n\n選挙制度の抜本的な改革を検討する衆議院の選挙制度協議会は、おととし衆議院議長のもとに設置され、すべての会派が参加して協議を重ねてきました。\n\n衆議院議院運営委員会は、2日の理事会で、ことし2月の衆議院選挙の結果を踏まえ、改めて協議会を設置するよう3日、森議長に申し入れを行うことを確認しました。\n\n選挙制度改革をめぐっては、自民・維新両党が、衆議院議員の定数削減に向けた法案を今の国会に提出したいとしていて協議会では、こうしたテーマについても議論が行われるものとみられます。\n",
+  "detailedArticleBody": {
+    "markedLead": "衆議院議院運営委員会は、選挙制度の抜本的な改革を検討するため、すべての会派が参加する協議会を改めて設置するよう森議長に申し入れることを確認しました。協議会では、衆議院議員の定数削減についても議論が行われるものとみられます。\n",
+    "markedBody": "選挙制度の抜本的な改革を検討する衆議院の選挙制度協議会は、おととし衆議院議長のもとに設置され、すべての会派が参加して協議を重ねてきました。\n\n衆議院議院運営委員会は、2日の理事会で、ことし2月の衆議院選挙の結果を踏まえ、改めて協議会を設置するよう3日、森議長に申し入れを行うことを確認しました。\n\n選挙制度改革をめぐっては、自民・維新両党が、衆議院議員の定数削減に向けた法案を今の国会に提出したいとしていて協議会では、こうしたテーマについても議論が行われるものとみられます。\n",
+    "trimmedLead": "衆議院議院運営委員会は、選挙制度の抜本的な改革を検討するため、すべての会派が参加する協議会を改めて設置するよう森議長に申し入れることを確認しました。協議会では、衆議院議員の定数削減についても議論が行われるものとみられます。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015090771000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015090771000",
+  "video": [],
+  "citation": [
+    {
+      "name": "【演説詳細】トランプ大統領 “今後2～3週間 激しい攻撃行う”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015090401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260402/K10015090401_2604021214_0402121605_01_02.jpg",
+      "datePublished": "2026-04-02T17:36:03+09:00"
+    },
+    {
+      "name": "株価 トランプ大統領の演説受けて一時1400円以上値下がり",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015090511000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260402/K10015090511_2604021534_0402164401_01_02.jpg",
+      "datePublished": "2026-04-02T16:44:00+09:00"
+    },
+    {
+      "name": "インドネシア付近 M7.4地震 日本は多少潮位変化も被害心配なし",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015090441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260402/K10015090441_2604020947_0402101621_01_02.jpg",
+      "datePublished": "2026-04-02T10:16:21+09:00"
+    },
+    {
+      "name": "「アルテミス計画」打ち上げ成功 人類 約半世紀ぶり月へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015090331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260402/K10015090331_2604021447_0402170945_01_03.jpg",
+      "datePublished": "2026-04-02T17:09:44+09:00"
+    },
+    {
+      "name": "給付付き税額控除試算 平均年収下回る子育て世帯で負担率高く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015090151000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260401/K10015090151_2604012030_0401211537_01_02.jpg",
+      "datePublished": "2026-04-01T21:15:37+09:00"
+    },
+    {
+      "name": "全日空と日本航空 燃油サーチャージ 6月発券分から最大約2倍に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015089741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260401/K10015089741_2604011233_0401135253_01_03.jpg",
+      "datePublished": "2026-04-01T18:54:39+09:00"
+    },
+    {
+      "name": "片山財務相が代表の2つの政治団体 計200万円余支出を二重計上",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015090161000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260401/K10015090161_2604012051_0401210420_01_02.jpg",
+      "datePublished": "2026-04-01T21:04:19+09:00"
+    },
+    {
+      "name": "FIFA 最新男子世界ランキング 日本は18位 順位を1つ上げる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015090281000",
+      "thumbnailUrl": "https://news.web.nhk/news/r/html/20260402/K10015090281_2604012348_0402004233_01_02.jpg",
+      "datePublished": "2026-04-02T00:42:33+09:00"
+    },
+    {
+      "name": "中道 衆院選で落選し離党届出していた前議員3人の離党承認",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015089191000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260331/K10015089191_2603312123_0331222633_01_02.jpg",
+      "datePublished": "2026-03-31T22:26:32+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

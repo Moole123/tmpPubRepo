@@ -1,0 +1,144 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015135201000",
+  "dataSourceId": "na",
+  "name": "参政 神谷代表 自民 麻生副総裁から党運営のアドバイス受ける",
+  "headline": "参政 神谷代表 自民 麻生副総裁から党運営のアドバイス受ける",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015135201000",
+    "playlistId": "news-nwa-politics-nationwide-20260529",
+    "newsarticleName": "参政 神谷代表 自民 麻生副総裁から党運営のアドバイス受ける",
+    "playlistName": "5月29日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "参政党の神谷代表は自民党の麻生副総裁と会談しました。来年春の統一地方選挙に向けた党勢拡大などをめぐりアドバイスを受けたということです。\n\n\n参政党の神谷代表は29日午後、自民党の麻生副総裁の議員会館の",
+  "dateModified": "2026-05-29T17:51:15+09:00",
+  "datePublished": "2026-05-29T17:51:15+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260529/K10015135201_2605291742_0529175116_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260529/K10015135201_2605291742_0529175116_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0000304",
+      "name": "選挙",
+      "display": true
+    },
+    {
+      "id": "0002316",
+      "name": "統一地方選",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "参政党の神谷代表は自民党の麻生副総裁と会談しました。来年春の統一地方選挙に向けた党勢拡大などをめぐりアドバイスを受けたということです。\n\n\n参政党の神谷代表は29日午後、自民党の麻生副総裁の議員会館の",
+  "articleBody": "参政党の神谷代表は自民党の麻生副総裁と会談しました。来年春の統一地方選挙に向けた党勢拡大などをめぐりアドバイスを受けたということです。\n\n\n参政党の神谷代表は29日午後、自民党の麻生副総裁の議員会館の事務所を訪れ、およそ15分間会談しました。\n\nそして、党運営や来年春の統一地方選挙に向けた党勢拡大などをめぐり麻生氏からアドバイスを受けたということです。\n\n神谷氏は、これまでにも複数回、麻生氏のもとを訪れ、党運営などの相談をしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "参政党の神谷代表は自民党の麻生副総裁と会談しました。来年春の統一地方選挙に向けた党勢拡大などをめぐりアドバイスを受けたということです。\n",
+    "markedBody": "参政党の神谷代表は29日午後、自民党の麻生副総裁の議員会館の事務所を訪れ、およそ15分間会談しました。\n\nそして、党運営や来年春の統一地方選挙に向けた党勢拡大などをめぐり麻生氏からアドバイスを受けたということです。\n\n神谷氏は、これまでにも複数回、麻生氏のもとを訪れ、党運営などの相談をしています。\n",
+    "trimmedLead": "参政党の神谷代表は自民党の麻生副総裁と会談しました。来年春の統一地方選挙に向けた党勢拡大などをめぐりアドバイスを受けたということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015135201000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015135201000",
+  "video": [],
+  "citation": [
+    {
+      "name": "中道 立民 公明 統一地方選での選挙協力へ政策の指針まとめる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134341000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015134341_2605282023_0528205436_01_02.jpg",
+      "datePublished": "2026-05-28T20:54:35+09:00"
+    },
+    {
+      "name": "衆議院289小選挙区「1票の格差」最大2.274倍 国勢調査で試算",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134621000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134621_2605290804_0529122846_01_02.jpg",
+      "datePublished": "2026-05-29T17:52:55+09:00"
+    },
+    {
+      "name": "自民・維新 衆議院定数削減法案 今国会で成立目指す方針確認",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134761000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134761_2605291125_0529121525_01_02.jpg",
+      "datePublished": "2026-05-29T16:08:02+09:00"
+    },
+    {
+      "name": "日本航空機が緊急着陸 後輪パンクか 羽田空港で欠航や遅れ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134831000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134831_2605291221_0529124225_01_02.jpg",
+      "datePublished": "2026-05-29T15:17:41+09:00"
+    },
+    {
+      "name": "栃木強盗殺人 48歳容疑者を公開手配 事件を主導か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134801_2605291133_0529114846_01_02.jpg",
+      "datePublished": "2026-05-29T18:13:45+09:00"
+    },
+    {
+      "name": "4月石油統計速報 日本の原油輸入量は1989年以降最少に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015135011000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015135011_2605291458_0529151547_01_02.jpg",
+      "datePublished": "2026-05-29T16:22:23+09:00"
+    },
+    {
+      "name": "東京女子医大 鎮静剤投与で2歳児死亡 責任者の医師に有罪判決",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015135001000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015135001_2605291408_0529151231_01_02.jpg",
+      "datePublished": "2026-05-29T18:34:14+09:00"
+    },
+    {
+      "name": "改正外為法が可決・成立 「日本版CFIUS」創設へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134921_2605291259_0529145732_01_02.jpg",
+      "datePublished": "2026-05-29T17:53:24+09:00"
+    },
+    {
+      "name": "天皇皇后両陛下 フィリピン大統領夫妻に別れのあいさつ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015135031000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015135031_2605291422_0529153057_01_02.jpg",
+      "datePublished": "2026-05-29T15:30:56+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

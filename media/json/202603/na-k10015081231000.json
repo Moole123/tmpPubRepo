@@ -1,0 +1,174 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015081231000",
+  "dataSourceId": "na",
+  "name": "イランで去年6月拘束された日本人1人解放 茂木外相が明らかに",
+  "headline": "イランで去年6月拘束された日本人1人解放 茂木外相が明らかに",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015081231000",
+    "playlistId": "news-nwa-politics-nationwide-20260322",
+    "newsarticleName": "イランで去年6月拘束された日本人1人解放 茂木外相が明らかに",
+    "playlistName": "3月22日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "茂木外務大臣は、去年6月にイランで拘束された日本人1人が解放されたことを明らかにしました。外務省によりますと、22日朝、日本に帰国し、健康状態などに問題はないということです。\n\n\nイランでは、去年6月",
+  "dateModified": "2026-03-22T09:31:39+09:00",
+  "datePublished": "2026-03-22T09:31:39+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260322/K10015081231_2603220947_0322095727_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260322/K10015081231_2603220947_0322095727_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治",
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0001597",
+      "name": "イラン",
+      "display": true
+    },
+    {
+      "id": "0002398",
+      "name": "外務省",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "茂木外務大臣は、去年6月にイランで拘束された日本人1人が解放されたことを明らかにしました。外務省によりますと、22日朝、日本に帰国し、健康状態などに問題はないということです。\n\n\nイランでは、去年6月",
+  "articleBody": "茂木外務大臣は、去年6月にイランで拘束された日本人1人が解放されたことを明らかにしました。外務省によりますと、22日朝、日本に帰国し、健康状態などに問題はないということです。\n\n\nイランでは、去年6月に日本人1人が、また、ことし1月に別の日本人1人が、それぞれ現地当局に拘束されました。\n\nこのうち、去年6月に拘束された日本人について、茂木外務大臣は、22日朝、フジテレビの「日曜報道 THE PRIME」で「私もイランのアラグチ外相に強く申し入れを行い、今月18日に拘束を解かれ、釈放された」と明らかにしました。\n\n外務省によりますと、解放された日本人は、現地の大使館の支援を受けてイランの隣国のアゼルバイジャンに移動した上で、22日朝8時半ごろ日本に帰国し、健康状態などに問題はないということです。\n\n一方、茂木大臣は、ことし1月に拘束された日本人について「家族などと連絡を取りながら、早期解放に向けて、いま努力しているところだ」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "茂木外務大臣は、去年6月にイランで拘束された日本人1人が解放されたことを明らかにしました。外務省によりますと、22日朝、日本に帰国し、健康状態などに問題はないということです。\n",
+    "markedBody": "イランでは、去年6月に日本人1人が、また、ことし1月に別の日本人1人が、それぞれ現地当局に拘束されました。\n\nこのうち、去年6月に拘束された日本人について、茂木外務大臣は、22日朝、フジテレビの「日曜報道 THE PRIME」で「私もイランのアラグチ外相に強く申し入れを行い、今月18日に拘束を解かれ、釈放された」と明らかにしました。\n\n外務省によりますと、解放された日本人は、現地の大使館の支援を受けてイランの隣国のアゼルバイジャンに移動した上で、22日朝8時半ごろ日本に帰国し、健康状態などに問題はないということです。\n\n一方、茂木大臣は、ことし1月に拘束された日本人について「家族などと連絡を取りながら、早期解放に向けて、いま努力しているところだ」と述べました。\n",
+    "trimmedLead": "茂木外務大臣は、去年6月にイランで拘束された日本人1人が解放されたことを明らかにしました。外務省によりますと、22日朝、日本に帰国し、健康状態などに問題はないということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015081231000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015081231000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "イランで去年6月拘束された日本人1人解放 茂木外相が明らかに",
+      "description": "茂木外務大臣は、去年6月にイランで拘束された日本人1人が解放されたことを明らかにしました。外務省によりますと、22日朝、日本に帰国し、健康状態などに問題はないということです。\n\n\nイランでは、去年6月",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015081231_202603221010_202603221010/index.m3u8&mrposter=/news/html/20260322/K10015081231_2603220947_0322095727_01_02.jpg",
+      "duration": "PT57S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015081231_202603221010_202603221010/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260322/K10015081231_2603220947_0322095727_01_02.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "新年度予算案 与党側 暫定予算案の扱いも含め政府と協議へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015081111000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260322/K10015081111_2603212238_0322051357_01_02.jpg",
+      "datePublished": "2026-03-22T05:13:56+09:00"
+    },
+    {
+      "name": "イラン 核開発拠点あるとされるイスラエル南部を攻撃 応酬続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015081151000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260322/K10015081151_2603220625_0322064123_01_02.jpg",
+      "datePublished": "2026-03-22T10:14:07+09:00"
+    },
+    {
+      "name": "三重 新名神6人死亡事故 警察は運送会社の安全管理も調べる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015080601000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260321/K10015080601_2603202220_0321050954_01_02.jpg",
+      "datePublished": "2026-03-21T19:02:44+09:00"
+    },
+    {
+      "name": "福島 トンネル内で車が衝突 40代女性が死亡 子ども含む6人けが",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015081001000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260321/K10015081001_2603211851_0321185514_01_02.jpg",
+      "datePublished": "2026-03-21T20:22:49+09:00"
+    },
+    {
+      "name": "「ロシア疑惑」捜査 モラー氏死去 トランプ大統領「うれしい」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015081221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260322/K10015081221_2603220906_0322091338_01_02.jpg",
+      "datePublished": "2026-03-22T09:13:37+09:00"
+    },
+    {
+      "name": "緊急避妊薬 “深刻な副作用が？” SNSの根拠ない情報に注意を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015078861000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260321/K10015078861_2603181823_0321175434_01_02.jpg",
+      "datePublished": "2026-03-21T17:54:33+09:00"
+    },
+    {
+      "name": "インスタに残したい生きている証し",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015078571000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260320/K10015078571_2603191219_0320105418_01_02.jpg",
+      "datePublished": "2026-03-20T10:54:17+09:00"
+    },
+    {
+      "name": "攻略“梅田ダンジョン”南海トラフ地震の津波からどう逃げる？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015077231000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260320/K10015077231_2603191754_0320185324_01_02.jpg",
+      "datePublished": "2026-03-20T18:53:23+09:00"
+    },
+    {
+      "name": "群馬 上野村 山林火災 延焼の範囲拡大 住民に避難呼びかけ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015081171000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260322/K10015081171_2603220649_0322065046_01_02.jpg",
+      "datePublished": "2026-03-22T07:10:28+09:00"
+    },
+    {
+      "name": "BTS活動再開 ソウルで無料ライブ 会場周辺は厳重な警戒態勢",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015081141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260322/K10015081141_2603220043_0322063645_01_02.jpg",
+      "datePublished": "2026-03-22T06:36:44+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

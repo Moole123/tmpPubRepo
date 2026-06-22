@@ -1,0 +1,107 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015133981000",
+  "dataSourceId": "na",
+  "name": "インド 世界有数のマンゴー生産地でマンゴー狩り楽しむ人々【動画】",
+  "headline": "【動画】インドのマンゴーはいかが？",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015133981000",
+    "playlistId": "news-nwa-international-nationwide-20260612",
+    "newsarticleName": "インド 世界有数のマンゴー生産地でマンゴー狩り楽しむ人々【動画】",
+    "playlistName": "6月12日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "世界有数のマンゴーの生産地インド。\n\n3月から5月は収穫の最盛期で、旬の味覚を味わおうと大勢の人たちがマンゴー狩りに訪れます。\n\n\nニューデリー支局カメラマン\n野村祐介\n2014年入局 名古屋 静岡 ",
+  "dateModified": "2026-06-12T15:04:21+09:00",
+  "datePublished": "2026-06-12T15:04:21+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260612/K10015133981_2605291520_0612150422_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260612/K10015133981_2605291520_0612150422_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0002357",
+      "name": "インド",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "世界有数のマンゴーの生産地インド。\n\n3月から5月は収穫の最盛期で、旬の味覚を味わおうと大勢の人たちがマンゴー狩りに訪れます。\n\n\nニューデリー支局カメラマン\n野村祐介\n2014年入局 名古屋 静岡 ",
+  "articleBody": "世界有数のマンゴーの生産地インド。\n\n3月から5月は収穫の最盛期で、旬の味覚を味わおうと大勢の人たちがマンゴー狩りに訪れます。\n\n\nニューデリー支局カメラマン\n野村祐介\n2014年入局 名古屋 静岡 福島 映像センターを経て2025年8月から現所属\nドローン班に所属 多くの災害現場や被災地を継続取材\n",
+  "detailedArticleBody": {
+    "markedLead": "世界有数のマンゴーの生産地インド。\n\n3月から5月は収穫の最盛期で、旬の味覚を味わおうと大勢の人たちがマンゴー狩りに訪れます。\n",
+    "markedBody": ":::::nw--editor\n::::nw--editor-item\n![](https://news.web.nhk/news/html/20260612/K10015133981_2606011740_0612150422_02_04.jpg)\n\n:::nw--editor-text\nニューデリー支局カメラマン\\\n**野村祐介**\\\n2014年入局 名古屋 静岡 福島 映像センターを経て2025年8月から現所属\\\nドローン班に所属 多くの災害現場や被災地を継続取材\n:::\n::::\n:::::\n",
+    "trimmedLead": "世界有数のマンゴーの生産地インド。\n\n3月から5月は収穫の最盛期で、旬の味覚を味わおうと大勢の人たちがマンゴー狩りに訪れます。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015133981000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015133981000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "【動画】インドのマンゴーはいかが？",
+      "description": "世界有数のマンゴーの生産地インド。\n\n3月から5月は収穫の最盛期で、旬の味覚を味わおうと大勢の人たちがマンゴー狩りに訪れます。\n\n\nニューデリー支局カメラマン\n野村祐介\n2014年入局 名古屋 静岡 ",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015133981_202605291520_202606011741/index.m3u8&mrposter=/news/html/20260612/K10015133981_2605291520_0612150422_01_03.jpg",
+      "duration": "PT1M23S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015133981_202605291520_202606011741/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260612/K10015133981_2605291520_0612150422_01_03.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

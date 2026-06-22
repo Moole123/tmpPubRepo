@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015137361000",
+  "dataSourceId": "na",
+  "name": "埼玉 川口 “ケアマネ刺した”と通報 現場で男女2人が心肺停止",
+  "headline": "埼玉 川口 “ケアマネ刺した”と通報 現場で男女2人が心肺停止",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015137361000",
+    "playlistId": "news-nwa-society-nationwide-20260601",
+    "newsarticleName": "埼玉 川口 “ケアマネ刺した”と通報 現場で男女2人が心肺停止",
+    "playlistName": "6月1日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "警察によりますと、1日午後3時すぎ、埼玉県川口市飯原町の住宅から男の声で「ケアマネージャーの女性を刃物で刺した。これから自分のことも刺す」と110番通報があり、現場で、男女2人が血を流して倒れているの",
+  "dateModified": "2026-06-01T17:00:38+09:00",
+  "datePublished": "2026-06-01T17:00:38+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260601/K10015137361_2606011643_0601170039_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260601/K10015137361_2606011643_0601170039_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002211",
+      "name": "埼玉県",
+      "display": true
+    },
+    {
+      "id": "0001538",
+      "name": "事件・事故",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "警察によりますと、1日午後3時すぎ、埼玉県川口市飯原町の住宅から男の声で「ケアマネージャーの女性を刃物で刺した。これから自分のことも刺す」と110番通報があり、現場で、男女2人が血を流して倒れているの",
+  "articleBody": "警察によりますと、1日午後3時すぎ、埼玉県川口市飯原町の住宅から男の声で「ケアマネージャーの女性を刃物で刺した。これから自分のことも刺す」と110番通報があり、現場で、男女2人が血を流して倒れているのが見つかりました。\n\n\n2人は、心肺停止の状態で病院に運ばれ、いずれも刃物による傷があったということです。\n\nこれまでの警察の調べで、近くで凶器とみられる刃物が見つかったということです。\n\n現場の住宅には高齢の女性と息子が2人で暮らしていたとみられていて、警察が詳しい状況を調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "警察によりますと、1日午後3時すぎ、埼玉県川口市飯原町の住宅から男の声で「ケアマネージャーの女性を刃物で刺した。これから自分のことも刺す」と110番通報があり、現場で、男女2人が血を流して倒れているのが見つかりました。\n",
+    "markedBody": "2人は、心肺停止の状態で病院に運ばれ、いずれも刃物による傷があったということです。\n\nこれまでの警察の調べで、近くで凶器とみられる刃物が見つかったということです。\n\n現場の住宅には高齢の女性と息子が2人で暮らしていたとみられていて、警察が詳しい状況を調べています。\n",
+    "trimmedLead": "警察によりますと、1日午後3時すぎ、埼玉県川口市飯原町の住宅から男の声で「ケアマネージャーの女性を刃物で刺した。これから自分のことも刺す」と110番通報があり、現場で、男女2人が血を流して倒れているのが見つかりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015137361000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015137361000",
+  "video": [],
+  "citation": [
+    {
+      "name": "台風6号 沖縄本島に最接近 九州南部などあす線状降水帯おそれ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015136781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260601/K10015136781_2606011003_0601100338_01_02.jpg",
+      "datePublished": "2026-06-01T16:58:12+09:00"
+    },
+    {
+      "name": "【台風影響】沖縄発着便中心にきょう約400便が欠航",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015136811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260601/K10015136811_2606010626_0601063412_01_02.jpg",
+      "datePublished": "2026-06-01T13:17:59+09:00"
+    },
+    {
+      "name": "新たな防災気象情報 専門家 “避難スイッチに”【Q＆A解説】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015132671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260527/K10015132671_2605271846_0527225649_01_02.jpg",
+      "datePublished": "2026-05-27T22:56:48+09:00"
+    },
+    {
+      "name": "新たな防災気象情報スタート 専門家“地域リスク調べ活用を”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133611000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015133611_2605281021_0528115033_01_02.jpg",
+      "datePublished": "2026-05-28T18:46:11+09:00"
+    },
+    {
+      "name": "【熱中症対策を】東日本と北日本中心に気温上昇 猛暑日予想も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015136801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260601/K10015136801_2606010546_0601055420_01_02.jpg",
+      "datePublished": "2026-06-01T05:54:19+09:00"
+    },
+    {
+      "name": "東京 大田区 バス降車後の乗客切りつけたか 75歳容疑者を逮捕",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015137011000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260601/K10015137011_2606011209_0601121035_01_02.jpg",
+      "datePublished": "2026-06-01T15:44:22+09:00"
+    },
+    {
+      "name": "採用活動スタート 5月1日時点で67％内々定 ルール形骸化指摘も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015136961000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260601/K10015136961_2606011124_0601123946_01_02.jpg",
+      "datePublished": "2026-06-01T15:18:22+09:00"
+    },
+    {
+      "name": "ソフトバンクGがトヨタ抜き時価総額で首位に 株価終値も最高値",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015136891000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260601/K10015136891_2606011532_0601154942_01_02.jpg",
+      "datePublished": "2026-06-01T16:20:34+09:00"
+    },
+    {
+      "name": "国民的アイドルグループ「嵐」26年半の活動終える",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015136741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260601/K10015136741_2606010153_0601053645_01_02.jpg",
+      "datePublished": "2026-06-01T05:36:44+09:00"
+    },
+    {
+      "name": "安定的な皇位継承 衆参両院の議長・副議長 今週再会談へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015136701000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260601/K10015136701_2605312214_0601052221_01_02.jpg",
+      "datePublished": "2026-06-01T05:22:21+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

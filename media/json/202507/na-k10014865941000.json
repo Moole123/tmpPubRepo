@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014865941000",
+  "dataSourceId": "na",
+  "name": "米 グランドキャニオン火災 東京ドーム約800個分延焼",
+  "headline": "米 グランドキャニオン火災 東京ドーム約800個分延焼",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014865941000",
+    "playlistId": "news-nwa-international-nationwide-20250717",
+    "newsarticleName": "米 グランドキャニオン火災 東京ドーム約800個分延焼",
+    "playlistName": "7月17日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "アメリカ西部にある人気の景勝地、グランドキャニオン国立公園で落雷によって発生した火災は延焼が続いていて、これまでに東京ドームおよそ800個分の面積に広がりました。一部のエリアではことし10月中旬まで観",
+  "dateModified": "2025-07-17T17:21:40+09:00",
+  "datePublished": "2025-07-17T17:21:40+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250717/K10014865941_2507171657_0717171823_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250717/K10014865941_2507171657_0717171823_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "アメリカ西部にある人気の景勝地、グランドキャニオン国立公園で落雷によって発生した火災は延焼が続いていて、これまでに東京ドームおよそ800個分の面積に広がりました。一部のエリアではことし10月中旬まで観",
+  "articleBody": "アメリカ西部にある人気の景勝地、グランドキャニオン国立公園で落雷によって発生した火災は延焼が続いていて、これまでに東京ドームおよそ800個分の面積に広がりました。一部のエリアではことし10月中旬まで観光客の立ち入りが禁止されました。\n\n\nアメリカ西部アリゾナ州にあるグランドキャニオン国立公園で、今月4日の落雷によって発生した火災は、延焼が続いていて16日、国立公園の発表によりますと37平方キロメートル余り、東京ドームおよそ800個分の面積に燃え広がりました。\n\nロイター通信は今月10日と15日に撮影された衛星写真を公開し、比較すると渓谷の広い地域を覆うように火災による白い煙が広がったことがわかります。\n\n消火活動が続けられていますが、火はグランドキャニオン国立公園の北部のエリアで燃え広がり、宿泊施設などを含む70棟以上が焼失したということです。\n\n国立公園の北部のエリアでは、10月中旬までのシーズン中、観光客などの立ち入りが禁止され、観光業などへの影響も懸念されています。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカ西部にある人気の景勝地、グランドキャニオン国立公園で落雷によって発生した火災は延焼が続いていて、これまでに東京ドームおよそ800個分の面積に広がりました。一部のエリアではことし10月中旬まで観光客の立ち入りが禁止されました。\n",
+    "markedBody": "アメリカ西部アリゾナ州にあるグランドキャニオン国立公園で、今月4日の落雷によって発生した火災は、延焼が続いていて16日、国立公園の発表によりますと37平方キロメートル余り、東京ドームおよそ800個分の面積に燃え広がりました。\n\nロイター通信は今月10日と15日に撮影された衛星写真を公開し、比較すると渓谷の広い地域を覆うように火災による白い煙が広がったことがわかります。\n\n消火活動が続けられていますが、火はグランドキャニオン国立公園の北部のエリアで燃え広がり、宿泊施設などを含む70棟以上が焼失したということです。\n\n国立公園の北部のエリアでは、10月中旬までのシーズン中、観光客などの立ち入りが禁止され、観光業などへの影響も懸念されています。\n",
+    "trimmedLead": "アメリカ西部にある人気の景勝地、グランドキャニオン国立公園で落雷によって発生した火災は延焼が続いていて、これまでに東京ドームおよそ800個分の面積に広がりました。一部のエリアではことし10月中旬まで観光客の立ち入りが禁止されました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014865941000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014865941000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": false,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

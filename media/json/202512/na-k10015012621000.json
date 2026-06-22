@@ -1,0 +1,101 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015012621000",
+  "dataSourceId": "na",
+  "name": "アメリカ ペンシルベニア州の高齢者施設で爆発 少なくとも2人死亡 複数の人の行方わからず",
+  "headline": "米ペンシルベニア州 高齢者施設で爆発 2人死亡 複数人行方不明",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015012621000",
+    "playlistId": "news-nwa-international-nationwide-20251224",
+    "newsarticleName": "アメリカ ペンシルベニア州の高齢者施設で爆発 少なくとも2人死亡 複数の人の行方わからず",
+    "playlistName": "12月24日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "アメリカ東部、ペンシルベニア州の高齢者施設で23日、爆発があり、地元知事によりますと、少なくとも2人が死亡したということです。また、複数の人の行方がわからなくなっているということで、消防による救助活動",
+  "dateModified": "2025-12-24T16:15:01+09:00",
+  "datePublished": "2025-12-24T16:15:01+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251224/K10015012621_2512241559_1224161502_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251224/K10015012621_2512241559_1224161502_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "アメリカ東部、ペンシルベニア州の高齢者施設で23日、爆発があり、地元知事によりますと、少なくとも2人が死亡したということです。また、複数の人の行方がわからなくなっているということで、消防による救助活動",
+  "articleBody": "アメリカ東部、ペンシルベニア州の高齢者施設で23日、爆発があり、地元知事によりますと、少なくとも2人が死亡したということです。また、複数の人の行方がわからなくなっているということで、消防による救助活動が続いています。\n\n\n地元の消防によりますと、アメリカ東部 ペンシルベニア州ブリストルの高齢者施設で、23日午後2時すぎ、爆発があったと通報があり、消防が駆けつけたところ、建物1階の一部が地下に崩落していました。\n\nこの爆発で2人が死亡し、複数の人の行方がわからなくなっているということで、消防による救助活動が続いています。\n\n現場の映像には、建物の内部がむき出しになり、がれきから炎や灰色の煙が立ち上っている様子が映っていて、爆発のすさまじさがうかがえます。\n\nアメリカメディアは、この高齢者施設には、およそ170床のベッドがあり、ガス漏れの通報を受けて作業員が訪れていたところ、爆発が起きたと伝えていて、消防や警察が原因などを詳しく調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカ東部、ペンシルベニア州の高齢者施設で23日、爆発があり、地元知事によりますと、少なくとも2人が死亡したということです。また、複数の人の行方がわからなくなっているということで、消防による救助活動が続いています。\n",
+    "markedBody": "地元の消防によりますと、アメリカ東部 ペンシルベニア州ブリストルの高齢者施設で、23日午後2時すぎ、爆発があったと通報があり、消防が駆けつけたところ、建物1階の一部が地下に崩落していました。\n\nこの爆発で2人が死亡し、複数の人の行方がわからなくなっているということで、消防による救助活動が続いています。\n\n現場の映像には、建物の内部がむき出しになり、がれきから炎や灰色の煙が立ち上っている様子が映っていて、爆発のすさまじさがうかがえます。\n\nアメリカメディアは、この高齢者施設には、およそ170床のベッドがあり、ガス漏れの通報を受けて作業員が訪れていたところ、爆発が起きたと伝えていて、消防や警察が原因などを詳しく調べています。\n",
+    "trimmedLead": "アメリカ東部、ペンシルベニア州の高齢者施設で23日、爆発があり、地元知事によりますと、少なくとも2人が死亡したということです。また、複数の人の行方がわからなくなっているということで、消防による救助活動が続いています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015012621000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015012621000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "米ペンシルベニア州 高齢者施設で爆発 2人死亡 複数人行方不明",
+      "description": "アメリカ東部、ペンシルベニア州の高齢者施設で23日、爆発があり、地元知事によりますと、少なくとも2人が死亡したということです。また、複数の人の行方がわからなくなっているということで、消防による救助活動",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015012621_202512241610_202512241610/index.m3u8&mrposter=/news/html/20251224/K10015012621_2512241559_1224161502_01_03.jpg",
+      "duration": "PT53S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015012621_202512241610_202512241610/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20251224/K10015012621_2512241559_1224161502_01_03.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015141281000",
+  "dataSourceId": "na",
+  "name": "クマ人身被害 少なくとも9都道県で25人 4人が死亡 NHKまとめ",
+  "headline": "クマ人身被害 少なくとも9都道県で25人 4人が死亡 NHKまとめ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015141281000",
+    "playlistId": "news-nwa-society-nationwide-20260604",
+    "newsarticleName": "クマ人身被害 少なくとも9都道県で25人 4人が死亡 NHKまとめ",
+    "playlistName": "6月4日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "今年度のクマによる人身被害は、NHKのまとめで4日正午までに、少なくとも9つの都道県で25人にのぼっています。\n\n\n環境省によりますと、このうち、2日秋田市で遺体で見つかった女性を含む、4人がクマに襲",
+  "dateModified": "2026-06-04T18:45:12+09:00",
+  "datePublished": "2026-06-04T18:45:12+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260604/K10015141281_2606041738_0604184512_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260604/K10015141281_2606041738_0604184512_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002515",
+      "name": "クマ被害",
+      "display": true
+    },
+    {
+      "id": "0002410",
+      "name": "環境省",
+      "display": true
+    },
+    {
+      "id": "0002205",
+      "name": "秋田県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "今年度のクマによる人身被害は、NHKのまとめで4日正午までに、少なくとも9つの都道県で25人にのぼっています。\n\n\n環境省によりますと、このうち、2日秋田市で遺体で見つかった女性を含む、4人がクマに襲",
+  "articleBody": "今年度のクマによる人身被害は、NHKのまとめで4日正午までに、少なくとも9つの都道県で25人にのぼっています。\n\n\n環境省によりますと、このうち、2日秋田市で遺体で見つかった女性を含む、4人がクマに襲われて死亡したことが確認されたということです。\n\n2日、秋田市の山あいの集落で73歳の女性が自宅のすぐそばの山林で遺体で見つかり、遺体の状況と司法解剖の結果、クマに襲われて死亡したと断定されました。\n\n環境省は、被害を防ぐ対策として、ラジオや鈴を持ち歩くことや、単独ではなく複数で行動すること、見通しの悪い場所では意識して大きな音を出すこと、クマを寄せつけないために生ごみなどを放置しないこと、自治体が発表している直近の出没情報を確認することを呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "今年度のクマによる人身被害は、NHKのまとめで4日正午までに、少なくとも9つの都道県で25人にのぼっています。\n",
+    "markedBody": "環境省によりますと、このうち、2日秋田市で遺体で見つかった女性を含む、4人がクマに襲われて死亡したことが確認されたということです。\n\n2日、秋田市の山あいの集落で73歳の女性が自宅のすぐそばの山林で遺体で見つかり、遺体の状況と司法解剖の結果、クマに襲われて死亡したと断定されました。\n\n環境省は、被害を防ぐ対策として、ラジオや鈴を持ち歩くことや、単独ではなく複数で行動すること、見通しの悪い場所では意識して大きな音を出すこと、クマを寄せつけないために生ごみなどを放置しないこと、自治体が発表している直近の出没情報を確認することを呼びかけています。\n",
+    "trimmedLead": "今年度のクマによる人身被害は、NHKのまとめで4日正午までに、少なくとも9つの都道県で25人にのぼっています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015141281000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015141281000",
+  "video": [],
+  "citation": [
+    {
+      "name": "福島 4人襲ったクマ 事業所の敷地外へ 周辺で警戒続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015141011000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260604/K10015141011_2606041452_0604152808_01_02.jpg",
+      "datePublished": "2026-06-04T16:26:31+09:00"
+    },
+    {
+      "name": "秋田 高齢女性が死亡 近くでクマを駆除 襲われたか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015138051000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260602/K10015138051_2606021202_0602121808_01_03.jpg",
+      "datePublished": "2026-06-02T19:19:08+09:00"
+    },
+    {
+      "name": "岩手 釜石 クマが網戸破り家の中に 住人の大声で逃げる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015137341000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260601/K10015137341_2606011634_0601170958_01_02.jpg",
+      "datePublished": "2026-06-01T19:06:31+09:00"
+    },
+    {
+      "name": "イラン情勢 影響はクマ対策にも",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015135821000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260530/K10015135821_2605301224_0530171930_01_02.jpg",
+      "datePublished": "2026-05-30T17:19:29+09:00"
+    },
+    {
+      "name": "最新クマ対策 AI・ドローンで被害防げ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015131471_2605281240_0528165620_01_02.jpg",
+      "datePublished": "2026-05-28T16:56:19+09:00"
+    },
+    {
+      "name": "中東情勢受けた補正予算案 衆議院予算委員会で賛成多数で可決",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015140381000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260604/K10015140381_2606041747_0604181428_01_02.jpg",
+      "datePublished": "2026-06-04T18:14:27+09:00"
+    },
+    {
+      "name": "衆院議員定数“比例代表のみで削減 首相から指示” 自民幹事長",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015140871000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260604/K10015140871_2606041340_0604140510_01_02.jpg",
+      "datePublished": "2026-06-04T18:40:18+09:00"
+    },
+    {
+      "name": "高市首相 中傷動画報道の関連音声 動画作成やりとりではない",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015141051000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260604/K10015141051_2606041546_0604161639_01_02.jpg",
+      "datePublished": "2026-06-04T16:16:38+09:00"
+    },
+    {
+      "name": "九州北部 中国地方 近畿が梅雨入り 気象庁が発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015140401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260604/K10015140401_2606041129_0604113005_01_02.jpg",
+      "datePublished": "2026-06-04T11:52:53+09:00"
+    },
+    {
+      "name": "ヤマダホールディングスとエディオン 経営統合の方向で検討",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015140341000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260604/K10015140341_2606040847_0604084852_01_02.jpg",
+      "datePublished": "2026-06-04T17:18:21+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

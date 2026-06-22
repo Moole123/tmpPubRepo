@@ -1,0 +1,173 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015135931000",
+  "dataSourceId": "na",
+  "name": "AIモデル ミュトス 利用企業 “ゲームチェンジ起こす能力”",
+  "headline": "AIモデル ミュトス 利用企業 “ゲームチェンジ起こす能力”",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015135931000",
+    "playlistId": "news-nwa-society-nationwide-20260530",
+    "newsarticleName": "AIモデル ミュトス 利用企業 “ゲームチェンジ起こす能力”",
+    "playlistName": "5月30日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "性能が非常に高くサイバー攻撃への悪用も懸念されるAIモデル、「クロード・ミュトス」の提供を受けたアメリカの企業がNHKのインタビューに応じ、その性能について「ゲームチェンジを起こす能力だ」と証言しまし",
+  "dateModified": "2026-05-30T15:42:53+09:00",
+  "datePublished": "2026-05-30T15:42:53+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260530/K10015135931_2605301518_0530154253_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260530/K10015135931_2605301518_0530154253_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000010",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "0000009",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "0000325",
+      "name": "サイバー攻撃",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "性能が非常に高くサイバー攻撃への悪用も懸念されるAIモデル、「クロード・ミュトス」の提供を受けたアメリカの企業がNHKのインタビューに応じ、その性能について「ゲームチェンジを起こす能力だ」と証言しまし",
+  "articleBody": "性能が非常に高くサイバー攻撃への悪用も懸念されるAIモデル、「クロード・ミュトス」の提供を受けたアメリカの企業がNHKのインタビューに応じ、その性能について「ゲームチェンジを起こす能力だ」と証言しました。そのうえで、「防御側の手にあり、攻撃側の手に渡っていない今この瞬間が重要だ」として悪用される前に対策が必要だと訴えました。\n\n\nアメリカの新興AI企業、アンソロピックが開発したAIモデル「ミュトス」は、ソフトウエアのぜい弱性を発見する能力が極めて高いとされ、会社はサイバー攻撃に悪用されるおそれもあるとして公開を見送った一方、先月からIT大手や金融機関などおよそ50の企業や組織に提供してサイバー攻撃に備えるプロジェクトを始めています。\n\nこのプロジェクトに参加して「ミュトス」の提供を受けたアメリカ企業「モジラ」でウェブブラウザーの技術責任者を務めるボビー・ホーリー氏が今月下旬、NHKのインタビューに応じました。\n\nこの中でホーリー氏は、「ミュトス」の性能について、「1つの欠陥を見つけるために動ける一流の研究者は限られている一方で、AIなら数百、あるいは数千もの分析を並行して実行できる。これはセキュリティーの世界において、ゲームチェンジを起こす能力だ」と述べ、衝撃を受けたと証言しました。\n\nまた、ホーリー氏は、「ミュトス」の活用などによってこの会社が4月にウェブブラウザーのぜい弱性を修正した件数は平均的な1か月間の修正件数のおよそ20倍に増加したと明らかにしました。\n\nそのうえで、「今これらの最先端の能力は防御側の手にある。攻撃側の手に渡っていない今この瞬間を活用し、私たち全員が依存しているインターネットのインフラを強化することが極めて重要だ」と述べ、悪用される前に対策が必要だと訴えました。\n",
+  "detailedArticleBody": {
+    "markedLead": "性能が非常に高くサイバー攻撃への悪用も懸念されるAIモデル、「クロード・ミュトス」の提供を受けたアメリカの企業がNHKのインタビューに応じ、その性能について「ゲームチェンジを起こす能力だ」と証言しました。そのうえで、「防御側の手にあり、攻撃側の手に渡っていない今この瞬間が重要だ」として悪用される前に対策が必要だと訴えました。\n",
+    "markedBody": "アメリカの新興AI企業、アンソロピックが開発したAIモデル「ミュトス」は、ソフトウエアのぜい弱性を発見する能力が極めて高いとされ、会社はサイバー攻撃に悪用されるおそれもあるとして公開を見送った一方、先月からIT大手や金融機関などおよそ50の企業や組織に提供してサイバー攻撃に備えるプロジェクトを始めています。\n\nこのプロジェクトに参加して「ミュトス」の提供を受けたアメリカ企業「モジラ」でウェブブラウザーの技術責任者を務めるボビー・ホーリー氏が今月下旬、NHKのインタビューに応じました。\n\n![](https://news.web.nhk/news/html/20260530/K10015135931_2605301518_0530154253_02_03.jpg)\n\nこの中でホーリー氏は、「ミュトス」の性能について、「1つの欠陥を見つけるために動ける一流の研究者は限られている一方で、AIなら数百、あるいは数千もの分析を並行して実行できる。これはセキュリティーの世界において、ゲームチェンジを起こす能力だ」と述べ、衝撃を受けたと証言しました。\n\nまた、ホーリー氏は、「ミュトス」の活用などによってこの会社が4月にウェブブラウザーのぜい弱性を修正した件数は平均的な1か月間の修正件数のおよそ20倍に増加したと明らかにしました。\n\nそのうえで、「今これらの最先端の能力は防御側の手にある。攻撃側の手に渡っていない今この瞬間を活用し、私たち全員が依存しているインターネットのインフラを強化することが極めて重要だ」と述べ、悪用される前に対策が必要だと訴えました。\n",
+    "trimmedLead": "性能が非常に高くサイバー攻撃への悪用も懸念されるAIモデル、「クロード・ミュトス」の提供を受けたアメリカの企業がNHKのインタビューに応じ、その性能について「ゲームチェンジを起こす能力だ」と証言しました。そのうえで、「防御側の手にあり、攻撃側の手に渡っていない今この瞬間が重要だ」として悪用される前に対策が必要だと訴えました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015135931000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015135931000",
+  "video": [],
+  "citation": [
+    {
+      "name": "米アンソロピック 「ミュトス」級AI 数週間以内に全顧客提供へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134691_2605291029_0529104157_01_02.jpg",
+      "datePublished": "2026-05-29T10:41:56+09:00"
+    },
+    {
+      "name": "米アンソロピック「ミュトス」1万件のぜい弱性検出と発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015132401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260527/K10015132401_2605262349_0527043420_01_02.jpg",
+      "datePublished": "2026-05-27T04:34:19+09:00"
+    },
+    {
+      "name": "連日の真夏日に 台風6号は来週沖縄・奄美に接近",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015135591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260530/K10015135591_2605301608_0530160839_01_03.jpg",
+      "datePublished": "2026-05-30T13:11:21+09:00"
+    },
+    {
+      "name": "米イラン覚書 トランプ大統領が最終判断へ会議も結論出さずか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015135611000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260530/K10015135611_2605300202_0530020434_01_02.jpg",
+      "datePublished": "2026-05-30T13:12:46+09:00"
+    },
+    {
+      "name": "ホワイトソックス村上宗隆 右太もも裏の張り 復帰まで数週間か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015135801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260530/K10015135801_2605301011_0530101130_01_02.jpg",
+      "datePublished": "2026-05-30T15:21:10+09:00"
+    },
+    {
+      "name": "欧州で記録的熱波 英仏などで5月の観測史上最高気温を記録",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015135721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260530/K10015135721_2605301030_0530142055_01_02.jpg",
+      "datePublished": "2026-05-30T14:20:54+09:00"
+    },
+    {
+      "name": "名古屋 マイクロバスが歩行者はね2人死亡 85歳の運転手を逮捕",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015135741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260530/K10015135741_2605300538_0530054117_01_02.jpg",
+      "datePublished": "2026-05-30T05:41:17+09:00"
+    },
+    {
+      "name": "女性皇族 結婚後も皇室残るかを選択可能に 衆参議長らが検討",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015135661000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260530/K10015135661_2605300047_0530051156_01_02.jpg",
+      "datePublished": "2026-05-30T05:11:55+09:00"
+    },
+    {
+      "name": "衆議院「1票の格差」是正 国勢調査受け区割り見直し着手へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015135651000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260530/K10015135651_2605300100_0530051407_01_02.jpg",
+      "datePublished": "2026-05-30T05:14:06+09:00"
+    },
+    {
+      "name": "クロマグロに異例の事態 複数県で漁の停止や制限 漁獲量が増で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015135021000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015135021_2605291842_0529184838_01_02.jpg",
+      "datePublished": "2026-05-29T19:27:13+09:00"
+    },
+    {
+      "name": "活況なのに減少 新規上場に何が【経済コラム】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134131_2605281922_0529182924_01_02.jpg",
+      "datePublished": "2026-05-29T18:29:23+09:00"
+    },
+    {
+      "name": "6月に値上げの食品 1000品目超 今後も値上げ続くか【詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134751000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134751_2605291349_0529135242_01_03.jpg",
+      "datePublished": "2026-05-29T17:31:32+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

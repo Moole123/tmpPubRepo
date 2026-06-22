@@ -1,0 +1,138 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015076201000",
+  "dataSourceId": "na",
+  "name": "ソウルのカプセルホテルで火事 日本人女性2人意識不明",
+  "headline": "ソウルのカプセルホテルで火事 日本人女性2人意識不明",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015076201000",
+    "playlistId": "news-nwa-international-nationwide-20260315",
+    "newsarticleName": "ソウルのカプセルホテルで火事 日本人女性2人意識不明",
+    "playlistName": "3月15日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "韓国の首都ソウルにあるカプセルホテルで14日夜、外国人10人がけがをする火事があり、このうち日本人の女性2人が意識不明の状態になっています。\n\n\n韓国の警察によりますと、14日午後6時すぎ、韓国の首都",
+  "dateModified": "2026-03-15T12:38:25+09:00",
+  "datePublished": "2026-03-15T12:38:25+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260315/K10015076201_2603151159_0315123826_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260315/K10015076201_2603151159_0315123826_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0002301",
+      "name": "韓国",
+      "display": true
+    },
+    {
+      "id": "0002689",
+      "name": "火災",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "韓国の首都ソウルにあるカプセルホテルで14日夜、外国人10人がけがをする火事があり、このうち日本人の女性2人が意識不明の状態になっています。\n\n\n韓国の警察によりますと、14日午後6時すぎ、韓国の首都",
+  "articleBody": "韓国の首都ソウルにあるカプセルホテルで14日夜、外国人10人がけがをする火事があり、このうち日本人の女性2人が意識不明の状態になっています。\n\n\n韓国の警察によりますと、14日午後6時すぎ、韓国の首都ソウル中心部の7階建てのビルに入るカプセルホテルで火事がありました。\n\nこの火事で重傷の3人を含む合わせて10人の外国人がけがをしていて、日本政府関係者によりますと、日本人の50代と20代の女性、2人が意識不明の状態で病院に搬送されたということです。\n\n韓国メディアはこのカプセルホテルには多くの外国人旅行客が宿泊し、1人用のベッドが蜂の巣状に並んでいて旅行客の荷物も多いことから、廊下の通行が難しく避難が困難だった可能性があると伝えています。\n\n現地の日本大使館が被害状況の確認を進めています。\n\n現場は、日本人観光客も多く訪れるミョンドン（明洞）に近い、飲食店やホテルが集まるエリアで、警察と消防は当時の状況や火事の原因について詳しく調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "韓国の首都ソウルにあるカプセルホテルで14日夜、外国人10人がけがをする火事があり、このうち日本人の女性2人が意識不明の状態になっています。\n",
+    "markedBody": "韓国の警察によりますと、14日午後6時すぎ、韓国の首都ソウル中心部の7階建てのビルに入るカプセルホテルで火事がありました。\n\nこの火事で重傷の3人を含む合わせて10人の外国人がけがをしていて、日本政府関係者によりますと、日本人の50代と20代の女性、2人が意識不明の状態で病院に搬送されたということです。\n\n韓国メディアはこのカプセルホテルには多くの外国人旅行客が宿泊し、1人用のベッドが蜂の巣状に並んでいて旅行客の荷物も多いことから、廊下の通行が難しく避難が困難だった可能性があると伝えています。\n\n現地の日本大使館が被害状況の確認を進めています。\n\n現場は、日本人観光客も多く訪れるミョンドン（明洞）に近い、飲食店やホテルが集まるエリアで、警察と消防は当時の状況や火事の原因について詳しく調べています。\n",
+    "trimmedLead": "韓国の首都ソウルにあるカプセルホテルで14日夜、外国人10人がけがをする火事があり、このうち日本人の女性2人が意識不明の状態になっています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015076201000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015076201000",
+  "video": [],
+  "citation": [
+    {
+      "name": "トランプ政権 中東諸国が仲介もイランとの協議を拒否 ロイター",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015076081000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260315/K10015076081_2603150858_0315090248_01_02.jpg",
+      "datePublished": "2026-03-15T09:02:47+09:00"
+    },
+    {
+      "name": "トランプ氏 ホルムズ海峡安全確保へ 日本などの艦船派遣に期待",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015076011000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260315/K10015076011_2603150554_0315055708_01_02.jpg",
+      "datePublished": "2026-03-15T12:16:03+09:00"
+    },
+    {
+      "name": "北朝鮮メディア “多連装ロケット砲の発射訓練を実施”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015076111000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260315/K10015076111_2603150958_0315102307_01_03.jpg",
+      "datePublished": "2026-03-15T10:23:06+09:00"
+    },
+    {
+      "name": "4億円強奪事件 容疑者関係先で現金約1000万円見つかる 報酬か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015075971000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260315/K10015075971_2603142217_0315051107_01_02.jpg",
+      "datePublished": "2026-03-15T05:11:07+09:00"
+    },
+    {
+      "name": "新宿 携帯電話買い取り店で強盗 現金約170万円など奪い逃げる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015076031000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260315/K10015076031_2603150532_0315060857_01_02.jpg",
+      "datePublished": "2026-03-15T06:08:56+09:00"
+    },
+    {
+      "name": "【速報中】WBC準々決勝 ベネズエラ逆転スリーラン 追う展開に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015075921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260315/K10015075921_2603142040_0315101427_01_02.jpg",
+      "datePublished": "2026-03-15T12:39:34+09:00"
+    },
+    {
+      "name": "金融危機前夜の兆候？市場揺らす“影の銀行”【NY発コラム】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015074481000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260313/K10015074481_2603131505_0313192448_01_02.jpg",
+      "datePublished": "2026-03-13T19:24:47+09:00"
+    },
+    {
+      "name": "“野球の底力を” 被災した球児がつなぐ思い",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015071611000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260313/K10015071611_2603101420_0313114549_01_02.jpg",
+      "datePublished": "2026-03-13T11:45:48+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

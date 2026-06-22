@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014869761000",
+  "dataSourceId": "na",
+  "name": "参議院選挙 比例代表 自民 釜萢敏氏 当選",
+  "headline": "参議院選挙 比例代表 自民 釜萢敏氏 当選",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014869761000",
+    "playlistId": "news-nwa-politics-nationwide-20250721",
+    "newsarticleName": "参議院選挙 比例代表 自民 釜萢敏氏 当選",
+    "playlistName": "7月21日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "比例代表で、自民党の新人、釜萢敏氏が当選しました。\n\n\n釜萢氏は72歳。小児科医で、群馬県の高崎市医師会の会長などを歴任し、現在は日本医師会の副会長を務めています。\n\n2020年からは、政府の新型コロ",
+  "dateModified": "2025-07-21T10:50:43+09:00",
+  "datePublished": "2025-07-21T10:50:43+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250721/K10014869761_2507211038_0721103822_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250721/K10014869761_2507211038_0721103822_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "比例代表で、自民党の新人、釜萢敏氏が当選しました。\n\n\n釜萢氏は72歳。小児科医で、群馬県の高崎市医師会の会長などを歴任し、現在は日本医師会の副会長を務めています。\n\n2020年からは、政府の新型コロ",
+  "articleBody": "比例代表で、自民党の新人、釜萢敏氏が当選しました。\n\n\n釜萢氏は72歳。小児科医で、群馬県の高崎市医師会の会長などを歴任し、現在は日本医師会の副会長を務めています。\n\n2020年からは、政府の新型コロナの専門家会議などのメンバーも務めました。\n\n釜萢氏は日本医師会の全面的な支援を受けたほか、地元の群馬県でも支持を集め、初めての当選を果たしました。\n",
+  "detailedArticleBody": {
+    "markedLead": "比例代表で、自民党の新人、釜萢敏氏が当選しました。\n",
+    "markedBody": "釜萢氏は72歳。小児科医で、群馬県の高崎市医師会の会長などを歴任し、現在は日本医師会の副会長を務めています。\n\n2020年からは、政府の新型コロナの専門家会議などのメンバーも務めました。\n\n釜萢氏は日本医師会の全面的な支援を受けたほか、地元の群馬県でも支持を集め、初めての当選を果たしました。\n",
+    "trimmedLead": "比例代表で、自民党の新人、釜萢敏氏が当選しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014869761000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014869761000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014943351000",
+  "dataSourceId": "na",
+  "name": "小泉農相 コメ価格めぐり市場に冷静な対応を呼びかけ",
+  "headline": "小泉農相 コメ価格めぐり市場に冷静な対応を呼びかけ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014943351000",
+    "playlistId": "news-nwa-business-nationwide-20251007",
+    "newsarticleName": "小泉農相 コメ価格めぐり市場に冷静な対応を呼びかけ",
+    "playlistName": "10月7日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "小泉農林水産大臣は、7日の閣議のあとの会見で今後のコメの価格の見通しについて、業界関係者の間では下落するという見方が強まっているとして、市場に冷静な対応を呼びかけました。\n\n\n6日発表された、コメの取",
+  "dateModified": "2025-10-07T13:18:00+09:00",
+  "datePublished": "2025-10-07T13:18:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251007/K10014943351_2510071252_1007131802_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251007/K10014943351_2510071252_1007131802_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済",
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "小泉農林水産大臣は、7日の閣議のあとの会見で今後のコメの価格の見通しについて、業界関係者の間では下落するという見方が強まっているとして、市場に冷静な対応を呼びかけました。\n\n\n6日発表された、コメの取",
+  "articleBody": "小泉農林水産大臣は、7日の閣議のあとの会見で今後のコメの価格の見通しについて、業界関係者の間では下落するという見方が強まっているとして、市場に冷静な対応を呼びかけました。\n\n\n6日発表された、コメの取り引き関係者に調査した向こう3か月のコメの価格の見通しを示す先月の指数は前の月より低下し、調査した団体は生育が順調などとして価格は下落するという見方が強まっているとしています。\n\nこれについて小泉農林水産大臣は7日の閣議のあとの会見で、「需給が緩和傾向になってきたのは間違いなく、価格の安定化、ソフトランディングに向けて対応していく」と述べました。\n\nそのうえで「冷静なマーケットの動きになるよう、繰り返しメッセージを届けていく必要がある。石破内閣は残りわずかかもしれないが、最後まで緊張感を持って、しっかり仕事をしていきたい」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "小泉農林水産大臣は、7日の閣議のあとの会見で今後のコメの価格の見通しについて、業界関係者の間では下落するという見方が強まっているとして、市場に冷静な対応を呼びかけました。\n",
+    "markedBody": "6日発表された、コメの取り引き関係者に調査した向こう3か月のコメの価格の見通しを示す先月の指数は前の月より低下し、調査した団体は生育が順調などとして価格は下落するという見方が強まっているとしています。\n\nこれについて小泉農林水産大臣は7日の閣議のあとの会見で、「需給が緩和傾向になってきたのは間違いなく、価格の安定化、ソフトランディングに向けて対応していく」と述べました。\n\nそのうえで「冷静なマーケットの動きになるよう、繰り返しメッセージを届けていく必要がある。石破内閣は残りわずかかもしれないが、最後まで緊張感を持って、しっかり仕事をしていきたい」と述べました。\n",
+    "trimmedLead": "小泉農林水産大臣は、7日の閣議のあとの会見で今後のコメの価格の見通しについて、業界関係者の間では下落するという見方が強まっているとして、市場に冷静な対応を呼びかけました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014943351000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014943351000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

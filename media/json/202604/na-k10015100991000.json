@@ -1,0 +1,156 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015100991000",
+  "dataSourceId": "na",
+  "name": "東京電力福島第一原発２号機で初の原子炉内部調査",
+  "headline": "東京電力福島第一原発２号機で初の原子炉内部調査",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015100991000",
+    "playlistId": "news-nwa-society-nationwide-20260416",
+    "newsarticleName": "東京電力福島第一原発２号機で初の原子炉内部調査",
+    "playlistName": "4月16日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "東京電力は、福島第一原子力発電所2号機で16日、原子炉にファイバースコープを入れ、内部調査を行ったと発表しました。原発事故のあと、メルトダウンが起きた原子炉の内部調査が行われたのは初めてです。\n\n\n2",
+  "dateModified": "2026-04-16T18:18:06+09:00",
+  "datePublished": "2026-04-16T18:18:06+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260416/K10015100991_2604161810_0416181806_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260416/K10015100991_2604161810_0416181806_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "0001453",
+      "name": "福島第一原発",
+      "display": true
+    },
+    {
+      "id": "0000021",
+      "name": "原発",
+      "display": true
+    },
+    {
+      "id": "0002207",
+      "name": "福島県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "東京電力は、福島第一原子力発電所2号機で16日、原子炉にファイバースコープを入れ、内部調査を行ったと発表しました。原発事故のあと、メルトダウンが起きた原子炉の内部調査が行われたのは初めてです。\n\n\n2",
+  "articleBody": "東京電力は、福島第一原子力発電所2号機で16日、原子炉にファイバースコープを入れ、内部調査を行ったと発表しました。原発事故のあと、メルトダウンが起きた原子炉の内部調査が行われたのは初めてです。\n\n\n2011年に起きた福島第一原発の事故で、メルトダウンした1号機から3号機の原子炉や、それを覆う格納容器には、溶け落ちた「核燃料デブリ」が大量に残されていて、その取り出しが廃炉作業の大きな課題になっています。\n\nこのうち2号機では、これまでに格納容器の底部にある核燃料デブリの試験的な取り出しが行われましたが、原子炉自体に関する情報はほとんど得られていません。\n\nこのため東京電力は16日、ファイバースコープを使った原子炉の内部調査を行いました。\n\n調査に使われたファイバースコープは直径およそ5ミリ、長さ30メートルで、格納容器の外側から、細い配管を通じて原子炉の中まで入れ、内部の構造物などの撮影や放射線量の測定などを行ったということです。\n\n東京電力は今後、今回の調査で得られた映像などの情報を詳しく分析することにしています。\n\n調査は当初、3日間行われる予定でしたが14日、ファイバースコープを配管に入れて送り込む途中で、奥に進まなくなる不具合が起き、15日、改めて強く押し込んだところ解消しましたが、調査期間は短縮され16日、1日になったということです。\n\n原発事故のあと、メルトダウンが起きた原子炉の内部調査が行われたのは初めてで、東京電力は核燃料デブリの取り出しに向けた工法の検討などにいかすことにしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "東京電力は、福島第一原子力発電所2号機で16日、原子炉にファイバースコープを入れ、内部調査を行ったと発表しました。原発事故のあと、メルトダウンが起きた原子炉の内部調査が行われたのは初めてです。\n",
+    "markedBody": "2011年に起きた福島第一原発の事故で、メルトダウンした1号機から3号機の原子炉や、それを覆う格納容器には、溶け落ちた「核燃料デブリ」が大量に残されていて、その取り出しが廃炉作業の大きな課題になっています。\n\nこのうち2号機では、これまでに格納容器の底部にある核燃料デブリの試験的な取り出しが行われましたが、原子炉自体に関する情報はほとんど得られていません。\n\nこのため東京電力は16日、ファイバースコープを使った原子炉の内部調査を行いました。\n\n調査に使われたファイバースコープは直径およそ5ミリ、長さ30メートルで、格納容器の外側から、細い配管を通じて原子炉の中まで入れ、内部の構造物などの撮影や放射線量の測定などを行ったということです。\n\n東京電力は今後、今回の調査で得られた映像などの情報を詳しく分析することにしています。\n\n調査は当初、3日間行われる予定でしたが14日、ファイバースコープを配管に入れて送り込む途中で、奥に進まなくなる不具合が起き、15日、改めて強く押し込んだところ解消しましたが、調査期間は短縮され16日、1日になったということです。\n\n原発事故のあと、メルトダウンが起きた原子炉の内部調査が行われたのは初めてで、東京電力は核燃料デブリの取り出しに向けた工法の検討などにいかすことにしています。\n",
+    "trimmedLead": "東京電力は、福島第一原子力発電所2号機で16日、原子炉にファイバースコープを入れ、内部調査を行ったと発表しました。原発事故のあと、メルトダウンが起きた原子炉の内部調査が行われたのは初めてです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015100991000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015100991000",
+  "video": [],
+  "citation": [
+    {
+      "name": "東京電力柏崎刈羽原発6号機が営業運転 首都圏などに電力供給",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015100901000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260416/K10015100901_2604161545_0416160515_01_02.jpg",
+      "datePublished": "2026-04-16T18:31:48+09:00"
+    },
+    {
+      "name": "原発事故 東電旧経営陣の強制起訴裁判の記録 永久保存を要望",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015099941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260415/K10015099941_2604151412_0415142647_01_03.jpg",
+      "datePublished": "2026-04-15T14:26:47+09:00"
+    },
+    {
+      "name": "京都 11歳男児遺体遺棄事件 父親が殺害も認める供述 警察",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015100451000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260416/K10015100451_2604161004_0416100953_01_03.jpg",
+      "datePublished": "2026-04-16T18:10:59+09:00"
+    },
+    {
+      "name": "熊本地震 本震から10年 追悼と復興の動き",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015100621000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260416/K10015100621_2604161600_0416165127_01_02.jpg",
+      "datePublished": "2026-04-16T18:30:56+09:00"
+    },
+    {
+      "name": "熊本地震10年 県と市町村初の合同追悼式 記憶と教訓の継承誓う",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015100301000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260416/K10015100301_2604161203_0416121111_01_02.jpg",
+      "datePublished": "2026-04-16T16:15:41+09:00"
+    },
+    {
+      "name": "サントリーHD 新浪元会長を書類送検 麻薬取締法違反の疑い",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015100571000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260416/K10015100571_2604161009_0416115916_01_02.jpg",
+      "datePublished": "2026-04-16T12:19:59+09:00"
+    },
+    {
+      "name": "タイム誌「世界で最も影響力のある100人」日本から高市首相",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015100471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260416/K10015100471_2604160205_0416073422_01_02.jpg",
+      "datePublished": "2026-04-16T12:11:40+09:00"
+    },
+    {
+      "name": "新潟 店員が切られけが 77歳の容疑者を逮捕 銃刀法違反の疑い",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015100591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260416/K10015100591_2604161030_0416110046_01_02.jpg",
+      "datePublished": "2026-04-16T15:41:58+09:00"
+    },
+    {
+      "name": "ドジャース 大谷翔平 投手専念で今季2勝目 毎回の10奪三振",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015100581000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260416/K10015100581_2604161509_0416150928_01_02.jpg",
+      "datePublished": "2026-04-16T18:11:24+09:00"
+    },
+    {
+      "name": "サッカーW杯6月開幕 日本の対戦相手は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015100651000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260416/K10015100651_2604161139_0416163322_01_02.jpg",
+      "datePublished": "2026-04-16T16:33:21+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

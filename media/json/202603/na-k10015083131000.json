@@ -1,0 +1,159 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015083131000",
+  "dataSourceId": "na",
+  "name": "衆院議運 26日に本会議 首相から訪米の報告・質疑で与野党合意",
+  "headline": "衆院議運 26日に本会議 首相から訪米の報告・質疑で与野党合意",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015083131000",
+    "playlistId": "news-nwa-politics-nationwide-20260324",
+    "newsarticleName": "衆院議運 26日に本会議 首相から訪米の報告・質疑で与野党合意",
+    "playlistName": "3月24日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "衆議院議院運営委員会の理事会が開かれ、26日に本会議を開き、高市総理大臣に出席を求めて先のアメリカ訪問について報告を受け、質疑を行うことで与野党が合意しました。\n\n\n衆議院議院運営委員会は24日、断続",
+  "dateModified": "2026-03-24T20:27:36+09:00",
+  "datePublished": "2026-03-24T20:27:36+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260324/K10015083131_2603241817_0324202737_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260324/K10015083131_2603241817_0324202737_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0001582",
+      "name": "日米首脳会談",
+      "display": true
+    },
+    {
+      "id": "0002392",
+      "name": "国会",
+      "display": true
+    },
+    {
+      "id": "0002393",
+      "name": "衆議院",
+      "display": true
+    },
+    {
+      "id": "0002672",
+      "name": "高市内閣",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "衆議院議院運営委員会の理事会が開かれ、26日に本会議を開き、高市総理大臣に出席を求めて先のアメリカ訪問について報告を受け、質疑を行うことで与野党が合意しました。\n\n\n衆議院議院運営委員会は24日、断続",
+  "articleBody": "衆議院議院運営委員会の理事会が開かれ、26日に本会議を開き、高市総理大臣に出席を求めて先のアメリカ訪問について報告を受け、質疑を行うことで与野党が合意しました。\n\n\n衆議院議院運営委員会は24日、断続的に理事会を開き、今後の日程について協議しました。\n\nこの中で、与党側は、野党側からの要望を踏まえ、26日に衆議院本会議を開き、高市総理大臣に出席を求めてトランプ大統領との日米首脳会談が行われた先のアメリカ訪問について報告を受けるとともに質疑を行いたいと提案しました。\n\n野党側はこれに応じ、帰国報告と質疑を行うことで与野党が合意しました。\n\nまた、与党側は、インテリジェンス機能の強化に向けて「国家情報局」を設置する法案の趣旨説明と質疑を本会議で行うことを提案し、引き続き、協議することになりました。\n",
+  "detailedArticleBody": {
+    "markedLead": "衆議院議院運営委員会の理事会が開かれ、26日に本会議を開き、高市総理大臣に出席を求めて先のアメリカ訪問について報告を受け、質疑を行うことで与野党が合意しました。\n",
+    "markedBody": "衆議院議院運営委員会は24日、断続的に理事会を開き、今後の日程について協議しました。\n\nこの中で、与党側は、野党側からの要望を踏まえ、26日に衆議院本会議を開き、高市総理大臣に出席を求めてトランプ大統領との日米首脳会談が行われた先のアメリカ訪問について報告を受けるとともに質疑を行いたいと提案しました。\n\n野党側はこれに応じ、帰国報告と質疑を行うことで与野党が合意しました。\n\nまた、与党側は、インテリジェンス機能の強化に向けて「国家情報局」を設置する法案の趣旨説明と質疑を本会議で行うことを提案し、引き続き、協議することになりました。\n",
+    "trimmedLead": "衆議院議院運営委員会の理事会が開かれ、26日に本会議を開き、高市総理大臣に出席を求めて先のアメリカ訪問について報告を受け、質疑を行うことで与野党が合意しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015083131000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015083131000",
+  "video": [],
+  "citation": [
+    {
+      "name": "トランプ大統領 “協議経て攻撃延期” イラン側は協議自体否定",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260323/K10015082331_2603232032_0323204307_01_02.jpg",
+      "datePublished": "2026-03-24T19:26:40+09:00"
+    },
+    {
+      "name": "株価 一時1100円以上値上がりも 売り注文増え値上がり幅は縮小",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260324/K10015082471_2603241546_0324162350_01_02.jpg",
+      "datePublished": "2026-03-24T16:14:35+09:00"
+    },
+    {
+      "name": "石油「国家備蓄」放出 全国11か所の備蓄基地から順次 経産相",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082861000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260324/K10015082861_2603241429_0324150227_01_02.jpg",
+      "datePublished": "2026-03-24T15:02:26+09:00"
+    },
+    {
+      "name": "データ通信用SIM 契約時本人確認義務づけへ 法改正案 閣議決定",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260324/K10015082801_2603241430_0324145240_01_03.jpg",
+      "datePublished": "2026-03-24T14:52:39+09:00"
+    },
+    {
+      "name": "両陛下にかぜ症状 天皇ご一家 25日からの岩手宮城訪問を延期",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260324/K10015082811_2603241349_0324145521_01_02.jpg",
+      "datePublished": "2026-03-24T16:52:36+09:00"
+    },
+    {
+      "name": "トヨタが米国工場に1600億円投資を発表 HV車の生産能力強化へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082451000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260324/K10015082451_2603240726_0324080949_01_02.jpg",
+      "datePublished": "2026-03-24T08:09:48+09:00"
+    },
+    {
+      "name": "新年度予算案めぐり暫定予算案を検討 野党側は充実審議求める",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082271000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260324/K10015082271_2603232222_0324060644_01_02.jpg",
+      "datePublished": "2026-03-24T19:22:10+09:00"
+    },
+    {
+      "name": "マンション大規模修繕の闇～なりすまし見抜いた住民たちの記録",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015079521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260323/K10015079521_2603191648_0323133828_01_02.jpg",
+      "datePublished": "2026-03-23T13:38:27+09:00"
+    },
+    {
+      "name": "“分岐点の4年”へ 教員不足と働き方改革",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015081871000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260323/K10015081871_2603231225_0323160922_01_02.jpg",
+      "datePublished": "2026-03-23T16:09:21+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

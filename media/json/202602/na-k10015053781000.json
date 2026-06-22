@@ -1,0 +1,145 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015053781000",
+  "dataSourceId": "na",
+  "name": "高市首相動静 2026年2月16日",
+  "headline": "高市首相動静 2026年2月16日",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015053781000",
+    "playlistId": "news-nwa-politics-nationwide-20260217",
+    "newsarticleName": "高市首相動静 2026年2月16日",
+    "playlistName": "2月17日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "（2026年2月16日）\n\n\n10:55 徒歩で公邸発\n10:56 官邸着\n13:36 自民党の鈴木宗男参議院議員と面会（～13:55）\n14:30 北朝鮮による拉致被害者家族の横田早紀江さんらと面会",
+  "dateModified": "2026-02-17T08:45:06+09:00",
+  "datePublished": "2026-02-17T08:45:06+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260217/K10015053781_2602170835_0217084507_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260217/K10015053781_2602170835_0217084507_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0002532",
+      "name": "首相動静",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "（2026年2月16日）\n\n\n10:55 徒歩で公邸発\n10:56 官邸着\n13:36 自民党の鈴木宗男参議院議員と面会（～13:55）\n14:30 北朝鮮による拉致被害者家族の横田早紀江さんらと面会",
+  "articleBody": "（2026年2月16日）\n\n\n10:55 徒歩で公邸発\n10:56 官邸着\n13:36 自民党の鈴木宗男参議院議員と面会（～13:55）\n14:30 北朝鮮による拉致被害者家族の横田早紀江さんらと面会。木原稔官房長官ら同席（～15:03）\n15:10 自民党の小林鷹之政務調査会長、小野寺五典税制調査会長、財務省の宇波弘貴主計局長、青木孝徳主税局長と面会。木原、尾崎正直、佐藤啓、露木康浩正副官房長官同席（～15:30）\n15:31 自民党の小林政務調査会長、小野寺税制調査会長と面会（～15:55）\n15:56 神道政治連盟の打田文博会長と面会（～16:06）\n16:10 赤澤亮正経済産業大臣、市川恵一国家安全保障局長、外務省の股野元貞経済局長、財務省の三村淳財務官、緒方健太郎国際局長、経済産業省の荒井勝喜通商政策局長と面会。木原官房長官同席（～16:32）\n16:40 太宰府天満宮「梅の使節」の西高辻信宏宮司らの表敬（～16:51）\n17:01 日銀の植田和男総裁と会談（～17:17）\n18:26 徒歩で官邸発\n18:27 公邸着\n",
+  "detailedArticleBody": {
+    "markedLead": "（2026年2月16日）\n",
+    "markedBody": "10:55 徒歩で公邸発\\\n10:56 官邸着\\\n13:36 自民党の鈴木宗男参議院議員と面会（～13:55）\\\n14:30 北朝鮮による拉致被害者家族の横田早紀江さんらと面会。木原稔官房長官ら同席（～15:03）\\\n15:10 自民党の小林鷹之政務調査会長、小野寺五典税制調査会長、財務省の宇波弘貴主計局長、青木孝徳主税局長と面会。木原、尾崎正直、佐藤啓、露木康浩正副官房長官同席（～15:30）\\\n15:31 自民党の小林政務調査会長、小野寺税制調査会長と面会（～15:55）\\\n15:56 神道政治連盟の打田文博会長と面会（～16:06）\\\n16:10 赤澤亮正経済産業大臣、市川恵一国家安全保障局長、外務省の股野元貞経済局長、財務省の三村淳財務官、緒方健太郎国際局長、経済産業省の荒井勝喜通商政策局長と面会。木原官房長官同席（～16:32）\\\n16:40 太宰府天満宮「梅の使節」の西高辻信宏宮司らの表敬（～16:51）\\\n17:01 日銀の植田和男総裁と会談（～17:17）\\\n18:26 徒歩で官邸発\\\n18:27 公邸着\n",
+    "trimmedLead": "（2026年2月16日）\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015053781000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015053781000",
+  "video": [],
+  "citation": [
+    {
+      "name": "政府・自民 国民会議早期開始で調整 食料品消費税2年間ゼロで",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260217/K10015053401_2602162320_0217051411_01_02.jpg",
+      "datePublished": "2026-02-17T05:14:10+09:00"
+    },
+    {
+      "name": "フィギュア ペア “りくりゅう” 金メダル 日本勢で初 五輪",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260217/K10015053671_2602170639_0217065801_01_02.jpg",
+      "datePublished": "2026-02-17T11:06:36+09:00"
+    },
+    {
+      "name": "日本が獲得したメダル18個に 過去最多の前回・北京大会に並ぶ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053681000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260217/K10015053681_2602170635_0217070135_01_02.jpg",
+      "datePublished": "2026-02-17T07:57:21+09:00"
+    },
+    {
+      "name": "ミラノ・コルティナ五輪【結果】2/16～17タイムライン",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053491000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260216/K10015053491_2602180115_0218011714_01_02.jpg",
+      "datePublished": "2026-02-17T21:32:25+09:00"
+    },
+    {
+      "name": "インフルエンザ患者数 前週の約1.4倍に 5週連続増 B型割合増加",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053201000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260216/K10015053201_2602161626_0216163534_01_02.jpg",
+      "datePublished": "2026-02-16T16:35:33+09:00"
+    },
+    {
+      "name": "東京都「スギ花粉が飛び始めた」と発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260216/K10015053521_2602162130_0216214257_01_02.jpg",
+      "datePublished": "2026-02-16T21:42:56+09:00"
+    },
+    {
+      "name": "東広島 男性死亡 窓ガラス割られ押し入った人物に襲われたか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260217/K10015053421_2602170002_0217051137_01_02.jpg",
+      "datePublished": "2026-02-17T05:11:37+09:00"
+    },
+    {
+      "name": "特殊詐欺など国境越えた犯罪対処 日本が東南アジア4か国を支援",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260217/K10015053461_2602162256_0217060456_01_02.jpg",
+      "datePublished": "2026-02-17T06:04:56+09:00"
+    },
+    {
+      "name": "“ルフィ”広域強盗 藤田被告に無期懲役【判決内容を詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260216/K10015053221_2602161538_0216154101_01_02.jpg",
+      "datePublished": "2026-02-16T21:12:39+09:00"
+    },
+    {
+      "name": "三井住友銀行の労組 実質10％超の賃上げ要求する方針固める",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053211000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260216/K10015053211_2602161508_0216154405_01_02.jpg",
+      "datePublished": "2026-02-16T22:25:15+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

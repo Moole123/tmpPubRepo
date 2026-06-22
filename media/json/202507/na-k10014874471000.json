@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014874471000",
+  "dataSourceId": "na",
+  "name": "愛媛 伊予 認定こども園で“異臭”通報 5歳女児が病院に搬送",
+  "headline": "愛媛 伊予 認定こども園で“異臭”通報 5歳女児が病院に搬送",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014874471000",
+    "playlistId": "news-nwa-society-nationwide-20250725",
+    "newsarticleName": "愛媛 伊予 認定こども園で“異臭”通報 5歳女児が病院に搬送",
+    "playlistName": "7月25日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "25日午後、愛媛県伊予市にある認定こども園で「異臭がする」と通報があり、5歳の女の子、1人が病院に運ばれました。命に別状はないということで、警察と消防が詳しい状況を調べています。\n\n\n25日午後0時4",
+  "dateModified": "2025-07-25T18:45:52+09:00",
+  "datePublished": "2025-07-25T18:12:14+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250725/K10014874471_2507251754_0725180229_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250725/K10014874471_2507251754_0725180229_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "25日午後、愛媛県伊予市にある認定こども園で「異臭がする」と通報があり、5歳の女の子、1人が病院に運ばれました。命に別状はないということで、警察と消防が詳しい状況を調べています。\n\n\n25日午後0時4",
+  "articleBody": "25日午後、愛媛県伊予市にある認定こども園で「異臭がする」と通報があり、5歳の女の子、1人が病院に運ばれました。命に別状はないということで、警察と消防が詳しい状況を調べています。\n\n\n25日午後0時40分ごろ、伊予市下三谷にある認定こども園で「異臭がしてせき込んでいる人がいる」と職員から消防に通報がありました。\n\n警察によりますと、これまでに5歳の女の子1人が病院に運ばれたほか、女性職員4人が体調不良を訴えているということです。\n\nいずれも意識はあり、命に別状はないということです。\n\n当時、園には職員25人と園児70人がいて、全員外に避難したということで、警察と消防が詳しい状況を調べています。\n\n現場はJR予讃線の鳥ノ木駅から東に800メートルほど離れた住宅や田畑などが点在する地域です。\n",
+  "detailedArticleBody": {
+    "markedLead": "25日午後、愛媛県伊予市にある認定こども園で「異臭がする」と通報があり、5歳の女の子、1人が病院に運ばれました。命に別状はないということで、警察と消防が詳しい状況を調べています。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20250725/K10014874471_2507251801_0725180229_02_03.jpg)\n\n25日午後0時40分ごろ、伊予市下三谷にある認定こども園で「異臭がしてせき込んでいる人がいる」と職員から消防に通報がありました。\n\n警察によりますと、これまでに5歳の女の子1人が病院に運ばれたほか、女性職員4人が体調不良を訴えているということです。\n\nいずれも意識はあり、命に別状はないということです。\n\n当時、園には職員25人と園児70人がいて、全員外に避難したということで、警察と消防が詳しい状況を調べています。\n\n現場はJR予讃線の鳥ノ木駅から東に800メートルほど離れた住宅や田畑などが点在する地域です。\n",
+    "trimmedLead": "25日午後、愛媛県伊予市にある認定こども園で「異臭がする」と通報があり、5歳の女の子、1人が病院に運ばれました。命に別状はないということで、警察と消防が詳しい状況を調べています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014874471000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014874471000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

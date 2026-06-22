@@ -1,0 +1,177 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015148671000",
+  "dataSourceId": "na",
+  "name": "円相場 小幅な値動き 1ドル＝160円台前半での取り引き",
+  "headline": "円相場 小幅な値動き 1ドル＝160円台前半での取り引き",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015148671000",
+    "playlistId": "news-nwa-business-nationwide-20260612",
+    "newsarticleName": "円相場 小幅な値動き 1ドル＝160円台前半での取り引き",
+    "playlistName": "6月12日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "12日の東京外国為替市場、円相場は小幅な値動きとなり、1ドル＝160円台前半での取り引きが続きました。\n\n\n午後5時時点の円相場は、11日と比べて23銭、円高ドル安の1ドル＝160円27銭～29銭でし",
+  "dateModified": "2026-06-12T18:15:06+09:00",
+  "datePublished": "2026-06-12T18:15:06+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260612/K10015148671_2606121803_0612181506_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260612/K10015148671_2606121803_0612181506_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0000819",
+      "name": "原油価格",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "0000277",
+      "name": "トランプ大統領",
+      "display": true
+    },
+    {
+      "id": "0000820",
+      "name": "イラン情勢",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "12日の東京外国為替市場、円相場は小幅な値動きとなり、1ドル＝160円台前半での取り引きが続きました。\n\n\n午後5時時点の円相場は、11日と比べて23銭、円高ドル安の1ドル＝160円27銭～29銭でし",
+  "articleBody": "12日の東京外国為替市場、円相場は小幅な値動きとなり、1ドル＝160円台前半での取り引きが続きました。\n\n\n午後5時時点の円相場は、11日と比べて23銭、円高ドル安の1ドル＝160円27銭～29銭でした。\n\n一方、ユーロに対しては、10銭、円安ユーロ高の1ユーロ＝185円39銭～43銭でした。\n\nユーロはドルに対して1ユーロ＝1.1567～68ドルでした。\n\n市場関係者は「アメリカのトランプ大統領がイランへの攻撃を中止したと明らかにしたことなどから、イラン情勢が悪化するとの懸念がひとまず和らいだとして原油の先物価格が下落した。こうしたことを受けて、円を買い戻す動きが出たことから、円はドルに対していくぶん値上がりした」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "12日の東京外国為替市場、円相場は小幅な値動きとなり、1ドル＝160円台前半での取り引きが続きました。\n",
+    "markedBody": "午後5時時点の円相場は、11日と比べて23銭、円高ドル安の1ドル＝160円27銭～29銭でした。\n\n一方、ユーロに対しては、10銭、円安ユーロ高の1ユーロ＝185円39銭～43銭でした。\n\nユーロはドルに対して1ユーロ＝1.1567～68ドルでした。\n\n市場関係者は「アメリカのトランプ大統領がイランへの攻撃を中止したと明らかにしたことなどから、イラン情勢が悪化するとの懸念がひとまず和らいだとして原油の先物価格が下落した。こうしたことを受けて、円を買い戻す動きが出たことから、円はドルに対していくぶん値上がりした」と話しています。\n",
+    "trimmedLead": "12日の東京外国為替市場、円相場は小幅な値動きとなり、1ドル＝160円台前半での取り引きが続きました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015148671000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015148671000",
+  "video": [],
+  "citation": [
+    {
+      "name": "株価 一時2800円超上昇 イランへの攻撃中止表明受け",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148121000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148121_2606121005_0612100646_01_02.jpg",
+      "datePublished": "2026-06-12T16:33:23+09:00"
+    },
+    {
+      "name": "東京株式市場 キオクシアHDの時価総額が国内首位に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148141_2606121048_0612111146_01_02.jpg",
+      "datePublished": "2026-06-12T16:30:54+09:00"
+    },
+    {
+      "name": "生命保険の営業職員 新たな呼び名は「ソナエルジュ」に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148651000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148651_2606121720_0612175859_01_02.jpg",
+      "datePublished": "2026-06-12T17:58:59+09:00"
+    },
+    {
+      "name": "スーパーのコメ平均価格 5キロ 税込み3644円 3週連続値下がり",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148621000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148621_2606121727_0612173653_01_02.jpg",
+      "datePublished": "2026-06-12T18:00:29+09:00"
+    },
+    {
+      "name": "スペースX空前のIPO！市場にもたらすものは【経済コラム】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015146861000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015146861_2606121620_0612175954_01_02.jpg",
+      "datePublished": "2026-06-12T17:59:53+09:00"
+    },
+    {
+      "name": "俳優 中村玉緒さん死去 86歳 映画やバラエティー番組で活躍",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148421_2606121319_0612131944_01_02.jpg",
+      "datePublished": "2026-06-12T18:18:20+09:00"
+    },
+    {
+      "name": "H3ロケット打ち上げ成功 6つの小型衛星を軌道に投入 JAXA",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148131_2606121148_0612115757_01_03.jpg",
+      "datePublished": "2026-06-12T18:12:30+09:00"
+    },
+    {
+      "name": "サッカーW杯 開幕 日本代表 遠藤航がけがで離脱 町野を招集",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015147931000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015147931_2606120133_0612013411_01_02.jpg",
+      "datePublished": "2026-06-12T12:02:59+09:00"
+    },
+    {
+      "name": "再審制度の見直し 刑事訴訟法改正案が衆院法務委で可決",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148501000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148501_2606121503_0612163652_01_02.jpg",
+      "datePublished": "2026-06-12T17:57:52+09:00"
+    },
+    {
+      "name": "自民 衆院予算委集中審議 22日開催を提案 中道“充実審議を”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148381000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148381_2606121252_0612144953_01_02.jpg",
+      "datePublished": "2026-06-12T14:49:52+09:00"
+    },
+    {
+      "name": "個人情報保護法改正案 参院で審議入り 立民“氏名など削除を”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015148441_2606121354_0612154001_01_02.jpg",
+      "datePublished": "2026-06-12T15:40:00+09:00"
+    },
+    {
+      "name": "天皇皇后両陛下 13日からオランダ・ベルギーを公式訪問",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015147711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015147711_2606112013_0612052744_01_02.jpg",
+      "datePublished": "2026-06-12T05:27:44+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

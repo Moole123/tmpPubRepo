@@ -1,0 +1,157 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015121141000",
+  "dataSourceId": "na",
+  "name": "株価 一時500円以上の値上がり 取引時間中の最高値を更新",
+  "headline": "株価 一時500円以上の値上がり 取引時間中の最高値を更新",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015121141000",
+    "playlistId": "news-nwa-business-nationwide-20260514",
+    "newsarticleName": "株価 一時500円以上の値上がり 取引時間中の最高値を更新",
+    "playlistName": "5月14日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "14日の東京株式市場、日経平均株価は、一時、500円以上、値上がりして取引時間中の最高値を更新しました。\n\n\n▽日経平均株価、午前の終値は13日と比べて176円76銭、高い6万3448円87銭。\n\n一",
+  "dateModified": "2026-05-14T12:05:21+09:00",
+  "datePublished": "2026-05-14T09:47:32+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260514/K10015121141_2605141132_0514120522_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260514/K10015121141_2605141132_0514120522_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "14日の東京株式市場、日経平均株価は、一時、500円以上、値上がりして取引時間中の最高値を更新しました。\n\n\n▽日経平均株価、午前の終値は13日と比べて176円76銭、高い6万3448円87銭。\n\n一",
+  "articleBody": "14日の東京株式市場、日経平均株価は、一時、500円以上、値上がりして取引時間中の最高値を更新しました。\n\n\n▽日経平均株価、午前の終値は13日と比べて176円76銭、高い6万3448円87銭。\n\n一方、\n▽東証株価指数・トピックスは16.87下がって3902.61となっています。\n\n▽午前の出来高は13億9282万株でした。\n\n市場関係者は「米中首脳会談にはアメリカの半導体大手エヌビディアのCEOも同行していることから投資家の間では中国向けの半導体販売が拡大するとの見方が広がり東京市場でも関連する銘柄に買い注文が集まった。一方、原油価格は高止まりが続いているため、市場全体では値下がりする銘柄が半数以上を占めている。このあとは米中首脳会談の内容によって株価が左右されそうだ」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "14日の東京株式市場、日経平均株価は、一時、500円以上、値上がりして取引時間中の最高値を更新しました。\n",
+    "markedBody": "▽日経平均株価、午前の終値は13日と比べて176円76銭、高い6万3448円87銭。\n\n一方、\\\n▽東証株価指数・トピックスは16.87下がって3902.61となっています。\n\n▽午前の出来高は13億9282万株でした。\n\n市場関係者は「米中首脳会談にはアメリカの半導体大手エヌビディアのCEOも同行していることから投資家の間では中国向けの半導体販売が拡大するとの見方が広がり東京市場でも関連する銘柄に買い注文が集まった。一方、原油価格は高止まりが続いているため、市場全体では値下がりする銘柄が半数以上を占めている。このあとは米中首脳会談の内容によって株価が左右されそうだ」と話しています。\n",
+    "trimmedLead": "14日の東京株式市場、日経平均株価は、一時、500円以上、値上がりして取引時間中の最高値を更新しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015121141000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015121141000",
+  "video": [],
+  "citation": [
+    {
+      "name": "ナスダック・S＆P500指数 最高値を更新 半導体期待も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015121111000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260514/K10015121111_2605140750_0514075127_01_02.jpg",
+      "datePublished": "2026-05-14T07:51:27+09:00"
+    },
+    {
+      "name": "トランプ大統領 中国訪問を開始 きょう習主席と首脳会談へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015121041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260514/K10015121041_2605140130_0514024635_01_02.jpg",
+      "datePublished": "2026-05-14T09:31:42+09:00"
+    },
+    {
+      "name": "再審制度の見直し 刑事訴訟法改正案 あす閣議決定へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120931000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260514/K10015120931_2605140141_0514024831_01_02.jpg",
+      "datePublished": "2026-05-14T10:49:40+09:00"
+    },
+    {
+      "name": "政府 中東情勢受け夏の電気・ガス料金補助を検討へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260514/K10015120941_2605140118_0514055904_01_02.jpg",
+      "datePublished": "2026-05-14T05:59:03+09:00"
+    },
+    {
+      "name": "脳梗塞の回復に脳内の免疫細胞が関与 東京科学大など",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120961000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260514/K10015120961_2605132256_0514053751_01_02.jpg",
+      "datePublished": "2026-05-14T05:37:50+09:00"
+    },
+    {
+      "name": "130億年前の原始的な銀河を観測 金沢大など国際研究チーム",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120951000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260514/K10015120951_2605140004_0514000807_01_02.jpg",
+      "datePublished": "2026-05-14T00:02:06+09:00"
+    },
+    {
+      "name": "エアコン使用でも熱中症で死亡 周囲が高齢者などに声かけを",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015120461_2605131755_0513185017_01_02.jpg",
+      "datePublished": "2026-05-13T20:26:02+09:00"
+    },
+    {
+      "name": "作曲家 大野雄二さん死去 84歳 「ルパン三世」「小さな旅」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120491000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015120491_2605131540_0513160835_01_02.jpg",
+      "datePublished": "2026-05-13T16:08:34+09:00"
+    },
+    {
+      "name": "大相撲夏場所5日目の見どころ 4連勝の大関霧島は平戸海と対戦",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120901000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260514/K10015120901_2605132139_0514054210_01_02.jpg",
+      "datePublished": "2026-05-14T05:42:09+09:00"
+    },
+    {
+      "name": "【プロ野球結果】パ・リーグ 西武が今シーズン初の6連勝",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120891000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015120891_2605132250_0514092851_01_02.jpg",
+      "datePublished": "2026-05-14T09:28:50+09:00"
+    },
+    {
+      "name": "J1特別大会 第12節 神戸5試合ぶり勝ち点3 首位の名古屋と並ぶ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015121021000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015121021_2605132250_0513225233_01_02.jpg",
+      "datePublished": "2026-05-13T22:38:04+09:00"
+    },
+    {
+      "name": "金利も価格も上昇 住宅購入の注意点は？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119181000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260512/K10015119181_2605121143_0512141027_01_02.jpg",
+      "datePublished": "2026-05-12T14:10:26+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

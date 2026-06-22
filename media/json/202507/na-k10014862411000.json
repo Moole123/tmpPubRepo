@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014862411000",
+  "dataSourceId": "na",
+  "name": "岐阜 本巣 ブラジル国籍の男性 川に流されて死亡",
+  "headline": "岐阜 本巣 ブラジル国籍の男性 川に流されて死亡",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014862411000",
+    "playlistId": "news-nwa-society-nationwide-20250713",
+    "newsarticleName": "岐阜 本巣 ブラジル国籍の男性 川に流されて死亡",
+    "playlistName": "7月13日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "13日午後、岐阜県本巣市で川遊びをしていたブラジル国籍の40歳の男性が流されて死亡しました。\n\n\n13日午後3時半ごろ、岐阜県本巣市山口を流れる根尾川で、「川に流された男性の姿が見えない」と近くにいた",
+  "dateModified": "2025-07-13T20:58:20+09:00",
+  "datePublished": "2025-07-13T20:58:20+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250713/K10014862411_2507132054_0713205731_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250713/K10014862411_2507132054_0713205731_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "13日午後、岐阜県本巣市で川遊びをしていたブラジル国籍の40歳の男性が流されて死亡しました。\n\n\n13日午後3時半ごろ、岐阜県本巣市山口を流れる根尾川で、「川に流された男性の姿が見えない」と近くにいた",
+  "articleBody": "13日午後、岐阜県本巣市で川遊びをしていたブラジル国籍の40歳の男性が流されて死亡しました。\n\n\n13日午後3時半ごろ、岐阜県本巣市山口を流れる根尾川で、「川に流された男性の姿が見えない」と近くにいた人から警察に通報がありました。\n\n警察によりますと、岐阜県大垣市に住むブラジル国籍のデ・メイラ・カモシタ・ルカス・タケオさん（40）が水深およそ3メートルの川底に沈んでいるのが見つかり、病院に運ばれましたが、死亡が確認されました。\n\n友人たちと遊びに来ていて、幅およそ25メートルの川を対岸に向かって泳いでいたところ流されたとみられるということです。\n\n岐阜県では12日も関市でベトナム国籍の男性が死亡するなど、川の事故が相次いでいます。\n",
+  "detailedArticleBody": {
+    "markedLead": "13日午後、岐阜県本巣市で川遊びをしていたブラジル国籍の40歳の男性が流されて死亡しました。\n",
+    "markedBody": "13日午後3時半ごろ、岐阜県本巣市山口を流れる根尾川で、「川に流された男性の姿が見えない」と近くにいた人から警察に通報がありました。\n\n警察によりますと、岐阜県大垣市に住むブラジル国籍のデ・メイラ・カモシタ・ルカス・タケオさん（40）が水深およそ3メートルの川底に沈んでいるのが見つかり、病院に運ばれましたが、死亡が確認されました。\n\n友人たちと遊びに来ていて、幅およそ25メートルの川を対岸に向かって泳いでいたところ流されたとみられるということです。\n\n岐阜県では12日も関市でベトナム国籍の男性が死亡するなど、川の事故が相次いでいます。\n",
+    "trimmedLead": "13日午後、岐阜県本巣市で川遊びをしていたブラジル国籍の40歳の男性が流されて死亡しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014862411000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014862411000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

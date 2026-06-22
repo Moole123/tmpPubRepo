@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014942941000",
+  "dataSourceId": "na",
+  "name": "インドネシア 学校崩壊から1週間 60人死亡 今も3人が行方不明",
+  "headline": "インドネシア 学校崩壊から1週間 60人死亡 今も3人が行方不明",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014942941000",
+    "playlistId": "news-nwa-international-nationwide-20251007",
+    "newsarticleName": "インドネシア 学校崩壊から1週間 60人死亡 今も3人が行方不明",
+    "playlistName": "10月7日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "インドネシアの東ジャワ州でイスラム教の学校の建物が崩壊した事故は発生から1週間余りがたち、死亡した人は60人に上り、今も3人の行方がわかっておらず捜索が続いています。\n\n\nインドネシアでは東ジャワ州の",
+  "dateModified": "2025-10-07T07:08:13+09:00",
+  "datePublished": "2025-10-07T07:08:13+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-640x360.png",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "インドネシアの東ジャワ州でイスラム教の学校の建物が崩壊した事故は発生から1週間余りがたち、死亡した人は60人に上り、今も3人の行方がわかっておらず捜索が続いています。\n\n\nインドネシアでは東ジャワ州の",
+  "articleBody": "インドネシアの東ジャワ州でイスラム教の学校の建物が崩壊した事故は発生から1週間余りがたち、死亡した人は60人に上り、今も3人の行方がわかっておらず捜索が続いています。\n\n\nインドネシアでは東ジャワ州のスラバヤ近郊で先月29日の午後、イスラム教の寄宿学校の建物が突然、崩壊し、大勢の生徒ががれきのなかに閉じ込められました。\n\n現地では発生から1週間余りがたつなか捜索活動が続いていて、国家防災庁によりますと6日夕方の時点で60人の死亡が確認され、99人が手当てを受けていて、今も3人の行方がわかっていないということです。\n\nこの学校では崩壊した建物で上層階の増築に向けた工事を進めていて、当局は基礎の強度が不十分で建物が重さに耐えられなかった可能性があるとみて、原因を調べています。\n\n地元メディアは当局の話として国内の多くのイスラム教の寄宿学校で建築許可を得ないまま建物が建設されていると伝えていて、政府は建築状況の確認を進める方針を示しているということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "インドネシアの東ジャワ州でイスラム教の学校の建物が崩壊した事故は発生から1週間余りがたち、死亡した人は60人に上り、今も3人の行方がわかっておらず捜索が続いています。\n",
+    "markedBody": "インドネシアでは東ジャワ州のスラバヤ近郊で先月29日の午後、イスラム教の寄宿学校の建物が突然、崩壊し、大勢の生徒ががれきのなかに閉じ込められました。\n\n現地では発生から1週間余りがたつなか捜索活動が続いていて、国家防災庁によりますと6日夕方の時点で60人の死亡が確認され、99人が手当てを受けていて、今も3人の行方がわかっていないということです。\n\nこの学校では崩壊した建物で上層階の増築に向けた工事を進めていて、当局は基礎の強度が不十分で建物が重さに耐えられなかった可能性があるとみて、原因を調べています。\n\n地元メディアは当局の話として国内の多くのイスラム教の寄宿学校で建築許可を得ないまま建物が建設されていると伝えていて、政府は建築状況の確認を進める方針を示しているということです。\n",
+    "trimmedLead": "インドネシアの東ジャワ州でイスラム教の学校の建物が崩壊した事故は発生から1週間余りがたち、死亡した人は60人に上り、今も3人の行方がわかっておらず捜索が続いています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014942941000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014942941000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": false,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

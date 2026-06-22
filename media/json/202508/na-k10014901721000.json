@@ -1,0 +1,101 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014901721000",
+  "dataSourceId": "na",
+  "name": "神戸 女性殺害事件 容疑者は数日前から現場近くのホテルに宿泊",
+  "headline": "神戸 女性殺害事件 容疑者は数日前から現場近くのホテルに宿泊",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014901721000",
+    "playlistId": "news-nwa-society-nationwide-20250824",
+    "newsarticleName": "神戸 女性殺害事件 容疑者は数日前から現場近くのホテルに宿泊",
+    "playlistName": "8月24日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "神戸市のマンションで24歳の女性が刃物で刺されて殺害された事件で、逮捕された35歳の会社員は、事件の数日前から現場近くのホテルに宿泊していたことが捜査関係者への取材で分かりました。警察は神戸での足取り",
+  "dateModified": "2025-08-24T05:06:02+09:00",
+  "datePublished": "2025-08-24T05:06:02+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250824/K10014901721_2508232353_0823235625_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250824/K10014901721_2508232353_0823235625_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "神戸市のマンションで24歳の女性が刃物で刺されて殺害された事件で、逮捕された35歳の会社員は、事件の数日前から現場近くのホテルに宿泊していたことが捜査関係者への取材で分かりました。警察は神戸での足取り",
+  "articleBody": "神戸市のマンションで24歳の女性が刃物で刺されて殺害された事件で、逮捕された35歳の会社員は、事件の数日前から現場近くのホテルに宿泊していたことが捜査関係者への取材で分かりました。警察は神戸での足取りなどを詳しく調べています。\n\n\n東京 新宿区の会社員、谷本将志容疑者（35）は8月20日、神戸市内のマンションのエレベーターの中で、帰宅した24歳の会社員の女性の胸などをナイフで数回刺して殺害した疑いが持たれています。\n\n捜査関係者によりますと、容疑者は事件の3日前の8月17日から休暇を取り、事件の数日前に神戸市内に入ったと見られています。さらに現場近くにあるホテルに宿泊していたことが分かりました。\n\n警察の調べに対し「殺意を持っていたか分からないがナイフで刺したことに間違いない」と供述していますが、これまでの取り調べでは被害者と面識があったという趣旨の供述は出ていないということです。\n\n警察は神戸での足取りや事件のいきさつを詳しく調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "神戸市のマンションで24歳の女性が刃物で刺されて殺害された事件で、逮捕された35歳の会社員は、事件の数日前から現場近くのホテルに宿泊していたことが捜査関係者への取材で分かりました。警察は神戸での足取りなどを詳しく調べています。\n",
+    "markedBody": "東京 新宿区の会社員、谷本将志容疑者（35）は8月20日、神戸市内のマンションのエレベーターの中で、帰宅した24歳の会社員の女性の胸などをナイフで数回刺して殺害した疑いが持たれています。\n\n捜査関係者によりますと、容疑者は事件の3日前の8月17日から休暇を取り、事件の数日前に神戸市内に入ったと見られています。さらに現場近くにあるホテルに宿泊していたことが分かりました。\n\n警察の調べに対し「殺意を持っていたか分からないがナイフで刺したことに間違いない」と供述していますが、これまでの取り調べでは被害者と面識があったという趣旨の供述は出ていないということです。\n\n警察は神戸での足取りや事件のいきさつを詳しく調べています。\n",
+    "trimmedLead": "神戸市のマンションで24歳の女性が刃物で刺されて殺害された事件で、逮捕された35歳の会社員は、事件の数日前から現場近くのホテルに宿泊していたことが捜査関係者への取材で分かりました。警察は神戸での足取りなどを詳しく調べています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014901721000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014901721000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "神戸 女性殺害事件 容疑者は数日前から現場近くのホテルに宿泊",
+      "description": "神戸市のマンションで24歳の女性が刃物で刺されて殺害された事件で、逮捕された35歳の会社員は、事件の数日前から現場近くのホテルに宿泊していたことが捜査関係者への取材で分かりました。警察は神戸での足取り",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10014901721_202508240654_202508240655/index.m3u8&mrposter=/news/html/20250824/K10014901721_2508232353_0823235625_01_02.jpg",
+      "duration": "PT54S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10014901721_202508240654_202508240655/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20250824/K10014901721_2508232353_0823235625_01_02.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

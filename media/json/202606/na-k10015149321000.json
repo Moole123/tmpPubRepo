@@ -1,0 +1,160 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015149321000",
+  "dataSourceId": "na",
+  "name": "ドジャース大谷翔平 2試合ぶり先発復帰で14号先頭打者本塁打",
+  "headline": "ドジャース大谷翔平 2試合ぶり先発復帰で14号先頭打者本塁打",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015149321000",
+    "playlistId": "news-nwa-sports-nationwide-20260614",
+    "newsarticleName": "ドジャース大谷翔平 2試合ぶり先発復帰で14号先頭打者本塁打",
+    "playlistName": "6月14日のスポーツニュース",
+    "genreId": "sports",
+    "genreIdSlug": "sports"
+  },
+  "description": "大リーグ、ドジャースの大谷翔平選手が13日、ホワイトソックス戦に1番・指名打者で先発出場し、1回の第1打席に今シーズン14号となる先頭打者ホームランを打ちました。大谷選手は左ひざの炎症で前日の試合は欠",
+  "dateModified": "2026-06-14T06:19:20+09:00",
+  "datePublished": "2026-06-14T05:22:34+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260614/K10015149321_2606140622_0614063020_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260614/K10015149321_2606140622_0614063020_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "スポーツ"
+  ],
+  "topic": [
+    {
+      "id": "0002020",
+      "name": "大谷翔平",
+      "display": true
+    },
+    {
+      "id": "0000006",
+      "name": "大リーグ",
+      "display": true
+    },
+    {
+      "id": "0001591",
+      "name": "野球",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "大リーグ、ドジャースの大谷翔平選手が13日、ホワイトソックス戦に1番・指名打者で先発出場し、1回の第1打席に今シーズン14号となる先頭打者ホームランを打ちました。大谷選手は左ひざの炎症で前日の試合は欠",
+  "articleBody": "大リーグ、ドジャースの大谷翔平選手が13日、ホワイトソックス戦に1番・指名打者で先発出場し、1回の第1打席に今シーズン14号となる先頭打者ホームランを打ちました。大谷選手は左ひざの炎症で前日の試合は欠場していましたが、2試合ぶりに復帰して最初の打席でホームランを打ちました。出場した試合では3試合連続のホームランと好調が続いています。\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "大リーグ、ドジャースの大谷翔平選手が13日、ホワイトソックス戦に1番・指名打者で先発出場し、1回の第1打席に今シーズン14号となる先頭打者ホームランを打ちました。大谷選手は左ひざの炎症で前日の試合は欠場していましたが、2試合ぶりに復帰して最初の打席でホームランを打ちました。出場した試合では3試合連続のホームランと好調が続いています。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20260614/K10015149321_2606140601_0614061921_02_03.jpg)\n",
+    "trimmedLead": "大リーグ、ドジャースの大谷翔平選手が13日、ホワイトソックス戦に1番・指名打者で先発出場し、1回の第1打席に今シーズン14号となる先頭打者ホームランを打ちました。大谷選手は左ひざの炎症で前日の試合は欠場していましたが、2試合ぶりに復帰して最初の打席でホームランを打ちました。出場した試合では3試合連続のホームランと好調が続いています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015149321000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015149321000",
+  "video": [],
+  "citation": [
+    {
+      "name": "サッカーＷ杯北中米大会 日本が会場のある米ダラスで最終調整",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015149481000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260614/K10015149481_2606140507_0614051855_01_02.jpg",
+      "datePublished": "2026-06-14T06:03:51+09:00"
+    },
+    {
+      "name": "サッカーW杯 日本初戦前にダラスへサポーターが到着",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015149511000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260614/K10015149511_2606140514_0614054816_01_02.jpg",
+      "datePublished": "2026-06-14T05:48:16+09:00"
+    },
+    {
+      "name": "陸上日本選手権 女子100mハードル 中島ひとみが初優勝",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015149341000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260613/K10015149341_2606131828_0613183922_01_02.jpg",
+      "datePublished": "2026-06-13T21:43:37+09:00"
+    },
+    {
+      "name": "陸上日本選手権 男子100m 多田修平が5年ぶり2回目の優勝",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015149361000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260613/K10015149361_2606131847_0613191034_01_02.jpg",
+      "datePublished": "2026-06-13T22:35:20+09:00"
+    },
+    {
+      "name": "陸上日本選手権 女子800m 18歳の久保凛が大会3連覇",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015149381000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260613/K10015149381_2606132009_0613201125_01_02.jpg",
+      "datePublished": "2026-06-13T20:11:24+09:00"
+    },
+    {
+      "name": "Jリーグで17年ぶりにオールスターゲーム カズも登場",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015149451000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260613/K10015149451_2606132240_0613224547_01_02.jpg",
+      "datePublished": "2026-06-13T22:45:46+09:00"
+    },
+    {
+      "name": "【プロ野球結果】交流戦 ソフトバンクが首位 西武は3位に後退",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015149431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260613/K10015149431_2606132219_0614063226_01_02.jpg",
+      "datePublished": "2026-06-13T22:16:03+09:00"
+    },
+    {
+      "name": "【随時更新】サッカーＷ杯 1次リーグ 全日程・結果",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015147291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260612/K10015147291_2606111633_0612035920_01_02.jpg",
+      "datePublished": "2026-06-13T18:17:57+09:00"
+    },
+    {
+      "name": "“史上最強”日本代表 強さの秘密",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015146871000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260613/K10015146871_2606121733_0613150236_01_02.jpg",
+      "datePublished": "2026-06-13T15:02:35+09:00"
+    },
+    {
+      "name": "“すごイレブン” サッカーW杯 この11人に注目！ピックアップ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015144631000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260610/K10015144631_2606101853_0610191318_01_02.jpg",
+      "datePublished": "2026-06-10T19:13:17+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

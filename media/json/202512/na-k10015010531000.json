@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015010531000",
+  "dataSourceId": "na",
+  "name": "BTSメンバー宅に侵入未遂か 日本人女性を捜査 韓国メディア",
+  "headline": "BTSメンバー宅に侵入未遂か 日本人女性を捜査 韓国メディア",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015010531000",
+    "playlistId": "news-nwa-international-nationwide-20251222",
+    "newsarticleName": "BTSメンバー宅に侵入未遂か 日本人女性を捜査 韓国メディア",
+    "playlistName": "12月22日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "複数の韓国メディアは人気グループ、BTSのメンバーの自宅に侵入しようとしたとして地元警察が50代の日本人女性を捜査していると伝えました。\n\n\n複数の韓国メディアは、22日、BTSのメンバーのジョングク",
+  "dateModified": "2025-12-22T16:53:14+09:00",
+  "datePublished": "2025-12-22T16:53:14+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251222/K10015010531_2512221640_1222165314_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251222/K10015010531_2512221640_1222165314_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "複数の韓国メディアは人気グループ、BTSのメンバーの自宅に侵入しようとしたとして地元警察が50代の日本人女性を捜査していると伝えました。\n\n\n複数の韓国メディアは、22日、BTSのメンバーのジョングク",
+  "articleBody": "複数の韓国メディアは人気グループ、BTSのメンバーの自宅に侵入しようとしたとして地元警察が50代の日本人女性を捜査していると伝えました。\n\n\n複数の韓国メディアは、22日、BTSのメンバーのジョングクさんの自宅に侵入しようとしたとして、地元警察が住居侵入未遂などの疑いで50代の日本人女性を捜査していると伝えました。\n\n女性は先月、ソウルにあるジョングクさんの自宅の鍵を複数回、開けようとしたということです。\n\n女性が韓国国外にいるため、これまでのところ取り調べは行われていないということです。\n\nBTSをめぐってはイベントでメンバーのジンさんに無理やりキスをしたとして先月、日本人の女性が強制わいせつの罪で在宅のまま起訴されています。\n",
+  "detailedArticleBody": {
+    "markedLead": "複数の韓国メディアは人気グループ、BTSのメンバーの自宅に侵入しようとしたとして地元警察が50代の日本人女性を捜査していると伝えました。\n",
+    "markedBody": "複数の韓国メディアは、22日、BTSのメンバーのジョングクさんの自宅に侵入しようとしたとして、地元警察が住居侵入未遂などの疑いで50代の日本人女性を捜査していると伝えました。\n\n女性は先月、ソウルにあるジョングクさんの自宅の鍵を複数回、開けようとしたということです。\n\n女性が韓国国外にいるため、これまでのところ取り調べは行われていないということです。\n\nBTSをめぐってはイベントでメンバーのジンさんに無理やりキスをしたとして先月、日本人の女性が強制わいせつの罪で在宅のまま起訴されています。\n",
+    "trimmedLead": "複数の韓国メディアは人気グループ、BTSのメンバーの自宅に侵入しようとしたとして地元警察が50代の日本人女性を捜査していると伝えました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015010531000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015010531000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": false,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

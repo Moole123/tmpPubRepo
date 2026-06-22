@@ -1,0 +1,157 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015106381000",
+  "dataSourceId": "na",
+  "name": "輸入バルサミコソース自主回収 ニップン キャップ破損判明で",
+  "headline": "ニップン 輸入調味料を自主回収 キャップ破損判明で",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015106381000",
+    "playlistId": "news-nwa-society-nationwide-20260423",
+    "newsarticleName": "輸入バルサミコソース自主回収 ニップン キャップ破損判明で",
+    "playlistName": "4月23日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "製粉大手のニップンは、海外から輸入した調味料の一部でキャップが破損していたとして、商品の自主回収を発表しました。\n\n\nニップンが自主回収するのはイタリアの会社から輸入したバルサミコ酢の調味料、「ジャコ",
+  "dateModified": "2026-04-23T14:19:53+09:00",
+  "datePublished": "2026-04-23T14:19:53+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260423/K10015106381_2604231406_0423141954_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260423/K10015106381_2604231406_0423141954_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002735",
+      "name": "リコール・自主回収",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "製粉大手のニップンは、海外から輸入した調味料の一部でキャップが破損していたとして、商品の自主回収を発表しました。\n\n\nニップンが自主回収するのはイタリアの会社から輸入したバルサミコ酢の調味料、「ジャコ",
+  "articleBody": "製粉大手のニップンは、海外から輸入した調味料の一部でキャップが破損していたとして、商品の自主回収を発表しました。\n\n\nニップンが自主回収するのはイタリアの会社から輸入したバルサミコ酢の調味料、「ジャコバッツィ バルサミコソース」で、去年国内で発売して以降、会社が出荷した3万6300本です。\n\n会社によりますと、今月15日に国内で商品の検査を行っていた際、商品のキャップにへこみを見つけたため詳しく調べたところ、イタリアでの製造過程でキャップのふちが破損したことが分かったということです。\n\nキャップはプラスチック製で、このうち複数の商品で内部に破片が混入したことを確認したとしています。\n\n会社によりますと、キャップをはずさなければ、注ぎ口から破片が出ることはなく、現時点で健康への被害は確認されていないということです。\n\n商品の回収はインターネットで24時間受け付けるほか、電話の場合フリーダイヤル0120-965-067で、平日の午前9時半から午後5時まで問い合わせに対応するとしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "製粉大手のニップンは、海外から輸入した調味料の一部でキャップが破損していたとして、商品の自主回収を発表しました。\n",
+    "markedBody": "ニップンが自主回収するのはイタリアの会社から輸入したバルサミコ酢の調味料、「ジャコバッツィ バルサミコソース」で、去年国内で発売して以降、会社が出荷した3万6300本です。\n\n会社によりますと、今月15日に国内で商品の検査を行っていた際、商品のキャップにへこみを見つけたため詳しく調べたところ、イタリアでの製造過程でキャップのふちが破損したことが分かったということです。\n\nキャップはプラスチック製で、このうち複数の商品で内部に破片が混入したことを確認したとしています。\n\n会社によりますと、キャップをはずさなければ、注ぎ口から破片が出ることはなく、現時点で健康への被害は確認されていないということです。\n\n商品の回収はインターネットで24時間受け付けるほか、電話の場合フリーダイヤル0120-965-067で、平日の午前9時半から午後5時まで問い合わせに対応するとしています。\n",
+    "trimmedLead": "製粉大手のニップンは、海外から輸入した調味料の一部でキャップが破損していたとして、商品の自主回収を発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015106381000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015106381000",
+  "video": [],
+  "citation": [
+    {
+      "name": "「国家情報局」設置法案 賛成多数で衆院通過",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106361000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015106361_2604231408_0423140947_01_02.jpg",
+      "datePublished": "2026-04-24T00:09:52+09:00"
+    },
+    {
+      "name": "株価 6万円の大台初めて突破 その後は売り注文膨らみ値下がり",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106061000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015106061_2604230909_0423091357_01_02.jpg",
+      "datePublished": "2026-04-23T17:52:41+09:00"
+    },
+    {
+      "name": "岩手 大槌町の山林火災 延焼続く 夜を徹して消火活動や警戒へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106021000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015106021_2604231832_0423183351_01_02.jpg",
+      "datePublished": "2026-04-23T19:45:59+09:00"
+    },
+    {
+      "name": "【詳しく】後発地震注意情報 各地で備え 観光業への影響も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105821000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015105821_2604231840_0423184718_01_02.jpg",
+      "datePublished": "2026-04-23T18:47:17+09:00"
+    },
+    {
+      "name": "政府 牧野フライスTOBに中止勧告 “国の安全損なうおそれ”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106171000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015106171_2604231113_0423113935_01_02.jpg",
+      "datePublished": "2026-04-23T14:53:19+09:00"
+    },
+    {
+      "name": "東京ドームシティ 遊具点検中の事故 装置油漏れで座席落下か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106231000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015106231_2604231206_0423123247_01_02.jpg",
+      "datePublished": "2026-04-23T12:32:46+09:00"
+    },
+    {
+      "name": "外国人材確保へ 20道府県が海外と覚書を締結",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105631000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015105631_2604221931_0423061156_01_02.jpg",
+      "datePublished": "2026-04-23T06:11:55+09:00"
+    },
+    {
+      "name": "岩手 紫波町 遺体発見の前日に消防団員もクマに襲われる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105991000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015105991_2604230106_0423052034_01_02.jpg",
+      "datePublished": "2026-04-23T05:20:33+09:00"
+    },
+    {
+      "name": "「偽の逮捕状」投かんの詐欺に注意 愛知・岐阜・三重で相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015105941_2604222207_0422221030_01_03.jpg",
+      "datePublished": "2026-04-22T22:10:30+09:00"
+    },
+    {
+      "name": "米 海上封鎖で経済的圧力 各国の外交続くも協議開催は不透明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105831000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015105831_2604231045_0423115602_01_02.jpg",
+      "datePublished": "2026-04-23T19:02:43+09:00"
+    },
+    {
+      "name": "NYダウ340ドル余値上がり トランプ大統領の停戦延長表明で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106051000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015106051_2604230658_0423071157_01_02.jpg",
+      "datePublished": "2026-04-23T07:11:56+09:00"
+    },
+    {
+      "name": "東京23区中古マンション 平均1億2400万円 30％上昇",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106101000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015106101_2604231017_0423110604_01_02.jpg",
+      "datePublished": "2026-04-23T11:06:04+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

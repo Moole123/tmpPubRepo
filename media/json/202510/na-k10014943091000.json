@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014943091000",
+  "dataSourceId": "na",
+  "name": "自民総務会長に有村治子氏の就任決定",
+  "headline": "自民総務会長に有村治子氏の就任決定",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014943091000",
+    "playlistId": "news-nwa-politics-nationwide-20251007",
+    "newsarticleName": "自民総務会長に有村治子氏の就任決定",
+    "playlistName": "10月7日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "自民党は、党の新しい総務会長に参議院議員の有村治子元女性活躍担当大臣が就任することを正式に決めました。\n\n\n有村氏は参議院比例代表選出の当選5回で、55歳。\n\n麻生派に所属しています。\n\n2001年の",
+  "dateModified": "2025-10-07T10:11:11+09:00",
+  "datePublished": "2025-10-07T10:11:11+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251007/K10014943091_2510070945_1007101112_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251007/K10014943091_2510070945_1007101112_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "自民党は、党の新しい総務会長に参議院議員の有村治子元女性活躍担当大臣が就任することを正式に決めました。\n\n\n有村氏は参議院比例代表選出の当選5回で、55歳。\n\n麻生派に所属しています。\n\n2001年の",
+  "articleBody": "自民党は、党の新しい総務会長に参議院議員の有村治子元女性活躍担当大臣が就任することを正式に決めました。\n\n\n有村氏は参議院比例代表選出の当選5回で、55歳。\n\n麻生派に所属しています。\n\n2001年の参議院選挙で初当選して以降、女性活躍担当大臣などを歴任し、党の広報本部長や参議院政策審議会長なども務めました。\n\nことし8月、臨時の総裁選挙の是非を判断する手続きを総裁選挙管理委員会に委ねることになった両院議員総会では両院議員総会長として議事を進行しました。\n\n去年と今回の総裁選挙では、いずれも高市総裁の推薦人を務めました。\n",
+  "detailedArticleBody": {
+    "markedLead": "自民党は、党の新しい総務会長に参議院議員の有村治子元女性活躍担当大臣が就任することを正式に決めました。\n",
+    "markedBody": "有村氏は参議院比例代表選出の当選5回で、55歳。\n\n麻生派に所属しています。\n\n2001年の参議院選挙で初当選して以降、女性活躍担当大臣などを歴任し、党の広報本部長や参議院政策審議会長なども務めました。\n\nことし8月、臨時の総裁選挙の是非を判断する手続きを総裁選挙管理委員会に委ねることになった両院議員総会では両院議員総会長として議事を進行しました。\n\n去年と今回の総裁選挙では、いずれも高市総裁の推薦人を務めました。\n",
+    "trimmedLead": "自民党は、党の新しい総務会長に参議院議員の有村治子元女性活躍担当大臣が就任することを正式に決めました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014943091000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014943091000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

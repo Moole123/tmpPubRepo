@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014936041000",
+  "dataSourceId": "na",
+  "name": "中国 特殊詐欺繰り返すなどの犯罪組織メンバー11人に死刑判決",
+  "headline": "中国 特殊詐欺繰り返すなどの犯罪組織メンバー11人に死刑判決",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014936041000",
+    "playlistId": "news-nwa-international-nationwide-20250930",
+    "newsarticleName": "中国 特殊詐欺繰り返すなどの犯罪組織メンバー11人に死刑判決",
+    "playlistName": "9月30日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "中国東部・浙江省の裁判所は、ミャンマーを拠点に特殊詐欺を繰り返すなどしていた中国の犯罪組織のメンバー11人に死刑を言い渡しました。\n\n\n中国国営の新華社通信によりますと、東部・浙江省温州の裁判所は29",
+  "dateModified": "2025-09-30T02:35:43+09:00",
+  "datePublished": "2025-09-30T02:35:43+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-640x360.png",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "中国東部・浙江省の裁判所は、ミャンマーを拠点に特殊詐欺を繰り返すなどしていた中国の犯罪組織のメンバー11人に死刑を言い渡しました。\n\n\n中国国営の新華社通信によりますと、東部・浙江省温州の裁判所は29",
+  "articleBody": "中国東部・浙江省の裁判所は、ミャンマーを拠点に特殊詐欺を繰り返すなどしていた中国の犯罪組織のメンバー11人に死刑を言い渡しました。\n\n\n中国国営の新華社通信によりますと、東部・浙江省温州の裁判所は29日、2015年以降、ミャンマーを拠点に特殊詐欺を繰り返したり、あわせて14人を殺害したりしたとして、中国の犯罪組織のメンバー11人に死刑を言い渡しました。\n\nこの犯罪組織は、あわせて100億人民元余り、日本円で2100億円余りの特殊詐欺や賭博などに関与したということです。\n\nまた、裁判所は、犯罪組織の別の5人に執行猶予付きの死刑、11人に無期懲役をそれぞれ言い渡しました。\n\n中国の特殊詐欺の被害は、国営メディアが去年、29万件を超えたと伝えるなど、深刻な社会問題となっていて、政府は、犯罪組織の拠点となっているミャンマーなどと協力して対策を強化しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "中国東部・浙江省の裁判所は、ミャンマーを拠点に特殊詐欺を繰り返すなどしていた中国の犯罪組織のメンバー11人に死刑を言い渡しました。\n",
+    "markedBody": "中国国営の新華社通信によりますと、東部・浙江省温州の裁判所は29日、2015年以降、ミャンマーを拠点に特殊詐欺を繰り返したり、あわせて14人を殺害したりしたとして、中国の犯罪組織のメンバー11人に死刑を言い渡しました。\n\nこの犯罪組織は、あわせて100億人民元余り、日本円で2100億円余りの特殊詐欺や賭博などに関与したということです。\n\nまた、裁判所は、犯罪組織の別の5人に執行猶予付きの死刑、11人に無期懲役をそれぞれ言い渡しました。\n\n中国の特殊詐欺の被害は、国営メディアが去年、29万件を超えたと伝えるなど、深刻な社会問題となっていて、政府は、犯罪組織の拠点となっているミャンマーなどと協力して対策を強化しています。\n",
+    "trimmedLead": "中国東部・浙江省の裁判所は、ミャンマーを拠点に特殊詐欺を繰り返すなどしていた中国の犯罪組織のメンバー11人に死刑を言い渡しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014936041000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014936041000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": false,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

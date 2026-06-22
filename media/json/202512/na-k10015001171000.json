@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015001171000",
+  "dataSourceId": "na",
+  "name": "中国 先月の新車販売台数 去年同月比3.4％増",
+  "headline": "中国 先月の新車販売台数 去年同月比3.4％増",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015001171000",
+    "playlistId": "news-nwa-international-nationwide-20251211",
+    "newsarticleName": "中国 先月の新車販売台数 去年同月比3.4％増",
+    "playlistName": "12月11日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "中国の先月の新車の販売台数は、EV＝電気自動車の販売が好調だったことや、輸出が拡大したことから去年の同じ月と比べて3.4％増えました。ただ、中国の地方政府の間で自動車の買い替えを促す補助金を縮小する動",
+  "dateModified": "2025-12-11T18:11:47+09:00",
+  "datePublished": "2025-12-11T18:11:47+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251211/K10015001171_2512111728_1211181148_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251211/K10015001171_2512111728_1211181148_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際",
+    "経済"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "中国の先月の新車の販売台数は、EV＝電気自動車の販売が好調だったことや、輸出が拡大したことから去年の同じ月と比べて3.4％増えました。ただ、中国の地方政府の間で自動車の買い替えを促す補助金を縮小する動",
+  "articleBody": "中国の先月の新車の販売台数は、EV＝電気自動車の販売が好調だったことや、輸出が拡大したことから去年の同じ月と比べて3.4％増えました。ただ、中国の地方政府の間で自動車の買い替えを促す補助金を縮小する動きが相次いでいて、先行きには不透明感が広がっています。\n\n\n中国の自動車メーカーなどでつくる「自動車工業協会」によりますと、先月の新車の販売台数は輸出を含めて342万9000台で、去年の同じ月と比べて3.4％増えました。\n\n政府が推し進めてきた自動車の買い替え促進策の効果で、EVなどの「新エネルギー車」の販売が20.6％のプラスと大幅に増えたためで、販売台数に占める新エネルギー車の割合は、53.2％となりました。\n\nまた、ガソリン車なども含めた輸出台数は、去年の同じ月と比べて48.5％増えて72万8000台となり、販売台数全体を押し上げました。\n\nただ、中国の国内市場では、値下げ競争の激化でメーカーや販売店の経営環境が厳しさを増しているほか、地方政府の間で、買い替えを促す補助金を縮小する動きが相次いでいて、先行きには不透明感が広がっています。\n",
+  "detailedArticleBody": {
+    "markedLead": "中国の先月の新車の販売台数は、EV＝電気自動車の販売が好調だったことや、輸出が拡大したことから去年の同じ月と比べて3.4％増えました。ただ、中国の地方政府の間で自動車の買い替えを促す補助金を縮小する動きが相次いでいて、先行きには不透明感が広がっています。\n",
+    "markedBody": "中国の自動車メーカーなどでつくる「自動車工業協会」によりますと、先月の新車の販売台数は輸出を含めて342万9000台で、去年の同じ月と比べて3.4％増えました。\n\n政府が推し進めてきた自動車の買い替え促進策の効果で、EVなどの「新エネルギー車」の販売が20.6％のプラスと大幅に増えたためで、販売台数に占める新エネルギー車の割合は、53.2％となりました。\n\nまた、ガソリン車なども含めた輸出台数は、去年の同じ月と比べて48.5％増えて72万8000台となり、販売台数全体を押し上げました。\n\nただ、中国の国内市場では、値下げ競争の激化でメーカーや販売店の経営環境が厳しさを増しているほか、地方政府の間で、買い替えを促す補助金を縮小する動きが相次いでいて、先行きには不透明感が広がっています。\n",
+    "trimmedLead": "中国の先月の新車の販売台数は、EV＝電気自動車の販売が好調だったことや、輸出が拡大したことから去年の同じ月と比べて3.4％増えました。ただ、中国の地方政府の間で自動車の買い替えを促す補助金を縮小する動きが相次いでいて、先行きには不透明感が広がっています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015001171000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015001171000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

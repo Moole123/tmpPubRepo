@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015116511000",
+  "dataSourceId": "na",
+  "name": "【地震情報】福島県で震度3 津波の心配なし",
+  "headline": "【地震情報】福島県で震度3 津波の心配なし",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015116511000",
+    "playlistId": "news-nwa-disaster-nationwide-20260508",
+    "newsarticleName": "【地震情報】福島県で震度3 津波の心配なし",
+    "playlistName": "5月8日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "8日午前8時31分ごろ、福島県で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。\n\n\n震度3の揺れを観測したのは、福島県の楢葉町と富岡町でした。\n\nまた、震度2や1の揺れ",
+  "dateModified": "2026-05-08T08:52:35+09:00",
+  "datePublished": "2026-05-08T08:33:30+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260508/K10015116511_2605080836_0508083721_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260508/K10015116511_2605080836_0508083721_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0002207",
+      "name": "福島県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "8日午前8時31分ごろ、福島県で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。\n\n\n震度3の揺れを観測したのは、福島県の楢葉町と富岡町でした。\n\nまた、震度2や1の揺れ",
+  "articleBody": "8日午前8時31分ごろ、福島県で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。\n\n\n震度3の揺れを観測したのは、福島県の楢葉町と富岡町でした。\n\nまた、震度2や1の揺れを東北や関東の一部で観測しました。\n\n気象庁の観測によりますと、震源地は福島県沖で震源の深さは50キロ、地震の規模を示すマグニチュードは4.6と推定されています。\n",
+  "detailedArticleBody": {
+    "markedLead": "8日午前8時31分ごろ、福島県で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。\n",
+    "markedBody": "震度3の揺れを観測したのは、福島県の楢葉町と富岡町でした。\n\nまた、震度2や1の揺れを東北や関東の一部で観測しました。\n\n気象庁の観測によりますと、震源地は福島県沖で震源の深さは50キロ、地震の規模を示すマグニチュードは4.6と推定されています。\n",
+    "trimmedLead": "8日午前8時31分ごろ、福島県で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015116511000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015116511000",
+  "video": [],
+  "citation": [
+    {
+      "name": "イランと米 双方相手の攻撃主張 トランプ大統領「停戦有効」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015116461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260508/K10015116461_2605080710_0508071344_01_03.jpg",
+      "datePublished": "2026-05-08T08:20:27+09:00"
+    },
+    {
+      "name": "集団感染疑いのクルーズ船乗客と接触の客室乗務員 感染疑い",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015116251000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015116251_2605072103_0507210541_01_02.jpg",
+      "datePublished": "2026-05-08T04:33:00+09:00"
+    },
+    {
+      "name": "ハンタウイルス感染拡大 WHO「公衆リスクは低い」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015116441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260508/K10015116441_2605080351_0508050800_01_02.jpg",
+      "datePublished": "2026-05-08T05:07:59+09:00"
+    },
+    {
+      "name": "磐越道バス事故 運転手“時速90～100キロで走行”と供述",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015116411000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260508/K10015116411_2605080316_0508050157_01_02.jpg",
+      "datePublished": "2026-05-08T05:01:56+09:00"
+    },
+    {
+      "name": "安定的な皇位継承めぐり 中道の見解受け各党の協議再開へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015116301000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260508/K10015116301_2605072307_0508055012_01_02.jpg",
+      "datePublished": "2026-05-08T05:50:11+09:00"
+    },
+    {
+      "name": "自賠責の保険料 13年ぶり引き上げへ 平均6％余 ことし11月から",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015116271000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260508/K10015116271_2605072110_0508070722_01_02.jpg",
+      "datePublished": "2026-05-08T07:07:21+09:00"
+    },
+    {
+      "name": "ローマ教皇レオ14世 就任1年 トランプ政権“恐れず”注目",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015116261000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260508/K10015116261_2605072128_0508061551_01_02.jpg",
+      "datePublished": "2026-05-08T06:15:50+09:00"
+    },
+    {
+      "name": "中国首相「台湾問題はレッドライン」トランプ大統領訪中前に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015116391000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260508/K10015116391_2605080038_0508055807_01_02.jpg",
+      "datePublished": "2026-05-08T05:58:06+09:00"
+    },
+    {
+      "name": "高騰する不動産に台湾マネー？その実態と背景を追う",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094861000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015094861_2604211730_0507100812_01_02.jpg",
+      "datePublished": "2026-05-07T10:08:11+09:00"
+    },
+    {
+      "name": "悩みの相談相手など 利用広がる生成AI 注意点は【Q＆A】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015116201000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260508/K10015116201_2605080627_0508064446_01_03.jpg",
+      "datePublished": "2026-05-08T06:44:45+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

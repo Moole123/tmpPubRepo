@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015098401000",
+  "dataSourceId": "na",
+  "name": "H3ロケット打ち上げ失敗の原因特定 衛星載せる土台の部品の接着剥がれる JAXA",
+  "headline": "H3ロケット打ち上げ失敗原因 衛星土台部品の接着剥がれる JAXA",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015098401000",
+    "playlistId": "news-nwa-scienceculture-nationwide-20260413",
+    "newsarticleName": "H3ロケット打ち上げ失敗の原因特定 衛星載せる土台の部品の接着剥がれる JAXA",
+    "playlistName": "4月13日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "去年、H3ロケットの打ち上げが失敗したのは、衛星を載せる土台の部品の接着部が剥がれ、隙間ができたことが原因だったとする調査結果を、JAXA＝宇宙航空研究開発機構がまとめました。\n\n\nJAXAは、去年1",
+  "dateModified": "2026-04-13T18:37:27+09:00",
+  "datePublished": "2026-04-13T18:37:27+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260413/K10015098401_2604131743_0413183727_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260413/K10015098401_2604131743_0413183727_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "0002125",
+      "name": "宇宙",
+      "display": true
+    },
+    {
+      "id": "0002402",
+      "name": "文部科学省",
+      "display": true
+    },
+    {
+      "id": "0002390",
+      "name": "サイエンス",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "去年、H3ロケットの打ち上げが失敗したのは、衛星を載せる土台の部品の接着部が剥がれ、隙間ができたことが原因だったとする調査結果を、JAXA＝宇宙航空研究開発機構がまとめました。\n\n\nJAXAは、去年1",
+  "articleBody": "去年、H3ロケットの打ち上げが失敗したのは、衛星を載せる土台の部品の接着部が剥がれ、隙間ができたことが原因だったとする調査結果を、JAXA＝宇宙航空研究開発機構がまとめました。\n\n\nJAXAは、去年12月、H3ロケット8号機の打ち上げに失敗し、その後進めてきた原因究明の調査結果を13日開かれた文部科学省の有識者会議で報告しました。\n\nそれによりますと、ロケットの先端部にある衛星を載せる土台の部品の接着部が剥がれ、隙間ができたことが、失敗につながった可能性が極めて高いと結論づけています。\n\n製造中に部品を接着する際、一部の箇所が想定以上の高温になったことで接着強度が低下して隙間ができ、飛行中に衛星のカバーを分離する際の衝撃が加わったことでこの隙間が一気に広がり、土台の破壊に至ったということです。\n\nそのうえで、今後、H3ロケットについては土台の接着方法を見直し、過去のH2Aロケットで採用していた方式で新たに製造し対策する方針を示しました。\n\n一方で、打ち上げの再開にあたっては補助ロケットを使わない新しい形態の試験機を打ち上げるということで、失敗した8号機と同じ接着方式の土台を補修して使用する計画だとしました。\n\nJAXAは、この試験機の打ち上げで土台にかかる荷重や衝撃などのデータを取得し、今回特定した8号機の失敗原因について検証するとしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "去年、H3ロケットの打ち上げが失敗したのは、衛星を載せる土台の部品の接着部が剥がれ、隙間ができたことが原因だったとする調査結果を、JAXA＝宇宙航空研究開発機構がまとめました。\n",
+    "markedBody": "JAXAは、去年12月、H3ロケット8号機の打ち上げに失敗し、その後進めてきた原因究明の調査結果を13日開かれた文部科学省の有識者会議で報告しました。\n\nそれによりますと、ロケットの先端部にある衛星を載せる土台の部品の接着部が剥がれ、隙間ができたことが、失敗につながった可能性が極めて高いと結論づけています。\n\n製造中に部品を接着する際、一部の箇所が想定以上の高温になったことで接着強度が低下して隙間ができ、飛行中に衛星のカバーを分離する際の衝撃が加わったことでこの隙間が一気に広がり、土台の破壊に至ったということです。\n\nそのうえで、今後、H3ロケットについては土台の接着方法を見直し、過去のH2Aロケットで採用していた方式で新たに製造し対策する方針を示しました。\n\n一方で、打ち上げの再開にあたっては補助ロケットを使わない新しい形態の試験機を打ち上げるということで、失敗した8号機と同じ接着方式の土台を補修して使用する計画だとしました。\n\nJAXAは、この試験機の打ち上げで土台にかかる荷重や衝撃などのデータを取得し、今回特定した8号機の失敗原因について検証するとしています。\n",
+    "trimmedLead": "去年、H3ロケットの打ち上げが失敗したのは、衛星を載せる土台の部品の接着部が剥がれ、隙間ができたことが原因だったとする調査結果を、JAXA＝宇宙航空研究開発機構がまとめました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015098401000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015098401000",
+  "video": [],
+  "citation": [
+    {
+      "name": "H3ロケット 6月にも打ち上げ再開の方針固める JAXA",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015096401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260410/K10015096401_2604101123_0410113300_01_02.jpg",
+      "datePublished": "2026-04-10T11:32:59+09:00"
+    },
+    {
+      "name": "月探査「アルテミス計画」宇宙船 太平洋に着水し地球に帰還",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015096901000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260411/K10015096901_2604111007_0411100751_01_03.jpg",
+      "datePublished": "2026-04-11T15:21:55+09:00"
+    },
+    {
+      "name": "地球からは確認できない“月の裏側”の写真 NASAが一部公開",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094841000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260408/K10015094841_2604081526_0408162943_01_02.jpg",
+      "datePublished": "2026-04-08T16:29:42+09:00"
+    },
+    {
+      "name": "人類が地球から最も離れた距離に到達 56年ぶり記録更新",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015093711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260407/K10015093711_2604071428_0407143044_01_03.jpg",
+      "datePublished": "2026-04-07T19:57:33+09:00"
+    },
+    {
+      "name": "高市首相 パキスタン首相と電話会談 米イラン協議の仲介国",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015098321000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260413/K10015098321_2604131646_0413165015_01_02.jpg",
+      "datePublished": "2026-04-13T16:50:15+09:00"
+    },
+    {
+      "name": "アメリカ イラン海上封鎖へ 軍事的緊張の高まり懸念",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015097851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260412/K10015097851_2604131029_0413115955_01_02.jpg",
+      "datePublished": "2026-04-13T16:56:41+09:00"
+    },
+    {
+      "name": "核のごみ処分めぐる文献調査 事実上の実施容認 東京 小笠原村",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015098031000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260413/K10015098031_2604131034_0413122356_01_02.jpg",
+      "datePublished": "2026-04-13T18:33:21+09:00"
+    },
+    {
+      "name": "長期金利 一時2.49％に 1999年2月以来の高水準 物価上昇懸念で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015097981000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260413/K10015097981_2604130917_0413092124_01_02.jpg",
+      "datePublished": "2026-04-13T16:57:26+09:00"
+    },
+    {
+      "name": "関税措置で引き受け停止の米国向け郵便物 14日に再開 日本郵便",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015098281000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260413/K10015098281_2604131635_0413173618_01_02.jpg",
+      "datePublished": "2026-04-13T17:36:17+09:00"
+    },
+    {
+      "name": "血液のがんなど患者増で経過観察をかかりつけ医に 福島・三重",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015098311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260413/K10015098311_2604131637_0413173201_01_02.jpg",
+      "datePublished": "2026-04-13T17:32:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

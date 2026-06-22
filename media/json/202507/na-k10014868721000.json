@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014868721000",
+  "dataSourceId": "na",
+  "name": "鳥取 トライアスロンの大会に出場していた女性が意識不明の重体 海を泳ぐ「スイム」の競技中に異変",
+  "headline": "鳥取 トライアスロンの大会に出場していた女性 意識不明の重体",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014868721000",
+    "playlistId": "news-nwa-sports-nationwide-20250720",
+    "newsarticleName": "鳥取 トライアスロンの大会に出場していた女性が意識不明の重体 海を泳ぐ「スイム」の競技中に異変",
+    "playlistName": "7月20日のスポーツニュース",
+    "genreId": "sports",
+    "genreIdSlug": "sports"
+  },
+  "description": "20日午前、鳥取県で開催されているトライアスロンの大会で出場していた女性が海を泳ぐ「スイム」の競技中に救助され、病院に搬送されました。境海上保安部よりますと意識不明の重体だということです。\n\n\nトライ",
+  "dateModified": "2025-07-20T12:11:34+09:00",
+  "datePublished": "2025-07-20T12:11:34+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250720/K10014868721_2507201148_0720115937_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250720/K10014868721_2507201148_0720115937_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "スポーツ",
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "20日午前、鳥取県で開催されているトライアスロンの大会で出場していた女性が海を泳ぐ「スイム」の競技中に救助され、病院に搬送されました。境海上保安部よりますと意識不明の重体だということです。\n\n\nトライ",
+  "articleBody": "20日午前、鳥取県で開催されているトライアスロンの大会で出場していた女性が海を泳ぐ「スイム」の競技中に救助され、病院に搬送されました。境海上保安部よりますと意識不明の重体だということです。\n\n\nトライアスロンの大会本部によりますと20日午前7時すぎ、鳥取県西部で開催されているトライアスロンの大会で東京から出場していた60代の女性の選手が、海を泳ぐ「スイム」の競技中に異変があったということです。\n\n女性はライフセーバーに救助され、米子市内の病院に搬送されましたが、境海上保安部によりますと意識不明の重体だということです。\n\n大会本部によりますと「スイム」は、午前7時に米子市の皆生海岸をスタートし、1往復するコースでした。\n\nこの大会は、国内で最初のトライアスロンの大会として知られ、ことしは全国からおよそ1200人の選手が参加していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "20日午前、鳥取県で開催されているトライアスロンの大会で出場していた女性が海を泳ぐ「スイム」の競技中に救助され、病院に搬送されました。境海上保安部よりますと意識不明の重体だということです。\n",
+    "markedBody": "トライアスロンの大会本部によりますと20日午前7時すぎ、鳥取県西部で開催されているトライアスロンの大会で東京から出場していた60代の女性の選手が、海を泳ぐ「スイム」の競技中に異変があったということです。\n\n![](https://news.web.nhk/news/html/20250720/K10014868721_2507201148_0720115937_02_03.jpg)\n\n女性はライフセーバーに救助され、米子市内の病院に搬送されましたが、境海上保安部によりますと意識不明の重体だということです。\n\n大会本部によりますと「スイム」は、午前7時に米子市の皆生海岸をスタートし、1往復するコースでした。\n\nこの大会は、国内で最初のトライアスロンの大会として知られ、ことしは全国からおよそ1200人の選手が参加していました。\n",
+    "trimmedLead": "20日午前、鳥取県で開催されているトライアスロンの大会で出場していた女性が海を泳ぐ「スイム」の競技中に救助され、病院に搬送されました。境海上保安部よりますと意識不明の重体だということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014868721000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014868721000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

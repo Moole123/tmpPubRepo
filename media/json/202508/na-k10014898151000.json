@@ -1,0 +1,101 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014898151000",
+  "dataSourceId": "na",
+  "name": "乳がん 超音波検査で医師をサポートするAI活用機器が導入 早期発見が重要",
+  "headline": "乳がん 超音波検査で医師をサポートするAI活用機器が導入",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014898151000",
+    "playlistId": "news-nwa-society-nationwide-20250820",
+    "newsarticleName": "乳がん 超音波検査で医師をサポートするAI活用機器が導入 早期発見が重要",
+    "playlistName": "8月20日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "日本人の女性の9人に1人がかかるとされる乳がん。早期の発見が重要となるなか、超音波検査の際に医師の診断をサポートするAIを活用した機器が開発され、都内の検診施設で導入されました。\n\n\n乳がんは日本人の",
+  "dateModified": "2025-08-20T06:00:52+09:00",
+  "datePublished": "2025-08-20T06:00:52+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250820/K10014898151_2508200109_0820055947_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250820/K10014898151_2508200109_0820055947_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "日本人の女性の9人に1人がかかるとされる乳がん。早期の発見が重要となるなか、超音波検査の際に医師の診断をサポートするAIを活用した機器が開発され、都内の検診施設で導入されました。\n\n\n乳がんは日本人の",
+  "articleBody": "日本人の女性の9人に1人がかかるとされる乳がん。早期の発見が重要となるなか、超音波検査の際に医師の診断をサポートするAIを活用した機器が開発され、都内の検診施設で導入されました。\n\n\n乳がんは日本人の女性がかかるがんの中で最も多く、9人に1人がかかるとされていますが、全体の生存率は高く、早期の発見が重要となっています。\n\n乳がん検診について国はエックス線を使った「マンモグラフィー検査」を推奨していますが、乳房を圧迫する際の痛みを負担に感じる人もいます。\n\n一方、乳房に超音波をあてる「超音波検査」は体への負担は少ないものの、診断する医師によって精度にばらつきがあることが課題となっていました。\n\nこうした中、慶応大学と民間企業は、医師の診断をサポートするため超音波検査の際にAIを活用したソフトウエアを開発し、都内の検診施設で導入が始まりました。\n\nAIには乳がん患者のしこりの病変などおよそ5000例を学習させていて、超音波検査で撮影した乳房の画像に映る病変についてAIが精密検査が必要だと判断すると赤色の枠で示すということです。\n\n最終的に精密検査を行うかどうかは医師が診断しますが、導入前の試験では熟練した医師と同じレベルで正しく提示できたということです。\n\n共同開発した慶応大学医学部乳腺外科の林田哲教授は「乳がんは早期の段階で見つければ、根治率が97、8％まで上がる。AIを活用することで検査への信頼度が上がり、痛みからマンモグラフィー検査を敬遠していた人が超音波検査だけでも受けてくれるようになることを期待したい」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "日本人の女性の9人に1人がかかるとされる乳がん。早期の発見が重要となるなか、超音波検査の際に医師の診断をサポートするAIを活用した機器が開発され、都内の検診施設で導入されました。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20250820/K10014898151_2508200109_0820055947_02_03.jpg)\n\n乳がんは日本人の女性がかかるがんの中で最も多く、9人に1人がかかるとされていますが、全体の生存率は高く、早期の発見が重要となっています。\n\n乳がん検診について国はエックス線を使った「マンモグラフィー検査」を推奨していますが、乳房を圧迫する際の痛みを負担に感じる人もいます。\n\n一方、乳房に超音波をあてる「超音波検査」は体への負担は少ないものの、診断する医師によって精度にばらつきがあることが課題となっていました。\n\nこうした中、慶応大学と民間企業は、医師の診断をサポートするため超音波検査の際にAIを活用したソフトウエアを開発し、都内の検診施設で導入が始まりました。\n\nAIには乳がん患者のしこりの病変などおよそ5000例を学習させていて、超音波検査で撮影した乳房の画像に映る病変についてAIが精密検査が必要だと判断すると赤色の枠で示すということです。\n\n最終的に精密検査を行うかどうかは医師が診断しますが、導入前の試験では熟練した医師と同じレベルで正しく提示できたということです。\n\n![](https://news.web.nhk/news/html/20250820/K10014898151_2508200035_0820005622_02_04.jpg)\n\n共同開発した慶応大学医学部乳腺外科の林田哲教授は「乳がんは早期の段階で見つければ、根治率が97、8％まで上がる。AIを活用することで検査への信頼度が上がり、痛みからマンモグラフィー検査を敬遠していた人が超音波検査だけでも受けてくれるようになることを期待したい」と話していました。\n",
+    "trimmedLead": "日本人の女性の9人に1人がかかるとされる乳がん。早期の発見が重要となるなか、超音波検査の際に医師の診断をサポートするAIを活用した機器が開発され、都内の検診施設で導入されました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014898151000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014898151000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "乳がん 超音波検査で医師をサポートするAI活用機器が導入",
+      "description": "日本人の女性の9人に1人がかかるとされる乳がん。早期の発見が重要となるなか、超音波検査の際に医師の診断をサポートするAIを活用した機器が開発され、都内の検診施設で導入されました。\n\n\n乳がんは日本人の",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10014898151_202508200735_202508200736/index.m3u8&mrposter=/news/html/20250820/K10014898151_2508200109_0820055947_01_02.jpg",
+      "duration": "PT1M10S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10014898151_202508200735_202508200736/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20250820/K10014898151_2508200109_0820055947_01_02.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

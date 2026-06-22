@@ -1,0 +1,145 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015087411000",
+  "dataSourceId": "na",
+  "name": "JAXAを退職する宇宙飛行士 古川聡さんが記者会見【ライブ配信中】",
+  "headline": "宇宙飛行士 古川聡さん JAXA退職で記者会見【ライブ配信中】",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015087411000",
+    "playlistId": "news-nwa-scienceculture-nationwide-20260330",
+    "newsarticleName": "JAXAを退職する宇宙飛行士 古川聡さんが記者会見【ライブ配信中】",
+    "playlistName": "3月30日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "宇宙飛行士の古川聡さんが、3月31日付けでJAXA=宇宙航空研究開発機構を退職することになりました。\n\nこちらの記事では、古川さんの記者会見をライブ配信でお伝えしています。\n\n\n",
+  "dateModified": "2026-03-30T14:08:05+09:00",
+  "datePublished": "2026-03-30T13:42:03+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260330/K10015087411_2603301407_0330140806_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260330/K10015087411_2603301407_0330140806_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "0002125",
+      "name": "宇宙",
+      "display": true
+    },
+    {
+      "id": "0002390",
+      "name": "サイエンス",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "宇宙飛行士の古川聡さんが、3月31日付けでJAXA=宇宙航空研究開発機構を退職することになりました。\n\nこちらの記事では、古川さんの記者会見をライブ配信でお伝えしています。\n\n\n",
+  "articleBody": "宇宙飛行士の古川聡さんが、3月31日付けでJAXA=宇宙航空研究開発機構を退職することになりました。\n\nこちらの記事では、古川さんの記者会見をライブ配信でお伝えしています。\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "宇宙飛行士の古川聡さんが、3月31日付けでJAXA\\=宇宙航空研究開発機構を退職することになりました。\n\nこちらの記事では、古川さんの記者会見をライブ配信でお伝えしています。\n",
+    "markedBody": "```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"001\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\r\n<div class=\"fs-wrap\">\r\n  <h2 class=\"freespace-title\">【ライブ配信】</h2>\r\n  <div class=\"video-player-fixed\">\r\n    <iframe src=\"https://news.web.nhk/n-data/conf/realtime/movie/player_rt0012649_02_v3.html\" allowfullscreen=\"allowfullscreen\"></iframe>\r\n  </div>\r\n</div>\n</div>\n```\n",
+    "noHtmlMarkedLead": "宇宙飛行士の古川聡さんが、3月31日付けでJAXA\\=宇宙航空研究開発機構を退職することになりました。\n\nこちらの記事では、古川さんの記者会見をライブ配信でお伝えしています。\n",
+    "trimmedLead": "宇宙飛行士の古川聡さんが、3月31日付けでJAXA=宇宙航空研究開発機構を退職することになりました。\n\nこちらの記事では、古川さんの記者会見をライブ配信でお伝えしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015087411000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015087411000",
+  "video": [],
+  "citation": [
+    {
+      "name": "筋肉維持に必要な重力は“火星より重く地球より軽い環境”JAXA",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015085021000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260326/K10015085021_2603262107_0326214030_01_02.jpg",
+      "datePublished": "2026-03-26T21:40:29+09:00"
+    },
+    {
+      "name": "NASA 月面基地建設に約3兆円投入へ“月に人と物 送り込む”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015083651000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260325/K10015083651_2603251134_0325194514_01_02.jpg",
+      "datePublished": "2026-03-25T19:45:13+09:00"
+    },
+    {
+      "name": "はやぶさ2が小惑星で採取のサンプル 5種類の「核酸塩基」検出",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015077251000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260317/K10015077251_2603161959_0317045725_01_02.jpg",
+      "datePublished": "2026-03-17T04:57:24+09:00"
+    },
+    {
+      "name": "米国務省 アルテミス計画で有人の月探査を前に技術紹介ツアー",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015086111000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260327/K10015086111_2603272018_0327222820_01_02.jpg",
+      "datePublished": "2026-03-27T22:28:19+09:00"
+    },
+    {
+      "name": "西日本から次第に雨強まり 局地的に非常に激しい雨のおそれ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015087211000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260330/K10015087211_2603301231_0330123142_01_02.jpg",
+      "datePublished": "2026-03-30T11:58:33+09:00"
+    },
+    {
+      "name": "新年度の暫定予算案 衆議院で賛成多数で可決 きょう中に成立へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015087151000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260330/K10015087151_2603301240_0330130016_01_03.jpg",
+      "datePublished": "2026-03-30T13:00:15+09:00"
+    },
+    {
+      "name": "イラン情勢 軍事的緊張高まる トランプ氏「交渉は順調」と主張",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015087241000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260330/K10015087241_2603300500_0330051006_01_02.jpg",
+      "datePublished": "2026-03-30T14:39:36+09:00"
+    },
+    {
+      "name": "株価 一時2800円超の下落 円安も進む イラン情勢の長期化懸念",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015087351000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260330/K10015087351_2603300928_0330092930_01_02.jpg",
+      "datePublished": "2026-03-30T11:52:33+09:00"
+    },
+    {
+      "name": "学びに“AI” どこまでアリ？ためになる使い方は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015086711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260328/K10015086711_2603281954_0328200803_01_02.jpg",
+      "datePublished": "2026-03-28T20:08:01+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": true
+  }
+}

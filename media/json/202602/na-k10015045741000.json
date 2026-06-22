@@ -1,0 +1,145 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015045741000",
+  "dataSourceId": "na",
+  "name": "南海トラフ沿いの観測網で更新作業 緊急地震速報遅れる可能性",
+  "headline": "南海トラフ沿いの観測網で更新作業 緊急地震速報遅れる可能性",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015045741000",
+    "playlistId": "news-nwa-disaster-nationwide-20260208",
+    "newsarticleName": "南海トラフ沿いの観測網で更新作業 緊急地震速報遅れる可能性",
+    "playlistName": "2月8日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "南海トラフ沿いの海底に気象庁が整備している地震や津波の観測網で設備の更新作業が行われるため、9日から1か月程度、静岡県から三重県の沖合で地震が起きた場合、緊急地震速報の発表が最大で12秒程度、遅くなる",
+  "dateModified": "2026-02-08T06:46:10+09:00",
+  "datePublished": "2026-02-08T06:46:10+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260208/K10015045741_2602071636_0208064611_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260208/K10015045741_2602071636_0208064611_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002716",
+      "name": "気象庁",
+      "display": true
+    },
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0002571",
+      "name": "南海トラフ巨大地震",
+      "display": true
+    },
+    {
+      "id": "0002621",
+      "name": "津波",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "南海トラフ沿いの海底に気象庁が整備している地震や津波の観測網で設備の更新作業が行われるため、9日から1か月程度、静岡県から三重県の沖合で地震が起きた場合、緊急地震速報の発表が最大で12秒程度、遅くなる",
+  "articleBody": "南海トラフ沿いの海底に気象庁が整備している地震や津波の観測網で設備の更新作業が行われるため、9日から1か月程度、静岡県から三重県の沖合で地震が起きた場合、緊急地震速報の発表が最大で12秒程度、遅くなる可能性があります。\n\n\n南海トラフで発生する地震や津波をいち早く検知するため、気象庁は、静岡県の御前崎沖から三重県の志摩半島沖にかけての海底に地震計と津波計をあわせて8つ設置しています。\n\nこの観測システムで電気を供給する装置などを更新する作業が行われるため、9日から1か月程度、地震や津波の情報への活用ができなくなるということです。\n\nこのため、観測点に近い静岡県から三重県の沖合で地震が発生した場合、緊急地震速報の発表がふだんと比べて最大で12秒程度、遅くなる可能性があるということです。\n\n地震直後の津波警報の発表などには影響はないとしています。\n\nただ、沖合で観測される津波のデータが活用できなくなるため、いったん発表した津波注意報を津波警報に切り上げる場合などに、ふだんより時間がかかる可能性があるということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "南海トラフ沿いの海底に気象庁が整備している地震や津波の観測網で設備の更新作業が行われるため、9日から1か月程度、静岡県から三重県の沖合で地震が起きた場合、緊急地震速報の発表が最大で12秒程度、遅くなる可能性があります。\n",
+    "markedBody": "南海トラフで発生する地震や津波をいち早く検知するため、気象庁は、静岡県の御前崎沖から三重県の志摩半島沖にかけての海底に地震計と津波計をあわせて8つ設置しています。\n\n![](https://news.web.nhk/news/html/20260208/K10015045741_2602071636_0208064611_02_03.jpg)\n\nこの観測システムで電気を供給する装置などを更新する作業が行われるため、9日から1か月程度、地震や津波の情報への活用ができなくなるということです。\n\nこのため、観測点に近い静岡県から三重県の沖合で地震が発生した場合、緊急地震速報の発表がふだんと比べて最大で12秒程度、遅くなる可能性があるということです。\n\n地震直後の津波警報の発表などには影響はないとしています。\n\nただ、沖合で観測される津波のデータが活用できなくなるため、いったん発表した津波注意報を津波警報に切り上げる場合などに、ふだんより時間がかかる可能性があるということです。\n",
+    "trimmedLead": "南海トラフ沿いの海底に気象庁が整備している地震や津波の観測網で設備の更新作業が行われるため、9日から1か月程度、静岡県から三重県の沖合で地震が起きた場合、緊急地震速報の発表が最大で12秒程度、遅くなる可能性があります。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015045741000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015045741000",
+  "video": [],
+  "citation": [
+    {
+      "name": "南海トラフ巨大地震 検討会“特段の変化は観測されていない”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015045231000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260206/K10015045231_2602062016_0206204208_01_02.jpg",
+      "datePublished": "2026-02-06T20:42:07+09:00"
+    },
+    {
+      "name": "【動画】気象予報士解説 今後の雪の見通しは(7日19時)",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015045531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260207/K10015045531_2602071902_0207190943_01_03.jpg",
+      "datePublished": "2026-02-07T19:09:42+09:00"
+    },
+    {
+      "name": "衆院選 ボートマッチ 候補者・政党とのマッチング",
+      "url": "https://news.web.nhk/senkyo/database/shugiin/2026/votematch/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30757107.jpg"
+    },
+    {
+      "name": "【最新ニュースまとめて】ミラノ・コルティナ オリンピック",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002451",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30750181.jpg"
+    },
+    {
+      "name": "全競技・全種目配信！ミラノ・コルティナ2026オリンピック 特設ページ",
+      "url": "https://www.web.nhk/olympics/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30792241.jpg"
+    },
+    {
+      "name": "スキージャンプ女子ノーマルヒル 丸山希が銅メダル 五輪",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015045921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260208/K10015045921_2602080545_0208055812_01_02.jpg",
+      "datePublished": "2026-02-08T07:26:09+09:00"
+    },
+    {
+      "name": "スノーボード 男子ビッグエア 木村葵来が金 木俣椋真が銀 五輪",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015046001000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260208/K10015046001_2602081320_0208134532_01_02.jpg",
+      "datePublished": "2026-02-08T19:37:15+09:00"
+    },
+    {
+      "name": "フィギュア団体 男子シングルSP 鍵山優真トップ 日本2位 五輪",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015046061000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260208/K10015046061_2602080623_0208064049_01_02.jpg",
+      "datePublished": "2026-02-08T11:28:28+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015146401000",
+  "dataSourceId": "na",
+  "name": "京都 宮津 日本三景の天橋立にクマ出没 立ち入り禁止に",
+  "headline": "京都 宮津 日本三景の天橋立にクマ出没 立ち入り禁止に",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015146401000",
+    "playlistId": "news-nwa-society-nationwide-20260610",
+    "newsarticleName": "京都 宮津 日本三景の天橋立にクマ出没 立ち入り禁止に",
+    "playlistName": "6月10日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "10日夕方、京都府宮津市にある日本三景の1つ「天橋立」でクマ1頭が目撃されました。京都府は「天橋立」の中を通る府道を通行止めにして立ち入りを禁止し、注意を呼びかけています。\n\n\n京都府などによりますと",
+  "dateModified": "2026-06-10T22:43:17+09:00",
+  "datePublished": "2026-06-10T22:43:17+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260610/K10015146401_2606102231_0610224318_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260610/K10015146401_2606102231_0610224318_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002226",
+      "name": "京都府",
+      "display": true
+    },
+    {
+      "id": "0002515",
+      "name": "クマ被害",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "10日夕方、京都府宮津市にある日本三景の1つ「天橋立」でクマ1頭が目撃されました。京都府は「天橋立」の中を通る府道を通行止めにして立ち入りを禁止し、注意を呼びかけています。\n\n\n京都府などによりますと",
+  "articleBody": "10日夕方、京都府宮津市にある日本三景の1つ「天橋立」でクマ1頭が目撃されました。京都府は「天橋立」の中を通る府道を通行止めにして立ち入りを禁止し、注意を呼びかけています。\n\n\n京都府などによりますと、10日午後4時半ごろ、京都府宮津市にある「天橋立」の北側にクマ1頭がいるのを、通りかかった人が見つけ、警察に通報しました。\n\nクマは天橋立の中を南におよそ300メートル歩いて移動したあと、海を泳ぎ、その後、再び北側の宮津市大垣地区に潜んでいるとみられるということです。\n\n警察や消防などが周辺を監視するとともに住民に家から出ないよう注意を呼びかけています。\n\nこれまでのところ、けが人の情報はないということです。\n\nクマの出没を受けて京都府は、午後5時半すぎから「天橋立」の中を通る府道およそ3キロを通行止めにして立ち入りを禁止しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "10日夕方、京都府宮津市にある日本三景の1つ「天橋立」でクマ1頭が目撃されました。京都府は「天橋立」の中を通る府道を通行止めにして立ち入りを禁止し、注意を呼びかけています。\n",
+    "markedBody": "京都府などによりますと、10日午後4時半ごろ、京都府宮津市にある「天橋立」の北側にクマ1頭がいるのを、通りかかった人が見つけ、警察に通報しました。\n\nクマは天橋立の中を南におよそ300メートル歩いて移動したあと、海を泳ぎ、その後、再び北側の宮津市大垣地区に潜んでいるとみられるということです。\n\n警察や消防などが周辺を監視するとともに住民に家から出ないよう注意を呼びかけています。\n\nこれまでのところ、けが人の情報はないということです。\n\nクマの出没を受けて京都府は、午後5時半すぎから「天橋立」の中を通る府道およそ3キロを通行止めにして立ち入りを禁止しています。\n",
+    "trimmedLead": "10日夕方、京都府宮津市にある日本三景の1つ「天橋立」でクマ1頭が目撃されました。京都府は「天橋立」の中を通る府道を通行止めにして立ち入りを禁止し、注意を呼びかけています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015146401000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015146401000",
+  "video": [],
+  "citation": [
+    {
+      "name": "クマ被害拡大 今年度人身被害 9都道県で27人 生活圏でも相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015146241000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260610/K10015146241_2606101820_0610185722_01_02.jpg",
+      "datePublished": "2026-06-10T18:57:21+09:00"
+    },
+    {
+      "name": "クマ各地で出没 麻酔銃の捕獲どう行う？緊迫の一部始終に迫る",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015145811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260610/K10015145811_2606101519_0610193312_01_02.jpg",
+      "datePublished": "2026-06-10T19:33:11+09:00"
+    },
+    {
+      "name": "秋田 クマが嫌がる臭い含んだ薬剤を線路脇に JRが公開",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015146311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260610/K10015146311_2606101917_0610193843_01_02.jpg",
+      "datePublished": "2026-06-10T19:38:43+09:00"
+    },
+    {
+      "name": "早期化するクマ被害 なぜ？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015145911000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260610/K10015145911_2606101155_0610141330_01_02.jpg",
+      "datePublished": "2026-06-10T14:13:29+09:00"
+    },
+    {
+      "name": "前線停滞 沖縄で11日にかけて非常に激しい雨のおそれ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015145641000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260610/K10015145641_2606101959_0610201341_01_02.jpg",
+      "datePublished": "2026-06-10T22:41:23+09:00"
+    },
+    {
+      "name": "安定的な皇位継承「立法府の総意」をとりまとめ 首相に提出",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015145771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260610/K10015145771_2606101842_0610190032_01_02.jpg",
+      "datePublished": "2026-06-10T19:48:06+09:00"
+    },
+    {
+      "name": "再審制度 検察不服申し立て 首相“慎重で抑制的な運用確保”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015146281000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260610/K10015146281_2606101906_0610193555_01_02.jpg",
+      "datePublished": "2026-06-10T20:12:45+09:00"
+    },
+    {
+      "name": "新名神高速6人死亡事故の初公判 検察「スマホ13秒脇見」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015146211000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260610/K10015146211_2606101744_0610181033_01_02.jpg",
+      "datePublished": "2026-06-10T19:32:03+09:00"
+    },
+    {
+      "name": "河野洋平 元衆議院議長が死去 89歳",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015146291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260610/K10015146291_2606101901_0610192400_01_02.jpg",
+      "datePublished": "2026-06-10T22:00:58+09:00"
+    },
+    {
+      "name": "国旗損壊罪法案 自民 国民 表現の自由などで修正協議へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015145861000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260610/K10015145861_2606101140_0610115348_01_02.jpg",
+      "datePublished": "2026-06-10T16:06:16+09:00"
+    },
+    {
+      "name": "高市首相 マレーシア首相と会談 LNGの安定供給などで協力",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015146001000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260610/K10015146001_2606101345_0610143017_01_02.jpg",
+      "datePublished": "2026-06-10T18:45:12+09:00"
+    },
+    {
+      "name": "「エルニーニョ現象」発生か 夏は平年より気温高い見込み",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015146151000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260610/K10015146151_2606101644_0610170814_01_02.jpg",
+      "datePublished": "2026-06-10T17:08:13+09:00"
+    },
+    {
+      "name": "NTT 次世代技術「IOWN」普及へファンド設立 AI新興企業に投資",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015145851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260610/K10015145851_2606101131_0610114734_01_02.jpg",
+      "datePublished": "2026-06-10T16:50:46+09:00"
+    },
+    {
+      "name": "5月企業物価指数 前年同月比6.3％上昇 中東情勢で上昇幅拡大",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015145741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260610/K10015145741_2606101439_0610184347_01_03.jpg",
+      "datePublished": "2026-06-10T18:43:46+09:00"
+    },
+    {
+      "name": "ヘリ撃墜受け米軍がイラン攻撃 イランも報復主張で緊張続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015145831000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260610/K10015145831_2606101107_0610111401_01_02.jpg",
+      "datePublished": "2026-06-10T21:29:04+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

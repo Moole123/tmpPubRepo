@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014936931000",
+  "dataSourceId": "na",
+  "name": "立民 外交や社会保障など3分野の調査会を新たに設置",
+  "headline": "立民 外交や社会保障など3分野の調査会を新たに設置",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014936931000",
+    "playlistId": "news-nwa-politics-nationwide-20250930",
+    "newsarticleName": "立民 外交や社会保障など3分野の調査会を新たに設置",
+    "playlistName": "9月30日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "立憲民主党は、外交・安全保障や社会保障など3つの分野の調査会を新たに設置し、それぞれの分野について、党としての中長期的な考え方をまとめていくことなりました。\n\n\n立憲民主党は、9月30日の常任幹事会で",
+  "dateModified": "2025-09-30T20:13:39+09:00",
+  "datePublished": "2025-09-30T20:13:39+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250930/K10014936931_2509302002_0930201251_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250930/K10014936931_2509302002_0930201251_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "立憲民主党は、外交・安全保障や社会保障など3つの分野の調査会を新たに設置し、それぞれの分野について、党としての中長期的な考え方をまとめていくことなりました。\n\n\n立憲民主党は、9月30日の常任幹事会で",
+  "articleBody": "立憲民主党は、外交・安全保障や社会保障など3つの分野の調査会を新たに設置し、それぞれの分野について、党としての中長期的な考え方をまとめていくことなりました。\n\n\n立憲民主党は、9月30日の常任幹事会で、新たに外交・安全保障総合調査会、環境・エネルギー総合調査会、社会保障改革総合調査会の3つの調査会を党内に設置することを確認しました。\n\n今後、この3つの調査会でそれぞれの分野について党としての中長期的な考え方をまとめるとしています。\n\n一方、税制調査会長には重徳前政務調査会長が就任し、引き続きガソリン税の暫定税率の廃止に向けた与野党協議を担当することになりました。\n\nこのほか、党の分野ごとの政策責任者で構成する「次の内閣」に外国人政策の担当を置くことも確認しました。\n\n安住幹事長は記者会見で「新たに立ち上げた調査会については、比較第1党になって政権を目指す立場で考えた」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "立憲民主党は、外交・安全保障や社会保障など3つの分野の調査会を新たに設置し、それぞれの分野について、党としての中長期的な考え方をまとめていくことなりました。\n",
+    "markedBody": "立憲民主党は、9月30日の常任幹事会で、新たに外交・安全保障総合調査会、環境・エネルギー総合調査会、社会保障改革総合調査会の3つの調査会を党内に設置することを確認しました。\n\n今後、この3つの調査会でそれぞれの分野について党としての中長期的な考え方をまとめるとしています。\n\n一方、税制調査会長には重徳前政務調査会長が就任し、引き続きガソリン税の暫定税率の廃止に向けた与野党協議を担当することになりました。\n\nこのほか、党の分野ごとの政策責任者で構成する「次の内閣」に外国人政策の担当を置くことも確認しました。\n\n安住幹事長は記者会見で「新たに立ち上げた調査会については、比較第1党になって政権を目指す立場で考えた」と述べました。\n",
+    "trimmedLead": "立憲民主党は、外交・安全保障や社会保障など3つの分野の調査会を新たに設置し、それぞれの分野について、党としての中長期的な考え方をまとめていくことなりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014936931000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014936931000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

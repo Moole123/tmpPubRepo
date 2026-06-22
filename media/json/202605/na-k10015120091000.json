@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015120091000",
+  "dataSourceId": "na",
+  "name": "昨年度の経常収支 34兆円余の黒字 3年連続で過去最大を更新",
+  "headline": "昨年度の経常収支 34兆円余の黒字 3年連続で過去最大を更新",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015120091000",
+    "playlistId": "news-nwa-business-nationwide-20260513",
+    "newsarticleName": "昨年度の経常収支 34兆円余の黒字 3年連続で過去最大を更新",
+    "playlistName": "5月13日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "財務省が発表した昨年度の国際収支によりますと、日本が海外との貿易や投資でどれだけ稼いだかを示す経常収支は34兆5218億円の黒字となりました。黒字幅は前の年度と比べて4兆4902億円拡大し、3年連続で",
+  "dateModified": "2026-05-13T10:50:45+09:00",
+  "datePublished": "2026-05-13T10:50:45+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260513/K10015120091_2605131045_0513105046_02_01.jpg",
+      "height": 719,
+      "width": 1279
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260513/K10015120091_2605131045_0513105046_01_02.jpg",
+      "height": 719,
+      "width": 1279
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0002738",
+      "name": "統計・指標",
+      "display": true
+    },
+    {
+      "id": "0002407",
+      "name": "財務省",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "財務省が発表した昨年度の国際収支によりますと、日本が海外との貿易や投資でどれだけ稼いだかを示す経常収支は34兆5218億円の黒字となりました。黒字幅は前の年度と比べて4兆4902億円拡大し、3年連続で",
+  "articleBody": "財務省が発表した昨年度の国際収支によりますと、日本が海外との貿易や投資でどれだけ稼いだかを示す経常収支は34兆5218億円の黒字となりました。黒字幅は前の年度と比べて4兆4902億円拡大し、3年連続で過去最大を更新しました。\n\n\n貿易収支が黒字に転じたことが主な要因で、半導体関連部品の輸出が増えたほか、イラン情勢の悪化前は、エネルギー価格が前の年度に比べ安く推移し、輸入が減少しました。\n\nまた、あわせて発表されたことし3月の経常収支は4兆6815億円の黒字となりました。\n\n14か月連続の黒字です。\n",
+  "detailedArticleBody": {
+    "markedLead": "財務省が発表した昨年度の国際収支によりますと、日本が海外との貿易や投資でどれだけ稼いだかを示す経常収支は34兆5218億円の黒字となりました。黒字幅は前の年度と比べて4兆4902億円拡大し、3年連続で過去最大を更新しました。\n",
+    "markedBody": "貿易収支が黒字に転じたことが主な要因で、半導体関連部品の輸出が増えたほか、イラン情勢の悪化前は、エネルギー価格が前の年度に比べ安く推移し、輸入が減少しました。\n\n![](https://news.web.nhk/news/html/20260513/K10015120091_2605131045_0513105046_02_03.jpg)\n\nまた、あわせて発表されたことし3月の経常収支は4兆6815億円の黒字となりました。\n\n14か月連続の黒字です。\n",
+    "trimmedLead": "財務省が発表した昨年度の国際収支によりますと、日本が海外との貿易や投資でどれだけ稼いだかを示す経常収支は34兆5218億円の黒字となりました。黒字幅は前の年度と比べて4兆4902億円拡大し、3年連続で過去最大を更新しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015120091000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015120091000",
+  "video": [],
+  "citation": [
+    {
+      "name": "長期金利2.6％まで上昇 約29年ぶりの高水準",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120121000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015120121_2605130931_0513093355_01_02.jpg",
+      "datePublished": "2026-05-13T11:04:20+09:00"
+    },
+    {
+      "name": "【ライブ配信中】フィギュアスケート 坂本花織 引退会見",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120111000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015120111_2605131114_0513112407_01_02.jpg",
+      "datePublished": "2026-05-13T11:41:36+09:00"
+    },
+    {
+      "name": "あいちFGと三重の三十三FGが経営統合に向け最終調整",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015120141_2605131014_0513101456_01_03.jpg",
+      "datePublished": "2026-05-13T09:27:02+09:00"
+    },
+    {
+      "name": "カルビー製品包装 “白黒2色” で関係企業に聴き取りへ 政府",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119161000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260512/K10015119161_2605121119_0512114211_01_02.jpg",
+      "datePublished": "2026-05-12T18:57:33+09:00"
+    },
+    {
+      "name": "給付付き税額控除 支援対象の所得水準や財源確保など検討課題",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015119921_2605130105_0513045721_01_02.jpg",
+      "datePublished": "2026-05-13T04:57:20+09:00"
+    },
+    {
+      "name": "新築マンション引き渡し遅延の可能性 通知広がる イラン影響で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119831000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015119831_2605122121_0513062346_01_02.jpg",
+      "datePublished": "2026-05-13T06:23:46+09:00"
+    },
+    {
+      "name": "トランプ大統領 中国へ出発 経済・台湾・イランなど議論",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119961000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015119961_2605130359_0513040231_01_02.jpg",
+      "datePublished": "2026-05-13T07:42:36+09:00"
+    },
+    {
+      "name": "磐越道部活バス事故 4月から約1か月で少なくとも5件の物損事故",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119991000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015119991_2605130016_0513050926_01_03.jpg",
+      "datePublished": "2026-05-13T05:09:25+09:00"
+    },
+    {
+      "name": "ハンタウイルス クルーズ船の感染確認9人に WHO",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120031000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260512/K10015120031_2605122349_0512235023_01_03.jpg",
+      "datePublished": "2026-05-12T23:16:30+09:00"
+    },
+    {
+      "name": "金利も価格も上昇 住宅購入の注意点は？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119181000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260512/K10015119181_2605121143_0512141027_01_02.jpg",
+      "datePublished": "2026-05-12T14:10:26+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015007551000",
+  "dataSourceId": "na",
+  "name": "香港で強盗事件 被害の外貨両替店 “約10億円の現金奪われた”",
+  "headline": "香港で強盗事件 被害の外貨両替店 “約10億円の現金奪われた”",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015007551000",
+    "playlistId": "news-nwa-international-nationwide-20251218",
+    "newsarticleName": "香港で強盗事件 被害の外貨両替店 “約10億円の現金奪われた”",
+    "playlistName": "12月18日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "香港の中心部で18日、外貨の両替店の店員が現金を奪われる強盗事件が発生し被害にあった店員は、奪われたのは、およそ10億円の日本円だと話しているということです。警察は容疑者1人を逮捕し、当時の状況を詳し",
+  "dateModified": "2025-12-18T17:38:11+09:00",
+  "datePublished": "2025-12-18T17:38:11+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251218/K10015007551_2512181726_1218173812_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251218/K10015007551_2512181726_1218173812_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "香港の中心部で18日、外貨の両替店の店員が現金を奪われる強盗事件が発生し被害にあった店員は、奪われたのは、およそ10億円の日本円だと話しているということです。警察は容疑者1人を逮捕し、当時の状況を詳し",
+  "articleBody": "香港の中心部で18日、外貨の両替店の店員が現金を奪われる強盗事件が発生し被害にあった店員は、奪われたのは、およそ10億円の日本円だと話しているということです。警察は容疑者1人を逮捕し、当時の状況を詳しく調べています。\n\n\n香港メディアによりますと、日本時間の18日午前10時ごろ、外貨の両替店の店員から「刃物を持った4人組の男に襲われ現金を奪われた」と警察に通報がありました。\n\n被害にあった店員は、奪われたのは現金でおよそ10億円の日本円で、男らは現場から車で逃走したと説明しているということです。\n\n警察は現場近くで事件に関連しているとみられる乗用車を発見したほか、容疑者1人を逮捕したということです。\n\n現場は上環という香港島の繁華街の一角で、多くの両替店が軒を並べる場所で、警察は当時の状況を詳しく調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "香港の中心部で18日、外貨の両替店の店員が現金を奪われる強盗事件が発生し被害にあった店員は、奪われたのは、およそ10億円の日本円だと話しているということです。警察は容疑者1人を逮捕し、当時の状況を詳しく調べています。\n",
+    "markedBody": "香港メディアによりますと、日本時間の18日午前10時ごろ、外貨の両替店の店員から「刃物を持った4人組の男に襲われ現金を奪われた」と警察に通報がありました。\n\n被害にあった店員は、奪われたのは現金でおよそ10億円の日本円で、男らは現場から車で逃走したと説明しているということです。\n\n警察は現場近くで事件に関連しているとみられる乗用車を発見したほか、容疑者1人を逮捕したということです。\n\n現場は上環という香港島の繁華街の一角で、多くの両替店が軒を並べる場所で、警察は当時の状況を詳しく調べています。\n",
+    "trimmedLead": "香港の中心部で18日、外貨の両替店の店員が現金を奪われる強盗事件が発生し被害にあった店員は、奪われたのは、およそ10億円の日本円だと話しているということです。警察は容疑者1人を逮捕し、当時の状況を詳しく調べています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015007551000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015007551000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015042291000",
+  "dataSourceId": "na",
+  "name": "UAE大統領の国賓としての訪日 UAE側の意向で延期 木原官房長官",
+  "headline": "UAE大統領の国賓としての訪日 UAE側の意向で延期 木原官房長官",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015042291000",
+    "playlistId": "news-nwa-politics-nationwide-20260203",
+    "newsarticleName": "UAE大統領の国賓としての訪日 UAE側の意向で延期 木原官房長官",
+    "playlistName": "2月3日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "木原官房長官は来週、予定されていたUAE＝アラブ首長国連邦のムハンマド大統領の国賓としての日本訪問について、UAE側の意向で延期されることになったと発表しました。緊迫化するイラン情勢が影響しているとみ",
+  "dateModified": "2026-02-03T12:55:00+09:00",
+  "datePublished": "2026-02-03T12:55:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-640x360.png",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "木原官房長官は来週、予定されていたUAE＝アラブ首長国連邦のムハンマド大統領の国賓としての日本訪問について、UAE側の意向で延期されることになったと発表しました。緊迫化するイラン情勢が影響しているとみ",
+  "articleBody": "木原官房長官は来週、予定されていたUAE＝アラブ首長国連邦のムハンマド大統領の国賓としての日本訪問について、UAE側の意向で延期されることになったと発表しました。緊迫化するイラン情勢が影響しているとみられます。\n\n\n政府は今月8日から3日間の日程で、UAEのムハンマド大統領を国賓として招くことを去年、閣議で決定し、高市総理大臣が首脳会談を行う予定でした。\n\nこれについて木原官房長官は記者会見で「UAE政府から現地情勢の推移を踏まえた日程の都合上、日本訪問を延期せざるをえなくなったと連絡があった」と明らかにしました。\n\nそのうえで「ムハンマド大統領の訪日については今後、改めて両国間で調整していく。引き続き、UAEとの幅広い分野での協力を進展していく考えだ」と述べました。\n\n緊迫化するイラン情勢が影響しているとみられ、国賓として招くことを決めた要人の訪問が延期されるのは異例のこととなります。\n",
+  "detailedArticleBody": {
+    "markedLead": "木原官房長官は来週、予定されていたUAE＝アラブ首長国連邦のムハンマド大統領の国賓としての日本訪問について、UAE側の意向で延期されることになったと発表しました。緊迫化するイラン情勢が影響しているとみられます。\n",
+    "markedBody": "政府は今月8日から3日間の日程で、UAEのムハンマド大統領を国賓として招くことを去年、閣議で決定し、高市総理大臣が首脳会談を行う予定でした。\n\nこれについて木原官房長官は記者会見で「UAE政府から現地情勢の推移を踏まえた日程の都合上、日本訪問を延期せざるをえなくなったと連絡があった」と明らかにしました。\n\nそのうえで「ムハンマド大統領の訪日については今後、改めて両国間で調整していく。引き続き、UAEとの幅広い分野での協力を進展していく考えだ」と述べました。\n\n緊迫化するイラン情勢が影響しているとみられ、国賓として招くことを決めた要人の訪問が延期されるのは異例のこととなります。\n",
+    "trimmedLead": "木原官房長官は来週、予定されていたUAE＝アラブ首長国連邦のムハンマド大統領の国賓としての日本訪問について、UAE側の意向で延期されることになったと発表しました。緊迫化するイラン情勢が影響しているとみられます。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015042291000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015042291000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": false,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

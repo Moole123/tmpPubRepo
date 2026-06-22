@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015086771000",
+  "dataSourceId": "na",
+  "name": "富山 南砺 住宅2棟焼ける火事 3人の遺体見つかる",
+  "headline": "富山 南砺 住宅2棟焼ける火事 3人の遺体見つかる",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015086771000",
+    "playlistId": "news-nwa-society-nationwide-20260328",
+    "newsarticleName": "富山 南砺 住宅2棟焼ける火事 3人の遺体見つかる",
+    "playlistName": "3月28日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "27日、富山県南砺市で住宅2棟が焼ける火事があり、焼け跡から3人の遺体が見つかりました。火事のあと、この家に住む家族3人と連絡が取れないということで、警察が確認を進めるとともに火事の原因を詳しく調べて",
+  "dateModified": "2026-03-28T20:57:45+09:00",
+  "datePublished": "2026-03-28T20:16:15+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260328/K10015086771_2603282009_0328201616_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260328/K10015086771_2603282009_0328201616_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002689",
+      "name": "火災",
+      "display": true
+    },
+    {
+      "id": "0002216",
+      "name": "富山県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "27日、富山県南砺市で住宅2棟が焼ける火事があり、焼け跡から3人の遺体が見つかりました。火事のあと、この家に住む家族3人と連絡が取れないということで、警察が確認を進めるとともに火事の原因を詳しく調べて",
+  "articleBody": "27日、富山県南砺市で住宅2棟が焼ける火事があり、焼け跡から3人の遺体が見つかりました。火事のあと、この家に住む家族3人と連絡が取れないということで、警察が確認を進めるとともに火事の原因を詳しく調べています。\n\n\n27日午後1時ごろ、南砺市松原新で3階建ての住宅と隣接する住宅のあわせて2棟が焼ける火事がありました。\n\n警察と消防が28日、現場を詳しく調べたところ、3階建ての住宅の焼け跡から3人の遺体が見つかりました。\n\n警察によりますと、この家で暮らしていた80代の男性と妻、娘のあわせて3人と火事のあと、連絡が取れないということです。\n\n警察は確認を進めるとともに火事の原因を詳しく調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "27日、富山県南砺市で住宅2棟が焼ける火事があり、焼け跡から3人の遺体が見つかりました。火事のあと、この家に住む家族3人と連絡が取れないということで、警察が確認を進めるとともに火事の原因を詳しく調べています。\n",
+    "markedBody": "27日午後1時ごろ、南砺市松原新で3階建ての住宅と隣接する住宅のあわせて2棟が焼ける火事がありました。\n\n警察と消防が28日、現場を詳しく調べたところ、3階建ての住宅の焼け跡から3人の遺体が見つかりました。\n\n警察によりますと、この家で暮らしていた80代の男性と妻、娘のあわせて3人と火事のあと、連絡が取れないということです。\n\n警察は確認を進めるとともに火事の原因を詳しく調べています。\n",
+    "trimmedLead": "27日、富山県南砺市で住宅2棟が焼ける火事があり、焼け跡から3人の遺体が見つかりました。火事のあと、この家に住む家族3人と連絡が取れないということで、警察が確認を進めるとともに火事の原因を詳しく調べています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015086771000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015086771000",
+  "video": [],
+  "citation": [
+    {
+      "name": "新潟 南区の住宅で火事 焼け跡から2人の遺体見つかる 親子か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015086451000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260328/K10015086451_2603280932_0328095308_01_02.jpg",
+      "datePublished": "2026-03-28T09:53:07+09:00"
+    },
+    {
+      "name": "イラン情勢 フーシ派がイスラエルに攻撃 作戦開始後初めてか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015086371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260328/K10015086371_2603281809_0328185647_01_02.jpg",
+      "datePublished": "2026-03-28T22:14:09+09:00"
+    },
+    {
+      "name": "山上徹也被告 NHKの文書での取材に応じる 安倍元首相銃撃事件",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015086551000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260328/K10015086551_2603281927_0328193957_01_03.jpg",
+      "datePublished": "2026-03-28T19:39:57+09:00"
+    },
+    {
+      "name": "池袋 店員刺殺事件 逃げる女性を追いかけ執ように襲ったか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015086671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260328/K10015086671_2603281753_0328182746_01_02.jpg",
+      "datePublished": "2026-03-28T19:14:09+09:00"
+    },
+    {
+      "name": "太平洋戦争末期の激戦地 硫黄島で日米合同の戦没者追悼式",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015086691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260328/K10015086691_2603281835_0328184220_01_02.jpg",
+      "datePublished": "2026-03-28T18:42:19+09:00"
+    },
+    {
+      "name": "米FBI長官にサイバー攻撃 “イラン関わる”ハッカー集団が声明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015086571000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260328/K10015086571_2603281532_0328153916_01_02.jpg",
+      "datePublished": "2026-03-28T15:39:15+09:00"
+    },
+    {
+      "name": "東京でサクラが満開 去年より2日 平年より3日早く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015086601000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260328/K10015086601_2603281428_0328145701_01_02.jpg",
+      "datePublished": "2026-03-28T18:17:56+09:00"
+    },
+    {
+      "name": "“あした”を奪われた息子 加害者と向き合った両親の思いとは",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015078441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260327/K10015078441_2603181440_0327111641_01_02.jpg",
+      "datePublished": "2026-03-27T11:16:40+09:00"
+    },
+    {
+      "name": "4月 電気・ガス料金 政府補助終了で値上がり 今後は？【Q＆A】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015085801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260327/K10015085801_2603271835_0327185338_01_02.jpg",
+      "datePublished": "2026-03-27T18:53:37+09:00"
+    },
+    {
+      "name": "学びに“AI” どこまでアリ？ためになる使い方は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015086711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260328/K10015086711_2603281954_0328200803_01_02.jpg",
+      "datePublished": "2026-03-28T20:08:01+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

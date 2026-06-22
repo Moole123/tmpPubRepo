@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014859181000",
+  "dataSourceId": "na",
+  "name": "フランス マルセイユ郊外で山火事 約300人けが",
+  "headline": "フランス マルセイユ郊外で山火事 約300人けが",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014859181000",
+    "playlistId": "news-nwa-international-nationwide-20250710",
+    "newsarticleName": "フランス マルセイユ郊外で山火事 約300人けが",
+    "playlistName": "7月10日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "フランス南部のマルセイユの郊外で8日、山火事が発生し、これまでにおよそ300人がけがをしたと伝えられています。\n\n\nAP通信によりますと、フランス南部のマルセイユの郊外で8日、山火事が発生し、地元当局",
+  "dateModified": "2025-07-10T15:42:06+09:00",
+  "datePublished": "2025-07-10T15:42:06+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-640x360.png",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "フランス南部のマルセイユの郊外で8日、山火事が発生し、これまでにおよそ300人がけがをしたと伝えられています。\n\n\nAP通信によりますと、フランス南部のマルセイユの郊外で8日、山火事が発生し、地元当局",
+  "articleBody": "フランス南部のマルセイユの郊外で8日、山火事が発生し、これまでにおよそ300人がけがをしたと伝えられています。\n\n\nAP通信によりますと、フランス南部のマルセイユの郊外で8日、山火事が発生し、地元当局によると煙を吸うなどしてこれまでにおよそ300人がけがをしたということです。\n\n9日の時点で火の勢いは弱まりましたが、鎮火にはいたっていないということです。\n\nまた、これまでに1000人以上の消防士が消火活動にあたりましたが、複数の住宅を含む700ヘクタール以上が焼失したということです。\n\nロイター通信などは、山火事は8日に発生した車両火災から燃え広がったものだと伝えています。\n\n火事によりマルセイユでは飛行機の欠航や鉄道の運休などが生じたほか、一時、外出が制限されるなど、市民の生活にも影響が出ています。\n",
+  "detailedArticleBody": {
+    "markedLead": "フランス南部のマルセイユの郊外で8日、山火事が発生し、これまでにおよそ300人がけがをしたと伝えられています。\n",
+    "markedBody": "AP通信によりますと、フランス南部のマルセイユの郊外で8日、山火事が発生し、地元当局によると煙を吸うなどしてこれまでにおよそ300人がけがをしたということです。\n\n9日の時点で火の勢いは弱まりましたが、鎮火にはいたっていないということです。\n\nまた、これまでに1000人以上の消防士が消火活動にあたりましたが、複数の住宅を含む700ヘクタール以上が焼失したということです。\n\nロイター通信などは、山火事は8日に発生した車両火災から燃え広がったものだと伝えています。\n\n火事によりマルセイユでは飛行機の欠航や鉄道の運休などが生じたほか、一時、外出が制限されるなど、市民の生活にも影響が出ています。\n",
+    "trimmedLead": "フランス南部のマルセイユの郊外で8日、山火事が発生し、これまでにおよそ300人がけがをしたと伝えられています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014859181000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014859181000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": false,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

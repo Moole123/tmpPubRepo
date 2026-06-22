@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014908091000",
+  "dataSourceId": "na",
+  "name": "三重 桑名 40.5度を観測 40度以上はことし8日目 過去最多",
+  "headline": "三重 桑名 40.5度を観測 40度以上はことし8日目 過去最多",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014908091000",
+    "playlistId": "news-nwa-disaster-nationwide-20250830",
+    "newsarticleName": "三重 桑名 40.5度を観測 40度以上はことし8日目 過去最多",
+    "playlistName": "8月30日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "気象庁によりますと、30日も各地で気温が上がり、三重県桑名市では午後1時23分に40.5度を観測しました。\n\n\n国内で40度以上を観測するのはことし8日目で、2018年の記録を抜いて最も多くなっていま",
+  "dateModified": "2025-08-30T13:48:54+09:00",
+  "datePublished": "2025-08-30T13:48:54+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250830/K10014908091_2508301346_0830134726_02_01.jpg",
+      "height": 359,
+      "width": 639
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250830/K10014908091_2508301346_0830134726_01_02.jpg",
+      "height": 359,
+      "width": 639
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "気象庁によりますと、30日も各地で気温が上がり、三重県桑名市では午後1時23分に40.5度を観測しました。\n\n\n国内で40度以上を観測するのはことし8日目で、2018年の記録を抜いて最も多くなっていま",
+  "articleBody": "気象庁によりますと、30日も各地で気温が上がり、三重県桑名市では午後1時23分に40.5度を観測しました。\n\n\n国内で40度以上を観測するのはことし8日目で、2018年の記録を抜いて最も多くなっています。\n\n命に関わる危険な暑さになっていて、熱中症に厳重に警戒してください。\n",
+  "detailedArticleBody": {
+    "markedLead": "気象庁によりますと、30日も各地で気温が上がり、三重県桑名市では午後1時23分に40.5度を観測しました。\n",
+    "markedBody": "国内で40度以上を観測するのはことし8日目で、2018年の記録を抜いて最も多くなっています。\n\n命に関わる危険な暑さになっていて、熱中症に厳重に警戒してください。\n",
+    "trimmedLead": "気象庁によりますと、30日も各地で気温が上がり、三重県桑名市では午後1時23分に40.5度を観測しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014908091000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014908091000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

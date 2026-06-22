@@ -1,0 +1,161 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015053901000",
+  "dataSourceId": "na",
+  "name": "株価 値下がり 半導体関連の銘柄を中心に売り注文が優勢",
+  "headline": "株価 値下がり 半導体関連の銘柄を中心に売り注文が優勢",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015053901000",
+    "playlistId": "news-nwa-business-nationwide-20260217",
+    "newsarticleName": "株価 値下がり 半導体関連の銘柄を中心に売り注文が優勢",
+    "playlistName": "2月17日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "17日の東京株式市場、半導体関連の銘柄を中心に当面の利益を確定しようと売り注文が優勢となり、日経平均株価は値下がりしました。\n\n\n▽日経平均株価、17日の終値は16日と比べて239円92銭安い5万65",
+  "dateModified": "2026-02-17T16:03:48+09:00",
+  "datePublished": "2026-02-17T12:25:23+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260217/K10015053901_2602171544_0217160825_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260217/K10015053901_2602171544_0217160825_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0002421",
+      "name": "半導体",
+      "display": true
+    },
+    {
+      "id": "0002423",
+      "name": "金融",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "17日の東京株式市場、半導体関連の銘柄を中心に当面の利益を確定しようと売り注文が優勢となり、日経平均株価は値下がりしました。\n\n\n▽日経平均株価、17日の終値は16日と比べて239円92銭安い5万65",
+  "articleBody": "17日の東京株式市場、半導体関連の銘柄を中心に当面の利益を確定しようと売り注文が優勢となり、日経平均株価は値下がりしました。\n\n\n▽日経平均株価、17日の終値は16日と比べて239円92銭安い5万6566円49銭。\n\n▽東証株価指数＝トピックスは、25.83下がって3761.55。\n\n▽1日の出来高は22億7457万株でした。\n\n市場関係者は「午後は円相場で円高ドル安が進んだことで、輸出関連の銘柄にも売り注文が増え、値下がり幅が拡大する場面もあった。あすの施政方針演説で、高市総理が財政や経済についてどのように語るのか、関心が集まっている」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "17日の東京株式市場、半導体関連の銘柄を中心に当面の利益を確定しようと売り注文が優勢となり、日経平均株価は値下がりしました。\n",
+    "markedBody": "▽日経平均株価、17日の終値は16日と比べて239円92銭安い5万6566円49銭。\n\n▽東証株価指数＝トピックスは、25.83下がって3761.55。\n\n▽1日の出来高は22億7457万株でした。\n\n市場関係者は「午後は円相場で円高ドル安が進んだことで、輸出関連の銘柄にも売り注文が増え、値下がり幅が拡大する場面もあった。あすの施政方針演説で、高市総理が財政や経済についてどのように語るのか、関心が集まっている」と話しています。\n",
+    "trimmedLead": "17日の東京株式市場、半導体関連の銘柄を中心に当面の利益を確定しようと売り注文が優勢となり、日経平均株価は値下がりしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015053901000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015053901000",
+  "video": [],
+  "citation": [
+    {
+      "name": "“食料品の消費税2年間ゼロ” 賛成が57％ NHK世論調査",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053001000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260217/K10015053001_2602161323_0217050127_01_02.jpg",
+      "datePublished": "2026-02-17T05:01:26+09:00"
+    },
+    {
+      "name": "7年後 支える側になれた“りくりゅう”年下の三浦璃来【解説】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260217/K10015053721_2602171150_0217145323_01_02.jpg",
+      "datePublished": "2026-02-17T14:53:22+09:00"
+    },
+    {
+      "name": "ミラノ・コルティナ五輪【結果】2/16～17タイムライン",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053491000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260216/K10015053491_2602180115_0218011714_01_02.jpg",
+      "datePublished": "2026-02-17T21:32:25+09:00"
+    },
+    {
+      "name": "新種目 まさかの結末に… “これがスキージャンプ”【解説】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260217/K10015053711_2602171136_0217114422_01_02.jpg",
+      "datePublished": "2026-02-17T11:44:21+09:00"
+    },
+    {
+      "name": "木原官房長官 「スパイ防止法」“課題や論点 検討始めている”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015054001000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260217/K10015054001_2602171422_0217151247_01_02.jpg",
+      "datePublished": "2026-02-17T15:12:46+09:00"
+    },
+    {
+      "name": "政府・自民 国民会議早期開始で調整 食料品消費税2年間ゼロで",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260217/K10015053401_2602162320_0217051411_01_02.jpg",
+      "datePublished": "2026-02-17T05:14:10+09:00"
+    },
+    {
+      "name": "メルシャン 一部ワイン自主回収 日本で無認可の添加物使用",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053971000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260217/K10015053971_2602171401_0217145000_01_02.jpg",
+      "datePublished": "2026-02-17T14:50:00+09:00"
+    },
+    {
+      "name": "トランプ大統領 “高市首相 私の支持を勝因として挙げていた”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015054031000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260217/K10015054031_2602171459_0217151736_01_02.jpg",
+      "datePublished": "2026-02-17T15:17:36+09:00"
+    },
+    {
+      "name": "“ルフィ”広域強盗 藤田被告に無期懲役【判決内容を詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260216/K10015053221_2602161538_0216154101_01_02.jpg",
+      "datePublished": "2026-02-16T21:12:39+09:00"
+    },
+    {
+      "name": "エプスタイン氏との交友関係指摘など 財界有力者辞任相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053981000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260217/K10015053981_2602171511_0217152120_01_02.jpg",
+      "datePublished": "2026-02-17T15:21:19+09:00"
+    },
+    {
+      "name": "高市政権の「責任ある積極財政」 市場や専門家はどう評価?",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015052401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260215/K10015052401_2602151528_0215182258_01_02.jpg",
+      "datePublished": "2026-02-15T18:22:57+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015053051000",
+  "dataSourceId": "na",
+  "name": "株価 小幅な値下がり GDP伸び率 市場予想を下回ったこと背景に",
+  "headline": "株価 小幅な値下がり GDP伸び率 市場予想を下回ったこと背景に",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015053051000",
+    "playlistId": "news-nwa-business-nationwide-20260216",
+    "newsarticleName": "株価 小幅な値下がり GDP伸び率 市場予想を下回ったこと背景に",
+    "playlistName": "2月16日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "週明けの16日の東京株式市場、国内の景気が力強さに欠けるという見方が広がって金融関連銘柄を中心に売られ、日経平均株価は小幅に値下がりしました。\n\n\n▽日経平均株価、16日の終値は、13日の終値と比べて",
+  "dateModified": "2026-02-16T16:07:11+09:00",
+  "datePublished": "2026-02-16T12:21:04+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260216/K10015053051_2602161600_0216160712_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260216/K10015053051_2602161600_0216160712_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0002423",
+      "name": "金融",
+      "display": true
+    },
+    {
+      "id": "0002428",
+      "name": "GDP",
+      "display": true
+    },
+    {
+      "id": "0002310",
+      "name": "日本銀行（日銀）",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "週明けの16日の東京株式市場、国内の景気が力強さに欠けるという見方が広がって金融関連銘柄を中心に売られ、日経平均株価は小幅に値下がりしました。\n\n\n▽日経平均株価、16日の終値は、13日の終値と比べて",
+  "articleBody": "週明けの16日の東京株式市場、国内の景気が力強さに欠けるという見方が広がって金融関連銘柄を中心に売られ、日経平均株価は小幅に値下がりしました。\n\n\n▽日経平均株価、16日の終値は、13日の終値と比べて135円56銭、安い5万6806円41銭。\n\n▽東証株価指数・トピックスは31.47下がって3787.38。\n\n▽1日の出来高は24億7048万株でした。\n\n市場関係者は「去年10月から12月までのGDP＝国内総生産の伸び率が市場予想を下回ったことから、景気が力強さに欠けるという見方が広がって金融関連銘柄を中心に売りが目立った。一方、先週値下がりした銘柄を買い戻す動きも出て、午後には値上がりに転じる場面もあった」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "週明けの16日の東京株式市場、国内の景気が力強さに欠けるという見方が広がって金融関連銘柄を中心に売られ、日経平均株価は小幅に値下がりしました。\n",
+    "markedBody": "▽日経平均株価、16日の終値は、13日の終値と比べて135円56銭、安い5万6806円41銭。\n\n▽東証株価指数・トピックスは31.47下がって3787.38。\n\n▽1日の出来高は24億7048万株でした。\n\n市場関係者は「去年10月から12月までのGDP＝国内総生産の伸び率が市場予想を下回ったことから、景気が力強さに欠けるという見方が広がって金融関連銘柄を中心に売りが目立った。一方、先週値下がりした銘柄を買い戻す動きも出て、午後には値上がりに転じる場面もあった」と話しています。\n",
+    "trimmedLead": "週明けの16日の東京株式市場、国内の景気が力強さに欠けるという見方が広がって金融関連銘柄を中心に売られ、日経平均株価は小幅に値下がりしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015053051000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015053051000",
+  "video": [],
+  "citation": [
+    {
+      "name": "高市政権の「責任ある積極財政」 市場や専門家はどう評価?",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015052401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260215/K10015052401_2602151528_0215182258_01_02.jpg",
+      "datePublished": "2026-02-15T18:22:57+09:00"
+    },
+    {
+      "name": "高市首相 日銀 植田総裁と16日会談へ 衆院選後初めて",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015051291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015051291_2602132010_0213203642_01_02.jpg",
+      "datePublished": "2026-02-13T20:36:41+09:00"
+    },
+    {
+      "name": "去年10～12月のGDP 年率換算+0.2％ 2期ぶりにプラス",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015052891000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260216/K10015052891_2602161208_0216121713_01_03.jpg",
+      "datePublished": "2026-02-16T18:40:31+09:00"
+    },
+    {
+      "name": "去年10月～12月のGDP 民間予測は成長率プラスの見込み",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015049311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260212/K10015049311_2602112048_0212062300_01_02.jpg",
+      "datePublished": "2026-02-12T06:22:59+09:00"
+    },
+    {
+      "name": "米 今後10年間の財政赤字 去年1月時点と比べ1兆4000億ドル拡大",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015049941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260212/K10015049941_2602121549_0212155724_01_02.jpg",
+      "datePublished": "2026-02-12T15:57:24+09:00"
+    },
+    {
+      "name": "確定申告始まる 国税庁 「e-Tax」利用呼びかけ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053021000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260216/K10015053021_2602161129_0216115320_01_02.jpg",
+      "datePublished": "2026-02-16T11:53:19+09:00"
+    },
+    {
+      "name": "米 1月の消費者物価指数 前年同月比2.4％上昇",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015051541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015051541_2602132309_0213231140_01_02.jpg",
+      "datePublished": "2026-02-14T03:01:24+09:00"
+    },
+    {
+      "name": "フィギュア ペアSP “りくりゅう”5位でフリーへ リフトでミス",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015052871000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260216/K10015052871_2602160722_0216073325_01_02.jpg",
+      "datePublished": "2026-02-16T12:22:08+09:00"
+    },
+    {
+      "name": "スピードスケート女子500m 高木美帆が銅 今大会2個目のメダル",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015052781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260216/K10015052781_2602160238_0216024746_01_02.jpg",
+      "datePublished": "2026-02-16T09:50:19+09:00"
+    },
+    {
+      "name": "ミラノ・コルティナ五輪【結果】2／15～16タイムライン",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015052721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260215/K10015052721_2602152149_0215215521_01_02.jpg",
+      "datePublished": "2026-02-16T08:42:41+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015096751000",
+  "dataSourceId": "na",
+  "name": "ポーランド首相 13日から3日間来日 高市首相と会談へ",
+  "headline": "ポーランド首相 13日から3日間来日 高市首相と会談へ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015096751000",
+    "playlistId": "news-nwa-international-nationwide-20260410",
+    "newsarticleName": "ポーランド首相 13日から3日間来日 高市首相と会談へ",
+    "playlistName": "4月10日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "ポーランドのトゥスク首相が来週、日本を訪れ、高市総理大臣と会談を行うことになり、両国の協力関係の進展などをめぐり意見が交わされる見通しです。\n\n\n政府は、ポーランドのトゥスク首相が、来週13日から3日",
+  "dateModified": "2026-04-10T20:24:24+09:00",
+  "datePublished": "2026-04-10T20:24:24+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260410/K10015096751_2604101823_0410202425_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260410/K10015096751_2604101823_0410202425_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0002345",
+      "name": "ポーランド",
+      "display": true
+    },
+    {
+      "id": "0000820",
+      "name": "イラン情勢",
+      "display": true
+    },
+    {
+      "id": "0002631",
+      "name": "中東",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ポーランドのトゥスク首相が来週、日本を訪れ、高市総理大臣と会談を行うことになり、両国の協力関係の進展などをめぐり意見が交わされる見通しです。\n\n\n政府は、ポーランドのトゥスク首相が、来週13日から3日",
+  "articleBody": "ポーランドのトゥスク首相が来週、日本を訪れ、高市総理大臣と会談を行うことになり、両国の協力関係の進展などをめぐり意見が交わされる見通しです。\n\n\n政府は、ポーランドのトゥスク首相が、来週13日から3日間の日程で日本を訪れ、滞在中、高市総理大臣と会談すると発表しました。\n\n高市総理大臣とトゥスク首相の会談は初めてです。\n\n佐藤官房副長官は記者会見で「ポーランドは、自由、民主主義、人権、法の支配といった価値を共有する重要な戦略的パートナーだ。トゥスク首相の訪日を通じ、両国の友好や協力関係がいっそう深まることを期待する」と述べました。\n\nまた、政府関係者の1人は、会談では、中東情勢についても議論されるという見通しを示しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "ポーランドのトゥスク首相が来週、日本を訪れ、高市総理大臣と会談を行うことになり、両国の協力関係の進展などをめぐり意見が交わされる見通しです。\n",
+    "markedBody": "政府は、ポーランドのトゥスク首相が、来週13日から3日間の日程で日本を訪れ、滞在中、高市総理大臣と会談すると発表しました。\n\n高市総理大臣とトゥスク首相の会談は初めてです。\n\n佐藤官房副長官は記者会見で「ポーランドは、自由、民主主義、人権、法の支配といった価値を共有する重要な戦略的パートナーだ。トゥスク首相の訪日を通じ、両国の友好や協力関係がいっそう深まることを期待する」と述べました。\n\nまた、政府関係者の1人は、会談では、中東情勢についても議論されるという見通しを示しています。\n",
+    "trimmedLead": "ポーランドのトゥスク首相が来週、日本を訪れ、高市総理大臣と会談を行うことになり、両国の協力関係の進展などをめぐり意見が交わされる見通しです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015096751000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015096751000",
+  "video": [],
+  "citation": [
+    {
+      "name": "米・イラン あす協議予定 主張対立で開催か予断を許さない状況",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015096141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260410/K10015096141_2604101927_0410193012_01_03.jpg",
+      "datePublished": "2026-04-10T19:30:11+09:00"
+    },
+    {
+      "name": "日印外相が電話会談 エネルギー供給力の強じん化へ協力で一致",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015096671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260410/K10015096671_2604101726_0410175302_01_02.jpg",
+      "datePublished": "2026-04-10T17:53:01+09:00"
+    },
+    {
+      "name": "レバノンで大規模攻撃 停戦の合意内容めぐり認識の相違",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015095271000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260409/K10015095271_2604090717_0409073732_01_03.jpg",
+      "datePublished": "2026-04-09T21:47:40+09:00"
+    },
+    {
+      "name": "大阪 和泉 母娘殺害 発見当時 寝巻きのような格好で倒れていた",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015096441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260410/K10015096441_2604101138_0410120307_01_02.jpg",
+      "datePublished": "2026-04-10T19:18:39+09:00"
+    },
+    {
+      "name": "高市首相 石油「国家備蓄」約20日分を追加放出へ 来月上旬以降",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015096281000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260410/K10015096281_2604100905_0410094423_01_02.jpg",
+      "datePublished": "2026-04-10T16:18:14+09:00"
+    },
+    {
+      "name": "西日本・東日本で荒れた天気 あす北日本で風強まる 暴風に警戒",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015096121000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260410/K10015096121_2604101856_0410191712_01_02.jpg",
+      "datePublished": "2026-04-10T19:17:11+09:00"
+    },
+    {
+      "name": "株価 一時 約1か月ぶりの5万7000円台に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015095401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260410/K10015095401_2604101534_0410160258_01_02.jpg",
+      "datePublished": "2026-04-10T16:02:57+09:00"
+    },
+    {
+      "name": "スクラップ保管する“ヤード”のトラブル受け事業者を許可制に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015096391000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260410/K10015096391_2604101139_0410115347_01_02.jpg",
+      "datePublished": "2026-04-10T11:53:46+09:00"
+    },
+    {
+      "name": "【イラン情勢】日本経済への影響は？ 先行きへの不安も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015095761000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260409/K10015095761_2604091922_0409193528_01_02.jpg",
+      "datePublished": "2026-04-09T19:35:27+09:00"
+    },
+    {
+      "name": "アメリカ財務省高官にきく 日本版CFIUSの意義と課題",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015095541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260409/K10015095541_2604091730_0409221451_01_02.jpg",
+      "datePublished": "2026-04-10T12:12:05+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

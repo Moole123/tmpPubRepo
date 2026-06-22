@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015134941000",
+  "dataSourceId": "na",
+  "name": "岩手 大槌町の山林火災が鎮火 発生から1か月余",
+  "headline": "岩手 大槌町の山林火災が鎮火 発生から1か月余",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015134941000",
+    "playlistId": "news-nwa-disaster-nationwide-20260529",
+    "newsarticleName": "岩手 大槌町の山林火災が鎮火 発生から1か月余",
+    "playlistName": "5月29日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "岩手県大槌町で先月22日に発生した山林火災について、町は、再び燃え広がるおそれがなくなったとして、発生から1か月余りたった29日「鎮火」を宣言しました。\n\n\n先月22日に大槌町で発生した山林火災は今月",
+  "dateModified": "2026-05-29T14:38:24+09:00",
+  "datePublished": "2026-05-29T14:38:24+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260529/K10015134941_2605291311_0529143825_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260529/K10015134941_2605291311_0529143825_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002806",
+      "name": "岩手 大槌町 山林火災",
+      "display": true
+    },
+    {
+      "id": "0002689",
+      "name": "火災",
+      "display": true
+    },
+    {
+      "id": "0002203",
+      "name": "岩手県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "岩手県大槌町で先月22日に発生した山林火災について、町は、再び燃え広がるおそれがなくなったとして、発生から1か月余りたった29日「鎮火」を宣言しました。\n\n\n先月22日に大槌町で発生した山林火災は今月",
+  "articleBody": "岩手県大槌町で先月22日に発生した山林火災について、町は、再び燃え広がるおそれがなくなったとして、発生から1か月余りたった29日「鎮火」を宣言しました。\n\n\n先月22日に大槌町で発生した山林火災は今月2日にほぼ消し止められましたが、その後も熱源が確認されるなどしたため、消防が警戒にあたっていました。\n\n発生から1か月余りたった29日、大槌町の平野公三町長は午前10時から山林の状況を視察したうえで、消防とともに火災の現状について分析しました。\n\nそして、再び燃え広がるおそれがなくなったとして、午後1時に「鎮火」を宣言しました。\n\nこの山林火災で、住宅1棟を含む建物8棟が焼けたほか、あわせて2人が軽いけがをし、一時、最大で町の人口の3割にあたる1558世帯、3257人に避難指示が出されました。\n\n平成以降、2番目の規模となるおよそ1633ヘクタールが焼けたとみられていて、山林の復旧・復興をどのように進めていくかが今後の課題となります。\n",
+  "detailedArticleBody": {
+    "markedLead": "岩手県大槌町で先月22日に発生した山林火災について、町は、再び燃え広がるおそれがなくなったとして、発生から1か月余りたった29日「鎮火」を宣言しました。\n",
+    "markedBody": "先月22日に大槌町で発生した山林火災は今月2日にほぼ消し止められましたが、その後も熱源が確認されるなどしたため、消防が警戒にあたっていました。\n\n発生から1か月余りたった29日、大槌町の平野公三町長は午前10時から山林の状況を視察したうえで、消防とともに火災の現状について分析しました。\n\nそして、再び燃え広がるおそれがなくなったとして、午後1時に「鎮火」を宣言しました。\n\nこの山林火災で、住宅1棟を含む建物8棟が焼けたほか、あわせて2人が軽いけがをし、一時、最大で町の人口の3割にあたる1558世帯、3257人に避難指示が出されました。\n\n平成以降、2番目の規模となるおよそ1633ヘクタールが焼けたとみられていて、山林の復旧・復興をどのように進めていくかが今後の課題となります。\n",
+    "trimmedLead": "岩手県大槌町で先月22日に発生した山林火災について、町は、再び燃え広がるおそれがなくなったとして、発生から1か月余りたった29日「鎮火」を宣言しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015134941000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015134941000",
+  "video": [],
+  "citation": [
+    {
+      "name": "岩手 大槌町の山林火災を「局地激甚災害」に指定 政府",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134731000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134731_2605291058_0529113234_01_02.jpg",
+      "datePublished": "2026-05-29T11:32:34+09:00"
+    },
+    {
+      "name": "広島 呉 船解体現場火災 「重機から出火目撃」と従業員",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133821000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015133821_2605281232_0528154230_01_02.jpg",
+      "datePublished": "2026-05-28T15:42:29+09:00"
+    },
+    {
+      "name": "日本航空機が緊急着陸 後輪パンクか 羽田空港で一部滑走路閉鎖",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134831000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134831_2605291221_0529124225_01_02.jpg",
+      "datePublished": "2026-05-29T14:46:09+09:00"
+    },
+    {
+      "name": "姫路の中学校 “実験中に煙 生徒が気分悪いと訴え”複数が搬送",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134931000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134931_2605291248_0529130335_01_03.jpg",
+      "datePublished": "2026-05-29T12:58:36+09:00"
+    },
+    {
+      "name": "大麻所持疑い逮捕のバレーボール選手“名古屋でもらった”説明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134741_2605291134_0529114736_01_02.jpg",
+      "datePublished": "2026-05-29T11:47:35+09:00"
+    },
+    {
+      "name": "栃木強盗殺人 48歳容疑者を公開手配 事件を主導か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134801_2605291133_0529114846_01_02.jpg",
+      "datePublished": "2026-05-29T15:02:31+09:00"
+    },
+    {
+      "name": "日本の人口は1億2305万人 減少幅は過去最大 国勢調査速報値",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134531_2605290046_0529083052_01_02.jpg",
+      "datePublished": "2026-05-29T11:30:43+09:00"
+    },
+    {
+      "name": "株価 一時1500円超値上がり アメリカとイラン協議進展の見方",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134651000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134651_2605291304_0529132225_01_02.jpg",
+      "datePublished": "2026-05-29T13:22:24+09:00"
+    },
+    {
+      "name": "イランと覚書めぐり暫定合意と米関係者 合意実現は不透明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134541_2605290353_0529045956_01_02.jpg",
+      "datePublished": "2026-05-29T12:13:07+09:00"
+    },
+    {
+      "name": "6月に値上げの食品 1000品目超 中東情勢影響で価格転嫁増える",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134751000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134751_2605291349_0529135242_01_03.jpg",
+      "datePublished": "2026-05-29T11:38:31+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

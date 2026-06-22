@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015012711000",
+  "dataSourceId": "na",
+  "name": "自民・維新「副首都」構想 来月にも法案骨子 通常国会提出へ",
+  "headline": "自民・維新「副首都」構想 来月にも法案骨子 通常国会提出へ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015012711000",
+    "playlistId": "news-nwa-politics-nationwide-20251224",
+    "newsarticleName": "自民・維新「副首都」構想 来月にも法案骨子 通常国会提出へ",
+    "playlistName": "12月24日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "自民党と日本維新の会の連立合意に盛り込まれた「副首都」構想などの実現に向けて両党の実務者が協議を行い、具体的な論点整理を進めた上で来月にも法案の骨子をまとめ、通常国会への提出を目指す方針を確認しました",
+  "dateModified": "2025-12-24T17:29:31+09:00",
+  "datePublished": "2025-12-24T17:29:31+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251224/K10015012711_2512241659_1224172932_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251224/K10015012711_2512241659_1224172932_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "自民党と日本維新の会の連立合意に盛り込まれた「副首都」構想などの実現に向けて両党の実務者が協議を行い、具体的な論点整理を進めた上で来月にも法案の骨子をまとめ、通常国会への提出を目指す方針を確認しました",
+  "articleBody": "自民党と日本維新の会の連立合意に盛り込まれた「副首都」構想などの実現に向けて両党の実務者が協議を行い、具体的な論点整理を進めた上で来月にも法案の骨子をまとめ、通常国会への提出を目指す方針を確認しました。\n\n\n自民・維新両党の連立合意では「副首都」構想などの統治機構改革について来年の通常国会で法案を成立させるとしていて、24日、両党の実務者が協議を行いました。\n\nそして東京への一極集中の是正や大規模災害の際の首都のバックアップ機能などに重点を置いて論点整理を進めた上で来月にも法案の骨子をまとめ、通常国会への提出を目指す方針を確認しました。\n\n会合のあと維新の斎藤政務調査会長は記者団に対し「重要なことは二重行政の解消であり方法や手段についてしっかりと検討したい。論点が多岐にわたるが、一つ一つ整理し合意点も増えてきている」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "自民党と日本維新の会の連立合意に盛り込まれた「副首都」構想などの実現に向けて両党の実務者が協議を行い、具体的な論点整理を進めた上で来月にも法案の骨子をまとめ、通常国会への提出を目指す方針を確認しました。\n",
+    "markedBody": "自民・維新両党の連立合意では「副首都」構想などの統治機構改革について来年の通常国会で法案を成立させるとしていて、24日、両党の実務者が協議を行いました。\n\nそして東京への一極集中の是正や大規模災害の際の首都のバックアップ機能などに重点を置いて論点整理を進めた上で来月にも法案の骨子をまとめ、通常国会への提出を目指す方針を確認しました。\n\n会合のあと維新の斎藤政務調査会長は記者団に対し「重要なことは二重行政の解消であり方法や手段についてしっかりと検討したい。論点が多岐にわたるが、一つ一つ整理し合意点も増えてきている」と述べました。\n",
+    "trimmedLead": "自民党と日本維新の会の連立合意に盛り込まれた「副首都」構想などの実現に向けて両党の実務者が協議を行い、具体的な論点整理を進めた上で来月にも法案の骨子をまとめ、通常国会への提出を目指す方針を確認しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015012711000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015012711000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

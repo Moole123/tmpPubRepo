@@ -1,0 +1,101 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014858911000",
+  "dataSourceId": "na",
+  "name": "東京 江戸川区 路線バスとトレーラー衝突する事故 12人けが",
+  "headline": "東京 江戸川区 路線バスとトレーラー衝突する事故 12人けが",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014858911000",
+    "playlistId": "news-nwa-society-nationwide-20250710",
+    "newsarticleName": "東京 江戸川区 路線バスとトレーラー衝突する事故 12人けが",
+    "playlistName": "7月10日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "10日昼前、東京・江戸川区の交差点で路線バスとトレーラーが衝突する事故があり、消防によりますとバスに乗っていた12人がけがをして手当てを受けています。けがの程度はいずれも軽いとみられるということです。",
+  "dateModified": "2025-07-10T15:06:35+09:00",
+  "datePublished": "2025-07-10T11:55:53+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250710/K10014858911_2507101144_0710114749_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250710/K10014858911_2507101144_0710114749_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "10日昼前、東京・江戸川区の交差点で路線バスとトレーラーが衝突する事故があり、消防によりますとバスに乗っていた12人がけがをして手当てを受けています。けがの程度はいずれも軽いとみられるということです。",
+  "articleBody": "10日昼前、東京・江戸川区の交差点で路線バスとトレーラーが衝突する事故があり、消防によりますとバスに乗っていた12人がけがをして手当てを受けています。けがの程度はいずれも軽いとみられるということです。\n\n\n東京消防庁などによりますと10日午前11時ごろ、江戸川区東葛西の交差点でトレーラーが右折しようとしたところ、路線バスが正面から衝突し、バスに乗っていた12人がけがをしたということです。\n\n病院に運ばれ、手当てを受けるなどしていますがいずれもけがの程度は軽いとみられるということです。\n\n警視庁が詳しい事故の状況などを調べています。\n\n現場は東京メトロ東西線の葛西駅から500メートルほど離れた交通量の多い交差点です。\n",
+  "detailedArticleBody": {
+    "markedLead": "10日昼前、東京・江戸川区の交差点で路線バスとトレーラーが衝突する事故があり、消防によりますとバスに乗っていた12人がけがをして手当てを受けています。けがの程度はいずれも軽いとみられるということです。\n",
+    "markedBody": "東京消防庁などによりますと10日午前11時ごろ、江戸川区東葛西の交差点でトレーラーが右折しようとしたところ、路線バスが正面から衝突し、バスに乗っていた12人がけがをしたということです。\n\n病院に運ばれ、手当てを受けるなどしていますがいずれもけがの程度は軽いとみられるということです。\n\n警視庁が詳しい事故の状況などを調べています。\n\n現場は東京メトロ東西線の葛西駅から500メートルほど離れた交通量の多い交差点です。\n",
+    "trimmedLead": "10日昼前、東京・江戸川区の交差点で路線バスとトレーラーが衝突する事故があり、消防によりますとバスに乗っていた12人がけがをして手当てを受けています。けがの程度はいずれも軽いとみられるということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014858911000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014858911000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "東京 江戸川区 路線バスとトレーラー衝突する事故 12人けが",
+      "description": "10日昼前、東京・江戸川区の交差点で路線バスとトレーラーが衝突する事故があり、消防によりますとバスに乗っていた12人がけがをして手当てを受けています。けがの程度はいずれも軽いとみられるということです。",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10014858911_202507101208_202507101209/index.m3u8&mrposter=/news/html/20250710/K10014858911_2507101144_0710114749_01_02.jpg",
+      "duration": "PT28S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10014858911_202507101208_202507101209/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20250710/K10014858911_2507101144_0710114749_01_02.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015092051000",
+  "dataSourceId": "na",
+  "name": "アフガニスタン北部でM5.8の地震 8人死亡1人けが",
+  "headline": "アフガニスタン北部でM5.8の地震 8人死亡1人けが",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015092051000",
+    "playlistId": "news-nwa-international-nationwide-20260404",
+    "newsarticleName": "アフガニスタン北部でM5.8の地震 8人死亡1人けが",
+    "playlistName": "4月4日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "アフガニスタン北部で3日夜、マグニチュード5.8の地震があり、これまでに8人が死亡し、1人がけがをしました。\n\n\nUSGS＝アメリカの地質調査所によりますと、アフガニスタンの現地時間の3日夜8時半すぎ",
+  "dateModified": "2026-04-04T09:46:59+09:00",
+  "datePublished": "2026-04-04T09:46:59+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260404/K10015092051_2604040627_0404094700_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260404/K10015092051_2604040627_0404094700_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際",
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0001808",
+      "name": "アフガニスタン",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "アフガニスタン北部で3日夜、マグニチュード5.8の地震があり、これまでに8人が死亡し、1人がけがをしました。\n\n\nUSGS＝アメリカの地質調査所によりますと、アフガニスタンの現地時間の3日夜8時半すぎ",
+  "articleBody": "アフガニスタン北部で3日夜、マグニチュード5.8の地震があり、これまでに8人が死亡し、1人がけがをしました。\n\n\nUSGS＝アメリカの地質調査所によりますと、アフガニスタンの現地時間の3日夜8時半すぎ、日本時間の4日午前1時すぎ、北部を震源とする地震がありました。\n\n震源の深さは186.4キロ、地震の規模を示すマグニチュードは5.8と推定されています。\n\n地元の災害当局によりますと、この地震でこれまでに首都カブール郊外で住宅1棟が倒壊し、8人が死亡し、子ども1人がけがをしたということです。\n\n地元の警察によりますと、ほかにも複数の住宅が一部損壊する被害が出ているということで、災害当局などとともに被災状況の確認を進めています。\n\nアフガニスタンでは去年8月にも東部を震源とするマグニチュード6.0の地震が発生し、2200人以上が死亡するなど地震による被害が相次いでいます。\n",
+  "detailedArticleBody": {
+    "markedLead": "アフガニスタン北部で3日夜、マグニチュード5.8の地震があり、これまでに8人が死亡し、1人がけがをしました。\n",
+    "markedBody": "USGS＝アメリカの地質調査所によりますと、アフガニスタンの現地時間の3日夜8時半すぎ、日本時間の4日午前1時すぎ、北部を震源とする地震がありました。\n\n震源の深さは186.4キロ、地震の規模を示すマグニチュードは5.8と推定されています。\n\n地元の災害当局によりますと、この地震でこれまでに首都カブール郊外で住宅1棟が倒壊し、8人が死亡し、子ども1人がけがをしたということです。\n\n地元の警察によりますと、ほかにも複数の住宅が一部損壊する被害が出ているということで、災害当局などとともに被災状況の確認を進めています。\n\nアフガニスタンでは去年8月にも東部を震源とするマグニチュード6.0の地震が発生し、2200人以上が死亡するなど地震による被害が相次いでいます。\n",
+    "trimmedLead": "アフガニスタン北部で3日夜、マグニチュード5.8の地震があり、これまでに8人が死亡し、1人がけがをしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015092051000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015092051000",
+  "video": [],
+  "citation": [
+    {
+      "name": "商船三井LNG運搬船 ホルムズ海峡通過 軍事作戦後 日本関係で初",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015091851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260403/K10015091851_2604032153_0403220219_01_02.jpg",
+      "datePublished": "2026-04-03T21:24:07+09:00"
+    },
+    {
+      "name": "“ホルムズ海峡 イラン側が一部の船舶から通航料徴収”米報道",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015091641000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260403/K10015091641_2604031918_0403192159_01_02.jpg",
+      "datePublished": "2026-04-03T17:57:38+09:00"
+    },
+    {
+      "name": "米軍がテヘラン郊外の橋を攻撃 イラン側反発 徹底抗戦の構え",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015091101000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260403/K10015091101_2604031141_0403115614_01_03.jpg",
+      "datePublished": "2026-04-03T22:11:54+09:00"
+    },
+    {
+      "name": "米 3月雇用統計 就業者は前月比17万8000人増 減速懸念和らぐ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015091911000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260403/K10015091911_2604032247_0403225301_01_02.jpg",
+      "datePublished": "2026-04-03T23:52:04+09:00"
+    },
+    {
+      "name": "トランプ大統領 輸入医薬品に100％の追加関税 署名 日本は15％",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015091221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260403/K10015091221_2604031009_0403105233_01_03.jpg",
+      "datePublished": "2026-04-03T15:06:53+09:00"
+    },
+    {
+      "name": "マイクロソフト 日本国内でのAI開発に約1兆6000億円投資",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015091261000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260403/K10015091261_2604031645_0403172056_01_03.jpg",
+      "datePublished": "2026-04-03T17:20:55+09:00"
+    },
+    {
+      "name": "ドジャース 大谷翔平 今季初ホームラン 開幕7試合目で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015091961000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260404/K10015091961_2604040444_0404053246_01_02.jpg",
+      "datePublished": "2026-04-04T08:31:11+09:00"
+    },
+    {
+      "name": "沖縄 辺野古沖の転覆事故 生徒の遺族が娘への思いなど情報発信",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015092031000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260404/K10015092031_2604040201_0404060957_01_02.jpg",
+      "datePublished": "2026-04-04T06:42:57+09:00"
+    },
+    {
+      "name": "南アジアでくすぶる火種 背景に何が",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014982701000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20251121/K10014982701_2511211120_1121131744_01_02.jpg",
+      "datePublished": "2025-11-21T13:17:43+09:00"
+    },
+    {
+      "name": "イランをめぐる戦争 見えない出口",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015091391000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260403/K10015091391_2604031208_0403131810_01_02.jpg",
+      "datePublished": "2026-04-03T13:18:09+09:00"
+    },
+    {
+      "name": "“有事のドル買い”なぜ進む？背景は【経済コラム】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015090941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260403/K10015090941_2604031312_0403164741_01_02.jpg",
+      "datePublished": "2026-04-03T16:47:40+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

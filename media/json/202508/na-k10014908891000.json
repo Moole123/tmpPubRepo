@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014908891000",
+  "dataSourceId": "na",
+  "name": "群馬 嬬恋村 渓流釣りの男性がクマに襲われ大けが",
+  "headline": "群馬 嬬恋村 渓流釣りの男性がクマに襲われ大けが",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014908891000",
+    "playlistId": "news-nwa-society-nationwide-20250831",
+    "newsarticleName": "群馬 嬬恋村 渓流釣りの男性がクマに襲われ大けが",
+    "playlistName": "8月31日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "31日午前、群馬県嬬恋村の山の中で、渓流釣りをしていた45歳の男性がクマに襲われ、顔をひっかかれて大けがをしました。クマはその場から逃げ、警察が注意を呼びかけています。\n\n\n警察によりますと、31日午",
+  "dateModified": "2025-08-31T20:44:58+09:00",
+  "datePublished": "2025-08-31T20:44:58+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250831/K10014908891_2508312031_0831204500_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250831/K10014908891_2508312031_0831204500_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "31日午前、群馬県嬬恋村の山の中で、渓流釣りをしていた45歳の男性がクマに襲われ、顔をひっかかれて大けがをしました。クマはその場から逃げ、警察が注意を呼びかけています。\n\n\n警察によりますと、31日午",
+  "articleBody": "31日午前、群馬県嬬恋村の山の中で、渓流釣りをしていた45歳の男性がクマに襲われ、顔をひっかかれて大けがをしました。クマはその場から逃げ、警察が注意を呼びかけています。\n\n\n警察によりますと、31日午前11時ごろ、群馬県嬬恋村鎌原の山の中で長野県佐久市の45歳の男性が渓流釣りをしていたところクマに襲われました。\n\n男性は顔をひっかかれて鼻やほおなどに大けがをしましたが、意識はあるということです。\n\n警察の調べによりますと、クマは体長1メートル50センチほどで、草むらから出てきて1人で釣りをしていた男性を襲ったあと沢の上流の方向へ逃げたということです。\n\n警察は周辺をパトロールするとともに、近くに立ち入らないよう注意を呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "31日午前、群馬県嬬恋村の山の中で、渓流釣りをしていた45歳の男性がクマに襲われ、顔をひっかかれて大けがをしました。クマはその場から逃げ、警察が注意を呼びかけています。\n",
+    "markedBody": "警察によりますと、31日午前11時ごろ、群馬県嬬恋村鎌原の山の中で長野県佐久市の45歳の男性が渓流釣りをしていたところクマに襲われました。\n\n男性は顔をひっかかれて鼻やほおなどに大けがをしましたが、意識はあるということです。\n\n警察の調べによりますと、クマは体長1メートル50センチほどで、草むらから出てきて1人で釣りをしていた男性を襲ったあと沢の上流の方向へ逃げたということです。\n\n警察は周辺をパトロールするとともに、近くに立ち入らないよう注意を呼びかけています。\n",
+    "trimmedLead": "31日午前、群馬県嬬恋村の山の中で、渓流釣りをしていた45歳の男性がクマに襲われ、顔をひっかかれて大けがをしました。クマはその場から逃げ、警察が注意を呼びかけています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014908891000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014908891000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

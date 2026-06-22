@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015112811000",
+  "dataSourceId": "na",
+  "name": "不動産会社利用のシステムに不正アクセス 顧客情報 大量流出か",
+  "headline": "不動産会社利用のシステムに不正アクセス 顧客情報 大量流出か",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015112811000",
+    "playlistId": "news-nwa-society-nationwide-20260501",
+    "newsarticleName": "不動産会社利用のシステムに不正アクセス 顧客情報 大量流出か",
+    "playlistName": "5月1日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "不動産会社に物件情報や顧客管理などのシステムを提供する会社が不正なアクセスを受け、このシステムを利用している複数の不動産仲介サイトの利用者の個人情報が流出したおそれがあると発表しました。流出した情報は",
+  "dateModified": "2026-05-01T19:29:58+09:00",
+  "datePublished": "2026-05-01T19:29:58+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260501/K10015112811_2605011752_0501192959_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260501/K10015112811_2605011752_0501192959_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0000009",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "0002422",
+      "name": "不動産",
+      "display": true
+    },
+    {
+      "id": "0002213",
+      "name": "東京都",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "不動産会社に物件情報や顧客管理などのシステムを提供する会社が不正なアクセスを受け、このシステムを利用している複数の不動産仲介サイトの利用者の個人情報が流出したおそれがあると発表しました。流出した情報は",
+  "articleBody": "不動産会社に物件情報や顧客管理などのシステムを提供する会社が不正なアクセスを受け、このシステムを利用している複数の不動産仲介サイトの利用者の個人情報が流出したおそれがあると発表しました。流出した情報は、100万件近くにのぼる可能性もあり、会社側が調査を進めています。\n\n\n不正なアクセスを受けたのは、不動産会社に物件情報や顧客データなどを管理するシステムを提供する東京 新宿区の会社「いえらぶGROUP」です。\n\n会社の発表によりますと、4月5日、「いえらぶCLOUD」と呼ばれるシステムが外部から不正なアクセスを受け、このシステムを利用している複数の不動産仲介サイトに登録されていた利用者の個人情報が流出したおそれがあるということです。\n\n流出した件数は調査中ですが、対象の情報は、利用者の名前やメールアドレス、電話番号、住所、希望物件の条件などで、クレジットカード情報は含まれていないということです。\n\n会社側などの調査では、インターネットの闇サイトで、流出したデータの可能性が高い情報が販売されているということで、このサイトでは、メールアドレスは、およそ97万件分にのぼると記載されています。\n\n会社は被害状況の調査を進め、対象となる利用者に個別に連絡することにしています。\n\n「いえらぶGROUP」は、ホームページで「多大なご迷惑とご心配をおかけしておりますことを深くおわび申し上げます。心当たりのない電話やメールなどに注意し、不審な連絡があった場合には問い合わせ窓口まで連絡してほしい」などとコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "不動産会社に物件情報や顧客管理などのシステムを提供する会社が不正なアクセスを受け、このシステムを利用している複数の不動産仲介サイトの利用者の個人情報が流出したおそれがあると発表しました。流出した情報は、100万件近くにのぼる可能性もあり、会社側が調査を進めています。\n",
+    "markedBody": "不正なアクセスを受けたのは、不動産会社に物件情報や顧客データなどを管理するシステムを提供する東京 新宿区の会社「いえらぶGROUP」です。\n\n会社の発表によりますと、4月5日、「いえらぶCLOUD」と呼ばれるシステムが外部から不正なアクセスを受け、このシステムを利用している複数の不動産仲介サイトに登録されていた利用者の個人情報が流出したおそれがあるということです。\n\n流出した件数は調査中ですが、対象の情報は、利用者の名前やメールアドレス、電話番号、住所、希望物件の条件などで、クレジットカード情報は含まれていないということです。\n\n会社側などの調査では、インターネットの闇サイトで、流出したデータの可能性が高い情報が販売されているということで、このサイトでは、メールアドレスは、およそ97万件分にのぼると記載されています。\n\n会社は被害状況の調査を進め、対象となる利用者に個別に連絡することにしています。\n\n![](https://news.web.nhk/news/html/20260501/K10015112811_2605011752_0501192959_02_03.jpg)\n\n「いえらぶGROUP」は、ホームページで「多大なご迷惑とご心配をおかけしておりますことを深くおわび申し上げます。心当たりのない電話やメールなどに注意し、不審な連絡があった場合には問い合わせ窓口まで連絡してほしい」などとコメントしています。\n",
+    "trimmedLead": "不動産会社に物件情報や顧客管理などのシステムを提供する会社が不正なアクセスを受け、このシステムを利用している複数の不動産仲介サイトの利用者の個人情報が流出したおそれがあると発表しました。流出した情報は、100万件近くにのぼる可能性もあり、会社側が調査を進めています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015112811000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015112811000",
+  "video": [],
+  "citation": [
+    {
+      "name": "村田製作所 取引先や従業員の個人情報など約8万8000件流出か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109381000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015109381_2604271623_0427165206_01_02.jpg",
+      "datePublished": "2026-04-27T16:52:05+09:00"
+    },
+    {
+      "name": "メットライフ生命 出向先から2400件超の内部情報持ち出し",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015112661000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260501/K10015112661_2605011527_0501153734_01_02.jpg",
+      "datePublished": "2026-05-01T15:37:33+09:00"
+    },
+    {
+      "name": "大手損保3社の社員 出向中にトヨタ内部情報を持ち出し",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106451000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015106451_2604231525_0423153149_01_02.jpg",
+      "datePublished": "2026-04-23T15:31:49+09:00"
+    },
+    {
+      "name": "「PayPay」送金に誘導する詐欺メールが急増 注意を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015111421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260430/K10015111421_2604301108_0430113151_01_02.jpg",
+      "datePublished": "2026-04-30T11:31:50+09:00"
+    },
+    {
+      "name": "旭山動物園 遺体損壊事件 園内で妻のものとみられるスマホ発見",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015112801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260501/K10015112801_2605011746_0501175712_01_02.jpg",
+      "datePublished": "2026-05-01T19:34:59+09:00"
+    },
+    {
+      "name": "東京 福生 “ハンマー”で殴り逃走 44歳容疑者を逮捕 警視庁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015112451000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260501/K10015112451_2605011744_0501191601_01_03.jpg",
+      "datePublished": "2026-05-01T19:21:27+09:00"
+    },
+    {
+      "name": "イギリス ユダヤ系住民標的の事件受けテロ警戒レベル引き上げ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015112491000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260501/K10015112491_2605011145_0501130115_01_02.jpg",
+      "datePublished": "2026-05-01T13:01:15+09:00"
+    },
+    {
+      "name": "バンクシー新作の像 ロンドンに出現 “盲目的な愛国心”風刺か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015112711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260501/K10015112711_2605011643_0501170725_01_02.jpg",
+      "datePublished": "2026-05-01T17:07:24+09:00"
+    },
+    {
+      "name": "通販大手で起きたサイバー攻撃 被害の実態と教訓は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015011711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20251225/K10015011711_2512251808_1225194743_01_02.jpg",
+      "datePublished": "2025-12-25T19:47:41+09:00"
+    },
+    {
+      "name": "相次ぐ証券口座乗っ取り 被害者のパソコン解析で分かったこと",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014808601000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20250520/K10014808601_2505201028_0520105152_01_02.jpg",
+      "datePublished": "2025-05-20T16:23:25+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

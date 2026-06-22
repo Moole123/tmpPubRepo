@@ -1,0 +1,163 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015051251000",
+  "dataSourceId": "na",
+  "name": "高市首相 都内の病院で手の検査受ける",
+  "headline": "高市首相 都内の病院で手の検査受ける",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015051251000",
+    "playlistId": "news-nwa-politics-nationwide-20260213",
+    "newsarticleName": "高市首相 都内の病院で手の検査受ける",
+    "playlistName": "2月13日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "高市総理大臣は13日、東京都内の病院に4時間近く滞在し、手の検査を受けるなどしたということです。\n\n\n高市総理大臣は午前11時前に東京都内の病院に入り、4時間近く滞在しました。\n\n政府関係者によります",
+  "dateModified": "2026-02-13T19:44:58+09:00",
+  "datePublished": "2026-02-13T19:44:58+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260213/K10015051251_2602131926_0213194459_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260213/K10015051251_2602131926_0213194459_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0002672",
+      "name": "高市内閣",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "高市総理大臣は13日、東京都内の病院に4時間近く滞在し、手の検査を受けるなどしたということです。\n\n\n高市総理大臣は午前11時前に東京都内の病院に入り、4時間近く滞在しました。\n\n政府関係者によります",
+  "articleBody": "高市総理大臣は13日、東京都内の病院に4時間近く滞在し、手の検査を受けるなどしたということです。\n\n\n高市総理大臣は午前11時前に東京都内の病院に入り、4時間近く滞在しました。\n\n政府関係者によりますと、手の検査を受けるなどしたということです。\n\n高市総理大臣は関節リウマチの持病があり、衆議院選挙のあとの記者会見で「選挙も終わったのでレントゲンを撮りに行って治療し、万全の体制で国会に臨めるようにしたい」と述べていました。\n\nまた都内の病院を出たあとには、歯科医院で歯の治療を受けたということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "高市総理大臣は13日、東京都内の病院に4時間近く滞在し、手の検査を受けるなどしたということです。\n",
+    "markedBody": "高市総理大臣は午前11時前に東京都内の病院に入り、4時間近く滞在しました。\n\n政府関係者によりますと、手の検査を受けるなどしたということです。\n\n高市総理大臣は関節リウマチの持病があり、衆議院選挙のあとの記者会見で「選挙も終わったのでレントゲンを撮りに行って治療し、万全の体制で国会に臨めるようにしたい」と述べていました。\n\nまた都内の病院を出たあとには、歯科医院で歯の治療を受けたということです。\n",
+    "trimmedLead": "高市総理大臣は13日、東京都内の病院に4時間近く滞在し、手の検査を受けるなどしたということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015051251000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015051251000",
+  "video": [],
+  "citation": [
+    {
+      "name": "高市首相 新年度予算案 “1日も早い成立に向け努力を”と指示",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050871000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050871_2602131210_0213124547_01_02.jpg",
+      "datePublished": "2026-02-13T19:27:17+09:00"
+    },
+    {
+      "name": "「責任ある積極財政」片山財務相 財政の持続可能性に配慮 強調",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050971000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050971_2602131401_0213145441_01_02.jpg",
+      "datePublished": "2026-02-13T14:54:40+09:00"
+    },
+    {
+      "name": "天皇誕生日の一般参賀 警備対策強化へ 新年一般参賀の事件受け",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015051211000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015051211_2602131839_0213185918_01_02.jpg",
+      "datePublished": "2026-02-13T18:59:17+09:00"
+    },
+    {
+      "name": "広島地検の検事自殺 国が遺族に1億9400万円の解決金 和解成立",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015051141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015051141_2602131757_0213184529_01_02.jpg",
+      "datePublished": "2026-02-13T18:45:28+09:00"
+    },
+    {
+      "name": "伊勢崎3人死亡 危険運転の罪認定 被告に懲役20年判決 前橋地裁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015051011000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015051011_2602131524_0213153238_01_02.jpg",
+      "datePublished": "2026-02-13T19:06:41+09:00"
+    },
+    {
+      "name": "東大大学院の元教授らを収賄の罪で起訴 東京地検",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015051221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015051221_2602131831_0213190124_01_02.jpg",
+      "datePublished": "2026-02-13T22:48:51+09:00"
+    },
+    {
+      "name": "診療報酬加算引き上げへ 中医協が改定案答申 患者窓口負担も増",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050791_2602131454_0213161253_01_03.jpg",
+      "datePublished": "2026-02-13T19:36:31+09:00"
+    },
+    {
+      "name": "中道 新代表の小川淳也氏が会見 “党内融和へバランスに配慮”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050811_2602131428_0213170954_01_03.jpg",
+      "datePublished": "2026-02-13T17:09:53+09:00"
+    },
+    {
+      "name": "中道 新代表に小川淳也氏 党内・他党の反応は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050771_2602131112_0213160250_01_02.jpg",
+      "datePublished": "2026-02-13T18:29:35+09:00"
+    },
+    {
+      "name": "スノーボード女子ハーフパイプ 小野光希が銅メダル【全結果】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050501000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050501_2602130704_0213070810_01_02.jpg",
+      "datePublished": "2026-02-13T11:50:34+09:00"
+    },
+    {
+      "name": "貫いた“大技” スキー男子モーグル 堀島行真【解説】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050571000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050571_2602130916_0213092209_01_02.jpg",
+      "datePublished": "2026-02-13T09:22:08+09:00"
+    },
+    {
+      "name": "ミラノ・コルティナ五輪 日本のメダル数は【2月13日】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050621000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050621_2602130537_0213055422_01_02.jpg",
+      "datePublished": "2026-02-13T05:54:22+09:00"
+    },
+    {
+      "name": "ミラノ・コルティナ五輪 見どころ【2/13～14】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050601000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050601_2602130359_0213055826_01_02.jpg",
+      "datePublished": "2026-02-13T05:58:25+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

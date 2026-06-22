@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014923901000",
+  "dataSourceId": "na",
+  "name": "維新 藤田共同代表 “自民新総裁が何を実現するかを最優先に”",
+  "headline": "維新 藤田共同代表 “自民新総裁が何を実現するかを最優先に”",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014923901000",
+    "playlistId": "news-nwa-politics-nationwide-20250916",
+    "newsarticleName": "維新 藤田共同代表 “自民新総裁が何を実現するかを最優先に”",
+    "playlistName": "9月16日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "日本維新の会の藤田共同代表はテレビ朝日の番組「大下容子ワイド！スクランブル」に出演し「総裁が誰ならやりやすいとか、誰だったら一緒にできるという議論の前に、まずは新しい総裁が何を打ち出して執念を持って実",
+  "dateModified": "2025-09-16T14:53:14+09:00",
+  "datePublished": "2025-09-16T14:53:14+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250916/K10014923901_2509161418_0916145315_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250916/K10014923901_2509161418_0916145315_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "日本維新の会の藤田共同代表はテレビ朝日の番組「大下容子ワイド！スクランブル」に出演し「総裁が誰ならやりやすいとか、誰だったら一緒にできるという議論の前に、まずは新しい総裁が何を打ち出して執念を持って実",
+  "articleBody": "日本維新の会の藤田共同代表はテレビ朝日の番組「大下容子ワイド！スクランブル」に出演し「総裁が誰ならやりやすいとか、誰だったら一緒にできるという議論の前に、まずは新しい総裁が何を打ち出して執念を持って実現するかを最優先に向き合いたい」と述べました。\n\n\nまた、自民・公明両党と連立政権を組む選択肢はあるかと問われたのに対し「選択肢としてはあり得ると思うが、お互いの信頼関係と、どんな政策をテーブルにあげて実現していくかが一番重要だ」と述べました。\n\nそのうえで「連立はそう簡単なハードルではなく、相当高い山を越えないと成し得ない。単一のアジェンダで取り引きするのは難しく、憲法や安全保障、外国人政策など、新たな社会像をどう持っていくかが合わないと、連立して一心同体でやっていくのはそう簡単な道のりではない」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "日本維新の会の藤田共同代表はテレビ朝日の番組「大下容子ワイド！スクランブル」に出演し「総裁が誰ならやりやすいとか、誰だったら一緒にできるという議論の前に、まずは新しい総裁が何を打ち出して執念を持って実現するかを最優先に向き合いたい」と述べました。\n",
+    "markedBody": "また、自民・公明両党と連立政権を組む選択肢はあるかと問われたのに対し「選択肢としてはあり得ると思うが、お互いの信頼関係と、どんな政策をテーブルにあげて実現していくかが一番重要だ」と述べました。\n\nそのうえで「連立はそう簡単なハードルではなく、相当高い山を越えないと成し得ない。単一のアジェンダで取り引きするのは難しく、憲法や安全保障、外国人政策など、新たな社会像をどう持っていくかが合わないと、連立して一心同体でやっていくのはそう簡単な道のりではない」と述べました。\n",
+    "trimmedLead": "日本維新の会の藤田共同代表はテレビ朝日の番組「大下容子ワイド！スクランブル」に出演し「総裁が誰ならやりやすいとか、誰だったら一緒にできるという議論の前に、まずは新しい総裁が何を打ち出して執念を持って実現するかを最優先に向き合いたい」と述べました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014923901000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014923901000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

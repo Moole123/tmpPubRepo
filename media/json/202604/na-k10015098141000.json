@@ -1,0 +1,149 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015098141000",
+  "dataSourceId": "na",
+  "name": "株価 500円超 値下がり 米イラン協議合意至らず売り広がる",
+  "headline": "株価 500円超 値下がり 米イラン協議合意至らず売り広がる",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015098141000",
+    "playlistId": "news-nwa-business-nationwide-20260413",
+    "newsarticleName": "株価 500円超 値下がり 米イラン協議合意至らず売り広がる",
+    "playlistName": "4月13日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "週明けの13日の東京株式市場、週末に行われたアメリカとイランの協議が合意に至らず、原油の供給をめぐる不透明感が続くという見方から多くの銘柄に売り注文が出て、日経平均株価は値下がりしています。\n\n\n▽日",
+  "dateModified": "2026-04-13T12:14:54+09:00",
+  "datePublished": "2026-04-13T12:14:54+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260413/K10015098141_2604131158_0413121454_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260413/K10015098141_2604131158_0413121454_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0000819",
+      "name": "原油価格",
+      "display": true
+    },
+    {
+      "id": "0002800",
+      "name": "イラン情勢 日本への影響・対応",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "週明けの13日の東京株式市場、週末に行われたアメリカとイランの協議が合意に至らず、原油の供給をめぐる不透明感が続くという見方から多くの銘柄に売り注文が出て、日経平均株価は値下がりしています。\n\n\n▽日",
+  "articleBody": "週明けの13日の東京株式市場、週末に行われたアメリカとイランの協議が合意に至らず、原油の供給をめぐる不透明感が続くという見方から多くの銘柄に売り注文が出て、日経平均株価は値下がりしています。\n\n\n▽日経平均株価、午前の終値は、先週末の終値と比べて566円71銭安い5万6357円40銭、\n\n▽東証株価指数=トピックスは18.07下がって3721.78、\n\n▽午前の出来高は9億9332万株でした。\n\n市場関係者は、「市場では、両国の協議がすぐに合意には至らないのではないかという事前の観測があったことから、株価は下落したものの値下がり幅は500円余りだった。ただ、トランプ大統領のホルムズ海峡をめぐる発言もあって状況のさらなる悪化も懸念され今後も神経質な取り引きが続くと見込まれる」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "週明けの13日の東京株式市場、週末に行われたアメリカとイランの協議が合意に至らず、原油の供給をめぐる不透明感が続くという見方から多くの銘柄に売り注文が出て、日経平均株価は値下がりしています。\n",
+    "markedBody": "▽日経平均株価、午前の終値は、先週末の終値と比べて566円71銭安い5万6357円40銭、\n\n▽東証株価指数\\=トピックスは18.07下がって3721.78、\n\n▽午前の出来高は9億9332万株でした。\n\n市場関係者は、「市場では、両国の協議がすぐに合意には至らないのではないかという事前の観測があったことから、株価は下落したものの値下がり幅は500円余りだった。ただ、トランプ大統領のホルムズ海峡をめぐる発言もあって状況のさらなる悪化も懸念され今後も神経質な取り引きが続くと見込まれる」と話しています。\n",
+    "trimmedLead": "週明けの13日の東京株式市場、週末に行われたアメリカとイランの協議が合意に至らず、原油の供給をめぐる不透明感が続くという見方から多くの銘柄に売り注文が出て、日経平均株価は値下がりしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015098141000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015098141000",
+  "video": [],
+  "citation": [
+    {
+      "name": "アメリカ イラン海上封鎖へ 軍事的緊張の高まり懸念",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015097851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260412/K10015097851_2604131029_0413115955_01_02.jpg",
+      "datePublished": "2026-04-13T12:19:41+09:00"
+    },
+    {
+      "name": "トランプ大統領 “限定攻撃再開検討も 外交排除せず” 米報道",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015098021000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260413/K10015098021_2604131002_0413101230_01_02.jpg",
+      "datePublished": "2026-04-13T10:12:30+09:00"
+    },
+    {
+      "name": "米 協議に6つの“レッドライン” イラン「米の責任」譲歩要求",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015097921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260413/K10015097921_2604130737_0413075112_01_02.jpg",
+      "datePublished": "2026-04-13T11:13:31+09:00"
+    },
+    {
+      "name": "京都 男児不明3週間 靴が見つかった山の周辺を重点的に捜索",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015097791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260413/K10015097791_2604131127_0413120025_01_02.jpg",
+      "datePublished": "2026-04-13T12:20:12+09:00"
+    },
+    {
+      "name": "長期金利2.49％に上昇 1999年2月以来の高水準 物価上昇懸念で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015097981000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260413/K10015097981_2604130917_0413092124_01_02.jpg",
+      "datePublished": "2026-04-13T10:15:07+09:00"
+    },
+    {
+      "name": "NY原油 WTI先物価格上昇 一時1バレル＝105ドル台 供給面に懸念",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015097911000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260413/K10015097911_2604130722_0413072621_01_02.jpg",
+      "datePublished": "2026-04-13T07:26:20+09:00"
+    },
+    {
+      "name": "ドジャース 大谷翔平 先頭打者HR 佐々木朗希 4回2失点で2敗目",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015097891000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260413/K10015097891_2604130613_0413061424_01_02.jpg",
+      "datePublished": "2026-04-13T11:32:23+09:00"
+    },
+    {
+      "name": "高市首相“憲法改正 来年党大会までに発議にめど” 議論活発に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015097801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260413/K10015097801_2604122117_0413060905_01_02.jpg",
+      "datePublished": "2026-04-13T06:09:05+09:00"
+    },
+    {
+      "name": "全国火山ハザードマップ 49火山のデータを集めてみたら…",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015095991000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260411/K10015095991_2604102003_0411112145_01_02.jpg",
+      "datePublished": "2026-04-11T11:21:44+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

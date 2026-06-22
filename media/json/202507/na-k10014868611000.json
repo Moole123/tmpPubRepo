@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014868611000",
+  "dataSourceId": "na",
+  "name": "ベトナム ハロン湾 “観光船転覆で34人死亡” 地元メディア",
+  "headline": "ベトナム ハロン湾 “観光船転覆で34人死亡” 地元メディア",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014868611000",
+    "playlistId": "news-nwa-international-nationwide-20250720",
+    "newsarticleName": "ベトナム ハロン湾 “観光船転覆で34人死亡” 地元メディア",
+    "playlistName": "7月20日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "世界遺産にも登録されているベトナム北部のハロン湾で19日、53人を乗せた観光船が転覆し、地元メディアによりますと、これまでに少なくとも34人が死亡しました。現地の日本大使館によりますと、日本人の乗客は",
+  "dateModified": "2025-07-20T04:15:23+09:00",
+  "datePublished": "2025-07-20T04:15:23+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-640x360.png",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "世界遺産にも登録されているベトナム北部のハロン湾で19日、53人を乗せた観光船が転覆し、地元メディアによりますと、これまでに少なくとも34人が死亡しました。現地の日本大使館によりますと、日本人の乗客は",
+  "articleBody": "世界遺産にも登録されているベトナム北部のハロン湾で19日、53人を乗せた観光船が転覆し、地元メディアによりますと、これまでに少なくとも34人が死亡しました。現地の日本大使館によりますと、日本人の乗客はこれまでに確認されていないということです。\n\n\n地元メディアなどによりますと、ベトナム北部のハロン湾で19日に53人を乗せた観光船が転覆し、これまでに11人が救助されましたが、少なくとも34人が死亡し、8人の行方が分からなくなっているということです。\n\n乗客のほとんどが、ベトナム人とみられ、首都ハノイにある日本大使館によりますと、日本人の乗客はこれまでに確認されていないということです。\n\nハロン湾は、世界遺産にも登録されている景勝地で当時、強風が吹くなど悪天候だったとみられていて、地元の当局などは、捜索や救助活動を急ぐとともに転覆した原因を調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "世界遺産にも登録されているベトナム北部のハロン湾で19日、53人を乗せた観光船が転覆し、地元メディアによりますと、これまでに少なくとも34人が死亡しました。現地の日本大使館によりますと、日本人の乗客はこれまでに確認されていないということです。\n",
+    "markedBody": "地元メディアなどによりますと、ベトナム北部のハロン湾で19日に53人を乗せた観光船が転覆し、これまでに11人が救助されましたが、少なくとも34人が死亡し、8人の行方が分からなくなっているということです。\n\n乗客のほとんどが、ベトナム人とみられ、首都ハノイにある日本大使館によりますと、日本人の乗客はこれまでに確認されていないということです。\n\nハロン湾は、世界遺産にも登録されている景勝地で当時、強風が吹くなど悪天候だったとみられていて、地元の当局などは、捜索や救助活動を急ぐとともに転覆した原因を調べています。\n",
+    "trimmedLead": "世界遺産にも登録されているベトナム北部のハロン湾で19日、53人を乗せた観光船が転覆し、地元メディアによりますと、これまでに少なくとも34人が死亡しました。現地の日本大使館によりますと、日本人の乗客はこれまでに確認されていないということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014868611000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014868611000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": false,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": true,
+    "geoblockVideoFlg": true,
+    "rawHtmlFlg": false
+  }
+}

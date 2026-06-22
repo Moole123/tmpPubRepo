@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015093561000",
+  "dataSourceId": "na",
+  "name": "自民 去年の党員数100万3298人 おととしから約2万5000人減少",
+  "headline": "自民 去年の党員数100万3298人 おととしから約2万5000人減少",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015093561000",
+    "playlistId": "news-nwa-politics-nationwide-20260406",
+    "newsarticleName": "自民 去年の党員数100万3298人 おととしから約2万5000人減少",
+    "playlistName": "4月6日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "自民党は、去年の党員数について、おととしよりおよそ2万5000人減少し、100万人余りとなったと発表しました。松野組織運動本部長は、来年の統一地方選挙などを見据え、党員の獲得に向けて活動を強化していく",
+  "dateModified": "2026-04-06T21:13:55+09:00",
+  "datePublished": "2026-04-06T21:13:55+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260406/K10015093561_2604062057_0406211355_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260406/K10015093561_2604062057_0406211355_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0000304",
+      "name": "選挙",
+      "display": true
+    },
+    {
+      "id": "0002582",
+      "name": "衆議院選挙",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "自民党は、去年の党員数について、おととしよりおよそ2万5000人減少し、100万人余りとなったと発表しました。松野組織運動本部長は、来年の統一地方選挙などを見据え、党員の獲得に向けて活動を強化していく",
+  "articleBody": "自民党は、去年の党員数について、おととしよりおよそ2万5000人減少し、100万人余りとなったと発表しました。松野組織運動本部長は、来年の統一地方選挙などを見据え、党員の獲得に向けて活動を強化していく考えを示しました。\n\n\n自民党の松野組織運動本部長は、6日開かれた党の役員会で、去年の年末時点でまとめた党員数について、おととしよりおよそ2万5000人減り、100万3298人となったと報告しました。\n\n党員が減るのは3年連続となりました。\n\n松野氏は、減少が続く要因について「国民の政治に対する不信が続く中、党勢拡大に取り組んできた現職の国会議員が減少したことなどが考えられる」と述べました。\n\nその上で、来年の統一地方選挙や再来年の参議院選挙などを見据え、党員の獲得に向けて活動を強化していく考えを示しました。\n\n一方、都道府県別に見ると、おととしより党員数が増えたのは、奈良、徳島、大分の3つの県連で、このうち高市総理大臣の地元の奈良県連は、2倍以上の3万7000人余りとなりました。\n",
+  "detailedArticleBody": {
+    "markedLead": "自民党は、去年の党員数について、おととしよりおよそ2万5000人減少し、100万人余りとなったと発表しました。松野組織運動本部長は、来年の統一地方選挙などを見据え、党員の獲得に向けて活動を強化していく考えを示しました。\n",
+    "markedBody": "自民党の松野組織運動本部長は、6日開かれた党の役員会で、去年の年末時点でまとめた党員数について、おととしよりおよそ2万5000人減り、100万3298人となったと報告しました。\n\n党員が減るのは3年連続となりました。\n\n松野氏は、減少が続く要因について「国民の政治に対する不信が続く中、党勢拡大に取り組んできた現職の国会議員が減少したことなどが考えられる」と述べました。\n\nその上で、来年の統一地方選挙や再来年の参議院選挙などを見据え、党員の獲得に向けて活動を強化していく考えを示しました。\n\n一方、都道府県別に見ると、おととしより党員数が増えたのは、奈良、徳島、大分の3つの県連で、このうち高市総理大臣の地元の奈良県連は、2倍以上の3万7000人余りとなりました。\n",
+    "trimmedLead": "自民党は、去年の党員数について、おととしよりおよそ2万5000人減少し、100万人余りとなったと発表しました。松野組織運動本部長は、来年の統一地方選挙などを見据え、党員の獲得に向けて活動を強化していく考えを示しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015093561000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015093561000",
+  "video": [],
+  "citation": [
+    {
+      "name": "再審制度見直し “証拠開示あり方も政府案は不十分” 自民会議",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015093431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015093431_2604061959_0406205043_01_02.jpg",
+      "datePublished": "2026-04-06T20:50:43+09:00"
+    },
+    {
+      "name": "高市首相 イラン首脳との会談実現へ意欲 “調整中の状況”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015092901000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015092901_2604061123_0406171327_01_03.jpg",
+      "datePublished": "2026-04-06T14:37:21+09:00"
+    },
+    {
+      "name": "トランプ氏 エネルギー施設攻撃延期か 停戦条件協議との報道も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015092771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015092771_2604061937_0406195954_01_03.jpg",
+      "datePublished": "2026-04-06T21:37:26+09:00"
+    },
+    {
+      "name": "日本関係の船舶がホルムズ海峡通過 日本関係船の通過は3隻目",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015093171000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015093171_2604061549_0406155006_01_02.jpg",
+      "datePublished": "2026-04-06T17:11:28+09:00"
+    },
+    {
+      "name": "京都 南丹 11歳男児不明から2週間 捜索続くも有力手がかりなし",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015092981000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015092981_2604061213_0406122328_01_03.jpg",
+      "datePublished": "2026-04-06T18:24:48+09:00"
+    },
+    {
+      "name": "天皇ご一家 福島の「東日本大震災・原子力災害伝承館」を訪問",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015093361000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015093361_2604061813_0406190355_01_02.jpg",
+      "datePublished": "2026-04-06T21:08:30+09:00"
+    },
+    {
+      "name": "スピードスケート高木美帆が引退会見 決断の理由明かす",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015092951000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015092951_2604061530_0406153719_01_02.jpg",
+      "datePublished": "2026-04-06T20:48:58+09:00"
+    },
+    {
+      "name": "大谷翔平 2号HRなど勝利に貢献 佐々木5回6失点 勝ち負けつかず",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015092781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015092781_2604061141_0406114345_01_02.jpg",
+      "datePublished": "2026-04-06T11:28:39+09:00"
+    },
+    {
+      "name": "急増するナッツアレルギー 重症化のリスクも",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015087561000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260405/K10015087561_2604021207_0405102550_01_02.jpg",
+      "datePublished": "2026-04-05T10:25:49+09:00"
+    },
+    {
+      "name": "賃上げ支援“工事発注の際 原材料上昇など 価格に反映を”政府",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015093401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015093401_2604061857_0406204126_01_02.jpg",
+      "datePublished": "2026-04-06T20:41:25+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

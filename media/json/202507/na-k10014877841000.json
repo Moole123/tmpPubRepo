@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014877841000",
+  "dataSourceId": "na",
+  "name": "自民 「参議院選挙総括委員会」のトップに森山幹事長が就任",
+  "headline": "自民 「参議院選挙総括委員会」のトップに森山幹事長が就任",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014877841000",
+    "playlistId": "news-nwa-politics-nationwide-20250729",
+    "newsarticleName": "自民 「参議院選挙総括委員会」のトップに森山幹事長が就任",
+    "playlistName": "7月29日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "自民党は、参議院選挙の敗因を分析する「参議院選挙総括委員会」のトップに森山幹事長が就任したと発表しました。\n\n\n参議院選挙の敗北を受けて、28日の自民党の両院議員懇談会では、森山幹事長が、敗因を分析す",
+  "dateModified": "2025-07-29T14:32:39+09:00",
+  "datePublished": "2025-07-29T14:32:39+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250729/K10014877841_2507291420_0729143241_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250729/K10014877841_2507291420_0729143241_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "自民党は、参議院選挙の敗因を分析する「参議院選挙総括委員会」のトップに森山幹事長が就任したと発表しました。\n\n\n参議院選挙の敗北を受けて、28日の自民党の両院議員懇談会では、森山幹事長が、敗因を分析す",
+  "articleBody": "自民党は、参議院選挙の敗因を分析する「参議院選挙総括委員会」のトップに森山幹事長が就任したと発表しました。\n\n\n参議院選挙の敗北を受けて、28日の自民党の両院議員懇談会では、森山幹事長が、敗因を分析する「参議院選挙総括委員会」を設置することなどを報告しました。\n\nこれを受けて、自民党は、29日、総括委員会のトップである委員長に森山幹事長が、実務を担う幹事に木原選挙対策委員長がそれぞれ就任したと発表しました。\n\nまた、顧問には菅副総裁が、副委員長には鈴木総務会長や小野寺政務調査会長ら党執行部が就きました。\n\nこれについて森山氏は記者会見で「選挙結果の分析と課題の洗い出しを行いたい。今後、地方組織や友好団体、有識者の皆様からも意見を伺い、8月中をめどに報告書を取りまとめることとしている。できるだけ急いでスタートしたい」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "自民党は、参議院選挙の敗因を分析する「参議院選挙総括委員会」のトップに森山幹事長が就任したと発表しました。\n",
+    "markedBody": "参議院選挙の敗北を受けて、28日の自民党の両院議員懇談会では、森山幹事長が、敗因を分析する「参議院選挙総括委員会」を設置することなどを報告しました。\n\nこれを受けて、自民党は、29日、総括委員会のトップである委員長に森山幹事長が、実務を担う幹事に木原選挙対策委員長がそれぞれ就任したと発表しました。\n\nまた、顧問には菅副総裁が、副委員長には鈴木総務会長や小野寺政務調査会長ら党執行部が就きました。\n\nこれについて森山氏は記者会見で「選挙結果の分析と課題の洗い出しを行いたい。今後、地方組織や友好団体、有識者の皆様からも意見を伺い、8月中をめどに報告書を取りまとめることとしている。できるだけ急いでスタートしたい」と述べました。\n",
+    "trimmedLead": "自民党は、参議院選挙の敗因を分析する「参議院選挙総括委員会」のトップに森山幹事長が就任したと発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014877841000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014877841000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

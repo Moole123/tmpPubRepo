@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015084581000",
+  "dataSourceId": "na",
+  "name": "株価 小幅な値動き",
+  "headline": "株価 小幅な値動き",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015084581000",
+    "playlistId": "news-nwa-business-nationwide-20260326",
+    "newsarticleName": "株価 小幅な値動き",
+    "playlistName": "3月26日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "26日の東京株式市場、日経平均株価は小幅な値動きとなっています。\n\n\n▽日経平均株価、午前の終値は25日の終値と比べて91円15銭安い5万3658円47銭。\n\n▽東証株価指数=トピックスは11.15下",
+  "dateModified": "2026-03-26T12:20:14+09:00",
+  "datePublished": "2026-03-26T12:20:14+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260326/K10015084581_2603261154_0326122014_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260326/K10015084581_2603261154_0326122014_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0002423",
+      "name": "金融",
+      "display": true
+    },
+    {
+      "id": "0000820",
+      "name": "イラン情勢",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "26日の東京株式市場、日経平均株価は小幅な値動きとなっています。\n\n\n▽日経平均株価、午前の終値は25日の終値と比べて91円15銭安い5万3658円47銭。\n\n▽東証株価指数=トピックスは11.15下",
+  "articleBody": "26日の東京株式市場、日経平均株価は小幅な値動きとなっています。\n\n\n▽日経平均株価、午前の終値は25日の終値と比べて91円15銭安い5万3658円47銭。\n\n▽東証株価指数=トピックスは11.15下がって3639.84。\n\n▽午前の出来高は9億6582万株でした。\n\n市場関係者は「イラン情勢の先行きに対する不透明感は依然強く、取引開始直後には上昇していた日経平均株価も次第に上げ幅を縮め、午前の取引終了前には下げに転じた」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "26日の東京株式市場、日経平均株価は小幅な値動きとなっています。\n",
+    "markedBody": "▽日経平均株価、午前の終値は25日の終値と比べて91円15銭安い5万3658円47銭。\n\n▽東証株価指数\\=トピックスは11.15下がって3639.84。\n\n▽午前の出来高は9億6582万株でした。\n\n市場関係者は「イラン情勢の先行きに対する不透明感は依然強く、取引開始直後には上昇していた日経平均株価も次第に上げ幅を縮め、午前の取引終了前には下げに転じた」と話しています。\n",
+    "trimmedLead": "26日の東京株式市場、日経平均株価は小幅な値動きとなっています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015084581000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015084581000",
+  "video": [],
+  "citation": [
+    {
+      "name": "石油の「国家備蓄」の放出始まる 安定供給につなげたい考え",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015084541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260326/K10015084541_2603261137_0326114145_01_02.jpg",
+      "datePublished": "2026-03-26T12:20:42+09:00"
+    },
+    {
+      "name": "米大統領”イラン合意したがっている” イランは協議を否定",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015084361000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260326/K10015084361_2603260410_0326062618_01_02.jpg",
+      "datePublished": "2026-03-26T12:30:46+09:00"
+    },
+    {
+      "name": "松本文科相 不倫報道を陳謝 “信頼回復に努め職責果たしたい”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015084511000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260326/K10015084511_2603261110_0326114333_01_02.jpg",
+      "datePublished": "2026-03-26T11:43:32+09:00"
+    },
+    {
+      "name": "大阪 熊取町 給食のパンで食中毒 製造業者を営業停止処分",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015084501000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260326/K10015084501_2603261104_0326114105_01_03.jpg",
+      "datePublished": "2026-03-26T11:41:04+09:00"
+    },
+    {
+      "name": "イギリスBBC 新会長にグーグルの元幹部を任命",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015084351000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260326/K10015084351_2603260359_0326073421_01_02.jpg",
+      "datePublished": "2026-03-26T07:34:20+09:00"
+    },
+    {
+      "name": "NTTドコモ 3Gサービス 3月末で終了 機種や契約の変更呼びかけ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015084301000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260326/K10015084301_2603260030_0326065917_01_02.jpg",
+      "datePublished": "2026-03-26T06:59:16+09:00"
+    },
+    {
+      "name": "北海道新幹線 開業から10年 札幌への延伸計画 大幅に遅れる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015084221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260326/K10015084221_2603252126_0326063913_01_03.jpg",
+      "datePublished": "2026-03-26T06:39:13+09:00"
+    },
+    {
+      "name": "ホンダとソニー EV開発販売中止 EV市場減速が提携に影響及ぼす",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015084101000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260326/K10015084101_2603252252_0326063148_01_03.jpg",
+      "datePublished": "2026-03-26T06:31:47+09:00"
+    },
+    {
+      "name": "京都市バス燃料の軽油 4月分を3月の約2倍の価格で購入へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015084241000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260326/K10015084241_2603252318_0326055427_01_02.jpg",
+      "datePublished": "2026-03-26T05:54:26+09:00"
+    },
+    {
+      "name": "大川原化工機えん罪事件 元顧問の遺族 裁判官の責任問い提訴へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015084281000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260326/K10015084281_2603252326_0326002718_01_02.jpg",
+      "datePublished": "2026-03-26T00:27:17+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

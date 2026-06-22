@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014893091000",
+  "dataSourceId": "na",
+  "name": "石破首相動静 2025年8月12日",
+  "headline": "石破首相動静 2025年8月12日",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014893091000",
+    "playlistId": "news-nwa-politics-nationwide-20250813",
+    "newsarticleName": "石破首相動静 2025年8月12日",
+    "playlistName": "8月13日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "（石破首相動静 2025年8月12日）\n\n\n09:00 公邸発\n11:19 千葉県勝浦市の海上自衛隊イージス艦衝突事故の遺族宅着。弔問。妻佳子さん同席\n11:31 近隣住民らと握手。写真撮影（～11:",
+  "dateModified": "2025-08-13T11:22:07+09:00",
+  "datePublished": "2025-08-13T11:22:07+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250813/K10014893091_2508131100_0813111707_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250813/K10014893091_2508131100_0813111707_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "（石破首相動静 2025年8月12日）\n\n\n09:00 公邸発\n11:19 千葉県勝浦市の海上自衛隊イージス艦衝突事故の遺族宅着。弔問。妻佳子さん同席\n11:31 近隣住民らと握手。写真撮影（～11:",
+  "articleBody": "（石破首相動静 2025年8月12日）\n\n\n09:00 公邸発\n11:19 千葉県勝浦市の海上自衛隊イージス艦衝突事故の遺族宅着。弔問。妻佳子さん同席\n11:31 近隣住民らと握手。写真撮影（～11:35）\n11:36 同所発\n11:39 同市のすし店「勝美」着。遺族らと会食。妻佳子さん同席\n13:15 同所発\n15:10 国立国会図書館着\n15:13 同所発\n15:16 公邸着\n",
+  "detailedArticleBody": {
+    "markedLead": "（石破首相動静 2025年8月12日）\n",
+    "markedBody": "09:00 公邸発\\\n11:19 千葉県勝浦市の海上自衛隊イージス艦衝突事故の遺族宅着。弔問。妻佳子さん同席\\\n11:31 近隣住民らと握手。写真撮影（～11:35）\\\n11:36 同所発\\\n11:39 同市のすし店「勝美」着。遺族らと会食。妻佳子さん同席\\\n13:15 同所発\\\n15:10 国立国会図書館着\\\n15:13 同所発\\\n15:16 公邸着\n",
+    "trimmedLead": "（石破首相動静 2025年8月12日）\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014893091000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014893091000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

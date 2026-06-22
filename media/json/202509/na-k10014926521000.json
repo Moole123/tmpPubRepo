@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014926521000",
+  "dataSourceId": "na",
+  "name": "自民 総裁選のテーマ「＃ 変われ自民党 日本の未来を語れ！」",
+  "headline": "自民 総裁選のテーマ「＃ 変われ自民党 日本の未来を語れ！」",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014926521000",
+    "playlistId": "news-nwa-politics-nationwide-20250918",
+    "newsarticleName": "自民 総裁選のテーマ「＃ 変われ自民党 日本の未来を語れ！」",
+    "playlistName": "9月18日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "自民党は今回の総裁選挙のテーマを「＃変われ自民党 日本の未来を語れ！」とすることを決め、18日午後、SNSの「TikTok」での配信を通じて発表しました。\n\n\n平井広報本部長らは「自民党に変わってもら",
+  "dateModified": "2025-09-18T18:50:41+09:00",
+  "datePublished": "2025-09-18T18:50:41+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250918/K10014926521_2509181834_0918184957_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250918/K10014926521_2509181834_0918184957_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "自民党は今回の総裁選挙のテーマを「＃変われ自民党 日本の未来を語れ！」とすることを決め、18日午後、SNSの「TikTok」での配信を通じて発表しました。\n\n\n平井広報本部長らは「自民党に変わってもら",
+  "articleBody": "自民党は今回の総裁選挙のテーマを「＃変われ自民党 日本の未来を語れ！」とすることを決め、18日午後、SNSの「TikTok」での配信を通じて発表しました。\n\n\n平井広報本部長らは「自民党に変わってもらいたい」という国民の声を踏まえ、SNS上ですでに使われている「＃変われ自民党」を採用したなどと説明しました。\n\n今後、SNS上でこのハッシュタグがついた投稿を集め、国民が自民党に何を求めているのか分析するということです。\n\n平井氏は「こちらから押しつけるのではなく、皆さんの声を受け止めるという形のテーマにした。党の改革をどう進めるかも、今回の総裁選挙の非常に大きなポイントなので、候補者には語ってもらいたい」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "自民党は今回の総裁選挙のテーマを「＃変われ自民党 日本の未来を語れ！」とすることを決め、18日午後、SNSの「TikTok」での配信を通じて発表しました。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20250918/K10014926521_2509181834_0918184957_02_03.jpg)\n\n平井広報本部長らは「自民党に変わってもらいたい」という国民の声を踏まえ、SNS上ですでに使われている「＃変われ自民党」を採用したなどと説明しました。\n\n今後、SNS上でこのハッシュタグがついた投稿を集め、国民が自民党に何を求めているのか分析するということです。\n\n平井氏は「こちらから押しつけるのではなく、皆さんの声を受け止めるという形のテーマにした。党の改革をどう進めるかも、今回の総裁選挙の非常に大きなポイントなので、候補者には語ってもらいたい」と述べました。\n",
+    "trimmedLead": "自民党は今回の総裁選挙のテーマを「＃変われ自民党 日本の未来を語れ！」とすることを決め、18日午後、SNSの「TikTok」での配信を通じて発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014926521000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014926521000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

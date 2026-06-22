@@ -1,0 +1,195 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015073821000",
+  "dataSourceId": "na",
+  "name": "ランサムウエア被害 去年226件 復旧などに高額費用も 警察庁",
+  "headline": "ランサムウエア被害 去年226件 復旧などに高額費用も 警察庁",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015073821000",
+    "playlistId": "news-nwa-society-nationwide-20260312",
+    "newsarticleName": "ランサムウエア被害 去年226件 復旧などに高額費用も 警察庁",
+    "playlistName": "3月12日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "企業などのデータを暗号化して金銭などを要求する「ランサムウエア」と呼ばれるサイバー攻撃の被害が去年1年間で、226件に上ったことが警察庁のまとめで分かりました。警察庁は攻撃が高度化して復旧などに高額な",
+  "dateModified": "2026-03-12T16:05:18+09:00",
+  "datePublished": "2026-03-12T16:05:18+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260312/K10015073821_2603121547_0312160519_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260312/K10015073821_2603121547_0312160519_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0000325",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "0002687",
+      "name": "警察庁",
+      "display": true
+    },
+    {
+      "id": "0000009",
+      "name": "IT・ネット",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "企業などのデータを暗号化して金銭などを要求する「ランサムウエア」と呼ばれるサイバー攻撃の被害が去年1年間で、226件に上ったことが警察庁のまとめで分かりました。警察庁は攻撃が高度化して復旧などに高額な",
+  "articleBody": "企業などのデータを暗号化して金銭などを要求する「ランサムウエア」と呼ばれるサイバー攻撃の被害が去年1年間で、226件に上ったことが警察庁のまとめで分かりました。警察庁は攻撃が高度化して復旧などに高額な費用がかかるケースも目立つとして、セキュリティー対策の徹底などを呼びかけています。\n\n\n「ランサムウエア」は、企業などのサーバーに保管されたデータを暗号化してアクセスできなくしたうえ、その復元と引きかえに金銭などを要求するサイバー攻撃で、去年は「アサヒグループホールディングス」や、通販大手の「アスクル」などでシステム障害の影響が続きました。\n\n警察庁によりますと、去年1年間の「ランサムウエア」の被害は国内の企業などで226件に上り、統計を取り始めた2021年以降、2番目に多くなりました。\n\nこのうち中小企業が143件と全体の6割を占め、業種別でみると、製造業が91件ともっとも多く、次いで、卸売・小売業が34件などとなっています。\n\nまた、調査・復旧にかかった費用を調べたところ、有効回答89件のうち「1000万円以上」が46件と半数に上りました。\n\nこのうち「1億円以上」も5件あったということです。\n\n警察庁は攻撃が高度化して復旧などに高額な費用がかかるケースも目立つとして、セキュリティー対策の徹底やサイバー攻撃を想定した業務計画の策定を呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "企業などのデータを暗号化して金銭などを要求する「ランサムウエア」と呼ばれるサイバー攻撃の被害が去年1年間で、226件に上ったことが警察庁のまとめで分かりました。警察庁は攻撃が高度化して復旧などに高額な費用がかかるケースも目立つとして、セキュリティー対策の徹底などを呼びかけています。\n",
+    "markedBody": "「ランサムウエア」は、企業などのサーバーに保管されたデータを暗号化してアクセスできなくしたうえ、その復元と引きかえに金銭などを要求するサイバー攻撃で、去年は「アサヒグループホールディングス」や、通販大手の「アスクル」などでシステム障害の影響が続きました。\n\n警察庁によりますと、去年1年間の「ランサムウエア」の被害は国内の企業などで226件に上り、統計を取り始めた2021年以降、2番目に多くなりました。\n\nこのうち中小企業が143件と全体の6割を占め、業種別でみると、製造業が91件ともっとも多く、次いで、卸売・小売業が34件などとなっています。\n\nまた、調査・復旧にかかった費用を調べたところ、有効回答89件のうち「1000万円以上」が46件と半数に上りました。\n\nこのうち「1億円以上」も5件あったということです。\n\n警察庁は攻撃が高度化して復旧などに高額な費用がかかるケースも目立つとして、セキュリティー対策の徹底やサイバー攻撃を想定した業務計画の策定を呼びかけています。\n",
+    "trimmedLead": "企業などのデータを暗号化して金銭などを要求する「ランサムウエア」と呼ばれるサイバー攻撃の被害が去年1年間で、226件に上ったことが警察庁のまとめで分かりました。警察庁は攻撃が高度化して復旧などに高額な費用がかかるケースも目立つとして、セキュリティー対策の徹底などを呼びかけています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015073821000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015073821000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "ランサムウエア被害 去年226件 復旧などに高額費用も 警察庁",
+      "description": "企業などのデータを暗号化して金銭などを要求する「ランサムウエア」と呼ばれるサイバー攻撃の被害が去年1年間で、226件に上ったことが警察庁のまとめで分かりました。警察庁は攻撃が高度化して復旧などに高額な",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015073821_202603121806_202603121807/index.m3u8&mrposter=/news/html/20260312/K10015073821_2603121547_0312160519_01_02.jpg",
+      "duration": "PT1M7S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015073821_202603121806_202603121807/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260312/K10015073821_2603121547_0312160519_01_02.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "「フィッシング詐欺メール」急増 去年1年間の報告 200万件超に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015066601000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260305/K10015066601_2603042028_0305051320_01_02.jpg",
+      "datePublished": "2026-03-05T05:13:20+09:00"
+    },
+    {
+      "name": "アサヒグループHD 11万5000件余の個人情報漏えい 調査結果公表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015055101000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260218/K10015055101_2602181451_0218151021_01_02.jpg",
+      "datePublished": "2026-02-18T16:43:33+09:00"
+    },
+    {
+      "name": "通販大手で起きたサイバー攻撃 被害の実態と教訓は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015011711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20251225/K10015011711_2512251808_1225194743_01_02.jpg",
+      "datePublished": "2025-12-25T19:47:41+09:00"
+    },
+    {
+      "name": "ホルムズ海峡 事実上の封鎖 長期化懸念広がる【詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015073311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260312/K10015073311_2603121417_0312142512_01_03.jpg",
+      "datePublished": "2026-03-13T02:31:40+09:00"
+    },
+    {
+      "name": "G7首脳会議で声明 ホルムズ海峡“船舶の護衛できるか検討”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015073381000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260312/K10015073381_2603120859_0312091426_01_02.jpg",
+      "datePublished": "2026-03-12T12:30:02+09:00"
+    },
+    {
+      "name": "円安 株安進む 一時1ドル＝159円台に値下がり イラン情勢懸念",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015073501000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260312/K10015073501_2603120832_0312084045_01_02.jpg",
+      "datePublished": "2026-03-12T11:54:40+09:00"
+    },
+    {
+      "name": "新年度予算案 あす予算委の採決 職権で決定 野党側は反発",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015073551000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260312/K10015073551_2603121223_0312131012_01_02.jpg",
+      "datePublished": "2026-03-12T19:14:09+09:00"
+    },
+    {
+      "name": "日産 米配車大手ウーバーと自動運転タクシー分野で協業を発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015073721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260312/K10015073721_2603121303_0312131538_01_02.jpg",
+      "datePublished": "2026-03-12T13:15:37+09:00"
+    },
+    {
+      "name": "“イラン 米西海岸を奇襲攻撃の可能性とFBIが警告” 報道",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015073581000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260312/K10015073581_2603121031_0312104110_01_02.jpg",
+      "datePublished": "2026-03-12T10:41:10+09:00"
+    },
+    {
+      "name": "日米欧など石油備蓄協調放出で合意 過去最大規模 IEA",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015073331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260311/K10015073331_2603112320_0311232541_01_02.jpg",
+      "datePublished": "2026-03-12T12:00:57+09:00"
+    },
+    {
+      "name": "トランプ政権 特定製造業での過剰生産能力を調査へ 日本も対象",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015073431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260312/K10015073431_2603120600_0312083008_01_02.jpg",
+      "datePublished": "2026-03-12T12:28:44+09:00"
+    },
+    {
+      "name": "スギ花粉 全国的に本格的な飛散シーズンに 例年より多い地域も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015073761000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260312/K10015073761_2603121504_0312151616_01_02.jpg",
+      "datePublished": "2026-03-12T20:15:12+09:00"
+    },
+    {
+      "name": "3.11 あの日を忘れない 東日本大震災・原発事故15年特集サイト",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0000019",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30907482.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014856251000",
+  "dataSourceId": "na",
+  "name": "強盗傷害事件 犯行指示容疑で逮捕のコロンビア人女性 不起訴に",
+  "headline": "強盗傷害事件 犯行指示容疑で逮捕のコロンビア人女性 不起訴に",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014856251000",
+    "playlistId": "news-nwa-society-nationwide-20250707",
+    "newsarticleName": "強盗傷害事件 犯行指示容疑で逮捕のコロンビア人女性 不起訴に",
+    "playlistName": "7月7日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "ことし3月、東京 新宿区のアパートで住人の70代の女性がけがをさせられた強盗傷害事件で、実行役のウズベキスタン人の被告に犯行を指示したとして、先月警視庁に逮捕されたコロンビア人の54歳の女性について、",
+  "dateModified": "2025-07-07T17:37:15+09:00",
+  "datePublished": "2025-07-07T17:37:15+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250707/K10014856251_2507071718_0707173533_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250707/K10014856251_2507071718_0707173533_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "ことし3月、東京 新宿区のアパートで住人の70代の女性がけがをさせられた強盗傷害事件で、実行役のウズベキスタン人の被告に犯行を指示したとして、先月警視庁に逮捕されたコロンビア人の54歳の女性について、",
+  "articleBody": "ことし3月、東京 新宿区のアパートで住人の70代の女性がけがをさせられた強盗傷害事件で、実行役のウズベキスタン人の被告に犯行を指示したとして、先月警視庁に逮捕されたコロンビア人の54歳の女性について、東京地方検察庁は7日、不起訴にしました。\n\n\n逮捕後の調べに対し、女性は「事件にはかかわっていない」と容疑を否認していました。\n\n東京地検は不起訴の理由について明らかにしていません。\n",
+  "detailedArticleBody": {
+    "markedLead": "ことし3月、東京 新宿区のアパートで住人の70代の女性がけがをさせられた強盗傷害事件で、実行役のウズベキスタン人の被告に犯行を指示したとして、先月警視庁に逮捕されたコロンビア人の54歳の女性について、東京地方検察庁は7日、不起訴にしました。\n",
+    "markedBody": "逮捕後の調べに対し、女性は「事件にはかかわっていない」と容疑を否認していました。\n\n東京地検は不起訴の理由について明らかにしていません。\n",
+    "trimmedLead": "ことし3月、東京 新宿区のアパートで住人の70代の女性がけがをさせられた強盗傷害事件で、実行役のウズベキスタン人の被告に犯行を指示したとして、先月警視庁に逮捕されたコロンビア人の54歳の女性について、東京地方検察庁は7日、不起訴にしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014856251000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014856251000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

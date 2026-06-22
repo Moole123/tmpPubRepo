@@ -1,0 +1,101 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015011491000",
+  "dataSourceId": "na",
+  "name": "中国本土から香港へ 事前申請で車乗り入れ認める取り組み開始",
+  "headline": "中国本土から香港へ 事前申請で車乗り入れ認める取り組み開始",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015011491000",
+    "playlistId": "news-nwa-international-nationwide-20251223",
+    "newsarticleName": "中国本土から香港へ 事前申請で車乗り入れ認める取り組み開始",
+    "playlistName": "12月23日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "中国本土の自家用車について、事前に申請すれば香港の市街地への乗り入れを認める取り組みが23日から始まりました。中国政府としては、国家戦略のもと香港や広東省などを一体的な経済圏として発展させようというの",
+  "dateModified": "2025-12-23T16:03:10+09:00",
+  "datePublished": "2025-12-23T16:03:10+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251223/K10015011491_2512231548_1223160311_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251223/K10015011491_2512231548_1223160311_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "中国本土の自家用車について、事前に申請すれば香港の市街地への乗り入れを認める取り組みが23日から始まりました。中国政府としては、国家戦略のもと香港や広東省などを一体的な経済圏として発展させようというの",
+  "articleBody": "中国本土の自家用車について、事前に申請すれば香港の市街地への乗り入れを認める取り組みが23日から始まりました。中国政府としては、国家戦略のもと香港や広東省などを一体的な経済圏として発展させようというのがねらいです。\n\n\n23日から始まったのは、中国南部の広東省で登録された自家用車が事前に申請すれば、隣接する香港の市街地に直接、乗り入れることができる取り組みです。\n\n現地時間の午前0時から車の乗り入れが始まり、中国本土と香港を結ぶ「香港珠海マカオ大橋」の香港側のゲートには、広東省のナンバープレートとともに香港への通行を許可する特別なプレートをつけた車が次々と到着していました。\n\n中国の習近平指導部は、香港と広東省、それにマカオを一体的な経済圏、「大湾区」として発展させることで国力の底上げを図る国家戦略を進めていて、おととしからは香港から広東省への自家用車の乗り入れが始まっています。\n\n香港への乗り入れを申請できるのは、当面は広東省の広州や珠海など4つの都市の車に限られ、1日あたり100台に制限されていますが、今後、対象が拡大される見通しです。\n",
+  "detailedArticleBody": {
+    "markedLead": "中国本土の自家用車について、事前に申請すれば香港の市街地への乗り入れを認める取り組みが23日から始まりました。中国政府としては、国家戦略のもと香港や広東省などを一体的な経済圏として発展させようというのがねらいです。\n",
+    "markedBody": "23日から始まったのは、中国南部の広東省で登録された自家用車が事前に申請すれば、隣接する香港の市街地に直接、乗り入れることができる取り組みです。\n\n![](https://news.web.nhk/news/html/20251223/K10015011491_2512231548_1223160311_02_03.jpg)\n\n現地時間の午前0時から車の乗り入れが始まり、中国本土と香港を結ぶ「香港珠海マカオ大橋」の香港側のゲートには、広東省のナンバープレートとともに香港への通行を許可する特別なプレートをつけた車が次々と到着していました。\n\n中国の習近平指導部は、香港と広東省、それにマカオを一体的な経済圏、「大湾区」として発展させることで国力の底上げを図る国家戦略を進めていて、おととしからは香港から広東省への自家用車の乗り入れが始まっています。\n\n香港への乗り入れを申請できるのは、当面は広東省の広州や珠海など4つの都市の車に限られ、1日あたり100台に制限されていますが、今後、対象が拡大される見通しです。\n",
+    "trimmedLead": "中国本土の自家用車について、事前に申請すれば香港の市街地への乗り入れを認める取り組みが23日から始まりました。中国政府としては、国家戦略のもと香港や広東省などを一体的な経済圏として発展させようというのがねらいです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015011491000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015011491000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "中国本土から香港へ 事前申請で車乗り入れ認める取り組み開始",
+      "description": "中国本土の自家用車について、事前に申請すれば香港の市街地への乗り入れを認める取り組みが23日から始まりました。中国政府としては、国家戦略のもと香港や広東省などを一体的な経済圏として発展させようというの",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015011491_202512231639_202512231639/index.m3u8&mrposter=/news/html/20251223/K10015011491_2512231548_1223160311_01_02.jpg",
+      "duration": "PT34S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015011491_202512231639_202512231639/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20251223/K10015011491_2512231548_1223160311_01_02.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

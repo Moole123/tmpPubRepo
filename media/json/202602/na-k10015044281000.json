@@ -1,0 +1,166 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015044281000",
+  "dataSourceId": "na",
+  "name": "埼玉 越谷 男子高校生 道路脇で倒れ死亡 ひき逃げ事件で捜査",
+  "headline": "埼玉 越谷 男子高校生 道路脇で倒れ死亡 ひき逃げ事件で捜査",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015044281000",
+    "playlistId": "news-nwa-society-nationwide-20260205",
+    "newsarticleName": "埼玉 越谷 男子高校生 道路脇で倒れ死亡 ひき逃げ事件で捜査",
+    "playlistName": "2月5日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "5日午前、埼玉県越谷市で、道路脇に16歳の男子高校生が倒れているのが見つかり、病院に運ばれましたが死亡しました。近くには自転車が倒れていて、警察は現場の状況などからひき逃げ事件として捜査しています。\n",
+  "dateModified": "2026-02-05T17:57:39+09:00",
+  "datePublished": "2026-02-05T17:57:39+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260205/K10015044281_2602051732_0205175740_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260205/K10015044281_2602051732_0205175740_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0001538",
+      "name": "事件・事故",
+      "display": true
+    },
+    {
+      "id": "0002211",
+      "name": "埼玉県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "5日午前、埼玉県越谷市で、道路脇に16歳の男子高校生が倒れているのが見つかり、病院に運ばれましたが死亡しました。近くには自転車が倒れていて、警察は現場の状況などからひき逃げ事件として捜査しています。\n",
+  "articleBody": "5日午前、埼玉県越谷市で、道路脇に16歳の男子高校生が倒れているのが見つかり、病院に運ばれましたが死亡しました。近くには自転車が倒れていて、警察は現場の状況などからひき逃げ事件として捜査しています。\n\n\n5日午前10時半ごろ、越谷市東町の橋の道路脇の歩道付近で、通りかかった人から「若い男性が倒れていて動かない」と警察に通報がありました。\n\n倒れていたのは越谷市の高校生、泉冬悟さん（16）で、意識がない状態で病院に運ばれましたが、全身を強く打っていておよそ2時間後に死亡しました。\n\n警察によりますと、近くには乗っていたとみられる自転車が倒れていて、現場の状況などから車にはねられたとみられるということです。\n\n現場は越谷市と吉川市の間を流れる中川にかかる橋で、生徒が倒れていたのは、吉川市方面に向かう道路側でした。\n\n警察はひき逃げ事件として捜査しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "5日午前、埼玉県越谷市で、道路脇に16歳の男子高校生が倒れているのが見つかり、病院に運ばれましたが死亡しました。近くには自転車が倒れていて、警察は現場の状況などからひき逃げ事件として捜査しています。\n",
+    "markedBody": "5日午前10時半ごろ、越谷市東町の橋の道路脇の歩道付近で、通りかかった人から「若い男性が倒れていて動かない」と警察に通報がありました。\n\n倒れていたのは越谷市の高校生、泉冬悟さん（16）で、意識がない状態で病院に運ばれましたが、全身を強く打っていておよそ2時間後に死亡しました。\n\n警察によりますと、近くには乗っていたとみられる自転車が倒れていて、現場の状況などから車にはねられたとみられるということです。\n\n現場は越谷市と吉川市の間を流れる中川にかかる橋で、生徒が倒れていたのは、吉川市方面に向かう道路側でした。\n\n警察はひき逃げ事件として捜査しています。\n",
+    "trimmedLead": "5日午前、埼玉県越谷市で、道路脇に16歳の男子高校生が倒れているのが見つかり、病院に運ばれましたが死亡しました。近くには自転車が倒れていて、警察は現場の状況などからひき逃げ事件として捜査しています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015044281000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015044281000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "埼玉 越谷 男子高校生 道路脇で倒れ死亡 ひき逃げ事件で捜査",
+      "description": "5日午前、埼玉県越谷市で、道路脇に16歳の男子高校生が倒れているのが見つかり、病院に運ばれましたが死亡しました。近くには自転車が倒れていて、警察は現場の状況などからひき逃げ事件として捜査しています。\n",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015044281_202602051732_202602051732/index.m3u8&mrposter=/news/html/20260205/K10015044281_2602051732_0205175740_01_03.jpg",
+      "duration": "PT43S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015044281_202602051732_202602051732/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260205/K10015044281_2602051732_0205175740_01_03.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "“ドライバーは踏み間違いで済まされない”息子失った父の思い",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015043641000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260205/K10015043641_2602051524_0205164811_01_02.jpg",
+      "datePublished": "2026-02-05T16:48:10+09:00"
+    },
+    {
+      "name": "北海道で6日は「ホワイトアウト」のおそれ 交通影響に警戒を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015043741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260205/K10015043741_2602051256_0205125802_01_03.jpg",
+      "datePublished": "2026-02-05T23:36:06+09:00"
+    },
+    {
+      "name": "高齢男性が雪に埋もれた状態で死亡 雪下ろし中に転落か 新潟",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015043691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260205/K10015043691_2602050730_0205080001_01_02.jpg",
+      "datePublished": "2026-02-05T07:06:40+09:00"
+    },
+    {
+      "name": "記録的積雪 死亡事故も相次ぐ 命を守るポイントは？【詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015041701000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260202/K10015041701_2602021615_0202195438_01_02.jpg",
+      "datePublished": "2026-02-02T19:54:38+09:00"
+    },
+    {
+      "name": "インフルエンザ 東京都の患者数 前週の倍近くに B型が増加",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015044271000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260205/K10015044271_2602051721_0205175508_01_02.jpg",
+      "datePublished": "2026-02-05T17:55:07+09:00"
+    },
+    {
+      "name": "グーグルの親会社 3か月決算 30％増益 AI向け事業が好調で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015043881000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260205/K10015043881_2602051025_0205104000_01_02.jpg",
+      "datePublished": "2026-02-05T10:37:26+09:00"
+    },
+    {
+      "name": "“ルフィ” 広域強盗事件 グループ幹部に無期懲役を求刑",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015044041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260205/K10015044041_2602051258_0205130224_01_02.jpg",
+      "datePublished": "2026-02-05T16:10:19+09:00"
+    },
+    {
+      "name": "トランプ氏 中国・習主席と電話会談 関係構築に前向きな姿勢",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015043631000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260204/K10015043631_2602042259_0205051826_01_02.jpg",
+      "datePublished": "2026-02-05T14:49:21+09:00"
+    },
+    {
+      "name": "衆院選 ボートマッチ 候補者・政党とのマッチング",
+      "url": "https://news.web.nhk/senkyo/database/shugiin/2026/votematch/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30757107.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

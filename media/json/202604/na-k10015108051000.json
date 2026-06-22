@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015108051000",
+  "dataSourceId": "na",
+  "name": "イラン代表団がイスラマバード到着 パキスタン指導部と会談へ",
+  "headline": "イラン代表団がイスラマバード到着 パキスタン指導部と会談へ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015108051000",
+    "playlistId": "news-nwa-international-nationwide-20260425",
+    "newsarticleName": "イラン代表団がイスラマバード到着 パキスタン指導部と会談へ",
+    "playlistName": "4月25日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "アメリカとイランを仲介するパキスタンの外務省は、日本時間の25日午前4時前、声明を発表し、イランのアラグチ外相が率いる代表団がパキスタンの首都イスラマバードに到着したことを明らかにしました。\n\n\nアラ",
+  "dateModified": "2026-04-25T04:24:18+09:00",
+  "datePublished": "2026-04-25T04:24:18+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260425/K10015108051_2604250421_0425042419_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260425/K10015108051_2604250421_0425042419_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0000820",
+      "name": "イラン情勢",
+      "display": true
+    },
+    {
+      "id": "0001597",
+      "name": "イラン",
+      "display": true
+    },
+    {
+      "id": "0002356",
+      "name": "パキスタン",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "アメリカとイランを仲介するパキスタンの外務省は、日本時間の25日午前4時前、声明を発表し、イランのアラグチ外相が率いる代表団がパキスタンの首都イスラマバードに到着したことを明らかにしました。\n\n\nアラ",
+  "articleBody": "アメリカとイランを仲介するパキスタンの外務省は、日本時間の25日午前4時前、声明を発表し、イランのアラグチ外相が率いる代表団がパキスタンの首都イスラマバードに到着したことを明らかにしました。\n\n\nアラグチ外相は、パキスタンのダール外相や、パキスタン軍のトップ、ムニール陸軍参謀長らの出迎えを受けたということです。\n\n今回の訪問でアラグチ外相はパキスタンの指導部と会談し「地域の平和と安定に向けた取り組みなどについて協議する」としています。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカとイランを仲介するパキスタンの外務省は、日本時間の25日午前4時前、声明を発表し、イランのアラグチ外相が率いる代表団がパキスタンの首都イスラマバードに到着したことを明らかにしました。\n",
+    "markedBody": "アラグチ外相は、パキスタンのダール外相や、パキスタン軍のトップ、ムニール陸軍参謀長らの出迎えを受けたということです。\n\n今回の訪問でアラグチ外相はパキスタンの指導部と会談し「地域の平和と安定に向けた取り組みなどについて協議する」としています。\n",
+    "trimmedLead": "アメリカとイランを仲介するパキスタンの外務省は、日本時間の25日午前4時前、声明を発表し、イランのアラグチ外相が率いる代表団がパキスタンの首都イスラマバードに到着したことを明らかにしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015108051000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015108051000",
+  "video": [],
+  "citation": [
+    {
+      "name": "イラン外相 24日夜にイスラマバード到着予定 パキスタン政府筋",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015107881000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015107881_2604242108_0424213804_01_02.jpg",
+      "datePublished": "2026-04-24T22:40:04+09:00"
+    },
+    {
+      "name": "メキシコ大統領 日本に100万バレルの原油輸出で合意",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015107911000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015107911_2604242141_0424231020_01_02.jpg",
+      "datePublished": "2026-04-24T23:10:19+09:00"
+    },
+    {
+      "name": "パナマ運河の通航権落札価格が3倍近くに イラン情勢の影響で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015107851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015107851_2604242122_0424212958_01_02.jpg",
+      "datePublished": "2026-04-24T21:29:57+09:00"
+    },
+    {
+      "name": "米 メタ マイクロソフト 人員削減や早期退職募集 AI開発背景か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015107011000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015107011_2604241000_0424104831_01_02.jpg",
+      "datePublished": "2026-04-24T10:48:31+09:00"
+    },
+    {
+      "name": "“中国拠点企業 先端AI「蒸留」で模倣”と非難 ホワイトハウス",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015107001000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015107001_2604241100_0424111207_01_03.jpg",
+      "datePublished": "2026-04-24T18:52:18+09:00"
+    },
+    {
+      "name": "“エプスタイン文書”公開 適切に実施か米司法省が内部調査へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015107191000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015107191_2604241158_0424124843_01_02.jpg",
+      "datePublished": "2026-04-24T12:48:43+09:00"
+    },
+    {
+      "name": "チョルノービリ原発事故から40年 問われるものは",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015107201000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015107201_2604241206_0424145005_01_02.jpg",
+      "datePublished": "2026-04-24T14:50:04+09:00"
+    },
+    {
+      "name": "“北朝鮮に無人機飛ばす指示”韓国ユン前大統領に懲役30年求刑",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015107311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015107311_2604241417_0424145925_01_02.jpg",
+      "datePublished": "2026-04-24T14:59:24+09:00"
+    },
+    {
+      "name": "北京モーターショー開幕 ガソリン高でEVなどの優位性アピール",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015107461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015107461_2604241710_0424184157_01_02.jpg",
+      "datePublished": "2026-04-24T19:57:56+09:00"
+    },
+    {
+      "name": "中国がフィリピン東側海域で実弾演習 米比の軍事演習に対抗か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015107951000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260425/K10015107951_2604250000_0425001636_01_02.jpg",
+      "datePublished": "2026-04-25T00:16:35+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015149041000",
+  "dataSourceId": "na",
+  "name": "アンソロピック 最新AIモデル提供停止を発表 「クロード・ミュトス5」「フェイブル5」など 米政府命令受け",
+  "headline": "アンソロピック 最新AIモデルの提供を停止 米政府の命令受け",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015149041000",
+    "playlistId": "news-nwa-international-nationwide-20260613",
+    "newsarticleName": "アンソロピック 最新AIモデル提供停止を発表 「クロード・ミュトス5」「フェイブル5」など 米政府命令受け",
+    "playlistName": "6月13日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "アメリカのAI新興企業「アンソロピック」は12日、アメリカ政府からの命令を受けてソフトウエアのぜい弱性を発見する能力が極めて高いとされるAIモデル「クロード・ミュトス5」などについて、すべての顧客への",
+  "dateModified": "2026-06-13T11:55:15+09:00",
+  "datePublished": "2026-06-13T10:52:54+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260613/K10015149041_2606131020_0613105255_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260613/K10015149041_2606131020_0613105255_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0000010",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "0000325",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "0000009",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "アメリカのAI新興企業「アンソロピック」は12日、アメリカ政府からの命令を受けてソフトウエアのぜい弱性を発見する能力が極めて高いとされるAIモデル「クロード・ミュトス5」などについて、すべての顧客への",
+  "articleBody": "アメリカのAI新興企業「アンソロピック」は12日、アメリカ政府からの命令を受けてソフトウエアのぜい弱性を発見する能力が極めて高いとされるAIモデル「クロード・ミュトス5」などについて、すべての顧客への提供をただちに停止すると発表しました。政府から国家安全保障を理由に外国人による「ミュトス5」などへのアクセスを禁じる命令を受けたことによる措置だとしています。\n\n\nアンソロピックはアメリカ東部時間の12日午後5時21分、日本時間の13日午前6時21分にアメリカ政府から、国家安全保障を理由に、国内外を問わず、外国人による「クロード・ミュトス5」と「フェイブル5」へのアクセスを禁じる命令を受けたと12日、発表しました。\n\nこのため会社は、「クロード・ミュトス5」と、「フェイブル5」について、すべての顧客への提供をただちに停止するとしています。\n\n「ミュトス」をめぐってはアンソロピックがことし4月に発表して以降、悪用されるリスクの高さから、提供先をおよそ50の企業や組織に限定していましたが、今月に入っておよそ200に拡大され、片山金融担当大臣が日本政府や一部の金融機関が利用できるようになったことを明らかにしていました。\n\nまた会社は今月9日、「ミュトス」と同等の性能をもつ「フェイブル5」について安全対策を取り入れたとして一般の顧客向けに提供を始めていました。\n\n日本政府の関係者「状況を確認中」\n\n日本政府の関係者はNHKの取材に対し「状況を確認中だ。これまでもアンソロピックやアメリカ政府側とは緊密に意思疎通を図ってきており、日本への影響について情報収集を進めている」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカのAI新興企業「アンソロピック」は12日、アメリカ政府からの命令を受けてソフトウエアのぜい弱性を発見する能力が極めて高いとされるAIモデル「クロード・ミュトス5」などについて、すべての顧客への提供をただちに停止すると発表しました。政府から国家安全保障を理由に外国人による「ミュトス5」などへのアクセスを禁じる命令を受けたことによる措置だとしています。\n",
+    "markedBody": "アンソロピックはアメリカ東部時間の12日午後5時21分、日本時間の13日午前6時21分にアメリカ政府から、国家安全保障を理由に、国内外を問わず、外国人による「クロード・ミュトス5」と「フェイブル5」へのアクセスを禁じる命令を受けたと12日、発表しました。\n\nこのため会社は、「クロード・ミュトス5」と、「フェイブル5」について、すべての顧客への提供をただちに停止するとしています。\n\n「ミュトス」をめぐってはアンソロピックがことし4月に発表して以降、悪用されるリスクの高さから、提供先をおよそ50の企業や組織に限定していましたが、今月に入っておよそ200に拡大され、片山金融担当大臣が日本政府や一部の金融機関が利用できるようになったことを明らかにしていました。\n\nまた会社は今月9日、「ミュトス」と同等の性能をもつ「フェイブル5」について安全対策を取り入れたとして一般の顧客向けに提供を始めていました。\n\n### 日本政府の関係者「状況を確認中」\n\n日本政府の関係者はNHKの取材に対し「状況を確認中だ。これまでもアンソロピックやアメリカ政府側とは緊密に意思疎通を図ってきており、日本への影響について情報収集を進めている」と述べました。\n",
+    "trimmedLead": "アメリカのAI新興企業「アンソロピック」は12日、アメリカ政府からの命令を受けてソフトウエアのぜい弱性を発見する能力が極めて高いとされるAIモデル「クロード・ミュトス5」などについて、すべての顧客への提供をただちに停止すると発表しました。政府から国家安全保障を理由に外国人による「ミュトス5」などへのアクセスを禁じる命令を受けたことによる措置だとしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015149041000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015149041000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "アンソロピック 最新AIモデルの提供を停止 米政府の命令受け",
+      "description": "アメリカのAI新興企業「アンソロピック」は12日、アメリカ政府からの命令を受けてソフトウエアのぜい弱性を発見する能力が極めて高いとされるAIモデル「クロード・ミュトス5」などについて、すべての顧客への",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015149041_202606131203_202606131203/index.m3u8&mrposter=/news/html/20260613/K10015149041_2606131020_0613105255_01_02.jpg",
+      "duration": "PT1M24S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015149041_202606131203_202606131203/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260613/K10015149041_2606131020_0613105255_01_02.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "【Q＆A】最新AI「ミュトス」は何が違う？必要な対応は？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015121901000",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31313310.jpg"
+    },
+    {
+      "name": "米アンソロピック ミュトス級AIを一般提供開始 安全対策加えて",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015145721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260610/K10015145721_2606100821_0610083900_01_02.jpg",
+      "datePublished": "2026-06-10T08:39:00+09:00"
+    },
+    {
+      "name": "日立 最新AI「クロード・ミュトス」導入 インフラ防御強化へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015142001000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260605/K10015142001_2606051449_0605150535_01_02.jpg",
+      "datePublished": "2026-06-05T15:05:34+09:00"
+    },
+    {
+      "name": "ドジャース大谷翔平 左ひざ炎症で欠場 けが人リストには入らず",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148971000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260613/K10015148971_2606131115_0613111619_01_02.jpg",
+      "datePublished": "2026-06-13T08:16:06+09:00"
+    },
+    {
+      "name": "クロード・ミュトス 日本の大手セキュリティー会社も導入発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015141271000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260604/K10015141271_2606041713_0604180532_01_02.jpg",
+      "datePublished": "2026-06-04T18:05:32+09:00"
+    },
+    {
+      "name": "天皇皇后両陛下 オランダ・ベルギー公式訪問に出発へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260613/K10015148711_2606121913_0613053046_01_02.jpg",
+      "datePublished": "2026-06-13T08:44:23+09:00"
+    },
+    {
+      "name": "維新 藤田共同代表の皇室典範の改正などめぐる発言に野党反発",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260613/K10015148921_2606130006_0613004859_01_02.jpg",
+      "datePublished": "2026-06-13T00:48:58+09:00"
+    },
+    {
+      "name": "米・イラン覚書“数日中に署名の可能性”双方が言及",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260613/K10015148801_2606130455_0613064542_01_02.jpg",
+      "datePublished": "2026-06-13T07:55:40+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

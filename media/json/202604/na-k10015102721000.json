@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015102721000",
+  "dataSourceId": "na",
+  "name": "長野 安曇野で住宅火災 焼け跡から2人の遺体 住人と連絡取れず",
+  "headline": "長野 安曇野で住宅火災 焼け跡から2人の遺体 住人と連絡取れず",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015102721000",
+    "playlistId": "news-nwa-society-nationwide-20260419",
+    "newsarticleName": "長野 安曇野で住宅火災 焼け跡から2人の遺体 住人と連絡取れず",
+    "playlistName": "4月19日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "18日午後、長野県安曇野市で住宅1棟が焼ける火事があり、焼け跡から2人が遺体で見つかりました。火事のあと、この家に住む人と連絡が取れていないということで警察が身元の確認を進めるとともに、火が出た原因を",
+  "dateModified": "2026-04-19T00:08:57+09:00",
+  "datePublished": "2026-04-19T00:08:57+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260419/K10015102721_2604190009_0419001155_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260419/K10015102721_2604190009_0419001155_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002689",
+      "name": "火災",
+      "display": true
+    },
+    {
+      "id": "0002220",
+      "name": "長野県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "18日午後、長野県安曇野市で住宅1棟が焼ける火事があり、焼け跡から2人が遺体で見つかりました。火事のあと、この家に住む人と連絡が取れていないということで警察が身元の確認を進めるとともに、火が出た原因を",
+  "articleBody": "18日午後、長野県安曇野市で住宅1棟が焼ける火事があり、焼け跡から2人が遺体で見つかりました。火事のあと、この家に住む人と連絡が取れていないということで警察が身元の確認を進めるとともに、火が出た原因を調べています。\n\n\n18日午後4時20分ごろ、安曇野市明科光で「2階建ての住宅から白煙が出ている」と、近くに住む人から消防に通報がありました。\n\n火はおよそ3時間後にほぼ消し止められましたが、木造2階建ての住宅1棟が焼け、焼け跡から2人が遺体で見つかりました。\n\n火事のあと、この家に住む人と連絡が取れていないということで警察が身元の確認を進めるとともに、火が出た原因を調べています。\n\n現場はJR篠ノ井線の田沢駅から北に3キロほど離れた、住宅が点在する地域です。\n",
+  "detailedArticleBody": {
+    "markedLead": "18日午後、長野県安曇野市で住宅1棟が焼ける火事があり、焼け跡から2人が遺体で見つかりました。火事のあと、この家に住む人と連絡が取れていないということで警察が身元の確認を進めるとともに、火が出た原因を調べています。\n",
+    "markedBody": "18日午後4時20分ごろ、安曇野市明科光で「2階建ての住宅から白煙が出ている」と、近くに住む人から消防に通報がありました。\n\n火はおよそ3時間後にほぼ消し止められましたが、木造2階建ての住宅1棟が焼け、焼け跡から2人が遺体で見つかりました。\n\n火事のあと、この家に住む人と連絡が取れていないということで警察が身元の確認を進めるとともに、火が出た原因を調べています。\n\n現場はJR篠ノ井線の田沢駅から北に3キロほど離れた、住宅が点在する地域です。\n",
+    "trimmedLead": "18日午後、長野県安曇野市で住宅1棟が焼ける火事があり、焼け跡から2人が遺体で見つかりました。火事のあと、この家に住む人と連絡が取れていないということで警察が身元の確認を進めるとともに、火が出た原因を調べています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015102721000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015102721000",
+  "video": [],
+  "citation": [
+    {
+      "name": "【地震情報】長野県北部で震度5強 地震相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015097971000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260418/K10015097971_2604181802_0418180314_01_03.jpg",
+      "datePublished": "2026-04-18T19:02:28+09:00"
+    },
+    {
+      "name": "【長野 震度5強】 気象庁「1週間程度 同じ規模の地震に注意」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015102331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260418/K10015102331_2604181522_0418152352_01_02.jpg",
+      "datePublished": "2026-04-18T16:38:32+09:00"
+    },
+    {
+      "name": "首都直下地震が起きたら…1都3県「住宅難民」約118万人の試算",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015102211000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260418/K10015102211_2604181901_0418190448_01_02.jpg",
+      "datePublished": "2026-04-18T23:19:14+09:00"
+    },
+    {
+      "name": "京都 男児遺体遺棄事件 自宅と小学校の間のトイレを現場検証",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015102221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260418/K10015102221_2604181134_0418120606_01_03.jpg",
+      "datePublished": "2026-04-18T18:20:43+09:00"
+    },
+    {
+      "name": "京都 男児遺体遺棄事件 誤った情報がSNSで拡散 発信元の確認を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015102291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260418/K10015102291_2604181720_0418172038_01_02.jpg",
+      "datePublished": "2026-04-18T17:20:37+09:00"
+    },
+    {
+      "name": "“イランは次回の協議開催に同意していない” イラン報道",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015102621000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260418/K10015102621_2604181905_0418192748_01_02.jpg",
+      "datePublished": "2026-04-19T00:40:00+09:00"
+    },
+    {
+      "name": "東京のIT関連会社役員とみられる遺体 峠に遺棄か 警視庁が捜索",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015102241000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260418/K10015102241_2604181158_0418120643_01_02.jpg",
+      "datePublished": "2026-04-18T18:55:46+09:00"
+    },
+    {
+      "name": "気温40度以上の新たな呼び名は「酷暑日」に 気象庁発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015101371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260417/K10015101371_2604171414_0417143716_01_03.jpg",
+      "datePublished": "2026-04-17T12:37:59+09:00"
+    },
+    {
+      "name": "生涯現役で！願いかなえる“エイジフレンドリー”な職場とは",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015100721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260417/K10015100721_2604161314_0417174823_01_02.jpg",
+      "datePublished": "2026-04-17T17:48:21+09:00"
+    },
+    {
+      "name": "「死」と向き合い始めた若者たち",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015098241000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260414/K10015098241_2604131925_0414195758_01_02.jpg",
+      "datePublished": "2026-04-14T19:57:57+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

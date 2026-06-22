@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014865521000",
+  "dataSourceId": "na",
+  "name": "石破首相動静 2025年7月16日",
+  "headline": "石破首相動静 2025年7月16日",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014865521000",
+    "playlistId": "news-nwa-politics-nationwide-20250717",
+    "newsarticleName": "石破首相動静 2025年7月16日",
+    "playlistName": "7月17日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "（石破首相動静 2025年7月16日）\n\n\n08:49 公邸発\n08:59 JR東京駅着\n09:12 のぞみ19号で同駅発\n11:40 JR新大阪駅着\n11:42 同駅発\n12:04 大阪市中央区の百",
+  "dateModified": "2025-07-17T10:53:08+09:00",
+  "datePublished": "2025-07-17T10:53:08+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250717/K10014865521_2507171046_0717104945_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250717/K10014865521_2507171046_0717104945_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "（石破首相動静 2025年7月16日）\n\n\n08:49 公邸発\n08:59 JR東京駅着\n09:12 のぞみ19号で同駅発\n11:40 JR新大阪駅着\n11:42 同駅発\n12:04 大阪市中央区の百",
+  "articleBody": "（石破首相動静 2025年7月16日）\n\n\n08:49 公邸発\n08:59 JR東京駅着\n09:12 のぞみ19号で同駅発\n11:40 JR新大阪駅着\n11:42 同駅発\n12:04 大阪市中央区の百貨店「高島屋大阪店」前着。街頭演説。聴衆と握手\n12:40 同所発\n13:08 JR新大阪駅着\n13:17 サンダーバード25号で同駅発\n14:34 JR敦賀駅着\n14:42 つるぎ26号で同駅発\n15:55 JR新高岡駅着。自民党富山県連の米原蕃会長代行、宮本光明幹事長出迎え\n15:59 同駅発\n16:34 富山県氷見市の能登半島地震による被災現場着。菊地正寛市長らから被害状況の説明。視察。地元住民らと握手\n16:55 同所発\n17:36 同県高岡市の富山県産業創造センター着。自民党参院選候補者の演説会に出席。演説。聴衆と握手\n18:14 同所発\n18:17 JR新高岡駅着\n18:26 はくたか574号で同駅発\n21:15 JR東京駅着\n21:19 同駅発\n21:30 公邸着\n",
+  "detailedArticleBody": {
+    "markedLead": "（石破首相動静 2025年7月16日）\n",
+    "markedBody": "08:49 公邸発\\\n08:59 JR東京駅着\\\n09:12 のぞみ19号で同駅発\\\n11:40 JR新大阪駅着\\\n11:42 同駅発\\\n12:04 大阪市中央区の百貨店「高島屋大阪店」前着。街頭演説。聴衆と握手\\\n12:40 同所発\\\n13:08 JR新大阪駅着\\\n13:17 サンダーバード25号で同駅発\\\n14:34 JR敦賀駅着\\\n14:42 つるぎ26号で同駅発\\\n15:55 JR新高岡駅着。自民党富山県連の米原蕃会長代行、宮本光明幹事長出迎え\\\n15:59 同駅発\\\n16:34 富山県氷見市の能登半島地震による被災現場着。菊地正寛市長らから被害状況の説明。視察。地元住民らと握手\\\n16:55 同所発\\\n17:36 同県高岡市の富山県産業創造センター着。自民党参院選候補者の演説会に出席。演説。聴衆と握手\\\n18:14 同所発\\\n18:17 JR新高岡駅着\\\n18:26 はくたか574号で同駅発\\\n21:15 JR東京駅着\\\n21:19 同駅発\\\n21:30 公邸着\n",
+    "trimmedLead": "（石破首相動静 2025年7月16日）\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014865521000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014865521000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

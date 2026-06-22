@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014917741000",
+  "dataSourceId": "na",
+  "name": "天皇陛下 皇居で恒例の稲刈り",
+  "headline": "天皇陛下 皇居で恒例の稲刈り",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014917741000",
+    "playlistId": "news-nwa-society-nationwide-20250909",
+    "newsarticleName": "天皇陛下 皇居で恒例の稲刈り",
+    "playlistName": "9月9日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "天皇陛下は9日、皇居にある田んぼで恒例の稲刈りをされました。\n\n\n皇居での稲作は昭和天皇が農業の奨励のため昭和2年（1927年）に始め、恒例行事として上皇さま、そして、天皇陛下へと受け継がれてきました",
+  "dateModified": "2025-09-09T17:56:42+09:00",
+  "datePublished": "2025-09-09T17:56:42+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250909/K10014917741_2509091742_0909175503_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250909/K10014917741_2509091742_0909175503_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "天皇陛下は9日、皇居にある田んぼで恒例の稲刈りをされました。\n\n\n皇居での稲作は昭和天皇が農業の奨励のため昭和2年（1927年）に始め、恒例行事として上皇さま、そして、天皇陛下へと受け継がれてきました",
+  "articleBody": "天皇陛下は9日、皇居にある田んぼで恒例の稲刈りをされました。\n\n\n皇居での稲作は昭和天皇が農業の奨励のため昭和2年（1927年）に始め、恒例行事として上皇さま、そして、天皇陛下へと受け継がれてきました。\n\n皇居にあるおよそ240平方メートルの田んぼでは、ことし5月に天皇陛下がみずから植えられたもち米の「マンゲツモチ」と、うるち米の「ニホンマサリ」の稲穂が実っています。\n\n天皇陛下は午後3時半ごろから田んぼに入り、鎌を使って合わせて20株の稲を刈り取られました。\n\n9日の東京都心は最高気温が30度以上の真夏日となり、天皇陛下は青い長袖のシャツに長靴姿で、手際よく稲を刈り取られました。\n\n宮内庁によりますと、ことしは高温が続いたものの、稲の生育は順調で作柄は平年並みだということです。\n\n収穫されたコメは11月に皇居で行われる新嘗祭（にいなめさい）などで使われることになっています。\n",
+  "detailedArticleBody": {
+    "markedLead": "天皇陛下は9日、皇居にある田んぼで恒例の稲刈りをされました。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20250909/K10014917741_2509091742_0909175503_02_03.jpg)\n\n皇居での稲作は昭和天皇が農業の奨励のため昭和2年（1927年）に始め、恒例行事として上皇さま、そして、天皇陛下へと受け継がれてきました。\n\n皇居にあるおよそ240平方メートルの田んぼでは、ことし5月に天皇陛下がみずから植えられたもち米の「マンゲツモチ」と、うるち米の「ニホンマサリ」の稲穂が実っています。\n\n天皇陛下は午後3時半ごろから田んぼに入り、鎌を使って合わせて20株の稲を刈り取られました。\n\n9日の東京都心は最高気温が30度以上の真夏日となり、天皇陛下は青い長袖のシャツに長靴姿で、手際よく稲を刈り取られました。\n\n宮内庁によりますと、ことしは高温が続いたものの、稲の生育は順調で作柄は平年並みだということです。\n\n収穫されたコメは11月に皇居で行われる新嘗祭（にいなめさい）などで使われることになっています。\n",
+    "trimmedLead": "天皇陛下は9日、皇居にある田んぼで恒例の稲刈りをされました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014917741000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014917741000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

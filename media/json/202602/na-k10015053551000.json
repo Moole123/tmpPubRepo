@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015053551000",
+  "dataSourceId": "na",
+  "name": "れいわ新選組 幹事長に山本譲司氏を起用など新役員人事",
+  "headline": "れいわ新選組 幹事長に山本譲司氏を起用など新役員人事",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015053551000",
+    "playlistId": "news-nwa-politics-nationwide-20260217",
+    "newsarticleName": "れいわ新選組 幹事長に山本譲司氏を起用など新役員人事",
+    "playlistName": "2月17日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "衆議院選挙を受けて、れいわ新選組は、幹事長に山本譲司氏を起用するなどとした新たな役員人事を発表しました。\n\n\nれいわ新選組は16日、党の役員会を開いて新たな役員人事を決定し、発表しました。\n\nそれによ",
+  "dateModified": "2026-02-17T10:08:55+09:00",
+  "datePublished": "2026-02-17T10:08:55+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260217/K10015053551_2602162250_0217100856_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260217/K10015053551_2602162250_0217100856_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0002582",
+      "name": "衆議院選挙",
+      "display": true
+    },
+    {
+      "id": "0002393",
+      "name": "衆議院",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "衆議院選挙を受けて、れいわ新選組は、幹事長に山本譲司氏を起用するなどとした新たな役員人事を発表しました。\n\n\nれいわ新選組は16日、党の役員会を開いて新たな役員人事を決定し、発表しました。\n\nそれによ",
+  "articleBody": "衆議院選挙を受けて、れいわ新選組は、幹事長に山本譲司氏を起用するなどとした新たな役員人事を発表しました。\n\n\nれいわ新選組は16日、党の役員会を開いて新たな役員人事を決定し、発表しました。\n\nそれによりますと、幹事長には、衆議院選挙で議席を確保した山本譲司氏を起用し、国会対策委員長も兼務するとしています。\n\nまた、共同代表のうち、櫛渕万里氏が交代し、新たに、参議院議員の奥田芙美代氏が就任するとしています。\n\n山本代表と大石共同代表は引き続き、務めるということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "衆議院選挙を受けて、れいわ新選組は、幹事長に山本譲司氏を起用するなどとした新たな役員人事を発表しました。\n",
+    "markedBody": "れいわ新選組は16日、党の役員会を開いて新たな役員人事を決定し、発表しました。\n\nそれによりますと、幹事長には、衆議院選挙で議席を確保した山本譲司氏を起用し、国会対策委員長も兼務するとしています。\n\nまた、共同代表のうち、櫛渕万里氏が交代し、新たに、参議院議員の奥田芙美代氏が就任するとしています。\n\n山本代表と大石共同代表は引き続き、務めるということです。\n",
+    "trimmedLead": "衆議院選挙を受けて、れいわ新選組は、幹事長に山本譲司氏を起用するなどとした新たな役員人事を発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015053551000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015053551000",
+  "video": [],
+  "citation": [
+    {
+      "name": "ミラノ・コルティナ五輪【結果】2/16～17タイムライン",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053491000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260216/K10015053491_2602180115_0218011714_01_02.jpg",
+      "datePublished": "2026-02-17T21:32:25+09:00"
+    },
+    {
+      "name": "東京都「スギ花粉が飛び始めた」と発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260216/K10015053521_2602162130_0216214257_01_02.jpg",
+      "datePublished": "2026-02-16T21:42:56+09:00"
+    },
+    {
+      "name": "インフルエンザ患者数 前週の約1.4倍に 5週連続増 B型割合増加",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053201000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260216/K10015053201_2602161626_0216163534_01_02.jpg",
+      "datePublished": "2026-02-16T16:35:33+09:00"
+    },
+    {
+      "name": "政府・自民 国民会議早期開始で調整 食料品消費税2年間ゼロで",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260217/K10015053401_2602162320_0217051411_01_02.jpg",
+      "datePublished": "2026-02-17T05:14:10+09:00"
+    },
+    {
+      "name": "“食料品の消費税2年間ゼロ” 賛成が57％ NHK世論調査",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053001000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260217/K10015053001_2602161323_0217050127_01_02.jpg",
+      "datePublished": "2026-02-17T05:01:26+09:00"
+    },
+    {
+      "name": "東広島 男性死亡 窓ガラス割られ押し入った人物に襲われたか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260217/K10015053421_2602170002_0217051137_01_02.jpg",
+      "datePublished": "2026-02-17T05:11:37+09:00"
+    },
+    {
+      "name": "特殊詐欺など国境越えた犯罪対処 日本が東南アジア4か国を支援",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260217/K10015053461_2602162256_0217060456_01_02.jpg",
+      "datePublished": "2026-02-17T06:04:56+09:00"
+    },
+    {
+      "name": "“ルフィ”広域強盗 藤田被告に無期懲役【判決内容を詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260216/K10015053221_2602161538_0216154101_01_02.jpg",
+      "datePublished": "2026-02-16T21:12:39+09:00"
+    },
+    {
+      "name": "TikTok中国親会社の動画生成AI最新モデル 著作権侵害に懸念も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260216/K10015053371_2602161911_0216192754_01_02.jpg",
+      "datePublished": "2026-02-16T19:27:53+09:00"
+    },
+    {
+      "name": "三井住友銀行の労組 実質10％超の賃上げ要求する方針固める",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053211000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260216/K10015053211_2602161508_0216154405_01_02.jpg",
+      "datePublished": "2026-02-16T22:25:15+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015109341000",
+  "dataSourceId": "na",
+  "name": "NTT AI需要で国内データセンター3倍超に拡大 33年度までに",
+  "headline": "NTT AI需要で国内データセンター3倍超に拡大 33年度までに",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015109341000",
+    "playlistId": "news-nwa-business-nationwide-20260427",
+    "newsarticleName": "NTT AI需要で国内データセンター3倍超に拡大 33年度までに",
+    "playlistName": "4月27日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "AI向けのデータセンターの需要が急速に高まる中、NTTは、2033年度までに国内で運営するデータセンターの規模を、これまでの3倍余りに拡大する方針を明らかにしました。\n\n\nNTTは27日、グループ全体",
+  "dateModified": "2026-04-27T17:14:59+09:00",
+  "datePublished": "2026-04-27T17:14:59+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260427/K10015109341_2604271540_0427171459_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260427/K10015109341_2604271540_0427171459_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000010",
+      "name": "生成AI・人工知能",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "AI向けのデータセンターの需要が急速に高まる中、NTTは、2033年度までに国内で運営するデータセンターの規模を、これまでの3倍余りに拡大する方針を明らかにしました。\n\n\nNTTは27日、グループ全体",
+  "articleBody": "AI向けのデータセンターの需要が急速に高まる中、NTTは、2033年度までに国内で運営するデータセンターの規模を、これまでの3倍余りに拡大する方針を明らかにしました。\n\n\nNTTは27日、グループ全体のデータセンターの整備計画を発表しました。\n\nこの中で、国内で運営しているデータセンターについて、2033年度までに規模にあたる処理能力でおよそ1ギガワットと、2024年度に比べて3倍余りまで拡大する方針を明らかにしました。\n\n東京や千葉、福岡などで新たに建設することに加え、消費電力を最大で60％削減できるサーバー冷却設備を取り入れるなど、従来のデータセンターへの投資も進めるとしています。\n\nそのうえで、需要の増加が見込まれる金融や医療、それに製造業などの事業者向けにサービスを提供したい考えです。\n\n電機メーカーなどでつくるJEITA＝電子情報技術産業協会によりますと、AIの普及を背景にデータセンターサービスの国内市場は拡大していて、2030年には5兆6000億円余りと、2025年と比べておよそ30％増える見通しです。\n\n島田明社長は「AI活用の進展に伴ってデータセンターに求められる要件が変化している。用途に応じたAIのインフラとして事業を展開していきたい」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "AI向けのデータセンターの需要が急速に高まる中、NTTは、2033年度までに国内で運営するデータセンターの規模を、これまでの3倍余りに拡大する方針を明らかにしました。\n",
+    "markedBody": "NTTは27日、グループ全体のデータセンターの整備計画を発表しました。\n\nこの中で、国内で運営しているデータセンターについて、2033年度までに規模にあたる処理能力でおよそ1ギガワットと、2024年度に比べて3倍余りまで拡大する方針を明らかにしました。\n\n東京や千葉、福岡などで新たに建設することに加え、消費電力を最大で60％削減できるサーバー冷却設備を取り入れるなど、従来のデータセンターへの投資も進めるとしています。\n\nそのうえで、需要の増加が見込まれる金融や医療、それに製造業などの事業者向けにサービスを提供したい考えです。\n\n電機メーカーなどでつくるJEITA＝電子情報技術産業協会によりますと、AIの普及を背景にデータセンターサービスの国内市場は拡大していて、2030年には5兆6000億円余りと、2025年と比べておよそ30％増える見通しです。\n\n島田明社長は「AI活用の進展に伴ってデータセンターに求められる要件が変化している。用途に応じたAIのインフラとして事業を展開していきたい」と述べました。\n",
+    "trimmedLead": "AI向けのデータセンターの需要が急速に高まる中、NTTは、2033年度までに国内で運営するデータセンターの規模を、これまでの3倍余りに拡大する方針を明らかにしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015109341000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015109341000",
+  "video": [],
+  "citation": [
+    {
+      "name": "米AI新興アンソロピックに出資 巨大テクノロジー企業で広がる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015108221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260425/K10015108221_2604251513_0425170241_01_02.jpg",
+      "datePublished": "2026-04-25T17:02:40+09:00"
+    },
+    {
+      "name": "株価 終値で初の6万円台 最高値更新 “イランが新提案”報道で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109121000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015109121_2604271531_0427153858_01_02.jpg",
+      "datePublished": "2026-04-27T16:47:01+09:00"
+    },
+    {
+      "name": "岩手 大槌町の山林火災 発生後初めての雨 28日も消火活動予定",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015108891000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015108891_2604271424_0427171911_01_03.jpg",
+      "datePublished": "2026-04-27T19:08:22+09:00"
+    },
+    {
+      "name": "福島 喜多方山林火災「ほぼ消し止められた」 鎮圧を発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015109221_2604271213_0427121925_01_02.jpg",
+      "datePublished": "2026-04-27T13:40:16+09:00"
+    },
+    {
+      "name": "【地震情報】北海道十勝南部で震度5強 津波なし",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015108931000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015108931_2604270927_0427093014_01_03.jpg",
+      "datePublished": "2026-04-27T11:40:48+09:00"
+    },
+    {
+      "name": "三陸沖地震から1週間 呼びかけ期間は夕方まで 備え継続を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015108971000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015108971_2604270500_0427051554_01_03.jpg",
+      "datePublished": "2026-04-27T11:33:05+09:00"
+    },
+    {
+      "name": "“ナフサ供給不安”企業の44％「すでに影響」 生団連調べ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015109291_2604271434_0427145347_01_02.jpg",
+      "datePublished": "2026-04-27T14:53:47+09:00"
+    },
+    {
+      "name": "JERA「電気料金 夏ごろに高騰懸念」イラン情勢受け",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109271000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015109271_2604271403_0427143048_01_02.jpg",
+      "datePublished": "2026-04-27T14:30:47+09:00"
+    },
+    {
+      "name": "高市首相 “補正予算案編成は現時点では必要な状況ではない”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109161000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015109161_2604271031_0427115651_01_02.jpg",
+      "datePublished": "2026-04-27T19:02:21+09:00"
+    },
+    {
+      "name": "ソウル最後のスラム “月の町”で生きる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015107371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260427/K10015107371_2604271132_0427114921_01_02.jpg",
+      "datePublished": "2026-04-27T11:49:19+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

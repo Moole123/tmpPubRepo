@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014869941000",
+  "dataSourceId": "na",
+  "name": "静岡 松崎町 観光客が約3000個のサザエ狩り楽しむ",
+  "headline": "静岡 松崎町 観光客が約3000個のサザエ狩り楽しむ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014869941000",
+    "playlistId": "news-nwa-life-nationwide-20250721",
+    "newsarticleName": "静岡 松崎町 観光客が約3000個のサザエ狩り楽しむ",
+    "playlistName": "7月21日の暮らしニュース",
+    "genreId": "life",
+    "genreIdSlug": "life"
+  },
+  "description": "海の日の21日、静岡県松崎町では、およそ3000個のサザエが海岸にまかれ、大勢の観光客が海に入ってサザエ狩りを楽しみました。\n\n\nこの催しは地元の観光協会が毎年、海の日に行っていて、雲見海水浴場には朝",
+  "dateModified": "2025-07-21T17:32:53+09:00",
+  "datePublished": "2025-07-21T17:32:53+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250721/K10014869941_2507211552_0721161319_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250721/K10014869941_2507211552_0721161319_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "暮らし",
+    "地域"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "海の日の21日、静岡県松崎町では、およそ3000個のサザエが海岸にまかれ、大勢の観光客が海に入ってサザエ狩りを楽しみました。\n\n\nこの催しは地元の観光協会が毎年、海の日に行っていて、雲見海水浴場には朝",
+  "articleBody": "海の日の21日、静岡県松崎町では、およそ3000個のサザエが海岸にまかれ、大勢の観光客が海に入ってサザエ狩りを楽しみました。\n\n\nこの催しは地元の観光協会が毎年、海の日に行っていて、雲見海水浴場には朝早くからおよそ800人が集まりました。\n\n用意されたサザエは合わせておよそ3000個、重さにして250キロほどです。\n\nまず、小学生以下の子どもたちが波打ち際にまかれたサザエを楽しそうに歓声を上げながら拾い上げていきました。\n\n続いて、少し深いところに船からサザエがまかれ、大人たちが太鼓の合図で一斉に海に入り、水中メガネをつけて潜ったり、足で探したりして夢中でサザエをとっていました。\n\n小学生の男の子は「難しかったですが20個ぐらいとれました。つぼ焼きにして食べたいです」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "海の日の21日、静岡県松崎町では、およそ3000個のサザエが海岸にまかれ、大勢の観光客が海に入ってサザエ狩りを楽しみました。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20250721/K10014869941_2507211552_0721161319_02_03.jpg)\n\nこの催しは地元の観光協会が毎年、海の日に行っていて、雲見海水浴場には朝早くからおよそ800人が集まりました。\n\n用意されたサザエは合わせておよそ3000個、重さにして250キロほどです。\n\n![](https://news.web.nhk/news/html/20250721/K10014869941_2507211559_0721161319_02_04.jpg)\n\nまず、小学生以下の子どもたちが波打ち際にまかれたサザエを楽しそうに歓声を上げながら拾い上げていきました。\n\n続いて、少し深いところに船からサザエがまかれ、大人たちが太鼓の合図で一斉に海に入り、水中メガネをつけて潜ったり、足で探したりして夢中でサザエをとっていました。\n\n![](https://news.web.nhk/news/html/20250721/K10014869941_2507211559_0721161319_02_05.jpg)\n\n小学生の男の子は「難しかったですが20個ぐらいとれました。つぼ焼きにして食べたいです」と話していました。\n",
+    "trimmedLead": "海の日の21日、静岡県松崎町では、およそ3000個のサザエが海岸にまかれ、大勢の観光客が海に入ってサザエ狩りを楽しみました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014869941000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014869941000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

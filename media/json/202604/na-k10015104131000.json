@@ -1,0 +1,159 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015104131000",
+  "dataSourceId": "na",
+  "name": "新幹線5駅「列車ホテル」として開放 地震による大幅な遅れで",
+  "headline": "新幹線5駅「列車ホテル」として開放 地震による大幅な遅れで",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015104131000",
+    "playlistId": "news-nwa-disaster-nationwide-20260421",
+    "newsarticleName": "新幹線5駅「列車ホテル」として開放 地震による大幅な遅れで",
+    "playlistName": "4月21日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "JR東日本によりますと、東北・秋田・山形の各新幹線は、地震によって大幅な遅れが生じていることから、在来線の終電に乗り換えられなかった乗客などのために、5つの駅の新幹線のホームで、いわゆる「列車ホテル」",
+  "dateModified": "2026-04-21T00:01:57+09:00",
+  "datePublished": "2026-04-21T00:01:57+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260421/K10015104131_2604210008_0421000912_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260421/K10015104131_2604210008_0421000912_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002427",
+      "name": "鉄道",
+      "display": true
+    },
+    {
+      "id": "0002683",
+      "name": "交通・インフラ",
+      "display": true
+    },
+    {
+      "id": "0002213",
+      "name": "東京都",
+      "display": true
+    },
+    {
+      "id": "0002204",
+      "name": "宮城県",
+      "display": true
+    },
+    {
+      "id": "0002202",
+      "name": "青森県",
+      "display": true
+    },
+    {
+      "id": "0002203",
+      "name": "岩手県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "JR東日本によりますと、東北・秋田・山形の各新幹線は、地震によって大幅な遅れが生じていることから、在来線の終電に乗り換えられなかった乗客などのために、5つの駅の新幹線のホームで、いわゆる「列車ホテル」",
+  "articleBody": "JR東日本によりますと、東北・秋田・山形の各新幹線は、地震によって大幅な遅れが生じていることから、在来線の終電に乗り換えられなかった乗客などのために、5つの駅の新幹線のホームで、いわゆる「列車ホテル」として新幹線の車両を休憩用に開放するということです。\n\n\n具体的には東京駅、仙台駅、盛岡駅、新青森駅、そして北陸新幹線の長野駅の5つの駅です。\n\nこのうち東京駅には最終の新幹線が21日午前2時ごろ到着見込みだということです。\n\nいずれも、在来線の終電が終わりしだい車内に入れるように準備を進めているということで、21日午前5時半ごろまで滞在できる予定だということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "JR東日本によりますと、東北・秋田・山形の各新幹線は、地震によって大幅な遅れが生じていることから、在来線の終電に乗り換えられなかった乗客などのために、5つの駅の新幹線のホームで、いわゆる「列車ホテル」として新幹線の車両を休憩用に開放するということです。\n",
+    "markedBody": "具体的には東京駅、仙台駅、盛岡駅、新青森駅、そして北陸新幹線の長野駅の5つの駅です。\n\nこのうち東京駅には最終の新幹線が21日午前2時ごろ到着見込みだということです。\n\nいずれも、在来線の終電が終わりしだい車内に入れるように準備を進めているということで、21日午前5時半ごろまで滞在できる予定だということです。\n",
+    "trimmedLead": "JR東日本によりますと、東北・秋田・山形の各新幹線は、地震によって大幅な遅れが生じていることから、在来線の終電に乗り換えられなかった乗客などのために、5つの駅の新幹線のホームで、いわゆる「列車ホテル」として新幹線の車両を休憩用に開放するということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015104131000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015104131000",
+  "video": [],
+  "citation": [
+    {
+      "name": "北海道～福島 津波注意報 すべて解除 岩手で80cmの津波を観測",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015103601000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260420/K10015103601_2604202347_0420234742_01_02.jpg",
+      "datePublished": "2026-04-20T23:53:16+09:00"
+    },
+    {
+      "name": "北海道・三陸沖後発地震注意情報 “巨大地震の可能性高まる”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015103791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260420/K10015103791_2604202003_0420200841_01_02.jpg",
+      "datePublished": "2026-04-20T23:52:17+09:00"
+    },
+    {
+      "name": "【地震情報】青森県階上町で震度5強 青森 岩手 宮城で震度5弱",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015103581000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260420/K10015103581_2604202045_0420204806_01_02.jpg",
+      "datePublished": "2026-04-20T19:47:30+09:00"
+    },
+    {
+      "name": "全日空 日本航空 国際線燃油サーチャージ引き上げ 5月に前倒し",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015103431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260420/K10015103431_2604201848_0420203048_01_02.jpg",
+      "datePublished": "2026-04-20T20:54:08+09:00"
+    },
+    {
+      "name": "南鳥島での「文献調査」実施容認 小笠原村長が文書で国に報告",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015103541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260420/K10015103541_2604201425_0420151356_01_02.jpg",
+      "datePublished": "2026-04-20T19:13:32+09:00"
+    },
+    {
+      "name": "仙台 住宅街でクマ捕獲 宮城県全域に「クマ出没警報」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015103501000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260420/K10015103501_2604201334_0420140927_01_02.jpg",
+      "datePublished": "2026-04-20T19:10:04+09:00"
+    },
+    {
+      "name": "全国学力テスト始まる 中学英語はことしからオンラインで実施",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015103391000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260420/K10015103391_2604201127_0420114445_01_02.jpg",
+      "datePublished": "2026-04-20T11:44:44+09:00"
+    },
+    {
+      "name": "世界が注目 ホルムズ海峡を時系列で見る",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015100911000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260419/K10015100911_2604171613_0419100640_01_02.jpg",
+      "datePublished": "2026-04-19T10:06:39+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

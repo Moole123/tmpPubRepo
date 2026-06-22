@@ -1,0 +1,167 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015044731000",
+  "dataSourceId": "na",
+  "name": "【動画】気象予報士解説 今後の雪の見通しは(6日午後7時)",
+  "headline": "【動画】気象予報士解説 今後の雪の見通しは(6日午後7時)",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015044731000",
+    "playlistId": "news-nwa-disaster-nationwide-20260206",
+    "newsarticleName": "【動画】気象予報士解説 今後の雪の見通しは(6日午後7時)",
+    "playlistName": "2月6日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "急速に発達した低気圧の影響で、北海道では風と雪が強まって猛吹雪になっているところがあり、気象庁は交通への影響に警戒するよう呼びかけています。\n\n土曜日（7日）から来週月曜日（9日）にかけては日本海側を",
+  "dateModified": "2026-02-06T19:45:14+09:00",
+  "datePublished": "2026-02-06T12:21:35+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260206/K10015044731_2602061934_0206194514_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260206/K10015044731_2602061934_0206194514_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002731",
+      "name": "大雪・寒さ",
+      "display": true
+    },
+    {
+      "id": "0000035",
+      "name": "気象",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "急速に発達した低気圧の影響で、北海道では風と雪が強まって猛吹雪になっているところがあり、気象庁は交通への影響に警戒するよう呼びかけています。\n\n土曜日（7日）から来週月曜日（9日）にかけては日本海側を",
+  "articleBody": "急速に発達した低気圧の影響で、北海道では風と雪が強まって猛吹雪になっているところがあり、気象庁は交通への影響に警戒するよう呼びかけています。\n\n土曜日（7日）から来週月曜日（9日）にかけては日本海側を中心に大雪となるほか、関東など太平洋側の平地でも積もるおそれがあり、大雪による交通への影響などに十分注意が必要です。\n\n\n晴山紋音 気象予報士の解説です。\n\n【動画は1分15秒】\n2月6日の「ニュース7」で放送した内容です。\n※データ放送ではご覧いただけません\n\n大雪情報は「ニュース・防災アプリ」で\n\n大雪情報は「ニュース・防災アプリ」で\n最新の気象に関するニュースや積雪予報マップはアプリからもご覧いただけます\n",
+  "detailedArticleBody": {
+    "markedLead": "急速に発達した低気圧の影響で、北海道では風と雪が強まって猛吹雪になっているところがあり、気象庁は交通への影響に警戒するよう呼びかけています。\n\n土曜日（7日）から来週月曜日（9日）にかけては日本海側を中心に大雪となるほか、関東など太平洋側の平地でも積もるおそれがあり、大雪による交通への影響などに十分注意が必要です。\n",
+    "markedBody": "晴山紋音 気象予報士の解説です。\n\n【動画は1分15秒】\\\n2月6日の「ニュース7」で放送した内容です。\\\n※データ放送ではご覧いただけません\n\n:::nw--link-type4 {href=https://www.nhk.or.jp/nhkone/service/app/news_bousai/}\n![大雪情報は「ニュース・防災アプリ」で](https://news.web.nhk/news/html/20260206/K10015044731_2602061151_0206122136_02_04.jpg)\n\n**大雪情報は「ニュース・防災アプリ」で**\\\n最新の気象に関するニュースや積雪予報マップはアプリからもご覧いただけます\n:::\n\n```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"003\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\r\n    <div class=\"fs-wrap\">\r\n      <h2 class=\"freespace-title\">積雪レーダー</h2>\r\n      <div class=\"kishouSaigaiDatamap-wrap\">\r\n        <iframe src=\"https://news.web.nhk/bousai-map/snow/?lat=35.6778613&lon=139.7703166&zoom=3.5\" allowfullscreen=\"allowfullscreen\" scrolling=\"no\" class=\"js-iframe-dataMap\"></iframe>\r\n      </div>\r\n    </div>\n</div>\n```\n",
+    "noHtmlMarkedLead": "急速に発達した低気圧の影響で、北海道では風と雪が強まって猛吹雪になっているところがあり、気象庁は交通への影響に警戒するよう呼びかけています。\n\n土曜日（7日）から来週月曜日（9日）にかけては日本海側を中心に大雪となるほか、関東など太平洋側の平地でも積もるおそれがあり、大雪による交通への影響などに十分注意が必要です。\n",
+    "noHtmlMarkedBody": "晴山紋音 気象予報士の解説です。\n\n【動画は1分15秒】\\\n2月6日の「ニュース7」で放送した内容です。\\\n※データ放送ではご覧いただけません\n\n:::nw--link-type4 {href=https://www.nhk.or.jp/nhkone/service/app/news_bousai/}\n![大雪情報は「ニュース・防災アプリ」で](https://news.web.nhk/news/html/20260206/K10015044731_2602061151_0206122136_02_04.jpg)\n\n**大雪情報は「ニュース・防災アプリ」で**\\\n最新の気象に関するニュースや積雪予報マップはアプリからもご覧いただけます\n:::\n",
+    "trimmedLead": "急速に発達した低気圧の影響で、北海道では風と雪が強まって猛吹雪になっているところがあり、気象庁は交通への影響に警戒するよう呼びかけています。\n\n土曜日（7日）から来週月曜日（9日）にかけては日本海側を中心に大雪となるほか、関東など太平洋側の平地でも積もるおそれがあり、大雪による交通への影響などに十分注意が必要です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015044731000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015044731000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "【動画】気象予報士解説 今後の雪の見通しは(6日午後7時)",
+      "description": "急速に発達した低気圧の影響で、北海道では風と雪が強まって猛吹雪になっているところがあり、気象庁は交通への影響に警戒するよう呼びかけています。\n\n土曜日（7日）から来週月曜日（9日）にかけては日本海側を",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015044731_202602061934_202602061935/index.m3u8&mrposter=/news/html/20260206/K10015044731_2602061934_0206194514_01_03.jpg",
+      "duration": "PT1M15S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015044731_202602061934_202602061935/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260206/K10015044731_2602061934_0206194514_01_03.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "北海道で猛吹雪 7日から日本海側中心に大雪 太平洋側で積雪も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015044601000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260206/K10015044601_2602061807_0206194859_01_03.jpg",
+      "datePublished": "2026-02-06T23:33:49+09:00"
+    },
+    {
+      "name": "衆院選投票日 悪天候予想で投票所終了時間繰り上げなど対応も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015044801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260206/K10015044801_2602061834_0206183839_01_02.jpg",
+      "datePublished": "2026-02-06T18:38:39+09:00"
+    },
+    {
+      "name": "「顕著な大雪に関する気象情報」とは？どう行動する？",
+      "url": "https://news.web.nhk/newsweb/na/nc-c0ce507c-f9c9-4cf8-86bb-03a405c413b2",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30071059.jpg"
+    },
+    {
+      "name": "大雪対策「車に乗る時」タイヤ確認や給油の方法",
+      "url": "https://news.web.nhk/newsweb/na/nc-6b87befb-d986-42e5-a383-75e98340a6f0",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30066701.jpg"
+    },
+    {
+      "name": "立往生したら、どうする？取り組んでほしい5つの行動",
+      "url": "https://news.web.nhk/newsweb/na/nc-1d09e718-f07d-44af-8850-7b067e759153",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30066642.jpg"
+    },
+    {
+      "name": "転倒事故に注意！大雪や路面凍結どこが危ない？歩き方は",
+      "url": "https://news.web.nhk/newsweb/na/nc-08606a6e-37b9-4eec-885c-a6cb7c4a1bbb",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30382873.jpg"
+    },
+    {
+      "name": "大雪で「立往生」どうする？ エコノミークラス症候群防ぐには",
+      "url": "https://news.web.nhk/newsweb/na/nc-3100970f-593e-41e1-80a6-41a856da014f",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30066873.jpg"
+    },
+    {
+      "name": "大雪の原因 JPCZ=日本海寒帯気団収束帯とは",
+      "url": "https://news.web.nhk/newsweb/na/nc-80e8b2ec-0301-4aac-b3d2-532d2c4c8b31",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30066684.jpg"
+    },
+    {
+      "name": "“南岸低気圧” 都心に雪が降る条件は？",
+      "url": "https://news.web.nhk/newsweb/na/nc-8e1c8100-92f5-4fb2-8e92-90a35108b0de",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30066648.jpg"
+    },
+    {
+      "name": "大雪「不要不急の外出控えて！」 何が危ない？その時どうする？",
+      "url": "https://news.web.nhk/newsweb/na/nc-4d9fb585-5dba-48fd-a51a-e09cefbd8171",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_24405048.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": true
+  }
+}

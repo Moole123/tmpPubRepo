@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015099381000",
+  "dataSourceId": "na",
+  "name": "中国「BYD」の生産拠点で大規模火災 立体駐車場から出火か",
+  "headline": "中国「BYD」の生産拠点で大規模火災 立体駐車場から出火か",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015099381000",
+    "playlistId": "news-nwa-international-nationwide-20260414",
+    "newsarticleName": "中国「BYD」の生産拠点で大規模火災 立体駐車場から出火か",
+    "playlistName": "4月14日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "中国のEV最大手「BYD」の南部 ※深センにある生産拠点で14日、大規模な火災がありました。試験車両などを保管する立体駐車場が焼けたということですが、詳しい被害の状況は明らかにされていません。\n\n\n1",
+  "dateModified": "2026-04-14T20:34:25+09:00",
+  "datePublished": "2026-04-14T20:34:25+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260414/K10015099381_2604141936_0414203426_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260414/K10015099381_2604141936_0414203426_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0001595",
+      "name": "中国",
+      "display": true
+    },
+    {
+      "id": "0002689",
+      "name": "火災",
+      "display": true
+    },
+    {
+      "id": "0000408",
+      "name": "EV（電気自動車）",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "中国のEV最大手「BYD」の南部 ※深センにある生産拠点で14日、大規模な火災がありました。試験車両などを保管する立体駐車場が焼けたということですが、詳しい被害の状況は明らかにされていません。\n\n\n1",
+  "articleBody": "中国のEV最大手「BYD」の南部 ※深センにある生産拠点で14日、大規模な火災がありました。試験車両などを保管する立体駐車場が焼けたということですが、詳しい被害の状況は明らかにされていません。\n\n\n14日未明、火災があったのは、中国の広東省 ※深センにあるEV最大手「BYD」の生産拠点で、BYDは、試験車両や廃棄車両を保管する立体駐車場から火が出たとしています。\n\n現地からの映像では、巨大な建物の上層階が炎に覆われ、大量の黒い煙が立ち上っている様子が確認できます。\n\n消防当局は発生からおよそ6時間後にSNSで、火は消し止められ、けが人はいないと発表しましたが、これまでのところ被害の詳しい状況は明らかにされていません。\n\n※深センのセンは土へんに川。\n",
+  "detailedArticleBody": {
+    "markedLead": "中国のEV最大手「BYD」の南部 ※深センにある生産拠点で14日、大規模な火災がありました。試験車両などを保管する立体駐車場が焼けたということですが、詳しい被害の状況は明らかにされていません。\n",
+    "markedBody": "14日未明、火災があったのは、中国の広東省 ※深センにあるEV最大手「BYD」の生産拠点で、BYDは、試験車両や廃棄車両を保管する立体駐車場から火が出たとしています。\n\n現地からの映像では、巨大な建物の上層階が炎に覆われ、大量の黒い煙が立ち上っている様子が確認できます。\n\n消防当局は発生からおよそ6時間後にSNSで、火は消し止められ、けが人はいないと発表しましたが、これまでのところ被害の詳しい状況は明らかにされていません。\n\n※深センのセンは土へんに川。\n",
+    "trimmedLead": "中国のEV最大手「BYD」の南部 ※深センにある生産拠点で14日、大規模な火災がありました。試験車両などを保管する立体駐車場が焼けたということですが、詳しい被害の状況は明らかにされていません。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015099381000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015099381000",
+  "video": [],
+  "citation": [
+    {
+      "name": "【詳細】京都 南丹 遺体は男児と発表 死因不詳 死亡は先月下旬",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015099321000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260414/K10015099321_2604141956_0414200940_01_03.jpg",
+      "datePublished": "2026-04-14T20:09:39+09:00"
+    },
+    {
+      "name": "米のホルムズ海峡封鎖でイラン反発 次の対面協議めぐる報道も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015098791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260414/K10015098791_2604141127_0414115533_01_02.jpg",
+      "datePublished": "2026-04-14T19:26:28+09:00"
+    },
+    {
+      "name": "中国 3月輸出額 伸びが大幅鈍化 原油高がどう影響するか焦点",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015099231000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260414/K10015099231_2604141659_0414180408_01_02.jpg",
+      "datePublished": "2026-04-14T18:04:07+09:00"
+    },
+    {
+      "name": "沖縄 尖閣諸島沖合で中国海警局の船4隻が日本の領海に一時侵入",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015099211000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260414/K10015099211_2604141628_0414172219_01_02.jpg",
+      "datePublished": "2026-04-14T17:22:18+09:00"
+    },
+    {
+      "name": "中国大使館侵入事件 自衛官「夢で神のお告げ聞いた」供述",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015098871000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260414/K10015098871_2604141133_0414115224_01_02.jpg",
+      "datePublished": "2026-04-14T17:15:26+09:00"
+    },
+    {
+      "name": "日英外相 来週都内で会談の方向で調整 中東情勢など協議か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015098891000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260414/K10015098891_2604141144_0414123712_01_02.jpg",
+      "datePublished": "2026-04-14T12:37:12+09:00"
+    },
+    {
+      "name": "川崎 製鉄所事故 解体工事を受注した会社など2社を捜索 警察",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015098781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260414/K10015098781_2604140957_0414100445_01_02.jpg",
+      "datePublished": "2026-04-14T20:23:59+09:00"
+    },
+    {
+      "name": "“サーバー運用で高利回り” 投資募る 会社を消費者庁に告発",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015099311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260414/K10015099311_2604141804_0414192536_01_02.jpg",
+      "datePublished": "2026-04-14T19:25:36+09:00"
+    },
+    {
+      "name": "【詳しく】イラン情勢 石油製品に影響 シンナーも品薄に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015099041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260414/K10015099041_2604141729_0414191609_01_02.jpg",
+      "datePublished": "2026-04-14T19:16:08+09:00"
+    },
+    {
+      "name": "【詳しく】熊本地震の前震から10年 「ずっと見守っていて」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015098731000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260414/K10015098731_2604141215_0414123154_01_03.jpg",
+      "datePublished": "2026-04-14T19:44:33+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

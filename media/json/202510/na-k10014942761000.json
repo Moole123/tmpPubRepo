@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014942761000",
+  "dataSourceId": "na",
+  "name": "衆議院　議員7人が新会派「有志・改革の会」結成",
+  "headline": "衆議院　議員7人が新会派「有志・改革の会」結成",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014942761000",
+    "playlistId": "news-nwa-politics-nationwide-20251006",
+    "newsarticleName": "衆議院　議員7人が新会派「有志・改革の会」結成",
+    "playlistName": "10月6日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "衆議院の会派「有志の会」と「改革の会」がいずれも解散し、それぞれに所属していた議員7人が新たな会派「有志・改革の会」を結成しました。\n\n\n新たな会派「有志・改革の会」を結成したのは、衆議院の会派「有志",
+  "dateModified": "2025-10-06T21:30:14+09:00",
+  "datePublished": "2025-10-06T21:30:14+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251006/K10014942761_2510062111_1006213016_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251006/K10014942761_2510062111_1006213016_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "衆議院の会派「有志の会」と「改革の会」がいずれも解散し、それぞれに所属していた議員7人が新たな会派「有志・改革の会」を結成しました。\n\n\n新たな会派「有志・改革の会」を結成したのは、衆議院の会派「有志",
+  "articleBody": "衆議院の会派「有志の会」と「改革の会」がいずれも解散し、それぞれに所属していた議員7人が新たな会派「有志・改革の会」を結成しました。\n\n\n新たな会派「有志・改革の会」を結成したのは、衆議院の会派「有志の会」に所属していた吉良州司衆議院議員ら4人と、日本維新の会を除名処分になり、衆議院の会派「改革の会」を立ち上げた斉木武志衆議院議員ら3人です。\n\n6日それぞれの会派を解散した上で、新たな会派「有志・改革の会」で代表を務める吉良氏が衆議院の事務局に会派の結成届を提出し、受理されました。\n",
+  "detailedArticleBody": {
+    "markedLead": "衆議院の会派「有志の会」と「改革の会」がいずれも解散し、それぞれに所属していた議員7人が新たな会派「有志・改革の会」を結成しました。\n",
+    "markedBody": "新たな会派「有志・改革の会」を結成したのは、衆議院の会派「有志の会」に所属していた吉良州司衆議院議員ら4人と、日本維新の会を除名処分になり、衆議院の会派「改革の会」を立ち上げた斉木武志衆議院議員ら3人です。\n\n![](https://news.web.nhk/news/html/20251006/K10014942761_2510062111_1006213016_02_03.jpg)\n\n6日それぞれの会派を解散した上で、新たな会派「有志・改革の会」で代表を務める吉良氏が衆議院の事務局に会派の結成届を提出し、受理されました。\n",
+    "trimmedLead": "衆議院の会派「有志の会」と「改革の会」がいずれも解散し、それぞれに所属していた議員7人が新たな会派「有志・改革の会」を結成しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014942761000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014942761000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

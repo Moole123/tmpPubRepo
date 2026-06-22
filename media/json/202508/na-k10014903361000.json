@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014903361000",
+  "dataSourceId": "na",
+  "name": "将棋 藤井聡太七冠6連覇を果たすか 「王位戦」第5局始まる",
+  "headline": "将棋「王位戦」第5局始まる 藤井聡太七冠6連覇を果たすか",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014903361000",
+    "playlistId": "news-nwa-scienceculture-nationwide-20250826",
+    "newsarticleName": "将棋 藤井聡太七冠6連覇を果たすか 「王位戦」第5局始まる",
+    "playlistName": "8月26日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "将棋の八大タイトルの1つ、「王位戦」の第5局が26日から徳島市で始まりました。藤井聡太七冠（23）が勝って6連覇を果たすか、挑戦者の永瀬拓矢九段（32）が2勝目をあげてタイトル奪取に望みをつなぐか、注",
+  "dateModified": "2025-08-26T10:46:37+09:00",
+  "datePublished": "2025-08-26T10:46:37+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250826/K10014903361_2508261031_0826103534_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250826/K10014903361_2508261031_0826103534_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "科学・文化"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "将棋の八大タイトルの1つ、「王位戦」の第5局が26日から徳島市で始まりました。藤井聡太七冠（23）が勝って6連覇を果たすか、挑戦者の永瀬拓矢九段（32）が2勝目をあげてタイトル奪取に望みをつなぐか、注",
+  "articleBody": "将棋の八大タイトルの1つ、「王位戦」の第5局が26日から徳島市で始まりました。藤井聡太七冠（23）が勝って6連覇を果たすか、挑戦者の永瀬拓矢九段（32）が2勝目をあげてタイトル奪取に望みをつなぐか、注目されます。\n\n\n「王位戦」の第5局は徳島市の料亭に対局室が設けられ、午前9時に対局が始まりました。\n\n先手の永瀬九段が飛車先の歩を突くと、後手の藤井七冠も同様に応じ、その後は大駒の角を交換して序盤の戦いが始まりました。\n\n「王位戦」七番勝負はここまで藤井七冠が3勝1敗とタイトル防衛に王手をかけていて、今回、勝てば6連覇となります。\n\n一方、あとがない永瀬九段は初めての「王位」獲得に望みをかけて2勝目を目指します。\n\n第5局の勝敗は27日午後に決まる見通しです。\n",
+  "detailedArticleBody": {
+    "markedLead": "将棋の八大タイトルの1つ、「王位戦」の第5局が26日から徳島市で始まりました。藤井聡太七冠（23）が勝って6連覇を果たすか、挑戦者の永瀬拓矢九段（32）が2勝目をあげてタイトル奪取に望みをつなぐか、注目されます。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20250826/K10014903361_2508261031_0826103534_02_03.jpg)\n\n「王位戦」の第5局は徳島市の料亭に対局室が設けられ、午前9時に対局が始まりました。\n\n先手の永瀬九段が飛車先の歩を突くと、後手の藤井七冠も同様に応じ、その後は大駒の角を交換して序盤の戦いが始まりました。\n\n「王位戦」七番勝負はここまで藤井七冠が3勝1敗とタイトル防衛に王手をかけていて、今回、勝てば6連覇となります。\n\n一方、あとがない永瀬九段は初めての「王位」獲得に望みをかけて2勝目を目指します。\n\n第5局の勝敗は27日午後に決まる見通しです。\n",
+    "trimmedLead": "将棋の八大タイトルの1つ、「王位戦」の第5局が26日から徳島市で始まりました。藤井聡太七冠（23）が勝って6連覇を果たすか、挑戦者の永瀬拓矢九段（32）が2勝目をあげてタイトル奪取に望みをつなぐか、注目されます。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014903361000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014903361000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

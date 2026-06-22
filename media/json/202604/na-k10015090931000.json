@@ -1,0 +1,173 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015090931000",
+  "dataSourceId": "na",
+  "name": "横浜 交差点で女児が車にはねられ死亡 ドライバーを逮捕",
+  "headline": "横浜 交差点で女児が車にはねられ死亡 ドライバーを逮捕",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015090931000",
+    "playlistId": "news-nwa-society-nationwide-20260402",
+    "newsarticleName": "横浜 交差点で女児が車にはねられ死亡 ドライバーを逮捕",
+    "playlistName": "4月2日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "2日夕方、横浜市戸塚区の交差点で、小学生とみられる女の子が、車にはねられて病院に運ばれましたが、その後、死亡が確認されました。警察は車のドライバーをその場で逮捕し、事故の詳しい状況を調べています。\n\n",
+  "dateModified": "2026-04-02T20:46:07+09:00",
+  "datePublished": "2026-04-02T19:25:38+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260402/K10015090931_2604021858_0402192539_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260402/K10015090931_2604021858_0402192539_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0001538",
+      "name": "事件・事故",
+      "display": true
+    },
+    {
+      "id": "0002214",
+      "name": "神奈川県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "2日夕方、横浜市戸塚区の交差点で、小学生とみられる女の子が、車にはねられて病院に運ばれましたが、その後、死亡が確認されました。警察は車のドライバーをその場で逮捕し、事故の詳しい状況を調べています。\n\n",
+  "articleBody": "2日夕方、横浜市戸塚区の交差点で、小学生とみられる女の子が、車にはねられて病院に運ばれましたが、その後、死亡が確認されました。警察は車のドライバーをその場で逮捕し、事故の詳しい状況を調べています。\n\n\n2日午後5時半ごろ、横浜市戸塚区で「車と歩行者の事故で、小学生くらいの女の子が呼びかけに応じない」と警察に通報がありました。\n\n警察によりますと、この事故で小学生とみられる女の子が病院に搬送されましたが、その後、死亡が確認されたということです。\n\n警察は車を運転していた自称・横浜市栄区のアルバイト、原田京雅容疑者（20）を過失運転傷害の疑いで、その場で逮捕しました。\n調べに対し、容疑を認めているということです。\n\n女の子は当時、横断歩道を歩いていたとみられ、警察が事故の詳しい状況を調べています。\n\n現場は、JR戸塚駅から南西におよそ1キロ離れた信号機のないT字路の交差点です。\n",
+  "detailedArticleBody": {
+    "markedLead": "2日夕方、横浜市戸塚区の交差点で、小学生とみられる女の子が、車にはねられて病院に運ばれましたが、その後、死亡が確認されました。警察は車のドライバーをその場で逮捕し、事故の詳しい状況を調べています。\n",
+    "markedBody": "2日午後5時半ごろ、横浜市戸塚区で「車と歩行者の事故で、小学生くらいの女の子が呼びかけに応じない」と警察に通報がありました。\n\n警察によりますと、この事故で小学生とみられる女の子が病院に搬送されましたが、その後、死亡が確認されたということです。\n\n警察は車を運転していた自称・横浜市栄区のアルバイト、原田京雅容疑者（20）を過失運転傷害の疑いで、その場で逮捕しました。\\\n調べに対し、容疑を認めているということです。\n\n女の子は当時、横断歩道を歩いていたとみられ、警察が事故の詳しい状況を調べています。\n\n現場は、JR戸塚駅から南西におよそ1キロ離れた信号機のないT字路の交差点です。\n",
+    "trimmedLead": "2日夕方、横浜市戸塚区の交差点で、小学生とみられる女の子が、車にはねられて病院に運ばれましたが、その後、死亡が確認されました。警察は車のドライバーをその場で逮捕し、事故の詳しい状況を調べています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015090931000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015090931000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "横浜 交差点で女児が車にはねられ死亡 ドライバーを逮捕",
+      "description": "2日夕方、横浜市戸塚区の交差点で、小学生とみられる女の子が、車にはねられて病院に運ばれましたが、その後、死亡が確認されました。警察は車のドライバーをその場で逮捕し、事故の詳しい状況を調べています。\n\n",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015090931_202604022048_202604022048/index.m3u8&mrposter=/news/html/20260402/K10015090931_2604021858_0402192539_01_02.jpg",
+      "duration": "PT55S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015090931_202604022048_202604022048/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260402/K10015090931_2604021858_0402192539_01_02.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "辺野古沖転覆事故受け自民が会合 議員“責任の所在明らかに”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015090611000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260402/K10015090611_2604021235_0402145955_01_03.jpg",
+      "datePublished": "2026-04-02T14:59:54+09:00"
+    },
+    {
+      "name": "【演説詳細】トランプ大統領 “今後2～3週間 激しい攻撃行う”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015090401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260402/K10015090401_2604021214_0402121605_01_02.jpg",
+      "datePublished": "2026-04-02T19:30:02+09:00"
+    },
+    {
+      "name": "株価 トランプ大統領の演説受けて一時1400円以上値下がり",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015090511000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260402/K10015090511_2604021534_0402164401_01_02.jpg",
+      "datePublished": "2026-04-02T16:44:00+09:00"
+    },
+    {
+      "name": "インドネシア付近 M7.4地震 日本は多少潮位変化も被害心配なし",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015090441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260402/K10015090441_2604020947_0402101621_01_02.jpg",
+      "datePublished": "2026-04-02T10:16:21+09:00"
+    },
+    {
+      "name": "「アルテミス計画」打ち上げ成功 人類 約半世紀ぶり月へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015090331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260402/K10015090331_2604021447_0402170945_01_03.jpg",
+      "datePublished": "2026-04-02T18:55:25+09:00"
+    },
+    {
+      "name": "今年度予算案 参院自民・立民 6日に集中審議開催で合意",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015090671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260402/K10015090671_2604021357_0402150517_01_02.jpg",
+      "datePublished": "2026-04-02T18:26:03+09:00"
+    },
+    {
+      "name": "大麻使用などで検挙 去年6800人余過去最多 10代20代7割占める",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015090791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260402/K10015090791_2604021550_0402165021_01_02.jpg",
+      "datePublished": "2026-04-02T16:50:20+09:00"
+    },
+    {
+      "name": "外国人女性らに売春場所としてレンタルルームを提供か 3人逮捕",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015090561000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260402/K10015090561_2604021207_0402151615_01_03.jpg",
+      "datePublished": "2026-04-02T15:16:14+09:00"
+    },
+    {
+      "name": "全日空と日本航空 燃油サーチャージ 6月発券分から最大約2倍に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015089741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260401/K10015089741_2604011233_0401135253_01_03.jpg",
+      "datePublished": "2026-04-01T18:54:39+09:00"
+    },
+    {
+      "name": "FIFA 最新男子世界ランキング 日本は18位 順位を1つ上げる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015090281000",
+      "thumbnailUrl": "https://news.web.nhk/news/r/html/20260402/K10015090281_2604012348_0402004233_01_02.jpg",
+      "datePublished": "2026-04-02T00:42:33+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

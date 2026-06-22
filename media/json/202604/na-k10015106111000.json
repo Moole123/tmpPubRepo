@@ -1,0 +1,154 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015106111000",
+  "dataSourceId": "na",
+  "name": "ドジャース 大谷翔平 連続出塁記録 53試合で止まる",
+  "headline": "ドジャース 大谷翔平 連続出塁記録 53試合で止まる",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015106111000",
+    "playlistId": "news-nwa-sports-nationwide-20260423",
+    "newsarticleName": "ドジャース 大谷翔平 連続出塁記録 53試合で止まる",
+    "playlistName": "4月23日のスポーツニュース",
+    "genreId": "sports",
+    "genreIdSlug": "sports"
+  },
+  "description": "大リーグ、ドジャースの大谷翔平選手が22日、ジャイアンツ戦で4打数ノーヒットに終わり、去年8月から続いたレギュラーシーズンの連続出塁記録が53試合で止まりました。\n\n\nこの試合、大谷選手は投打の二刀流",
+  "dateModified": "2026-04-23T13:12:35+09:00",
+  "datePublished": "2026-04-23T13:12:35+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260423/K10015106111_2604231257_0423131236_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260423/K10015106111_2604231257_0423131236_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "スポーツ"
+  ],
+  "topic": [
+    {
+      "id": "0002020",
+      "name": "大谷翔平",
+      "display": true
+    },
+    {
+      "id": "0000006",
+      "name": "大リーグ",
+      "display": true
+    },
+    {
+      "id": "0001591",
+      "name": "野球",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "大リーグ、ドジャースの大谷翔平選手が22日、ジャイアンツ戦で4打数ノーヒットに終わり、去年8月から続いたレギュラーシーズンの連続出塁記録が53試合で止まりました。\n\n\nこの試合、大谷選手は投打の二刀流",
+  "articleBody": "大リーグ、ドジャースの大谷翔平選手が22日、ジャイアンツ戦で4打数ノーヒットに終わり、去年8月から続いたレギュラーシーズンの連続出塁記録が53試合で止まりました。\n\n\nこの試合、大谷選手は投打の二刀流で出場し、ピッチャーとしては6回無失点と好投しましたが勝ち負けはつきませんでした。\n\n試合はドジャースが0対3で敗れました。\n\n大リーグ記録は、「最後の4割打者」として知られるテッド・ウィリアムズさんが1949年にレッドソックスで記録した84試合です。\n",
+  "detailedArticleBody": {
+    "markedLead": "大リーグ、ドジャースの大谷翔平選手が22日、ジャイアンツ戦で4打数ノーヒットに終わり、去年8月から続いたレギュラーシーズンの連続出塁記録が53試合で止まりました。\n",
+    "markedBody": "この試合、大谷選手は投打の二刀流で出場し、ピッチャーとしては6回無失点と好投しましたが勝ち負けはつきませんでした。\n\n試合はドジャースが0対3で敗れました。\n\n大リーグ記録は、「最後の4割打者」として知られるテッド・ウィリアムズさんが1949年にレッドソックスで記録した84試合です。\n",
+    "trimmedLead": "大リーグ、ドジャースの大谷翔平選手が22日、ジャイアンツ戦で4打数ノーヒットに終わり、去年8月から続いたレギュラーシーズンの連続出塁記録が53試合で止まりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015106111000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015106111000",
+  "video": [],
+  "citation": [
+    {
+      "name": "ドジャース山本由伸 7回3失点で2敗目 大谷翔平 53試合連続出塁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105351000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015105351_2604221345_0422134703_01_03.jpg",
+      "datePublished": "2026-04-22T12:48:36+09:00"
+    },
+    {
+      "name": "村上宗隆 4試合連続 9号ホームラン ジャッジに並びリーグ2位",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015105461_2604221452_0422151934_01_02.jpg",
+      "datePublished": "2026-04-22T15:19:33+09:00"
+    },
+    {
+      "name": "カブス 鈴木が今季1号ホームラン 今永が7回1失点で2勝目",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015105441_2604221448_0422152540_01_02.jpg",
+      "datePublished": "2026-04-22T15:25:39+09:00"
+    },
+    {
+      "name": "【プロ野球結果】パ・リーグ オリックスが単独首位に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015105921_2604222323_0422234146_01_02.jpg",
+      "datePublished": "2026-04-22T23:41:45+09:00"
+    },
+    {
+      "name": "サッカーJ1特別大会 WESTアビスパが逆転勝ちで最下位脱出",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105961000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015105961_2604222244_0422224606_01_02.jpg",
+      "datePublished": "2026-04-22T22:46:05+09:00"
+    },
+    {
+      "name": "サッカー女子日本代表 世界ランキング5位に上昇",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105021000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015105021_2604212215_0421223311_01_02.jpg",
+      "datePublished": "2026-04-21T22:33:10+09:00"
+    },
+    {
+      "name": "スポクラ 安楽が新シリーズへ抱負 “優勝しか考えていない”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105751000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015105751_2604222006_0422205443_01_02.jpg",
+      "datePublished": "2026-04-22T20:54:42+09:00"
+    },
+    {
+      "name": "“りくりゅう”ペアと高木美帆 スケート連盟 最優秀賞",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105601000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015105601_2604221947_0422195047_01_02.jpg",
+      "datePublished": "2026-04-22T21:14:54+09:00"
+    },
+    {
+      "name": "”拡大ベース”導入 野球はどう変わる？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015103361000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260420/K10015103361_2604201035_0420125050_01_02.jpg",
+      "datePublished": "2026-04-20T12:50:49+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014882041000",
+  "dataSourceId": "na",
+  "name": "お盆休み 空の便 国内線ピーク 下り9日と12日 上り14日と17日",
+  "headline": "お盆休み 空の便 国内線ピーク 下り9日と12日 上り14日と17日",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014882041000",
+    "playlistId": "news-nwa-society-nationwide-20250801",
+    "newsarticleName": "お盆休み 空の便 国内線ピーク 下り9日と12日 上り14日と17日",
+    "playlistName": "8月1日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "ことしのお盆休みの期間中、大手航空会社の国内線のピークは、羽田や大阪などから各地に向かう下りが今月9日と12日、上りが14日と17日の見込みです。\n\n\n国内の主な航空会社、11社のまとめによりますと、",
+  "dateModified": "2025-08-01T18:30:31+09:00",
+  "datePublished": "2025-08-01T18:30:31+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250801/K10014882041_2508011704_0801182924_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250801/K10014882041_2508011704_0801182924_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "ことしのお盆休みの期間中、大手航空会社の国内線のピークは、羽田や大阪などから各地に向かう下りが今月9日と12日、上りが14日と17日の見込みです。\n\n\n国内の主な航空会社、11社のまとめによりますと、",
+  "articleBody": "ことしのお盆休みの期間中、大手航空会社の国内線のピークは、羽田や大阪などから各地に向かう下りが今月9日と12日、上りが14日と17日の見込みです。\n\n\n国内の主な航空会社、11社のまとめによりますと、今月8日から17日までの10日間の国内の空の便を予約した人は1日の時点でおよそ336万人で、去年の同じ時期とほぼ同じだということです。\n\nこのうち全日空と日本航空をあわせた予約数はおよそ254万人で、こちらも去年とほぼ同じです。\n\n期間中のピークは、\n▽羽田や大阪などから各地に向かう下りが今月9日と12日、\n▽上りが14日と17日の見込みです。\n\nまた、国際線の予約は、国内の主な7社であわせておよそ63万人で、去年よりおよそ8％増えています。\n\n全日空はハワイへの便が過去最多の予約数となっているほか、日本航空は、東南アジアや北米、ハワイへの便が好調だということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "ことしのお盆休みの期間中、大手航空会社の国内線のピークは、羽田や大阪などから各地に向かう下りが今月9日と12日、上りが14日と17日の見込みです。\n",
+    "markedBody": "国内の主な航空会社、11社のまとめによりますと、今月8日から17日までの10日間の国内の空の便を予約した人は1日の時点でおよそ336万人で、去年の同じ時期とほぼ同じだということです。\n\nこのうち全日空と日本航空をあわせた予約数はおよそ254万人で、こちらも去年とほぼ同じです。\n\n期間中のピークは、\\\n▽羽田や大阪などから各地に向かう下りが今月9日と12日、\\\n▽上りが14日と17日の見込みです。\n\nまた、国際線の予約は、国内の主な7社であわせておよそ63万人で、去年よりおよそ8％増えています。\n\n全日空はハワイへの便が過去最多の予約数となっているほか、日本航空は、東南アジアや北米、ハワイへの便が好調だということです。\n",
+    "trimmedLead": "ことしのお盆休みの期間中、大手航空会社の国内線のピークは、羽田や大阪などから各地に向かう下りが今月9日と12日、上りが14日と17日の見込みです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014882041000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014882041000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "お盆休み 空の便 国内線ピーク 下り9日と12日 上り14日と17日",
+      "description": "ことしのお盆休みの期間中、大手航空会社の国内線のピークは、羽田や大阪などから各地に向かう下りが今月9日と12日、上りが14日と17日の見込みです。\n\n\n国内の主な航空会社、11社のまとめによりますと、",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10014882041_202508011836_202508011836/index.m3u8&mrposter=/news/html/20250801/K10014882041_2508011704_0801182924_01_02.jpg",
+      "duration": "PT37S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10014882041_202508011836_202508011836/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20250801/K10014882041_2508011704_0801182924_01_02.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

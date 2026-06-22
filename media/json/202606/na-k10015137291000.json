@@ -1,0 +1,140 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015137291000",
+  "dataSourceId": "na",
+  "name": "「災害情報マップ」で避難所確認",
+  "headline": "「災害情報マップ」で避難所確認",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015137291000",
+    "playlistId": "news-nwa-disaster-nationwide-20260601",
+    "newsarticleName": "「災害情報マップ」で避難所確認",
+    "playlistName": "6月1日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "NHKの「災害情報マップ」では、開設された避難所をスマートフォンやパソコンなどで確認することができます。\n\n1日午後3時の時点で、台風が接近している沖縄・奄美を中心に自治体が避難所を開設していることが",
+  "dateModified": "2026-06-01T16:07:03+09:00",
+  "datePublished": "2026-06-01T16:07:03+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260601/K10015137291_2606011556_0601160703_02_01.jpg",
+      "height": 630,
+      "width": 1200
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260601/K10015137291_2606011556_0601160703_01_02.jpg",
+      "height": 630,
+      "width": 1200
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0001345",
+      "name": "台風",
+      "display": true
+    },
+    {
+      "id": "0000035",
+      "name": "気象",
+      "display": true
+    },
+    {
+      "id": "0002247",
+      "name": "沖縄県",
+      "display": true
+    },
+    {
+      "id": "0002246",
+      "name": "鹿児島県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "NHKの「災害情報マップ」では、開設された避難所をスマートフォンやパソコンなどで確認することができます。\n\n1日午後3時の時点で、台風が接近している沖縄・奄美を中心に自治体が避難所を開設していることが",
+  "articleBody": "NHKの「災害情報マップ」では、開設された避難所をスマートフォンやパソコンなどで確認することができます。\n\n1日午後3時の時点で、台風が接近している沖縄・奄美を中心に自治体が避難所を開設していることがわかります。その数は、あわせて160か所余りにのぼります。\n\n台風の経路や地域の災害リスクを掲載したハザードマップも重ねて見ることができます。自治体の避難情報などと合わせ、身の安全を守るために活用ください。\n\n\nNHK「災害情報マップ」\n\nNHK「災害情報マップ」\n",
+  "detailedArticleBody": {
+    "markedLead": "NHKの「災害情報マップ」では、開設された避難所をスマートフォンやパソコンなどで確認することができます。\n\n1日午後3時の時点で、台風が接近している沖縄・奄美を中心に自治体が避難所を開設していることがわかります。その数は、あわせて160か所余りにのぼります。\n\n台風の経路や地域の災害リスクを掲載したハザードマップも重ねて見ることができます。自治体の避難情報などと合わせ、身の安全を守るために活用ください。\n",
+    "markedBody": ":::nw--link-type4 {href=https://news.web.nhk/bousai-map/shien/}\n![NHK「災害情報マップ」](https://news.web.nhk/news/html/20260601/K10015137291_2606011600_0601160703_02_03.jpg)\n\n**NHK「災害情報マップ」**\n:::\n",
+    "trimmedLead": "NHKの「災害情報マップ」では、開設された避難所をスマートフォンやパソコンなどで確認することができます。\n\n1日午後3時の時点で、台風が接近している沖縄・奄美を中心に自治体が避難所を開設していることがわかります。その数は、あわせて160か所余りにのぼります。\n\n台風の経路や地域の災害リスクを掲載したハザードマップも重ねて見ることができます。自治体の避難情報などと合わせ、身の安全を守るために活用ください。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015137291000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015137291000",
+  "video": [],
+  "citation": [
+    {
+      "name": "【最新の台風情報】予想進路や勢力などを詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/typhoon/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30060645.jpg"
+    },
+    {
+      "name": "台風マップ 予想進路や勢力をリアルタイム表示",
+      "url": "https://news.web.nhk/bousai-map/typhoon/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31036866.jpg"
+    },
+    {
+      "name": "台風接近前にやっておきたい備え「タイムライン」で",
+      "url": "https://news.web.nhk/newsweb/na/nc-cc4a20bc-9976-493f-a087-23512046b7d3",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_23166686.jpg"
+    },
+    {
+      "name": "台風や低気圧による「暴風」注意点と対策は",
+      "url": "https://news.web.nhk/newsweb/na/nc-ed932a80-8b04-49af-b4e8-2e364a35b909",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_20315661.jpg"
+    },
+    {
+      "name": "伊勢湾台風とは？犠牲者5000人超「暴走木材」が街を襲った",
+      "url": "https://news.web.nhk/newsweb/na/nc-eb22b635-e86a-4563-8a47-77db97cbcfe6",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_23648643.jpg"
+    },
+    {
+      "name": "NHKONE防災 災害リスク・備えをまとめて",
+      "url": "https://news.web.nhk/newsweb/sp/pl/editorial-nwa-0000000132",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30066327.jpg"
+    },
+    {
+      "name": "天気防災サイト あなたの街の天気予報や災害情報を即時提供",
+      "url": "https://news.web.nhk/kishou-saigai/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037196.jpg"
+    },
+    {
+      "name": "天気防災マップ ふだんの雨雲予想から災害時のリスク情報まで",
+      "url": "https://news.web.nhk/bousai-map/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037154.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

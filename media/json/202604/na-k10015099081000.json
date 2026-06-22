@@ -1,0 +1,161 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015099081000",
+  "dataSourceId": "na",
+  "name": "熊本地震10年 熊本城を3Dで再現 被災当時と現在を比較",
+  "headline": "熊本地震10年 熊本城を3Dで再現 被災当時と現在を比較",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015099081000",
+    "playlistId": "news-nwa-disaster-nationwide-20260415",
+    "newsarticleName": "熊本地震10年 熊本城を3Dで再現 被災当時と現在を比較",
+    "playlistName": "4月15日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "2016年4月の熊本地震では、街のシンボルであり、熊本の人々に親しまれてきた熊本城も、大きな被害を受けました。\n\n地震のあとNHKがこれまでに撮影してきた大量の映像データを、特殊な技術を使って3D化し",
+  "dateModified": "2026-04-15T12:24:15+09:00",
+  "datePublished": "2026-04-15T12:24:15+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260415/K10015099081_2604150933_0415123217_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260415/K10015099081_2604150933_0415123217_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害",
+    "地域"
+  ],
+  "topic": [
+    {
+      "id": "0000053",
+      "name": "熊本地震",
+      "display": true
+    },
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0002243",
+      "name": "熊本県",
+      "display": true
+    },
+    {
+      "id": "0002709",
+      "name": "歴史・文化財",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "2016年4月の熊本地震では、街のシンボルであり、熊本の人々に親しまれてきた熊本城も、大きな被害を受けました。\n\n地震のあとNHKがこれまでに撮影してきた大量の映像データを、特殊な技術を使って3D化し",
+  "articleBody": "2016年4月の熊本地震では、街のシンボルであり、熊本の人々に親しまれてきた熊本城も、大きな被害を受けました。\n\n地震のあとNHKがこれまでに撮影してきた大量の映像データを、特殊な技術を使って3D化し、熊本城を立体的に再現しました。\n\n（動画は8分16秒です。データ放送ではご覧いただけません）\n\n\n現在の熊本城\n\n指やマウスで操作して、見る角度を変えながらご覧いただけます。\n",
+  "detailedArticleBody": {
+    "markedLead": "2016年4月の熊本地震では、街のシンボルであり、熊本の人々に親しまれてきた熊本城も、大きな被害を受けました。\n\n地震のあとNHKがこれまでに撮影してきた大量の映像データを、特殊な技術を使って3D化し、熊本城を立体的に再現しました。\n\n（動画は8分16秒です。データ放送ではご覧いただけません）\n",
+    "markedBody": "### 現在の熊本城\n\n指やマウスで操作して、見る角度を変えながらご覧いただけます。\n\n```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"002\">\n<iframe src=\"https://news.web.nhk/news/special/rich_contents/feature-article/AR/kumamotojo2026/index_mv.html\" style=\"display:block;width:100%;aspect-ratio:3/2;margin:20px auto;\" ></iframe>\n</div>\n```\n",
+    "noHtmlMarkedLead": "2016年4月の熊本地震では、街のシンボルであり、熊本の人々に親しまれてきた熊本城も、大きな被害を受けました。\n\n地震のあとNHKがこれまでに撮影してきた大量の映像データを、特殊な技術を使って3D化し、熊本城を立体的に再現しました。\n\n（動画は8分16秒です。データ放送ではご覧いただけません）\n",
+    "noHtmlMarkedBody": "### 現在の熊本城\n\n指やマウスで操作して、見る角度を変えながらご覧いただけます。\n",
+    "trimmedLead": "2016年4月の熊本地震では、街のシンボルであり、熊本の人々に親しまれてきた熊本城も、大きな被害を受けました。\n\n地震のあとNHKがこれまでに撮影してきた大量の映像データを、特殊な技術を使って3D化し、熊本城を立体的に再現しました。\n\n（動画は8分16秒です。データ放送ではご覧いただけません）\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015099081000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015099081000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "熊本地震10年 熊本城を3Dで再現 被災当時と現在を比較",
+      "description": "2016年4月の熊本地震では、街のシンボルであり、熊本の人々に親しまれてきた熊本城も、大きな被害を受けました。\n\n地震のあとNHKがこれまでに撮影してきた大量の映像データを、特殊な技術を使って3D化し",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015099081_202604151218_202604151219/index.m3u8&mrposter=/news/html/20260415/K10015099081_2604150933_0415123217_01_03.jpg",
+      "duration": "PT8M16S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015099081_202604151218_202604151219/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260415/K10015099081_2604150933_0415123217_01_03.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "熊本地震10年 特集サイト",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0000053",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31090203.jpg"
+    },
+    {
+      "name": "熊本地震 最初の震度7から10年 発生時刻に合わせ黙とう",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015099631000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260415/K10015099631_2604142341_0415052050_01_02.jpg",
+      "datePublished": "2026-04-15T05:20:49+09:00"
+    },
+    {
+      "name": "震度7に2度襲われた熊本地震 それぞれの思い 10年の歩みと課題",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015099531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260414/K10015099531_2604142142_0414215445_01_03.jpg",
+      "datePublished": "2026-04-14T21:54:44+09:00"
+    },
+    {
+      "name": "【詳しく】熊本地震の前震から10年 「ずっと見守っていて」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015098731000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260414/K10015098731_2604141215_0414123154_01_03.jpg",
+      "datePublished": "2026-04-14T19:44:33+09:00"
+    },
+    {
+      "name": "熊本地震 “地殻変動続き 周辺の活断層でひずみ蓄積” 専門家",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015099221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260414/K10015099221_2604141747_0414175851_01_02.jpg",
+      "datePublished": "2026-04-14T17:58:50+09:00"
+    },
+    {
+      "name": "能登半島地震 災害関連死 2人の認定答申で500人超にも",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015099561000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260414/K10015099561_2604142116_0414220626_01_02.jpg",
+      "datePublished": "2026-04-14T22:06:25+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": true
+  }
+}

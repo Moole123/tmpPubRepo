@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015088851000",
+  "dataSourceId": "na",
+  "name": "数学の難問「ABC予想」 国際研究プロジェクトが新手法で検証",
+  "headline": "数学の難問「ABC予想」 国際研究プロジェクトが新手法で検証",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015088851000",
+    "playlistId": "news-nwa-scienceculture-nationwide-20260331",
+    "newsarticleName": "数学の難問「ABC予想」 国際研究プロジェクトが新手法で検証",
+    "playlistName": "3月31日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "数学の難問「ABC予想」を証明したとする日本の数学者の理論について、数学者の間で意見が分かれていることから、各国の数学者でつくる国際研究プロジェクトは、コンピューターのプログラミング言語を使った新たな",
+  "dateModified": "2026-03-31T19:00:09+09:00",
+  "datePublished": "2026-03-31T19:00:09+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260331/K10015088851_2603311817_0331190010_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260331/K10015088851_2603311817_0331190010_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "0002556",
+      "name": "カナダ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "数学の難問「ABC予想」を証明したとする日本の数学者の理論について、数学者の間で意見が分かれていることから、各国の数学者でつくる国際研究プロジェクトは、コンピューターのプログラミング言語を使った新たな",
+  "articleBody": "数学の難問「ABC予想」を証明したとする日本の数学者の理論について、数学者の間で意見が分かれていることから、各国の数学者でつくる国際研究プロジェクトは、コンピューターのプログラミング言語を使った新たな手法で検証を進めていることを明らかにしました。\n\n\n「ABC予想」は、世界の数学者が証明を試みてきた難問で、5年前に京都大学数理解析研究所の望月新一教授が、自身が構築した新たな理論を使って証明したとする論文を発表していますが、前提となる概念から独自に作り出されているため、証明が理解できないとする数学者もいて、研究者の間で現在も議論が続いています。\n\nこの理論について、通信制大学「ZEN大学」などでつくる国際研究プロジェクトは31日会見を開き、数学の証明を支援する「Lean」と呼ばれるプログラミング言語を使った新たな手法で検証を進めていることを明らかにしました。\n\nプロジェクトでは、英語や数式で書かれた望月教授の論文を、コンピューターが認識できるプログラムに書き換えることを目指していて、実現すれば、理論の正否を客観的に検証することにつながるとしています。\n\n日本やアメリカ、カナダなどの数学者が参加していて、メンバーの1人で「ZEN大学」の加藤文元教授は「理論をめぐる論争に終止符を打とうと世界中から強力なメンバーを集めて議論を重ね、検証の土台を築いてきました。この挑戦で新しい数学研究の地平を切り開くことができると信じています」と話していました。\n\nプロジェクトでは、ことしの7月17日に検証の中間報告を発表することにしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "数学の難問「ABC予想」を証明したとする日本の数学者の理論について、数学者の間で意見が分かれていることから、各国の数学者でつくる国際研究プロジェクトは、コンピューターのプログラミング言語を使った新たな手法で検証を進めていることを明らかにしました。\n",
+    "markedBody": "「ABC予想」は、世界の数学者が証明を試みてきた難問で、5年前に京都大学数理解析研究所の望月新一教授が、自身が構築した新たな理論を使って証明したとする論文を発表していますが、前提となる概念から独自に作り出されているため、証明が理解できないとする数学者もいて、研究者の間で現在も議論が続いています。\n\nこの理論について、通信制大学「ZEN大学」などでつくる国際研究プロジェクトは31日会見を開き、数学の証明を支援する「Lean」と呼ばれるプログラミング言語を使った新たな手法で検証を進めていることを明らかにしました。\n\nプロジェクトでは、英語や数式で書かれた望月教授の論文を、コンピューターが認識できるプログラムに書き換えることを目指していて、実現すれば、理論の正否を客観的に検証することにつながるとしています。\n\n日本やアメリカ、カナダなどの数学者が参加していて、メンバーの1人で「ZEN大学」の加藤文元教授は「理論をめぐる論争に終止符を打とうと世界中から強力なメンバーを集めて議論を重ね、検証の土台を築いてきました。この挑戦で新しい数学研究の地平を切り開くことができると信じています」と話していました。\n\nプロジェクトでは、ことしの7月17日に検証の中間報告を発表することにしています。\n",
+    "trimmedLead": "数学の難問「ABC予想」を証明したとする日本の数学者の理論について、数学者の間で意見が分かれていることから、各国の数学者でつくる国際研究プロジェクトは、コンピューターのプログラミング言語を使った新たな手法で検証を進めていることを明らかにしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015088851000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015088851000",
+  "video": [],
+  "citation": [
+    {
+      "name": "KDDI 架空取引問題で約330億円が外部流出 子会社社長ら6人辞任",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015088541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260331/K10015088541_2603311647_0331165320_01_02.jpg",
+      "datePublished": "2026-03-31T19:11:59+09:00"
+    },
+    {
+      "name": "4月値上げの食品は2798品目に 去年10月以来の2000品目超",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015088321000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260331/K10015088321_2603311552_0331175406_01_02.jpg",
+      "datePublished": "2026-03-31T19:34:41+09:00"
+    },
+    {
+      "name": "東京大学 汚職事件医師を懲戒解雇処分 調査で研究費私的流用も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015088731000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260331/K10015088731_2603311649_0331165137_01_02.jpg",
+      "datePublished": "2026-03-31T16:51:37+09:00"
+    },
+    {
+      "name": "あすから自転車「青切符」 注意のポイントとは？【詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015088371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260331/K10015088371_2603311712_0331172519_01_02.jpg",
+      "datePublished": "2026-03-31T19:51:15+09:00"
+    },
+    {
+      "name": "センバツ大阪桐蔭が優勝 4年ぶり5回目 春夏通算10回目【詳報】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015087691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260331/K10015087691_2603311600_0331161056_01_02.jpg",
+      "datePublished": "2026-03-31T20:28:47+09:00"
+    },
+    {
+      "name": "センバツ ネットでの中傷の投稿 約350件 高野連などが削除要請",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015087911000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260330/K10015087911_2603301929_0330194722_01_02.jpg",
+      "datePublished": "2026-03-30T19:47:21+09:00"
+    },
+    {
+      "name": "高市首相 石油製品の安定供給確保に向け指示 中東情勢受け",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015088391000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260331/K10015088391_2603311038_0331121504_01_02.jpg",
+      "datePublished": "2026-03-31T15:21:41+09:00"
+    },
+    {
+      "name": "NY原油市場 WTIの先物価格が一時1バレル＝106ドル台まで上昇",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015088191000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260331/K10015088191_2603310616_0331072819_01_02.jpg",
+      "datePublished": "2026-03-31T15:03:10+09:00"
+    },
+    {
+      "name": "“石油供給懸念で医療用物資の調達難”受け合同対策本部設置",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015088681000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260331/K10015088681_2603311534_0331164952_01_02.jpg",
+      "datePublished": "2026-03-31T16:49:51+09:00"
+    },
+    {
+      "name": "田久保前市長 卒業証書の提示求められた翌日 印鑑ネット注文か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015088101000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260331/K10015088101_2603302135_0331052455_01_02.jpg",
+      "datePublished": "2026-03-31T05:24:54+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

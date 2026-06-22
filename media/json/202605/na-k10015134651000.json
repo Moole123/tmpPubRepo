@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015134651000",
+  "dataSourceId": "na",
+  "name": "株価 一時1300円超値上がり NY株式市場の最高値更新の流れ受け",
+  "headline": "株価 一時1300円超値上がり NY株式市場の最高値更新の流れ受け",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015134651000",
+    "playlistId": "news-nwa-business-nationwide-20260529",
+    "newsarticleName": "株価 一時1300円超値上がり NY株式市場の最高値更新の流れ受け",
+    "playlistName": "5月29日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "29日の東京株式市場、日経平均株価は一時1300円以上値上がりしています。\n\n\n日経平均株価、午前の終値は、28日の終値と比べて1203円45銭高い、6万5896円57銭。\n\n東証株価指数=トピックス",
+  "dateModified": "2026-05-29T12:30:11+09:00",
+  "datePublished": "2026-05-29T09:17:46+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260529/K10015134651_2605291226_0529123012_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260529/K10015134651_2605291226_0529123012_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0002423",
+      "name": "金融",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "29日の東京株式市場、日経平均株価は一時1300円以上値上がりしています。\n\n\n日経平均株価、午前の終値は、28日の終値と比べて1203円45銭高い、6万5896円57銭。\n\n東証株価指数=トピックス",
+  "articleBody": "29日の東京株式市場、日経平均株価は一時1300円以上値上がりしています。\n\n\n日経平均株価、午前の終値は、28日の終値と比べて1203円45銭高い、6万5896円57銭。\n\n東証株価指数=トピックスは、51.47上がって、3953.48。\n\n午前の出来高は、11億227万株でした。\n\n市場関係者は「28日のニューヨーク株式市場でダウ平均株価をはじめ代表的な株価指数がそろって最高値を更新したことを受けて、東京市場でも半導体関連銘柄に加えて、自動車や医薬品など幅広い銘柄に買い注文が広がっていて、午前中は一時6万6000円台を回復する場面も見られた」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "29日の東京株式市場、日経平均株価は一時1300円以上値上がりしています。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20260529/K10015134651_2605291213_0529123012_02_03.jpg)\n\n日経平均株価、午前の終値は、28日の終値と比べて1203円45銭高い、6万5896円57銭。\n\n東証株価指数\\=トピックスは、51.47上がって、3953.48。\n\n午前の出来高は、11億227万株でした。\n\n市場関係者は「28日のニューヨーク株式市場でダウ平均株価をはじめ代表的な株価指数がそろって最高値を更新したことを受けて、東京市場でも半導体関連銘柄に加えて、自動車や医薬品など幅広い銘柄に買い注文が広がっていて、午前中は一時6万6000円台を回復する場面も見られた」と話しています。\n",
+    "trimmedLead": "29日の東京株式市場、日経平均株価は一時1300円以上値上がりしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015134651000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015134651000",
+  "video": [],
+  "citation": [
+    {
+      "name": "ダウなど3指数が最高値更新 イラン進展期待やハイテク株買い",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134581000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134581_2605290543_0529061152_01_02.jpg",
+      "datePublished": "2026-05-29T06:11:51+09:00"
+    },
+    {
+      "name": "日本の人口は1億2305万人 減少幅は過去最大 国勢調査速報値",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134531_2605290046_0529083052_01_02.jpg",
+      "datePublished": "2026-05-29T11:30:43+09:00"
+    },
+    {
+      "name": "栃木強盗殺人 海外出国の逮捕状出された容疑者を公開手配へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134441_2605282353_0529000108_01_02.jpg",
+      "datePublished": "2026-05-29T00:01:07+09:00"
+    },
+    {
+      "name": "広い範囲で真夏日予想 熱中症対策を 台風6号の最新情報に注意",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134411000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134411_2605290553_0529060853_01_02.jpg",
+      "datePublished": "2026-05-29T06:08:53+09:00"
+    },
+    {
+      "name": "イランと覚書めぐり暫定合意と米関係者 合意実現は不透明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134541_2605290353_0529045956_01_02.jpg",
+      "datePublished": "2026-05-29T12:13:07+09:00"
+    },
+    {
+      "name": "熊本 八代新庁舎汚職事件 ジャーナリスト名乗り職員に接触か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134401_2605282234_0529051635_01_02.jpg",
+      "datePublished": "2026-05-29T05:16:34+09:00"
+    },
+    {
+      "name": "首都直下地震対策 感震ブレーカーをおおむね設置 基本計画案",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134381000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134381_2605282358_0529052339_01_02.jpg",
+      "datePublished": "2026-05-29T05:23:39+09:00"
+    },
+    {
+      "name": "スルメイカ 昨年度の漁獲上限を超過 管理の難しさ浮き彫りに",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134371_2605282346_0529052810_01_02.jpg",
+      "datePublished": "2026-05-29T05:28:09+09:00"
+    },
+    {
+      "name": "エアコン事故に注意 本格的な夏前に周辺の点検と試運転を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134491000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015134491_2605282338_0528235034_01_02.jpg",
+      "datePublished": "2026-05-28T23:50:33+09:00"
+    },
+    {
+      "name": "最新クマ対策 AI・ドローンで被害防げ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015131471_2605281240_0528165620_01_02.jpg",
+      "datePublished": "2026-05-28T16:56:19+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

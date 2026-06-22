@@ -1,0 +1,138 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015108761000",
+  "dataSourceId": "na",
+  "name": "東京 目黒区で住宅火災 住人の80代女性が一時意識不明",
+  "headline": "東京 目黒区で住宅火災 住人の80代女性が一時意識不明",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015108761000",
+    "playlistId": "news-nwa-society-nationwide-20260426",
+    "newsarticleName": "東京 目黒区で住宅火災 住人の80代女性が一時意識不明",
+    "playlistName": "4月26日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "26日夜、東京 目黒区の住宅で火事があり、住人の80代の女性が一時、意識不明の状態で病院に搬送され手当てを受けています。\n\n\n警視庁などによりますと、26日午後7時20分ごろ、目黒区東が丘の2階建ての",
+  "dateModified": "2026-04-26T21:54:04+09:00",
+  "datePublished": "2026-04-26T20:30:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260426/K10015108761_2604262021_0426203000_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260426/K10015108761_2604262021_0426203000_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002689",
+      "name": "火災",
+      "display": true
+    },
+    {
+      "id": "0002213",
+      "name": "東京都",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "26日夜、東京 目黒区の住宅で火事があり、住人の80代の女性が一時、意識不明の状態で病院に搬送され手当てを受けています。\n\n\n警視庁などによりますと、26日午後7時20分ごろ、目黒区東が丘の2階建ての",
+  "articleBody": "26日夜、東京 目黒区の住宅で火事があり、住人の80代の女性が一時、意識不明の状態で病院に搬送され手当てを受けています。\n\n\n警視庁などによりますと、26日午後7時20分ごろ、目黒区東が丘の2階建ての住宅で「窓から煙が出ている」などと目撃した人から通報がありました。\n\n火はおよそ1時間15分後にほぼ消し止められましたが、これまでに2階部分のおよそ20平方メートルが焼けたということです。\n\nこの火事で住人の80代の女性が一時、意識不明の状態で病院に搬送され、手当てを受けています。\n\nまた、女性の長男が逃げ遅れているという情報がありましたが、出火当時、外出中で無事だったということです。\n\n現場は東急田園都市線の駒沢大学駅から南東に500メートルほどの住宅が建ち並ぶ地域で、警視庁などが出火原因を調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "26日夜、東京 目黒区の住宅で火事があり、住人の80代の女性が一時、意識不明の状態で病院に搬送され手当てを受けています。\n",
+    "markedBody": "警視庁などによりますと、26日午後7時20分ごろ、目黒区東が丘の2階建ての住宅で「窓から煙が出ている」などと目撃した人から通報がありました。\n\n火はおよそ1時間15分後にほぼ消し止められましたが、これまでに2階部分のおよそ20平方メートルが焼けたということです。\n\nこの火事で住人の80代の女性が一時、意識不明の状態で病院に搬送され、手当てを受けています。\n\nまた、女性の長男が逃げ遅れているという情報がありましたが、出火当時、外出中で無事だったということです。\n\n現場は東急田園都市線の駒沢大学駅から南東に500メートルほどの住宅が建ち並ぶ地域で、警視庁などが出火原因を調べています。\n",
+    "trimmedLead": "26日夜、東京 目黒区の住宅で火事があり、住人の80代の女性が一時、意識不明の状態で病院に搬送され手当てを受けています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015108761000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015108761000",
+  "video": [],
+  "citation": [
+    {
+      "name": "トランプ大統領が参加した夕食会で銃撃事件 容疑者拘束で捜査",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015108571000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260426/K10015108571_2604261001_0426103033_01_02.jpg",
+      "datePublished": "2026-04-26T18:58:20+09:00"
+    },
+    {
+      "name": "岩手 大槌町山林火災 北側の山に広がる 27日午後は雨か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015108391000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260426/K10015108391_2604260616_0426063901_01_02.jpg",
+      "datePublished": "2026-04-26T21:04:10+09:00"
+    },
+    {
+      "name": "福島 喜多方 山林火災 消火活動 27日朝に再開へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015108641000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260426/K10015108641_2604261452_0426154301_01_02.jpg",
+      "datePublished": "2026-04-26T21:04:40+09:00"
+    },
+    {
+      "name": "後発地震注意情報 専門家“震源周辺リスク残る 備え続けて”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015108491000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260426/K10015108491_2604260518_0426060033_01_02.jpg",
+      "datePublished": "2026-04-26T17:55:56+09:00"
+    },
+    {
+      "name": "日韓両政府 次官級「2プラス2」来月初開催へ 安保協力強化図る",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015108591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260426/K10015108591_2604261235_0426130517_01_02.jpg",
+      "datePublished": "2026-04-26T13:05:16+09:00"
+    },
+    {
+      "name": "米イラン協議 先行き依然不透明 米は海上封鎖で圧力強める",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015108471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260426/K10015108471_2604261136_0426114849_01_02.jpg",
+      "datePublished": "2026-04-26T18:23:37+09:00"
+    },
+    {
+      "name": "JR福知山線脱線事故 “最後の生存者”が語ったこと",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015108351000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260425/K10015108351_2604251926_0425211229_01_02.jpg",
+      "datePublished": "2026-04-25T21:12:29+09:00"
+    },
+    {
+      "name": "偽広告で下着を販売 小遣い稼ぎだった いったい誰が！？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106261000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260425/K10015106261_2604241824_0425170315_01_02.jpg",
+      "datePublished": "2026-04-25T17:03:14+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

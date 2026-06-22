@@ -1,0 +1,156 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015051101000",
+  "dataSourceId": "na",
+  "name": "北アルプスの剱岳 雪崩に巻き込まれ30歳男性死亡",
+  "headline": "北アルプスの剱岳 雪崩に巻き込まれ30歳男性死亡",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015051101000",
+    "playlistId": "news-nwa-disaster-nationwide-20260213",
+    "newsarticleName": "北アルプスの剱岳 雪崩に巻き込まれ30歳男性死亡",
+    "playlistName": "2月13日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "12日、北アルプスの富山県側にある剱岳で登山をしていた3人のパーティーのうち、富山市の30歳の男性が雪崩に巻き込まれて滑落し、死亡しました。\n\n\n警察によりますと、12日午前10時半すぎ、剱岳の「八ツ",
+  "dateModified": "2026-02-13T17:27:44+09:00",
+  "datePublished": "2026-02-13T17:27:44+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260213/K10015051101_2602131706_0213172745_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260213/K10015051101_2602131706_0213172745_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0001538",
+      "name": "事件・事故",
+      "display": true
+    },
+    {
+      "id": "0002216",
+      "name": "富山県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "12日、北アルプスの富山県側にある剱岳で登山をしていた3人のパーティーのうち、富山市の30歳の男性が雪崩に巻き込まれて滑落し、死亡しました。\n\n\n警察によりますと、12日午前10時半すぎ、剱岳の「八ツ",
+  "articleBody": "12日、北アルプスの富山県側にある剱岳で登山をしていた3人のパーティーのうち、富山市の30歳の男性が雪崩に巻き込まれて滑落し、死亡しました。\n\n\n警察によりますと、12日午前10時半すぎ、剱岳の「八ツ峰」の標高およそ2600メートル付近で、3人で登山していたパーティーから「同行者が雪崩で遭難した」と通報がありました。\n\n県の防災ヘリコプターや警察の山岳警備隊が捜索にあたったところ、尾根付近から700メートルほど下ったところで富山市上野の國宗広太郎さん（30）が雪に埋もれた状態で見つかり、病院に搬送されましたが、死亡が確認されました。\n\n國宗さんは雪山を含めて10年以上の登山経験があり、3人は今月3日に長野県側から入山し、17日にかけて剱岳などを横断して下山する計画だったということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "12日、北アルプスの富山県側にある剱岳で登山をしていた3人のパーティーのうち、富山市の30歳の男性が雪崩に巻き込まれて滑落し、死亡しました。\n",
+    "markedBody": "警察によりますと、12日午前10時半すぎ、剱岳の「八ツ峰」の標高およそ2600メートル付近で、3人で登山していたパーティーから「同行者が雪崩で遭難した」と通報がありました。\n\n県の防災ヘリコプターや警察の山岳警備隊が捜索にあたったところ、尾根付近から700メートルほど下ったところで富山市上野の國宗広太郎さん（30）が雪に埋もれた状態で見つかり、病院に搬送されましたが、死亡が確認されました。\n\n國宗さんは雪山を含めて10年以上の登山経験があり、3人は今月3日に長野県側から入山し、17日にかけて剱岳などを横断して下山する計画だったということです。\n",
+    "trimmedLead": "12日、北アルプスの富山県側にある剱岳で登山をしていた3人のパーティーのうち、富山市の30歳の男性が雪崩に巻き込まれて滑落し、死亡しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015051101000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015051101000",
+  "video": [],
+  "citation": [
+    {
+      "name": "伊勢崎3人死亡 危険運転の罪認定 被告に懲役20年判決 前橋地裁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015051011000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015051011_2602131524_0213153238_01_02.jpg",
+      "datePublished": "2026-02-13T19:06:41+09:00"
+    },
+    {
+      "name": "“オーナー商法” 預託法違反疑い 賃料支払える運用実績なしか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050881000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050881_2602131217_0213122848_01_03.jpg",
+      "datePublished": "2026-02-13T12:28:47+09:00"
+    },
+    {
+      "name": "中道 新代表に小川淳也氏を選出 階猛氏を抑える 立民出身",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050371_2602131824_0213191002_01_02.jpg",
+      "datePublished": "2026-02-13T20:41:43+09:00"
+    },
+    {
+      "name": "中道 新代表に小川淳也氏 党内・他党の反応は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050771_2602131112_0213160250_01_02.jpg",
+      "datePublished": "2026-02-13T18:29:35+09:00"
+    },
+    {
+      "name": "診療報酬加算引き上げへ 中医協が改定案答申 患者窓口負担も増",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050791_2602131454_0213161253_01_03.jpg",
+      "datePublished": "2026-02-13T19:36:31+09:00"
+    },
+    {
+      "name": "米トランプ政権 自動車排ガス規制撤廃を発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050631000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050631_2602130602_0213062247_01_02.jpg",
+      "datePublished": "2026-02-13T14:03:32+09:00"
+    },
+    {
+      "name": "国会改革めぐり維新と国民の国対委員長が会談 連携を確認",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050981000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050981_2602131443_0213155855_01_02.jpg",
+      "datePublished": "2026-02-13T15:58:54+09:00"
+    },
+    {
+      "name": "再審制度見直し 平口法相 答申受け法改正案提出準備進める考え",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050901000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050901_2602131238_0213144935_01_02.jpg",
+      "datePublished": "2026-02-13T14:49:35+09:00"
+    },
+    {
+      "name": "株価 値下がり 幅広い銘柄に売り注文広がる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050751000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050751_2602131555_0213161132_01_02.jpg",
+      "datePublished": "2026-02-13T16:11:31+09:00"
+    },
+    {
+      "name": "どうなる?“高市トレード” 選挙後の相場の行方【経済コラム】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015049741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015049741_2602131129_0213163522_01_02.jpg",
+      "datePublished": "2026-02-13T16:35:21+09:00"
+    },
+    {
+      "name": "スノボ小野 11位からの銅 “攻めるしかない”志願の横3回転",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050701000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050701_2602130939_0213113951_01_02.jpg",
+      "datePublished": "2026-02-13T11:39:51+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

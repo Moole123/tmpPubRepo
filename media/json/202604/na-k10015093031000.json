@@ -1,0 +1,168 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015093031000",
+  "dataSourceId": "na",
+  "name": "株価 値上がり 午前の終値 先週末比878円15銭高",
+  "headline": "株価 値上がり 午前の終値 先週末比878円15銭高",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015093031000",
+    "playlistId": "news-nwa-business-nationwide-20260406",
+    "newsarticleName": "株価 値上がり 午前の終値 先週末比878円15銭高",
+    "playlistName": "4月6日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "週明けの6日の東京株式市場、日経平均株価は値上がりしています。\n\n\n▽日経平均株価、午前の終値は先週末の終値と比べて878円15銭高い5万4001円64銭。\n\n▽東証株価指数＝トピックスは33.37上",
+  "dateModified": "2026-04-06T12:30:08+09:00",
+  "datePublished": "2026-04-06T12:30:08+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260406/K10015093031_2604061152_0406123009_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260406/K10015093031_2604061152_0406123009_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0002423",
+      "name": "金融",
+      "display": true
+    },
+    {
+      "id": "0000820",
+      "name": "イラン情勢",
+      "display": true
+    },
+    {
+      "id": "0002800",
+      "name": "イラン情勢 日本への影響・対応",
+      "display": true
+    },
+    {
+      "id": "0002794",
+      "name": "ホルムズ海峡",
+      "display": true
+    },
+    {
+      "id": "0000819",
+      "name": "原油価格",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "0000277",
+      "name": "トランプ大統領",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "週明けの6日の東京株式市場、日経平均株価は値上がりしています。\n\n\n▽日経平均株価、午前の終値は先週末の終値と比べて878円15銭高い5万4001円64銭。\n\n▽東証株価指数＝トピックスは33.37上",
+  "articleBody": "週明けの6日の東京株式市場、日経平均株価は値上がりしています。\n\n\n▽日経平均株価、午前の終値は先週末の終値と比べて878円15銭高い5万4001円64銭。\n\n▽東証株価指数＝トピックスは33.37上がって3678.56。\n\n▽午前の出来高は、7億9526万株でした。\n\n市場関係者は、「事実上の封鎖が続いているホルムズ海峡を日本を含む各国の船舶が通過し始めたことなどから、市場では事態の悪化への懸念がいくぶん弱まったという受け止めが出た。しかし、原油価格は1バレル＝100ドルを超え、高止まりが続いていることに加えトランプ大統領の発言はこれまでも二転三転していることから、不透明感も依然として強い」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "週明けの6日の東京株式市場、日経平均株価は値上がりしています。\n",
+    "markedBody": "▽日経平均株価、午前の終値は先週末の終値と比べて878円15銭高い5万4001円64銭。\n\n▽東証株価指数＝トピックスは33.37上がって3678.56。\n\n▽午前の出来高は、7億9526万株でした。\n\n市場関係者は、「事実上の封鎖が続いているホルムズ海峡を日本を含む各国の船舶が通過し始めたことなどから、市場では事態の悪化への懸念がいくぶん弱まったという受け止めが出た。しかし、原油価格は1バレル＝100ドルを超え、高止まりが続いていることに加えトランプ大統領の発言はこれまでも二転三転していることから、不透明感も依然として強い」と話しています。\n",
+    "trimmedLead": "週明けの6日の東京株式市場、日経平均株価は値上がりしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015093031000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015093031000",
+  "video": [],
+  "citation": [
+    {
+      "name": "長期金利 一時2.41％まで上昇 約27年ぶりの高い水準に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015092851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015092851_2604060906_0406092937_01_02.jpg",
+      "datePublished": "2026-04-06T12:26:59+09:00"
+    },
+    {
+      "name": "トランプ大統領 エネルギー施設の攻撃行わない期限 1日延長か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015092771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015092771_2604061231_0406124928_01_03.jpg",
+      "datePublished": "2026-04-06T12:49:27+09:00"
+    },
+    {
+      "name": "NY原油市場 先物価格 一時1バレル＝115ドル台まで上昇",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015092801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015092801_2604060715_0406071619_01_02.jpg",
+      "datePublished": "2026-04-06T08:53:36+09:00"
+    },
+    {
+      "name": "OPECプラスの主な産油国 原油増産へ 輸送本格再開への備えか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015092761000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015092761_2604060359_0406062212_01_02.jpg",
+      "datePublished": "2026-04-06T06:22:11+09:00"
+    },
+    {
+      "name": "今年度予算案 自然成立前に与野党の最終調整行われる見通し",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015092611000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015092611_2604051850_0406054222_01_02.jpg",
+      "datePublished": "2026-04-06T05:42:21+09:00"
+    },
+    {
+      "name": "東北から九州にかけて気温上昇 25度以上の夏日予想のところも",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015092791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015092791_2604060624_0406062553_01_03.jpg",
+      "datePublished": "2026-04-06T06:25:53+09:00"
+    },
+    {
+      "name": "大谷翔平 2号HRなど勝利に貢献 佐々木5回6失点 勝ち負けつかず",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015092781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015092781_2604061141_0406114345_01_02.jpg",
+      "datePublished": "2026-04-06T11:28:39+09:00"
+    },
+    {
+      "name": "“有事のドル買い”なぜ進む？背景は【経済コラム】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015090941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260403/K10015090941_2604031312_0403164741_01_02.jpg",
+      "datePublished": "2026-04-03T16:47:40+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015029581000",
+  "dataSourceId": "na",
+  "name": "山梨 扇山の山林火災 大月市がふもと地区の避難指示すべて解除",
+  "headline": "山梨 扇山の山林火災 大月市がふもと地区の避難指示すべて解除",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015029581000",
+    "playlistId": "news-nwa-disaster-nationwide-20260118",
+    "newsarticleName": "山梨 扇山の山林火災 大月市がふもと地区の避難指示すべて解除",
+    "playlistName": "1月18日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "山梨県にある扇山の山林火災は18日も延焼が続いていますが、住宅被害のおそれは低くなったとして、ふもとの地区に出されていた避難指示はすべて解除されました。\n\n\n山梨県の上野原市と大月市にまたがる扇山の山",
+  "dateModified": "2026-01-18T20:25:25+09:00",
+  "datePublished": "2026-01-18T20:25:25+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260118/K10015029581_2601182015_0118202525_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260118/K10015029581_2601182015_0118202525_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "山梨県にある扇山の山林火災は18日も延焼が続いていますが、住宅被害のおそれは低くなったとして、ふもとの地区に出されていた避難指示はすべて解除されました。\n\n\n山梨県の上野原市と大月市にまたがる扇山の山",
+  "articleBody": "山梨県にある扇山の山林火災は18日も延焼が続いていますが、住宅被害のおそれは低くなったとして、ふもとの地区に出されていた避難指示はすべて解除されました。\n\n\n山梨県の上野原市と大月市にまたがる扇山の山林火災は10日たった18日も延焼が続いていて、消防によりますとこれまでにおよそ383ヘクタールが焼け、鎮火のめどは立っていません。\n\n一方、火が住宅まで200メートルほどのところまで迫っていた大月市側のふもとではこれまでの消火活動で700メートルほどにまで遠ざかったということです。\n\nこのため大月市は住宅に燃え移るおそれは低くなったとして、富浜町宮谷の138世帯152人に出していた避難指示を午後3時、すべて解除しました。\n\nこれにともない富浜公民館に開設した避難所も閉じています。\n\n火災による人や建物への被害は出ていません。\n",
+  "detailedArticleBody": {
+    "markedLead": "山梨県にある扇山の山林火災は18日も延焼が続いていますが、住宅被害のおそれは低くなったとして、ふもとの地区に出されていた避難指示はすべて解除されました。\n",
+    "markedBody": "山梨県の上野原市と大月市にまたがる扇山の山林火災は10日たった18日も延焼が続いていて、消防によりますとこれまでにおよそ383ヘクタールが焼け、鎮火のめどは立っていません。\n\n一方、火が住宅まで200メートルほどのところまで迫っていた大月市側のふもとではこれまでの消火活動で700メートルほどにまで遠ざかったということです。\n\nこのため大月市は住宅に燃え移るおそれは低くなったとして、富浜町宮谷の138世帯152人に出していた避難指示を午後3時、すべて解除しました。\n\nこれにともない富浜公民館に開設した避難所も閉じています。\n\n火災による人や建物への被害は出ていません。\n",
+    "trimmedLead": "山梨県にある扇山の山林火災は18日も延焼が続いていますが、住宅被害のおそれは低くなったとして、ふもとの地区に出されていた避難指示はすべて解除されました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015029581000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015029581000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

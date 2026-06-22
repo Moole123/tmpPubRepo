@@ -1,0 +1,154 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015133651000",
+  "dataSourceId": "na",
+  "name": "ホワイトソックス 村上宗隆 20号ホームラン リーグ単独トップ",
+  "headline": "ホワイトソックス 村上宗隆 20号ホームラン リーグ単独トップ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015133651000",
+    "playlistId": "news-nwa-sports-nationwide-20260528",
+    "newsarticleName": "ホワイトソックス 村上宗隆 20号ホームラン リーグ単独トップ",
+    "playlistName": "5月28日のスポーツニュース",
+    "genreId": "sports",
+    "genreIdSlug": "sports"
+  },
+  "description": "大リーグ、ホワイトソックスの村上宗隆選手が27日、ツインズ戦に2番・指名打者で先発出場し、7回の第5打席で3試合連続となる今シーズン20号のソロホームランを打ちました。\n\n\nこの日、アストロズのアルバ",
+  "dateModified": "2026-05-28T10:58:32+09:00",
+  "datePublished": "2026-05-28T10:58:32+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260528/K10015133651_2605281102_0528110324_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260528/K10015133651_2605281102_0528110324_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "スポーツ"
+  ],
+  "topic": [
+    {
+      "id": "0002745",
+      "name": "村上宗隆",
+      "display": true
+    },
+    {
+      "id": "0001591",
+      "name": "野球",
+      "display": true
+    },
+    {
+      "id": "0000006",
+      "name": "大リーグ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "大リーグ、ホワイトソックスの村上宗隆選手が27日、ツインズ戦に2番・指名打者で先発出場し、7回の第5打席で3試合連続となる今シーズン20号のソロホームランを打ちました。\n\n\nこの日、アストロズのアルバ",
+  "articleBody": "大リーグ、ホワイトソックスの村上宗隆選手が27日、ツインズ戦に2番・指名打者で先発出場し、7回の第5打席で3試合連続となる今シーズン20号のソロホームランを打ちました。\n\n\nこの日、アストロズのアルバレス選手がレンジャーズ戦で19号ホームランを打って村上選手に並んでいましたが、この時点で再びリーグの単独トップに立ちました。\n",
+  "detailedArticleBody": {
+    "markedLead": "大リーグ、ホワイトソックスの村上宗隆選手が27日、ツインズ戦に2番・指名打者で先発出場し、7回の第5打席で3試合連続となる今シーズン20号のソロホームランを打ちました。\n",
+    "markedBody": "この日、アストロズのアルバレス選手がレンジャーズ戦で19号ホームランを打って村上選手に並んでいましたが、この時点で再びリーグの単独トップに立ちました。\n",
+    "trimmedLead": "大リーグ、ホワイトソックスの村上宗隆選手が27日、ツインズ戦に2番・指名打者で先発出場し、7回の第5打席で3試合連続となる今シーズン20号のソロホームランを打ちました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015133651000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015133651000",
+  "video": [],
+  "citation": [
+    {
+      "name": "ブルージェイズ 岡本和真 11号勝ち越しホームランで勝利に貢献",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133601000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015133601_2605281006_0528103017_01_02.jpg",
+      "datePublished": "2026-05-28T10:30:16+09:00"
+    },
+    {
+      "name": "【プロ野球結果】5連敗中の巨人 ベテランの活躍で連敗止める",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260527/K10015133311_2605272019_0527221132_01_02.jpg",
+      "datePublished": "2026-05-27T23:54:16+09:00"
+    },
+    {
+      "name": "プロ野球 FA権での移籍に伴う「選手による補償」撤廃方針 NPB",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133121000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260527/K10015133121_2605271736_0527184702_01_02.jpg",
+      "datePublished": "2026-05-27T18:47:01+09:00"
+    },
+    {
+      "name": "ドジャース大谷翔平 死球後代打送られる あすの登板に支障なし",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015132871000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260527/K10015132871_2605271514_0527154952_01_02.jpg",
+      "datePublished": "2026-05-27T15:49:51+09:00"
+    },
+    {
+      "name": "ホワイトソックス村上宗隆 19号同点ツーラン 西田も攻守で活躍",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015132741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260527/K10015132741_2605271310_0527134624_01_02.jpg",
+      "datePublished": "2026-05-27T17:29:57+09:00"
+    },
+    {
+      "name": "元ヤクルト ホーナー氏が死去 68歳 日本球界に鮮烈な印象",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015132581000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260527/K10015132581_2605271057_0527111527_01_02.jpg",
+      "datePublished": "2026-05-27T16:42:30+09:00"
+    },
+    {
+      "name": "大相撲 福岡出身の嵐富士が十両昇進 “嵐を巻き起こす相撲を”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015132841000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260527/K10015132841_2605271450_0527151520_01_02.jpg",
+      "datePublished": "2026-05-27T15:15:19+09:00"
+    },
+    {
+      "name": "Bリーグファイナル 長崎ヴェルカが初優勝 リーグ参入5年で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015132361000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260526/K10015132361_2605262223_0526222421_01_02.jpg",
+      "datePublished": "2026-05-26T23:38:56+09:00"
+    },
+    {
+      "name": "本田圭佑選手が語るサッカー日本代表「ビッグサプライズは…」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260525/K10015131091_2605251844_0525215208_01_02.jpg",
+      "datePublished": "2026-05-25T21:52:07+09:00"
+    },
+    {
+      "name": "FIFAワールドカップ2026【NHK特設サイト】",
+      "url": "https://nhk.jp/fifawc?cid=wc26-newsweb-awayomi",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31365091.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

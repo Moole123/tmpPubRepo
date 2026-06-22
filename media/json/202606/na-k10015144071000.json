@@ -1,0 +1,170 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015144071000",
+  "dataSourceId": "na",
+  "name": "NTT開発の次世代IT技術「IOWN」国際的普及 ファンド設立へ 国内外約20社出資",
+  "headline": "NTT開発の次世代IT技術普及 ファンド設立へ 国内外約20社出資",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015144071000",
+    "playlistId": "news-nwa-business-nationwide-20260608",
+    "newsarticleName": "NTT開発の次世代IT技術「IOWN」国際的普及 ファンド設立へ 国内外約20社出資",
+    "playlistName": "6月8日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "NTTが開発している次世代のIT技術「IOWN」を国際的に普及させるため、日本や韓国、それに台湾などおよそ20の企業が出資して新たなファンドを設立し、AIや半導体などを手がける企業への投資を進めること",
+  "dateModified": "2026-06-08T12:12:48+09:00",
+  "datePublished": "2026-06-08T12:12:48+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260608/K10015144071_2606081210_0608121249_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260608/K10015144071_2606081210_0608121249_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0002418",
+      "name": "通信",
+      "display": true
+    },
+    {
+      "id": "0002301",
+      "name": "韓国",
+      "display": true
+    },
+    {
+      "id": "0001603",
+      "name": "台湾",
+      "display": true
+    },
+    {
+      "id": "0002733",
+      "name": "企業・経営",
+      "display": true
+    },
+    {
+      "id": "0000009",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "0002421",
+      "name": "半導体",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "NTTが開発している次世代のIT技術「IOWN」を国際的に普及させるため、日本や韓国、それに台湾などおよそ20の企業が出資して新たなファンドを設立し、AIや半導体などを手がける企業への投資を進めること",
+  "articleBody": "NTTが開発している次世代のIT技術「IOWN」を国際的に普及させるため、日本や韓国、それに台湾などおよそ20の企業が出資して新たなファンドを設立し、AIや半導体などを手がける企業への投資を進めることになりました。\n\n\n関係者によりますと、NTTは次世代のIT技術「IOWN」を国際的に普及させるため、韓国のIT大手「SKグループ」や台湾の通信大手「中華電信」、それに日本政策投資銀行などとともに、今月中にも新たなファンドを設立することになりました。\n\nこのファンドには、韓国のサムスン電子のほか、ソニーグループやNEC、それに国内のメガバンク3行など、およそ20の企業が出資する見通しで、総額で800億円規模になるということです。\n\nIOWNは、電子機器の制御などに関わる電気信号を光ファイバーなどで使われている光信号に置き換える技術を中核としていて、消費電力を大幅に抑えながら高速・大容量のデータ通信が可能となり、AIの普及で需要が高まるデータセンターなどでの活用が見込まれます。\n\nこの技術を広げていくには、AI向けの半導体やソフトウエアなどに関連するアメリカの新興企業との連携が欠かせないことから、ファンドではこうした企業に投資を進める方針です。\n\n次世代の技術をめぐって世界的な競争が激しくなるなか、ファンドを通じて先端技術を持つ国内外の企業と連携し、存在感を高めていけるかが課題となります。\n",
+  "detailedArticleBody": {
+    "markedLead": "NTTが開発している次世代のIT技術「IOWN」を国際的に普及させるため、日本や韓国、それに台湾などおよそ20の企業が出資して新たなファンドを設立し、AIや半導体などを手がける企業への投資を進めることになりました。\n",
+    "markedBody": "関係者によりますと、NTTは次世代のIT技術「IOWN」を国際的に普及させるため、韓国のIT大手「SKグループ」や台湾の通信大手「中華電信」、それに日本政策投資銀行などとともに、今月中にも新たなファンドを設立することになりました。\n\nこのファンドには、韓国のサムスン電子のほか、ソニーグループやNEC、それに国内のメガバンク3行など、およそ20の企業が出資する見通しで、総額で800億円規模になるということです。\n\nIOWNは、電子機器の制御などに関わる電気信号を光ファイバーなどで使われている光信号に置き換える技術を中核としていて、消費電力を大幅に抑えながら高速・大容量のデータ通信が可能となり、AIの普及で需要が高まるデータセンターなどでの活用が見込まれます。\n\nこの技術を広げていくには、AI向けの半導体やソフトウエアなどに関連するアメリカの新興企業との連携が欠かせないことから、ファンドではこうした企業に投資を進める方針です。\n\n次世代の技術をめぐって世界的な競争が激しくなるなか、ファンドを通じて先端技術を持つ国内外の企業と連携し、存在感を高めていけるかが課題となります。\n",
+    "trimmedLead": "NTTが開発している次世代のIT技術「IOWN」を国際的に普及させるため、日本や韓国、それに台湾などおよそ20の企業が出資して新たなファンドを設立し、AIや半導体などを手がける企業への投資を進めることになりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015144071000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015144071000",
+  "video": [],
+  "citation": [
+    {
+      "name": "【津波注意報】茨城県～沖縄県の沿岸 沖縄市で微弱な津波観測",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015143781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260608/K10015143781_2606080911_0608091142_01_02.jpg",
+      "datePublished": "2026-06-08T13:03:06+09:00"
+    },
+    {
+      "name": "フィリピンで大地震 少なくとも5人死亡か 46センチの津波観測",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015143861000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260608/K10015143861_2606081054_0608112136_01_02.jpg",
+      "datePublished": "2026-06-08T12:51:44+09:00"
+    },
+    {
+      "name": "避難指示 関東～九州・沖縄の各地に【満潮時刻一覧】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015143851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260608/K10015143851_2606080928_0608093147_01_02.jpg",
+      "datePublished": "2026-06-08T11:41:53+09:00"
+    },
+    {
+      "name": "【各地の様子】沖縄 津波避難ビルに50人以上が避難",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015144011000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260608/K10015144011_2606081113_0608111425_01_02.jpg",
+      "datePublished": "2026-06-08T11:38:46+09:00"
+    },
+    {
+      "name": "津波注意報 専門家「遠地地震の津波 影響が長く続く可能性」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015144041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260608/K10015144041_2606081156_0608115800_01_03.jpg",
+      "datePublished": "2026-06-08T11:32:55+09:00"
+    },
+    {
+      "name": "安定的な皇位継承 きょう午後3時から取りまとめ案を報告へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015143611000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260608/K10015143611_2606072302_0608050221_01_02.jpg",
+      "datePublished": "2026-06-08T11:26:19+09:00"
+    },
+    {
+      "name": "GDP 1-3月期の改定値は＋1.8％ 設備投資伸び率がマイナスに",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015143771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260608/K10015143771_2606080857_0608090132_01_02.jpg",
+      "datePublished": "2026-06-08T11:10:20+09:00"
+    },
+    {
+      "name": "株価 一時3000円超下落 取り引き時間中で過去4番目の下げ幅",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015143971000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260608/K10015143971_2606081039_0608103955_01_02.jpg",
+      "datePublished": "2026-06-08T12:11:35+09:00"
+    },
+    {
+      "name": "車の排ガスから二酸化炭素回収 脱炭素へメーカーの開発進む",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015143561000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260608/K10015143561_2606072025_0608064542_01_02.jpg",
+      "datePublished": "2026-06-08T06:45:41+09:00"
+    },
+    {
+      "name": "ことし4月の経常収支3.9兆円の黒字 15か月連続",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015143821000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260608/K10015143821_2606080924_0608093226_01_02.jpg",
+      "datePublished": "2026-06-08T09:32:25+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

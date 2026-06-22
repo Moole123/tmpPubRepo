@@ -1,0 +1,80 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014862711000",
+  "dataSourceId": "na",
+  "name": "【動画】佐藤公俊 気象予報士解説 今後の見通しは",
+  "headline": "【動画】佐藤公俊 気象予報士解説 今後の見通しは",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014862711000",
+    "playlistId": "news-nwa-disaster-nationwide-20250715",
+    "newsarticleName": "【動画】佐藤公俊 気象予報士解説 今後の見通しは",
+    "playlistName": "7月15日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "湿った空気の影響で東海や関東甲信を中心に断続的に激しい雨が降っていて、土砂災害や低い土地の浸水などに警戒が必要です。\n一方、台風5号は温帯低気圧に変わりましたが、北日本では風が強く大しけが続く見込みで",
+  "dateModified": "2025-07-15T12:33:58+09:00",
+  "datePublished": "2025-07-14T11:32:51+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250714/K10014862711_2507151206_0715121019_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250714/K10014862711_2507151206_0715121019_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "湿った空気の影響で東海や関東甲信を中心に断続的に激しい雨が降っていて、土砂災害や低い土地の浸水などに警戒が必要です。\n一方、台風5号は温帯低気圧に変わりましたが、北日本では風が強く大しけが続く見込みで",
+  "articleBody": "湿った空気の影響で東海や関東甲信を中心に断続的に激しい雨が降っていて、土砂災害や低い土地の浸水などに警戒が必要です。\n一方、台風5号は温帯低気圧に変わりましたが、北日本では風が強く大しけが続く見込みで、十分注意してください。\n\n\n最新情報は「NHKニュース・防災アプリ」でも\n\n最新情報は「NHKニュース・防災アプリ」でも\n雨雲レーダーや現在地・お住いの地域の天気予報などがご確認いただけます。ダウンロードはこちらから。\n\n【動画】気象予報士解説（2分06秒）\n\n7月15日の正午前の気象情報で放送した内容です。※データ放送ではご覧いただけません\n",
+  "detailedArticleBody": {
+    "markedLead": "湿った空気の影響で東海や関東甲信を中心に断続的に激しい雨が降っていて、土砂災害や低い土地の浸水などに警戒が必要です。\\\n一方、台風5号は温帯低気圧に変わりましたが、北日本では風が強く大しけが続く見込みで、十分注意してください。\n",
+    "markedBody": ":::nw--link-type4 {href=https://news.web.nhk/news/news_bousai_app/}\n![最新情報は「NHKニュース・防災アプリ」でも](https://news.web.nhk/news/html/20250714/K10014862711_2507141940_0714194052_02_05.jpg)\n\n**最新情報は「NHKニュース・防災アプリ」でも**\\\n雨雲レーダーや現在地・お住いの地域の天気予報などがご確認いただけます。ダウンロードはこちらから。\n:::\n\n:::nw--colored {style=background-color:#ffffff}\n### 【動画】気象予報士解説（2分06秒）\n\n```raw-html\n<figure class=\"nw--video\">\n<iframe loading=\"lazy\" src=\"https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10014862711_202507151207_202507151211/index.m3u8&amp;mrposter=/news/html/20250714/K10014862711_2507151206_0715121019_02_01.jpg\" allowfullscreen></iframe>\n</figure>\n```\n\n7月15日の正午前の気象情報で放送した内容です。※データ放送ではご覧いただけません\n:::\n\n```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"003\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\r\n    <div class=\"fs-wrap\">\r\n      <h2 class=\"freespace-title\">雨雲予報 データマップ</h2>\r\n      <div class=\"kishouSaigaiDatamap-wrap\">\r\n        <iframe src=\"https://news.web.nhk/bousai-map/rain/?lat=35.6778612&amp;lon=139.7703166&amp;zoom=3.5\" allowfullscreen=\"allowfullscreen\" scrolling=\"no\" class=\"js-iframe-dataMap\"></iframe>\r\n      </div>\r\n    </div>\n</div>\n```\n",
+    "noHtmlMarkedLead": "湿った空気の影響で東海や関東甲信を中心に断続的に激しい雨が降っていて、土砂災害や低い土地の浸水などに警戒が必要です。\\\n一方、台風5号は温帯低気圧に変わりましたが、北日本では風が強く大しけが続く見込みで、十分注意してください。\n",
+    "noHtmlMarkedBody": ":::nw--link-type4 {href=https://news.web.nhk/news/news_bousai_app/}\n![最新情報は「NHKニュース・防災アプリ」でも](https://news.web.nhk/news/html/20250714/K10014862711_2507141940_0714194052_02_05.jpg)\n\n**最新情報は「NHKニュース・防災アプリ」でも**\\\n雨雲レーダーや現在地・お住いの地域の天気予報などがご確認いただけます。ダウンロードはこちらから。\n:::\n\n:::nw--colored {style=background-color:#ffffff}\n### 【動画】気象予報士解説（2分06秒）\n\n7月15日の正午前の気象情報で放送した内容です。※データ放送ではご覧いただけません\n:::\n",
+    "trimmedLead": "湿った空気の影響で東海や関東甲信を中心に断続的に激しい雨が降っていて、土砂災害や低い土地の浸水などに警戒が必要です。\n一方、台風5号は温帯低気圧に変わりましたが、北日本では風が強く大しけが続く見込みで、十分注意してください。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014862711000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014862711000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": true
+  }
+}

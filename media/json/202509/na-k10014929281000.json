@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014929281000",
+  "dataSourceId": "na",
+  "name": "天皇ご一家が陸上の世界選手権を観戦",
+  "headline": "天皇ご一家が陸上の世界選手権を観戦",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014929281000",
+    "playlistId": "news-nwa-society-nationwide-20250921",
+    "newsarticleName": "天皇ご一家が陸上の世界選手権を観戦",
+    "playlistName": "9月21日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "天皇ご一家は、21日夜、陸上の世界選手権の競技を観戦されました。\n\n\n天皇皇后両陛下と長女の愛子さまは21日午後8時半前、陸上の世界選手権が開催されている国立競技場の貴賓席に到着し、観客に会釈をして応",
+  "dateModified": "2025-09-21T23:16:09+09:00",
+  "datePublished": "2025-09-21T23:16:09+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250921/K10014929281_2509212310_0921231356_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250921/K10014929281_2509212310_0921231356_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "天皇ご一家は、21日夜、陸上の世界選手権の競技を観戦されました。\n\n\n天皇皇后両陛下と長女の愛子さまは21日午後8時半前、陸上の世界選手権が開催されている国立競技場の貴賓席に到着し、観客に会釈をして応",
+  "articleBody": "天皇ご一家は、21日夜、陸上の世界選手権の競技を観戦されました。\n\n\n天皇皇后両陛下と長女の愛子さまは21日午後8時半前、陸上の世界選手権が開催されている国立競技場の貴賓席に到着し、観客に会釈をして応えられました。\n\n両陛下は、双眼鏡を使いながら愛子さまとともに男子1600メートルリレーや、女子走り高跳びの決勝などを観戦されました。\n\n日本が3大会ぶりのメダル獲得を目指した男子400メートルリレーの決勝では、スタート直後から選手たちに拍手を送り続けられました。\n\nそして、アンカーが貴賓席の前を駆け抜けてゴールすると、ご一家はしばらく拍手を続け、選手たちをたたえられていました。\n\n34年ぶりに東京で開催された陸上の世界選手権は21日が最終日で、期間中、秋篠宮ご夫妻が開会式に出席されたほか、ご夫妻の次女の佳子さまや長男の悠仁さまなど皇族方も競技を観戦されました。\n",
+  "detailedArticleBody": {
+    "markedLead": "天皇ご一家は、21日夜、陸上の世界選手権の競技を観戦されました。\n",
+    "markedBody": "天皇皇后両陛下と長女の愛子さまは21日午後8時半前、陸上の世界選手権が開催されている国立競技場の貴賓席に到着し、観客に会釈をして応えられました。\n\n両陛下は、双眼鏡を使いながら愛子さまとともに男子1600メートルリレーや、女子走り高跳びの決勝などを観戦されました。\n\n日本が3大会ぶりのメダル獲得を目指した男子400メートルリレーの決勝では、スタート直後から選手たちに拍手を送り続けられました。\n\nそして、アンカーが貴賓席の前を駆け抜けてゴールすると、ご一家はしばらく拍手を続け、選手たちをたたえられていました。\n\n34年ぶりに東京で開催された陸上の世界選手権は21日が最終日で、期間中、秋篠宮ご夫妻が開会式に出席されたほか、ご夫妻の次女の佳子さまや長男の悠仁さまなど皇族方も競技を観戦されました。\n",
+    "trimmedLead": "天皇ご一家は、21日夜、陸上の世界選手権の競技を観戦されました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014929281000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014929281000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

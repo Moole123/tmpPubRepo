@@ -1,0 +1,167 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015144041000",
+  "dataSourceId": "na",
+  "name": "津波注意報 専門家「遠地地震の津波 影響が長く続く可能性」",
+  "headline": "津波注意報 専門家「遠地地震の津波 影響が長く続く可能性」",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015144041000",
+    "playlistId": "news-nwa-disaster-nationwide-20260608",
+    "newsarticleName": "津波注意報 専門家「遠地地震の津波 影響が長く続く可能性」",
+    "playlistName": "6月8日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "8日午前8時半すぎにフィリピン諸島のミンダナオで起きた地震で、各地に津波注意報が発表されたことについて、東北大学災害科学国際研究所の今村文彦教授は、「遠地の地震による津波は影響が長く続く可能性がある。",
+  "dateModified": "2026-06-08T11:32:55+09:00",
+  "datePublished": "2026-06-08T11:32:55+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260608/K10015144041_2606081156_0608115800_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260608/K10015144041_2606081156_0608115800_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002621",
+      "name": "津波",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "8日午前8時半すぎにフィリピン諸島のミンダナオで起きた地震で、各地に津波注意報が発表されたことについて、東北大学災害科学国際研究所の今村文彦教授は、「遠地の地震による津波は影響が長く続く可能性がある。",
+  "articleBody": "8日午前8時半すぎにフィリピン諸島のミンダナオで起きた地震で、各地に津波注意報が発表されたことについて、東北大学災害科学国際研究所の今村文彦教授は、「遠地の地震による津波は影響が長く続く可能性がある。地震によって発生した津波が直接、第一波として到達するが、そのあと、沿岸部を経由したり複雑に入射や反射を繰り返したりして後続波として到達する。後続波のほうが大きくなる傾向がある」と指摘しました。\n\n\nまた、到達予想時刻と満潮時刻が重なる場所もあるとして、「満潮によって海面が上昇するので、同じ規模の津波でも陸地や河川への影響が大きくなる可能性がある」とした上で、「海水浴客や漁業関係者などは、沿岸部から離れて注意報が解除されるまで安全なところに移動してほしい。地盤が低い場合もあるので、自分が今いる場所が海抜何メートルぐらいなのかも確認してほしい」と呼びかけました。\n",
+  "detailedArticleBody": {
+    "markedLead": "8日午前8時半すぎにフィリピン諸島のミンダナオで起きた地震で、各地に津波注意報が発表されたことについて、東北大学災害科学国際研究所の今村文彦教授は、「遠地の地震による津波は影響が長く続く可能性がある。地震によって発生した津波が直接、第一波として到達するが、そのあと、沿岸部を経由したり複雑に入射や反射を繰り返したりして後続波として到達する。後続波のほうが大きくなる傾向がある」と指摘しました。\n",
+    "markedBody": "また、到達予想時刻と満潮時刻が重なる場所もあるとして、「満潮によって海面が上昇するので、同じ規模の津波でも陸地や河川への影響が大きくなる可能性がある」とした上で、「海水浴客や漁業関係者などは、沿岸部から離れて注意報が解除されるまで安全なところに移動してほしい。地盤が低い場合もあるので、自分が今いる場所が海抜何メートルぐらいなのかも確認してほしい」と呼びかけました。\n",
+    "trimmedLead": "8日午前8時半すぎにフィリピン諸島のミンダナオで起きた地震で、各地に津波注意報が発表されたことについて、東北大学災害科学国際研究所の今村文彦教授は、「遠地の地震による津波は影響が長く続く可能性がある。地震によって発生した津波が直接、第一波として到達するが、そのあと、沿岸部を経由したり複雑に入射や反射を繰り返したりして後続波として到達する。後続波のほうが大きくなる傾向がある」と指摘しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015144041000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015144041000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "津波注意報 専門家「遠地地震の津波 影響が長く続く可能性」",
+      "description": "8日午前8時半すぎにフィリピン諸島のミンダナオで起きた地震で、各地に津波注意報が発表されたことについて、東北大学災害科学国際研究所の今村文彦教授は、「遠地の地震による津波は影響が長く続く可能性がある。",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015144041_202606081156_202606081157/index.m3u8&mrposter=/news/html/20260608/K10015144041_2606081156_0608115800_01_03.jpg",
+      "duration": "PT5M17S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015144041_202606081156_202606081157/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260608/K10015144041_2606081156_0608115800_01_03.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "【津波注意報】茨城県～沖縄県の沿岸 沖縄市で微弱な津波観測",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015143781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260608/K10015143781_2606080911_0608091142_01_02.jpg",
+      "datePublished": "2026-06-08T13:03:06+09:00"
+    },
+    {
+      "name": "気象庁 13:30から再び会見へ 津波の観測状況や見通しなど説明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015143811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260608/K10015143811_2606080921_0608092240_01_02.jpg",
+      "datePublished": "2026-06-08T12:38:38+09:00"
+    },
+    {
+      "name": "【津波情報】最新の発表状況を詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/tsunami/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30060586.jpg"
+    },
+    {
+      "name": "【交通影響】東京湾フェリー 運航見合わせ 東海汽船 一部欠航",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015143831000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260608/K10015143831_2606080924_0608092905_01_02.jpg",
+      "datePublished": "2026-06-08T11:48:34+09:00"
+    },
+    {
+      "name": "【津波関連など】各地の最新ニュースはこちらから",
+      "url": "https://news.web.nhk/news/special/rich_contents/lnews/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31393968.jpg"
+    },
+    {
+      "name": "【最新の避難情報】こちらから地域別でご覧になれます",
+      "url": "https://news.web.nhk/kishou-saigai/evacuation/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_29239751.jpg"
+    },
+    {
+      "name": "フィリピンで大地震 少なくとも5人死亡か 46センチの津波観測",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015143861000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260608/K10015143861_2606081054_0608112136_01_02.jpg",
+      "datePublished": "2026-06-08T12:51:44+09:00"
+    },
+    {
+      "name": "津波注意報・警報 とるべき行動は？",
+      "url": "https://news.web.nhk/newsweb/na/nc-85c6d291-a5e7-46a7-8e69-ac0e5f83f089",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30046082.jpg"
+    },
+    {
+      "name": "地震・津波 発生時や備えのポイント イラスト解説",
+      "url": "https://news.web.nhk/newsweb/na/nc-28c42bc2-428e-4daa-ba42-f06c071cf15b",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30046381.jpg"
+    },
+    {
+      "name": "津波マップ 発表中の津波予想や観測情報を地図表示",
+      "url": "https://news.web.nhk/bousai-map/tsunami/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31036926.jpg"
+    },
+    {
+      "name": "地震 津波 最新情報はニュース・防災アプリで",
+      "url": "https://www.nhk.or.jp/nhkone/service/app/news_bousai/",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_31189657.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

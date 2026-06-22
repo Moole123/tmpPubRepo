@@ -1,0 +1,173 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015117721000",
+  "dataSourceId": "na",
+  "name": "兵庫 加古川 高校の部活動のマイクロバスが追突 4台絡む事故 生徒1人が軽いけが",
+  "headline": "兵庫 加古川 高校の部活動のバスなど4台絡む事故 生徒1人けが",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015117721000",
+    "playlistId": "news-nwa-society-nationwide-20260510",
+    "newsarticleName": "兵庫 加古川 高校の部活動のマイクロバスが追突 4台絡む事故 生徒1人が軽いけが",
+    "playlistName": "5月10日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "10日午前、兵庫県加古川市で、高校の部活動の生徒を乗せたマイクロバスが乗用車に追突して、あわせて4台が絡む事故が起き、生徒1人が軽いけがをしました。\n\n\n警察によりますと、10日午前9時20分ごろ、兵",
+  "dateModified": "2026-05-10T12:51:04+09:00",
+  "datePublished": "2026-05-10T12:51:04+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260510/K10015117721_2605101313_0510131446_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260510/K10015117721_2605101313_0510131446_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0001538",
+      "name": "事件・事故",
+      "display": true
+    },
+    {
+      "id": "0002228",
+      "name": "兵庫県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "10日午前、兵庫県加古川市で、高校の部活動の生徒を乗せたマイクロバスが乗用車に追突して、あわせて4台が絡む事故が起き、生徒1人が軽いけがをしました。\n\n\n警察によりますと、10日午前9時20分ごろ、兵",
+  "articleBody": "10日午前、兵庫県加古川市で、高校の部活動の生徒を乗せたマイクロバスが乗用車に追突して、あわせて4台が絡む事故が起き、生徒1人が軽いけがをしました。\n\n\n警察によりますと、10日午前9時20分ごろ、兵庫県加古川市の国道「加古川バイパス」で、高校の部活動の生徒10人余りを乗せたマイクロバスが乗用車に追突し、そのはずみで乗用車も前の車に追突するなど、あわせて4台が絡む事故が起きました。\n\nこの事故でマイクロバスに乗っていた生徒1人が軽いけがをしたということです。\n\n当時、現場の道路は渋滞していたということで、警察は事故の詳しい状況を調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "10日午前、兵庫県加古川市で、高校の部活動の生徒を乗せたマイクロバスが乗用車に追突して、あわせて4台が絡む事故が起き、生徒1人が軽いけがをしました。\n",
+    "markedBody": "警察によりますと、10日午前9時20分ごろ、兵庫県加古川市の国道「加古川バイパス」で、高校の部活動の生徒10人余りを乗せたマイクロバスが乗用車に追突し、そのはずみで乗用車も前の車に追突するなど、あわせて4台が絡む事故が起きました。\n\nこの事故でマイクロバスに乗っていた生徒1人が軽いけがをしたということです。\n\n当時、現場の道路は渋滞していたということで、警察は事故の詳しい状況を調べています。\n",
+    "trimmedLead": "10日午前、兵庫県加古川市で、高校の部活動の生徒を乗せたマイクロバスが乗用車に追突して、あわせて4台が絡む事故が起き、生徒1人が軽いけがをしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015117721000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015117721000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "兵庫 加古川 高校の部活動のバスなど4台絡む事故 生徒1人けが",
+      "description": "10日午前、兵庫県加古川市で、高校の部活動の生徒を乗せたマイクロバスが乗用車に追突して、あわせて4台が絡む事故が起き、生徒1人が軽いけがをしました。\n\n\n警察によりますと、10日午前9時20分ごろ、兵",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015117721_202605101314_202605101314/index.m3u8&mrposter=/news/html/20260510/K10015117721_2605101313_0510131446_01_03.jpg",
+      "duration": "PT45S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015117721_202605101314_202605101314/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260510/K10015117721_2605101313_0510131446_01_03.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "磐越道 21人死傷事故 運転手“スピード出し過ぎてぶつかった”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015117731000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260510/K10015117731_2605101052_0510115659_01_02.jpg",
+      "datePublished": "2026-05-10T11:56:58+09:00"
+    },
+    {
+      "name": "ハンタウイルス WHO事務局長が島に到着 リスク低いと強調",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015117661000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260510/K10015117661_2605100359_0510055034_01_02.jpg",
+      "datePublished": "2026-05-10T11:16:37+09:00"
+    },
+    {
+      "name": "プーチン大統領“ウクライナとの首脳会談は最終合意段階のみ”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015117711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260510/K10015117711_2605101002_0510101750_01_02.jpg",
+      "datePublished": "2026-05-10T10:17:49+09:00"
+    },
+    {
+      "name": "トランプ氏 従来発言繰り返す 米とカタール会談 外交努力続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015117611000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260510/K10015117611_2605101229_0510123645_01_03.jpg",
+      "datePublished": "2026-05-10T12:19:48+09:00"
+    },
+    {
+      "name": "米提案の停戦 ロシアとウクライナ双方攻撃で実現困難か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015117671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260510/K10015117671_2605100523_0510055244_01_02.jpg",
+      "datePublished": "2026-05-10T05:52:43+09:00"
+    },
+    {
+      "name": "ハンガリー マジャル新首相 経済の立て直し進める考え強調",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015117691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260510/K10015117691_2605100801_0510080238_01_02.jpg",
+      "datePublished": "2026-05-10T08:02:37+09:00"
+    },
+    {
+      "name": "ガザ停戦7か月も現地は衛生状況が悪化 皮膚疾患が急増",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015117641000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260510/K10015117641_2605100217_0510054244_01_02.jpg",
+      "datePublished": "2026-05-10T06:20:34+09:00"
+    },
+    {
+      "name": "新型コロナワクチン副反応の心筋炎 マウス実験で再現 筑波大",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015117481000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260510/K10015117481_2605091517_0510050050_01_02.jpg",
+      "datePublished": "2026-05-10T05:09:10+09:00"
+    },
+    {
+      "name": "小説家の鈴木光司さん死去 68歳 「リング」「らせん」など",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015117631000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260510/K10015117631_2605100144_0510014843_01_02.jpg",
+      "datePublished": "2026-05-10T01:45:54+09:00"
+    },
+    {
+      "name": "物価どうなる？値上げはなぜ起きた？物価解剖 その正体に迫る",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260509/K10015115811_2605092239_0509231619_01_02.jpg",
+      "datePublished": "2026-05-09T18:49:50+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

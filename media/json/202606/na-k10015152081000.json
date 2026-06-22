@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015152081000",
+  "dataSourceId": "na",
+  "name": "高市首相動静 2026年6月16日",
+  "headline": "高市首相動静 2026年6月16日",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015152081000",
+    "playlistId": "news-nwa-politics-nationwide-20260617",
+    "newsarticleName": "高市首相動静 2026年6月16日",
+    "playlistName": "6月17日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "（高市首相動静 2026年6月16日）\n\n\n（以下、すべて日本時間）\n01:26 フランス東部エビアンのホテル「ホテル・ロイヤル・エビアン・リゾート」到着\n02:35 同所でフランスのマクロン大統領夫",
+  "dateModified": "2026-06-17T10:05:31+09:00",
+  "datePublished": "2026-06-17T10:05:31+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260617/K10015152081_2606170814_0617100532_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260617/K10015152081_2606170814_0617100532_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0002532",
+      "name": "首相動静",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "（高市首相動静 2026年6月16日）\n\n\n（以下、すべて日本時間）\n01:26 フランス東部エビアンのホテル「ホテル・ロイヤル・エビアン・リゾート」到着\n02:35 同所でフランスのマクロン大統領夫",
+  "articleBody": "（高市首相動静 2026年6月16日）\n\n\n（以下、すべて日本時間）\n01:26 フランス東部エビアンのホテル「ホテル・ロイヤル・エビアン・リゾート」到着\n02:35 同所でフランスのマクロン大統領夫妻による歓迎行事\n03:00 ワーキングディナー「国際社会の主要課題への対応」（～04:45）\n16:50 セッション「ウクライナと欧州のための平和と安全の構築」。G7各国首脳とウクライナのゼレンスキー大統領が出席（～18:08）。同セッション後、アメリカのトランプ大統領と懇談。\n18:37 日ブラジル首脳会談（～19:06）\n19:33 ワーキングランチ「中東における危機への対応と安定の確保」（～21:10）\n22:08 集合写真（～22:10）\n22:14 ワーキング・セッション「新たなパートナーシップの構築と国際連帯の再構築」（～24:01）\n",
+  "detailedArticleBody": {
+    "markedLead": "（高市首相動静 2026年6月16日）\n",
+    "markedBody": "（以下、すべて日本時間）\\\n01:26 フランス東部エビアンのホテル「ホテル・ロイヤル・エビアン・リゾート」到着\\\n02:35 同所でフランスのマクロン大統領夫妻による歓迎行事\\\n03:00 ワーキングディナー「国際社会の主要課題への対応」（～04:45）\\\n16:50 セッション「ウクライナと欧州のための平和と安全の構築」。G7各国首脳とウクライナのゼレンスキー大統領が出席（～18:08）。同セッション後、アメリカのトランプ大統領と懇談。\\\n18:37 日ブラジル首脳会談（～19:06）\\\n19:33 ワーキングランチ「中東における危機への対応と安定の確保」（～21:10）\\\n22:08 集合写真（～22:10）\\\n22:14 ワーキング・セッション「新たなパートナーシップの構築と国際連帯の再構築」（～24:01）\n",
+    "trimmedLead": "（高市首相動静 2026年6月16日）\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015152081000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015152081000",
+  "video": [],
+  "citation": [
+    {
+      "name": "G7サミット 中東やウクライナ情勢への対応を議論",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015151271000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260616/K10015151271_2606161708_0616184512_01_02.jpg",
+      "datePublished": "2026-06-17T05:53:11+09:00"
+    },
+    {
+      "name": "日銀 利上げに踏み切るも円安傾向続く 物価抑制で難しい対応も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015151901000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260617/K10015151901_2606170023_0617054724_01_02.jpg",
+      "datePublished": "2026-06-17T05:47:23+09:00"
+    },
+    {
+      "name": "NYダウ最高値更新 原油は一時75ドル台に下落",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015152041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260617/K10015152041_2606170555_0617060624_01_02.jpg",
+      "datePublished": "2026-06-17T06:06:23+09:00"
+    },
+    {
+      "name": "16日夜 群馬 埼玉で震度5弱の地震 今後1週間程度は注意を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015151981000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260617/K10015151981_2606162334_0617051824_01_02.jpg",
+      "datePublished": "2026-06-17T05:18:23+09:00"
+    },
+    {
+      "name": "消費税減税 実務者会議で案提示へ 来年4月から1％軸に調整",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015151881000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260617/K10015151881_2606170035_0617042657_01_02.jpg",
+      "datePublished": "2026-06-17T04:26:56+09:00"
+    },
+    {
+      "name": "アメリカとイランの署名式 19日にスイス中部で開催予定",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015151941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260617/K10015151941_2606170531_0617054818_01_02.jpg",
+      "datePublished": "2026-06-17T05:48:17+09:00"
+    },
+    {
+      "name": "自維国参4党 国旗損壊罪法案の成立図る 論戦活発化へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015151891000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260617/K10015151891_2606170037_0617043149_01_02.jpg",
+      "datePublished": "2026-06-17T04:31:48+09:00"
+    },
+    {
+      "name": "映画『火垂るの墓』公開当初の“幻”となっていたフィルム発見",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015151911000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260617/K10015151911_2606170153_0617035827_01_02.jpg",
+      "datePublished": "2026-06-17T03:58:26+09:00"
+    },
+    {
+      "name": "プロ野球交流戦 西武が初優勝 勝率は過去最高",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015151871000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260616/K10015151871_2606162208_0616221208_01_02.jpg",
+      "datePublished": "2026-06-16T23:28:46+09:00"
+    },
+    {
+      "name": "FIFAワールドカップ2026【NHK特設サイト】",
+      "url": "https://nhk.jp/fifawc?cid=wc26-newsweb-awayomi",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31365091.jpg"
+    },
+    {
+      "name": "オランダ公式訪問 天皇皇后両陛下 アムステルダム王宮に移動",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015151921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260617/K10015151921_2606162321_0617052401_01_02.jpg",
+      "datePublished": "2026-06-17T05:24:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": false,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

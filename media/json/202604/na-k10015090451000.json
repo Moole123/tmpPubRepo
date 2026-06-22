@@ -1,0 +1,139 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015090451000",
+  "dataSourceId": "na",
+  "name": "高市首相動静 2026年4月1日",
+  "headline": "高市首相動静 2026年4月1日",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015090451000",
+    "playlistId": "news-nwa-politics-nationwide-20260402",
+    "newsarticleName": "高市首相動静 2026年4月1日",
+    "playlistName": "4月2日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "（高市首相動静 2026年4月1日）\n\n\n11:21 徒歩で公邸発\n11:23 官邸着\n11:50 日銀の浅田統一郎審議委員に辞令交付（～11:55）\n15:24 市川恵一国家安全保障局長、外務省の船",
+  "dateModified": "2026-04-02T10:19:41+09:00",
+  "datePublished": "2026-04-02T10:19:41+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260402/K10015090451_2604020940_0402101942_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260402/K10015090451_2604020940_0402101942_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0002532",
+      "name": "首相動静",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "（高市首相動静 2026年4月1日）\n\n\n11:21 徒歩で公邸発\n11:23 官邸着\n11:50 日銀の浅田統一郎審議委員に辞令交付（～11:55）\n15:24 市川恵一国家安全保障局長、外務省の船",
+  "articleBody": "（高市首相動静 2026年4月1日）\n\n\n11:21 徒歩で公邸発\n11:23 官邸着\n11:50 日銀の浅田統一郎審議委員に辞令交付（～11:55）\n15:24 市川恵一国家安全保障局長、外務省の船越健裕事務次官、宮本新吾南部アジア部長、北川克郎欧州局長、岩本桂一中東アフリカ局長と面会（～15:45）\n17:11 官邸発\n17:19 東京 元赤坂の迎賓館着\n17:29 フランスのマクロン大統領を出迎え。記念撮影\n17:31 マクロン大統領と桜の盆栽を観賞（～17:42）\n17:46 儀じょう隊による栄誉礼、儀じょう（～17:55）\n17:57 マクロン大統領と首脳会談（～18:34）\n18:42 署名式、共同記者発表（～19:03）\n19:05 総理大臣主催のワーキングディナー（～20:11）\n20:13 マクロン大統領を見送り\n20:15 同所発\n20:21 公邸着\n",
+  "detailedArticleBody": {
+    "markedLead": "（高市首相動静 2026年4月1日）\n",
+    "markedBody": "11:21 徒歩で公邸発\\\n11:23 官邸着\\\n11:50 日銀の浅田統一郎審議委員に辞令交付（～11:55）\\\n15:24 市川恵一国家安全保障局長、外務省の船越健裕事務次官、宮本新吾南部アジア部長、北川克郎欧州局長、岩本桂一中東アフリカ局長と面会（～15:45）\\\n17:11 官邸発\\\n17:19 東京 元赤坂の迎賓館着\\\n17:29 フランスのマクロン大統領を出迎え。記念撮影\\\n17:31 マクロン大統領と桜の盆栽を観賞（～17:42）\\\n17:46 儀じょう隊による栄誉礼、儀じょう（～17:55）\\\n17:57 マクロン大統領と首脳会談（～18:34）\\\n18:42 署名式、共同記者発表（～19:03）\\\n19:05 総理大臣主催のワーキングディナー（～20:11）\\\n20:13 マクロン大統領を見送り\\\n20:15 同所発\\\n20:21 公邸着\n",
+    "trimmedLead": "（高市首相動静 2026年4月1日）\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015090451000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015090451000",
+  "video": [],
+  "citation": [
+    {
+      "name": "「アルテミス計画」打ち上げ成功 人類 約半世紀ぶり月へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015090331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260402/K10015090331_2604020738_0402081902_01_02.jpg",
+      "datePublished": "2026-04-02T09:03:11+09:00"
+    },
+    {
+      "name": "インドネシア付近 M7.4地震 日本は多少潮位変化も被害心配なし",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015090441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260402/K10015090441_2604020947_0402101621_01_02.jpg",
+      "datePublished": "2026-04-02T10:16:21+09:00"
+    },
+    {
+      "name": "今年度予算案 参院 野党側“首相出席の集中審議が採決の条件”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015090251000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260402/K10015090251_2604012300_0402052947_01_02.jpg",
+      "datePublished": "2026-04-02T05:29:46+09:00"
+    },
+    {
+      "name": "給付付き税額控除試算 平均年収下回る子育て世帯で負担率高く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015090151000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260401/K10015090151_2604012030_0401211537_01_02.jpg",
+      "datePublished": "2026-04-01T21:15:37+09:00"
+    },
+    {
+      "name": "日仏首脳会談 イラン情勢 引き続き緊密に意思疎通で一致",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015089651000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260401/K10015089651_2604011854_0401192728_01_03.jpg",
+      "datePublished": "2026-04-02T00:15:15+09:00"
+    },
+    {
+      "name": "片山財務相が代表の2つの政治団体 計200万円余支出を二重計上",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015090161000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260401/K10015090161_2604012051_0401210420_01_02.jpg",
+      "datePublished": "2026-04-01T21:04:19+09:00"
+    },
+    {
+      "name": "全日空と日本航空 燃油サーチャージ 6月発券分から最大約2倍に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015089741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260401/K10015089741_2604011233_0401135253_01_03.jpg",
+      "datePublished": "2026-04-01T18:54:39+09:00"
+    },
+    {
+      "name": "FIFA 最新男子世界ランキング 日本は18位 順位を1つ上げる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015090281000",
+      "thumbnailUrl": "https://news.web.nhk/news/r/html/20260402/K10015090281_2604012348_0402004233_01_02.jpg",
+      "datePublished": "2026-04-02T00:42:33+09:00"
+    },
+    {
+      "name": "新年度スタート 制度や税制で変わったことは？【詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015089621000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260401/K10015089621_2604011804_0401184327_01_02.jpg",
+      "datePublished": "2026-04-01T18:43:26+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

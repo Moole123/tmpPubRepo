@@ -1,0 +1,149 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015104901000",
+  "dataSourceId": "na",
+  "name": "赤坂サウナ火災受け 厚労省が全国に安全対策の徹底通知",
+  "headline": "赤坂サウナ火災受け 厚労省が全国に安全対策の徹底通知",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015104901000",
+    "playlistId": "news-nwa-society-nationwide-20260421",
+    "newsarticleName": "赤坂サウナ火災受け 厚労省が全国に安全対策の徹底通知",
+    "playlistName": "4月21日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "去年、東京 赤坂のサウナ店で客の夫婦が死亡した火災を受けて、厚生労働省は都道府県などに対し、緊急時にサウナ内にいる利用者が従業員と連絡をとるための手段が確保されていない施設に必要な指導を行うなど、サウ",
+  "dateModified": "2026-04-21T21:08:26+09:00",
+  "datePublished": "2026-04-21T21:08:26+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260421/K10015104901_2604212100_0421210827_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260421/K10015104901_2604212100_0421210827_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002401",
+      "name": "厚生労働省",
+      "display": true
+    },
+    {
+      "id": "0002689",
+      "name": "火災",
+      "display": true
+    },
+    {
+      "id": "0002213",
+      "name": "東京都",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "去年、東京 赤坂のサウナ店で客の夫婦が死亡した火災を受けて、厚生労働省は都道府県などに対し、緊急時にサウナ内にいる利用者が従業員と連絡をとるための手段が確保されていない施設に必要な指導を行うなど、サウ",
+  "articleBody": "去年、東京 赤坂のサウナ店で客の夫婦が死亡した火災を受けて、厚生労働省は都道府県などに対し、緊急時にサウナ内にいる利用者が従業員と連絡をとるための手段が確保されていない施設に必要な指導を行うなど、サウナ施設の安全対策を徹底するよう通知しました。\n\n\n去年、東京 赤坂のプライベートサウナで客の夫婦2人が死亡した火災を受けて、厚生労働省はことし1月、都道府県と保健所の設置自治体、あわせて157自治体を対象にサウナ施設の安全管理の状況について調査し、153自治体から回答を得ました。\n\nそれによりますと、対象の1万3000余りのサウナ施設のうち、95％（1万2453施設）で扉が内側から押すだけで開くなど、緊急時の開閉に支障が生じない構造となっていました。\n\n一方で、緊急時に、利用者が従業員と連絡をとるための手段や従業員が駆けつける体制が確保されているのは、\n▽銭湯などの公衆浴場業の施設では9割以上でしたが、\n▽ホテルや旅館など旅館業の登録施設では全体の8割余り（4258施設）で、対策の状況に差があることがわかったということです。\n\n厚生労働省は21日、都道府県などに通知を出し、対策が不十分な施設に対して利用者の安全確保のために必要な指導を行うよう求めました。\n\nまた、非常用ブザーの設置状況にもばらつきがあることから、安全対策の一環としてブザーの活用についても周知しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "去年、東京 赤坂のサウナ店で客の夫婦が死亡した火災を受けて、厚生労働省は都道府県などに対し、緊急時にサウナ内にいる利用者が従業員と連絡をとるための手段が確保されていない施設に必要な指導を行うなど、サウナ施設の安全対策を徹底するよう通知しました。\n",
+    "markedBody": "去年、東京 赤坂のプライベートサウナで客の夫婦2人が死亡した火災を受けて、厚生労働省はことし1月、都道府県と保健所の設置自治体、あわせて157自治体を対象にサウナ施設の安全管理の状況について調査し、153自治体から回答を得ました。\n\nそれによりますと、対象の1万3000余りのサウナ施設のうち、95％（1万2453施設）で扉が内側から押すだけで開くなど、緊急時の開閉に支障が生じない構造となっていました。\n\n一方で、緊急時に、利用者が従業員と連絡をとるための手段や従業員が駆けつける体制が確保されているのは、\\\n▽銭湯などの公衆浴場業の施設では9割以上でしたが、\\\n▽ホテルや旅館など旅館業の登録施設では全体の8割余り（4258施設）で、対策の状況に差があることがわかったということです。\n\n厚生労働省は21日、都道府県などに通知を出し、対策が不十分な施設に対して利用者の安全確保のために必要な指導を行うよう求めました。\n\nまた、非常用ブザーの設置状況にもばらつきがあることから、安全対策の一環としてブザーの活用についても周知しました。\n",
+    "trimmedLead": "去年、東京 赤坂のサウナ店で客の夫婦が死亡した火災を受けて、厚生労働省は都道府県などに対し、緊急時にサウナ内にいる利用者が従業員と連絡をとるための手段が確保されていない施設に必要な指導を行うなど、サウナ施設の安全対策を徹底するよう通知しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015104901000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015104901000",
+  "video": [],
+  "citation": [
+    {
+      "name": "北海道・三陸沖後発地震注意情報 “日頃の備え 改めて確認を”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015104141_2604210018_0421002942_01_02.jpg",
+      "datePublished": "2026-04-21T18:46:17+09:00"
+    },
+    {
+      "name": "岩手 紫波町 クマに襲われ警察官けが 近くに女性1人の遺体",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015104441_2604211322_0421155607_01_02.jpg",
+      "datePublished": "2026-04-21T19:24:37+09:00"
+    },
+    {
+      "name": "陸自 戦車の射撃訓練中に砲弾破裂 隊員3人死亡 1人重傷 大分",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104341000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015104341_2604211217_0421184256_01_02.jpg",
+      "datePublished": "2026-04-21T18:41:32+09:00"
+    },
+    {
+      "name": "政府 「5類型」撤廃を決定 「武器」移転が原則可能に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015104291_2604211516_0421152616_01_02.jpg",
+      "datePublished": "2026-04-21T19:04:48+09:00"
+    },
+    {
+      "name": "米イラン協議 停戦期限迫る中 実現に向けて駆け引き続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104171000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015104171_2604211927_0421192826_01_03.jpg",
+      "datePublished": "2026-04-21T19:01:37+09:00"
+    },
+    {
+      "name": "東京ドームシティの施設 体を挟まれた作業員死亡 定期点検中",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104511000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015104511_2604211258_0421183300_01_03.jpg",
+      "datePublished": "2026-04-21T20:42:04+09:00"
+    },
+    {
+      "name": "“核のごみ”南鳥島で文献調査実施へ 小笠原村長 受け入れ表明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104381000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015104381_2604211535_0421154958_01_02.jpg",
+      "datePublished": "2026-04-21T20:25:57+09:00"
+    },
+    {
+      "name": "人気の「狭小住宅」 国の計画から「最低居住面積水準」削除に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015104531_2604211439_0421192754_01_03.jpg",
+      "datePublished": "2026-04-21T19:27:53+09:00"
+    },
+    {
+      "name": "気象庁 3か月予報 早期から暑い見込み 梅雨期は多雨のおそれも",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104701000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015104701_2604211720_0421184828_01_02.jpg",
+      "datePublished": "2026-04-21T18:48:27+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

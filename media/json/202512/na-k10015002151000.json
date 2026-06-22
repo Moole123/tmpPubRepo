@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015002151000",
+  "dataSourceId": "na",
+  "name": "立民 野田代表 内閣不信任決議案 今国会の提出見送る考え示す",
+  "headline": "立民 野田代表 内閣不信任決議案 今国会の提出見送る考え示す",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015002151000",
+    "playlistId": "news-nwa-politics-nationwide-20251212",
+    "newsarticleName": "立民 野田代表 内閣不信任決議案 今国会の提出見送る考え示す",
+    "playlistName": "12月12日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "今の国会での内閣不信任決議案の取り扱いをめぐり、立憲民主党の野田代表は政権の発足から1か月余りで評価を決めるのは時期尚早だとして提出を見送る考えを示しました。\n\n\n立憲民主党の野田代表は12日の記者会",
+  "dateModified": "2025-12-12T13:56:20+09:00",
+  "datePublished": "2025-12-12T13:56:20+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251212/K10015002151_2512121351_1212135621_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251212/K10015002151_2512121351_1212135621_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "今の国会での内閣不信任決議案の取り扱いをめぐり、立憲民主党の野田代表は政権の発足から1か月余りで評価を決めるのは時期尚早だとして提出を見送る考えを示しました。\n\n\n立憲民主党の野田代表は12日の記者会",
+  "articleBody": "今の国会での内閣不信任決議案の取り扱いをめぐり、立憲民主党の野田代表は政権の発足から1か月余りで評価を決めるのは時期尚早だとして提出を見送る考えを示しました。\n\n\n立憲民主党の野田代表は12日の記者会見で今の国会で高市内閣に対する不信任決議案を提出する考えがあるか問われ「高市総理大臣が就任してから1か月半という状況の中ではその功罪を評価する段階にはまだない」と述べました。\n\nその上で「これは失点ではないかと思うこともあるが、逆に頑張っている部分もあるだろうし、その評価を定めるのは時期尚早ではないか」と述べ、今の国会での決議案の提出は見送る考えを示しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "今の国会での内閣不信任決議案の取り扱いをめぐり、立憲民主党の野田代表は政権の発足から1か月余りで評価を決めるのは時期尚早だとして提出を見送る考えを示しました。\n",
+    "markedBody": "立憲民主党の野田代表は12日の記者会見で今の国会で高市内閣に対する不信任決議案を提出する考えがあるか問われ「高市総理大臣が就任してから1か月半という状況の中ではその功罪を評価する段階にはまだない」と述べました。\n\nその上で「これは失点ではないかと思うこともあるが、逆に頑張っている部分もあるだろうし、その評価を定めるのは時期尚早ではないか」と述べ、今の国会での決議案の提出は見送る考えを示しました。\n",
+    "trimmedLead": "今の国会での内閣不信任決議案の取り扱いをめぐり、立憲民主党の野田代表は政権の発足から1か月余りで評価を決めるのは時期尚早だとして提出を見送る考えを示しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015002151000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015002151000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

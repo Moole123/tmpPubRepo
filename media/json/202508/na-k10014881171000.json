@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014881171000",
+  "dataSourceId": "na",
+  "name": "大手銀行 住宅ローン固定金利を相次いで引き上げ",
+  "headline": "大手銀行 住宅ローン固定金利を相次いで引き上げ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014881171000",
+    "playlistId": "news-nwa-business-nationwide-20250801",
+    "newsarticleName": "大手銀行 住宅ローン固定金利を相次いで引き上げ",
+    "playlistName": "8月1日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "長期金利の高止まりが続く中、大手銀行は8月適用する住宅ローンの固定金利を相次いで引き上げました。\n\n\n住宅ローンの固定金利は、長期金利の代表的な指標となっている10年ものの国債の利回りを参考に各銀行が",
+  "dateModified": "2025-08-01T04:16:47+09:00",
+  "datePublished": "2025-08-01T04:16:47+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250801/K10014881171_2507312143_0801041630_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250801/K10014881171_2507312143_0801041630_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "長期金利の高止まりが続く中、大手銀行は8月適用する住宅ローンの固定金利を相次いで引き上げました。\n\n\n住宅ローンの固定金利は、長期金利の代表的な指標となっている10年ものの国債の利回りを参考に各銀行が",
+  "articleBody": "長期金利の高止まりが続く中、大手銀行は8月適用する住宅ローンの固定金利を相次いで引き上げました。\n\n\n住宅ローンの固定金利は、長期金利の代表的な指標となっている10年ものの国債の利回りを参考に各銀行が決めています。\n\n10年ものの国債の利回りは、7月に入って一時およそ17年ぶりに1.6％まで上昇するなど高止まりが続いていて、大手銀行は8月適用する固定金利を相次いで引き上げました。\n\nこのうち10年固定で最も優遇する場合の金利では、三菱UFJ銀行が0.07ポイント引き上げて年1.95％と2011年以来の高い水準に、みずほ銀行が0.2ポイント引き上げて年1.9％と2015年以来の高い水準に、三井住友信託銀行も年2.095％に引き上げて2012年以来の高い水準になりました。\n\nまた、三井住友銀行は年2.05％、りそな銀行は年2.345％にそれぞれ引き上げました。\n\n一方、利用者が多い変動型の住宅ローン金利は、5行とも7月と同じ水準にします。\n\n金利の上昇によって利払いの負担が増える一方、預金の利息や国債の表面利率など運用で得られる利息も増えています。\n",
+  "detailedArticleBody": {
+    "markedLead": "長期金利の高止まりが続く中、大手銀行は8月適用する住宅ローンの固定金利を相次いで引き上げました。\n",
+    "markedBody": "住宅ローンの固定金利は、長期金利の代表的な指標となっている10年ものの国債の利回りを参考に各銀行が決めています。\n\n10年ものの国債の利回りは、7月に入って一時およそ17年ぶりに1.6％まで上昇するなど高止まりが続いていて、大手銀行は8月適用する固定金利を相次いで引き上げました。\n\nこのうち10年固定で最も優遇する場合の金利では、三菱UFJ銀行が0.07ポイント引き上げて年1.95％と2011年以来の高い水準に、みずほ銀行が0.2ポイント引き上げて年1.9％と2015年以来の高い水準に、三井住友信託銀行も年2.095％に引き上げて2012年以来の高い水準になりました。\n\nまた、三井住友銀行は年2.05％、りそな銀行は年2.345％にそれぞれ引き上げました。\n\n一方、利用者が多い変動型の住宅ローン金利は、5行とも7月と同じ水準にします。\n\n金利の上昇によって利払いの負担が増える一方、預金の利息や国債の表面利率など運用で得られる利息も増えています。\n",
+    "trimmedLead": "長期金利の高止まりが続く中、大手銀行は8月適用する住宅ローンの固定金利を相次いで引き上げました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014881171000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014881171000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

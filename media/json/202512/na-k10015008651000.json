@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015008651000",
+  "dataSourceId": "na",
+  "name": "自民 萩生田氏 21日から台湾訪問 頼総統と面会の方向で調整",
+  "headline": "自民 萩生田氏 21日から台湾訪問 頼総統と面会の方向で調整",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015008651000",
+    "playlistId": "news-nwa-politics-nationwide-20251219",
+    "newsarticleName": "自民 萩生田氏 21日から台湾訪問 頼総統と面会の方向で調整",
+    "playlistName": "12月19日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "自民党の萩生田幹事長代行は、21日から台湾を訪問し、頼清徳総統と面会する方向で調整しています。\n\n\n自民党の萩生田幹事長代行は、21日から3日間の日程で、地元の東京 八王子市の市議会議員らとともに台湾",
+  "dateModified": "2025-12-19T21:42:38+09:00",
+  "datePublished": "2025-12-19T21:42:38+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251219/K10015008651_2512191800_1219214239_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251219/K10015008651_2512191800_1219214239_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "自民党の萩生田幹事長代行は、21日から台湾を訪問し、頼清徳総統と面会する方向で調整しています。\n\n\n自民党の萩生田幹事長代行は、21日から3日間の日程で、地元の東京 八王子市の市議会議員らとともに台湾",
+  "articleBody": "自民党の萩生田幹事長代行は、21日から台湾を訪問し、頼清徳総統と面会する方向で調整しています。\n\n\n自民党の萩生田幹事長代行は、21日から3日間の日程で、地元の東京 八王子市の市議会議員らとともに台湾を訪問します。\n\n交流事業として、八王子市が友好交流協定を締結している台湾南部の高雄市を訪問するとともに、滞在期間中に頼清徳総統と面会する方向で調整しているということです。\n\n萩生田氏は、超党派の議員連盟「日華議員懇談会」の幹事長も務めています。\n\nまた自民党の井上幹事長代理や河野元外務大臣らも、交流の一環として来週24日から3日間の日程で台湾を訪問し、頼総統との面会を調整しているということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "自民党の萩生田幹事長代行は、21日から台湾を訪問し、頼清徳総統と面会する方向で調整しています。\n",
+    "markedBody": "自民党の萩生田幹事長代行は、21日から3日間の日程で、地元の東京 八王子市の市議会議員らとともに台湾を訪問します。\n\n交流事業として、八王子市が友好交流協定を締結している台湾南部の高雄市を訪問するとともに、滞在期間中に頼清徳総統と面会する方向で調整しているということです。\n\n萩生田氏は、超党派の議員連盟「日華議員懇談会」の幹事長も務めています。\n\nまた自民党の井上幹事長代理や河野元外務大臣らも、交流の一環として来週24日から3日間の日程で台湾を訪問し、頼総統との面会を調整しているということです。\n",
+    "trimmedLead": "自民党の萩生田幹事長代行は、21日から台湾を訪問し、頼清徳総統と面会する方向で調整しています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015008651000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015008651000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014943421000",
+  "dataSourceId": "na",
+  "name": "世界で電子たばこを使用する人 推計で1億人超える WHO報告書",
+  "headline": "世界で電子たばこを使用する人 推計で1億人超える WHO報告書",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014943421000",
+    "playlistId": "news-nwa-international-nationwide-20251007",
+    "newsarticleName": "世界で電子たばこを使用する人 推計で1億人超える WHO報告書",
+    "playlistName": "10月7日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "WHO＝世界保健機関は、電子たばこの使用状況に関する初めての推計をまとめ、世界で電子たばこを使用する人は推計で1億人を超えたと発表しました。\n\n\nWHOは6日、世界での電子たばこの使用状況に関する初め",
+  "dateModified": "2025-10-07T14:16:37+09:00",
+  "datePublished": "2025-10-07T14:16:37+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251007/K10014943421_2510071348_1007141639_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251007/K10014943421_2510071348_1007141639_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "WHO＝世界保健機関は、電子たばこの使用状況に関する初めての推計をまとめ、世界で電子たばこを使用する人は推計で1億人を超えたと発表しました。\n\n\nWHOは6日、世界での電子たばこの使用状況に関する初め",
+  "articleBody": "WHO＝世界保健機関は、電子たばこの使用状況に関する初めての推計をまとめ、世界で電子たばこを使用する人は推計で1億人を超えたと発表しました。\n\n\nWHOは6日、世界での電子たばこの使用状況に関する初めての推計を報告書として発表しました。\n\nそれによりますと、電子たばこを使用する人は世界で1億人を超え、特に所得が高い国で使用者が多い傾向があるとしています。\n\n電子たばこの使用者のうち、13歳から15歳だけで少なくとも1470万人にのぼり、実際の人数はこれより多いとみられるとしています。\n\nさらにWHOは、13歳から15歳が電子たばこを使用する割合は、それより上の年代と比べて9倍高いとしています。\n\nWHOは、紙巻きたばこなどだけでなく電子たばこも健康に有害だとしていて、テドロス事務局長は6日の声明で「たばこ業界は、新たな製品で若者を積極的にターゲットにしている」と懸念を示しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "WHO＝世界保健機関は、電子たばこの使用状況に関する初めての推計をまとめ、世界で電子たばこを使用する人は推計で1億人を超えたと発表しました。\n",
+    "markedBody": "WHOは6日、世界での電子たばこの使用状況に関する初めての推計を報告書として発表しました。\n\nそれによりますと、電子たばこを使用する人は世界で1億人を超え、特に所得が高い国で使用者が多い傾向があるとしています。\n\n電子たばこの使用者のうち、13歳から15歳だけで少なくとも1470万人にのぼり、実際の人数はこれより多いとみられるとしています。\n\nさらにWHOは、13歳から15歳が電子たばこを使用する割合は、それより上の年代と比べて9倍高いとしています。\n\nWHOは、紙巻きたばこなどだけでなく電子たばこも健康に有害だとしていて、テドロス事務局長は6日の声明で「たばこ業界は、新たな製品で若者を積極的にターゲットにしている」と懸念を示しました。\n",
+    "trimmedLead": "WHO＝世界保健機関は、電子たばこの使用状況に関する初めての推計をまとめ、世界で電子たばこを使用する人は推計で1億人を超えたと発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014943421000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014943421000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": false,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

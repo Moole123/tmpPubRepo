@@ -1,0 +1,173 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015132141000",
+  "dataSourceId": "na",
+  "name": "「ヒアリ」横浜港本牧ふ頭で約100匹 今年度国内で初確認",
+  "headline": "「ヒアリ」横浜港本牧ふ頭で約100匹 今年度国内で初確認",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015132141000",
+    "playlistId": "news-nwa-society-nationwide-20260526",
+    "newsarticleName": "「ヒアリ」横浜港本牧ふ頭で約100匹 今年度国内で初確認",
+    "playlistName": "5月26日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "環境省は、今月23日に横浜市の横浜港の本牧ふ頭で、強い毒を持つ外来生物の「ヒアリ」がおよそ100匹見つかったと発表しました。国内でヒアリが発見されたのは今年度初めてで、環境省は駆除を進めています。\n\n",
+  "dateModified": "2026-05-26T20:58:19+09:00",
+  "datePublished": "2026-05-26T20:58:19+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260526/K10015132141_2605261931_0526205820_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260526/K10015132141_2605261931_0526205820_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002410",
+      "name": "環境省",
+      "display": true
+    },
+    {
+      "id": "0002214",
+      "name": "神奈川県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "環境省は、今月23日に横浜市の横浜港の本牧ふ頭で、強い毒を持つ外来生物の「ヒアリ」がおよそ100匹見つかったと発表しました。国内でヒアリが発見されたのは今年度初めてで、環境省は駆除を進めています。\n\n",
+  "articleBody": "環境省は、今月23日に横浜市の横浜港の本牧ふ頭で、強い毒を持つ外来生物の「ヒアリ」がおよそ100匹見つかったと発表しました。国内でヒアリが発見されたのは今年度初めてで、環境省は駆除を進めています。\n\n\n環境省によりますと、今月23日に横浜市中区の横浜港の本牧ふ頭のコンテナヤードで、ヒアリと疑われるアリがおよそ100匹見つかり、その後の分析でヒアリだと確認されたということです。\n\n環境省によると、国内でヒアリが発見されたのは今年度初めてで、昨年度は、国内で過去最多となる36件が確認されたということです。\n\n環境省は殺虫剤入りの餌を置くなどして駆除を進めるとともに、ヒアリなどの見慣れないアリを見つけたら決して触らずに「ヒアリ相談ダイヤル」に連絡するよう呼びかけています。\n\n番号は0570-046-110で、受付時間は午前9時から午後5時です。\n",
+  "detailedArticleBody": {
+    "markedLead": "環境省は、今月23日に横浜市の横浜港の本牧ふ頭で、強い毒を持つ外来生物の「ヒアリ」がおよそ100匹見つかったと発表しました。国内でヒアリが発見されたのは今年度初めてで、環境省は駆除を進めています。\n",
+    "markedBody": "環境省によりますと、今月23日に横浜市中区の横浜港の本牧ふ頭のコンテナヤードで、ヒアリと疑われるアリがおよそ100匹見つかり、その後の分析でヒアリだと確認されたということです。\n\n環境省によると、国内でヒアリが発見されたのは今年度初めてで、昨年度は、国内で過去最多となる36件が確認されたということです。\n\n環境省は殺虫剤入りの餌を置くなどして駆除を進めるとともに、ヒアリなどの見慣れないアリを見つけたら決して触らずに「ヒアリ相談ダイヤル」に連絡するよう呼びかけています。\n\n番号は0570-046-110で、受付時間は午前9時から午後5時です。\n",
+    "trimmedLead": "環境省は、今月23日に横浜市の横浜港の本牧ふ頭で、強い毒を持つ外来生物の「ヒアリ」がおよそ100匹見つかったと発表しました。国内でヒアリが発見されたのは今年度初めてで、環境省は駆除を進めています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015132141000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015132141000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "「ヒアリ」横浜港本牧ふ頭で約100匹 今年度国内で初確認",
+      "description": "環境省は、今月23日に横浜市の横浜港の本牧ふ頭で、強い毒を持つ外来生物の「ヒアリ」がおよそ100匹見つかったと発表しました。国内でヒアリが発見されたのは今年度初めてで、環境省は駆除を進めています。\n\n",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015132141_202605262057_202605262057/index.m3u8&mrposter=/news/html/20260526/K10015132141_2605261931_0526205820_01_03.jpg",
+      "duration": "PT50S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015132141_202605262057_202605262057/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260526/K10015132141_2605261931_0526205820_01_03.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "外来生物「ヒアリ」国内での確認 昨年度36件で過去最多 環境省",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015105471_2604221518_0422162903_01_02.jpg",
+      "datePublished": "2026-04-22T17:39:19+09:00"
+    },
+    {
+      "name": "「国家情報局」設置法案 参議院内閣委員会で可決 あす成立へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131931000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260526/K10015131931_2605261639_0526165059_01_02.jpg",
+      "datePublished": "2026-05-26T20:46:05+09:00"
+    },
+    {
+      "name": "巨人 阿部慎之助監督が辞任 娘への暴行疑いで逮捕を受けて",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260526/K10015131461_2605261732_0526173939_01_03.jpg",
+      "datePublished": "2026-05-26T18:49:03+09:00"
+    },
+    {
+      "name": "栃木強盗殺人事件 不審車の容疑者再逮捕へ 住宅侵入工具所持か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015132051000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260526/K10015132051_2605261752_0526182059_01_02.jpg",
+      "datePublished": "2026-05-26T18:20:58+09:00"
+    },
+    {
+      "name": "東京 銀座 男が入店直後にスプレー噴射か 警視庁が行方捜査",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131951000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260526/K10015131951_2605261706_0526174955_01_02.jpg",
+      "datePublished": "2026-05-26T17:49:54+09:00"
+    },
+    {
+      "name": "工事現場でセメントに巻き込まれ2人死亡 滋賀 草津",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131871000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260526/K10015131871_2605261513_0526153102_01_02.jpg",
+      "datePublished": "2026-05-26T15:31:01+09:00"
+    },
+    {
+      "name": "奄美除く鹿児島 あす未明～夕方 線状降水帯のおそれ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131971000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260526/K10015131971_2605261805_0526181025_01_02.jpg",
+      "datePublished": "2026-05-26T18:10:24+09:00"
+    },
+    {
+      "name": "カンヌ映画祭 最優秀女優賞 岡本多緒さんら会見【動画】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131491000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260526/K10015131491_2605261649_0526172441_01_02.jpg",
+      "datePublished": "2026-05-26T17:24:41+09:00"
+    },
+    {
+      "name": "脱毛や肌の変色 がんの副作用で私が壊れていく…",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015127591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260526/K10015127591_2605261404_0526165733_01_02.jpg",
+      "datePublished": "2026-05-26T16:57:32+09:00"
+    },
+    {
+      "name": "“魂の交流”描く 濱口竜介監督「急に具合が悪くなる」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015130671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260525/K10015130671_2605251440_0525170146_01_02.jpg",
+      "datePublished": "2026-05-25T17:01:45+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

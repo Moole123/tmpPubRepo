@@ -1,0 +1,144 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015096221000",
+  "dataSourceId": "na",
+  "name": "台風4号が発生 日本のはるか南の海上 今後の情報に注意 気象庁",
+  "headline": "台風4号が発生 日本のはるか南の海上 今後の情報に注意 気象庁",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015096221000",
+    "playlistId": "news-nwa-disaster-nationwide-20260410",
+    "newsarticleName": "台風4号が発生 日本のはるか南の海上 今後の情報に注意 気象庁",
+    "playlistName": "4月10日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "10日午前、日本のはるか南の海上で台風4号が発生しました。気象庁は今後の情報に注意するよう呼びかけています。\n\n\n気象庁の観測によりますと、10日午前3時、日本のはるか南のトラック諸島近海で熱帯低気圧",
+  "dateModified": "2026-04-10T05:56:24+09:00",
+  "datePublished": "2026-04-10T05:56:24+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260410/K10015096221_2604100542_0410055625_02_01.jpg",
+      "height": 719,
+      "width": 1279
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260410/K10015096221_2604100542_0410055625_01_02.jpg",
+      "height": 719,
+      "width": 1279
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0001345",
+      "name": "台風",
+      "display": true
+    },
+    {
+      "id": "0000035",
+      "name": "気象",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "10日午前、日本のはるか南の海上で台風4号が発生しました。気象庁は今後の情報に注意するよう呼びかけています。\n\n\n気象庁の観測によりますと、10日午前3時、日本のはるか南のトラック諸島近海で熱帯低気圧",
+  "articleBody": "10日午前、日本のはるか南の海上で台風4号が発生しました。気象庁は今後の情報に注意するよう呼びかけています。\n\n\n気象庁の観測によりますと、10日午前3時、日本のはるか南のトラック諸島近海で熱帯低気圧が台風4号に変わりました。\n\n中心の気圧は996ヘクトパスカル、中心付近の最大風速は18メートル、最大瞬間風速は25メートルで、中心の北東側440キロ以内と南西側330キロ以内では風速15メートル以上の強い風が吹いています。\n\n台風は1時間におよそ20キロの速さで西へ進んでいて、今後、勢力を強めながら北西へ進むと予想されています。\n\n進路の予想に幅があり、気象庁は今後の情報に注意するよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "10日午前、日本のはるか南の海上で台風4号が発生しました。気象庁は今後の情報に注意するよう呼びかけています。\n",
+    "markedBody": "気象庁の観測によりますと、10日午前3時、日本のはるか南のトラック諸島近海で熱帯低気圧が台風4号に変わりました。\n\n中心の気圧は996ヘクトパスカル、中心付近の最大風速は18メートル、最大瞬間風速は25メートルで、中心の北東側440キロ以内と南西側330キロ以内では風速15メートル以上の強い風が吹いています。\n\n台風は1時間におよそ20キロの速さで西へ進んでいて、今後、勢力を強めながら北西へ進むと予想されています。\n\n進路の予想に幅があり、気象庁は今後の情報に注意するよう呼びかけています。\n",
+    "trimmedLead": "10日午前、日本のはるか南の海上で台風4号が発生しました。気象庁は今後の情報に注意するよう呼びかけています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015096221000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015096221000",
+  "video": [],
+  "citation": [
+    {
+      "name": "大阪 和泉 母娘2人殺害 トラブル相談なし 死亡は午前4時ごろか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015096211000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260410/K10015096211_2604100006_0410050441_01_02.jpg",
+      "datePublished": "2026-04-10T05:04:40+09:00"
+    },
+    {
+      "name": "【イラン情勢】日本経済への影響は？ 先行きへの不安も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015095761000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260409/K10015095761_2604091922_0409193528_01_02.jpg",
+      "datePublished": "2026-04-09T19:35:27+09:00"
+    },
+    {
+      "name": "レバノンで大規模攻撃 停戦の合意内容めぐり認識の相違",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015095271000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260409/K10015095271_2604090717_0409073732_01_03.jpg",
+      "datePublished": "2026-04-09T21:47:40+09:00"
+    },
+    {
+      "name": "NY原油市場 WTI先物価格が上昇 一時1バレル＝102ドル台に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015096181000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260409/K10015096181_2604092300_0409230441_01_02.jpg",
+      "datePublished": "2026-04-10T04:35:16+09:00"
+    },
+    {
+      "name": "憲法改正めぐり 自民・維新 起草委設置を 中道 論議を深める",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015096101000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260410/K10015096101_2604092253_0410051524_01_02.jpg",
+      "datePublished": "2026-04-10T05:15:23+09:00"
+    },
+    {
+      "name": "再審見直し案 政府が修正検討 検察の不服申し立て禁止意見も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015096111000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260410/K10015096111_2604092237_0410051201_01_02.jpg",
+      "datePublished": "2026-04-10T05:12:00+09:00"
+    },
+    {
+      "name": "京都 南丹 男児不明 山の中を捜索も新たな手がかり得られず",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015095931000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260409/K10015095931_2604091844_0409185842_01_02.jpg",
+      "datePublished": "2026-04-09T18:58:41+09:00"
+    },
+    {
+      "name": "【プロ野球結果】阪神 4年目の茨木秀俊 プロ初先発で初勝利",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015096071000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260409/K10015096071_2604092126_0409220057_01_02.jpg",
+      "datePublished": "2026-04-09T23:21:52+09:00"
+    },
+    {
+      "name": "アメリカ財務省高官にきく 日本版CFIUSの意義と課題",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015095541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260409/K10015095541_2604091730_0409221451_01_02.jpg",
+      "datePublished": "2026-04-09T22:14:50+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

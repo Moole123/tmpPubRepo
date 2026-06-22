@@ -1,0 +1,161 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015105841000",
+  "dataSourceId": "na",
+  "name": "米EVメーカー テスラ 1-3月期決算 増収増益に",
+  "headline": "米EVメーカー テスラ 1-3月期決算 増収増益に",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015105841000",
+    "playlistId": "news-nwa-business-nationwide-20260423",
+    "newsarticleName": "米EVメーカー テスラ 1-3月期決算 増収増益に",
+    "playlistName": "4月23日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "アメリカの電気自動車メーカー「テスラ」は、22日、ことし1月から3月までの3か月間の決算を発表しました。\n\n\nそれによりますと、売り上げは前の年の同じ時期と比べて16％増えて223億8700万ドル、日",
+  "dateModified": "2026-04-23T07:42:37+09:00",
+  "datePublished": "2026-04-23T07:42:37+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260423/K10015105841_2604230706_0423074238_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260423/K10015105841_2604230706_0423074238_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済",
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0000408",
+      "name": "EV（電気自動車）",
+      "display": true
+    },
+    {
+      "id": "0002417",
+      "name": "自動車",
+      "display": true
+    },
+    {
+      "id": "0002729",
+      "name": "決算",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "アメリカの電気自動車メーカー「テスラ」は、22日、ことし1月から3月までの3か月間の決算を発表しました。\n\n\nそれによりますと、売り上げは前の年の同じ時期と比べて16％増えて223億8700万ドル、日",
+  "articleBody": "アメリカの電気自動車メーカー「テスラ」は、22日、ことし1月から3月までの3か月間の決算を発表しました。\n\n\nそれによりますと、売り上げは前の年の同じ時期と比べて16％増えて223億8700万ドル、日本円でおよそ3兆5600億円となりました。\n\n最終的な利益は、前の年の同じ時期と比べて17％増えて4億7700万ドル、日本円でおよそ760億円と増収増益でした。\n\n去年はイーロン・マスクCEOの政治的な言動をきっかけに広がった不買運動などの影響で減益が続いていましたが、収益がひとまず回復した形です。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカの電気自動車メーカー「テスラ」は、22日、ことし1月から3月までの3か月間の決算を発表しました。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20260423/K10015105841_2604230650_0423074238_02_03.jpg)\n\nそれによりますと、売り上げは前の年の同じ時期と比べて16％増えて223億8700万ドル、日本円でおよそ3兆5600億円となりました。\n\n最終的な利益は、前の年の同じ時期と比べて17％増えて4億7700万ドル、日本円でおよそ760億円と増収増益でした。\n\n去年はイーロン・マスクCEOの政治的な言動をきっかけに広がった不買運動などの影響で減益が続いていましたが、収益がひとまず回復した形です。\n",
+    "trimmedLead": "アメリカの電気自動車メーカー「テスラ」は、22日、ことし1月から3月までの3か月間の決算を発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015105841000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015105841000",
+  "video": [],
+  "citation": [
+    {
+      "name": "米テスラ 1～3月の販売台数 前年同期比6.3％増 欧州で販売回復",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015091171000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260403/K10015091171_2604030659_0403070955_01_02.jpg",
+      "datePublished": "2026-04-03T07:09:54+09:00"
+    },
+    {
+      "name": "ソニー・ホンダモビリティ “市場投入は困難” 事業縮小を発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015104811_2604212003_0421201407_01_02.jpg",
+      "datePublished": "2026-04-21T20:14:06+09:00"
+    },
+    {
+      "name": "米イラン停戦延長「3～5日」報道も イラン側は封鎖解除迫る",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105251000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015105251_2604221418_0422152101_01_03.jpg",
+      "datePublished": "2026-04-22T21:55:48+09:00"
+    },
+    {
+      "name": "EU執行機関が対策発表 燃料の価格高騰と不足への懸念で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106011000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015106011_2604230306_0423044530_01_02.jpg",
+      "datePublished": "2026-04-23T04:45:29+09:00"
+    },
+    {
+      "name": "欧州の航空会社の大幅減便相次ぐ イラン情勢受け燃料価格高騰",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105931000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015105931_2604222129_0422213514_01_02.jpg",
+      "datePublished": "2026-04-22T21:35:14+09:00"
+    },
+    {
+      "name": "メキシコ大統領  日本への原油輸出に前向きな姿勢示す",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015105541_2604221725_0422195422_01_02.jpg",
+      "datePublished": "2026-04-22T19:54:21+09:00"
+    },
+    {
+      "name": "ボーイング1-3月期決算 航空機の生産回復で増収も最終赤字",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015106041_2604230529_0423054018_01_02.jpg",
+      "datePublished": "2026-04-23T05:40:17+09:00"
+    },
+    {
+      "name": "ハンガリー新首相 5月上旬就任へ 体制刷新とEUとの関係修復か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106001000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015106001_2604230343_0423044301_01_02.jpg",
+      "datePublished": "2026-04-23T04:43:00+09:00"
+    },
+    {
+      "name": "「今夜、文明が滅びる」トランプ政権の“情報戦”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015094221_2604221532_0422204208_01_02.jpg",
+      "datePublished": "2026-04-22T20:42:07+09:00"
+    },
+    {
+      "name": "世界が注目 ホルムズ海峡を時系列で見る",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015100911000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260419/K10015100911_2604171613_0419100640_01_02.jpg",
+      "datePublished": "2026-04-19T10:06:39+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

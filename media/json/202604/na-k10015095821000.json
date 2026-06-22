@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015095821000",
+  "dataSourceId": "na",
+  "name": "天皇陛下 皇居で稲の種もみをまかれる",
+  "headline": "天皇陛下 皇居で稲の種もみをまかれる",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015095821000",
+    "playlistId": "news-nwa-society-nationwide-20260409",
+    "newsarticleName": "天皇陛下 皇居で稲の種もみをまかれる",
+    "playlistName": "4月9日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "天皇陛下は9日、皇居で稲の種もみをまかれました。\n\n\n皇居での稲作は昭和天皇が農業の奨励のため始めたもので、天皇陛下も上皇さまから受け継がれています。\n\nグレーのジャンパーとズボン姿の天皇陛下は午後3",
+  "dateModified": "2026-04-09T18:05:07+09:00",
+  "datePublished": "2026-04-09T18:05:07+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260409/K10015095821_2604091745_0409180508_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260409/K10015095821_2604091745_0409180508_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0000527",
+      "name": "皇室",
+      "display": true
+    },
+    {
+      "id": "0002613",
+      "name": "コメ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "天皇陛下は9日、皇居で稲の種もみをまかれました。\n\n\n皇居での稲作は昭和天皇が農業の奨励のため始めたもので、天皇陛下も上皇さまから受け継がれています。\n\nグレーのジャンパーとズボン姿の天皇陛下は午後3",
+  "articleBody": "天皇陛下は9日、皇居で稲の種もみをまかれました。\n\n\n皇居での稲作は昭和天皇が農業の奨励のため始めたもので、天皇陛下も上皇さまから受け継がれています。\n\nグレーのジャンパーとズボン姿の天皇陛下は午後3時ごろ、皇居内にある苗代に出向かれました。\n\nそして、苗代の前にしゃがんで、縄で仕切られた30センチ四方の区画ごとに、去年、皇居で収穫されたうるち米の「ニホンマサリ」ともち米の「マンゲツモチ」の種もみをそれぞれおよそ180粒ずつまかれました。\n\n種もみは1週間ほどで発芽する見込みで、来月には9日にまかれた種もみから育った苗を天皇陛下が皇居の田んぼに植えられ、秋に収穫されるコメは11月に皇居で行われる新嘗祭（にいなめさい）などで使われることになっています。\n",
+  "detailedArticleBody": {
+    "markedLead": "天皇陛下は9日、皇居で稲の種もみをまかれました。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20260409/K10015095821_2604091745_0409180508_02_03.jpg)\n\n皇居での稲作は昭和天皇が農業の奨励のため始めたもので、天皇陛下も上皇さまから受け継がれています。\n\nグレーのジャンパーとズボン姿の天皇陛下は午後3時ごろ、皇居内にある苗代に出向かれました。\n\nそして、苗代の前にしゃがんで、縄で仕切られた30センチ四方の区画ごとに、去年、皇居で収穫されたうるち米の「ニホンマサリ」ともち米の「マンゲツモチ」の種もみをそれぞれおよそ180粒ずつまかれました。\n\n種もみは1週間ほどで発芽する見込みで、来月には9日にまかれた種もみから育った苗を天皇陛下が皇居の田んぼに植えられ、秋に収穫されるコメは11月に皇居で行われる新嘗祭（にいなめさい）などで使われることになっています。\n",
+    "trimmedLead": "天皇陛下は9日、皇居で稲の種もみをまかれました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015095821000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015095821000",
+  "video": [],
+  "citation": [
+    {
+      "name": "天皇ご一家 福島 大熊町で教育施設を視察 地元の人との懇談も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094151000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260407/K10015094151_2604071756_0407183013_01_03.jpg",
+      "datePublished": "2026-04-07T19:36:01+09:00"
+    },
+    {
+      "name": "天皇ご一家 福島 富岡町 震災当時の状況など伝える施設視察",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015093861000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260407/K10015093861_2604071152_0407121132_01_02.jpg",
+      "datePublished": "2026-04-07T16:00:11+09:00"
+    },
+    {
+      "name": "天皇ご一家 福島の「東日本大震災・原子力災害伝承館」を訪問",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015093361000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015093361_2604061813_0406190355_01_02.jpg",
+      "datePublished": "2026-04-06T21:08:30+09:00"
+    },
+    {
+      "name": "JA全中会長 “イラン情勢悪化で国内農業 生産量低下のおそれ”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015095811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260409/K10015095811_2604091635_0409171138_01_02.jpg",
+      "datePublished": "2026-04-09T17:11:37+09:00"
+    },
+    {
+      "name": "自民党本部で大規模災害時に使う段ボールベッドなどの展示会",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015095731000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260409/K10015095731_2604091505_0409170835_01_02.jpg",
+      "datePublished": "2026-04-09T17:08:34+09:00"
+    },
+    {
+      "name": "高市首相 「OTC類似薬」追加負担 がんや難病患者など対応検討",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015095791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260409/K10015095791_2604091605_0409171020_01_02.jpg",
+      "datePublished": "2026-04-09T17:10:19+09:00"
+    },
+    {
+      "name": "中道 初の党の憲法調査会 論点ごとに考え方まとめる方針確認",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015095701000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260409/K10015095701_2604091441_0409170705_01_02.jpg",
+      "datePublished": "2026-04-09T17:07:05+09:00"
+    },
+    {
+      "name": "銭湯経営者ら イラン情勢で燃料価格高騰 政府に支援拡充を訴え",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015095801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260409/K10015095801_2604091644_0409164609_01_02.jpg",
+      "datePublished": "2026-04-09T16:46:08+09:00"
+    },
+    {
+      "name": "3月の「消費者態度指数」3か月ぶりに低下 原油価格高騰影響か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015095781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260409/K10015095781_2604091553_0409164910_01_02.jpg",
+      "datePublished": "2026-04-09T16:49:10+09:00"
+    },
+    {
+      "name": "パレスチナ ヨルダン川西岸 “ミサイル破片落下”で被害相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015095711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260409/K10015095711_2604091459_0409170557_01_02.jpg",
+      "datePublished": "2026-04-09T17:05:56+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

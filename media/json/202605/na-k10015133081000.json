@@ -1,0 +1,173 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015133081000",
+  "dataSourceId": "na",
+  "name": "偽造品対応めぐる2審判決 アマゾンに約200万円の賠償命令も大幅減額 東京高裁",
+  "headline": "偽造品対応めぐる2審判決 アマゾンに賠償命令も大幅減額",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015133081000",
+    "playlistId": "news-nwa-society-nationwide-20260527",
+    "newsarticleName": "偽造品対応めぐる2審判決 アマゾンに約200万円の賠償命令も大幅減額 東京高裁",
+    "playlistName": "5月27日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "ネット通販大手の「アマゾン」に医療機器を出品した会社が、「偽造品への対応が不十分で売り上げが下がった」と訴えた裁判で、2審の東京高等裁判所は1審より賠償額を大幅に減らし、アマゾンジャパンにおよそ200",
+  "dateModified": "2026-05-27T17:54:02+09:00",
+  "datePublished": "2026-05-27T17:54:02+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260527/K10015133081_2605271707_0527175403_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260527/K10015133081_2605271707_0527175403_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002682",
+      "name": "裁判",
+      "display": true
+    },
+    {
+      "id": "0000009",
+      "name": "IT・ネット",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ネット通販大手の「アマゾン」に医療機器を出品した会社が、「偽造品への対応が不十分で売り上げが下がった」と訴えた裁判で、2審の東京高等裁判所は1審より賠償額を大幅に減らし、アマゾンジャパンにおよそ200",
+  "articleBody": "ネット通販大手の「アマゾン」に医療機器を出品した会社が、「偽造品への対応が不十分で売り上げが下がった」と訴えた裁判で、2審の東京高等裁判所は1審より賠償額を大幅に減らし、アマゾンジャパンにおよそ200万円の賠償を命じました。\n\n\n医療機器のパルスオキシメーターをアマゾンに出品していた「エクセルプラン」など2社は、5年前、「相乗り出品」という仕組みで別の出品者の偽造品と同じページに表示されたとして是正を求めましたが、適切に対応されず売り上げが減少したとして、アマゾンジャパンに2億8000万円あまりの賠償を求めました。\n\n去年4月、1審の東京地方裁判所は、アマゾン側が正規品も含めた商品のページ全体を削除したことについて「合理的な理由がない」として3500万円の賠償を命じ、双方が控訴していました。\n\n27日の2審の判決で東京高等裁判所の三木素子裁判長は、「原告がオンラインのフォームで商標権侵害の申告をした際、関連する『すべての商品』を申告の対象に選択していた。アマゾン側がページ全体を削除したのは、申告を実現したといえる」と指摘し、削除については賠償責任を認めませんでした。\n\n一方で、アマゾン側のシステムで、「出品価格が誤って設定されている可能性がある」として、正規品の出品が自動的に停止されたことについては、「速やかに停止措置を解除すべきで、解除の遅れについて重過失があった」として、原告の1社におよそ200万円を賠償するようアマゾンジャパンに命じました。\n",
+  "detailedArticleBody": {
+    "markedLead": "ネット通販大手の「アマゾン」に医療機器を出品した会社が、「偽造品への対応が不十分で売り上げが下がった」と訴えた裁判で、2審の東京高等裁判所は1審より賠償額を大幅に減らし、アマゾンジャパンにおよそ200万円の賠償を命じました。\n",
+    "markedBody": "医療機器のパルスオキシメーターをアマゾンに出品していた「エクセルプラン」など2社は、5年前、「相乗り出品」という仕組みで別の出品者の偽造品と同じページに表示されたとして是正を求めましたが、適切に対応されず売り上げが減少したとして、アマゾンジャパンに2億8000万円あまりの賠償を求めました。\n\n去年4月、1審の東京地方裁判所は、アマゾン側が正規品も含めた商品のページ全体を削除したことについて「合理的な理由がない」として3500万円の賠償を命じ、双方が控訴していました。\n\n27日の2審の判決で東京高等裁判所の三木素子裁判長は、「原告がオンラインのフォームで商標権侵害の申告をした際、関連する『すべての商品』を申告の対象に選択していた。アマゾン側がページ全体を削除したのは、申告を実現したといえる」と指摘し、削除については賠償責任を認めませんでした。\n\n一方で、アマゾン側のシステムで、「出品価格が誤って設定されている可能性がある」として、正規品の出品が自動的に停止されたことについては、「速やかに停止措置を解除すべきで、解除の遅れについて重過失があった」として、原告の1社におよそ200万円を賠償するようアマゾンジャパンに命じました。\n",
+    "trimmedLead": "ネット通販大手の「アマゾン」に医療機器を出品した会社が、「偽造品への対応が不十分で売り上げが下がった」と訴えた裁判で、2審の東京高等裁判所は1審より賠償額を大幅に減らし、アマゾンジャパンにおよそ200万円の賠償を命じました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015133081000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015133081000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "偽造品対応めぐる2審判決 アマゾンに賠償命令も大幅減額",
+      "description": "ネット通販大手の「アマゾン」に医療機器を出品した会社が、「偽造品への対応が不十分で売り上げが下がった」と訴えた裁判で、2審の東京高等裁判所は1審より賠償額を大幅に減らし、アマゾンジャパンにおよそ200",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015133081_202605271817_202605271817/index.m3u8&mrposter=/news/html/20260527/K10015133081_2605271707_0527175403_01_02.jpg",
+      "duration": "PT1M25S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015133081_202605271817_202605271817/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260527/K10015133081_2605271707_0527175403_01_02.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "新たな防災気象情報 あす午後から発表開始",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015132591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260527/K10015132591_2605271605_0527163411_01_02.jpg",
+      "datePublished": "2026-05-27T16:34:10+09:00"
+    },
+    {
+      "name": "「国家情報局」設置法 成立 政府のインテリジェンス機能強化へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015132531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260527/K10015132531_2605271248_0527125713_01_02.jpg",
+      "datePublished": "2026-05-27T18:41:56+09:00"
+    },
+    {
+      "name": "経済安全保障推進法などの改正案 参議院で審議入り",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015132781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260527/K10015132781_2605271421_0527142559_01_02.jpg",
+      "datePublished": "2026-05-27T14:25:58+09:00"
+    },
+    {
+      "name": "日銀 植田総裁 “原油高騰に加え賃金・為替等の影響も注視”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015132801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260527/K10015132801_2605271350_0527150513_01_03.jpg",
+      "datePublished": "2026-05-27T17:07:51+09:00"
+    },
+    {
+      "name": "台風6号が発生 来週 沖縄付近へ進むおそれ 今後の情報に注意を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015132541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260527/K10015132541_2605271641_0527164204_01_02.jpg",
+      "datePublished": "2026-05-27T17:13:35+09:00"
+    },
+    {
+      "name": "鹿児島県 線状降水帯発生のおそれなくなるも土砂災害に警戒を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015132291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260527/K10015132291_2605271828_0527183336_01_02.jpg",
+      "datePublished": "2026-05-27T18:33:35+09:00"
+    },
+    {
+      "name": "【1分解説】5月に猛暑日 なぜ？これから夏はどうなる？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015128461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260527/K10015128461_2605270924_0527104330_01_03.jpg",
+      "datePublished": "2026-05-27T10:43:29+09:00"
+    },
+    {
+      "name": "株価 取り引き時間中の最高値更新も終値は小幅な値上がり",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015132451000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260527/K10015132451_2605271146_0527120556_01_02.jpg",
+      "datePublished": "2026-05-27T16:35:44+09:00"
+    },
+    {
+      "name": "“魂の交流”描く 濱口竜介監督「急に具合が悪くなる」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015130671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260525/K10015130671_2605251440_0525170146_01_02.jpg",
+      "datePublished": "2026-05-25T17:01:45+09:00"
+    },
+    {
+      "name": "脱毛や肌の変色 がんの副作用で私が壊れていく…",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015127591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260526/K10015127591_2605261404_0526165733_01_02.jpg",
+      "datePublished": "2026-05-26T16:57:32+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

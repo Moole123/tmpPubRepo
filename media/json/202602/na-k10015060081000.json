@@ -1,0 +1,139 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015060081000",
+  "dataSourceId": "na",
+  "name": "高市首相動静 2026年2月24日",
+  "headline": "高市首相動静 2026年2月24日",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015060081000",
+    "playlistId": "news-nwa-politics-nationwide-20260225",
+    "newsarticleName": "高市首相動静 2026年2月24日",
+    "playlistName": "2月25日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "（高市首相動静 2026年2月24日）\n\n\n09:51 徒歩で公邸発\n09:52 官邸着\n10:02 閣議（～10:07）\n12:53 官邸発\n12:54 国会着\n13:02 衆議院本会議（～15:5",
+  "dateModified": "2026-02-25T09:43:54+09:00",
+  "datePublished": "2026-02-25T09:43:54+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260225/K10015060081_2602250856_0225094355_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260225/K10015060081_2602250856_0225094355_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0002532",
+      "name": "首相動静",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "（高市首相動静 2026年2月24日）\n\n\n09:51 徒歩で公邸発\n09:52 官邸着\n10:02 閣議（～10:07）\n12:53 官邸発\n12:54 国会着\n13:02 衆議院本会議（～15:5",
+  "articleBody": "（高市首相動静 2026年2月24日）\n\n\n09:51 徒歩で公邸発\n09:52 官邸着\n10:02 閣議（～10:07）\n12:53 官邸発\n12:54 国会着\n13:02 衆議院本会議（～15:56）\n15:59 国会発\n16:01 官邸着\n17:05 ドイツのメルツ首相と電話会談（～17:27）\n17:31 市川恵一国家安全保障局長、原和也内閣情報官と面会（～17:43）\n17:44 原内閣情報官と面会（～17:49）\n18:01 経済財政諮問会議（～18:48）\n19:42 徒歩で官邸発\n19:44 公邸着\n",
+  "detailedArticleBody": {
+    "markedLead": "（高市首相動静 2026年2月24日）\n",
+    "markedBody": "09:51 徒歩で公邸発\\\n09:52 官邸着\\\n10:02 閣議（～10:07）\\\n12:53 官邸発\\\n12:54 国会着\\\n13:02 衆議院本会議（～15:56）\\\n15:59 国会発\\\n16:01 官邸着\\\n17:05 ドイツのメルツ首相と電話会談（～17:27）\\\n17:31 市川恵一国家安全保障局長、原和也内閣情報官と面会（～17:43）\\\n17:44 原内閣情報官と面会（～17:49）\\\n18:01 経済財政諮問会議（～18:48）\\\n19:42 徒歩で官邸発\\\n19:44 公邸着\n",
+    "trimmedLead": "（高市首相動静 2026年2月24日）\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015060081000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015060081000",
+  "video": [],
+  "citation": [
+    {
+      "name": "参院代表質問 立民 カタログギフト事実関係など説明求める方針",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015059961000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260225/K10015059961_2602250218_0225051913_01_02.jpg",
+      "datePublished": "2026-02-25T05:19:12+09:00"
+    },
+    {
+      "name": "「国民会議」あすにもチームみらいの参加得て初会合開く案検討",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015059971000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260225/K10015059971_2602250200_0225052033_01_02.jpg",
+      "datePublished": "2026-02-25T05:20:32+09:00"
+    },
+    {
+      "name": "千葉 野田 住宅に強盗 3人組が金庫奪う 住民の80代男性けが",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015060071000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260225/K10015060071_2602250756_0225075629_01_03.jpg",
+      "datePublished": "2026-02-25T10:53:25+09:00"
+    },
+    {
+      "name": "【ライブ配信中】トランプ大統領 一般教書演説始まる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015059991000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260225/K10015059991_2602251118_0225112058_01_02.jpg",
+      "datePublished": "2026-02-25T11:22:47+09:00"
+    },
+    {
+      "name": "“イラン軍事作戦にリスク”報道は「事実無根」米報道官",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015060061000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260225/K10015060061_2602250646_0225075304_01_02.jpg",
+      "datePublished": "2026-02-25T10:44:35+09:00"
+    },
+    {
+      "name": "ゼレンスキー大統領 “ロシアとの和平協議 欧州の参加必要”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015060051000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260225/K10015060051_2602250618_0225061938_01_03.jpg",
+      "datePublished": "2026-02-25T06:19:37+09:00"
+    },
+    {
+      "name": "「研究開発税制」昨年度の減税額 初めて1兆円超 財務省が公表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015059851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260225/K10015059851_2602242024_0225050607_01_02.jpg",
+      "datePublished": "2026-02-25T05:06:06+09:00"
+    },
+    {
+      "name": "ミラノ・コルティナ五輪 日本選手団帰国し会見 大会振り返る",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015059671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260224/K10015059671_2602241623_0224163021_01_02.jpg",
+      "datePublished": "2026-02-24T19:27:50+09:00"
+    },
+    {
+      "name": "“魔法のつえ”が奪われた 最高裁Noで新たなトランプ関税は？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015059291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260224/K10015059291_2602241818_0224195945_01_02.jpg",
+      "datePublished": "2026-02-24T19:59:44+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

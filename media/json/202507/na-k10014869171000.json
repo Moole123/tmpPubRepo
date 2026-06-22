@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014869171000",
+  "dataSourceId": "na",
+  "name": "参議院選挙2025 比例代表 自民党 犬童周作氏 当選",
+  "headline": "参議院選挙 比例代表 自民 犬童周作氏 当選",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014869171000",
+    "playlistId": "news-nwa-politics-nationwide-20250720",
+    "newsarticleName": "参議院選挙2025 比例代表 自民党 犬童周作氏 当選",
+    "playlistName": "7月20日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "参議院選挙の比例代表で、自民党の新人、犬童周作氏が当選しました。\n\n\n犬童氏は57歳。\n\n総務省の郵便課長や審議官などを歴任し、現在は全国郵便局長会の相談役を務めています。\n\n選挙戦で、犬童氏は、郵便",
+  "dateModified": "2025-07-20T21:27:50+09:00",
+  "datePublished": "2025-07-20T21:27:50+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250720/K10014869171_2507202123_0720212348_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250720/K10014869171_2507202123_0720212348_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "参議院選挙の比例代表で、自民党の新人、犬童周作氏が当選しました。\n\n\n犬童氏は57歳。\n\n総務省の郵便課長や審議官などを歴任し、現在は全国郵便局長会の相談役を務めています。\n\n選挙戦で、犬童氏は、郵便",
+  "articleBody": "参議院選挙の比例代表で、自民党の新人、犬童周作氏が当選しました。\n\n\n犬童氏は57歳。\n\n総務省の郵便課長や審議官などを歴任し、現在は全国郵便局長会の相談役を務めています。\n\n選挙戦で、犬童氏は、郵便局のネットワークをいかした地域の活性化などを訴えて全国郵便局長会を中心に各地で幅広い支持を集め、初めての当選を果たしました。\n",
+  "detailedArticleBody": {
+    "markedLead": "参議院選挙の比例代表で、自民党の新人、犬童周作氏が当選しました。\n",
+    "markedBody": "犬童氏は57歳。\n\n総務省の郵便課長や審議官などを歴任し、現在は全国郵便局長会の相談役を務めています。\n\n選挙戦で、犬童氏は、郵便局のネットワークをいかした地域の活性化などを訴えて全国郵便局長会を中心に各地で幅広い支持を集め、初めての当選を果たしました。\n",
+    "trimmedLead": "参議院選挙の比例代表で、自民党の新人、犬童周作氏が当選しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014869171000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014869171000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

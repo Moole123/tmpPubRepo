@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014895341000",
+  "dataSourceId": "na",
+  "name": "ロシア“北方領土周辺海域で軍事演習”通告 日本政府は抗議",
+  "headline": "ロシア“北方領土周辺海域で軍事演習”通告 日本政府は抗議",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014895341000",
+    "playlistId": "news-nwa-politics-nationwide-20250815",
+    "newsarticleName": "ロシア“北方領土周辺海域で軍事演習”通告 日本政府は抗議",
+    "playlistName": "8月15日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "ロシア政府が8月1日から9月1日までの期間、北方領土の周辺海域で軍事演習を行うと日本政府に通告していたことがわかりました。日本政府は北方領土における日本の立場と相いれず、受け入れられないとして、外交ル",
+  "dateModified": "2025-08-15T22:15:25+09:00",
+  "datePublished": "2025-08-15T22:15:25+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250815/K10014895341_2508152107_0815221527_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250815/K10014895341_2508152107_0815221527_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治",
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "ロシア政府が8月1日から9月1日までの期間、北方領土の周辺海域で軍事演習を行うと日本政府に通告していたことがわかりました。日本政府は北方領土における日本の立場と相いれず、受け入れられないとして、外交ル",
+  "articleBody": "ロシア政府が8月1日から9月1日までの期間、北方領土の周辺海域で軍事演習を行うと日本政府に通告していたことがわかりました。日本政府は北方領土における日本の立場と相いれず、受け入れられないとして、外交ルートを通じてロシア側に抗議しました。\n\n\n外務省によりますと、ロシア政府は7月28日付けで、8月1日から9月1日までの期間、北方領土の色丹島北方の海域で射撃訓練を実施するとして航行警報を出したということです。\n\nこれを受け、日本政府は7月28日付けで外務省のロシア課長が東京のロシア大使館に対し「北方四島におけるロシアによる軍備の強化は日本の立場と相いれず、受け入れられない」として抗議しました。\n\nロシアは北方領土周辺での軍事演習を活発化させていて、ことし4月と、6月から7月にかけても北方領土周辺で軍事演習を行うと通告していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "ロシア政府が8月1日から9月1日までの期間、北方領土の周辺海域で軍事演習を行うと日本政府に通告していたことがわかりました。日本政府は北方領土における日本の立場と相いれず、受け入れられないとして、外交ルートを通じてロシア側に抗議しました。\n",
+    "markedBody": "外務省によりますと、ロシア政府は7月28日付けで、8月1日から9月1日までの期間、北方領土の色丹島北方の海域で射撃訓練を実施するとして航行警報を出したということです。\n\nこれを受け、日本政府は7月28日付けで外務省のロシア課長が東京のロシア大使館に対し「北方四島におけるロシアによる軍備の強化は日本の立場と相いれず、受け入れられない」として抗議しました。\n\nロシアは北方領土周辺での軍事演習を活発化させていて、ことし4月と、6月から7月にかけても北方領土周辺で軍事演習を行うと通告していました。\n",
+    "trimmedLead": "ロシア政府が8月1日から9月1日までの期間、北方領土の周辺海域で軍事演習を行うと日本政府に通告していたことがわかりました。日本政府は北方領土における日本の立場と相いれず、受け入れられないとして、外交ルートを通じてロシア側に抗議しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014895341000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014895341000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015115281000",
+  "dataSourceId": "na",
+  "name": "アメリカのAI企業アンソロピック 「クロード・ミュトス」に中国が半年から1年ほどで追いつくとの認識示す",
+  "headline": "米アンソロピック 「ミュトス」に中国が追いつく可能性 言及",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015115281000",
+    "playlistId": "news-nwa-international-nationwide-20260506",
+    "newsarticleName": "アメリカのAI企業アンソロピック 「クロード・ミュトス」に中国が半年から1年ほどで追いつくとの認識示す",
+    "playlistName": "5月6日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "アメリカのAI新興企業「アンソロピック」は5日、ソフトウエアのぜい弱性を発見する能力が高いとされる自社のAIモデルの性能に、中国が半年から1年ほどで追いつくとの認識を示しました。\n\n\nアンソロピックが",
+  "dateModified": "2026-05-06T12:52:44+09:00",
+  "datePublished": "2026-05-06T12:52:44+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260506/K10015115281_2605061247_0506125245_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260506/K10015115281_2605061247_0506125245_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0000010",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "0001595",
+      "name": "中国",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "アメリカのAI新興企業「アンソロピック」は5日、ソフトウエアのぜい弱性を発見する能力が高いとされる自社のAIモデルの性能に、中国が半年から1年ほどで追いつくとの認識を示しました。\n\n\nアンソロピックが",
+  "articleBody": "アメリカのAI新興企業「アンソロピック」は5日、ソフトウエアのぜい弱性を発見する能力が高いとされる自社のAIモデルの性能に、中国が半年から1年ほどで追いつくとの認識を示しました。\n\n\nアンソロピックが開発した高性能なAIモデル「クロード・ミュトス」は、OS＝基本ソフトやウェブブラウザのぜい弱性を特定できる能力が高く、高度なサイバー攻撃に悪用されるおそれがあることから提供先は一部の企業に限定されています。\n\n会社のダリオ・アモデイCEOは5日、ニューヨークで開かれたイベントで、同様のAIモデルの開発状況に言及し「中国のモデルは6か月から12か月ほど遅れていると思う。その期間内には中国は追いついてくる」と述べ、半年から1年ほどで中国が自社のAIモデルの性能に追いつくとの認識を示しました。\n\nそのうえで、企業や政府機関は、サイバー攻撃などに備え、欠陥のあるソフトウエアなどを修正することが必要だとの考えを強調しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカのAI新興企業「アンソロピック」は5日、ソフトウエアのぜい弱性を発見する能力が高いとされる自社のAIモデルの性能に、中国が半年から1年ほどで追いつくとの認識を示しました。\n",
+    "markedBody": "アンソロピックが開発した高性能なAIモデル「クロード・ミュトス」は、OS＝基本ソフトやウェブブラウザのぜい弱性を特定できる能力が高く、高度なサイバー攻撃に悪用されるおそれがあることから提供先は一部の企業に限定されています。\n\n会社のダリオ・アモデイCEOは5日、ニューヨークで開かれたイベントで、同様のAIモデルの開発状況に言及し「中国のモデルは6か月から12か月ほど遅れていると思う。その期間内には中国は追いついてくる」と述べ、半年から1年ほどで中国が自社のAIモデルの性能に追いつくとの認識を示しました。\n\nそのうえで、企業や政府機関は、サイバー攻撃などに備え、欠陥のあるソフトウエアなどを修正することが必要だとの考えを強調しました。\n",
+    "trimmedLead": "アメリカのAI新興企業「アンソロピック」は5日、ソフトウエアのぜい弱性を発見する能力が高いとされる自社のAIモデルの性能に、中国が半年から1年ほどで追いつくとの認識を示しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015115281000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015115281000",
+  "video": [],
+  "citation": [
+    {
+      "name": "子どものSNS利用 日本とEUで共同声明 情報共有強化へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115121000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260505/K10015115121_2605052159_0505222542_01_02.jpg",
+      "datePublished": "2026-05-05T22:25:42+09:00"
+    },
+    {
+      "name": "トランプ大統領“ホルムズ海峡通過させる取り組み短期間停止”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115211000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260506/K10015115211_2605060820_0506083229_01_02.jpg",
+      "datePublished": "2026-05-06T10:23:05+09:00"
+    },
+    {
+      "name": "トランプ大統領 海峡での取り組み短期停止 イランは中国と協議",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260506/K10015115041_2605061210_0506123207_01_03.jpg",
+      "datePublished": "2026-05-06T12:09:49+09:00"
+    },
+    {
+      "name": "日産 欧州の従業員約900人削減 英工場の生産ラインは統合へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115201000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260506/K10015115201_2605060814_0506083952_01_02.jpg",
+      "datePublished": "2026-05-06T08:39:52+09:00"
+    },
+    {
+      "name": "ハンタウイルス 一部でヒトからヒトに感染の可能性も WHO",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260506/K10015115141_2605060457_0506050901_01_02.jpg",
+      "datePublished": "2026-05-06T05:09:00+09:00"
+    },
+    {
+      "name": "マスク氏 米証券取引委員会と和解合意 2億3千万円余支払いへ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115161000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260506/K10015115161_2605060512_0506052228_01_02.jpg",
+      "datePublished": "2026-05-06T05:22:28+09:00"
+    },
+    {
+      "name": "マレーシアで特殊詐欺摘発 日本人5人含む2200人余り拘束",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260506/K10015115131_2605060312_0506051731_01_02.jpg",
+      "datePublished": "2026-05-06T05:17:30+09:00"
+    },
+    {
+      "name": "日本 フィリピン防衛相会談 中古護衛艦移転で時期など協議へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115011000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260506/K10015115011_2605060247_0506051245_01_02.jpg",
+      "datePublished": "2026-05-06T05:12:44+09:00"
+    },
+    {
+      "name": "NATOは何しに日本へ？気になるのは“あの国”との距離感",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109841000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260504/K10015109841_2605011509_0504111440_01_02.jpg",
+      "datePublished": "2026-05-04T11:14:39+09:00"
+    },
+    {
+      "name": "ロシア極東「サハリン2」の原油が愛媛到着 イラン軍事作戦後初",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015114921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260505/K10015114921_2605051508_0505153326_01_02.jpg",
+      "datePublished": "2026-05-05T15:33:25+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

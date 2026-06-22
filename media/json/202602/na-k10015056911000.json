@@ -1,0 +1,174 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015056911000",
+  "dataSourceId": "na",
+  "name": "幼稚園1クラス30人以下に引き下げ ことし4月から 文部科学省",
+  "headline": "幼稚園1クラス30人以下に引き下げ ことし4月から 文部科学省",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015056911000",
+    "playlistId": "news-nwa-politics-nationwide-20260220",
+    "newsarticleName": "幼稚園1クラス30人以下に引き下げ ことし4月から 文部科学省",
+    "playlistName": "2月20日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "文部科学省は、子どもたち一人一人の発達の特性などにきめ細かく対応していくため、幼稚園の1クラスあたりの人数を今の原則35人以下から30人以下に引き下げることになりました。\n\n\n文部科学省は20日付けで",
+  "dateModified": "2026-02-20T12:58:29+09:00",
+  "datePublished": "2026-02-20T12:58:29+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260220/K10015056911_2602201213_0220125830_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260220/K10015056911_2602201213_0220125830_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002402",
+      "name": "文部科学省",
+      "display": true
+    },
+    {
+      "id": "0000034",
+      "name": "教育",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "文部科学省は、子どもたち一人一人の発達の特性などにきめ細かく対応していくため、幼稚園の1クラスあたりの人数を今の原則35人以下から30人以下に引き下げることになりました。\n\n\n文部科学省は20日付けで",
+  "articleBody": "文部科学省は、子どもたち一人一人の発達の特性などにきめ細かく対応していくため、幼稚園の1クラスあたりの人数を今の原則35人以下から30人以下に引き下げることになりました。\n\n\n文部科学省は20日付けで省令を改正し、幼稚園のクラス編成の基準を今の原則35人以下から30人以下に引き下げることになりました。\n\n特別な配慮を必要とする子どもが増加傾向にあることから、一人一人の発達の特性などにきめ細かく対応していくためだとしていて、ことし4月1日から実施します。\n\n松本文部科学大臣は閣議のあとの記者会見で「先生が一人一人の子どもたちにかけられる時間を増やすことで、より質の高い教育の提供につなげることが大事だ」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "文部科学省は、子どもたち一人一人の発達の特性などにきめ細かく対応していくため、幼稚園の1クラスあたりの人数を今の原則35人以下から30人以下に引き下げることになりました。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20260220/K10015056911_2602201213_0220125830_02_03.jpg)\n\n文部科学省は20日付けで省令を改正し、幼稚園のクラス編成の基準を今の原則35人以下から30人以下に引き下げることになりました。\n\n特別な配慮を必要とする子どもが増加傾向にあることから、一人一人の発達の特性などにきめ細かく対応していくためだとしていて、ことし4月1日から実施します。\n\n松本文部科学大臣は閣議のあとの記者会見で「先生が一人一人の子どもたちにかけられる時間を増やすことで、より質の高い教育の提供につなげることが大事だ」と述べました。\n",
+    "trimmedLead": "文部科学省は、子どもたち一人一人の発達の特性などにきめ細かく対応していくため、幼稚園の1クラスあたりの人数を今の原則35人以下から30人以下に引き下げることになりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015056911000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015056911000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "幼稚園1クラス30人以下に引き下げ ことし4月から 文部科学省",
+      "description": "文部科学省は、子どもたち一人一人の発達の特性などにきめ細かく対応していくため、幼稚園の1クラスあたりの人数を今の原則35人以下から30人以下に引き下げることになりました。\n\n\n文部科学省は20日付けで",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015056911_202602201348_202602201348/index.m3u8&mrposter=/news/html/20260220/K10015056911_2602201213_0220125830_01_02.jpg",
+      "duration": "PT35S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015056911_202602201348_202602201348/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260220/K10015056911_2602201213_0220125830_01_02.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "留学生の管理不十分 群馬と愛知の大学2校を指導対象に 文科省",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015056471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260220/K10015056471_2602192039_0220044813_01_02.jpg",
+      "datePublished": "2026-02-20T04:48:12+09:00"
+    },
+    {
+      "name": "東北大など国立大3校 留学生の定員の上限緩和 文部科学省",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015055441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260219/K10015055441_2602182111_0219051043_01_02.jpg",
+      "datePublished": "2026-02-19T05:10:42+09:00"
+    },
+    {
+      "name": "視力「1.0未満」の子ども過去最多 高校生は7割超 文科省",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015051421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260214/K10015051421_2602141307_0214130821_01_03.jpg",
+      "datePublished": "2026-02-14T06:14:41+09:00"
+    },
+    {
+      "name": "iPS細胞の再生医療製品 3月上旬にも製造販売承認見込み 厚労省",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015056871000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260220/K10015056871_2602201256_0220125800_01_03.jpg",
+      "datePublished": "2026-02-20T12:17:05+09:00"
+    },
+    {
+      "name": "フィギュア女子シングル 坂本花織が銀 中井が銅メダル【詳報】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015056611000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260220/K10015056611_2602200747_0220082256_01_02.jpg",
+      "datePublished": "2026-02-20T12:11:35+09:00"
+    },
+    {
+      "name": "神奈川県警 不正な交通違反取締り 反則金約3500万円返還へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015056801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260220/K10015056801_2602201134_0220114317_01_02.jpg",
+      "datePublished": "2026-02-20T12:08:26+09:00"
+    },
+    {
+      "name": "ウクライナのパラ委員会“自国選手団が開会式ボイコット”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015056881000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260220/K10015056881_2602201159_0220120509_01_02.jpg",
+      "datePublished": "2026-02-20T12:05:08+09:00"
+    },
+    {
+      "name": "政府 122兆3000億円余の新年度予算案 国会に提出 総額過去最大",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015056811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260220/K10015056811_2602201121_0220115251_01_02.jpg",
+      "datePublished": "2026-02-20T12:51:52+09:00"
+    },
+    {
+      "name": "1月 消費者物価指数 去年同月比2％上昇 上昇率は前月より縮小",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015056741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260220/K10015056741_2602200843_0220085128_01_02.jpg",
+      "datePublished": "2026-02-20T11:25:10+09:00"
+    },
+    {
+      "name": "カプセルトイ展開の北海道の会社社長 盗撮の疑いで書類送検",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015056771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260220/K10015056771_2602201013_0220104604_01_03.jpg",
+      "datePublished": "2026-02-20T10:46:04+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014883731000",
+  "dataSourceId": "na",
+  "name": "中国海軍とロシア海軍 日本海に艦艇を展開 合同演習を開始",
+  "headline": "中国海軍とロシア海軍 日本海に艦艇を展開 合同演習を開始",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014883731000",
+    "playlistId": "news-nwa-international-nationwide-20250803",
+    "newsarticleName": "中国海軍とロシア海軍 日本海に艦艇を展開 合同演習を開始",
+    "playlistName": "8月3日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "中国海軍とロシア海軍は3日から日本海に艦艇を展開させ、海上での合同演習を始めました。演習の終了後には太平洋で合同パトロールを行うとしていて、両国はアメリカへの対抗も念頭に軍事面での協力を深めています。",
+  "dateModified": "2025-08-03T20:37:56+09:00",
+  "datePublished": "2025-08-03T20:37:56+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-640x360.png",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "中国海軍とロシア海軍は3日から日本海に艦艇を展開させ、海上での合同演習を始めました。演習の終了後には太平洋で合同パトロールを行うとしていて、両国はアメリカへの対抗も念頭に軍事面での協力を深めています。",
+  "articleBody": "中国海軍とロシア海軍は3日から日本海に艦艇を展開させ、海上での合同演習を始めました。演習の終了後には太平洋で合同パトロールを行うとしていて、両国はアメリカへの対抗も念頭に軍事面での協力を深めています。\n\n\n中国とロシアの海軍は近年、毎年のように合同の軍事演習を行っていて、中国の国営メディアなどによりますと、ことしは1日から図上演習などを行い、3日から海上での演習を始めました。\n\n中国からはミサイル駆逐艦などが、ロシアからは対潜水艦の作戦を担う大型の艦艇などが参加し、ロシア極東のウラジオストク周辺の日本海で、3日は通信の連携を確認しました。\n\n演習は5日までで、対潜水艦や対空防衛などの訓練を行い、終了後には太平洋の海域で合同パトロールを行うとしています。\n\n中国とロシアはアメリカへの対抗も念頭に軍事面での協力を深めていて、ことし5月にモスクワで行われた首脳会談でも、合同軍事演習の規模や範囲を拡大させていくことを確認しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "中国海軍とロシア海軍は3日から日本海に艦艇を展開させ、海上での合同演習を始めました。演習の終了後には太平洋で合同パトロールを行うとしていて、両国はアメリカへの対抗も念頭に軍事面での協力を深めています。\n",
+    "markedBody": "中国とロシアの海軍は近年、毎年のように合同の軍事演習を行っていて、中国の国営メディアなどによりますと、ことしは1日から図上演習などを行い、3日から海上での演習を始めました。\n\n中国からはミサイル駆逐艦などが、ロシアからは対潜水艦の作戦を担う大型の艦艇などが参加し、ロシア極東のウラジオストク周辺の日本海で、3日は通信の連携を確認しました。\n\n演習は5日までで、対潜水艦や対空防衛などの訓練を行い、終了後には太平洋の海域で合同パトロールを行うとしています。\n\n中国とロシアはアメリカへの対抗も念頭に軍事面での協力を深めていて、ことし5月にモスクワで行われた首脳会談でも、合同軍事演習の規模や範囲を拡大させていくことを確認しています。\n",
+    "trimmedLead": "中国海軍とロシア海軍は3日から日本海に艦艇を展開させ、海上での合同演習を始めました。演習の終了後には太平洋で合同パトロールを行うとしていて、両国はアメリカへの対抗も念頭に軍事面での協力を深めています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014883731000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014883731000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": false,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

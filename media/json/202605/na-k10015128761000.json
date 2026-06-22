@@ -1,0 +1,151 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015128761000",
+  "dataSourceId": "na",
+  "name": "マイナンバーカード義務化 “必要性もう少し議論” デジタル相",
+  "headline": "マイナンバーカード義務化 “必要性もう少し議論” デジタル相",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015128761000",
+    "playlistId": "news-nwa-politics-nationwide-20260522",
+    "newsarticleName": "マイナンバーカード義務化 “必要性もう少し議論” デジタル相",
+    "playlistName": "5月22日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "マイナンバーカードの普及に向けて自民党が取得の義務化を検討するよう政府に提言したことについて、松本デジタル大臣は、罰則なしの義務化によって普及が進むか効果は見通せないとして、必要性を慎重に検討する考え",
+  "dateModified": "2026-05-22T15:14:25+09:00",
+  "datePublished": "2026-05-22T15:14:25+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260522/K10015128761_2605221502_0522151426_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260522/K10015128761_2605221502_0522151426_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治",
+    "暮らし"
+  ],
+  "topic": [
+    {
+      "id": "0000170",
+      "name": "マイナンバー",
+      "display": true
+    },
+    {
+      "id": "0002405",
+      "name": "デジタル庁",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "マイナンバーカードの普及に向けて自民党が取得の義務化を検討するよう政府に提言したことについて、松本デジタル大臣は、罰則なしの義務化によって普及が進むか効果は見通せないとして、必要性を慎重に検討する考え",
+  "articleBody": "マイナンバーカードの普及に向けて自民党が取得の義務化を検討するよう政府に提言したことについて、松本デジタル大臣は、罰則なしの義務化によって普及が進むか効果は見通せないとして、必要性を慎重に検討する考えを示しました。\n\n\n自民党のデジタル社会推進本部は、今週19日にまとめた提言の中で、マイナンバーカードの取得の義務化を検討するよう政府に求めていて、罰則は設けないとしています。\n\nこれについて、松本デジタル大臣は閣議のあとの記者会見で、「今の保有者数の増加率は年に450万人ほどで、このペースで増えていくと、そこまで長い時間がかからずに皆さんに持っていただける見込みがある」と述べました。\n\nそのうえで「思想的に持ちたくない人や持つのが心配だという人も一定数いる。罰則なしの義務化でそれほどすごい効果が出るとは思わない。本当に法的な必要性があるかはもう少し議論しないといけない」と述べ、慎重に検討する考えを示しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "マイナンバーカードの普及に向けて自民党が取得の義務化を検討するよう政府に提言したことについて、松本デジタル大臣は、罰則なしの義務化によって普及が進むか効果は見通せないとして、必要性を慎重に検討する考えを示しました。\n",
+    "markedBody": "自民党のデジタル社会推進本部は、今週19日にまとめた提言の中で、マイナンバーカードの取得の義務化を検討するよう政府に求めていて、罰則は設けないとしています。\n\nこれについて、松本デジタル大臣は閣議のあとの記者会見で、「今の保有者数の増加率は年に450万人ほどで、このペースで増えていくと、そこまで長い時間がかからずに皆さんに持っていただける見込みがある」と述べました。\n\nそのうえで「思想的に持ちたくない人や持つのが心配だという人も一定数いる。罰則なしの義務化でそれほどすごい効果が出るとは思わない。本当に法的な必要性があるかはもう少し議論しないといけない」と述べ、慎重に検討する考えを示しました。\n",
+    "trimmedLead": "マイナンバーカードの普及に向けて自民党が取得の義務化を検討するよう政府に提言したことについて、松本デジタル大臣は、罰則なしの義務化によって普及が進むか効果は見通せないとして、必要性を慎重に検討する考えを示しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015128761000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015128761000",
+  "video": [],
+  "citation": [
+    {
+      "name": "自民提言 公金受取口座の登録義務化検討を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120881000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015120881_2605132156_0513220558_01_02.jpg",
+      "datePublished": "2026-05-13T22:05:57+09:00"
+    },
+    {
+      "name": "東大大学院汚職事件 元特任准教授に猶予付き有罪判決 東京地裁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015128721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260522/K10015128721_2605221405_0522142745_01_02.jpg",
+      "datePublished": "2026-05-22T14:27:44+09:00"
+    },
+    {
+      "name": "辺野古沖事故 死亡した船長を海上運送法違反の疑いで刑事告発",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015128381000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260522/K10015128381_2605221426_0522143810_01_02.jpg",
+      "datePublished": "2026-05-22T14:38:09+09:00"
+    },
+    {
+      "name": "辺野古沖転覆 “高校の教育内容は政治的中立性に違反” 文科省",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015128371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260522/K10015128371_2605220945_0522100249_01_02.jpg",
+      "datePublished": "2026-05-22T13:34:53+09:00"
+    },
+    {
+      "name": "中傷動画“第三者に作成・発信を依頼したことない” 高市首相",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015128641000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260522/K10015128641_2605221312_0522133833_01_02.jpg",
+      "datePublished": "2026-05-22T13:38:32+09:00"
+    },
+    {
+      "name": "APEC貿易相会合が中国で開幕 赤澤経産相が出席",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015128211000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260522/K10015128211_2605212332_0522050923_01_02.jpg",
+      "datePublished": "2026-05-22T14:03:03+09:00"
+    },
+    {
+      "name": "昨年度の実質賃金は0.5％のマイナス マイナスは4年連続",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015128681000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260522/K10015128681_2605221325_0522133730_01_02.jpg",
+      "datePublished": "2026-05-22T13:37:29+09:00"
+    },
+    {
+      "name": "監禁事件受け 48時間以内の安全確認徹底を児童相談所に通知",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015128651000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260522/K10015128651_2605221307_0522142049_01_02.jpg",
+      "datePublished": "2026-05-22T14:20:48+09:00"
+    },
+    {
+      "name": "東京消防庁の署員2人逮捕 10代女性に性的暴行か 警視庁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015128601000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260522/K10015128601_2605221218_0522134331_01_03.jpg",
+      "datePublished": "2026-05-22T13:43:30+09:00"
+    },
+    {
+      "name": "スピードスケート 高木美帆さんに国民栄誉賞の授与検討 政府",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015128421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260522/K10015128421_2605221119_0522112710_01_02.jpg",
+      "datePublished": "2026-05-22T12:56:42+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

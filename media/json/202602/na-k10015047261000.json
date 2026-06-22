@@ -1,0 +1,172 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015047261000",
+  "dataSourceId": "na",
+  "name": "去年の経常収支 31兆8799億円の黒字 2年連続で過去最大を更新",
+  "headline": "去年の経常収支 31兆8799億円の黒字 2年連続で過去最大を更新",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015047261000",
+    "playlistId": "news-nwa-business-nationwide-20260209",
+    "newsarticleName": "去年の経常収支 31兆8799億円の黒字 2年連続で過去最大を更新",
+    "playlistName": "2月9日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "財務省の発表によりますと、日本が海外との貿易や投資でどれだけ稼いだかを示す経常収支は、去年1年間では31兆8799億円の黒字となり、過去最大となりました。過去最大を更新するのは2年連続です。\n\n\n海外",
+  "dateModified": "2026-02-09T10:51:56+09:00",
+  "datePublished": "2026-02-09T10:51:56+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260209/K10015047261_2602091110_0209111622_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260209/K10015047261_2602091110_0209111622_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済",
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0002407",
+      "name": "財務省",
+      "display": true
+    },
+    {
+      "id": "0002430",
+      "name": "貿易統計",
+      "display": true
+    },
+    {
+      "id": "0002423",
+      "name": "金融",
+      "display": true
+    },
+    {
+      "id": "0002736",
+      "name": "資源・エネルギー",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "財務省の発表によりますと、日本が海外との貿易や投資でどれだけ稼いだかを示す経常収支は、去年1年間では31兆8799億円の黒字となり、過去最大となりました。過去最大を更新するのは2年連続です。\n\n\n海外",
+  "articleBody": "財務省の発表によりますと、日本が海外との貿易や投資でどれだけ稼いだかを示す経常収支は、去年1年間では31兆8799億円の黒字となり、過去最大となりました。過去最大を更新するのは2年連続です。\n\n\n海外から調達するエネルギー価格の値下がりなどによって「貿易収支」の赤字幅が縮小したことや、海外の子会社からの配当金や債券の利子の受け取りが増え「第一次所得収支」の黒字が拡大したことが主な要因です。\n\n合わせて発表された去年12月の経常収支は7288億円の黒字となりました。\n\n11か月連続の黒字ですが、黒字幅は前の年の同じ月と比べて3400億円余り縮小しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "財務省の発表によりますと、日本が海外との貿易や投資でどれだけ稼いだかを示す経常収支は、去年1年間では31兆8799億円の黒字となり、過去最大となりました。過去最大を更新するのは2年連続です。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20260209/K10015047261_2602091002_0209111622_02_03.jpg)\n\n海外から調達するエネルギー価格の値下がりなどによって「貿易収支」の赤字幅が縮小したことや、海外の子会社からの配当金や債券の利子の受け取りが増え「第一次所得収支」の黒字が拡大したことが主な要因です。\n\n![](https://news.web.nhk/news/html/20260209/K10015047261_2602091010_0209105156_02_03.jpg)\n\n合わせて発表された去年12月の経常収支は7288億円の黒字となりました。\n\n11か月連続の黒字ですが、黒字幅は前の年の同じ月と比べて3400億円余り縮小しました。\n",
+    "trimmedLead": "財務省の発表によりますと、日本が海外との貿易や投資でどれだけ稼いだかを示す経常収支は、去年1年間では31兆8799億円の黒字となり、過去最大となりました。過去最大を更新するのは2年連続です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015047261000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015047261000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "去年の経常収支 31兆8799億円の黒字 2年連続で過去最大を更新",
+      "description": "財務省の発表によりますと、日本が海外との貿易や投資でどれだけ稼いだかを示す経常収支は、去年1年間では31兆8799億円の黒字となり、過去最大となりました。過去最大を更新するのは2年連続です。\n\n\n海外",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015047261_202602091407_202602091407/index.m3u8&mrposter=/news/html/20260209/K10015047261_2602091110_0209111622_01_02.jpg",
+      "duration": "PT37S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015047261_202602091407_202602091407/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260209/K10015047261_2602091110_0209111622_01_02.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "農林水産物と食品の輸出額 過去最高も政府目標届かず 課題は？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015042131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260203/K10015042131_2602031810_0203182830_01_03.jpg",
+      "datePublished": "2026-02-03T18:28:29+09:00"
+    },
+    {
+      "name": "GPIF 去年10～12月の運用実績 16兆円余黒字 株価上昇など背景",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015045081000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260206/K10015045081_2602061712_0206173633_01_02.jpg",
+      "datePublished": "2026-02-06T17:36:33+09:00"
+    },
+    {
+      "name": "去年の貿易収支 2兆6507億円の赤字 前年より縮小も5年連続赤字",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015032551000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260122/K10015032551_2601220936_0122093802_01_02.jpg",
+      "datePublished": "2026-01-22T10:58:27+09:00"
+    },
+    {
+      "name": "自民 316議席獲得 単独で3分の2超 中道は49議席【開票結果】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015046481000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260208/K10015046481_2602090319_0209052543_01_02.jpg",
+      "datePublished": "2026-02-09T07:19:47+09:00"
+    },
+    {
+      "name": "株価 終値 初の5万6000円台で最高値更新 長期金利は上昇",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015047251000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260209/K10015047251_2602090935_0209094000_01_02.jpg",
+      "datePublished": "2026-02-09T18:13:10+09:00"
+    },
+    {
+      "name": "衆議院選挙 海外の反応",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015046981000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260209/K10015046981_2602090124_0209015019_01_02.jpg",
+      "datePublished": "2026-02-09T21:05:29+09:00"
+    },
+    {
+      "name": "ミラノ・コルティナ五輪【結果】2/8～9タイムライン",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015046691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260209/K10015046691_2602092115_0209211549_01_02.jpg",
+      "datePublished": "2026-02-09T08:27:32+09:00"
+    },
+    {
+      "name": "ミラノ・コルティナ五輪 見どころ【2/9～10】高木美帆が登場",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015047201000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260209/K10015047201_2602090721_0209090920_01_02.jpg",
+      "datePublished": "2026-02-09T09:09:19+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

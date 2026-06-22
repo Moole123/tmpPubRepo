@@ -1,0 +1,176 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015109281000",
+  "dataSourceId": "na",
+  "name": "【ライブ予定】北海道・三陸沖後発地震注意情報終了 内閣府・気象庁が記者会見へ",
+  "headline": "後発地震注意情報終了 内閣府・気象庁が会見へ【ライブ予定】",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015109281000",
+    "playlistId": "news-nwa-disaster-nationwide-20260427",
+    "newsarticleName": "【ライブ予定】北海道・三陸沖後発地震注意情報終了 内閣府・気象庁が記者会見へ",
+    "playlistName": "4月27日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "三陸沖で起きた大地震を受けて発表された「北海道・三陸沖後発地震注意情報」の呼びかけの期間は27日午後5時に終了しました。これを受けて内閣府と気象庁は午後5時15分から会見を開き、今後の防災対応などにつ",
+  "dateModified": "2026-04-27T17:00:19+09:00",
+  "datePublished": "2026-04-27T17:00:19+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260427/K10015109281_2604271613_0427170020_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260427/K10015109281_2604271613_0427170020_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002620",
+      "name": "北海道・三陸沖後発地震",
+      "display": true
+    },
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0002712",
+      "name": "内閣府",
+      "display": true
+    },
+    {
+      "id": "0002716",
+      "name": "気象庁",
+      "display": true
+    },
+    {
+      "id": "0002201",
+      "name": "北海道",
+      "display": true
+    },
+    {
+      "id": "0002202",
+      "name": "青森県",
+      "display": true
+    },
+    {
+      "id": "0002203",
+      "name": "岩手県",
+      "display": true
+    },
+    {
+      "id": "0002204",
+      "name": "宮城県",
+      "display": true
+    },
+    {
+      "id": "0002207",
+      "name": "福島県",
+      "display": true
+    },
+    {
+      "id": "0002208",
+      "name": "茨城県",
+      "display": true
+    },
+    {
+      "id": "0002212",
+      "name": "千葉県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "三陸沖で起きた大地震を受けて発表された「北海道・三陸沖後発地震注意情報」の呼びかけの期間は27日午後5時に終了しました。これを受けて内閣府と気象庁は午後5時15分から会見を開き、今後の防災対応などにつ",
+  "articleBody": "三陸沖で起きた大地震を受けて発表された「北海道・三陸沖後発地震注意情報」の呼びかけの期間は27日午後5時に終了しました。これを受けて内閣府と気象庁は午後5時15分から会見を開き、今後の防災対応などについて説明することにしています。\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "三陸沖で起きた大地震を受けて発表された「北海道・三陸沖後発地震注意情報」の呼びかけの期間は27日午後5時に終了しました。これを受けて内閣府と気象庁は午後5時15分から会見を開き、今後の防災対応などについて説明することにしています。\n",
+    "markedBody": "```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"001\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\r\n<div class=\"fs-wrap\">\r\n  <h2 class=\"freespace-title\">【ライブ配信】</h2>\r\n  <div class=\"video-player-fixed\">\r\n    <iframe src=\"https://news.web.nhk/n-data/conf/realtime/movie/player_rt0012715_04_v3.html\" allowfullscreen=\"allowfullscreen\"></iframe>\r\n  </div>\r\n</div>\n</div>\n```\n\n```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"002\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\r\n<div class=\"fs-wrap\">\r\n  <h2 class=\"freespace-title\">【ライブ配信 手話】</h2>\r\n  <div class=\"video-player-fixed\">\r\n    <iframe src=\"https://news.web.nhk/n-data/conf/realtime/movie/player_rt0012715_03_v3.html\" allowfullscreen=\"allowfullscreen\"></iframe>\r\n  </div>\r\n</div>\n</div>\n```\n",
+    "noHtmlMarkedLead": "三陸沖で起きた大地震を受けて発表された「北海道・三陸沖後発地震注意情報」の呼びかけの期間は27日午後5時に終了しました。これを受けて内閣府と気象庁は午後5時15分から会見を開き、今後の防災対応などについて説明することにしています。\n",
+    "trimmedLead": "三陸沖で起きた大地震を受けて発表された「北海道・三陸沖後発地震注意情報」の呼びかけの期間は27日午後5時に終了しました。これを受けて内閣府と気象庁は午後5時15分から会見を開き、今後の防災対応などについて説明することにしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015109281000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015109281000",
+  "video": [],
+  "citation": [
+    {
+      "name": "【最新の地震情報】各地の震度・震源を詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/earthquake/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30060617.jpg"
+    },
+    {
+      "name": "北海道・三陸沖後発地震注意情報とは 発表される地域と対策は？",
+      "url": "https://news.web.nhk/newsweb/na/nc-cc6fdf5b-0bac-483a-ae5b-0f26b0d19536",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31187807.jpg"
+    },
+    {
+      "name": "北海道・三陸沖後発地震に関する情報",
+      "url": "https://news.web.nhk/kishou-saigai/kouhatsu/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30060813.jpg"
+    },
+    {
+      "name": "NHKONE防災 災害リスク・備えをまとめて",
+      "url": "https://news.web.nhk/newsweb/sp/pl/editorial-nwa-0000000132",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30531348.jpg"
+    },
+    {
+      "name": "天気防災サイト あなたの街の天気予報や災害情報を即時提供",
+      "url": "https://news.web.nhk/kishou-saigai/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037196.jpg"
+    },
+    {
+      "name": "天気防災マップ ふだんの雨雲予想から災害時のリスク情報まで",
+      "url": "https://news.web.nhk/bousai-map/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037154.jpg"
+    },
+    {
+      "name": "このあと雨降る？災害のリスクは？NHKの天気防災マップで備えを",
+      "url": "https://news.web.nhk/newsweb/na/nc-651f75d1-687d-4b2c-9801-133eab949259",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31031627.jpg"
+    },
+    {
+      "name": "地震 津波 最新情報はニュース・防災アプリで",
+      "url": "https://www.nhk.or.jp/nhkone/service/app/news_bousai/",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_31189657.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": true
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014872481000",
+  "dataSourceId": "na",
+  "name": "米ホワイトハウス “インドネシアと貿易協定の枠組み合意”",
+  "headline": "米ホワイトハウス “インドネシアと貿易協定の枠組み合意”",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014872481000",
+    "playlistId": "news-nwa-international-nationwide-20250723",
+    "newsarticleName": "米ホワイトハウス “インドネシアと貿易協定の枠組み合意”",
+    "playlistName": "7月23日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "アメリカのホワイトハウスは22日、関税措置をめぐる交渉でインドネシアと貿易協定の枠組みについて合意したと発表しました。\n\n\n発表によりますと、インドネシアへの相互関税は、トランプ大統領が明らかにした内",
+  "dateModified": "2025-07-23T18:11:50+09:00",
+  "datePublished": "2025-07-23T18:11:50+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250723/K10014872481_2507231758_0723181152_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250723/K10014872481_2507231758_0723181152_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際",
+    "経済"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "アメリカのホワイトハウスは22日、関税措置をめぐる交渉でインドネシアと貿易協定の枠組みについて合意したと発表しました。\n\n\n発表によりますと、インドネシアへの相互関税は、トランプ大統領が明らかにした内",
+  "articleBody": "アメリカのホワイトハウスは22日、関税措置をめぐる交渉でインドネシアと貿易協定の枠組みについて合意したと発表しました。\n\n\n発表によりますと、インドネシアへの相互関税は、トランプ大統領が明らかにした内容と同じ19％となっています。\n\nまた、アメリカ製品のインドネシアへの輸出にあたっては、農産物や自動車製品など99％以上の品目について、関税障壁が撤廃されるとしています。\n\nさらに、工業製品を輸出する際の非関税障壁について、\n▽アメリカの企業などに、インドネシアでの調達を一定の割合で求める要件を免除することや、\n▽アメリカの安全基準などに適合した自動車を受け入れることなどが盛り込まれています。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカのホワイトハウスは22日、関税措置をめぐる交渉でインドネシアと貿易協定の枠組みについて合意したと発表しました。\n",
+    "markedBody": "発表によりますと、インドネシアへの相互関税は、トランプ大統領が明らかにした内容と同じ19％となっています。\n\nまた、アメリカ製品のインドネシアへの輸出にあたっては、農産物や自動車製品など99％以上の品目について、関税障壁が撤廃されるとしています。\n\nさらに、工業製品を輸出する際の非関税障壁について、\\\n▽アメリカの企業などに、インドネシアでの調達を一定の割合で求める要件を免除することや、\\\n▽アメリカの安全基準などに適合した自動車を受け入れることなどが盛り込まれています。\n",
+    "trimmedLead": "アメリカのホワイトハウスは22日、関税措置をめぐる交渉でインドネシアと貿易協定の枠組みについて合意したと発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014872481000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014872481000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

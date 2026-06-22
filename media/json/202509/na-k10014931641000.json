@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014931641000",
+  "dataSourceId": "na",
+  "name": "石破首相動静 2025年9月24日",
+  "headline": "石破首相動静 2025年9月24日",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014931641000",
+    "playlistId": "news-nwa-politics-nationwide-20250925",
+    "newsarticleName": "石破首相動静 2025年9月24日",
+    "playlistName": "9月25日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "（石破首相動静 2025年9月24日）\n\n\n（以下、すべて日本時間）\n\n03:30 アメリカ・ニューヨークの国連本部でクウェートのサバハ皇太子と会談（～03:56）\n04:29 国連のグテーレス事務総",
+  "dateModified": "2025-09-25T10:22:16+09:00",
+  "datePublished": "2025-09-25T10:22:16+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250925/K10014931641_2509251008_0925101402_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250925/K10014931641_2509251008_0925101402_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "（石破首相動静 2025年9月24日）\n\n\n（以下、すべて日本時間）\n\n03:30 アメリカ・ニューヨークの国連本部でクウェートのサバハ皇太子と会談（～03:56）\n04:29 国連のグテーレス事務総",
+  "articleBody": "（石破首相動静 2025年9月24日）\n\n\n（以下、すべて日本時間）\n\n03:30 アメリカ・ニューヨークの国連本部でクウェートのサバハ皇太子と会談（～03:56）\n04:29 国連のグテーレス事務総長と会談（～04:54）\n06:30 ニューヨークのレストラン「アクアビット」で日本政府など主催の日本産食品輸出促進イベントに出席（～07:11）\n07:24 ニューヨークのホテルでアメリカのトランプ大統領夫妻主催のレセプションに出席。トランプ大統領、ウクライナのゼレンスキー大統領、オーストラリアのアルバニージー首相ら各国・国際機関の首脳と立ち話（～09:14）\n11:11 国連本部で一般討論演説（～11:44）\n20:00 ホテル「パーク・レーン・ニューヨーク」で内外記者会見（～20:44）\n21:30 ホテル「ザ・プリンス・キタノ・ニューヨーク」でフィンランドのストゥブ大統領と会談（～21:50）\n22:09 オランダのスホーフ首相と会談（～22:36）\n",
+  "detailedArticleBody": {
+    "markedLead": "（石破首相動静 2025年9月24日）\n",
+    "markedBody": "（以下、すべて日本時間）\n\n03:30 アメリカ・ニューヨークの国連本部でクウェートのサバハ皇太子と会談（～03:56）\\\n04:29 国連のグテーレス事務総長と会談（～04:54）\\\n06:30 ニューヨークのレストラン「アクアビット」で日本政府など主催の日本産食品輸出促進イベントに出席（～07:11）\\\n07:24 ニューヨークのホテルでアメリカのトランプ大統領夫妻主催のレセプションに出席。トランプ大統領、ウクライナのゼレンスキー大統領、オーストラリアのアルバニージー首相ら各国・国際機関の首脳と立ち話（～09:14）\\\n11:11 国連本部で一般討論演説（～11:44）\\\n20:00 ホテル「パーク・レーン・ニューヨーク」で内外記者会見（～20:44）\\\n21:30 ホテル「ザ・プリンス・キタノ・ニューヨーク」でフィンランドのストゥブ大統領と会談（～21:50）\\\n22:09 オランダのスホーフ首相と会談（～22:36）\n",
+    "trimmedLead": "（石破首相動静 2025年9月24日）\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014931641000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014931641000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

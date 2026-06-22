@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014897961000",
+  "dataSourceId": "na",
+  "name": "公明 斉藤代表 石破首相の続投の意向支持する考え 重ねて示す",
+  "headline": "公明 斉藤代表 石破首相の続投の意向支持する考え 重ねて示す",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014897961000",
+    "playlistId": "news-nwa-politics-nationwide-20250819",
+    "newsarticleName": "公明 斉藤代表 石破首相の続投の意向支持する考え 重ねて示す",
+    "playlistName": "8月19日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "公明党の斉藤代表は、政権公約の実現に向けて支えることは当然だとして、石破総理大臣の続投の意向を支持する考えを重ねて示しました。\n\n\n公明党の斉藤代表は、18日発売された「週刊現代」の対談で、石破総理大",
+  "dateModified": "2025-08-19T19:28:34+09:00",
+  "datePublished": "2025-08-19T19:28:34+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250819/K10014897961_2508191918_0819192600_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250819/K10014897961_2508191918_0819192600_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "公明党の斉藤代表は、政権公約の実現に向けて支えることは当然だとして、石破総理大臣の続投の意向を支持する考えを重ねて示しました。\n\n\n公明党の斉藤代表は、18日発売された「週刊現代」の対談で、石破総理大",
+  "articleBody": "公明党の斉藤代表は、政権公約の実現に向けて支えることは当然だとして、石破総理大臣の続投の意向を支持する考えを重ねて示しました。\n\n\n公明党の斉藤代表は、18日発売された「週刊現代」の対談で、石破総理大臣の続投の意向を支持する考えを示しました。\n\nこれについて斉藤氏は19日午後、総理大臣官邸で記者団に対し「われわれは石破政権をつくる時に、協定を結んで首班指名で『石破茂』と書かせてもらった。政権公約をしっかり実行する意味で、私たちは石破総理が総理大臣の立場である以上、しっかり支援すると、当たり前のことを申し上げた」と述べ、石破総理大臣の続投の意向を支持する考えを重ねて示しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "公明党の斉藤代表は、政権公約の実現に向けて支えることは当然だとして、石破総理大臣の続投の意向を支持する考えを重ねて示しました。\n",
+    "markedBody": "公明党の斉藤代表は、18日発売された「週刊現代」の対談で、石破総理大臣の続投の意向を支持する考えを示しました。\n\nこれについて斉藤氏は19日午後、総理大臣官邸で記者団に対し「われわれは石破政権をつくる時に、協定を結んで首班指名で『石破茂』と書かせてもらった。政権公約をしっかり実行する意味で、私たちは石破総理が総理大臣の立場である以上、しっかり支援すると、当たり前のことを申し上げた」と述べ、石破総理大臣の続投の意向を支持する考えを重ねて示しました。\n",
+    "trimmedLead": "公明党の斉藤代表は、政権公約の実現に向けて支えることは当然だとして、石破総理大臣の続投の意向を支持する考えを重ねて示しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014897961000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014897961000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

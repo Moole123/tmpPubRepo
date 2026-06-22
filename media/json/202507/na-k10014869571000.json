@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014869571000",
+  "dataSourceId": "na",
+  "name": "参議院選挙2025 比例代表 国民民主党 礒崎哲史氏 当選",
+  "headline": "参議院選挙 比例代表 国民 礒崎哲史氏 当選",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014869571000",
+    "playlistId": "news-nwa-politics-nationwide-20250721",
+    "newsarticleName": "参議院選挙2025 比例代表 国民民主党 礒崎哲史氏 当選",
+    "playlistName": "7月21日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "参議院選挙の比例代表で、国民民主党の現職、礒崎哲史氏が当選しました。\n\n\n礒崎氏は56歳。\n\n自動車総連特別中央執行委員などを経て、2013年の参議院選挙で、比例代表で初当選しました。\n\nこれまでに参",
+  "dateModified": "2025-07-21T04:02:37+09:00",
+  "datePublished": "2025-07-21T04:02:37+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250721/K10014869571_2507210400_0721040027_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250721/K10014869571_2507210400_0721040027_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "参議院選挙の比例代表で、国民民主党の現職、礒崎哲史氏が当選しました。\n\n\n礒崎氏は56歳。\n\n自動車総連特別中央執行委員などを経て、2013年の参議院選挙で、比例代表で初当選しました。\n\nこれまでに参",
+  "articleBody": "参議院選挙の比例代表で、国民民主党の現職、礒崎哲史氏が当選しました。\n\n\n礒崎氏は56歳。\n\n自動車総連特別中央執行委員などを経て、2013年の参議院選挙で、比例代表で初当選しました。\n\nこれまでに参議院経済産業委員長や、党の参議院国会対策委員長などを務め、現在は党の副代表です。\n\n礒崎氏は、自動車関連の労働組合の支援を受けて、3回目の当選を果たしました。\n",
+  "detailedArticleBody": {
+    "markedLead": "参議院選挙の比例代表で、国民民主党の現職、礒崎哲史氏が当選しました。\n",
+    "markedBody": "礒崎氏は56歳。\n\n自動車総連特別中央執行委員などを経て、2013年の参議院選挙で、比例代表で初当選しました。\n\nこれまでに参議院経済産業委員長や、党の参議院国会対策委員長などを務め、現在は党の副代表です。\n\n礒崎氏は、自動車関連の労働組合の支援を受けて、3回目の当選を果たしました。\n",
+    "trimmedLead": "参議院選挙の比例代表で、国民民主党の現職、礒崎哲史氏が当選しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014869571000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014869571000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

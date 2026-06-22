@@ -1,0 +1,142 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015066301000",
+  "dataSourceId": "na",
+  "name": "能登半島地震の死者723人に 新たに5人を災害関連死と認定",
+  "headline": "能登半島地震の死者723人に 新たに5人を災害関連死と認定",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015066301000",
+    "playlistId": "news-nwa-disaster-nationwide-20260304",
+    "newsarticleName": "能登半島地震の死者723人に 新たに5人を災害関連死と認定",
+    "playlistName": "3月4日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "能登半島地震のあとに亡くなった石川県内の5人が、新たに災害関連死と認定されました。これによって、能登半島地震の災害関連死は495人となり、直接死も含めた死者は723人となりました。\n\n\n新たに災害関連",
+  "dateModified": "2026-03-04T16:45:37+09:00",
+  "datePublished": "2026-03-04T16:45:37+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260304/K10015066301_2603041637_0304164538_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260304/K10015066301_2603041637_0304164538_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002519",
+      "name": "能登半島地震",
+      "display": true
+    },
+    {
+      "id": "0002217",
+      "name": "石川県",
+      "display": true
+    },
+    {
+      "id": "0002216",
+      "name": "富山県",
+      "display": true
+    },
+    {
+      "id": "0002215",
+      "name": "新潟県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "能登半島地震のあとに亡くなった石川県内の5人が、新たに災害関連死と認定されました。これによって、能登半島地震の災害関連死は495人となり、直接死も含めた死者は723人となりました。\n\n\n新たに災害関連",
+  "articleBody": "能登半島地震のあとに亡くなった石川県内の5人が、新たに災害関連死と認定されました。これによって、能登半島地震の災害関連死は495人となり、直接死も含めた死者は723人となりました。\n\n\n新たに災害関連死と認定されたのは、輪島市と能登町のそれぞれ2人と、志賀町の1人のあわせて5人です。\n\nこのうち、能登町の90歳以上の女性は入所する介護施設で被災し、ストレスや介護環境の変化がある中で心身に相当な負荷が生じ、心不全で亡くなったということです。\n\nこれによって、能登半島地震の災害関連死は、石川県で481人、富山県で8人、それに、新潟県で6人のあわせて495人となり、直接死も含めた死者は723人となりました。\n\n石川県内の自治体には、さらに200人を超える遺族から申請が出されていて、審査が進むと、能登半島地震の死者は今後も増える可能性があります。\n",
+  "detailedArticleBody": {
+    "markedLead": "能登半島地震のあとに亡くなった石川県内の5人が、新たに災害関連死と認定されました。これによって、能登半島地震の災害関連死は495人となり、直接死も含めた死者は723人となりました。\n",
+    "markedBody": "新たに災害関連死と認定されたのは、輪島市と能登町のそれぞれ2人と、志賀町の1人のあわせて5人です。\n\nこのうち、能登町の90歳以上の女性は入所する介護施設で被災し、ストレスや介護環境の変化がある中で心身に相当な負荷が生じ、心不全で亡くなったということです。\n\nこれによって、能登半島地震の災害関連死は、石川県で481人、富山県で8人、それに、新潟県で6人のあわせて495人となり、直接死も含めた死者は723人となりました。\n\n石川県内の自治体には、さらに200人を超える遺族から申請が出されていて、審査が進むと、能登半島地震の死者は今後も増える可能性があります。\n",
+    "trimmedLead": "能登半島地震のあとに亡くなった石川県内の5人が、新たに災害関連死と認定されました。これによって、能登半島地震の災害関連死は495人となり、直接死も含めた死者は723人となりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015066301000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015066301000",
+  "video": [],
+  "citation": [
+    {
+      "name": "日本赤十字社 東日本大震災から15年を前に若手職員向け講演会",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015065321000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260303/K10015065321_2603031751_0303194633_01_02.jpg",
+      "datePublished": "2026-03-03T19:46:32+09:00"
+    },
+    {
+      "name": "「北海道・三陸沖後発地震注意情報」防災対応取ったは4割程度",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015064691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260303/K10015064691_2603022339_0303051858_01_02.jpg",
+      "datePublished": "2026-03-03T05:18:57+09:00"
+    },
+    {
+      "name": "首都直下地震に備え 全国から首都圏への支援計画案まとまる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015063531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260302/K10015063531_2603011819_0302060126_01_03.jpg",
+      "datePublished": "2026-03-02T06:01:25+09:00"
+    },
+    {
+      "name": "「カイロス3号機」5日改めて打ち上げへ 和歌山",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015065531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260304/K10015065531_2603041729_0304173138_01_03.jpg",
+      "datePublished": "2026-03-04T17:31:37+09:00"
+    },
+    {
+      "name": "日本から中東に抹茶輸出できず 原油高で家計負担増の試算も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015066171000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260304/K10015066171_2603041515_0304155021_01_02.jpg",
+      "datePublished": "2026-03-04T17:56:51+09:00"
+    },
+    {
+      "name": "仲代達矢さん主宰の無名塾 思い受け継ぐ能登公演",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015064101000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260302/K10015064101_2603021155_0302170516_01_02.jpg",
+      "datePublished": "2026-03-02T17:05:15+09:00"
+    },
+    {
+      "name": "能登半島地震から2年 復興への新たなアプローチは",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015022651000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260109/K10015022651_2601091228_0109184026_01_02.jpg",
+      "datePublished": "2026-01-09T18:40:25+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

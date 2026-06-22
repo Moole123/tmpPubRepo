@@ -1,0 +1,161 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015134241000",
+  "dataSourceId": "na",
+  "name": "日本とカタール 外相が電話会談 エネルギー安定供給へ協力要請",
+  "headline": "日本とカタール 外相が電話会談 エネルギー安定供給へ協力要請",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015134241000",
+    "playlistId": "news-nwa-politics-nationwide-20260528",
+    "newsarticleName": "日本とカタール 外相が電話会談 エネルギー安定供給へ協力要請",
+    "playlistName": "5月28日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "茂木外務大臣はカタールのムハンマド外相と電話で会談し、アメリカとイランの戦闘終結に向けて連携して外交努力を行っていきたいと伝えるとともに、エネルギーの安定供給に向けた引き続きの協力を求めました。\n\n\n",
+  "dateModified": "2026-05-28T19:13:46+09:00",
+  "datePublished": "2026-05-28T19:13:46+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260528/K10015134241_2605281855_0528191346_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260528/K10015134241_2605281855_0528191346_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治",
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0002558",
+      "name": "カタール",
+      "display": true
+    },
+    {
+      "id": "0002736",
+      "name": "資源・エネルギー",
+      "display": true
+    },
+    {
+      "id": "0002800",
+      "name": "イラン情勢 日本への影響・対応",
+      "display": true
+    },
+    {
+      "id": "0000820",
+      "name": "イラン情勢",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "茂木外務大臣はカタールのムハンマド外相と電話で会談し、アメリカとイランの戦闘終結に向けて連携して外交努力を行っていきたいと伝えるとともに、エネルギーの安定供給に向けた引き続きの協力を求めました。\n\n\n",
+  "articleBody": "茂木外務大臣はカタールのムハンマド外相と電話で会談し、アメリカとイランの戦闘終結に向けて連携して外交努力を行っていきたいと伝えるとともに、エネルギーの安定供給に向けた引き続きの協力を求めました。\n\n\n茂木外務大臣とカタールのムハンマド外相による電話会談は28日午後4時ごろから、およそ20分間行われました。\n\nこの中で茂木大臣はイラン情勢をめぐり「アメリカとイランの間のやりとりが極めて重要な局面を迎えている。停戦が維持され、最終的な合意に向けた協議が一刻も早く実現することが最も重要であり、カタールとも連携し必要な外交努力を粘り強く行っていきたい」と伝えました。\n\nそのうえで茂木大臣がエネルギーの安定供給に向けた引き続きの協力を求めたのに対し、ムハンマド外相はエネルギー分野をはじめとする2国間協力をいっそう強化していきたいという考えを示しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "茂木外務大臣はカタールのムハンマド外相と電話で会談し、アメリカとイランの戦闘終結に向けて連携して外交努力を行っていきたいと伝えるとともに、エネルギーの安定供給に向けた引き続きの協力を求めました。\n",
+    "markedBody": "茂木外務大臣とカタールのムハンマド外相による電話会談は28日午後4時ごろから、およそ20分間行われました。\n\nこの中で茂木大臣はイラン情勢をめぐり「アメリカとイランの間のやりとりが極めて重要な局面を迎えている。停戦が維持され、最終的な合意に向けた協議が一刻も早く実現することが最も重要であり、カタールとも連携し必要な外交努力を粘り強く行っていきたい」と伝えました。\n\nそのうえで茂木大臣がエネルギーの安定供給に向けた引き続きの協力を求めたのに対し、ムハンマド外相はエネルギー分野をはじめとする2国間協力をいっそう強化していきたいという考えを示しました。\n",
+    "trimmedLead": "茂木外務大臣はカタールのムハンマド外相と電話で会談し、アメリカとイランの戦闘終結に向けて連携して外交努力を行っていきたいと伝えるとともに、エネルギーの安定供給に向けた引き続きの協力を求めました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015134241000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015134241000",
+  "video": [],
+  "citation": [
+    {
+      "name": "軍事作戦3か月 戦闘終結に向けた協議 進展みられず緊張続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015133441_2605281729_0528183230_01_03.jpg",
+      "datePublished": "2026-05-28T19:22:19+09:00"
+    },
+    {
+      "name": "6月 電気・ガス料金 中東影響でほとんどの会社で値上がりへ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134071000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015134071_2605281625_0528164210_01_02.jpg",
+      "datePublished": "2026-05-28T16:42:09+09:00"
+    },
+    {
+      "name": "日フィリピン首脳会談 軍事情報包括保護協定の交渉開始で合意",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134231000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015134231_2605281837_0528184332_01_02.jpg",
+      "datePublished": "2026-05-28T20:28:38+09:00"
+    },
+    {
+      "name": "栃木強盗殺人 逮捕状の容疑者はタイに向かった情報も 行方捜査",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134161000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015134161_2605281758_0528180116_01_02.jpg",
+      "datePublished": "2026-05-28T18:01:15+09:00"
+    },
+    {
+      "name": "在仙台カンボジア名誉領事が無申告 3億7000万円余の申告漏れ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133861000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015133861_2605281252_0528170021_01_02.jpg",
+      "datePublished": "2026-05-28T19:32:29+09:00"
+    },
+    {
+      "name": "新たな防災気象情報 発表開始 全国の警報・注意報はこちらから",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133621000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015133621_2605281054_0528145524_01_02.jpg",
+      "datePublished": "2026-05-28T14:55:24+09:00"
+    },
+    {
+      "name": "新たな防災気象情報スタート 専門家“地域リスク調べ活用を”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133611000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015133611_2605281021_0528115033_01_02.jpg",
+      "datePublished": "2026-05-28T18:46:11+09:00"
+    },
+    {
+      "name": "ドジャース大谷翔平 6回1失点で5勝目 打っては菅野から9号",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015133671_2605281557_0528155911_01_03.jpg",
+      "datePublished": "2026-05-28T19:10:46+09:00"
+    },
+    {
+      "name": "“サラ川”ベスト10発表 デジタル化への戸惑いなど詠む",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133931000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015133931_2605281453_0528175204_01_02.jpg",
+      "datePublished": "2026-05-28T17:52:03+09:00"
+    },
+    {
+      "name": "最新クマ対策 AI・ドローンで被害防げ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015131471_2605281240_0528165620_01_02.jpg",
+      "datePublished": "2026-05-28T16:56:19+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

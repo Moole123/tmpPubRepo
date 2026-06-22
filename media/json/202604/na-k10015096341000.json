@@ -1,0 +1,165 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015096341000",
+  "dataSourceId": "na",
+  "name": "3月の企業物価指数 前月比0.8％上昇 ガソリンなどの値上がりで",
+  "headline": "3月の企業物価指数 前月比0.8％上昇 ガソリンなどの値上がりで",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015096341000",
+    "playlistId": "news-nwa-business-nationwide-20260410",
+    "newsarticleName": "3月の企業物価指数 前月比0.8％上昇 ガソリンなどの値上がりで",
+    "playlistName": "4月10日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "企業の間で取り引きされるモノの価格を示す先月の企業物価指数はイラン情勢を受けてガソリンや化学製品が値上がりしていることから、前の月と比べて0.8％上昇しました。\n\n\n日銀が発表した先月、3月の企業物価",
+  "dateModified": "2026-04-10T11:04:02+09:00",
+  "datePublished": "2026-04-10T11:04:02+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260410/K10015096341_2604101054_0410110403_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260410/K10015096341_2604101054_0410110403_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0002738",
+      "name": "統計・指標",
+      "display": true
+    },
+    {
+      "id": "0002310",
+      "name": "日本銀行（日銀）",
+      "display": true
+    },
+    {
+      "id": "0002800",
+      "name": "イラン情勢 日本への影響・対応",
+      "display": true
+    },
+    {
+      "id": "0000819",
+      "name": "原油価格",
+      "display": true
+    },
+    {
+      "id": "0002133",
+      "name": "物価高騰",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "企業の間で取り引きされるモノの価格を示す先月の企業物価指数はイラン情勢を受けてガソリンや化学製品が値上がりしていることから、前の月と比べて0.8％上昇しました。\n\n\n日銀が発表した先月、3月の企業物価",
+  "articleBody": "企業の間で取り引きされるモノの価格を示す先月の企業物価指数はイラン情勢を受けてガソリンや化学製品が値上がりしていることから、前の月と比べて0.8％上昇しました。\n\n\n日銀が発表した先月、3月の企業物価指数の速報値は2020年の平均を100とした水準で129.5となり、2月と比べて0.8％上昇しました。\n\n2月は1月と比べて0.1％の上昇だったことから、上昇幅が拡大した形です。\n\n品目別に見ると、ガソリンや軽油などの「石油・石炭製品」は2月に比べて7.7％上昇したほか、ベンゼンやキシレンなどの「化学製品」は1.7％上昇しました。\n\n日銀は背景について、イラン情勢に伴う原油価格の上昇やナフサの供給懸念などがあるとした上で「サプライチェーンへの影響や、企業の価格を決める行動に変化がないか、注視していきたい」としています。\n",
+  "detailedArticleBody": {
+    "markedLead": "企業の間で取り引きされるモノの価格を示す先月の企業物価指数はイラン情勢を受けてガソリンや化学製品が値上がりしていることから、前の月と比べて0.8％上昇しました。\n",
+    "markedBody": "日銀が発表した先月、3月の企業物価指数の速報値は2020年の平均を100とした水準で129.5となり、2月と比べて0.8％上昇しました。\n\n2月は1月と比べて0.1％の上昇だったことから、上昇幅が拡大した形です。\n\n品目別に見ると、ガソリンや軽油などの「石油・石炭製品」は2月に比べて7.7％上昇したほか、ベンゼンやキシレンなどの「化学製品」は1.7％上昇しました。\n\n日銀は背景について、イラン情勢に伴う原油価格の上昇やナフサの供給懸念などがあるとした上で「サプライチェーンへの影響や、企業の価格を決める行動に変化がないか、注視していきたい」としています。\n",
+    "trimmedLead": "企業の間で取り引きされるモノの価格を示す先月の企業物価指数はイラン情勢を受けてガソリンや化学製品が値上がりしていることから、前の月と比べて0.8％上昇しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015096341000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015096341000",
+  "video": [],
+  "citation": [
+    {
+      "name": "3月の「消費者態度指数」3か月ぶりに低下 原油価格高騰影響か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015095781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260409/K10015095781_2604091553_0409164910_01_02.jpg",
+      "datePublished": "2026-04-09T16:49:10+09:00"
+    },
+    {
+      "name": "高市首相 石油「国家備蓄」約20日分を追加放出へ 来月上旬以降",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015096281000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260410/K10015096281_2604100905_0410094423_01_02.jpg",
+      "datePublished": "2026-04-10T10:37:07+09:00"
+    },
+    {
+      "name": "【イラン情勢】日本経済への影響は？ 先行きへの不安も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015095761000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260409/K10015095761_2604091922_0409193528_01_02.jpg",
+      "datePublished": "2026-04-09T19:35:27+09:00"
+    },
+    {
+      "name": "アメリカ・イラン あす協議へ ホルムズ海峡めぐり異なる主張",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015096141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260410/K10015096141_2604101155_0410115628_01_02.jpg",
+      "datePublished": "2026-04-10T12:23:51+09:00"
+    },
+    {
+      "name": "台風4号が発生 日本のはるか南の海上 今後の情報に注意 気象庁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015096221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260410/K10015096221_2604100542_0410055625_01_02.jpg",
+      "datePublished": "2026-04-10T05:56:24+09:00"
+    },
+    {
+      "name": "西日本・東日本で荒れた天気 土砂災害など十分注意を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015096121000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260410/K10015096121_2604101115_0410120346_01_02.jpg",
+      "datePublished": "2026-04-10T12:03:45+09:00"
+    },
+    {
+      "name": "ロシア 復活祭合わせ32時間の停戦表明 ウクライナも停戦の考え",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015096231000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260410/K10015096231_2604100608_0410061125_01_02.jpg",
+      "datePublished": "2026-04-10T07:17:52+09:00"
+    },
+    {
+      "name": "大阪 和泉 母娘2人殺害 トラブル相談なし 死亡は午前4時ごろか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015096211000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260410/K10015096211_2604100006_0410050441_01_02.jpg",
+      "datePublished": "2026-04-10T05:04:40+09:00"
+    },
+    {
+      "name": "NYダウ 4万8000ドル台を回復 停戦維持への期待感から",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015096251000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260410/K10015096251_2604100621_0410062556_01_02.jpg",
+      "datePublished": "2026-04-10T06:25:55+09:00"
+    },
+    {
+      "name": "アメリカ財務省高官にきく 日本版CFIUSの意義と課題",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015095541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260409/K10015095541_2604091730_0409221451_01_02.jpg",
+      "datePublished": "2026-04-10T12:12:05+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

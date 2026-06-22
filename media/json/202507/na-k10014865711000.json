@@ -1,0 +1,102 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014865711000",
+  "dataSourceId": "na",
+  "name": "政府 国家公務員なり手不足 “魅力伝える”省庁横断チーム発足",
+  "headline": "政府 国家公務員なり手不足 “魅力伝える”省庁横断チーム発足",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014865711000",
+    "playlistId": "news-nwa-politics-nationwide-20250717",
+    "newsarticleName": "政府 国家公務員なり手不足 “魅力伝える”省庁横断チーム発足",
+    "playlistName": "7月17日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "国家公務員のなり手不足が問題となる中、若者に興味をもってもらおうと、政府は、若手職員を中心にした省庁横断のチームを立ち上げ、公務の魅力を伝え広げていく具体的な戦略を年内をめどにまとめることになりました",
+  "dateModified": "2025-07-17T13:50:27+09:00",
+  "datePublished": "2025-07-17T13:50:27+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250717/K10014865711_2507171335_0717135029_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250717/K10014865711_2507171335_0717135029_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治",
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "国家公務員のなり手不足が問題となる中、若者に興味をもってもらおうと、政府は、若手職員を中心にした省庁横断のチームを立ち上げ、公務の魅力を伝え広げていく具体的な戦略を年内をめどにまとめることになりました",
+  "articleBody": "国家公務員のなり手不足が問題となる中、若者に興味をもってもらおうと、政府は、若手職員を中心にした省庁横断のチームを立ち上げ、公務の魅力を伝え広げていく具体的な戦略を年内をめどにまとめることになりました。\n\n\n人事院と内閣人事局は、いわゆる「キャリア官僚」となる国家公務員「総合職」を志望する人が減少傾向にあることなどから、省庁横断で、対策を検討するための新たなチームを立ち上げました。\n\n17日の会合には、34の省庁から若手職員を中心に70人が出席し、それぞれの仕事の魅力を共有して発信につなげる方法を探るとともに、大学生などに知名度が高い芸能人や、有識者などと連携して公務員の仕事をアピールしていく方針を確認しました。\n\nチームでは今後、月に1回程度会合を開いて、公務の魅力を伝え広げていく具体的な戦略を年内をめどにまとめることにしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "国家公務員のなり手不足が問題となる中、若者に興味をもってもらおうと、政府は、若手職員を中心にした省庁横断のチームを立ち上げ、公務の魅力を伝え広げていく具体的な戦略を年内をめどにまとめることになりました。\n",
+    "markedBody": "人事院と内閣人事局は、いわゆる「キャリア官僚」となる国家公務員「総合職」を志望する人が減少傾向にあることなどから、省庁横断で、対策を検討するための新たなチームを立ち上げました。\n\n17日の会合には、34の省庁から若手職員を中心に70人が出席し、それぞれの仕事の魅力を共有して発信につなげる方法を探るとともに、大学生などに知名度が高い芸能人や、有識者などと連携して公務員の仕事をアピールしていく方針を確認しました。\n\nチームでは今後、月に1回程度会合を開いて、公務の魅力を伝え広げていく具体的な戦略を年内をめどにまとめることにしています。\n",
+    "trimmedLead": "国家公務員のなり手不足が問題となる中、若者に興味をもってもらおうと、政府は、若手職員を中心にした省庁横断のチームを立ち上げ、公務の魅力を伝え広げていく具体的な戦略を年内をめどにまとめることになりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014865711000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014865711000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "政府 国家公務員なり手不足 “魅力伝える”省庁横断チーム発足",
+      "description": "国家公務員のなり手不足が問題となる中、若者に興味をもってもらおうと、政府は、若手職員を中心にした省庁横断のチームを立ち上げ、公務の魅力を伝え広げていく具体的な戦略を年内をめどにまとめることになりました",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10014865711_202507171404_202507171404/index.m3u8&mrposter=/news/html/20250717/K10014865711_2507171335_0717135029_01_02.jpg",
+      "duration": "PT49S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10014865711_202507171404_202507171404/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20250717/K10014865711_2507171335_0717135029_01_02.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

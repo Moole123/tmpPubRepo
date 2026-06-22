@@ -1,0 +1,143 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015113371000",
+  "dataSourceId": "na",
+  "name": "米国防総省 機密情報にAI導入「AI第一の戦闘部隊」へ",
+  "headline": "米国防総省 機密情報にAI導入「AI第一の戦闘部隊」へ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015113371000",
+    "playlistId": "news-nwa-international-nationwide-20260502",
+    "newsarticleName": "米国防総省 機密情報にAI導入「AI第一の戦闘部隊」へ",
+    "playlistName": "5月2日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "アメリカ国防総省は軍の意思決定に重要な影響を及ぼす機密情報のネットワークで最先端のAI技術を活用することでテクノロジー企業8社と合意したと発表しました。軍を「AI第一の戦闘部隊」にするとして、AIの軍",
+  "dateModified": "2026-05-02T13:22:25+09:00",
+  "datePublished": "2026-05-02T13:22:25+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260502/K10015113371_2605021253_0502132226_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260502/K10015113371_2605021253_0502132226_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "0000010",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "0002473",
+      "name": "安全保障",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "アメリカ国防総省は軍の意思決定に重要な影響を及ぼす機密情報のネットワークで最先端のAI技術を活用することでテクノロジー企業8社と合意したと発表しました。軍を「AI第一の戦闘部隊」にするとして、AIの軍",
+  "articleBody": "アメリカ国防総省は軍の意思決定に重要な影響を及ぼす機密情報のネットワークで最先端のAI技術を活用することでテクノロジー企業8社と合意したと発表しました。軍を「AI第一の戦闘部隊」にするとして、AIの軍事利用をいっそう加速させています。\n\n\n国防総省によりますと、AI技術の利用で合意したのはスペースX、オープンAI、グーグル、エヌビディア、リフレクション、マイクロソフト、アマゾンのクラウドサービス「AWS」、オラクルの8社です。\n\n発表ではこれらの企業の高度なAI技術を合法的な作戦のために機密情報のネットワークで活用し、データの統合、状況認識、意思決定の能力を向上させて「AI第一の戦闘部隊の確立に向けた変革を加速させる」としています。\n\n国防総省ではすでに省の公式のAIを130万人以上が利用して数か月分の作業を数日に短縮しているとした上で、特定のAI技術に依存することを防ぎながら、あらゆる脅威に対応できる手段を構築していくとしています。\n\nAIの軍事利用をめぐっては新興企業の「アンソロピック」が国防総省の求めるあらゆる用途での使用には応じられないとして対立していましたが、今回、合意した企業には含まれていません。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカ国防総省は軍の意思決定に重要な影響を及ぼす機密情報のネットワークで最先端のAI技術を活用することでテクノロジー企業8社と合意したと発表しました。軍を「AI第一の戦闘部隊」にするとして、AIの軍事利用をいっそう加速させています。\n",
+    "markedBody": "国防総省によりますと、AI技術の利用で合意したのはスペースX、オープンAI、グーグル、エヌビディア、リフレクション、マイクロソフト、アマゾンのクラウドサービス「AWS」、オラクルの8社です。\n\n発表ではこれらの企業の高度なAI技術を合法的な作戦のために機密情報のネットワークで活用し、データの統合、状況認識、意思決定の能力を向上させて「AI第一の戦闘部隊の確立に向けた変革を加速させる」としています。\n\n国防総省ではすでに省の公式のAIを130万人以上が利用して数か月分の作業を数日に短縮しているとした上で、特定のAI技術に依存することを防ぎながら、あらゆる脅威に対応できる手段を構築していくとしています。\n\nAIの軍事利用をめぐっては新興企業の「アンソロピック」が国防総省の求めるあらゆる用途での使用には応じられないとして対立していましたが、今回、合意した企業には含まれていません。\n",
+    "trimmedLead": "アメリカ国防総省は軍の意思決定に重要な影響を及ぼす機密情報のネットワークで最先端のAI技術を活用することでテクノロジー企業8社と合意したと発表しました。軍を「AI第一の戦闘部隊」にするとして、AIの軍事利用をいっそう加速させています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015113371000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015113371000",
+  "video": [],
+  "citation": [
+    {
+      "name": "駐ドイツのアメリカ軍のうち5000人撤退へ 米国防総省",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015113251000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260502/K10015113251_2605020723_0502072549_01_02.jpg",
+      "datePublished": "2026-05-02T10:24:10+09:00"
+    },
+    {
+      "name": "トランプ大統領 妥協しない姿勢 イランと依然隔たり",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015113151000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260502/K10015113151_2605020644_0502064919_01_02.jpg",
+      "datePublished": "2026-05-02T12:28:22+09:00"
+    },
+    {
+      "name": "トランプ大統領 EU自動車関税率25％に引き上げ表明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015113261000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260502/K10015113261_2605021004_0502100459_01_03.jpg",
+      "datePublished": "2026-05-02T09:51:57+09:00"
+    },
+    {
+      "name": "NY株式市場 ナスダックとS＆P500指数 再び最高値更新",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015113241000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260502/K10015113241_2605020657_0502065806_01_02.jpg",
+      "datePublished": "2026-05-02T06:58:05+09:00"
+    },
+    {
+      "name": "FIFA総会 パレスチナ代表者がイスラエル代表者との握手を拒否",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015113031000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260501/K10015113031_2605012027_0501210230_01_02.jpg",
+      "datePublished": "2026-05-01T21:02:30+09:00"
+    },
+    {
+      "name": "NPT再検討会議 広島の「胎内被爆者」核兵器の非人道性訴え",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015113171000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260502/K10015113171_2605020435_0502055344_01_02.jpg",
+      "datePublished": "2026-05-02T12:05:44+09:00"
+    },
+    {
+      "name": "こう着するイラン情勢 トランプ大統領に新たな軍事作戦説明か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015112321000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260501/K10015112321_2605010546_0501190331_01_02.jpg",
+      "datePublished": "2026-05-01T22:35:24+09:00"
+    },
+    {
+      "name": "ゼレンスキー大統領 ロシアの石油施設などに損失70億ドル",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015113161000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260502/K10015113161_2605020042_0502053337_01_02.jpg",
+      "datePublished": "2026-05-02T05:33:37+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015096851000",
+  "dataSourceId": "na",
+  "name": "国民健康保険の交付金 算定に誤り 厚労省",
+  "headline": "国民健康保険の交付金 算定に誤り 厚労省",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015096851000",
+    "playlistId": "news-nwa-politics-nationwide-20260410",
+    "newsarticleName": "国民健康保険の交付金 算定に誤り 厚労省",
+    "playlistName": "4月10日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "厚生労働省は、国民健康保険を運営するための交付金の算定に誤りがあったことを明らかにしました。今後、資金が不足する場合は、都道府県ごとに積み立てた基金の活用などで対応するとしています。\n\n\n国民健康保険",
+  "dateModified": "2026-04-10T20:30:34+09:00",
+  "datePublished": "2026-04-10T20:30:34+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260410/K10015096851_2604101957_0410203035_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260410/K10015096851_2604101957_0410203035_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0002401",
+      "name": "厚生労働省",
+      "display": true
+    },
+    {
+      "id": "0000414",
+      "name": "医療・健康",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "厚生労働省は、国民健康保険を運営するための交付金の算定に誤りがあったことを明らかにしました。今後、資金が不足する場合は、都道府県ごとに積み立てた基金の活用などで対応するとしています。\n\n\n国民健康保険",
+  "articleBody": "厚生労働省は、国民健康保険を運営するための交付金の算定に誤りがあったことを明らかにしました。今後、資金が不足する場合は、都道府県ごとに積み立てた基金の活用などで対応するとしています。\n\n\n国民健康保険は、被用者保険からの「前期高齢者交付金」のほか、市町村から徴収する納付金などをもとに、各都道府県によって運営されています。\n\nこのうち、「前期高齢者交付金」について、厚生労働省は10日、算定に誤りがあったことを明らかにしました。\n\nシステムの改修にあたり、国による算定方法の見直しが反映されていなかったことが要因で、実際には、本来の交付金が各都道府県に行き渡るということです。\n\nただ、誤ったデータをもとに、市町村からの納付金を見積もったことから、今年度分の納付金の徴収額が少なくなり、財政状況によっては、資金が不足するおそれがあるということです。\n\nその場合、都道府県ごとに積み立てた基金の活用などで対応するとしています。\n\n厚生労働省は「関係者の皆さまにご心配、ご負担をおかけし、深くおわび申し上げます」としています。\n",
+  "detailedArticleBody": {
+    "markedLead": "厚生労働省は、国民健康保険を運営するための交付金の算定に誤りがあったことを明らかにしました。今後、資金が不足する場合は、都道府県ごとに積み立てた基金の活用などで対応するとしています。\n",
+    "markedBody": "国民健康保険は、被用者保険からの「前期高齢者交付金」のほか、市町村から徴収する納付金などをもとに、各都道府県によって運営されています。\n\nこのうち、「前期高齢者交付金」について、厚生労働省は10日、算定に誤りがあったことを明らかにしました。\n\nシステムの改修にあたり、国による算定方法の見直しが反映されていなかったことが要因で、実際には、本来の交付金が各都道府県に行き渡るということです。\n\nただ、誤ったデータをもとに、市町村からの納付金を見積もったことから、今年度分の納付金の徴収額が少なくなり、財政状況によっては、資金が不足するおそれがあるということです。\n\nその場合、都道府県ごとに積み立てた基金の活用などで対応するとしています。\n\n厚生労働省は「関係者の皆さまにご心配、ご負担をおかけし、深くおわび申し上げます」としています。\n",
+    "trimmedLead": "厚生労働省は、国民健康保険を運営するための交付金の算定に誤りがあったことを明らかにしました。今後、資金が不足する場合は、都道府県ごとに積み立てた基金の活用などで対応するとしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015096851000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015096851000",
+  "video": [],
+  "citation": [
+    {
+      "name": "米・イラン あす協議予定 主張対立で開催か予断を許さない状況",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015096141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260410/K10015096141_2604101927_0410193012_01_03.jpg",
+      "datePublished": "2026-04-10T19:30:11+09:00"
+    },
+    {
+      "name": "【イラン情勢 国内影響】生産・流通 各地の現場では",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015096321000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260410/K10015096321_2604101749_0410193809_01_02.jpg",
+      "datePublished": "2026-04-10T19:38:08+09:00"
+    },
+    {
+      "name": "「ナフサ」由来の断熱材が値上がり 住宅価格に影響は？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015096311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260410/K10015096311_2604101727_0410192333_01_02.jpg",
+      "datePublished": "2026-04-10T19:23:32+09:00"
+    },
+    {
+      "name": "ことしの外交青書 中国“最も重要な二国間関係の一つ”見送る",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015096291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260410/K10015096291_2604100906_0410092805_01_02.jpg",
+      "datePublished": "2026-04-10T20:15:36+09:00"
+    },
+    {
+      "name": "兵庫 加古川の県道で歩道が約70mにわたり池に崩落 けが人なし",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015096641000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260410/K10015096641_2604101603_0410162305_01_02.jpg",
+      "datePublished": "2026-04-10T19:45:53+09:00"
+    },
+    {
+      "name": "大阪 和泉 母娘殺害 発見当時 寝巻きのような格好で倒れていた",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015096441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260410/K10015096441_2604101138_0410120307_01_02.jpg",
+      "datePublished": "2026-04-10T19:18:39+09:00"
+    },
+    {
+      "name": "スーパーのコメ平均価格 5キロ 3933円 8週連続で値下がり",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015096721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260410/K10015096721_2604101801_0410180934_01_03.jpg",
+      "datePublished": "2026-04-10T18:09:33+09:00"
+    },
+    {
+      "name": "ことしの大型連休 新幹線の予約ピーク 下り5月2日 上り5月5日",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015096551000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260410/K10015096551_2604101642_0410172436_01_02.jpg",
+      "datePublished": "2026-04-10T17:24:35+09:00"
+    },
+    {
+      "name": "西日本・東日本で荒れた天気 あす北日本で風強まる 暴風に警戒",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015096121000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260410/K10015096121_2604101856_0410191712_01_02.jpg",
+      "datePublished": "2026-04-10T19:17:11+09:00"
+    },
+    {
+      "name": "アメリカ財務省高官にきく 日本版CFIUSの意義と課題",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015095541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260409/K10015095541_2604091730_0409221451_01_02.jpg",
+      "datePublished": "2026-04-10T12:12:05+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

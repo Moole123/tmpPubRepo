@@ -1,0 +1,151 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015121961000",
+  "dataSourceId": "na",
+  "name": "国連グテーレス事務総長が会合出席のため来週訪日へ 政府発表",
+  "headline": "国連グテーレス事務総長が会合出席のため来週訪日へ 政府発表",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015121961000",
+    "playlistId": "news-nwa-international-nationwide-20260514",
+    "newsarticleName": "国連グテーレス事務総長が会合出席のため来週訪日へ 政府発表",
+    "playlistName": "5月14日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "政府は、国連のグテーレス事務総長が、東京都内で開催される国連関係の会合に出席するため、来週、日本を訪れると発表しました。\n\n\nそれによりますと、国連のグテーレス事務総長は、来週17日から20日までの4",
+  "dateModified": "2026-05-14T20:57:40+09:00",
+  "datePublished": "2026-05-14T20:57:40+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260514/K10015121961_2605142022_0514205740_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260514/K10015121961_2605142022_0514205740_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際",
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0002338",
+      "name": "国連",
+      "display": true
+    },
+    {
+      "id": "0002672",
+      "name": "高市内閣",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "政府は、国連のグテーレス事務総長が、東京都内で開催される国連関係の会合に出席するため、来週、日本を訪れると発表しました。\n\n\nそれによりますと、国連のグテーレス事務総長は、来週17日から20日までの4",
+  "articleBody": "政府は、国連のグテーレス事務総長が、東京都内で開催される国連関係の会合に出席するため、来週、日本を訪れると発表しました。\n\n\nそれによりますと、国連のグテーレス事務総長は、来週17日から20日までの4日間の日程で日本を訪れ、滞在中、東京都内で開催される国連関係の会合に出席するほか、天皇陛下と会見する予定です。\n\nまた、高市総理大臣とも会談するということです。\n\nことしは日本が国連に加盟してから70周年の節目の年となることから、政府としては、今回の訪日を通じて、国連との協力関係を一層強化したい考えです。\n",
+  "detailedArticleBody": {
+    "markedLead": "政府は、国連のグテーレス事務総長が、東京都内で開催される国連関係の会合に出席するため、来週、日本を訪れると発表しました。\n",
+    "markedBody": "それによりますと、国連のグテーレス事務総長は、来週17日から20日までの4日間の日程で日本を訪れ、滞在中、東京都内で開催される国連関係の会合に出席するほか、天皇陛下と会見する予定です。\n\nまた、高市総理大臣とも会談するということです。\n\nことしは日本が国連に加盟してから70周年の節目の年となることから、政府としては、今回の訪日を通じて、国連との協力関係を一層強化したい考えです。\n",
+    "trimmedLead": "政府は、国連のグテーレス事務総長が、東京都内で開催される国連関係の会合に出席するため、来週、日本を訪れると発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015121961000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015121961000",
+  "video": [],
+  "citation": [
+    {
+      "name": "【詳しく】米中首脳会談 台湾めぐり習主席 アメリカ側をけん制",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015121151000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260514/K10015121151_2605141215_0514130225_01_02.jpg",
+      "datePublished": "2026-05-14T22:08:47+09:00"
+    },
+    {
+      "name": "【解説】米中首脳会談 冒頭発言や双方のねらいをどう見る",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015121361000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260514/K10015121361_2605141225_0514131230_01_02.jpg",
+      "datePublished": "2026-05-14T15:31:06+09:00"
+    },
+    {
+      "name": "最先端AI「クロード・ミュトス」悪用リスクも…対策へ議論開始",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015121241000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260514/K10015121241_2605141939_0514195849_01_03.jpg",
+      "datePublished": "2026-05-14T19:58:48+09:00"
+    },
+    {
+      "name": "BRICS外相会合 イラン外相は米イスラエル非難呼びかけ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015121761000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260514/K10015121761_2605141736_0514193958_01_02.jpg",
+      "datePublished": "2026-05-14T19:39:57+09:00"
+    },
+    {
+      "name": "ENEOS管理の原油タンカーがホルムズ海峡通過の報道",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015121201000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260514/K10015121201_2605141037_0514104701_01_02.jpg",
+      "datePublished": "2026-05-14T19:03:24+09:00"
+    },
+    {
+      "name": "ウクライナでロシア軍の大規模攻撃 首都キーウで死者も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015121451000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260514/K10015121451_2605141314_0514143828_01_03.jpg",
+      "datePublished": "2026-05-14T20:14:19+09:00"
+    },
+    {
+      "name": "国連 ケニアで大会議場の起工式 第3拠点として機能移転進む",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120061000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015120061_2605130449_0513071859_01_02.jpg",
+      "datePublished": "2026-05-13T07:18:58+09:00"
+    },
+    {
+      "name": "ガザ停戦7か月も現地は衛生状況が悪化 皮膚疾患が急増",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015117641000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260510/K10015117641_2605100217_0510054244_01_02.jpg",
+      "datePublished": "2026-05-10T06:20:34+09:00"
+    },
+    {
+      "name": "イラン情勢 東南アジアはいま 日本の対応は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015116611000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260512/K10015116611_2605121524_0512183022_01_02.jpg",
+      "datePublished": "2026-05-12T18:30:21+09:00"
+    },
+    {
+      "name": "TACOの次はNACHO？原油高とアメリカの物価",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119241000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260512/K10015119241_2605131137_0513121542_01_02.jpg",
+      "datePublished": "2026-05-12T14:09:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

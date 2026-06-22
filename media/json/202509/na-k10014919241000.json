@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014919241000",
+  "dataSourceId": "na",
+  "name": "イギリス軍ヘリコプター 飛行中に操縦席の窓 鹿児島湾に落下か",
+  "headline": "イギリス軍ヘリコプター 飛行中に操縦席の窓 鹿児島湾に落下か",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014919241000",
+    "playlistId": "news-nwa-society-nationwide-20250911",
+    "newsarticleName": "イギリス軍ヘリコプター 飛行中に操縦席の窓 鹿児島湾に落下か",
+    "playlistName": "9月11日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "10日夜、飛行中のイギリス軍のヘリコプターから操縦席の窓が落下したと、九州防衛局から鹿児島県に連絡がありました。鹿児島湾に落下したとみられ、第十管区海上保安本部によりますと、これまでに被害の情報は入っ",
+  "dateModified": "2025-09-11T06:39:39+09:00",
+  "datePublished": "2025-09-11T06:39:39+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250911/K10014919241_2509110404_0911063941_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250911/K10014919241_2509110404_0911063941_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会",
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "10日夜、飛行中のイギリス軍のヘリコプターから操縦席の窓が落下したと、九州防衛局から鹿児島県に連絡がありました。鹿児島湾に落下したとみられ、第十管区海上保安本部によりますと、これまでに被害の情報は入っ",
+  "articleBody": "10日夜、飛行中のイギリス軍のヘリコプターから操縦席の窓が落下したと、九州防衛局から鹿児島県に連絡がありました。鹿児島湾に落下したとみられ、第十管区海上保安本部によりますと、これまでに被害の情報は入っていないということです。\n\n\n鹿児島県によりますと10日午後8時15分ごろ、鹿屋市にある海上自衛隊鹿屋航空基地の西およそ12キロの地点を飛行していたイギリス軍のヘリコプターから部品が落下したと、九州防衛局から県に連絡がありました。\n\n落下したのはAWー101という機種の、操縦席左側の窓で、大きさは長さ1メートル50センチ、幅2メートル50センチで、重さは分からないということです。\n\n鹿児島湾に落下したとみられますが、第十管区海上保安本部によりますと、これまでに被害の情報は入っていないということです。\n\n県は国に対し県民の安心・安全を確保するため再発防止の徹底をイギリス軍に求めることや、速やかな情報提供を行うことを要請したということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "10日夜、飛行中のイギリス軍のヘリコプターから操縦席の窓が落下したと、九州防衛局から鹿児島県に連絡がありました。鹿児島湾に落下したとみられ、第十管区海上保安本部によりますと、これまでに被害の情報は入っていないということです。\n",
+    "markedBody": "鹿児島県によりますと10日午後8時15分ごろ、鹿屋市にある海上自衛隊鹿屋航空基地の西およそ12キロの地点を飛行していたイギリス軍のヘリコプターから部品が落下したと、九州防衛局から県に連絡がありました。\n\n落下したのはAWー101という機種の、操縦席左側の窓で、大きさは長さ1メートル50センチ、幅2メートル50センチで、重さは分からないということです。\n\n鹿児島湾に落下したとみられますが、第十管区海上保安本部によりますと、これまでに被害の情報は入っていないということです。\n\n県は国に対し県民の安心・安全を確保するため再発防止の徹底をイギリス軍に求めることや、速やかな情報提供を行うことを要請したということです。\n",
+    "trimmedLead": "10日夜、飛行中のイギリス軍のヘリコプターから操縦席の窓が落下したと、九州防衛局から鹿児島県に連絡がありました。鹿児島湾に落下したとみられ、第十管区海上保安本部によりますと、これまでに被害の情報は入っていないということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014919241000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014919241000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

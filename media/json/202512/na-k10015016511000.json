@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015016511000",
+  "dataSourceId": "na",
+  "name": "国連事務総長「戦争への投資を減らし 貧困との闘いに力を」",
+  "headline": "国連事務総長「戦争への投資を減らし 貧困との闘いに力を」",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015016511000",
+    "playlistId": "news-nwa-international-nationwide-20251230",
+    "newsarticleName": "国連事務総長「戦争への投資を減らし 貧困との闘いに力を」",
+    "playlistName": "12月30日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "国連のグテーレス事務総長は新年に向けたメッセージを発表し、世界各地で紛争が続くなか、戦争ではなく貧困対策により力を入れるよう各国に呼びかけました。\n\n\n国連のグテーレス事務総長は29日、新年に向けたメ",
+  "dateModified": "2025-12-30T08:18:55+09:00",
+  "datePublished": "2025-12-30T08:18:55+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251230/K10015016511_2512300151_1230081856_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251230/K10015016511_2512300151_1230081856_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "国連のグテーレス事務総長は新年に向けたメッセージを発表し、世界各地で紛争が続くなか、戦争ではなく貧困対策により力を入れるよう各国に呼びかけました。\n\n\n国連のグテーレス事務総長は29日、新年に向けたメ",
+  "articleBody": "国連のグテーレス事務総長は新年に向けたメッセージを発表し、世界各地で紛争が続くなか、戦争ではなく貧困対策により力を入れるよう各国に呼びかけました。\n\n\n国連のグテーレス事務総長は29日、新年に向けたメッセージを発表し、このなかで暴力や気候変動の悪化、そして国際法の侵害などにより「人類という一つの家族としてわたしたちを結びつけてきた原則からの後退が起きている」と強い危機感を示しました。\n\nそのうえで、第2次世界大戦以来の規模で紛争が激化し、世界の軍事費は増加していると指摘し「新年を機に優先順位を正す決意をしよう。より安全な世界は戦争への投資を減らし、貧困との闘いに力を入れることから始まる。平和が勝利しなければならない」と各国の指導者に呼びかけました。\n\n国連によりますと、世界では▼4分の1以上の人々が紛争の影響を受ける地域で暮らし、▼2億人以上が人道支援を必要とし、▼およそ1億2000万人が紛争や災害などからの避難を余儀なくされているということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "国連のグテーレス事務総長は新年に向けたメッセージを発表し、世界各地で紛争が続くなか、戦争ではなく貧困対策により力を入れるよう各国に呼びかけました。\n",
+    "markedBody": "国連のグテーレス事務総長は29日、新年に向けたメッセージを発表し、このなかで暴力や気候変動の悪化、そして国際法の侵害などにより「人類という一つの家族としてわたしたちを結びつけてきた原則からの後退が起きている」と強い危機感を示しました。\n\nそのうえで、第2次世界大戦以来の規模で紛争が激化し、世界の軍事費は増加していると指摘し「新年を機に優先順位を正す決意をしよう。より安全な世界は戦争への投資を減らし、貧困との闘いに力を入れることから始まる。平和が勝利しなければならない」と各国の指導者に呼びかけました。\n\n国連によりますと、世界では▼4分の1以上の人々が紛争の影響を受ける地域で暮らし、▼2億人以上が人道支援を必要とし、▼およそ1億2000万人が紛争や災害などからの避難を余儀なくされているということです。\n",
+    "trimmedLead": "国連のグテーレス事務総長は新年に向けたメッセージを発表し、世界各地で紛争が続くなか、戦争ではなく貧困対策により力を入れるよう各国に呼びかけました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015016511000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015016511000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

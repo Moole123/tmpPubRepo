@@ -1,0 +1,146 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015120301000",
+  "dataSourceId": "na",
+  "name": "ニデック 無断で設計変更など 不適切行為の疑いを発表",
+  "headline": "ニデック 無断で設計変更など 不適切行為の疑いを発表",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015120301000",
+    "playlistId": "news-nwa-business-nationwide-20260513",
+    "newsarticleName": "ニデック 無断で設計変更など 不適切行為の疑いを発表",
+    "playlistName": "5月13日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "不正な会計処理が明らかになった電子部品大手の旧「日本電産」、「ニデック」は、家電向けなどの部品において、顧客に無断で設計を変更するなど、「不適切な行為が行われていた疑いのあることが分かった」と発表しま",
+  "dateModified": "2026-05-13T13:01:27+09:00",
+  "datePublished": "2026-05-13T13:01:27+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260513/K10015120301_2605131258_0513134032_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260513/K10015120301_2605131258_0513134032_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002733",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "不正な会計処理が明らかになった電子部品大手の旧「日本電産」、「ニデック」は、家電向けなどの部品において、顧客に無断で設計を変更するなど、「不適切な行為が行われていた疑いのあることが分かった」と発表しま",
+  "articleBody": "不正な会計処理が明らかになった電子部品大手の旧「日本電産」、「ニデック」は、家電向けなどの部品において、顧客に無断で設計を変更するなど、「不適切な行為が行われていた疑いのあることが分かった」と発表しました。\n\n\n会社では、外部の弁護士による調査委員会を設置し、ことし8月末までをめどに品質不正が行われていたかどうかや、その背景などについて調査することを決めたということです。\n\n関係者によりますと、こうした不適切な行為の疑いは、1000件以上に上るとみられています。\n\n会社は13日午後5時から東京で岸田光哉社長などが会見を開き、詳しい状況や今後の対応などを説明する見通しです。\n",
+  "detailedArticleBody": {
+    "markedLead": "不正な会計処理が明らかになった電子部品大手の旧「日本電産」、「ニデック」は、家電向けなどの部品において、顧客に無断で設計を変更するなど、「不適切な行為が行われていた疑いのあることが分かった」と発表しました。\n",
+    "markedBody": "会社では、外部の弁護士による調査委員会を設置し、ことし8月末までをめどに品質不正が行われていたかどうかや、その背景などについて調査することを決めたということです。\n\n関係者によりますと、こうした不適切な行為の疑いは、1000件以上に上るとみられています。\n\n会社は13日午後5時から東京で岸田光哉社長などが会見を開き、詳しい状況や今後の対応などを説明する見通しです。\n",
+    "trimmedLead": "不正な会計処理が明らかになった電子部品大手の旧「日本電産」、「ニデック」は、家電向けなどの部品において、顧客に無断で設計を変更するなど、「不適切な行為が行われていた疑いのあることが分かった」と発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015120301000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015120301000",
+  "video": [],
+  "citation": [
+    {
+      "name": "フィギュア坂本花織 引退会見 競技生活振り返り“青春だな”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120111000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015120111_2605131114_0513112407_01_02.jpg",
+      "datePublished": "2026-05-13T12:32:46+09:00"
+    },
+    {
+      "name": "長期金利2.6％まで上昇 約29年ぶりの高水準",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120121000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015120121_2605130931_0513093355_01_02.jpg",
+      "datePublished": "2026-05-13T11:04:20+09:00"
+    },
+    {
+      "name": "あいちFGと三重の三十三FGが経営統合に向け最終調整",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015120141_2605131014_0513101456_01_03.jpg",
+      "datePublished": "2026-05-13T11:56:15+09:00"
+    },
+    {
+      "name": "ドジャース 大谷翔平 7号ソロホームラン 53打席ぶり",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015120221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015120221_2605131219_0513122018_01_03.jpg",
+      "datePublished": "2026-05-13T12:18:09+09:00"
+    },
+    {
+      "name": "カルビー製品包装 “白黒2色” で関係企業に聴き取りへ 政府",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119161000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260512/K10015119161_2605121119_0512114211_01_02.jpg",
+      "datePublished": "2026-05-12T18:57:33+09:00"
+    },
+    {
+      "name": "給付付き税額控除 支援対象の所得水準や財源確保など検討課題",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015119921_2605130105_0513045721_01_02.jpg",
+      "datePublished": "2026-05-13T04:57:20+09:00"
+    },
+    {
+      "name": "新築マンション引き渡し遅延の可能性 通知広がる イラン影響で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119831000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015119831_2605122121_0513062346_01_02.jpg",
+      "datePublished": "2026-05-13T06:23:46+09:00"
+    },
+    {
+      "name": "トランプ大統領 中国へ出発 経済・台湾・イランなど議論",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119961000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015119961_2605130359_0513040231_01_02.jpg",
+      "datePublished": "2026-05-13T07:42:36+09:00"
+    },
+    {
+      "name": "磐越道部活バス事故 4月から約1か月で少なくとも5件の物損事故",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119991000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260513/K10015119991_2605130016_0513050926_01_03.jpg",
+      "datePublished": "2026-05-13T05:09:25+09:00"
+    },
+    {
+      "name": "金利も価格も上昇 住宅購入の注意点は？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119181000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260512/K10015119181_2605121143_0512141027_01_02.jpg",
+      "datePublished": "2026-05-12T14:10:26+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

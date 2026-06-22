@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014928831000",
+  "dataSourceId": "na",
+  "name": "Perfume（パフューム）が年内での活動休止を発表 紅白歌合戦に16年連続出場",
+  "headline": "人気女性3人組ユニット Perfumeが年内で活動休止を発表",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014928831000",
+    "playlistId": "news-nwa-scienceculture-nationwide-20250921",
+    "newsarticleName": "Perfume（パフューム）が年内での活動休止を発表 紅白歌合戦に16年連続出場",
+    "playlistName": "9月21日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "人気女性3人組ユニットの「Perfume」が年内で活動を休止すると21日、発表しました。\n\n\nこれはPerfumeが公式サイトなどで発表したものです。\n\nそれによりますと「今、自分たちが胸を張って“輝",
+  "dateModified": "2025-09-21T11:13:32+09:00",
+  "datePublished": "2025-09-21T11:13:32+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250921/K10014928831_2509211109_0921111105_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250921/K10014928831_2509211109_0921111105_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "科学・文化",
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "人気女性3人組ユニットの「Perfume」が年内で活動を休止すると21日、発表しました。\n\n\nこれはPerfumeが公式サイトなどで発表したものです。\n\nそれによりますと「今、自分たちが胸を張って“輝",
+  "articleBody": "人気女性3人組ユニットの「Perfume」が年内で活動を休止すると21日、発表しました。\n\n\nこれはPerfumeが公式サイトなどで発表したものです。\n\nそれによりますと「今、自分たちが胸を張って“輝いている”と思えるこの瞬間を刻むため2026年からPerfumeを一度コールドスリープします」などとしていて、年内で活動を休止するということです。\n\n休止の期間については明らかにしていません。\n\nPerfumeは1999年に広島で結成され、2005年にメジャーデビューした女性3人組ユニットで、「ポリリズム」や「レーザービーム」など、独特な楽曲や歌詞、ダンスで人気を集め、NHK紅白歌合戦には16年連続で出場しました。\n\nPerfumeは「パワーアップしてカムバックしたいと思っているので、またみなさんに巡り会える日まで、温かく見守っていただけたらうれしいです」などとコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "人気女性3人組ユニットの「Perfume」が年内で活動を休止すると21日、発表しました。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20250921/K10014928831_2509211100_0921111105_02_03.jpg)\n\nこれはPerfumeが公式サイトなどで発表したものです。\n\nそれによりますと「今、自分たちが胸を張って“輝いている”と思えるこの瞬間を刻むため2026年からPerfumeを一度コールドスリープします」などとしていて、年内で活動を休止するということです。\n\n休止の期間については明らかにしていません。\n\nPerfumeは1999年に広島で結成され、2005年にメジャーデビューした女性3人組ユニットで、「ポリリズム」や「レーザービーム」など、独特な楽曲や歌詞、ダンスで人気を集め、NHK紅白歌合戦には16年連続で出場しました。\n\nPerfumeは「パワーアップしてカムバックしたいと思っているので、またみなさんに巡り会える日まで、温かく見守っていただけたらうれしいです」などとコメントしています。\n",
+    "trimmedLead": "人気女性3人組ユニットの「Perfume」が年内で活動を休止すると21日、発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014928831000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014928831000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

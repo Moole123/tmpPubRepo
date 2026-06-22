@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014937161000",
+  "dataSourceId": "na",
+  "name": "石破首相 韓国人留学生の墓を訪れ慰霊 駅で転落した人救助",
+  "headline": "石破首相 韓国人留学生の墓を訪れ慰霊 駅で転落した人救助",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014937161000",
+    "playlistId": "news-nwa-politics-nationwide-20250930",
+    "newsarticleName": "石破首相 韓国人留学生の墓を訪れ慰霊 駅で転落した人救助",
+    "playlistName": "9月30日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "韓国を訪問中の石破総理大臣は、2001年にJR山手線の駅でホームから転落した人を助けようとして亡くなった韓国人留学生の墓を訪れ、花を手向けて慰霊しました。\n\n\n石破総理大臣は30日午後、政府専用機で韓",
+  "dateModified": "2025-09-30T21:36:31+09:00",
+  "datePublished": "2025-09-30T21:36:31+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250930/K10014937161_2509302056_0930211105_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250930/K10014937161_2509302056_0930211105_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治",
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "韓国を訪問中の石破総理大臣は、2001年にJR山手線の駅でホームから転落した人を助けようとして亡くなった韓国人留学生の墓を訪れ、花を手向けて慰霊しました。\n\n\n石破総理大臣は30日午後、政府専用機で韓",
+  "articleBody": "韓国を訪問中の石破総理大臣は、2001年にJR山手線の駅でホームから転落した人を助けようとして亡くなった韓国人留学生の墓を訪れ、花を手向けて慰霊しました。\n\n\n石破総理大臣は30日午後、政府専用機で韓国第2の都市・プサン（釜山）に到着し、はじめに2001年1月、JR山手線の新大久保駅でホームから転落した人を助けようとして亡くなった韓国人留学生、イ・スヒョンさんの墓を訪れました。\n\nそして遺族が見守る中、静かに花を手向けて慰霊しました。\n\n石破総理大臣はこのあと、イ・ジェミョン大統領との首脳会談に臨み、イさんの墓を訪れたことに触れたうえで「危険を顧みずに日本人を救おうとして犠牲になられてから24年がたった。人のために自分の命を投げ出す高い志と豊かな人間愛に改めて敬意を表する」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "韓国を訪問中の石破総理大臣は、2001年にJR山手線の駅でホームから転落した人を助けようとして亡くなった韓国人留学生の墓を訪れ、花を手向けて慰霊しました。\n",
+    "markedBody": "石破総理大臣は30日午後、政府専用機で韓国第2の都市・プサン（釜山）に到着し、はじめに2001年1月、JR山手線の新大久保駅でホームから転落した人を助けようとして亡くなった韓国人留学生、イ・スヒョンさんの墓を訪れました。\n\nそして遺族が見守る中、静かに花を手向けて慰霊しました。\n\n![](https://news.web.nhk/news/html/20250930/K10014937161_2509302056_0930211105_02_03.jpg)\n\n石破総理大臣はこのあと、イ・ジェミョン大統領との首脳会談に臨み、イさんの墓を訪れたことに触れたうえで「危険を顧みずに日本人を救おうとして犠牲になられてから24年がたった。人のために自分の命を投げ出す高い志と豊かな人間愛に改めて敬意を表する」と述べました。\n",
+    "trimmedLead": "韓国を訪問中の石破総理大臣は、2001年にJR山手線の駅でホームから転落した人を助けようとして亡くなった韓国人留学生の墓を訪れ、花を手向けて慰霊しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014937161000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014937161000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014883491000",
+  "dataSourceId": "na",
+  "name": "ロシア カムチャツカ半島付近で地震 M7.0 日本に津波影響なし",
+  "headline": "ロシア カムチャツカ半島付近で地震 M7.0 日本に津波影響なし",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014883491000",
+    "playlistId": "news-nwa-disaster-nationwide-20250803",
+    "newsarticleName": "ロシア カムチャツカ半島付近で地震 M7.0 日本に津波影響なし",
+    "playlistName": "8月3日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "ハワイにある太平洋津波警報センターから気象庁に入った連絡によりますと、日本時間の3日午後2時38分ごろ、ロシアのカムチャツカ半島付近を震源とするマグニチュード7.0の大きな地震がありました。\n気象庁に",
+  "dateModified": "2025-08-03T15:38:45+09:00",
+  "datePublished": "2025-08-03T15:38:45+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250803/K10014883491_2508031527_0803153847_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250803/K10014883491_2508031527_0803153847_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "ハワイにある太平洋津波警報センターから気象庁に入った連絡によりますと、日本時間の3日午後2時38分ごろ、ロシアのカムチャツカ半島付近を震源とするマグニチュード7.0の大きな地震がありました。\n気象庁に",
+  "articleBody": "ハワイにある太平洋津波警報センターから気象庁に入った連絡によりますと、日本時間の3日午後2時38分ごろ、ロシアのカムチャツカ半島付近を震源とするマグニチュード7.0の大きな地震がありました。\n気象庁によりますと、この地震による日本への津波の影響はありません。\n\n\n気象庁は、震源の近くで津波が発生するおそれがあるとして、周辺の各国に「北西太平洋津波情報」を発表しました。\n\nカムチャツカ半島付近では、先月30日、マグニチュード8.7の巨大地震が発生し、日本の広い範囲に津波が押し寄せました。\n\nまた、USGS＝アメリカの地質調査所によりますと、日本時間の3日午後2時半過ぎ、千島列島のパラムシル島の沖合を震源とする地震がありました。\n\n震源の深さは35キロ、地震の規模を示すマグニチュードは6.8と推定されています。\n\nNOAA＝アメリカ海洋大気局はこの地震による津波のおそれはないとしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "ハワイにある太平洋津波警報センターから気象庁に入った連絡によりますと、日本時間の3日午後2時38分ごろ、ロシアのカムチャツカ半島付近を震源とするマグニチュード7.0の大きな地震がありました。\\\n気象庁によりますと、この地震による日本への津波の影響はありません。\n",
+    "markedBody": "気象庁は、震源の近くで津波が発生するおそれがあるとして、周辺の各国に「北西太平洋津波情報」を発表しました。\n\nカムチャツカ半島付近では、先月30日、マグニチュード8.7の巨大地震が発生し、日本の広い範囲に津波が押し寄せました。\n\nまた、USGS＝アメリカの地質調査所によりますと、日本時間の3日午後2時半過ぎ、千島列島のパラムシル島の沖合を震源とする地震がありました。\n\n震源の深さは35キロ、地震の規模を示すマグニチュードは6.8と推定されています。\n\nNOAA＝アメリカ海洋大気局はこの地震による津波のおそれはないとしています。\n",
+    "trimmedLead": "ハワイにある太平洋津波警報センターから気象庁に入った連絡によりますと、日本時間の3日午後2時38分ごろ、ロシアのカムチャツカ半島付近を震源とするマグニチュード7.0の大きな地震がありました。\n気象庁によりますと、この地震による日本への津波の影響はありません。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014883491000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014883491000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

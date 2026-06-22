@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014861101000",
+  "dataSourceId": "na",
+  "name": "沖縄 尖閣諸島沖 中国海警局の船2隻 領海を出るも海保は監視継続",
+  "headline": "尖閣諸島沖 中国海警局の船2隻 領海を出るも海保は監視継続",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014861101000",
+    "playlistId": "news-nwa-society-nationwide-20250711",
+    "newsarticleName": "沖縄 尖閣諸島沖 中国海警局の船2隻 領海を出るも海保は監視継続",
+    "playlistName": "7月11日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "9日、沖縄県の尖閣諸島の沖合で日本の領海に侵入した中国海警局の船2隻は、11日午後6時半すぎまでに領海を出ました。海上保安本部は、再び領海に入らないよう警告と監視を続けています。\n\n\n第11管区海上保",
+  "dateModified": "2025-07-11T22:55:11+09:00",
+  "datePublished": "2025-07-11T22:55:11+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250711/K10014861101_2507112244_0711225512_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250711/K10014861101_2507112244_0711225512_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会",
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "9日、沖縄県の尖閣諸島の沖合で日本の領海に侵入した中国海警局の船2隻は、11日午後6時半すぎまでに領海を出ました。海上保安本部は、再び領海に入らないよう警告と監視を続けています。\n\n\n第11管区海上保",
+  "articleBody": "9日、沖縄県の尖閣諸島の沖合で日本の領海に侵入した中国海警局の船2隻は、11日午後6時半すぎまでに領海を出ました。海上保安本部は、再び領海に入らないよう警告と監視を続けています。\n\n\n第11管区海上保安本部によりますと、9日午前4時前、中国海警局の船2隻が尖閣諸島の大正島の沖合で日本の領海に相次いで侵入しました。\n\n2隻はいずれも砲を搭載していて、このうち1隻は、11日午前1時すぎにいったん領海から出たあと、およそ9時間後に再び侵入していました。\n\nもう1隻は、86時間余り、領海内の航行を続けていましたが、2隻とも11日午後6時半すぎまでに領海から出ました。\n\n海上保安本部は、再び領海に入らないよう警告と監視を続けています。\n\n尖閣諸島の沖合で中国海警局の船が日本の領海に侵入するのが確認されたのは、今月3日以来です。\n",
+  "detailedArticleBody": {
+    "markedLead": "9日、沖縄県の尖閣諸島の沖合で日本の領海に侵入した中国海警局の船2隻は、11日午後6時半すぎまでに領海を出ました。海上保安本部は、再び領海に入らないよう警告と監視を続けています。\n",
+    "markedBody": "第11管区海上保安本部によりますと、9日午前4時前、中国海警局の船2隻が尖閣諸島の大正島の沖合で日本の領海に相次いで侵入しました。\n\n2隻はいずれも砲を搭載していて、このうち1隻は、11日午前1時すぎにいったん領海から出たあと、およそ9時間後に再び侵入していました。\n\nもう1隻は、86時間余り、領海内の航行を続けていましたが、2隻とも11日午後6時半すぎまでに領海から出ました。\n\n海上保安本部は、再び領海に入らないよう警告と監視を続けています。\n\n尖閣諸島の沖合で中国海警局の船が日本の領海に侵入するのが確認されたのは、今月3日以来です。\n",
+    "trimmedLead": "9日、沖縄県の尖閣諸島の沖合で日本の領海に侵入した中国海警局の船2隻は、11日午後6時半すぎまでに領海を出ました。海上保安本部は、再び領海に入らないよう警告と監視を続けています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014861101000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014861101000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

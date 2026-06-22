@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015133171000",
+  "dataSourceId": "na",
+  "name": "円相場 小幅な値動き 植田総裁の発言材料不足で方向感欠く",
+  "headline": "円相場 小幅な値動き 植田総裁の発言材料不足で方向感欠く",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015133171000",
+    "playlistId": "news-nwa-business-nationwide-20260527",
+    "newsarticleName": "円相場 小幅な値動き 植田総裁の発言材料不足で方向感欠く",
+    "playlistName": "5月27日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "27日の東京外国為替市場、円相場は小幅な値動きとなりました。\n\n\n午後5時時点の円相場は、26日と比べて16銭円安ドル高の1ドル＝159円35銭～37銭でした。\n\n一方、ユーロに対しては、23銭円安ユ",
+  "dateModified": "2026-05-27T18:16:35+09:00",
+  "datePublished": "2026-05-27T18:16:35+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260527/K10015133171_2605271805_0527181636_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260527/K10015133171_2605271805_0527181636_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0002423",
+      "name": "金融",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "27日の東京外国為替市場、円相場は小幅な値動きとなりました。\n\n\n午後5時時点の円相場は、26日と比べて16銭円安ドル高の1ドル＝159円35銭～37銭でした。\n\n一方、ユーロに対しては、23銭円安ユ",
+  "articleBody": "27日の東京外国為替市場、円相場は小幅な値動きとなりました。\n\n\n午後5時時点の円相場は、26日と比べて16銭円安ドル高の1ドル＝159円35銭～37銭でした。\n\n一方、ユーロに対しては、23銭円安ユーロ高の1ユーロ＝185円49銭～53銭でした。\n\nユーロはドルに対して1ユーロ＝1.1640～41ドルでした。\n\n市場関係者は、「きょうは日銀の植田総裁がイベントであいさつしたが、金融政策に関する言及はなく、大きな値動きにはつながらなかった。アメリカとイランによる協議が進む一方で、双方が攻撃を行ったという情報も伝わり、依然として円を売ってドルを買う動きが続いている」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "27日の東京外国為替市場、円相場は小幅な値動きとなりました。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20260527/K10015133171_2605271805_0527181636_02_03.jpg)\n\n午後5時時点の円相場は、26日と比べて16銭円安ドル高の1ドル＝159円35銭～37銭でした。\n\n一方、ユーロに対しては、23銭円安ユーロ高の1ユーロ＝185円49銭～53銭でした。\n\nユーロはドルに対して1ユーロ＝1.1640～41ドルでした。\n\n市場関係者は、「きょうは日銀の植田総裁がイベントであいさつしたが、金融政策に関する言及はなく、大きな値動きにはつながらなかった。アメリカとイランによる協議が進む一方で、双方が攻撃を行ったという情報も伝わり、依然として円を売ってドルを買う動きが続いている」と話していました。\n",
+    "trimmedLead": "27日の東京外国為替市場、円相場は小幅な値動きとなりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015133171000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015133171000",
+  "video": [],
+  "citation": [
+    {
+      "name": "株価 取り引き時間中の最高値更新も終値は小幅な値上がり",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015132451000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260527/K10015132451_2605271146_0527120556_01_02.jpg",
+      "datePublished": "2026-05-27T16:35:44+09:00"
+    },
+    {
+      "name": "日銀 植田総裁 “原油高騰に加え賃金・為替等の影響も注視”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015132801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260527/K10015132801_2605271350_0527150513_01_03.jpg",
+      "datePublished": "2026-05-27T17:07:51+09:00"
+    },
+    {
+      "name": "ガソリン全国平均169.2円 政府補助金で170円水準続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015132851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260527/K10015132851_2605271445_0527153118_01_02.jpg",
+      "datePublished": "2026-05-27T15:31:17+09:00"
+    },
+    {
+      "name": "新たな防災気象情報 あす午後から発表開始",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015132591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260527/K10015132591_2605271605_0527163411_01_02.jpg",
+      "datePublished": "2026-05-27T16:34:10+09:00"
+    },
+    {
+      "name": "「国家情報局」設置法 成立 政府のインテリジェンス機能強化へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015132531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260527/K10015132531_2605271248_0527125713_01_02.jpg",
+      "datePublished": "2026-05-27T18:41:56+09:00"
+    },
+    {
+      "name": "経済安全保障推進法などの改正案 参議院で審議入り",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015132781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260527/K10015132781_2605271421_0527142559_01_02.jpg",
+      "datePublished": "2026-05-27T14:25:58+09:00"
+    },
+    {
+      "name": "台風6号が発生 来週 沖縄付近へ進むおそれ 今後の情報に注意を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015132541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260527/K10015132541_2605271641_0527164204_01_02.jpg",
+      "datePublished": "2026-05-27T17:13:35+09:00"
+    },
+    {
+      "name": "【1分解説】5月に猛暑日 なぜ？これから夏はどうなる？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015128461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260527/K10015128461_2605270924_0527104330_01_03.jpg",
+      "datePublished": "2026-05-27T10:43:29+09:00"
+    },
+    {
+      "name": "“魂の交流”描く 濱口竜介監督「急に具合が悪くなる」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015130671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260525/K10015130671_2605251440_0525170146_01_02.jpg",
+      "datePublished": "2026-05-25T17:01:45+09:00"
+    },
+    {
+      "name": "脱毛や肌の変色 がんの副作用で私が壊れていく…",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015127591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260526/K10015127591_2605261404_0526165733_01_02.jpg",
+      "datePublished": "2026-05-26T16:57:32+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

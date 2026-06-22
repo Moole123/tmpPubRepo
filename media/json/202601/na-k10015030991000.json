@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015030991000",
+  "dataSourceId": "na",
+  "name": "12月 コメ相対取引価格 前月より下落も前年同月比46％値上がり",
+  "headline": "12月 コメ相対取引価格 前月より下落も前年同月比46％値上がり",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015030991000",
+    "playlistId": "news-nwa-business-nationwide-20260120",
+    "newsarticleName": "12月 コメ相対取引価格 前月より下落も前年同月比46％値上がり",
+    "playlistName": "1月20日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "農林水産省は、2025年12月、業者間で取り引きされたコメの価格「相対取引価格」を公表し、2か月連続で前の月より下落しました。一方、前の年の同じ月と比べると40％以上値上がりし、依然高い水準で推移して",
+  "dateModified": "2026-01-20T20:06:05+09:00",
+  "datePublished": "2026-01-20T20:06:05+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260120/K10015030991_2601201654_0120200606_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260120/K10015030991_2601201654_0120200606_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "農林水産省は、2025年12月、業者間で取り引きされたコメの価格「相対取引価格」を公表し、2か月連続で前の月より下落しました。一方、前の年の同じ月と比べると40％以上値上がりし、依然高い水準で推移して",
+  "articleBody": "農林水産省は、2025年12月、業者間で取り引きされたコメの価格「相対取引価格」を公表し、2か月連続で前の月より下落しました。一方、前の年の同じ月と比べると40％以上値上がりし、依然高い水準で推移しています。\n\n\n農林水産省は20日、農協などのコメの集荷業者が卸売業者に販売した際の価格「相対取引価格」を発表しました。\n\nそれによりますと、調査の対象となった120銘柄すべての12月の平均価格は60キロあたり3万6075円と、前の月より418円、率にして1％値下がりしました。\n\n下落は2か月連続です。\n\n下落の理由について、農林水産省は、新潟県や東北地方などのコメどころの銘柄米が多く値下がりしたことなどを挙げています。\n\n一方、前の年の同じ月と比べると46％値上がりし、依然高い水準で推移しています。\n\n農林水産省は「関係者の間では、コメの価格は、この先さらに下落するという見方が強まっているため、小売価格の動向も含めて注意深く見ていきたい」としています。\n",
+  "detailedArticleBody": {
+    "markedLead": "農林水産省は、2025年12月、業者間で取り引きされたコメの価格「相対取引価格」を公表し、2か月連続で前の月より下落しました。一方、前の年の同じ月と比べると40％以上値上がりし、依然高い水準で推移しています。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20260120/K10015030991_2601201654_0120200606_02_03.jpg)\n\n農林水産省は20日、農協などのコメの集荷業者が卸売業者に販売した際の価格「相対取引価格」を発表しました。\n\nそれによりますと、調査の対象となった120銘柄すべての12月の平均価格は60キロあたり3万6075円と、前の月より418円、率にして1％値下がりしました。\n\n下落は2か月連続です。\n\n下落の理由について、農林水産省は、新潟県や東北地方などのコメどころの銘柄米が多く値下がりしたことなどを挙げています。\n\n一方、前の年の同じ月と比べると46％値上がりし、依然高い水準で推移しています。\n\n農林水産省は「関係者の間では、コメの価格は、この先さらに下落するという見方が強まっているため、小売価格の動向も含めて注意深く見ていきたい」としています。\n",
+    "trimmedLead": "農林水産省は、2025年12月、業者間で取り引きされたコメの価格「相対取引価格」を公表し、2か月連続で前の月より下落しました。一方、前の年の同じ月と比べると40％以上値上がりし、依然高い水準で推移しています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015030991000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015030991000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015113001000",
+  "dataSourceId": "na",
+  "name": "高性能AI悪用に備え 経産省が電力事業者に緊急点検要請",
+  "headline": "高性能AI悪用に備え 経産省が電力事業者に緊急点検要請",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015113001000",
+    "playlistId": "news-nwa-business-nationwide-20260501",
+    "newsarticleName": "高性能AI悪用に備え 経産省が電力事業者に緊急点検要請",
+    "playlistName": "5月1日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "アメリカの企業が開発した高性能なAIモデルにより、重要な社会基盤がサイバー攻撃を受けるリスクが指摘される中、経済産業省は、電力分野の事業者に対して、自社の情報通信システムに弱い点がないか緊急点検するよ",
+  "dateModified": "2026-05-01T20:19:30+09:00",
+  "datePublished": "2026-05-01T20:19:30+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260501/K10015113001_2605011956_0501201930_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260501/K10015113001_2605011956_0501201930_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000009",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "0000010",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "0002404",
+      "name": "経済産業省",
+      "display": true
+    },
+    {
+      "id": "0000325",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "0002733",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "アメリカの企業が開発した高性能なAIモデルにより、重要な社会基盤がサイバー攻撃を受けるリスクが指摘される中、経済産業省は、電力分野の事業者に対して、自社の情報通信システムに弱い点がないか緊急点検するよ",
+  "articleBody": "アメリカの企業が開発した高性能なAIモデルにより、重要な社会基盤がサイバー攻撃を受けるリスクが指摘される中、経済産業省は、電力分野の事業者に対して、自社の情報通信システムに弱い点がないか緊急点検するよう要請しました。\n\n\nアメリカの新興AI企業「アンソロピック」が開発した高性能なAIモデル「クロード・ミュトス」は、OS＝基本ソフトや、ウェブブラウザのぜい弱性を特定できる能力が高く、サイバー攻撃に悪用された場合、社会基盤の機能が止まるなどのリスクが指摘されています。\n\nこれを受けて経済産業省は、1日、電力やガス、石油などの業界団体と意見交換会を開きました。\n\nこの中で、特に電力設備が攻撃を受けると甚大な影響を引き起こすおそれがあることから、経済産業省は、大手電力会社と送配電事業者、あわせて24社に対して、自社の情報通信システムの状況について緊急点検を行い、1か月後をめどに報告するよう要請しました。\n\n赤澤経済産業大臣は「新たな技術を逆に利用し、ぜい弱性を把握して対応することも重要だ。サイバーセキュリティーは、経営上の最優先課題で、問題が起きたらトップの責任だという強い覚悟を持ってほしい」と述べ、トップみずからが率先して点検を指揮するよう求めました。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカの企業が開発した高性能なAIモデルにより、重要な社会基盤がサイバー攻撃を受けるリスクが指摘される中、経済産業省は、電力分野の事業者に対して、自社の情報通信システムに弱い点がないか緊急点検するよう要請しました。\n",
+    "markedBody": "アメリカの新興AI企業「アンソロピック」が開発した高性能なAIモデル「クロード・ミュトス」は、OS＝基本ソフトや、ウェブブラウザのぜい弱性を特定できる能力が高く、サイバー攻撃に悪用された場合、社会基盤の機能が止まるなどのリスクが指摘されています。\n\nこれを受けて経済産業省は、1日、電力やガス、石油などの業界団体と意見交換会を開きました。\n\nこの中で、特に電力設備が攻撃を受けると甚大な影響を引き起こすおそれがあることから、経済産業省は、大手電力会社と送配電事業者、あわせて24社に対して、自社の情報通信システムの状況について緊急点検を行い、1か月後をめどに報告するよう要請しました。\n\n![](https://news.web.nhk/news/html/20260501/K10015113001_2605011956_0501201930_02_03.jpg)\n\n赤澤経済産業大臣は「新たな技術を逆に利用し、ぜい弱性を把握して対応することも重要だ。サイバーセキュリティーは、経営上の最優先課題で、問題が起きたらトップの責任だという強い覚悟を持ってほしい」と述べ、トップみずからが率先して点検を指揮するよう求めました。\n",
+    "trimmedLead": "アメリカの企業が開発した高性能なAIモデルにより、重要な社会基盤がサイバー攻撃を受けるリスクが指摘される中、経済産業省は、電力分野の事業者に対して、自社の情報通信システムに弱い点がないか緊急点検するよう要請しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015113001000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015113001000",
+  "video": [],
+  "citation": [
+    {
+      "name": "サイバー攻撃にAI悪用「対策具体化進める」 木原官房長官",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109961000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260428/K10015109961_2604281204_0428121415_01_02.jpg",
+      "datePublished": "2026-04-28T12:14:15+09:00"
+    },
+    {
+      "name": "米AI新興アンソロピックに出資 巨大テクノロジー企業で広がる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015108221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260425/K10015108221_2604251513_0425170241_01_02.jpg",
+      "datePublished": "2026-04-25T17:02:40+09:00"
+    },
+    {
+      "name": "AIの進化見据え金融庁が作業部会 官民連携で対策検討へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015107431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015107431_2604241630_0424165233_01_02.jpg",
+      "datePublished": "2026-04-24T16:52:33+09:00"
+    },
+    {
+      "name": "“アンソロピック新AIモデルめぐり米財務長官ら緊急会合”報道",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015097101000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260411/K10015097101_2604111513_0411151340_01_03.jpg",
+      "datePublished": "2026-04-11T11:54:35+09:00"
+    },
+    {
+      "name": "「PayPay」送金に誘導する詐欺メールが急増 注意を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015111421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260430/K10015111421_2604301108_0430113151_01_02.jpg",
+      "datePublished": "2026-04-30T11:31:50+09:00"
+    },
+    {
+      "name": "不動産会社利用のシステムに不正アクセス 顧客情報 大量流出か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015112811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260501/K10015112811_2605011752_0501192959_01_02.jpg",
+      "datePublished": "2026-05-01T19:29:58+09:00"
+    },
+    {
+      "name": "IT関連会社「はてな」11億円流出 警察官かたる詐欺被害か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015112951000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260501/K10015112951_2605011906_0501193810_01_02.jpg",
+      "datePublished": "2026-05-01T19:38:09+09:00"
+    },
+    {
+      "name": "米夕食会発砲事件 根拠ない「やらせ」陰謀論が拡散 注意を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015110281000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260428/K10015110281_2604281640_0428164930_01_02.jpg",
+      "datePublished": "2026-04-28T16:49:29+09:00"
+    },
+    {
+      "name": "米FBI長官にサイバー攻撃 “イラン関わる”ハッカー集団が声明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015086571000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260328/K10015086571_2603281532_0328153916_01_02.jpg",
+      "datePublished": "2026-03-28T15:39:15+09:00"
+    },
+    {
+      "name": "はしか感染拡大 科学的根拠のない情報が広がる 注意を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015110461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260429/K10015110461_2604281850_0429055737_01_02.jpg",
+      "datePublished": "2026-04-29T05:57:36+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

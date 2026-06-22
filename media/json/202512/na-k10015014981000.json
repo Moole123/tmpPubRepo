@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015014981000",
+  "dataSourceId": "na",
+  "name": "ゆうちょ銀行 通常貯金の金利 0.3％に引き上げ 来年2月から",
+  "headline": "ゆうちょ銀行 通常貯金の金利 0.3％に引き上げ 来年2月から",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015014981000",
+    "playlistId": "news-nwa-business-nationwide-20251226",
+    "newsarticleName": "ゆうちょ銀行 通常貯金の金利 0.3％に引き上げ 来年2月から",
+    "playlistName": "12月26日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "ゆうちょ銀行は、通常貯金の金利を来年2月から今の1.5倍の0.3％に引き上げると発表しました。日銀の追加利上げを受けたもので、およそ30年ぶりの水準となります。\n\n\nゆうちょ銀行は、来年2月9日から通",
+  "dateModified": "2025-12-26T17:58:56+09:00",
+  "datePublished": "2025-12-26T17:58:56+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251226/K10015014981_2512261738_1226175857_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251226/K10015014981_2512261738_1226175857_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "ゆうちょ銀行は、通常貯金の金利を来年2月から今の1.5倍の0.3％に引き上げると発表しました。日銀の追加利上げを受けたもので、およそ30年ぶりの水準となります。\n\n\nゆうちょ銀行は、来年2月9日から通",
+  "articleBody": "ゆうちょ銀行は、通常貯金の金利を来年2月から今の1.5倍の0.3％に引き上げると発表しました。日銀の追加利上げを受けたもので、およそ30年ぶりの水準となります。\n\n\nゆうちょ銀行は、来年2月9日から通常貯金の金利を今の年0.2％から年0.3％に引き上げると発表しました。\n\n日銀の追加利上げを受けたもので、1995年9月以来、およそ30年ぶりの水準となります。\n\n定期貯金についても金利の引き上げを予定しているということで、金利の水準や引き上げの時期は決まり次第、発表するとしています。\n\n日銀の追加利上げを受けて、すでに大手銀行の三菱UFJ銀行、三井住友銀行、みずほ銀行がいずれも来年2月から普通預金の金利を年0.2％から年0.3％に引き上げると発表しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "ゆうちょ銀行は、通常貯金の金利を来年2月から今の1.5倍の0.3％に引き上げると発表しました。日銀の追加利上げを受けたもので、およそ30年ぶりの水準となります。\n",
+    "markedBody": "ゆうちょ銀行は、来年2月9日から通常貯金の金利を今の年0.2％から年0.3％に引き上げると発表しました。\n\n日銀の追加利上げを受けたもので、1995年9月以来、およそ30年ぶりの水準となります。\n\n定期貯金についても金利の引き上げを予定しているということで、金利の水準や引き上げの時期は決まり次第、発表するとしています。\n\n日銀の追加利上げを受けて、すでに大手銀行の三菱UFJ銀行、三井住友銀行、みずほ銀行がいずれも来年2月から普通預金の金利を年0.2％から年0.3％に引き上げると発表しています。\n",
+    "trimmedLead": "ゆうちょ銀行は、通常貯金の金利を来年2月から今の1.5倍の0.3％に引き上げると発表しました。日銀の追加利上げを受けたもので、およそ30年ぶりの水準となります。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015014981000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015014981000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

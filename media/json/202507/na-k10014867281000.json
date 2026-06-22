@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014867281000",
+  "dataSourceId": "na",
+  "name": "和泉雅子さん死去 原発不明がんのため 女優 冒険家として活躍 日本人女性初の北極点到達 「非行少女」主演",
+  "headline": "冒険家で女優の和泉雅子さん死去 日本人女性で初の北極点到達",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014867281000",
+    "playlistId": "news-nwa-scienceculture-nationwide-20250718",
+    "newsarticleName": "和泉雅子さん死去 原発不明がんのため 女優 冒険家として活躍 日本人女性初の北極点到達 「非行少女」主演",
+    "playlistName": "7月18日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "日本人の女性として初めて北極点に到達した冒険家で女優の和泉雅子さんが、今月、原発不明がんのため亡くなりました。77歳でした。\n\n\n和泉さんは1947年に東京で生まれ、子役として活動したあと、1961年",
+  "dateModified": "2025-07-18T12:11:53+09:00",
+  "datePublished": "2025-07-18T12:11:53+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250718/K10014867281_2507181144_0718120818_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250718/K10014867281_2507181144_0718120818_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "科学・文化",
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "日本人の女性として初めて北極点に到達した冒険家で女優の和泉雅子さんが、今月、原発不明がんのため亡くなりました。77歳でした。\n\n\n和泉さんは1947年に東京で生まれ、子役として活動したあと、1961年",
+  "articleBody": "日本人の女性として初めて北極点に到達した冒険家で女優の和泉雅子さんが、今月、原発不明がんのため亡くなりました。77歳でした。\n\n\n和泉さんは1947年に東京で生まれ、子役として活動したあと、1961年に日活に入社すると、青春映画などに数多く出演して人気を博しました。\n\n不良少女と青年の青春を描いた浦山桐郎監督の映画「非行少女」では主演を務め、モスクワ国際映画祭で映画が金賞を受賞しました。\n\n歌手としては山内賢さんと歌った「二人の銀座」が、ヒットしたことでも知られています。\n\nまた、冒険家としても活躍し、北極点への遠征隊を組織して、1989年に日本人女性として初めて北極点到達を達成しました。\n\n所属事務所によりますと、和泉さんはことし5月に倒れ都内の病院に入院し、その後、自宅で療養していましたが、今月9日に体調が急変し、原発不明がんのため亡くなったということです。\n\n77歳でした。\n",
+  "detailedArticleBody": {
+    "markedLead": "日本人の女性として初めて北極点に到達した冒険家で女優の和泉雅子さんが、今月、原発不明がんのため亡くなりました。77歳でした。\n",
+    "markedBody": "和泉さんは1947年に東京で生まれ、子役として活動したあと、1961年に日活に入社すると、青春映画などに数多く出演して人気を博しました。\n\n不良少女と青年の青春を描いた浦山桐郎監督の映画「非行少女」では主演を務め、モスクワ国際映画祭で映画が金賞を受賞しました。\n\n歌手としては山内賢さんと歌った「二人の銀座」が、ヒットしたことでも知られています。\n\nまた、冒険家としても活躍し、北極点への遠征隊を組織して、1989年に日本人女性として初めて北極点到達を達成しました。\n\n所属事務所によりますと、和泉さんはことし5月に倒れ都内の病院に入院し、その後、自宅で療養していましたが、今月9日に体調が急変し、原発不明がんのため亡くなったということです。\n\n77歳でした。\n",
+    "trimmedLead": "日本人の女性として初めて北極点に到達した冒険家で女優の和泉雅子さんが、今月、原発不明がんのため亡くなりました。77歳でした。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014867281000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014867281000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

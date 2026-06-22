@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014877421000",
+  "dataSourceId": "na",
+  "name": "今年度の普通交付税 7年連続増 不交付団体も昨年度から増加",
+  "headline": "今年度の普通交付税 7年連続増 不交付団体も昨年度から増加",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014877421000",
+    "playlistId": "news-nwa-politics-nationwide-20250729",
+    "newsarticleName": "今年度の普通交付税 7年連続増 不交付団体も昨年度から増加",
+    "playlistName": "7月29日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "国から自治体に交付される今年度の普通交付税の総額は、17兆8100億円余りで、7年連続で増加しました。一方、普通交付税を受けずに財政運営ができる、いわゆる「不交付団体」は、85自治体となり、昨年度から",
+  "dateModified": "2025-07-29T10:27:47+09:00",
+  "datePublished": "2025-07-29T10:27:47+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250729/K10014877421_2507290953_0729102720_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250729/K10014877421_2507290953_0729102720_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治",
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "国から自治体に交付される今年度の普通交付税の総額は、17兆8100億円余りで、7年連続で増加しました。一方、普通交付税を受けずに財政運営ができる、いわゆる「不交付団体」は、85自治体となり、昨年度から",
+  "articleBody": "国から自治体に交付される今年度の普通交付税の総額は、17兆8100億円余りで、7年連続で増加しました。一方、普通交付税を受けずに財政運営ができる、いわゆる「不交付団体」は、85自治体となり、昨年度から2増えました。\n\n\n総務省は、自治体の財源不足を補うため、国から自治体に交付される今年度の普通交付税の額を決定し村上総務大臣が、29日の閣議で報告しました。\n\nそれによりますと、全国の1680の自治体に総額17兆8198億円が交付され、昨年度に比べて2728億円、率にして1.6％増えました。\n\n普通交付税の総額が前の年度を上回るのは7年連続で総務省は、公務員給与の引き上げへの対応や、物価高による、自治体の施設管理委託料や光熱費の増加などを要因にあげています。\n\n一方で、普通交付税の交付を受けずに財政運営ができる、いわゆる「不交付団体」は85自治体となり、昨年度から2増えて、4年連続の増加となりました。\n",
+  "detailedArticleBody": {
+    "markedLead": "国から自治体に交付される今年度の普通交付税の総額は、17兆8100億円余りで、7年連続で増加しました。一方、普通交付税を受けずに財政運営ができる、いわゆる「不交付団体」は、85自治体となり、昨年度から2増えました。\n",
+    "markedBody": "総務省は、自治体の財源不足を補うため、国から自治体に交付される今年度の普通交付税の額を決定し村上総務大臣が、29日の閣議で報告しました。\n\nそれによりますと、全国の1680の自治体に総額17兆8198億円が交付され、昨年度に比べて2728億円、率にして1.6％増えました。\n\n普通交付税の総額が前の年度を上回るのは7年連続で総務省は、公務員給与の引き上げへの対応や、物価高による、自治体の施設管理委託料や光熱費の増加などを要因にあげています。\n\n一方で、普通交付税の交付を受けずに財政運営ができる、いわゆる「不交付団体」は85自治体となり、昨年度から2増えて、4年連続の増加となりました。\n",
+    "trimmedLead": "国から自治体に交付される今年度の普通交付税の総額は、17兆8100億円余りで、7年連続で増加しました。一方、普通交付税を受けずに財政運営ができる、いわゆる「不交付団体」は、85自治体となり、昨年度から2増えました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014877421000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014877421000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

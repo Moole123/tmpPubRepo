@@ -1,0 +1,213 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015045641000",
+  "dataSourceId": "na",
+  "name": "上場企業 去年4～12月の決算 最終利益の水準 前年同時期とほぼ横ばい",
+  "headline": "上場企業 去年4～12月の決算 最終利益 前年同時期とほぼ横ばい",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015045641000",
+    "playlistId": "news-nwa-business-nationwide-20260207",
+    "newsarticleName": "上場企業 去年4～12月の決算 最終利益の水準 前年同時期とほぼ横ばい",
+    "playlistName": "2月7日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "国内の上場企業の去年4月から12月までの決算は、アメリカの関税措置の影響が残るものの、AI向けの活発な投資を背景に収益を伸ばす企業も多く、最終利益の合計の水準は前の年の同じ時期とほぼ横ばいとなっていま",
+  "dateModified": "2026-02-07T11:42:28+09:00",
+  "datePublished": "2026-02-07T11:42:28+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260207/K10015045641_2602071131_0207114229_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260207/K10015045641_2602071131_0207114229_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0002729",
+      "name": "決算",
+      "display": true
+    },
+    {
+      "id": "0002733",
+      "name": "企業・経営",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "0002605",
+      "name": "関税",
+      "display": true
+    },
+    {
+      "id": "0001595",
+      "name": "中国",
+      "display": true
+    },
+    {
+      "id": "0002413",
+      "name": "東京証券取引所",
+      "display": true
+    },
+    {
+      "id": "0000010",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "0002417",
+      "name": "自動車",
+      "display": true
+    },
+    {
+      "id": "0002423",
+      "name": "金融",
+      "display": true
+    },
+    {
+      "id": "0002736",
+      "name": "資源・エネルギー",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "国内の上場企業の去年4月から12月までの決算は、アメリカの関税措置の影響が残るものの、AI向けの活発な投資を背景に収益を伸ばす企業も多く、最終利益の合計の水準は前の年の同じ時期とほぼ横ばいとなっていま",
+  "articleBody": "国内の上場企業の去年4月から12月までの決算は、アメリカの関税措置の影響が残るものの、AI向けの活発な投資を背景に収益を伸ばす企業も多く、最終利益の合計の水準は前の年の同じ時期とほぼ横ばいとなっています。\n\n\n「SMBC日興証券」は旧東証1部に上場していた3月期決算の企業を中心に、今月5日までに発表を終えた企業の去年4月から12月までの決算を分析しました。\n\nそれによりますと、比較可能な511社の最終的な利益の合計は、23兆9134億円余りでした。\n\n前の年の同じ時期を0.1％下回っているものの、増益の企業は357社でおよそ7割を占めています。\n\n▽海外で大規模な投資が続くAIやデータセンターの関連企業では、受注が好調だったうえに円安で利益が押し上げられたほか、\n▽銀行も金利の上昇を追い風に収益を伸ばしました。\n\n一方、減益や赤字に転落した企業は154社でした。\n\nアメリカの関税措置の影響で自動車業界では赤字になるメーカーが出たほか、鉄鋼業界では鋼材の市況の悪化などが響き減益や赤字が相次ぎました。\n\nSMBC日興証券の安田光チーフ株式ストラテジストは「関税措置の影響は徐々に小さくなっているほか、全体としては円安によって業績が押し上げられ、おおむね好調な決算だった」と分析しています。\n\nまた、今後の見通しについては「長期金利の上昇や中国のレアアースの輸出規制による影響を注視している。レアアースは潜在的リスクとして意識されていたため、過去と同じインパクトでの悪影響が出ることは考えにくいものの、輸出が完全に止まった場合は自動車の生産停止など波及してくるリスクもあり、今後の日中関係を注視する必要がある」と指摘しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "国内の上場企業の去年4月から12月までの決算は、アメリカの関税措置の影響が残るものの、AI向けの活発な投資を背景に収益を伸ばす企業も多く、最終利益の合計の水準は前の年の同じ時期とほぼ横ばいとなっています。\n",
+    "markedBody": "「SMBC日興証券」は旧東証1部に上場していた3月期決算の企業を中心に、今月5日までに発表を終えた企業の去年4月から12月までの決算を分析しました。\n\nそれによりますと、比較可能な511社の最終的な利益の合計は、23兆9134億円余りでした。\n\n前の年の同じ時期を0.1％下回っているものの、増益の企業は357社でおよそ7割を占めています。\n\n▽海外で大規模な投資が続くAIやデータセンターの関連企業では、受注が好調だったうえに円安で利益が押し上げられたほか、\\\n▽銀行も金利の上昇を追い風に収益を伸ばしました。\n\n一方、減益や赤字に転落した企業は154社でした。\n\nアメリカの関税措置の影響で自動車業界では赤字になるメーカーが出たほか、鉄鋼業界では鋼材の市況の悪化などが響き減益や赤字が相次ぎました。\n\n![](https://news.web.nhk/news/html/20260207/K10015045641_2602071131_0207114229_02_03.jpg)\n\nSMBC日興証券の安田光チーフ株式ストラテジストは「関税措置の影響は徐々に小さくなっているほか、全体としては円安によって業績が押し上げられ、おおむね好調な決算だった」と分析しています。\n\nまた、今後の見通しについては「長期金利の上昇や中国のレアアースの輸出規制による影響を注視している。レアアースは潜在的リスクとして意識されていたため、過去と同じインパクトでの悪影響が出ることは考えにくいものの、輸出が完全に止まった場合は自動車の生産停止など波及してくるリスクもあり、今後の日中関係を注視する必要がある」と指摘しています。\n",
+    "trimmedLead": "国内の上場企業の去年4月から12月までの決算は、アメリカの関税措置の影響が残るものの、AI向けの活発な投資を背景に収益を伸ばす企業も多く、最終利益の合計の水準は前の年の同じ時期とほぼ横ばいとなっています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015045641000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015045641000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "上場企業 去年4～12月の決算 最終利益 前年同時期とほぼ横ばい",
+      "description": "国内の上場企業の去年4月から12月までの決算は、アメリカの関税措置の影響が残るものの、AI向けの活発な投資を背景に収益を伸ばす企業も多く、最終利益の合計の水準は前の年の同じ時期とほぼ横ばいとなっていま",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015045641_202602071310_202602071310/index.m3u8&mrposter=/news/html/20260207/K10015045641_2602071131_0207114229_01_02.jpg",
+      "duration": "PT1M39S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015045641_202602071310_202602071310/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260207/K10015045641_2602071131_0207114229_01_02.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "NYダウ 終値で初の5万ドル突破 米景気先行きに楽観的見方で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015045441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260207/K10015045441_2602070622_0207063107_01_02.jpg",
+      "datePublished": "2026-02-07T09:27:32+09:00"
+    },
+    {
+      "name": "ステランティス 米でのEVなど事業見直し 約4兆円の費用を計上",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015045431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260207/K10015045431_2602070407_0207071132_01_02.jpg",
+      "datePublished": "2026-02-07T07:11:31+09:00"
+    },
+    {
+      "name": "ミラノ・コルティナ五輪が開幕 開会式で2か所に聖火【詳報】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015045461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260207/K10015045461_2602070750_0207075851_01_02.jpg",
+      "datePublished": "2026-02-07T08:46:38+09:00"
+    },
+    {
+      "name": "日本海側中心に雪強まる 東京23区なども積もるおそれ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015045311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260207/K10015045311_2602072319_0207231958_01_03.jpg",
+      "datePublished": "2026-02-07T23:14:15+09:00"
+    },
+    {
+      "name": "衆議院選挙 きょう選挙戦最終日 各党の党首ら最後の訴え",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015045271000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260207/K10015045271_2602062300_0207052857_01_02.jpg",
+      "datePublished": "2026-02-07T05:28:56+09:00"
+    },
+    {
+      "name": "新START失効 米国務長官「従来の軍縮モデルが時代遅れに」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015045521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260207/K10015045521_2602070850_0207091523_01_02.jpg",
+      "datePublished": "2026-02-07T12:06:38+09:00"
+    },
+    {
+      "name": "ミラノ 米移民税関捜査局職員の五輪派遣に対し各地で抗議活動",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015045331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260207/K10015045331_2602071927_0207193431_01_03.jpg",
+      "datePublished": "2026-02-07T07:59:23+09:00"
+    },
+    {
+      "name": "横浜 青葉区の強盗致死事件 通信アプリでリアルタイムに指示か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015045301000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260207/K10015045301_2602062328_0207062752_01_02.jpg",
+      "datePublished": "2026-02-07T06:27:51+09:00"
+    },
+    {
+      "name": "秋田 大館 男性が雪に埋もれた状態で死亡 雪下ろし中に落雪か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015045511000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260207/K10015045511_2602071204_0207143227_01_02.jpg",
+      "datePublished": "2026-02-07T07:52:55+09:00"
+    },
+    {
+      "name": "グリーンランドにカナダとフランスが領事館をそれぞれ開設",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015045501000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260207/K10015045501_2602070607_0207070445_01_02.jpg",
+      "datePublished": "2026-02-07T07:04:44+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

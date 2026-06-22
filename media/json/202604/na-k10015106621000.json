@@ -1,0 +1,165 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015106621000",
+  "dataSourceId": "na",
+  "name": "円相場 対ドルで小幅に値下がり 米イラン協議の実現不透明",
+  "headline": "円相場 対ドルで小幅に値下がり 米イラン協議の実現不透明",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015106621000",
+    "playlistId": "news-nwa-business-nationwide-20260423",
+    "newsarticleName": "円相場 対ドルで小幅に値下がり 米イラン協議の実現不透明",
+    "playlistName": "4月23日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "23日の東京外国為替市場、円相場はドルに対していくぶん値下がりしました。\n\n\n午後5時時点の円相場は、22日と比べて38銭、円安ドル高の1ドル＝159円59～61銭でした。\n\n一方、ユーロに対しては、",
+  "dateModified": "2026-04-23T18:27:25+09:00",
+  "datePublished": "2026-04-23T18:27:25+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260423/K10015106621_2604231801_0423182726_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260423/K10015106621_2604231801_0423182726_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0000820",
+      "name": "イラン情勢",
+      "display": true
+    },
+    {
+      "id": "0002794",
+      "name": "ホルムズ海峡",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "0001597",
+      "name": "イラン",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "23日の東京外国為替市場、円相場はドルに対していくぶん値下がりしました。\n\n\n午後5時時点の円相場は、22日と比べて38銭、円安ドル高の1ドル＝159円59～61銭でした。\n\n一方、ユーロに対しては、",
+  "articleBody": "23日の東京外国為替市場、円相場はドルに対していくぶん値下がりしました。\n\n\n午後5時時点の円相場は、22日と比べて38銭、円安ドル高の1ドル＝159円59～61銭でした。\n\n一方、ユーロに対しては、38銭、円高ユーロ安の1ユーロ＝186円78～82銭でした。\n\nユーロはドルに対して1ユーロ＝1.1703～04ドルでした。\n\n市場関係者は「ホルムズ海峡をめぐってイラン側が船舶2隻を拿捕（だほ）したと伝えられたことなどを受けて、原油の先物価格は、安定供給への懸念からやや上昇している。アメリカとイランによる戦闘の終結に向けた協議が実現するのか、見通せない状況が続き、ドルが買われやすくなっている」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "23日の東京外国為替市場、円相場はドルに対していくぶん値下がりしました。\n",
+    "markedBody": "午後5時時点の円相場は、22日と比べて38銭、円安ドル高の1ドル＝159円59～61銭でした。\n\n一方、ユーロに対しては、38銭、円高ユーロ安の1ユーロ＝186円78～82銭でした。\n\nユーロはドルに対して1ユーロ＝1.1703～04ドルでした。\n\n市場関係者は「ホルムズ海峡をめぐってイラン側が船舶2隻を拿捕（だほ）したと伝えられたことなどを受けて、原油の先物価格は、安定供給への懸念からやや上昇している。アメリカとイランによる戦闘の終結に向けた協議が実現するのか、見通せない状況が続き、ドルが買われやすくなっている」と話しています。\n",
+    "trimmedLead": "23日の東京外国為替市場、円相場はドルに対していくぶん値下がりしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015106621000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015106621000",
+  "video": [],
+  "citation": [
+    {
+      "name": "米 海上封鎖で経済的圧力 各国の外交続くも協議開催は不透明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105831000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015105831_2604231045_0423115602_01_02.jpg",
+      "datePublished": "2026-04-23T19:02:43+09:00"
+    },
+    {
+      "name": "株価 6万円の大台初めて突破 その後は売り注文膨らみ値下がり",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106061000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015106061_2604230909_0423091357_01_02.jpg",
+      "datePublished": "2026-04-23T17:52:41+09:00"
+    },
+    {
+      "name": "NYダウ340ドル余値上がり トランプ大統領の停戦延長表明で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106051000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015106051_2604230658_0423071157_01_02.jpg",
+      "datePublished": "2026-04-23T07:11:56+09:00"
+    },
+    {
+      "name": "石油の「自主開発」 十分な成果を挙げているのか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104551000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015104551_2604231434_0423154805_01_02.jpg",
+      "datePublished": "2026-04-23T15:48:04+09:00"
+    },
+    {
+      "name": "「国家情報局」設置法案 賛成多数で衆院通過",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106361000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015106361_2604231408_0423140947_01_02.jpg",
+      "datePublished": "2026-04-24T00:09:52+09:00"
+    },
+    {
+      "name": "高市首相 サウジアラビア皇太子と電話 エネルギー供給拡大要請",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015106441_2604231513_0423152743_01_02.jpg",
+      "datePublished": "2026-04-23T15:27:43+09:00"
+    },
+    {
+      "name": "岩手 大槌町の山林火災 延焼続く 夜を徹して消火活動や警戒へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106021000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015106021_2604231832_0423183351_01_02.jpg",
+      "datePublished": "2026-04-23T19:45:59+09:00"
+    },
+    {
+      "name": "【詳しく】後発地震注意情報 各地で備え 観光業への影響も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105821000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015105821_2604231840_0423184718_01_02.jpg",
+      "datePublished": "2026-04-23T18:47:17+09:00"
+    },
+    {
+      "name": "政府 牧野フライスTOBに中止勧告 “国の安全損なうおそれ”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106171000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015106171_2604231113_0423113935_01_02.jpg",
+      "datePublished": "2026-04-23T14:53:19+09:00"
+    },
+    {
+      "name": "東京23区中古マンション 平均1億2400万円 30％上昇",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106101000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260423/K10015106101_2604231017_0423110604_01_02.jpg",
+      "datePublished": "2026-04-23T11:06:04+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

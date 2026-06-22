@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015136121000",
+  "dataSourceId": "na",
+  "name": "千葉 成田 小学生の息子を殺害か 父親を逮捕",
+  "headline": "千葉 成田 小学生の息子を殺害か 父親を逮捕",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015136121000",
+    "playlistId": "news-nwa-society-nationwide-20260530",
+    "newsarticleName": "千葉 成田 小学生の息子を殺害か 父親を逮捕",
+    "playlistName": "5月30日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "千葉県成田市の住宅で小学生の11歳の息子を殺害したとして、66歳の父親が逮捕されました。\n\n\n逮捕されたのは、成田市並木町の無職、吉伊敏彦容疑者（66）です。\n\n警察によりますと、今月27日、自宅で、",
+  "dateModified": "2026-05-30T21:36:31+09:00",
+  "datePublished": "2026-05-30T21:36:31+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260530/K10015136121_2605302129_0530213631_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260530/K10015136121_2605302129_0530213631_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0001538",
+      "name": "事件・事故",
+      "display": true
+    },
+    {
+      "id": "0002212",
+      "name": "千葉県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "千葉県成田市の住宅で小学生の11歳の息子を殺害したとして、66歳の父親が逮捕されました。\n\n\n逮捕されたのは、成田市並木町の無職、吉伊敏彦容疑者（66）です。\n\n警察によりますと、今月27日、自宅で、",
+  "articleBody": "千葉県成田市の住宅で小学生の11歳の息子を殺害したとして、66歳の父親が逮捕されました。\n\n\n逮捕されたのは、成田市並木町の無職、吉伊敏彦容疑者（66）です。\n\n警察によりますと、今月27日、自宅で、小学生の息子の大聖さん（11）を何らかの方法で殺害したとして殺人の疑いが持たれています。\n\n警察が事件の詳しいいきさつを調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "千葉県成田市の住宅で小学生の11歳の息子を殺害したとして、66歳の父親が逮捕されました。\n",
+    "markedBody": "逮捕されたのは、成田市並木町の無職、吉伊敏彦容疑者（66）です。\n\n警察によりますと、今月27日、自宅で、小学生の息子の大聖さん（11）を何らかの方法で殺害したとして殺人の疑いが持たれています。\n\n警察が事件の詳しいいきさつを調べています。\n",
+    "trimmedLead": "千葉県成田市の住宅で小学生の11歳の息子を殺害したとして、66歳の父親が逮捕されました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015136121000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015136121000",
+  "video": [],
+  "citation": [
+    {
+      "name": "台風6号 沖縄 暴風大雨に備えを 九州～関東甲信も大雨おそれ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015135591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260530/K10015135591_2605302214_0530221518_01_03.jpg",
+      "datePublished": "2026-05-30T19:21:10+09:00"
+    },
+    {
+      "name": "イラン戦闘終結の覚書合意は不透明 米は経済制裁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015135611000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260530/K10015135611_2605300202_0530020434_01_02.jpg",
+      "datePublished": "2026-05-30T19:11:26+09:00"
+    },
+    {
+      "name": "ホワイトソックス村上宗隆 右太もも裏の張り 復帰まで数週間か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015135801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260530/K10015135801_2605301011_0530101130_01_02.jpg",
+      "datePublished": "2026-05-30T15:21:10+09:00"
+    },
+    {
+      "name": "欧州で記録的熱波 英仏などで5月の観測史上最高気温を記録",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015135721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260530/K10015135721_2605301030_0530142055_01_02.jpg",
+      "datePublished": "2026-05-30T14:20:54+09:00"
+    },
+    {
+      "name": "名古屋 歩行者の2人死亡 バスは赤信号で交差点進入か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015135741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260530/K10015135741_2605300538_0530054117_01_02.jpg",
+      "datePublished": "2026-05-30T20:10:04+09:00"
+    },
+    {
+      "name": "女性皇族 結婚後も皇室残るかを選択可能に 衆参議長らが検討",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015135661000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260530/K10015135661_2605300047_0530051156_01_02.jpg",
+      "datePublished": "2026-05-30T05:11:55+09:00"
+    },
+    {
+      "name": "衆議院「1票の格差」是正 国勢調査受け区割り見直し着手へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015135651000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260530/K10015135651_2605300100_0530051407_01_02.jpg",
+      "datePublished": "2026-05-30T05:14:06+09:00"
+    },
+    {
+      "name": "クロマグロに異例の事態 複数県で漁の停止や制限 漁獲量が増で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015135021000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015135021_2605291842_0529184838_01_02.jpg",
+      "datePublished": "2026-05-29T19:27:13+09:00"
+    },
+    {
+      "name": "活況なのに減少 新規上場に何が【経済コラム】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134131_2605281922_0529182924_01_02.jpg",
+      "datePublished": "2026-05-29T18:29:23+09:00"
+    },
+    {
+      "name": "6月に値上げの食品 1000品目超 今後も値上げ続くか【詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134751000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134751_2605291349_0529135242_01_03.jpg",
+      "datePublished": "2026-05-29T17:31:32+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

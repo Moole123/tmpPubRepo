@@ -1,0 +1,145 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015116491000",
+  "dataSourceId": "na",
+  "name": "高市首相動静 2026年5月7日",
+  "headline": "高市首相動静 2026年5月7日",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015116491000",
+    "playlistId": "news-nwa-politics-nationwide-20260508",
+    "newsarticleName": "高市首相動静 2026年5月7日",
+    "playlistName": "5月8日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "（高市首相動静 2026年5月7日）\n\n\n11:31 徒歩で公邸発\n11:33 官邸着\n15:02 官邸発\n15:13 皇居着。帰国の記帳\n15:21 皇居発\n15:29 官邸着\n17:02 徒歩で官",
+  "dateModified": "2026-05-08T09:52:34+09:00",
+  "datePublished": "2026-05-08T09:52:34+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260508/K10015116491_2605080942_0508095235_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260508/K10015116491_2605080942_0508095235_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0002532",
+      "name": "首相動静",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "（高市首相動静 2026年5月7日）\n\n\n11:31 徒歩で公邸発\n11:33 官邸着\n15:02 官邸発\n15:13 皇居着。帰国の記帳\n15:21 皇居発\n15:29 官邸着\n17:02 徒歩で官",
+  "articleBody": "（高市首相動静 2026年5月7日）\n\n\n11:31 徒歩で公邸発\n11:33 官邸着\n15:02 官邸発\n15:13 皇居着。帰国の記帳\n15:21 皇居発\n15:29 官邸着\n17:02 徒歩で官邸発\n17:03 公邸着\n",
+  "detailedArticleBody": {
+    "markedLead": "（高市首相動静 2026年5月7日）\n",
+    "markedBody": "11:31 徒歩で公邸発\\\n11:33 官邸着\\\n15:02 官邸発\\\n15:13 皇居着。帰国の記帳\\\n15:21 皇居発\\\n15:29 官邸着\\\n17:02 徒歩で官邸発\\\n17:03 公邸着\n",
+    "trimmedLead": "（高市首相動静 2026年5月7日）\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015116491000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015116491000",
+  "video": [],
+  "citation": [
+    {
+      "name": "磐越道 高校生など21人死傷事故 バス運行会社を捜索 福島県警",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015116521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260508/K10015116521_2605080922_0508092416_01_02.jpg",
+      "datePublished": "2026-05-08T10:09:41+09:00"
+    },
+    {
+      "name": "イランと米 双方相手の攻撃主張 トランプ大統領「停戦有効」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015116461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260508/K10015116461_2605080710_0508071344_01_03.jpg",
+      "datePublished": "2026-05-08T11:24:58+09:00"
+    },
+    {
+      "name": "トランプ政権の10％関税「違法」と判断 米国際貿易裁判所",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015116471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260508/K10015116471_2605080722_0508073904_01_02.jpg",
+      "datePublished": "2026-05-08T11:20:02+09:00"
+    },
+    {
+      "name": "大相撲 横綱 大の里が夏場所休場へ 休場は2場所連続3回目",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015116531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260508/K10015116531_2605080945_0508095001_01_02.jpg",
+      "datePublished": "2026-05-08T10:40:19+09:00"
+    },
+    {
+      "name": "関西電力 美浜原発3号機 蒸気漏れで運転停止 外部への影響なし",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015116501000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260508/K10015116501_2605080810_0508081522_01_02.jpg",
+      "datePublished": "2026-05-08T10:57:10+09:00"
+    },
+    {
+      "name": "3月の実質賃金 前年同月比1％増加 3か月連続でプラス",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015116091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260508/K10015116091_2605080850_0508085157_01_02.jpg",
+      "datePublished": "2026-05-08T08:30:12+09:00"
+    },
+    {
+      "name": "自賠責の保険料 13年ぶり引き上げへ 平均6％余 ことし11月から",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015116271000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260508/K10015116271_2605072110_0508070722_01_02.jpg",
+      "datePublished": "2026-05-08T07:07:21+09:00"
+    },
+    {
+      "name": "安定的な皇位継承めぐり 中道の見解受け各党の協議再開へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015116301000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260508/K10015116301_2605072307_0508055012_01_02.jpg",
+      "datePublished": "2026-05-08T05:50:11+09:00"
+    },
+    {
+      "name": "ローマ教皇レオ14世 就任1年 トランプ政権“恐れず”注目",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015116261000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260508/K10015116261_2605072128_0508061551_01_02.jpg",
+      "datePublished": "2026-05-08T06:15:50+09:00"
+    },
+    {
+      "name": "中国首相「台湾問題はレッドライン」トランプ大統領訪中前に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015116391000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260508/K10015116391_2605080038_0508055807_01_02.jpg",
+      "datePublished": "2026-05-08T05:58:06+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

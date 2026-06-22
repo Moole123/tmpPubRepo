@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015131421000",
+  "dataSourceId": "na",
+  "name": "米軍がイラン船舶やミサイル施設攻撃 “自衛のため”",
+  "headline": "米軍がイラン船舶やミサイル施設攻撃 “自衛のため”",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015131421000",
+    "playlistId": "news-nwa-international-nationwide-20260526",
+    "newsarticleName": "米軍がイラン船舶やミサイル施設攻撃 “自衛のため”",
+    "playlistName": "5月26日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "イランへの軍事作戦を担うアメリカ中央軍はNHKの取材に対し、アメリカ軍が25日、イラン南部で、機雷を敷設しようとしていた船舶やミサイル発射施設を標的に、自衛のための攻撃を行ったと明らかにしました。\n\n",
+  "dateModified": "2026-05-26T11:57:22+09:00",
+  "datePublished": "2026-05-26T10:17:20+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260526/K10015131421_2605260914_0526101721_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260526/K10015131421_2605260914_0526101721_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0000820",
+      "name": "イラン情勢",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "0001597",
+      "name": "イラン",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "イランへの軍事作戦を担うアメリカ中央軍はNHKの取材に対し、アメリカ軍が25日、イラン南部で、機雷を敷設しようとしていた船舶やミサイル発射施設を標的に、自衛のための攻撃を行ったと明らかにしました。\n\n",
+  "articleBody": "イランへの軍事作戦を担うアメリカ中央軍はNHKの取材に対し、アメリカ軍が25日、イラン南部で、機雷を敷設しようとしていた船舶やミサイル発射施設を標的に、自衛のための攻撃を行ったと明らかにしました。\n\n\nアメリカ中央軍の報道官は「停戦中は自制を保つとともに、われわれの部隊の防衛も続けていく」とコメントしています。\n\nこれについて、FOXニュースは、アメリカの高官の話として、イランの船舶2隻がホルムズ海峡で機雷を敷設していたほか、ミサイル施設からアメリカの軍用機が標的とされたため、軍が対応したと伝えています。\n",
+  "detailedArticleBody": {
+    "markedLead": "イランへの軍事作戦を担うアメリカ中央軍はNHKの取材に対し、アメリカ軍が25日、イラン南部で、機雷を敷設しようとしていた船舶やミサイル発射施設を標的に、自衛のための攻撃を行ったと明らかにしました。\n",
+    "markedBody": "アメリカ中央軍の報道官は「停戦中は自制を保つとともに、われわれの部隊の防衛も続けていく」とコメントしています。\n\nこれについて、FOXニュースは、アメリカの高官の話として、イランの船舶2隻がホルムズ海峡で機雷を敷設していたほか、ミサイル施設からアメリカの軍用機が標的とされたため、軍が対応したと伝えています。\n",
+    "trimmedLead": "イランへの軍事作戦を担うアメリカ中央軍はNHKの取材に対し、アメリカ軍が25日、イラン南部で、機雷を敷設しようとしていた船舶やミサイル発射施設を標的に、自衛のための攻撃を行ったと明らかにしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015131421000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015131421000",
+  "video": [],
+  "citation": [
+    {
+      "name": "トランプ大統領“交渉は順調” イランとの駆け引き続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131251000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260526/K10015131251_2605260506_0526053023_01_02.jpg",
+      "datePublished": "2026-05-26T12:00:51+09:00"
+    },
+    {
+      "name": "中国習主席とパキスタン首相が会談 イラン情勢で意見交換",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260526/K10015131311_2605252326_0526000116_01_02.jpg",
+      "datePublished": "2026-05-26T00:01:16+09:00"
+    },
+    {
+      "name": "ロシア 在キーウ外交官らに退避を警告 ウクライナ側は強く反発",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260526/K10015131331_2605260016_0526002323_01_02.jpg",
+      "datePublished": "2026-05-26T05:38:58+09:00"
+    },
+    {
+      "name": "フィリピン北部でビル倒壊 4人死亡 10人以上閉じ込め 地元当局",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015130841000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260525/K10015130841_2605251330_0525142606_01_02.jpg",
+      "datePublished": "2026-05-25T14:26:05+09:00"
+    },
+    {
+      "name": "パキスタン北部の山岳地帯で日本人男性死亡 岩の割れ目転落か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131321000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260526/K10015131321_2605252329_0526000304_01_02.jpg",
+      "datePublished": "2026-05-26T00:03:03+09:00"
+    },
+    {
+      "name": "中国 有人宇宙船打ち上げ成功 香港出身の宇宙飛行士初めて搭乗",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131031000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260525/K10015131031_2605251746_0525194222_01_02.jpg",
+      "datePublished": "2026-05-25T19:42:21+09:00"
+    },
+    {
+      "name": "医療 健康相談もAIで? がん情報では誤回答も どうつきあう?",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015125491000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260522/K10015125491_2605211914_0522174252_01_02.jpg",
+      "datePublished": "2026-05-22T17:42:51+09:00"
+    },
+    {
+      "name": "カンヌ映画祭 最優秀女優賞に岡本多緒さん 日本人初",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015129961000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260524/K10015129961_2605240616_0524061952_01_02.jpg",
+      "datePublished": "2026-05-24T18:11:21+09:00"
+    },
+    {
+      "name": "ガザとパレスチナ人の苦境に再び関心を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015128551000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260522/K10015128551_2605221156_0522173307_01_02.jpg",
+      "datePublished": "2026-05-22T17:33:06+09:00"
+    },
+    {
+      "name": "“生え際をチェックしてるだけ” 「フランス流」の偽情報対策",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015110061000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260525/K10015110061_2605221530_0525104259_01_02.jpg",
+      "datePublished": "2026-05-25T10:42:58+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

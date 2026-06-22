@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014937741000",
+  "dataSourceId": "na",
+  "name": "インドネシア 学校の建物崩壊の事故 “91人取り残されている可能性”",
+  "headline": "インドネシア 学校崩壊事故 “91人取り残されている可能性”",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014937741000",
+    "playlistId": "news-nwa-international-nationwide-20251001",
+    "newsarticleName": "インドネシア 学校の建物崩壊の事故 “91人取り残されている可能性”",
+    "playlistName": "10月1日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "インドネシアの東ジャワ州で9月29日にイスラム教の学校の建物が崩壊し、少なくとも3人が死亡した事故で、インドネシアの国家防災庁は、生徒の出席記録から91人ががれきの下に取り残されている可能性があると発",
+  "dateModified": "2025-10-01T13:46:33+09:00",
+  "datePublished": "2025-10-01T13:16:13+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251001/K10014937741_2510011246_1001131614_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251001/K10014937741_2510011246_1001131614_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "インドネシアの東ジャワ州で9月29日にイスラム教の学校の建物が崩壊し、少なくとも3人が死亡した事故で、インドネシアの国家防災庁は、生徒の出席記録から91人ががれきの下に取り残されている可能性があると発",
+  "articleBody": "インドネシアの東ジャワ州で9月29日にイスラム教の学校の建物が崩壊し、少なくとも3人が死亡した事故で、インドネシアの国家防災庁は、生徒の出席記録から91人ががれきの下に取り残されている可能性があると発表し、救助活動を進めています。\n\n\nインドネシアの東ジャワ州で9月29日、イスラム教の寄宿学校の建物が突然、崩壊する事故があり、少なくとも3人が死亡し、26人が病院で手当てを受けています。\n\n国家防災庁は、生徒の出席記録から、91人ががれきの下に取り残されている可能性があると発表しました。\n\n地元メディアなどによりますと、当時、建物の中には礼拝のために多数の生徒がいたということで、救難当局に加え軍や警察も出て救助活動を進めています。\n\n崩壊した建物では増築に向けた工事が行われていたということで、当局は、建設での技術的な不備が事故につながったとみて調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "インドネシアの東ジャワ州で9月29日にイスラム教の学校の建物が崩壊し、少なくとも3人が死亡した事故で、インドネシアの国家防災庁は、生徒の出席記録から91人ががれきの下に取り残されている可能性があると発表し、救助活動を進めています。\n",
+    "markedBody": "インドネシアの東ジャワ州で9月29日、イスラム教の寄宿学校の建物が突然、崩壊する事故があり、少なくとも3人が死亡し、26人が病院で手当てを受けています。\n\n国家防災庁は、生徒の出席記録から、91人ががれきの下に取り残されている可能性があると発表しました。\n\n地元メディアなどによりますと、当時、建物の中には礼拝のために多数の生徒がいたということで、救難当局に加え軍や警察も出て救助活動を進めています。\n\n崩壊した建物では増築に向けた工事が行われていたということで、当局は、建設での技術的な不備が事故につながったとみて調べています。\n",
+    "trimmedLead": "インドネシアの東ジャワ州で9月29日にイスラム教の学校の建物が崩壊し、少なくとも3人が死亡した事故で、インドネシアの国家防災庁は、生徒の出席記録から91人ががれきの下に取り残されている可能性があると発表し、救助活動を進めています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014937741000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014937741000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": false,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

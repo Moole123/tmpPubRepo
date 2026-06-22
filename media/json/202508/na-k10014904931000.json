@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014904931000",
+  "dataSourceId": "na",
+  "name": "8月の月例経済報告 “緩やかに回復” 先月の基調判断を維持",
+  "headline": "8月の月例経済報告 “緩やかに回復” 先月の基調判断を維持",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014904931000",
+    "playlistId": "news-nwa-business-nationwide-20250827",
+    "newsarticleName": "8月の月例経済報告 “緩やかに回復” 先月の基調判断を維持",
+    "playlistName": "8月27日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "政府は今月の月例経済報告で、景気の現状について「アメリカの通商政策などによる影響が一部にみられるものの、緩やかに回復している」とする先月の基調判断を維持しました。\n\n\n個別の項目でみますと、「公共投資",
+  "dateModified": "2025-08-27T18:01:20+09:00",
+  "datePublished": "2025-08-27T18:01:20+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250827/K10014904931_2508271746_0827180048_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250827/K10014904931_2508271746_0827180048_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "政府は今月の月例経済報告で、景気の現状について「アメリカの通商政策などによる影響が一部にみられるものの、緩やかに回復している」とする先月の基調判断を維持しました。\n\n\n個別の項目でみますと、「公共投資",
+  "articleBody": "政府は今月の月例経済報告で、景気の現状について「アメリカの通商政策などによる影響が一部にみられるものの、緩やかに回復している」とする先月の基調判断を維持しました。\n\n\n個別の項目でみますと、「公共投資」は公共事業の予算が堅調に執行されているとして、1年1か月ぶりに上方修正した一方、「企業収益」はアメリカの関税措置の影響で自動車メーカーを中心に減益となる企業が目立っているとして、8か月ぶりに下方修正しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "政府は今月の月例経済報告で、景気の現状について「アメリカの通商政策などによる影響が一部にみられるものの、緩やかに回復している」とする先月の基調判断を維持しました。\n",
+    "markedBody": "個別の項目でみますと、「公共投資」は公共事業の予算が堅調に執行されているとして、1年1か月ぶりに上方修正した一方、「企業収益」はアメリカの関税措置の影響で自動車メーカーを中心に減益となる企業が目立っているとして、8か月ぶりに下方修正しました。\n",
+    "trimmedLead": "政府は今月の月例経済報告で、景気の現状について「アメリカの通商政策などによる影響が一部にみられるものの、緩やかに回復している」とする先月の基調判断を維持しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014904931000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014904931000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

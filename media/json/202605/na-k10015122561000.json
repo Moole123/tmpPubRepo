@@ -1,0 +1,132 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015122561000",
+  "dataSourceId": "na",
+  "name": "大相撲 大関 安青錦は夏場所全休 関脇陥落の来場所復帰めざす",
+  "headline": "大相撲 大関 安青錦は夏場所全休 関脇陥落の来場所復帰めざす",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015122561000",
+    "playlistId": "news-nwa-sports-nationwide-20260515",
+    "newsarticleName": "大相撲 大関 安青錦は夏場所全休 関脇陥落の来場所復帰めざす",
+    "playlistName": "5月15日のスポーツニュース",
+    "genreId": "sports",
+    "genreIdSlug": "sports"
+  },
+  "description": "大相撲夏場所で、初日から休場している角番の大関 安青錦について師匠の安治川親方は今場所はこのまま休場し、関脇に陥落することになる次の名古屋場所で復帰をめざす方針を明らかにしました。\n\n\n安青錦は、綱と",
+  "dateModified": "2026-05-15T13:43:18+09:00",
+  "datePublished": "2026-05-15T13:43:18+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260515/K10015122561_2605151242_0515134319_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260515/K10015122561_2605151242_0515134319_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "スポーツ"
+  ],
+  "topic": [
+    {
+      "id": "0000003",
+      "name": "大相撲",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "大相撲夏場所で、初日から休場している角番の大関 安青錦について師匠の安治川親方は今場所はこのまま休場し、関脇に陥落することになる次の名古屋場所で復帰をめざす方針を明らかにしました。\n\n\n安青錦は、綱と",
+  "articleBody": "大相撲夏場所で、初日から休場している角番の大関 安青錦について師匠の安治川親方は今場所はこのまま休場し、関脇に陥落することになる次の名古屋場所で復帰をめざす方針を明らかにしました。\n\n\n安青錦は、綱とりに挑んだ3月の春場所、小指のけがの影響もあって7勝8敗と初めて負け越しました。\n\nさらに夏場所前の出稽古で今度は左の足首を痛め、左足の関節の捻挫などと診断され、夏場所は初日から休場していました。\n\n師匠で元関脇 安美錦の安治川親方は夏場所6日目の15日、「けがは回復してきているが無理はさせられない。安青錦らしい相撲を取れる体になるように私が判断した。本人は『分かりました』と言っていた」と述べ、今場所はこのまま千秋楽まで休場させることを明らかにしました。\n\n安青錦はこれで大関として2場所連続の負け越しが確実となりました。\n\n関脇に陥落する次の名古屋場所で10勝以上をあげれば大関に復帰できますが、安治川親方は「来場所は10勝ではなく優勝をめざすために休む」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "大相撲夏場所で、初日から休場している角番の大関 安青錦について師匠の安治川親方は今場所はこのまま休場し、関脇に陥落することになる次の名古屋場所で復帰をめざす方針を明らかにしました。\n",
+    "markedBody": "安青錦は、綱とりに挑んだ3月の春場所、小指のけがの影響もあって7勝8敗と初めて負け越しました。\n\nさらに夏場所前の出稽古で今度は左の足首を痛め、左足の関節の捻挫などと診断され、夏場所は初日から休場していました。\n\n師匠で元関脇 安美錦の安治川親方は夏場所6日目の15日、「けがは回復してきているが無理はさせられない。安青錦らしい相撲を取れる体になるように私が判断した。本人は『分かりました』と言っていた」と述べ、今場所はこのまま千秋楽まで休場させることを明らかにしました。\n\n安青錦はこれで大関として2場所連続の負け越しが確実となりました。\n\n関脇に陥落する次の名古屋場所で10勝以上をあげれば大関に復帰できますが、安治川親方は「来場所は10勝ではなく優勝をめざすために休む」と話していました。\n",
+    "trimmedLead": "大相撲夏場所で、初日から休場している角番の大関 安青錦について師匠の安治川親方は今場所はこのまま休場し、関脇に陥落することになる次の名古屋場所で復帰をめざす方針を明らかにしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015122561000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015122561000",
+  "video": [],
+  "citation": [
+    {
+      "name": "大相撲夏場所6日目の見どころ 5連勝の霧島は王鵬と対戦",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015122091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015122091_2605142223_0515051225_01_02.jpg",
+      "datePublished": "2026-05-15T05:12:24+09:00"
+    },
+    {
+      "name": "大相撲 幕内の全取組動画",
+      "url": "https://www3.nhk.or.jp/sports/special/sumomovies/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_27703467.jpg"
+    },
+    {
+      "name": "サッカーW杯 日本代表26人決定 三笘薫 南野は外れる【詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015122361000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015122361_2605151443_0515150417_01_02.jpg",
+      "datePublished": "2026-05-15T15:04:16+09:00"
+    },
+    {
+      "name": "サッカーワールドカップ きょう日本代表メンバー26人を発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015121171000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260514/K10015121171_2605141022_0514163525_01_02.jpg",
+      "datePublished": "2026-05-15T06:24:40+09:00"
+    },
+    {
+      "name": "ホワイトソックス村上宗隆 3連続四球で得点絡む チーム5連勝",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015122501000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015122501_2605151215_0515125009_01_02.jpg",
+      "datePublished": "2026-05-15T12:50:08+09:00"
+    },
+    {
+      "name": "元広島 羽月隆太郎被告 初公判「周囲にも薬物使用の選手いた」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015122431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015122431_2605151142_0515122358_01_02.jpg",
+      "datePublished": "2026-05-15T13:01:01+09:00"
+    },
+    {
+      "name": "男子ゴルフ 全米プロ1日目 久常涼が首位スタート 松山は34位",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015122351000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015122351_2605151134_0515124412_01_02.jpg",
+      "datePublished": "2026-05-15T12:44:12+09:00"
+    },
+    {
+      "name": "女子ゴルフ 米ツアー第1ラウンド 竹田麗央が首位スタート",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015122381000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015122381_2605151138_0515124225_01_02.jpg",
+      "datePublished": "2026-05-15T12:42:24+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

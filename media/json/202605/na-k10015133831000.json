@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015133831000",
+  "dataSourceId": "na",
+  "name": "振替休日の報告ミスで給食の白米約350食分廃棄 茨城 つくば",
+  "headline": "振替休日の報告ミスで給食の白米約350食分廃棄 茨城 つくば",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015133831000",
+    "playlistId": "news-nwa-society-nationwide-20260528",
+    "newsarticleName": "振替休日の報告ミスで給食の白米約350食分廃棄 茨城 つくば",
+    "playlistName": "5月28日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "茨城県つくば市の中学校で振替休日を給食センターに報告しなかったため、休みの学校に届いたおよそ350食分の白米が廃棄されました。市は再発防止に努めるとしています。\n\n\nつくば市によりますと先月27日、市",
+  "dateModified": "2026-05-28T13:06:30+09:00",
+  "datePublished": "2026-05-28T13:06:30+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260528/K10015133831_2605281253_0528130631_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260528/K10015133831_2605281253_0528130631_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002208",
+      "name": "茨城県",
+      "display": true
+    },
+    {
+      "id": "0002401",
+      "name": "厚生労働省",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "茨城県つくば市の中学校で振替休日を給食センターに報告しなかったため、休みの学校に届いたおよそ350食分の白米が廃棄されました。市は再発防止に努めるとしています。\n\n\nつくば市によりますと先月27日、市",
+  "articleBody": "茨城県つくば市の中学校で振替休日を給食センターに報告しなかったため、休みの学校に届いたおよそ350食分の白米が廃棄されました。市は再発防止に努めるとしています。\n\n\nつくば市によりますと先月27日、市内の公立中学校で振替休日を給食センターに報告しないミスがあり、全校生徒と教職員の分、あわせておよそ350食の白米が届けられました。\n\n学校の職員がいなかったため、ミスが明らかになり、市は白米すべて、5万6000円相当を廃棄しました。\n\n市によりますと、集団給食施設での食中毒予防に関する厚生労働省のマニュアルでは、調理後の食品について「調理終了後から2時間以内に食べることが望ましい」としていて、時間内の活用が難しかったということです。\n\n一方、この日は別途、おかずも調理されていましたが、学校に配達される前だったため、ほかの学校へ多く割りふって提供し、廃棄しませんでした。\n\n市は「食品をむだにしてしまい、申し訳ない」とコメントしていて、給食の提供人数に変更がある場合には給食センターに報告するよう改めて学校に周知し、再発防止に努めるとしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "茨城県つくば市の中学校で振替休日を給食センターに報告しなかったため、休みの学校に届いたおよそ350食分の白米が廃棄されました。市は再発防止に努めるとしています。\n",
+    "markedBody": "つくば市によりますと先月27日、市内の公立中学校で振替休日を給食センターに報告しないミスがあり、全校生徒と教職員の分、あわせておよそ350食の白米が届けられました。\n\n学校の職員がいなかったため、ミスが明らかになり、市は白米すべて、5万6000円相当を廃棄しました。\n\n市によりますと、集団給食施設での食中毒予防に関する厚生労働省のマニュアルでは、調理後の食品について「調理終了後から2時間以内に食べることが望ましい」としていて、時間内の活用が難しかったということです。\n\n一方、この日は別途、おかずも調理されていましたが、学校に配達される前だったため、ほかの学校へ多く割りふって提供し、廃棄しませんでした。\n\n市は「食品をむだにしてしまい、申し訳ない」とコメントしていて、給食の提供人数に変更がある場合には給食センターに報告するよう改めて学校に周知し、再発防止に努めるとしています。\n",
+    "trimmedLead": "茨城県つくば市の中学校で振替休日を給食センターに報告しなかったため、休みの学校に届いたおよそ350食分の白米が廃棄されました。市は再発防止に努めるとしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015133831000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015133831000",
+  "video": [],
+  "citation": [
+    {
+      "name": "ドジャース 大谷翔平 9号ソロホームラン 二刀流で先発出場",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015133671_2605281149_0528114937_01_02.jpg",
+      "datePublished": "2026-05-28T11:31:54+09:00"
+    },
+    {
+      "name": "ホワイトソックス 村上宗隆 20号ホームラン リーグ単独トップ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133651000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015133651_2605281102_0528110324_01_02.jpg",
+      "datePublished": "2026-05-28T10:58:32+09:00"
+    },
+    {
+      "name": "栃木強盗殺人 逮捕状の容疑者が事件前に凶器のバール購入か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133751000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015133751_2605281142_0528120202_01_02.jpg",
+      "datePublished": "2026-05-28T12:02:01+09:00"
+    },
+    {
+      "name": "神戸児童連続殺傷事件29年 淳くん父親 “手紙待っています”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133681000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015133681_2605281149_0528115131_01_02.jpg",
+      "datePublished": "2026-05-28T11:51:30+09:00"
+    },
+    {
+      "name": "米当局「米軍がイランの無人機施設を攻撃 停戦の維持を意図」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015133591_2605281027_0528104051_01_02.jpg",
+      "datePublished": "2026-05-28T12:08:47+09:00"
+    },
+    {
+      "name": "将棋 羽生九段 タイトル通算100期挑戦かけ伊藤二冠と対局",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133641000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015133641_2605281055_0528111254_01_02.jpg",
+      "datePublished": "2026-05-28T11:12:53+09:00"
+    },
+    {
+      "name": "【1分解説】5月に猛暑日 なぜ？これから夏はどうなる？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015128461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260527/K10015128461_2605270924_0527104330_01_03.jpg",
+      "datePublished": "2026-05-27T10:43:29+09:00"
+    },
+    {
+      "name": "新たな防災気象情報 28日午後から発表開始",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133361000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015133361_2605272130_0528060546_01_02.jpg",
+      "datePublished": "2026-05-28T06:05:45+09:00"
+    },
+    {
+      "name": "新たな防災気象情報 午後2時ごろから開始【詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133611000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015133611_2605281021_0528115033_01_02.jpg",
+      "datePublished": "2026-05-28T11:50:32+09:00"
+    },
+    {
+      "name": "「無理しすぎて…」個別トレーニングで相次ぐけが 3つの要因は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260527/K10015131851_2605272206_0527221622_01_02.jpg",
+      "datePublished": "2026-05-27T22:16:21+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015050021000",
+  "dataSourceId": "na",
+  "name": "北海道 小樽の商業施設 屋根が一部崩落 落雪か けが人なし",
+  "headline": "北海道 小樽の商業施設 屋根が一部崩落 落雪か けが人なし",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015050021000",
+    "playlistId": "news-nwa-disaster-nationwide-20260212",
+    "newsarticleName": "北海道 小樽の商業施設 屋根が一部崩落 落雪か けが人なし",
+    "playlistName": "2月12日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "12日朝、北海道小樽市の大型商業施設で、屋外通路の屋根の一部が崩れ落ちているのが見つかりました。施設の運営会社によりますと、屋上に積もった雪が落下したことが原因とみられ、けがをした人はいないということ",
+  "dateModified": "2026-02-12T17:10:11+09:00",
+  "datePublished": "2026-02-12T17:10:11+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260212/K10015050021_2602121706_0212171012_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260212/K10015050021_2602121706_0212171012_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002201",
+      "name": "北海道",
+      "display": true
+    },
+    {
+      "id": "0002731",
+      "name": "大雪・寒さ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "12日朝、北海道小樽市の大型商業施設で、屋外通路の屋根の一部が崩れ落ちているのが見つかりました。施設の運営会社によりますと、屋上に積もった雪が落下したことが原因とみられ、けがをした人はいないということ",
+  "articleBody": "12日朝、北海道小樽市の大型商業施設で、屋外通路の屋根の一部が崩れ落ちているのが見つかりました。施設の運営会社によりますと、屋上に積もった雪が落下したことが原因とみられ、けがをした人はいないということです。\n\n\n12日午前7時半ごろ、小樽市にある地上7階建ての大型商業施設で、2階の屋外通路の屋根が長さおよそ6メートル、幅およそ2メートルにわたって崩れ落ちているのをスタッフが見つけました。\n\n施設の運営会社によりますと、建物の屋上に積もっていた雪が屋外通路の屋根の部分に落下し、その重みや衝撃で一部が崩れ落ちたとみられるということです。\n\nけがをした人はいないということです。\n\nこの施設では12日朝から、屋根が崩れ落ちた屋外通路への立ち入りを禁止するとともに、屋上の雪下ろしを進めているということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "12日朝、北海道小樽市の大型商業施設で、屋外通路の屋根の一部が崩れ落ちているのが見つかりました。施設の運営会社によりますと、屋上に積もった雪が落下したことが原因とみられ、けがをした人はいないということです。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20260212/K10015050021_2602121706_0212171012_02_03.jpg)\n\n12日午前7時半ごろ、小樽市にある地上7階建ての大型商業施設で、2階の屋外通路の屋根が長さおよそ6メートル、幅およそ2メートルにわたって崩れ落ちているのをスタッフが見つけました。\n\n施設の運営会社によりますと、建物の屋上に積もっていた雪が屋外通路の屋根の部分に落下し、その重みや衝撃で一部が崩れ落ちたとみられるということです。\n\nけがをした人はいないということです。\n\nこの施設では12日朝から、屋根が崩れ落ちた屋外通路への立ち入りを禁止するとともに、屋上の雪下ろしを進めているということです。\n",
+    "trimmedLead": "12日朝、北海道小樽市の大型商業施設で、屋外通路の屋根の一部が崩れ落ちているのが見つかりました。施設の運営会社によりますと、屋上に積もった雪が落下したことが原因とみられ、けがをした人はいないということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015050021000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015050021000",
+  "video": [],
+  "citation": [
+    {
+      "name": "各地で大雪 雪下ろしの注意点は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015049771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260212/K10015049771_2602121134_0212165018_01_02.jpg",
+      "datePublished": "2026-02-12T16:50:17+09:00"
+    },
+    {
+      "name": "大雪 りんごの木の枝折れる被害 市が緊急で農道除雪 青森 弘前",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015048591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260210/K10015048591_2602101858_0210201718_01_02.jpg",
+      "datePublished": "2026-02-10T20:17:17+09:00"
+    },
+    {
+      "name": "中道 代表選挙 階氏と小川氏が立候補 あす投票 新代表選出へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015049371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260212/K10015049371_2602121652_0212165606_01_03.jpg",
+      "datePublished": "2026-02-12T19:15:12+09:00"
+    },
+    {
+      "name": "衆議院 新しい議長を自民から 副議長を中道から選出で合意",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015049921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260212/K10015049921_2602121507_0212152048_01_02.jpg",
+      "datePublished": "2026-02-12T16:28:57+09:00"
+    },
+    {
+      "name": "国分太一氏 日本テレビ社長と面会 一連の問題について直接謝罪",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015049981000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260212/K10015049981_2602121619_0212162949_01_02.jpg",
+      "datePublished": "2026-02-12T16:29:48+09:00"
+    },
+    {
+      "name": "乳児うつぶせ寝で死亡 元施設長に有罪判決 両親の思いは",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015049761000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260212/K10015049761_2602121218_0212142335_01_03.jpg",
+      "datePublished": "2026-02-12T17:22:40+09:00"
+    },
+    {
+      "name": "第一生命HD “出向先から情報持ち出し 1000件以上確認”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015049951000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260212/K10015049951_2602121553_0212162038_01_03.jpg",
+      "datePublished": "2026-02-12T16:20:38+09:00"
+    },
+    {
+      "name": "株価 一時5万8000円台に乗せるも値下がり",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015049691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260212/K10015049691_2602121616_0212163045_01_02.jpg",
+      "datePublished": "2026-02-12T16:30:44+09:00"
+    },
+    {
+      "name": "アサヒグループHD ビールや飲料などの物流正常化を発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015049811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260212/K10015049811_2602121208_0212122350_01_03.jpg",
+      "datePublished": "2026-02-12T12:23:49+09:00"
+    },
+    {
+      "name": "【最新ニュースまとめて】ミラノ・コルティナ オリンピック",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002451",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30750181.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

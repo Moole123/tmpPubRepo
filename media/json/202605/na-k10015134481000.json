@@ -1,0 +1,167 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015134481000",
+  "dataSourceId": "na",
+  "name": "メガバンク3行 オープンAI最新モデル利用へ 攻撃への備え急ぐ",
+  "headline": "メガバンク3行 オープンAI最新モデル利用へ 攻撃への備え急ぐ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015134481000",
+    "playlistId": "news-nwa-business-nationwide-20260529",
+    "newsarticleName": "メガバンク3行 オープンAI最新モデル利用へ 攻撃への備え急ぐ",
+    "playlistName": "5月29日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "極めて高性能な最新のAIをめぐって、悪用された場合の深刻なリスクが懸念される中、日本のメガバンク3行がアメリカのオープンAIの最新AIモデルを利用できる見通しとなったことがわかりました。サイバー攻撃を",
+  "dateModified": "2026-05-29T05:25:27+09:00",
+  "datePublished": "2026-05-29T05:25:27+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260529/K10015134481_2605282217_0529052528_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260529/K10015134481_2605282217_0529052528_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002423",
+      "name": "金融",
+      "display": true
+    },
+    {
+      "id": "0000010",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "0000009",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "0000325",
+      "name": "サイバー攻撃",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "極めて高性能な最新のAIをめぐって、悪用された場合の深刻なリスクが懸念される中、日本のメガバンク3行がアメリカのオープンAIの最新AIモデルを利用できる見通しとなったことがわかりました。サイバー攻撃を",
+  "articleBody": "極めて高性能な最新のAIをめぐって、悪用された場合の深刻なリスクが懸念される中、日本のメガバンク3行がアメリカのオープンAIの最新AIモデルを利用できる見通しとなったことがわかりました。サイバー攻撃を受けた場合の防御策の検討に活用するとみられます。\n\n\nAIをめぐっては、OS＝基本ソフトなどのぜい弱性を特定できる能力が極めて高い最新のモデルが開発され、サイバー攻撃に悪用された場合、金融システムなどに深刻なリスクをもたらすおそれがあるとして、日本の金融機関でも対策が課題となっています。\n\n関係者によりますと、こうした中、三菱UFJ銀行、三井住友銀行、みずほ銀行のメガバンク3行が、アメリカのオープンAIの最新AIモデルを利用できる見通しとなったことがわかりました。\n\nオープンAIが開発した新たなAIモデルについて、専門機関の間ではアメリカの新興AI企業、アンソロピックが開発した「クロード・ミュトス」に匹敵する性能があるという見方もあります。\n\nメガバンク3行としては、オープンAIのモデルを通じてシステムのぜい弱性の検出を急ぐとともに、高度なサイバー攻撃を受けた場合の防御策の検討に活用するとみられます。\n\n一方、メガバンク3行は「クロード・ミュトス」についても利用できるようになる方向で調整が進んでいて、AI開発をリードする2社のモデルを使って、深刻なリスクへの備えをいかに早く構築できるかが焦点となります。\n",
+  "detailedArticleBody": {
+    "markedLead": "極めて高性能な最新のAIをめぐって、悪用された場合の深刻なリスクが懸念される中、日本のメガバンク3行がアメリカのオープンAIの最新AIモデルを利用できる見通しとなったことがわかりました。サイバー攻撃を受けた場合の防御策の検討に活用するとみられます。\n",
+    "markedBody": "AIをめぐっては、OS＝基本ソフトなどのぜい弱性を特定できる能力が極めて高い最新のモデルが開発され、サイバー攻撃に悪用された場合、金融システムなどに深刻なリスクをもたらすおそれがあるとして、日本の金融機関でも対策が課題となっています。\n\n関係者によりますと、こうした中、三菱UFJ銀行、三井住友銀行、みずほ銀行のメガバンク3行が、アメリカのオープンAIの最新AIモデルを利用できる見通しとなったことがわかりました。\n\nオープンAIが開発した新たなAIモデルについて、専門機関の間ではアメリカの新興AI企業、アンソロピックが開発した「クロード・ミュトス」に匹敵する性能があるという見方もあります。\n\nメガバンク3行としては、オープンAIのモデルを通じてシステムのぜい弱性の検出を急ぐとともに、高度なサイバー攻撃を受けた場合の防御策の検討に活用するとみられます。\n\n一方、メガバンク3行は「クロード・ミュトス」についても利用できるようになる方向で調整が進んでいて、AI開発をリードする2社のモデルを使って、深刻なリスクへの備えをいかに早く構築できるかが焦点となります。\n",
+    "trimmedLead": "極めて高性能な最新のAIをめぐって、悪用された場合の深刻なリスクが懸念される中、日本のメガバンク3行がアメリカのオープンAIの最新AIモデルを利用できる見通しとなったことがわかりました。サイバー攻撃を受けた場合の防御策の検討に活用するとみられます。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015134481000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015134481000",
+  "video": [],
+  "citation": [
+    {
+      "name": "三菱 日産から車両供給受けアメリカで販売へ 関税影響軽減",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134351000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134351_2605282034_0529050336_01_02.jpg",
+      "datePublished": "2026-05-29T05:03:35+09:00"
+    },
+    {
+      "name": "栃木強盗殺人 海外出国の逮捕状出された容疑者を公開手配へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134441_2605282353_0529000108_01_02.jpg",
+      "datePublished": "2026-05-29T00:01:07+09:00"
+    },
+    {
+      "name": "覚書めぐり暫定合意と米報道 イラン報道「最終決定されず」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134541_2605290353_0529045956_01_02.jpg",
+      "datePublished": "2026-05-29T07:04:42+09:00"
+    },
+    {
+      "name": "自民・維新 衆議院の定数削減法案 今国会に提出へ検討を加速",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134361000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134361_2605282225_0529051911_01_02.jpg",
+      "datePublished": "2026-05-29T05:19:10+09:00"
+    },
+    {
+      "name": "熊本 八代新庁舎汚職事件 ジャーナリスト名乗り職員に接触か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134401_2605282234_0529051635_01_02.jpg",
+      "datePublished": "2026-05-29T05:16:34+09:00"
+    },
+    {
+      "name": "首都直下地震対策 感震ブレーカーをおおむね設置 基本計画案",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134381000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015134381_2605282358_0529052339_01_02.jpg",
+      "datePublished": "2026-05-29T05:23:39+09:00"
+    },
+    {
+      "name": "エアコン事故に注意 本格的な夏前に周辺の点検と試運転を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134491000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015134491_2605282338_0528235034_01_02.jpg",
+      "datePublished": "2026-05-28T23:50:33+09:00"
+    },
+    {
+      "name": "【プロ野球】中日 日本ハム ロッテが交流戦3連勝で好スタート",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015134331_2605290002_0529043644_01_02.jpg",
+      "datePublished": "2026-05-28T23:36:34+09:00"
+    },
+    {
+      "name": "【1分解説】5月に猛暑日 なぜ？これから夏はどうなる？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015128461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260527/K10015128461_2605270924_0527104330_01_03.jpg",
+      "datePublished": "2026-05-27T10:43:29+09:00"
+    },
+    {
+      "name": "最新クマ対策 AI・ドローンで被害防げ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015131471_2605281240_0528165620_01_02.jpg",
+      "datePublished": "2026-05-28T16:56:19+09:00"
+    },
+    {
+      "name": "皇室を守り続けて140年 皇宮警察って？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015132791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015132791_2605281118_0528151150_01_02.jpg",
+      "datePublished": "2026-05-28T15:11:49+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

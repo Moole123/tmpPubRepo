@@ -1,0 +1,101 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014999861000",
+  "dataSourceId": "na",
+  "name": "中国 11月の消費者物価指数 2か月連続プラスもデフレ懸念",
+  "headline": "中国 11月の消費者物価指数 2か月連続プラスもデフレ懸念",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014999861000",
+    "playlistId": "news-nwa-international-nationwide-20251210",
+    "newsarticleName": "中国 11月の消費者物価指数 2か月連続プラスもデフレ懸念",
+    "playlistName": "12月10日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "中国の11月の消費者物価指数は、去年の同じ月と比べて0.7％の上昇となり、2か月連続でプラスとなりました。ただ、消費者の節約志向を背景に自動車などが値下がりしていて、デフレへの懸念がくすぶっています。",
+  "dateModified": "2025-12-10T12:57:32+09:00",
+  "datePublished": "2025-12-10T12:57:32+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251210/K10014999861_2512101237_1210125734_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251210/K10014999861_2512101237_1210125734_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "中国の11月の消費者物価指数は、去年の同じ月と比べて0.7％の上昇となり、2か月連続でプラスとなりました。ただ、消費者の節約志向を背景に自動車などが値下がりしていて、デフレへの懸念がくすぶっています。",
+  "articleBody": "中国の11月の消費者物価指数は、去年の同じ月と比べて0.7％の上昇となり、2か月連続でプラスとなりました。ただ、消費者の節約志向を背景に自動車などが値下がりしていて、デフレへの懸念がくすぶっています。\n\n\n中国の国家統計局が10日発表した11月の消費者物価指数は、去年の同じ月と比べて0.7％の上昇となりました。\n\n消費者物価指数がプラスとなるのは2か月連続で、生鮮野菜や牛肉の価格が上昇したことなどが主な要因です。\n\n一方、消費者の節約志向を背景に自動車やスマートフォンなどは値下がりしていて、デフレへの懸念がくすぶっています。\n\nあわせて発表された、企業が製品を出荷する際の値動きを示す11月の生産者物価指数は、去年の同じ月と比べて2.2％の下落となりました。\n\n不動産不況の長期化を背景に内需の停滞が続く中、中国政府が今後、消費の促進などに向けて効果的な政策を打ち出し、最優先課題に掲げる内需の拡大につなげられるかが焦点となります。\n",
+  "detailedArticleBody": {
+    "markedLead": "中国の11月の消費者物価指数は、去年の同じ月と比べて0.7％の上昇となり、2か月連続でプラスとなりました。ただ、消費者の節約志向を背景に自動車などが値下がりしていて、デフレへの懸念がくすぶっています。\n",
+    "markedBody": "中国の国家統計局が10日発表した11月の消費者物価指数は、去年の同じ月と比べて0.7％の上昇となりました。\n\n消費者物価指数がプラスとなるのは2か月連続で、生鮮野菜や牛肉の価格が上昇したことなどが主な要因です。\n\n一方、消費者の節約志向を背景に自動車やスマートフォンなどは値下がりしていて、デフレへの懸念がくすぶっています。\n\nあわせて発表された、企業が製品を出荷する際の値動きを示す11月の生産者物価指数は、去年の同じ月と比べて2.2％の下落となりました。\n\n不動産不況の長期化を背景に内需の停滞が続く中、中国政府が今後、消費の促進などに向けて効果的な政策を打ち出し、最優先課題に掲げる内需の拡大につなげられるかが焦点となります。\n",
+    "trimmedLead": "中国の11月の消費者物価指数は、去年の同じ月と比べて0.7％の上昇となり、2か月連続でプラスとなりました。ただ、消費者の節約志向を背景に自動車などが値下がりしていて、デフレへの懸念がくすぶっています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014999861000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014999861000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "中国 11月の消費者物価指数 2か月連続プラスもデフレ懸念",
+      "description": "中国の11月の消費者物価指数は、去年の同じ月と比べて0.7％の上昇となり、2か月連続でプラスとなりました。ただ、消費者の節約志向を背景に自動車などが値下がりしていて、デフレへの懸念がくすぶっています。",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10014999861_202512101612_202512101613/index.m3u8&mrposter=/news/html/20251210/K10014999861_2512101237_1210125734_01_02.jpg",
+      "duration": "PT31S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10014999861_202512101612_202512101613/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20251210/K10014999861_2512101237_1210125734_01_02.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015118171000",
+  "dataSourceId": "na",
+  "name": "株価 取り引き時間中の最高値更新も値下がりに転じる",
+  "headline": "株価 取り引き時間中の最高値更新も値下がりに転じる",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015118171000",
+    "playlistId": "news-nwa-business-nationwide-20260511",
+    "newsarticleName": "株価 取り引き時間中の最高値更新も値下がりに転じる",
+    "playlistName": "5月11日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "週明けの11日の東京株式市場、日経平均株価は一時600円余り値上がりして2営業日ぶりに6万3000円台をつけ、取り引き時間中の最高値を更新しましたが、その後はいったん利益を確定しようという売り注文も出",
+  "dateModified": "2026-05-11T13:10:35+09:00",
+  "datePublished": "2026-05-11T09:09:29+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260511/K10015118171_2605111132_0511131036_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260511/K10015118171_2605111132_0511131036_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0002421",
+      "name": "半導体",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "週明けの11日の東京株式市場、日経平均株価は一時600円余り値上がりして2営業日ぶりに6万3000円台をつけ、取り引き時間中の最高値を更新しましたが、その後はいったん利益を確定しようという売り注文も出",
+  "articleBody": "週明けの11日の東京株式市場、日経平均株価は一時600円余り値上がりして2営業日ぶりに6万3000円台をつけ、取り引き時間中の最高値を更新しましたが、その後はいったん利益を確定しようという売り注文も出て値下がりに転じています。\n\n\n▽日経平均株価、午前の終値は先週末の終値と比べて226円81銭安い6万2486円84銭。\n\n一方、▽東証株価指数＝トピックスは0.64上がって3830.12となっています。\n\n▽午前の出来高は14億6015万株でした。\n\n市場関係者は「好調だった決算を手がかりに、朝方は半導体関連の銘柄に積極的な買い注文が入った。ただ、アメリカとイランの戦闘終結に向けた交渉は進展するかどうかが依然不透明で、いったん利益を確定させようという売り注文が増えている」と話しています。\n\n円相場 1ドル＝157円前後での取り引き\n\n東京外国為替市場では1ドル＝157円前後での取り引きとなっています。\n\n政府・日銀による市場介入への警戒感が根強いものの、原油先物価格の高止まりで経済への打撃が大きくなるという見方などから、日本の円を売る動きが出ています。\n",
+  "detailedArticleBody": {
+    "markedLead": "週明けの11日の東京株式市場、日経平均株価は一時600円余り値上がりして2営業日ぶりに6万3000円台をつけ、取り引き時間中の最高値を更新しましたが、その後はいったん利益を確定しようという売り注文も出て値下がりに転じています。\n",
+    "markedBody": "▽日経平均株価、午前の終値は先週末の終値と比べて226円81銭安い6万2486円84銭。\n\n一方、▽東証株価指数＝トピックスは0.64上がって3830.12となっています。\n\n▽午前の出来高は14億6015万株でした。\n\n市場関係者は「好調だった決算を手がかりに、朝方は半導体関連の銘柄に積極的な買い注文が入った。ただ、アメリカとイランの戦闘終結に向けた交渉は進展するかどうかが依然不透明で、いったん利益を確定させようという売り注文が増えている」と話しています。\n\n### 円相場 1ドル＝157円前後での取り引き\n\n東京外国為替市場では1ドル＝157円前後での取り引きとなっています。\n\n政府・日銀による市場介入への警戒感が根強いものの、原油先物価格の高止まりで経済への打撃が大きくなるという見方などから、日本の円を売る動きが出ています。\n",
+    "trimmedLead": "週明けの11日の東京株式市場、日経平均株価は一時600円余り値上がりして2営業日ぶりに6万3000円台をつけ、取り引き時間中の最高値を更新しましたが、その後はいったん利益を確定しようという売り注文も出て値下がりに転じています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015118171000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015118171000",
+  "video": [],
+  "citation": [
+    {
+      "name": "政府・日銀の介入警戒で今週も神経質な展開か 外国為替市場",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015117991000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260511/K10015117991_2605102048_0511064108_01_02.jpg",
+      "datePublished": "2026-05-11T06:41:08+09:00"
+    },
+    {
+      "name": "きょう参院決算委 高市首相出席しイラン情勢・物価高で論戦へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015118001000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260511/K10015118001_2605102104_0511050833_01_02.jpg",
+      "datePublished": "2026-05-11T05:12:10+09:00"
+    },
+    {
+      "name": "磐越道バス事故 過去遠征でもレンタカー「依頼は一度もない」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015118121000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260511/K10015118121_2605110017_0511050144_01_02.jpg",
+      "datePublished": "2026-05-11T05:10:00+09:00"
+    },
+    {
+      "name": "磐越道事故 容疑者 5日前にも追突事故 ことし頻繁に修理依頼か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015117731000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260510/K10015117731_2605101519_0510173415_01_03.jpg",
+      "datePublished": "2026-05-10T18:23:15+09:00"
+    },
+    {
+      "name": "米提案にイランが回答 トランプ大統領「受け入れられない」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015118051000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260510/K10015118051_2605111140_0511115321_01_02.jpg",
+      "datePublished": "2026-05-11T11:53:20+09:00"
+    },
+    {
+      "name": "プーチン大統領側近 日ロ政治対話再開へ文化交流の重要性強調",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015117971000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260511/K10015117971_2605102018_0511051126_01_02.jpg",
+      "datePublished": "2026-05-11T05:16:30+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015107691000",
+  "dataSourceId": "na",
+  "name": "スーパーのコメ平均価格 5キロ3883円 10週ぶりに値上がり",
+  "headline": "スーパーのコメ平均価格 5キロ3883円 10週ぶりに値上がり",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015107691000",
+    "playlistId": "news-nwa-life-nationwide-20260424",
+    "newsarticleName": "スーパーのコメ平均価格 5キロ3883円 10週ぶりに値上がり",
+    "playlistName": "4月24日の暮らしニュース",
+    "genreId": "life",
+    "genreIdSlug": "life"
+  },
+  "description": "全国のスーパーで今月19日までの1週間に販売されたコメの平均価格は、5キロ当たり税込みで3883円と前の週より10円値上がりしました。値上がりは10週ぶりです。\n\n\n農林水産省は、全国のスーパーおよそ",
+  "dateModified": "2026-04-24T18:50:19+09:00",
+  "datePublished": "2026-04-24T18:50:19+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260424/K10015107691_2604241800_0424185020_02_01.jpg",
+      "height": 719,
+      "width": 1279
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260424/K10015107691_2604241800_0424185020_01_02.jpg",
+      "height": 719,
+      "width": 1279
+    }
+  },
+  "genre": [
+    "暮らし",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0002613",
+      "name": "コメ",
+      "display": true
+    },
+    {
+      "id": "0002400",
+      "name": "農林水産省",
+      "display": true
+    },
+    {
+      "id": "0002738",
+      "name": "統計・指標",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "全国のスーパーで今月19日までの1週間に販売されたコメの平均価格は、5キロ当たり税込みで3883円と前の週より10円値上がりしました。値上がりは10週ぶりです。\n\n\n農林水産省は、全国のスーパーおよそ",
+  "articleBody": "全国のスーパーで今月19日までの1週間に販売されたコメの平均価格は、5キロ当たり税込みで3883円と前の週より10円値上がりしました。値上がりは10週ぶりです。\n\n\n農林水産省は、全国のスーパーおよそ1000店でのコメの販売価格をまとめて毎週発表しています。\n\nそれによりますと、今月13日から19日までの1週間の平均価格は、5キロ当たり税込みで3883円と前の週より10円値上がりしました。\n\n値上がりは10週ぶりです。\n\n内訳を見ると、産地と品種が単一の銘柄米は3947円と6円値上がり、ブレンド米などは3676円と17円値上がりしました。\n\n農林水産省は、今回は小幅な値上がりとなったものの、コメの在庫量は去年よりも大幅に多く、在庫を軽くしようと小売業者や卸売業者の間で価格を下げて販売する動きが出ていていることから、「値下がりする傾向は続いている」としています。\n",
+  "detailedArticleBody": {
+    "markedLead": "全国のスーパーで今月19日までの1週間に販売されたコメの平均価格は、5キロ当たり税込みで3883円と前の週より10円値上がりしました。値上がりは10週ぶりです。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20260424/K10015107691_2604241815_0424185020_02_03.jpg)\n\n農林水産省は、全国のスーパーおよそ1000店でのコメの販売価格をまとめて毎週発表しています。\n\nそれによりますと、今月13日から19日までの1週間の平均価格は、5キロ当たり税込みで3883円と前の週より10円値上がりしました。\n\n値上がりは10週ぶりです。\n\n![](https://news.web.nhk/news/html/20260424/K10015107691_2604241835_0424185020_02_04.jpg)\n\n内訳を見ると、産地と品種が単一の銘柄米は3947円と6円値上がり、ブレンド米などは3676円と17円値上がりしました。\n\n農林水産省は、今回は小幅な値上がりとなったものの、コメの在庫量は去年よりも大幅に多く、在庫を軽くしようと小売業者や卸売業者の間で価格を下げて販売する動きが出ていていることから、「値下がりする傾向は続いている」としています。\n",
+    "trimmedLead": "全国のスーパーで今月19日までの1週間に販売されたコメの平均価格は、5キロ当たり税込みで3883円と前の週より10円値上がりしました。値上がりは10週ぶりです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015107691000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015107691000",
+  "video": [],
+  "citation": [
+    {
+      "name": "3月のデパート売り上げ 5071億円余 3か月連続増加",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015107441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015107441_2604241658_0424172328_01_02.jpg",
+      "datePublished": "2026-04-24T17:23:27+09:00"
+    },
+    {
+      "name": "消費者物価指数の上昇率拡大 イラン情勢緊迫の影響で【詳報】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106981000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015106981_2604241756_0424190703_01_03.jpg",
+      "datePublished": "2026-04-24T19:29:17+09:00"
+    },
+    {
+      "name": "3月貿易統計 原油輸入は減らず 中東向けの輸出は大幅減",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105171000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015105171_2604221120_0422115225_01_02.jpg",
+      "datePublished": "2026-04-22T11:52:24+09:00"
+    },
+    {
+      "name": "鈴木農相 “加工・米粉など主食用以外のコメ生産促す”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015101471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260417/K10015101471_2604171137_0417123117_01_02.jpg",
+      "datePublished": "2026-04-17T12:31:16+09:00"
+    },
+    {
+      "name": "政府備蓄米 2年ぶり買い入れ 初回落札は予定の5％余にとどまる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015100291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260416/K10015100291_2604152011_0416050049_01_02.jpg",
+      "datePublished": "2026-04-16T05:00:48+09:00"
+    },
+    {
+      "name": "鶏肉も値上がり 業界関係者「消費者の節約志向が背景」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015099401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260415/K10015099401_2604142037_0415053841_01_02.jpg",
+      "datePublished": "2026-04-15T05:38:40+09:00"
+    },
+    {
+      "name": "自民 イラン情勢で停戦後障害あれば掃海艇派遣検討を提言",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015107601000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015107601_2604241741_0424180221_01_02.jpg",
+      "datePublished": "2026-04-24T18:02:21+09:00"
+    },
+    {
+      "name": "後発地震注意情報 三陸沖で地震活動続く 各地の観光地では備え",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106821000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015106821_2604241822_0424183321_01_02.jpg",
+      "datePublished": "2026-04-24T19:00:54+09:00"
+    },
+    {
+      "name": "中東情勢受けた補正予算案 “現時点で必要ない” 木原官房長官",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015107131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015107131_2604241139_0424125924_01_02.jpg",
+      "datePublished": "2026-04-24T17:43:41+09:00"
+    },
+    {
+      "name": "岩手 大槌町山林火災延焼続く 平成以降2番目に大きな被害",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106911000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015106911_2604240021_0424051421_01_02.jpg",
+      "datePublished": "2026-04-24T21:25:40+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

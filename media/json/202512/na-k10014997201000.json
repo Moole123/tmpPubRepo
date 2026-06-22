@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014997201000",
+  "dataSourceId": "na",
+  "name": "各党支持率 自民30.6％ 立民6.0％ 支持なし41.4％ NHK世論調査",
+  "headline": "各党支持率 自民30.6％ 立民6.0％ 支持なし41.4％ NHK調査",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014997201000",
+    "playlistId": "news-nwa-politics-nationwide-20251208",
+    "newsarticleName": "各党支持率 自民30.6％ 立民6.0％ 支持なし41.4％ NHK世論調査",
+    "playlistName": "12月8日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "12月の各党の支持率です。\n\n\n「自民党」が30.6％、「立憲民主党」が6.0％、「日本維新の会」が2.5％、「国民民主党」が2.9％、「公明党」が3.4％、「参政党」が3.1％、「れいわ新選組」が1",
+  "dateModified": "2025-12-08T19:27:32+09:00",
+  "datePublished": "2025-12-08T19:27:32+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251208/K10014997201_2512081854_1208192733_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251208/K10014997201_2512081854_1208192733_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "12月の各党の支持率です。\n\n\n「自民党」が30.6％、「立憲民主党」が6.0％、「日本維新の会」が2.5％、「国民民主党」が2.9％、「公明党」が3.4％、「参政党」が3.1％、「れいわ新選組」が1",
+  "articleBody": "12月の各党の支持率です。\n\n\n「自民党」が30.6％、「立憲民主党」が6.0％、「日本維新の会」が2.5％、「国民民主党」が2.9％、「公明党」が3.4％、「参政党」が3.1％、「れいわ新選組」が1.3％、「共産党」が1.9％、「日本保守党」が0.4％、「社民党」が0.4％、「チームみらい」が0.3％、「特に支持している政党はない」が41.4％でした。\n",
+  "detailedArticleBody": {
+    "markedLead": "12月の各党の支持率です。\n",
+    "markedBody": "「自民党」が30.6％、「立憲民主党」が6.0％、「日本維新の会」が2.5％、「国民民主党」が2.9％、「公明党」が3.4％、「参政党」が3.1％、「れいわ新選組」が1.3％、「共産党」が1.9％、「日本保守党」が0.4％、「社民党」が0.4％、「チームみらい」が0.3％、「特に支持している政党はない」が41.4％でした。\n\n![](https://news.web.nhk/news/html/20251208/K10014997201_2512081516_1208192733_02_03.jpg \"※注・層別分析をする場合は各層の人数が100人以上であることを目安としています\")\n",
+    "trimmedLead": "12月の各党の支持率です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014997201000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014997201000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

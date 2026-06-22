@@ -1,0 +1,173 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015123751000",
+  "dataSourceId": "na",
+  "name": "富山 高岡 室町時代から続く寺で火事 けが人なし",
+  "headline": "富山 高岡 室町時代から続く寺で火事 けが人なし",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015123751000",
+    "playlistId": "news-nwa-society-nationwide-20260516",
+    "newsarticleName": "富山 高岡 室町時代から続く寺で火事 けが人なし",
+    "playlistName": "5月16日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "室町時代に開かれた富山県高岡市の寺で16日夜、火事がありました。消防によりますと、けが人はいないということで、警察と消防が詳しい状況を調べています。\n\n\n16日午後7時ごろ、高岡市利屋町にある大法寺の",
+  "dateModified": "2026-05-16T23:04:35+09:00",
+  "datePublished": "2026-05-16T22:31:09+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260516/K10015123751_2605162204_0516223109_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260516/K10015123751_2605162204_0516223109_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002689",
+      "name": "火災",
+      "display": true
+    },
+    {
+      "id": "0002216",
+      "name": "富山県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "室町時代に開かれた富山県高岡市の寺で16日夜、火事がありました。消防によりますと、けが人はいないということで、警察と消防が詳しい状況を調べています。\n\n\n16日午後7時ごろ、高岡市利屋町にある大法寺の",
+  "articleBody": "室町時代に開かれた富山県高岡市の寺で16日夜、火事がありました。消防によりますと、けが人はいないということで、警察と消防が詳しい状況を調べています。\n\n\n16日午後7時ごろ、高岡市利屋町にある大法寺の敷地で、「黒煙が上がっている」と消防に通報がありました。\n\n消防車などおよそ20台が出て、消火活動にあたった結果、午後10時20分ごろに火はほぼ消し止められたということです。\n\n消防によりますと、寺の敷地には住宅があり住職などが住んでいますが、これまでのところ、けがをした人や逃げ遅れた人はいないということです。\n\n寺のホームページによりますと、この寺は室町時代の1453年に開かれたということで、警察と消防が出火したいきさつや被害の状況を調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "室町時代に開かれた富山県高岡市の寺で16日夜、火事がありました。消防によりますと、けが人はいないということで、警察と消防が詳しい状況を調べています。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20260516/K10015123751_2605162204_0516225138_02_03.jpg)\n\n16日午後7時ごろ、高岡市利屋町にある大法寺の敷地で、「黒煙が上がっている」と消防に通報がありました。\n\n消防車などおよそ20台が出て、消火活動にあたった結果、午後10時20分ごろに火はほぼ消し止められたということです。\n\n![](https://news.web.nhk/news/html/20260516/K10015123751_2605162204_0516225138_02_04.jpg)\n\n消防によりますと、寺の敷地には住宅があり住職などが住んでいますが、これまでのところ、けがをした人や逃げ遅れた人はいないということです。\n\n寺のホームページによりますと、この寺は室町時代の1453年に開かれたということで、警察と消防が出火したいきさつや被害の状況を調べています。\n",
+    "trimmedLead": "室町時代に開かれた富山県高岡市の寺で16日夜、火事がありました。消防によりますと、けが人はいないということで、警察と消防が詳しい状況を調べています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015123751000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015123751000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "富山 高岡 室町時代から続く寺で火事 けが人なし",
+      "description": "室町時代に開かれた富山県高岡市の寺で16日夜、火事がありました。消防によりますと、けが人はいないということで、警察と消防が詳しい状況を調べています。\n\n\n16日午後7時ごろ、高岡市利屋町にある大法寺の",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015123751_202605162303_202605162304/index.m3u8&mrposter=/news/html/20260516/K10015123751_2605162204_0516223109_01_02.jpg",
+      "duration": "PT59S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015123751_202605162303_202605162304/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260516/K10015123751_2605162204_0516223109_01_02.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "各地で真夏日 17日はさらに気温上昇の見込み 熱中症対策を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015123171000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260516/K10015123171_2605161711_0516171605_01_03.jpg",
+      "datePublished": "2026-05-16T19:00:50+09:00"
+    },
+    {
+      "name": "栃木 3人死傷強盗事件 4人目逮捕 16歳男子高校生 強盗殺人容疑",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015123691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260516/K10015123691_2605161910_0516191540_01_02.jpg",
+      "datePublished": "2026-05-16T21:34:37+09:00"
+    },
+    {
+      "name": "東京大学の五月祭 爆破予告で16日のすべての企画を中止",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015123681000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260516/K10015123681_2605161908_0516191847_01_02.jpg",
+      "datePublished": "2026-05-16T21:02:13+09:00"
+    },
+    {
+      "name": "磐越道事故 警察が生徒たちから当時の走行や車内の状況確認",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015123631000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260516/K10015123631_2605161804_0516180905_01_03.jpg",
+      "datePublished": "2026-05-16T18:09:04+09:00"
+    },
+    {
+      "name": "ロシア プーチン大統領 今月19日から中国訪問 大統領府が発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015123651000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260516/K10015123651_2605161824_0516183011_01_03.jpg",
+      "datePublished": "2026-05-16T18:30:10+09:00"
+    },
+    {
+      "name": "都心にもデータセンター 建設ラッシュいったいなぜ？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015121461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015121461_2605141918_0515163710_01_02.jpg",
+      "datePublished": "2026-05-15T16:37:09+09:00"
+    },
+    {
+      "name": "再審制度 政府改正案 元裁判官 “重要証拠埋もれるおそれ”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015123621000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260516/K10015123621_2605161805_0516182632_01_02.jpg",
+      "datePublished": "2026-05-16T18:26:31+09:00"
+    },
+    {
+      "name": "日経平均6万円台 実力か買われすぎか【経済コラム】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015121681000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260515/K10015121681_2605151123_0515175911_01_02.jpg",
+      "datePublished": "2026-05-15T17:59:10+09:00"
+    },
+    {
+      "name": "「トクリュウ」対策強化 変わる警察の捜査体制【詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015123521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260516/K10015123521_2605161555_0516174558_01_02.jpg",
+      "datePublished": "2026-05-16T17:45:57+09:00"
+    },
+    {
+      "name": "「1日35時間も画面を…」 子どもの“SNS依存” 規制・対策は？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015121771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260516/K10015121771_2605151809_0516161051_01_02.jpg",
+      "datePublished": "2026-05-16T16:10:50+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

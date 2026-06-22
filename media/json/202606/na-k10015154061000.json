@@ -1,0 +1,166 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015154061000",
+  "dataSourceId": "na",
+  "name": "兵庫 丹波篠山 住宅火災 2人死亡",
+  "headline": "兵庫 丹波篠山 住宅火災 2人死亡",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015154061000",
+    "playlistId": "news-nwa-society-nationwide-20260619",
+    "newsarticleName": "兵庫 丹波篠山 住宅火災 2人死亡",
+    "playlistName": "6月19日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "19日未明、兵庫県丹波篠山市の住宅で火事があり、男女2人が死亡しました。警察によりますと火事のあと、この家に住む60代とみられる夫婦と連絡が取れなくなっているということで、身元の確認を進めるとともに火",
+  "dateModified": "2026-06-19T08:43:46+09:00",
+  "datePublished": "2026-06-19T08:43:46+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260619/K10015154061_2606190835_0619084347_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260619/K10015154061_2606190835_0619084347_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002228",
+      "name": "兵庫県",
+      "display": true
+    },
+    {
+      "id": "0002689",
+      "name": "火災",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "19日未明、兵庫県丹波篠山市の住宅で火事があり、男女2人が死亡しました。警察によりますと火事のあと、この家に住む60代とみられる夫婦と連絡が取れなくなっているということで、身元の確認を進めるとともに火",
+  "articleBody": "19日未明、兵庫県丹波篠山市の住宅で火事があり、男女2人が死亡しました。警察によりますと火事のあと、この家に住む60代とみられる夫婦と連絡が取れなくなっているということで、身元の確認を進めるとともに火事の原因を調べています。\n\n\n19日午前2時すぎ、兵庫県丹波篠山市住吉台で「住宅から煙が出ている」と近くに住む人から消防に通報がありました。\n\n警察によりますと火はおよそ3時間後に消し止められましたが、この火事で住宅が全焼し、焼け跡から男性の遺体が見つかったほか、女性が病院に搬送され、その後、死亡が確認されたということです。\n\n火事のあと、この家に住む60代とみられる夫婦と連絡が取れなくなっているということです。\n\n警察は身元の確認を進めるとともに火事の原因を調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "19日未明、兵庫県丹波篠山市の住宅で火事があり、男女2人が死亡しました。警察によりますと火事のあと、この家に住む60代とみられる夫婦と連絡が取れなくなっているということで、身元の確認を進めるとともに火事の原因を調べています。\n",
+    "markedBody": "19日午前2時すぎ、兵庫県丹波篠山市住吉台で「住宅から煙が出ている」と近くに住む人から消防に通報がありました。\n\n警察によりますと火はおよそ3時間後に消し止められましたが、この火事で住宅が全焼し、焼け跡から男性の遺体が見つかったほか、女性が病院に搬送され、その後、死亡が確認されたということです。\n\n火事のあと、この家に住む60代とみられる夫婦と連絡が取れなくなっているということです。\n\n警察は身元の確認を進めるとともに火事の原因を調べています。\n",
+    "trimmedLead": "19日未明、兵庫県丹波篠山市の住宅で火事があり、男女2人が死亡しました。警察によりますと火事のあと、この家に住む60代とみられる夫婦と連絡が取れなくなっているということで、身元の確認を進めるとともに火事の原因を調べています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015154061000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015154061000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "兵庫 丹波篠山 住宅火災 2人死亡",
+      "description": "19日未明、兵庫県丹波篠山市の住宅で火事があり、男女2人が死亡しました。警察によりますと火事のあと、この家に住む60代とみられる夫婦と連絡が取れなくなっているということで、身元の確認を進めるとともに火",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015154061_202606190954_202606190954/index.m3u8&mrposter=/news/html/20260619/K10015154061_2606190835_0619084347_01_02.jpg",
+      "duration": "PT41S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015154061_202606190954_202606190954/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260619/K10015154061_2606190835_0619084347_01_02.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "天皇陛下 国王出身のオランダ最古の大学へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015153961000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260619/K10015153961_2606190207_0619051609_01_02.jpg",
+      "datePublished": "2026-06-19T05:16:09+09:00"
+    },
+    {
+      "name": "「DAZN」料金表示問題受け サッカープラン新規受け付け停止",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015153721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260618/K10015153721_2606181805_0618184520_01_02.jpg",
+      "datePublished": "2026-06-18T23:40:33+09:00"
+    },
+    {
+      "name": "心停止し死亡した人からの提供で心臓移植 学会が導入検討",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015153811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260619/K10015153811_2606182026_0619001438_01_02.jpg",
+      "datePublished": "2026-06-19T00:14:37+09:00"
+    },
+    {
+      "name": "天皇陛下 美術館でオランダ首相主催の昼食会に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015153901000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260618/K10015153901_2606182229_0618223517_01_02.jpg",
+      "datePublished": "2026-06-18T23:28:31+09:00"
+    },
+    {
+      "name": "FIFAワールドカップ2026【NHK特設サイト】",
+      "url": "https://nhk.jp/fifawc?cid=wc26-newsweb-awayomi",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31365091.jpg"
+    },
+    {
+      "name": "日本経済はどうなる？ 米・イランが覚書署名で【詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015153671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260618/K10015153671_2606181810_0618191746_01_02.jpg",
+      "datePublished": "2026-06-18T19:42:06+09:00"
+    },
+    {
+      "name": "トクリュウ 案件屋など主に5段階の役割か 情報100万円で売買も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015153611000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260618/K10015153611_2606181906_0618201115_01_02.jpg",
+      "datePublished": "2026-06-18T20:11:14+09:00"
+    },
+    {
+      "name": "中国からベビーシッター不正に入国させたか 会社役員ら逮捕",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015153211000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260618/K10015153211_2606181453_0618145436_01_03.jpg",
+      "datePublished": "2026-06-18T20:08:00+09:00"
+    },
+    {
+      "name": "サッカーW杯 日本代表の主力 久保建英がチュニジア戦欠場へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015153971000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260619/K10015153971_2606190451_0619045421_01_02.jpg",
+      "datePublished": "2026-06-19T09:17:20+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

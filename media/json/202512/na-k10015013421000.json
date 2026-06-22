@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015013421000",
+  "dataSourceId": "na",
+  "name": "官房長官 “首相がトップ務める政府の会議数が増加 見直しを”",
+  "headline": "官房長官 “首相がトップ務める政府の会議数が増加 見直しを”",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015013421000",
+    "playlistId": "news-nwa-politics-nationwide-20251225",
+    "newsarticleName": "官房長官 “首相がトップ務める政府の会議数が増加 見直しを”",
+    "playlistName": "12月25日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "総理大臣がトップを務める政府の会議などの数が増えていることを受けて、木原官房長官は、本来の役割の確保や効率化の観点から見直しを進める考えを示しました。\n\n\n総理大臣や官房長官がトップを務める内閣官房の",
+  "dateModified": "2025-12-25T13:33:01+09:00",
+  "datePublished": "2025-12-25T13:33:01+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251225/K10015013421_2512251304_1225133302_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251225/K10015013421_2512251304_1225133302_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "総理大臣がトップを務める政府の会議などの数が増えていることを受けて、木原官房長官は、本来の役割の確保や効率化の観点から見直しを進める考えを示しました。\n\n\n総理大臣や官房長官がトップを務める内閣官房の",
+  "articleBody": "総理大臣がトップを務める政府の会議などの数が増えていることを受けて、木原官房長官は、本来の役割の確保や効率化の観点から見直しを進める考えを示しました。\n\n\n総理大臣や官房長官がトップを務める内閣官房の会議や本部の数は、10年前の2015年に39だったのが、現在は2倍以上の88に増えています。\n\nこれについて木原官房長官は、25日の記者会見で「内閣官房と内閣府については本部や会議、それに併任などの数が増加している。本来の役割を十分に発揮することができるよう問題点の整理を、事務を担当する官房副長官に指示し、現在、検討が進められている」と述べました。\n\nそのうえで「事務の不断の見直しは私の思いの1つでもある。しっかりと実行していく」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "総理大臣がトップを務める政府の会議などの数が増えていることを受けて、木原官房長官は、本来の役割の確保や効率化の観点から見直しを進める考えを示しました。\n",
+    "markedBody": "総理大臣や官房長官がトップを務める内閣官房の会議や本部の数は、10年前の2015年に39だったのが、現在は2倍以上の88に増えています。\n\nこれについて木原官房長官は、25日の記者会見で「内閣官房と内閣府については本部や会議、それに併任などの数が増加している。本来の役割を十分に発揮することができるよう問題点の整理を、事務を担当する官房副長官に指示し、現在、検討が進められている」と述べました。\n\nそのうえで「事務の不断の見直しは私の思いの1つでもある。しっかりと実行していく」と述べました。\n",
+    "trimmedLead": "総理大臣がトップを務める政府の会議などの数が増えていることを受けて、木原官房長官は、本来の役割の確保や効率化の観点から見直しを進める考えを示しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015013421000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015013421000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

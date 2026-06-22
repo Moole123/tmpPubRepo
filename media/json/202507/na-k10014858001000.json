@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014858001000",
+  "dataSourceId": "na",
+  "name": "株価 小幅な値上がり",
+  "headline": "株価 小幅な値上がり",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014858001000",
+    "playlistId": "news-nwa-business-nationwide-20250709",
+    "newsarticleName": "株価 小幅な値上がり",
+    "playlistName": "7月9日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "9日の東京株式市場は、アメリカのトランプ大統領の関税措置に対する警戒感から、半導体などの銘柄が売られた一方、円相場が円安方向に動いたことで、輸出関連の銘柄が買われ、株価は小幅な値上がりとなりました。\n",
+  "dateModified": "2025-07-09T16:04:41+09:00",
+  "datePublished": "2025-07-09T12:26:42+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250709/K10014858001_2507091555_0709160443_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250709/K10014858001_2507091555_0709160443_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "9日の東京株式市場は、アメリカのトランプ大統領の関税措置に対する警戒感から、半導体などの銘柄が売られた一方、円相場が円安方向に動いたことで、輸出関連の銘柄が買われ、株価は小幅な値上がりとなりました。\n",
+  "articleBody": "9日の東京株式市場は、アメリカのトランプ大統領の関税措置に対する警戒感から、半導体などの銘柄が売られた一方、円相場が円安方向に動いたことで、輸出関連の銘柄が買われ、株価は小幅な値上がりとなりました。\n\n\n▼日経平均株価、9日の終値は、8日の終値より132円47銭高い、3万9821円28銭。\n\n▼東証株価指数＝トピックスは、11.62上がって、2828.16。\n\n▼一日の出来高は、19億8121万株でした。\n\n市場関係者は「外国為替市場で一時、1ドル＝147円台まで円安が進んだことで、輸出関連の銘柄には積極的な買い注文が入った。ただ、トランプ大統領が半導体や医薬品などで新たな関税措置に踏み切るのではないかという見方から、リスクを避けようと関連する銘柄を売る動きもあり、株価は小幅な上昇にとどまった」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "9日の東京株式市場は、アメリカのトランプ大統領の関税措置に対する警戒感から、半導体などの銘柄が売られた一方、円相場が円安方向に動いたことで、輸出関連の銘柄が買われ、株価は小幅な値上がりとなりました。\n",
+    "markedBody": "▼日経平均株価、9日の終値は、8日の終値より132円47銭高い、3万9821円28銭。\n\n▼東証株価指数＝トピックスは、11.62上がって、2828.16。\n\n▼一日の出来高は、19億8121万株でした。\n\n市場関係者は「外国為替市場で一時、1ドル＝147円台まで円安が進んだことで、輸出関連の銘柄には積極的な買い注文が入った。ただ、トランプ大統領が半導体や医薬品などで新たな関税措置に踏み切るのではないかという見方から、リスクを避けようと関連する銘柄を売る動きもあり、株価は小幅な上昇にとどまった」と話しています。\n",
+    "trimmedLead": "9日の東京株式市場は、アメリカのトランプ大統領の関税措置に対する警戒感から、半導体などの銘柄が売られた一方、円相場が円安方向に動いたことで、輸出関連の銘柄が買われ、株価は小幅な値上がりとなりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014858001000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014858001000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

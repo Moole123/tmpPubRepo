@@ -1,0 +1,173 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015051041000",
+  "dataSourceId": "na",
+  "name": "新しい衆院議長に森英介元法相を推す方向で調整 自民",
+  "headline": "新しい衆院議長に森英介元法相を推す方向で調整 自民",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015051041000",
+    "playlistId": "news-nwa-politics-nationwide-20260213",
+    "newsarticleName": "新しい衆院議長に森英介元法相を推す方向で調整 自民",
+    "playlistName": "2月13日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "自民党は、18日に召集される特別国会で選出する新しい衆議院議長に、森英介元法務大臣を推す方向で調整しています。\n\n\n衆議院選挙を受けた特別国会は18日に召集され、初日の衆議院本会議で新しい衆議院議長が",
+  "dateModified": "2026-02-13T17:25:08+09:00",
+  "datePublished": "2026-02-13T17:25:08+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260213/K10015051041_2602131619_0213172509_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260213/K10015051041_2602131619_0213172509_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0002392",
+      "name": "国会",
+      "display": true
+    },
+    {
+      "id": "0002393",
+      "name": "衆議院",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "自民党は、18日に召集される特別国会で選出する新しい衆議院議長に、森英介元法務大臣を推す方向で調整しています。\n\n\n衆議院選挙を受けた特別国会は18日に召集され、初日の衆議院本会議で新しい衆議院議長が",
+  "articleBody": "自民党は、18日に召集される特別国会で選出する新しい衆議院議長に、森英介元法務大臣を推す方向で調整しています。\n\n\n衆議院選挙を受けた特別国会は18日に召集され、初日の衆議院本会議で新しい衆議院議長が選出される予定です。\n\n各会派の代表による協議会で、議長は与党第一党の自民党から選ぶことを確認していて、自民党は森英介元法務大臣を推す方向で調整しています。\n\n森氏は、衆議院・千葉11区選出の当選13回で77歳。麻生派に所属しています。\n\n民間企業の勤務を経て、1990年の衆議院選挙で初当選し、法務大臣や衆議院憲法審査会長などを歴任しました。\n\n自民党は、16日の各会派の代表者による協議会で、森氏を推す方針を正式に伝えることにしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "自民党は、18日に召集される特別国会で選出する新しい衆議院議長に、森英介元法務大臣を推す方向で調整しています。\n",
+    "markedBody": "衆議院選挙を受けた特別国会は18日に召集され、初日の衆議院本会議で新しい衆議院議長が選出される予定です。\n\n各会派の代表による協議会で、議長は与党第一党の自民党から選ぶことを確認していて、自民党は森英介元法務大臣を推す方向で調整しています。\n\n森氏は、衆議院・千葉11区選出の当選13回で77歳。麻生派に所属しています。\n\n民間企業の勤務を経て、1990年の衆議院選挙で初当選し、法務大臣や衆議院憲法審査会長などを歴任しました。\n\n自民党は、16日の各会派の代表者による協議会で、森氏を推す方針を正式に伝えることにしています。\n",
+    "trimmedLead": "自民党は、18日に召集される特別国会で選出する新しい衆議院議長に、森英介元法務大臣を推す方向で調整しています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015051041000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015051041000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "新しい衆院議長に森英介元法相を推す方向で調整 自民",
+      "description": "自民党は、18日に召集される特別国会で選出する新しい衆議院議長に、森英介元法務大臣を推す方向で調整しています。\n\n\n衆議院選挙を受けた特別国会は18日に召集され、初日の衆議院本会議で新しい衆議院議長が",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015051041_202602131710_202602131710/index.m3u8&mrposter=/news/html/20260213/K10015051041_2602131619_0213172509_01_03.jpg",
+      "duration": "PT40S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015051041_202602131710_202602131710/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260213/K10015051041_2602131619_0213172509_01_03.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "“普通科高校の文系理系 生徒の割合同程度に”改革方針 文科省",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050951000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050951_2602131321_0213154252_01_02.jpg",
+      "datePublished": "2026-02-13T15:42:52+09:00"
+    },
+    {
+      "name": "国会改革めぐり維新と国民の国対委員長が会談 連携を確認",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050981000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050981_2602131443_0213155855_01_02.jpg",
+      "datePublished": "2026-02-13T15:58:54+09:00"
+    },
+    {
+      "name": "米トランプ政権 自動車排ガス規制撤廃を発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050631000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050631_2602130602_0213062247_01_02.jpg",
+      "datePublished": "2026-02-13T14:03:32+09:00"
+    },
+    {
+      "name": "80兆円規模の対米投資 第1弾プロジェクトを協議も合意に至らず",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050741_2602131135_0213114320_01_02.jpg",
+      "datePublished": "2026-02-13T12:01:48+09:00"
+    },
+    {
+      "name": "診療報酬加算引き上げへ 中医協が改定案答申 患者窓口負担も増",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050791_2602131454_0213161253_01_03.jpg",
+      "datePublished": "2026-02-13T19:36:31+09:00"
+    },
+    {
+      "name": "中道 新代表に小川淳也氏を選出 階猛氏を抑える 立民出身",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050371_2602131824_0213191002_01_02.jpg",
+      "datePublished": "2026-02-13T20:41:43+09:00"
+    },
+    {
+      "name": "15日にかけ各地で気温上昇 積雪多い地域は雪崩や落雪など注意",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050671_2602131754_0213181041_01_02.jpg",
+      "datePublished": "2026-02-13T18:10:40+09:00"
+    },
+    {
+      "name": "貫いた“大技” スキー男子モーグル 堀島行真【解説】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050571000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050571_2602130916_0213092209_01_02.jpg",
+      "datePublished": "2026-02-13T09:22:08+09:00"
+    },
+    {
+      "name": "ミラノ・コルティナ五輪 日本のメダル数は【2月13日】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050621000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050621_2602130537_0213055422_01_02.jpg",
+      "datePublished": "2026-02-13T05:54:22+09:00"
+    },
+    {
+      "name": "ミラノ・コルティナ五輪 見どころ【2/13～14】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050601000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050601_2602130359_0213055826_01_02.jpg",
+      "datePublished": "2026-02-13T05:58:25+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

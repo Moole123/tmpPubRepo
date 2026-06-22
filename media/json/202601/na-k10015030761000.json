@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015030761000",
+  "dataSourceId": "na",
+  "name": "北朝鮮 キム総書記 工場改修事業に問題で担当の副首相を解任 内部引き締めか",
+  "headline": "北朝鮮 キム総書記 工場改修事業に問題で担当の副首相を解任",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015030761000",
+    "playlistId": "news-nwa-international-nationwide-20260120",
+    "newsarticleName": "北朝鮮 キム総書記 工場改修事業に問題で担当の副首相を解任 内部引き締めか",
+    "playlistName": "1月20日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "北朝鮮メディアは、キム・ジョンウン（金正恩）総書記が工場の改修事業に問題があったとして、担当した副首相を解任したと伝えました。開催を予告している党大会を前に内部の引き締めをねらったものだとの見方が出て",
+  "dateModified": "2026-01-20T13:59:05+09:00",
+  "datePublished": "2026-01-20T13:59:05+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260120/K10015030761_2601201339_0120135905_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260120/K10015030761_2601201339_0120135905_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "北朝鮮メディアは、キム・ジョンウン（金正恩）総書記が工場の改修事業に問題があったとして、担当した副首相を解任したと伝えました。開催を予告している党大会を前に内部の引き締めをねらったものだとの見方が出て",
+  "articleBody": "北朝鮮メディアは、キム・ジョンウン（金正恩）総書記が工場の改修事業に問題があったとして、担当した副首相を解任したと伝えました。開催を予告している党大会を前に内部の引き締めをねらったものだとの見方が出ています。\n\n\n北朝鮮国営の朝鮮中央テレビは20日の放送で、キム・ジョンウン総書記が19日、東部のハムギョン南道（咸鏡南道）にある産業機械の工場を訪れ、改修事業の完了式典に出席したと伝えました。\n\nこの中でキム総書記は、改修事業の過程で多くの問題があったとし、「無責任で無能な幹部たちのために、本来なら必要のなかった人為的な混乱を経験し、経済的損失も少なくなかった」と非難しました。\n\nそのうえで、事業を担当したヤン・スンホ副首相をその場で解任し、事業を監督していたキム・ドックン前首相にも責任があると強調しました。\n\n韓国メディアは、開催を予告している2021年以来となる党大会を前に、内部の引き締めをねらったものだとの見方を伝えています。\n",
+  "detailedArticleBody": {
+    "markedLead": "北朝鮮メディアは、キム・ジョンウン（金正恩）総書記が工場の改修事業に問題があったとして、担当した副首相を解任したと伝えました。開催を予告している党大会を前に内部の引き締めをねらったものだとの見方が出ています。\n",
+    "markedBody": "北朝鮮国営の朝鮮中央テレビは20日の放送で、キム・ジョンウン総書記が19日、東部のハムギョン南道（咸鏡南道）にある産業機械の工場を訪れ、改修事業の完了式典に出席したと伝えました。\n\nこの中でキム総書記は、改修事業の過程で多くの問題があったとし、「無責任で無能な幹部たちのために、本来なら必要のなかった人為的な混乱を経験し、経済的損失も少なくなかった」と非難しました。\n\nそのうえで、事業を担当したヤン・スンホ副首相をその場で解任し、事業を監督していたキム・ドックン前首相にも責任があると強調しました。\n\n韓国メディアは、開催を予告している2021年以来となる党大会を前に、内部の引き締めをねらったものだとの見方を伝えています。\n",
+    "trimmedLead": "北朝鮮メディアは、キム・ジョンウン（金正恩）総書記が工場の改修事業に問題があったとして、担当した副首相を解任したと伝えました。開催を予告している党大会を前に内部の引き締めをねらったものだとの見方が出ています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015030761000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015030761000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

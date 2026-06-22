@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014862951000",
+  "dataSourceId": "na",
+  "name": "高知 越知町 道路に土砂が流れ込む 住民約30人が孤立状態",
+  "headline": "高知 越知町 道路に土砂が流れ込む 住民約30人が孤立状態",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014862951000",
+    "playlistId": "news-nwa-disaster-nationwide-20250714",
+    "newsarticleName": "高知 越知町 道路に土砂が流れ込む 住民約30人が孤立状態",
+    "playlistName": "7月14日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "高知県越知町によりますと、14日午前9時半ごろ、鎌井田桑薮地区の住民から「土砂が町道を覆っていて通れない」などと連絡がありました。\n\n\n町によりますと、町道は道路脇の谷から流れ出た大量の土砂に覆われて",
+  "dateModified": "2025-07-14T16:18:31+09:00",
+  "datePublished": "2025-07-14T16:18:31+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250714/K10014862951_2507141614_0714161618_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250714/K10014862951_2507141614_0714161618_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "高知県越知町によりますと、14日午前9時半ごろ、鎌井田桑薮地区の住民から「土砂が町道を覆っていて通れない」などと連絡がありました。\n\n\n町によりますと、町道は道路脇の谷から流れ出た大量の土砂に覆われて",
+  "articleBody": "高知県越知町によりますと、14日午前9時半ごろ、鎌井田桑薮地区の住民から「土砂が町道を覆っていて通れない」などと連絡がありました。\n\n\n町によりますと、町道は道路脇の谷から流れ出た大量の土砂に覆われていて、通行できなくなっているということです。\n\n地区には町の中心部につながるう回路などはなく住民30人ほどが孤立している状態ですが、午後2時の時点で体調不良などを訴える人はいないということです。\n\n町は復旧工事を業者に依頼していますが、業者は安全が確保できないとして14日の作業について見合わせ、天候が回復ししだい、15日朝から作業を行うことにしています。\n\n越知町では、県が設置した雨量計で14日午前9時までの24時間に239ミリの雨が観測されていました。\n",
+  "detailedArticleBody": {
+    "markedLead": "高知県越知町によりますと、14日午前9時半ごろ、鎌井田桑薮地区の住民から「土砂が町道を覆っていて通れない」などと連絡がありました。\n",
+    "markedBody": "町によりますと、町道は道路脇の谷から流れ出た大量の土砂に覆われていて、通行できなくなっているということです。\n\n地区には町の中心部につながるう回路などはなく住民30人ほどが孤立している状態ですが、午後2時の時点で体調不良などを訴える人はいないということです。\n\n町は復旧工事を業者に依頼していますが、業者は安全が確保できないとして14日の作業について見合わせ、天候が回復ししだい、15日朝から作業を行うことにしています。\n\n越知町では、県が設置した雨量計で14日午前9時までの24時間に239ミリの雨が観測されていました。\n",
+    "trimmedLead": "高知県越知町によりますと、14日午前9時半ごろ、鎌井田桑薮地区の住民から「土砂が町道を覆っていて通れない」などと連絡がありました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014862951000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014862951000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015011641000",
+  "dataSourceId": "na",
+  "name": "日本 1人当たりの名目GDP24位 22位から後退 円安影響か",
+  "headline": "日本 1人当たりの名目GDP24位 22位から後退 円安影響か",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015011641000",
+    "playlistId": "news-nwa-business-nationwide-20251223",
+    "newsarticleName": "日本 1人当たりの名目GDP24位 22位から後退 円安影響か",
+    "playlistName": "12月23日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "去年1年間の日本の1人当たりの名目GDP＝国内総生産は、ドル換算で見た場合、OECD＝経済協力開発機構の加盟国の中で22位から24位に後退しました。内閣府は円安によってGDPが目減りしたことが影響した",
+  "dateModified": "2025-12-23T18:12:07+09:00",
+  "datePublished": "2025-12-23T18:12:07+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251223/K10015011641_2512231753_1223181208_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251223/K10015011641_2512231753_1223181208_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "去年1年間の日本の1人当たりの名目GDP＝国内総生産は、ドル換算で見た場合、OECD＝経済協力開発機構の加盟国の中で22位から24位に後退しました。内閣府は円安によってGDPが目減りしたことが影響した",
+  "articleBody": "去年1年間の日本の1人当たりの名目GDP＝国内総生産は、ドル換算で見た場合、OECD＝経済協力開発機構の加盟国の中で22位から24位に後退しました。内閣府は円安によってGDPが目減りしたことが影響したと分析しています。\n\n\n内閣府のまとめによりますと、去年、2024年の日本の1人当たりの名目GDPは、ドルに換算すると3万3785ドルで、OECDに加盟する38か国の中で24位となりました。\n\nおととし2023年の22位から順位を下げ、スペインとスロベニアを下回りました。\n\nこれについて内閣府は去年1年間は外国為替市場で円安が進んだため、ドル換算でみたGDPが目減りしたことが影響したと分析しています。\n\n日本の1人当たりの名目GDPの順位は、2020年に18位でしたが、2021年に20位、2022年に21位、2023年に22位、2024年に24位と4年連続で前の年を下回っています。\n\n一方で、名目GDPの総額でみると日本はアメリカ、中国、ドイツに次ぐ4位で、おととしと順位は変わりませんでした。\n",
+  "detailedArticleBody": {
+    "markedLead": "去年1年間の日本の1人当たりの名目GDP＝国内総生産は、ドル換算で見た場合、OECD＝経済協力開発機構の加盟国の中で22位から24位に後退しました。内閣府は円安によってGDPが目減りしたことが影響したと分析しています。\n",
+    "markedBody": "内閣府のまとめによりますと、去年、2024年の日本の1人当たりの名目GDPは、ドルに換算すると3万3785ドルで、OECDに加盟する38か国の中で24位となりました。\n\nおととし2023年の22位から順位を下げ、スペインとスロベニアを下回りました。\n\nこれについて内閣府は去年1年間は外国為替市場で円安が進んだため、ドル換算でみたGDPが目減りしたことが影響したと分析しています。\n\n日本の1人当たりの名目GDPの順位は、2020年に18位でしたが、2021年に20位、2022年に21位、2023年に22位、2024年に24位と4年連続で前の年を下回っています。\n\n一方で、名目GDPの総額でみると日本はアメリカ、中国、ドイツに次ぐ4位で、おととしと順位は変わりませんでした。\n",
+    "trimmedLead": "去年1年間の日本の1人当たりの名目GDP＝国内総生産は、ドル換算で見た場合、OECD＝経済協力開発機構の加盟国の中で22位から24位に後退しました。内閣府は円安によってGDPが目減りしたことが影響したと分析しています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015011641000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015011641000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

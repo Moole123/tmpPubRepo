@@ -1,0 +1,101 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014997281000",
+  "dataSourceId": "na",
+  "name": "牛舎にクマ1頭が6時間以上とどまる 被害確認されず 岩手 二戸",
+  "headline": "牛舎にクマ1頭が6時間以上とどまる 被害確認されず 岩手 二戸",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014997281000",
+    "playlistId": "news-nwa-society-nationwide-20251208",
+    "newsarticleName": "牛舎にクマ1頭が6時間以上とどまる 被害確認されず 岩手 二戸",
+    "playlistName": "12月8日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "8日朝早く、岩手県二戸市の山あいにある牛舎にクマ1頭が入り込んでいるのが見つかり、市によりますとクマは6時間以上にわたって牛舎の中にとどまっています。\n\n\n警察などによりますと、8日午前4時半ごろ、岩",
+  "dateModified": "2025-12-08T12:12:34+09:00",
+  "datePublished": "2025-12-08T12:12:34+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251208/K10014997281_2512081204_1208121235_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251208/K10014997281_2512081204_1208121235_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "8日朝早く、岩手県二戸市の山あいにある牛舎にクマ1頭が入り込んでいるのが見つかり、市によりますとクマは6時間以上にわたって牛舎の中にとどまっています。\n\n\n警察などによりますと、8日午前4時半ごろ、岩",
+  "articleBody": "8日朝早く、岩手県二戸市の山あいにある牛舎にクマ1頭が入り込んでいるのが見つかり、市によりますとクマは6時間以上にわたって牛舎の中にとどまっています。\n\n\n警察などによりますと、8日午前4時半ごろ、岩手県二戸市上斗米にある牛舎にクマ1頭がいるのを牛舎の関係者が目撃しました。\n\n関係者がおよそ3時間後に再び牛舎を確認したところ、クマがその場にとどまっていたため警察に通報しました。\n\n市によりますと、猟友会のメンバーもクマ1頭が牛舎の隅にいるのを確認していて、午前11時の時点でも牛舎の中にとどまっていたということです。\n\nこれまでに人や牛への被害は確認されていません。\n\n市によりますと、牛へのストレスになるため花火などで追い払うのは難しいことから、わなによる捕獲を検討しているということです。\n\n現場は岩手県北部の青森県との県境近くにある山あいの地域です。\n",
+  "detailedArticleBody": {
+    "markedLead": "8日朝早く、岩手県二戸市の山あいにある牛舎にクマ1頭が入り込んでいるのが見つかり、市によりますとクマは6時間以上にわたって牛舎の中にとどまっています。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20251208/K10014997281_2512081204_1208121235_02_04.jpg)\n\n警察などによりますと、8日午前4時半ごろ、岩手県二戸市上斗米にある牛舎にクマ1頭がいるのを牛舎の関係者が目撃しました。\n\n関係者がおよそ3時間後に再び牛舎を確認したところ、クマがその場にとどまっていたため警察に通報しました。\n\n市によりますと、猟友会のメンバーもクマ1頭が牛舎の隅にいるのを確認していて、午前11時の時点でも牛舎の中にとどまっていたということです。\n\nこれまでに人や牛への被害は確認されていません。\n\n市によりますと、牛へのストレスになるため花火などで追い払うのは難しいことから、わなによる捕獲を検討しているということです。\n\n現場は岩手県北部の青森県との県境近くにある山あいの地域です。\n",
+    "trimmedLead": "8日朝早く、岩手県二戸市の山あいにある牛舎にクマ1頭が入り込んでいるのが見つかり、市によりますとクマは6時間以上にわたって牛舎の中にとどまっています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014997281000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014997281000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "牛舎にクマ1頭が6時間以上とどまる 被害確認されず 岩手 二戸",
+      "description": "8日朝早く、岩手県二戸市の山あいにある牛舎にクマ1頭が入り込んでいるのが見つかり、市によりますとクマは6時間以上にわたって牛舎の中にとどまっています。\n\n\n警察などによりますと、8日午前4時半ごろ、岩",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10014997281_202512081211_202512081211/index.m3u8&mrposter=/news/html/20251208/K10014997281_2512081204_1208121235_01_03.jpg",
+      "duration": "PT1M3S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10014997281_202512081211_202512081211/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20251208/K10014997281_2512081204_1208121235_01_03.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

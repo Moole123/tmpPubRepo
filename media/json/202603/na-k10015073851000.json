@@ -1,0 +1,199 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015073851000",
+  "dataSourceId": "na",
+  "name": "AI 事業者対象に新ガイドライン案 判断に人間が関わる仕組みを",
+  "headline": "AI 事業者対象に新ガイドライン案 判断に人間が関わる仕組みを",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015073851000",
+    "playlistId": "news-nwa-business-nationwide-20260312",
+    "newsarticleName": "AI 事業者対象に新ガイドライン案 判断に人間が関わる仕組みを",
+    "playlistName": "3月12日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "AIの普及が急速に進む中、政府は、AIを使う事業者を対象にした新たなガイドラインの案を示しました。技術の進展に伴ってAIが人間の意図しない作業を勝手に行うなどのリスクが懸念されるとして、システムの判断",
+  "dateModified": "2026-03-12T16:37:24+09:00",
+  "datePublished": "2026-03-12T16:37:24+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260312/K10015073851_2603121615_0312163725_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260312/K10015073851_2603121615_0312163725_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000010",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "0000009",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "0002399",
+      "name": "総務省",
+      "display": true
+    },
+    {
+      "id": "0002404",
+      "name": "経済産業省",
+      "display": true
+    },
+    {
+      "id": "0000325",
+      "name": "サイバー攻撃",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "AIの普及が急速に進む中、政府は、AIを使う事業者を対象にした新たなガイドラインの案を示しました。技術の進展に伴ってAIが人間の意図しない作業を勝手に行うなどのリスクが懸念されるとして、システムの判断",
+  "articleBody": "AIの普及が急速に進む中、政府は、AIを使う事業者を対象にした新たなガイドラインの案を示しました。技術の進展に伴ってAIが人間の意図しない作業を勝手に行うなどのリスクが懸念されるとして、システムの判断に人間が関わる仕組みを導入することを求めています。\n\n\n企業の間では、人間の詳しい指示がなくても自律的に業務などを行う「AIエージェント」や、周りの環境に応じてロボットや自動車などを自律的に動かす「フィジカルAI」の開発や導入が進んでいます。\n\nこうした中、総務省と経済産業省は12日、AIを使う企業や研究機関などを対象にした新たなガイドラインの案を示しました。\n\nこの中ではAIエージェントやフィジカルAIについて、業務の効率化や人手不足を補うメリットがあるとした一方で、AIが勝手にファイルを削除するなど人間の意図しない作業をしたり、サイバー攻撃によってAIの動きが不正に操作され、機密情報が外部に流出したりするなどのリスクがあると指摘しています。\n\nそのうえで事業者に対し、AIを使った業務を行う際は、判断をシステム任せにせず、人間が関わる仕組みを導入することや、AIが読み込むデータを最小限にして、データの管理を徹底することなどを求めています。\n\n政府は、今月中にガイドラインを正式に取りまとめる方針です。\n",
+  "detailedArticleBody": {
+    "markedLead": "AIの普及が急速に進む中、政府は、AIを使う事業者を対象にした新たなガイドラインの案を示しました。技術の進展に伴ってAIが人間の意図しない作業を勝手に行うなどのリスクが懸念されるとして、システムの判断に人間が関わる仕組みを導入することを求めています。\n",
+    "markedBody": "企業の間では、人間の詳しい指示がなくても自律的に業務などを行う「AIエージェント」や、周りの環境に応じてロボットや自動車などを自律的に動かす「フィジカルAI」の開発や導入が進んでいます。\n\nこうした中、総務省と経済産業省は12日、AIを使う企業や研究機関などを対象にした新たなガイドラインの案を示しました。\n\nこの中ではAIエージェントやフィジカルAIについて、業務の効率化や人手不足を補うメリットがあるとした一方で、AIが勝手にファイルを削除するなど人間の意図しない作業をしたり、サイバー攻撃によってAIの動きが不正に操作され、機密情報が外部に流出したりするなどのリスクがあると指摘しています。\n\nそのうえで事業者に対し、AIを使った業務を行う際は、判断をシステム任せにせず、人間が関わる仕組みを導入することや、AIが読み込むデータを最小限にして、データの管理を徹底することなどを求めています。\n\n政府は、今月中にガイドラインを正式に取りまとめる方針です。\n",
+    "trimmedLead": "AIの普及が急速に進む中、政府は、AIを使う事業者を対象にした新たなガイドラインの案を示しました。技術の進展に伴ってAIが人間の意図しない作業を勝手に行うなどのリスクが懸念されるとして、システムの判断に人間が関わる仕組みを導入することを求めています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015073851000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015073851000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "AI 事業者対象に新ガイドライン案 判断に人間が関わる仕組みを",
+      "description": "AIの普及が急速に進む中、政府は、AIを使う事業者を対象にした新たなガイドラインの案を示しました。技術の進展に伴ってAIが人間の意図しない作業を勝手に行うなどのリスクが懸念されるとして、システムの判断",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015073851_202603121724_202603121728/index.m3u8&mrposter=/news/html/20260312/K10015073851_2603121615_0312163725_01_02.jpg",
+      "duration": "PT1M16S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015073851_202603121724_202603121728/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260312/K10015073851_2603121615_0312163725_01_02.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "日本成長戦略会議 官民連携で優先的に投資 61の製品など選定",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015072021000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260310/K10015072021_2603101928_0310202337_01_02.jpg",
+      "datePublished": "2026-03-10T20:23:37+09:00"
+    },
+    {
+      "name": "日産 米配車大手ウーバーと自動運転タクシー分野で協業を発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015073721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260312/K10015073721_2603121303_0312131538_01_02.jpg",
+      "datePublished": "2026-03-12T13:15:37+09:00"
+    },
+    {
+      "name": "ホルムズ海峡 事実上の封鎖 長期化懸念広がる【詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015073311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260312/K10015073311_2603121417_0312142512_01_03.jpg",
+      "datePublished": "2026-03-13T02:31:40+09:00"
+    },
+    {
+      "name": "G7首脳会議で声明 ホルムズ海峡“船舶の護衛できるか検討”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015073381000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260312/K10015073381_2603120859_0312091426_01_02.jpg",
+      "datePublished": "2026-03-12T12:30:02+09:00"
+    },
+    {
+      "name": "円安 株安進む 一時1ドル＝159円台に値下がり イラン情勢懸念",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015073501000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260312/K10015073501_2603120832_0312084045_01_02.jpg",
+      "datePublished": "2026-03-12T11:54:40+09:00"
+    },
+    {
+      "name": "新年度予算案 あす予算委の採決 職権で決定 野党側は反発",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015073551000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260312/K10015073551_2603121223_0312131012_01_02.jpg",
+      "datePublished": "2026-03-12T19:14:09+09:00"
+    },
+    {
+      "name": "“イラン 米西海岸を奇襲攻撃の可能性とFBIが警告” 報道",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015073581000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260312/K10015073581_2603121031_0312104110_01_02.jpg",
+      "datePublished": "2026-03-12T10:41:10+09:00"
+    },
+    {
+      "name": "日米欧など石油備蓄協調放出で合意 過去最大規模 IEA",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015073331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260311/K10015073331_2603112320_0311232541_01_02.jpg",
+      "datePublished": "2026-03-12T12:00:57+09:00"
+    },
+    {
+      "name": "トランプ政権 特定製造業での過剰生産能力を調査へ 日本も対象",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015073431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260312/K10015073431_2603120600_0312083008_01_02.jpg",
+      "datePublished": "2026-03-12T12:28:44+09:00"
+    },
+    {
+      "name": "スギ花粉 全国的に本格的な飛散シーズンに 例年より多い地域も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015073761000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260312/K10015073761_2603121504_0312151616_01_02.jpg",
+      "datePublished": "2026-03-12T20:15:12+09:00"
+    },
+    {
+      "name": "バーレーン 謎の文明「ディルムン」古墳群で最古の王の墓発見",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015073061000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260312/K10015073061_2603112048_0312050721_01_02.jpg",
+      "datePublished": "2026-03-12T05:07:20+09:00"
+    },
+    {
+      "name": "3.11 あの日を忘れない 東日本大震災・原発事故15年特集サイト",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0000019",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30907482.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014871241000",
+  "dataSourceId": "na",
+  "name": "自民栃木県連 石破首相の総裁退任 党本部に文書で要請へ",
+  "headline": "自民栃木県連 石破首相の総裁退任 党本部に文書で要請へ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014871241000",
+    "playlistId": "news-nwa-politics-nationwide-20250722",
+    "newsarticleName": "自民栃木県連 石破首相の総裁退任 党本部に文書で要請へ",
+    "playlistName": "7月22日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "参議院選挙の結果を受けて自民党栃木県連は、石破総理大臣が自民党総裁を退任するよう党本部に文書で要請することを決めました。\n\n\n20日の参議院選挙で、栃木選挙区では自民党の高橋克法氏が3回目の当選を果た",
+  "dateModified": "2025-07-22T16:31:08+09:00",
+  "datePublished": "2025-07-22T16:31:08+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250722/K10014871241_2507221613_0722163109_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250722/K10014871241_2507221613_0722163109_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "参議院選挙の結果を受けて自民党栃木県連は、石破総理大臣が自民党総裁を退任するよう党本部に文書で要請することを決めました。\n\n\n20日の参議院選挙で、栃木選挙区では自民党の高橋克法氏が3回目の当選を果た",
+  "articleBody": "参議院選挙の結果を受けて自民党栃木県連は、石破総理大臣が自民党総裁を退任するよう党本部に文書で要請することを決めました。\n\n\n20日の参議院選挙で、栃木選挙区では自民党の高橋克法氏が3回目の当選を果たしましたが、自民・公明両党は目標とした与党で過半数の議席を維持することができず、衆議院に続いて参議院でも少数与党になりました。\n\nこれを受けて自民党栃木県連は22日、緊急の総務会を開き、石破総理大臣が自民党総裁を退任するよう、県連幹事長や幹部の連名で党本部に文書で要請することを決めました。\n\n文書では、森山幹事長の退任も要請することにしています。\n\n関係者によりますと、文書は23日以降、党本部へ郵送するということです。\n\n自民党栃木県連の木村好文幹事長は「参議院選挙の大敗を受け、現在の党執行部では、国民の支持の回復はおろか党の存続にかかわる大変ゆゆしき事態であると判断し、その責任を明らかにすることを求める」とコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "参議院選挙の結果を受けて自民党栃木県連は、石破総理大臣が自民党総裁を退任するよう党本部に文書で要請することを決めました。\n",
+    "markedBody": "20日の参議院選挙で、栃木選挙区では自民党の高橋克法氏が3回目の当選を果たしましたが、自民・公明両党は目標とした与党で過半数の議席を維持することができず、衆議院に続いて参議院でも少数与党になりました。\n\nこれを受けて自民党栃木県連は22日、緊急の総務会を開き、石破総理大臣が自民党総裁を退任するよう、県連幹事長や幹部の連名で党本部に文書で要請することを決めました。\n\n文書では、森山幹事長の退任も要請することにしています。\n\n関係者によりますと、文書は23日以降、党本部へ郵送するということです。\n\n自民党栃木県連の木村好文幹事長は「参議院選挙の大敗を受け、現在の党執行部では、国民の支持の回復はおろか党の存続にかかわる大変ゆゆしき事態であると判断し、その責任を明らかにすることを求める」とコメントしています。\n",
+    "trimmedLead": "参議院選挙の結果を受けて自民党栃木県連は、石破総理大臣が自民党総裁を退任するよう党本部に文書で要請することを決めました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014871241000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014871241000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015053971000",
+  "dataSourceId": "na",
+  "name": "メルシャン 一部ワイン自主回収 日本で無認可の添加物使用",
+  "headline": "メルシャン 一部ワイン自主回収 日本で無認可の添加物使用",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015053971000",
+    "playlistId": "news-nwa-business-nationwide-20260217",
+    "newsarticleName": "メルシャン 一部ワイン自主回収 日本で無認可の添加物使用",
+    "playlistName": "2月17日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "キリンホールディングス傘下でワインなどを手がけるメルシャンは、一部のワインに日本で使用が認められていない食品添加物が使用されていたとして、商品の自主回収を発表しました。\n\n\n発表によりますと、自主回収",
+  "dateModified": "2026-02-17T14:50:00+09:00",
+  "datePublished": "2026-02-17T14:50:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260217/K10015053971_2602171401_0217145000_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260217/K10015053971_2602171401_0217145000_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0002735",
+      "name": "リコール・自主回収",
+      "display": true
+    },
+    {
+      "id": "0002733",
+      "name": "企業・経営",
+      "display": true
+    },
+    {
+      "id": "0002701",
+      "name": "食品安全",
+      "display": true
+    },
+    {
+      "id": "0002567",
+      "name": "チリ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "キリンホールディングス傘下でワインなどを手がけるメルシャンは、一部のワインに日本で使用が認められていない食品添加物が使用されていたとして、商品の自主回収を発表しました。\n\n\n発表によりますと、自主回収",
+  "articleBody": "キリンホールディングス傘下でワインなどを手がけるメルシャンは、一部のワインに日本で使用が認められていない食品添加物が使用されていたとして、商品の自主回収を発表しました。\n\n\n発表によりますと、自主回収するのは「フロンテラ スパークリング ロゼ 缶」など、いずれもフロンテラの名前がつく3つの商品です。\n\n回収の対象となるのは、2024年以降発売された商品で、これまでの出荷量はおよそ62万本にのぼりますが、現在、市場に流通しているのはおよそ4万本と見込んでいるということです。\n\n会社によりますと、日本では認められていない食品添加物が、南米チリでの製造の過程で、においの除去を目的に使用されていたことがわかったということです。\n\n現時点で健康被害の報告は確認されていないとしています。\n\n会社は「今後は再発防止に向け、一層の品質管理体制の強化に努めてまいります」とコメントしています。\n\n商品の回収はインターネットで24時間受け付けるほか、電話でも0120ー158ー275で、平日の午前9時から午後5時まで問い合わせに対応するとしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "キリンホールディングス傘下でワインなどを手がけるメルシャンは、一部のワインに日本で使用が認められていない食品添加物が使用されていたとして、商品の自主回収を発表しました。\n",
+    "markedBody": "発表によりますと、自主回収するのは「フロンテラ スパークリング ロゼ 缶」など、いずれもフロンテラの名前がつく3つの商品です。\n\n回収の対象となるのは、2024年以降発売された商品で、これまでの出荷量はおよそ62万本にのぼりますが、現在、市場に流通しているのはおよそ4万本と見込んでいるということです。\n\n会社によりますと、日本では認められていない食品添加物が、南米チリでの製造の過程で、においの除去を目的に使用されていたことがわかったということです。\n\n現時点で健康被害の報告は確認されていないとしています。\n\n会社は「今後は再発防止に向け、一層の品質管理体制の強化に努めてまいります」とコメントしています。\n\n商品の回収はインターネットで24時間受け付けるほか、電話でも0120ー158ー275で、平日の午前9時から午後5時まで問い合わせに対応するとしています。\n",
+    "trimmedLead": "キリンホールディングス傘下でワインなどを手がけるメルシャンは、一部のワインに日本で使用が認められていない食品添加物が使用されていたとして、商品の自主回収を発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015053971000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015053971000",
+  "video": [],
+  "citation": [
+    {
+      "name": "ロッテ 一部ガム製品を自主回収 使用認められていない添加物",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015035871000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260126/K10015035871_2601261430_0126143528_01_03.jpg",
+      "datePublished": "2026-01-26T14:35:27+09:00"
+    },
+    {
+      "name": "高市首相 新年度予算案など年度内成立が必要 努力するよう指示",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053861000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260217/K10015053861_2602171147_0217120551_01_02.jpg",
+      "datePublished": "2026-02-17T19:21:27+09:00"
+    },
+    {
+      "name": "衆院副議長に中道 石井啓一氏選出へ 公明出身",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260217/K10015053851_2602171127_0217112908_01_02.jpg",
+      "datePublished": "2026-02-17T12:13:19+09:00"
+    },
+    {
+      "name": "株価 値下がり 半導体関連の銘柄を中心に売り注文が優勢",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053901000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260217/K10015053901_2602171544_0217160825_01_02.jpg",
+      "datePublished": "2026-02-17T16:03:48+09:00"
+    },
+    {
+      "name": "保護司殺害初公判 被告起訴内容認める 弁護士“責任能力争う”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053881000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260217/K10015053881_2602171152_0217131840_01_03.jpg",
+      "datePublished": "2026-02-17T13:18:39+09:00"
+    },
+    {
+      "name": "広島 東広島 殺人事件 警察 現場の住宅で詳しい状況調べる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260217/K10015053921_2602171208_0217130122_01_03.jpg",
+      "datePublished": "2026-02-17T19:13:10+09:00"
+    },
+    {
+      "name": "TOEICで替え玉受験か中国人再逮捕 小型マイクで集団不正疑いも",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053911000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260217/K10015053911_2602171158_0217122109_01_03.jpg",
+      "datePublished": "2026-02-17T12:21:08+09:00"
+    },
+    {
+      "name": "フィギュア ペア “りくりゅう” 金メダル 日本勢で初 五輪",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260217/K10015053671_2602170639_0217065801_01_02.jpg",
+      "datePublished": "2026-02-17T11:06:36+09:00"
+    },
+    {
+      "name": "“りくりゅう” 三浦選手を中高指導のコーチ「歴史が動いた」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260217/K10015053801_2602171256_0217130209_01_02.jpg",
+      "datePublished": "2026-02-17T18:35:22+09:00"
+    },
+    {
+      "name": "新種目 まさかの結末に… “これがスキージャンプ”【解説】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260217/K10015053711_2602171136_0217114422_01_02.jpg",
+      "datePublished": "2026-02-17T11:44:21+09:00"
+    },
+    {
+      "name": "スノボHP 金メダル戸塚らが帰国 “本当にうれしい”【動画も】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015053821000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260217/K10015053821_2602171258_0217132336_01_02.jpg",
+      "datePublished": "2026-02-17T16:57:12+09:00"
+    },
+    {
+      "name": "全競技・全種目配信！ミラノ・コルティナ2026オリンピック 特設ページ",
+      "url": "https://www.web.nhk/olympics/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30792241.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

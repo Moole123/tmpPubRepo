@@ -1,0 +1,162 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015112841000",
+  "dataSourceId": "na",
+  "name": "天皇ご一家 栃木の御料牧場で静養に",
+  "headline": "天皇ご一家 栃木の御料牧場で静養に",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015112841000",
+    "playlistId": "news-nwa-society-nationwide-20260501",
+    "newsarticleName": "天皇ご一家 栃木の御料牧場で静養に",
+    "playlistName": "5月1日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "天皇皇后両陛下と長女の愛子さまは1日、静養のため栃木県にある宮内庁の御料牧場を訪ねられました。\n\n\n天皇ご一家は午後4時半ごろ、栃木県高根沢町にある宮内庁の御料牧場に車で到着されました。\n\n牧場内の集",
+  "dateModified": "2026-05-01T18:15:27+09:00",
+  "datePublished": "2026-05-01T18:15:27+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260501/K10015112841_2605011806_0501181527_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260501/K10015112841_2605011806_0501181527_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0000527",
+      "name": "皇室",
+      "display": true
+    },
+    {
+      "id": "0002209",
+      "name": "栃木県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "天皇皇后両陛下と長女の愛子さまは1日、静養のため栃木県にある宮内庁の御料牧場を訪ねられました。\n\n\n天皇ご一家は午後4時半ごろ、栃木県高根沢町にある宮内庁の御料牧場に車で到着されました。\n\n牧場内の集",
+  "articleBody": "天皇皇后両陛下と長女の愛子さまは1日、静養のため栃木県にある宮内庁の御料牧場を訪ねられました。\n\n\n天皇ご一家は午後4時半ごろ、栃木県高根沢町にある宮内庁の御料牧場に車で到着されました。\n\n牧場内の集会所では栃木県の福田知事らが出迎え、天皇陛下は「楽しみにして来ました」と、皇后さまは「緑が鮮やかで」などとにこやかに話されていました。\n\nご一家は4月、東日本大震災の発生から15年にあたって福島県を訪れ、犠牲になった人たちを慰霊するとともに、原発事故で避難したあと帰還した人たちと懇談されました。\n\n両陛下は6月にはオランダとベルギーを公式訪問する方向で調整が進められていて、ご一家は御料牧場に数日間滞在し、ゆっくりと過ごされる見通しです。\n",
+  "detailedArticleBody": {
+    "markedLead": "天皇皇后両陛下と長女の愛子さまは1日、静養のため栃木県にある宮内庁の御料牧場を訪ねられました。\n",
+    "markedBody": "天皇ご一家は午後4時半ごろ、栃木県高根沢町にある宮内庁の御料牧場に車で到着されました。\n\n牧場内の集会所では栃木県の福田知事らが出迎え、天皇陛下は「楽しみにして来ました」と、皇后さまは「緑が鮮やかで」などとにこやかに話されていました。\n\nご一家は4月、東日本大震災の発生から15年にあたって福島県を訪れ、犠牲になった人たちを慰霊するとともに、原発事故で避難したあと帰還した人たちと懇談されました。\n\n両陛下は6月にはオランダとベルギーを公式訪問する方向で調整が進められていて、ご一家は御料牧場に数日間滞在し、ゆっくりと過ごされる見通しです。\n",
+    "trimmedLead": "天皇皇后両陛下と長女の愛子さまは1日、静養のため栃木県にある宮内庁の御料牧場を訪ねられました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015112841000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015112841000",
+  "video": [],
+  "citation": [
+    {
+      "name": "昭和100年記念式典 高市首相“果敢に挑戦し希望を生み出す”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015110971000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260429/K10015110971_2604291531_0429155623_01_02.jpg",
+      "datePublished": "2026-04-29T16:35:07+09:00"
+    },
+    {
+      "name": "東京 福生 “ハンマー”で殴り逃走 44歳容疑者を逮捕 警視庁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015112451000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260501/K10015112451_2605011744_0501191601_01_03.jpg",
+      "datePublished": "2026-05-01T19:21:27+09:00"
+    },
+    {
+      "name": "旭山動物園 遺体損壊事件 事件前に妻から警察に相談なし",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015112471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260501/K10015112471_2605011121_0501114755_01_02.jpg",
+      "datePublished": "2026-05-01T12:18:55+09:00"
+    },
+    {
+      "name": "2日は東北で暴風のおそれ 東北新幹線など運休や遅れの可能性",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015112291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260501/K10015112291_2605011929_0501193107_01_03.jpg",
+      "datePublished": "2026-05-01T19:19:35+09:00"
+    },
+    {
+      "name": "納豆や冷蔵ギョーザ販売休止の動き“資材の調達困難”など理由",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015112681000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260501/K10015112681_2605011601_0501160242_01_02.jpg",
+      "datePublished": "2026-05-01T16:02:41+09:00"
+    },
+    {
+      "name": "埼玉 八潮の道路陥没 当時の消防署長が過酷な状況を初めて語る",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015112671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260501/K10015112671_2605011538_0501154555_01_02.jpg",
+      "datePublished": "2026-05-01T15:45:54+09:00"
+    },
+    {
+      "name": "高市首相 ベトナム・オーストラリア訪問へ出発 協力確認へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015112651000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260501/K10015112651_2605011502_0501152641_01_02.jpg",
+      "datePublished": "2026-05-01T15:26:40+09:00"
+    },
+    {
+      "name": "政府・日銀が市場介入 30日夜に急激な円高の動き",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015112481000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260501/K10015112481_2605011144_0501115814_01_02.jpg",
+      "datePublished": "2026-05-01T11:58:13+09:00"
+    },
+    {
+      "name": "バンクシー新作の像 ロンドンに出現 “盲目的な愛国心”風刺か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015112711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260501/K10015112711_2605011643_0501170725_01_02.jpg",
+      "datePublished": "2026-05-01T17:07:24+09:00"
+    },
+    {
+      "name": "テニス 錦織圭が現役引退を発表 日本男子最高の世界4位を記録",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015112361000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260501/K10015112361_2605011203_0501120752_01_02.jpg",
+      "datePublished": "2026-05-01T18:53:31+09:00"
+    },
+    {
+      "name": "フィギュア 中井亜美が祝賀会で決意「より成長した姿を」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015112701000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260501/K10015112701_2605011649_0501171324_01_02.jpg",
+      "datePublished": "2026-05-01T17:13:23+09:00"
+    },
+    {
+      "name": "公式確認70年 終わらない水俣病",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015112541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260501/K10015112541_2605011157_0501133241_01_02.jpg",
+      "datePublished": "2026-05-01T13:32:40+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

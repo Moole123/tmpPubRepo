@@ -1,0 +1,167 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015139401000",
+  "dataSourceId": "na",
+  "name": "東京 品川区にレベル4大雨危険警報 浸水や氾濫に厳重な警戒",
+  "headline": "東京 品川区にレベル4大雨危険警報 浸水や氾濫に厳重な警戒",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015139401000",
+    "playlistId": "news-nwa-disaster-nationwide-20260603",
+    "newsarticleName": "東京 品川区にレベル4大雨危険警報 浸水や氾濫に厳重な警戒",
+    "playlistName": "6月3日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "気象庁は午前9時24分、東京 品川区にレベル4大雨危険警報を発表しました。\n\n低い土地の浸水や川の氾濫の危険性が非常に高くなっていて、厳重な警戒が必要です。\n\n気象庁は自治体からの避難の情報を確認し、",
+  "dateModified": "2026-06-03T09:35:42+09:00",
+  "datePublished": "2026-06-03T09:35:42+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260603/K10015139401_2606030934_0603093543_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260603/K10015139401_2606030934_0603093543_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002213",
+      "name": "東京都",
+      "display": true
+    },
+    {
+      "id": "0001345",
+      "name": "台風",
+      "display": true
+    },
+    {
+      "id": "0002617",
+      "name": "大雨情報",
+      "display": true
+    },
+    {
+      "id": "0000035",
+      "name": "気象",
+      "display": true
+    },
+    {
+      "id": "0002810",
+      "name": "新たな防災気象情報(2026）",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "気象庁は午前9時24分、東京 品川区にレベル4大雨危険警報を発表しました。\n\n低い土地の浸水や川の氾濫の危険性が非常に高くなっていて、厳重な警戒が必要です。\n\n気象庁は自治体からの避難の情報を確認し、",
+  "articleBody": "気象庁は午前9時24分、東京 品川区にレベル4大雨危険警報を発表しました。\n\n低い土地の浸水や川の氾濫の危険性が非常に高くなっていて、厳重な警戒が必要です。\n\n気象庁は自治体からの避難の情報を確認し、危険な場所にいる人は速やかに安全な場所に避難するよう呼びかけています。\n\n\n河川などの最新情報はニュース防災アプリで\n\n河川などの最新情報はニュース防災アプリで\n河川の水位データや河川カメラの画像を確認できます\n",
+  "detailedArticleBody": {
+    "markedLead": "気象庁は午前9時24分、東京 品川区にレベル4大雨危険警報を発表しました。\n\n低い土地の浸水や川の氾濫の危険性が非常に高くなっていて、厳重な警戒が必要です。\n\n気象庁は自治体からの避難の情報を確認し、危険な場所にいる人は速やかに安全な場所に避難するよう呼びかけています。\n",
+    "markedBody": ":::nw--link-type4 {href=https://www.nhk.or.jp/nhkone/service/app/news_bousai/}\n![河川などの最新情報はニュース防災アプリで](https://news.web.nhk/news/html/20260603/K10015139401_2606030941_0603094912_02_03.jpg)\n\n**河川などの最新情報はニュース防災アプリで**\\\n河川の水位データや河川カメラの画像を確認できます\n:::\n\n```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"002\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\r\n    <div class=\"fs-wrap\">\r\n      <h2 class=\"freespace-title\">雨雲レーダー</h2>\r\n\r\n      <a href=\"https://news.web.nhk/bousai-map/rain/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"tenkiBousaiMap-fullscreenBtn\">全画面でマップを見る</a>\r\n\r\n      <div class=\"tenkiBousaiMap-wrap\">\r\n        <iframe src=\"https://news.web.nhk/bousai-map/rain/?lat=36.3562&amp;lng=138.0922&amp;zoom=3.2&amp;mapMenu=off&amp;help=off&amp;hinan=off&amp;disableUserLocation=on\" allowfullscreen=\"allowfullscreen\" scrolling=\"no\" class=\"js-iframe-dataMap\"></iframe>\r\n      </div>\r\n    </div>\n</div>\n```\n",
+    "noHtmlMarkedLead": "気象庁は午前9時24分、東京 品川区にレベル4大雨危険警報を発表しました。\n\n低い土地の浸水や川の氾濫の危険性が非常に高くなっていて、厳重な警戒が必要です。\n\n気象庁は自治体からの避難の情報を確認し、危険な場所にいる人は速やかに安全な場所に避難するよう呼びかけています。\n",
+    "noHtmlMarkedBody": ":::nw--link-type4 {href=https://www.nhk.or.jp/nhkone/service/app/news_bousai/}\n![河川などの最新情報はニュース防災アプリで](https://news.web.nhk/news/html/20260603/K10015139401_2606030941_0603094912_02_03.jpg)\n\n**河川などの最新情報はニュース防災アプリで**\\\n河川の水位データや河川カメラの画像を確認できます\n:::\n",
+    "trimmedLead": "気象庁は午前9時24分、東京 品川区にレベル4大雨危険警報を発表しました。\n\n低い土地の浸水や川の氾濫の危険性が非常に高くなっていて、厳重な警戒が必要です。\n\n気象庁は自治体からの避難の情報を確認し、危険な場所にいる人は速やかに安全な場所に避難するよう呼びかけています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015139401000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015139401000",
+  "video": [],
+  "citation": [
+    {
+      "name": "新たな防災気象情報と避難 いつ避難する？",
+      "url": "https://news.web.nhk/newsweb/na/nc-73478668-2271-4d37-85e6-639be6f2927c",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31369801.jpg"
+    },
+    {
+      "name": "土砂災害 警戒や避難のポイントは？",
+      "url": "https://news.web.nhk/newsweb/na/nc-d921faff-fdcd-4223-b396-f948340c5c1c",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_19407491.jpg"
+    },
+    {
+      "name": "川の氾濫 警戒のポイントは？",
+      "url": "https://news.web.nhk/newsweb/na/nc-1c290155-b464-4391-95b8-2f9687fa1f25",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_19407469.jpg"
+    },
+    {
+      "name": "天気防災マップ ふだんの雨雲予想から災害時のリスク情報まで",
+      "url": "https://news.web.nhk/bousai-map/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037154.jpg"
+    },
+    {
+      "name": "災害に遭う前に ハザードマップで危険を知る",
+      "url": "https://news.web.nhk/newsweb/na/nc-0c2dd9e1-562b-4711-a450-663274ad5d6c",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_19407434.jpg"
+    },
+    {
+      "name": "【最新の避難情報】こちらから地域別でご覧になれます",
+      "url": "https://news.web.nhk/kishou-saigai/evacuation/",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30044177.jpg"
+    },
+    {
+      "name": "【最新の河川情報】こちらから一覧でご覧になれます",
+      "url": "https://news.web.nhk/kishou-saigai/river/",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30044093.jpg"
+    },
+    {
+      "name": "【気象警報・注意報】各地の発表状況を詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/warning/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30060699.jpg"
+    },
+    {
+      "name": "線状降水帯とは？情報が出たらどうする？",
+      "url": "https://news.web.nhk/newsweb/na/nc-5092b435-f5e7-4767-a457-1c7aac190df9",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31369309.jpg"
+    },
+    {
+      "name": "「記録的短時間大雨」とは? どう身を守る?",
+      "url": "https://news.web.nhk/newsweb/na/nc-2cb59e60-dc2e-4535-a3f0-9c825e2e34a8",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31369867.jpg"
+    },
+    {
+      "name": "「命を守る行動を！」特別警報に緊急安全確保…どうすれば",
+      "url": "https://news.web.nhk/newsweb/na/nc-4206e8be-3c01-4ef5-943c-c5f2d8c343ae",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_19407519.jpg"
+    },
+    {
+      "name": "天気防災サイト あなたの街の天気予報や災害情報を即時提供",
+      "url": "https://news.web.nhk/kishou-saigai/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037196.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": true
+  }
+}

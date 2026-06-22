@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014800011000",
+  "dataSourceId": "na",
+  "name": "「母の日」前にカーネーションの出荷が最盛期 佐賀 みやき町",
+  "headline": "「母の日」前にカーネーションの出荷が最盛期 佐賀 みやき町",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014800011000",
+    "playlistId": "news-nwa-life-nationwide-20250509",
+    "newsarticleName": "「母の日」前にカーネーションの出荷が最盛期 佐賀 みやき町",
+    "playlistName": "5月9日の暮らしニュース",
+    "genreId": "life",
+    "genreIdSlug": "life"
+  },
+  "description": "今月11日の「母の日」を前に、佐賀県みやき町の農家ではカーネーションの出荷が最盛期を迎えています。\n\n\nみやき町の原康裕さん（68）の農業用ハウスでは、今月11日の「母の日」に向けてカーネーションの出",
+  "dateModified": "2025-05-09T04:24:13+09:00",
+  "datePublished": "2025-05-09T04:24:13+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250509/K10014800011_2505082050_0508212938_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250509/K10014800011_2505082050_0508212938_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "暮らし"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "今月11日の「母の日」を前に、佐賀県みやき町の農家ではカーネーションの出荷が最盛期を迎えています。\n\n\nみやき町の原康裕さん（68）の農業用ハウスでは、今月11日の「母の日」に向けてカーネーションの出",
+  "articleBody": "今月11日の「母の日」を前に、佐賀県みやき町の農家ではカーネーションの出荷が最盛期を迎えています。\n\n\nみやき町の原康裕さん（68）の農業用ハウスでは、今月11日の「母の日」に向けてカーネーションの出荷が最盛期を迎えています。\n\n原さんはおよそ20種類のカーネーションを栽培していて、ハウスの中では妻のみどりさんと長男の庸哲さんとともに、赤やピンク、白などの色鮮やかな花を一本一本、丁寧に切り取っていました。\n\n原さんによりますと、ことしのカーネーションの花の色は申し分ないということです。\n\n原さんは「皆さんの好みの色の花を、お母さんに感謝の気持ちを込めて、1輪でも2輪でも贈っていただけるとありがたいです」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "今月11日の「母の日」を前に、佐賀県みやき町の農家ではカーネーションの出荷が最盛期を迎えています。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20250509/K10014800011_2505082050_0508212938_02_03.jpg)\n\nみやき町の原康裕さん（68）の農業用ハウスでは、今月11日の「母の日」に向けてカーネーションの出荷が最盛期を迎えています。\n\n原さんはおよそ20種類のカーネーションを栽培していて、ハウスの中では妻のみどりさんと長男の庸哲さんとともに、赤やピンク、白などの色鮮やかな花を一本一本、丁寧に切り取っていました。\n\n原さんによりますと、ことしのカーネーションの花の色は申し分ないということです。\n\n原さんは「皆さんの好みの色の花を、お母さんに感謝の気持ちを込めて、1輪でも2輪でも贈っていただけるとありがたいです」と話していました。\n\n![](https://news.web.nhk/news/html/20250509/K10014800011_2505082050_0508212938_02_04.jpg)\n",
+    "trimmedLead": "今月11日の「母の日」を前に、佐賀県みやき町の農家ではカーネーションの出荷が最盛期を迎えています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014800011000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014800011000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

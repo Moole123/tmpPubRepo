@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015056901000",
+  "dataSourceId": "na",
+  "name": "株価 値下がり イラン情勢めぐる地政学リスクで投資控える動き",
+  "headline": "株価 値下がり イラン情勢めぐる地政学リスクで投資控える動き",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015056901000",
+    "playlistId": "news-nwa-business-nationwide-20260220",
+    "newsarticleName": "株価 値下がり イラン情勢めぐる地政学リスクで投資控える動き",
+    "playlistName": "2月20日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "20日の東京株式市場、イラン情勢をめぐる地政学リスクの高まりから積極的な投資を控えようという動きが出て、日経平均株価は値下がりしています。\n\n\n▽日経平均株価、午前の終値は前日の終値と比べて741円1",
+  "dateModified": "2026-02-20T12:45:14+09:00",
+  "datePublished": "2026-02-20T12:45:14+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260220/K10015056901_2602201146_0220124515_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260220/K10015056901_2602201146_0220124515_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0001597",
+      "name": "イラン",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "20日の東京株式市場、イラン情勢をめぐる地政学リスクの高まりから積極的な投資を控えようという動きが出て、日経平均株価は値下がりしています。\n\n\n▽日経平均株価、午前の終値は前日の終値と比べて741円1",
+  "articleBody": "20日の東京株式市場、イラン情勢をめぐる地政学リスクの高まりから積極的な投資を控えようという動きが出て、日経平均株価は値下がりしています。\n\n\n▽日経平均株価、午前の終値は前日の終値と比べて741円10銭安い5万6726円73銭。\n\n▽東証株価指数＝トピックスは54.29下がって3797.80。\n\n▽午前の出来高は12億2031万株でした。\n\n市場関係者は「アメリカのトランプ大統領がイランとの間で核開発をめぐる協議を進めているが、一部のメディアでイランに対して近く攻撃に踏み切る可能性が報じられるなど、投資家の間で地政学リスクに対する警戒感が高まっている。このため積極的な投資を控えようと売り注文が優勢になっている」話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "20日の東京株式市場、イラン情勢をめぐる地政学リスクの高まりから積極的な投資を控えようという動きが出て、日経平均株価は値下がりしています。\n",
+    "markedBody": "▽日経平均株価、午前の終値は前日の終値と比べて741円10銭安い5万6726円73銭。\n\n▽東証株価指数＝トピックスは54.29下がって3797.80。\n\n▽午前の出来高は12億2031万株でした。\n\n市場関係者は「アメリカのトランプ大統領がイランとの間で核開発をめぐる協議を進めているが、一部のメディアでイランに対して近く攻撃に踏み切る可能性が報じられるなど、投資家の間で地政学リスクに対する警戒感が高まっている。このため積極的な投資を控えようと売り注文が優勢になっている」話しています。\n",
+    "trimmedLead": "20日の東京株式市場、イラン情勢をめぐる地政学リスクの高まりから積極的な投資を控えようという動きが出て、日経平均株価は値下がりしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015056901000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015056901000",
+  "video": [],
+  "citation": [
+    {
+      "name": "政府 122兆3000億円余の新年度予算案 国会に提出 総額過去最大",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015056811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260220/K10015056811_2602201121_0220115251_01_02.jpg",
+      "datePublished": "2026-02-20T12:51:52+09:00"
+    },
+    {
+      "name": "1月 消費者物価指数 去年同月比2％上昇 上昇率は前月より縮小",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015056741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260220/K10015056741_2602200843_0220085128_01_02.jpg",
+      "datePublished": "2026-02-20T11:25:10+09:00"
+    },
+    {
+      "name": "2029年度の財政状況の試算 「国債費」41兆3000億円に 財務省",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015056421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260220/K10015056421_2602192013_0220043730_01_02.jpg",
+      "datePublished": "2026-02-20T04:37:29+09:00"
+    },
+    {
+      "name": "“イランに限定的攻撃の実施検討”米報道 イランは国連に書簡",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015056541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260220/K10015056541_2602200551_0220060206_01_02.jpg",
+      "datePublished": "2026-02-20T13:32:19+09:00"
+    },
+    {
+      "name": "震度5強地震で被害 鳥取 境港市を「局地激甚災害」に指定 政府",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015056821000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260220/K10015056821_2602201128_0220114749_01_02.jpg",
+      "datePublished": "2026-02-20T11:47:49+09:00"
+    },
+    {
+      "name": "神奈川県警 不正な交通違反取締り 反則金約3500万円返還へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015056801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260220/K10015056801_2602201134_0220114317_01_02.jpg",
+      "datePublished": "2026-02-20T12:08:26+09:00"
+    },
+    {
+      "name": "高市首相 施政方針演説で政権公約の実現に取り組む姿勢強調へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015056501000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260220/K10015056501_2602192245_0220051240_01_02.jpg",
+      "datePublished": "2026-02-20T11:05:50+09:00"
+    },
+    {
+      "name": "【きょうのおはBiz 2月20日(金)】イオン子会社 非正規賃上げへ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015056781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260220/K10015056781_2602201020_0220105532_01_02.jpg",
+      "datePublished": "2026-02-20T10:55:31+09:00"
+    },
+    {
+      "name": "カプセルトイ展開の北海道の会社社長 盗撮の疑いで書類送検",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015056771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260220/K10015056771_2602201013_0220104604_01_03.jpg",
+      "datePublished": "2026-02-20T10:46:04+09:00"
+    },
+    {
+      "name": "北朝鮮で党大会始まる 核・ミサイル開発や対米関係など焦点",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015056751000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260220/K10015056751_2602200956_0220102702_01_03.jpg",
+      "datePublished": "2026-02-20T10:27:01+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

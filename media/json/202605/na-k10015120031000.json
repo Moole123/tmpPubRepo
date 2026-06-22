@@ -1,0 +1,138 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015120031000",
+  "dataSourceId": "na",
+  "name": "ハンタウイルス クルーズ船の感染確認9人に WHO",
+  "headline": "ハンタウイルス クルーズ船の感染確認9人に WHO",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015120031000",
+    "playlistId": "news-nwa-international-nationwide-20260512",
+    "newsarticleName": "ハンタウイルス クルーズ船の感染確認9人に WHO",
+    "playlistName": "5月12日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "ハンタウイルスの集団感染が疑われているクルーズ船をめぐり、WHO＝世界保健機関は、新たに2人の感染が確認され、感染者が9人になったと発表しました。WHOは今後、感染者と接触した乗客などで新たな感染が確",
+  "dateModified": "2026-05-12T23:16:30+09:00",
+  "datePublished": "2026-05-12T23:16:30+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260512/K10015120031_2605122255_0512231631_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260512/K10015120031_2605122255_0512231631_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0002807",
+      "name": "ハンタウイルス",
+      "display": true
+    },
+    {
+      "id": "0002340",
+      "name": "WHO",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ハンタウイルスの集団感染が疑われているクルーズ船をめぐり、WHO＝世界保健機関は、新たに2人の感染が確認され、感染者が9人になったと発表しました。WHOは今後、感染者と接触した乗客などで新たな感染が確",
+  "articleBody": "ハンタウイルスの集団感染が疑われているクルーズ船をめぐり、WHO＝世界保健機関は、新たに2人の感染が確認され、感染者が9人になったと発表しました。WHOは今後、感染者と接触した乗客などで新たな感染が確認される可能性があるとする一方、「大規模な感染拡大の兆候は見られない」としています。\n\n\nWHOのテドロス事務局長は12日、会見を開き、ハンタウイルスの集団感染が疑われているクルーズ船をめぐって、感染が確認された人が前日から2人増えて9人になったと発表しました。\n\n感染の疑いがある人と合わせた11人は、いずれもクルーズ船の乗員や乗客だということです。\n\nまた、テドロス事務局長は、感染が確認されたのはすべて、ハンタウイルスのタイプの1つ、「アンデスウイルス」で、潜伏期間が最大で6週間程度と長いことから感染者と接触した乗客などで、今後、数週間は新たな感染が確認される可能性があると説明しました。\n\n一方、下船した乗客の健康状態などは追跡できているとして、テドロス事務局長は「現時点では、大規模な感染拡大の兆候は見られない」と強調しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "ハンタウイルスの集団感染が疑われているクルーズ船をめぐり、WHO＝世界保健機関は、新たに2人の感染が確認され、感染者が9人になったと発表しました。WHOは今後、感染者と接触した乗客などで新たな感染が確認される可能性があるとする一方、「大規模な感染拡大の兆候は見られない」としています。\n",
+    "markedBody": "WHOのテドロス事務局長は12日、会見を開き、ハンタウイルスの集団感染が疑われているクルーズ船をめぐって、感染が確認された人が前日から2人増えて9人になったと発表しました。\n\n感染の疑いがある人と合わせた11人は、いずれもクルーズ船の乗員や乗客だということです。\n\nまた、テドロス事務局長は、感染が確認されたのはすべて、ハンタウイルスのタイプの1つ、「アンデスウイルス」で、潜伏期間が最大で6週間程度と長いことから感染者と接触した乗客などで、今後、数週間は新たな感染が確認される可能性があると説明しました。\n\n一方、下船した乗客の健康状態などは追跡できているとして、テドロス事務局長は「現時点では、大規模な感染拡大の兆候は見られない」と強調しています。\n",
+    "trimmedLead": "ハンタウイルスの集団感染が疑われているクルーズ船をめぐり、WHO＝世界保健機関は、新たに2人の感染が確認され、感染者が9人になったと発表しました。WHOは今後、感染者と接触した乗客などで新たな感染が確認される可能性があるとする一方、「大規模な感染拡大の兆候は見られない」としています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015120031000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015120031000",
+  "video": [],
+  "citation": [
+    {
+      "name": "ハンタウイルス “全乗員・乗客に42日間の隔離を推奨” WHO",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015118901000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260512/K10015118901_2605120443_0512050405_01_02.jpg",
+      "datePublished": "2026-05-12T14:48:29+09:00"
+    },
+    {
+      "name": "高市首相 原油代替調達”来月7割以上確保”今月は備蓄放出せず",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119701000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260512/K10015119701_2605121938_0512195832_01_02.jpg",
+      "datePublished": "2026-05-12T22:36:50+09:00"
+    },
+    {
+      "name": "米消費者物価指数 去年同月比3.8％上昇 2年11か月ぶりの高水準",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119881000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260512/K10015119881_2605122153_0512215746_01_02.jpg",
+      "datePublished": "2026-05-12T23:41:00+09:00"
+    },
+    {
+      "name": "南海トラフ地震 定例評価検討会「特段の変化観測されず」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119761000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260512/K10015119761_2605122023_0512204539_01_02.jpg",
+      "datePublished": "2026-05-12T20:45:38+09:00"
+    },
+    {
+      "name": "西日本シティ銀 不適切投稿受け 私用スマホ持ち込み禁止に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260512/K10015119781_2605122029_0512204419_01_02.jpg",
+      "datePublished": "2026-05-12T20:44:19+09:00"
+    },
+    {
+      "name": "高性能AIモデルによるサイバー攻撃リスク対応を指示 高市首相",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119281000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260512/K10015119281_2605121320_0512133648_01_03.jpg",
+      "datePublished": "2026-05-12T20:40:57+09:00"
+    },
+    {
+      "name": "出光興産トップ “原油調達 今の状況で続けていける感触”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260512/K10015119691_2605121933_0512200004_01_02.jpg",
+      "datePublished": "2026-05-12T20:00:04+09:00"
+    },
+    {
+      "name": "パナソニックHD 昨年度決算は大幅減益 構造改革費用膨らみ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015119641000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260512/K10015119641_2605121916_0512192329_01_02.jpg",
+      "datePublished": "2026-05-12T19:23:28+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

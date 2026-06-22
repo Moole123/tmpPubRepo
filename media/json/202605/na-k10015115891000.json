@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015115891000",
+  "dataSourceId": "na",
+  "name": "岩手 八幡平 山林に意識ない女性 山菜採り中クマに襲われたか",
+  "headline": "岩手 八幡平 山林に意識ない女性 山菜採り中クマに襲われたか",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015115891000",
+    "playlistId": "news-nwa-society-nationwide-20260507",
+    "newsarticleName": "岩手 八幡平 山林に意識ない女性 山菜採り中クマに襲われたか",
+    "playlistName": "5月7日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "7日午前、岩手県八幡平市の山林で女性が意識のない状態で倒れているのが見つかりました。体には動物の爪によるものとみられる傷があり、警察はクマに襲われた可能性があるとみて調べています。\n\n\n警察によります",
+  "dateModified": "2026-05-07T13:40:52+09:00",
+  "datePublished": "2026-05-07T13:40:52+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260507/K10015115891_2605071239_0507134053_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260507/K10015115891_2605071239_0507134053_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002515",
+      "name": "クマ被害",
+      "display": true
+    },
+    {
+      "id": "0002203",
+      "name": "岩手県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "7日午前、岩手県八幡平市の山林で女性が意識のない状態で倒れているのが見つかりました。体には動物の爪によるものとみられる傷があり、警察はクマに襲われた可能性があるとみて調べています。\n\n\n警察によります",
+  "articleBody": "7日午前、岩手県八幡平市の山林で女性が意識のない状態で倒れているのが見つかりました。体には動物の爪によるものとみられる傷があり、警察はクマに襲われた可能性があるとみて調べています。\n\n\n警察によりますと、岩手県八幡平市に住む60代の女性が6日から山菜採りに出かけたまま行方がわからなくなり、警察と消防などが、7日午前7時ごろから女性の車が止まっていた八幡平市西根の山林を捜索していました。\n\nそして、午前8時すぎ、車から数百メートルほど離れた場所で、女性が倒れているのが見つかりました。\n\n警察によりますと、女性は意識のない状態で、体には動物の爪によるものとみられる傷があったということです。\n\n警察は女性がクマに襲われた可能性があるとみて詳しく調べるとともに、倒れていたのは行方がわからなくなっている女性とみて確認を急いでいます。\n",
+  "detailedArticleBody": {
+    "markedLead": "7日午前、岩手県八幡平市の山林で女性が意識のない状態で倒れているのが見つかりました。体には動物の爪によるものとみられる傷があり、警察はクマに襲われた可能性があるとみて調べています。\n",
+    "markedBody": "警察によりますと、岩手県八幡平市に住む60代の女性が6日から山菜採りに出かけたまま行方がわからなくなり、警察と消防などが、7日午前7時ごろから女性の車が止まっていた八幡平市西根の山林を捜索していました。\n\nそして、午前8時すぎ、車から数百メートルほど離れた場所で、女性が倒れているのが見つかりました。\n\n警察によりますと、女性は意識のない状態で、体には動物の爪によるものとみられる傷があったということです。\n\n警察は女性がクマに襲われた可能性があるとみて詳しく調べるとともに、倒れていたのは行方がわからなくなっている女性とみて確認を急いでいます。\n",
+    "trimmedLead": "7日午前、岩手県八幡平市の山林で女性が意識のない状態で倒れているのが見つかりました。体には動物の爪によるものとみられる傷があり、警察はクマに襲われた可能性があるとみて調べています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015115891000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015115891000",
+  "video": [],
+  "citation": [
+    {
+      "name": "青森 八戸 商業施設や住宅建ち並ぶ地域にクマ 緊急銃猟で駆除",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115601000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260506/K10015115601_2605062251_0506230650_01_02.jpg",
+      "datePublished": "2026-05-06T23:06:49+09:00"
+    },
+    {
+      "name": "秋田 由利本荘 クマに襲われ40代男性けが 田んぼの見回り中",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015114841000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260505/K10015114841_2605051251_0505130026_01_02.jpg",
+      "datePublished": "2026-05-05T14:32:39+09:00"
+    },
+    {
+      "name": "岩手 大槌町の新たな山林火災 ほぼ消し止められる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115561000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015115561_2605071042_0507104335_01_02.jpg",
+      "datePublished": "2026-05-07T12:50:00+09:00"
+    },
+    {
+      "name": "磐越道 高校生死亡の事故 生徒は後部座席から投げ出されたか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115761000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015115761_2605071112_0507120236_01_02.jpg",
+      "datePublished": "2026-05-07T12:53:16+09:00"
+    },
+    {
+      "name": "各地で気温25度以上の夏日に 水分補給など体調管理に注意",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115861000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015115861_2605071223_0507123633_01_03.jpg",
+      "datePublished": "2026-05-07T12:36:32+09:00"
+    },
+    {
+      "name": "エプスタイン問題 ラトニック商務長官が議会で証言 現職閣僚初",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115831000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015115831_2605071152_0507122701_01_02.jpg",
+      "datePublished": "2026-05-07T12:27:00+09:00"
+    },
+    {
+      "name": "北朝鮮国連大使“NPTに拘束されない” 核開発の推進を強調",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115821000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015115821_2605071216_0507122307_01_03.jpg",
+      "datePublished": "2026-05-07T12:23:06+09:00"
+    },
+    {
+      "name": "米ベッセント財務長官 米中首脳会談前に訪日へ 高市首相と会談",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115841000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015115841_2605071211_0507122120_01_02.jpg",
+      "datePublished": "2026-05-07T12:21:19+09:00"
+    },
+    {
+      "name": "株価 取引時間中初めて6万3000円台 上昇幅は3400円超 過去最大",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015115711_2605071358_0507140907_01_02.jpg",
+      "datePublished": "2026-05-07T14:09:06+09:00"
+    },
+    {
+      "name": "“米の提案にイラン側が7日に回答の見通し”報道 進展は不透明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115511000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015115511_2605070621_0507063255_01_02.jpg",
+      "datePublished": "2026-05-07T11:47:17+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

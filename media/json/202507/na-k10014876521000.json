@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014876521000",
+  "dataSourceId": "na",
+  "name": "ドイツ南西部で列車が脱線 少なくとも3人死亡 複数けが",
+  "headline": "ドイツ南西部で列車が脱線 少なくとも3人死亡 複数けが",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014876521000",
+    "playlistId": "news-nwa-international-nationwide-20250728",
+    "newsarticleName": "ドイツ南西部で列車が脱線 少なくとも3人死亡 複数けが",
+    "playlistName": "7月28日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "ドイツ南西部で列車が脱線し、少なくとも3人が死亡し、複数がけがをしました。\n\n\nドイツ南西部のバーデン・ビュルテンベルク州で27日夕方、日本時間の28日未明、列車が脱線しました。\n\n警察によりますと、",
+  "dateModified": "2025-07-28T08:40:44+09:00",
+  "datePublished": "2025-07-28T08:40:44+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-640x360.png",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "ドイツ南西部で列車が脱線し、少なくとも3人が死亡し、複数がけがをしました。\n\n\nドイツ南西部のバーデン・ビュルテンベルク州で27日夕方、日本時間の28日未明、列車が脱線しました。\n\n警察によりますと、",
+  "articleBody": "ドイツ南西部で列車が脱線し、少なくとも3人が死亡し、複数がけがをしました。\n\n\nドイツ南西部のバーデン・ビュルテンベルク州で27日夕方、日本時間の28日未明、列車が脱線しました。\n\n警察によりますと、脱線した列車にはおよそ100人の乗客がいたとみられ、これまでに3人が死亡し、複数がけがをしたということです。\n\n地元メディアは消防の話として、けが人はおよそ50人に上ると伝えています。\n\n脱線の原因は調査中だということですが、当時、現場の周辺では局地的に大雨が降り、土砂崩れが発生したことが事故につながったとみられるということです。\n\n現地からの映像では、脱線した一部の車両が横倒しになっていて、現場に駆けつけた大勢の救助隊員が車両のドアから脚立を入れるなどして、救助に当たっている様子が確認できます。\n\nドイツのメルツ首相は、27日、SNSに「事故に衝撃を受けている。内相や運輸相に対し、救助隊を可能なかぎり支援するよう要請した」と書き込み、対応に全力を尽くす考えを強調しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "ドイツ南西部で列車が脱線し、少なくとも3人が死亡し、複数がけがをしました。\n",
+    "markedBody": "ドイツ南西部のバーデン・ビュルテンベルク州で27日夕方、日本時間の28日未明、列車が脱線しました。\n\n警察によりますと、脱線した列車にはおよそ100人の乗客がいたとみられ、これまでに3人が死亡し、複数がけがをしたということです。\n\n地元メディアは消防の話として、けが人はおよそ50人に上ると伝えています。\n\n脱線の原因は調査中だということですが、当時、現場の周辺では局地的に大雨が降り、土砂崩れが発生したことが事故につながったとみられるということです。\n\n現地からの映像では、脱線した一部の車両が横倒しになっていて、現場に駆けつけた大勢の救助隊員が車両のドアから脚立を入れるなどして、救助に当たっている様子が確認できます。\n\nドイツのメルツ首相は、27日、SNSに「事故に衝撃を受けている。内相や運輸相に対し、救助隊を可能なかぎり支援するよう要請した」と書き込み、対応に全力を尽くす考えを強調しました。\n",
+    "trimmedLead": "ドイツ南西部で列車が脱線し、少なくとも3人が死亡し、複数がけがをしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014876521000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014876521000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": false,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

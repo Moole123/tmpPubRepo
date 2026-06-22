@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015012161000",
+  "dataSourceId": "na",
+  "name": "トルコで小型ジェット機が墜落 乗っていたリビア軍幹部ら死亡",
+  "headline": "トルコで小型ジェット機が墜落 乗っていたリビア軍幹部ら死亡",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015012161000",
+    "playlistId": "news-nwa-international-nationwide-20251224",
+    "newsarticleName": "トルコで小型ジェット機が墜落 乗っていたリビア軍幹部ら死亡",
+    "playlistName": "12月24日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "トルコの首都アンカラ近郊で、23日、小型のジェット機が離陸後に墜落し、乗っていた北アフリカのリビアの軍幹部らが死亡しました。\n\n\nトルコのイェルリカヤ内相はSNSで、23日夜、首都アンカラの空港から北",
+  "dateModified": "2025-12-24T09:49:09+09:00",
+  "datePublished": "2025-12-24T09:49:09+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251224/K10015012161_2512240938_1224094910_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251224/K10015012161_2512240938_1224094910_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "トルコの首都アンカラ近郊で、23日、小型のジェット機が離陸後に墜落し、乗っていた北アフリカのリビアの軍幹部らが死亡しました。\n\n\nトルコのイェルリカヤ内相はSNSで、23日夜、首都アンカラの空港から北",
+  "articleBody": "トルコの首都アンカラ近郊で、23日、小型のジェット機が離陸後に墜落し、乗っていた北アフリカのリビアの軍幹部らが死亡しました。\n\n\nトルコのイェルリカヤ内相はSNSで、23日夜、首都アンカラの空港から北アフリカのリビアに向けて飛び立った小型のジェット機との連絡が途絶え、その後、アンカラ近郊で機体の残骸が見つかったと発表しました。\n\nこのジェット機にはトルコを訪れていたリビア軍の参謀総長ら5人が乗っていたとしていて、リビアの暫定政府は、参謀総長らが死亡したと発表しました。\n\nトルコのメディアは機体の残骸とみられるものが地上に散乱している様子を伝えています。\n\nリビアの暫定政府は、ジェット機が離陸直後に機械の不具合で墜落したとしていて、トルコの当局が詳しい状況などを調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "トルコの首都アンカラ近郊で、23日、小型のジェット機が離陸後に墜落し、乗っていた北アフリカのリビアの軍幹部らが死亡しました。\n",
+    "markedBody": "トルコのイェルリカヤ内相はSNSで、23日夜、首都アンカラの空港から北アフリカのリビアに向けて飛び立った小型のジェット機との連絡が途絶え、その後、アンカラ近郊で機体の残骸が見つかったと発表しました。\n\nこのジェット機にはトルコを訪れていたリビア軍の参謀総長ら5人が乗っていたとしていて、リビアの暫定政府は、参謀総長らが死亡したと発表しました。\n\nトルコのメディアは機体の残骸とみられるものが地上に散乱している様子を伝えています。\n\nリビアの暫定政府は、ジェット機が離陸直後に機械の不具合で墜落したとしていて、トルコの当局が詳しい状況などを調べています。\n",
+    "trimmedLead": "トルコの首都アンカラ近郊で、23日、小型のジェット機が離陸後に墜落し、乗っていた北アフリカのリビアの軍幹部らが死亡しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015012161000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015012161000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015090281000",
+  "dataSourceId": "na",
+  "name": "FIFA 最新男子世界ランキング 日本は18位 順位を1つ上げる",
+  "headline": "FIFA 最新男子世界ランキング 日本は18位 順位を1つ上げる",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015090281000",
+    "playlistId": "news-nwa-sports-nationwide-20260402",
+    "newsarticleName": "FIFA 最新男子世界ランキング 日本は18位 順位を1つ上げる",
+    "playlistName": "4月2日のスポーツニュース",
+    "genreId": "sports",
+    "genreIdSlug": "sports"
+  },
+  "description": "FIFA＝国際サッカー連盟は1日、最新の男子の世界ランキングを発表し、イギリスで行われた強化試合で2連勝した日本は前回から順位を1つ上げて18位となりました。\n\n\n日本はことし6月からアメリカ、カナダ",
+  "dateModified": "2026-04-02T00:42:33+09:00",
+  "datePublished": "2026-04-02T00:42:33+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/r/html/20260402/K10015090281_2604012348_0402004233_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/r/html/20260402/K10015090281_2604012348_0402004233_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "スポーツ"
+  ],
+  "topic": [
+    {
+      "id": "0000002",
+      "name": "サッカー",
+      "display": true
+    },
+    {
+      "id": "0002442",
+      "name": "サッカー日本代表",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "FIFA＝国際サッカー連盟は1日、最新の男子の世界ランキングを発表し、イギリスで行われた強化試合で2連勝した日本は前回から順位を1つ上げて18位となりました。\n\n\n日本はことし6月からアメリカ、カナダ",
+  "articleBody": "FIFA＝国際サッカー連盟は1日、最新の男子の世界ランキングを発表し、イギリスで行われた強化試合で2連勝した日本は前回から順位を1つ上げて18位となりました。\n\n\n日本はことし6月からアメリカ、カナダ、メキシコの3か国の共催で開かれるワールドカップを見据えて、先月下旬からイギリスに遠征し、スコットランドや強豪のイングランドと強化試合を行いました。\n\nこの試合をいずれも1対0で勝ち、2連勝で遠征を終えた日本は1日に発表された最新の世界ランキングで前回から順位を1つ上げて18位となりました。\n\n日本がワールドカップの1次リーグで対戦する3チームのうちオランダは7位、チュニジアは44位、スウェーデンは38位となっています。\n\n1位はフランス 約7年半ぶり\n\n上位ではフランスが2018年9月以来およそ7年半ぶりに1位となり、2位がスペイン、3位がアルゼンチン、4位がイングランド、5位がポルトガル、6位がブラジル、7位がオランダ、8位がモロッコ、9位がベルギー、10位がドイツとなっています。\n",
+  "detailedArticleBody": {
+    "markedLead": "FIFA＝国際サッカー連盟は1日、最新の男子の世界ランキングを発表し、イギリスで行われた強化試合で2連勝した日本は前回から順位を1つ上げて18位となりました。\n",
+    "markedBody": "日本はことし6月からアメリカ、カナダ、メキシコの3か国の共催で開かれるワールドカップを見据えて、先月下旬からイギリスに遠征し、スコットランドや強豪のイングランドと強化試合を行いました。\n\nこの試合をいずれも1対0で勝ち、2連勝で遠征を終えた日本は1日に発表された最新の世界ランキングで前回から順位を1つ上げて18位となりました。\n\n日本がワールドカップの1次リーグで対戦する3チームのうちオランダは7位、チュニジアは44位、スウェーデンは38位となっています。\n\n### 1位はフランス 約7年半ぶり\n\n上位ではフランスが2018年9月以来およそ7年半ぶりに1位となり、2位がスペイン、3位がアルゼンチン、4位がイングランド、5位がポルトガル、6位がブラジル、7位がオランダ、8位がモロッコ、9位がベルギー、10位がドイツとなっています。\n",
+    "trimmedLead": "FIFA＝国際サッカー連盟は1日、最新の男子の世界ランキングを発表し、イギリスで行われた強化試合で2連勝した日本は前回から順位を1つ上げて18位となりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015090281000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015090281000",
+  "video": [],
+  "citation": [
+    {
+      "name": "サッカーW杯 日本の1次リーグ第3戦 相手はスウェーデンに決定",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015089411000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260401/K10015089411_2604010622_0401064055_01_02.jpg",
+      "datePublished": "2026-04-01T20:12:39+09:00"
+    },
+    {
+      "name": "サッカー日本代表 強化試合でイングランドに勝利",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015088781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260401/K10015088781_2604010723_0401072522_01_02.jpg",
+      "datePublished": "2026-04-01T14:51:11+09:00"
+    },
+    {
+      "name": "サッカーW杯 優勝4回のイタリアが3大会連続で出場逃す",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015089511000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260401/K10015089511_2604010955_0401113150_01_02.jpg",
+      "datePublished": "2026-04-01T20:21:03+09:00"
+    },
+    {
+      "name": "Jリーグ特別大会 J1第11節 ヴィッセル神戸が勝ち点伸ばし19に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015090241000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260401/K10015090241_2604012235_0401224554_01_02.jpg",
+      "datePublished": "2026-04-01T22:45:53+09:00"
+    },
+    {
+      "name": "NBA レイカーズ 八村塁 途中出場で14得点 チーム4連勝に貢献",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015090091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260401/K10015090091_2604011804_0401183259_01_02.jpg",
+      "datePublished": "2026-04-01T18:32:58+09:00"
+    },
+    {
+      "name": "【プロ野球結果】ソフトバンク開幕5連勝 試合のニュース動画も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015090071000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260401/K10015090071_2604011752_0401221019_01_02.jpg",
+      "datePublished": "2026-04-01T22:10:18+09:00"
+    },
+    {
+      "name": "ドジャース 大谷翔平 今季初の二刀流 6回無失点の好投で初勝利",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015089721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260401/K10015089721_2604011326_0401140537_01_02.jpg",
+      "datePublished": "2026-04-01T18:19:43+09:00"
+    },
+    {
+      "name": "センバツ大阪桐蔭が優勝 4年ぶり5回目 春夏通算10回目【詳報】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015087691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260331/K10015087691_2603311600_0331161056_01_02.jpg",
+      "datePublished": "2026-03-31T21:11:02+09:00"
+    },
+    {
+      "name": "高校野球 新時代の模索～指名打者制の初導入 ひぼう中傷対策",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015088741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260331/K10015088741_2603312055_0331233644_01_02.jpg",
+      "datePublished": "2026-03-31T23:36:43+09:00"
+    },
+    {
+      "name": "全日空と日本航空 燃油サーチャージ 6月発券分から最大約2倍に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015089741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260401/K10015089741_2604011233_0401135253_01_03.jpg",
+      "datePublished": "2026-04-01T18:54:39+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": false,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": true,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

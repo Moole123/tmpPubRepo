@@ -1,0 +1,144 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015102311000",
+  "dataSourceId": "na",
+  "name": "去年の「孤立死」 推計2万2200人余り 前年比360人余増",
+  "headline": "去年の「孤立死」 推計2万2200人余り 前年比360人余増",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015102311000",
+    "playlistId": "news-nwa-society-nationwide-20260418",
+    "newsarticleName": "去年の「孤立死」 推計2万2200人余り 前年比360人余増",
+    "playlistName": "4月18日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "内閣府が、去年1年間、誰にもみとられることなく亡くなり、生前、社会的に孤立していたとみられる人を「孤立死」した人として推計した結果、2万2200人余りとなり、前の年より360人余り増えました。\n\n\n内",
+  "dateModified": "2026-04-18T13:28:07+09:00",
+  "datePublished": "2026-04-18T13:28:07+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260418/K10015102311_2604181302_0418132808_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260418/K10015102311_2604181302_0418132808_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002712",
+      "name": "内閣府",
+      "display": true
+    },
+    {
+      "id": "0002738",
+      "name": "統計・指標",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "内閣府が、去年1年間、誰にもみとられることなく亡くなり、生前、社会的に孤立していたとみられる人を「孤立死」した人として推計した結果、2万2200人余りとなり、前の年より360人余り増えました。\n\n\n内",
+  "articleBody": "内閣府が、去年1年間、誰にもみとられることなく亡くなり、生前、社会的に孤立していたとみられる人を「孤立死」した人として推計した結果、2万2200人余りとなり、前の年より360人余り増えました。\n\n\n内閣府は、誰にもみとられることなく亡くなり、死後8日以上経過して発見されたことなどから、生前、社会的に孤立していたとみられる人を「孤立死」した人として推計した人数を公表しています。\n\nそれによりますと、去年1年間に「孤立死」した人は、2万2222人となり、初めて公表された前の年より366人増えました。\n\n男女別では、男性が1万7620人、女性が4598人、性別不詳が4人でした。\n\n年代別に見ると、80代以上が4362人、70代が最も多い8376人、60代が5581人、50代が2741人、40代以下が1029人で、いずれの年代でも男性の方が女性より多くなっています。\n\n内閣府は「単身世帯の増加や高齢化などによって、孤独や孤立のリスクを抱える人が増える可能性がある。自治体や各省庁とも連携し、地域や社会とのつながりづくりなど『孤立死』を防ぐ施策を講じていきたい」としています。\n",
+  "detailedArticleBody": {
+    "markedLead": "内閣府が、去年1年間、誰にもみとられることなく亡くなり、生前、社会的に孤立していたとみられる人を「孤立死」した人として推計した結果、2万2200人余りとなり、前の年より360人余り増えました。\n",
+    "markedBody": "内閣府は、誰にもみとられることなく亡くなり、死後8日以上経過して発見されたことなどから、生前、社会的に孤立していたとみられる人を「孤立死」した人として推計した人数を公表しています。\n\nそれによりますと、去年1年間に「孤立死」した人は、2万2222人となり、初めて公表された前の年より366人増えました。\n\n男女別では、男性が1万7620人、女性が4598人、性別不詳が4人でした。\n\n年代別に見ると、80代以上が4362人、70代が最も多い8376人、60代が5581人、50代が2741人、40代以下が1029人で、いずれの年代でも男性の方が女性より多くなっています。\n\n内閣府は「単身世帯の増加や高齢化などによって、孤独や孤立のリスクを抱える人が増える可能性がある。自治体や各省庁とも連携し、地域や社会とのつながりづくりなど『孤立死』を防ぐ施策を講じていきたい」としています。\n",
+    "trimmedLead": "内閣府が、去年1年間、誰にもみとられることなく亡くなり、生前、社会的に孤立していたとみられる人を「孤立死」した人として推計した結果、2万2200人余りとなり、前の年より360人余り増えました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015102311000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015102311000",
+  "video": [],
+  "citation": [
+    {
+      "name": "イラン側「米海上封鎖なら自由通航認めず」数日以内に協議か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015102261000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260418/K10015102261_2604181154_0418120403_01_02.jpg",
+      "datePublished": "2026-04-18T14:09:14+09:00"
+    },
+    {
+      "name": "イラン外相 条件をつけた上で “ホルムズ海峡を商船に開放”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015102111000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260417/K10015102111_2604172255_0417235956_01_02.jpg",
+      "datePublished": "2026-04-18T09:18:12+09:00"
+    },
+    {
+      "name": "京都 男児遺体遺棄事件 自宅と小学校の間のトイレを現場検証",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015102221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260418/K10015102221_2604181134_0418120606_01_03.jpg",
+      "datePublished": "2026-04-18T12:06:05+09:00"
+    },
+    {
+      "name": "憲法改正 与党は条文案検討加速 衆院憲法審で集中討議も提案",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015102041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260418/K10015102041_2604180125_0418045917_01_02.jpg",
+      "datePublished": "2026-04-18T04:59:16+09:00"
+    },
+    {
+      "name": "サンマの国際会議 漁獲量の上限 去年より５％削減で合意",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015102051000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260418/K10015102051_2604172239_0418045528_01_02.jpg",
+      "datePublished": "2026-04-18T04:55:27+09:00"
+    },
+    {
+      "name": "東京のIT関連会社役員とみられる遺体 峠に遺棄か 警視庁が捜索",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015102241000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260418/K10015102241_2604181158_0418120643_01_02.jpg",
+      "datePublished": "2026-04-18T12:06:42+09:00"
+    },
+    {
+      "name": "気温40度以上の新たな呼び名は「酷暑日」に 気象庁発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015101371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260417/K10015101371_2604171414_0417143716_01_03.jpg",
+      "datePublished": "2026-04-17T12:37:59+09:00"
+    },
+    {
+      "name": "生涯現役で！願いかなえる“エイジフレンドリー”な職場とは",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015100721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260417/K10015100721_2604161314_0417174823_01_02.jpg",
+      "datePublished": "2026-04-17T17:48:21+09:00"
+    },
+    {
+      "name": "「死」と向き合い始めた若者たち",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015098241000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260414/K10015098241_2604131925_0414195758_01_02.jpg",
+      "datePublished": "2026-04-14T19:57:57+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

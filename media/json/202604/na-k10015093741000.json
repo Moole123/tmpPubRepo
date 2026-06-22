@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015093741000",
+  "dataSourceId": "na",
+  "name": "ドジャース 大谷翔平 3号ソロホームラン 2試合連続",
+  "headline": "ドジャース 大谷翔平 3号ソロホームラン 2試合連続",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015093741000",
+    "playlistId": "news-nwa-sports-nationwide-20260407",
+    "newsarticleName": "ドジャース 大谷翔平 3号ソロホームラン 2試合連続",
+    "playlistName": "4月7日のスポーツニュース",
+    "genreId": "sports",
+    "genreIdSlug": "sports"
+  },
+  "description": "大リーグ、ドジャースの大谷翔平選手が、6日、ブルージェイズ戦に1番・指名打者で先発出場し、6回に今シーズン3号のソロホームランを打ちました。大谷選手のホームランは2試合連続です。\n\n\n",
+  "dateModified": "2026-04-07T10:04:06+09:00",
+  "datePublished": "2026-04-07T10:04:06+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260407/K10015093741_2604071013_0407101355_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260407/K10015093741_2604071013_0407101355_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "スポーツ"
+  ],
+  "topic": [
+    {
+      "id": "0002020",
+      "name": "大谷翔平",
+      "display": true
+    },
+    {
+      "id": "0000006",
+      "name": "大リーグ",
+      "display": true
+    },
+    {
+      "id": "0001591",
+      "name": "野球",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "大リーグ、ドジャースの大谷翔平選手が、6日、ブルージェイズ戦に1番・指名打者で先発出場し、6回に今シーズン3号のソロホームランを打ちました。大谷選手のホームランは2試合連続です。\n\n\n",
+  "articleBody": "大リーグ、ドジャースの大谷翔平選手が、6日、ブルージェイズ戦に1番・指名打者で先発出場し、6回に今シーズン3号のソロホームランを打ちました。大谷選手のホームランは2試合連続です。\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "大リーグ、ドジャースの大谷翔平選手が、6日、ブルージェイズ戦に1番・指名打者で先発出場し、6回に今シーズン3号のソロホームランを打ちました。大谷選手のホームランは2試合連続です。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20260407/K10015093741_2604071021_0407102137_02_03.jpg)\n",
+    "trimmedLead": "大リーグ、ドジャースの大谷翔平選手が、6日、ブルージェイズ戦に1番・指名打者で先発出場し、6回に今シーズン3号のソロホームランを打ちました。大谷選手のホームランは2試合連続です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015093741000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015093741000",
+  "video": [],
+  "citation": [
+    {
+      "name": "大谷翔平 2号HRなど勝利に貢献 佐々木5回6失点 勝ち負けつかず",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015092781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015092781_2604061141_0406114345_01_02.jpg",
+      "datePublished": "2026-04-06T11:28:39+09:00"
+    },
+    {
+      "name": "【詳しく】ボール・ストライク判定のチャレンジ「ABS」導入で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015093231000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015093231_2604061753_0406180733_01_02.jpg",
+      "datePublished": "2026-04-06T17:39:40+09:00"
+    },
+    {
+      "name": "けが人リストのカブス 鈴木誠也 10日からチームに合流へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015093101000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015093101_2604061348_0406141543_01_02.jpg",
+      "datePublished": "2026-04-06T14:15:42+09:00"
+    },
+    {
+      "name": "レッドソックス 吉田正尚 今季初ヒット 3安打3打点の活躍",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015092861000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015092861_2604060916_0406102752_01_02.jpg",
+      "datePublished": "2026-04-06T10:27:51+09:00"
+    },
+    {
+      "name": "ロッキーズ 菅野智之 6回を4安打1失点の好投 今季初勝利",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015092831000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015092831_2604060911_0406101353_01_02.jpg",
+      "datePublished": "2026-04-06T10:13:53+09:00"
+    },
+    {
+      "name": "メッツ 千賀滉大 6回途中5安打2失点 勝ち負けつかず",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015092931000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015092931_2604061112_0406113137_01_02.jpg",
+      "datePublished": "2026-04-06T11:31:36+09:00"
+    },
+    {
+      "name": "WBC 日本代表メンバーにNPBが聞き取り 今後の編成などに生かす",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015093441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015093441_2604062010_0406211120_01_02.jpg",
+      "datePublished": "2026-04-06T21:11:19+09:00"
+    },
+    {
+      "name": "スピードスケート高木美帆が引退会見 決断の理由明かす",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015092951000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015092951_2604061530_0406153719_01_02.jpg",
+      "datePublished": "2026-04-06T20:48:58+09:00"
+    },
+    {
+      "name": "バレー SVリーグ女子CS 出場チームの主将が意気込み",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015093291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015093291_2604061711_0406175146_01_02.jpg",
+      "datePublished": "2026-04-06T17:51:46+09:00"
+    },
+    {
+      "name": "大相撲 幕内経験者の剣翔が現役を引退",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015093411000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260406/K10015093411_2604061850_0406211203_01_02.jpg",
+      "datePublished": "2026-04-06T21:12:02+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

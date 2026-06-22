@@ -1,0 +1,144 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015103951000",
+  "dataSourceId": "na",
+  "name": "高市首相 自衛官国歌歌唱「意見を真摯に受け止め適切に対応」",
+  "headline": "高市首相 自衛官国歌歌唱「意見を真摯に受け止め適切に対応」",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015103951000",
+    "playlistId": "news-nwa-politics-nationwide-20260420",
+    "newsarticleName": "高市首相 自衛官国歌歌唱「意見を真摯に受け止め適切に対応」",
+    "playlistName": "4月20日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "先の自民党の党大会で自衛官が国歌を歌唱したことについて、高市総理大臣は、法令違反にはあたらないとしたうえで、党大会の運営や防衛省の対応に対する意見を真摯（しんし）に受け止め、適切に対応していく考えを示",
+  "dateModified": "2026-04-20T21:33:03+09:00",
+  "datePublished": "2026-04-20T21:33:03+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260420/K10015103951_2604202009_0420213304_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260420/K10015103951_2604202009_0420213304_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0000947",
+      "name": "防衛省・自衛隊",
+      "display": true
+    },
+    {
+      "id": "0002672",
+      "name": "高市内閣",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "先の自民党の党大会で自衛官が国歌を歌唱したことについて、高市総理大臣は、法令違反にはあたらないとしたうえで、党大会の運営や防衛省の対応に対する意見を真摯（しんし）に受け止め、適切に対応していく考えを示",
+  "articleBody": "先の自民党の党大会で自衛官が国歌を歌唱したことについて、高市総理大臣は、法令違反にはあたらないとしたうえで、党大会の運営や防衛省の対応に対する意見を真摯（しんし）に受け止め、適切に対応していく考えを示しました。\n\n\n4月12日に東京都内のホテルで開かれた自民党大会では、陸上自衛隊の中央音楽隊に所属する3等陸曹が登壇し、国歌を歌唱しました。\n\nこれについて高市総理大臣は、20日開かれた党の役員会で、法令違反にあたるものではないという認識を改めて示しました。\n\nそのうえで「当該の自衛官には全く責任がないことは強調したい。党大会の運営や防衛省の対応についてのさまざまな意見を真摯に受け止め、適切に対応していきたい」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "先の自民党の党大会で自衛官が国歌を歌唱したことについて、高市総理大臣は、法令違反にはあたらないとしたうえで、党大会の運営や防衛省の対応に対する意見を真摯（しんし）に受け止め、適切に対応していく考えを示しました。\n",
+    "markedBody": "4月12日に東京都内のホテルで開かれた自民党大会では、陸上自衛隊の中央音楽隊に所属する3等陸曹が登壇し、国歌を歌唱しました。\n\nこれについて高市総理大臣は、20日開かれた党の役員会で、法令違反にあたるものではないという認識を改めて示しました。\n\nそのうえで「当該の自衛官には全く責任がないことは強調したい。党大会の運営や防衛省の対応についてのさまざまな意見を真摯に受け止め、適切に対応していきたい」と述べました。\n",
+    "trimmedLead": "先の自民党の党大会で自衛官が国歌を歌唱したことについて、高市総理大臣は、法令違反にはあたらないとしたうえで、党大会の運営や防衛省の対応に対する意見を真摯（しんし）に受け止め、適切に対応していく考えを示しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015103951000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015103951000",
+  "video": [],
+  "citation": [
+    {
+      "name": "高市首相「警報解除まで安全な場所に」呼びかけ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015103671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260420/K10015103671_2604202006_0420201137_01_03.jpg",
+      "datePublished": "2026-04-20T20:11:36+09:00"
+    },
+    {
+      "name": "【地震情報】青森県階上町で震度5強 青森 岩手 宮城で震度5弱",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015103581000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260420/K10015103581_2604202045_0420204806_01_02.jpg",
+      "datePublished": "2026-04-20T19:47:30+09:00"
+    },
+    {
+      "name": "北海道・三陸沖後発地震注意情報 “巨大地震の可能性高まる”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015103791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260420/K10015103791_2604202003_0420200841_01_02.jpg",
+      "datePublished": "2026-04-20T20:26:42+09:00"
+    },
+    {
+      "name": "気象庁・内閣府が会見「日頃からの備えを確認して」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015103751000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260420/K10015103751_2604202014_0420202513_01_03.jpg",
+      "datePublished": "2026-04-20T20:31:11+09:00"
+    },
+    {
+      "name": "【津波情報】北海道～福島に津波注意報 久慈港で80cm津波観測",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015103601000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260420/K10015103601_2604202016_0420201927_01_02.jpg",
+      "datePublished": "2026-04-20T22:54:29+09:00"
+    },
+    {
+      "name": "【被害情報まとめ】青森 東北町と盛岡で2人けが",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015103821000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260420/K10015103821_2604201952_0420195328_01_02.jpg",
+      "datePublished": "2026-04-20T21:29:26+09:00"
+    },
+    {
+      "name": "津波警報直後から SNSで偽情報・偽動画相次ぐ 注意を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015103911000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260420/K10015103911_2604201915_0420191807_01_02.jpg",
+      "datePublished": "2026-04-20T20:34:09+09:00"
+    },
+    {
+      "name": "仙台 住宅街でクマ捕獲 宮城県全域に「クマ出没警報」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015103501000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260420/K10015103501_2604201334_0420140927_01_02.jpg",
+      "datePublished": "2026-04-20T19:10:04+09:00"
+    },
+    {
+      "name": "中国 東シナ海で新たな構造物設置の動き 日本政府が強く抗議",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015103861000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260420/K10015103861_2604201848_0420193907_01_02.jpg",
+      "datePublished": "2026-04-20T19:39:06+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

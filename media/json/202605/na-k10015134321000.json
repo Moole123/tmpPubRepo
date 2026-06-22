@@ -1,0 +1,160 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015134321000",
+  "dataSourceId": "na",
+  "name": "生成AIによる声などの無断利用 法務省検討会で声優が対策要請",
+  "headline": "生成AIによる声などの無断利用 法務省検討会で声優が対策要請",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015134321000",
+    "playlistId": "news-nwa-politics-nationwide-20260528",
+    "newsarticleName": "生成AIによる声などの無断利用 法務省検討会で声優が対策要請",
+    "playlistName": "5月28日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "生成AIの普及により俳優や声優の画像や声などが無断で利用される事案が深刻化しているとして法務省が設けた有識者検討会の会合が開かれ、ヒアリングに出席した声優が権利の侵害にあたるケースを整理するなど早期に",
+  "dateModified": "2026-05-28T20:57:23+09:00",
+  "datePublished": "2026-05-28T20:57:23+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260528/K10015134321_2605282010_0528205724_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260528/K10015134321_2605282010_0528205724_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0000010",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "0000022",
+      "name": "文化・芸術・エンタメ",
+      "display": true
+    },
+    {
+      "id": "0002387",
+      "name": "アニメ",
+      "display": true
+    },
+    {
+      "id": "0002406",
+      "name": "法務省",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "生成AIの普及により俳優や声優の画像や声などが無断で利用される事案が深刻化しているとして法務省が設けた有識者検討会の会合が開かれ、ヒアリングに出席した声優が権利の侵害にあたるケースを整理するなど早期に",
+  "articleBody": "生成AIの普及により俳優や声優の画像や声などが無断で利用される事案が深刻化しているとして法務省が設けた有識者検討会の会合が開かれ、ヒアリングに出席した声優が権利の侵害にあたるケースを整理するなど早期に対策を講じるよう求めました。\n\n\n会合の中で、声優の甲斐田裕子さんは声優の声を無断で使って生成AIにより歌を歌っているような音源や本人が述べていない発言をしゃべらせる音源をSNSなどに公開する事例が相次いでいるなどと報告しました。\n\nまた、声優の緒方恵美さんは「生成AIで自分の声が勝手に利用される事例は声優だけでなく国民全員に関係する深刻な問題だ」などとして、権利の侵害にあたるケースを整理するなど早期に対策を講じるよう求めました。\n\n検討会は、出された意見も踏まえことし7月ごろに結果を取りまとめることにしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "生成AIの普及により俳優や声優の画像や声などが無断で利用される事案が深刻化しているとして法務省が設けた有識者検討会の会合が開かれ、ヒアリングに出席した声優が権利の侵害にあたるケースを整理するなど早期に対策を講じるよう求めました。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20260528/K10015134321_2605282010_0528205724_02_03.jpg)\n\n会合の中で、声優の甲斐田裕子さんは声優の声を無断で使って生成AIにより歌を歌っているような音源や本人が述べていない発言をしゃべらせる音源をSNSなどに公開する事例が相次いでいるなどと報告しました。\n\nまた、声優の緒方恵美さんは「生成AIで自分の声が勝手に利用される事例は声優だけでなく国民全員に関係する深刻な問題だ」などとして、権利の侵害にあたるケースを整理するなど早期に対策を講じるよう求めました。\n\n検討会は、出された意見も踏まえことし7月ごろに結果を取りまとめることにしています。\n",
+    "trimmedLead": "生成AIの普及により俳優や声優の画像や声などが無断で利用される事案が深刻化しているとして法務省が設けた有識者検討会の会合が開かれ、ヒアリングに出席した声優が権利の侵害にあたるケースを整理するなど早期に対策を講じるよう求めました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015134321000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015134321000",
+  "video": [],
+  "citation": [
+    {
+      "name": "“生成AIで声を模倣” 人気声優が投稿動画の削除を求め提訴",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015129741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260523/K10015129741_2605231601_0523161300_01_02.jpg",
+      "datePublished": "2026-05-23T16:12:59+09:00"
+    },
+    {
+      "name": "最新クマ対策 AI・ドローンで被害防げ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015131471_2605281240_0528165620_01_02.jpg",
+      "datePublished": "2026-05-28T16:56:19+09:00"
+    },
+    {
+      "name": "栃木強盗殺人 逮捕状の容疑者はタイに向かった情報も 行方捜査",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134161000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015134161_2605281758_0528180116_01_02.jpg",
+      "datePublished": "2026-05-28T18:01:15+09:00"
+    },
+    {
+      "name": "在仙台カンボジア名誉領事が無申告 3億7000万円余の申告漏れ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133861000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015133861_2605281252_0528170021_01_02.jpg",
+      "datePublished": "2026-05-28T19:32:29+09:00"
+    },
+    {
+      "name": "日フィリピン首脳会談 軍事情報包括保護協定の交渉開始で合意",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134231000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015134231_2605281837_0528184332_01_02.jpg",
+      "datePublished": "2026-05-28T20:28:38+09:00"
+    },
+    {
+      "name": "新たな防災気象情報 発表開始 全国の警報・注意報はこちらから",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133621000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015133621_2605281054_0528145524_01_02.jpg",
+      "datePublished": "2026-05-28T14:55:24+09:00"
+    },
+    {
+      "name": "新たな防災気象情報スタート 専門家“地域リスク調べ活用を”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133611000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015133611_2605281021_0528115033_01_02.jpg",
+      "datePublished": "2026-05-28T18:46:11+09:00"
+    },
+    {
+      "name": "熊本 八代 新庁舎めぐる汚職事件 現金2000万円を資金洗浄か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134251000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015134251_2605281836_0528190010_01_02.jpg",
+      "datePublished": "2026-05-28T19:35:14+09:00"
+    },
+    {
+      "name": "石油代替調達進むも目詰まり課題 イラン情勢 各地への影響は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015133941_2605281727_0528194956_01_03.jpg",
+      "datePublished": "2026-05-28T19:49:55+09:00"
+    },
+    {
+      "name": "軍事作戦3か月 戦闘終結に向けた協議 進展みられず緊張続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015133441_2605281729_0528183230_01_03.jpg",
+      "datePublished": "2026-05-28T19:22:19+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015115341000",
+  "dataSourceId": "na",
+  "name": "岩手 大槌町「山林が燃えている」通報 消防",
+  "headline": "岩手 大槌町「山林が燃えている」通報 消防",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015115341000",
+    "playlistId": "news-nwa-disaster-nationwide-20260506",
+    "newsarticleName": "岩手 大槌町「山林が燃えている」通報 消防",
+    "playlistName": "5月6日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "消防によりますと6日午後1時半ごろ、岩手県大槌町の町役場の近くで山林が燃えていると通報がありました。\n\n\nNHKが午後2時半ごろに撮影した映像では、町内の山から白い煙が立ちのぼっていて、ヘリコプターが",
+  "dateModified": "2026-05-06T15:03:16+09:00",
+  "datePublished": "2026-05-06T15:03:16+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260506/K10015115341_2605061501_0506150316_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260506/K10015115341_2605061501_0506150316_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002806",
+      "name": "岩手 大槌町 山林火災",
+      "display": true
+    },
+    {
+      "id": "0002203",
+      "name": "岩手県",
+      "display": true
+    },
+    {
+      "id": "0002689",
+      "name": "火災",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "消防によりますと6日午後1時半ごろ、岩手県大槌町の町役場の近くで山林が燃えていると通報がありました。\n\n\nNHKが午後2時半ごろに撮影した映像では、町内の山から白い煙が立ちのぼっていて、ヘリコプターが",
+  "articleBody": "消防によりますと6日午後1時半ごろ、岩手県大槌町の町役場の近くで山林が燃えていると通報がありました。\n\n\nNHKが午後2時半ごろに撮影した映像では、町内の山から白い煙が立ちのぼっていて、ヘリコプターが上空から消火活動にあたっている様子が確認できます。\n",
+  "detailedArticleBody": {
+    "markedLead": "消防によりますと6日午後1時半ごろ、岩手県大槌町の町役場の近くで山林が燃えていると通報がありました。\n",
+    "markedBody": "NHKが午後2時半ごろに撮影した映像では、町内の山から白い煙が立ちのぼっていて、ヘリコプターが上空から消火活動にあたっている様子が確認できます。\n",
+    "trimmedLead": "消防によりますと6日午後1時半ごろ、岩手県大槌町の町役場の近くで山林が燃えていると通報がありました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015115341000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015115341000",
+  "video": [],
+  "citation": [
+    {
+      "name": "岩手 大槌町山林火災 町が「鎮圧」宣言 火災は沈静化",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015113391000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260502/K10015113391_2605021515_0502151611_01_03.jpg",
+      "datePublished": "2026-05-02T14:57:09+09:00"
+    },
+    {
+      "name": "岩手 大槌町 山林火災影響で臨時休校続いた学校 授業を再開",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015112571000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260501/K10015112571_2605011221_0501122908_01_02.jpg",
+      "datePublished": "2026-05-01T12:29:07+09:00"
+    },
+    {
+      "name": "岩手 大槌町山林火災 避難指示すべて解除 鎮圧へ消火活動続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015111521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260430/K10015111521_2604301209_0430125418_01_03.jpg",
+      "datePublished": "2026-04-30T19:46:00+09:00"
+    },
+    {
+      "name": "磐越道 マイクロバスなど3台事故 高校生死亡 26人けが",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260506/K10015115221_2605061215_0506121608_01_03.jpg",
+      "datePublished": "2026-05-06T15:03:58+09:00"
+    },
+    {
+      "name": "5連休最終日 新幹線や高速道路 空港はUターンで混雑",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015114731000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260505/K10015114731_2605061211_0506121141_01_03.jpg",
+      "datePublished": "2026-05-06T14:42:34+09:00"
+    },
+    {
+      "name": "トランプ大統領 海峡での取り組み短期停止 イランは中国と協議",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260506/K10015115041_2605061210_0506123207_01_03.jpg",
+      "datePublished": "2026-05-06T12:09:49+09:00"
+    },
+    {
+      "name": "米アンソロピック 「ミュトス」に中国が追いつく可能性 言及",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115281000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260506/K10015115281_2605061247_0506125245_01_02.jpg",
+      "datePublished": "2026-05-06T12:52:44+09:00"
+    },
+    {
+      "name": "日産 欧州の従業員約900人削減 英工場の生産ラインは統合へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115201000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260506/K10015115201_2605060814_0506083952_01_02.jpg",
+      "datePublished": "2026-05-06T08:39:52+09:00"
+    },
+    {
+      "name": "ドジャース 大谷翔平 投手専念で7回2失点も援護なく2敗目",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260506/K10015115291_2605061320_0506135328_01_02.jpg",
+      "datePublished": "2026-05-06T14:28:14+09:00"
+    },
+    {
+      "name": "「子どもショートステイ」知ってますか？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015111581000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260503/K10015111581_2604302010_0503111952_01_02.jpg",
+      "datePublished": "2026-05-03T11:19:51+09:00"
+    },
+    {
+      "name": "NATOは何しに日本へ？気になるのは“あの国”との距離感",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015109841000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260504/K10015109841_2605011509_0504111440_01_02.jpg",
+      "datePublished": "2026-05-04T11:14:39+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

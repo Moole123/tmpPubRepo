@@ -1,0 +1,116 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015057791000",
+  "dataSourceId": "na",
+  "name": "フィギュア エキシビションに向け “りくりゅう”ペア 坂本花織 中井亜美 鍵山優真 佐藤駿が合同練習 五輪",
+  "headline": "フィギュア エキシビションに向け日本勢が合同練習 五輪",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015057791000",
+    "playlistId": "news-nwa-sports-nationwide-20260221",
+    "newsarticleName": "フィギュア エキシビションに向け “りくりゅう”ペア 坂本花織 中井亜美 鍵山優真 佐藤駿が合同練習 五輪",
+    "playlistName": "2月21日のスポーツニュース",
+    "genreId": "sports",
+    "genreIdSlug": "sports"
+  },
+  "description": "ミラノ・コルティナオリンピックのフィギュアスケートのエキシビションが21日に行われるのを前に、金メダルを獲得した三浦璃来選手と木原龍一選手の“りくりゅう”ペアなど日本のメダリストが合同で練習しました。",
+  "dateModified": "2026-02-21T04:50:03+09:00",
+  "datePublished": "2026-02-21T04:50:03+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260221/K10015057791_2602210439_0221045004_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260221/K10015057791_2602210439_0221045004_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "スポーツ"
+  ],
+  "topic": [
+    {
+      "id": "0002053",
+      "name": "フィギュアスケート",
+      "display": true
+    },
+    {
+      "id": "0002451",
+      "name": "ミラノ・コルティナ オリンピック",
+      "display": true
+    },
+    {
+      "id": "0002497",
+      "name": "イタリア",
+      "display": true
+    },
+    {
+      "id": "0001877",
+      "name": "オリンピック・パラリンピック",
+      "display": true
+    },
+    {
+      "id": "0002228",
+      "name": "兵庫県",
+      "display": true
+    },
+    {
+      "id": "0002215",
+      "name": "新潟県",
+      "display": true
+    },
+    {
+      "id": "0002204",
+      "name": "宮城県",
+      "display": true
+    },
+    {
+      "id": "0002223",
+      "name": "愛知県",
+      "display": true
+    },
+    {
+      "id": "0002214",
+      "name": "神奈川県",
+      "display": true
+    }
+  ],
+  "abstract": "ミラノ・コルティナオリンピックのフィギュアスケートのエキシビションが21日に行われるのを前に、金メダルを獲得した三浦璃来選手と木原龍一選手の“りくりゅう”ペアなど日本のメダリストが合同で練習しました。",
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015057791000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015057791000",
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

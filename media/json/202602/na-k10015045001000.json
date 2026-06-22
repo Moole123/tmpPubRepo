@@ -1,0 +1,151 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015045001000",
+  "dataSourceId": "na",
+  "name": "インフルエンザ患者数 前週の倍近くに増加 B型 半数近く占める",
+  "headline": "インフルエンザ患者数 前週の倍近くに増加 B型 半数近く占める",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015045001000",
+    "playlistId": "news-nwa-scienceculture-nationwide-20260206",
+    "newsarticleName": "インフルエンザ患者数 前週の倍近くに増加 B型 半数近く占める",
+    "playlistName": "2月6日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "2月1日までの1週間に全国から報告されたインフルエンザの患者数は1医療機関当たり30人を超え、前の週と比べて倍近くに増えました。患者数はことしに入り4週連続で増加していて、B型のインフルエンザが半数近",
+  "dateModified": "2026-02-06T19:29:04+09:00",
+  "datePublished": "2026-02-06T16:27:57+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260206/K10015045001_2602061552_0206162758_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260206/K10015045001_2602061552_0206162758_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "0000517",
+      "name": "インフルエンザ",
+      "display": true
+    },
+    {
+      "id": "0000414",
+      "name": "医療・健康",
+      "display": true
+    },
+    {
+      "id": "0002401",
+      "name": "厚生労働省",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "2月1日までの1週間に全国から報告されたインフルエンザの患者数は1医療機関当たり30人を超え、前の週と比べて倍近くに増えました。患者数はことしに入り4週連続で増加していて、B型のインフルエンザが半数近",
+  "articleBody": "2月1日までの1週間に全国から報告されたインフルエンザの患者数は1医療機関当たり30人を超え、前の週と比べて倍近くに増えました。患者数はことしに入り4週連続で増加していて、B型のインフルエンザが半数近くを占めています。\n\n\n国立健康危機管理研究機構などによりますと、2月1日までの1週間に全国3000か所余りの医療機関から報告されたインフルエンザの患者数は前の週より5万人余り多い11万4291人でした。\n\n1医療機関当たりの患者数は前の週の1.8倍となる30.03人で、ことしに入って4週連続で増加しています。\n\n都道府県別では\n▽大分県で52.48人\n▽鹿児島県で49.60人\n▽宮城県で49.02人\n▽山梨県で46.97人\n▽千葉県で46.08人などとなっていて、22の県で30人を超えています。\n\n検出されたインフルエンザのウイルスはA型が56％、B型が44％でB型の割合が増え半数近くを占めています。\n\n厚生労働省は手洗いや適切なマスクの着用など感染対策を徹底するよう呼びかけています。\n\n専門家「流行続いている 感染対策をいま一度心がけて」\n\nインフルエンザに詳しい川崎医科大学の中野貴司特任教授は現在の流行状況について「今シーズンは流行の始まりが早く去年11月に一度ピークがあったが、そのときはA型のウイルスが中心だった。年明けになりB型が検出されることが増え、再び流行が大きくなっている」と分析しています。\n\n中野特任教授によりますと、A型とB型で明確な症状の違いはないものの、腹痛やおう吐といった消化器の症状や、筋肉の痛みといった症状が出る頻度が比較的高いという報告があるということです。\n\n中野特任教授は「B型の流行はA型ほど大きくならないのが一般的だが、それでもこの先2週間ほどは患者が増える可能性がある。まだインフルエンザの流行は続いているので、マスクの着用や手洗い、人混みを避けるといった基本的な感染対策をいま一度心がけてほしい」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "2月1日までの1週間に全国から報告されたインフルエンザの患者数は1医療機関当たり30人を超え、前の週と比べて倍近くに増えました。患者数はことしに入り4週連続で増加していて、B型のインフルエンザが半数近くを占めています。\n",
+    "markedBody": "国立健康危機管理研究機構などによりますと、2月1日までの1週間に全国3000か所余りの医療機関から報告されたインフルエンザの患者数は前の週より5万人余り多い11万4291人でした。\n\n![](https://news.web.nhk/news/html/20260206/K10015045001_2602061613_0206162758_02_03.jpg)\n\n1医療機関当たりの患者数は前の週の1.8倍となる30.03人で、ことしに入って4週連続で増加しています。\n\n都道府県別では\\\n▽大分県で52.48人\\\n▽鹿児島県で49.60人\\\n▽宮城県で49.02人\\\n▽山梨県で46.97人\\\n▽千葉県で46.08人などとなっていて、22の県で30人を超えています。\n\n検出されたインフルエンザのウイルスはA型が56％、B型が44％でB型の割合が増え半数近くを占めています。\n\n厚生労働省は手洗いや適切なマスクの着用など感染対策を徹底するよう呼びかけています。\n\n### 専門家「流行続いている 感染対策をいま一度心がけて」\n\nインフルエンザに詳しい川崎医科大学の中野貴司特任教授は現在の流行状況について「今シーズンは流行の始まりが早く去年11月に一度ピークがあったが、そのときはA型のウイルスが中心だった。年明けになりB型が検出されることが増え、再び流行が大きくなっている」と分析しています。\n\n中野特任教授によりますと、A型とB型で明確な症状の違いはないものの、腹痛やおう吐といった消化器の症状や、筋肉の痛みといった症状が出る頻度が比較的高いという報告があるということです。\n\n中野特任教授は「B型の流行はA型ほど大きくならないのが一般的だが、それでもこの先2週間ほどは患者が増える可能性がある。まだインフルエンザの流行は続いているので、マスクの着用や手洗い、人混みを避けるといった基本的な感染対策をいま一度心がけてほしい」と話しています。\n",
+    "trimmedLead": "2月1日までの1週間に全国から報告されたインフルエンザの患者数は1医療機関当たり30人を超え、前の週と比べて倍近くに増えました。患者数はことしに入り4週連続で増加していて、B型のインフルエンザが半数近くを占めています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015045001000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015045001000",
+  "video": [],
+  "citation": [
+    {
+      "name": "インフルエンザ 東京都の患者数 前週の倍近くに B型が増加",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015044271000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260205/K10015044271_2602051721_0205175508_01_02.jpg",
+      "datePublished": "2026-02-05T17:55:07+09:00"
+    },
+    {
+      "name": "「感染性胃腸炎」患者数 3週連続増加 手洗いなど対策呼びかけ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015042381000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260203/K10015042381_2602031557_0203172421_01_03.jpg",
+      "datePublished": "2026-02-03T17:24:20+09:00"
+    },
+    {
+      "name": "約20種類の感染症データ・情報",
+      "url": "https://www3.nhk.or.jp/news/special/infection/dashboard/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_24419677.jpg"
+    },
+    {
+      "name": "感染症データと医療・健康情報",
+      "url": "https://www3.nhk.or.jp/news/special/medical/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_25624923.jpg"
+    },
+    {
+      "name": "北海道で猛吹雪 7日から日本海側中心に大雪 太平洋側で積雪も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015044601000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260206/K10015044601_2602061807_0206194859_01_03.jpg",
+      "datePublished": "2026-02-06T23:33:49+09:00"
+    },
+    {
+      "name": "記録的積雪 死亡事故も相次ぐ 命を守るポイントは？【詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015041701000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260202/K10015041701_2602021615_0202195438_01_02.jpg",
+      "datePublished": "2026-02-02T19:54:38+09:00"
+    },
+    {
+      "name": "エンゲル係数44年ぶりの高水準 食料品値上がり背景に 家計調査",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015044651000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260206/K10015044651_2602061347_0206140643_01_03.jpg",
+      "datePublished": "2026-02-06T14:06:42+09:00"
+    },
+    {
+      "name": "柏崎刈羽原発6号機 9日に再起動と発表 営業運転は来月18日開始",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015044721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260206/K10015044721_2602061020_0206114250_01_02.jpg",
+      "datePublished": "2026-02-06T15:47:39+09:00"
+    },
+    {
+      "name": "【最新ニュースまとめて】ミラノ・コルティナ オリンピック",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002451",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30750181.jpg"
+    },
+    {
+      "name": "衆院選 ボートマッチ 候補者・政党とのマッチング",
+      "url": "https://news.web.nhk/senkyo/database/shugiin/2026/votematch/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30757107.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

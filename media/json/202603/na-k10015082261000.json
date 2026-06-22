@@ -1,0 +1,125 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015082261000",
+  "dataSourceId": "na",
+  "name": "【地震情報】兵庫と京都で震度3 津波の心配なし",
+  "headline": "【地震情報】兵庫と京都で震度3 津波の心配なし",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015082261000",
+    "playlistId": "news-nwa-disaster-nationwide-20260325",
+    "newsarticleName": "【地震情報】兵庫と京都で震度3 津波の心配なし",
+    "playlistName": "3月25日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "きょう午後8時31分ごろ兵庫県と京都府で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。\n\n震度3の揺れを\n兵庫県の\n▽神戸市北区\n▽神戸市東灘区\n▽姫路市\n▽西宮市\n▽",
+  "dateModified": "2026-03-25T21:00:23+09:00",
+  "datePublished": "2026-03-25T20:35:37+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260325/K10015082261_2603252036_0325203636_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260325/K10015082261_2603252036_0325203636_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0002228",
+      "name": "兵庫県",
+      "display": true
+    },
+    {
+      "id": "0002226",
+      "name": "京都府",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "きょう午後8時31分ごろ兵庫県と京都府で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。\n\n震度3の揺れを\n兵庫県の\n▽神戸市北区\n▽神戸市東灘区\n▽姫路市\n▽西宮市\n▽",
+  "articleBody": "きょう午後8時31分ごろ兵庫県と京都府で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。\n\n震度3の揺れを\n兵庫県の\n▽神戸市北区\n▽神戸市東灘区\n▽姫路市\n▽西宮市\n▽加古川市\n▽淡路市などで観測したほか、\n▽京都府の福知山市で観測しました。\n\nこのほか、震度2や1の揺れを近畿と中国地方、四国、福井県、それに三重県の広い範囲で観測しました。\n\n気象庁によりますと、震源地は兵庫県南東部で震源の深さは20キロ、地震の規模を示すマグニチュードは4.2と推定されています。\n\n\n地震 津波から命守る情報を「ニュース・防災アプリ」で\n\n地震 津波から命守る情報を「ニュース・防災アプリ」で\n",
+  "detailedArticleBody": {
+    "markedLead": "きょう午後8時31分ごろ兵庫県と京都府で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。\n\n震度3の揺れを\\\n兵庫県の\\\n▽神戸市北区\\\n▽神戸市東灘区\\\n▽姫路市\\\n▽西宮市\\\n▽加古川市\\\n▽淡路市などで観測したほか、\\\n▽京都府の福知山市で観測しました。\n\nこのほか、震度2や1の揺れを近畿と中国地方、四国、福井県、それに三重県の広い範囲で観測しました。\n\n気象庁によりますと、震源地は兵庫県南東部で震源の深さは20キロ、地震の規模を示すマグニチュードは4.2と推定されています。\n",
+    "markedBody": ":::nw--link-type4 {href=https://www.nhk.or.jp/nhkone/service/app/news_bousai/}\n![地震 津波から命守る情報を「ニュース・防災アプリ」で](https://news.web.nhk/news/html/20260325/K10015082261_2603252127_0325212812_02_03.jpg)\n\n**地震 津波から命守る情報を「ニュース・防災アプリ」で**\n:::\n",
+    "trimmedLead": "きょう午後8時31分ごろ兵庫県と京都府で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。\n\n震度3の揺れを\n兵庫県の\n▽神戸市北区\n▽神戸市東灘区\n▽姫路市\n▽西宮市\n▽加古川市\n▽淡路市などで観測したほか、\n▽京都府の福知山市で観測しました。\n\nこのほか、震度2や1の揺れを近畿と中国地方、四国、福井県、それに三重県の広い範囲で観測しました。\n\n気象庁によりますと、震源地は兵庫県南東部で震源の深さは20キロ、地震の規模を示すマグニチュードは4.2と推定されています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015082261000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015082261000",
+  "video": [],
+  "citation": [
+    {
+      "name": "【最新の地震情報】各地の震度・震源を詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/earthquake/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30060617.jpg"
+    },
+    {
+      "name": "地震発生 その時どう行動する!?",
+      "url": "https://news.web.nhk/newsweb/na/nc-790dbe02-3696-4956-b2ac-83401a4f8f5b",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045984.jpg"
+    },
+    {
+      "name": "地震マップ 最新の震度分布・震源をリアルタイム更新",
+      "url": "https://news.web.nhk/bousai-map/earthquake/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31036920.jpg"
+    },
+    {
+      "name": "「エレベーターに閉じ込められた」いったいどうすれば？",
+      "url": "https://news.web.nhk/newsweb/na/nc-ca2734b0-c080-45e4-a5c5-2bbc97205783",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045827.jpg"
+    },
+    {
+      "name": "停電したら…スマホ ライトの便利な使い方 何に注意する？",
+      "url": "https://news.web.nhk/newsweb/na/nc-e7670e0f-f375-44c9-9586-bcb576117b56",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045886.jpg"
+    },
+    {
+      "name": "火災の初期消火 消火器の使い方や対策は？",
+      "url": "https://news.web.nhk/newsweb/na/nc-813b665d-4bc8-4cc1-9df8-39020c4f8bb0",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045799.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

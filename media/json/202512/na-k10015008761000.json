@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015008761000",
+  "dataSourceId": "na",
+  "name": "ロンドン市場 円相場 一時1ドル＝157円台まで値下がり",
+  "headline": "ロンドン市場 円相場 一時1ドル＝157円台まで値下がり",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015008761000",
+    "playlistId": "news-nwa-business-nationwide-20251219",
+    "newsarticleName": "ロンドン市場 円相場 一時1ドル＝157円台まで値下がり",
+    "playlistName": "12月19日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "19日のロンドン外国為替市場では、日銀の植田総裁が金融政策決定会合のあとに開いた会見での発言を受けて円売りドル買いの動きが進み、円相場は一時1ドル＝157円台まで値下がりしました。\n\n\n日銀の金融政策",
+  "dateModified": "2025-12-19T20:27:36+09:00",
+  "datePublished": "2025-12-19T20:27:36+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251219/K10015008761_2512192002_1219202737_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251219/K10015008761_2512192002_1219202737_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "19日のロンドン外国為替市場では、日銀の植田総裁が金融政策決定会合のあとに開いた会見での発言を受けて円売りドル買いの動きが進み、円相場は一時1ドル＝157円台まで値下がりしました。\n\n\n日銀の金融政策",
+  "articleBody": "19日のロンドン外国為替市場では、日銀の植田総裁が金融政策決定会合のあとに開いた会見での発言を受けて円売りドル買いの動きが進み、円相場は一時1ドル＝157円台まで値下がりしました。\n\n\n日銀の金融政策決定会合と植田総裁の記者会見を受けた19日のロンドン外国為替市場の取り引きでは円安が進み、円相場は一時1ドル＝157円台まで値下がりしました。\n\n日銀の植田総裁は会見で、今後も経済の状況を見ながら利上げを目指す考えを示しました。\n\nロンドン市場では、こうした植田総裁の発言を受けて日銀の次の利上げまでには時間がかかるという見方が広がり、東京市場に続いて円を売ってドルを買う動きが進んでいます。\n\n市場関係者は「植田総裁は今後も利上げを目指す考えは示しているものの、会見での発言からは市場で想定されていたよりも利上げに積極的な姿勢が感じられず、円売りドル買いの動きが進んだ」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "19日のロンドン外国為替市場では、日銀の植田総裁が金融政策決定会合のあとに開いた会見での発言を受けて円売りドル買いの動きが進み、円相場は一時1ドル＝157円台まで値下がりしました。\n",
+    "markedBody": "日銀の金融政策決定会合と植田総裁の記者会見を受けた19日のロンドン外国為替市場の取り引きでは円安が進み、円相場は一時1ドル＝157円台まで値下がりしました。\n\n日銀の植田総裁は会見で、今後も経済の状況を見ながら利上げを目指す考えを示しました。\n\nロンドン市場では、こうした植田総裁の発言を受けて日銀の次の利上げまでには時間がかかるという見方が広がり、東京市場に続いて円を売ってドルを買う動きが進んでいます。\n\n市場関係者は「植田総裁は今後も利上げを目指す考えは示しているものの、会見での発言からは市場で想定されていたよりも利上げに積極的な姿勢が感じられず、円売りドル買いの動きが進んだ」と話しています。\n",
+    "trimmedLead": "19日のロンドン外国為替市場では、日銀の植田総裁が金融政策決定会合のあとに開いた会見での発言を受けて円売りドル買いの動きが進み、円相場は一時1ドル＝157円台まで値下がりしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015008761000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015008761000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

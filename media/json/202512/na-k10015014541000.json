@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015014541000",
+  "dataSourceId": "na",
+  "name": "「高市首相は近く公邸に入居」木原官房長官",
+  "headline": "「高市首相は近く公邸に入居」木原官房長官",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015014541000",
+    "playlistId": "news-nwa-politics-nationwide-20251226",
+    "newsarticleName": "「高市首相は近く公邸に入居」木原官房長官",
+    "playlistName": "12月26日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "木原官房長官は、高市総理大臣が近く総理大臣公邸に入居すると説明しました。政府として危機管理に万全を期していくとしています。\n\n\n高市総理大臣はことし10月に総理大臣に就任したあとも国会近くの東京・赤坂",
+  "dateModified": "2025-12-26T12:31:15+09:00",
+  "datePublished": "2025-12-26T12:31:15+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251226/K10015014541_2512261205_1226123115_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251226/K10015014541_2512261205_1226123115_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "木原官房長官は、高市総理大臣が近く総理大臣公邸に入居すると説明しました。政府として危機管理に万全を期していくとしています。\n\n\n高市総理大臣はことし10月に総理大臣に就任したあとも国会近くの東京・赤坂",
+  "articleBody": "木原官房長官は、高市総理大臣が近く総理大臣公邸に入居すると説明しました。政府として危機管理に万全を期していくとしています。\n\n\n高市総理大臣はことし10月に総理大臣に就任したあとも国会近くの東京・赤坂にある議員宿舎から総理大臣官邸に車で通っています。\n\nこれに関連して、木原官房長官は閣議のあとの記者会見で「高市総理大臣は近々、総理大臣公邸に入居する予定だ。具体的な日程は警備上の観点から差し控える」と述べました。\n\nその上で「政府としては総理大臣が公邸に入居するか否かにかかわらず、さまざまな緊急事態に対して政府一体となった初動対処体制を常に整えている。引き続き、危機管理に万全を期していく」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "木原官房長官は、高市総理大臣が近く総理大臣公邸に入居すると説明しました。政府として危機管理に万全を期していくとしています。\n",
+    "markedBody": "高市総理大臣はことし10月に総理大臣に就任したあとも国会近くの東京・赤坂にある議員宿舎から総理大臣官邸に車で通っています。\n\n![](https://news.web.nhk/news/html/20251226/K10015014541_2512261205_1226123115_02_03.jpg)\n\nこれに関連して、木原官房長官は閣議のあとの記者会見で「高市総理大臣は近々、総理大臣公邸に入居する予定だ。具体的な日程は警備上の観点から差し控える」と述べました。\n\nその上で「政府としては総理大臣が公邸に入居するか否かにかかわらず、さまざまな緊急事態に対して政府一体となった初動対処体制を常に整えている。引き続き、危機管理に万全を期していく」と述べました。\n",
+    "trimmedLead": "木原官房長官は、高市総理大臣が近く総理大臣公邸に入居すると説明しました。政府として危機管理に万全を期していくとしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015014541000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015014541000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

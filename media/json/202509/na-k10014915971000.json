@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014915971000",
+  "dataSourceId": "na",
+  "name": "静岡 牧之原市で5日に発生した突風は「竜巻」 気象台",
+  "headline": "静岡 牧之原市で5日に発生した突風は「竜巻」 気象台",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014915971000",
+    "playlistId": "news-nwa-disaster-nationwide-20250907",
+    "newsarticleName": "静岡 牧之原市で5日に発生した突風は「竜巻」 気象台",
+    "playlistName": "9月7日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "5日、台風15号の影響で静岡県牧之原市で発生した突風について、気象台は現地の状況を調査した結果、突風は「竜巻と認められる」と発表しました。\n\n\n牧之原市では5日、台風15号の接近に伴って静岡県には発達",
+  "dateModified": "2025-09-07T20:06:29+09:00",
+  "datePublished": "2025-09-07T20:06:29+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250907/K10014915971_2509071950_0907200604_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250907/K10014915971_2509071950_0907200604_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "5日、台風15号の影響で静岡県牧之原市で発生した突風について、気象台は現地の状況を調査した結果、突風は「竜巻と認められる」と発表しました。\n\n\n牧之原市では5日、台風15号の接近に伴って静岡県には発達",
+  "articleBody": "5日、台風15号の影響で静岡県牧之原市で発生した突風について、気象台は現地の状況を調査した結果、突風は「竜巻と認められる」と発表しました。\n\n\n牧之原市では5日、台風15号の接近に伴って静岡県には発達した雨雲がかかり突風が発生しました。\n\n静岡地方気象台は6日から7日にかけて現地に職員を派遣して被害状況の調査を行いました。\n\nその結果、突風は5日午後1時前、静岡県牧之原市静波から細江にかけて発生したということです。\n\nそして突風の発生時に活発な積乱雲が付近を通過していたことや「移動する渦を目撃した」という証言や撮影された画像の分析などから突風をもたらした現象は「竜巻と認められる」と発表しました。\n\n突風の強さについては分析中だとしています。\n\n一方、5日の突風は牧之原市のほか、掛川市、焼津市、吉田町でも発生しましたが、気象台は掛川市と吉田町でも現地調査を行っていて、8日以降、調査結果を公表するとしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "5日、台風15号の影響で静岡県牧之原市で発生した突風について、気象台は現地の状況を調査した結果、突風は「竜巻と認められる」と発表しました。\n",
+    "markedBody": "牧之原市では5日、台風15号の接近に伴って静岡県には発達した雨雲がかかり突風が発生しました。\n\n静岡地方気象台は6日から7日にかけて現地に職員を派遣して被害状況の調査を行いました。\n\nその結果、突風は5日午後1時前、静岡県牧之原市静波から細江にかけて発生したということです。\n\nそして突風の発生時に活発な積乱雲が付近を通過していたことや「移動する渦を目撃した」という証言や撮影された画像の分析などから突風をもたらした現象は「竜巻と認められる」と発表しました。\n\n突風の強さについては分析中だとしています。\n\n一方、5日の突風は牧之原市のほか、掛川市、焼津市、吉田町でも発生しましたが、気象台は掛川市と吉田町でも現地調査を行っていて、8日以降、調査結果を公表するとしています。\n",
+    "trimmedLead": "5日、台風15号の影響で静岡県牧之原市で発生した突風について、気象台は現地の状況を調査した結果、突風は「竜巻と認められる」と発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014915971000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014915971000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

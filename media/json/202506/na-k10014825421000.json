@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014825421000",
+  "dataSourceId": "na",
+  "name": "佐賀 伊万里 田植え前の田んぼで「どろリンピック」",
+  "headline": "佐賀 伊万里 田植え前の田んぼで「どろリンピック」",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014825421000",
+    "playlistId": "news-nwa-life-nationwide-20250604",
+    "newsarticleName": "佐賀 伊万里 田植え前の田んぼで「どろリンピック」",
+    "playlistName": "6月4日の暮らしニュース",
+    "genreId": "life",
+    "genreIdSlug": "life"
+  },
+  "description": "田植え前の田んぼで泥だらけになりながら鬼ごっこやリレーで競い合う「どろリンピック」が佐賀県伊万里市の小学校で行われました。\n\n\n「どろリンピック」は伊万里市の波多津小学校が食のありがたさや農家の仕事を",
+  "dateModified": "2025-06-04T13:24:23+09:00",
+  "datePublished": "2025-06-04T13:24:23+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250604/K10014825421_2506041319_0604132119_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250604/K10014825421_2506041319_0604132119_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "暮らし",
+    "地域"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "田植え前の田んぼで泥だらけになりながら鬼ごっこやリレーで競い合う「どろリンピック」が佐賀県伊万里市の小学校で行われました。\n\n\n「どろリンピック」は伊万里市の波多津小学校が食のありがたさや農家の仕事を",
+  "articleBody": "田植え前の田んぼで泥だらけになりながら鬼ごっこやリレーで競い合う「どろリンピック」が佐賀県伊万里市の小学校で行われました。\n\n\n「どろリンピック」は伊万里市の波多津小学校が食のありがたさや農家の仕事を体感してもらおうと、毎年行っています。\n\n参加したのは5年生の児童10人で、水着に帽子とゴーグル姿で、鬼ごっこやリレーなど自分たちで決めた5つの種目に挑みました。\n\nこのうち泥運びリレーは3つのチームに分かれて行われ、子どもたちは泥だらけになりながらバケツで泥を運び、ゴールまで駆け抜けていました。\n\n5年生の女子児童は「ぬるぬるしていて、泥を混ぜたらこんなになるんだと思いました」と話していました。\n\n5年生の男子児童は「ヘッドスライディングできたのが楽しかったです」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "田植え前の田んぼで泥だらけになりながら鬼ごっこやリレーで競い合う「どろリンピック」が佐賀県伊万里市の小学校で行われました。\n",
+    "markedBody": "「どろリンピック」は伊万里市の波多津小学校が食のありがたさや農家の仕事を体感してもらおうと、毎年行っています。\n\n![](https://news.web.nhk/news/html/20250604/K10014825421_2506041320_0604132119_02_03.jpg)\n\n参加したのは5年生の児童10人で、水着に帽子とゴーグル姿で、鬼ごっこやリレーなど自分たちで決めた5つの種目に挑みました。\n\nこのうち泥運びリレーは3つのチームに分かれて行われ、子どもたちは泥だらけになりながらバケツで泥を運び、ゴールまで駆け抜けていました。\n\n![](https://news.web.nhk/news/html/20250604/K10014825421_2506041321_0604132119_02_04.jpg)\n\n5年生の女子児童は「ぬるぬるしていて、泥を混ぜたらこんなになるんだと思いました」と話していました。\n\n5年生の男子児童は「ヘッドスライディングできたのが楽しかったです」と話していました。\n",
+    "trimmedLead": "田植え前の田んぼで泥だらけになりながら鬼ごっこやリレーで競い合う「どろリンピック」が佐賀県伊万里市の小学校で行われました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014825421000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014825421000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

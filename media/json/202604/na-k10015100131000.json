@@ -1,0 +1,193 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015100131000",
+  "dataSourceId": "na",
+  "name": "ロボットとAIが自動で実験 忙しい医師の研究をサポート 東京科学大",
+  "headline": "ロボットとAIが自動で実験 医師の研究をサポート 東京科学大",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015100131000",
+    "playlistId": "news-nwa-scienceculture-nationwide-20260415",
+    "newsarticleName": "ロボットとAIが自動で実験 忙しい医師の研究をサポート 東京科学大",
+    "playlistName": "4月15日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "診療に忙しい医師などの研究をサポートしようと、東京科学大学は手間のかかる実験をロボットとAIが自動で進める施設を新たに設け、15日、開所式が行われました。\n\n\nこの施設は東京 文京区にある東京科学大学",
+  "dateModified": "2026-04-15T18:58:08+09:00",
+  "datePublished": "2026-04-15T18:58:08+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260415/K10015100131_2604151749_0415185808_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260415/K10015100131_2604151749_0415185808_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "0000010",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "0000414",
+      "name": "医療・健康",
+      "display": true
+    },
+    {
+      "id": "0002390",
+      "name": "サイエンス",
+      "display": true
+    },
+    {
+      "id": "0002213",
+      "name": "東京都",
+      "display": true
+    },
+    {
+      "id": "0000009",
+      "name": "IT・ネット",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "診療に忙しい医師などの研究をサポートしようと、東京科学大学は手間のかかる実験をロボットとAIが自動で進める施設を新たに設け、15日、開所式が行われました。\n\n\nこの施設は東京 文京区にある東京科学大学",
+  "articleBody": "診療に忙しい医師などの研究をサポートしようと、東京科学大学は手間のかかる実験をロボットとAIが自動で進める施設を新たに設け、15日、開所式が行われました。\n\n\nこの施設は東京 文京区にある東京科学大学ロボット未来創造センターに設けられ、開所式には中山敬一センター長らが出席しました。\n\n再生医療などの研究では、目的の細胞を得るために培養液を取り替えたり、条件を変えながらさまざまな薬品を入れて試行錯誤したりする必要があり、特に診療に携わる医師の場合、研究時間の確保が課題となっていました。\n\n新たに設けられた施設には実験器具を扱えるアームを持ったロボットを10台設置し、研究者が実験の目的を指示するとAIが細胞に入れる薬剤の濃度やタイミングなどを判断しながら24時間、自動で実験を行って最適な手順や方法を見つけだすということです。\n\nこのロボットは、これまで別の研究機関で行われたiPS細胞の研究でも成果を上げています。\n\n大学ではこの施設を基礎から臨床まで幅広い研究に活用したいとしていて、将来的にはロボットの台数を増やしほかの研究機関の実験にも対応したいとしています。\n\n中山センター長は、「実験をロボットに任せることで研究者は知恵を出すことに集中できる。医学研究が加速すれば新しい治療の開発も進み、人類にとってメリットが大きい」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "診療に忙しい医師などの研究をサポートしようと、東京科学大学は手間のかかる実験をロボットとAIが自動で進める施設を新たに設け、15日、開所式が行われました。\n",
+    "markedBody": "この施設は東京 文京区にある東京科学大学ロボット未来創造センターに設けられ、開所式には中山敬一センター長らが出席しました。\n\n再生医療などの研究では、目的の細胞を得るために培養液を取り替えたり、条件を変えながらさまざまな薬品を入れて試行錯誤したりする必要があり、特に診療に携わる医師の場合、研究時間の確保が課題となっていました。\n\n新たに設けられた施設には実験器具を扱えるアームを持ったロボットを10台設置し、研究者が実験の目的を指示するとAIが細胞に入れる薬剤の濃度やタイミングなどを判断しながら24時間、自動で実験を行って最適な手順や方法を見つけだすということです。\n\nこのロボットは、これまで別の研究機関で行われたiPS細胞の研究でも成果を上げています。\n\n大学ではこの施設を基礎から臨床まで幅広い研究に活用したいとしていて、将来的にはロボットの台数を増やしほかの研究機関の実験にも対応したいとしています。\n\n![](https://news.web.nhk/news/html/20260415/K10015100131_2604151749_0415185808_02_04.jpg)\n\n中山センター長は、「実験をロボットに任せることで研究者は知恵を出すことに集中できる。医学研究が加速すれば新しい治療の開発も進み、人類にとってメリットが大きい」と話していました。\n",
+    "trimmedLead": "診療に忙しい医師などの研究をサポートしようと、東京科学大学は手間のかかる実験をロボットとAIが自動で進める施設を新たに設け、15日、開所式が行われました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015100131000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015100131000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "ロボットとAIが自動で実験 医師の研究をサポート 東京科学大",
+      "description": "診療に忙しい医師などの研究をサポートしようと、東京科学大学は手間のかかる実験をロボットとAIが自動で進める施設を新たに設け、15日、開所式が行われました。\n\n\nこの施設は東京 文京区にある東京科学大学",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015100131_202604151817_202604151818/index.m3u8&mrposter=/news/html/20260415/K10015100131_2604151749_0415185808_01_03.jpg",
+      "duration": "PT1M30S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015100131_202604151817_202604151818/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260415/K10015100131_2604151749_0415185808_01_03.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "難病や希少ながん患者の遺伝情報など集める新たな組織 発足",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015099151000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260414/K10015099151_2604141535_0414193211_01_02.jpg",
+      "datePublished": "2026-04-14T19:32:10+09:00"
+    },
+    {
+      "name": "京都 男子児童 遺体遺棄疑いで捜査 死亡の経緯確認へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015099781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260415/K10015099781_2604151124_0415115634_01_02.jpg",
+      "datePublished": "2026-04-15T12:05:00+09:00"
+    },
+    {
+      "name": "トランプ大統領 イランとの再協議を示唆 仲介外交も活発に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015099491000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260415/K10015099491_2604150515_0415062251_01_02.jpg",
+      "datePublished": "2026-04-15T18:39:43+09:00"
+    },
+    {
+      "name": "株価 5万8000円台回復 米 イラン近く協議再開との見方から",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015099751000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260415/K10015099751_2604151541_0415161450_01_02.jpg",
+      "datePublished": "2026-04-15T16:14:49+09:00"
+    },
+    {
+      "name": "「アサッテ君」 漫画家でエッセイストの東海林さだおさん死去",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015099821000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260415/K10015099821_2604151130_0415122440_01_03.jpg",
+      "datePublished": "2026-04-15T13:59:02+09:00"
+    },
+    {
+      "name": "高市首相 日本への医療関連物資確保で支援表明へ 議長声明も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015099831000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260415/K10015099831_2604151122_0415120822_01_02.jpg",
+      "datePublished": "2026-04-15T16:10:23+09:00"
+    },
+    {
+      "name": "官房長官 自衛官国歌歌唱 “政治的に誤解招かないかは別問題”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015099801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260415/K10015099801_2604151103_0415121633_01_02.jpg",
+      "datePublished": "2026-04-15T17:00:23+09:00"
+    },
+    {
+      "name": "原発事故 東電旧経営陣の強制起訴裁判の記録 永久保存を要望",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015099941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260415/K10015099941_2604151412_0415142647_01_03.jpg",
+      "datePublished": "2026-04-15T14:26:47+09:00"
+    },
+    {
+      "name": "トランプ関税から1年 自由貿易の試練",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015099001000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260414/K10015099001_2604141245_0414172430_01_02.jpg",
+      "datePublished": "2026-04-14T17:24:29+09:00"
+    },
+    {
+      "name": "「死」と向き合い始めた若者たち",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015098241000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260414/K10015098241_2604131925_0414195758_01_02.jpg",
+      "datePublished": "2026-04-14T19:57:57+09:00"
+    },
+    {
+      "name": "熊本地震10年 特集サイト",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0000053",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31090203.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

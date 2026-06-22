@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015051181000",
+  "dataSourceId": "na",
+  "name": "円相場 値下がり 日米の金利差維持の見方を背景に 円売る動き",
+  "headline": "円相場 値下がり 日米の金利差維持の見方を背景に 円売る動き",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015051181000",
+    "playlistId": "news-nwa-business-nationwide-20260213",
+    "newsarticleName": "円相場 値下がり 日米の金利差維持の見方を背景に 円売る動き",
+    "playlistName": "2月13日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "13日の東京外国為替市場、円相場は日米の金利差が維持されるという見方を背景に円を売る動きが出て、円相場は値下がりしました。\n\n\n午後5時時点の円相場は、12日と比べて39銭、円安ドル高の1ドル＝153",
+  "dateModified": "2026-02-13T18:20:11+09:00",
+  "datePublished": "2026-02-13T18:20:11+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260213/K10015051181_2602131807_0213182011_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260213/K10015051181_2602131807_0213182011_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0002423",
+      "name": "金融",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "13日の東京外国為替市場、円相場は日米の金利差が維持されるという見方を背景に円を売る動きが出て、円相場は値下がりしました。\n\n\n午後5時時点の円相場は、12日と比べて39銭、円安ドル高の1ドル＝153",
+  "articleBody": "13日の東京外国為替市場、円相場は日米の金利差が維持されるという見方を背景に円を売る動きが出て、円相場は値下がりしました。\n\n\n午後5時時点の円相場は、12日と比べて39銭、円安ドル高の1ドル＝153円39～41銭でした。\n\n一方、ユーロに対しては、22銭、円安ユーロ高の1ユーロ＝181円90～94銭でした。\n\nユーロはドルに対して1ユーロ＝1.1858～59ドルでした。\n\n市場関係者は「市場で高市政権に近いと見られている経済の専門家が、3月に開かれる日銀の金融政策決定会合での利上げに否定的な見方を示したことが一部のメディアの報道で伝わると、日米の金利差が維持されるという観測から円を売る動きが出た」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "13日の東京外国為替市場、円相場は日米の金利差が維持されるという見方を背景に円を売る動きが出て、円相場は値下がりしました。\n",
+    "markedBody": "午後5時時点の円相場は、12日と比べて39銭、円安ドル高の1ドル＝153円39～41銭でした。\n\n一方、ユーロに対しては、22銭、円安ユーロ高の1ユーロ＝181円90～94銭でした。\n\nユーロはドルに対して1ユーロ＝1.1858～59ドルでした。\n\n市場関係者は「市場で高市政権に近いと見られている経済の専門家が、3月に開かれる日銀の金融政策決定会合での利上げに否定的な見方を示したことが一部のメディアの報道で伝わると、日米の金利差が維持されるという観測から円を売る動きが出た」と話しています。\n",
+    "trimmedLead": "13日の東京外国為替市場、円相場は日米の金利差が維持されるという見方を背景に円を売る動きが出て、円相場は値下がりしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015051181000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015051181000",
+  "video": [],
+  "citation": [
+    {
+      "name": "iPS細胞使う 再生医療2製品 製造販売認める方針了承か審議へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015051111000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015051111_2602131717_0213174827_01_02.jpg",
+      "datePublished": "2026-02-13T17:48:26+09:00"
+    },
+    {
+      "name": "気象庁 予報を2週間先まで延長する方針で専門家などと検討へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015051021000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015051021_2602131551_0213174348_01_02.jpg",
+      "datePublished": "2026-02-13T17:43:47+09:00"
+    },
+    {
+      "name": "東芝 去年4月～12月の決算 営業利益が過去最高の2147億円",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015051081000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015051081_2602131640_0213173125_01_03.jpg",
+      "datePublished": "2026-02-13T17:31:24+09:00"
+    },
+    {
+      "name": "電通グループ 過去最大の赤字3276億円 海外事業の収益悪化など",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015051051000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015051051_2602131616_0213173013_01_02.jpg",
+      "datePublished": "2026-02-13T17:30:12+09:00"
+    },
+    {
+      "name": "診療報酬加算引き上げへ 中医協が改定案答申 患者窓口負担も増",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050791_2602131454_0213161253_01_03.jpg",
+      "datePublished": "2026-02-13T19:36:31+09:00"
+    },
+    {
+      "name": "中道 新代表に小川淳也氏を選出 階猛氏を抑える 立民出身",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050371_2602131824_0213191002_01_02.jpg",
+      "datePublished": "2026-02-13T20:41:43+09:00"
+    },
+    {
+      "name": "貫いた“大技” スキー男子モーグル 堀島行真【解説】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050571000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050571_2602130916_0213092209_01_02.jpg",
+      "datePublished": "2026-02-13T09:22:08+09:00"
+    },
+    {
+      "name": "ミラノ・コルティナ五輪 日本のメダル数は【2月13日】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050621000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050621_2602130537_0213055422_01_02.jpg",
+      "datePublished": "2026-02-13T05:54:22+09:00"
+    },
+    {
+      "name": "ミラノ・コルティナ五輪 見どころ【2/13～14】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015050601000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015050601_2602130359_0213055826_01_02.jpg",
+      "datePublished": "2026-02-13T05:58:25+09:00"
+    },
+    {
+      "name": "どうなる?“高市トレード” 選挙後の相場の行方【経済コラム】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015049741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260213/K10015049741_2602131129_0213163522_01_02.jpg",
+      "datePublished": "2026-02-13T16:35:21+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

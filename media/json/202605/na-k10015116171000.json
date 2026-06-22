@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015116171000",
+  "dataSourceId": "na",
+  "name": "上皇后さまにお疲れの様子 大相撲観戦を取りやめ",
+  "headline": "上皇后さまにお疲れの様子 大相撲観戦を取りやめ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015116171000",
+    "playlistId": "news-nwa-society-nationwide-20260507",
+    "newsarticleName": "上皇后さまにお疲れの様子 大相撲観戦を取りやめ",
+    "playlistName": "5月7日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "宮内庁は上皇后さまにお疲れの様子が見られるため、上皇さまとともに予定していた大相撲の観戦を取りやめられると発表しました。\n\n\n宮内庁によりますと、上皇后さまはこのところ、お住まいがある赤坂御用地内を散",
+  "dateModified": "2026-05-07T19:25:25+09:00",
+  "datePublished": "2026-05-07T19:25:25+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260507/K10015116171_2605071915_0507192526_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260507/K10015116171_2605071915_0507192526_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0000527",
+      "name": "皇室",
+      "display": true
+    },
+    {
+      "id": "0002213",
+      "name": "東京都",
+      "display": true
+    },
+    {
+      "id": "0000003",
+      "name": "大相撲",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "宮内庁は上皇后さまにお疲れの様子が見られるため、上皇さまとともに予定していた大相撲の観戦を取りやめられると発表しました。\n\n\n宮内庁によりますと、上皇后さまはこのところ、お住まいがある赤坂御用地内を散",
+  "articleBody": "宮内庁は上皇后さまにお疲れの様子が見られるため、上皇さまとともに予定していた大相撲の観戦を取りやめられると発表しました。\n\n\n宮内庁によりますと、上皇后さまはこのところ、お住まいがある赤坂御用地内を散策中に立ち止まって呼吸を整えるなど、お疲れの様子が見られ、いつもより散策を短く済ませられることが増えているということです。\n\n側近によりますと、具合が悪い訳ではないということですが、侍医とも相談し、91歳という年齢を考慮したうえで、5月10日に上皇さまとともに予定していた、東京 両国の国技館での大相撲夏場所の観戦を取りやめられました。\n",
+  "detailedArticleBody": {
+    "markedLead": "宮内庁は上皇后さまにお疲れの様子が見られるため、上皇さまとともに予定していた大相撲の観戦を取りやめられると発表しました。\n",
+    "markedBody": "宮内庁によりますと、上皇后さまはこのところ、お住まいがある赤坂御用地内を散策中に立ち止まって呼吸を整えるなど、お疲れの様子が見られ、いつもより散策を短く済ませられることが増えているということです。\n\n側近によりますと、具合が悪い訳ではないということですが、侍医とも相談し、91歳という年齢を考慮したうえで、5月10日に上皇さまとともに予定していた、東京 両国の国技館での大相撲夏場所の観戦を取りやめられました。\n",
+    "trimmedLead": "宮内庁は上皇后さまにお疲れの様子が見られるため、上皇さまとともに予定していた大相撲の観戦を取りやめられると発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015116171000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015116171000",
+  "video": [],
+  "citation": [
+    {
+      "name": "京都 男児殺害事件「本当の父親じゃないと言われ」趣旨の供述",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015116131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015116131_2605071827_0507183153_01_02.jpg",
+      "datePublished": "2026-05-07T18:31:53+09:00"
+    },
+    {
+      "name": "磐越道 高校生死亡の事故 運転手の逮捕状請求【詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015116041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015116041_2605071911_0507191553_01_03.jpg",
+      "datePublished": "2026-05-07T19:13:32+09:00"
+    },
+    {
+      "name": "株価 終値 初の6万2000円台で最高値更新 上昇幅3300円超と最大",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015115711_2605071534_0507155652_01_02.jpg",
+      "datePublished": "2026-05-07T16:35:12+09:00"
+    },
+    {
+      "name": "再審制度の見直し 検察不服申し立て原則禁止で引き続き調整",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015115791_2605071530_0507175638_01_02.jpg",
+      "datePublished": "2026-05-07T18:43:01+09:00"
+    },
+    {
+      "name": "三菱UFJがグーグルと提携 AI活用で次世代金融インフラづくりへ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015116081000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015116081_2605071718_0507180332_01_02.jpg",
+      "datePublished": "2026-05-07T18:03:31+09:00"
+    },
+    {
+      "name": "熊本 八代市新庁舎工事めぐり 市議ら あっせん収賄容疑で逮捕",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015115941_2605071446_0507145210_01_02.jpg",
+      "datePublished": "2026-05-07T18:25:36+09:00"
+    },
+    {
+      "name": "米 軍事的圧力強め合意迫る イラン「脅しは効果がない」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115511000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015115511_2605070621_0507063255_01_02.jpg",
+      "datePublished": "2026-05-07T19:24:26+09:00"
+    },
+    {
+      "name": "俳優の大葉健二さん死去 71歳 「宇宙刑事ギャバン」などで人気",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015116101000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015116101_2605071739_0507181127_01_02.jpg",
+      "datePublished": "2026-05-07T18:11:26+09:00"
+    },
+    {
+      "name": "エプスタイン問題 ラトニック商務長官が議会で証言 現職閣僚初",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115831000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015115831_2605071526_0507155101_01_02.jpg",
+      "datePublished": "2026-05-07T15:50:59+09:00"
+    },
+    {
+      "name": "高騰する不動産に台湾マネー？その実態と背景を追う",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094861000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015094861_2604211730_0507100812_01_02.jpg",
+      "datePublished": "2026-05-07T10:08:11+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

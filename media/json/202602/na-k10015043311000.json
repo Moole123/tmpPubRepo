@@ -1,0 +1,153 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015043311000",
+  "dataSourceId": "na",
+  "name": "中国 北京 4年前の冬のオリンピック会場“鳥の巣”で雪まつり レガシー再活用で家族連れで賑わう【動画】",
+  "headline": "【動画】中国 北京 4年前のオリンピック会場はいま",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015043311000",
+    "playlistId": "news-nwa-international-nationwide-20260206",
+    "newsarticleName": "中国 北京 4年前の冬のオリンピック会場“鳥の巣”で雪まつり レガシー再活用で家族連れで賑わう【動画】",
+    "playlistName": "2月6日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "4年前の北京オリンピックで開会式の会場だった、通称“鳥の巣”。\n\nいま雪まつりが開かれ、市民の憩いの場となっています。\n\n\n中国総局カメラマン\n植田 耕平\n2014年入局 大阪 岡山 東京\nニューデリ",
+  "dateModified": "2026-02-06T15:19:11+09:00",
+  "datePublished": "2026-02-06T15:19:11+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260206/K10015043311_2602051105_0206151912_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260206/K10015043311_2602051105_0206151912_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0001595",
+      "name": "中国",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "4年前の北京オリンピックで開会式の会場だった、通称“鳥の巣”。\n\nいま雪まつりが開かれ、市民の憩いの場となっています。\n\n\n中国総局カメラマン\n植田 耕平\n2014年入局 大阪 岡山 東京\nニューデリ",
+  "articleBody": "4年前の北京オリンピックで開会式の会場だった、通称“鳥の巣”。\n\nいま雪まつりが開かれ、市民の憩いの場となっています。\n\n\n中国総局カメラマン\n植田 耕平\n2014年入局 大阪 岡山 東京\nニューデリー勤務を経て\n2025年11月から現職\n",
+  "detailedArticleBody": {
+    "markedLead": "4年前の北京オリンピックで開会式の会場だった、通称“鳥の巣”。\n\nいま雪まつりが開かれ、市民の憩いの場となっています。\n",
+    "markedBody": ":::::nw--editor\n::::nw--editor-item\n![](https://news.web.nhk/news/html/20260206/K10015043311_2602051105_0206151912_02_04.jpg)\n\n:::nw--editor-text\n中国総局カメラマン\\\n**植田 耕平**\\\n2014年入局 大阪 岡山 東京\\\nニューデリー勤務を経て\\\n2025年11月から現職\n:::\n::::\n:::::\n",
+    "trimmedLead": "4年前の北京オリンピックで開会式の会場だった、通称“鳥の巣”。\n\nいま雪まつりが開かれ、市民の憩いの場となっています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015043311000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015043311000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "【動画】中国 北京 4年前のオリンピック会場はいま",
+      "description": "4年前の北京オリンピックで開会式の会場だった、通称“鳥の巣”。\n\nいま雪まつりが開かれ、市民の憩いの場となっています。\n\n\n中国総局カメラマン\n植田 耕平\n2014年入局 大阪 岡山 東京\nニューデリ",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015043311_202602051116_202602051952/index.m3u8&mrposter=/news/html/20260206/K10015043311_2602051105_0206151912_01_03.jpg",
+      "duration": "PT1M15S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015043311_202602051116_202602051952/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260206/K10015043311_2602051105_0206151912_01_03.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "【動画】日本の雪景色夢見て 台湾の人が集うのは",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015011921000",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30710665.jpg"
+    },
+    {
+      "name": "【動画】トルコ イスタンブール 市民から人気のチャイ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015027151000",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30710491.jpg"
+    },
+    {
+      "name": "【動画】トルコ 人々の心温める冬の名物サーレップとは？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014696281000",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30710881.jpg"
+    },
+    {
+      "name": "【動画】ニューヨーク 過去にいざなう地下鉄の旅",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014680881000",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30710887.jpg"
+    },
+    {
+      "name": "【動画】“バイユー”で生きる アリゲーターハンター",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014942381000",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30710689.jpg"
+    },
+    {
+      "name": "【動画】中国 農村の秋",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014979781000",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30710677.jpg"
+    },
+    {
+      "name": "【動画】トルコ パン屋で人気の”シミット”とは？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014903561000",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30710725.jpg"
+    },
+    {
+      "name": "【動画】中国 受験シーズンでチャイナドレス店にぎわう",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014827891000",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30710803.jpg"
+    },
+    {
+      "name": "【動画】インドの結婚式 気分は“マハラジャ”？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015001091000",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30710659.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

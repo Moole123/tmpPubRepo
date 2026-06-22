@@ -1,0 +1,178 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015116441000",
+  "dataSourceId": "na",
+  "name": "ハンタウイルス感染拡大 WHO「公衆リスクは低い」",
+  "headline": "ハンタウイルス感染拡大 WHO「公衆リスクは低い」",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015116441000",
+    "playlistId": "news-nwa-scienceculture-nationwide-20260508",
+    "newsarticleName": "ハンタウイルス感染拡大 WHO「公衆リスクは低い」",
+    "playlistName": "5月8日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "主にネズミなどが保有するハンタウイルスの集団感染が航行中のクルーズ船で疑われている問題を巡り、WHO＝世界保健機関は感染の確認は今後、増える可能性はある一方、「公衆へのリスクは低い」と説明しました。W",
+  "dateModified": "2026-05-08T05:07:59+09:00",
+  "datePublished": "2026-05-08T05:07:59+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260508/K10015116441_2605080351_0508050800_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260508/K10015116441_2605080351_0508050800_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "0002807",
+      "name": "ハンタウイルス",
+      "display": true
+    },
+    {
+      "id": "0002340",
+      "name": "WHO",
+      "display": true
+    },
+    {
+      "id": "0000414",
+      "name": "医療・健康",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "主にネズミなどが保有するハンタウイルスの集団感染が航行中のクルーズ船で疑われている問題を巡り、WHO＝世界保健機関は感染の確認は今後、増える可能性はある一方、「公衆へのリスクは低い」と説明しました。W",
+  "articleBody": "主にネズミなどが保有するハンタウイルスの集団感染が航行中のクルーズ船で疑われている問題を巡り、WHO＝世界保健機関は感染の確認は今後、増える可能性はある一方、「公衆へのリスクは低い」と説明しました。WHOの担当者は新型コロナウイルスのようなパンデミックの始まりとは異なるとしています。\n\n\nWHOは大西洋を航行中のクルーズ船で主にネズミなどが保有するハンタウイルスの集団感染が疑われている問題で、新たに2人の感染が確認され感染者は5人になったと7日、発表しました。\n\n疑いのある人もあわせると8人となり、このうち3人が死亡しています。\n\nこれについてテドロス事務局長は今回、確認されたハンタウイルスのひとつアンデスウイルスの潜伏期間は最大で6週間だとして「今後、感染者数が増える可能性はある」と述べました。\n\nその上で「状況は深刻ではあるものの、WHOとしては公衆へのリスクは低いと分析している」と説明しました。\n\nアンデスウイルスは南米でヒトからヒトに感染したケースが報告されていますが、感染症対策を担当するバンケルコフ氏は今回は船舶という限定的な場所で発生した感染拡大だとして「これは新型コロナウイルスのようなパンデミックの始まりとは違う」という認識を示しました。\n\nクルーズ船は現在、スペイン領カナリア諸島に向かい今月10日にテネリフェ島に到着する見通しだということで、WHOなどではこの間、船に専門家や医療従事者を派遣して乗船している人たちの状況を確認しているとしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "主にネズミなどが保有するハンタウイルスの集団感染が航行中のクルーズ船で疑われている問題を巡り、WHO＝世界保健機関は感染の確認は今後、増える可能性はある一方、「公衆へのリスクは低い」と説明しました。WHOの担当者は新型コロナウイルスのようなパンデミックの始まりとは異なるとしています。\n",
+    "markedBody": "WHOは大西洋を航行中のクルーズ船で主にネズミなどが保有するハンタウイルスの集団感染が疑われている問題で、新たに2人の感染が確認され感染者は5人になったと7日、発表しました。\n\n疑いのある人もあわせると8人となり、このうち3人が死亡しています。\n\nこれについてテドロス事務局長は今回、確認されたハンタウイルスのひとつアンデスウイルスの潜伏期間は最大で6週間だとして「今後、感染者数が増える可能性はある」と述べました。\n\nその上で「状況は深刻ではあるものの、WHOとしては公衆へのリスクは低いと分析している」と説明しました。\n\nアンデスウイルスは南米でヒトからヒトに感染したケースが報告されていますが、感染症対策を担当するバンケルコフ氏は今回は船舶という限定的な場所で発生した感染拡大だとして「これは新型コロナウイルスのようなパンデミックの始まりとは違う」という認識を示しました。\n\nクルーズ船は現在、スペイン領カナリア諸島に向かい今月10日にテネリフェ島に到着する見通しだということで、WHOなどではこの間、船に専門家や医療従事者を派遣して乗船している人たちの状況を確認しているとしています。\n",
+    "trimmedLead": "主にネズミなどが保有するハンタウイルスの集団感染が航行中のクルーズ船で疑われている問題を巡り、WHO＝世界保健機関は感染の確認は今後、増える可能性はある一方、「公衆へのリスクは低い」と説明しました。WHOの担当者は新型コロナウイルスのようなパンデミックの始まりとは異なるとしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015116441000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015116441000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "ハンタウイルス感染拡大 WHO「公衆リスクは低い」",
+      "description": "主にネズミなどが保有するハンタウイルスの集団感染が航行中のクルーズ船で疑われている問題を巡り、WHO＝世界保健機関は感染の確認は今後、増える可能性はある一方、「公衆へのリスクは低い」と説明しました。W",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015116441_202605080524_202605080524/index.m3u8&mrposter=/news/html/20260508/K10015116441_2605080351_0508050800_01_02.jpg",
+      "duration": "PT2M10S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015116441_202605080524_202605080524/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260508/K10015116441_2605080351_0508050800_01_02.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "集団感染疑いのクルーズ船乗客と接触の客室乗務員 感染疑い",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015116251000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015116251_2605072103_0507210541_01_02.jpg",
+      "datePublished": "2026-05-08T04:33:00+09:00"
+    },
+    {
+      "name": "ハンタウイルス確認のクルーズ船 3人移送 感染源調査も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115981000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015115981_2605071522_0507152602_01_03.jpg",
+      "datePublished": "2026-05-07T15:26:01+09:00"
+    },
+    {
+      "name": "磐越道 高校生ら21人死傷事故 過失運転致死傷容疑で運転手逮捕",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015116041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015116041_2605071911_0507191553_01_03.jpg",
+      "datePublished": "2026-05-07T23:06:21+09:00"
+    },
+    {
+      "name": "株価 終値 初の6万2000円台で最高値更新 上昇幅3300円超と最大",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015115711_2605071534_0507155652_01_02.jpg",
+      "datePublished": "2026-05-07T16:35:12+09:00"
+    },
+    {
+      "name": "再審制度の見直し 検察不服申し立て原則禁止で引き続き調整",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015115791_2605071530_0507175638_01_02.jpg",
+      "datePublished": "2026-05-07T21:49:28+09:00"
+    },
+    {
+      "name": "熊本 八代市新庁舎工事めぐり 市議ら あっせん収賄容疑で逮捕",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015115941_2605071446_0507145210_01_02.jpg",
+      "datePublished": "2026-05-07T21:19:46+09:00"
+    },
+    {
+      "name": "福井女子中学生殺害事件 検察当局 問題点など検討結果明らかに",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015116291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015116291_2605072239_0507233234_01_02.jpg",
+      "datePublished": "2026-05-07T23:32:33+09:00"
+    },
+    {
+      "name": "山形 酒田 山林で男性の遺体 クマに襲われたか 各地で被害",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015116021000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015116021_2605071952_0507200254_01_02.jpg",
+      "datePublished": "2026-05-07T20:02:53+09:00"
+    },
+    {
+      "name": "米 軍事的圧力強め合意迫る イラン「脅しは効果がない」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015115511000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015115511_2605070621_0507063255_01_02.jpg",
+      "datePublished": "2026-05-07T19:24:26+09:00"
+    },
+    {
+      "name": "高騰する不動産に台湾マネー？その実態と背景を追う",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094861000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260507/K10015094861_2604211730_0507100812_01_02.jpg",
+      "datePublished": "2026-05-07T10:08:11+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

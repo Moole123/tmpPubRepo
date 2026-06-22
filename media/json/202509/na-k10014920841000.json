@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014920841000",
+  "dataSourceId": "na",
+  "name": "羽田空港 きょうも170便余が欠航 あすは平常どおり運航予定",
+  "headline": "羽田空港 きょうも170便余が欠航 あすは平常どおり運航予定",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014920841000",
+    "playlistId": "news-nwa-disaster-nationwide-20250912",
+    "newsarticleName": "羽田空港 きょうも170便余が欠航 あすは平常どおり運航予定",
+    "playlistName": "9月12日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "羽田空港では11日に雷雨で多くの便に欠航や遅れが出た影響で、12日も機材繰りや乗務員の調整などによる欠航や遅れが相次ぎました。\n\n\n国内の主な航空会社によりますと、羽田空港を発着する12日の便は、午後",
+  "dateModified": "2025-09-12T18:40:41+09:00",
+  "datePublished": "2025-09-12T12:14:20+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250912/K10014920841_2509121205_0912121353_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250912/K10014920841_2509121205_0912121353_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害",
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "羽田空港では11日に雷雨で多くの便に欠航や遅れが出た影響で、12日も機材繰りや乗務員の調整などによる欠航や遅れが相次ぎました。\n\n\n国内の主な航空会社によりますと、羽田空港を発着する12日の便は、午後",
+  "articleBody": "羽田空港では11日に雷雨で多くの便に欠航や遅れが出た影響で、12日も機材繰りや乗務員の調整などによる欠航や遅れが相次ぎました。\n\n\n国内の主な航空会社によりますと、羽田空港を発着する12日の便は、午後6時の時点で合わせて170便余りが欠航になったということです。\n\n欠航になったのは全日空が114便、日本航空が44便、スカイマークが11便、ソラシドエアが5便、スターフライヤーが2便、エア・ドゥが1便の合わせて177便です。\n\n航空各社によりますと、13日は平常どおり運航する予定だということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "羽田空港では11日に雷雨で多くの便に欠航や遅れが出た影響で、12日も機材繰りや乗務員の調整などによる欠航や遅れが相次ぎました。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20250912/K10014920841_2509121205_0912121353_02_03.jpg)\n\n国内の主な航空会社によりますと、羽田空港を発着する12日の便は、午後6時の時点で合わせて170便余りが欠航になったということです。\n\n欠航になったのは全日空が114便、日本航空が44便、スカイマークが11便、ソラシドエアが5便、スターフライヤーが2便、エア・ドゥが1便の合わせて177便です。\n\n航空各社によりますと、13日は平常どおり運航する予定だということです。\n",
+    "trimmedLead": "羽田空港では11日に雷雨で多くの便に欠航や遅れが出た影響で、12日も機材繰りや乗務員の調整などによる欠航や遅れが相次ぎました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014920841000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014920841000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015002681000",
+  "dataSourceId": "na",
+  "name": "茂木外相 “大雨被害のベトナムに2億円余の緊急無償資金協力”",
+  "headline": "茂木外相 “大雨被害のベトナムに2億円余の緊急無償資金協力”",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015002681000",
+    "playlistId": "news-nwa-politics-nationwide-20251212",
+    "newsarticleName": "茂木外相 “大雨被害のベトナムに2億円余の緊急無償資金協力”",
+    "playlistName": "12月12日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "茂木外務大臣は、11月の大雨で大きな被害を受けたベトナムに対し、日本円にして2億円余りの緊急無償資金協力を行うと発表しました。\n\n\n茂木外務大臣は12日の記者会見で、11月の大雨による洪水や土砂崩れで",
+  "dateModified": "2025-12-12T21:11:02+09:00",
+  "datePublished": "2025-12-12T21:11:02+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251212/K10015002681_2512122101_1212211103_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251212/K10015002681_2512122101_1212211103_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治",
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "茂木外務大臣は、11月の大雨で大きな被害を受けたベトナムに対し、日本円にして2億円余りの緊急無償資金協力を行うと発表しました。\n\n\n茂木外務大臣は12日の記者会見で、11月の大雨による洪水や土砂崩れで",
+  "articleBody": "茂木外務大臣は、11月の大雨で大きな被害を受けたベトナムに対し、日本円にして2億円余りの緊急無償資金協力を行うと発表しました。\n\n\n茂木外務大臣は12日の記者会見で、11月の大雨による洪水や土砂崩れで大きな被害を受けたベトナムに150万ドル、日本円にしておよそ2億3000万円の緊急無償資金協力を行うと発表しました。\n\n国連のIOM＝国際移住機関などを通じて、水や毛布、せっけんなどの購入にあてられるということです。\n\n茂木大臣は「被災地域の1日も早い復旧に向けて、関係機関と緊密に連携していく。東南アジアでは台風や洪水などのさまざまな被害が生じているが、各国のニーズや要請に応じて適切な支援を行ってきており、これからも対応していきたい」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "茂木外務大臣は、11月の大雨で大きな被害を受けたベトナムに対し、日本円にして2億円余りの緊急無償資金協力を行うと発表しました。\n",
+    "markedBody": "茂木外務大臣は12日の記者会見で、11月の大雨による洪水や土砂崩れで大きな被害を受けたベトナムに150万ドル、日本円にしておよそ2億3000万円の緊急無償資金協力を行うと発表しました。\n\n国連のIOM＝国際移住機関などを通じて、水や毛布、せっけんなどの購入にあてられるということです。\n\n茂木大臣は「被災地域の1日も早い復旧に向けて、関係機関と緊密に連携していく。東南アジアでは台風や洪水などのさまざまな被害が生じているが、各国のニーズや要請に応じて適切な支援を行ってきており、これからも対応していきたい」と述べました。\n",
+    "trimmedLead": "茂木外務大臣は、11月の大雨で大きな被害を受けたベトナムに対し、日本円にして2億円余りの緊急無償資金協力を行うと発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015002681000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015002681000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

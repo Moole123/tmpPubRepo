@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015011811000",
+  "dataSourceId": "na",
+  "name": "韓国 サムスン電子元幹部らを起訴 半導体生産技術を中国へ流出",
+  "headline": "韓国 サムスン電子元幹部らを起訴 半導体生産技術を中国へ流出",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015011811000",
+    "playlistId": "news-nwa-international-nationwide-20251223",
+    "newsarticleName": "韓国 サムスン電子元幹部らを起訴 半導体生産技術を中国へ流出",
+    "playlistName": "12月23日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "韓国の検察は、サムスン電子の元幹部らが2016年に設立された中国の半導体メーカーにDRAMと呼ばれる記憶用半導体の生産技術を流出させたなどとして、産業技術保護法違反などの罪で起訴したと発表しました。\n",
+  "dateModified": "2025-12-23T20:19:25+09:00",
+  "datePublished": "2025-12-23T20:19:25+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251223/K10015011811_2512232002_1223201926_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251223/K10015011811_2512232002_1223201926_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際",
+    "経済"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "韓国の検察は、サムスン電子の元幹部らが2016年に設立された中国の半導体メーカーにDRAMと呼ばれる記憶用半導体の生産技術を流出させたなどとして、産業技術保護法違反などの罪で起訴したと発表しました。\n",
+  "articleBody": "韓国の検察は、サムスン電子の元幹部らが2016年に設立された中国の半導体メーカーにDRAMと呼ばれる記憶用半導体の生産技術を流出させたなどとして、産業技術保護法違反などの罪で起訴したと発表しました。\n\n\n韓国の検察はサムスン電子の元幹部らが2016年に設立された中国の半導体メーカーに半導体の生産技術などを流出させたなどとして、産業技術保護法違反などの罪で起訴したと23日発表しました。\n\nサムスン電子はDRAMと呼ばれる記憶用半導体の開発に力を入れていますが、起訴された元幹部らの1人は2016年の9月ごろに中国の半導体メーカーに転職し、サムスン電子のDRAMの製造工程に関する機密情報を書き写して持ち出したということです。\n\n検察は、サムスン電子の技術が不正に使用されたことが、中国の半導体メーカーがDRAMの量産に成功することにつながったとしたうえで、今後の韓国の経済への被害額は数十兆ウォンと推定されるとの見方を示しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "韓国の検察は、サムスン電子の元幹部らが2016年に設立された中国の半導体メーカーにDRAMと呼ばれる記憶用半導体の生産技術を流出させたなどとして、産業技術保護法違反などの罪で起訴したと発表しました。\n",
+    "markedBody": "韓国の検察はサムスン電子の元幹部らが2016年に設立された中国の半導体メーカーに半導体の生産技術などを流出させたなどとして、産業技術保護法違反などの罪で起訴したと23日発表しました。\n\nサムスン電子はDRAMと呼ばれる記憶用半導体の開発に力を入れていますが、起訴された元幹部らの1人は2016年の9月ごろに中国の半導体メーカーに転職し、サムスン電子のDRAMの製造工程に関する機密情報を書き写して持ち出したということです。\n\n検察は、サムスン電子の技術が不正に使用されたことが、中国の半導体メーカーがDRAMの量産に成功することにつながったとしたうえで、今後の韓国の経済への被害額は数十兆ウォンと推定されるとの見方を示しています。\n",
+    "trimmedLead": "韓国の検察は、サムスン電子の元幹部らが2016年に設立された中国の半導体メーカーにDRAMと呼ばれる記憶用半導体の生産技術を流出させたなどとして、産業技術保護法違反などの罪で起訴したと発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015011811000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015011811000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

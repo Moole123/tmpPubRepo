@@ -1,0 +1,144 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015096801000",
+  "dataSourceId": "na",
+  "name": "ミャンマー 前軍司令官ミン・アウン・フライン氏が大統領就任",
+  "headline": "ミャンマー 前軍司令官ミン・アウン・フライン氏が大統領就任",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015096801000",
+    "playlistId": "news-nwa-international-nationwide-20260410",
+    "newsarticleName": "ミャンマー 前軍司令官ミン・アウン・フライン氏が大統領就任",
+    "playlistName": "4月10日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "ミャンマーでは5年前のクーデターを主導した前の軍の司令官、ミン・アウン・フライン氏が大統領に就任し、新しい政権でも軍が強い影響力を持つものとみられます。\n\n\nミャンマーでは、軍と、民主派勢力や少数民族",
+  "dateModified": "2026-04-10T20:22:38+09:00",
+  "datePublished": "2026-04-10T20:22:38+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260410/K10015096801_2604101911_0410202238_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260410/K10015096801_2604101911_0410202238_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0001513",
+      "name": "ミャンマー",
+      "display": true
+    },
+    {
+      "id": "0000305",
+      "name": "海外の選挙",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ミャンマーでは5年前のクーデターを主導した前の軍の司令官、ミン・アウン・フライン氏が大統領に就任し、新しい政権でも軍が強い影響力を持つものとみられます。\n\n\nミャンマーでは、軍と、民主派勢力や少数民族",
+  "articleBody": "ミャンマーでは5年前のクーデターを主導した前の軍の司令官、ミン・アウン・フライン氏が大統領に就任し、新しい政権でも軍が強い影響力を持つものとみられます。\n\n\nミャンマーでは、軍と、民主派勢力や少数民族の武装勢力との間で内戦状態が続く中、ことし1月にかけて民主派を排除した形で総選挙が行われ、軍を支持する勢力が議席の8割以上を占めました。\n\nこれを受けて10日、前の軍の司令官、ミン・アウン・フライン氏が大統領に就任しました。\n\n議会で演説したミン・アウン・フライン氏は「新政権は今後、多くの課題が待ち受けていることを十分に認識している。国民と力を合わせて課題に立ち向かう」と述べました。\n\nミン・アウン・フライン氏は2011年以降、軍のトップである司令官を務め、5年前には前の年に行われた総選挙で不正があったと主張してクーデターを主導し、実権を握ってきました。\n\n新しい政権でも軍が強い影響力を持つものとみられます。\n",
+  "detailedArticleBody": {
+    "markedLead": "ミャンマーでは5年前のクーデターを主導した前の軍の司令官、ミン・アウン・フライン氏が大統領に就任し、新しい政権でも軍が強い影響力を持つものとみられます。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20260410/K10015096801_2604101911_0410202238_02_03.jpg)\n\nミャンマーでは、軍と、民主派勢力や少数民族の武装勢力との間で内戦状態が続く中、ことし1月にかけて民主派を排除した形で総選挙が行われ、軍を支持する勢力が議席の8割以上を占めました。\n\nこれを受けて10日、前の軍の司令官、ミン・アウン・フライン氏が大統領に就任しました。\n\n議会で演説したミン・アウン・フライン氏は「新政権は今後、多くの課題が待ち受けていることを十分に認識している。国民と力を合わせて課題に立ち向かう」と述べました。\n\nミン・アウン・フライン氏は2011年以降、軍のトップである司令官を務め、5年前には前の年に行われた総選挙で不正があったと主張してクーデターを主導し、実権を握ってきました。\n\n新しい政権でも軍が強い影響力を持つものとみられます。\n",
+    "trimmedLead": "ミャンマーでは5年前のクーデターを主導した前の軍の司令官、ミン・アウン・フライン氏が大統領に就任し、新しい政権でも軍が強い影響力を持つものとみられます。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015096801000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015096801000",
+  "video": [],
+  "citation": [
+    {
+      "name": "ミャンマー クーデター後 初の大統領選で軍の前司令官が選出",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015091631000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260403/K10015091631_2604031744_0403181002_01_03.jpg",
+      "datePublished": "2026-04-03T18:10:01+09:00"
+    },
+    {
+      "name": "クーデターから5年 どうなる総選挙後のミャンマー",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015043961000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260205/K10015043961_2602051141_0205142828_01_02.jpg",
+      "datePublished": "2026-02-05T14:28:27+09:00"
+    },
+    {
+      "name": "米・イラン あす協議予定 主張対立で開催か予断を許さない状況",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015096141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260410/K10015096141_2604101927_0410193012_01_03.jpg",
+      "datePublished": "2026-04-10T19:30:11+09:00"
+    },
+    {
+      "name": "日印外相が電話会談 エネルギー供給力の強じん化へ協力で一致",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015096671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260410/K10015096671_2604101726_0410175302_01_02.jpg",
+      "datePublished": "2026-04-10T17:53:01+09:00"
+    },
+    {
+      "name": "中国 習主席 台湾最大野党 国民党トップと会談 2016年11月以来",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015096691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260410/K10015096691_2604101756_0410181637_01_03.jpg",
+      "datePublished": "2026-04-10T18:16:36+09:00"
+    },
+    {
+      "name": "ことしの外交青書 中国“最も重要な二国間関係の一つ”見送る",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015096291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260410/K10015096291_2604100906_0410092805_01_02.jpg",
+      "datePublished": "2026-04-10T20:15:36+09:00"
+    },
+    {
+      "name": "EUの“異端児” ハンガリー・オルバン首相の命運",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015096521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260410/K10015096521_2604101215_0410160517_01_02.jpg",
+      "datePublished": "2026-04-10T16:05:16+09:00"
+    },
+    {
+      "name": "アメリカ財務省高官にきく 日本版CFIUSの意義と課題",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015095541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260409/K10015095541_2604091730_0409221451_01_02.jpg",
+      "datePublished": "2026-04-10T12:12:05+09:00"
+    },
+    {
+      "name": "【随時更新】ロシア ウクライナに軍事侵攻（4月10日の動き）",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015075001000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260410/K10015075001_2603131645_0410075822_01_02.jpg",
+      "datePublished": "2026-04-10T19:04:58+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015008371000",
+  "dataSourceId": "na",
+  "name": "特別交付税12月分 総額3074億円に 記録的大雨被害などに対応",
+  "headline": "特別交付税12月分 総額3074億円に 記録的大雨被害などに対応",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015008371000",
+    "playlistId": "news-nwa-politics-nationwide-20251219",
+    "newsarticleName": "特別交付税12月分 総額3074億円に 記録的大雨被害などに対応",
+    "playlistName": "12月19日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "国から自治体に交付される今年度の特別交付税の12月分の交付額が決まり、熊本県や鹿児島県での記録的な大雨などにより、総額は3074億円となりました。\n\n\n特別交付税は12月と3月の2回にわけて、災害復旧",
+  "dateModified": "2025-12-19T17:28:27+09:00",
+  "datePublished": "2025-12-19T17:28:27+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251219/K10015008371_2512191405_1219172828_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251219/K10015008371_2512191405_1219172828_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "国から自治体に交付される今年度の特別交付税の12月分の交付額が決まり、熊本県や鹿児島県での記録的な大雨などにより、総額は3074億円となりました。\n\n\n特別交付税は12月と3月の2回にわけて、災害復旧",
+  "articleBody": "国から自治体に交付される今年度の特別交付税の12月分の交付額が決まり、熊本県や鹿児島県での記録的な大雨などにより、総額は3074億円となりました。\n\n\n特別交付税は12月と3月の2回にわけて、災害復旧などのために国から自治体に交付されるもので、19日の閣議で12月分の交付額が報告されました。\n\n総務省によりますと、12月分の交付額の総額は3074億円で、昨年度よりも362億円、率にして10.5％減りました。\n\nこのうち、8月からの記録的な大雨で被害が出た熊本県と県内の市町村に合わせて136億9821万円が、鹿児島県と県内の市町村に合わせて74億4875万円が交付されます。\n\n特別交付税は12月22日に各自治体に交付されます。\n\n一方総務省は、12月、青森県東方沖で発生した地震による被害や、クマによる相次ぐ被害を受けた駆除費用などについては来年3月分の特別交付税で対応することにしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "国から自治体に交付される今年度の特別交付税の12月分の交付額が決まり、熊本県や鹿児島県での記録的な大雨などにより、総額は3074億円となりました。\n",
+    "markedBody": "特別交付税は12月と3月の2回にわけて、災害復旧などのために国から自治体に交付されるもので、19日の閣議で12月分の交付額が報告されました。\n\n総務省によりますと、12月分の交付額の総額は3074億円で、昨年度よりも362億円、率にして10.5％減りました。\n\n![](https://news.web.nhk/news/html/20251219/K10015008371_2512191405_1219172828_02_03.jpg)\n\nこのうち、8月からの記録的な大雨で被害が出た熊本県と県内の市町村に合わせて136億9821万円が、鹿児島県と県内の市町村に合わせて74億4875万円が交付されます。\n\n特別交付税は12月22日に各自治体に交付されます。\n\n一方総務省は、12月、青森県東方沖で発生した地震による被害や、クマによる相次ぐ被害を受けた駆除費用などについては来年3月分の特別交付税で対応することにしています。\n",
+    "trimmedLead": "国から自治体に交付される今年度の特別交付税の12月分の交付額が決まり、熊本県や鹿児島県での記録的な大雨などにより、総額は3074億円となりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015008371000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015008371000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

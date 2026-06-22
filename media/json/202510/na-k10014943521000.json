@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014943521000",
+  "dataSourceId": "na",
+  "name": "インドネシア 学校の建物崩壊事故 捜索を終了 61人死亡確認",
+  "headline": "インドネシア 学校の建物崩壊事故 捜索を終了 61人死亡確認",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014943521000",
+    "playlistId": "news-nwa-international-nationwide-20251007",
+    "newsarticleName": "インドネシア 学校の建物崩壊事故 捜索を終了 61人死亡確認",
+    "playlistName": "10月7日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "インドネシアの東ジャワ州でイスラム教の学校の建物が崩壊した事故で、当局は7日、捜索を終了したと発表し、この事故で61人の死亡が確認されたと明らかにしました。\n\n\nインドネシア東ジャワ州のスラバヤ近郊で",
+  "dateModified": "2025-10-07T16:14:27+09:00",
+  "datePublished": "2025-10-07T16:14:27+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-640x360.png",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "インドネシアの東ジャワ州でイスラム教の学校の建物が崩壊した事故で、当局は7日、捜索を終了したと発表し、この事故で61人の死亡が確認されたと明らかにしました。\n\n\nインドネシア東ジャワ州のスラバヤ近郊で",
+  "articleBody": "インドネシアの東ジャワ州でイスラム教の学校の建物が崩壊した事故で、当局は7日、捜索を終了したと発表し、この事故で61人の死亡が確認されたと明らかにしました。\n\n\nインドネシア東ジャワ州のスラバヤ近郊で先月29日、イスラム教の寄宿学校の建物が突然、崩壊し、大勢の生徒ががれきのなかに閉じ込められました。\n\n現地では、捜索活動が進められてきましたが、国家防災庁は7日、捜索活動を終了したと発表し、61人の死亡が確認されたと明らかにしました。\n\n依然として2人と連絡がとれないということで、当局が確認を進めることにしています。\n\n崩壊した建物では当時、上層階の増築に向けた工事が行われていて、当局は基礎の強度が不十分で建物が重さに耐えられなかった可能性があるとみて、原因を調べています。\n\n地元メディアは当局の話として、国内の多くのイスラム教の寄宿学校で建築許可を得ないまま建物が建設されていると伝えていて、政府は建築状況の確認を進める方針を示しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "インドネシアの東ジャワ州でイスラム教の学校の建物が崩壊した事故で、当局は7日、捜索を終了したと発表し、この事故で61人の死亡が確認されたと明らかにしました。\n",
+    "markedBody": "インドネシア東ジャワ州のスラバヤ近郊で先月29日、イスラム教の寄宿学校の建物が突然、崩壊し、大勢の生徒ががれきのなかに閉じ込められました。\n\n現地では、捜索活動が進められてきましたが、国家防災庁は7日、捜索活動を終了したと発表し、61人の死亡が確認されたと明らかにしました。\n\n依然として2人と連絡がとれないということで、当局が確認を進めることにしています。\n\n崩壊した建物では当時、上層階の増築に向けた工事が行われていて、当局は基礎の強度が不十分で建物が重さに耐えられなかった可能性があるとみて、原因を調べています。\n\n地元メディアは当局の話として、国内の多くのイスラム教の寄宿学校で建築許可を得ないまま建物が建設されていると伝えていて、政府は建築状況の確認を進める方針を示しています。\n",
+    "trimmedLead": "インドネシアの東ジャワ州でイスラム教の学校の建物が崩壊した事故で、当局は7日、捜索を終了したと発表し、この事故で61人の死亡が確認されたと明らかにしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014943521000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014943521000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": false,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

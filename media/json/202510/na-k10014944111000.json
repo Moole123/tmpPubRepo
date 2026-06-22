@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014944111000",
+  "dataSourceId": "na",
+  "name": "インド北部で土砂崩れ バスが巻き込まれ15人死亡",
+  "headline": "インド北部で土砂崩れ バスが巻き込まれ15人死亡",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014944111000",
+    "playlistId": "news-nwa-international-nationwide-20251008",
+    "newsarticleName": "インド北部で土砂崩れ バスが巻き込まれ15人死亡",
+    "playlistName": "10月8日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "インドの北部で大雨によって発生した土砂崩れにバスが巻き込まれ、ロイター通信などは、8日、これまでに乗客ら15人が死亡したと伝えました。\n\n\nインドでは、モンスーンと呼ばれる雨季の終盤の時期ですが、ロイ",
+  "dateModified": "2025-10-08T06:30:24+09:00",
+  "datePublished": "2025-10-08T06:30:24+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-640x360.png",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "インドの北部で大雨によって発生した土砂崩れにバスが巻き込まれ、ロイター通信などは、8日、これまでに乗客ら15人が死亡したと伝えました。\n\n\nインドでは、モンスーンと呼ばれる雨季の終盤の時期ですが、ロイ",
+  "articleBody": "インドの北部で大雨によって発生した土砂崩れにバスが巻き込まれ、ロイター通信などは、8日、これまでに乗客ら15人が死亡したと伝えました。\n\n\nインドでは、モンスーンと呼ばれる雨季の終盤の時期ですが、ロイター通信などによりますと、北部のヒマチャル・プラデシュ州で7日、豪雨によって発生した土砂崩れにバスが巻き込まれ、これまでに乗客ら15人が死亡したということです。\n\n現地からの映像では、救助隊員や地元の住民らが大量の土砂を重機で片づける様子や、被災者を救急車に運び込む様子が確認できます。\n\n地元政府によりますと、これまでに18人が救助されたものの、バスの乗客数は確認できていないということです。\n\n南アジアでは毎年、6月から9月ごろのモンスーンに、各地で大雨による被害が発生し、ネパールとインドでは今月に入って洪水や土砂崩れなどにより、これまでに合わせて60人以上が死亡するなど、深刻な被害が相次いでいます。\n",
+  "detailedArticleBody": {
+    "markedLead": "インドの北部で大雨によって発生した土砂崩れにバスが巻き込まれ、ロイター通信などは、8日、これまでに乗客ら15人が死亡したと伝えました。\n",
+    "markedBody": "インドでは、モンスーンと呼ばれる雨季の終盤の時期ですが、ロイター通信などによりますと、北部のヒマチャル・プラデシュ州で7日、豪雨によって発生した土砂崩れにバスが巻き込まれ、これまでに乗客ら15人が死亡したということです。\n\n現地からの映像では、救助隊員や地元の住民らが大量の土砂を重機で片づける様子や、被災者を救急車に運び込む様子が確認できます。\n\n地元政府によりますと、これまでに18人が救助されたものの、バスの乗客数は確認できていないということです。\n\n南アジアでは毎年、6月から9月ごろのモンスーンに、各地で大雨による被害が発生し、ネパールとインドでは今月に入って洪水や土砂崩れなどにより、これまでに合わせて60人以上が死亡するなど、深刻な被害が相次いでいます。\n",
+    "trimmedLead": "インドの北部で大雨によって発生した土砂崩れにバスが巻き込まれ、ロイター通信などは、8日、これまでに乗客ら15人が死亡したと伝えました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014944111000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014944111000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": false,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

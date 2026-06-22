@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015082431000",
+  "dataSourceId": "na",
+  "name": "埼玉 皆野町 簑山で山林火災 消火活動行われるも延焼中",
+  "headline": "埼玉 皆野町 簑山で山林火災 消火活動行われるも延焼中",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015082431000",
+    "playlistId": "news-nwa-disaster-nationwide-20260324",
+    "newsarticleName": "埼玉 皆野町 簑山で山林火災 消火活動行われるも延焼中",
+    "playlistName": "3月24日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "24日未明に埼玉県皆野町で山林火災が発生し、現在も消防による消火活動が行われていますが、延焼が続いています。これまでのところけが人や建物への被害は確認されていないということです。\n\n\n24日午前2時5",
+  "dateModified": "2026-03-24T06:51:43+09:00",
+  "datePublished": "2026-03-24T06:51:43+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260324/K10015082431_2603240713_0324071355_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260324/K10015082431_2603240713_0324071355_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002211",
+      "name": "埼玉県",
+      "display": true
+    },
+    {
+      "id": "0002689",
+      "name": "火災",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "24日未明に埼玉県皆野町で山林火災が発生し、現在も消防による消火活動が行われていますが、延焼が続いています。これまでのところけが人や建物への被害は確認されていないということです。\n\n\n24日午前2時5",
+  "articleBody": "24日未明に埼玉県皆野町で山林火災が発生し、現在も消防による消火活動が行われていますが、延焼が続いています。これまでのところけが人や建物への被害は確認されていないということです。\n\n\n24日午前2時50分ごろ、埼玉県皆野町で「山頂から火が見える」と通りかかった人から消防に通報がありました。\n\n火災が確認されたのは、標高およそ580メートルの簑山（みのやま）の山頂付近です。\n\n消防によりますとおよそ20人の態勢で消火活動にあたっていますが、通報から3時間余りがたった午前6時の時点でも延焼が続いているということで、およそ3ヘクタールが焼けたとみられています。\n\nこれまでのところ、けが人の情報や建物への被害は確認されていないということです。\n\n現場は皆野町と秩父市にまたがる簑山の山頂を整備した「美の山公園」の近くで、消防は、設置された防火水槽の水を使って引き続き消火活動を進めることにしています。\n\n埼玉県は、雨が少ない状況が続いて山林火災が起きやすくなっているとして火の取り扱いなどに注意を呼びかけていました。\n",
+  "detailedArticleBody": {
+    "markedLead": "24日未明に埼玉県皆野町で山林火災が発生し、現在も消防による消火活動が行われていますが、延焼が続いています。これまでのところけが人や建物への被害は確認されていないということです。\n",
+    "markedBody": "24日午前2時50分ごろ、埼玉県皆野町で「山頂から火が見える」と通りかかった人から消防に通報がありました。\n\n火災が確認されたのは、標高およそ580メートルの簑山（みのやま）の山頂付近です。\n\n消防によりますとおよそ20人の態勢で消火活動にあたっていますが、通報から3時間余りがたった午前6時の時点でも延焼が続いているということで、およそ3ヘクタールが焼けたとみられています。\n\nこれまでのところ、けが人の情報や建物への被害は確認されていないということです。\n\n現場は皆野町と秩父市にまたがる簑山の山頂を整備した「美の山公園」の近くで、消防は、設置された防火水槽の水を使って引き続き消火活動を進めることにしています。\n\n埼玉県は、雨が少ない状況が続いて山林火災が起きやすくなっているとして火の取り扱いなどに注意を呼びかけていました。\n",
+    "trimmedLead": "24日未明に埼玉県皆野町で山林火災が発生し、現在も消防による消火活動が行われていますが、延焼が続いています。これまでのところけが人や建物への被害は確認されていないということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015082431000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015082431000",
+  "video": [],
+  "citation": [
+    {
+      "name": "トランプ大統領“核兵器持たないなど合意” イラン側は否定",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260323/K10015082331_2603232032_0323204307_01_02.jpg",
+      "datePublished": "2026-03-24T08:02:56+09:00"
+    },
+    {
+      "name": "ロシア軍 ウクライナ東部で大規模攻勢開始か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260323/K10015082371_2603232144_0323224347_01_02.jpg",
+      "datePublished": "2026-03-23T22:43:46+09:00"
+    },
+    {
+      "name": "新年度予算案めぐり暫定予算案を検討 野党側は充実審議求める",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082271000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260324/K10015082271_2603232222_0324060644_01_02.jpg",
+      "datePublished": "2026-03-24T06:06:43+09:00"
+    },
+    {
+      "name": "“ガソリン販売抑制しないで” 石油元売り会社などに要請",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082081000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260323/K10015082081_2603231726_0323175818_01_02.jpg",
+      "datePublished": "2026-03-23T18:58:02+09:00"
+    },
+    {
+      "name": "高校授業料無償化法案 24日に参院文教科学委で審議入り",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082251000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260323/K10015082251_2603232001_0323201024_01_02.jpg",
+      "datePublished": "2026-03-23T20:10:23+09:00"
+    },
+    {
+      "name": "種苗法改正へ 品種登録前でも輸出差し止めなど規制強化の方針",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082361000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260324/K10015082361_2603232133_0324051204_01_02.jpg",
+      "datePublished": "2026-03-24T05:12:03+09:00"
+    },
+    {
+      "name": "アメリカ各地の空港にICE職員を投入 利用者から不安の声も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082411000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260324/K10015082411_2603240506_0324052754_01_02.jpg",
+      "datePublished": "2026-03-24T05:27:53+09:00"
+    },
+    {
+      "name": "天皇陛下 体調回復 25日から予定どおり岩手と宮城訪問 宮内庁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015082381000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260324/K10015082381_2603232139_0324054507_01_02.jpg",
+      "datePublished": "2026-03-24T05:45:07+09:00"
+    },
+    {
+      "name": "マンション大規模修繕の闇～なりすまし見抜いた住民たちの記録",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015079521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260323/K10015079521_2603191648_0323133828_01_02.jpg",
+      "datePublished": "2026-03-23T13:38:27+09:00"
+    },
+    {
+      "name": "“分岐点の4年”へ 教員不足と働き方改革",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015081871000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260323/K10015081871_2603231225_0323160922_01_02.jpg",
+      "datePublished": "2026-03-23T16:09:21+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

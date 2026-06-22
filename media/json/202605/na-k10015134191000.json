@@ -1,0 +1,161 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015134191000",
+  "dataSourceId": "na",
+  "name": "円相場 1ドル＝159円台半ばで小幅な値動き 市場介入に警戒感も",
+  "headline": "円相場 1ドル＝159円台半ばで小幅な値動き 市場介入に警戒感も",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015134191000",
+    "playlistId": "news-nwa-business-nationwide-20260528",
+    "newsarticleName": "円相場 1ドル＝159円台半ばで小幅な値動き 市場介入に警戒感も",
+    "playlistName": "5月28日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "28日の東京外国為替市場、円相場は1ドル＝159円台半ばでの小幅な値動きとなりました。\n\n\n午後5時時点の円相場は、27日と比べて11銭円安ドル高の1ドル＝159円46～48銭でした。\n\n一方、ユーロ",
+  "dateModified": "2026-05-28T18:12:02+09:00",
+  "datePublished": "2026-05-28T18:12:02+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260528/K10015134191_2605281801_0528181203_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260528/K10015134191_2605281801_0528181203_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0002423",
+      "name": "金融",
+      "display": true
+    },
+    {
+      "id": "0000820",
+      "name": "イラン情勢",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "28日の東京外国為替市場、円相場は1ドル＝159円台半ばでの小幅な値動きとなりました。\n\n\n午後5時時点の円相場は、27日と比べて11銭円安ドル高の1ドル＝159円46～48銭でした。\n\n一方、ユーロ",
+  "articleBody": "28日の東京外国為替市場、円相場は1ドル＝159円台半ばでの小幅な値動きとなりました。\n\n\n午後5時時点の円相場は、27日と比べて11銭円安ドル高の1ドル＝159円46～48銭でした。\n\n一方、ユーロに対しては、32銭円高ユーロ安の1ユーロ＝185円17～21銭でした。\n\nユーロはドルに対して1ユーロ＝1.1612～13ドルでした。\n\n市場関係者は「イランの革命防衛隊がアメリカ空軍の基地を攻撃対象としたと伝わるなどイラン情勢の先行きへの不透明感が強まったことで原油の先物価格が上昇し、日本の貿易収支や企業業績の悪化が意識され、円が売られた。ただ、政府・日銀による市場介入が行われた先月30日の円安水準に迫っていて、再びの介入に対する警戒感も強い」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "28日の東京外国為替市場、円相場は1ドル＝159円台半ばでの小幅な値動きとなりました。\n",
+    "markedBody": "午後5時時点の円相場は、27日と比べて11銭円安ドル高の1ドル＝159円46～48銭でした。\n\n一方、ユーロに対しては、32銭円高ユーロ安の1ユーロ＝185円17～21銭でした。\n\nユーロはドルに対して1ユーロ＝1.1612～13ドルでした。\n\n市場関係者は「イランの革命防衛隊がアメリカ空軍の基地を攻撃対象としたと伝わるなどイラン情勢の先行きへの不透明感が強まったことで原油の先物価格が上昇し、日本の貿易収支や企業業績の悪化が意識され、円が売られた。ただ、政府・日銀による市場介入が行われた先月30日の円安水準に迫っていて、再びの介入に対する警戒感も強い」と話していました。\n",
+    "trimmedLead": "28日の東京外国為替市場、円相場は1ドル＝159円台半ばでの小幅な値動きとなりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015134191000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015134191000",
+  "video": [],
+  "citation": [
+    {
+      "name": "株価 一時1100円超の値下がり イラン情勢不透明感強まり",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015133801_2605281610_0528161757_01_02.jpg",
+      "datePublished": "2026-05-28T16:17:56+09:00"
+    },
+    {
+      "name": "軍事作戦3か月 戦闘終結に向けた協議 進展みられず緊張続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015133441_2605281729_0528183230_01_03.jpg",
+      "datePublished": "2026-05-28T18:32:29+09:00"
+    },
+    {
+      "name": "NY原油 一時1バレル＝87ドル台に下落 その後は再び上昇も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015133531_2605280453_0528045935_01_02.jpg",
+      "datePublished": "2026-05-28T04:59:34+09:00"
+    },
+    {
+      "name": "6月 電気・ガス料金 中東影響でほとんどの会社で値上がりへ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134071000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015134071_2605281625_0528164210_01_02.jpg",
+      "datePublished": "2026-05-28T16:42:09+09:00"
+    },
+    {
+      "name": "自動車メーカー各社 中東での販売大幅減 情勢悪化受け",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015134041_2605281630_0528163311_01_02.jpg",
+      "datePublished": "2026-05-28T16:33:10+09:00"
+    },
+    {
+      "name": "ニップン 小麦粉やパスタなど値上げ 中東影響が一因",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015133711_2605281136_0528120621_01_02.jpg",
+      "datePublished": "2026-05-28T12:06:20+09:00"
+    },
+    {
+      "name": "完全養殖ウナギ あすからオンラインで試験販売開始",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134051000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015134051_2605281610_0528161916_01_02.jpg",
+      "datePublished": "2026-05-28T16:19:15+09:00"
+    },
+    {
+      "name": "新たな防災気象情報 発表開始 全国の警報・注意報はこちらから",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133621000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015133621_2605281054_0528145524_01_02.jpg",
+      "datePublished": "2026-05-28T14:55:24+09:00"
+    },
+    {
+      "name": "在仙台カンボジア名誉領事が無申告 3億7000万円余の申告漏れ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133861000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015133861_2605281252_0528170021_01_02.jpg",
+      "datePublished": "2026-05-28T18:06:38+09:00"
+    },
+    {
+      "name": "ドジャース大谷翔平 6回1失点で5勝目 打っては菅野から9号",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015133671_2605281557_0528155911_01_03.jpg",
+      "datePublished": "2026-05-28T17:31:50+09:00"
+    },
+    {
+      "name": "最新クマ対策 AI・ドローンで被害防げ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015131471_2605281240_0528165620_01_02.jpg",
+      "datePublished": "2026-05-28T16:56:19+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

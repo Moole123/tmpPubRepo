@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014866901000",
+  "dataSourceId": "na",
+  "name": "タイ 複数僧侶が性的関係で金銭脅し取られたか 事件に社会衝撃",
+  "headline": "タイ 複数僧侶が性的関係で金銭脅し取られたか 事件に社会衝撃",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014866901000",
+    "playlistId": "news-nwa-international-nationwide-20250717",
+    "newsarticleName": "タイ 複数僧侶が性的関係で金銭脅し取られたか 事件に社会衝撃",
+    "playlistName": "7月17日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "仏教徒が国民の9割を占める東南アジアのタイでは、国民の信頼を集める複数の僧侶から、不適切な関係を理由に金銭を脅し取った疑いでタイ人の女の容疑者が逮捕される事件があり、社会に衝撃が広がっています。\n\n\n",
+  "dateModified": "2025-07-17T20:43:51+09:00",
+  "datePublished": "2025-07-17T20:43:51+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-640x360.png",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "仏教徒が国民の9割を占める東南アジアのタイでは、国民の信頼を集める複数の僧侶から、不適切な関係を理由に金銭を脅し取った疑いでタイ人の女の容疑者が逮捕される事件があり、社会に衝撃が広がっています。\n\n\n",
+  "articleBody": "仏教徒が国民の9割を占める東南アジアのタイでは、国民の信頼を集める複数の僧侶から、不適切な関係を理由に金銭を脅し取った疑いでタイ人の女の容疑者が逮捕される事件があり、社会に衝撃が広がっています。\n\n\nタイの警察は、複数の僧侶に性的関係を理由に金銭を要求し、脅し取ったなどとして、15日に30代のタイ人の女の容疑者を逮捕しました。\n\n警察によりますと、僧侶の1人は、日本円にしておよそ170万円を支払ったと話したということで、警察は、寺の資金が不正に使われていないかについても捜査しています。\n\n国民の90％以上を仏教徒が占めるタイでは、僧侶は、国民から大きな信頼を寄せられる存在で、地元メディアは「信頼が危機にひんしている」と伝えるなど、社会に衝撃が広がっています。\n",
+  "detailedArticleBody": {
+    "markedLead": "仏教徒が国民の9割を占める東南アジアのタイでは、国民の信頼を集める複数の僧侶から、不適切な関係を理由に金銭を脅し取った疑いでタイ人の女の容疑者が逮捕される事件があり、社会に衝撃が広がっています。\n",
+    "markedBody": "タイの警察は、複数の僧侶に性的関係を理由に金銭を要求し、脅し取ったなどとして、15日に30代のタイ人の女の容疑者を逮捕しました。\n\n警察によりますと、僧侶の1人は、日本円にしておよそ170万円を支払ったと話したということで、警察は、寺の資金が不正に使われていないかについても捜査しています。\n\n国民の90％以上を仏教徒が占めるタイでは、僧侶は、国民から大きな信頼を寄せられる存在で、地元メディアは「信頼が危機にひんしている」と伝えるなど、社会に衝撃が広がっています。\n",
+    "trimmedLead": "仏教徒が国民の9割を占める東南アジアのタイでは、国民の信頼を集める複数の僧侶から、不適切な関係を理由に金銭を脅し取った疑いでタイ人の女の容疑者が逮捕される事件があり、社会に衝撃が広がっています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014866901000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014866901000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": false,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

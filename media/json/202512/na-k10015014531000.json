@@ -1,0 +1,101 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015014531000",
+  "dataSourceId": "na",
+  "name": "トヨタ 来年2026年に世界全体で1000万台超の自動車生産を計画",
+  "headline": "トヨタ 来年2026年に世界全体で1000万台超の自動車生産を計画",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015014531000",
+    "playlistId": "news-nwa-business-nationwide-20251226",
+    "newsarticleName": "トヨタ 来年2026年に世界全体で1000万台超の自動車生産を計画",
+    "playlistName": "12月26日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "トヨタ自動車が、来年1年間に世界全体で1000万台を超える自動車の生産を計画していることが分かりました。ハイブリッド車の需要が堅調なことなどから、アメリカのトランプ政権による関税措置の中でも、過去最高",
+  "dateModified": "2025-12-26T12:19:53+09:00",
+  "datePublished": "2025-12-26T12:19:53+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251226/K10015014531_2512261200_1226121954_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251226/K10015014531_2512261200_1226121954_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "トヨタ自動車が、来年1年間に世界全体で1000万台を超える自動車の生産を計画していることが分かりました。ハイブリッド車の需要が堅調なことなどから、アメリカのトランプ政権による関税措置の中でも、過去最高",
+  "articleBody": "トヨタ自動車が、来年1年間に世界全体で1000万台を超える自動車の生産を計画していることが分かりました。ハイブリッド車の需要が堅調なことなどから、アメリカのトランプ政権による関税措置の中でも、過去最高と同じ程度の生産を見込むことになります。\n\n\n関係者によりますと、トヨタは来年1年間に世界全体で1000万台を超える自動車を生産する計画をまとめ、取引先の部品メーカーなどに伝えたということです。\n\nこれまでで最も生産台数が多かったのは、2023年の1003万台余りで、来年の生産は、これと同じ程度の計画です。\n\nアメリカでEV＝電気自動車の販売の減速が見込まれる一方、ハイブリッド車の需要が堅調なことなどから、トランプ政権による関税措置の中でも、高い水準の生産を見込むことになります。\n\nこのうち日本国内での生産は、350万台程度で、会社が国内での雇用や技術力の確保のため維持するとしている年間300万台を上回る計画です。\n\n自動車業界では、アメリカの関税措置のほかにも半導体の供給や中国での需要の動向といったリスクも指摘されていて、高い水準の生産が続くかが焦点となります。\n",
+  "detailedArticleBody": {
+    "markedLead": "トヨタ自動車が、来年1年間に世界全体で1000万台を超える自動車の生産を計画していることが分かりました。ハイブリッド車の需要が堅調なことなどから、アメリカのトランプ政権による関税措置の中でも、過去最高と同じ程度の生産を見込むことになります。\n",
+    "markedBody": "関係者によりますと、トヨタは来年1年間に世界全体で1000万台を超える自動車を生産する計画をまとめ、取引先の部品メーカーなどに伝えたということです。\n\nこれまでで最も生産台数が多かったのは、2023年の1003万台余りで、来年の生産は、これと同じ程度の計画です。\n\nアメリカでEV＝電気自動車の販売の減速が見込まれる一方、ハイブリッド車の需要が堅調なことなどから、トランプ政権による関税措置の中でも、高い水準の生産を見込むことになります。\n\nこのうち日本国内での生産は、350万台程度で、会社が国内での雇用や技術力の確保のため維持するとしている年間300万台を上回る計画です。\n\n自動車業界では、アメリカの関税措置のほかにも半導体の供給や中国での需要の動向といったリスクも指摘されていて、高い水準の生産が続くかが焦点となります。\n",
+    "trimmedLead": "トヨタ自動車が、来年1年間に世界全体で1000万台を超える自動車の生産を計画していることが分かりました。ハイブリッド車の需要が堅調なことなどから、アメリカのトランプ政権による関税措置の中でも、過去最高と同じ程度の生産を見込むことになります。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015014531000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015014531000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "トヨタ 来年2026年に世界全体で1000万台超の自動車生産を計画",
+      "description": "トヨタ自動車が、来年1年間に世界全体で1000万台を超える自動車の生産を計画していることが分かりました。ハイブリッド車の需要が堅調なことなどから、アメリカのトランプ政権による関税措置の中でも、過去最高",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015014531_202512261444_202512261444/index.m3u8&mrposter=/news/html/20251226/K10015014531_2512261200_1226121954_01_02.jpg",
+      "duration": "PT36S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015014531_202512261444_202512261444/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20251226/K10015014531_2512261200_1226121954_01_02.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

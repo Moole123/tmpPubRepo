@@ -1,0 +1,151 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015112291000",
+  "dataSourceId": "na",
+  "name": "広範囲で荒れた天気に 交通機関の影響や天気の急変に注意を",
+  "headline": "広範囲で荒れた天気に 交通機関の影響や天気の急変に注意を",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015112291000",
+    "playlistId": "news-nwa-disaster-nationwide-20260501",
+    "newsarticleName": "広範囲で荒れた天気に 交通機関の影響や天気の急変に注意を",
+    "playlistName": "5月1日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "前線や低気圧の影響で、西日本から北日本の広い範囲で雨が降っていて、太平洋側の沿岸部を中心に雨が強まっているところがあります。5月1日は広い範囲で荒れた天気となる見込みで、屋外のレジャーや移動を予定して",
+  "dateModified": "2026-05-01T06:09:46+09:00",
+  "datePublished": "2026-05-01T06:09:46+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260501/K10015112291_2605010603_0501060947_02_01.jpg",
+      "height": 719,
+      "width": 1279
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260501/K10015112291_2605010603_0501060947_01_02.jpg",
+      "height": 719,
+      "width": 1279
+    }
+  },
+  "genre": [
+    "気象・災害",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0000035",
+      "name": "気象",
+      "display": true
+    },
+    {
+      "id": "0002716",
+      "name": "気象庁",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "前線や低気圧の影響で、西日本から北日本の広い範囲で雨が降っていて、太平洋側の沿岸部を中心に雨が強まっているところがあります。5月1日は広い範囲で荒れた天気となる見込みで、屋外のレジャーや移動を予定して",
+  "articleBody": "前線や低気圧の影響で、西日本から北日本の広い範囲で雨が降っていて、太平洋側の沿岸部を中心に雨が強まっているところがあります。5月1日は広い範囲で荒れた天気となる見込みで、屋外のレジャーや移動を予定している人は、交通機関の影響や天気の急変に注意してください。\n\n\n気象庁によりますと、四国付近から北東へ進む前線を伴った低気圧に向かって暖かく湿った空気が流れ込み、上空ではこの時期としては強い寒気も流れ込んで、広い範囲で大気の状態が非常に不安定になっています。\n\nまた、沿岸部を中心に風も強まっています。\n\nこれからの見通しです。\n\n低気圧は日本海沿岸を通って1日の夜には東北まで進む見込みで、西日本から東日本にかけての日本海側でも局地的に積乱雲が発達し、急に雨が強まるおそれがあります。\n\nまた、低気圧の移動に伴って雨雲は東へ移動し、東海から関東、東北にかけて雷を伴って激しい雨が降るところがある見込みです。\n\n北日本も広く雨となり、山林火災の被害を受けている岩手県大槌町では夕方から夜のはじめごろにかけて雷を伴って激しく降る見込みです。\n\nまた、1日は広い範囲で荒れた天気になる見込みで、気象庁は雨が強まる地域では土砂災害や低い土地の浸水、川の増水に十分注意するとともに、落雷や竜巻などの激しい突風にも注意するよう呼びかけています。\n\n屋外のレジャーや移動を予定している人は交通機関の影響や天候の急変に注意してください。\n",
+  "detailedArticleBody": {
+    "markedLead": "前線や低気圧の影響で、西日本から北日本の広い範囲で雨が降っていて、太平洋側の沿岸部を中心に雨が強まっているところがあります。5月1日は広い範囲で荒れた天気となる見込みで、屋外のレジャーや移動を予定している人は、交通機関の影響や天気の急変に注意してください。\n",
+    "markedBody": "気象庁によりますと、四国付近から北東へ進む前線を伴った低気圧に向かって暖かく湿った空気が流れ込み、上空ではこの時期としては強い寒気も流れ込んで、広い範囲で大気の状態が非常に不安定になっています。\n\nまた、沿岸部を中心に風も強まっています。\n\nこれからの見通しです。\n\n低気圧は日本海沿岸を通って1日の夜には東北まで進む見込みで、西日本から東日本にかけての日本海側でも局地的に積乱雲が発達し、急に雨が強まるおそれがあります。\n\nまた、低気圧の移動に伴って雨雲は東へ移動し、東海から関東、東北にかけて雷を伴って激しい雨が降るところがある見込みです。\n\n北日本も広く雨となり、山林火災の被害を受けている岩手県大槌町では夕方から夜のはじめごろにかけて雷を伴って激しく降る見込みです。\n\nまた、1日は広い範囲で荒れた天気になる見込みで、気象庁は雨が強まる地域では土砂災害や低い土地の浸水、川の増水に十分注意するとともに、落雷や竜巻などの激しい突風にも注意するよう呼びかけています。\n\n屋外のレジャーや移動を予定している人は交通機関の影響や天候の急変に注意してください。\n",
+    "trimmedLead": "前線や低気圧の影響で、西日本から北日本の広い範囲で雨が降っていて、太平洋側の沿岸部を中心に雨が強まっているところがあります。5月1日は広い範囲で荒れた天気となる見込みで、屋外のレジャーや移動を予定している人は、交通機関の影響や天気の急変に注意してください。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015112291000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015112291000",
+  "video": [],
+  "citation": [
+    {
+      "name": "NY市場 円相場1ドル＝156円台 市場介入に警戒高まる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015112331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260501/K10015112331_2605010405_0501044550_01_02.jpg",
+      "datePublished": "2026-05-01T04:45:49+09:00"
+    },
+    {
+      "name": "旭山動物園職員 逮捕前の調べに妻の殺害ほのめかす話か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015112211000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260501/K10015112211_2604302349_0501051327_01_02.jpg",
+      "datePublished": "2026-05-01T05:13:26+09:00"
+    },
+    {
+      "name": "北海道 北見 住宅1棟が焼ける火事 焼け跡から2人の遺体",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015112251000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260501/K10015112251_2605010039_0501003952_01_02.jpg",
+      "datePublished": "2026-05-01T00:39:51+09:00"
+    },
+    {
+      "name": "岩手 大槌町山林火災 夕方から激しい雨か 状況見極め消火活動",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015112111000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260501/K10015112111_2604302207_0501050739_01_02.jpg",
+      "datePublished": "2026-05-01T05:07:38+09:00"
+    },
+    {
+      "name": "高市首相 きょうからベトナム・オーストラリアを訪問へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015112081000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260501/K10015112081_2605010103_0501051702_01_02.jpg",
+      "datePublished": "2026-05-01T05:17:01+09:00"
+    },
+    {
+      "name": "水俣病公式確認から70年 水俣で慰霊式 申請や裁判は今も続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015112221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260501/K10015112221_2605010016_0501051907_01_02.jpg",
+      "datePublished": "2026-05-01T05:19:07+09:00"
+    },
+    {
+      "name": "若者のオーバードーズ対策 市販薬販売を厳格化 改正法施行",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015111771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260501/K10015111771_2604301911_0501051158_01_02.jpg",
+      "datePublished": "2026-05-01T05:11:58+09:00"
+    },
+    {
+      "name": "大型連休 冬眠明けのクマの目撃相次ぐ中 対策は？【Q＆Aも】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015111671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260430/K10015111671_2604301744_0430185914_01_02.jpg",
+      "datePublished": "2026-04-30T18:59:13+09:00"
+    },
+    {
+      "name": "【プロ野球結果】首位 阪神 2位ヤクルトに勝ち3連戦を勝ち越し",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015112061000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260430/K10015112061_2604302322_0501051638_01_02.jpg",
+      "datePublished": "2026-04-30T23:29:30+09:00"
+    },
+    {
+      "name": "“人気”だった在留資格「経営・管理」 厳格化の背景に迫る",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015088631000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260430/K10015088631_2604201501_0430112816_01_02.jpg",
+      "datePublished": "2026-04-30T11:28:15+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

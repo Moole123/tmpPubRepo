@@ -1,0 +1,165 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015107681000",
+  "dataSourceId": "na",
+  "name": "円相場 小幅な値動き イラン情勢長期化の懸念で円安傾向続く",
+  "headline": "円相場 小幅な値動き イラン情勢長期化の懸念で円安傾向続く",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015107681000",
+    "playlistId": "news-nwa-business-nationwide-20260424",
+    "newsarticleName": "円相場 小幅な値動き イラン情勢長期化の懸念で円安傾向続く",
+    "playlistName": "4月24日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "24日の東京外国為替市場、円相場は小幅な値動きでした。\n\n\n午後5時時点の円相場は、23日と比べて8銭円安ドル高の1ドル＝159円67銭から69銭でした。\n\n一方、ユーロに対しては、12銭円高ユーロ安",
+  "dateModified": "2026-04-24T18:53:21+09:00",
+  "datePublished": "2026-04-24T18:53:21+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260424/K10015107681_2604241804_0424185322_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260424/K10015107681_2604241804_0424185322_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "0001597",
+      "name": "イラン",
+      "display": true
+    },
+    {
+      "id": "0000820",
+      "name": "イラン情勢",
+      "display": true
+    },
+    {
+      "id": "0000819",
+      "name": "原油価格",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "24日の東京外国為替市場、円相場は小幅な値動きでした。\n\n\n午後5時時点の円相場は、23日と比べて8銭円安ドル高の1ドル＝159円67銭から69銭でした。\n\n一方、ユーロに対しては、12銭円高ユーロ安",
+  "articleBody": "24日の東京外国為替市場、円相場は小幅な値動きでした。\n\n\n午後5時時点の円相場は、23日と比べて8銭円安ドル高の1ドル＝159円67銭から69銭でした。\n\n一方、ユーロに対しては、12銭円高ユーロ安の1ユーロ＝186円66銭から70銭でした。\n\nユーロはドルに対して1ユーロ＝1.1689から93ドルでした。\n\n市場関係者は「アメリカとイランの協議の先行きが見えず、事態の長期化への懸念が出始めていて、原油の先物価格も1バレル＝90ドル台後半で高止まりしていることから円安傾向が続いている」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "24日の東京外国為替市場、円相場は小幅な値動きでした。\n",
+    "markedBody": "午後5時時点の円相場は、23日と比べて8銭円安ドル高の1ドル＝159円67銭から69銭でした。\n\n一方、ユーロに対しては、12銭円高ユーロ安の1ユーロ＝186円66銭から70銭でした。\n\nユーロはドルに対して1ユーロ＝1.1689から93ドルでした。\n\n市場関係者は「アメリカとイランの協議の先行きが見えず、事態の長期化への懸念が出始めていて、原油の先物価格も1バレル＝90ドル台後半で高止まりしていることから円安傾向が続いている」と話しています。\n",
+    "trimmedLead": "24日の東京外国為替市場、円相場は小幅な値動きでした。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015107681000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015107681000",
+  "video": [],
+  "citation": [
+    {
+      "name": "日経平均株価 終値の最高値を更新 半導体関連銘柄が買われる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015107171000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015107171_2604241541_0424154419_01_02.jpg",
+      "datePublished": "2026-04-24T16:19:57+09:00"
+    },
+    {
+      "name": "岩手 大槌町山林火災延焼続く 平成以降2番目に大きな被害",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106911000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015106911_2604240021_0424051421_01_02.jpg",
+      "datePublished": "2026-04-24T21:25:40+09:00"
+    },
+    {
+      "name": "後発地震注意情報 三陸沖で地震活動続く 各地の観光地では備え",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106821000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015106821_2604241822_0424183321_01_02.jpg",
+      "datePublished": "2026-04-24T19:00:54+09:00"
+    },
+    {
+      "name": "モバイルバッテリー 24日から航空機内での使用禁止に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015107041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015107041_2604241730_0424174630_01_03.jpg",
+      "datePublished": "2026-04-24T19:45:32+09:00"
+    },
+    {
+      "name": "会議システム「Zoom」のロゴ使用めぐり運営企業側に賠償命令",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015107301000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015107301_2604241404_0424140607_01_02.jpg",
+      "datePublished": "2026-04-24T22:42:33+09:00"
+    },
+    {
+      "name": "自民 イラン情勢で停戦後障害あれば掃海艇派遣検討を提言",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015107601000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015107601_2604241741_0424180221_01_02.jpg",
+      "datePublished": "2026-04-24T18:02:21+09:00"
+    },
+    {
+      "name": "海自 掃海艇火災の調査結果公表 配管から漏れた燃料発火か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015107541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015107541_2604241727_0424175437_01_02.jpg",
+      "datePublished": "2026-04-24T17:54:36+09:00"
+    },
+    {
+      "name": "後発地震注意情報 週末に旅行や帰省 備えのポイントは【Q＆A】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015107341000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015107341_2604241709_0424171953_01_02.jpg",
+      "datePublished": "2026-04-24T17:19:53+09:00"
+    },
+    {
+      "name": "ネコの慢性腎臓病 新たな治療薬の製造販売 国に承認申請",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015106751000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015106751_2604232118_0424052302_01_02.jpg",
+      "datePublished": "2026-04-24T17:04:56+09:00"
+    },
+    {
+      "name": "H3ロケット 打ち上げ再開は6月10日 JAXAが発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015107421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260424/K10015107421_2604241633_0424165545_01_02.jpg",
+      "datePublished": "2026-04-24T16:55:44+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

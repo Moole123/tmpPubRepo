@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015099071000",
+  "dataSourceId": "na",
+  "name": "松本行革相 公用車の民間委託で健康管理など統一基準策定指示",
+  "headline": "松本行革相 公用車の民間委託で健康管理など統一基準策定指示",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015099071000",
+    "playlistId": "news-nwa-politics-nationwide-20260414",
+    "newsarticleName": "松本行革相 公用車の民間委託で健康管理など統一基準策定指示",
+    "playlistName": "4月14日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "内閣府の公用車が乗用車に衝突するなどして1人が死亡した事故に関連し、松本行政改革担当大臣は、公用車の業務を民間委託する際には少なくとも運転手の健康を管理するための統一基準が必要だとして、策定を指示した",
+  "dateModified": "2026-04-14T16:09:48+09:00",
+  "datePublished": "2026-04-14T16:09:48+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260414/K10015099071_2604141445_0414160949_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260414/K10015099071_2604141445_0414160949_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0002712",
+      "name": "内閣府",
+      "display": true
+    },
+    {
+      "id": "0002394",
+      "name": "参議院",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "内閣府の公用車が乗用車に衝突するなどして1人が死亡した事故に関連し、松本行政改革担当大臣は、公用車の業務を民間委託する際には少なくとも運転手の健康を管理するための統一基準が必要だとして、策定を指示した",
+  "articleBody": "内閣府の公用車が乗用車に衝突するなどして1人が死亡した事故に関連し、松本行政改革担当大臣は、公用車の業務を民間委託する際には少なくとも運転手の健康を管理するための統一基準が必要だとして、策定を指示したことを明らかにしました。\n\n\nことし1月、東京 港区赤坂の交差点で内閣府の公用車が乗用車に衝突するなどした事故では、巻き込まれたタクシーの乗客の男性1人が死亡し、男女6人が重軽傷を負いましたが運転手は当時、周囲に対して「事故前後の記憶がない」と話していたということです。\n\nこれに関連し、松本行政改革担当大臣は14日の参議院内閣委員会で「行政改革により、公用車の業務の民間委託を進めてきたが、各府省庁がそれぞれ業務の性質に応じて委託内容を検討しており、統一した基準を設けていないのが現状だ」と説明しました。\n\nその上で「少なくとも例えば運転手の健康管理などについては統一したものでしっかり管理していくことが必要だ」と述べ、統一基準の策定を指示したことを明らかにしました。\n",
+  "detailedArticleBody": {
+    "markedLead": "内閣府の公用車が乗用車に衝突するなどして1人が死亡した事故に関連し、松本行政改革担当大臣は、公用車の業務を民間委託する際には少なくとも運転手の健康を管理するための統一基準が必要だとして、策定を指示したことを明らかにしました。\n",
+    "markedBody": "ことし1月、東京 港区赤坂の交差点で内閣府の公用車が乗用車に衝突するなどした事故では、巻き込まれたタクシーの乗客の男性1人が死亡し、男女6人が重軽傷を負いましたが運転手は当時、周囲に対して「事故前後の記憶がない」と話していたということです。\n\nこれに関連し、松本行政改革担当大臣は14日の参議院内閣委員会で「行政改革により、公用車の業務の民間委託を進めてきたが、各府省庁がそれぞれ業務の性質に応じて委託内容を検討しており、統一した基準を設けていないのが現状だ」と説明しました。\n\nその上で「少なくとも例えば運転手の健康管理などについては統一したものでしっかり管理していくことが必要だ」と述べ、統一基準の策定を指示したことを明らかにしました。\n",
+    "trimmedLead": "内閣府の公用車が乗用車に衝突するなどして1人が死亡した事故に関連し、松本行政改革担当大臣は、公用車の業務を民間委託する際には少なくとも運転手の健康を管理するための統一基準が必要だとして、策定を指示したことを明らかにしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015099071000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015099071000",
+  "video": [],
+  "citation": [
+    {
+      "name": "米のホルムズ海峡封鎖でイラン反発 次の対面協議めぐる報道も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015098791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260414/K10015098791_2604141127_0414115533_01_02.jpg",
+      "datePublished": "2026-04-14T18:40:23+09:00"
+    },
+    {
+      "name": "世界経済見通し発表へ 原油高の影響は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015098981000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260414/K10015098981_2604141232_0414135006_01_02.jpg",
+      "datePublished": "2026-04-14T13:50:06+09:00"
+    },
+    {
+      "name": "小泉防衛相 自民党大会の自衛隊員国歌歌唱 政治的行為あたらず",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015098921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260414/K10015098921_2604141200_0414143319_01_02.jpg",
+      "datePublished": "2026-04-14T18:31:30+09:00"
+    },
+    {
+      "name": "衆議院選挙制度協議会 新座長に鈴木前法相 来月めどに結論を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015098951000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260414/K10015098951_2604141218_0414140205_01_02.jpg",
+      "datePublished": "2026-04-14T14:02:04+09:00"
+    },
+    {
+      "name": "温室効果ガス 国内の実質排出量 2024年度 10億トン下回る",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015098911000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260414/K10015098911_2604141227_0414123849_01_02.jpg",
+      "datePublished": "2026-04-14T12:38:48+09:00"
+    },
+    {
+      "name": "東南アジアでの信頼度 日本が8年連続トップ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015098901000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260414/K10015098901_2604141145_0414141212_01_02.jpg",
+      "datePublished": "2026-04-14T14:12:11+09:00"
+    },
+    {
+      "name": "はしかの感染者200人超える ワクチン接種歴など確認を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015099011000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260414/K10015099011_2604141332_0414133651_01_02.jpg",
+      "datePublished": "2026-04-14T16:42:17+09:00"
+    },
+    {
+      "name": "モバイルバッテリー 今月24日から航空機内での使用禁止に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015098851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260414/K10015098851_2604141124_0414132252_01_02.jpg",
+      "datePublished": "2026-04-14T17:16:57+09:00"
+    },
+    {
+      "name": "京都 遺体に隠されたような形跡なし 警察が身元の特定進める",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015098611000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260414/K10015098611_2604141656_0414170129_01_02.jpg",
+      "datePublished": "2026-04-14T17:52:19+09:00"
+    },
+    {
+      "name": "【随時更新】熊本地震の前震から10年 「ずっと見守っていて」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015098731000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260414/K10015098731_2604141215_0414123154_01_03.jpg",
+      "datePublished": "2026-04-14T18:29:52+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

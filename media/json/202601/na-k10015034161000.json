@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015034161000",
+  "dataSourceId": "na",
+  "name": "韓国 カンボジア拠点の詐欺グループ 容疑者73人を移送",
+  "headline": "韓国 カンボジア拠点の詐欺グループ 容疑者73人を移送",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015034161000",
+    "playlistId": "news-nwa-international-nationwide-20260123",
+    "newsarticleName": "韓国 カンボジア拠点の詐欺グループ 容疑者73人を移送",
+    "playlistName": "1月23日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "韓国政府は23日、カンボジアを拠点にした詐欺グループなど、韓国人容疑者73人が現地から移送されたと発表し、関係する被害額は日本円で52億円余りにのぼるということです。\n\n\n韓国政府はカンボジアを拠点に",
+  "dateModified": "2026-01-23T16:29:01+09:00",
+  "datePublished": "2026-01-23T16:29:01+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260123/K10015034161_2601231558_0123162902_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260123/K10015034161_2601231558_0123162902_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "韓国政府は23日、カンボジアを拠点にした詐欺グループなど、韓国人容疑者73人が現地から移送されたと発表し、関係する被害額は日本円で52億円余りにのぼるということです。\n\n\n韓国政府はカンボジアを拠点に",
+  "articleBody": "韓国政府は23日、カンボジアを拠点にした詐欺グループなど、韓国人容疑者73人が現地から移送されたと発表し、関係する被害額は日本円で52億円余りにのぼるということです。\n\n\n韓国政府はカンボジアを拠点にした複数の詐欺グループなど、韓国人容疑者73人がカンボジアから移送され、23日午前、インチョン（仁川）空港に到着したと発表しました。\n\n韓国政府によりますと、生成AIを悪用して架空の人物になりすまし、「ロマンス詐欺」と呼ばれる手口で金をだまし取っていたとする2人の容疑者が含まれ、2人は整形手術で容姿を変え、捜査の手を逃れていたとしています。\n\nまた、今回移送された詐欺グループなどによる被害額はあわせて486億ウォン、日本円で52億円余りにのぼるということです。\n\n韓国では、カンボジアなどを拠点にした詐欺グループによる犯罪が問題となっていて、イ・ジェミョン（李在明）大統領は22日、「最後まで追跡し、完全に根絶しなければならない」と述べ、関係機関に捜査を徹底するよう指示しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "韓国政府は23日、カンボジアを拠点にした詐欺グループなど、韓国人容疑者73人が現地から移送されたと発表し、関係する被害額は日本円で52億円余りにのぼるということです。\n",
+    "markedBody": "韓国政府はカンボジアを拠点にした複数の詐欺グループなど、韓国人容疑者73人がカンボジアから移送され、23日午前、インチョン（仁川）空港に到着したと発表しました。\n\n韓国政府によりますと、生成AIを悪用して架空の人物になりすまし、「ロマンス詐欺」と呼ばれる手口で金をだまし取っていたとする2人の容疑者が含まれ、2人は整形手術で容姿を変え、捜査の手を逃れていたとしています。\n\nまた、今回移送された詐欺グループなどによる被害額はあわせて486億ウォン、日本円で52億円余りにのぼるということです。\n\n韓国では、カンボジアなどを拠点にした詐欺グループによる犯罪が問題となっていて、イ・ジェミョン（李在明）大統領は22日、「最後まで追跡し、完全に根絶しなければならない」と述べ、関係機関に捜査を徹底するよう指示しました。\n",
+    "trimmedLead": "韓国政府は23日、カンボジアを拠点にした詐欺グループなど、韓国人容疑者73人が現地から移送されたと発表し、関係する被害額は日本円で52億円余りにのぼるということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015034161000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015034161000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

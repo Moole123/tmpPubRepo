@@ -1,0 +1,160 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015103961000",
+  "dataSourceId": "na",
+  "name": "台湾国防部「中国軍の空母『遼寧』が台湾海峡を通過」と発表",
+  "headline": "台湾国防部「中国軍の空母『遼寧』が台湾海峡を通過」と発表",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015103961000",
+    "playlistId": "news-nwa-international-nationwide-20260420",
+    "newsarticleName": "台湾国防部「中国軍の空母『遼寧』が台湾海峡を通過」と発表",
+    "playlistName": "4月20日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "台湾国防部は20日、中国軍の空母「遼寧」について「台湾海峡を通過し、注意深く監視している」と発表しました。\n\n\n台湾国防部は、中国軍の空母「遼寧」について「きょう台湾海峡を通過し、台湾軍が注意深く監視",
+  "dateModified": "2026-04-20T21:32:08+09:00",
+  "datePublished": "2026-04-20T21:32:08+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260420/K10015103961_2604202010_0420213209_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260420/K10015103961_2604202010_0420213209_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0001603",
+      "name": "台湾",
+      "display": true
+    },
+    {
+      "id": "0001595",
+      "name": "中国",
+      "display": true
+    },
+    {
+      "id": "0001596",
+      "name": "中国・台湾",
+      "display": true
+    },
+    {
+      "id": "0000947",
+      "name": "防衛省・自衛隊",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "台湾国防部は20日、中国軍の空母「遼寧」について「台湾海峡を通過し、注意深く監視している」と発表しました。\n\n\n台湾国防部は、中国軍の空母「遼寧」について「きょう台湾海峡を通過し、台湾軍が注意深く監視",
+  "articleBody": "台湾国防部は20日、中国軍の空母「遼寧」について「台湾海峡を通過し、注意深く監視している」と発表しました。\n\n\n台湾国防部は、中国軍の空母「遼寧」について「きょう台湾海峡を通過し、台湾軍が注意深く監視している」と明らかにしました。\n\n台湾国防部は空母「遼寧」だとする写真もあわせて公開しましたが、撮影された詳しい日時や場所は明らかにしていません。\n\n今月17日には、海上自衛隊の護衛艦「いかづち」が台湾海峡を通過し、中国側が反発していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "台湾国防部は20日、中国軍の空母「遼寧」について「台湾海峡を通過し、注意深く監視している」と発表しました。\n",
+    "markedBody": "台湾国防部は、中国軍の空母「遼寧」について「きょう台湾海峡を通過し、台湾軍が注意深く監視している」と明らかにしました。\n\n台湾国防部は空母「遼寧」だとする写真もあわせて公開しましたが、撮影された詳しい日時や場所は明らかにしていません。\n\n今月17日には、海上自衛隊の護衛艦「いかづち」が台湾海峡を通過し、中国側が反発していました。\n",
+    "trimmedLead": "台湾国防部は20日、中国軍の空母「遼寧」について「台湾海峡を通過し、注意深く監視している」と発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015103961000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015103961000",
+  "video": [],
+  "citation": [
+    {
+      "name": "中国 東シナ海で新たな構造物設置の動き 日本政府が強く抗議",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015103861000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260420/K10015103861_2604201848_0420193907_01_02.jpg",
+      "datePublished": "2026-04-20T19:39:06+09:00"
+    },
+    {
+      "name": "自衛隊が初の本格参加 米比合同軍事演習 フィリピンで始まる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015103801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260420/K10015103801_2604201836_0420191551_01_02.jpg",
+      "datePublished": "2026-04-20T19:15:50+09:00"
+    },
+    {
+      "name": "北海道・三陸沖後発地震注意情報 “巨大地震の可能性高まる”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015103791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260420/K10015103791_2604202003_0420200841_01_02.jpg",
+      "datePublished": "2026-04-20T20:26:42+09:00"
+    },
+    {
+      "name": "香港高層住宅大規模火災 被災住民 約5か月ぶり 自宅に立ち入り",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015103851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260420/K10015103851_2604201849_0420192711_01_02.jpg",
+      "datePublished": "2026-04-20T19:27:10+09:00"
+    },
+    {
+      "name": "「トクリュウ」捜査会議 警察庁長官「被害拡大に歯止めを」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015103571000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260420/K10015103571_2604201639_0420192256_01_02.jpg",
+      "datePublished": "2026-04-20T19:22:55+09:00"
+    },
+    {
+      "name": "東京23区 新築マンションの平均価格1億3784万円 過去最高更新",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015103531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260420/K10015103531_2604201650_0420192228_01_02.jpg",
+      "datePublished": "2026-04-20T20:37:47+09:00"
+    },
+    {
+      "name": "野球の日本代表 井端弘和監督の退任を正式発表 NPB",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015103771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260420/K10015103771_2604201756_0420192021_01_02.jpg",
+      "datePublished": "2026-04-20T19:20:20+09:00"
+    },
+    {
+      "name": "南鳥島での「文献調査」実施容認 小笠原村長が文書で国に報告",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015103541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260420/K10015103541_2604201425_0420151356_01_02.jpg",
+      "datePublished": "2026-04-20T19:13:32+09:00"
+    },
+    {
+      "name": "仙台 住宅街でクマ捕獲 宮城県全域に「クマ出没警報」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015103501000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260420/K10015103501_2604201334_0420140927_01_02.jpg",
+      "datePublished": "2026-04-20T19:10:04+09:00"
+    },
+    {
+      "name": "イラン 米との協議に現時点で応じない姿勢示す 実現は不透明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015103351000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260420/K10015103351_2604201135_0420114042_01_02.jpg",
+      "datePublished": "2026-04-20T21:17:28+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

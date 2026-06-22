@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015105171000",
+  "dataSourceId": "na",
+  "name": "3月貿易統計 6670億円の黒字 原油輸入量 去年同月比2.4％増加",
+  "headline": "3月貿易統計 6670億円の黒字 原油輸入量 去年同月比2.4％増加",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015105171000",
+    "playlistId": "news-nwa-business-nationwide-20260422",
+    "newsarticleName": "3月貿易統計 6670億円の黒字 原油輸入量 去年同月比2.4％増加",
+    "playlistName": "4月22日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "財務省が発表した貿易統計によりますと、輸出から輸入を差し引いた先月の日本の貿易収支は6670億円の黒字でした。黒字は2か月連続です。また、日本の原油の輸入量は去年の同じ月より2.4％増加しました。\n\n",
+  "dateModified": "2026-04-22T10:31:09+09:00",
+  "datePublished": "2026-04-22T10:31:09+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260422/K10015105171_2604220945_0422103110_02_01.jpg",
+      "height": 719,
+      "width": 1279
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260422/K10015105171_2604220945_0422103110_01_02.jpg",
+      "height": 719,
+      "width": 1279
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0002430",
+      "name": "貿易統計",
+      "display": true
+    },
+    {
+      "id": "0002407",
+      "name": "財務省",
+      "display": true
+    },
+    {
+      "id": "0002738",
+      "name": "統計・指標",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "財務省が発表した貿易統計によりますと、輸出から輸入を差し引いた先月の日本の貿易収支は6670億円の黒字でした。黒字は2か月連続です。また、日本の原油の輸入量は去年の同じ月より2.4％増加しました。\n\n",
+  "articleBody": "財務省が発表した貿易統計によりますと、輸出から輸入を差し引いた先月の日本の貿易収支は6670億円の黒字でした。黒字は2か月連続です。また、日本の原油の輸入量は去年の同じ月より2.4％増加しました。\n\n\n先月はイラン情勢が悪化し、ホルムズ海峡が事実上、封鎖されましたが、原油の輸入量が減らなかったのは情勢が緊迫化する前に現地を出発していたタンカーが日本に、順次、到着したためだということです。\n\n今後の原油の輸入の動向について財務省は「状況を注視する」としています。\n",
+  "detailedArticleBody": {
+    "markedLead": "財務省が発表した貿易統計によりますと、輸出から輸入を差し引いた先月の日本の貿易収支は6670億円の黒字でした。黒字は2か月連続です。また、日本の原油の輸入量は去年の同じ月より2.4％増加しました。\n",
+    "markedBody": "先月はイラン情勢が悪化し、ホルムズ海峡が事実上、封鎖されましたが、原油の輸入量が減らなかったのは情勢が緊迫化する前に現地を出発していたタンカーが日本に、順次、到着したためだということです。\n\n今後の原油の輸入の動向について財務省は「状況を注視する」としています。\n",
+    "trimmedLead": "財務省が発表した貿易統計によりますと、輸出から輸入を差し引いた先月の日本の貿易収支は6670億円の黒字でした。黒字は2か月連続です。また、日本の原油の輸入量は去年の同じ月より2.4％増加しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015105171000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015105171000",
+  "video": [],
+  "citation": [
+    {
+      "name": "トランプ大統領 停戦延長と投稿 イランとの協議が結論至るまで",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105081000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015105081_2604220554_0422055505_01_03.jpg",
+      "datePublished": "2026-04-22T10:27:24+09:00"
+    },
+    {
+      "name": "「５類型」撤廃で武器輸出原則可能に フィリピンと協議開始へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104871000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015104871_2604212245_0422054433_01_03.jpg",
+      "datePublished": "2026-04-22T05:44:32+09:00"
+    },
+    {
+      "name": "米FRB議長指名のウォーシュ氏 “大統領から独立して政策判断”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015105041_2604220203_0422020453_01_02.jpg",
+      "datePublished": "2026-04-22T09:20:13+09:00"
+    },
+    {
+      "name": "北海道・三陸沖後発地震注意情報 “日頃の備え 改めて確認を”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015104141_2604210018_0421002942_01_02.jpg",
+      "datePublished": "2026-04-22T05:10:19+09:00"
+    },
+    {
+      "name": "陸自戦車の砲弾破裂事故 当時の無線交信内容を聞き取りへ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015105001000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015105001_2604220242_0422051148_01_02.jpg",
+      "datePublished": "2026-04-22T05:11:47+09:00"
+    },
+    {
+      "name": "「国家情報局」設置法案 与党きょう採決を 与野党詰めの調整",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104881000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260422/K10015104881_2604220128_0422053222_01_02.jpg",
+      "datePublished": "2026-04-22T05:32:21+09:00"
+    },
+    {
+      "name": "東京ドームシティ 従業員が体を挟まれ死亡 点検中に遊具落下か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104511000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015104511_2604211258_0421183300_01_03.jpg",
+      "datePublished": "2026-04-21T23:31:42+09:00"
+    },
+    {
+      "name": "岩手 紫波町 クマに襲われ警察官けが 近くに女性1人の遺体",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015104441_2604211322_0421155607_01_02.jpg",
+      "datePublished": "2026-04-21T19:24:37+09:00"
+    },
+    {
+      "name": "政府 「5類型」撤廃を決定 「武器」移転が原則可能に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015104291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015104291_2604211516_0421152616_01_02.jpg",
+      "datePublished": "2026-04-21T19:04:48+09:00"
+    },
+    {
+      "name": "子どものいのちを守る 学校現場の自殺対策は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015103411000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260421/K10015103411_2604201255_0421174035_01_02.jpg",
+      "datePublished": "2026-04-21T17:40:34+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

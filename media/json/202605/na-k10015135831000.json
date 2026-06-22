@@ -1,0 +1,160 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015135831000",
+  "dataSourceId": "na",
+  "name": "ドジャース大谷翔平 2試合連続本塁打 6年連続ふた桁10号到達",
+  "headline": "ドジャース大谷翔平 2試合連続本塁打 6年連続ふた桁10号到達",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015135831000",
+    "playlistId": "news-nwa-sports-nationwide-20260530",
+    "newsarticleName": "ドジャース大谷翔平 2試合連続本塁打 6年連続ふた桁10号到達",
+    "playlistName": "5月30日のスポーツニュース",
+    "genreId": "sports",
+    "genreIdSlug": "sports"
+  },
+  "description": "大リーグ、ドジャースの大谷翔平選手が29日、フィリーズ戦に1番・指名打者で先発出場し3回の第2打席で今シーズン10号のソロホームランを打ちました。大谷選手のホームランは2試合連続で、6年連続、通算8回",
+  "dateModified": "2026-05-30T12:05:45+09:00",
+  "datePublished": "2026-05-30T12:05:45+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260530/K10015135831_2605301309_0530131004_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260530/K10015135831_2605301309_0530131004_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "スポーツ"
+  ],
+  "topic": [
+    {
+      "id": "0002020",
+      "name": "大谷翔平",
+      "display": true
+    },
+    {
+      "id": "0000006",
+      "name": "大リーグ",
+      "display": true
+    },
+    {
+      "id": "0001591",
+      "name": "野球",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "大リーグ、ドジャースの大谷翔平選手が29日、フィリーズ戦に1番・指名打者で先発出場し3回の第2打席で今シーズン10号のソロホームランを打ちました。大谷選手のホームランは2試合連続で、6年連続、通算8回",
+  "articleBody": "大リーグ、ドジャースの大谷翔平選手が29日、フィリーズ戦に1番・指名打者で先発出場し3回の第2打席で今シーズン10号のソロホームランを打ちました。大谷選手のホームランは2試合連続で、6年連続、通算8回目のふた桁ホームランに到達しました。\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "大リーグ、ドジャースの大谷翔平選手が29日、フィリーズ戦に1番・指名打者で先発出場し3回の第2打席で今シーズン10号のソロホームランを打ちました。大谷選手のホームランは2試合連続で、6年連続、通算8回目のふた桁ホームランに到達しました。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20260530/K10015135831_2605301309_0530131004_02_03.jpg)\n",
+    "trimmedLead": "大リーグ、ドジャースの大谷翔平選手が29日、フィリーズ戦に1番・指名打者で先発出場し3回の第2打席で今シーズン10号のソロホームランを打ちました。大谷選手のホームランは2試合連続で、6年連続、通算8回目のふた桁ホームランに到達しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015135831000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015135831000",
+  "video": [],
+  "citation": [
+    {
+      "name": "ホワイトソックス村上宗隆 右太もも裏の張り 復帰まで数週間か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015135801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260530/K10015135801_2605301011_0530101130_01_02.jpg",
+      "datePublished": "2026-05-30T14:08:56+09:00"
+    },
+    {
+      "name": "大リーグ機構 選手会に“サラリーキャップ”提案 交渉難航へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015135151000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015135151_2605291622_0529171409_01_02.jpg",
+      "datePublished": "2026-05-29T17:14:08+09:00"
+    },
+    {
+      "name": "【プロ野球】中日が12球団で唯一 交流戦4連勝 西武は30勝到達",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015135511000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015135511_2605292158_0530084101_01_02.jpg",
+      "datePublished": "2026-05-29T23:36:21+09:00"
+    },
+    {
+      "name": "プロ野球“危険スイング” 新ルールは？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015133691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015133691_2605281119_0528134339_01_02.jpg",
+      "datePublished": "2026-05-28T13:43:38+09:00"
+    },
+    {
+      "name": "バレー元日本代表の大麻所持 元所属チームが薬物検査実施へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015135621000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015135621_2605292253_0529234907_01_02.jpg",
+      "datePublished": "2026-05-29T23:49:06+09:00"
+    },
+    {
+      "name": "Bリーグ MVPに宇都宮ブレックスのニュービル 初の3年連続受賞",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015135521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015135521_2605292128_0529213840_01_02.jpg",
+      "datePublished": "2026-05-29T22:50:07+09:00"
+    },
+    {
+      "name": "バレーボール日本代表 高橋藍がポーランドの強豪に移籍発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015135551000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015135551_2605292149_0529215917_01_02.jpg",
+      "datePublished": "2026-05-29T21:59:17+09:00"
+    },
+    {
+      "name": "サッカーW杯 日本代表合宿 久保ら合流しメンバーほぼそろう",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015135211000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015135211_2605291659_0529180058_01_02.jpg",
+      "datePublished": "2026-05-29T19:46:47+09:00"
+    },
+    {
+      "name": "サッカーW杯 アルゼンチン代表 メッシが史上最多6回目の選出",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015135431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260529/K10015135431_2605292054_0529205624_01_02.jpg",
+      "datePublished": "2026-05-29T20:56:23+09:00"
+    },
+    {
+      "name": "本田圭佑選手が語るサッカー日本代表「ビッグサプライズは…」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015131091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260525/K10015131091_2605251844_0525215208_01_02.jpg",
+      "datePublished": "2026-05-25T21:52:07+09:00"
+    },
+    {
+      "name": "FIFAワールドカップ2026【NHK特設サイト】",
+      "url": "https://nhk.jp/fifawc?cid=wc26-newsweb-awayomi",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31365091.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

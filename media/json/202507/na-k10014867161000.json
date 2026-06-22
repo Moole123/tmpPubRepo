@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014867161000",
+  "dataSourceId": "na",
+  "name": "NY株式市場 ナスダック S＆P500 最高値更新",
+  "headline": "NY株式市場 ナスダック S＆P500 最高値更新",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014867161000",
+    "playlistId": "news-nwa-international-nationwide-20250718",
+    "newsarticleName": "NY株式市場 ナスダック S＆P500 最高値更新",
+    "playlistName": "7月18日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "17日のニューヨーク株式市場では、アメリカの景気の底堅さが意識されたことで買い注文が広がり、ナスダックの株価指数などが最高値を更新して取り引きを終えました。\n\n\n17日のニューヨーク株式市場では、この",
+  "dateModified": "2025-07-18T07:06:21+09:00",
+  "datePublished": "2025-07-18T07:06:21+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250718/K10014867161_2507180643_0718070318_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250718/K10014867161_2507180643_0718070318_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際",
+    "経済"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "17日のニューヨーク株式市場では、アメリカの景気の底堅さが意識されたことで買い注文が広がり、ナスダックの株価指数などが最高値を更新して取り引きを終えました。\n\n\n17日のニューヨーク株式市場では、この",
+  "articleBody": "17日のニューヨーク株式市場では、アメリカの景気の底堅さが意識されたことで買い注文が広がり、ナスダックの株価指数などが最高値を更新して取り引きを終えました。\n\n\n17日のニューヨーク株式市場では、この日に発表されたアメリカの小売業の売上高が市場予想を上回ったことなどが好感され、買い注文が広がる展開となりました。\n\nダウ平均株価の終値は前日と比べて229ドル71セント高い、4万4484ドル49セントでした。\n\nまた、ハイテク関連銘柄が多いナスダックの株価指数と、多くの機関投資家が運用の指標としているS＆P500の株価指数がそれぞれ最高値を更新しました。\n\n市場関係者は、「小売業の売上高の結果などを受けて、市場では景気の底堅さが確認され、買い注文につながった」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "17日のニューヨーク株式市場では、アメリカの景気の底堅さが意識されたことで買い注文が広がり、ナスダックの株価指数などが最高値を更新して取り引きを終えました。\n",
+    "markedBody": "17日のニューヨーク株式市場では、この日に発表されたアメリカの小売業の売上高が市場予想を上回ったことなどが好感され、買い注文が広がる展開となりました。\n\nダウ平均株価の終値は前日と比べて229ドル71セント高い、4万4484ドル49セントでした。\n\nまた、ハイテク関連銘柄が多いナスダックの株価指数と、多くの機関投資家が運用の指標としているS＆P500の株価指数がそれぞれ最高値を更新しました。\n\n市場関係者は、「小売業の売上高の結果などを受けて、市場では景気の底堅さが確認され、買い注文につながった」と話しています。\n",
+    "trimmedLead": "17日のニューヨーク株式市場では、アメリカの景気の底堅さが意識されたことで買い注文が広がり、ナスダックの株価指数などが最高値を更新して取り引きを終えました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014867161000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014867161000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

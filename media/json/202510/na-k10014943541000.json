@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014943541000",
+  "dataSourceId": "na",
+  "name": "8月の景気動向指数 2か月連続の低下 基調判断は据え置き",
+  "headline": "8月の景気動向指数 2か月連続の低下 基調判断は据え置き",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014943541000",
+    "playlistId": "news-nwa-business-nationwide-20251007",
+    "newsarticleName": "8月の景気動向指数 2か月連続の低下 基調判断は据え置き",
+    "playlistName": "10月7日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "内閣府が発表したことし8月の景気動向指数は、景気の現状を示す「一致指数」が2020年を100とした基準で113.4となり、前の月から0.7ポイント低下しました。\n\n低下は2か月連続で、アメリカ向けの自",
+  "dateModified": "2025-10-07T16:16:37+09:00",
+  "datePublished": "2025-10-07T16:16:37+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251007/K10014943541_2510071543_1007161638_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20251007/K10014943541_2510071543_1007161638_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "内閣府が発表したことし8月の景気動向指数は、景気の現状を示す「一致指数」が2020年を100とした基準で113.4となり、前の月から0.7ポイント低下しました。\n\n低下は2か月連続で、アメリカ向けの自",
+  "articleBody": "内閣府が発表したことし8月の景気動向指数は、景気の現状を示す「一致指数」が2020年を100とした基準で113.4となり、前の月から0.7ポイント低下しました。\n\n低下は2か月連続で、アメリカ向けの自動車や関連部品の輸出が減少したことが主な要因です。\n\n\nこれについて内閣府は、アメリカが課す追加関税が自動車価格に転嫁される前に買おうとする駆け込み需要をねらって、ことしの4月から数か月間、自動車メーカーが輸出を増やした結果、その後、減少に転じたことが背景にあると分析しています。\n\nそのうえで景気の基調判断については「下げ止まりを示している」として、前回・7月の判断を据え置きました。\n",
+  "detailedArticleBody": {
+    "markedLead": "内閣府が発表したことし8月の景気動向指数は、景気の現状を示す「一致指数」が2020年を100とした基準で113.4となり、前の月から0.7ポイント低下しました。\n\n低下は2か月連続で、アメリカ向けの自動車や関連部品の輸出が減少したことが主な要因です。\n",
+    "markedBody": "これについて内閣府は、アメリカが課す追加関税が自動車価格に転嫁される前に買おうとする駆け込み需要をねらって、ことしの4月から数か月間、自動車メーカーが輸出を増やした結果、その後、減少に転じたことが背景にあると分析しています。\n\nそのうえで景気の基調判断については「下げ止まりを示している」として、前回・7月の判断を据え置きました。\n",
+    "trimmedLead": "内閣府が発表したことし8月の景気動向指数は、景気の現状を示す「一致指数」が2020年を100とした基準で113.4となり、前の月から0.7ポイント低下しました。\n\n低下は2か月連続で、アメリカ向けの自動車や関連部品の輸出が減少したことが主な要因です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014943541000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014943541000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

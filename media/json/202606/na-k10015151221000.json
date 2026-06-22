@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015151221000",
+  "dataSourceId": "na",
+  "name": "鳥インフルエンザによる卵値上がり抑制へ 農水省が対策",
+  "headline": "鳥インフルエンザによる卵値上がり抑制へ 農水省が対策",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015151221000",
+    "playlistId": "news-nwa-life-nationwide-20260616",
+    "newsarticleName": "鳥インフルエンザによる卵値上がり抑制へ 農水省が対策",
+    "playlistName": "6月16日の暮らしニュース",
+    "genreId": "life",
+    "genreIdSlug": "life"
+  },
+  "description": "鳥インフルエンザがこのところ相次いで発生し、卵の値上がりにつながっているとして、農林水産省は卵を安定供給するための対策パッケージをまとめました。\n\n\n鳥インフルエンザは2020年以降は毎シーズン発生し",
+  "dateModified": "2026-06-16T14:53:03+09:00",
+  "datePublished": "2026-06-16T14:53:03+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260616/K10015151221_2606161455_0616145620_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260616/K10015151221_2606161455_0616145620_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "暮らし",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0002400",
+      "name": "農林水産省",
+      "display": true
+    },
+    {
+      "id": "0002420",
+      "name": "農業",
+      "display": true
+    },
+    {
+      "id": "0002133",
+      "name": "物価高騰",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "鳥インフルエンザがこのところ相次いで発生し、卵の値上がりにつながっているとして、農林水産省は卵を安定供給するための対策パッケージをまとめました。\n\n\n鳥インフルエンザは2020年以降は毎シーズン発生し",
+  "articleBody": "鳥インフルエンザがこのところ相次いで発生し、卵の値上がりにつながっているとして、農林水産省は卵を安定供給するための対策パッケージをまとめました。\n\n\n鳥インフルエンザは2020年以降は毎シーズン発生し、発生した養鶏場では多くのニワトリが処分されることから、卵の価格が上昇する大きな原因となっています。\n\nこれを受けて農林水産省は、卵を安定的に供給するための対策パッケージをまとめました。\n\nこの中では、鳥インフルエンザが発生した場合でも処分するニワトリの数を抑えられるよう、施設を分ける「分割管理」の導入をさらに後押しすることに加え、病気にかかったニワトリを早めに見つけ出すため、AIの活用をはじめとした技術を開発する官民の検討会を新たに設けることなどを掲げています。\n\n鈴木農林水産大臣は、16日の閣議のあとの記者会見で「AIなどのさらなる活用を進めることにより、衛生対策の強化だけでなく畜産農家の負担感の軽減や生産性の向上が期待される」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "鳥インフルエンザがこのところ相次いで発生し、卵の値上がりにつながっているとして、農林水産省は卵を安定供給するための対策パッケージをまとめました。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20260616/K10015151221_2606161402_0616145304_02_03.jpg)\n\n鳥インフルエンザは2020年以降は毎シーズン発生し、発生した養鶏場では多くのニワトリが処分されることから、卵の価格が上昇する大きな原因となっています。\n\nこれを受けて農林水産省は、卵を安定的に供給するための対策パッケージをまとめました。\n\nこの中では、鳥インフルエンザが発生した場合でも処分するニワトリの数を抑えられるよう、施設を分ける「分割管理」の導入をさらに後押しすることに加え、病気にかかったニワトリを早めに見つけ出すため、AIの活用をはじめとした技術を開発する官民の検討会を新たに設けることなどを掲げています。\n\n鈴木農林水産大臣は、16日の閣議のあとの記者会見で「AIなどのさらなる活用を進めることにより、衛生対策の強化だけでなく畜産農家の負担感の軽減や生産性の向上が期待される」と述べました。\n",
+    "trimmedLead": "鳥インフルエンザがこのところ相次いで発生し、卵の値上がりにつながっているとして、農林水産省は卵を安定供給するための対策パッケージをまとめました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015151221000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015151221000",
+  "video": [],
+  "citation": [
+    {
+      "name": "農産物輸出拡大で関係閣僚会議 販路の拡大支援を強化へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015151111000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260616/K10015151111_2606161236_0616132827_01_02.jpg",
+      "datePublished": "2026-06-16T13:28:27+09:00"
+    },
+    {
+      "name": "【ライブ】日銀が利上げ決定 政策金利1％程度に 副総裁が会見",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015150911000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260616/K10015150911_2606161531_0616153154_01_02.jpg",
+      "datePublished": "2026-06-16T16:35:11+09:00"
+    },
+    {
+      "name": "株価 初めて7万円を突破 日銀利上げ想定内との見方も後押しに",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015150931000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260616/K10015150931_2606161246_0616124847_01_02.jpg",
+      "datePublished": "2026-06-16T13:59:31+09:00"
+    },
+    {
+      "name": "アイス値上げでカルテルか 公取委が大手メーカー6社立ち入り",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015150981000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260616/K10015150981_2606161458_0616150210_01_03.jpg",
+      "datePublished": "2026-06-16T14:03:20+09:00"
+    },
+    {
+      "name": "金子国交相「ペルシャ湾内の日本関係船舶1隻に損傷確認」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015150901000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260616/K10015150901_2606161008_0616104555_01_03.jpg",
+      "datePublished": "2026-06-16T11:23:51+09:00"
+    },
+    {
+      "name": "高市首相 G7サミット出席“米イラン最終合意1日も早く実現を”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015150941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260616/K10015150941_2606161042_0616105157_01_02.jpg",
+      "datePublished": "2026-06-16T10:51:56+09:00"
+    },
+    {
+      "name": "米 「19日に実務的な協議開始」 レバノンでは攻撃応酬も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015150961000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260616/K10015150961_2606161035_0616115928_01_02.jpg",
+      "datePublished": "2026-06-16T14:46:12+09:00"
+    },
+    {
+      "name": "サッカーW杯 初戦引き分けの日本が調整再開 久保は病院で検査",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015150851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260616/K10015150851_2606160902_0616090830_01_02.jpg",
+      "datePublished": "2026-06-16T15:39:38+09:00"
+    },
+    {
+      "name": "FIFAワールドカップ2026【NHK特設サイト】",
+      "url": "https://nhk.jp/fifawc?cid=wc26-newsweb-awayomi",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31365091.jpg"
+    },
+    {
+      "name": "大谷翔平が最多得票 大リーグオールスターファン投票中間結果",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015150861000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260616/K10015150861_2606160751_0616075627_01_02.jpg",
+      "datePublished": "2026-06-16T07:56:26+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

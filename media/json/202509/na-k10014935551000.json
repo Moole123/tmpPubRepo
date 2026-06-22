@@ -1,0 +1,101 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014935551000",
+  "dataSourceId": "na",
+  "name": "コメの作柄示す「作況指数」廃止 新指標「作況単収指数」導入",
+  "headline": "コメの作柄示す「作況指数」廃止 新指標「作況単収指数」導入",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014935551000",
+    "playlistId": "news-nwa-society-nationwide-20250929",
+    "newsarticleName": "コメの作柄示す「作況指数」廃止 新指標「作況単収指数」導入",
+    "playlistName": "9月29日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "総務省の委員会は29日、コメの作柄を示すこれまでの「作況指数」を廃止し、かわりに「作況単収指数」という名称の新たな指標を導入する案を了承しました。\n\n\nこの案は29日開かれた総務省の統計委員会で議論さ",
+  "dateModified": "2025-09-29T16:01:18+09:00",
+  "datePublished": "2025-09-29T16:01:18+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250929/K10014935551_2509291547_0929160035_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250929/K10014935551_2509291547_0929160035_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "総務省の委員会は29日、コメの作柄を示すこれまでの「作況指数」を廃止し、かわりに「作況単収指数」という名称の新たな指標を導入する案を了承しました。\n\n\nこの案は29日開かれた総務省の統計委員会で議論さ",
+  "articleBody": "総務省の委員会は29日、コメの作柄を示すこれまでの「作況指数」を廃止し、かわりに「作況単収指数」という名称の新たな指標を導入する案を了承しました。\n\n\nこの案は29日開かれた総務省の統計委員会で議論されました。\n\nそれによりますと、過去30年間の傾向をもとに一定の面積当たりのコメの出来具合を示してきたこれまでの「作況指数」を廃止する一方、かわりに「作況単収指数」という名称の新たな指標を導入します。\n\n「作況単収指数」では直近の気象の影響などが反映されるよう、過去5年のコメの収穫量のうち、最も多い年と少ない年を除く3年分の平均と比べた指数でその年の出来具合を表すことにしています。\n\n「作況指数」は長年、その年のコメの作柄を示す指標として使われてきましたが、生産現場の実感とずれがあるとして農林水産省は廃止の方針を打ち出したものの、統計の専門家からかわりとなる指標を求める声が出ていました。\n\nこの案は29日の委員会で了承され、来月以降発表されることしのコメの収穫量の統計から新たな指標になる見通しです。\n",
+  "detailedArticleBody": {
+    "markedLead": "総務省の委員会は29日、コメの作柄を示すこれまでの「作況指数」を廃止し、かわりに「作況単収指数」という名称の新たな指標を導入する案を了承しました。\n",
+    "markedBody": "この案は29日開かれた総務省の統計委員会で議論されました。\n\nそれによりますと、過去30年間の傾向をもとに一定の面積当たりのコメの出来具合を示してきたこれまでの「作況指数」を廃止する一方、かわりに「作況単収指数」という名称の新たな指標を導入します。\n\n「作況単収指数」では直近の気象の影響などが反映されるよう、過去5年のコメの収穫量のうち、最も多い年と少ない年を除く3年分の平均と比べた指数でその年の出来具合を表すことにしています。\n\n「作況指数」は長年、その年のコメの作柄を示す指標として使われてきましたが、生産現場の実感とずれがあるとして農林水産省は廃止の方針を打ち出したものの、統計の専門家からかわりとなる指標を求める声が出ていました。\n\nこの案は29日の委員会で了承され、来月以降発表されることしのコメの収穫量の統計から新たな指標になる見通しです。\n",
+    "trimmedLead": "総務省の委員会は29日、コメの作柄を示すこれまでの「作況指数」を廃止し、かわりに「作況単収指数」という名称の新たな指標を導入する案を了承しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014935551000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014935551000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "コメの作柄示す「作況指数」廃止 新指標「作況単収指数」導入",
+      "description": "総務省の委員会は29日、コメの作柄を示すこれまでの「作況指数」を廃止し、かわりに「作況単収指数」という名称の新たな指標を導入する案を了承しました。\n\n\nこの案は29日開かれた総務省の統計委員会で議論さ",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10014935551_202509291604_202509291605/index.m3u8&mrposter=/news/html/20250929/K10014935551_2509291547_0929160035_01_02.jpg",
+      "duration": "PT1M8S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10014935551_202509291604_202509291605/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20250929/K10014935551_2509291547_0929160035_01_02.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

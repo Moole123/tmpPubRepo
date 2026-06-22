@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10014823381000",
+  "dataSourceId": "na",
+  "name": "奈良 子ジカの一般公開始まる",
+  "headline": "奈良 子ジカの一般公開始まる",
+  "identifierGroup": {
+    "newsarticleId": "na-k10014823381000",
+    "playlistId": "news-nwa-life-nationwide-20250602",
+    "newsarticleName": "奈良 子ジカの一般公開始まる",
+    "playlistName": "6月2日の暮らしニュース",
+    "genreId": "life",
+    "genreIdSlug": "life"
+  },
+  "description": "奈良市の奈良公園にあるシカの保護施設で、生まれたばかりの子ジカの一般公開が始まりました。\n\n\n国の天然記念物に指定されている「奈良のシカ」は5月ごろから出産の時期を迎え、奈良公園にある保護施設「鹿苑」",
+  "dateModified": "2025-06-02T13:22:26+09:00",
+  "datePublished": "2025-06-02T13:22:26+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250602/K10014823381_2506021237_0602123807_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20250602/K10014823381_2506021237_0602123807_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "暮らし",
+    "地域"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "奈良市の奈良公園にあるシカの保護施設で、生まれたばかりの子ジカの一般公開が始まりました。\n\n\n国の天然記念物に指定されている「奈良のシカ」は5月ごろから出産の時期を迎え、奈良公園にある保護施設「鹿苑」",
+  "articleBody": "奈良市の奈良公園にあるシカの保護施設で、生まれたばかりの子ジカの一般公開が始まりました。\n\n\n国の天然記念物に指定されている「奈良のシカ」は5月ごろから出産の時期を迎え、奈良公園にある保護施設「鹿苑」では6月1日から60頭余りの子ジカを公開しています。\n\n施設では、体重およそ3キロから6キロの子ジカが鳴き声をあげながら母ジカにくっついて乳を飲んだり元気に走り回ったりしています。\n\n訪れた人たちは、子ジカの愛くるしい姿を写真に収めるなどして楽しんでいました。\n\n奈良市の6歳の男の子は「小さいシカがぴょんぴょんしていてかわいかったです」と話していました。\n\n公園のシカを保護している奈良の鹿愛護会事業課の石川周課長は「ことしは涼しい日が続き、子ジカたちは元気に走り回っています。出産して間もない母ジカは攻撃的になっているので、公園内で子ジカを見つけても近づかず、離れて見守ってほしい」と話していました。\n\n一般公開は7月14日まで、毎日、午前10時から午後4時まで行われています。\n",
+  "detailedArticleBody": {
+    "markedLead": "奈良市の奈良公園にあるシカの保護施設で、生まれたばかりの子ジカの一般公開が始まりました。\n",
+    "markedBody": "国の天然記念物に指定されている「奈良のシカ」は5月ごろから出産の時期を迎え、奈良公園にある保護施設「鹿苑」では6月1日から60頭余りの子ジカを公開しています。\n\n施設では、体重およそ3キロから6キロの子ジカが鳴き声をあげながら母ジカにくっついて乳を飲んだり元気に走り回ったりしています。\n\n訪れた人たちは、子ジカの愛くるしい姿を写真に収めるなどして楽しんでいました。\n\n奈良市の6歳の男の子は「小さいシカがぴょんぴょんしていてかわいかったです」と話していました。\n\n公園のシカを保護している奈良の鹿愛護会事業課の石川周課長は「ことしは涼しい日が続き、子ジカたちは元気に走り回っています。出産して間もない母ジカは攻撃的になっているので、公園内で子ジカを見つけても近づかず、離れて見守ってほしい」と話していました。\n\n一般公開は7月14日まで、毎日、午前10時から午後4時まで行われています。\n",
+    "trimmedLead": "奈良市の奈良公園にあるシカの保護施設で、生まれたばかりの子ジカの一般公開が始まりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10014823381000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10014823381000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015095061000",
+  "dataSourceId": "na",
+  "name": "大阪 和泉 集合住宅で2人死亡 住人の70代母親と40代娘か",
+  "headline": "大阪 和泉 集合住宅で2人死亡 住人の70代母親と40代娘か",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015095061000",
+    "playlistId": "news-nwa-society-nationwide-20260408",
+    "newsarticleName": "大阪 和泉 集合住宅で2人死亡 住人の70代母親と40代娘か",
+    "playlistName": "4月8日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "8日昼すぎ、大阪 和泉市の集合住宅の1室で、女性2人が血を流して死亡しているのが見つかりました。警察はこの部屋に住む70代の母親と40代の娘とみて確認を進めるとともに、現場の状況などから事件に巻き込ま",
+  "dateModified": "2026-04-08T19:07:29+09:00",
+  "datePublished": "2026-04-08T19:07:29+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260408/K10015095061_2604081833_0408190730_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260408/K10015095061_2604081833_0408190730_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0001538",
+      "name": "事件・事故",
+      "display": true
+    },
+    {
+      "id": "0002227",
+      "name": "大阪府",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "8日昼すぎ、大阪 和泉市の集合住宅の1室で、女性2人が血を流して死亡しているのが見つかりました。警察はこの部屋に住む70代の母親と40代の娘とみて確認を進めるとともに、現場の状況などから事件に巻き込ま",
+  "articleBody": "8日昼すぎ、大阪 和泉市の集合住宅の1室で、女性2人が血を流して死亡しているのが見つかりました。警察はこの部屋に住む70代の母親と40代の娘とみて確認を進めるとともに、現場の状況などから事件に巻き込まれた可能性もあるとみて捜査しています。\n\n\n警察によりますと、8日午後0時半ごろ、和泉市鶴山台の集合住宅の1階にある1室で「女性が血を流している」と通報がありました。\n\n警察官が駆けつけたところ、女性2人がリビングで血を流して倒れていて、いずれも死亡していたということです。\n\nこの部屋には70代の母親と40代の娘が住んでいて、娘の勤務先から「出勤していない」という連絡を受けた親族の男性が部屋を訪れ、警察に通報したということです。\n\n警察は死亡した2人はこの部屋に住む親子とみて確認を進めるとともに、現場の状況などから事件に巻き込まれた可能性もあるとみて捜査しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "8日昼すぎ、大阪 和泉市の集合住宅の1室で、女性2人が血を流して死亡しているのが見つかりました。警察はこの部屋に住む70代の母親と40代の娘とみて確認を進めるとともに、現場の状況などから事件に巻き込まれた可能性もあるとみて捜査しています。\n",
+    "markedBody": "警察によりますと、8日午後0時半ごろ、和泉市鶴山台の集合住宅の1階にある1室で「女性が血を流している」と通報がありました。\n\n警察官が駆けつけたところ、女性2人がリビングで血を流して倒れていて、いずれも死亡していたということです。\n\nこの部屋には70代の母親と40代の娘が住んでいて、娘の勤務先から「出勤していない」という連絡を受けた親族の男性が部屋を訪れ、警察に通報したということです。\n\n警察は死亡した2人はこの部屋に住む親子とみて確認を進めるとともに、現場の状況などから事件に巻き込まれた可能性もあるとみて捜査しています。\n",
+    "trimmedLead": "8日昼すぎ、大阪 和泉市の集合住宅の1室で、女性2人が血を流して死亡しているのが見つかりました。警察はこの部屋に住む70代の母親と40代の娘とみて確認を進めるとともに、現場の状況などから事件に巻き込まれた可能性もあるとみて捜査しています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015095061000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015095061000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "大阪 和泉 集合住宅で2人死亡 住人の70代母親と40代娘か",
+      "description": "8日昼すぎ、大阪 和泉市の集合住宅の1室で、女性2人が血を流して死亡しているのが見つかりました。警察はこの部屋に住む70代の母親と40代の娘とみて確認を進めるとともに、現場の状況などから事件に巻き込ま",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015095061_202604081934_202604081935/index.m3u8&mrposter=/news/html/20260408/K10015095061_2604081833_0408190730_01_02.jpg",
+      "duration": "PT23S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015095061_202604081934_202604081935/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260408/K10015095061_2604081833_0408190730_01_02.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "川崎 製鉄所で高所作業の3人死亡事故 重りの上で作業中転落か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094731000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260408/K10015094731_2604081245_0408131215_01_03.jpg",
+      "datePublished": "2026-04-08T17:26:45+09:00"
+    },
+    {
+      "name": "東京 新宿 携帯電話買い取り店で強盗傷害か 容疑者3人逮捕",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260408/K10015094851_2604081543_0408171735_01_02.jpg",
+      "datePublished": "2026-04-08T17:17:34+09:00"
+    },
+    {
+      "name": "東京 広尾 ブランド買い取り店で窃盗 被害は約1億2700万円相当",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260408/K10015094691_2604081145_0408132621_01_03.jpg",
+      "datePublished": "2026-04-08T18:45:36+09:00"
+    },
+    {
+      "name": "高市首相 イラン大統領と電話会談 海峡の航行の安全確保求める",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094951000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260408/K10015094951_2604081651_0408165326_01_02.jpg",
+      "datePublished": "2026-04-08T19:21:23+09:00"
+    },
+    {
+      "name": "米とイラン 2週間停戦で合意 “海峡 安全航行可能”イラン外相",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260408/K10015094531_2604081801_0408180536_01_02.jpg",
+      "datePublished": "2026-04-08T20:41:23+09:00"
+    },
+    {
+      "name": "【詳しく】日本国内の反応は アメリカとイラン 停戦合意で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094621000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260408/K10015094621_2604081018_0408102903_01_02.jpg",
+      "datePublished": "2026-04-08T19:29:12+09:00"
+    },
+    {
+      "name": "台湾 最大野党の鄭主席 南京で国民党の創始者 孫文の墓訪れる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094971000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260408/K10015094971_2604081726_0408181406_01_03.jpg",
+      "datePublished": "2026-04-08T18:14:05+09:00"
+    },
+    {
+      "name": "昨年度の企業の倒産件数1万件超 今年度も件数が増える可能性",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094961000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260408/K10015094961_2604081705_0408174257_01_03.jpg",
+      "datePublished": "2026-04-08T17:42:57+09:00"
+    },
+    {
+      "name": "旧日本海軍の戦闘機「紫電改」 鹿児島で引き揚げ 81年間海底に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015095001000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260408/K10015095001_2604081742_0408182108_01_03.jpg",
+      "datePublished": "2026-04-08T18:21:07+09:00"
+    },
+    {
+      "name": "砧公園でまた倒木 この1か月で4回 小池都知事「一斉点検指示」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015094781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260408/K10015094781_2604081511_0408163609_01_02.jpg",
+      "datePublished": "2026-04-08T18:59:46+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

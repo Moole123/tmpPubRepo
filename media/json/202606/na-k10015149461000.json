@@ -1,0 +1,133 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015149461000",
+  "dataSourceId": "na",
+  "name": "名古屋 川で流された中学生が死亡",
+  "headline": "名古屋 川で流された中学生が死亡",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015149461000",
+    "playlistId": "news-nwa-society-nationwide-20260614",
+    "newsarticleName": "名古屋 川で流された中学生が死亡",
+    "playlistName": "6月14日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "13日夕方、名古屋市の川で遊んでいた13歳の中学生が流され、死亡しました。\n\n\n警察によりますと、13日午後5時40分ごろ、名古屋市西区の庄内川で「男の子が流された」と近くにいた友人から消防に通報があ",
+  "dateModified": "2026-06-14T00:59:32+09:00",
+  "datePublished": "2026-06-14T00:59:32+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260614/K10015149461_2606140009_0614005932_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260614/K10015149461_2606140009_0614005932_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002223",
+      "name": "愛知県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "13日夕方、名古屋市の川で遊んでいた13歳の中学生が流され、死亡しました。\n\n\n警察によりますと、13日午後5時40分ごろ、名古屋市西区の庄内川で「男の子が流された」と近くにいた友人から消防に通報があ",
+  "articleBody": "13日夕方、名古屋市の川で遊んでいた13歳の中学生が流され、死亡しました。\n\n\n警察によりますと、13日午後5時40分ごろ、名古屋市西区の庄内川で「男の子が流された」と近くにいた友人から消防に通報がありました。\n\n警察と消防が捜索したところ、愛知県一宮市の中学2年生、丹羽奏輔さん（13）がおよそ30分後に川の中で見つかり、病院に搬送されましたが、死亡しました。\n\n丹羽さんは友人7人と遊んでいて、川に入った際、流されたということです。\n\n警察は詳しい状況を調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "13日夕方、名古屋市の川で遊んでいた13歳の中学生が流され、死亡しました。\n",
+    "markedBody": "警察によりますと、13日午後5時40分ごろ、名古屋市西区の庄内川で「男の子が流された」と近くにいた友人から消防に通報がありました。\n\n警察と消防が捜索したところ、愛知県一宮市の中学2年生、丹羽奏輔さん（13）がおよそ30分後に川の中で見つかり、病院に搬送されましたが、死亡しました。\n\n丹羽さんは友人7人と遊んでいて、川に入った際、流されたということです。\n\n警察は詳しい状況を調べています。\n",
+    "trimmedLead": "13日夕方、名古屋市の川で遊んでいた13歳の中学生が流され、死亡しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015149461000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015149461000",
+  "video": [],
+  "citation": [
+    {
+      "name": "川の水難事故を防ぐ 家族みんなで確認しておきたいポイントは",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015136171000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260609/K10015136171_2605302307_0609153416_01_03.jpg",
+      "datePublished": "2026-06-09T15:34:15+09:00"
+    },
+    {
+      "name": "子どもの遊泳中の事故 13歳が最多 「放課後水難」に注意を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015134001000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260528/K10015134001_2605281527_0528153913_01_02.jpg",
+      "datePublished": "2026-05-28T15:39:13+09:00"
+    },
+    {
+      "name": "高市首相 G7サミットなどへ出発 “G7連携し課題対応を主導”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015149091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260613/K10015149091_2606131455_0613151137_01_02.jpg",
+      "datePublished": "2026-06-13T15:21:31+09:00"
+    },
+    {
+      "name": "自民 鈴木幹事長 終盤国会“皇室典範改正 優先で取り組む”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015149231000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260613/K10015149231_2606131733_0613175052_01_02.jpg",
+      "datePublished": "2026-06-13T17:50:51+09:00"
+    },
+    {
+      "name": "兵庫 西宮の住宅街近くでクマ目撃情報相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015149241000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260613/K10015149241_2606131810_0613183802_01_02.jpg",
+      "datePublished": "2026-06-13T18:38:02+09:00"
+    },
+    {
+      "name": "米・イラン覚書“数日中に署名の可能性”双方が言及",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015148801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260613/K10015148801_2606131906_0613190751_01_03.jpg",
+      "datePublished": "2026-06-13T23:10:03+09:00"
+    },
+    {
+      "name": "アンソロピック 最新AIモデルの提供を停止 米政府の命令受け",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015149041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260613/K10015149041_2606131020_0613105255_01_02.jpg",
+      "datePublished": "2026-06-13T18:00:08+09:00"
+    },
+    {
+      "name": "北朝鮮外務省 “核保有国”認めぬ韓国とEUの共同声明へ反発",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015149421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260613/K10015149421_2606132131_0613215738_01_02.jpg",
+      "datePublished": "2026-06-13T21:57:37+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
