@@ -1,0 +1,145 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015157341000",
+  "dataSourceId": "na",
+  "name": "ラオス 警察当局 日本人9人を拘束と発表 特殊詐欺に関与か",
+  "headline": "ラオス 警察当局 日本人9人を拘束と発表 特殊詐欺に関与か",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015157341000",
+    "playlistId": "news-nwa-international-nationwide-20260623",
+    "newsarticleName": "ラオス 警察当局 日本人9人を拘束と発表 特殊詐欺に関与か",
+    "playlistName": "6月23日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "東南アジア・ラオスの警察当局は、特殊詐欺に関わった疑いがあるとして、日本人の男女9人を拘束したと発表しました。\n\n\nラオスの警察当局は、今月17日に北部のシェンクワン県で特殊詐欺の拠点とみられる建物を",
+  "dateModified": "2026-06-23T18:07:26+09:00",
+  "datePublished": "2026-06-23T18:07:26+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260623/K10015157341_2606231746_0623180727_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260623/K10015157341_2606231746_0623180727_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002597",
+      "name": "ラオス",
+      "display": true
+    },
+    {
+      "id": "0001538",
+      "name": "事件・事故",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "東南アジア・ラオスの警察当局は、特殊詐欺に関わった疑いがあるとして、日本人の男女9人を拘束したと発表しました。\n\n\nラオスの警察当局は、今月17日に北部のシェンクワン県で特殊詐欺の拠点とみられる建物を",
+  "articleBody": "東南アジア・ラオスの警察当局は、特殊詐欺に関わった疑いがあるとして、日本人の男女9人を拘束したと発表しました。\n\n\nラオスの警察当局は、今月17日に北部のシェンクワン県で特殊詐欺の拠点とみられる建物を捜索した結果、外国人17人を拘束し、このうち9人が日本人の男女だったと発表しました。\n\n建物からは、複数のノートパソコンや携帯電話のほか、偽造した日本の警察手帳のようなものも見つかっていて、組織的な詐欺を行っていた疑いがあるということです。\n\n現地の日本大使館は、「当局の発表は把握していて、事実関係を確認している」としています。\n\n東南アジアでは、カンボジアやインドネシアなどで特殊詐欺に関与したとして日本人の摘発が相次いでいて、詐欺グループは当局が取り締まりを強化する中、各国に拠点を分散化させているとも指摘されています。\n",
+  "detailedArticleBody": {
+    "markedLead": "東南アジア・ラオスの警察当局は、特殊詐欺に関わった疑いがあるとして、日本人の男女9人を拘束したと発表しました。\n",
+    "markedBody": "ラオスの警察当局は、今月17日に北部のシェンクワン県で特殊詐欺の拠点とみられる建物を捜索した結果、外国人17人を拘束し、このうち9人が日本人の男女だったと発表しました。\n\n建物からは、複数のノートパソコンや携帯電話のほか、偽造した日本の警察手帳のようなものも見つかっていて、組織的な詐欺を行っていた疑いがあるということです。\n\n現地の日本大使館は、「当局の発表は把握していて、事実関係を確認している」としています。\n\n東南アジアでは、カンボジアやインドネシアなどで特殊詐欺に関与したとして日本人の摘発が相次いでいて、詐欺グループは当局が取り締まりを強化する中、各国に拠点を分散化させているとも指摘されています。\n",
+    "trimmedLead": "東南アジア・ラオスの警察当局は、特殊詐欺に関わった疑いがあるとして、日本人の男女9人を拘束したと発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015157341000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015157341000",
+  "video": [],
+  "citation": [
+    {
+      "name": "カンボジア拠点の特殊詐欺 グループ幹部を逮捕へ 兵庫県警",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015156571000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260623/K10015156571_2606222106_0623050023_01_02.jpg",
+      "datePublished": "2026-06-23T05:00:23+09:00"
+    },
+    {
+      "name": "カンボジア拠点の特殊詐欺 100万円で「かけ子」送り込みか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015153711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260618/K10015153711_2606181801_0618182145_01_02.jpg",
+      "datePublished": "2026-06-18T18:21:44+09:00"
+    },
+    {
+      "name": "旧統一教会に解散命じた司法判断が確定 特別抗告退ける 最高裁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015157291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260623/K10015157291_2606231706_0623171009_01_02.jpg",
+      "datePublished": "2026-06-23T18:15:16+09:00"
+    },
+    {
+      "name": "1422万件のアドレスなど流出か KDDIシステムに不正アクセス",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015157301000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260623/K10015157301_2606231716_0623171730_01_03.jpg",
+      "datePublished": "2026-06-23T17:13:22+09:00"
+    },
+    {
+      "name": "沖縄戦から81年の慰霊の日 各地で平和への祈り",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015156581000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260623/K10015156581_2606230618_0623062542_01_02.jpg",
+      "datePublished": "2026-06-23T18:26:31+09:00"
+    },
+    {
+      "name": "台風8号発生 台風7号は25日以降に沖縄接近 今後の情報に注意を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015156921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260623/K10015156921_2606231654_0623174935_01_03.jpg",
+      "datePublished": "2026-06-23T17:49:34+09:00"
+    },
+    {
+      "name": "デヴィ・スカルノ被告 暴行などの罪 起訴内容認める",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015157251000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260623/K10015157251_2606231651_0623172324_01_02.jpg",
+      "datePublished": "2026-06-23T17:23:23+09:00"
+    },
+    {
+      "name": "米・イラン ホルムズ海峡めぐり外交的駆け引きが活発化",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015156631000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260623/K10015156631_2606231134_0623115623_01_02.jpg",
+      "datePublished": "2026-06-23T12:41:32+09:00"
+    },
+    {
+      "name": "“地上のあなた” 余命10か月の女性とAIの最期の対話記録",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015155721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260623/K10015155721_2606221535_0623165942_01_02.jpg",
+      "datePublished": "2026-06-23T16:59:41+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

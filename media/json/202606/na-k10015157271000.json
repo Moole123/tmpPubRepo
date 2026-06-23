@@ -1,0 +1,172 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015157271000",
+  "dataSourceId": "na",
+  "name": "NHK2025年度決算 経営委員会で議決 林総務相に提出",
+  "headline": "NHK2025年度決算 経営委員会で議決 林総務相に提出",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015157271000",
+    "playlistId": "news-nwa-politics-nationwide-20260623",
+    "newsarticleName": "NHK2025年度決算 経営委員会で議決 林総務相に提出",
+    "playlistName": "6月23日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "NHKの昨年度・2025年度の決算が23日の経営委員会で議決され、林総務大臣に提出されました。\n\n\nそれによりますと、事業収入は、財務収入などが増え、前の年度に比べて5億円多い、6130億円でした。\n",
+  "dateModified": "2026-06-23T18:01:43+09:00",
+  "datePublished": "2026-06-23T18:01:43+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260623/K10015157271_2606231706_0623180144_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260623/K10015157271_2606231706_0623180144_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0002729",
+      "name": "決算",
+      "display": true
+    },
+    {
+      "id": "0002594",
+      "name": "テレビ局",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "NHKの昨年度・2025年度の決算が23日の経営委員会で議決され、林総務大臣に提出されました。\n\n\nそれによりますと、事業収入は、財務収入などが増え、前の年度に比べて5億円多い、6130億円でした。\n",
+  "articleBody": "NHKの昨年度・2025年度の決算が23日の経営委員会で議決され、林総務大臣に提出されました。\n\n\nそれによりますと、事業収入は、財務収入などが増え、前の年度に比べて5億円多い、6130億円でした。\n\nこのうち受信料収入は、契約総数の減少などで、前の年度より50億円減って、5851億円となりました。\n\n事業支出は、国内放送費や契約収納費が増えた一方で、減価償却費が減ったことなどで、前の年度より124億円減って、6449億円となりました。\n\n収入から支出を差し引いた事業収支差金は、318億円の不足となり、2023年10月に実施した受信料の1割値下げを継続するための還元目的積立金で補填（ほてん）しました。\n\n一方、受信料の支払率は、前の年度より1ポイント低い、77％でした。\n\nNHKの2025年度決算は、今後、会計検査院の検査を経て国会に提出されます。\n",
+  "detailedArticleBody": {
+    "markedLead": "NHKの昨年度・2025年度の決算が23日の経営委員会で議決され、林総務大臣に提出されました。\n",
+    "markedBody": "それによりますと、事業収入は、財務収入などが増え、前の年度に比べて5億円多い、6130億円でした。\n\nこのうち受信料収入は、契約総数の減少などで、前の年度より50億円減って、5851億円となりました。\n\n事業支出は、国内放送費や契約収納費が増えた一方で、減価償却費が減ったことなどで、前の年度より124億円減って、6449億円となりました。\n\n収入から支出を差し引いた事業収支差金は、318億円の不足となり、2023年10月に実施した受信料の1割値下げを継続するための還元目的積立金で補填（ほてん）しました。\n\n一方、受信料の支払率は、前の年度より1ポイント低い、77％でした。\n\nNHKの2025年度決算は、今後、会計検査院の検査を経て国会に提出されます。\n",
+    "trimmedLead": "NHKの昨年度・2025年度の決算が23日の経営委員会で議決され、林総務大臣に提出されました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015157271000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015157271000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "NHK2025年度決算 経営委員会で議決 林総務相に提出",
+      "description": "NHKの昨年度・2025年度の決算が23日の経営委員会で議決され、林総務大臣に提出されました。\n\n\nそれによりますと、事業収入は、財務収入などが増え、前の年度に比べて5億円多い、6130億円でした。\n",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015157271_202606231817_202606231818/index.m3u8&mrposter=/news/html/20260623/K10015157271_2606231706_0623180144_01_02.jpg",
+      "duration": "PT1M6S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015157271_202606231817_202606231818/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260623/K10015157271_2606231706_0623180144_01_02.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "台風8号発生 台風7号は25日以降に沖縄接近 今後の情報に注意を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015156921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260623/K10015156921_2606231654_0623174935_01_03.jpg",
+      "datePublished": "2026-06-23T17:49:34+09:00"
+    },
+    {
+      "name": "沖縄戦から81年の慰霊の日 各地で平和への祈り",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015156581000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260623/K10015156581_2606230618_0623062542_01_02.jpg",
+      "datePublished": "2026-06-23T18:26:31+09:00"
+    },
+    {
+      "name": "日産株主総会 みずほFG出身の社外取締役の再任を否決",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015157091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260623/K10015157091_2606231252_0623125513_01_02.jpg",
+      "datePublished": "2026-06-23T18:24:57+09:00"
+    },
+    {
+      "name": "東京23区中古マンション 平均1億2800万円余 賃貸の家賃も上昇",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015156891000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260623/K10015156891_2606231405_0623143731_01_03.jpg",
+      "datePublished": "2026-06-23T18:29:08+09:00"
+    },
+    {
+      "name": "自民党派閥政治資金めぐる事件 大野元議員に有罪 一部は無罪に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015156861000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260623/K10015156861_2606230942_0623101656_01_02.jpg",
+      "datePublished": "2026-06-23T17:25:57+09:00"
+    },
+    {
+      "name": "米・イラン ホルムズ海峡めぐり外交的駆け引きが活発化",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015156631000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260623/K10015156631_2606231134_0623115623_01_02.jpg",
+      "datePublished": "2026-06-23T12:41:32+09:00"
+    },
+    {
+      "name": "株価 2500円超下落で7万円割れ 利益確保の売り膨らむ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015157011000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260623/K10015157011_2606231536_0623153650_01_02.jpg",
+      "datePublished": "2026-06-23T16:44:36+09:00"
+    },
+    {
+      "name": "ドジャース大谷翔平 17号先頭打者ホームラン チーム連敗止める",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015156851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260623/K10015156851_2606231022_0623102225_01_02.jpg",
+      "datePublished": "2026-06-23T13:08:19+09:00"
+    },
+    {
+      "name": "「特攻花」がつなぐ島の記憶",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015153421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260622/K10015153421_2606181623_0622214741_01_02.jpg",
+      "datePublished": "2026-06-22T21:47:40+09:00"
+    },
+    {
+      "name": "FIFAワールドカップ2026【NHK特設サイト】",
+      "url": "https://nhk.jp/fifawc?cid=wc26-newsweb-awayomi",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31365091.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
