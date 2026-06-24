@@ -1,0 +1,112 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015157691000",
+  "dataSourceId": "na",
+  "name": "AIロボットの実証実験推進を 政府の規制改革推進会議 答申案",
+  "headline": "AIロボットの実証実験推進を 政府の規制改革推進会議 答申案",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015157691000",
+    "playlistId": "news-nwa-politics-nationwide-20260624",
+    "newsarticleName": "AIロボットの実証実験推進を 政府の規制改革推進会議 答申案",
+    "playlistName": "6月24日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "政府の規制改革推進会議は、「フィジカルAI」を活用した歩行型ロボットの法律上の扱いを明確にし、公道での実証実験を推進することなどを答申の案に盛り込む方向で調整しています。\n\n\n有識者らで構成する政府の",
+  "dateModified": "2026-06-24T06:04:04+09:00",
+  "datePublished": "2026-06-24T06:04:04+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260624/K10015157691_2606240053_0624060405_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260624/K10015157691_2606240053_0624060405_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0000010",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "0002672",
+      "name": "高市内閣",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "政府の規制改革推進会議は、「フィジカルAI」を活用した歩行型ロボットの法律上の扱いを明確にし、公道での実証実験を推進することなどを答申の案に盛り込む方向で調整しています。\n\n\n有識者らで構成する政府の",
+  "articleBody": "政府の規制改革推進会議は、「フィジカルAI」を活用した歩行型ロボットの法律上の扱いを明確にし、公道での実証実験を推進することなどを答申の案に盛り込む方向で調整しています。\n\n\n有識者らで構成する政府の規制改革推進会議の答申の案では、高市内閣が掲げる「強い経済の実現」と「地方を伸ばし、暮らしを守る」の2つのテーマを柱とし、AIの活用を主要項目に据える見通しです。\n\nこの中では、AIが自律的に判断する「フィジカルAI」を活用した歩行型ロボットについて、道路使用許可の基準をはじめ法律上の扱いを明確にして、公道での実証実験を推進することを求める方向で調整しています。\n\nまた、政府の情報システムの調達や設計、開発の効率化に向けてAIを活用するためのルールの明確化や、「次世代AIデータセンター」と呼ばれる大規模なデータセンターの国内立地を加速させるため、蓄電池に関わる規制の見直しを指摘する見込みです。\n\n規制改革推進会議は、来週にも答申を決定することにしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "政府の規制改革推進会議は、「フィジカルAI」を活用した歩行型ロボットの法律上の扱いを明確にし、公道での実証実験を推進することなどを答申の案に盛り込む方向で調整しています。\n",
+    "markedBody": "有識者らで構成する政府の規制改革推進会議の答申の案では、高市内閣が掲げる「強い経済の実現」と「地方を伸ばし、暮らしを守る」の2つのテーマを柱とし、AIの活用を主要項目に据える見通しです。\n\nこの中では、AIが自律的に判断する「フィジカルAI」を活用した歩行型ロボットについて、道路使用許可の基準をはじめ法律上の扱いを明確にして、公道での実証実験を推進することを求める方向で調整しています。\n\nまた、政府の情報システムの調達や設計、開発の効率化に向けてAIを活用するためのルールの明確化や、「次世代AIデータセンター」と呼ばれる大規模なデータセンターの国内立地を加速させるため、蓄電池に関わる規制の見直しを指摘する見込みです。\n\n規制改革推進会議は、来週にも答申を決定することにしています。\n",
+    "trimmedLead": "政府の規制改革推進会議は、「フィジカルAI」を活用した歩行型ロボットの法律上の扱いを明確にし、公道での実証実験を推進することなどを答申の案に盛り込む方向で調整しています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015157691000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015157691000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "AIロボットの実証実験推進を 政府の規制改革推進会議 答申案",
+      "description": "政府の規制改革推進会議は、「フィジカルAI」を活用した歩行型ロボットの法律上の扱いを明確にし、公道での実証実験を推進することなどを答申の案に盛り込む方向で調整しています。\n\n\n有識者らで構成する政府の",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015157691_202606240717_202606240717/index.m3u8&mrposter=/news/html/20260624/K10015157691_2606240053_0624060405_01_02.jpg",
+      "duration": "PT1M4S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015157691_202606240717_202606240717/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260624/K10015157691_2606240053_0624060405_01_02.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
