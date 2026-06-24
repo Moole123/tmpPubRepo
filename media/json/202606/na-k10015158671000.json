@@ -1,0 +1,167 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015158671000",
+  "dataSourceId": "na",
+  "name": "不正アクセスで情報漏えいのKDDIに報告徴収 総務省",
+  "headline": "不正アクセスで情報漏えいのKDDIに報告徴収 総務省",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015158671000",
+    "playlistId": "news-nwa-politics-nationwide-20260624",
+    "newsarticleName": "不正アクセスで情報漏えいのKDDIに報告徴収 総務省",
+    "playlistName": "6月24日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "KDDIが取引先の企業に提供しているメールシステムに不正なアクセスがあり、最大1400万件余りのメールアドレスなどが漏えいした可能性があることを受けて、総務省は、会社に詳しい原因や再発防止策などを報告",
+  "dateModified": "2026-06-24T20:33:44+09:00",
+  "datePublished": "2026-06-24T20:33:44+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260624/K10015158671_2606241945_0624203345_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260624/K10015158671_2606241945_0624203345_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0002399",
+      "name": "総務省",
+      "display": true
+    },
+    {
+      "id": "0002418",
+      "name": "通信",
+      "display": true
+    },
+    {
+      "id": "0000009",
+      "name": "IT・ネット",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "KDDIが取引先の企業に提供しているメールシステムに不正なアクセスがあり、最大1400万件余りのメールアドレスなどが漏えいした可能性があることを受けて、総務省は、会社に詳しい原因や再発防止策などを報告",
+  "articleBody": "KDDIが取引先の企業に提供しているメールシステムに不正なアクセスがあり、最大1400万件余りのメールアドレスなどが漏えいした可能性があることを受けて、総務省は、会社に詳しい原因や再発防止策などを報告するよう求める行政処分を行いました。\n\n\nKDDIは23日、「プロバイダー」と呼ばれるインターネット接続サービスを手がける6つの会社に提供するメールシステムに不正なアクセスがあり、利用者のメールアドレスやパスワードが最大で1422万件、漏えいした可能性があると発表しました。\n\nこれを受けて総務省は24日、KDDIに対して、情報が漏えいした原因や利用者への対応状況、それに再発防止策などについて詳しい報告を求める「報告徴収」の行政処分を行いました。\n\n総務省は来月6日までにKDDIに報告するよう求めていて、内容を確認したうえで、追加の処分も含めた対応を検討することにしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "KDDIが取引先の企業に提供しているメールシステムに不正なアクセスがあり、最大1400万件余りのメールアドレスなどが漏えいした可能性があることを受けて、総務省は、会社に詳しい原因や再発防止策などを報告するよう求める行政処分を行いました。\n",
+    "markedBody": "KDDIは23日、「プロバイダー」と呼ばれるインターネット接続サービスを手がける6つの会社に提供するメールシステムに不正なアクセスがあり、利用者のメールアドレスやパスワードが最大で1422万件、漏えいした可能性があると発表しました。\n\nこれを受けて総務省は24日、KDDIに対して、情報が漏えいした原因や利用者への対応状況、それに再発防止策などについて詳しい報告を求める「報告徴収」の行政処分を行いました。\n\n総務省は来月6日までにKDDIに報告するよう求めていて、内容を確認したうえで、追加の処分も含めた対応を検討することにしています。\n",
+    "trimmedLead": "KDDIが取引先の企業に提供しているメールシステムに不正なアクセスがあり、最大1400万件余りのメールアドレスなどが漏えいした可能性があることを受けて、総務省は、会社に詳しい原因や再発防止策などを報告するよう求める行政処分を行いました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015158671000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015158671000",
+  "video": [],
+  "citation": [
+    {
+      "name": "1422万件のアドレスなど流出か KDDIシステムに不正アクセス",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015157301000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260623/K10015157301_2606231716_0623171730_01_03.jpg",
+      "datePublished": "2026-06-23T18:46:03+09:00"
+    },
+    {
+      "name": "九州北部 線状降水帯のおそれ 台風7号は沖縄に近づく見込み",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015157571000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260624/K10015157571_2606241808_0624181235_01_02.jpg",
+      "datePublished": "2026-06-24T21:34:12+09:00"
+    },
+    {
+      "name": "【大雨影響】熊本 増水した川で女性が流される 約50分後に救助",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015157861000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260624/K10015157861_2606241420_0624142235_01_02.jpg",
+      "datePublished": "2026-06-24T18:40:07+09:00"
+    },
+    {
+      "name": "台風7号 沖縄の南の海上を進む あすから非常に強い風の見込み",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015157901000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260624/K10015157901_2606242202_0624220211_01_03.jpg",
+      "datePublished": "2026-06-24T19:22:04+09:00"
+    },
+    {
+      "name": "株主総会が今週ピーク 経営の抜本的見直し求める提案も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015157941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260624/K10015157941_2606241834_0624183827_01_02.jpg",
+      "datePublished": "2026-06-24T18:38:26+09:00"
+    },
+    {
+      "name": "探査機「はやぶさ2」7月5日に小惑星に接近し高速で通過へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015158471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260624/K10015158471_2606241733_0624175638_01_02.jpg",
+      "datePublished": "2026-06-24T17:56:37+09:00"
+    },
+    {
+      "name": "「国旗損壊罪」法案 衆議院内閣委で審議入り",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015158451000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260624/K10015158451_2606241659_0624170050_01_02.jpg",
+      "datePublished": "2026-06-24T18:34:06+09:00"
+    },
+    {
+      "name": "東京地検特捜部の取り調べめぐり 担当検事の刑事裁判開く決定",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015158341000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260624/K10015158341_2606241551_0624175610_01_02.jpg",
+      "datePublished": "2026-06-24T19:01:06+09:00"
+    },
+    {
+      "name": "メガバンク3行がグーグルの最新AI利用へ 片山金融担当相",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015158401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260624/K10015158401_2606241651_0624165925_01_02.jpg",
+      "datePublished": "2026-06-24T16:59:24+09:00"
+    },
+    {
+      "name": "ロート製薬株主総会 物言う株主からの会長解任議案は否決",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015158421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260624/K10015158421_2606241647_0624174121_01_02.jpg",
+      "datePublished": "2026-06-24T17:41:20+09:00"
+    },
+    {
+      "name": "皇室典範改正案 要綱案で男系男子の養子は“例外”明記 政府",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015158171000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260624/K10015158171_2606241321_0624141806_01_03.jpg",
+      "datePublished": "2026-06-24T14:18:05+09:00"
+    },
+    {
+      "name": "FIFAワールドカップ2026【NHK特設サイト】",
+      "url": "https://nhk.jp/fifawc?cid=wc26-newsweb-awayomi",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31365091.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
