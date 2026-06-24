@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015159021000",
+  "dataSourceId": "na",
+  "name": "【震度6強】揺れの注意点は",
+  "headline": "【震度6強】揺れの注意点は",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015159021000",
+    "playlistId": "news-nwa-disaster-nationwide-20260625",
+    "newsarticleName": "【震度6強】揺れの注意点は",
+    "playlistName": "6月25日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "気象庁によりますと震度6強の揺れは、はわないと動くことができず、固定されていない家具のほとんどが移動して倒れることが多くなります。\n\n\n耐震性の低い木造の建物は傾くものや倒れるものが多くなるほか、大き",
+  "dateModified": "2026-06-25T07:50:11+09:00",
+  "datePublished": "2026-06-25T07:50:11+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260625/K10015159021_2606250746_0625075012_02_01.jpg",
+      "height": 719,
+      "width": 1279
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260625/K10015159021_2606250746_0625075012_01_02.jpg",
+      "height": 719,
+      "width": 1279
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "気象庁によりますと震度6強の揺れは、はわないと動くことができず、固定されていない家具のほとんどが移動して倒れることが多くなります。\n\n\n耐震性の低い木造の建物は傾くものや倒れるものが多くなるほか、大き",
+  "articleBody": "気象庁によりますと震度6強の揺れは、はわないと動くことができず、固定されていない家具のほとんどが移動して倒れることが多くなります。\n\n\n耐震性の低い木造の建物は傾くものや倒れるものが多くなるほか、大きな地割れが生じたり、大規模な地すべりや山体崩壊が起きることがあるため崖の近くなど危険な場所には近づかないようにしてください。\n\n主な注意点です。\n\n落石や崖崩れなど注意\n\n揺れの強かった地域では、落石や崖崩れなどの危険性が高まっているため、危険な場所には近づかないようにするとともに、今後の地震活動に十分注意するようにしてください。\n\n片付けなども注意\n\n室内に割れた食器やガラスなどがあると、片付けをする場合などに思わぬけがをするおそれがあります。\n\n決して無理をしないようにして、室内を歩くときはスリッパや靴をはくようにしてください。\n\n建物の中にいるのが不安な場合などは安全な場所に避難してください。\n",
+  "detailedArticleBody": {
+    "markedLead": "気象庁によりますと震度6強の揺れは、はわないと動くことができず、固定されていない家具のほとんどが移動して倒れることが多くなります。\n",
+    "markedBody": "耐震性の低い木造の建物は傾くものや倒れるものが多くなるほか、大きな地割れが生じたり、大規模な地すべりや山体崩壊が起きることがあるため崖の近くなど危険な場所には近づかないようにしてください。\n\n主な注意点です。\n\n### 落石や崖崩れなど注意\n\n揺れの強かった地域では、落石や崖崩れなどの危険性が高まっているため、危険な場所には近づかないようにするとともに、今後の地震活動に十分注意するようにしてください。\n\n### 片付けなども注意\n\n![](https://news.web.nhk/news/html/20260625/K10015159021_2606250746_0625075012_02_03.jpg)\n\n室内に割れた食器やガラスなどがあると、片付けをする場合などに思わぬけがをするおそれがあります。\n\n決して無理をしないようにして、室内を歩くときはスリッパや靴をはくようにしてください。\n\n建物の中にいるのが不安な場合などは安全な場所に避難してください。\n",
+    "trimmedLead": "気象庁によりますと震度6強の揺れは、はわないと動くことができず、固定されていない家具のほとんどが移動して倒れることが多くなります。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015159021000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015159021000",
+  "video": [],
+  "citation": [
+    {
+      "name": "【最新の地震情報】各地の震度・震源を詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/earthquake/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30060617.jpg"
+    },
+    {
+      "name": "地震発生 その時どう行動する!?",
+      "url": "https://news.web.nhk/newsweb/na/nc-790dbe02-3696-4956-b2ac-83401a4f8f5b",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045984.jpg"
+    },
+    {
+      "name": "地震マップ 最新の震度分布・震源をリアルタイム更新",
+      "url": "https://news.web.nhk/bousai-map/earthquake/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31036920.jpg"
+    },
+    {
+      "name": "地震動予測地図 震度６弱以上 各地のリスク",
+      "url": "https://news.web.nhk/newsweb/na/nc-04b01a9b-a30f-46c5-af92-bd6f205a005f",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045805.jpg"
+    },
+    {
+      "name": "首都直下地震 あなたの街の揺れは？自治体ごとの震度を詳しく",
+      "url": "https://news.web.nhk/newsweb/na/nc-9d41f247-b611-4c72-918e-b7bc60dfc006",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31134658.jpg"
+    },
+    {
+      "name": "首都直下地震 新たな被害想定 “死者 最大1万8000人”",
+      "url": "https://news.web.nhk/newsweb/na/nc-e348f9cc-3c19-4405-a5b0-210cab9aeaae",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31134676.jpg"
+    },
+    {
+      "name": "南海トラフ巨大地震「新被害想定」私のまちは",
+      "url": "https://news.web.nhk/newsweb/na/nc-a2084f03-7197-4f79-b727-4fda9d15eecd",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_28817111.jpg"
+    },
+    {
+      "name": "火災の初期消火 消火器の使い方や対策は？",
+      "url": "https://news.web.nhk/newsweb/na/nc-813b665d-4bc8-4cc1-9df8-39020c4f8bb0",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045799.jpg"
+    },
+    {
+      "name": "「エレベーターに閉じ込められた」いったいどうすれば？",
+      "url": "https://news.web.nhk/newsweb/na/nc-ca2734b0-c080-45e4-a5c5-2bbc97205783",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045827.jpg"
+    },
+    {
+      "name": "災害時の偽情報や誤情報に注意 拡散で命にかかわるリスクも",
+      "url": "https://news.web.nhk/newsweb/na/nc-b777764c-a841-41c5-8a78-0b496adee8d9",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045938.jpg"
+    },
+    {
+      "name": "NHKONE防災 災害リスク・備えをまとめて",
+      "url": "https://news.web.nhk/newsweb/sp/pl/editorial-nwa-0000000132",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30066327.jpg"
+    },
+    {
+      "name": "天気防災サイト あなたの街の天気予報や災害情報を即時提供",
+      "url": "https://news.web.nhk/kishou-saigai/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037196.jpg"
+    },
+    {
+      "name": "天気防災マップ ふだんの雨雲予想から災害時のリスク情報まで",
+      "url": "https://news.web.nhk/bousai-map/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037154.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
