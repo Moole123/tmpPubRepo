@@ -1,0 +1,170 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015158401000",
+  "dataSourceId": "na",
+  "name": "メガバンク3行がグーグルの最新AI利用へ 片山金融担当相",
+  "headline": "メガバンク3行がグーグルの最新AI利用へ 片山金融担当相",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015158401000",
+    "playlistId": "news-nwa-business-nationwide-20260624",
+    "newsarticleName": "メガバンク3行がグーグルの最新AI利用へ 片山金融担当相",
+    "playlistName": "6月24日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "極めて高性能な最新のAIをめぐって、悪用された場合の深刻なリスクが懸念される中、片山金融担当大臣は、アメリカのIT大手、グーグルの最新AIを国内のメガバンク3行が利用できるようになったと明らかにしまし",
+  "dateModified": "2026-06-24T16:59:24+09:00",
+  "datePublished": "2026-06-24T16:59:24+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260624/K10015158401_2606241651_0624165925_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260624/K10015158401_2606241651_0624165925_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済",
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0002408",
+      "name": "金融庁",
+      "display": true
+    },
+    {
+      "id": "0002423",
+      "name": "金融",
+      "display": true
+    },
+    {
+      "id": "0000010",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "0000325",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "0000009",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "極めて高性能な最新のAIをめぐって、悪用された場合の深刻なリスクが懸念される中、片山金融担当大臣は、アメリカのIT大手、グーグルの最新AIを国内のメガバンク3行が利用できるようになったと明らかにしまし",
+  "articleBody": "極めて高性能な最新のAIをめぐって、悪用された場合の深刻なリスクが懸念される中、片山金融担当大臣は、アメリカのIT大手、グーグルの最新AIを国内のメガバンク3行が利用できるようになったと明らかにしました。\n\n\n片山金融担当大臣は24日、グーグルの親会社のアルファベットの幹部と面談したあと記者団の取材に応じ、三菱UFJ銀行、三井住友銀行、みずほ銀行のメガバンク3行が、この会社の最新のAIを利用できるようになったと明らかにしました。\n\nグーグルの最新AIはOS＝基本ソフトなどのぜい弱性を特定するだけでなく、自動で修復する機能も備わっているということで、3行はサイバー攻撃に対する防衛策の検討などに活用する見通しです。\n\n最新のAIは巨大IT企業などの間で開発競争が激しさを増していて、片山大臣は「技術の動向変化が非常に激しい中で、何がベストかも変わっていくと思う。国益に資するよううまく選択していきたい」と述べました。\n\n一方、アメリカのアンソロピックが開発した最新のAIモデルをめぐっては、アメリカ政府からの命令で会社が顧客への提供を停止する事態も生じています。\n\n片山大臣は「アメリカのベッセント財務長官と話した際、『今は利用を一時停止しているが、近々、戻す』と言っていた」と述べ、この会社のAIモデルも近く利用できるようになるとの見通しを示しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "極めて高性能な最新のAIをめぐって、悪用された場合の深刻なリスクが懸念される中、片山金融担当大臣は、アメリカのIT大手、グーグルの最新AIを国内のメガバンク3行が利用できるようになったと明らかにしました。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20260624/K10015158401_2606241642_0624165925_02_03.jpg)\n\n片山金融担当大臣は24日、グーグルの親会社のアルファベットの幹部と面談したあと記者団の取材に応じ、三菱UFJ銀行、三井住友銀行、みずほ銀行のメガバンク3行が、この会社の最新のAIを利用できるようになったと明らかにしました。\n\nグーグルの最新AIはOS＝基本ソフトなどのぜい弱性を特定するだけでなく、自動で修復する機能も備わっているということで、3行はサイバー攻撃に対する防衛策の検討などに活用する見通しです。\n\n最新のAIは巨大IT企業などの間で開発競争が激しさを増していて、片山大臣は「技術の動向変化が非常に激しい中で、何がベストかも変わっていくと思う。国益に資するよううまく選択していきたい」と述べました。\n\n一方、アメリカのアンソロピックが開発した最新のAIモデルをめぐっては、アメリカ政府からの命令で会社が顧客への提供を停止する事態も生じています。\n\n片山大臣は「アメリカのベッセント財務長官と話した際、『今は利用を一時停止しているが、近々、戻す』と言っていた」と述べ、この会社のAIモデルも近く利用できるようになるとの見通しを示しました。\n",
+    "trimmedLead": "極めて高性能な最新のAIをめぐって、悪用された場合の深刻なリスクが懸念される中、片山金融担当大臣は、アメリカのIT大手、グーグルの最新AIを国内のメガバンク3行が利用できるようになったと明らかにしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015158401000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015158401000",
+  "video": [],
+  "citation": [
+    {
+      "name": "改訂CGコード “日本買い”は続くか【経済コラム】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015154111000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260619/K10015154111_2606191600_0619195338_01_02.jpg",
+      "datePublished": "2026-06-19T19:53:37+09:00"
+    },
+    {
+      "name": "消費税減税 中間とりまとめ案 外食産業など資金繰り支援も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015158261000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260624/K10015158261_2606241450_0624150835_01_03.jpg",
+      "datePublished": "2026-06-24T16:22:44+09:00"
+    },
+    {
+      "name": "「副首都」構想の関連法案を了承 与党政策責任者会議",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015158281000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260624/K10015158281_2606241530_0624153350_01_02.jpg",
+      "datePublished": "2026-06-24T15:33:49+09:00"
+    },
+    {
+      "name": "利上げ決定の日銀会合 追加利上げ早期に検討すべきの意見も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015158131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260624/K10015158131_2606241215_0624131349_01_02.jpg",
+      "datePublished": "2026-06-24T13:13:49+09:00"
+    },
+    {
+      "name": "ナスダックの株価指数2％超の大幅下落 日韓のハイテク株安波及",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015157741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260624/K10015157741_2606240615_0624100042_01_02.jpg",
+      "datePublished": "2026-06-24T10:00:41+09:00"
+    },
+    {
+      "name": "九州北部 あす未明から昼前にかけ線状降水帯のおそれ 厳重警戒",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015157571000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260624/K10015157571_2606241808_0624181235_01_02.jpg",
+      "datePublished": "2026-06-24T17:24:51+09:00"
+    },
+    {
+      "name": "【大雨影響】熊本 増水した川で女性が流される 約50分後に救助",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015157861000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260624/K10015157861_2606241420_0624142235_01_02.jpg",
+      "datePublished": "2026-06-24T18:07:47+09:00"
+    },
+    {
+      "name": "台風7号 沖縄の南の海上を進む あす以降 警報級の大雨のおそれ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015157901000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260624/K10015157901_2606241610_0624161139_01_02.jpg",
+      "datePublished": "2026-06-24T16:11:37+09:00"
+    },
+    {
+      "name": "サッカー日本代表が第3戦へ調整 久保はスウェーデン戦も欠場",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015157731000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260624/K10015157731_2606240602_0624063237_01_02.jpg",
+      "datePublished": "2026-06-24T13:12:05+09:00"
+    },
+    {
+      "name": "FIFAワールドカップ2026【NHK特設サイト】",
+      "url": "https://nhk.jp/fifawc?cid=wc26-newsweb-awayomi",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31365091.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

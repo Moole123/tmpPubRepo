@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015158531000",
+  "dataSourceId": "na",
+  "name": "円相場 1ドル＝161円台 神経質な値動きに",
+  "headline": "円相場 1ドル＝161円台 神経質な値動きに",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015158531000",
+    "playlistId": "news-nwa-business-nationwide-20260624",
+    "newsarticleName": "円相場 1ドル＝161円台 神経質な値動きに",
+    "playlistName": "6月24日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "24日の東京外国為替市場、政府・日銀による市場介入への警戒が続く中で、円相場は1ドル＝161円台半ばから後半での神経質な値動きとなりました。\n\n\n午後5時時点の円相場は、23日と比べて24銭円安ドル高",
+  "dateModified": "2026-06-24T18:10:25+09:00",
+  "datePublished": "2026-06-24T18:10:25+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260624/K10015158531_2606241804_0624181026_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260624/K10015158531_2606241804_0624181026_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0002310",
+      "name": "日本銀行（日銀）",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "24日の東京外国為替市場、政府・日銀による市場介入への警戒が続く中で、円相場は1ドル＝161円台半ばから後半での神経質な値動きとなりました。\n\n\n午後5時時点の円相場は、23日と比べて24銭円安ドル高",
+  "articleBody": "24日の東京外国為替市場、政府・日銀による市場介入への警戒が続く中で、円相場は1ドル＝161円台半ばから後半での神経質な値動きとなりました。\n\n\n午後5時時点の円相場は、23日と比べて24銭円安ドル高の1ドル＝161円71銭から73銭でした。\n\n一方ユーロに対しては、72銭円高ユーロ安の1ユーロ＝183円56銭から60銭でした。\n\nユーロはドルに対して1ユーロ＝1.1351から52ドルでした。\n\n市場関係者は「アメリカでは、23日に発表された企業の景況感を示す指標などから利上げ観測が高まっていて、ドル買い・円売りが出やすい状況が続いている。ただ政府・日銀による市場介入も警戒されていて、当局による発信をにらみながらの神経質な取り引きが続いている」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "24日の東京外国為替市場、政府・日銀による市場介入への警戒が続く中で、円相場は1ドル＝161円台半ばから後半での神経質な値動きとなりました。\n",
+    "markedBody": "午後5時時点の円相場は、23日と比べて24銭円安ドル高の1ドル＝161円71銭から73銭でした。\n\n一方ユーロに対しては、72銭円高ユーロ安の1ユーロ＝183円56銭から60銭でした。\n\nユーロはドルに対して1ユーロ＝1.1351から52ドルでした。\n\n市場関係者は「アメリカでは、23日に発表された企業の景況感を示す指標などから利上げ観測が高まっていて、ドル買い・円売りが出やすい状況が続いている。ただ政府・日銀による市場介入も警戒されていて、当局による発信をにらみながらの神経質な取り引きが続いている」と話していました。\n",
+    "trimmedLead": "24日の東京外国為替市場、政府・日銀による市場介入への警戒が続く中で、円相場は1ドル＝161円台半ばから後半での神経質な値動きとなりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015158531000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015158531000",
+  "video": [],
+  "citation": [
+    {
+      "name": "台風7号 沖縄の南の海上を進む あす以降 警報級の大雨のおそれ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015157901000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260624/K10015157901_2606241610_0624161139_01_02.jpg",
+      "datePublished": "2026-06-24T16:11:37+09:00"
+    },
+    {
+      "name": "九州北部 あす未明から昼前にかけ線状降水帯のおそれ 厳重警戒",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015157571000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260624/K10015157571_2606241808_0624181235_01_02.jpg",
+      "datePublished": "2026-06-24T17:24:51+09:00"
+    },
+    {
+      "name": "【大雨影響】熊本 増水した川で女性が流される 約50分後に救助",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015157861000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260624/K10015157861_2606241420_0624142235_01_02.jpg",
+      "datePublished": "2026-06-24T18:07:47+09:00"
+    },
+    {
+      "name": "「国旗損壊罪」法案 衆議院内閣委で審議入り",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015158451000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260624/K10015158451_2606241659_0624170050_01_02.jpg",
+      "datePublished": "2026-06-24T18:34:06+09:00"
+    },
+    {
+      "name": "ロート製薬株主総会 物言う株主からの会長解任議案は否決",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015158421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260624/K10015158421_2606241647_0624174121_01_02.jpg",
+      "datePublished": "2026-06-24T17:41:20+09:00"
+    },
+    {
+      "name": "東京地検特捜部の取り調べめぐり 担当検事の刑事裁判開く決定",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015158341000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260624/K10015158341_2606241551_0624175610_01_02.jpg",
+      "datePublished": "2026-06-24T17:56:09+09:00"
+    },
+    {
+      "name": "自民・中道国対委員長会談 中道“集中審議と参考人招致を”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015158081000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260624/K10015158081_2606241201_0624120318_01_02.jpg",
+      "datePublished": "2026-06-24T17:04:56+09:00"
+    },
+    {
+      "name": "東京 北区 小学校火事 教員“準備室で洗濯物乾かしていた”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015158351000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260624/K10015158351_2606241546_0624160740_01_02.jpg",
+      "datePublished": "2026-06-24T16:07:39+09:00"
+    },
+    {
+      "name": "島根 出雲 商店街の火事 15～20棟の建物焼けたか 消火活動続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015157651000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260623/K10015157651_2606240605_0624135905_01_03.jpg",
+      "datePublished": "2026-06-24T17:03:00+09:00"
+    },
+    {
+      "name": "ソフトバンクG 孫社長 “あと10年か15年は頑張る”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015158271000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260624/K10015158271_2606241458_0624155127_01_03.jpg",
+      "datePublished": "2026-06-24T16:09:39+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
