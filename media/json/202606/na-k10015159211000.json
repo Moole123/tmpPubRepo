@@ -1,0 +1,149 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015159211000",
+  "dataSourceId": "na",
+  "name": "青森 八戸で3件 階上町で1件の救助要請の連絡入る",
+  "headline": "青森 八戸で3件 階上町で1件の救助要請の連絡入る",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015159211000",
+    "playlistId": "news-nwa-disaster-nationwide-20260625",
+    "newsarticleName": "青森 八戸で3件 階上町で1件の救助要請の連絡入る",
+    "playlistName": "6月25日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "震度6強の揺れを観測した青森県階上町と6弱の揺れを観測した八戸市を管轄する消防によりますと、午前8時半までに八戸市で3件、階上町で1件の救助要請の連絡が入っているということです。\n\n\n八戸市内では、中",
+  "dateModified": "2026-06-25T09:26:29+09:00",
+  "datePublished": "2026-06-25T09:08:53+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260625/K10015159211_2606250859_0625090854_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260625/K10015159211_2606250859_0625090854_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002202",
+      "name": "青森県",
+      "display": true
+    },
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "震度6強の揺れを観測した青森県階上町と6弱の揺れを観測した八戸市を管轄する消防によりますと、午前8時半までに八戸市で3件、階上町で1件の救助要請の連絡が入っているということです。\n\n\n八戸市内では、中",
+  "articleBody": "震度6強の揺れを観測した青森県階上町と6弱の揺れを観測した八戸市を管轄する消防によりますと、午前8時半までに八戸市で3件、階上町で1件の救助要請の連絡が入っているということです。\n\n\n八戸市内では、中心部のビルでエレベーターが停止し、1人が「閉じ込められた」という通報が入っているということです。\n\nほかにも、地震の揺れで「ドアが開かなくなった」、「灯油タンクが倒れた」などの通報も相次いでいるということです。\n\n消防が状況の確認を進めています。\n\n階上町や八戸市を管轄する八戸警察署によりますと、午前8時の時点でけが人の情報は確認されていないということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "震度6強の揺れを観測した青森県階上町と6弱の揺れを観測した八戸市を管轄する消防によりますと、午前8時半までに八戸市で3件、階上町で1件の救助要請の連絡が入っているということです。\n",
+    "markedBody": "八戸市内では、中心部のビルでエレベーターが停止し、1人が「閉じ込められた」という通報が入っているということです。\n\nほかにも、地震の揺れで「ドアが開かなくなった」、「灯油タンクが倒れた」などの通報も相次いでいるということです。\n\n消防が状況の確認を進めています。\n\n階上町や八戸市を管轄する八戸警察署によりますと、午前8時の時点でけが人の情報は確認されていないということです。\n",
+    "trimmedLead": "震度6強の揺れを観測した青森県階上町と6弱の揺れを観測した八戸市を管轄する消防によりますと、午前8時半までに八戸市で3件、階上町で1件の救助要請の連絡が入っているということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015159211000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015159211000",
+  "video": [],
+  "citation": [
+    {
+      "name": "【地震速報】青森県で震度6強 津波被害の心配なし",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015158201000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260625/K10015158201_2606251031_0625103516_01_02.jpg",
+      "datePublished": "2026-06-25T10:35:14+09:00"
+    },
+    {
+      "name": "高市首相「災害応急対策に総力挙げ取り組む」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015159181000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260625/K10015159181_2606250847_0625085253_01_02.jpg",
+      "datePublished": "2026-06-25T08:52:52+09:00"
+    },
+    {
+      "name": "梅雨前線で九州北部で雨降り続く 台風は北上 厳重警戒を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015158771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260625/K10015158771_2606250956_0625095716_01_03.jpg",
+      "datePublished": "2026-06-25T10:39:57+09:00"
+    },
+    {
+      "name": "沖縄 宮古島や石垣島の空港 あす発着する便中心に80便余欠航",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015158851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260624/K10015158851_2606242209_0624221342_01_02.jpg",
+      "datePublished": "2026-06-24T22:13:41+09:00"
+    },
+    {
+      "name": "教育基本法改正20年 かつての与党協議の議事録を入手",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015158881000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260625/K10015158881_2606250052_0625061107_01_02.jpg",
+      "datePublished": "2026-06-25T06:11:06+09:00"
+    },
+    {
+      "name": "神戸 冷凍庫遺体遺棄事件 元妻「電気代去年ごろまで払う」供述",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015158821000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260625/K10015158821_2606242223_0625053933_01_02.jpg",
+      "datePublished": "2026-06-25T05:39:32+09:00"
+    },
+    {
+      "name": "島根 出雲 商店街火事 20棟ほど焼けたか 発生から丸1日で鎮火",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015157651000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260623/K10015157651_2606240605_0624135905_01_03.jpg",
+      "datePublished": "2026-06-24T20:52:59+09:00"
+    },
+    {
+      "name": "東京 北区 小学校火事 教員“準備室で洗濯物乾かしていた”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015158351000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260624/K10015158351_2606241546_0624160740_01_02.jpg",
+      "datePublished": "2026-06-24T20:51:18+09:00"
+    },
+    {
+      "name": "安保3文書改定 防衛費の規模や非核三原則扱いが焦点に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015158711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260625/K10015158711_2606242337_0625063053_01_03.jpg",
+      "datePublished": "2026-06-25T06:30:52+09:00"
+    },
+    {
+      "name": "FIFAワールドカップ2026【NHK特設サイト】",
+      "url": "https://nhk.jp/fifawc?cid=wc26-newsweb-awayomi",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31365091.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015159191000",
+  "dataSourceId": "na",
+  "name": "震度6強 青森 階上町のコンビニでビンなど散乱",
+  "headline": "震度6強 青森 階上町のコンビニでビンなど散乱",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015159191000",
+    "playlistId": "news-nwa-disaster-nationwide-20260625",
+    "newsarticleName": "震度6強 青森 階上町のコンビニでビンなど散乱",
+    "playlistName": "6月25日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "震度6強の揺れを観測した青森県階上町にあるコンビニエンスストアが、SNSに投稿した画像です。\n\n\n画像からは、商品を陳列した棚からお菓子などが落下して通路に散乱している様子や、焼酎や日本酒のビンが落ち",
+  "dateModified": "2026-06-25T09:07:32+09:00",
+  "datePublished": "2026-06-25T09:07:32+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260625/K10015159191_2606250856_0625090733_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260625/K10015159191_2606250856_0625090733_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0002202",
+      "name": "青森県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "震度6強の揺れを観測した青森県階上町にあるコンビニエンスストアが、SNSに投稿した画像です。\n\n\n画像からは、商品を陳列した棚からお菓子などが落下して通路に散乱している様子や、焼酎や日本酒のビンが落ち",
+  "articleBody": "震度6強の揺れを観測した青森県階上町にあるコンビニエンスストアが、SNSに投稿した画像です。\n\n\n画像からは、商品を陳列した棚からお菓子などが落下して通路に散乱している様子や、焼酎や日本酒のビンが落ちて割れて破片が散らばっている様子が確認できます。\n\n店のオーナーによりますと、地震があった当時、店内には客2人がいたということですが、いずれも強い揺れを感じて店から外に出てけがなどはなかったということです。\n\nオーナーの男性は「緊急地震速報が鳴る直前に揺れがきて、かなり大きな縦揺れを感じました。けが人や建物への被害はありませんでした」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "震度6強の揺れを観測した青森県階上町にあるコンビニエンスストアが、SNSに投稿した画像です。\n",
+    "markedBody": "画像からは、商品を陳列した棚からお菓子などが落下して通路に散乱している様子や、焼酎や日本酒のビンが落ちて割れて破片が散らばっている様子が確認できます。\n\n店のオーナーによりますと、地震があった当時、店内には客2人がいたということですが、いずれも強い揺れを感じて店から外に出てけがなどはなかったということです。\n\nオーナーの男性は「緊急地震速報が鳴る直前に揺れがきて、かなり大きな縦揺れを感じました。けが人や建物への被害はありませんでした」と話していました。\n",
+    "trimmedLead": "震度6強の揺れを観測した青森県階上町にあるコンビニエンスストアが、SNSに投稿した画像です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015159191000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015159191000",
+  "video": [],
+  "citation": [
+    {
+      "name": "【最新の地震情報】各地の震度・震源を詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/earthquake/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30060617.jpg"
+    },
+    {
+      "name": "地震発生 その時どう行動する!?",
+      "url": "https://news.web.nhk/newsweb/na/nc-790dbe02-3696-4956-b2ac-83401a4f8f5b",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045984.jpg"
+    },
+    {
+      "name": "地震マップ 最新の震度分布・震源をリアルタイム更新",
+      "url": "https://news.web.nhk/bousai-map/earthquake/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31036920.jpg"
+    },
+    {
+      "name": "地震動予測地図 震度６弱以上 各地のリスク",
+      "url": "https://news.web.nhk/newsweb/na/nc-04b01a9b-a30f-46c5-af92-bd6f205a005f",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045805.jpg"
+    },
+    {
+      "name": "首都直下地震 あなたの街の揺れは？自治体ごとの震度を詳しく",
+      "url": "https://news.web.nhk/newsweb/na/nc-9d41f247-b611-4c72-918e-b7bc60dfc006",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31134658.jpg"
+    },
+    {
+      "name": "首都直下地震 新たな被害想定 “死者 最大1万8000人”",
+      "url": "https://news.web.nhk/newsweb/na/nc-e348f9cc-3c19-4405-a5b0-210cab9aeaae",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31134676.jpg"
+    },
+    {
+      "name": "南海トラフ巨大地震「新被害想定」私のまちは",
+      "url": "https://news.web.nhk/newsweb/na/nc-a2084f03-7197-4f79-b727-4fda9d15eecd",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_28817111.jpg"
+    },
+    {
+      "name": "火災の初期消火 消火器の使い方や対策は？",
+      "url": "https://news.web.nhk/newsweb/na/nc-813b665d-4bc8-4cc1-9df8-39020c4f8bb0",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045799.jpg"
+    },
+    {
+      "name": "「エレベーターに閉じ込められた」いったいどうすれば？",
+      "url": "https://news.web.nhk/newsweb/na/nc-ca2734b0-c080-45e4-a5c5-2bbc97205783",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045827.jpg"
+    },
+    {
+      "name": "天気防災マップ ふだんの雨雲予想から災害時のリスク情報まで",
+      "url": "https://news.web.nhk/bousai-map/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037154.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

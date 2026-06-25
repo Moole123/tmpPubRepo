@@ -1,0 +1,149 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015159231000",
+  "dataSourceId": "na",
+  "name": "震度6弱 青森 八戸のスーパーでビンなど散乱 きょうは臨時休業",
+  "headline": "震度6弱 青森 八戸のスーパーでビンなど散乱 きょうは臨時休業",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015159231000",
+    "playlistId": "news-nwa-disaster-nationwide-20260625",
+    "newsarticleName": "震度6弱 青森 八戸のスーパーでビンなど散乱 きょうは臨時休業",
+    "playlistName": "6月25日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "震度6弱の揺れを観測した青森県八戸市にあるスーパーが地震発生直後に撮影し、SNSに投稿した画像です。\n\n\n飲料水やお茶のペットボトルなどの商品が陳列していた棚から落ちて、床一面に散乱している様子が確認",
+  "dateModified": "2026-06-25T09:44:36+09:00",
+  "datePublished": "2026-06-25T09:44:36+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260625/K10015159231_2606250912_0625094437_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260625/K10015159231_2606250912_0625094437_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0002202",
+      "name": "青森県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "震度6弱の揺れを観測した青森県八戸市にあるスーパーが地震発生直後に撮影し、SNSに投稿した画像です。\n\n\n飲料水やお茶のペットボトルなどの商品が陳列していた棚から落ちて、床一面に散乱している様子が確認",
+  "articleBody": "震度6弱の揺れを観測した青森県八戸市にあるスーパーが地震発生直後に撮影し、SNSに投稿した画像です。\n\n\n飲料水やお茶のペットボトルなどの商品が陳列していた棚から落ちて、床一面に散乱している様子が確認できます。\n\nまた、別の写真では、落ちた日本酒などのビンが割れ、破片が散らばっています。\n\n店によりますと、片付けなどの作業のため、25日は臨時休業を決めたということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "震度6弱の揺れを観測した青森県八戸市にあるスーパーが地震発生直後に撮影し、SNSに投稿した画像です。\n",
+    "markedBody": "飲料水やお茶のペットボトルなどの商品が陳列していた棚から落ちて、床一面に散乱している様子が確認できます。\n\nまた、別の写真では、落ちた日本酒などのビンが割れ、破片が散らばっています。\n\n店によりますと、片付けなどの作業のため、25日は臨時休業を決めたということです。\n",
+    "trimmedLead": "震度6弱の揺れを観測した青森県八戸市にあるスーパーが地震発生直後に撮影し、SNSに投稿した画像です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015159231000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015159231000",
+  "video": [],
+  "citation": [
+    {
+      "name": "【地震速報】青森県で震度6強 津波被害の心配なし",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015158201000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260625/K10015158201_2606251031_0625103516_01_02.jpg",
+      "datePublished": "2026-06-25T10:35:14+09:00"
+    },
+    {
+      "name": "【交通影響】東北新幹線 秋田新幹線 一部で運転再開",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015159071000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260625/K10015159071_2606250807_0625081538_01_02.jpg",
+      "datePublished": "2026-06-25T10:33:13+09:00"
+    },
+    {
+      "name": "気象庁が会見“後発地震注意情報は発表しないが地震へ備えを”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015159051000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260625/K10015159051_2606250931_0625093208_01_02.jpg",
+      "datePublished": "2026-06-25T10:10:07+09:00"
+    },
+    {
+      "name": "【中継終了】青森県で震度6強 各地の様子",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015159101000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260625/K10015159101_2606250812_0625081631_01_02.jpg",
+      "datePublished": "2026-06-25T08:16:30+09:00"
+    },
+    {
+      "name": "【青森で震度6強】東北 北海道で長周期地震動 階級2観測",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015159091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260625/K10015159091_2606250812_0625081220_01_02.jpg",
+      "datePublished": "2026-06-25T08:06:06+09:00"
+    },
+    {
+      "name": "青森 東通原発など原子力関連施設 異常確認されず",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015159031000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260625/K10015159031_2606250749_0625075139_01_02.jpg",
+      "datePublished": "2026-06-25T08:39:04+09:00"
+    },
+    {
+      "name": "大手携帯電話会社 通信への影響なし 災害用伝言板サービス提供",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015159061000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260625/K10015159061_2606250845_0625084823_01_02.jpg",
+      "datePublished": "2026-06-25T08:48:21+09:00"
+    },
+    {
+      "name": "高市首相「災害応急対策に総力挙げ取り組む」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015159181000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260625/K10015159181_2606250847_0625085253_01_02.jpg",
+      "datePublished": "2026-06-25T08:52:52+09:00"
+    },
+    {
+      "name": "「エレベーターに閉じ込められた」いったいどうすれば？",
+      "url": "https://news.web.nhk/newsweb/na/nc-ca2734b0-c080-45e4-a5c5-2bbc97205783",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045827.jpg"
+    },
+    {
+      "name": "ベネズエラ M7超の地震が2回 津波発生のおそれなし",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015159041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260625/K10015159041_2606250937_0625094301_01_02.jpg",
+      "datePublished": "2026-06-25T09:43:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
