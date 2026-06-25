@@ -1,0 +1,158 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015159541000",
+  "dataSourceId": "na",
+  "name": "アンソロピック “AIモデルに中国企業が不正アクセス”報道",
+  "headline": "アンソロピック “AIモデルに中国企業が不正アクセス”報道",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015159541000",
+    "playlistId": "news-nwa-international-nationwide-20260625",
+    "newsarticleName": "アンソロピック “AIモデルに中国企業が不正アクセス”報道",
+    "playlistName": "6月25日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "アメリカのAI新興企業「アンソロピック」は、中国のIT大手「アリババグループ」が、自社のAIモデルへ不正にアクセスして機能を抜き出そうとしたとしてアメリカの上院議員やホワイトハウスの高官に非難する書簡",
+  "dateModified": "2026-06-25T13:06:45+09:00",
+  "datePublished": "2026-06-25T13:06:45+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260625/K10015159541_2606251235_0625130646_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260625/K10015159541_2606251235_0625130646_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0000010",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "0001595",
+      "name": "中国",
+      "display": true
+    },
+    {
+      "id": "0000325",
+      "name": "サイバー攻撃",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "アメリカのAI新興企業「アンソロピック」は、中国のIT大手「アリババグループ」が、自社のAIモデルへ不正にアクセスして機能を抜き出そうとしたとしてアメリカの上院議員やホワイトハウスの高官に非難する書簡",
+  "articleBody": "アメリカのAI新興企業「アンソロピック」は、中国のIT大手「アリババグループ」が、自社のAIモデルへ不正にアクセスして機能を抜き出そうとしたとしてアメリカの上院議員やホワイトハウスの高官に非難する書簡を送ったと複数の欧米メディアが報じました。\n\n\n複数の欧米メディアによりますとアリババはことし4月から今月にかけて、およそ2万5000の不正なアカウントを使用してアンソロピックのAIモデル「クロード」へアクセスし、AIと2880万件のやり取りを行う中で、その機能を抜き出そうとしたと伝えています。\n\nこの過程では高性能なAIモデルが出力した結果をもとに、性能の劣るモデルを訓練させる「蒸留」と呼ばれる手法が用いられたとしています。\n\nまた、アンソロピックは、アリババなどが組織的にアメリカで開発されている最先端のAIモデルの機能を盗み、低コストで開発を進めていると主張しているということで、こうした行為を非難する書簡をアメリカの上院議員やホワイトハウスの高官に送ったということです。\n\nAIの「蒸留」をめぐっては、アンソロピックはことし2月、中国のAI新興企業から同様の手法で機能を抜き出されたと明らかにしていたほか、アメリカのホワイトハウスもことし4月、中国を拠点とする企業などが、最先端のAIの機能を組織的に抜き出して模倣しているとして非難しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカのAI新興企業「アンソロピック」は、中国のIT大手「アリババグループ」が、自社のAIモデルへ不正にアクセスして機能を抜き出そうとしたとしてアメリカの上院議員やホワイトハウスの高官に非難する書簡を送ったと複数の欧米メディアが報じました。\n",
+    "markedBody": "複数の欧米メディアによりますとアリババはことし4月から今月にかけて、およそ2万5000の不正なアカウントを使用してアンソロピックのAIモデル「クロード」へアクセスし、AIと2880万件のやり取りを行う中で、その機能を抜き出そうとしたと伝えています。\n\nこの過程では高性能なAIモデルが出力した結果をもとに、性能の劣るモデルを訓練させる「蒸留」と呼ばれる手法が用いられたとしています。\n\nまた、アンソロピックは、アリババなどが組織的にアメリカで開発されている最先端のAIモデルの機能を盗み、低コストで開発を進めていると主張しているということで、こうした行為を非難する書簡をアメリカの上院議員やホワイトハウスの高官に送ったということです。\n\nAIの「蒸留」をめぐっては、アンソロピックはことし2月、中国のAI新興企業から同様の手法で機能を抜き出されたと明らかにしていたほか、アメリカのホワイトハウスもことし4月、中国を拠点とする企業などが、最先端のAIの機能を組織的に抜き出して模倣しているとして非難しています。\n",
+    "trimmedLead": "アメリカのAI新興企業「アンソロピック」は、中国のIT大手「アリババグループ」が、自社のAIモデルへ不正にアクセスして機能を抜き出そうとしたとしてアメリカの上院議員やホワイトハウスの高官に非難する書簡を送ったと複数の欧米メディアが報じました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015159541000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015159541000",
+  "video": [],
+  "citation": [
+    {
+      "name": "17戦略分野への投資額 2040年度までに「370兆円超」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015157951000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260624/K10015157951_2606241633_0624191347_01_02.jpg",
+      "datePublished": "2026-06-24T21:41:31+09:00"
+    },
+    {
+      "name": "中国 李首相 AIなど開発加速を強調 “夏のダボス会議”で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015158481000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260624/K10015158481_2606241722_0624174521_01_02.jpg",
+      "datePublished": "2026-06-24T17:45:21+09:00"
+    },
+    {
+      "name": "メガバンク3行がグーグルの最新AI利用へ 片山金融担当相",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015158401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260624/K10015158401_2606241651_0624165925_01_02.jpg",
+      "datePublished": "2026-06-24T16:59:24+09:00"
+    },
+    {
+      "name": "中国が東シナ海で掘削船固定“極めて遺憾で強く抗議”官房長官",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015158141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260624/K10015158141_2606241221_0624130201_01_02.jpg",
+      "datePublished": "2026-06-24T13:02:01+09:00"
+    },
+    {
+      "name": "梅雨前線で九州北部で雨降り続く 「土砂災害危険警報」も発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015158771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260625/K10015158771_2606251208_0625122015_01_02.jpg",
+      "datePublished": "2026-06-25T14:16:22+09:00"
+    },
+    {
+      "name": "【台風情報】台風7号 あすにかけ沖縄に接近",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015159351000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260625/K10015159351_2606251425_0625142619_01_03.jpg",
+      "datePublished": "2026-06-25T12:28:49+09:00"
+    },
+    {
+      "name": "気象庁「後発地震注意情報」発表せず 今後も地震活動に注意を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015159051000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260625/K10015159051_2606250931_0625093208_01_02.jpg",
+      "datePublished": "2026-06-25T11:49:28+09:00"
+    },
+    {
+      "name": "【地震 被害・影響】青森県で4人けが 岩手県でもけが人",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015159131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260625/K10015159131_2606251256_0625135027_01_02.jpg",
+      "datePublished": "2026-06-25T13:50:26+09:00"
+    },
+    {
+      "name": "【最新の地震情報】各地の震度・震源を詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/earthquake/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30060617.jpg"
+    },
+    {
+      "name": "FIFAワールドカップ2026【NHK特設サイト】",
+      "url": "https://nhk.jp/fifawc?cid=wc26-newsweb-awayomi",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31365091.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
