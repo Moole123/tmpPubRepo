@@ -1,0 +1,156 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015160151000",
+  "dataSourceId": "na",
+  "name": "天皇皇后両陛下 ベルギー国王夫妻とお別れのあいさつ",
+  "headline": "天皇皇后両陛下 ベルギー国王夫妻とお別れのあいさつ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015160151000",
+    "playlistId": "news-nwa-society-nationwide-20260625",
+    "newsarticleName": "天皇皇后両陛下 ベルギー国王夫妻とお別れのあいさつ",
+    "playlistName": "6月25日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "ベルギーを公式訪問している天皇皇后両陛下は、国王夫妻とともに庭園を散策したあと、お別れのあいさつを交わされました。\n\n\n天皇皇后両陛下は現地時間の25日午前、フィリップ国王一家の住まいで、両陛下も滞在",
+  "dateModified": "2026-06-25T18:48:33+09:00",
+  "datePublished": "2026-06-25T18:48:33+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260625/K10015160151_2606251835_0625184833_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260625/K10015160151_2606251835_0625184833_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会",
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0000527",
+      "name": "皇室",
+      "display": true
+    },
+    {
+      "id": "0002347",
+      "name": "ベルギー",
+      "display": true
+    },
+    {
+      "id": "0002346",
+      "name": "オランダ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ベルギーを公式訪問している天皇皇后両陛下は、国王夫妻とともに庭園を散策したあと、お別れのあいさつを交わされました。\n\n\n天皇皇后両陛下は現地時間の25日午前、フィリップ国王一家の住まいで、両陛下も滞在",
+  "articleBody": "ベルギーを公式訪問している天皇皇后両陛下は、国王夫妻とともに庭園を散策したあと、お別れのあいさつを交わされました。\n\n\n天皇皇后両陛下は現地時間の25日午前、フィリップ国王一家の住まいで、両陛下も滞在していた「ラーケン宮」の庭園を、国王夫妻とともに散策されました。\n\n両陛下はやしの木などが並ぶ温室や池の周りを、国王夫妻とことばを交わしながらゆっくりと歩かれました。\n\nそして、ラーケン宮を出発する際には、国王夫妻とお別れのあいさつを交わされました。\n\n両陛下は国王夫妻と手を握り合い、何度も「ありがとう」とことばを交わしたあと車に乗り込まれ、国王夫妻は笑顔で手を振って見送っていました。\n\n両陛下は2週間にわたるオランダとベルギーへの訪問を終え、日本時間の26日午後に帰国されます。\n",
+  "detailedArticleBody": {
+    "markedLead": "ベルギーを公式訪問している天皇皇后両陛下は、国王夫妻とともに庭園を散策したあと、お別れのあいさつを交わされました。\n",
+    "markedBody": "天皇皇后両陛下は現地時間の25日午前、フィリップ国王一家の住まいで、両陛下も滞在していた「ラーケン宮」の庭園を、国王夫妻とともに散策されました。\n\n両陛下はやしの木などが並ぶ温室や池の周りを、国王夫妻とことばを交わしながらゆっくりと歩かれました。\n\nそして、ラーケン宮を出発する際には、国王夫妻とお別れのあいさつを交わされました。\n\n両陛下は国王夫妻と手を握り合い、何度も「ありがとう」とことばを交わしたあと車に乗り込まれ、国王夫妻は笑顔で手を振って見送っていました。\n\n両陛下は2週間にわたるオランダとベルギーへの訪問を終え、日本時間の26日午後に帰国されます。\n",
+    "trimmedLead": "ベルギーを公式訪問している天皇皇后両陛下は、国王夫妻とともに庭園を散策したあと、お別れのあいさつを交わされました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015160151000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015160151000",
+  "video": [],
+  "citation": [
+    {
+      "name": "天皇陛下 ベルギーの大学を視察",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015158751000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260625/K10015158751_2606250943_0625102049_01_02.jpg",
+      "datePublished": "2026-06-25T10:20:48+09:00"
+    },
+    {
+      "name": "秋篠宮ご夫妻と佳子さま 能登半島地震で活動の行政相談委員と",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015159911000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260625/K10015159911_2606251640_0625180415_01_02.jpg",
+      "datePublished": "2026-06-25T18:04:14+09:00"
+    },
+    {
+      "name": "「西～東日本 大雨27日(土)ごろにかけ続く 厳重警戒を」気象庁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015159571000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260625/K10015159571_2606251436_0625143701_01_02.jpg",
+      "datePublished": "2026-06-25T15:42:32+09:00"
+    },
+    {
+      "name": "台風7号あすにかけ沖縄 奄美に接近「非常に危険な状況」専門家",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015159351000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260625/K10015159351_2606251845_0625190244_01_02.jpg",
+      "datePublished": "2026-06-25T19:40:50+09:00"
+    },
+    {
+      "name": "【大雨・台風】各地で被害や影響 備えの動きも",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015159681000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260625/K10015159681_2606251346_0625152436_01_02.jpg",
+      "datePublished": "2026-06-25T17:43:50+09:00"
+    },
+    {
+      "name": "梅雨前線 九州各地で大雨 福岡県に線状降水帯直前予測",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015158771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260625/K10015158771_2606251653_0625172400_01_02.jpg",
+      "datePublished": "2026-06-25T20:00:46+09:00"
+    },
+    {
+      "name": "震度6強 専門家 “三陸はるか沖地震の震源域に近い 注意必要”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015160091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260625/K10015160091_2606251817_0625183102_01_02.jpg",
+      "datePublished": "2026-06-25T18:31:01+09:00"
+    },
+    {
+      "name": "気象庁「後発地震注意情報」発表せず 今後も地震活動に注意を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015159051000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260625/K10015159051_2606250931_0625093208_01_02.jpg",
+      "datePublished": "2026-06-25T11:49:28+09:00"
+    },
+    {
+      "name": "日銀 田村委員“利上げは物価動向次第でちゅうちょなく”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015159691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260625/K10015159691_2606251413_0625171312_01_02.jpg",
+      "datePublished": "2026-06-25T18:11:38+09:00"
+    },
+    {
+      "name": "北海道 江別 強盗致死事件 3人の被告に判決 札幌地裁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015160081000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260625/K10015160081_2606251802_0625181927_01_02.jpg",
+      "datePublished": "2026-06-25T18:19:26+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
