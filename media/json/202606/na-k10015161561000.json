@@ -1,0 +1,145 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015161561000",
+  "dataSourceId": "na",
+  "name": "増水した川に流されたか 新聞配達員の男性死亡 兵庫 淡路",
+  "headline": "増水した川に流されたか 新聞配達員の男性死亡 兵庫 淡路",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015161561000",
+    "playlistId": "news-nwa-disaster-nationwide-20260626",
+    "newsarticleName": "増水した川に流されたか 新聞配達員の男性死亡 兵庫 淡路",
+    "playlistName": "6月26日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "26日午後、兵庫県淡路市の川で新聞配達員の男性が遺体で見つかりました。近くの路上では配達用のバイクが見つかり、警察は、雨で増水した川に誤って転落し、流された可能性があるとみて調べています。\n\n\n26日",
+  "dateModified": "2026-06-26T18:49:30+09:00",
+  "datePublished": "2026-06-26T18:49:30+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260626/K10015161561_2606261841_0626184931_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260626/K10015161561_2606261841_0626184931_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002228",
+      "name": "兵庫県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "26日午後、兵庫県淡路市の川で新聞配達員の男性が遺体で見つかりました。近くの路上では配達用のバイクが見つかり、警察は、雨で増水した川に誤って転落し、流された可能性があるとみて調べています。\n\n\n26日",
+  "articleBody": "26日午後、兵庫県淡路市の川で新聞配達員の男性が遺体で見つかりました。近くの路上では配達用のバイクが見つかり、警察は、雨で増水した川に誤って転落し、流された可能性があるとみて調べています。\n\n\n26日午後0時半ごろ、淡路市尾崎の宮川で市内に住む佐久間清貴さん（72）が遺体で見つかりました。\n\n警察によりますと、佐久間さんは新聞配達員で、販売所から「新聞配達に出たまま戻ってこない」と通報があり、警察と消防が行方を捜していました。\n\n見つかった場所からおよそ200メートル離れた路上でエンジンのかかったままの配達用のバイクが見つかったということです。\n\n川の水深はふだんは20センチほどですが、当時は雨で増水していたということで、警察は誤って転落し流された可能性があるとみて調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "26日午後、兵庫県淡路市の川で新聞配達員の男性が遺体で見つかりました。近くの路上では配達用のバイクが見つかり、警察は、雨で増水した川に誤って転落し、流された可能性があるとみて調べています。\n",
+    "markedBody": "26日午後0時半ごろ、淡路市尾崎の宮川で市内に住む佐久間清貴さん（72）が遺体で見つかりました。\n\n警察によりますと、佐久間さんは新聞配達員で、販売所から「新聞配達に出たまま戻ってこない」と通報があり、警察と消防が行方を捜していました。\n\n見つかった場所からおよそ200メートル離れた路上でエンジンのかかったままの配達用のバイクが見つかったということです。\n\n川の水深はふだんは20センチほどですが、当時は雨で増水していたということで、警察は誤って転落し流された可能性があるとみて調べています。\n",
+    "trimmedLead": "26日午後、兵庫県淡路市の川で新聞配達員の男性が遺体で見つかりました。近くの路上では配達用のバイクが見つかり、警察は、雨で増水した川に誤って転落し、流された可能性があるとみて調べています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015161561000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015161561000",
+  "video": [],
+  "citation": [
+    {
+      "name": "【大雨 台風】大阪 柏原で車水没 奈良で男性水路に転落し骨折",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015160731000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015160731_2606261020_0626105122_01_02.jpg",
+      "datePublished": "2026-06-26T19:24:45+09:00"
+    },
+    {
+      "name": "2つの台風が相次ぎ接近 前線停滞で各地大雨 土砂災害厳重警戒",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015160621000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015160621_2606262008_0626200943_01_03.jpg",
+      "datePublished": "2026-06-26T18:26:42+09:00"
+    },
+    {
+      "name": "東海道新幹線 27日 運転見合わせや運休の可能性 台風接近で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015160181000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260625/K10015160181_2606251840_0625184756_01_02.jpg",
+      "datePublished": "2026-06-25T18:47:55+09:00"
+    },
+    {
+      "name": "ベネズエラ M7超地震 首都周辺被害深刻も全容不明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015160641000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015160641_2606260600_0626060836_01_02.jpg",
+      "datePublished": "2026-06-26T09:01:42+09:00"
+    },
+    {
+      "name": "W杯 日本は引き分け グループ2位で決勝トーナメントへ【詳報】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015160411000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015160411_2606261150_0626115853_01_02.jpg",
+      "datePublished": "2026-06-26T20:27:28+09:00"
+    },
+    {
+      "name": "W杯 「かかってこい、日本！」ブラジルメディアが伝える",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015161391000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015161391_2606261500_0626161644_01_02.jpg",
+      "datePublished": "2026-06-26T16:16:43+09:00"
+    },
+    {
+      "name": "FIFAワールドカップ2026【NHK特設サイト】",
+      "url": "https://nhk.jp/fifawc?cid=wc26-newsweb-awayomi",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31365091.jpg"
+    },
+    {
+      "name": "俳優の村上虹郎さんを傷害疑いで書類送検 交際相手に暴行か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015160771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015160771_2606260831_0626083622_01_02.jpg",
+      "datePublished": "2026-06-26T17:30:35+09:00"
+    },
+    {
+      "name": "パリ 公共の場での飲酒禁止 欧州で記録的熱波の影響広がる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015160791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015160791_2606260904_0626102904_01_02.jpg",
+      "datePublished": "2026-06-26T10:29:03+09:00"
+    },
+    {
+      "name": "ホルムズ海峡めぐり「通航料など拒否」 米と湾岸諸国が声明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015160631000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015160631_2606260528_0626053946_01_02.jpg",
+      "datePublished": "2026-06-26T19:30:14+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
