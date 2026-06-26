@@ -1,0 +1,188 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015162121000",
+  "dataSourceId": "na",
+  "name": "【映像】地震発生時 北陸新幹線の車内で一時停電",
+  "headline": "【映像】地震発生時 北陸新幹線の車内で一時停電",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015162121000",
+    "playlistId": "news-nwa-disaster-nationwide-20260627",
+    "newsarticleName": "【映像】地震発生時 北陸新幹線の車内で一時停電",
+    "playlistName": "6月27日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "JR長野駅から大宮駅に向かう北陸新幹線の車内で地震発生直後のきのう（26日）午後10時30分すぎに撮影された映像です。車内の電気が消えて暗くなっている様子がわかります。\n\n\n撮影したNHKの職員により",
+  "dateModified": "2026-06-27T00:48:50+09:00",
+  "datePublished": "2026-06-27T00:48:50+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260627/K10015162121_2606270038_0627004850_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260627/K10015162121_2606270038_0627004850_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0002683",
+      "name": "交通・インフラ",
+      "display": true
+    },
+    {
+      "id": "0002427",
+      "name": "鉄道",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "JR長野駅から大宮駅に向かう北陸新幹線の車内で地震発生直後のきのう（26日）午後10時30分すぎに撮影された映像です。車内の電気が消えて暗くなっている様子がわかります。\n\n\n撮影したNHKの職員により",
+  "articleBody": "JR長野駅から大宮駅に向かう北陸新幹線の車内で地震発生直後のきのう（26日）午後10時30分すぎに撮影された映像です。車内の電気が消えて暗くなっている様子がわかります。\n\n\n撮影したNHKの職員によりますと、長野県上田市付近のトンネルを（うえだ）走っているときに車内が暗くなって停車し「地震による影響で運転を見合わせております」などとアナウンスがあったということです。\n\n自動ドアやトイレなども停電で一時的に使えなくなりましたが、およそ20分後に運転を再開したということです。\n\n撮影した職員は「揺れは感じず、先に停電して停車しました。運転を再開するか不安でしたがすぐに動き始めて安心しました。車内で混乱はなく体調不良になった人もいないようでした」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "JR長野駅から大宮駅に向かう北陸新幹線の車内で地震発生直後のきのう（26日）午後10時30分すぎに撮影された映像です。車内の電気が消えて暗くなっている様子がわかります。\n",
+    "markedBody": "撮影したNHKの職員によりますと、長野県上田市付近のトンネルを（うえだ）走っているときに車内が暗くなって停車し「地震による影響で運転を見合わせております」などとアナウンスがあったということです。\n\n自動ドアやトイレなども停電で一時的に使えなくなりましたが、およそ20分後に運転を再開したということです。\n\n撮影した職員は「揺れは感じず、先に停電して停車しました。運転を再開するか不安でしたがすぐに動き始めて安心しました。車内で混乱はなく体調不良になった人もいないようでした」と話していました。\n",
+    "trimmedLead": "JR長野駅から大宮駅に向かう北陸新幹線の車内で地震発生直後のきのう（26日）午後10時30分すぎに撮影された映像です。車内の電気が消えて暗くなっている様子がわかります。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015162121000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015162121000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "【映像】地震発生時 北陸新幹線の車内で一時停電",
+      "description": "JR長野駅から大宮駅に向かう北陸新幹線の車内で地震発生直後のきのう（26日）午後10時30分すぎに撮影された映像です。車内の電気が消えて暗くなっている様子がわかります。\n\n\n撮影したNHKの職員により",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015162121_202606270040_202606270041/index.m3u8&mrposter=/news/html/20260627/K10015162121_2606270038_0627004850_01_03.jpg",
+      "duration": "PT15S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015162121_202606270040_202606270041/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260627/K10015162121_2606270038_0627004850_01_03.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "【最新の地震情報】各地の震度・震源を詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/earthquake/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30060617.jpg"
+    },
+    {
+      "name": "【地震関連など】各地の最新ニュースはこちらから",
+      "url": "https://news.web.nhk/news/special/rich_contents/lnews/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31393968.jpg"
+    },
+    {
+      "name": "地震発生 その時どう行動する!?",
+      "url": "https://news.web.nhk/newsweb/na/nc-790dbe02-3696-4956-b2ac-83401a4f8f5b",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045984.jpg"
+    },
+    {
+      "name": "地震マップ 最新の震度分布・震源をリアルタイム更新",
+      "url": "https://news.web.nhk/bousai-map/earthquake/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31036920.jpg"
+    },
+    {
+      "name": "地震動予測地図 震度６弱以上 各地のリスク",
+      "url": "https://news.web.nhk/newsweb/na/nc-04b01a9b-a30f-46c5-af92-bd6f205a005f",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045805.jpg"
+    },
+    {
+      "name": "首都直下地震 あなたの街の揺れは？自治体ごとの震度を詳しく",
+      "url": "https://news.web.nhk/newsweb/na/nc-9d41f247-b611-4c72-918e-b7bc60dfc006",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31134658.jpg"
+    },
+    {
+      "name": "首都直下地震 新たな被害想定 “死者 最大1万8000人”",
+      "url": "https://news.web.nhk/newsweb/na/nc-e348f9cc-3c19-4405-a5b0-210cab9aeaae",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31134676.jpg"
+    },
+    {
+      "name": "南海トラフ巨大地震「新被害想定」私のまちは",
+      "url": "https://news.web.nhk/newsweb/na/nc-a2084f03-7197-4f79-b727-4fda9d15eecd",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_28817111.jpg"
+    },
+    {
+      "name": "火災の初期消火 消火器の使い方や対策は？",
+      "url": "https://news.web.nhk/newsweb/na/nc-813b665d-4bc8-4cc1-9df8-39020c4f8bb0",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045799.jpg"
+    },
+    {
+      "name": "「エレベーターに閉じ込められた」いったいどうすれば？",
+      "url": "https://news.web.nhk/newsweb/na/nc-ca2734b0-c080-45e4-a5c5-2bbc97205783",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045827.jpg"
+    },
+    {
+      "name": "災害時の偽情報や誤情報に注意 拡散で命にかかわるリスクも",
+      "url": "https://news.web.nhk/newsweb/na/nc-b777764c-a841-41c5-8a78-0b496adee8d9",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045938.jpg"
+    },
+    {
+      "name": "NHKONE防災 災害リスク・備えをまとめて",
+      "url": "https://news.web.nhk/newsweb/sp/pl/editorial-nwa-0000000132",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30066327.jpg"
+    },
+    {
+      "name": "天気防災サイト あなたの街の天気予報や災害情報を即時提供",
+      "url": "https://news.web.nhk/kishou-saigai/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037196.jpg"
+    },
+    {
+      "name": "天気防災マップ ふだんの雨雲予想から災害時のリスク情報まで",
+      "url": "https://news.web.nhk/bousai-map/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037154.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
