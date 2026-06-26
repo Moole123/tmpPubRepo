@@ -1,0 +1,148 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015161931000",
+  "dataSourceId": "na",
+  "name": "政府 山梨 震度6弱の地震を受けて官邸対策室設置",
+  "headline": "政府 山梨 震度6弱の地震を受けて官邸対策室設置",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015161931000",
+    "playlistId": "news-nwa-disaster-nationwide-20260626",
+    "newsarticleName": "政府 山梨 震度6弱の地震を受けて官邸対策室設置",
+    "playlistName": "6月26日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "今回の地震を受けて、政府は午後10時半に総理大臣官邸の危機管理センターに官邸対策室を設置し、情報の収集や被害の確認にあたっています。\n\n\n高市首相 首相官邸入り\n\n今回の地震を受けて、高市総理大臣は午",
+  "dateModified": "2026-06-26T23:12:58+09:00",
+  "datePublished": "2026-06-26T22:48:29+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260626/K10015161931_2606262308_0626232127_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260626/K10015161931_2606262308_0626232127_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害",
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "今回の地震を受けて、政府は午後10時半に総理大臣官邸の危機管理センターに官邸対策室を設置し、情報の収集や被害の確認にあたっています。\n\n\n高市首相 首相官邸入り\n\n今回の地震を受けて、高市総理大臣は午",
+  "articleBody": "今回の地震を受けて、政府は午後10時半に総理大臣官邸の危機管理センターに官邸対策室を設置し、情報の収集や被害の確認にあたっています。\n\n\n高市首相 首相官邸入り\n\n今回の地震を受けて、高市総理大臣は午後11時5分ごろ、総理大臣官邸に入りました。\n\n赤間防災担当相 首相官邸入り\n\n今回の地震を受けて、赤間防災担当大臣は午後10時50分ごろ、総理大臣官邸に入りました。\n\n総理大臣官邸には露木官房副長官らも入っていて、被害の確認などにあたっているものとみられます。\n",
+  "detailedArticleBody": {
+    "markedLead": "今回の地震を受けて、政府は午後10時半に総理大臣官邸の危機管理センターに官邸対策室を設置し、情報の収集や被害の確認にあたっています。\n",
+    "markedBody": "### 高市首相 首相官邸入り\n\n今回の地震を受けて、高市総理大臣は午後11時5分ごろ、総理大臣官邸に入りました。\n\n### 赤間防災担当相 首相官邸入り\n\n今回の地震を受けて、赤間防災担当大臣は午後10時50分ごろ、総理大臣官邸に入りました。\n\n総理大臣官邸には露木官房副長官らも入っていて、被害の確認などにあたっているものとみられます。\n",
+    "trimmedLead": "今回の地震を受けて、政府は午後10時半に総理大臣官邸の危機管理センターに官邸対策室を設置し、情報の収集や被害の確認にあたっています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015161931000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015161931000",
+  "video": [],
+  "citation": [
+    {
+      "name": "【地震速報】山梨県で震度6弱 津波の心配なし",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015161091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015161091_2606262246_0626224757_01_02.jpg",
+      "datePublished": "2026-06-27T00:14:25+09:00"
+    },
+    {
+      "name": "山梨県で震度6弱 専門家「富士山の活動と関係なしか」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015162001000",
+      "thumbnailUrl": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png",
+      "datePublished": "2026-06-26T22:58:38+09:00"
+    },
+    {
+      "name": "【最新の地震情報】各地の震度・震源を詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/earthquake/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30060617.jpg"
+    },
+    {
+      "name": "地震発生 その時どう行動する!?",
+      "url": "https://news.web.nhk/newsweb/na/nc-790dbe02-3696-4956-b2ac-83401a4f8f5b",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045984.jpg"
+    },
+    {
+      "name": "地震マップ 最新の震度分布・震源をリアルタイム更新",
+      "url": "https://news.web.nhk/bousai-map/earthquake/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31036920.jpg"
+    },
+    {
+      "name": "地震動予測地図 震度６弱以上 各地のリスク",
+      "url": "https://news.web.nhk/newsweb/na/nc-04b01a9b-a30f-46c5-af92-bd6f205a005f",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045805.jpg"
+    },
+    {
+      "name": "火災の初期消火 消火器の使い方や対策は？",
+      "url": "https://news.web.nhk/newsweb/na/nc-813b665d-4bc8-4cc1-9df8-39020c4f8bb0",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045799.jpg"
+    },
+    {
+      "name": "「エレベーターに閉じ込められた」いったいどうすれば？",
+      "url": "https://news.web.nhk/newsweb/na/nc-ca2734b0-c080-45e4-a5c5-2bbc97205783",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045827.jpg"
+    },
+    {
+      "name": "災害時の偽情報や誤情報に注意 拡散で命にかかわるリスクも",
+      "url": "https://news.web.nhk/newsweb/na/nc-b777764c-a841-41c5-8a78-0b496adee8d9",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045938.jpg"
+    },
+    {
+      "name": "NHKONE防災 災害リスク・備えをまとめて",
+      "url": "https://news.web.nhk/newsweb/sp/pl/editorial-nwa-0000000132",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30066327.jpg"
+    },
+    {
+      "name": "天気防災サイト あなたの街の天気予報や災害情報を即時提供",
+      "url": "https://news.web.nhk/kishou-saigai/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037196.jpg"
+    },
+    {
+      "name": "天気防災マップ ふだんの雨雲予想から災害時のリスク情報まで",
+      "url": "https://news.web.nhk/bousai-map/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037154.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

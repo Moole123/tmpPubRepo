@@ -1,0 +1,154 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015161941000",
+  "dataSourceId": "na",
+  "name": "山梨県で震度6弱 気象庁 午前0時40分から記者会見へ",
+  "headline": "山梨県で震度6弱 気象庁 午前0時40分から記者会見へ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015161941000",
+    "playlistId": "news-nwa-disaster-nationwide-20260627",
+    "newsarticleName": "山梨県で震度6弱 気象庁 午前0時40分から記者会見へ",
+    "playlistName": "6月27日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "山梨県で震度6弱の揺れを観測した地震について気象庁は、今後の注意点や地震活動の状況などについて説明する記者会見を、当初予定していた午前0時半から午前0時40分に変更しました。\n\n\n",
+  "dateModified": "2026-06-27T00:22:44+09:00",
+  "datePublished": "2026-06-26T22:48:57+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260626/K10015161941_2606262248_0626224858_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260626/K10015161941_2606262248_0626224858_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002716",
+      "name": "気象庁",
+      "display": true
+    },
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0002219",
+      "name": "山梨県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "山梨県で震度6弱の揺れを観測した地震について気象庁は、今後の注意点や地震活動の状況などについて説明する記者会見を、当初予定していた午前0時半から午前0時40分に変更しました。\n\n\n",
+  "articleBody": "山梨県で震度6弱の揺れを観測した地震について気象庁は、今後の注意点や地震活動の状況などについて説明する記者会見を、当初予定していた午前0時半から午前0時40分に変更しました。\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "山梨県で震度6弱の揺れを観測した地震について気象庁は、今後の注意点や地震活動の状況などについて説明する記者会見を、当初予定していた午前0時半から午前0時40分に変更しました。\n",
+    "markedBody": "```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"001\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\r\n<div class=\"fs-wrap\">\r\n  <h2 class=\"freespace-title\">【ライブ配信】</h2>\r\n  <div class=\"video-player-fixed\">\r\n    <iframe src=\"https://news.web.nhk/n-data/conf/realtime/movie/player_rt0012688_04_v3.html\" allowfullscreen=\"allowfullscreen\"></iframe>\r\n  </div>\r\n</div>\n</div>\n```\n\n```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"002\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\r\n<div class=\"fs-wrap\">\r\n  <h2 class=\"freespace-title\"></h2>\r\n  <div class=\"video-player-fixed\">\r\n    <iframe src=\"https://news.web.nhk/n-data/conf/realtime/movie/player_rt0012688_03_v3.html\" allowfullscreen=\"allowfullscreen\"></iframe>\r\n  </div>\r\n</div>\n</div>\n```\n",
+    "noHtmlMarkedLead": "山梨県で震度6弱の揺れを観測した地震について気象庁は、今後の注意点や地震活動の状況などについて説明する記者会見を、当初予定していた午前0時半から午前0時40分に変更しました。\n",
+    "trimmedLead": "山梨県で震度6弱の揺れを観測した地震について気象庁は、今後の注意点や地震活動の状況などについて説明する記者会見を、当初予定していた午前0時半から午前0時40分に変更しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015161941000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015161941000",
+  "video": [],
+  "citation": [
+    {
+      "name": "【地震速報】山梨県で震度6弱 津波の心配なし",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015161091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015161091_2606262246_0626224757_01_02.jpg",
+      "datePublished": "2026-06-27T00:14:25+09:00"
+    },
+    {
+      "name": "山梨 震度6弱 専門家「周辺でたびたび地震 降雨で崖崩れ心配」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015162071000",
+      "thumbnailUrl": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png",
+      "datePublished": "2026-06-26T23:24:37+09:00"
+    },
+    {
+      "name": "山梨県で震度6弱 専門家「富士山の活動と関係なしか」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015162001000",
+      "thumbnailUrl": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png",
+      "datePublished": "2026-06-26T22:58:38+09:00"
+    },
+    {
+      "name": "【最新の地震情報】各地の震度・震源を詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/earthquake/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30060617.jpg"
+    },
+    {
+      "name": "地震発生 その時どう行動する!?",
+      "url": "https://news.web.nhk/newsweb/na/nc-790dbe02-3696-4956-b2ac-83401a4f8f5b",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045984.jpg"
+    },
+    {
+      "name": "地震マップ 最新の震度分布・震源をリアルタイム更新",
+      "url": "https://news.web.nhk/bousai-map/earthquake/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31036920.jpg"
+    },
+    {
+      "name": "地震動予測地図 震度６弱以上 各地のリスク",
+      "url": "https://news.web.nhk/newsweb/na/nc-04b01a9b-a30f-46c5-af92-bd6f205a005f",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045805.jpg"
+    },
+    {
+      "name": "災害時の偽情報や誤情報に注意 拡散で命にかかわるリスクも",
+      "url": "https://news.web.nhk/newsweb/na/nc-b777764c-a841-41c5-8a78-0b496adee8d9",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045938.jpg"
+    },
+    {
+      "name": "NHKONE防災 災害リスク・備えをまとめて",
+      "url": "https://news.web.nhk/newsweb/sp/pl/editorial-nwa-0000000132",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30066327.jpg"
+    },
+    {
+      "name": "天気防災サイト あなたの街の天気予報や災害情報を即時提供",
+      "url": "https://news.web.nhk/kishou-saigai/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037196.jpg"
+    },
+    {
+      "name": "天気防災マップ ふだんの雨雲予想から災害時のリスク情報まで",
+      "url": "https://news.web.nhk/bousai-map/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037154.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": true
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015161951000",
+  "dataSourceId": "na",
+  "name": "東海道新幹線 運転見合わせ 上り豊橋～東京・下り東京～名古屋",
+  "headline": "東海道新幹線 運転見合わせ 上り豊橋～東京・下り東京～名古屋",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015161951000",
+    "playlistId": "news-nwa-disaster-nationwide-20260627",
+    "newsarticleName": "東海道新幹線 運転見合わせ 上り豊橋～東京・下り東京～名古屋",
+    "playlistName": "6月27日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "JR東海によりますと、地震の影響で東海道新幹線は\n▽上りが愛知県の豊橋駅と東京駅の間、\n▽下りが東京駅と名古屋駅の間で運転を見合わせているということです。\n\n運転再開は午前0時50分ごろを見込んでいる",
+  "dateModified": "2026-06-27T00:37:40+09:00",
+  "datePublished": "2026-06-26T22:50:55+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260626/K10015161951_2606262248_0626225055_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260626/K10015161951_2606262248_0626225055_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002427",
+      "name": "鉄道",
+      "display": true
+    },
+    {
+      "id": "0002683",
+      "name": "交通・インフラ",
+      "display": true
+    },
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0002213",
+      "name": "東京都",
+      "display": true
+    },
+    {
+      "id": "0002223",
+      "name": "愛知県",
+      "display": true
+    },
+    {
+      "id": "0002222",
+      "name": "静岡県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "JR東海によりますと、地震の影響で東海道新幹線は\n▽上りが愛知県の豊橋駅と東京駅の間、\n▽下りが東京駅と名古屋駅の間で運転を見合わせているということです。\n\n運転再開は午前0時50分ごろを見込んでいる",
+  "articleBody": "JR東海によりますと、地震の影響で東海道新幹線は\n▽上りが愛知県の豊橋駅と東京駅の間、\n▽下りが東京駅と名古屋駅の間で運転を見合わせているということです。\n\n運転再開は午前0時50分ごろを見込んでいるということです。\n\n\n東北・上越・北陸新幹線 一時見合わせも運転再開\n\nJR東日本によりますと、東北新幹線と上越新幹線、北陸新幹線は地震による安全確認のため一部の区間で一時運転を見合わせましたが、午後10時45分にいずれも運転を再開しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "JR東海によりますと、地震の影響で東海道新幹線は\\\n▽上りが愛知県の豊橋駅と東京駅の間、\\\n▽下りが東京駅と名古屋駅の間で運転を見合わせているということです。\n\n運転再開は午前0時50分ごろを見込んでいるということです。\n",
+    "markedBody": "### 東北・上越・北陸新幹線 一時見合わせも運転再開\n\nJR東日本によりますと、東北新幹線と上越新幹線、北陸新幹線は地震による安全確認のため一部の区間で一時運転を見合わせましたが、午後10時45分にいずれも運転を再開しました。\n",
+    "trimmedLead": "JR東海によりますと、地震の影響で東海道新幹線は\n▽上りが愛知県の豊橋駅と東京駅の間、\n▽下りが東京駅と名古屋駅の間で運転を見合わせているということです。\n\n運転再開は午前0時50分ごろを見込んでいるということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015161951000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015161951000",
+  "video": [],
+  "citation": [
+    {
+      "name": "【地震速報】山梨県で震度6弱 津波の心配なし",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015161091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015161091_2606262246_0626224757_01_02.jpg",
+      "datePublished": "2026-06-27T00:14:25+09:00"
+    },
+    {
+      "name": "【映像】山梨で震度6弱 地震発生時 各地の揺れの様子",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015162011000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015162011_2606270001_0627000548_01_03.jpg",
+      "datePublished": "2026-06-27T00:05:47+09:00"
+    },
+    {
+      "name": "山梨 震度6弱 専門家「周辺でたびたび地震 降雨で崖崩れ心配」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015162071000",
+      "thumbnailUrl": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png",
+      "datePublished": "2026-06-26T23:24:37+09:00"
+    },
+    {
+      "name": "【被害まとめ】山梨で震度6弱 各地の被害状況は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015161971000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015161971_2606262355_0626235755_01_02.jpg",
+      "datePublished": "2026-06-27T00:31:32+09:00"
+    },
+    {
+      "name": "山梨県のニュース・深掘り記事",
+      "url": "https://www3.nhk.or.jp/news/word/0002219.html",
+      "thumbnailUrl": "https://news.web.nhk/news/special/lnews/tag-page/images/19_Yamanashi_TMB.jpg"
+    },
+    {
+      "name": "地震発生 その時どう行動する!?",
+      "url": "https://news.web.nhk/newsweb/na/nc-790dbe02-3696-4956-b2ac-83401a4f8f5b",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045984.jpg"
+    },
+    {
+      "name": "【最新の地震情報】各地の震度・震源を詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/earthquake/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30060617.jpg"
+    },
+    {
+      "name": "地震マップ 最新の震度分布・震源をリアルタイム更新",
+      "url": "https://news.web.nhk/bousai-map/earthquake/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31036920.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
