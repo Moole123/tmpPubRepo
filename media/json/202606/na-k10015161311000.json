@@ -1,0 +1,182 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015161311000",
+  "dataSourceId": "na",
+  "name": "陸自のUSBにマルウエア 小泉防衛相「システムに影響なし」",
+  "headline": "陸自のUSBにマルウエア 小泉防衛相「システムに影響なし」",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015161311000",
+    "playlistId": "news-nwa-politics-nationwide-20260626",
+    "newsarticleName": "陸自のUSBにマルウエア 小泉防衛相「システムに影響なし」",
+    "playlistName": "6月26日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "小泉防衛大臣は、去年、陸上自衛隊で使用していたUSBメモリーにマルウエア＝悪意を持ったプログラムが含まれていたことを明らかにした上で「システムへの影響はなかったと報告を受けている」と述べました。\n\n\n",
+  "dateModified": "2026-06-26T15:30:24+09:00",
+  "datePublished": "2026-06-26T15:30:24+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260626/K10015161311_2606261435_0626153025_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260626/K10015161311_2606261435_0626153025_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0000947",
+      "name": "防衛省・自衛隊",
+      "display": true
+    },
+    {
+      "id": "0002684",
+      "name": "防衛",
+      "display": true
+    },
+    {
+      "id": "0000325",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "0002519",
+      "name": "能登半島地震",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "小泉防衛大臣は、去年、陸上自衛隊で使用していたUSBメモリーにマルウエア＝悪意を持ったプログラムが含まれていたことを明らかにした上で「システムへの影響はなかったと報告を受けている」と述べました。\n\n\n",
+  "articleBody": "小泉防衛大臣は、去年、陸上自衛隊で使用していたUSBメモリーにマルウエア＝悪意を持ったプログラムが含まれていたことを明らかにした上で「システムへの影響はなかったと報告を受けている」と述べました。\n\n\n小泉防衛大臣は閣議のあとの記者会見で、去年2月に陸上自衛隊中部方面総監部が保有するUSBメモリーにマルウエアが含まれていることを検知した事例があったと明らかにしました。\n\nこのマルウエアは情報を盗み取ったり、外部への通信を行ったりするものではなく、USBメモリーを接続したシステムへの拡散は見られなかったということで、「陸上自衛隊のシステムへの影響はなかったと報告を受けている」と述べました。\n\n一方、USBメモリーの使用にあたり、ウイルスチェックを行って安全性を確認する規則が順守されていなかったことは問題だったという認識を示し、「現在はウイルスチェックの実施を徹底している」と述べました。\n\nUSBメモリーは能登半島地震の対応の際に物品登録され、使用していたということで、自衛隊は取得の経緯について調査を進めています。\n",
+  "detailedArticleBody": {
+    "markedLead": "小泉防衛大臣は、去年、陸上自衛隊で使用していたUSBメモリーにマルウエア＝悪意を持ったプログラムが含まれていたことを明らかにした上で「システムへの影響はなかったと報告を受けている」と述べました。\n",
+    "markedBody": "小泉防衛大臣は閣議のあとの記者会見で、去年2月に陸上自衛隊中部方面総監部が保有するUSBメモリーにマルウエアが含まれていることを検知した事例があったと明らかにしました。\n\nこのマルウエアは情報を盗み取ったり、外部への通信を行ったりするものではなく、USBメモリーを接続したシステムへの拡散は見られなかったということで、「陸上自衛隊のシステムへの影響はなかったと報告を受けている」と述べました。\n\n一方、USBメモリーの使用にあたり、ウイルスチェックを行って安全性を確認する規則が順守されていなかったことは問題だったという認識を示し、「現在はウイルスチェックの実施を徹底している」と述べました。\n\nUSBメモリーは能登半島地震の対応の際に物品登録され、使用していたということで、自衛隊は取得の経緯について調査を進めています。\n",
+    "trimmedLead": "小泉防衛大臣は、去年、陸上自衛隊で使用していたUSBメモリーにマルウエア＝悪意を持ったプログラムが含まれていたことを明らかにした上で「システムへの影響はなかったと報告を受けている」と述べました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015161311000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015161311000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "陸自のUSBにマルウエア 小泉防衛相「システムに影響なし」",
+      "description": "小泉防衛大臣は、去年、陸上自衛隊で使用していたUSBメモリーにマルウエア＝悪意を持ったプログラムが含まれていたことを明らかにした上で「システムへの影響はなかったと報告を受けている」と述べました。\n\n\n",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015161311_202606261545_202606261546/index.m3u8&mrposter=/news/html/20260626/K10015161311_2606261435_0626153025_01_02.jpg",
+      "duration": "PT38S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015161311_202606261545_202606261546/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260626/K10015161311_2606261435_0626153025_01_02.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "「航空宇宙自衛隊」に改編 改正防衛省設置法が成立 参院本会議",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015160941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015160941_2606261157_0626131522_01_02.jpg",
+      "datePublished": "2026-06-26T13:15:21+09:00"
+    },
+    {
+      "name": "特定秘密 新たに66件指定 2025年の運用状況の報告書が閣議決定",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015160821000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015160821_2606261035_0626105255_01_02.jpg",
+      "datePublished": "2026-06-26T10:52:54+09:00"
+    },
+    {
+      "name": "北朝鮮 キム総書記 韓国首都圏を射程の兵器発射実験を視察",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015161041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015161041_2606261317_0626135237_01_02.jpg",
+      "datePublished": "2026-06-26T13:52:36+09:00"
+    },
+    {
+      "name": "九州北部など土砂災害に厳重警戒 台風7号 8号接近 備えを",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015160621000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015160621_2606261417_0626141829_01_02.jpg",
+      "datePublished": "2026-06-26T15:06:57+09:00"
+    },
+    {
+      "name": "【大雨 台風】大阪 柏原で車水没 奈良で男性水路に転落し骨折",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015160731000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015160731_2606261020_0626105122_01_02.jpg",
+      "datePublished": "2026-06-26T15:15:44+09:00"
+    },
+    {
+      "name": "ベネズエラの地震 首都などで被害深刻 各国支援本格化",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015160971000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015160971_2606261229_0626134320_01_03.jpg",
+      "datePublished": "2026-06-26T13:43:19+09:00"
+    },
+    {
+      "name": "求められる女性役員の登用",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015160901000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015160901_2606261126_0626132639_01_02.jpg",
+      "datePublished": "2026-06-26T13:26:37+09:00"
+    },
+    {
+      "name": "日本代表の次戦は “サッカー王国” ブラジル どんなチーム？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015160851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015160851_2606261345_0626142839_01_02.jpg",
+      "datePublished": "2026-06-26T14:28:38+09:00"
+    },
+    {
+      "name": "W杯 日本は引き分け グループ2位で決勝トーナメントへ【詳報】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015160411000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015160411_2606261150_0626115853_01_02.jpg",
+      "datePublished": "2026-06-26T15:22:50+09:00"
+    },
+    {
+      "name": "FIFAワールドカップ2026【NHK特設サイト】",
+      "url": "https://nhk.jp/fifawc?cid=wc26-newsweb-awayomi",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31365091.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

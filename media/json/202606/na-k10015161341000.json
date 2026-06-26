@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015161341000",
+  "dataSourceId": "na",
+  "name": "日産自動車 60万台余をリコール「ノート」など3車種",
+  "headline": "日産自動車 60万台余をリコール「ノート」など3車種",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015161341000",
+    "playlistId": "news-nwa-society-nationwide-20260626",
+    "newsarticleName": "日産自動車 60万台余をリコール「ノート」など3車種",
+    "playlistName": "6月26日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "日産自動車は、「ノート」など3車種、60万台余りのリコールを国土交通省に届け出ました。リチウムイオンバッテリーの制御装置のプログラムに不備があり、最悪の場合、走行中にモーターへの出力が停止して、走行で",
+  "dateModified": "2026-06-26T15:29:13+09:00",
+  "datePublished": "2026-06-26T15:29:13+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260626/K10015161341_2606261512_0626152914_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260626/K10015161341_2606261512_0626152914_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0002417",
+      "name": "自動車",
+      "display": true
+    },
+    {
+      "id": "0002409",
+      "name": "国土交通省",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "日産自動車は、「ノート」など3車種、60万台余りのリコールを国土交通省に届け出ました。リチウムイオンバッテリーの制御装置のプログラムに不備があり、最悪の場合、走行中にモーターへの出力が停止して、走行で",
+  "articleBody": "日産自動車は、「ノート」など3車種、60万台余りのリコールを国土交通省に届け出ました。リチウムイオンバッテリーの制御装置のプログラムに不備があり、最悪の場合、走行中にモーターへの出力が停止して、走行できなくなるおそれがあるということです。\n\n\nリコールの届け出があったのは、2020年11月からことし4月までに製造された、日産自動車の「ノート」と「ノート オーラ」、「エクストレイル」の3車種あわせて60万595台です。\n\n国土交通省によりますとこれらの車では、リチウムイオンバッテリーの制御装置のプログラムに不備があり、最悪の場合、走行中にモーターへの出力が停止して、走行できなくなるおそれがあるということです。\n\nこれまでに不具合の情報が452件あり、このうち1件では、高速道路で走行できなくなり路肩に停車した際に後続車が接触した物損事故が起きているということです。\n\n日産は26日から全国の販売店で無料でプログラムの書き換えを行っています。\n",
+  "detailedArticleBody": {
+    "markedLead": "日産自動車は、「ノート」など3車種、60万台余りのリコールを国土交通省に届け出ました。リチウムイオンバッテリーの制御装置のプログラムに不備があり、最悪の場合、走行中にモーターへの出力が停止して、走行できなくなるおそれがあるということです。\n",
+    "markedBody": "リコールの届け出があったのは、2020年11月からことし4月までに製造された、日産自動車の「ノート」と「ノート オーラ」、「エクストレイル」の3車種あわせて60万595台です。\n\n国土交通省によりますとこれらの車では、リチウムイオンバッテリーの制御装置のプログラムに不備があり、最悪の場合、走行中にモーターへの出力が停止して、走行できなくなるおそれがあるということです。\n\nこれまでに不具合の情報が452件あり、このうち1件では、高速道路で走行できなくなり路肩に停車した際に後続車が接触した物損事故が起きているということです。\n\n日産は26日から全国の販売店で無料でプログラムの書き換えを行っています。\n",
+    "trimmedLead": "日産自動車は、「ノート」など3車種、60万台余りのリコールを国土交通省に届け出ました。リチウムイオンバッテリーの制御装置のプログラムに不備があり、最悪の場合、走行中にモーターへの出力が停止して、走行できなくなるおそれがあるということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015161341000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015161341000",
+  "video": [],
+  "citation": [
+    {
+      "name": "九州北部など土砂災害に厳重警戒 台風7号 8号接近 備えを",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015160621000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015160621_2606261417_0626141829_01_02.jpg",
+      "datePublished": "2026-06-26T15:06:57+09:00"
+    },
+    {
+      "name": "京都 鴨川 高野川と大阪 寝屋川流域に氾濫危険警報 厳重警戒を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015160661000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015160661_2606260707_0626071136_01_03.jpg",
+      "datePublished": "2026-06-26T07:11:35+09:00"
+    },
+    {
+      "name": "熊本 大分に線状降水帯直前予測 各地レベル4危険警報 厳重警戒",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015158771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260625/K10015158771_2606260122_0626012316_01_03.jpg",
+      "datePublished": "2026-06-26T01:23:15+09:00"
+    },
+    {
+      "name": "【大雨 台風】大阪 柏原で車水没 奈良で男性水路に転落し骨折",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015160731000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015160731_2606261020_0626105122_01_02.jpg",
+      "datePublished": "2026-06-26T15:15:44+09:00"
+    },
+    {
+      "name": "東海道新幹線 27日 運転見合わせや運休の可能性 台風接近で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015160181000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260625/K10015160181_2606251840_0625184756_01_02.jpg",
+      "datePublished": "2026-06-25T18:47:55+09:00"
+    },
+    {
+      "name": "ベネズエラ M7超地震 首都周辺被害深刻も全容不明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015160641000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015160641_2606260600_0626060836_01_02.jpg",
+      "datePublished": "2026-06-26T09:01:42+09:00"
+    },
+    {
+      "name": "W杯 日本は引き分け グループ2位で決勝トーナメントへ【詳報】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015160411000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015160411_2606261150_0626115853_01_02.jpg",
+      "datePublished": "2026-06-26T15:22:50+09:00"
+    },
+    {
+      "name": "FIFAワールドカップ2026【NHK特設サイト】",
+      "url": "https://nhk.jp/fifawc?cid=wc26-newsweb-awayomi",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31365091.jpg"
+    },
+    {
+      "name": "俳優の村上虹郎さんを傷害疑いで書類送検 交際相手に暴行か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015160771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015160771_2606260831_0626083622_01_02.jpg",
+      "datePublished": "2026-06-26T08:36:21+09:00"
+    },
+    {
+      "name": "ホルムズ海峡めぐり「通航料など拒否」 米と湾岸諸国が声明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015160631000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015160631_2606260528_0626053946_01_02.jpg",
+      "datePublished": "2026-06-26T12:07:47+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
