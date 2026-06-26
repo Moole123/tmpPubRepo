@@ -1,0 +1,160 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015160821000",
+  "dataSourceId": "na",
+  "name": "特定秘密 新たに66件指定 2025年の運用状況の報告書が閣議決定",
+  "headline": "特定秘密 新たに66件指定 2025年の運用状況の報告書が閣議決定",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015160821000",
+    "playlistId": "news-nwa-politics-nationwide-20260626",
+    "newsarticleName": "特定秘密 新たに66件指定 2025年の運用状況の報告書が閣議決定",
+    "playlistName": "6月26日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "特定秘密保護法の去年1年間の運用状況をまとめた政府の報告書が閣議決定されました。新たに66件の情報を特定秘密に指定した一方、指定の解除はありませんでした。\n\n\n26日、閣議決定された報告書では新たに6",
+  "dateModified": "2026-06-26T10:52:54+09:00",
+  "datePublished": "2026-06-26T10:52:54+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260626/K10015160821_2606261035_0626105255_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260626/K10015160821_2606261035_0626105255_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0000947",
+      "name": "防衛省・自衛隊",
+      "display": true
+    },
+    {
+      "id": "0002398",
+      "name": "外務省",
+      "display": true
+    },
+    {
+      "id": "0002687",
+      "name": "警察庁",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "特定秘密保護法の去年1年間の運用状況をまとめた政府の報告書が閣議決定されました。新たに66件の情報を特定秘密に指定した一方、指定の解除はありませんでした。\n\n\n26日、閣議決定された報告書では新たに6",
+  "articleBody": "特定秘密保護法の去年1年間の運用状況をまとめた政府の報告書が閣議決定されました。新たに66件の情報を特定秘密に指定した一方、指定の解除はありませんでした。\n\n\n26日、閣議決定された報告書では新たに66件の情報を特定秘密に指定したとしています。\n\n一方、指定の有効期間が満了したものや、指定の解除はありませんでした。\n\nこの結果、特定秘密に指定されている情報は去年末の時点で854件となりました。\n\nこのうち、防衛省が493件と最も多く、次いで、内閣官房が132件、警察庁が64件、外務省が46件などとなりました。\n\nまた、内閣官房で特定秘密の文書の不適正な保管が判明したほか、防衛省で適性評価の有効期限が切れた職員に特定秘密を扱わせていた事案や、特定秘密のデータを添付したメールの誤送信などが判明したことも盛り込まれました。\n\n内閣官房から関係省庁に対して、再発防止の取り組みを徹底するよう改めて指示したということです。\n\n報告書は国会に提出され、衆参両院の情報監視審査会で審査が行われます。\n",
+  "detailedArticleBody": {
+    "markedLead": "特定秘密保護法の去年1年間の運用状況をまとめた政府の報告書が閣議決定されました。新たに66件の情報を特定秘密に指定した一方、指定の解除はありませんでした。\n",
+    "markedBody": "26日、閣議決定された報告書では新たに66件の情報を特定秘密に指定したとしています。\n\n一方、指定の有効期間が満了したものや、指定の解除はありませんでした。\n\nこの結果、特定秘密に指定されている情報は去年末の時点で854件となりました。\n\nこのうち、防衛省が493件と最も多く、次いで、内閣官房が132件、警察庁が64件、外務省が46件などとなりました。\n\nまた、内閣官房で特定秘密の文書の不適正な保管が判明したほか、防衛省で適性評価の有効期限が切れた職員に特定秘密を扱わせていた事案や、特定秘密のデータを添付したメールの誤送信などが判明したことも盛り込まれました。\n\n内閣官房から関係省庁に対して、再発防止の取り組みを徹底するよう改めて指示したということです。\n\n報告書は国会に提出され、衆参両院の情報監視審査会で審査が行われます。\n",
+    "trimmedLead": "特定秘密保護法の去年1年間の運用状況をまとめた政府の報告書が閣議決定されました。新たに66件の情報を特定秘密に指定した一方、指定の解除はありませんでした。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015160821000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015160821000",
+  "video": [],
+  "citation": [
+    {
+      "name": "近畿 中国 九州 土砂災害に厳重警戒 台風7号 8号接近 備えを",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015160621000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015160621_2606261148_0626120613_01_02.jpg",
+      "datePublished": "2026-06-26T12:22:31+09:00"
+    },
+    {
+      "name": "京都 鴨川 高野川と大阪 寝屋川流域に氾濫危険警報 厳重警戒を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015160661000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015160661_2606260707_0626071136_01_03.jpg",
+      "datePublished": "2026-06-26T07:11:35+09:00"
+    },
+    {
+      "name": "熊本 大分に線状降水帯直前予測 各地レベル4危険警報 厳重警戒",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015158771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260625/K10015158771_2606260122_0626012316_01_03.jpg",
+      "datePublished": "2026-06-26T01:23:15+09:00"
+    },
+    {
+      "name": "東海道新幹線 27日 運転見合わせや運休の可能性 台風接近で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015160181000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260625/K10015160181_2606251840_0625184756_01_02.jpg",
+      "datePublished": "2026-06-25T18:47:55+09:00"
+    },
+    {
+      "name": "W杯 日本は引き分け グループ2位で決勝トーナメントへ【詳報】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015160411000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015160411_2606261150_0626115853_01_02.jpg",
+      "datePublished": "2026-06-26T12:28:35+09:00"
+    },
+    {
+      "name": "皇位継承 皇室典範改正案の要綱 国会の付帯決議を前提に了承",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015159941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260625/K10015159941_2606251851_0625190515_01_02.jpg",
+      "datePublished": "2026-06-25T22:42:37+09:00"
+    },
+    {
+      "name": "危険運転致死傷罪を適用する数値基準盛り込んだ改正法が成立",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015159701000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260625/K10015159701_2606251436_0625145912_01_02.jpg",
+      "datePublished": "2026-06-25T19:21:08+09:00"
+    },
+    {
+      "name": "ベネズエラでM7超の地震2回 164人が死亡 暫定大統領が発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015159041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260625/K10015159041_2606250937_0625094301_01_02.jpg",
+      "datePublished": "2026-06-25T19:48:06+09:00"
+    },
+    {
+      "name": "W杯 スウェーデン戦 森保監督“勝利のためベストメンバーで”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015158901000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260625/K10015158901_2606250654_0625073151_01_02.jpg",
+      "datePublished": "2026-06-25T11:15:50+09:00"
+    },
+    {
+      "name": "FIFAワールドカップ2026【NHK特設サイト】",
+      "url": "https://nhk.jp/fifawc?cid=wc26-newsweb-awayomi",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31365091.jpg"
+    },
+    {
+      "name": "W杯 日本代表 決勝トーナメント進出した場合 いつ試合？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015159721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260625/K10015159721_2606251832_0625185458_01_02.jpg",
+      "datePublished": "2026-06-25T19:22:58+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
