@@ -1,0 +1,159 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015162351000",
+  "dataSourceId": "na",
+  "name": "山梨 震度6弱の地震 10人けが 総務省消防庁（午前6時時点）",
+  "headline": "山梨 震度6弱の地震 10人けが 総務省消防庁（午前6時時点）",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015162351000",
+    "playlistId": "news-nwa-disaster-nationwide-20260627",
+    "newsarticleName": "山梨 震度6弱の地震 10人けが 総務省消防庁（午前6時時点）",
+    "playlistName": "6月27日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "総務省消防庁のまとめによりますと、山梨県で震度6弱の揺れを観測した地震で27日午前6時時点で、山梨県などで合わせて10人が軽いけがをしたことが確認されているということです。\n\nけがをしたのは山梨県で8",
+  "dateModified": "2026-06-27T09:09:14+09:00",
+  "datePublished": "2026-06-27T09:09:14+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260627/K10015162351_2606270859_0627090915_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260627/K10015162351_2606270859_0627090915_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0002219",
+      "name": "山梨県",
+      "display": true
+    },
+    {
+      "id": "0002214",
+      "name": "神奈川県",
+      "display": true
+    },
+    {
+      "id": "0002222",
+      "name": "静岡県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "総務省消防庁のまとめによりますと、山梨県で震度6弱の揺れを観測した地震で27日午前6時時点で、山梨県などで合わせて10人が軽いけがをしたことが確認されているということです。\n\nけがをしたのは山梨県で8",
+  "articleBody": "総務省消防庁のまとめによりますと、山梨県で震度6弱の揺れを観測した地震で27日午前6時時点で、山梨県などで合わせて10人が軽いけがをしたことが確認されているということです。\n\nけがをしたのは山梨県で8人、神奈川県と静岡県でそれぞれ1人です。\n\n\nこのほか、東京都内でも6人が軽いけがをしているという報告が消防からあり、詳細を確認しているということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "総務省消防庁のまとめによりますと、山梨県で震度6弱の揺れを観測した地震で27日午前6時時点で、山梨県などで合わせて10人が軽いけがをしたことが確認されているということです。\n\nけがをしたのは山梨県で8人、神奈川県と静岡県でそれぞれ1人です。\n",
+    "markedBody": "このほか、東京都内でも6人が軽いけがをしているという報告が消防からあり、詳細を確認しているということです。\n",
+    "trimmedLead": "総務省消防庁のまとめによりますと、山梨県で震度6弱の揺れを観測した地震で27日午前6時時点で、山梨県などで合わせて10人が軽いけがをしたことが確認されているということです。\n\nけがをしたのは山梨県で8人、神奈川県と静岡県でそれぞれ1人です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015162351000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015162351000",
+  "video": [],
+  "citation": [
+    {
+      "name": "米軍“イラン軍事施設を攻撃” 前日の貨物船への攻撃受け",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015162291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260627/K10015162291_2606270850_0627085226_01_03.jpg",
+      "datePublished": "2026-06-27T10:05:43+09:00"
+    },
+    {
+      "name": "2つの台風 相次ぎ接近 総雨量多くなるおそれ 土砂災害厳重警戒",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015160621000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015160621_2606270457_0627052910_01_03.jpg",
+      "datePublished": "2026-06-27T05:29:09+09:00"
+    },
+    {
+      "name": "山口 平生町 住宅の裏山崩れ1人行方不明 3人けが",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015162131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260627/K10015162131_2606270643_0627064608_01_02.jpg",
+      "datePublished": "2026-06-27T06:49:09+09:00"
+    },
+    {
+      "name": "【大雨 台風】大阪 柏原で車水没 奈良で男性水路に転落し骨折",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015160731000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015160731_2606261020_0626105122_01_02.jpg",
+      "datePublished": "2026-06-26T19:24:45+09:00"
+    },
+    {
+      "name": "山梨県で最大震度6弱 “1週間程度は同程度の地震に注意”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015161091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015161091_2606262246_0626224757_01_02.jpg",
+      "datePublished": "2026-06-27T04:05:45+09:00"
+    },
+    {
+      "name": "【Q＆A】山梨県で震度6弱 ポイントを専門家に聞く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015162181000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260627/K10015162181_2606270311_0627031829_01_02.jpg",
+      "datePublished": "2026-06-27T03:18:29+09:00"
+    },
+    {
+      "name": "山梨県で震度6弱「1週間程度 震度6弱程度の地震に注意」気象庁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015161941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015161941_2606270046_0627004922_01_02.jpg",
+      "datePublished": "2026-06-27T01:44:51+09:00"
+    },
+    {
+      "name": "定数削減法案 与党職権で審議入り 野党応じない方針で対立",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015161771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260627/K10015161771_2606262336_0627051341_01_02.jpg",
+      "datePublished": "2026-06-27T05:13:40+09:00"
+    },
+    {
+      "name": "FIFAワールドカップ2026【NHK特設サイト】",
+      "url": "https://nhk.jp/fifawc?cid=wc26-newsweb-awayomi",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31365091.jpg"
+    },
+    {
+      "name": "W杯 日本 次戦はブラジル グループ2位で決勝トーナメントへ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015160411000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015160411_2606261150_0626115853_01_02.jpg",
+      "datePublished": "2026-06-26T20:48:04+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
