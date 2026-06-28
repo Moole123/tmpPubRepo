@@ -1,0 +1,160 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015163311000",
+  "dataSourceId": "na",
+  "name": "ロシアとベラルーシが首脳会談 軍事侵攻めぐり圧力との報道も",
+  "headline": "ロシアとベラルーシが首脳会談 軍事侵攻めぐり圧力との報道も",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015163311000",
+    "playlistId": "news-nwa-international-nationwide-20260629",
+    "newsarticleName": "ロシアとベラルーシが首脳会談 軍事侵攻めぐり圧力との報道も",
+    "playlistName": "6月29日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "ロシア国営タス通信は、26日から2日間にわたりプーチン大統領とベラルーシのルカシェンコ大統領が会談し経済協力や安全保障などについて協議したと伝えました。ベラルーシをめぐっては、ロシアがウクライナに対す",
+  "dateModified": "2026-06-29T05:57:57+09:00",
+  "datePublished": "2026-06-29T05:57:57+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260629/K10015163311_2606290338_0629055758_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260629/K10015163311_2606290338_0629055758_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0001600",
+      "name": "ロシア",
+      "display": true
+    },
+    {
+      "id": "0002749",
+      "name": "ベラルーシ",
+      "display": true
+    },
+    {
+      "id": "0002379",
+      "name": "プーチン大統領",
+      "display": true
+    },
+    {
+      "id": "0002039",
+      "name": "ウクライナ情勢",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ロシア国営タス通信は、26日から2日間にわたりプーチン大統領とベラルーシのルカシェンコ大統領が会談し経済協力や安全保障などについて協議したと伝えました。ベラルーシをめぐっては、ロシアがウクライナに対す",
+  "articleBody": "ロシア国営タス通信は、26日から2日間にわたりプーチン大統領とベラルーシのルカシェンコ大統領が会談し経済協力や安全保障などについて協議したと伝えました。ベラルーシをめぐっては、ロシアがウクライナに対する軍事侵攻への協力を強化するよう圧力をかけていると報じられています。\n\n\nロシア国営タス通信によりますと、プーチン大統領とベラルーシのルカシェンコ大統領は26日と27日に北西部ノブゴロド州にある大統領公邸で会談し、経済協力や安全保障について協議したということです。\n\nベラルーシをめぐってはアメリカの有力紙、ウォール・ストリート・ジャーナルが今月23日、ロシアがウクライナに対する軍事侵攻への協力を強化するよう圧力をかけているとロシアなどの複数の当局者の話として報じました。\n\nロシア大統領府はこの報道を否定しましたが、ウクライナのゼレンスキー大統領はこのところベラルーシ側の動きに警戒感を示していて、25日にもSNSに「国境沿いでは、弾薬や燃料の備蓄基地など軍事インフラの整備が進められている」と投稿し、ベラルーシをけん制しています。\n\nベラルーシのルカシェンコ大統領は25日、ロシアの立場を支持するとしつつ、「ウクライナ人と戦うつもりはない」と述べていて、今後の動きが注目されています。\n",
+  "detailedArticleBody": {
+    "markedLead": "ロシア国営タス通信は、26日から2日間にわたりプーチン大統領とベラルーシのルカシェンコ大統領が会談し経済協力や安全保障などについて協議したと伝えました。ベラルーシをめぐっては、ロシアがウクライナに対する軍事侵攻への協力を強化するよう圧力をかけていると報じられています。\n",
+    "markedBody": "ロシア国営タス通信によりますと、プーチン大統領とベラルーシのルカシェンコ大統領は26日と27日に北西部ノブゴロド州にある大統領公邸で会談し、経済協力や安全保障について協議したということです。\n\nベラルーシをめぐってはアメリカの有力紙、ウォール・ストリート・ジャーナルが今月23日、ロシアがウクライナに対する軍事侵攻への協力を強化するよう圧力をかけているとロシアなどの複数の当局者の話として報じました。\n\nロシア大統領府はこの報道を否定しましたが、ウクライナのゼレンスキー大統領はこのところベラルーシ側の動きに警戒感を示していて、25日にもSNSに「国境沿いでは、弾薬や燃料の備蓄基地など軍事インフラの整備が進められている」と投稿し、ベラルーシをけん制しています。\n\nベラルーシのルカシェンコ大統領は25日、ロシアの立場を支持するとしつつ、「ウクライナ人と戦うつもりはない」と述べていて、今後の動きが注目されています。\n",
+    "trimmedLead": "ロシア国営タス通信は、26日から2日間にわたりプーチン大統領とベラルーシのルカシェンコ大統領が会談し経済協力や安全保障などについて協議したと伝えました。ベラルーシをめぐっては、ロシアがウクライナに対する軍事侵攻への協力を強化するよう圧力をかけていると報じられています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015163311000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015163311000",
+  "video": [],
+  "citation": [
+    {
+      "name": "中国とロシアの爆撃機 日本周辺を共同飛行 防衛省が警戒と監視",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015162781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260628/K10015162781_2606280119_0628065859_01_02.jpg",
+      "datePublished": "2026-06-28T06:58:58+09:00"
+    },
+    {
+      "name": "米イラン双方が攻撃 互いに停戦合意違反を非難し情勢不安定",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015162921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260628/K10015162921_2606281926_0628194009_01_03.jpg",
+      "datePublished": "2026-06-28T19:06:55+09:00"
+    },
+    {
+      "name": "小泉防衛相訪韓 未来志向的な防衛協力の発展へ意思疎通で一致",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015163121000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260628/K10015163121_2606281521_0628153337_01_02.jpg",
+      "datePublished": "2026-06-28T22:56:04+09:00"
+    },
+    {
+      "name": "アメリカ建国250年 トランプ大統領主導の公共工事が物議",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015162961000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260628/K10015162961_2606281509_0628193203_01_03.jpg",
+      "datePublished": "2026-06-28T19:32:02+09:00"
+    },
+    {
+      "name": "ヨーロッパで猛暑続く ドイツなどで最高気温更新 死者相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015163151000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260628/K10015163151_2606281538_0628154825_01_02.jpg",
+      "datePublished": "2026-06-28T15:48:24+09:00"
+    },
+    {
+      "name": "サッカーW杯 ユニフォームランキング 日本代表アウェー用2位に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015163161000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260628/K10015163161_2606281531_0628153448_01_02.jpg",
+      "datePublished": "2026-06-28T15:34:48+09:00"
+    },
+    {
+      "name": "ベネズエラ地震 死者1430人 救助は時間との闘いに",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015162791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260628/K10015162791_2606281215_0628121621_01_03.jpg",
+      "datePublished": "2026-06-28T11:45:34+09:00"
+    },
+    {
+      "name": "日米韓 北朝鮮のサイバー活動への対応を協議",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015162911000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260628/K10015162911_2606280931_0628100026_01_02.jpg",
+      "datePublished": "2026-06-28T10:00:25+09:00"
+    },
+    {
+      "name": "タイ・カンボジア国境閉鎖1年 日本企業に影響も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015160951000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015160951_2606261140_0626125140_01_02.jpg",
+      "datePublished": "2026-06-26T12:51:39+09:00"
+    },
+    {
+      "name": "サグラダ・ファミリア “輝く十字架”はどう生まれたのか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015158321000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260628/K10015158321_2606241552_0628084141_01_02.jpg",
+      "datePublished": "2026-06-28T08:41:40+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
