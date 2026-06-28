@@ -1,0 +1,143 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015162881000",
+  "dataSourceId": "na",
+  "name": "青森 八戸 25日の地震で被害のビル 市が新たな被害ないか確認",
+  "headline": "青森 八戸 25日の地震で被害のビル 市が新たな被害ないか確認",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015162881000",
+    "playlistId": "news-nwa-disaster-nationwide-20260628",
+    "newsarticleName": "青森 八戸 25日の地震で被害のビル 市が新たな被害ないか確認",
+    "playlistName": "6月28日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "震度5弱の揺れを観測した青森県八戸市は、25日の地震で中心部にある複数のビルの外壁の一部が崩落するなどの被害を受けていて、28日朝の地震を受けて市の担当者が新たな被害がないか確認していました。\n\n\n八",
+  "dateModified": "2026-06-28T10:36:38+09:00",
+  "datePublished": "2026-06-28T10:36:38+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260628/K10015162881_2606281029_0628103639_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260628/K10015162881_2606281029_0628103639_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0002202",
+      "name": "青森県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "震度5弱の揺れを観測した青森県八戸市は、25日の地震で中心部にある複数のビルの外壁の一部が崩落するなどの被害を受けていて、28日朝の地震を受けて市の担当者が新たな被害がないか確認していました。\n\n\n八",
+  "articleBody": "震度5弱の揺れを観測した青森県八戸市は、25日の地震で中心部にある複数のビルの外壁の一部が崩落するなどの被害を受けていて、28日朝の地震を受けて市の担当者が新たな被害がないか確認していました。\n\n\n八戸市中心部の複数のビルでは25日の地震で外壁の一部が崩れ落ちる被害があり、今もビルの脇の駐車場で広い範囲にがれきが散らばり、立ち入りが規制されています。\n\n28日朝の地震を受けて28日午前7時ごろ、市の担当者がこれらのビルを訪れ新たな被害がないか確認し、担当者によりますと、今のところ新たな被害は確認されていないということです。\n\nこのうちのビルの1階に入る生花店を経営する70代の女性は「自宅がガタガタと揺れて『またか』と思い、店が心配になってビルの様子を見に来ました。大きな変化はなく店内も無事でしたが、今後のことが心配です」と話していました。\n\n市の担当者は「老朽化している建物が多くあり、ビルの管理者に、がれきの回収など、なるべく早く働きかけをしていきたい」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "震度5弱の揺れを観測した青森県八戸市は、25日の地震で中心部にある複数のビルの外壁の一部が崩落するなどの被害を受けていて、28日朝の地震を受けて市の担当者が新たな被害がないか確認していました。\n",
+    "markedBody": "八戸市中心部の複数のビルでは25日の地震で外壁の一部が崩れ落ちる被害があり、今もビルの脇の駐車場で広い範囲にがれきが散らばり、立ち入りが規制されています。\n\n28日朝の地震を受けて28日午前7時ごろ、市の担当者がこれらのビルを訪れ新たな被害がないか確認し、担当者によりますと、今のところ新たな被害は確認されていないということです。\n\nこのうちのビルの1階に入る生花店を経営する70代の女性は「自宅がガタガタと揺れて『またか』と思い、店が心配になってビルの様子を見に来ました。大きな変化はなく店内も無事でしたが、今後のことが心配です」と話していました。\n\n市の担当者は「老朽化している建物が多くあり、ビルの管理者に、がれきの回収など、なるべく早く働きかけをしていきたい」と話していました。\n",
+    "trimmedLead": "震度5弱の揺れを観測した青森県八戸市は、25日の地震で中心部にある複数のビルの外壁の一部が崩落するなどの被害を受けていて、28日朝の地震を受けて市の担当者が新たな被害がないか確認していました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015162881000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015162881000",
+  "video": [],
+  "citation": [
+    {
+      "name": "【地震情報】青森県 岩手県で震度5弱 今後1週間程度 注意を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015162811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260628/K10015162811_2606281003_0628100424_01_03.jpg",
+      "datePublished": "2026-06-28T12:43:24+09:00"
+    },
+    {
+      "name": "東北・上越・北陸新幹線 始発から平常どおり運行予定",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015162851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260628/K10015162851_2606280609_0628061035_01_02.jpg",
+      "datePublished": "2026-06-28T06:15:58+09:00"
+    },
+    {
+      "name": "山梨の震度6弱地震 地震調査委“同程度の規模の地震に注意を”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015162751000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260628/K10015162751_2606272301_0628065218_01_02.jpg",
+      "datePublished": "2026-06-28T06:52:17+09:00"
+    },
+    {
+      "name": "ベネズエラ地震 死者1430人 救助は時間との闘いに",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015162791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260628/K10015162791_2606281215_0628121621_01_03.jpg",
+      "datePublished": "2026-06-28T11:45:34+09:00"
+    },
+    {
+      "name": "アメリカとイラン 双方が攻撃主張 協議の先行き見通せず",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015162801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260628/K10015162801_2606280352_0628051401_01_02.jpg",
+      "datePublished": "2026-06-28T08:10:01+09:00"
+    },
+    {
+      "name": "W杯 日本 次戦はブラジル グループ2位で決勝トーナメントへ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015160411000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015160411_2606261150_0626115853_01_02.jpg",
+      "datePublished": "2026-06-26T20:48:04+09:00"
+    },
+    {
+      "name": "「ボイスフィッシング」か 不正送金が相次ぎ約13億円被害",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015162761000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260628/K10015162761_2606272321_0628051714_01_02.jpg",
+      "datePublished": "2026-06-28T05:17:13+09:00"
+    },
+    {
+      "name": "「養豚場が…」「お寺が…」火災で根拠ない情報拡散 何が？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015158371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260627/K10015158371_2606261910_0627174901_01_02.jpg",
+      "datePublished": "2026-06-27T17:49:00+09:00"
+    },
+    {
+      "name": "FIFAワールドカップ2026【NHK特設サイト】",
+      "url": "https://nhk.jp/fifawc?cid=wc26-newsweb-awayomi",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31365091.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

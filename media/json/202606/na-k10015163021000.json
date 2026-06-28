@@ -1,0 +1,173 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015163021000",
+  "dataSourceId": "na",
+  "name": "秋田 潟上 住宅1棟全焼し2人死亡 住人の高齢夫婦と連絡取れず",
+  "headline": "秋田 潟上 住宅1棟全焼し2人死亡 住人の高齢夫婦と連絡取れず",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015163021000",
+    "playlistId": "news-nwa-society-nationwide-20260628",
+    "newsarticleName": "秋田 潟上 住宅1棟全焼し2人死亡 住人の高齢夫婦と連絡取れず",
+    "playlistName": "6月28日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "28日早朝、秋田県潟上市で、住宅1棟が全焼する火事があり、男女2人が死亡しました。警察によりますと、この家に住む高齢の夫婦と連絡が取れていないということで、警察が身元の確認を進めています。\n\n\n28日",
+  "dateModified": "2026-06-28T12:50:35+09:00",
+  "datePublished": "2026-06-28T12:50:35+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260628/K10015163021_2606281221_0628125035_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260628/K10015163021_2606281221_0628125035_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002689",
+      "name": "火災",
+      "display": true
+    },
+    {
+      "id": "0002205",
+      "name": "秋田県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "28日早朝、秋田県潟上市で、住宅1棟が全焼する火事があり、男女2人が死亡しました。警察によりますと、この家に住む高齢の夫婦と連絡が取れていないということで、警察が身元の確認を進めています。\n\n\n28日",
+  "articleBody": "28日早朝、秋田県潟上市で、住宅1棟が全焼する火事があり、男女2人が死亡しました。警察によりますと、この家に住む高齢の夫婦と連絡が取れていないということで、警察が身元の確認を進めています。\n\n\n28日午前5時前、潟上市天王で、住宅から火が出ていると近くの住民から消防に通報がありました。\n\n警察と消防によりますと、火は、およそ7時間後に消し止められましたが、木造一部2階建ての住宅1棟が全焼しました。\n\n警察によりますと、現場からは、女性1人の遺体が見つかり、男性1人が意識のない状態で救助されましたが、搬送先の病院で死亡が確認されました。\n\nこの家には高齢の夫婦が住んでいて、火事のあと、夫婦と連絡が取れていないということで、警察が身元の確認を進めるとともに、火事の原因を詳しく調べることにしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "28日早朝、秋田県潟上市で、住宅1棟が全焼する火事があり、男女2人が死亡しました。警察によりますと、この家に住む高齢の夫婦と連絡が取れていないということで、警察が身元の確認を進めています。\n",
+    "markedBody": "28日午前5時前、潟上市天王で、住宅から火が出ていると近くの住民から消防に通報がありました。\n\n警察と消防によりますと、火は、およそ7時間後に消し止められましたが、木造一部2階建ての住宅1棟が全焼しました。\n\n警察によりますと、現場からは、女性1人の遺体が見つかり、男性1人が意識のない状態で救助されましたが、搬送先の病院で死亡が確認されました。\n\nこの家には高齢の夫婦が住んでいて、火事のあと、夫婦と連絡が取れていないということで、警察が身元の確認を進めるとともに、火事の原因を詳しく調べることにしています。\n",
+    "trimmedLead": "28日早朝、秋田県潟上市で、住宅1棟が全焼する火事があり、男女2人が死亡しました。警察によりますと、この家に住む高齢の夫婦と連絡が取れていないということで、警察が身元の確認を進めています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015163021000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015163021000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "秋田 潟上 住宅1棟全焼し2人死亡 住人の高齢夫婦と連絡取れず",
+      "description": "28日早朝、秋田県潟上市で、住宅1棟が全焼する火事があり、男女2人が死亡しました。警察によりますと、この家に住む高齢の夫婦と連絡が取れていないということで、警察が身元の確認を進めています。\n\n\n28日",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015163021_202606281319_202606281319/index.m3u8&mrposter=/news/html/20260628/K10015163021_2606281221_0628125035_01_02.jpg",
+      "duration": "PT44S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015163021_202606281319_202606281319/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260628/K10015163021_2606281221_0628125035_01_02.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "東京 北区の小学校火事を受け 文部科学省が安全対策徹底を通知",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015161051000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015161051_2606261318_0626142705_01_02.jpg",
+      "datePublished": "2026-06-26T14:27:04+09:00"
+    },
+    {
+      "name": "島根 出雲 商店街火事 20棟ほど焼けたか 発生から丸1日で鎮火",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015157651000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260623/K10015157651_2606240605_0624135905_01_03.jpg",
+      "datePublished": "2026-06-24T20:52:59+09:00"
+    },
+    {
+      "name": "【地震情報】青森県 岩手県で震度5弱 今後1週間程度 注意を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015162811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260628/K10015162811_2606281003_0628100424_01_03.jpg",
+      "datePublished": "2026-06-28T12:43:24+09:00"
+    },
+    {
+      "name": "山梨 震度6弱の富士河口湖町で気象庁の機動調査班が現地調査",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015163001000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260628/K10015163001_2606281145_0628120126_01_02.jpg",
+      "datePublished": "2026-06-28T12:01:26+09:00"
+    },
+    {
+      "name": "山梨の震度6弱地震 地震調査委“同程度の規模の地震に注意を”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015162751000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260628/K10015162751_2606272301_0628065218_01_02.jpg",
+      "datePublished": "2026-06-28T06:52:17+09:00"
+    },
+    {
+      "name": "【1分解説】モバイルバッテリー 移動中の充電 どうすれば？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015154641000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260624/K10015154641_2606241149_0624141908_01_03.jpg",
+      "datePublished": "2026-06-24T14:19:07+09:00"
+    },
+    {
+      "name": "ベネズエラ地震 死者1430人 救助は時間との闘いに",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015162791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260628/K10015162791_2606281215_0628121621_01_03.jpg",
+      "datePublished": "2026-06-28T11:45:34+09:00"
+    },
+    {
+      "name": "歌手で俳優の美輪明宏さん死去「ヨイトマケの唄」など知られる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015162931000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260628/K10015162931_2606281011_0628103205_01_02.jpg",
+      "datePublished": "2026-06-28T15:22:32+09:00"
+    },
+    {
+      "name": "W杯 日本代表 ブラジル戦に向け調整後 決戦の地へ移動",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015162861000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260628/K10015162861_2606281208_0628120925_01_03.jpg",
+      "datePublished": "2026-06-28T12:09:24+09:00"
+    },
+    {
+      "name": "豪 16歳未満のSNS禁止法 規制を強化へ 罰金 最大110億円余に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015162771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260628/K10015162771_2606272353_0628070105_01_02.jpg",
+      "datePublished": "2026-06-28T07:01:04+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
