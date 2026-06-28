@@ -96,7 +96,30 @@
   },
   "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015163151000.json",
   "canonical": "https://news.web.nhk/newsweb/na/na-k10015163151000",
-  "video": [],
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "ヨーロッパで猛暑続く ドイツなどで最高気温更新 死者相次ぐ",
+      "description": "ヨーロッパでは、記録的な熱波の影響で厳しい暑さが続いていて、このうちドイツでは、最高気温が観測史上もっとも高い40度を超えました。フランスの首都パリでは、暑さが原因とみられる死者が相次ぐなど被害も広が",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015163151_202606281933_202606281933/index.m3u8&mrposter=/news/html/20260628/K10015163151_2606281538_0628154825_01_02.jpg",
+      "duration": "PT1M49S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015163151_202606281933_202606281933/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260628/K10015163151_2606281538_0628154825_01_02.jpg"
+    }
+  ],
   "citation": [
     {
       "name": "パリ 公共の場での飲酒禁止 欧州で記録的熱波の影響広がる",
@@ -113,7 +136,7 @@
     {
       "name": "米イラン双方が攻撃 互いに停戦合意違反を非難し情勢不安定",
       "url": "https://news.web.nhk/newsweb/na/na-k10015162921000",
-      "thumbnailUrl": "https://news.web.nhk/news/html/20260628/K10015162921_2606281006_0628101005_01_03.jpg",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260628/K10015162921_2606281926_0628194009_01_03.jpg",
       "datePublished": "2026-06-28T19:06:55+09:00"
     },
     {

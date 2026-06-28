@@ -36,12 +36,12 @@
   },
   "image": {
     "icon": {
-      "url": "https://imgu.web.nhk/news/u/news/html/20260628/K10015162921_2606281006_0628101005_02_01.jpg",
+      "url": "https://imgu.web.nhk/news/u/news/html/20260628/K10015162921_2606281926_0628194009_02_01.jpg",
       "height": 360,
       "width": 640
     },
     "medium": {
-      "url": "https://imgu.web.nhk/news/u/news/html/20260628/K10015162921_2606281006_0628101005_01_03.jpg",
+      "url": "https://imgu.web.nhk/news/u/news/html/20260628/K10015162921_2606281926_0628194009_01_03.jpg",
       "height": 720,
       "width": 1280
     }
@@ -91,15 +91,15 @@
       "type": "VideoObject",
       "name": "米イラン双方が攻撃 互いに停戦合意違反を非難し情勢不安定",
       "description": "アメリカが、2日連続でイラン国内の軍事施設などを攻撃したと発表したのに対し、イラン側も、クウェートやバーレーンにあるアメリカ軍基地を攻撃したと主張しました。双方は覚書に署名したあと、相手が停戦合意に違",
-      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015162921_202606281217_202606281218/index.m3u8&mrposter=/news/html/20260628/K10015162921_2606281006_0628101005_01_03.jpg",
-      "duration": "PT1M29S",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index_r.html?mrurl=https://media.vd.st.nhk/news/r/k10015162921_202606281927_202606281927/index.m3u8&mrposter=/news/html/20260628/K10015162921_2606281926_0628194009_01_03.jpg",
+      "duration": "PT1M35S",
       "identifierGroup": {
         "environmentId": "newsWeb",
         "streamType": "newsWeb"
       },
       "detailedContent": [
         {
-          "contentUrl": "https://media.vd.st.nhk/news/k10015162921_202606281217_202606281218/index.m3u8",
+          "contentUrl": "https://media.vd.st.nhk/news/r/k10015162921_202606281927_202606281927/index.m3u8",
           "encodingFormat": [
             "video/MP2T",
             "vnd.apple.mpegURL"
@@ -107,7 +107,7 @@
           "name": "hls"
         }
       ],
-      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260628/K10015162921_2606281006_0628101005_01_03.jpg"
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260628/K10015162921_2606281926_0628194009_01_03.jpg"
     }
   ],
   "citation": [
@@ -170,7 +170,7 @@
     "detailFlg": true,
     "tokusyuFlg": false,
     "geoblockImageFlg": false,
-    "geoblockVideoFlg": false,
+    "geoblockVideoFlg": true,
     "rawHtmlFlg": false
   }
 }
