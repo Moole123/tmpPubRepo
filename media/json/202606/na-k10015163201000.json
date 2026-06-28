@@ -1,0 +1,167 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015163201000",
+  "dataSourceId": "na",
+  "name": "大阪 東淀川区 プラスチック製品など製造する会社で火事 近くのマンションにも火が移る",
+  "headline": "大阪 東淀川区 プラスチック製品など製造する会社で火事",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015163201000",
+    "playlistId": "news-nwa-society-nationwide-20260628",
+    "newsarticleName": "大阪 東淀川区 プラスチック製品など製造する会社で火事 近くのマンションにも火が移る",
+    "playlistName": "6月28日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "28日夕方、大阪市のプラスチック製品などを製造する会社で火事があり、近くのマンションにも火が移っていて、現場では消火活動が続いています。\n\n\n28日午後5時半ごろ、大阪 東淀川区にある強化プラスチック",
+  "dateModified": "2026-06-28T18:35:05+09:00",
+  "datePublished": "2026-06-28T18:35:05+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260628/K10015163201_2606281824_0628183506_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260628/K10015163201_2606281824_0628183506_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002227",
+      "name": "大阪府",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "28日夕方、大阪市のプラスチック製品などを製造する会社で火事があり、近くのマンションにも火が移っていて、現場では消火活動が続いています。\n\n\n28日午後5時半ごろ、大阪 東淀川区にある強化プラスチック",
+  "articleBody": "28日夕方、大阪市のプラスチック製品などを製造する会社で火事があり、近くのマンションにも火が移っていて、現場では消火活動が続いています。\n\n\n28日午後5時半ごろ、大阪 東淀川区にある強化プラスチック製品などを製造している会社から火が出ていると消防に通報がありました。\n\n消防によりますと、現在も消火活動が続いていて、近くのマンションにも火が移っているということです。\n\nこれまでのところ、けが人や逃げ遅れの情報は入っていないということです。\n\nNHKのヘリから撮影した映像では、会社とみられる場所から大量の黒い煙が上がっているほか、隣接するマンションの5階付近にも炎や煙が見えます。\n",
+  "detailedArticleBody": {
+    "markedLead": "28日夕方、大阪市のプラスチック製品などを製造する会社で火事があり、近くのマンションにも火が移っていて、現場では消火活動が続いています。\n",
+    "markedBody": "28日午後5時半ごろ、大阪 東淀川区にある強化プラスチック製品などを製造している会社から火が出ていると消防に通報がありました。\n\n消防によりますと、現在も消火活動が続いていて、近くのマンションにも火が移っているということです。\n\nこれまでのところ、けが人や逃げ遅れの情報は入っていないということです。\n\nNHKのヘリから撮影した映像では、会社とみられる場所から大量の黒い煙が上がっているほか、隣接するマンションの5階付近にも炎や煙が見えます。\n",
+    "trimmedLead": "28日夕方、大阪市のプラスチック製品などを製造する会社で火事があり、近くのマンションにも火が移っていて、現場では消火活動が続いています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015163201000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015163201000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "大阪 東淀川区 プラスチック製品など製造する会社で火事",
+      "description": "28日夕方、大阪市のプラスチック製品などを製造する会社で火事があり、近くのマンションにも火が移っていて、現場では消火活動が続いています。\n\n\n28日午後5時半ごろ、大阪 東淀川区にある強化プラスチック",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015163201_202606281902_202606281902/index.m3u8&mrposter=/news/html/20260628/K10015163201_2606281824_0628183506_01_02.jpg",
+      "duration": "PT44S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015163201_202606281902_202606281902/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260628/K10015163201_2606281824_0628183506_01_02.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "歌手で俳優の美輪明宏さん死去「ヨイトマケの唄」など知られる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015162931000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260628/K10015162931_2606281011_0628103205_01_02.jpg",
+      "datePublished": "2026-06-28T18:53:57+09:00"
+    },
+    {
+      "name": "北辰一刀流 千葉周作の生誕地“気仙沼”史料発見 論争終止符か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015162871000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260628/K10015162871_2606281605_0628163008_01_02.jpg",
+      "datePublished": "2026-06-28T16:30:07+09:00"
+    },
+    {
+      "name": "サッカーＷ杯 ベスト32出そろう アジア勢が苦戦 躍進と波乱も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015163171000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260628/K10015163171_2606281626_0628170705_01_02.jpg",
+      "datePublished": "2026-06-28T17:07:04+09:00"
+    },
+    {
+      "name": "小泉防衛相訪韓 未来志向的な防衛協力の発展へ意思疎通で一致",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015163121000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260628/K10015163121_2606281521_0628153337_01_02.jpg",
+      "datePublished": "2026-06-28T18:51:54+09:00"
+    },
+    {
+      "name": "【地震情報】青森県 岩手県で震度5弱 今後1週間程度 注意を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015162811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260628/K10015162811_2606281003_0628100424_01_03.jpg",
+      "datePublished": "2026-06-28T12:43:24+09:00"
+    },
+    {
+      "name": "東北・上越・北陸新幹線 始発から平常どおり運行予定",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015162851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260628/K10015162851_2606280609_0628061035_01_02.jpg",
+      "datePublished": "2026-06-28T06:15:58+09:00"
+    },
+    {
+      "name": "ベネズエラ地震 死者1430人 救助は時間との闘いに",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015162791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260628/K10015162791_2606281215_0628121621_01_03.jpg",
+      "datePublished": "2026-06-28T11:45:34+09:00"
+    },
+    {
+      "name": "「ボイスフィッシング」か 不正送金が相次ぎ約13億円被害",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015162761000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260628/K10015162761_2606272321_0628051714_01_02.jpg",
+      "datePublished": "2026-06-28T05:17:13+09:00"
+    },
+    {
+      "name": "「養豚場が…」「お寺が…」火災で根拠ない情報拡散 何が？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015158371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260627/K10015158371_2606261910_0627174901_01_02.jpg",
+      "datePublished": "2026-06-27T17:49:00+09:00"
+    },
+    {
+      "name": "FIFAワールドカップ2026【NHK特設サイト】",
+      "url": "https://nhk.jp/fifawc?cid=wc26-newsweb-awayomi",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31365091.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

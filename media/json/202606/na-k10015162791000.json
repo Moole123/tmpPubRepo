@@ -82,15 +82,15 @@
       "type": "VideoObject",
       "name": "ベネズエラ地震 死者1430人 救助は時間との闘いに",
       "description": "南米ベネズエラで24日に2度発生したマグニチュード7を超える地震では、これまでに1430人の死亡が確認されました。各国からの救助隊の活動も本格化していますが、生存率が急激に下がるとされる地震の発生から",
-      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015162791_202606281215_202606281216/index.m3u8&mrposter=/news/html/20260628/K10015162791_2606281215_0628121621_01_03.jpg",
-      "duration": "PT1M5S",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015162791_202606281921_202606281921/index.m3u8&mrposter=/news/html/20260628/K10015162791_2606281215_0628121621_01_03.jpg",
+      "duration": "PT2M32S",
       "identifierGroup": {
         "environmentId": "newsWeb",
         "streamType": "newsWeb"
       },
       "detailedContent": [
         {
-          "contentUrl": "https://media.vd.st.nhk/news/k10015162791_202606281215_202606281216/index.m3u8",
+          "contentUrl": "https://media.vd.st.nhk/news/k10015162791_202606281921_202606281921/index.m3u8",
           "encodingFormat": [
             "video/MP2T",
             "vnd.apple.mpegURL"
