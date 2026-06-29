@@ -1,0 +1,156 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015164301000",
+  "dataSourceId": "na",
+  "name": "NYダウ平均株価 終値で初の5万2000ドル台 大手IT中心に買い",
+  "headline": "NYダウ平均株価 終値で初の5万2000ドル台 大手IT中心に買い",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015164301000",
+    "playlistId": "news-nwa-business-nationwide-20260630",
+    "newsarticleName": "NYダウ平均株価 終値で初の5万2000ドル台 大手IT中心に買い",
+    "playlistName": "6月30日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "29日のニューヨーク株式市場では、このところ売られていた大手ITなどの銘柄を中心に買い戻しの動きが広がり、ダウ平均株価は先週末から300ドルあまり値上がりして、終値として初めて5万2000ドル台に乗せ",
+  "dateModified": "2026-06-30T06:35:17+09:00",
+  "datePublished": "2026-06-30T06:35:17+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260630/K10015164301_2606300623_0630063518_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260630/K10015164301_2606300623_0630063518_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済",
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0002370",
+      "name": "ニューヨーク",
+      "display": true
+    },
+    {
+      "id": "0002423",
+      "name": "金融",
+      "display": true
+    },
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "29日のニューヨーク株式市場では、このところ売られていた大手ITなどの銘柄を中心に買い戻しの動きが広がり、ダウ平均株価は先週末から300ドルあまり値上がりして、終値として初めて5万2000ドル台に乗せ",
+  "articleBody": "29日のニューヨーク株式市場では、このところ売られていた大手ITなどの銘柄を中心に買い戻しの動きが広がり、ダウ平均株価は先週末から300ドルあまり値上がりして、終値として初めて5万2000ドル台に乗せました。\n\n\n29日のニューヨーク株式市場ではこの日からダウ平均株価に採用されたグーグルの親会社の「アルファベット」をはじめ、このところ売られていた大手ITなどの銘柄を中心に買い戻しの動きが広がりました。\n\nダウ平均株価の終値は先週末と比べて306ドル63セント高い、5万2182ドル74セントとなり、終値として初めて5万2000ドル台に乗せました。\n\nハイテク株の比率が高いナスダックの株価指数も520ポイントあまり、率にしておよそ2％の大幅な上昇となりました。\n",
+  "detailedArticleBody": {
+    "markedLead": "29日のニューヨーク株式市場では、このところ売られていた大手ITなどの銘柄を中心に買い戻しの動きが広がり、ダウ平均株価は先週末から300ドルあまり値上がりして、終値として初めて5万2000ドル台に乗せました。\n",
+    "markedBody": "29日のニューヨーク株式市場ではこの日からダウ平均株価に採用されたグーグルの親会社の「アルファベット」をはじめ、このところ売られていた大手ITなどの銘柄を中心に買い戻しの動きが広がりました。\n\nダウ平均株価の終値は先週末と比べて306ドル63セント高い、5万2182ドル74セントとなり、終値として初めて5万2000ドル台に乗せました。\n\nハイテク株の比率が高いナスダックの株価指数も520ポイントあまり、率にしておよそ2％の大幅な上昇となりました。\n",
+    "trimmedLead": "29日のニューヨーク株式市場では、このところ売られていた大手ITなどの銘柄を中心に買い戻しの動きが広がり、ダウ平均株価は先週末から300ドルあまり値上がりして、終値として初めて5万2000ドル台に乗せました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015164301000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015164301000",
+  "video": [],
+  "citation": [
+    {
+      "name": "円相場 一時1ドル＝161円90銭台後半 約39年半ぶりの円安水準に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015164231000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260629/K10015164231_2606300508_0630052953_01_02.jpg",
+      "datePublished": "2026-06-30T05:29:52+09:00"
+    },
+    {
+      "name": "トランプ大統領「30日にドーハでイランと協議」イラン側は否定",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015164111000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260630/K10015164111_2606300613_0630063202_01_02.jpg",
+      "datePublished": "2026-06-30T06:32:02+09:00"
+    },
+    {
+      "name": "米連邦最高裁判所 トランプ大統領によるFRB理事解任は無効",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015164241000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260629/K10015164241_2606292332_0629233907_01_02.jpg",
+      "datePublished": "2026-06-30T05:31:55+09:00"
+    },
+    {
+      "name": "高市首相 1日からインド訪問 経済安保やAIで成果文書調整",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015164091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260630/K10015164091_2606300041_0630052531_01_02.jpg",
+      "datePublished": "2026-06-30T05:25:30+09:00"
+    },
+    {
+      "name": "パキスタンがアフガニスタン攻撃 対立の激化懸念",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015163981000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260629/K10015163981_2606291819_0629194612_01_02.jpg",
+      "datePublished": "2026-06-29T19:46:11+09:00"
+    },
+    {
+      "name": "プーチン大統領 ウクライナ側からの新提案 「注意深く検討」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015163661000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260629/K10015163661_2606291310_0629133146_01_03.jpg",
+      "datePublished": "2026-06-29T13:31:45+09:00"
+    },
+    {
+      "name": "ヨーロッパ 記録的熱波 “例年より1300人以上多く死亡” WHO",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015163731000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260629/K10015163731_2606291442_0629145623_01_02.jpg",
+      "datePublished": "2026-06-29T14:56:22+09:00"
+    },
+    {
+      "name": "ベネズエラ地震から4日 1450人の死亡確認 救助活動続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015163301000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260629/K10015163301_2606290448_0629054941_01_02.jpg",
+      "datePublished": "2026-06-29T18:13:51+09:00"
+    },
+    {
+      "name": "タイ・カンボジア国境閉鎖1年 日本企業に影響も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015160951000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015160951_2606261140_0626125140_01_02.jpg",
+      "datePublished": "2026-06-26T12:51:39+09:00"
+    },
+    {
+      "name": "サグラダ・ファミリア “輝く十字架”はどう生まれたのか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015158321000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260628/K10015158321_2606241552_0628084141_01_02.jpg",
+      "datePublished": "2026-06-28T08:41:40+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
