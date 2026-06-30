@@ -1,0 +1,154 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015165311000",
+  "dataSourceId": "na",
+  "name": "1ドル＝162円台後半に値下がり 日米の金利差拡大などで",
+  "headline": "1ドル＝162円台後半に値下がり 日米の金利差拡大などで",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015165311000",
+    "playlistId": "news-nwa-business-nationwide-20260701",
+    "newsarticleName": "1ドル＝162円台後半に値下がり 日米の金利差拡大などで",
+    "playlistName": "7月1日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "30日のニューヨーク外国為替市場では円を売ってドルを買う動きが進み、円相場は一時、1ドル＝162円台後半まで値下がりしました。およそ39年半ぶりの円安ドル高水準で、アメリカのFRB＝連邦準備制度理事会",
+  "dateModified": "2026-07-01T06:15:59+09:00",
+  "datePublished": "2026-07-01T06:15:59+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260701/K10015165311_2607010355_0701061600_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260701/K10015165311_2607010355_0701061600_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済",
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0002423",
+      "name": "金融",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "0002760",
+      "name": "金利",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "30日のニューヨーク外国為替市場では円を売ってドルを買う動きが進み、円相場は一時、1ドル＝162円台後半まで値下がりしました。およそ39年半ぶりの円安ドル高水準で、アメリカのFRB＝連邦準備制度理事会",
+  "articleBody": "30日のニューヨーク外国為替市場では円を売ってドルを買う動きが進み、円相場は一時、1ドル＝162円台後半まで値下がりしました。およそ39年半ぶりの円安ドル高水準で、アメリカのFRB＝連邦準備制度理事会による利上げ観測を背景に日米の金利差の拡大などが意識されています。\n\n\n円相場は30日の東京外国為替市場で1ドル＝162円台をつけたあとも円を売ってドルを買う動きが進み、30日のニューヨーク市場では一時、1ドル＝162円台後半まで値下がりしました。\n\nこれは1986年12月以来、およそ39年半ぶりの円安ドル高水準です。\n\nこの日に発表されたアメリカのことし5月の求人件数が市場予想を上回り雇用が堅調との受け止めから、投資家の間ではFRBが年内に利上げに踏み切るとの観測が一段と強まりました。\n\nまた片山財務大臣の発言から政府・日銀による市場介入への警戒感がいくぶん後退したことなどで円売り・ドル買いの動きにつながっています。\n\n市場関係者は「これまではFRBの利上げ観測を背景にしたドル買いの要素が強かったが、日銀の利上げペースが不透明との見方や政府・日銀が市場介入に踏み切るのは当面、難しいとの受け止めが投資家の間で出るなかで円売りの要素も徐々に強まってきている」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "30日のニューヨーク外国為替市場では円を売ってドルを買う動きが進み、円相場は一時、1ドル＝162円台後半まで値下がりしました。およそ39年半ぶりの円安ドル高水準で、アメリカのFRB＝連邦準備制度理事会による利上げ観測を背景に日米の金利差の拡大などが意識されています。\n",
+    "markedBody": "円相場は30日の東京外国為替市場で1ドル＝162円台をつけたあとも円を売ってドルを買う動きが進み、30日のニューヨーク市場では一時、1ドル＝162円台後半まで値下がりしました。\n\nこれは1986年12月以来、およそ39年半ぶりの円安ドル高水準です。\n\nこの日に発表されたアメリカのことし5月の求人件数が市場予想を上回り雇用が堅調との受け止めから、投資家の間ではFRBが年内に利上げに踏み切るとの観測が一段と強まりました。\n\nまた片山財務大臣の発言から政府・日銀による市場介入への警戒感がいくぶん後退したことなどで円売り・ドル買いの動きにつながっています。\n\n市場関係者は「これまではFRBの利上げ観測を背景にしたドル買いの要素が強かったが、日銀の利上げペースが不透明との見方や政府・日銀が市場介入に踏み切るのは当面、難しいとの受け止めが投資家の間で出るなかで円売りの要素も徐々に強まってきている」と話しています。\n",
+    "trimmedLead": "30日のニューヨーク外国為替市場では円を売ってドルを買う動きが進み、円相場は一時、1ドル＝162円台後半まで値下がりしました。およそ39年半ぶりの円安ドル高水準で、アメリカのFRB＝連邦準備制度理事会による利上げ観測を背景に日米の金利差の拡大などが意識されています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015165311000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015165311000",
+  "video": [],
+  "citation": [
+    {
+      "name": "記録的水準の円安 今後は？暮らしはどうなる？【詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015164771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260630/K10015164771_2606301812_0630185941_01_02.jpg",
+      "datePublished": "2026-06-30T19:30:17+09:00"
+    },
+    {
+      "name": "一から分かるQ＆A　円安なぜ？今の経済に見合う円相場は？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015163571000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260630/K10015163571_2606301649_0630190958_01_02.jpg",
+      "datePublished": "2026-06-30T19:09:57+09:00"
+    },
+    {
+      "name": "米「出生地主義」見直しの大統領令 連邦最高裁が認めない判断",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015165281000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260701/K10015165281_2606302243_0701002256_01_02.jpg",
+      "datePublished": "2026-07-01T04:39:32+09:00"
+    },
+    {
+      "name": "「骨太の方針」の原案 強い経済実現向け国内投資拡大打ち出す",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015165041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260630/K10015165041_2606301845_0630192937_01_02.jpg",
+      "datePublished": "2026-06-30T20:46:18+09:00"
+    },
+    {
+      "name": "USJ 発売後も入場券の価格が変動する制度導入へ 9月入場分から",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015165091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260630/K10015165091_2606302015_0630202904_01_02.jpg",
+      "datePublished": "2026-06-30T20:29:03+09:00"
+    },
+    {
+      "name": "【詳しく】国旗損壊罪法案 衆院本会議で可決 全野党が欠席",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015164511000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260630/K10015164511_2606301308_0630133429_01_02.jpg",
+      "datePublished": "2026-06-30T18:29:54+09:00"
+    },
+    {
+      "name": "皇族数確保に向けた皇室典範改正案 閣議決定し国会提出 政府",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015164681000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260630/K10015164681_2606301724_0630173451_01_02.jpg",
+      "datePublished": "2026-06-30T19:45:20+09:00"
+    },
+    {
+      "name": "自分の選択か やむを得ずか 住人の本音は？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015152261000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260629/K10015152261_2606291042_0629153016_01_02.jpg",
+      "datePublished": "2026-06-29T15:30:15+09:00"
+    },
+    {
+      "name": "FIFAワールドカップ2026【NHK特設サイト】",
+      "url": "https://nhk.jp/fifawc?cid=wc26-newsweb-awayomi",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31365091.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
