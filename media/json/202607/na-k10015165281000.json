@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015165281000",
+  "dataSourceId": "na",
+  "name": "米「出生地主義」見直しの大統領令 連邦最高裁が認めない判断",
+  "headline": "米「出生地主義」見直しの大統領令 連邦最高裁が認めない判断",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015165281000",
+    "playlistId": "news-nwa-international-nationwide-20260701",
+    "newsarticleName": "米「出生地主義」見直しの大統領令 連邦最高裁が認めない判断",
+    "playlistName": "7月1日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "アメリカで生まれた子どもに国籍を与える「出生地主義」を見直すとしてトランプ大統領が署名した大統領令について、連邦最高裁判所は30日、認めないとする判断を示しました。\n\n\nアメリカに不法に滞在、あるいは",
+  "dateModified": "2026-07-01T00:22:56+09:00",
+  "datePublished": "2026-07-01T00:22:56+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260701/K10015165281_2606302243_0701002256_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260701/K10015165281_2606302243_0701002256_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "0000277",
+      "name": "トランプ大統領",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "アメリカで生まれた子どもに国籍を与える「出生地主義」を見直すとしてトランプ大統領が署名した大統領令について、連邦最高裁判所は30日、認めないとする判断を示しました。\n\n\nアメリカに不法に滞在、あるいは",
+  "articleBody": "アメリカで生まれた子どもに国籍を与える「出生地主義」を見直すとしてトランプ大統領が署名した大統領令について、連邦最高裁判所は30日、認めないとする判断を示しました。\n\n\nアメリカに不法に滞在、あるいは一時的に滞在している両親の間に生まれた子でも、アメリカの憲法に基づいて生まれたときから市民権を持つとしています。\n\n「出生地主義」の見直しは、トランプ政権が進める移民政策の重要な柱となっていただけに政権にとっては打撃となりそうです。\n\nトランプ大統領は去年1月、アメリカで生まれた子どもには両親の国籍にかかわらず原則としてアメリカ国籍を与える「出生地主義」を見直すとして大統領令に署名し、これに対して憲法に違反するとして訴えが起こされていました。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカで生まれた子どもに国籍を与える「出生地主義」を見直すとしてトランプ大統領が署名した大統領令について、連邦最高裁判所は30日、認めないとする判断を示しました。\n",
+    "markedBody": "アメリカに不法に滞在、あるいは一時的に滞在している両親の間に生まれた子でも、アメリカの憲法に基づいて生まれたときから市民権を持つとしています。\n\n「出生地主義」の見直しは、トランプ政権が進める移民政策の重要な柱となっていただけに政権にとっては打撃となりそうです。\n\nトランプ大統領は去年1月、アメリカで生まれた子どもには両親の国籍にかかわらず原則としてアメリカ国籍を与える「出生地主義」を見直すとして大統領令に署名し、これに対して憲法に違反するとして訴えが起こされていました。\n",
+    "trimmedLead": "アメリカで生まれた子どもに国籍を与える「出生地主義」を見直すとしてトランプ大統領が署名した大統領令について、連邦最高裁判所は30日、認めないとする判断を示しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015165281000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015165281000",
+  "video": [],
+  "citation": [
+    {
+      "name": "米最高裁 FTC＝連邦取引委員会委員の解任 大統領の権限を容認",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015164501000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260630/K10015164501_2606301115_0630122404_01_02.jpg",
+      "datePublished": "2026-06-30T12:24:03+09:00"
+    },
+    {
+      "name": "米連邦最高裁判所 トランプ大統領によるFRB理事解任は無効",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015164241000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260629/K10015164241_2606292332_0629233907_01_02.jpg",
+      "datePublished": "2026-06-30T05:31:55+09:00"
+    },
+    {
+      "name": "欧州の記録的熱波 東欧などにも影響広がる 国際機関が警告",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015164841000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260630/K10015164841_2606301530_0630155243_01_02.jpg",
+      "datePublished": "2026-06-30T15:52:42+09:00"
+    },
+    {
+      "name": "ゼレンスキー大統領 “プーチン氏 停戦向けた提案拒否の認識”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015165021000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260630/K10015165021_2606301837_0630191737_01_02.jpg",
+      "datePublished": "2026-06-30T19:17:36+09:00"
+    },
+    {
+      "name": "中国 6月製造業景況感が3か月ぶりに改善 節目を上回る",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015164561000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260630/K10015164561_2606301151_0630122721_01_03.jpg",
+      "datePublished": "2026-06-30T12:27:20+09:00"
+    },
+    {
+      "name": "ペルー大統領選挙 フジモリ元大統領長女ケイコ氏が勝利と報道",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015164411000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260630/K10015164411_2606300908_0630091559_01_02.jpg",
+      "datePublished": "2026-06-30T10:44:40+09:00"
+    },
+    {
+      "name": "トランプ大統領「30日にドーハでイランと協議」イラン側は否定",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015164111000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260630/K10015164111_2606300613_0630063202_01_02.jpg",
+      "datePublished": "2026-06-30T06:32:02+09:00"
+    },
+    {
+      "name": "サグラダ・ファミリア “輝く十字架”はどう生まれたのか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015158321000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260628/K10015158321_2606241552_0628084141_01_02.jpg",
+      "datePublished": "2026-06-28T08:41:40+09:00"
+    },
+    {
+      "name": "ベネズエラ地震 死者1700人超 さらに増えるおそれも",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015164321000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260630/K10015164321_2606300708_0630080930_01_02.jpg",
+      "datePublished": "2026-06-30T10:27:12+09:00"
+    },
+    {
+      "name": "香港国家安全維持法施行6年 社会の統制へ行政権限の強化進む",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015164101000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260630/K10015164101_2606292252_0630081206_01_02.jpg",
+      "datePublished": "2026-06-30T08:12:05+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
