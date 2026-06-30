@@ -1,0 +1,149 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015164971000",
+  "dataSourceId": "na",
+  "name": "猟友会の40代男性がクマに襲われけが 京都市の山の中で",
+  "headline": "猟友会の40代男性がクマに襲われけが 京都市の山の中で",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015164971000",
+    "playlistId": "news-nwa-society-nationwide-20260630",
+    "newsarticleName": "猟友会の40代男性がクマに襲われけが 京都市の山の中で",
+    "playlistName": "6月30日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "29日、京都市の山で猟友会の男性がクマに襲われ、腕にけがをしました。\n\n\n京都府によりますと、29日午後1時半ごろ、京都市右京区の山の中で、猟友会に所属する40代の男性がツキノワグマに右腕をかまれまし",
+  "dateModified": "2026-06-30T18:08:13+09:00",
+  "datePublished": "2026-06-30T18:08:13+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260630/K10015164971_2606301747_0630180813_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260630/K10015164971_2606301747_0630180813_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会",
+    "地域"
+  ],
+  "topic": [
+    {
+      "id": "0002515",
+      "name": "クマ被害",
+      "display": true
+    },
+    {
+      "id": "0002226",
+      "name": "京都府",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "29日、京都市の山で猟友会の男性がクマに襲われ、腕にけがをしました。\n\n\n京都府によりますと、29日午後1時半ごろ、京都市右京区の山の中で、猟友会に所属する40代の男性がツキノワグマに右腕をかまれまし",
+  "articleBody": "29日、京都市の山で猟友会の男性がクマに襲われ、腕にけがをしました。\n\n\n京都府によりますと、29日午後1時半ごろ、京都市右京区の山の中で、猟友会に所属する40代の男性がツキノワグマに右腕をかまれました。\n\n全治2週間から1か月程度のけがと診断されたということです。\n\n男性は府の委託を受け、農作物の被害を防ぐため、シカやイノシシの捕獲作業にあたっていたところ、やぶの中から現れたクマに襲われたということです。\n\n府はシカやイノシシの捕獲事業の安全対策について、今後、関係者と協議することにしています。\n\n京都府によりますと、ことし4月以降に確認された府内でのクマの目撃件数は6月30日の時点で558件に上り、去年の同じ時期のおよそ1.6倍となっています。\n",
+  "detailedArticleBody": {
+    "markedLead": "29日、京都市の山で猟友会の男性がクマに襲われ、腕にけがをしました。\n",
+    "markedBody": "京都府によりますと、29日午後1時半ごろ、京都市右京区の山の中で、猟友会に所属する40代の男性がツキノワグマに右腕をかまれました。\n\n全治2週間から1か月程度のけがと診断されたということです。\n\n男性は府の委託を受け、農作物の被害を防ぐため、シカやイノシシの捕獲作業にあたっていたところ、やぶの中から現れたクマに襲われたということです。\n\n府はシカやイノシシの捕獲事業の安全対策について、今後、関係者と協議することにしています。\n\n京都府によりますと、ことし4月以降に確認された府内でのクマの目撃件数は6月30日の時点で558件に上り、去年の同じ時期のおよそ1.6倍となっています。\n",
+    "trimmedLead": "29日、京都市の山で猟友会の男性がクマに襲われ、腕にけがをしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015164971000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015164971000",
+  "video": [],
+  "citation": [
+    {
+      "name": "栃木 那須塩原 男性がクマに襲われ大けが 住宅に助け求める",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015164641000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260630/K10015164641_2606301221_0630143709_01_03.jpg",
+      "datePublished": "2026-06-30T15:06:07+09:00"
+    },
+    {
+      "name": "青森市の八甲田山系 男性の遺体 かまれた痕も 付近でクマ目撃",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015163611000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260629/K10015163611_2606291203_0629123154_01_03.jpg",
+      "datePublished": "2026-06-29T19:36:18+09:00"
+    },
+    {
+      "name": "クマ被害対策 狩猟期間の延長など提言へ 自民特別委員会",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015157101000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260623/K10015157101_2606231317_0623143512_01_02.jpg",
+      "datePublished": "2026-06-23T14:35:11+09:00"
+    },
+    {
+      "name": "“意外な場所”にクマ出没 背景は？対策は？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015147251000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260611/K10015147251_2606111510_0611183043_01_02.jpg",
+      "datePublished": "2026-06-11T18:30:42+09:00"
+    },
+    {
+      "name": "「クマ被害」ニュース 特集サイト",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002515",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30409129.jpg"
+    },
+    {
+      "name": "W杯 日本がブラジルに逆転負け 16強進出ならず 【詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015163871000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260629/K10015163871_2606300714_0630071558_01_02.jpg",
+      "datePublished": "2026-06-30T17:55:11+09:00"
+    },
+    {
+      "name": "【詳しく】国旗損壊罪法案 衆院本会議で可決 全野党が欠席",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015164511000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260630/K10015164511_2606301308_0630133429_01_02.jpg",
+      "datePublished": "2026-06-30T18:29:54+09:00"
+    },
+    {
+      "name": "自分の選択か やむを得ずか 住人の本音は？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015152261000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260629/K10015152261_2606291042_0629153016_01_02.jpg",
+      "datePublished": "2026-06-29T15:30:15+09:00"
+    },
+    {
+      "name": "「見えない不足」看護師の叫び　看護師密度マップで見えた現実",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015163541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260629/K10015163541_2606291631_0629182745_01_02.jpg",
+      "datePublished": "2026-06-29T18:27:44+09:00"
+    },
+    {
+      "name": "FIFAワールドカップ2026【NHK特設サイト】",
+      "url": "https://nhk.jp/fifawc?cid=wc26-newsweb-awayomi",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31365091.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
