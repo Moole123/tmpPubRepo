@@ -1,0 +1,149 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015164421000",
+  "dataSourceId": "na",
+  "name": "株価 午前は一時1000円超値上がり NY市場の株高を受け",
+  "headline": "株価 午前は一時1000円超値上がり NY市場の株高を受け",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015164421000",
+    "playlistId": "news-nwa-business-nationwide-20260630",
+    "newsarticleName": "株価 午前は一時1000円超値上がり NY市場の株高を受け",
+    "playlistName": "6月30日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "30日の東京株式市場、株価は値上がりしています。\n\n\n30日の東京株式市場、29日のニューヨーク市場でダウ平均株価が終値で最高値をつけた流れを受けて、午前の取り引きでは日経平均株価が一時、1000円以",
+  "dateModified": "2026-06-30T12:16:06+09:00",
+  "datePublished": "2026-06-30T11:28:56+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260630/K10015164421_2606301135_0630121607_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260630/K10015164421_2606301135_0630121607_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0002423",
+      "name": "金融",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "30日の東京株式市場、株価は値上がりしています。\n\n\n30日の東京株式市場、29日のニューヨーク市場でダウ平均株価が終値で最高値をつけた流れを受けて、午前の取り引きでは日経平均株価が一時、1000円以",
+  "articleBody": "30日の東京株式市場、株価は値上がりしています。\n\n\n30日の東京株式市場、29日のニューヨーク市場でダウ平均株価が終値で最高値をつけた流れを受けて、午前の取り引きでは日経平均株価が一時、1000円以上、値上がりしました。\n\n日経平均株価、午前の終値は29日の終値と比べて、648円71銭高い7万116円82銭。\n\n東証株価指数=トピックスは15.81上がって3997.81。\n\n午前の出来高は9億1061万株でした。\n\n市場関係者は「7万円台に到達した株価に対する過熱感から値下がりに転じる場面もあったが、このところ値下がりしていたAIや半導体関連の銘柄を中心に買い注文が出た。円相場が歴史的な円安水準となっているが、あまり取り引き材料とはなっていない」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "30日の東京株式市場、株価は値上がりしています。\n",
+    "markedBody": "30日の東京株式市場、29日のニューヨーク市場でダウ平均株価が終値で最高値をつけた流れを受けて、午前の取り引きでは日経平均株価が一時、1000円以上、値上がりしました。\n\n日経平均株価、午前の終値は29日の終値と比べて、648円71銭高い7万116円82銭。\n\n東証株価指数\\=トピックスは15.81上がって3997.81。\n\n午前の出来高は9億1061万株でした。\n\n市場関係者は「7万円台に到達した株価に対する過熱感から値下がりに転じる場面もあったが、このところ値下がりしていたAIや半導体関連の銘柄を中心に買い注文が出た。円相場が歴史的な円安水準となっているが、あまり取り引き材料とはなっていない」と話していました。\n",
+    "trimmedLead": "30日の東京株式市場、株価は値上がりしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015164421000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015164421000",
+  "video": [],
+  "citation": [
+    {
+      "name": "W杯 日本がブラジルに逆転負け 16強進出ならず 【詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015163871000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260629/K10015163871_2606300714_0630071558_01_02.jpg",
+      "datePublished": "2026-06-30T12:14:47+09:00"
+    },
+    {
+      "name": "歓声 ため息 拍手 W杯ブラジル戦 未明の観戦で声援 国内では",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015164281000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260630/K10015164281_2606300536_0630070532_01_02.jpg",
+      "datePublished": "2026-06-30T07:05:31+09:00"
+    },
+    {
+      "name": "脱線事故の近鉄京都線 全線で運転再開",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015164141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260630/K10015164141_2606300904_0630091121_01_02.jpg",
+      "datePublished": "2026-06-30T12:27:53+09:00"
+    },
+    {
+      "name": "円相場 一時1ドル＝162円台に 約39年半ぶりの円安水準",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015164231000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260629/K10015164231_2606301028_0630104129_01_02.jpg",
+      "datePublished": "2026-06-30T11:34:11+09:00"
+    },
+    {
+      "name": "5月の有効求人倍率 全国平均で1.17倍 前月下回る 厚労省",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015163861000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260630/K10015163861_2606300842_0630084524_01_02.jpg",
+      "datePublished": "2026-06-30T08:45:24+09:00"
+    },
+    {
+      "name": "広島 三原 強盗殺人事件 請け負った工事の現場選んで事件か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015164131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260630/K10015164131_2606300033_0630052316_01_02.jpg",
+      "datePublished": "2026-06-30T05:23:15+09:00"
+    },
+    {
+      "name": "米連邦最高裁判所 トランプ大統領によるFRB理事解任は無効",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015164241000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260629/K10015164241_2606292332_0629233907_01_02.jpg",
+      "datePublished": "2026-06-30T05:31:55+09:00"
+    },
+    {
+      "name": "「副首都」関連法案きょう審議入りの方針 与野党の対立続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015164071000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260630/K10015164071_2606300044_0630050138_01_02.jpg",
+      "datePublished": "2026-06-30T05:01:38+09:00"
+    },
+    {
+      "name": "相続人から引き取った土地 民間売却へ最大9割引きの新制度",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015164061000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260630/K10015164061_2606292011_0630064713_01_02.jpg",
+      "datePublished": "2026-06-30T06:47:12+09:00"
+    },
+    {
+      "name": "FIFAワールドカップ2026【NHK特設サイト】",
+      "url": "https://nhk.jp/fifawc?cid=wc26-newsweb-awayomi",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31365091.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
