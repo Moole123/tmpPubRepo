@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015164251000",
+  "dataSourceId": "na",
+  "name": "ドイツ北部の施設で銃撃事件 職員6人死亡",
+  "headline": "ドイツ北部の施設で銃撃事件 職員6人死亡",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015164251000",
+    "playlistId": "news-nwa-international-nationwide-20260630",
+    "newsarticleName": "ドイツ北部の施設で銃撃事件 職員6人死亡",
+    "playlistName": "6月30日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "ドイツ北部にある母親や子どもなどを保護する施設で銃撃があり、職員6人が死亡しました。警察は施設を利用する子どもの父親を拘束し、詳しい状況を調べています。\n\n\nドイツ北部のニーダーザクセン州にある、母親",
+  "dateModified": "2026-06-30T08:47:26+09:00",
+  "datePublished": "2026-06-30T08:47:26+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260630/K10015164251_2606300618_0630084727_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260630/K10015164251_2606300618_0630084727_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0001798",
+      "name": "ドイツ",
+      "display": true
+    },
+    {
+      "id": "0001538",
+      "name": "事件・事故",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ドイツ北部にある母親や子どもなどを保護する施設で銃撃があり、職員6人が死亡しました。警察は施設を利用する子どもの父親を拘束し、詳しい状況を調べています。\n\n\nドイツ北部のニーダーザクセン州にある、母親",
+  "articleBody": "ドイツ北部にある母親や子どもなどを保護する施設で銃撃があり、職員6人が死亡しました。警察は施設を利用する子どもの父親を拘束し、詳しい状況を調べています。\n\n\nドイツ北部のニーダーザクセン州にある、母親や子どもなどを保護する施設で29日、銃撃があり、施設の職員の男女あわせて6人が死亡しました。\n\n現地の警察は記者会見で、銃撃した容疑者として45歳のトルコ系ドイツ人の男を拘束したことを明らかにしました。\n\n容疑者はこの施設を利用する生後3か月の娘やその母親と面会する予定だったとしたうえで、子どもの親権をめぐる争いが事件の背景にあるという見方を示しました。\n\n娘や母親にけがはないということです。\n\n容疑者は車で逃走しようとしていたということで、警察は車を運転していた女も拘束して、詳しい状況を調べています。\n\n事件を受けてドイツのメルツ首相は自身のSNSで、「衝撃を受けている。犠牲者とその家族に、心よりお見舞い申し上げる」とコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "ドイツ北部にある母親や子どもなどを保護する施設で銃撃があり、職員6人が死亡しました。警察は施設を利用する子どもの父親を拘束し、詳しい状況を調べています。\n",
+    "markedBody": "ドイツ北部のニーダーザクセン州にある、母親や子どもなどを保護する施設で29日、銃撃があり、施設の職員の男女あわせて6人が死亡しました。\n\n現地の警察は記者会見で、銃撃した容疑者として45歳のトルコ系ドイツ人の男を拘束したことを明らかにしました。\n\n容疑者はこの施設を利用する生後3か月の娘やその母親と面会する予定だったとしたうえで、子どもの親権をめぐる争いが事件の背景にあるという見方を示しました。\n\n娘や母親にけがはないということです。\n\n容疑者は車で逃走しようとしていたということで、警察は車を運転していた女も拘束して、詳しい状況を調べています。\n\n事件を受けてドイツのメルツ首相は自身のSNSで、「衝撃を受けている。犠牲者とその家族に、心よりお見舞い申し上げる」とコメントしています。\n",
+    "trimmedLead": "ドイツ北部にある母親や子どもなどを保護する施設で銃撃があり、職員6人が死亡しました。警察は施設を利用する子どもの父親を拘束し、詳しい状況を調べています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015164251000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015164251000",
+  "video": [],
+  "citation": [
+    {
+      "name": "NYダウ平均株価 終値で初の5万2000ドル台 大手IT中心に買い",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015164301000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260630/K10015164301_2606300623_0630063518_01_02.jpg",
+      "datePublished": "2026-06-30T06:35:17+09:00"
+    },
+    {
+      "name": "円相場 一時1ドル＝161円90銭台後半 約39年半ぶりの円安水準に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015164231000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260629/K10015164231_2606300508_0630052953_01_02.jpg",
+      "datePublished": "2026-06-30T05:29:52+09:00"
+    },
+    {
+      "name": "トランプ大統領「30日にドーハでイランと協議」イラン側は否定",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015164111000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260630/K10015164111_2606300613_0630063202_01_02.jpg",
+      "datePublished": "2026-06-30T06:32:02+09:00"
+    },
+    {
+      "name": "高市首相 1日からインド訪問 経済安保やAIで成果文書調整",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015164091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260630/K10015164091_2606300041_0630052531_01_02.jpg",
+      "datePublished": "2026-06-30T05:25:30+09:00"
+    },
+    {
+      "name": "米連邦最高裁判所 トランプ大統領によるFRB理事解任は無効",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015164241000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260629/K10015164241_2606292332_0629233907_01_02.jpg",
+      "datePublished": "2026-06-30T05:31:55+09:00"
+    },
+    {
+      "name": "ベネズエラ地震 死者1700人超 さらに増えるおそれも",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015164321000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260630/K10015164321_2606300708_0630080930_01_02.jpg",
+      "datePublished": "2026-06-30T08:09:29+09:00"
+    },
+    {
+      "name": "香港国家安全維持法施行6年 社会の統制へ行政権限の強化進む",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015164101000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260630/K10015164101_2606292252_0630081206_01_02.jpg",
+      "datePublished": "2026-06-30T08:12:05+09:00"
+    },
+    {
+      "name": "パキスタンがアフガニスタン攻撃 対立の激化懸念",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015163981000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260629/K10015163981_2606291819_0629194612_01_02.jpg",
+      "datePublished": "2026-06-29T19:46:11+09:00"
+    },
+    {
+      "name": "ヨーロッパ 記録的熱波 “例年より1300人以上多く死亡” WHO",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015163731000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260629/K10015163731_2606291442_0629145623_01_02.jpg",
+      "datePublished": "2026-06-29T14:56:22+09:00"
+    },
+    {
+      "name": "【随時更新】サッカーＷ杯 決勝トーナメント日程・結果 動画も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015163051000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260628/K10015163051_2606281235_0628160014_01_02.jpg",
+      "datePublished": "2026-06-30T06:02:35+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
