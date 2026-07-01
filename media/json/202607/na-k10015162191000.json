@@ -1,0 +1,130 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015162191000",
+  "dataSourceId": "na",
+  "name": "【地震情報】青森 岩手で震度4 津波の心配なし",
+  "headline": "【地震情報】青森 岩手で震度4 津波の心配なし",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015162191000",
+    "playlistId": "news-nwa-disaster-nationwide-20260701",
+    "newsarticleName": "【地震情報】青森 岩手で震度4 津波の心配なし",
+    "playlistName": "7月1日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "1日午後9時8分ごろ、岩手県沖で地震があり、青森県と岩手県で震度4の揺れを観測しました。この地震による津波の心配はありません。\n\n\n震度4の揺れを観測したのは、▽青森県の八戸市と南部町、▽岩手県の盛岡",
+  "dateModified": "2026-07-01T22:04:47+09:00",
+  "datePublished": "2026-07-01T21:11:20+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260701/K10015162191_2607012114_0701211453_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260701/K10015162191_2607012114_0701211453_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "1日午後9時8分ごろ、岩手県沖で地震があり、青森県と岩手県で震度4の揺れを観測しました。この地震による津波の心配はありません。\n\n\n震度4の揺れを観測したのは、▽青森県の八戸市と南部町、▽岩手県の盛岡",
+  "articleBody": "1日午後9時8分ごろ、岩手県沖で地震があり、青森県と岩手県で震度4の揺れを観測しました。この地震による津波の心配はありません。\n\n\n震度4の揺れを観測したのは、▽青森県の八戸市と南部町、▽岩手県の盛岡市、二戸市、八幡平市、滝沢市、紫波町、普代村でした。\n\nこのほか、震度3から1の揺れを北海道、東北、関東、新潟県と山梨県の広い範囲で観測しました。\n\n気象庁の観測によりますと、震源地は岩手県沖で、震源の深さは40キロ、地震の規模を示すマグニチュードは6.0と推定されています。\n\n岩手県沖では先月25日、マグニチュード7.2の地震で最大震度6強の揺れを観測したほか、先月28日にもマグニチュード6.1の地震で最大震度5弱の揺れを観測するなど、地震が相次いでいます。\n\n各市町村の震度\n\n各市町村の震度は以下のとおりです。\n\n▼震度4\n青森県八戸市、青森県南部町、岩手県盛岡市、岩手県二戸市、岩手県八幡平市、岩手県滝沢市、岩手県紫波町、岩手県普代村。\n\n▼震度3\n青森市、青森県十和田市、青森県三沢市、青森県むつ市、青森県平内町、青森県外ヶ浜町、青森県野辺地町、青森県七戸町、青森県六戸町、青森県横浜町、青森県東北町、青森県おいらせ町、青森県東通村、青森県三戸町、青森県五戸町、青森県田子町、青森県階上町、岩手県宮古市、岩手県大船渡市、岩手県花巻市、岩手県北上市、岩手県久慈市、岩手県遠野市、岩手県一関市、岩手県釜石市、岩手県奥州市、岩手県雫石町、岩手県葛巻町、岩手県岩手町、岩手県矢巾町、岩手県西和賀町、岩手県金ケ崎町、岩手県平泉町、岩手県大槌町、岩手県山田町、岩手県岩泉町、岩手県軽米町、岩手県野田村、岩手県九戸村、岩手県洋野町、岩手県一戸町、宮城県石巻市、宮城県登米市、宮城県栗原市、宮城県大崎市、宮城県涌谷町、宮城県美里町、秋田県横手市、秋田県大仙市。\n",
+  "detailedArticleBody": {
+    "markedLead": "1日午後9時8分ごろ、岩手県沖で地震があり、青森県と岩手県で震度4の揺れを観測しました。この地震による津波の心配はありません。\n",
+    "markedBody": "震度4の揺れを観測したのは、▽青森県の八戸市と南部町、▽岩手県の盛岡市、二戸市、八幡平市、滝沢市、紫波町、普代村でした。\n\nこのほか、震度3から1の揺れを北海道、東北、関東、新潟県と山梨県の広い範囲で観測しました。\n\n気象庁の観測によりますと、震源地は岩手県沖で、震源の深さは40キロ、地震の規模を示すマグニチュードは6.0と推定されています。\n\n岩手県沖では先月25日、マグニチュード7.2の地震で最大震度6強の揺れを観測したほか、先月28日にもマグニチュード6.1の地震で最大震度5弱の揺れを観測するなど、地震が相次いでいます。\n\n### 各市町村の震度\n\n各市町村の震度は以下のとおりです。\n\n▼震度4\\\n青森県八戸市、青森県南部町、岩手県盛岡市、岩手県二戸市、岩手県八幡平市、岩手県滝沢市、岩手県紫波町、岩手県普代村。\n\n▼震度3\\\n青森市、青森県十和田市、青森県三沢市、青森県むつ市、青森県平内町、青森県外ヶ浜町、青森県野辺地町、青森県七戸町、青森県六戸町、青森県横浜町、青森県東北町、青森県おいらせ町、青森県東通村、青森県三戸町、青森県五戸町、青森県田子町、青森県階上町、岩手県宮古市、岩手県大船渡市、岩手県花巻市、岩手県北上市、岩手県久慈市、岩手県遠野市、岩手県一関市、岩手県釜石市、岩手県奥州市、岩手県雫石町、岩手県葛巻町、岩手県岩手町、岩手県矢巾町、岩手県西和賀町、岩手県金ケ崎町、岩手県平泉町、岩手県大槌町、岩手県山田町、岩手県岩泉町、岩手県軽米町、岩手県野田村、岩手県九戸村、岩手県洋野町、岩手県一戸町、宮城県石巻市、宮城県登米市、宮城県栗原市、宮城県大崎市、宮城県涌谷町、宮城県美里町、秋田県横手市、秋田県大仙市。\n",
+    "trimmedLead": "1日午後9時8分ごろ、岩手県沖で地震があり、青森県と岩手県で震度4の揺れを観測しました。この地震による津波の心配はありません。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015162191000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015162191000",
+  "video": [],
+  "citation": [
+    {
+      "name": "【最新の地震情報】各地の震度・震源を詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/earthquake/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30060617.jpg"
+    },
+    {
+      "name": "地震発生 その時どう行動する!?",
+      "url": "https://news.web.nhk/newsweb/na/nc-790dbe02-3696-4956-b2ac-83401a4f8f5b",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045984.jpg"
+    },
+    {
+      "name": "地震マップ 最新の震度分布・震源をリアルタイム更新",
+      "url": "https://news.web.nhk/bousai-map/earthquake/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31036920.jpg"
+    },
+    {
+      "name": "地震動予測地図 震度６弱以上 各地のリスク",
+      "url": "https://news.web.nhk/newsweb/na/nc-04b01a9b-a30f-46c5-af92-bd6f205a005f",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045805.jpg"
+    },
+    {
+      "name": "首都直下地震 あなたの街の揺れは？自治体ごとの震度を詳しく",
+      "url": "https://news.web.nhk/newsweb/na/nc-9d41f247-b611-4c72-918e-b7bc60dfc006",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31134658.jpg"
+    },
+    {
+      "name": "首都直下地震 新たな被害想定 “死者 最大1万8000人”",
+      "url": "https://news.web.nhk/newsweb/na/nc-e348f9cc-3c19-4405-a5b0-210cab9aeaae",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31134676.jpg"
+    },
+    {
+      "name": "NHKONE防災 災害リスク・備えをまとめて",
+      "url": "https://news.web.nhk/newsweb/sp/pl/editorial-nwa-0000000132",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30066327.jpg"
+    },
+    {
+      "name": "天気防災サイト あなたの街の天気予報や災害情報を即時提供",
+      "url": "https://news.web.nhk/kishou-saigai/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037196.jpg"
+    },
+    {
+      "name": "天気防災マップ ふだんの雨雲予想から災害時のリスク情報まで",
+      "url": "https://news.web.nhk/bousai-map/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037154.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
