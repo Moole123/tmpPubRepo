@@ -1,0 +1,194 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015166151000",
+  "dataSourceId": "na",
+  "name": "浜岡原発データ不正問題 中部電力が規制委指摘後もデータ操作",
+  "headline": "浜岡原発データ不正問題 中部電力が規制委指摘後もデータ操作",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015166151000",
+    "playlistId": "news-nwa-scienceculture-nationwide-20260701",
+    "newsarticleName": "浜岡原発データ不正問題 中部電力が規制委指摘後もデータ操作",
+    "playlistName": "7月1日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "中部電力が、静岡県にある浜岡原子力発電所の審査で不正なデータ処理を行っていた問題で、原子力規制委員会から説明を求められた去年5月以降もデータの操作を行っていたことが分かりました。規制委員会は、中部電力",
+  "dateModified": "2026-07-01T17:57:58+09:00",
+  "datePublished": "2026-07-01T17:57:58+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260701/K10015166151_2607011712_0701175759_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260701/K10015166151_2607011712_0701175759_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "科学・文化",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002222",
+      "name": "静岡県",
+      "display": true
+    },
+    {
+      "id": "0000021",
+      "name": "原発",
+      "display": true
+    },
+    {
+      "id": "0002708",
+      "name": "原子力規制委員会",
+      "display": true
+    },
+    {
+      "id": "0002736",
+      "name": "資源・エネルギー",
+      "display": true
+    },
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "中部電力が、静岡県にある浜岡原子力発電所の審査で不正なデータ処理を行っていた問題で、原子力規制委員会から説明を求められた去年5月以降もデータの操作を行っていたことが分かりました。規制委員会は、中部電力",
+  "articleBody": "中部電力が、静岡県にある浜岡原子力発電所の審査で不正なデータ処理を行っていた問題で、原子力規制委員会から説明を求められた去年5月以降もデータの操作を行っていたことが分かりました。規制委員会は、中部電力が審査での説明とあうようにデータを操作していたとみて、詳しく調べることにしています。\n\n\nことし1月、中部電力が、浜岡原発の再稼働に必要となる原子力規制委員会の審査の中で、耐震設計の目安となる「基準地震動」に関するデータを意図的に選んだり、操作したりしていたことが明らかになり、規制委員会は立ち入り検査を行って原因やいきさつを調べています。\n\n7月1日の規制委員会の定例会で検査の中間報告が行われ、審査で提出された基準地震動を策定するための計算結果のうち、69ケースについては、規制委員会が外部からの通報を受けて中部電力に説明を求めた去年5月以降に、不正なデータ操作が行われていたことが明らかにされました。\n\n中部電力は審査の中で、20とおりの地震の揺れのデータを計算して、平均に最も近いものを選ぶと説明していましたが、規制委員会は、中部電力が実際はこうした計算を行わず、根拠のないデータを選んでいたため、説明と整合するようにデータを操作していたとみて、詳しく調べることにしています。\n\n規制委員会の山中伸介委員長は記者会見で、「『不正隠し』が行われたのではないかと推測され、非常に残念だ。引き続き、立ち入り検査で事実関係や関与した社員の範囲などを確認し、今後の対応を議論したい」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "中部電力が、静岡県にある浜岡原子力発電所の審査で不正なデータ処理を行っていた問題で、原子力規制委員会から説明を求められた去年5月以降もデータの操作を行っていたことが分かりました。規制委員会は、中部電力が審査での説明とあうようにデータを操作していたとみて、詳しく調べることにしています。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20260701/K10015166151_2607011712_0701175759_02_03.jpg)\n\nことし1月、中部電力が、浜岡原発の再稼働に必要となる原子力規制委員会の審査の中で、耐震設計の目安となる「基準地震動」に関するデータを意図的に選んだり、操作したりしていたことが明らかになり、規制委員会は立ち入り検査を行って原因やいきさつを調べています。\n\n7月1日の規制委員会の定例会で検査の中間報告が行われ、審査で提出された基準地震動を策定するための計算結果のうち、69ケースについては、規制委員会が外部からの通報を受けて中部電力に説明を求めた去年5月以降に、不正なデータ操作が行われていたことが明らかにされました。\n\n中部電力は審査の中で、20とおりの地震の揺れのデータを計算して、平均に最も近いものを選ぶと説明していましたが、規制委員会は、中部電力が実際はこうした計算を行わず、根拠のないデータを選んでいたため、説明と整合するようにデータを操作していたとみて、詳しく調べることにしています。\n\n規制委員会の山中伸介委員長は記者会見で、「『不正隠し』が行われたのではないかと推測され、非常に残念だ。引き続き、立ち入り検査で事実関係や関与した社員の範囲などを確認し、今後の対応を議論したい」と話していました。\n",
+    "trimmedLead": "中部電力が、静岡県にある浜岡原子力発電所の審査で不正なデータ処理を行っていた問題で、原子力規制委員会から説明を求められた去年5月以降もデータの操作を行っていたことが分かりました。規制委員会は、中部電力が審査での説明とあうようにデータを操作していたとみて、詳しく調べることにしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015166151000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015166151000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "浜岡原発データ不正問題 中部電力が規制委指摘後もデータ操作",
+      "description": "中部電力が、静岡県にある浜岡原子力発電所の審査で不正なデータ処理を行っていた問題で、原子力規制委員会から説明を求められた去年5月以降もデータの操作を行っていたことが分かりました。規制委員会は、中部電力",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015166151_202607011825_202607011825/index.m3u8&mrposter=/news/html/20260701/K10015166151_2607011712_0701175759_01_02.jpg",
+      "duration": "PT1M30S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015166151_202607011825_202607011825/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260701/K10015166151_2607011712_0701175759_01_02.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "中部電力の株主総会 会長・社長の取締役選任案が可決",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015159781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260625/K10015159781_2606251524_0625172129_01_02.jpg",
+      "datePublished": "2026-06-25T17:21:28+09:00"
+    },
+    {
+      "name": "モバイルSuica トラブルから復旧 モバイルPASMOも復旧",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015165501000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260701/K10015165501_2607011117_0701122743_01_02.jpg",
+      "datePublished": "2026-07-01T17:54:59+09:00"
+    },
+    {
+      "name": "長野 東御 母娘か2人死亡 長男切りつけた疑い 父親を逮捕",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015165681000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260701/K10015165681_2607011438_0701143825_01_03.jpg",
+      "datePublished": "2026-07-01T16:54:24+09:00"
+    },
+    {
+      "name": "名古屋 郵便局で “誤ってスプレー” 病院に5人搬送",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015165761000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260701/K10015165761_2607011303_0701131010_01_03.jpg",
+      "datePublished": "2026-07-01T15:35:18+09:00"
+    },
+    {
+      "name": "高校生の就職活動が事実上スタート “初任給30万円”企業も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015165811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260701/K10015165811_2607011328_0701142022_01_02.jpg",
+      "datePublished": "2026-07-01T14:20:21+09:00"
+    },
+    {
+      "name": "米大統領 資産報告書公開“主要収益は暗号資産関連 2300億円”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015166021000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260701/K10015166021_2607011423_0701154009_01_03.jpg",
+      "datePublished": "2026-07-01T15:40:08+09:00"
+    },
+    {
+      "name": "ドジャース 大谷翔平 6試合連続ヒット チームは4連勝",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015165981000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260701/K10015165981_2607011349_0701142110_01_02.jpg",
+      "datePublished": "2026-07-01T16:01:52+09:00"
+    },
+    {
+      "name": "サッカーW杯 日本代表メンバー全員が敗退から一夜明け心境語る",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015165351000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260701/K10015165351_2607011643_0701164458_01_02.jpg",
+      "datePublished": "2026-07-01T16:29:36+09:00"
+    },
+    {
+      "name": "FIFAワールドカップ2026【NHK特設サイト】",
+      "url": "https://nhk.jp/fifawc?cid=wc26-newsweb-awayomi",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31365091.jpg"
+    },
+    {
+      "name": "【1分解説】サッカー日本代表 女子のユニフォーム改革とは?",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015163791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260701/K10015163791_2607011332_0701152522_01_03.jpg",
+      "datePublished": "2026-07-01T15:25:21+09:00"
+    },
+    {
+      "name": "一から分かるQ＆A　円安なぜ？今の経済に見合う円相場は？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015163571000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260630/K10015163571_2606301649_0630190958_01_02.jpg",
+      "datePublished": "2026-06-30T19:09:57+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
