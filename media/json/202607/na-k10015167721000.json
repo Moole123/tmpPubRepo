@@ -1,0 +1,154 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015167721000",
+  "dataSourceId": "na",
+  "name": "南シナ海で台風10号発生 日本には接近しない見込み",
+  "headline": "南シナ海で台風10号発生 日本には接近しない見込み",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015167721000",
+    "playlistId": "news-nwa-disaster-nationwide-20260703",
+    "newsarticleName": "南シナ海で台風10号発生 日本には接近しない見込み",
+    "playlistName": "7月3日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "3日午前、南シナ海で、台風10号が発生しました。日本には接近しない見込みで、気象庁は付近を通る船舶に注意するよう呼びかけています。\n\n\n気象庁の観測によりますと、3日午前3時、南シナ海で、熱帯低気圧が",
+  "dateModified": "2026-07-03T06:53:22+09:00",
+  "datePublished": "2026-07-03T06:53:22+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260703/K10015167721_2607030652_0703065323_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260703/K10015167721_2607030652_0703065323_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0001345",
+      "name": "台風",
+      "display": true
+    },
+    {
+      "id": "0000035",
+      "name": "気象",
+      "display": true
+    },
+    {
+      "id": "0002716",
+      "name": "気象庁",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "3日午前、南シナ海で、台風10号が発生しました。日本には接近しない見込みで、気象庁は付近を通る船舶に注意するよう呼びかけています。\n\n\n気象庁の観測によりますと、3日午前3時、南シナ海で、熱帯低気圧が",
+  "articleBody": "3日午前、南シナ海で、台風10号が発生しました。日本には接近しない見込みで、気象庁は付近を通る船舶に注意するよう呼びかけています。\n\n\n気象庁の観測によりますと、3日午前3時、南シナ海で、熱帯低気圧が台風10号に変わりました。\n\n中心の気圧は998ヘクトパスカル、中心付近の最大風速は18メートル、最大瞬間風速は25メートルで、中心から半径280キロ以内では風速15メートル以上の強い風が吹いています。\n\n台風は1時間に20キロの速さで西へ進んでいて、今後大陸へと進み、今月6日には、熱帯低気圧に変わる見込みです。\n\n気象庁は付近を通る船舶に注意するよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "3日午前、南シナ海で、台風10号が発生しました。日本には接近しない見込みで、気象庁は付近を通る船舶に注意するよう呼びかけています。\n",
+    "markedBody": "気象庁の観測によりますと、3日午前3時、南シナ海で、熱帯低気圧が台風10号に変わりました。\n\n中心の気圧は998ヘクトパスカル、中心付近の最大風速は18メートル、最大瞬間風速は25メートルで、中心から半径280キロ以内では風速15メートル以上の強い風が吹いています。\n\n台風は1時間に20キロの速さで西へ進んでいて、今後大陸へと進み、今月6日には、熱帯低気圧に変わる見込みです。\n\n気象庁は付近を通る船舶に注意するよう呼びかけています。\n",
+    "trimmedLead": "3日午前、南シナ海で、台風10号が発生しました。日本には接近しない見込みで、気象庁は付近を通る船舶に注意するよう呼びかけています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015167721000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015167721000",
+  "video": [],
+  "citation": [
+    {
+      "name": "台風9号が発生 今後の情報に注意",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015166891000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260702/K10015166891_2607022108_0702210941_01_03.jpg",
+      "datePublished": "2026-07-02T11:03:06+09:00"
+    },
+    {
+      "name": "日印首脳会談 戦略的協力関係深めることで合意 2兆円投資も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015166401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260702/K10015166401_2607021728_0702190626_01_02.jpg",
+      "datePublished": "2026-07-02T22:23:02+09:00"
+    },
+    {
+      "name": "村上春樹さん 3年ぶり新作長編小説発売 書店にファン集まる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015167631000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260703/K10015167631_2607030204_0703050130_01_02.jpg",
+      "datePublished": "2026-07-03T05:01:29+09:00"
+    },
+    {
+      "name": "ウクライナ侵攻でロシア軍死傷者140万人 米シンクタンク分析",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015167551000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260703/K10015167551_2607022255_0703000012_01_02.jpg",
+      "datePublished": "2026-07-03T00:00:11+09:00"
+    },
+    {
+      "name": "サッカー日本代表 今後は監督の人選が焦点に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015167691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260703/K10015167691_2607030001_0703000524_01_02.jpg",
+      "datePublished": "2026-07-03T00:05:23+09:00"
+    },
+    {
+      "name": "ウクライナ政府 ロシア軍の攻撃 被害の深刻さを各国大使に訴え",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015167671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260703/K10015167671_2607030455_0703051131_01_02.jpg",
+      "datePublished": "2026-07-03T05:11:30+09:00"
+    },
+    {
+      "name": "WHO クルーズ船でのハンタウイルス集団感染の収束を宣言",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015167711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260703/K10015167711_2607030434_0703050853_01_02.jpg",
+      "datePublished": "2026-07-03T05:08:53+09:00"
+    },
+    {
+      "name": "札幌の病院 薬局設置めぐる入札妨害事件 最高裁が9月に弁論へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015167601000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260702/K10015167601_2607022312_0702232605_01_02.jpg",
+      "datePublished": "2026-07-02T23:26:04+09:00"
+    },
+    {
+      "name": "【プロ野球速報】日本ハム 先頭バッターから4者連続HRで5連勝",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015167501000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260702/K10015167501_2607022132_0702220539_01_02.jpg",
+      "datePublished": "2026-07-03T03:44:07+09:00"
+    },
+    {
+      "name": "FIFAワールドカップ2026【NHK特設サイト】",
+      "url": "https://nhk.jp/fifawc?cid=wc26-newsweb-awayomi",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31365091.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
