@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015167521000",
+  "dataSourceId": "na",
+  "name": "アメリカ 6月の就業者数 前月比増加続くも市場予想を下回る",
+  "headline": "アメリカ 6月の就業者数 前月比増加続くも市場予想を下回る",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015167521000",
+    "playlistId": "news-nwa-international-nationwide-20260702",
+    "newsarticleName": "アメリカ 6月の就業者数 前月比増加続くも市場予想を下回る",
+    "playlistName": "7月2日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "円相場や株価に影響を及ぼすアメリカの雇用統計が2日公表され、6月の農業分野以外の就業者は、前の月から5万7000人増加しました。市場の予想では、11万3000人程度の増加が見込まれていましたが、これを",
+  "dateModified": "2026-07-02T22:18:00+09:00",
+  "datePublished": "2026-07-02T21:55:40+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260702/K10015167521_2607022214_0702221801_02_01.jpg",
+      "height": 719,
+      "width": 1279
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260702/K10015167521_2607022214_0702221801_01_02.jpg",
+      "height": 719,
+      "width": 1279
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0002738",
+      "name": "統計・指標",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "円相場や株価に影響を及ぼすアメリカの雇用統計が2日公表され、6月の農業分野以外の就業者は、前の月から5万7000人増加しました。市場の予想では、11万3000人程度の増加が見込まれていましたが、これを",
+  "articleBody": "円相場や株価に影響を及ぼすアメリカの雇用統計が2日公表され、6月の農業分野以外の就業者は、前の月から5万7000人増加しました。市場の予想では、11万3000人程度の増加が見込まれていましたが、これを下回りました。\n\n一方、失業率は、前の月より0.1ポイント改善し4.2％でした。アメリカの雇用はこれまで堅調さが維持されていると見られてきただけに今後の動向が焦点になります。\n\n\n1ドル160円台後半に値上がり 米雇用統計受けドル売り進む\n\n2日のニューヨーク外国為替市場ではドルを売って円を買う動きが出て、円相場は一時、1ドル＝160円台後半まで値上がりしました。\n\nこの日に発表されたアメリカの6月の雇用統計で就業者数の伸びが市場の予想を下回ったことでドルを売って円を買う動きが広がりました。\n\n発表前は1ドル＝161円台半ばで推移していましたが、およそ80銭、値上がりした形です。\n",
+  "detailedArticleBody": {
+    "markedLead": "円相場や株価に影響を及ぼすアメリカの雇用統計が2日公表され、6月の農業分野以外の就業者は、前の月から5万7000人増加しました。市場の予想では、11万3000人程度の増加が見込まれていましたが、これを下回りました。\n\n一方、失業率は、前の月より0.1ポイント改善し4.2％でした。アメリカの雇用はこれまで堅調さが維持されていると見られてきただけに今後の動向が焦点になります。\n",
+    "markedBody": "### 1ドル160円台後半に値上がり 米雇用統計受けドル売り進む\n\n2日のニューヨーク外国為替市場ではドルを売って円を買う動きが出て、円相場は一時、1ドル＝160円台後半まで値上がりしました。\n\nこの日に発表されたアメリカの6月の雇用統計で就業者数の伸びが市場の予想を下回ったことでドルを売って円を買う動きが広がりました。\n\n発表前は1ドル＝161円台半ばで推移していましたが、およそ80銭、値上がりした形です。\n",
+    "trimmedLead": "円相場や株価に影響を及ぼすアメリカの雇用統計が2日公表され、6月の農業分野以外の就業者は、前の月から5万7000人増加しました。市場の予想では、11万3000人程度の増加が見込まれていましたが、これを下回りました。\n\n一方、失業率は、前の月より0.1ポイント改善し4.2％でした。アメリカの雇用はこれまで堅調さが維持されていると見られてきただけに今後の動向が焦点になります。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015167521000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015167521000",
+  "video": [],
+  "citation": [
+    {
+      "name": "円相場 日中は1ドル＝162円台前半 夕方以降は荒い値動き",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015167341000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260702/K10015167341_2607021808_0702182038_01_02.jpg",
+      "datePublished": "2026-07-02T18:57:26+09:00"
+    },
+    {
+      "name": "海外勢の株式買い越し 上半期9兆7000億円で過去最高",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015167331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260702/K10015167331_2607021752_0702190317_01_03.jpg",
+      "datePublished": "2026-07-02T19:03:16+09:00"
+    },
+    {
+      "name": "日印首脳会談 戦略的協力関係深めることで合意 2兆円投資も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015166401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260702/K10015166401_2607021728_0702190626_01_02.jpg",
+      "datePublished": "2026-07-02T22:23:02+09:00"
+    },
+    {
+      "name": "ロシア軍大規模攻撃でウクライナ各地被害 キーウで13人死亡",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015167211000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260702/K10015167211_2607021556_0702171926_01_02.jpg",
+      "datePublished": "2026-07-02T17:19:25+09:00"
+    },
+    {
+      "name": "米イラン協議 仲介国「前向きな進展」協議の行方は不透明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015166461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260702/K10015166461_2607012245_0702055758_01_02.jpg",
+      "datePublished": "2026-07-02T13:04:05+09:00"
+    },
+    {
+      "name": "米歌手 ビクター・ウィリスさん死去 「Y.M.C.A.」などヒット曲",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015166801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260702/K10015166801_2607020957_0702101443_01_02.jpg",
+      "datePublished": "2026-07-02T10:14:43+09:00"
+    },
+    {
+      "name": "ベネズエラ地震1週間 日本NGO“あらゆる物資が足りていない”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015167231000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260702/K10015167231_2607021618_0702172107_01_02.jpg",
+      "datePublished": "2026-07-02T17:21:07+09:00"
+    },
+    {
+      "name": "中国 民族団結進歩促進法～少数民族の統制強化へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015167011000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260702/K10015167011_2607021154_0702162512_01_02.jpg",
+      "datePublished": "2026-07-02T16:25:11+09:00"
+    },
+    {
+      "name": "国連AIパネル報告書 少数の企業や国への富の集中に警鐘",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015166751000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260702/K10015166751_2607020801_0702100921_01_02.jpg",
+      "datePublished": "2026-07-02T10:09:20+09:00"
+    },
+    {
+      "name": "ジャーナリズムだけでは不十分？米メディア 明暗の背景は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015153481000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260702/K10015153481_2606261621_0702114251_01_02.jpg",
+      "datePublished": "2026-07-02T11:42:49+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
