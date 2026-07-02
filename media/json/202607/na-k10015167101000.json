@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015167101000",
+  "dataSourceId": "na",
+  "name": "全自治体対象にUSB使用実態調査へ 総務省 陸自マルウエア受け",
+  "headline": "全自治体対象にUSB使用実態調査へ 総務省 陸自マルウエア受け",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015167101000",
+    "playlistId": "news-nwa-politics-nationwide-20260702",
+    "newsarticleName": "全自治体対象にUSB使用実態調査へ 総務省 陸自マルウエア受け",
+    "playlistName": "7月2日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "陸上自衛隊で使用していたUSBメモリーにマルウエア＝悪意を持ったプログラムが含まれていた事例を受け、総務省は全国の自治体を対象にUSBメモリーの使用実態を調査することになりました。\n\n\n防衛省は、去年",
+  "dateModified": "2026-07-02T15:09:35+09:00",
+  "datePublished": "2026-07-02T15:09:35+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260702/K10015167101_2607021324_0702150936_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260702/K10015167101_2607021324_0702150936_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0002399",
+      "name": "総務省",
+      "display": true
+    },
+    {
+      "id": "0000325",
+      "name": "サイバー攻撃",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "陸上自衛隊で使用していたUSBメモリーにマルウエア＝悪意を持ったプログラムが含まれていた事例を受け、総務省は全国の自治体を対象にUSBメモリーの使用実態を調査することになりました。\n\n\n防衛省は、去年",
+  "articleBody": "陸上自衛隊で使用していたUSBメモリーにマルウエア＝悪意を持ったプログラムが含まれていた事例を受け、総務省は全国の自治体を対象にUSBメモリーの使用実態を調査することになりました。\n\n\n防衛省は、去年2月に陸上自衛隊中部方面総監部が保有するUSBメモリーにマルウエアが含まれていることを検知した事例があったと明らかにしています。\n\nこれを受けて、総務省は7月上旬にも全国のすべての都道府県と市区町村を対象に、USBメモリーの使用実態を調査することになりました。\n\n各自治体が保有するUSBメモリーの本数やメーカーなどについて、1か月後をめどに報告を求めることを検討していて、総務省は結果も踏まえ適切な対策を促したいとしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "陸上自衛隊で使用していたUSBメモリーにマルウエア＝悪意を持ったプログラムが含まれていた事例を受け、総務省は全国の自治体を対象にUSBメモリーの使用実態を調査することになりました。\n",
+    "markedBody": "防衛省は、去年2月に陸上自衛隊中部方面総監部が保有するUSBメモリーにマルウエアが含まれていることを検知した事例があったと明らかにしています。\n\nこれを受けて、総務省は7月上旬にも全国のすべての都道府県と市区町村を対象に、USBメモリーの使用実態を調査することになりました。\n\n各自治体が保有するUSBメモリーの本数やメーカーなどについて、1か月後をめどに報告を求めることを検討していて、総務省は結果も踏まえ適切な対策を促したいとしています。\n",
+    "trimmedLead": "陸上自衛隊で使用していたUSBメモリーにマルウエア＝悪意を持ったプログラムが含まれていた事例を受け、総務省は全国の自治体を対象にUSBメモリーの使用実態を調査することになりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015167101000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015167101000",
+  "video": [],
+  "citation": [
+    {
+      "name": "陸自のUSBにマルウエア 小泉防衛相「システムに影響なし」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015161311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015161311_2606261435_0626153025_01_02.jpg",
+      "datePublished": "2026-06-26T15:30:24+09:00"
+    },
+    {
+      "name": "国連AIパネル報告書 少数の企業や国への富の集中に警鐘",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015166751000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260702/K10015166751_2607020801_0702100921_01_02.jpg",
+      "datePublished": "2026-07-02T10:09:20+09:00"
+    },
+    {
+      "name": "サイバー攻撃への新たな対応サービス開発相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015157541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260624/K10015157541_2606232155_0624062655_01_02.jpg",
+      "datePublished": "2026-06-24T06:26:54+09:00"
+    },
+    {
+      "name": "九州北部で土砂崩れや氾濫も 雨のピーク過ぎるも十分注意を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015166571000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260702/K10015166571_2607021223_0702122422_01_03.jpg",
+      "datePublished": "2026-07-02T11:52:50+09:00"
+    },
+    {
+      "name": "台風9号が発生 今後の情報に注意",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015166891000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260702/K10015166891_2607021045_0702110307_01_02.jpg",
+      "datePublished": "2026-07-02T11:03:06+09:00"
+    },
+    {
+      "name": "福岡 久留米 農業用ハウスが10棟壊れる 突風被害の可能性も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015167061000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260702/K10015167061_2607021319_0702140212_01_03.jpg",
+      "datePublished": "2026-07-02T14:02:11+09:00"
+    },
+    {
+      "name": "参院決算委 来週6日に開催で合意 与野党が対立する中",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015167071000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260702/K10015167071_2607021241_0702125341_01_02.jpg",
+      "datePublished": "2026-07-02T12:53:40+09:00"
+    },
+    {
+      "name": "「赤ちゃんポスト」1年間で20人預けられる 東京 墨田区の病院",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015167031000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260702/K10015167031_2607021214_0702125112_01_03.jpg",
+      "datePublished": "2026-07-02T12:51:12+09:00"
+    },
+    {
+      "name": "金塊扱う店舗に警視庁が一斉立ち入り 相次ぐ強盗など受け",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015166991000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260702/K10015166991_2607021316_0702131733_01_03.jpg",
+      "datePublished": "2026-07-02T14:23:42+09:00"
+    },
+    {
+      "name": "ジャーナリズムだけでは不十分？米メディア 明暗の背景は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015153481000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260702/K10015153481_2606261621_0702114251_01_02.jpg",
+      "datePublished": "2026-07-02T11:42:49+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
