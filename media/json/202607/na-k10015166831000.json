@@ -1,0 +1,164 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015166831000",
+  "dataSourceId": "na",
+  "name": "株価 一時1700円以上値下がり NY市場のAIや半導体関連下落受け",
+  "headline": "株価 一時1700円以上値下がり NY市場のAIや半導体関連下落受け",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015166831000",
+    "playlistId": "news-nwa-business-nationwide-20260702",
+    "newsarticleName": "株価 一時1700円以上値下がり NY市場のAIや半導体関連下落受け",
+    "playlistName": "7月2日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "2日の東京株式市場、日経平均株価は、1日のニューヨーク市場で、AIや半導体関連の銘柄が下落した流れを受けて、一時、1700円以上値下がりしました。\n\n\n日経平均株価、2日午前の終値は、1日の終値と比べ",
+  "dateModified": "2026-07-02T12:05:59+09:00",
+  "datePublished": "2026-07-02T09:32:59+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260702/K10015166831_2607021135_0702120600_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260702/K10015166831_2607021135_0702120600_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0002423",
+      "name": "金融",
+      "display": true
+    },
+    {
+      "id": "0002421",
+      "name": "半導体",
+      "display": true
+    },
+    {
+      "id": "0000010",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "0002370",
+      "name": "ニューヨーク",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "2日の東京株式市場、日経平均株価は、1日のニューヨーク市場で、AIや半導体関連の銘柄が下落した流れを受けて、一時、1700円以上値下がりしました。\n\n\n日経平均株価、2日午前の終値は、1日の終値と比べ",
+  "articleBody": "2日の東京株式市場、日経平均株価は、1日のニューヨーク市場で、AIや半導体関連の銘柄が下落した流れを受けて、一時、1700円以上値下がりしました。\n\n\n日経平均株価、2日午前の終値は、1日の終値と比べ883円21銭安い6万9591円75銭、東証株価指数＝トピックスは、32.41上がって4043.91、午前の出来高は11億8852万株でした。\n\n市場関係者は「投資家の間で、このところ株価が上昇していたAIや半導体関連銘柄への警戒感が根強く、ニューヨーク市場の動向を受けて、東京市場でも当面の利益を確保しようと同様の銘柄への売り注文が広がった。ただ、全体の8割の銘柄は上昇していて、一方的に値下がりする展開にはなっていない」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "2日の東京株式市場、日経平均株価は、1日のニューヨーク市場で、AIや半導体関連の銘柄が下落した流れを受けて、一時、1700円以上値下がりしました。\n",
+    "markedBody": "日経平均株価、2日午前の終値は、1日の終値と比べ883円21銭安い6万9591円75銭、東証株価指数＝トピックスは、32.41上がって4043.91、午前の出来高は11億8852万株でした。\n\n市場関係者は「投資家の間で、このところ株価が上昇していたAIや半導体関連銘柄への警戒感が根強く、ニューヨーク市場の動向を受けて、東京市場でも当面の利益を確保しようと同様の銘柄への売り注文が広がった。ただ、全体の8割の銘柄は上昇していて、一方的に値下がりする展開にはなっていない」と話しています。\n",
+    "trimmedLead": "2日の東京株式市場、日経平均株価は、1日のニューヨーク市場で、AIや半導体関連の銘柄が下落した流れを受けて、一時、1700円以上値下がりしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015166831000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015166831000",
+  "video": [],
+  "citation": [
+    {
+      "name": "国連AIパネル報告書 少数の企業や国への富の集中に警鐘",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015166751000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260702/K10015166751_2607020801_0702100921_01_02.jpg",
+      "datePublished": "2026-07-02T10:09:20+09:00"
+    },
+    {
+      "name": "ミュトス提供再開 “情報収集進める”国内金融機関",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015165431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260701/K10015165431_2607011008_0701104819_01_02.jpg",
+      "datePublished": "2026-07-01T13:58:53+09:00"
+    },
+    {
+      "name": "記録的水準の円安 今後は？暮らしはどうなる？【詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015164771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260630/K10015164771_2606301812_0630185941_01_02.jpg",
+      "datePublished": "2026-06-30T19:30:17+09:00"
+    },
+    {
+      "name": "九州北部で土砂崩れや氾濫も 雨のピーク過ぎるも十分注意を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015166571000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260702/K10015166571_2607021223_0702122422_01_03.jpg",
+      "datePublished": "2026-07-02T11:52:50+09:00"
+    },
+    {
+      "name": "熊本 小国町 筑後川「杖立橋」付近で氾濫発生 最大級の警戒を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015166701000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260702/K10015166701_2607020507_0702051521_01_02.jpg",
+      "datePublished": "2026-07-02T06:33:07+09:00"
+    },
+    {
+      "name": "「スロースリップ」活発な領域 東北沖で拡大か 地震への備えを",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015166431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260702/K10015166431_2607012253_0702051604_01_02.jpg",
+      "datePublished": "2026-07-02T05:16:03+09:00"
+    },
+    {
+      "name": "長野 東御の住宅で親子3人死傷 逮捕の父親は自殺図ったか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015166511000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260702/K10015166511_2607012333_0702071209_01_02.jpg",
+      "datePublished": "2026-07-02T07:12:08+09:00"
+    },
+    {
+      "name": "皇室典範改正案 与野党が協議へ 与党は定数削減法案成立も図る",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015166521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260702/K10015166521_2607020017_0702052621_01_02.jpg",
+      "datePublished": "2026-07-02T05:26:21+09:00"
+    },
+    {
+      "name": "米イラン協議 仲介国「前向きな進展」協議の行方は不透明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015166461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260702/K10015166461_2607012245_0702055758_01_02.jpg",
+      "datePublished": "2026-07-02T13:04:05+09:00"
+    },
+    {
+      "name": "FIFAワールドカップ2026【NHK特設サイト】",
+      "url": "https://nhk.jp/fifawc?cid=wc26-newsweb-awayomi",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31365091.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

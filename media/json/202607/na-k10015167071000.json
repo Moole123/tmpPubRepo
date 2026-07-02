@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015167071000",
+  "dataSourceId": "na",
+  "name": "参院決算委 来週6日に開催で合意 与野党が対立する中",
+  "headline": "参院決算委 来週6日に開催で合意 与野党が対立する中",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015167071000",
+    "playlistId": "news-nwa-politics-nationwide-20260702",
+    "newsarticleName": "参院決算委 来週6日に開催で合意 与野党が対立する中",
+    "playlistName": "7月2日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "国会で与野党が対立する中、参議院決算委員会は理事懇談会を開き、与党側は来週6日に高市総理大臣らの出席を求めて質疑を行いたいと提案しました。野党側は、参議院は決算を重視する立場であり法案審議でもないとし",
+  "dateModified": "2026-07-02T12:53:40+09:00",
+  "datePublished": "2026-07-02T12:53:40+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260702/K10015167071_2607021241_0702125341_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260702/K10015167071_2607021241_0702125341_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0002392",
+      "name": "国会",
+      "display": true
+    },
+    {
+      "id": "0002394",
+      "name": "参議院",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "国会で与野党が対立する中、参議院決算委員会は理事懇談会を開き、与党側は来週6日に高市総理大臣らの出席を求めて質疑を行いたいと提案しました。野党側は、参議院は決算を重視する立場であり法案審議でもないとし",
+  "articleBody": "国会で与野党が対立する中、参議院決算委員会は理事懇談会を開き、与党側は来週6日に高市総理大臣らの出席を求めて質疑を行いたいと提案しました。野党側は、参議院は決算を重視する立場であり法案審議でもないとして応じ、委員会の開催で合意しました。\n\n\n参議院決算委員会は2日午前、理事懇談会を開き、与党側は来週6日の午後に高市総理大臣とすべての閣僚の出席を求め、2024年度＝令和6年度の国の決算について締めくくりの質疑と採決を行うことを提案しました。\n\nこれに対し野党側は「国会で与野党が対立している状況だが、参議院は決算を重視する立場であり、政府提出の法案審議でもないので決算委員会の開催は必要だ」として応じる考えを示し、来週6日に決算委員会を開催することで与野党が合意しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "国会で与野党が対立する中、参議院決算委員会は理事懇談会を開き、与党側は来週6日に高市総理大臣らの出席を求めて質疑を行いたいと提案しました。野党側は、参議院は決算を重視する立場であり法案審議でもないとして応じ、委員会の開催で合意しました。\n",
+    "markedBody": "参議院決算委員会は2日午前、理事懇談会を開き、与党側は来週6日の午後に高市総理大臣とすべての閣僚の出席を求め、2024年度＝令和6年度の国の決算について締めくくりの質疑と採決を行うことを提案しました。\n\nこれに対し野党側は「国会で与野党が対立している状況だが、参議院は決算を重視する立場であり、政府提出の法案審議でもないので決算委員会の開催は必要だ」として応じる考えを示し、来週6日に決算委員会を開催することで与野党が合意しました。\n",
+    "trimmedLead": "国会で与野党が対立する中、参議院決算委員会は理事懇談会を開き、与党側は来週6日に高市総理大臣らの出席を求めて質疑を行いたいと提案しました。野党側は、参議院は決算を重視する立場であり法案審議でもないとして応じ、委員会の開催で合意しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015167071000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015167071000",
+  "video": [],
+  "citation": [
+    {
+      "name": "自民 “皇室典範の優先審議を” 中道 “定数削減など撤回を”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015166971000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260702/K10015166971_2607021146_0702120455_01_02.jpg",
+      "datePublished": "2026-07-02T12:04:54+09:00"
+    },
+    {
+      "name": "九州北部で土砂崩れや氾濫も 雨のピーク過ぎるも十分注意を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015166571000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260702/K10015166571_2607021223_0702122422_01_03.jpg",
+      "datePublished": "2026-07-02T11:52:50+09:00"
+    },
+    {
+      "name": "【大雨】各地で被害 熊本の旅館で浸水 長崎や大分でも土砂崩れ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015166881000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260702/K10015166881_2607021128_0702113446_01_02.jpg",
+      "datePublished": "2026-07-02T12:37:54+09:00"
+    },
+    {
+      "name": "まもなく日印首脳会談 インドで2兆円超の事業創出 発表見通し",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015166401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260702/K10015166401_2607012304_0702053311_01_02.jpg",
+      "datePublished": "2026-07-02T11:38:45+09:00"
+    },
+    {
+      "name": "2025年度の税収 84兆円台 6年連続で過去最高の見通し",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015166901000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260702/K10015166901_2607021210_0702121128_01_03.jpg",
+      "datePublished": "2026-07-02T11:42:17+09:00"
+    },
+    {
+      "name": "窃盗未遂疑いで4人逮捕 羽田の多額現金襲撃事件にも関与か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015166911000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260702/K10015166911_2607021125_0702114427_01_02.jpg",
+      "datePublished": "2026-07-02T11:44:26+09:00"
+    },
+    {
+      "name": "株価 一時1700円以上値下がり NY市場のAIや半導体関連下落受け",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015166831000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260702/K10015166831_2607021135_0702120600_01_02.jpg",
+      "datePublished": "2026-07-02T12:05:59+09:00"
+    },
+    {
+      "name": "カブス 鈴木誠也 大リーグ通算100号ホームラン チームは5連勝",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015166781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260702/K10015166781_2607021027_0702104123_01_02.jpg",
+      "datePublished": "2026-07-02T10:41:22+09:00"
+    },
+    {
+      "name": "皇室典範改正案 与野党が協議へ 与党は定数削減法案成立も図る",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015166521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260702/K10015166521_2607020017_0702052621_01_02.jpg",
+      "datePublished": "2026-07-02T05:26:21+09:00"
+    },
+    {
+      "name": "米イラン協議 仲介国「前向きな進展」協議の行方は不透明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015166461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260702/K10015166461_2607012245_0702055758_01_02.jpg",
+      "datePublished": "2026-07-02T13:04:05+09:00"
+    },
+    {
+      "name": "FIFAワールドカップ2026【NHK特設サイト】",
+      "url": "https://nhk.jp/fifawc?cid=wc26-newsweb-awayomi",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31365091.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
