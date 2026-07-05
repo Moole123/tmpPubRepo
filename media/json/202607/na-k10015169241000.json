@@ -1,0 +1,151 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015169241000",
+  "dataSourceId": "na",
+  "name": "土砂崩れ被害も 九州北部 四国で非常に激しい雨",
+  "headline": "土砂崩れ被害も 九州北部 四国で非常に激しい雨",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015169241000",
+    "playlistId": "news-nwa-disaster-nationwide-20260705",
+    "newsarticleName": "土砂崩れ被害も 九州北部 四国で非常に激しい雨",
+    "playlistName": "7月5日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "九州北部や四国で非常に激しい雨が降り、熊本県では昼前に線状降水帯が発生しました。各地で被害も出ています。\n\n\n【最新情報】九州北部 四国で非常に激しい雨\n\n【最新情報】九州北部 四国で非常に激しい雨\n",
+  "dateModified": "2026-07-05T14:38:17+09:00",
+  "datePublished": "2026-07-05T14:38:17+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260705/K10015169241_2607051410_0705143818_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260705/K10015169241_2607051410_0705143818_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0000035",
+      "name": "気象",
+      "display": true
+    },
+    {
+      "id": "0002240",
+      "name": "福岡県",
+      "display": true
+    },
+    {
+      "id": "0002244",
+      "name": "大分県",
+      "display": true
+    },
+    {
+      "id": "0002243",
+      "name": "熊本県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "九州北部や四国で非常に激しい雨が降り、熊本県では昼前に線状降水帯が発生しました。各地で被害も出ています。\n\n\n【最新情報】九州北部 四国で非常に激しい雨\n\n【最新情報】九州北部 四国で非常に激しい雨\n",
+  "articleBody": "九州北部や四国で非常に激しい雨が降り、熊本県では昼前に線状降水帯が発生しました。各地で被害も出ています。\n\n\n【最新情報】九州北部 四国で非常に激しい雨\n\n【最新情報】九州北部 四国で非常に激しい雨\n\n福岡 がけ崩れや道路冠水相次ぐ\n\n福岡県によりますと、5日午前9時の時点で7件の被害が確認されているということです。\n\n確認されている被害は糸島市でがけ崩れが2件、道路の損壊が1件、小郡市とうきは市で道路の冠水があわせて4件です。\n\nいずれもけが人はいないということです。\n\n大分 線路に土砂流入 日豊本線で運転見合わせ\n\nJR九州によりますと、大雨の影響で、日豊本線は大分県の東別府駅と西大分駅の間で、線路に土砂が流入したため、中津駅と大分駅の間の上下線で運転を見合わせています。\n\n熊本 美里町 国道に土砂流れ込み通行止め\n\n熊本県によりますと、美里町早楠の国道445号に土砂が流れ込んだため、付近のおよそ8.5キロの区間を5日正午から全面通行止めにしているということです。\n\nけが人はいないということです。\n\n熊本 八代 道路で土砂崩れ\n\n熊本県八代市によりますと、八代市泉町の県道で土砂崩れが発生し、片側通行になっているということです。\n\nまた、八代市坂本町中谷の市道でも土砂崩れが発生して、付近が通行止めになっているということです。\n\nこの土砂崩れによるけが人はいないということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "九州北部や四国で非常に激しい雨が降り、熊本県では昼前に線状降水帯が発生しました。各地で被害も出ています。\n",
+    "markedBody": ":::nw--link-type4 {href=https://news.web.nhk/newsweb/na/na-k10015168961000}\n![【最新情報】九州北部 四国で非常に激しい雨](https://news.web.nhk/news/html/20260705/K10015169241_2607051348_0705143818_02_03.jpg)\n\n**【最新情報】九州北部 四国で非常に激しい雨**\n:::\n\n### 福岡 がけ崩れや道路冠水相次ぐ\n\n福岡県によりますと、5日午前9時の時点で7件の被害が確認されているということです。\n\n確認されている被害は糸島市でがけ崩れが2件、道路の損壊が1件、小郡市とうきは市で道路の冠水があわせて4件です。\n\nいずれもけが人はいないということです。\n\n### 大分 線路に土砂流入 日豊本線で運転見合わせ\n\n![](https://news.web.nhk/news/html/20260705/K10015169241_2607051410_0705143818_02_04.jpg)\n\nJR九州によりますと、大雨の影響で、日豊本線は大分県の東別府駅と西大分駅の間で、線路に土砂が流入したため、中津駅と大分駅の間の上下線で運転を見合わせています。\n\n### 熊本 美里町 国道に土砂流れ込み通行止め\n\n熊本県によりますと、美里町早楠の国道445号に土砂が流れ込んだため、付近のおよそ8.5キロの区間を5日正午から全面通行止めにしているということです。\n\nけが人はいないということです。\n\n### 熊本 八代 道路で土砂崩れ\n\n熊本県八代市によりますと、八代市泉町の県道で土砂崩れが発生し、片側通行になっているということです。\n\nまた、八代市坂本町中谷の市道でも土砂崩れが発生して、付近が通行止めになっているということです。\n\nこの土砂崩れによるけが人はいないということです。\n",
+    "trimmedLead": "九州北部や四国で非常に激しい雨が降り、熊本県では昼前に線状降水帯が発生しました。各地で被害も出ています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015169241000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015169241000",
+  "video": [],
+  "citation": [
+    {
+      "name": "6日にかけ梅雨前線停滞 九州北部で再び非常に激しい雨のおそれ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015168961000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260705/K10015168961_2607050746_0705075142_01_03.jpg",
+      "datePublished": "2026-07-05T16:04:47+09:00"
+    },
+    {
+      "name": "新たな防災気象情報と避難 いつ避難する？",
+      "url": "https://news.web.nhk/newsweb/na/nc-73478668-2271-4d37-85e6-639be6f2927c",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31369801.jpg"
+    },
+    {
+      "name": "災害に遭う前に ハザードマップで危険を知る",
+      "url": "https://news.web.nhk/newsweb/na/nc-0c2dd9e1-562b-4711-a450-663274ad5d6c",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_19407434.jpg"
+    },
+    {
+      "name": "「記録的短時間大雨」とは? どう身を守る?",
+      "url": "https://news.web.nhk/newsweb/na/nc-2cb59e60-dc2e-4535-a3f0-9c825e2e34a8",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31369867.jpg"
+    },
+    {
+      "name": "線状降水帯とは？情報が出たらどうする？",
+      "url": "https://news.web.nhk/newsweb/na/nc-5092b435-f5e7-4767-a457-1c7aac190df9",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31369309.jpg"
+    },
+    {
+      "name": "土砂災害 警戒や避難のポイントは？",
+      "url": "https://news.web.nhk/newsweb/na/nc-d921faff-fdcd-4223-b396-f948340c5c1c",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_19407491.jpg"
+    },
+    {
+      "name": "川の氾濫 警戒のポイントは？",
+      "url": "https://news.web.nhk/newsweb/na/nc-1c290155-b464-4391-95b8-2f9687fa1f25",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_19407469.jpg"
+    },
+    {
+      "name": "「命を守る行動を！」特別警報に緊急安全確保…どうすれば",
+      "url": "https://news.web.nhk/newsweb/na/nc-4206e8be-3c01-4ef5-943c-c5f2d8c343ae",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_19407519.jpg"
+    },
+    {
+      "name": "突風や竜巻の対策 被害を防ぐには？",
+      "url": "https://news.web.nhk/newsweb/na/nc-3008c20d-1143-47af-9095-1deb6153f674",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31369879.jpg"
+    },
+    {
+      "name": "「短時間大雪」とは？どう行動する？",
+      "url": "https://news.web.nhk/newsweb/na/nc-c0ce507c-f9c9-4cf8-86bb-03a405c413b2",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31369897.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
