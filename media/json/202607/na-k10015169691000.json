@@ -1,0 +1,175 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015169691000",
+  "dataSourceId": "na",
+  "name": "動画配信サービス「バンダイチャンネル」にサイバー攻撃で4万人余を勝手に退会させたか 15歳高校生を逮捕",
+  "headline": "サイバー攻撃で4万人余を勝手に退会させたか 高校生を逮捕",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015169691000",
+    "playlistId": "news-nwa-society-nationwide-20260706",
+    "newsarticleName": "動画配信サービス「バンダイチャンネル」にサイバー攻撃で4万人余を勝手に退会させたか 15歳高校生を逮捕",
+    "playlistName": "7月6日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "15歳の男子高校生が生成AIなどで自作したプログラムで、おもちゃメーカー最大手の「バンダイナムコホールディングス」の子会社が運営する動画配信サービスにサイバー攻撃を行い、4万6000人あまりの会員を勝",
+  "dateModified": "2026-07-06T10:46:10+09:00",
+  "datePublished": "2026-07-06T10:46:10+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260706/K10015169691_2607060937_0706104611_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260706/K10015169691_2607060937_0706104611_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0000325",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "0001538",
+      "name": "事件・事故",
+      "display": true
+    },
+    {
+      "id": "0000010",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "0000009",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "0002211",
+      "name": "埼玉県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "15歳の男子高校生が生成AIなどで自作したプログラムで、おもちゃメーカー最大手の「バンダイナムコホールディングス」の子会社が運営する動画配信サービスにサイバー攻撃を行い、4万6000人あまりの会員を勝",
+  "articleBody": "15歳の男子高校生が生成AIなどで自作したプログラムで、おもちゃメーカー最大手の「バンダイナムコホールディングス」の子会社が運営する動画配信サービスにサイバー攻撃を行い、4万6000人あまりの会員を勝手に退会させたとして警視庁に逮捕されました。\n\n\n逮捕されたのは、埼玉県所沢市の高校1年の男子生徒（15）です。\n\n警視庁によりますと、去年11月、「バンダイナムコホールディングス」の子会社のサーバーに、サイバー攻撃を行い、動画配信サービス「バンダイチャンネル」の会員4万6000人あまりを勝手に退会させたとして業務妨害の疑いが持たれています。\n\nこれまでの調べで生徒は、会社のサーバーのぜい弱性を見つけたあと自作したサイバー攻撃のプログラムを生成AIを使ってより高度なものにして悪用していたとみられています。\n\n警視庁は会員である他人のアカウントでサービスにログインしていたとして不正アクセス禁止法違反の疑いで先月、生徒を逮捕し、捜査を進めていました。\n\n調べに対し、容疑を認めたうえで、「会社に恨みはなかった。独学で情報処理の能力を身につけ、通信内容を解析するのが趣味だった」などと供述しているということです。\n\nサイバー攻撃を受けた会社は、1か月あまりにわたるサービスの停止や影響が出た会員への返金対応などを強いられました。\n",
+  "detailedArticleBody": {
+    "markedLead": "15歳の男子高校生が生成AIなどで自作したプログラムで、おもちゃメーカー最大手の「バンダイナムコホールディングス」の子会社が運営する動画配信サービスにサイバー攻撃を行い、4万6000人あまりの会員を勝手に退会させたとして警視庁に逮捕されました。\n",
+    "markedBody": "逮捕されたのは、埼玉県所沢市の高校1年の男子生徒（15）です。\n\n警視庁によりますと、去年11月、「バンダイナムコホールディングス」の子会社のサーバーに、サイバー攻撃を行い、動画配信サービス「バンダイチャンネル」の会員4万6000人あまりを勝手に退会させたとして業務妨害の疑いが持たれています。\n\nこれまでの調べで生徒は、会社のサーバーのぜい弱性を見つけたあと自作したサイバー攻撃のプログラムを生成AIを使ってより高度なものにして悪用していたとみられています。\n\n警視庁は会員である他人のアカウントでサービスにログインしていたとして不正アクセス禁止法違反の疑いで先月、生徒を逮捕し、捜査を進めていました。\n\n調べに対し、容疑を認めたうえで、「会社に恨みはなかった。独学で情報処理の能力を身につけ、通信内容を解析するのが趣味だった」などと供述しているということです。\n\nサイバー攻撃を受けた会社は、1か月あまりにわたるサービスの停止や影響が出た会員への返金対応などを強いられました。\n",
+    "trimmedLead": "15歳の男子高校生が生成AIなどで自作したプログラムで、おもちゃメーカー最大手の「バンダイナムコホールディングス」の子会社が運営する動画配信サービスにサイバー攻撃を行い、4万6000人あまりの会員を勝手に退会させたとして警視庁に逮捕されました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015169691000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015169691000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "サイバー攻撃で4万人余を勝手に退会させたか 高校生を逮捕",
+      "description": "15歳の男子高校生が生成AIなどで自作したプログラムで、おもちゃメーカー最大手の「バンダイナムコホールディングス」の子会社が運営する動画配信サービスにサイバー攻撃を行い、4万6000人あまりの会員を勝",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015169691_202607061005_202607061109/index.m3u8&mrposter=/news/html/20260706/K10015169691_2607060937_0706104611_01_02.jpg",
+      "duration": "PT1M18S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015169691_202607061005_202607061109/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260706/K10015169691_2607060937_0706104611_01_02.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "九州北部で激しい雨 大気不安定続く 土砂災害・浸水に十分注意",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015169491000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260706/K10015169491_2607060437_0706050920_01_02.jpg",
+      "datePublished": "2026-07-06T11:57:52+09:00"
+    },
+    {
+      "name": "防災気象情報 6割がレベルの意味分からず 専門家調査 広島",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015169521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260706/K10015169521_2607052033_0706045111_01_02.jpg",
+      "datePublished": "2026-07-06T04:51:11+09:00"
+    },
+    {
+      "name": "群馬 伊勢崎 住宅で6歳の長女と3歳の長男死亡 父親を逮捕",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015169611000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260706/K10015169611_2607060748_0706090057_01_02.jpg",
+      "datePublished": "2026-07-06T11:54:15+09:00"
+    },
+    {
+      "name": "野党 集中審議開催を 政府与党 高市首相の意向踏まえ協議へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015169481000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260706/K10015169481_2607052116_0706050606_01_02.jpg",
+      "datePublished": "2026-07-06T05:06:05+09:00"
+    },
+    {
+      "name": "マダニ媒介の感染症 SFTS患者数 過去最多の去年上回るペース",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015168401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260706/K10015168401_2607032100_0706045216_01_02.jpg",
+      "datePublished": "2026-07-06T04:52:16+09:00"
+    },
+    {
+      "name": "ベネズエラ地震 死者3000人超 住宅・インフラ被害6兆円近くに",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015169651000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260706/K10015169651_2607060759_0706080302_01_02.jpg",
+      "datePublished": "2026-07-06T08:03:02+09:00"
+    },
+    {
+      "name": "FIFAワールドカップ2026【NHK特設サイト】",
+      "url": "https://nhk.jp/fifawc?cid=wc26-newsweb-awayomi",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31365091.jpg"
+    },
+    {
+      "name": "養老孟司さん 88歳 がんと向き合い見つめた生と死",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015165941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260705/K10015165941_2607011310_0705083529_01_02.jpg",
+      "datePublished": "2026-07-05T08:35:28+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
