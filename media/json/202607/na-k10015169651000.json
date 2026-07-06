@@ -1,0 +1,160 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015169651000",
+  "dataSourceId": "na",
+  "name": "ベネズエラ地震 死者3000人超 住宅・インフラ被害6兆円近くに",
+  "headline": "ベネズエラ地震 死者3000人超 住宅・インフラ被害6兆円近くに",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015169651000",
+    "playlistId": "news-nwa-international-nationwide-20260706",
+    "newsarticleName": "ベネズエラ地震 死者3000人超 住宅・インフラ被害6兆円近くに",
+    "playlistName": "7月6日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "南米ベネズエラで先月発生したマグニチュード7を超える地震でベネズエラ政府は死者の数が3000人を超えたと発表しました。さらに増える可能性が指摘されているほか、住宅を失った人が1万7000人余りに上り、",
+  "dateModified": "2026-07-06T08:03:02+09:00",
+  "datePublished": "2026-07-06T08:03:02+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260706/K10015169651_2607060759_0706080302_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260706/K10015169651_2607060759_0706080302_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0002741",
+      "name": "ベネズエラ",
+      "display": true
+    },
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0002632",
+      "name": "中南米",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "南米ベネズエラで先月発生したマグニチュード7を超える地震でベネズエラ政府は死者の数が3000人を超えたと発表しました。さらに増える可能性が指摘されているほか、住宅を失った人が1万7000人余りに上り、",
+  "articleBody": "南米ベネズエラで先月発生したマグニチュード7を超える地震でベネズエラ政府は死者の数が3000人を超えたと発表しました。さらに増える可能性が指摘されているほか、住宅を失った人が1万7000人余りに上り、被災者への支援が課題になっています。\n\n\nベネズエラで先月24日、相次いで起きたマグニチュード7を超える地震でベネズエラ政府は5日、これまでに3342人の死亡が確認されたと発表しました。\n\n発生から10日以上が経過し、アメリカの有力紙、ニューヨーク・タイムズなどは、遺体の身元を確認する作業に時間がかかっていることなどから死者の数がさらに増える可能性があると伝えています。\n\nまた、国連の機関は、住宅やインフラへの直接的な被害額が370億ドル、日本円で6兆円近くになる可能性があると分析しています。\n\nベネズエラ政府の発表でも、住宅を失った人は1万7000人余りに上り、避難生活を余儀なくされている被災者への支援が課題になっています。\n",
+  "detailedArticleBody": {
+    "markedLead": "南米ベネズエラで先月発生したマグニチュード7を超える地震でベネズエラ政府は死者の数が3000人を超えたと発表しました。さらに増える可能性が指摘されているほか、住宅を失った人が1万7000人余りに上り、被災者への支援が課題になっています。\n",
+    "markedBody": "ベネズエラで先月24日、相次いで起きたマグニチュード7を超える地震でベネズエラ政府は5日、これまでに3342人の死亡が確認されたと発表しました。\n\n発生から10日以上が経過し、アメリカの有力紙、ニューヨーク・タイムズなどは、遺体の身元を確認する作業に時間がかかっていることなどから死者の数がさらに増える可能性があると伝えています。\n\nまた、国連の機関は、住宅やインフラへの直接的な被害額が370億ドル、日本円で6兆円近くになる可能性があると分析しています。\n\nベネズエラ政府の発表でも、住宅を失った人は1万7000人余りに上り、避難生活を余儀なくされている被災者への支援が課題になっています。\n",
+    "trimmedLead": "南米ベネズエラで先月発生したマグニチュード7を超える地震でベネズエラ政府は死者の数が3000人を超えたと発表しました。さらに増える可能性が指摘されているほか、住宅を失った人が1万7000人余りに上り、被災者への支援が課題になっています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015169651000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015169651000",
+  "video": [],
+  "citation": [
+    {
+      "name": "ハメネイ師葬儀 5日は後継者モジタバ師姿見せず 兄弟は参列",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015169571000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260706/K10015169571_2607060412_0706053626_01_02.jpg",
+      "datePublished": "2026-07-06T05:36:25+09:00"
+    },
+    {
+      "name": "ロシア軍の東部要衝掌握は「誇張」米戦争研究所の分析",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015169591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260706/K10015169591_2607060554_0706055549_01_02.jpg",
+      "datePublished": "2026-07-06T05:54:43+09:00"
+    },
+    {
+      "name": "OPECプラスの7か国 8月に日量18万バレル余の増産発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015169531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260706/K10015169531_2607052132_0706044925_01_02.jpg",
+      "datePublished": "2026-07-06T04:49:24+09:00"
+    },
+    {
+      "name": "モスクワ国際バレエコンクール グジェレフ瞭舞さんが金賞",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015169561000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260706/K10015169561_2607052341_0706055812_01_02.jpg",
+      "datePublished": "2026-07-06T05:58:11+09:00"
+    },
+    {
+      "name": "フランス40度超 過酷な屋根裏部屋暮らし 歴史的屋根も暑さ増幅",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015169311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260705/K10015169311_2607051544_0705173355_01_02.jpg",
+      "datePublished": "2026-07-05T17:33:54+09:00"
+    },
+    {
+      "name": "トランプ大統領演説 アメリカ建国250年を誇る 対立勢力批判も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015169121000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260705/K10015169121_2607051235_0705172527_01_02.jpg",
+      "datePublished": "2026-07-05T17:25:26+09:00"
+    },
+    {
+      "name": "はやぶさ2が小惑星「トリフネ」に接近 無事通過 JAXA",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015168951000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260705/K10015168951_2607051346_0705134813_01_03.jpg",
+      "datePublished": "2026-07-05T21:41:16+09:00"
+    },
+    {
+      "name": "【随時更新】Ｗ杯 決勝トーナメント日程・結果 動画 8強かけて",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015163051000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260628/K10015163051_2606281235_0628160014_01_02.jpg",
+      "datePublished": "2026-07-05T11:20:51+09:00"
+    },
+    {
+      "name": "カボベルデ どんな国？W杯で大躍進 日本と意外なつながりも",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015169011000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260704/K10015169011_2607042218_0704222604_01_02.jpg",
+      "datePublished": "2026-07-05T00:20:31+09:00"
+    },
+    {
+      "name": "FIFAワールドカップ2026【NHK特設サイト】",
+      "url": "https://nhk.jp/fifawc?cid=wc26-newsweb-awayomi",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31365091.jpg"
+    },
+    {
+      "name": "【随時更新】ロシア ウクライナに軍事侵攻（7月5日の動き）",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015140551000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260705/K10015140551_2606041222_0705145713_01_02.jpg",
+      "datePublished": "2026-07-05T14:57:12+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
