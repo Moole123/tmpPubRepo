@@ -1,0 +1,161 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015172411000",
+  "dataSourceId": "na",
+  "name": "NY株式市場 ダウ一時800ドル超値下がり",
+  "headline": "NY株式市場 ダウ一時800ドル超値下がり",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015172411000",
+    "playlistId": "news-nwa-business-nationwide-20260709",
+    "newsarticleName": "NY株式市場 ダウ一時800ドル超値下がり",
+    "playlistName": "7月9日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "8日のニューヨーク株式市場ではイラン情勢の先行きに対する不透明感から売り注文が広がり、ダウ平均株価は前日の終値と比べて一時、800ドルを超える値下がりとなりました。\n\n\nアメリカのトランプ大統領がイラ",
+  "dateModified": "2026-07-09T01:27:19+09:00",
+  "datePublished": "2026-07-09T01:27:19+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260709/K10015172411_2607090049_0709012720_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260709/K10015172411_2607090049_0709012720_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済",
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "0002370",
+      "name": "ニューヨーク",
+      "display": true
+    },
+    {
+      "id": "0002423",
+      "name": "金融",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "8日のニューヨーク株式市場ではイラン情勢の先行きに対する不透明感から売り注文が広がり、ダウ平均株価は前日の終値と比べて一時、800ドルを超える値下がりとなりました。\n\n\nアメリカのトランプ大統領がイラ",
+  "articleBody": "8日のニューヨーク株式市場ではイラン情勢の先行きに対する不透明感から売り注文が広がり、ダウ平均株価は前日の終値と比べて一時、800ドルを超える値下がりとなりました。\n\n\nアメリカのトランプ大統領がイランとの停戦や戦闘終結に向けた覚書について「私としては終わったと思う」と述べたことをきっかけに、投資家の間ではリスクを回避しようという姿勢が強まっています。\n\nさらに原油の先物価格が大きく上昇していることでアメリカでインフレが再び加速することへの警戒感が広がっています。\n",
+  "detailedArticleBody": {
+    "markedLead": "8日のニューヨーク株式市場ではイラン情勢の先行きに対する不透明感から売り注文が広がり、ダウ平均株価は前日の終値と比べて一時、800ドルを超える値下がりとなりました。\n",
+    "markedBody": "アメリカのトランプ大統領がイランとの停戦や戦闘終結に向けた覚書について「私としては終わったと思う」と述べたことをきっかけに、投資家の間ではリスクを回避しようという姿勢が強まっています。\n\nさらに原油の先物価格が大きく上昇していることでアメリカでインフレが再び加速することへの警戒感が広がっています。\n",
+    "trimmedLead": "8日のニューヨーク株式市場ではイラン情勢の先行きに対する不透明感から売り注文が広がり、ダウ平均株価は前日の終値と比べて一時、800ドルを超える値下がりとなりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015172411000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015172411000",
+  "video": [],
+  "citation": [
+    {
+      "name": "ロシアへの“深部攻撃” 局面は変わるのか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015171671_2607081143_0708141039_01_02.jpg",
+      "datePublished": "2026-07-08T14:10:38+09:00"
+    },
+    {
+      "name": "イラン情勢 トランプ大統領「おそらく今夜もまた攻撃する」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015171371_2607081757_0708180738_01_02.jpg",
+      "datePublished": "2026-07-09T00:31:01+09:00"
+    },
+    {
+      "name": "NY原油先物価格 一時1バレル＝75ドル台 トランプ大統領発言で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015172181000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015172181_2607081912_0708204157_01_02.jpg",
+      "datePublished": "2026-07-08T20:41:56+09:00"
+    },
+    {
+      "name": "クロマグロ国際会議が開幕 新ルール合意で増枠できるか焦点",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171571000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015171571_2607081503_0708192732_01_03.jpg",
+      "datePublished": "2026-07-08T19:27:31+09:00"
+    },
+    {
+      "name": "ウクライナ軍「国境から約2500キロの石油精製施設を攻撃」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171491000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015171491_2607080956_0708120408_01_02.jpg",
+      "datePublished": "2026-07-08T12:04:08+09:00"
+    },
+    {
+      "name": "“中国ミサイル発射は大きな脅威” 自民合同会議で懸念の声",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015172151000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015172151_2607081910_0708202953_01_02.jpg",
+      "datePublished": "2026-07-08T20:29:52+09:00"
+    },
+    {
+      "name": "トランプ政権 イラン産原油の生産・販売認可を取り消しと発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171411000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015171411_2607080544_0708054456_01_02.jpg",
+      "datePublished": "2026-07-08T09:24:00+09:00"
+    },
+    {
+      "name": "英リフォームUK党首が下院議員を辞職 補欠選挙へ立候補へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171451000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015171451_2607080744_0708083952_01_02.jpg",
+      "datePublished": "2026-07-08T08:39:51+09:00"
+    },
+    {
+      "name": "仏ルペン氏 控訴審も有罪 上告し大統領選挙に立候補の意向",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015171431_2607080623_0708080937_01_02.jpg",
+      "datePublished": "2026-07-08T08:09:36+09:00"
+    },
+    {
+      "name": "前最高指導者葬儀 イラン・米戦争 見えてきたものは",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015170721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260707/K10015170721_2607071132_0707141310_01_02.jpg",
+      "datePublished": "2026-07-07T14:13:09+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
