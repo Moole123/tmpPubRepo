@@ -1,0 +1,160 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015172281000",
+  "dataSourceId": "na",
+  "name": "ネットカフェ会社にサイバー攻撃の疑い 元男子生徒を逮捕",
+  "headline": "ネットカフェ会社にサイバー攻撃の疑い 元男子生徒を逮捕",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015172281000",
+    "playlistId": "news-nwa-society-nationwide-20260709",
+    "newsarticleName": "ネットカフェ会社にサイバー攻撃の疑い 元男子生徒を逮捕",
+    "playlistName": "7月9日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "去年、インターネットカフェの「快活CLUB」などを運営する会社に720万回以上のサイバー攻撃を行い個人情報を漏えいさせたとして当時16歳の高校2年だった元男子生徒が逮捕されたことが捜査関係者への取材で",
+  "dateModified": "2026-07-09T05:21:00+09:00",
+  "datePublished": "2026-07-09T05:21:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260709/K10015172281_2607082117_0709052101_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260709/K10015172281_2607082117_0709052101_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0000325",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "0001538",
+      "name": "事件・事故",
+      "display": true
+    },
+    {
+      "id": "0000010",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "0000009",
+      "name": "IT・ネット",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "去年、インターネットカフェの「快活CLUB」などを運営する会社に720万回以上のサイバー攻撃を行い個人情報を漏えいさせたとして当時16歳の高校2年だった元男子生徒が逮捕されたことが捜査関係者への取材で",
+  "articleBody": "去年、インターネットカフェの「快活CLUB」などを運営する会社に720万回以上のサイバー攻撃を行い個人情報を漏えいさせたとして当時16歳の高校2年だった元男子生徒が逮捕されたことが捜査関係者への取材で分かりました。警視庁はサイバー攻撃を、SNSで集まった当時12歳から18歳の4人で仕掛けたとみて調べています。調べに対して容疑を否認しているということです。\n\n\n逮捕されたのは、東京 葛飾区に住む当時16歳で高校2年だった元男子生徒です。\n\n捜査関係者によりますと、去年1月、「快活CLUB」などを運営する会社が管理する公式アプリのサーバーに、724万回余りにわたって、会員情報を送るように指示する不正な指令情報を送り会社の業務を妨害したなどとして不正アクセス禁止法違反と偽計業務妨害の疑いがもたれています。\n\nサイバー攻撃は、元生徒のほか、同じSNSのグループに参加していた当時の年齢で12歳の元小学生と別の16歳、それに18歳のあわせて4人で行い、一部は攻撃の様子を実況中継していたということです。\n\n逮捕された元生徒は、別の16歳が生成AIを悪用するなどして作った不正アクセスのプログラムを共有してもらい使っていたとみられています。\n\nこのサイバー攻撃によって利用客の名前や住所などの個人情報724万件余りが漏えいしましたが、4人のうち18歳はこうした情報をデータベース化していたということで、警視庁が目的などを調べています。\n\n調べに対し元生徒は、「関わっていない」などと供述し、偽計業務妨害の疑いについて容疑を否認しているということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "去年、インターネットカフェの「快活CLUB」などを運営する会社に720万回以上のサイバー攻撃を行い個人情報を漏えいさせたとして当時16歳の高校2年だった元男子生徒が逮捕されたことが捜査関係者への取材で分かりました。警視庁はサイバー攻撃を、SNSで集まった当時12歳から18歳の4人で仕掛けたとみて調べています。調べに対して容疑を否認しているということです。\n",
+    "markedBody": "逮捕されたのは、東京 葛飾区に住む当時16歳で高校2年だった元男子生徒です。\n\n捜査関係者によりますと、去年1月、「快活CLUB」などを運営する会社が管理する公式アプリのサーバーに、724万回余りにわたって、会員情報を送るように指示する不正な指令情報を送り会社の業務を妨害したなどとして不正アクセス禁止法違反と偽計業務妨害の疑いがもたれています。\n\nサイバー攻撃は、元生徒のほか、同じSNSのグループに参加していた当時の年齢で12歳の元小学生と別の16歳、それに18歳のあわせて4人で行い、一部は攻撃の様子を実況中継していたということです。\n\n逮捕された元生徒は、別の16歳が生成AIを悪用するなどして作った不正アクセスのプログラムを共有してもらい使っていたとみられています。\n\nこのサイバー攻撃によって利用客の名前や住所などの個人情報724万件余りが漏えいしましたが、4人のうち18歳はこうした情報をデータベース化していたということで、警視庁が目的などを調べています。\n\n調べに対し元生徒は、「関わっていない」などと供述し、偽計業務妨害の疑いについて容疑を否認しているということです。\n",
+    "trimmedLead": "去年、インターネットカフェの「快活CLUB」などを運営する会社に720万回以上のサイバー攻撃を行い個人情報を漏えいさせたとして当時16歳の高校2年だった元男子生徒が逮捕されたことが捜査関係者への取材で分かりました。警視庁はサイバー攻撃を、SNSで集まった当時12歳から18歳の4人で仕掛けたとみて調べています。調べに対して容疑を否認しているということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015172281000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015172281000",
+  "video": [],
+  "citation": [
+    {
+      "name": "【詳しく】ドジャース 大谷翔平20号HR 大リーグ通算300号到達",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171641000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015171641_2607081455_0708151426_01_03.jpg",
+      "datePublished": "2026-07-08T19:16:13+09:00"
+    },
+    {
+      "name": "九州北部 中国地方 近畿で梅雨明け 9日はさらに気温上昇",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171561000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015171561_2607081547_0708170632_01_03.jpg",
+      "datePublished": "2026-07-08T18:53:45+09:00"
+    },
+    {
+      "name": "台風9号 沖縄 先島諸島に非常に強い勢力で接近へ 早めに備えを",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015171421_2607082229_0708223012_01_03.jpg",
+      "datePublished": "2026-07-08T18:52:21+09:00"
+    },
+    {
+      "name": "サッカー 三笘薫選手 車を運転中に自転車と衝突 女性けが",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015172141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015172141_2607081840_0708184125_01_02.jpg",
+      "datePublished": "2026-07-08T19:59:20+09:00"
+    },
+    {
+      "name": "茨城 同居女性の唇縫い付け事件 被害女性 食事とれない状態",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171551000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015171551_2607081004_0708112342_01_02.jpg",
+      "datePublished": "2026-07-08T18:28:13+09:00"
+    },
+    {
+      "name": "議長ポストめぐり金銭授受あったか聞き取り調査へ 福岡県議会",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015172001000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015172001_2607081725_0708180304_01_02.jpg",
+      "datePublished": "2026-07-08T20:56:30+09:00"
+    },
+    {
+      "name": "衆院議運委 皇室典範改正案 10日審議入りで与野党が合意",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015172161000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015172161_2607081913_0708203943_01_02.jpg",
+      "datePublished": "2026-07-08T20:39:42+09:00"
+    },
+    {
+      "name": "エボラ出血熱など感染症対応強化 医療機関集約や基準見直しへ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015172081000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015172081_2607081754_0708193255_01_02.jpg",
+      "datePublished": "2026-07-08T19:32:54+09:00"
+    },
+    {
+      "name": "クロマグロ国際会議が開幕 新ルール合意で増枠できるか焦点",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171571000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015171571_2607081503_0708192732_01_03.jpg",
+      "datePublished": "2026-07-08T19:27:31+09:00"
+    },
+    {
+      "name": "「しんでしまうとはなにごとだ」人気ゲームに通じる人生観とは",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015169961000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015169961_2607081148_0708152602_01_02.jpg",
+      "datePublished": "2026-07-08T15:26:01+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
