@@ -1,0 +1,157 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015171561000",
+  "dataSourceId": "na",
+  "name": "九州北部 中国地方 近畿で梅雨明け 平年より11日早く",
+  "headline": "九州北部 中国地方 近畿で梅雨明け 平年より11日早く",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015171561000",
+    "playlistId": "news-nwa-disaster-nationwide-20260708",
+    "newsarticleName": "九州北部 中国地方 近畿で梅雨明け 平年より11日早く",
+    "playlistName": "7月8日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "九州北部から近畿にかけては高気圧に覆われ晴れ、この先1週間も晴れる日が多い見込みで、気象庁は、午前11時ごろ、「九州北部と中国地方、近畿が梅雨明けしたとみられる」と発表しました。\n\n梅雨明けはそれぞれ",
+  "dateModified": "2026-07-08T11:06:55+09:00",
+  "datePublished": "2026-07-08T11:06:55+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260708/K10015171561_2607081043_0708110656_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260708/K10015171561_2607081043_0708110656_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0000035",
+      "name": "気象",
+      "display": true
+    },
+    {
+      "id": "0002716",
+      "name": "気象庁",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "九州北部から近畿にかけては高気圧に覆われ晴れ、この先1週間も晴れる日が多い見込みで、気象庁は、午前11時ごろ、「九州北部と中国地方、近畿が梅雨明けしたとみられる」と発表しました。\n\n梅雨明けはそれぞれ",
+  "articleBody": "九州北部から近畿にかけては高気圧に覆われ晴れ、この先1週間も晴れる日が多い見込みで、気象庁は、午前11時ごろ、「九州北部と中国地方、近畿が梅雨明けしたとみられる」と発表しました。\n\n梅雨明けはそれぞれ、平年より11日早く、去年より11日遅くなっています。\n\n\n【ダウンロードはこちらから】NHK ニュース 防災アプリ\n\n【ダウンロードはこちらから】NHK ニュース 防災アプリ\n\n《現在の気温》\n",
+  "detailedArticleBody": {
+    "markedLead": "九州北部から近畿にかけては高気圧に覆われ晴れ、この先1週間も晴れる日が多い見込みで、気象庁は、午前11時ごろ、「九州北部と中国地方、近畿が梅雨明けしたとみられる」と発表しました。\n\n梅雨明けはそれぞれ、平年より11日早く、去年より11日遅くなっています。\n",
+    "markedBody": ":::nw--link-type4 {href=https://www.nhk.or.jp/nhkone/service/app/news_bousai/}\n![【ダウンロードはこちらから】NHK ニュース 防災アプリ](https://news.web.nhk/news/html/20260708/K10015171561_2607081007_0708110656_02_03.jpg)\n\n**【ダウンロードはこちらから】NHK ニュース 防災アプリ**\n:::\n\n### 《現在の気温》\n\n```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"003\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\r\n    <div class=\"fs-wrap\">\r\n      <figure>\r\n        <img src=\"https://news.web.nhk/n-data/dn/735913.jpg\" width=\"640\" height=\"360\" alt=\"\">\r\n      </figure>\r\n    </div>\n</div>\n```\n",
+    "noHtmlMarkedLead": "九州北部から近畿にかけては高気圧に覆われ晴れ、この先1週間も晴れる日が多い見込みで、気象庁は、午前11時ごろ、「九州北部と中国地方、近畿が梅雨明けしたとみられる」と発表しました。\n\n梅雨明けはそれぞれ、平年より11日早く、去年より11日遅くなっています。\n",
+    "noHtmlMarkedBody": ":::nw--link-type4 {href=https://www.nhk.or.jp/nhkone/service/app/news_bousai/}\n![【ダウンロードはこちらから】NHK ニュース 防災アプリ](https://news.web.nhk/news/html/20260708/K10015171561_2607081007_0708110656_02_03.jpg)\n\n**【ダウンロードはこちらから】NHK ニュース 防災アプリ**\n:::\n\n### 《現在の気温》\n",
+    "trimmedLead": "九州北部から近畿にかけては高気圧に覆われ晴れ、この先1週間も晴れる日が多い見込みで、気象庁は、午前11時ごろ、「九州北部と中国地方、近畿が梅雨明けしたとみられる」と発表しました。\n\n梅雨明けはそれぞれ、平年より11日早く、去年より11日遅くなっています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015171561000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015171561000",
+  "video": [],
+  "citation": [
+    {
+      "name": "台風9号 10日以降に沖縄 先島諸島接近へ 非常に強い勢力を維持",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015171421_2607081044_0708104630_01_03.jpg",
+      "datePublished": "2026-07-08T07:10:38+09:00"
+    },
+    {
+      "name": "福岡県議会 全議員に聞き取り実施で調整 金銭やりとり調査へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015171331_2607080020_0708061139_01_02.jpg",
+      "datePublished": "2026-07-08T06:11:38+09:00"
+    },
+    {
+      "name": "リニア中央新幹線 JR東海が静岡で着工へ 開業へなお課題も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171231000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015171231_2607080023_0708055424_01_02.jpg",
+      "datePublished": "2026-07-08T05:54:23+09:00"
+    },
+    {
+      "name": "臓器移植法違反事件 “医師への謝礼”名目の金で借金返済か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171251000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015171251_2607072147_0708051241_01_02.jpg",
+      "datePublished": "2026-07-08T05:12:40+09:00"
+    },
+    {
+      "name": "自維党首会談 定数削減法案見送る方針確認 野党側と協議へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015171221_2607080054_0708054720_01_02.jpg",
+      "datePublished": "2026-07-08T05:47:19+09:00"
+    },
+    {
+      "name": "ホルムズ海峡で船舶に攻撃相次ぐ 支配力の低下にイラン焦りか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015171371_2607080549_0708063201_01_02.jpg",
+      "datePublished": "2026-07-08T10:41:43+09:00"
+    },
+    {
+      "name": "トランプ政権 イラン産原油の生産・販売認可を取り消しと発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171411000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015171411_2607080544_0708054456_01_02.jpg",
+      "datePublished": "2026-07-08T09:24:00+09:00"
+    },
+    {
+      "name": "NATO首脳会議が開幕 米トランプ大統領「がっかり」とけん制",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171261000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015171261_2607080504_0708052518_01_02.jpg",
+      "datePublished": "2026-07-08T07:53:11+09:00"
+    },
+    {
+      "name": "サッカーW杯 アルゼンチンが大逆転でベスト8進出",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171391000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015171391_2607080407_0708040822_01_02.jpg",
+      "datePublished": "2026-07-08T10:40:52+09:00"
+    },
+    {
+      "name": "FIFAワールドカップ2026【NHK特設サイト】",
+      "url": "https://nhk.jp/fifawc?cid=wc26-newsweb-awayomi",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31365091.jpg"
+    },
+    {
+      "name": "スキーノルディック複合 2030年冬季五輪の競技から除外",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171341000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260707/K10015171341_2607072353_0707235654_01_02.jpg",
+      "datePublished": "2026-07-08T03:43:20+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": true
+  }
+}
