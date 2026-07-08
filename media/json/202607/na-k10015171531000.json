@@ -1,0 +1,160 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015171531000",
+  "dataSourceId": "na",
+  "name": "長期金利 2.865％まで上昇 1997年5月以来の高水準",
+  "headline": "長期金利 2.865％まで上昇 1997年5月以来の高水準",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015171531000",
+    "playlistId": "news-nwa-business-nationwide-20260708",
+    "newsarticleName": "長期金利 2.865％まで上昇 1997年5月以来の高水準",
+    "playlistName": "7月8日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "8日の債券市場では長期金利が上昇し、代表的な指標である10年ものの国債の利回りが2.865％まで上昇しました。\n\n日本相互証券によりますと、1997年5月以来、およそ29年ぶりの高い水準です。\n\n\nこ",
+  "dateModified": "2026-07-08T14:59:17+09:00",
+  "datePublished": "2026-07-08T09:37:03+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260708/K10015171531_2607080926_0708093703_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260708/K10015171531_2607080926_0708093703_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0002760",
+      "name": "金利",
+      "display": true
+    },
+    {
+      "id": "0002423",
+      "name": "金融",
+      "display": true
+    },
+    {
+      "id": "0002800",
+      "name": "イラン情勢 日本への影響・対応",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "8日の債券市場では長期金利が上昇し、代表的な指標である10年ものの国債の利回りが2.865％まで上昇しました。\n\n日本相互証券によりますと、1997年5月以来、およそ29年ぶりの高い水準です。\n\n\nこ",
+  "articleBody": "8日の債券市場では長期金利が上昇し、代表的な指標である10年ものの国債の利回りが2.865％まで上昇しました。\n\n日本相互証券によりますと、1997年5月以来、およそ29年ぶりの高い水準です。\n\n\nこのところ日本の財政状況に対する懸念が続いていることに加え、アメリカとイランの間で再び緊張が高まり、原油の先物価格が上昇しているため、今後インフレが進むという見方もあって、国債を売る動きが進み、長期金利が上昇しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "8日の債券市場では長期金利が上昇し、代表的な指標である10年ものの国債の利回りが2.865％まで上昇しました。\n\n日本相互証券によりますと、1997年5月以来、およそ29年ぶりの高い水準です。\n",
+    "markedBody": "このところ日本の財政状況に対する懸念が続いていることに加え、アメリカとイランの間で再び緊張が高まり、原油の先物価格が上昇しているため、今後インフレが進むという見方もあって、国債を売る動きが進み、長期金利が上昇しています。\n",
+    "trimmedLead": "8日の債券市場では長期金利が上昇し、代表的な指標である10年ものの国債の利回りが2.865％まで上昇しました。\n\n日本相互証券によりますと、1997年5月以来、およそ29年ぶりの高い水準です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015171531000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015171531000",
+  "video": [],
+  "citation": [
+    {
+      "name": "台風9号 沖縄 先島諸島に非常に強い勢力で接近へ きょう備えを",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015171421_2607081352_0708135255_01_03.jpg",
+      "datePublished": "2026-07-08T12:42:31+09:00"
+    },
+    {
+      "name": "福岡県議会 全議員に聞き取り実施で調整 金銭やりとり調査へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015171331_2607080020_0708061139_01_02.jpg",
+      "datePublished": "2026-07-08T06:11:38+09:00"
+    },
+    {
+      "name": "リニア中央新幹線 JR東海が静岡で着工へ 開業へなお課題も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171231000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015171231_2607080023_0708055424_01_02.jpg",
+      "datePublished": "2026-07-08T05:54:23+09:00"
+    },
+    {
+      "name": "臓器移植法違反事件 “医師への謝礼”名目の金で借金返済か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171251000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015171251_2607072147_0708051241_01_02.jpg",
+      "datePublished": "2026-07-08T05:12:40+09:00"
+    },
+    {
+      "name": "自維党首会談 定数削減法案見送る方針確認 野党側と協議へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015171221_2607080054_0708054720_01_02.jpg",
+      "datePublished": "2026-07-08T05:47:19+09:00"
+    },
+    {
+      "name": "米軍がイラン攻撃 原油販売など認可取り消しも イランは非難",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015171371_2607080549_0708063201_01_02.jpg",
+      "datePublished": "2026-07-08T12:08:48+09:00"
+    },
+    {
+      "name": "トランプ政権 イラン産原油の生産・販売認可を取り消しと発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171411000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015171411_2607080544_0708054456_01_02.jpg",
+      "datePublished": "2026-07-08T09:24:00+09:00"
+    },
+    {
+      "name": "NATO首脳会議が開幕 米トランプ大統領「がっかり」とけん制",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171261000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015171261_2607080504_0708052518_01_02.jpg",
+      "datePublished": "2026-07-08T07:53:11+09:00"
+    },
+    {
+      "name": "サッカーW杯 アルゼンチンが大逆転でベスト8進出",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171391000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015171391_2607080407_0708040822_01_02.jpg",
+      "datePublished": "2026-07-08T10:40:52+09:00"
+    },
+    {
+      "name": "FIFAワールドカップ2026【NHK特設サイト】",
+      "url": "https://nhk.jp/fifawc?cid=wc26-newsweb-awayomi",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31365091.jpg"
+    },
+    {
+      "name": "スキーノルディック複合 2030年冬季五輪の競技から除外",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171341000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260707/K10015171341_2607072353_0707235654_01_02.jpg",
+      "datePublished": "2026-07-08T12:24:39+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
