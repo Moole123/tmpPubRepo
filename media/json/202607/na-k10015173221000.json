@@ -1,0 +1,169 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015173221000",
+  "dataSourceId": "na",
+  "name": "北海道 羅臼岳 登山者に向かってくるヒグマ確認 登山道を閉鎖",
+  "headline": "北海道 羅臼岳 登山者に向かってくるヒグマ確認 登山道を閉鎖",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015173221000",
+    "playlistId": "news-nwa-society-nationwide-20260710",
+    "newsarticleName": "北海道 羅臼岳 登山者に向かってくるヒグマ確認 登山道を閉鎖",
+    "playlistName": "7月10日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "去年発生したヒグマによる人身事故からおよそ11か月ぶりに入山規制が解除された、世界自然遺産、知床の羅臼岳は9日、ヒグマが登山道に出没し登山者に向かってきたことから、再び閉鎖されました。\n\n\n北海道の知",
+  "dateModified": "2026-07-10T05:26:53+09:00",
+  "datePublished": "2026-07-10T05:26:53+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260710/K10015173221_2607100019_0710052654_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260710/K10015173221_2607100019_0710052654_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会",
+    "地域"
+  ],
+  "topic": [
+    {
+      "id": "0002515",
+      "name": "クマ被害",
+      "display": true
+    },
+    {
+      "id": "0002201",
+      "name": "北海道",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "去年発生したヒグマによる人身事故からおよそ11か月ぶりに入山規制が解除された、世界自然遺産、知床の羅臼岳は9日、ヒグマが登山道に出没し登山者に向かってきたことから、再び閉鎖されました。\n\n\n北海道の知",
+  "articleBody": "去年発生したヒグマによる人身事故からおよそ11か月ぶりに入山規制が解除された、世界自然遺産、知床の羅臼岳は9日、ヒグマが登山道に出没し登山者に向かってきたことから、再び閉鎖されました。\n\n\n北海道の知床半島にある羅臼岳では去年8月、登山中の男性がヒグマに襲われて亡くなった事故を受けて4つある登山道がすべて閉鎖されましたが、今月5日、およそ11か月ぶりに再開されていました。\n\nしかし9日午前、斜里町にある羅臼岳の登山道で男性が下山していたところ、ヒグマ1頭が向かって走ってきたということです。\n\n男性はクマスプレーを噴射しヒグマが逃げたため大きなけがはありませんでしたが、国や知床財団などでつくる連絡会議はすべての登山道を再び閉鎖することを決めました。\n\n連絡会議は10日、登山道に入り、駆除も含めた対応をとることにしていて、同じヒグマが5日間確認されなかった場合、登山道の再開を検討することにしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "去年発生したヒグマによる人身事故からおよそ11か月ぶりに入山規制が解除された、世界自然遺産、知床の羅臼岳は9日、ヒグマが登山道に出没し登山者に向かってきたことから、再び閉鎖されました。\n",
+    "markedBody": "北海道の知床半島にある羅臼岳では去年8月、登山中の男性がヒグマに襲われて亡くなった事故を受けて4つある登山道がすべて閉鎖されましたが、今月5日、およそ11か月ぶりに再開されていました。\n\nしかし9日午前、斜里町にある羅臼岳の登山道で男性が下山していたところ、ヒグマ1頭が向かって走ってきたということです。\n\n男性はクマスプレーを噴射しヒグマが逃げたため大きなけがはありませんでしたが、国や知床財団などでつくる連絡会議はすべての登山道を再び閉鎖することを決めました。\n\n連絡会議は10日、登山道に入り、駆除も含めた対応をとることにしていて、同じヒグマが5日間確認されなかった場合、登山道の再開を検討することにしています。\n",
+    "trimmedLead": "去年発生したヒグマによる人身事故からおよそ11か月ぶりに入山規制が解除された、世界自然遺産、知床の羅臼岳は9日、ヒグマが登山道に出没し登山者に向かってきたことから、再び閉鎖されました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015173221000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015173221000",
+  "video": [],
+  "citation": [
+    {
+      "name": "盛岡 住宅地にクマ出没 けが人なし 警察と市が注意呼びかけ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015173101000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260709/K10015173101_2607092050_0709213026_01_02.jpg",
+      "datePublished": "2026-07-09T21:30:25+09:00"
+    },
+    {
+      "name": "秋田 クマ1頭が幼稚園近くで目撃される 防犯カメラに歩く姿も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171201000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260707/K10015171201_2607072039_0707214229_01_02.jpg",
+      "datePublished": "2026-07-07T21:42:28+09:00"
+    },
+    {
+      "name": "台風9号 10～11日非常に強い勢力で沖縄 先島諸島接近 厳重警戒",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015172301000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260709/K10015172301_2607092153_0709220715_01_03.jpg",
+      "datePublished": "2026-07-09T22:07:15+09:00"
+    },
+    {
+      "name": "アメリカとイラン 再び攻撃の応酬 予断を許さない情勢続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015172441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260709/K10015172441_2607091440_0709145653_01_03.jpg",
+      "datePublished": "2026-07-09T19:08:07+09:00"
+    },
+    {
+      "name": "党首討論 7月15日に計60分に延長して開催の見通し",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015173131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260709/K10015173131_2607092116_0709212151_01_02.jpg",
+      "datePublished": "2026-07-09T21:21:50+09:00"
+    },
+    {
+      "name": "福岡 大野城 川で男性溺れる 搬送時意識なし 中学生か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015172961000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260709/K10015172961_2607091826_0709184248_01_02.jpg",
+      "datePublished": "2026-07-09T20:52:34+09:00"
+    },
+    {
+      "name": "れいわ 山本代表が辞任を表明 健康問題など理由に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015172981000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260709/K10015172981_2607091857_0709185910_01_02.jpg",
+      "datePublished": "2026-07-09T20:51:35+09:00"
+    },
+    {
+      "name": "「快活CLUB」運営会社にサイバー攻撃の疑い 元男子生徒を逮捕",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015172281000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260709/K10015172281_2607091023_0709192829_01_02.jpg",
+      "datePublished": "2026-07-09T19:28:28+09:00"
+    },
+    {
+      "name": "元東京地検特捜部の男性検事 捜査対象の女性と不適切関係か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015172421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260709/K10015172421_2607090522_0709065224_01_02.jpg",
+      "datePublished": "2026-07-09T14:02:15+09:00"
+    },
+    {
+      "name": "レッドソックス 吉田正尚 5試合連続ヒット チーム連勝「5」に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015172631000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260709/K10015172631_2607091253_0709130231_01_02.jpg",
+      "datePublished": "2026-07-09T13:02:30+09:00"
+    },
+    {
+      "name": "カルビー 白黒化したパッケージの一部 表面のみカラーに戻す",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015172751000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260709/K10015172751_2607091446_0709150616_01_02.jpg",
+      "datePublished": "2026-07-09T15:06:15+09:00"
+    },
+    {
+      "name": "中国南部で大雨 ダム決壊など被害相次ぐ 70人超が死亡",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015173001000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260709/K10015173001_2607092031_0709204114_01_02.jpg",
+      "datePublished": "2026-07-09T20:41:13+09:00"
+    },
+    {
+      "name": "「全東信」破産手続き 飲食店や地方銀行などに影響広がる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015172661000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260709/K10015172661_2607091910_0709191251_01_02.jpg",
+      "datePublished": "2026-07-09T19:38:24+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
