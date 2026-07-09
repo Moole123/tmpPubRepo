@@ -1,0 +1,179 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015172731000",
+  "dataSourceId": "na",
+  "name": "スズキ 50万台余リコール 「スペーシア」など4車種",
+  "headline": "スズキ 50万台余リコール 「スペーシア」など4車種",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015172731000",
+    "playlistId": "news-nwa-society-nationwide-20260709",
+    "newsarticleName": "スズキ 50万台余リコール 「スペーシア」など4車種",
+    "playlistName": "7月9日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "自動車メーカーのスズキは、「スペーシア」など4車種、50万台余りのリコールを国土交通省に届け出ました。エンジンの部品の一部に不具合があり、最悪の場合、走行できなくなるおそれがあるとしています。\n\n\nリ",
+  "dateModified": "2026-07-09T15:22:10+09:00",
+  "datePublished": "2026-07-09T15:22:10+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260709/K10015172731_2607091436_0709152211_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260709/K10015172731_2607091436_0709152211_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0002735",
+      "name": "リコール・自主回収",
+      "display": true
+    },
+    {
+      "id": "0002417",
+      "name": "自動車",
+      "display": true
+    },
+    {
+      "id": "0002409",
+      "name": "国土交通省",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "自動車メーカーのスズキは、「スペーシア」など4車種、50万台余りのリコールを国土交通省に届け出ました。エンジンの部品の一部に不具合があり、最悪の場合、走行できなくなるおそれがあるとしています。\n\n\nリ",
+  "articleBody": "自動車メーカーのスズキは、「スペーシア」など4車種、50万台余りのリコールを国土交通省に届け出ました。エンジンの部品の一部に不具合があり、最悪の場合、走行できなくなるおそれがあるとしています。\n\n\nリコールの届け出があったのは、2019年1月から2025年7月までに製造された\n▽スズキの「スペーシア」と「ハスラー」\n▽マツダブランドの「フレア ワゴン」と「フレア クロスオーバー」の4車種で、あわせて50万459台です。\n\n国土交通省によりますと、これらの車では、エンジンの部品を固定するボルトの耐久性が不足していて、ボルトが折れた場合には、エンジンが正常に動作しなくなって、最悪の場合、走行できなくなるおそれがあるということです。\n\nこれまでに事故の報告はありませんが、不具合の情報が431件寄せられています。\n\nスズキは、10日から、全国の販売店で無料で部品の交換を行うとしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "自動車メーカーのスズキは、「スペーシア」など4車種、50万台余りのリコールを国土交通省に届け出ました。エンジンの部品の一部に不具合があり、最悪の場合、走行できなくなるおそれがあるとしています。\n",
+    "markedBody": "リコールの届け出があったのは、2019年1月から2025年7月までに製造された\\\n▽スズキの「スペーシア」と「ハスラー」\\\n▽マツダブランドの「フレア ワゴン」と「フレア クロスオーバー」の4車種で、あわせて50万459台です。\n\n国土交通省によりますと、これらの車では、エンジンの部品を固定するボルトの耐久性が不足していて、ボルトが折れた場合には、エンジンが正常に動作しなくなって、最悪の場合、走行できなくなるおそれがあるということです。\n\nこれまでに事故の報告はありませんが、不具合の情報が431件寄せられています。\n\nスズキは、10日から、全国の販売店で無料で部品の交換を行うとしています。\n",
+    "trimmedLead": "自動車メーカーのスズキは、「スペーシア」など4車種、50万台余りのリコールを国土交通省に届け出ました。エンジンの部品の一部に不具合があり、最悪の場合、走行できなくなるおそれがあるとしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015172731000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015172731000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "スズキ 50万台余リコール 「スペーシア」など4車種",
+      "description": "自動車メーカーのスズキは、「スペーシア」など4車種、50万台余りのリコールを国土交通省に届け出ました。エンジンの部品の一部に不具合があり、最悪の場合、走行できなくなるおそれがあるとしています。\n\n\nリ",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015172731_202607091703_202607091706/index.m3u8&mrposter=/news/html/20260709/K10015172731_2607091436_0709152211_01_02.jpg",
+      "duration": "PT51S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015172731_202607091703_202607091706/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260709/K10015172731_2607091436_0709152211_01_02.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "元東京地検特捜部の男性検事 捜査対象の女性と不適切関係か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015172421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260709/K10015172421_2607090522_0709065224_01_02.jpg",
+      "datePublished": "2026-07-09T14:02:15+09:00"
+    },
+    {
+      "name": "台風9号 10～11日非常に強い勢力で沖縄の先島諸島に接近へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015172301000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260709/K10015172301_2607091809_0709181149_01_03.jpg",
+      "datePublished": "2026-07-09T11:51:18+09:00"
+    },
+    {
+      "name": "西日本・東日本中心に午前中から真夏日に 熱中症対策の徹底を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015172481000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260709/K10015172481_2607091144_0709115807_01_02.jpg",
+      "datePublished": "2026-07-09T11:58:06+09:00"
+    },
+    {
+      "name": "同居女性の唇縫い付け事件“トラブルで怒りだした”被害者説明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015172391000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260709/K10015172391_2607082319_0709050710_01_02.jpg",
+      "datePublished": "2026-07-09T05:07:09+09:00"
+    },
+    {
+      "name": "アメリカとイラン 再び攻撃の応酬 予断を許さない情勢続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015172441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260709/K10015172441_2607091440_0709145653_01_03.jpg",
+      "datePublished": "2026-07-09T19:08:07+09:00"
+    },
+    {
+      "name": "ネットカフェ会社にサイバー攻撃の疑い 元男子生徒を逮捕",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015172281000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260709/K10015172281_2607091037_0709123904_01_02.jpg",
+      "datePublished": "2026-07-09T12:39:03+09:00"
+    },
+    {
+      "name": "長期金利2.９％まで上昇 1996年11月以来29年8か月ぶりの水準",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015172471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260709/K10015172471_2607090939_0709094442_01_02.jpg",
+      "datePublished": "2026-07-09T17:09:49+09:00"
+    },
+    {
+      "name": "臓器移植法違反事件 あっせん受けた患者の体験談聞かせたか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015172551000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260709/K10015172551_2607091130_0709115739_01_02.jpg",
+      "datePublished": "2026-07-09T11:57:38+09:00"
+    },
+    {
+      "name": "衆院憲法審査会 「合区」や自治体テーマに2回目の討議",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015172671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260709/K10015172671_2607091349_0709140024_01_02.jpg",
+      "datePublished": "2026-07-09T14:00:23+09:00"
+    },
+    {
+      "name": "「しんでしまうとはなにごとだ」人気ゲームに通じる人生観とは",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015169961000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015169961_2607081148_0708152602_01_02.jpg",
+      "datePublished": "2026-07-08T15:26:01+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
