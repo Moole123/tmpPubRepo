@@ -1,0 +1,151 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015173731000",
+  "dataSourceId": "na",
+  "name": "モバイルSuicaの障害 アクセス急増が原因",
+  "headline": "モバイルSuicaの障害 アクセス急増が原因",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015173731000",
+    "playlistId": "news-nwa-society-nationwide-20260710",
+    "newsarticleName": "モバイルSuicaの障害 アクセス急増が原因",
+    "playlistName": "7月10日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "交通機関の運賃の支払いなどを行う「モバイルSuica」で今月1日に発生したチャージができないなどの障害について、JR東日本は、アクセスが集中し、サーバーに高い負荷がかかったことが原因だったと明らかにし",
+  "dateModified": "2026-07-10T16:56:23+09:00",
+  "datePublished": "2026-07-10T16:56:23+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260710/K10015173731_2607101611_0710165623_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260710/K10015173731_2607101611_0710165623_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0002427",
+      "name": "鉄道",
+      "display": true
+    },
+    {
+      "id": "0002683",
+      "name": "交通・インフラ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "交通機関の運賃の支払いなどを行う「モバイルSuica」で今月1日に発生したチャージができないなどの障害について、JR東日本は、アクセスが集中し、サーバーに高い負荷がかかったことが原因だったと明らかにし",
+  "articleBody": "交通機関の運賃の支払いなどを行う「モバイルSuica」で今月1日に発生したチャージができないなどの障害について、JR東日本は、アクセスが集中し、サーバーに高い負荷がかかったことが原因だったと明らかにしました。\n\n\n「モバイルSuica」では、今月1日の午前8時ごろからクレジットカードなどによるチャージや、定期券の購入などがしにくい障害が発生し、復旧までにおよそ9時間半かかりました。\n\nJR東日本は、調査した結果、前日の6月30日に発生した、他社のシステムに起因するトラブルの影響で、翌日の7月1日にアプリへのチャージが集中したほか、月初めで定期券の更新が相次いだことも重なり、アクセスが集中して、サーバーに高い負荷がかかったことが原因だったと、10日、明らかにしました。\n\n会社では、今後サーバーを増強するなどの対応を進めるとしていて、「お客様にはご迷惑とご不便をおかけし申し訳ございません。サービス、システムの性能、品質向上等に取り組んでまいります」とコメントしています。\n\nまた、同じ日にモバイルPASMOでも障害が発生していましたが、運営する団体によりますとモバイルSuicaと同様の理由でアクセスが集中したことが原因だったということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "交通機関の運賃の支払いなどを行う「モバイルSuica」で今月1日に発生したチャージができないなどの障害について、JR東日本は、アクセスが集中し、サーバーに高い負荷がかかったことが原因だったと明らかにしました。\n",
+    "markedBody": "「モバイルSuica」では、今月1日の午前8時ごろからクレジットカードなどによるチャージや、定期券の購入などがしにくい障害が発生し、復旧までにおよそ9時間半かかりました。\n\nJR東日本は、調査した結果、前日の6月30日に発生した、他社のシステムに起因するトラブルの影響で、翌日の7月1日にアプリへのチャージが集中したほか、月初めで定期券の更新が相次いだことも重なり、アクセスが集中して、サーバーに高い負荷がかかったことが原因だったと、10日、明らかにしました。\n\n会社では、今後サーバーを増強するなどの対応を進めるとしていて、「お客様にはご迷惑とご不便をおかけし申し訳ございません。サービス、システムの性能、品質向上等に取り組んでまいります」とコメントしています。\n\nまた、同じ日にモバイルPASMOでも障害が発生していましたが、運営する団体によりますとモバイルSuicaと同様の理由でアクセスが集中したことが原因だったということです。\n",
+    "trimmedLead": "交通機関の運賃の支払いなどを行う「モバイルSuica」で今月1日に発生したチャージができないなどの障害について、JR東日本は、アクセスが集中し、サーバーに高い負荷がかかったことが原因だったと明らかにしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015173731000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015173731000",
+  "video": [],
+  "citation": [
+    {
+      "name": "モバイルSuica トラブルから夕方に復旧 サーバー不具合が原因",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015165501000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260701/K10015165501_2607011117_0701122743_01_02.jpg",
+      "datePublished": "2026-07-01T20:37:52+09:00"
+    },
+    {
+      "name": "台風9号 沖縄 先島諸島へ 暴風高波 土砂災害などに厳重警戒",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015173061000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260710/K10015173061_2607101141_0710115325_01_02.jpg",
+      "datePublished": "2026-07-10T15:17:29+09:00"
+    },
+    {
+      "name": "九州から東北で猛烈な暑さに 熱中症対策徹底を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015173401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260710/K10015173401_2607101141_0710115717_01_02.jpg",
+      "datePublished": "2026-07-10T15:48:37+09:00"
+    },
+    {
+      "name": "【詳報】皇室典範改正案 衆院本会議で可決 今国会で成立の公算",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015173031000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260710/K10015173031_2607101342_0710134644_01_02.jpg",
+      "datePublished": "2026-07-10T16:33:57+09:00"
+    },
+    {
+      "name": "フロリダ州の空港「トランプ大統領国際空港」に改称",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015173471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260710/K10015173471_2607101112_0710112701_01_02.jpg",
+      "datePublished": "2026-07-10T11:27:00+09:00"
+    },
+    {
+      "name": "株価 一時1600円超値上がり AI・半導体中心に買い注文広がる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015173461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260710/K10015173461_2607101134_0710122057_01_02.jpg",
+      "datePublished": "2026-07-10T16:54:59+09:00"
+    },
+    {
+      "name": "W杯 フランスがモロッコ破り準決勝進出 エムバペは8得点目",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015173311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260710/K10015173311_2607101105_0710110751_01_02.jpg",
+      "datePublished": "2026-07-10T14:12:15+09:00"
+    },
+    {
+      "name": "【随時更新】Ｗ杯 決勝トーナメント日程・結果 動画 4強進出は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015172211000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015172211_2607082121_0708220455_01_02.jpg",
+      "datePublished": "2026-07-10T14:16:48+09:00"
+    },
+    {
+      "name": "破産手続き開始の全東信 預金残高の水増しなど粉飾決算の疑い",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015173041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260710/K10015173041_2607092354_0710051437_01_02.jpg",
+      "datePublished": "2026-07-10T12:11:48+09:00"
+    },
+    {
+      "name": "ハメネイ師埋葬 注目の後継者モジタバ師は動静伝えられず",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015167661000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260710/K10015167661_2607100522_0710063900_01_02.jpg",
+      "datePublished": "2026-07-10T15:31:21+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015173691000",
+  "dataSourceId": "na",
+  "name": "米オープンAI 新型AI 一般への提供開始 「ミュトス」超えも",
+  "headline": "米オープンAI 新型AI 一般への提供開始 「ミュトス」超えも",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015173691000",
+    "playlistId": "news-nwa-scienceculture-nationwide-20260710",
+    "newsarticleName": "米オープンAI 新型AI 一般への提供開始 「ミュトス」超えも",
+    "playlistName": "7月10日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "生成AI「ChatGPT」の開発を手がけるアメリカの「オープンAI」は、9日、最新のモデル「GPT5.6」の一般への提供を開始したと発表しました。\n\n\n「オープンAI」は、9日、最新のAIモデル「GP",
+  "dateModified": "2026-07-10T16:09:22+09:00",
+  "datePublished": "2026-07-10T16:09:22+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260710/K10015173691_2607101518_0710160923_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260710/K10015173691_2607101518_0710160923_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "科学・文化",
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0000010",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "0000009",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "0000325",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "0002473",
+      "name": "安全保障",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "生成AI「ChatGPT」の開発を手がけるアメリカの「オープンAI」は、9日、最新のモデル「GPT5.6」の一般への提供を開始したと発表しました。\n\n\n「オープンAI」は、9日、最新のAIモデル「GP",
+  "articleBody": "生成AI「ChatGPT」の開発を手がけるアメリカの「オープンAI」は、9日、最新のモデル「GPT5.6」の一般への提供を開始したと発表しました。\n\n\n「オープンAI」は、9日、最新のAIモデル「GPT5.6」シリーズの一般への提供を始めたと発表しました。\n\nこれは、先月下旬以降、アメリカ政府の要請に応じて少数の企業などに限定して提供していたモデルで、今回対象を拡大した形です。\n\n「GPT5.6」は性能や価格ごとに3種類に分けられ、最上位のモデルでは、サイバーセキュリティーやプログラミングなどの性能を向上させたほか利用時のコストを抑えたのが特徴で、一部では、競合するAI新興企業「アンソロピック」が開発した「クロード・ミュトス5」を上回ったとしています。\n\n「ミュトス5」はソフトウエアのぜい弱性を発見する能力が極めて高いとされるAIで、先月、アメリカ政府が安全保障上の懸念を示したことを受けて、会社は一時すべての顧客への提供を停止していました。\n\n最先端のAIモデルをめぐっては、その性能の高さから高度なサイバー攻撃に悪用されるのではないかといった懸念が指摘されています。\n",
+  "detailedArticleBody": {
+    "markedLead": "生成AI「ChatGPT」の開発を手がけるアメリカの「オープンAI」は、9日、最新のモデル「GPT5.6」の一般への提供を開始したと発表しました。\n",
+    "markedBody": "「オープンAI」は、9日、最新のAIモデル「GPT5.6」シリーズの一般への提供を始めたと発表しました。\n\nこれは、先月下旬以降、アメリカ政府の要請に応じて少数の企業などに限定して提供していたモデルで、今回対象を拡大した形です。\n\n「GPT5.6」は性能や価格ごとに3種類に分けられ、最上位のモデルでは、サイバーセキュリティーやプログラミングなどの性能を向上させたほか利用時のコストを抑えたのが特徴で、一部では、競合するAI新興企業「アンソロピック」が開発した「クロード・ミュトス5」を上回ったとしています。\n\n「ミュトス5」はソフトウエアのぜい弱性を発見する能力が極めて高いとされるAIで、先月、アメリカ政府が安全保障上の懸念を示したことを受けて、会社は一時すべての顧客への提供を停止していました。\n\n最先端のAIモデルをめぐっては、その性能の高さから高度なサイバー攻撃に悪用されるのではないかといった懸念が指摘されています。\n",
+    "trimmedLead": "生成AI「ChatGPT」の開発を手がけるアメリカの「オープンAI」は、9日、最新のモデル「GPT5.6」の一般への提供を開始したと発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015173691000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015173691000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "米オープンAI 新型AI 一般への提供開始 「ミュトス」超えも",
+      "description": "生成AI「ChatGPT」の開発を手がけるアメリカの「オープンAI」は、9日、最新のモデル「GPT5.6」の一般への提供を開始したと発表しました。\n\n\n「オープンAI」は、9日、最新のAIモデル「GP",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015173691_202607101650_202607101651/index.m3u8&mrposter=/news/html/20260710/K10015173691_2607101518_0710160923_01_02.jpg",
+      "duration": "PT38S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015173691_202607101650_202607101651/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260710/K10015173691_2607101518_0710160923_01_02.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "フロリダ州の空港「トランプ大統領国際空港」に改称",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015173471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260710/K10015173471_2607101112_0710112701_01_02.jpg",
+      "datePublished": "2026-07-10T11:27:00+09:00"
+    },
+    {
+      "name": "ペルシャ湾内の日本関係船舶 新たに22隻がホルムズ海峡通過",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015173451000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260710/K10015173451_2607101053_0710112256_01_02.jpg",
+      "datePublished": "2026-07-10T11:22:55+09:00"
+    },
+    {
+      "name": "中国福建省の靴工場で火災 28人死亡 習主席が責任追及指示",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015173231000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260710/K10015173231_2607100439_0710050539_01_02.jpg",
+      "datePublished": "2026-07-10T05:05:38+09:00"
+    },
+    {
+      "name": "英労働党党首選の立候補受け付け開始 バーナム氏8割の推薦得る",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015173181000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260709/K10015173181_2607092223_0709233825_01_02.jpg",
+      "datePublished": "2026-07-10T08:26:20+09:00"
+    },
+    {
+      "name": "独首相 巡航ミサイル「トマホーク」取得で米政府と合意",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015173301000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260710/K10015173301_2607100719_0710080722_01_02.jpg",
+      "datePublished": "2026-07-10T08:07:22+09:00"
+    },
+    {
+      "name": "ハメネイ師埋葬 注目の後継者モジタバ師は動静伝えられず",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015167661000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260710/K10015167661_2607100522_0710063900_01_02.jpg",
+      "datePublished": "2026-07-10T15:31:21+09:00"
+    },
+    {
+      "name": "ウクライナ軍事専門家 迎撃ミサイル「生産開始まで約2年」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015173281000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260710/K10015173281_2607100511_0710055200_01_02.jpg",
+      "datePublished": "2026-07-10T08:46:03+09:00"
+    },
+    {
+      "name": "前最高指導者葬儀 イラン・米戦争 見えてきたものは",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015170721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260707/K10015170721_2607071132_0707141310_01_02.jpg",
+      "datePublished": "2026-07-07T14:13:09+09:00"
+    },
+    {
+      "name": "ロシアへの“深部攻撃” 局面は変わるのか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015171671_2607081143_0708141039_01_02.jpg",
+      "datePublished": "2026-07-08T14:10:38+09:00"
+    },
+    {
+      "name": "台湾に台風9号接近 頼清徳総統「自然災害を最小限に」と指示",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015173211000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260710/K10015173211_2607100001_0710000808_01_02.jpg",
+      "datePublished": "2026-07-10T00:08:07+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

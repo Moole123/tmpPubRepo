@@ -1,0 +1,163 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015173551000",
+  "dataSourceId": "na",
+  "name": "地方税収 初の50兆円超 5年連続過去最高更新 総務省",
+  "headline": "地方税収 初の50兆円超 5年連続過去最高更新 総務省",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015173551000",
+    "playlistId": "news-nwa-business-nationwide-20260710",
+    "newsarticleName": "地方税収 初の50兆円超 5年連続過去最高更新 総務省",
+    "playlistName": "7月10日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "昨年度の地方税収は、賃上げや好調な企業業績を背景に個人住民税などが伸びたことから、過去最高を更新して初めて50兆円を超えました。\n\n\n総務省が公表した昨年度の都道府県と市町村をあわせた地方税収の速報値",
+  "dateModified": "2026-07-10T14:00:29+09:00",
+  "datePublished": "2026-07-10T14:00:29+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260710/K10015173551_2607101228_0710140030_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260710/K10015173551_2607101228_0710140030_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済",
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0002399",
+      "name": "総務省",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "昨年度の地方税収は、賃上げや好調な企業業績を背景に個人住民税などが伸びたことから、過去最高を更新して初めて50兆円を超えました。\n\n\n総務省が公表した昨年度の都道府県と市町村をあわせた地方税収の速報値",
+  "articleBody": "昨年度の地方税収は、賃上げや好調な企業業績を背景に個人住民税などが伸びたことから、過去最高を更新して初めて50兆円を超えました。\n\n\n総務省が公表した昨年度の都道府県と市町村をあわせた地方税収の速報値によりますと、国が地方自治体に配分する譲与税を含めた地方税収の総額は、50兆141億円となりました。\n\n前の年度より2兆4600億円余り、率にして5.2％増えていて、5年連続で過去最高を更新しました。\n\n地方税収が50兆円を超えたのは初めてです。\n\nこのうち、個人住民税は15兆5225億円で、賃上げによる給与所得の増加などを背景に、前の年度より1兆7700億円余り、率にして12.9％増えました。\n\nまた、企業が自治体に納める法人事業税や法人住民税などをあわせた税収は10兆6077億円で、好調な企業業績を受けて前の年度より3300億円余り率にして3.2％増えました。\n\n総務省は「賃上げや好調な企業業績が地方税収の確保につながっている。物価高や中東情勢なども踏まえ引き続き経済動向を注視していきたい」としています。\n",
+  "detailedArticleBody": {
+    "markedLead": "昨年度の地方税収は、賃上げや好調な企業業績を背景に個人住民税などが伸びたことから、過去最高を更新して初めて50兆円を超えました。\n",
+    "markedBody": "総務省が公表した昨年度の都道府県と市町村をあわせた地方税収の速報値によりますと、国が地方自治体に配分する譲与税を含めた地方税収の総額は、50兆141億円となりました。\n\n前の年度より2兆4600億円余り、率にして5.2％増えていて、5年連続で過去最高を更新しました。\n\n地方税収が50兆円を超えたのは初めてです。\n\nこのうち、個人住民税は15兆5225億円で、賃上げによる給与所得の増加などを背景に、前の年度より1兆7700億円余り、率にして12.9％増えました。\n\nまた、企業が自治体に納める法人事業税や法人住民税などをあわせた税収は10兆6077億円で、好調な企業業績を受けて前の年度より3300億円余り率にして3.2％増えました。\n\n総務省は「賃上げや好調な企業業績が地方税収の確保につながっている。物価高や中東情勢なども踏まえ引き続き経済動向を注視していきたい」としています。\n",
+    "trimmedLead": "昨年度の地方税収は、賃上げや好調な企業業績を背景に個人住民税などが伸びたことから、過去最高を更新して初めて50兆円を超えました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015173551000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015173551000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "地方税収 初の50兆円超 5年連続過去最高更新 総務省",
+      "description": "昨年度の地方税収は、賃上げや好調な企業業績を背景に個人住民税などが伸びたことから、過去最高を更新して初めて50兆円を超えました。\n\n\n総務省が公表した昨年度の都道府県と市町村をあわせた地方税収の速報値",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015173551_202607101642_202607101643/index.m3u8&mrposter=/news/html/20260710/K10015173551_2607101228_0710140030_01_02.jpg",
+      "duration": "PT38S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015173551_202607101642_202607101643/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260710/K10015173551_2607101228_0710140030_01_02.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "税収過去最高も“消費税減税などは市場信認確保重視”官房長官",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015169861000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260706/K10015169861_2607061250_0706134701_01_02.jpg",
+      "datePublished": "2026-07-06T13:47:01+09:00"
+    },
+    {
+      "name": "台風9号 沖縄 先島諸島へ 暴風高波 土砂災害などに厳重警戒",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015173061000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260710/K10015173061_2607101141_0710115325_01_02.jpg",
+      "datePublished": "2026-07-10T15:17:29+09:00"
+    },
+    {
+      "name": "九州から東北で猛烈な暑さに 熱中症対策徹底を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015173401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260710/K10015173401_2607101141_0710115717_01_02.jpg",
+      "datePublished": "2026-07-10T15:48:37+09:00"
+    },
+    {
+      "name": "【詳報】皇室典範改正案 衆院本会議で可決 今国会で成立の公算",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015173031000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260710/K10015173031_2607101342_0710134644_01_02.jpg",
+      "datePublished": "2026-07-10T16:33:57+09:00"
+    },
+    {
+      "name": "株価 一時1600円超値上がり AI・半導体中心に買い注文広がる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015173461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260710/K10015173461_2607101134_0710122057_01_02.jpg",
+      "datePublished": "2026-07-10T16:54:59+09:00"
+    },
+    {
+      "name": "川で泳いでいた高校生2人が流され死亡 滋賀 湖南",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015172861000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260709/K10015172861_2607091732_0709175717_01_02.jpg",
+      "datePublished": "2026-07-10T03:19:13+09:00"
+    },
+    {
+      "name": "ペルシャ湾内の日本関係船舶 新たに22隻がホルムズ海峡通過",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015173451000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260710/K10015173451_2607101053_0710112256_01_02.jpg",
+      "datePublished": "2026-07-10T11:22:55+09:00"
+    },
+    {
+      "name": "W杯 フランスがモロッコ破り準決勝進出 エムバペは8得点目",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015173311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260710/K10015173311_2607101105_0710110751_01_02.jpg",
+      "datePublished": "2026-07-10T14:12:15+09:00"
+    },
+    {
+      "name": "【随時更新】Ｗ杯 決勝トーナメント日程・結果 動画 4強進出は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015172211000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015172211_2607082121_0708220455_01_02.jpg",
+      "datePublished": "2026-07-10T14:16:48+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
