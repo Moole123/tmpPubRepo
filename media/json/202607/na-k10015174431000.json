@@ -1,0 +1,154 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015174431000",
+  "dataSourceId": "na",
+  "name": "ブルージェイズ 岡本和真 22号 大谷の日本選手1年目最多記録に並ぶ",
+  "headline": "ブルージェイズ 岡本和真 22号 大谷の日本選手1年目記録に並ぶ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015174431000",
+    "playlistId": "news-nwa-sports-nationwide-20260711",
+    "newsarticleName": "ブルージェイズ 岡本和真 22号 大谷の日本選手1年目最多記録に並ぶ",
+    "playlistName": "7月11日のスポーツニュース",
+    "genreId": "sports",
+    "genreIdSlug": "sports"
+  },
+  "description": "大リーグ、ブルージェイズの岡本和真選手が10日、サンディエゴで行われたパドレス戦に3番・サードで出場し、5回の第3打席に今シーズン22号となるスリーランホームランを打ちました。\n\n\n岡本選手は今シーズ",
+  "dateModified": "2026-07-11T13:10:25+09:00",
+  "datePublished": "2026-07-11T13:10:25+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260711/K10015174431_2607111300_0711131026_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260711/K10015174431_2607111300_0711131026_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "スポーツ"
+  ],
+  "topic": [
+    {
+      "id": "0002770",
+      "name": "岡本和真",
+      "display": true
+    },
+    {
+      "id": "0000006",
+      "name": "大リーグ",
+      "display": true
+    },
+    {
+      "id": "0001591",
+      "name": "野球",
+      "display": true
+    },
+    {
+      "id": "0002020",
+      "name": "大谷翔平",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "大リーグ、ブルージェイズの岡本和真選手が10日、サンディエゴで行われたパドレス戦に3番・サードで出場し、5回の第3打席に今シーズン22号となるスリーランホームランを打ちました。\n\n\n岡本選手は今シーズ",
+  "articleBody": "大リーグ、ブルージェイズの岡本和真選手が10日、サンディエゴで行われたパドレス戦に3番・サードで出場し、5回の第3打席に今シーズン22号となるスリーランホームランを打ちました。\n\n\n岡本選手は今シーズン91試合目の出場でホームラン22本に到達し大谷翔平選手が2018年にマークした日本選手の1年目でのシーズン最多記録に並びました。\n\nこのペースで打てばシーズンで37本に到達する勢いで、鈴木誠也選手が昨シーズンマークした、日本選手の右バッターとして最多の32本の更新も視野に入ります。\n",
+  "detailedArticleBody": {
+    "markedLead": "大リーグ、ブルージェイズの岡本和真選手が10日、サンディエゴで行われたパドレス戦に3番・サードで出場し、5回の第3打席に今シーズン22号となるスリーランホームランを打ちました。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20260711/K10015174431_2607111301_0711131026_02_03.jpg)\n\n岡本選手は今シーズン91試合目の出場でホームラン22本に到達し大谷翔平選手が2018年にマークした日本選手の1年目でのシーズン最多記録に並びました。\n\nこのペースで打てばシーズンで37本に到達する勢いで、鈴木誠也選手が昨シーズンマークした、日本選手の右バッターとして最多の32本の更新も視野に入ります。\n",
+    "trimmedLead": "大リーグ、ブルージェイズの岡本和真選手が10日、サンディエゴで行われたパドレス戦に3番・サードで出場し、5回の第3打席に今シーズン22号となるスリーランホームランを打ちました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015174431000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015174431000",
+  "video": [],
+  "citation": [
+    {
+      "name": "大谷翔平 左ひざ違和感でオールスター辞退 11日の先発登板回避",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015174271000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260711/K10015174271_2607110541_0711061717_01_02.jpg",
+      "datePublished": "2026-07-11T10:42:57+09:00"
+    },
+    {
+      "name": "W杯 スペインが4大会ぶりベスト4へ ベルギーとの接戦制す",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015174131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260711/K10015174131_2607110658_0711070454_01_02.jpg",
+      "datePublished": "2026-07-11T12:14:44+09:00"
+    },
+    {
+      "name": "W杯 フランスがモロッコ破り準決勝進出 エムバペは8得点目",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015173311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260710/K10015173311_2607101105_0710110751_01_02.jpg",
+      "datePublished": "2026-07-10T14:12:15+09:00"
+    },
+    {
+      "name": "【随時更新】Ｗ杯 決勝トーナメント日程・結果 動画 4強進出は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015172211000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015172211_2607082121_0708220455_01_02.jpg",
+      "datePublished": "2026-07-11T11:13:44+09:00"
+    },
+    {
+      "name": "【随時更新】Ｗ杯 得点ランキング スーパースターのゴール動画",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015169231000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260705/K10015169231_2607071914_0707192145_01_02.jpg",
+      "datePublished": "2026-07-11T10:51:17+09:00"
+    },
+    {
+      "name": "【プロ野球結果】ヤクルト 高橋奎二が好投 阪神に競り勝つ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015174101000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260710/K10015174101_2607102227_0711104740_01_02.jpg",
+      "datePublished": "2026-07-11T00:32:41+09:00"
+    },
+    {
+      "name": "大相撲名古屋場所 横綱 大の里は初日に新小結の義ノ富士と",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015173561000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260710/K10015173561_2607101327_0710133301_01_02.jpg",
+      "datePublished": "2026-07-10T16:57:42+09:00"
+    },
+    {
+      "name": "大リーグドラフト 佐々木麟太郎選手の進路は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015173541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260710/K10015173541_2607101204_0710162417_01_02.jpg",
+      "datePublished": "2026-07-10T16:24:16+09:00"
+    },
+    {
+      "name": "4番“ショート”長嶋！？ 高校時代の伝説のホームランに迫る",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015172571000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260710/K10015172571_2607102306_0710230721_01_02.jpg",
+      "datePublished": "2026-07-10T20:27:36+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
