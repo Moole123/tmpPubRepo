@@ -1,0 +1,167 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015175491000",
+  "dataSourceId": "na",
+  "name": "福岡 篠栗町 逆走ダンプカーがトラックと衝突 1人死亡",
+  "headline": "福岡 篠栗町 逆走ダンプカーがトラックと衝突 1人死亡",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015175491000",
+    "playlistId": "news-nwa-society-nationwide-20260713",
+    "newsarticleName": "福岡 篠栗町 逆走ダンプカーがトラックと衝突 1人死亡",
+    "playlistName": "7月13日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "13日午前、福岡県篠栗町のバイパスで、逆走したダンプカーがトラックと衝突し、トラックを運転していた男性が死亡し、ダンプカーのドライバーもけがをしました。警察が詳しい状況を調べています。\n\n\n警察と消防",
+  "dateModified": "2026-07-13T12:58:13+09:00",
+  "datePublished": "2026-07-13T11:24:05+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260713/K10015175491_2607131059_0713112406_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260713/K10015175491_2607131059_0713112406_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0001538",
+      "name": "事件・事故",
+      "display": true
+    },
+    {
+      "id": "0002240",
+      "name": "福岡県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "13日午前、福岡県篠栗町のバイパスで、逆走したダンプカーがトラックと衝突し、トラックを運転していた男性が死亡し、ダンプカーのドライバーもけがをしました。警察が詳しい状況を調べています。\n\n\n警察と消防",
+  "articleBody": "13日午前、福岡県篠栗町のバイパスで、逆走したダンプカーがトラックと衝突し、トラックを運転していた男性が死亡し、ダンプカーのドライバーもけがをしました。警察が詳しい状況を調べています。\n\n\n警察と消防によりますと、13日午前7時ごろ、福岡県篠栗町の八木山バイパスの篠栗料金所付近で、道路を逆走したダンプカーが別のトラックと正面衝突しました。\n\nこの事故でトラックを運転していた50代の男性が死亡しました。\n\nダンプカーを運転していた60代のドライバーは軽いけがだということです。\n\n現場は片側2車線のカーブで、中央分離帯があります。\n\nNHKが上空から撮影した映像では、道路上にガラスの破片が散乱し、赤い荷台があるダンプカーが進行方向と反対を向いて中央分離帯に衝突して止まり、もう1台も運転席付近が大きく壊れていました。\n\n警察が事故の詳しい状況を調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "13日午前、福岡県篠栗町のバイパスで、逆走したダンプカーがトラックと衝突し、トラックを運転していた男性が死亡し、ダンプカーのドライバーもけがをしました。警察が詳しい状況を調べています。\n",
+    "markedBody": "警察と消防によりますと、13日午前7時ごろ、福岡県篠栗町の八木山バイパスの篠栗料金所付近で、道路を逆走したダンプカーが別のトラックと正面衝突しました。\n\nこの事故でトラックを運転していた50代の男性が死亡しました。\n\nダンプカーを運転していた60代のドライバーは軽いけがだということです。\n\n現場は片側2車線のカーブで、中央分離帯があります。\n\nNHKが上空から撮影した映像では、道路上にガラスの破片が散乱し、赤い荷台があるダンプカーが進行方向と反対を向いて中央分離帯に衝突して止まり、もう1台も運転席付近が大きく壊れていました。\n\n警察が事故の詳しい状況を調べています。\n",
+    "trimmedLead": "13日午前、福岡県篠栗町のバイパスで、逆走したダンプカーがトラックと衝突し、トラックを運転していた男性が死亡し、ダンプカーのドライバーもけがをしました。警察が詳しい状況を調べています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015175491000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015175491000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "福岡 篠栗町 逆走ダンプカーがトラックと衝突 1人死亡",
+      "description": "13日午前、福岡県篠栗町のバイパスで、逆走したダンプカーがトラックと衝突し、トラックを運転していた男性が死亡し、ダンプカーのドライバーもけがをしました。警察が詳しい状況を調べています。\n\n\n警察と消防",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015175491_202607131120_202607131121/index.m3u8&mrposter=/news/html/20260713/K10015175491_2607131059_0713112406_01_03.jpg",
+      "duration": "PT39S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015175491_202607131120_202607131121/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260713/K10015175491_2607131059_0713112406_01_03.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "西日本中心に猛烈な暑さ 九州南部梅雨明け 熱中症対策を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175321000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260713/K10015175321_2607131206_0713121412_01_03.jpg",
+      "datePublished": "2026-07-13T12:04:19+09:00"
+    },
+    {
+      "name": "アメリカ中央軍 イランへ追加攻撃発表 協議再開か不透明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175301000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260713/K10015175301_2607130539_0713064541_01_02.jpg",
+      "datePublished": "2026-07-13T11:53:40+09:00"
+    },
+    {
+      "name": "“日本はロシア軍のハイテク物資調達の拠点” NYタイムズ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175281000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260713/K10015175281_2607130501_0713082627_01_02.jpg",
+      "datePublished": "2026-07-13T12:55:41+09:00"
+    },
+    {
+      "name": "タイ バンコクの飲食店で火災 AP通信“少なくとも27人が死亡”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260713/K10015175291_2607130544_0713054510_01_02.jpg",
+      "datePublished": "2026-07-13T07:19:25+09:00"
+    },
+    {
+      "name": "仏猛暑 水の事故の犠牲者130人超 イベントなどにも影響",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175251000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260713/K10015175251_2607130448_0713055244_01_02.jpg",
+      "datePublished": "2026-07-13T06:07:41+09:00"
+    },
+    {
+      "name": "ドジャース 大谷翔平 22号ホームラン 日米通算350号に到達",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260713/K10015175311_2607130954_0713103520_01_02.jpg",
+      "datePublished": "2026-07-13T10:35:19+09:00"
+    },
+    {
+      "name": "佐々木麟太郎はマーリンズが8巡目で指名 大リーグ・ドラフト",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175361000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260713/K10015175361_2607130751_0713080110_01_02.jpg",
+      "datePublished": "2026-07-13T08:01:10+09:00"
+    },
+    {
+      "name": "遺言書は“勘定よりも感情”を… AIで変わる終活の形",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015173241000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260711/K10015173241_2607111548_0711190940_01_02.jpg",
+      "datePublished": "2026-07-11T19:09:39+09:00"
+    },
+    {
+      "name": "「ストーカー加害者へのGPS装着」 日本では？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260711/K10015171811_2607101633_0711114536_01_02.jpg",
+      "datePublished": "2026-07-11T11:45:34+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
