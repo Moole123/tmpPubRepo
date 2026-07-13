@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015175461000",
+  "dataSourceId": "na",
+  "name": "各党支持率 「自民党」35.7％ 「支持なし」37.0％ NHK世論調査",
+  "headline": "各党支持率 「自民党」35.7％ 「支持なし」37.0％ NHK世論調査",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015175461000",
+    "playlistId": "news-nwa-politics-nationwide-20260713",
+    "newsarticleName": "各党支持率 「自民党」35.7％ 「支持なし」37.0％ NHK世論調査",
+    "playlistName": "7月13日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "7月の各党の支持率です。\n\n各党の支持率は、「自民党」が35.7％、「日本維新の会」が3.1％、「国民民主党」が3.2％、「中道改革連合」が3.1％、「立憲民主党」が2.9％、「参政党」が2.9％、「",
+  "dateModified": "2026-07-13T19:02:29+09:00",
+  "datePublished": "2026-07-13T19:02:29+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260713/K10015175461_2607131827_0713190230_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260713/K10015175461_2607131827_0713190230_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0002775",
+      "name": "NHK世論調査",
+      "display": true
+    },
+    {
+      "id": "0000304",
+      "name": "選挙",
+      "display": true
+    },
+    {
+      "id": "0002672",
+      "name": "高市内閣",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "7月の各党の支持率です。\n\n各党の支持率は、「自民党」が35.7％、「日本維新の会」が3.1％、「国民民主党」が3.2％、「中道改革連合」が3.1％、「立憲民主党」が2.9％、「参政党」が2.9％、「",
+  "articleBody": "7月の各党の支持率です。\n\n各党の支持率は、「自民党」が35.7％、「日本維新の会」が3.1％、「国民民主党」が3.2％、「中道改革連合」が3.1％、「立憲民主党」が2.9％、「参政党」が2.9％、「公明党」が2.0％、「チームみらい」が1.0％、「共産党」が1.5％、「れいわ新選組」が0.8％、「社民党」が0.5％、「日本保守党」が0.7％、「特に支持している政党はない」が37.0％でした。\n\n\n【リンク】NHK世論調査\n\n【リンク】NHK世論調査\n\nいずれの政党の支持率も6月から横ばいでした。\n\n自民党は35.7％で、年代別で見ますと、40代では22.1％と特に低いのに対し、50代以降は年代が上がるほど高くなり、80歳以上では49.5％でした。\n\n野党各党は、国民民主党が3.2％、中道改革連合が3.1％、立憲民主党と参政党が2.9％などとなっています。\n\nこのうち国民民主党と参政党の支持率は40代以下で高い傾向があるのに対し、中道改革連合と立憲民主党は、70代で他の年代より高くなっています。\n\n無党派層の割合は37.0％で、40代と50代の中年層で40％台後半と高くなっています。\n",
+  "detailedArticleBody": {
+    "markedLead": "7月の各党の支持率です。\n\n各党の支持率は、「自民党」が35.7％、「日本維新の会」が3.1％、「国民民主党」が3.2％、「中道改革連合」が3.1％、「立憲民主党」が2.9％、「参政党」が2.9％、「公明党」が2.0％、「チームみらい」が1.0％、「共産党」が1.5％、「れいわ新選組」が0.8％、「社民党」が0.5％、「日本保守党」が0.7％、「特に支持している政党はない」が37.0％でした。\n",
+    "markedBody": ":::nw--link-type4 {href=https://news.web.nhk/senkyo/shijiritsu/}\n![【リンク】NHK世論調査](https://news.web.nhk/news/html/20260713/K10015175461_2607131033_0713190230_02_03.jpg)\n\n**【リンク】NHK世論調査**\n:::\n\n:::nw--border {style=border-color:#ff0000}\n![](https://news.web.nhk/news/html/20260713/K10015175461_2607131310_0713190230_02_04.jpg \"※注・層別分析をする場合は各層の人数が100人以上であることを目安としています\")\n\nいずれの政党の支持率も6月から横ばいでした。\n\n自民党は35.7％で、年代別で見ますと、40代では22.1％と特に低いのに対し、50代以降は年代が上がるほど高くなり、80歳以上では49.5％でした。\n\n野党各党は、国民民主党が3.2％、中道改革連合が3.1％、立憲民主党と参政党が2.9％などとなっています。\n\nこのうち国民民主党と参政党の支持率は40代以下で高い傾向があるのに対し、中道改革連合と立憲民主党は、70代で他の年代より高くなっています。\n\n無党派層の割合は37.0％で、40代と50代の中年層で40％台後半と高くなっています。\n:::\n",
+    "trimmedLead": "7月の各党の支持率です。\n\n各党の支持率は、「自民党」が35.7％、「日本維新の会」が3.1％、「国民民主党」が3.2％、「中道改革連合」が3.1％、「立憲民主党」が2.9％、「参政党」が2.9％、「公明党」が2.0％、「チームみらい」が1.0％、「共産党」が1.5％、「れいわ新選組」が0.8％、「社民党」が0.5％、「日本保守党」が0.7％、「特に支持している政党はない」が37.0％でした。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015175461000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015175461000",
+  "video": [],
+  "citation": [
+    {
+      "name": "台風11号が発生 日本への直接の影響はない見込み",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175511000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260713/K10015175511_2607131114_0713112145_01_02.jpg",
+      "datePublished": "2026-07-13T11:21:44+09:00"
+    },
+    {
+      "name": "大分 佐伯 4人刃物で刺され2人重傷 44歳男を逮捕 事件に関与か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175551000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260713/K10015175551_2607131845_0713184816_01_02.jpg",
+      "datePublished": "2026-07-13T18:48:15+09:00"
+    },
+    {
+      "name": "秋田 2人死亡の火事 夫婦と連絡とれず 息子は交通事故で搬送",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260713/K10015175591_2607131152_0713121005_01_02.jpg",
+      "datePublished": "2026-07-13T16:17:33+09:00"
+    },
+    {
+      "name": "北海道 江別 公園での強盗致死事件 2人の被告が起訴内容認める",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175631000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260713/K10015175631_2607131202_0713122731_01_03.jpg",
+      "datePublished": "2026-07-13T16:33:22+09:00"
+    },
+    {
+      "name": "「トー横」出入りの10代少女に強盗傷害か 暴力団員逮捕",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260713/K10015175721_2607131513_0713154553_01_02.jpg",
+      "datePublished": "2026-07-13T15:45:52+09:00"
+    },
+    {
+      "name": "神戸 冷凍庫遺体遺棄 逮捕の元妻 男性死亡後 離婚届自ら作成か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260713/K10015175711_2607131416_0713150256_01_02.jpg",
+      "datePublished": "2026-07-13T15:02:55+09:00"
+    },
+    {
+      "name": "西日本で気温上昇 あす以降関東甲信も猛烈な暑さ 熱中症対策を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175321000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260713/K10015175321_2607131855_0713190913_01_02.jpg",
+      "datePublished": "2026-07-13T19:09:12+09:00"
+    },
+    {
+      "name": "アメリカ中央軍 イランへ追加攻撃発表 協議再開か不透明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175301000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260713/K10015175301_2607130539_0713064541_01_02.jpg",
+      "datePublished": "2026-07-13T17:20:23+09:00"
+    },
+    {
+      "name": "遺言書は“勘定よりも感情”を… AIで変わる終活の形",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015173241000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260711/K10015173241_2607111548_0711190940_01_02.jpg",
+      "datePublished": "2026-07-11T19:09:39+09:00"
+    },
+    {
+      "name": "「ストーカー加害者へのGPS装着」 日本では？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260711/K10015171811_2607101633_0711114536_01_02.jpg",
+      "datePublished": "2026-07-11T11:45:34+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
