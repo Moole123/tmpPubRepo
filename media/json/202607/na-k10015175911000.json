@@ -1,0 +1,162 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015175911000",
+  "dataSourceId": "na",
+  "name": "ビスケットや炭酸飲料など値上げ 包装資材や原材料価格上昇で",
+  "headline": "ビスケットや炭酸飲料など値上げ 包装資材や原材料価格上昇で",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015175911000",
+    "playlistId": "news-nwa-business-nationwide-20260713",
+    "newsarticleName": "ビスケットや炭酸飲料など値上げ 包装資材や原材料価格上昇で",
+    "playlistName": "7月13日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "食品の包装資材の価格上昇などを理由に食品メーカーの間で菓子や飲料などの値上げの発表が相次いでいます。\n\n\nこのうち「江崎グリコ」は主力商品のビスケットやプリン、それにレトルト食品などあわせて169品目",
+  "dateModified": "2026-07-13T20:23:14+09:00",
+  "datePublished": "2026-07-13T20:23:14+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260713/K10015175911_2607131928_0713202315_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260713/K10015175911_2607131928_0713202315_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0002133",
+      "name": "物価高騰",
+      "display": true
+    },
+    {
+      "id": "0002733",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "食品の包装資材の価格上昇などを理由に食品メーカーの間で菓子や飲料などの値上げの発表が相次いでいます。\n\n\nこのうち「江崎グリコ」は主力商品のビスケットやプリン、それにレトルト食品などあわせて169品目",
+  "articleBody": "食品の包装資材の価格上昇などを理由に食品メーカーの間で菓子や飲料などの値上げの発表が相次いでいます。\n\n\nこのうち「江崎グリコ」は主力商品のビスケットやプリン、それにレトルト食品などあわせて169品目について、ことし10月1日以降に出荷する分から順次、値上げするということです。\n\n出荷価格は3％から最大で15％引き上げられるということです。\n\n値上げの理由について会社では、物価高を背景に原材料費や物流費が上昇しているほか、足もとでは中東情勢の影響で包装資材の価格も上がり、コスト上昇分を吸収することが難しいためだとしています。\n\nこのほか「大塚食品」は、炭酸飲料や紅茶の12品目について、ことし9月1日に納品する分から希望小売価格をおよそ7％から14％引き上げます。\n\n会社では中東情勢の影響ではないものの、包装資材や原材料の価格が高騰しているためだとしていて、各社の間で値上げの発表が相次いでいます。\n",
+  "detailedArticleBody": {
+    "markedLead": "食品の包装資材の価格上昇などを理由に食品メーカーの間で菓子や飲料などの値上げの発表が相次いでいます。\n",
+    "markedBody": "このうち「江崎グリコ」は主力商品のビスケットやプリン、それにレトルト食品などあわせて169品目について、ことし10月1日以降に出荷する分から順次、値上げするということです。\n\n出荷価格は3％から最大で15％引き上げられるということです。\n\n値上げの理由について会社では、物価高を背景に原材料費や物流費が上昇しているほか、足もとでは中東情勢の影響で包装資材の価格も上がり、コスト上昇分を吸収することが難しいためだとしています。\n\n![](https://news.web.nhk/news/html/20260713/K10015175911_2607131928_0713202315_02_03.jpg)\n\nこのほか「大塚食品」は、炭酸飲料や紅茶の12品目について、ことし9月1日に納品する分から希望小売価格をおよそ7％から14％引き上げます。\n\n会社では中東情勢の影響ではないものの、包装資材や原材料の価格が高騰しているためだとしていて、各社の間で値上げの発表が相次いでいます。\n",
+    "trimmedLead": "食品の包装資材の価格上昇などを理由に食品メーカーの間で菓子や飲料などの値上げの発表が相次いでいます。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015175911000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015175911000",
+  "video": [],
+  "citation": [
+    {
+      "name": "7月の食品値上げ2566品目 5年連続で1万品目超えの見通しも",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015164461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260630/K10015164461_2606301151_0630115557_01_02.jpg",
+      "datePublished": "2026-06-30T18:32:40+09:00"
+    },
+    {
+      "name": "カルビー ポテトチップスなど値上げ ことしに入って4回目",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015161491000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260626/K10015161491_2606261709_0626182011_01_03.jpg",
+      "datePublished": "2026-06-26T18:20:10+09:00"
+    },
+    {
+      "name": "大分 佐伯 4人刃物で刺され2人重傷 44歳男を逮捕 事件に関与か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175551000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260713/K10015175551_2607131845_0713184816_01_02.jpg",
+      "datePublished": "2026-07-13T20:56:40+09:00"
+    },
+    {
+      "name": "秋田 2人死亡の火事 夫婦と連絡とれず 息子は交通事故で搬送",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260713/K10015175591_2607131152_0713121005_01_02.jpg",
+      "datePublished": "2026-07-13T16:17:33+09:00"
+    },
+    {
+      "name": "「防災庁」設置法が賛成多数で可決・成立 参院本会議",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175751000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260713/K10015175751_2607131841_0713184617_01_02.jpg",
+      "datePublished": "2026-07-13T17:52:21+09:00"
+    },
+    {
+      "name": "西日本で気温上昇 あす以降関東甲信も猛烈な暑さ 熱中症対策を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175321000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260713/K10015175321_2607131855_0713190913_01_02.jpg",
+      "datePublished": "2026-07-13T19:09:12+09:00"
+    },
+    {
+      "name": "ホルムズ海峡代替ルートでの原油調達進める 資源エネルギー庁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175821000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260713/K10015175821_2607131731_0713182948_01_02.jpg",
+      "datePublished": "2026-07-13T18:29:47+09:00"
+    },
+    {
+      "name": "米・イラン攻撃の応酬 1週間で4回目 中東の米軍施設を攻撃",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175301000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260713/K10015175301_2607130539_0713064541_01_02.jpg",
+      "datePublished": "2026-07-13T19:17:31+09:00"
+    },
+    {
+      "name": "三菱UFJの株価上昇 時価総額が国内首位に 長期金利上昇の影響",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260713/K10015175791_2607131756_0713181104_01_02.jpg",
+      "datePublished": "2026-07-13T17:13:15+09:00"
+    },
+    {
+      "name": "羽田空港 路面剥離で閉鎖していたC滑走路が運用再開",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260713/K10015175781_2607131637_0713164648_01_02.jpg",
+      "datePublished": "2026-07-13T18:27:24+09:00"
+    },
+    {
+      "name": "遺言書は“勘定よりも感情”を… AIで変わる終活の形",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015173241000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260711/K10015173241_2607111548_0711190940_01_02.jpg",
+      "datePublished": "2026-07-11T19:09:39+09:00"
+    },
+    {
+      "name": "「ストーカー加害者へのGPS装着」 日本では？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260711/K10015171811_2607101633_0711114536_01_02.jpg",
+      "datePublished": "2026-07-11T11:45:34+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
