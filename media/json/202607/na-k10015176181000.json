@@ -1,0 +1,138 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015176181000",
+  "dataSourceId": "na",
+  "name": "ベネズエラ大地震 死者4500人超に 捜索は難航",
+  "headline": "ベネズエラ大地震 死者4500人超に 捜索は難航",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015176181000",
+    "playlistId": "news-nwa-international-nationwide-20260714",
+    "newsarticleName": "ベネズエラ大地震 死者4500人超に 捜索は難航",
+    "playlistName": "7月14日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "南米ベネズエラで先月起きた大地震では、4500人以上が死亡し、被害が集中している地域では、住民などが行方がわからない人たちの捜索を続けています。\n\n\nベネズエラで先月24日に起きた大地震では、これまで",
+  "dateModified": "2026-07-14T05:44:50+09:00",
+  "datePublished": "2026-07-14T05:44:50+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260714/K10015176181_2607140413_0714054451_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260714/K10015176181_2607140413_0714054451_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0002741",
+      "name": "ベネズエラ",
+      "display": true
+    },
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "南米ベネズエラで先月起きた大地震では、4500人以上が死亡し、被害が集中している地域では、住民などが行方がわからない人たちの捜索を続けています。\n\n\nベネズエラで先月24日に起きた大地震では、これまで",
+  "articleBody": "南米ベネズエラで先月起きた大地震では、4500人以上が死亡し、被害が集中している地域では、住民などが行方がわからない人たちの捜索を続けています。\n\n\nベネズエラで先月24日に起きた大地震では、これまでに4561人の死亡が確認され、被害が特に集中している海沿いのラ・グアイラ州では、全壊、または半壊して使用できない建物がおよそ1万棟に上ると推計されています。\n\n一方、ベネズエラ政府は行方不明者の数を公表していません。\n\n現地では、政府の捜索チームに加え住民たちも行方がわからない人たちの捜索を続けていますが、重機の不足に加え、突然の強い雨の影響で難航しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "南米ベネズエラで先月起きた大地震では、4500人以上が死亡し、被害が集中している地域では、住民などが行方がわからない人たちの捜索を続けています。\n",
+    "markedBody": "ベネズエラで先月24日に起きた大地震では、これまでに4561人の死亡が確認され、被害が特に集中している海沿いのラ・グアイラ州では、全壊、または半壊して使用できない建物がおよそ1万棟に上ると推計されています。\n\n一方、ベネズエラ政府は行方不明者の数を公表していません。\n\n現地では、政府の捜索チームに加え住民たちも行方がわからない人たちの捜索を続けていますが、重機の不足に加え、突然の強い雨の影響で難航しています。\n",
+    "trimmedLead": "南米ベネズエラで先月起きた大地震では、4500人以上が死亡し、被害が集中している地域では、住民などが行方がわからない人たちの捜索を続けています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015176181000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015176181000",
+  "video": [],
+  "citation": [
+    {
+      "name": "ベネズエラ大地震 被害の実態把握なお課題",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175261000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260713/K10015175261_2607130440_0713054921_01_02.jpg",
+      "datePublished": "2026-07-13T16:45:36+09:00"
+    },
+    {
+      "name": "ベネズエラ大地震 “パンケーキクラッシュ”相次ぐ 専門家",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175031000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260712/K10015175031_2607121924_0712192504_01_03.jpg",
+      "datePublished": "2026-07-12T18:14:40+09:00"
+    },
+    {
+      "name": "ベネズエラ大地震 死者4000人超に 日本の緊急援助隊が活動",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015174371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260711/K10015174371_2607111150_0711120558_01_02.jpg",
+      "datePublished": "2026-07-11T17:50:08+09:00"
+    },
+    {
+      "name": "ベネズエラに350万ドルの緊急無償資金協力 茂木外相",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015173841000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260710/K10015173841_2607101748_0710181841_01_02.jpg",
+      "datePublished": "2026-07-10T18:18:41+09:00"
+    },
+    {
+      "name": "ベネズエラ地震受け オリックス マチャド投手ら支援を呼びかけ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015173171000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260709/K10015173171_2607092213_0709222230_01_02.jpg",
+      "datePublished": "2026-07-09T22:22:30+09:00"
+    },
+    {
+      "name": "トランプ大統領「海上封鎖再開 20％対価も」 イラン反発",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015176161000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260714/K10015176161_2607140100_0714010048_01_02.jpg",
+      "datePublished": "2026-07-14T05:34:27+09:00"
+    },
+    {
+      "name": "タイ 27人死亡の飲食店火災 非常口使えなかった可能性調べる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260713/K10015175291_2607130730_0713141416_01_03.jpg",
+      "datePublished": "2026-07-13T20:59:54+09:00"
+    },
+    {
+      "name": "南シナ海問題で中国外務省が日本大使館公使呼び出し 日本反論",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175681000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260713/K10015175681_2607131402_0713141626_01_02.jpg",
+      "datePublished": "2026-07-13T14:16:25+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015176201000",
+  "dataSourceId": "na",
+  "name": "ナスダック株価指数1.5％超の下落 日韓ハイテク株安や原油高で",
+  "headline": "ナスダック株価指数1.5％超の下落 日韓ハイテク株安や原油高で",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015176201000",
+    "playlistId": "news-nwa-business-nationwide-20260714",
+    "newsarticleName": "ナスダック株価指数1.5％超の下落 日韓ハイテク株安や原油高で",
+    "playlistName": "7月14日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "13日のニューヨーク株式市場では、半導体関連の銘柄を中心に売り注文が広がり、ハイテク株の比率が高いナスダックの株価指数は先週末から1.5％を超える下落となりました。\n\n\n13日のニューヨーク株式市場で",
+  "dateModified": "2026-07-14T07:02:35+09:00",
+  "datePublished": "2026-07-14T07:02:35+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260714/K10015176201_2607140629_0714070236_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260714/K10015176201_2607140629_0714070236_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済",
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0002421",
+      "name": "半導体",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "13日のニューヨーク株式市場では、半導体関連の銘柄を中心に売り注文が広がり、ハイテク株の比率が高いナスダックの株価指数は先週末から1.5％を超える下落となりました。\n\n\n13日のニューヨーク株式市場で",
+  "articleBody": "13日のニューヨーク株式市場では、半導体関連の銘柄を中心に売り注文が広がり、ハイテク株の比率が高いナスダックの株価指数は先週末から1.5％を超える下落となりました。\n\n\n13日のニューヨーク株式市場では、日本や韓国のハイテク株安の流れが波及する形で半導体大手の「エヌビディア」や「マイクロンテクノロジー」などに売り注文が広がり、ナスダックの株価指数は先週末と比べて400ポイント余り、率にして1.5％を超える下落となりました。\n\nイラン情勢をめぐる不透明感から原油の先物価格が大きく上昇したことなどで、アメリカのFRB＝連邦準備制度理事会がインフレを抑え込むために利上げに踏み切るのではないかとの観測が広がり、長期金利の代表的な指標である10年ものの国債の利回りが、一時、4.6％台まで上昇したことも投資家の心理を冷やした形です。\n\nダウ平均株価の終値は先週末と比べて138ドル37セント安い、5万2498ドル64セントでした。\n",
+  "detailedArticleBody": {
+    "markedLead": "13日のニューヨーク株式市場では、半導体関連の銘柄を中心に売り注文が広がり、ハイテク株の比率が高いナスダックの株価指数は先週末から1.5％を超える下落となりました。\n",
+    "markedBody": "13日のニューヨーク株式市場では、日本や韓国のハイテク株安の流れが波及する形で半導体大手の「エヌビディア」や「マイクロンテクノロジー」などに売り注文が広がり、ナスダックの株価指数は先週末と比べて400ポイント余り、率にして1.5％を超える下落となりました。\n\nイラン情勢をめぐる不透明感から原油の先物価格が大きく上昇したことなどで、アメリカのFRB＝連邦準備制度理事会がインフレを抑え込むために利上げに踏み切るのではないかとの観測が広がり、長期金利の代表的な指標である10年ものの国債の利回りが、一時、4.6％台まで上昇したことも投資家の心理を冷やした形です。\n\nダウ平均株価の終値は先週末と比べて138ドル37セント安い、5万2498ドル64セントでした。\n",
+    "trimmedLead": "13日のニューヨーク株式市場では、半導体関連の銘柄を中心に売り注文が広がり、ハイテク株の比率が高いナスダックの株価指数は先週末から1.5％を超える下落となりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015176201000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015176201000",
+  "video": [],
+  "citation": [
+    {
+      "name": "韓国株価8％超の大幅な下落 売買を一時的に中断する措置も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260713/K10015175941_2607131935_0713215805_01_02.jpg",
+      "datePublished": "2026-07-13T21:58:04+09:00"
+    },
+    {
+      "name": "三菱UFJの株価上昇 時価総額が国内首位に 長期金利上昇の影響",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260713/K10015175791_2607131756_0713181104_01_02.jpg",
+      "datePublished": "2026-07-13T17:13:15+09:00"
+    },
+    {
+      "name": "株価 一時1900円余の大幅な値下がり イラン情勢で警戒感広がる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175501000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260713/K10015175501_2607131536_0713164358_01_02.jpg",
+      "datePublished": "2026-07-13T16:43:57+09:00"
+    },
+    {
+      "name": "韓国半導体 SKハイニックス ナスダック上場 約4兆3000億円調達",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015174281000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260711/K10015174281_2607110843_0711084841_01_02.jpg",
+      "datePublished": "2026-07-11T08:48:40+09:00"
+    },
+    {
+      "name": "トランプ大統領「海上封鎖再開 20％対価も」 イラン反発",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015176161000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260714/K10015176161_2607140100_0714010048_01_02.jpg",
+      "datePublished": "2026-07-14T05:34:27+09:00"
+    },
+    {
+      "name": "歴史的円安のワケは FRB議長“タカ”の本性？【経済コラム】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171861000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260710/K10015171861_2607101620_0710174934_01_02.jpg",
+      "datePublished": "2026-07-10T17:49:33+09:00"
+    },
+    {
+      "name": "歴史的な円安「経済に悪い影響」61％ NHK世論調査",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260714/K10015175471_2607131159_0714050226_01_02.jpg",
+      "datePublished": "2026-07-14T05:02:25+09:00"
+    },
+    {
+      "name": "ビスケットや炭酸飲料など値上げ 包装資材や原材料価格上昇で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175911000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260713/K10015175911_2607131928_0713202315_01_02.jpg",
+      "datePublished": "2026-07-13T20:23:14+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
