@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015176311000",
+  "dataSourceId": "na",
+  "name": "大リーグ オールスターゲーム HR競争 村上宗隆 1回戦敗退",
+  "headline": "大リーグ オールスターゲーム HR競争 村上宗隆 1回戦敗退",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015176311000",
+    "playlistId": "news-nwa-sports-nationwide-20260714",
+    "newsarticleName": "大リーグ オールスターゲーム HR競争 村上宗隆 1回戦敗退",
+    "playlistName": "7月14日のスポーツニュース",
+    "genreId": "sports",
+    "genreIdSlug": "sports"
+  },
+  "description": "大リーグ、オールスターゲームのホームラン競争に初出場したホワイトソックスの村上宗隆選手は8人で争う1回戦で敗れ、準決勝進出はなりませんでした。\n\n\nホームラン競争はことしからルールが変更されて時間制限",
+  "dateModified": "2026-07-14T10:42:49+09:00",
+  "datePublished": "2026-07-14T10:31:10+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260714/K10015176311_2607141011_0714103111_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260714/K10015176311_2607141011_0714103111_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "スポーツ"
+  ],
+  "topic": [
+    {
+      "id": "0000006",
+      "name": "大リーグ",
+      "display": true
+    },
+    {
+      "id": "0002745",
+      "name": "村上宗隆",
+      "display": true
+    },
+    {
+      "id": "0001591",
+      "name": "野球",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "大リーグ、オールスターゲームのホームラン競争に初出場したホワイトソックスの村上宗隆選手は8人で争う1回戦で敗れ、準決勝進出はなりませんでした。\n\n\nホームラン競争はことしからルールが変更されて時間制限",
+  "articleBody": "大リーグ、オールスターゲームのホームラン競争に初出場したホワイトソックスの村上宗隆選手は8人で争う1回戦で敗れ、準決勝進出はなりませんでした。\n\n\nホームラン競争はことしからルールが変更されて時間制限がなくなり、決められたスイング数で本数を競う形になりました。\n\n1回戦は20スイングで争い、4人目で登場した村上選手は9本のホームランを打ちましたが、7人目で打席に入ったフィリーズのシュワーバー選手が10本を打って村上選手を上回り、この時点で5位となって上位4人で争う準決勝進出はなりませんでした。\n\n大リーグ1年目の村上選手は今シーズンすでに20本のホームランを打っていて、日本選手がホームラン競争に出場するのは2021年の大谷翔平選手以来2人目でした。\n",
+  "detailedArticleBody": {
+    "markedLead": "大リーグ、オールスターゲームのホームラン競争に初出場したホワイトソックスの村上宗隆選手は8人で争う1回戦で敗れ、準決勝進出はなりませんでした。\n",
+    "markedBody": "ホームラン競争はことしからルールが変更されて時間制限がなくなり、決められたスイング数で本数を競う形になりました。\n\n1回戦は20スイングで争い、4人目で登場した村上選手は9本のホームランを打ちましたが、7人目で打席に入ったフィリーズのシュワーバー選手が10本を打って村上選手を上回り、この時点で5位となって上位4人で争う準決勝進出はなりませんでした。\n\n大リーグ1年目の村上選手は今シーズンすでに20本のホームランを打っていて、日本選手がホームラン競争に出場するのは2021年の大谷翔平選手以来2人目でした。\n",
+    "trimmedLead": "大リーグ、オールスターゲームのホームラン競争に初出場したホワイトソックスの村上宗隆選手は8人で争う1回戦で敗れ、準決勝進出はなりませんでした。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015176311000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015176311000",
+  "video": [],
+  "citation": [
+    {
+      "name": "大リーグオールスター 村上宗隆 本塁打競争「パワー見せたい」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015176221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260714/K10015176221_2607140716_0714074110_01_02.jpg",
+      "datePublished": "2026-07-14T10:32:33+09:00"
+    },
+    {
+      "name": "ドジャース 大谷翔平 22号ホームラン 日米通算350号に到達",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260713/K10015175311_2607130954_0713103520_01_02.jpg",
+      "datePublished": "2026-07-13T18:58:26+09:00"
+    },
+    {
+      "name": "佐々木麟太郎はマーリンズが8巡目で指名 大リーグ・ドラフト",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175361000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260713/K10015175361_2607131638_0713164249_01_02.jpg",
+      "datePublished": "2026-07-13T16:42:48+09:00"
+    },
+    {
+      "name": "W杯 見どころ【7月15日】準決勝 フランス×スペイン",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015176261000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260714/K10015176261_2607140808_0714092602_01_02.jpg",
+      "datePublished": "2026-07-14T09:26:02+09:00"
+    },
+    {
+      "name": "サッカーＷ杯 ベスト4は世界の「4強」による争いに",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260713/K10015175541_2607131204_0713182427_01_02.jpg",
+      "datePublished": "2026-07-13T18:24:26+09:00"
+    },
+    {
+      "name": "サッカーW杯 フランスとスペインが準決勝へ最終調整",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015176191000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260714/K10015176191_2607140959_0714100223_01_02.jpg",
+      "datePublished": "2026-07-14T08:57:09+09:00"
+    },
+    {
+      "name": "大相撲名古屋場所2日目 休場明けの横綱 大の里 初日から2連敗",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175701000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260713/K10015175701_2607131821_0713190629_01_02.jpg",
+      "datePublished": "2026-07-13T21:00:35+09:00"
+    },
+    {
+      "name": "サッカー日本代表 長友佑都が愛媛の母校をサプライズ訪問",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260713/K10015175441_2607131704_0713172802_01_03.jpg",
+      "datePublished": "2026-07-13T17:28:01+09:00"
+    },
+    {
+      "name": "大相撲名古屋場所 3日目見どころ 豊昇龍は藤ノ川と",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015176081000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260714/K10015176081_2607132154_0714052034_01_02.jpg",
+      "datePublished": "2026-07-14T05:20:33+09:00"
+    },
+    {
+      "name": "【随時更新】Ｗ杯 得点ランキング スーパースターのゴール動画",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015169231000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260705/K10015169231_2607121800_0712180710_01_02.jpg",
+      "datePublished": "2026-07-12T18:07:09+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
