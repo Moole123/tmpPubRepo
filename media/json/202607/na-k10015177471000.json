@@ -1,0 +1,156 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015177471000",
+  "dataSourceId": "na",
+  "name": "暗号資産を「金融商品」に位置づける改正金融商品取引法が成立",
+  "headline": "暗号資産を「金融商品」に位置づける改正金融商品取引法が成立",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015177471000",
+    "playlistId": "news-nwa-business-nationwide-20260715",
+    "newsarticleName": "暗号資産を「金融商品」に位置づける改正金融商品取引法が成立",
+    "playlistName": "7月15日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "ビットコインなどの暗号資産を投資対象とする人が増える中、暗号資産を「金融商品」として位置づける金融商品取引法の改正案が15日に開かれた参議院本会議で可決・成立しました。\n\n\n暗号資産は国内で利用者が年",
+  "dateModified": "2026-07-15T16:06:22+09:00",
+  "datePublished": "2026-07-15T16:06:22+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260715/K10015177471_2607151348_0715160623_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260715/K10015177471_2607151348_0715160623_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済",
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0002423",
+      "name": "金融",
+      "display": true
+    },
+    {
+      "id": "0002394",
+      "name": "参議院",
+      "display": true
+    },
+    {
+      "id": "0002392",
+      "name": "国会",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ビットコインなどの暗号資産を投資対象とする人が増える中、暗号資産を「金融商品」として位置づける金融商品取引法の改正案が15日に開かれた参議院本会議で可決・成立しました。\n\n\n暗号資産は国内で利用者が年",
+  "articleBody": "ビットコインなどの暗号資産を投資対象とする人が増える中、暗号資産を「金融商品」として位置づける金融商品取引法の改正案が15日に開かれた参議院本会議で可決・成立しました。\n\n\n暗号資産は国内で利用者が年々増え、口座の数はのべで1400万を超えていますが、これまで法律上は「資金決済の手段」という位置づけでした。\n\n改正金融商品取引法では暗号資産を「金融商品」として位置づけ、インサイダー規制の対象とするほか、暗号資産を新たに作って資金を調達する発行者については、資金の使いみちなどの情報提供を義務づけます。\n\nまた無登録で暗号資産を販売した業者への罰則も強化し、拘禁刑を「3年以下」から「10年以下」に、罰金を「300万円以下」から「1000万円以下」にそれぞれ引き上げます。\n\nさらに、不正アクセスによる流出に備え、暗号資産の取り引き業者には顧客への補償にあてるための準備金を積み立てるよう求めるとしています。\n\nこの法改正によって1年以内に暗号資産が金融商品として位置づけられます。\n",
+  "detailedArticleBody": {
+    "markedLead": "ビットコインなどの暗号資産を投資対象とする人が増える中、暗号資産を「金融商品」として位置づける金融商品取引法の改正案が15日に開かれた参議院本会議で可決・成立しました。\n",
+    "markedBody": "暗号資産は国内で利用者が年々増え、口座の数はのべで1400万を超えていますが、これまで法律上は「資金決済の手段」という位置づけでした。\n\n改正金融商品取引法では暗号資産を「金融商品」として位置づけ、インサイダー規制の対象とするほか、暗号資産を新たに作って資金を調達する発行者については、資金の使いみちなどの情報提供を義務づけます。\n\nまた無登録で暗号資産を販売した業者への罰則も強化し、拘禁刑を「3年以下」から「10年以下」に、罰金を「300万円以下」から「1000万円以下」にそれぞれ引き上げます。\n\nさらに、不正アクセスによる流出に備え、暗号資産の取り引き業者には顧客への補償にあてるための準備金を積み立てるよう求めるとしています。\n\nこの法改正によって1年以内に暗号資産が金融商品として位置づけられます。\n",
+    "trimmedLead": "ビットコインなどの暗号資産を投資対象とする人が増える中、暗号資産を「金融商品」として位置づける金融商品取引法の改正案が15日に開かれた参議院本会議で可決・成立しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015177471000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015177471000",
+  "video": [],
+  "citation": [
+    {
+      "name": "皇室典範改正案 参議院で審議入り 委員会採決はあすに見送り",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015176941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015176941_2607151140_0715114534_01_02.jpg",
+      "datePublished": "2026-07-15T16:17:41+09:00"
+    },
+    {
+      "name": "北陸新幹線延伸ルート “「桂川案」が望ましい” 与党委員会",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177231000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015177231_2607150849_0715085154_01_02.jpg",
+      "datePublished": "2026-07-15T17:07:34+09:00"
+    },
+    {
+      "name": "W杯 スペイン 4大会ぶり決勝進出 フランス3大会連続決勝ならず",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177181000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015177181_2607150640_0715064639_01_02.jpg",
+      "datePublished": "2026-07-15T13:14:58+09:00"
+    },
+    {
+      "name": "東北～九州猛暑 危険な暑さも 北日本は非常に激しい雨の見込み",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015176981000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015176981_2607151159_0715115955_01_03.jpg",
+      "datePublished": "2026-07-15T16:58:13+09:00"
+    },
+    {
+      "name": "米軍 イランへの海上封鎖再開 トランプ大統領「発電所も標的」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177001000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015177001_2607150459_0715053908_01_02.jpg",
+      "datePublished": "2026-07-15T14:11:30+09:00"
+    },
+    {
+      "name": "【ライブ】第175回芥川賞・直木賞 受賞作発表へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015176901000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015176901_2607151143_0715165501_01_02.jpg",
+      "datePublished": "2026-07-15T17:02:27+09:00"
+    },
+    {
+      "name": "大阪・道頓堀ビル火災 出火の約15分前にたばこポイ捨てか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177011000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015177011_2607142218_0715052742_01_02.jpg",
+      "datePublished": "2026-07-15T05:27:41+09:00"
+    },
+    {
+      "name": "気付いた時には戻らない イヤホン難聴から耳を守る方法",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015176411000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260714/K10015176411_2607141145_0714143840_01_02.jpg",
+      "datePublished": "2026-07-14T14:38:39+09:00"
+    },
+    {
+      "name": "「実行役」が受けた指示は “短期間・複数箇所で事件起こせ”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015177291_2607151317_0715133920_01_03.jpg",
+      "datePublished": "2026-07-15T11:01:28+09:00"
+    },
+    {
+      "name": "高性能AI「クロード・ミュトス」 証言からその正体に迫る",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015175531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260714/K10015175531_2607141526_0714174724_01_02.jpg",
+      "datePublished": "2026-07-14T17:47:22+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
