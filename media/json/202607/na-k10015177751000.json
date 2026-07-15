@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015177751000",
+  "dataSourceId": "na",
+  "name": "冷凍食品大手「ニチレイ」サイバー攻撃を受けたと公表",
+  "headline": "冷凍食品大手「ニチレイ」サイバー攻撃を受けたと公表",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015177751000",
+    "playlistId": "news-nwa-business-nationwide-20260715",
+    "newsarticleName": "冷凍食品大手「ニチレイ」サイバー攻撃を受けたと公表",
+    "playlistName": "7月15日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "冷凍食品大手の「ニチレイ」でシステム障害が発生し、外食チェーンなどの間で商品の欠品などの影響が出ている問題で、会社は調査の結果、外部からサイバー攻撃を受けたと公表しました。\n\n\n会社では攻撃を受けたサ",
+  "dateModified": "2026-07-15T18:30:56+09:00",
+  "datePublished": "2026-07-15T18:30:56+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260715/K10015177751_2607151818_0715183057_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260715/K10015177751_2607151818_0715183057_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000325",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "0002733",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "冷凍食品大手の「ニチレイ」でシステム障害が発生し、外食チェーンなどの間で商品の欠品などの影響が出ている問題で、会社は調査の結果、外部からサイバー攻撃を受けたと公表しました。\n\n\n会社では攻撃を受けたサ",
+  "articleBody": "冷凍食品大手の「ニチレイ」でシステム障害が発生し、外食チェーンなどの間で商品の欠品などの影響が出ている問題で、会社は調査の結果、外部からサイバー攻撃を受けたと公表しました。\n\n\n会社では攻撃を受けたサーバーの一部に個人情報が保管されていたことから、情報が漏えいした可能性があるとして、システムを遮断してさらに調査を進めることにしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "冷凍食品大手の「ニチレイ」でシステム障害が発生し、外食チェーンなどの間で商品の欠品などの影響が出ている問題で、会社は調査の結果、外部からサイバー攻撃を受けたと公表しました。\n",
+    "markedBody": "会社では攻撃を受けたサーバーの一部に個人情報が保管されていたことから、情報が漏えいした可能性があるとして、システムを遮断してさらに調査を進めることにしています。\n",
+    "trimmedLead": "冷凍食品大手の「ニチレイ」でシステム障害が発生し、外食チェーンなどの間で商品の欠品などの影響が出ている問題で、会社は調査の結果、外部からサイバー攻撃を受けたと公表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015177751000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015177751000",
+  "video": [],
+  "citation": [
+    {
+      "name": "ケンタッキー食材納入に遅れ ニチレイで発生のシステム障害で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177391000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015177391_2607151209_0715123402_01_03.jpg",
+      "datePublished": "2026-07-15T12:34:01+09:00"
+    },
+    {
+      "name": "米オープンAI 新型AI 一般への提供開始 「ミュトス」超えも",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015173691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260710/K10015173691_2607101518_0710160923_01_02.jpg",
+      "datePublished": "2026-07-10T16:09:22+09:00"
+    },
+    {
+      "name": "高性能AI活用し重要システムのぜい弱性点検 政府AI基本計画",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015173421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260710/K10015173421_2607101042_0710112455_01_02.jpg",
+      "datePublished": "2026-07-10T11:24:54+09:00"
+    },
+    {
+      "name": "第175回芥川賞に小砂川チトさん「ゾンビ回収婦」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015176901000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015176901_2607151143_0715165501_01_02.jpg",
+      "datePublished": "2026-07-15T18:52:22+09:00"
+    },
+    {
+      "name": "世帯平均所得7.3％増も 生活「苦しい」は55.4％ 厚労省調査",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177511000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015177511_2607151513_0715171138_01_02.jpg",
+      "datePublished": "2026-07-15T17:11:37+09:00"
+    },
+    {
+      "name": "ガソリン全国平均169.9円 政府補助金で170円水準続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015177531_2607151505_0715163927_01_02.jpg",
+      "datePublished": "2026-07-15T16:39:26+09:00"
+    },
+    {
+      "name": "北陸新幹線延伸ルート “「桂川案」が望ましい” 与党委員会",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177231000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015177231_2607150849_0715085154_01_02.jpg",
+      "datePublished": "2026-07-15T18:44:54+09:00"
+    },
+    {
+      "name": "W杯 スペイン 4大会ぶり決勝進出 フランス3大会連続決勝ならず",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177181000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015177181_2607150640_0715064639_01_02.jpg",
+      "datePublished": "2026-07-15T13:14:58+09:00"
+    },
+    {
+      "name": "皇室典範改正案 参議院で審議入り 委員会採決はあすに見送り",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015176941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015176941_2607151140_0715114534_01_02.jpg",
+      "datePublished": "2026-07-15T17:32:52+09:00"
+    },
+    {
+      "name": "気付いた時には戻らない イヤホン難聴から耳を守る方法",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015176411000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260714/K10015176411_2607141145_0714143840_01_02.jpg",
+      "datePublished": "2026-07-14T14:38:39+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

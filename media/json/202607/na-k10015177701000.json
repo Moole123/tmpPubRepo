@@ -1,0 +1,160 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015177701000",
+  "dataSourceId": "na",
+  "name": "円相場 ドルに対して小幅な値動き",
+  "headline": "円相場 ドルに対して小幅な値動き",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015177701000",
+    "playlistId": "news-nwa-business-nationwide-20260715",
+    "newsarticleName": "円相場 ドルに対して小幅な値動き",
+    "playlistName": "7月15日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "15日の東京外国為替市場、円相場はドルに対して小幅な値動きとなりました。\n\n\n午後5時時点の円相場は、14日と比べて6銭、円高ドル安の1ドル＝162円27銭から28銭でした。\n\nユーロに対しては、39",
+  "dateModified": "2026-07-15T18:25:24+09:00",
+  "datePublished": "2026-07-15T18:25:24+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260715/K10015177701_2607151804_0715182525_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260715/K10015177701_2607151804_0715182525_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "0002429",
+      "name": "消費者物価指数",
+      "display": true
+    },
+    {
+      "id": "0000819",
+      "name": "原油価格",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "15日の東京外国為替市場、円相場はドルに対して小幅な値動きとなりました。\n\n\n午後5時時点の円相場は、14日と比べて6銭、円高ドル安の1ドル＝162円27銭から28銭でした。\n\nユーロに対しては、39",
+  "articleBody": "15日の東京外国為替市場、円相場はドルに対して小幅な値動きとなりました。\n\n\n午後5時時点の円相場は、14日と比べて6銭、円高ドル安の1ドル＝162円27銭から28銭でした。\n\nユーロに対しては、39銭円安ユーロ高の1ユーロ＝185円37銭から41銭でした。\n\nユーロはドルに対して1ユーロ＝1.1423から24ドルでした。\n\n市場関係者は「アメリカの先月の消費者物価指数の結果を受けて、アメリカの利上げ観測が後退し、ドルを売って円を買う動きが出た一方、原油先物価格の上昇を受けてドルを買う動きもあって、結果としては小幅な値動きとなった」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "15日の東京外国為替市場、円相場はドルに対して小幅な値動きとなりました。\n",
+    "markedBody": "午後5時時点の円相場は、14日と比べて6銭、円高ドル安の1ドル＝162円27銭から28銭でした。\n\nユーロに対しては、39銭円安ユーロ高の1ユーロ＝185円37銭から41銭でした。\n\nユーロはドルに対して1ユーロ＝1.1423から24ドルでした。\n\n市場関係者は「アメリカの先月の消費者物価指数の結果を受けて、アメリカの利上げ観測が後退し、ドルを売って円を買う動きが出た一方、原油先物価格の上昇を受けてドルを買う動きもあって、結果としては小幅な値動きとなった」と話しています。\n",
+    "trimmedLead": "15日の東京外国為替市場、円相場はドルに対して小幅な値動きとなりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015177701000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015177701000",
+  "video": [],
+  "citation": [
+    {
+      "name": "あすは北海道～九州で猛暑予想 北日本は今夜非常に激しい雨",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015176981000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015176981_2607151840_0715184854_01_03.jpg",
+      "datePublished": "2026-07-15T18:48:53+09:00"
+    },
+    {
+      "name": "ADHD治療薬コンサータ不足 特例で薬局間の在庫譲渡可に 厚労省",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177661000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015177661_2607151747_0715182122_01_02.jpg",
+      "datePublished": "2026-07-15T18:21:21+09:00"
+    },
+    {
+      "name": "第175回芥川賞に小砂川チトさん「ゾンビ回収婦」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015176901000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015176901_2607151143_0715165501_01_02.jpg",
+      "datePublished": "2026-07-15T18:52:22+09:00"
+    },
+    {
+      "name": "皇室典範改正案 参議院で審議入り 委員会採決はあすに見送り",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015176941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015176941_2607151140_0715114534_01_02.jpg",
+      "datePublished": "2026-07-15T17:32:52+09:00"
+    },
+    {
+      "name": "改正下水道法が成立 八潮市の大規模道路陥没受け 対策強化へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177601000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015177601_2607151643_0715170959_01_02.jpg",
+      "datePublished": "2026-07-15T17:09:58+09:00"
+    },
+    {
+      "name": "サンダル取ろうとして運転誤り4人死傷 被告に禁錮4年 高知地裁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015177421_2607151324_0715160507_01_03.jpg",
+      "datePublished": "2026-07-15T16:05:06+09:00"
+    },
+    {
+      "name": "インフルエンサー「宮崎麗果」 脱税の罪で有罪判決 東京地裁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177381000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015177381_2607151237_0715143016_01_03.jpg",
+      "datePublished": "2026-07-15T14:30:15+09:00"
+    },
+    {
+      "name": "65歳以上の高齢者の単身世帯930万超 過去最多",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015177521_2607151502_0715170905_01_03.jpg",
+      "datePublished": "2026-07-15T17:09:04+09:00"
+    },
+    {
+      "name": "北陸新幹線延伸ルート “「桂川案」が望ましい” 与党委員会",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177231000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015177231_2607150849_0715085154_01_02.jpg",
+      "datePublished": "2026-07-15T18:44:54+09:00"
+    },
+    {
+      "name": "W杯イングランドとアルゼンチンが準決勝へ調整 過去の対戦は？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177321000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015177321_2607151720_0715173602_01_02.jpg",
+      "datePublished": "2026-07-15T17:36:01+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
