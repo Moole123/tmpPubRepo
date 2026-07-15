@@ -1,0 +1,157 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015177791000",
+  "dataSourceId": "na",
+  "name": "バングラデシュ 大雨で洪水や土砂崩れ相次ぐ 50人以上死亡",
+  "headline": "バングラデシュ 大雨で洪水や土砂崩れ相次ぐ 50人以上死亡",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015177791000",
+    "playlistId": "news-nwa-international-nationwide-20260715",
+    "newsarticleName": "バングラデシュ 大雨で洪水や土砂崩れ相次ぐ 50人以上死亡",
+    "playlistName": "7月15日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "モンスーンと呼ばれる雨が多い季節に入っているバングラデシュで洪水や土砂崩れが相次ぎ、これまでに50人以上が死亡しました。\n\n\nバングラデシュはモンスーンと呼ばれる雨が多い季節に入っていて、先週から降り",
+  "dateModified": "2026-07-15T19:41:32+09:00",
+  "datePublished": "2026-07-15T19:41:32+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260715/K10015177791_2607151915_0715194133_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260715/K10015177791_2607151915_0715194133_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際",
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002572",
+      "name": "バングラデシュ",
+      "display": true
+    },
+    {
+      "id": "0000035",
+      "name": "気象",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "モンスーンと呼ばれる雨が多い季節に入っているバングラデシュで洪水や土砂崩れが相次ぎ、これまでに50人以上が死亡しました。\n\n\nバングラデシュはモンスーンと呼ばれる雨が多い季節に入っていて、先週から降り",
+  "articleBody": "モンスーンと呼ばれる雨が多い季節に入っているバングラデシュで洪水や土砂崩れが相次ぎ、これまでに50人以上が死亡しました。\n\n\nバングラデシュはモンスーンと呼ばれる雨が多い季節に入っていて、先週から降り続く雨の影響で洪水や土砂崩れが相次ぎ、現地の当局によりますと、これまでに合わせて54人が死亡しました。\n\nこのうち南部のコックスバザールでは、ミャンマーから逃れてきたロヒンギャの人たちが暮らす難民キャンプで大規模な土砂崩れが起き、子どもを含む16人が亡くなったということです。\n\nまた、山岳地帯を中心に土砂やがれきで道路が寸断されて孤立している地域もあり、当局は救助を進めるとともに、食料や医薬品など救援物資の輸送を急いでいます。\n\n被災した女性は「洪水で、持っていた物の多くを流されました。そばに助けてくれる人もいない状況で、どうすることもできません」と話していました。\n\n雨は当分の間、続くとみられ、当局は早めの避難を住民に呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "モンスーンと呼ばれる雨が多い季節に入っているバングラデシュで洪水や土砂崩れが相次ぎ、これまでに50人以上が死亡しました。\n",
+    "markedBody": "バングラデシュはモンスーンと呼ばれる雨が多い季節に入っていて、先週から降り続く雨の影響で洪水や土砂崩れが相次ぎ、現地の当局によりますと、これまでに合わせて54人が死亡しました。\n\nこのうち南部のコックスバザールでは、ミャンマーから逃れてきたロヒンギャの人たちが暮らす難民キャンプで大規模な土砂崩れが起き、子どもを含む16人が亡くなったということです。\n\nまた、山岳地帯を中心に土砂やがれきで道路が寸断されて孤立している地域もあり、当局は救助を進めるとともに、食料や医薬品など救援物資の輸送を急いでいます。\n\n被災した女性は「洪水で、持っていた物の多くを流されました。そばに助けてくれる人もいない状況で、どうすることもできません」と話していました。\n\n雨は当分の間、続くとみられ、当局は早めの避難を住民に呼びかけています。\n",
+    "trimmedLead": "モンスーンと呼ばれる雨が多い季節に入っているバングラデシュで洪水や土砂崩れが相次ぎ、これまでに50人以上が死亡しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015177791000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015177791000",
+  "video": [],
+  "citation": [
+    {
+      "name": "イラク駐留のアメリカ軍 9月末までに撤退完了へ イラク首相",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177651000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015177651_2607151743_0715181555_01_02.jpg",
+      "datePublished": "2026-07-15T18:15:55+09:00"
+    },
+    {
+      "name": "バンコク飲食店火災32人死亡 タイ全国で緊急立ち入り検査",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177641000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015177641_2607151702_0715171755_01_02.jpg",
+      "datePublished": "2026-07-15T17:17:55+09:00"
+    },
+    {
+      "name": "中国 GDP 4～6月は前年同期比＋4.3％ 景気の減速傾向鮮明に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015177331_2607151104_0715113722_01_02.jpg",
+      "datePublished": "2026-07-15T18:13:16+09:00"
+    },
+    {
+      "name": "米軍 イランへの海上封鎖再開 トランプ大統領「発電所も標的」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177001000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015177001_2607150459_0715053908_01_02.jpg",
+      "datePublished": "2026-07-15T14:11:30+09:00"
+    },
+    {
+      "name": "6月のウクライナ民間人死傷者2200人超 過去4年で最多 国連",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015176991000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015176991_2607150224_0715083333_01_02.jpg",
+      "datePublished": "2026-07-15T08:33:32+09:00"
+    },
+    {
+      "name": "ニューヨーク州 データセンター建設許可凍結 全米初",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015177311_2607151130_0715120224_01_02.jpg",
+      "datePublished": "2026-07-15T12:02:23+09:00"
+    },
+    {
+      "name": "ウクライナ軍 無人艇と無人車両の上陸作戦 世界初の成果と強調",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015176861000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260714/K10015176861_2607142003_0714213428_01_02.jpg",
+      "datePublished": "2026-07-14T21:34:27+09:00"
+    },
+    {
+      "name": "カギは牛が握る？エネルギーの地産地消へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171051000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260713/K10015171051_2607101522_0713141027_01_02.jpg",
+      "datePublished": "2026-07-13T14:10:25+09:00"
+    },
+    {
+      "name": "韓国 様変わりする『脱北者の日』",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015176471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260714/K10015176471_2607141214_0714154632_01_02.jpg",
+      "datePublished": "2026-07-14T15:46:31+09:00"
+    },
+    {
+      "name": "南アフリカ “反移民”デモの背景",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015177401_2607151159_0715124834_01_02.jpg",
+      "datePublished": "2026-07-15T12:48:33+09:00"
+    },
+    {
+      "name": "【随時更新】ロシア ウクライナに軍事侵攻（7月15日の動き）",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015140961000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015140961_2606041400_0715160950_01_02.jpg",
+      "datePublished": "2026-07-15T20:02:19+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

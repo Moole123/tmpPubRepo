@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015177761000",
+  "dataSourceId": "na",
+  "name": "ロシア製油所の稼働率 21年間で最低水準 ウクライナ攻撃で",
+  "headline": "ロシア製油所の稼働率 21年間で最低水準 ウクライナ攻撃で",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015177761000",
+    "playlistId": "news-nwa-international-nationwide-20260715",
+    "newsarticleName": "ロシア製油所の稼働率 21年間で最低水準 ウクライナ攻撃で",
+    "playlistName": "7月15日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "ロシアが軍事侵攻を続ける力をそごうと、ウクライナ軍は無人機などを使ってロシア内陸部の石油関連施設を相次いで攻撃し、アメリカのメディアは、ロシアの製油所の稼働率が過去21年間で最も低い水準に落ち込んでい",
+  "dateModified": "2026-07-15T19:46:41+09:00",
+  "datePublished": "2026-07-15T19:46:41+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260715/K10015177761_2607151859_0715194642_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260715/K10015177761_2607151859_0715194642_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0002039",
+      "name": "ウクライナ情勢",
+      "display": true
+    },
+    {
+      "id": "0001600",
+      "name": "ロシア",
+      "display": true
+    },
+    {
+      "id": "0002736",
+      "name": "資源・エネルギー",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ロシアが軍事侵攻を続ける力をそごうと、ウクライナ軍は無人機などを使ってロシア内陸部の石油関連施設を相次いで攻撃し、アメリカのメディアは、ロシアの製油所の稼働率が過去21年間で最も低い水準に落ち込んでい",
+  "articleBody": "ロシアが軍事侵攻を続ける力をそごうと、ウクライナ軍は無人機などを使ってロシア内陸部の石油関連施設を相次いで攻撃し、アメリカのメディアは、ロシアの製油所の稼働率が過去21年間で最も低い水準に落ち込んでいると伝えています。\n\n\nウクライナのゼレンスキー大統領は14日、SNSに動画を投稿し、前線からおよそ1300キロ離れたロシア中部の製油所を攻撃したと発表しました。\n\nアメリカのブルームバーグによりますと、過去100日の間にウクライナ軍は\n▽ロシア各地の石油関連施設におよそ50回、攻撃をくわえ\n▽規模の大きい製油所34か所のうち少なくとも24か所に被害を与えたということです。\n\n一連の攻撃によって、ロシアの製油所の稼働率は過去21年間で最も低い水準に落ち込んでいると伝えています。\n",
+  "detailedArticleBody": {
+    "markedLead": "ロシアが軍事侵攻を続ける力をそごうと、ウクライナ軍は無人機などを使ってロシア内陸部の石油関連施設を相次いで攻撃し、アメリカのメディアは、ロシアの製油所の稼働率が過去21年間で最も低い水準に落ち込んでいると伝えています。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20260715/K10015177761_2607151842_0715194642_02_03.jpg)\n\nウクライナのゼレンスキー大統領は14日、SNSに動画を投稿し、前線からおよそ1300キロ離れたロシア中部の製油所を攻撃したと発表しました。\n\nアメリカのブルームバーグによりますと、過去100日の間にウクライナ軍は\\\n▽ロシア各地の石油関連施設におよそ50回、攻撃をくわえ\\\n▽規模の大きい製油所34か所のうち少なくとも24か所に被害を与えたということです。\n\n一連の攻撃によって、ロシアの製油所の稼働率は過去21年間で最も低い水準に落ち込んでいると伝えています。\n",
+    "trimmedLead": "ロシアが軍事侵攻を続ける力をそごうと、ウクライナ軍は無人機などを使ってロシア内陸部の石油関連施設を相次いで攻撃し、アメリカのメディアは、ロシアの製油所の稼働率が過去21年間で最も低い水準に落ち込んでいると伝えています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015177761000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015177761000",
+  "video": [],
+  "citation": [
+    {
+      "name": "6月のウクライナ民間人死傷者2200人超 過去4年で最多 国連",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015176991000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015176991_2607150224_0715083333_01_02.jpg",
+      "datePublished": "2026-07-15T08:33:32+09:00"
+    },
+    {
+      "name": "ウクライナ支援の有志連合 今秋にポーランドで初の軍事演習へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177211000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015177211_2607150630_0715083526_01_02.jpg",
+      "datePublished": "2026-07-15T08:35:25+09:00"
+    },
+    {
+      "name": "ウクライナ軍 無人艇と無人車両の上陸作戦 世界初の成果と強調",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015176861000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260714/K10015176861_2607142003_0714213428_01_02.jpg",
+      "datePublished": "2026-07-14T21:34:27+09:00"
+    },
+    {
+      "name": "イラク駐留のアメリカ軍 9月末までに撤退完了へ イラク首相",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177651000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015177651_2607151743_0715181555_01_02.jpg",
+      "datePublished": "2026-07-15T18:15:55+09:00"
+    },
+    {
+      "name": "バングラデシュ 大雨で洪水や土砂崩れ相次ぐ 50人以上死亡",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015177791_2607151915_0715194133_01_02.jpg",
+      "datePublished": "2026-07-15T19:41:32+09:00"
+    },
+    {
+      "name": "中国 GDP 4～6月は前年同期比＋4.3％ 景気の減速傾向鮮明に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015177331_2607151104_0715113722_01_02.jpg",
+      "datePublished": "2026-07-15T18:13:16+09:00"
+    },
+    {
+      "name": "米軍 イランへの海上封鎖再開 トランプ大統領「発電所も標的」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177001000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015177001_2607150459_0715053908_01_02.jpg",
+      "datePublished": "2026-07-15T14:11:30+09:00"
+    },
+    {
+      "name": "イエメン暫定政権 反政府勢力フーシ派実効支配の空港を攻撃",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015176451000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260714/K10015176451_2607141223_0714132230_01_02.jpg",
+      "datePublished": "2026-07-14T13:22:29+09:00"
+    },
+    {
+      "name": "韓国 様変わりする『脱北者の日』",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015176471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260714/K10015176471_2607141214_0714154632_01_02.jpg",
+      "datePublished": "2026-07-14T15:46:31+09:00"
+    },
+    {
+      "name": "南アフリカ “反移民”デモの背景",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015177401_2607151159_0715124834_01_02.jpg",
+      "datePublished": "2026-07-15T12:48:33+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
