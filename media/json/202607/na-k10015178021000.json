@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015178021000",
+  "dataSourceId": "na",
+  "name": "天皇ご一家 那須御用邸に静養のため滞在",
+  "headline": "天皇ご一家 那須御用邸に静養のため滞在",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015178021000",
+    "playlistId": "news-nwa-society-nationwide-20260715",
+    "newsarticleName": "天皇ご一家 那須御用邸に静養のため滞在",
+    "playlistName": "7月15日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "天皇ご一家は静養のため、15日から栃木県の那須御用邸に滞在されています。\n\n\n天皇皇后両陛下と長女の愛子さまは15日午後、皇居を車で出発し、夕方に栃木県那須町の那須御用邸に到着されました。\n\nご一家は",
+  "dateModified": "2026-07-15T23:51:26+09:00",
+  "datePublished": "2026-07-15T23:51:26+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260715/K10015178021_2607152309_0715235127_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260715/K10015178021_2607152309_0715235127_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0000527",
+      "name": "皇室",
+      "display": true
+    },
+    {
+      "id": "0002209",
+      "name": "栃木県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "天皇ご一家は静養のため、15日から栃木県の那須御用邸に滞在されています。\n\n\n天皇皇后両陛下と長女の愛子さまは15日午後、皇居を車で出発し、夕方に栃木県那須町の那須御用邸に到着されました。\n\nご一家は",
+  "articleBody": "天皇ご一家は静養のため、15日から栃木県の那須御用邸に滞在されています。\n\n\n天皇皇后両陛下と長女の愛子さまは15日午後、皇居を車で出発し、夕方に栃木県那須町の那須御用邸に到着されました。\n\nご一家はかりゆし姿で、御用邸敷地内の散策を楽しまれ、天皇陛下は報道陣に対し、100年前の1926年7月15日に那須御用邸の本邸が建設されたことに触れ、「ちょうどその日に3人そろって、ことしも那須に来ることができたことをとてもうれしく思っています」と話されました。\n\n皇后さまは「本当に自然の豊かさを感じます。今回の滞在も楽しみにしております」と話されました。\n\n愛子さまは「那須ならではの雄大な自然を満喫して、貴重な時間を楽しむことができればと思っております」と話されました。\n\nご一家は10日間ほど、那須御用邸に滞在される予定です。\n",
+  "detailedArticleBody": {
+    "markedLead": "天皇ご一家は静養のため、15日から栃木県の那須御用邸に滞在されています。\n",
+    "markedBody": "天皇皇后両陛下と長女の愛子さまは15日午後、皇居を車で出発し、夕方に栃木県那須町の那須御用邸に到着されました。\n\nご一家はかりゆし姿で、御用邸敷地内の散策を楽しまれ、天皇陛下は報道陣に対し、100年前の1926年7月15日に那須御用邸の本邸が建設されたことに触れ、「ちょうどその日に3人そろって、ことしも那須に来ることができたことをとてもうれしく思っています」と話されました。\n\n皇后さまは「本当に自然の豊かさを感じます。今回の滞在も楽しみにしております」と話されました。\n\n愛子さまは「那須ならではの雄大な自然を満喫して、貴重な時間を楽しむことができればと思っております」と話されました。\n\nご一家は10日間ほど、那須御用邸に滞在される予定です。\n",
+    "trimmedLead": "天皇ご一家は静養のため、15日から栃木県の那須御用邸に滞在されています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015178021000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015178021000",
+  "video": [],
+  "citation": [
+    {
+      "name": "皇室典範 改正されると公務や住居 護衛などはどうなる？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177611000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015177611_2607151649_0715181459_01_02.jpg",
+      "datePublished": "2026-07-15T18:14:58+09:00"
+    },
+    {
+      "name": "「安定的な皇位継承をめぐる議論」ニュース一覧",
+      "url": "https://news.web.nhk/newsweb/pl/editorial-nwa-0000000519",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31439088.jpg"
+    },
+    {
+      "name": "芥川賞に小砂川チトさん 直木賞に朝倉かすみさん",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015176901000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015176901_2607152158_0715221444_01_02.jpg",
+      "datePublished": "2026-07-15T22:51:52+09:00"
+    },
+    {
+      "name": "ニチレイ サイバー攻撃を公表 外食企業や食品メーカーに影響",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177751000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015177751_2607151818_0715183057_01_02.jpg",
+      "datePublished": "2026-07-15T20:58:18+09:00"
+    },
+    {
+      "name": "米軍 イランの海上封鎖再開 イラン“周辺国の基地を攻撃”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015177811_2607152000_0715202516_01_02.jpg",
+      "datePublished": "2026-07-15T22:35:25+09:00"
+    },
+    {
+      "name": "「副首都」構想法案 賛成多数で衆議院を通過",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015177671_2607151805_0715190119_01_02.jpg",
+      "datePublished": "2026-07-15T21:30:59+09:00"
+    },
+    {
+      "name": "「検察なめんなよ」検事の刑事裁判 取り調べの動画が法廷で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015177781_2607151852_0715200940_01_02.jpg",
+      "datePublished": "2026-07-15T20:09:39+09:00"
+    },
+    {
+      "name": "首都直下地震を想定 災害廃棄物対策で協議会立ち上げ 環境省",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177681000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015177681_2607151810_0715205748_01_02.jpg",
+      "datePublished": "2026-07-15T20:57:47+09:00"
+    },
+    {
+      "name": "上半期の訪日客は5年ぶり減少 専門家「今後は“成熟期”へ」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177481000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015177481_2607151705_0715181359_01_02.jpg",
+      "datePublished": "2026-07-15T18:13:58+09:00"
+    },
+    {
+      "name": "65歳以上の高齢者の単身世帯930万超 過去最多",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015177521_2607151502_0715170905_01_03.jpg",
+      "datePublished": "2026-07-15T17:09:04+09:00"
+    },
+    {
+      "name": "気付いた時には戻らない イヤホン難聴から耳を守る方法",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015176411000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260714/K10015176411_2607141145_0714143840_01_02.jpg",
+      "datePublished": "2026-07-14T14:38:39+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
