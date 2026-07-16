@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015178511000",
+  "dataSourceId": "na",
+  "name": "相模原 女子高校生殺害 ストーカーなど疑いで元交際相手再逮捕",
+  "headline": "相模原 女子高校生殺害 ストーカーなど疑いで元交際相手再逮捕",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015178511000",
+    "playlistId": "news-nwa-society-nationwide-20260716",
+    "newsarticleName": "相模原 女子高校生殺害 ストーカーなど疑いで元交際相手再逮捕",
+    "playlistName": "7月16日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "先月、相模原市の河川敷で当時17歳の女子高校生が殺害された事件で、殺人の疑いで逮捕され家庭裁判所に送られた19歳の元交際相手について、警察は事件の前に被害者の女子高校生に対し、ストーカー行為をしていた",
+  "dateModified": "2026-07-16T18:23:15+09:00",
+  "datePublished": "2026-07-16T18:23:15+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260716/K10015178511_2607161812_0716182315_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260716/K10015178511_2607161812_0716182315_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0001538",
+      "name": "事件・事故",
+      "display": true
+    },
+    {
+      "id": "0002214",
+      "name": "神奈川県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "先月、相模原市の河川敷で当時17歳の女子高校生が殺害された事件で、殺人の疑いで逮捕され家庭裁判所に送られた19歳の元交際相手について、警察は事件の前に被害者の女子高校生に対し、ストーカー行為をしていた",
+  "articleBody": "先月、相模原市の河川敷で当時17歳の女子高校生が殺害された事件で、殺人の疑いで逮捕され家庭裁判所に送られた19歳の元交際相手について、警察は事件の前に被害者の女子高校生に対し、ストーカー行為をしていた疑いなどで16日、再逮捕しました。\n\n\n警察によりますと、スマートフォンのアプリで繰り返し復縁を迫る内容のメッセージを送ってつきまとったり、「家族全員殺す」などとメッセージを送って脅したりしたとしてストーカー規制法違反と脅迫の疑いが持たれています。\n\n警察によりますと、調べに対し「間違いありません」と容疑を認めているということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "先月、相模原市の河川敷で当時17歳の女子高校生が殺害された事件で、殺人の疑いで逮捕され家庭裁判所に送られた19歳の元交際相手について、警察は事件の前に被害者の女子高校生に対し、ストーカー行為をしていた疑いなどで16日、再逮捕しました。\n",
+    "markedBody": "警察によりますと、スマートフォンのアプリで繰り返し復縁を迫る内容のメッセージを送ってつきまとったり、「家族全員殺す」などとメッセージを送って脅したりしたとしてストーカー規制法違反と脅迫の疑いが持たれています。\n\n警察によりますと、調べに対し「間違いありません」と容疑を認めているということです。\n",
+    "trimmedLead": "先月、相模原市の河川敷で当時17歳の女子高校生が殺害された事件で、殺人の疑いで逮捕され家庭裁判所に送られた19歳の元交際相手について、警察は事件の前に被害者の女子高校生に対し、ストーカー行為をしていた疑いなどで16日、再逮捕しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015178511000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015178511000",
+  "video": [],
+  "citation": [
+    {
+      "name": "島根 出雲 親子遺体遺棄事件 父親殺害の疑いで次男を再逮捕",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015178381000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260716/K10015178381_2607161521_0716154545_01_02.jpg",
+      "datePublished": "2026-07-16T15:45:44+09:00"
+    },
+    {
+      "name": "千葉 “点滴混入”殺人事件 事件後に点滴のチューブ隠したか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177951000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260716/K10015177951_2607152147_0716060343_01_02.jpg",
+      "datePublished": "2026-07-16T16:48:29+09:00"
+    },
+    {
+      "name": "全国で気温上昇 3日連続で危険な暑さ観測も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177931000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260716/K10015177931_2607161732_0716190445_01_02.jpg",
+      "datePublished": "2026-07-16T19:04:43+09:00"
+    },
+    {
+      "name": "ニチレイ サイバー攻撃 広がる影響 あすから順次業務再開へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177911000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260716/K10015177911_2607152132_0716053207_01_02.jpg",
+      "datePublished": "2026-07-16T19:13:15+09:00"
+    },
+    {
+      "name": "給付付き税額控除 2029年度導入で大筋合意 実務者会議",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015178151000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260716/K10015178151_2607161148_0716115917_01_02.jpg",
+      "datePublished": "2026-07-16T19:00:15+09:00"
+    },
+    {
+      "name": "利根川進さん死去 86歳 日本人初のノーベル生理学・医学賞受賞",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015178081000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260716/K10015178081_2607160735_0716073735_01_03.jpg",
+      "datePublished": "2026-07-16T16:59:47+09:00"
+    },
+    {
+      "name": "アルゼンチン 2大会連続決勝へ メッシ2アシスト【詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177261000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260716/K10015177261_2607161055_0716110054_01_02.jpg",
+      "datePublished": "2026-07-16T17:47:42+09:00"
+    },
+    {
+      "name": "芥川賞に小砂川チトさん 直木賞に朝倉かすみさん",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015176901000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015176901_2607152158_0715221444_01_02.jpg",
+      "datePublished": "2026-07-15T22:51:52+09:00"
+    },
+    {
+      "name": "気付いた時には戻らない イヤホン難聴から耳を守る方法",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015176411000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260714/K10015176411_2607141145_0714143840_01_02.jpg",
+      "datePublished": "2026-07-14T14:38:39+09:00"
+    },
+    {
+      "name": "村山元首相が残した日記",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177341000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260716/K10015177341_2607151138_0716114218_01_02.jpg",
+      "datePublished": "2026-07-16T11:42:17+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
