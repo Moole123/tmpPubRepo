@@ -1,0 +1,167 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015179771000",
+  "dataSourceId": "na",
+  "name": "ニチレイ 来週正常化目指す方針 流通業界の課題指摘する声も",
+  "headline": "ニチレイ 来週正常化目指す方針 流通業界の課題指摘する声も",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015179771000",
+    "playlistId": "news-nwa-business-nationwide-20260718",
+    "newsarticleName": "ニチレイ 来週正常化目指す方針 流通業界の課題指摘する声も",
+    "playlistName": "7月18日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "サイバー攻撃によるシステム障害が発生した冷凍食品大手の「ニチレイ」は、倉庫からの出庫や冷凍食品の出荷などについて来週中の正常化を目指す方針です。専門家は外食チェーンやスーパーなどに影響が広がった背景の",
+  "dateModified": "2026-07-18T05:05:11+09:00",
+  "datePublished": "2026-07-18T05:05:11+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260718/K10015179771_2607172251_0718050512_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260718/K10015179771_2607172251_0718050512_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0000325",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "0002744",
+      "name": "物流",
+      "display": true
+    },
+    {
+      "id": "0002419",
+      "name": "小売業",
+      "display": true
+    },
+    {
+      "id": "0002733",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "サイバー攻撃によるシステム障害が発生した冷凍食品大手の「ニチレイ」は、倉庫からの出庫や冷凍食品の出荷などについて来週中の正常化を目指す方針です。専門家は外食チェーンやスーパーなどに影響が広がった背景の",
+  "articleBody": "サイバー攻撃によるシステム障害が発生した冷凍食品大手の「ニチレイ」は、倉庫からの出庫や冷凍食品の出荷などについて来週中の正常化を目指す方針です。専門家は外食チェーンやスーパーなどに影響が広がった背景のひとつに、在庫をなるべく持たないようにする日本の流通の構造があると指摘しています。\n\n\nニチレイではサイバー攻撃によるシステム障害で、7月13日以降、倉庫からの出庫や冷凍食品の出荷などの業務に影響が生じていました。\n\n会社は外部のセキュリティー会社の支援を受けながら復旧作業を進め、17日からこれらの業務を順次再開していて、来週中の正常化を目指す方針です。\n\nただ、自社だけでなく他社が生産した製品の保管や運搬などの業務を手がけていたこともあり、外食チェーンやスーパーなどで欠品や入荷の遅れといった影響が広がりました。\n\n専門家 “在庫持たないようにする日本の流通構造が背景に”\n\nこれについて物流業界に詳しい流通経済大学の矢野裕児教授は、「日本の小売店は、店舗で在庫を持たない代わりに商品が少しずつ頻繁に入ってくる条件で営業している場合が多く、商品が入らなくなると在庫がなくなり欠品する可能性が高い」と述べ、在庫をなるべく持たないようにする日本の流通の構造が背景にあると指摘しています。\n\nその上で、サイバー攻撃に備えて、業界をあげて対策を強化する必要があるとしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "サイバー攻撃によるシステム障害が発生した冷凍食品大手の「ニチレイ」は、倉庫からの出庫や冷凍食品の出荷などについて来週中の正常化を目指す方針です。専門家は外食チェーンやスーパーなどに影響が広がった背景のひとつに、在庫をなるべく持たないようにする日本の流通の構造があると指摘しています。\n",
+    "markedBody": "ニチレイではサイバー攻撃によるシステム障害で、7月13日以降、倉庫からの出庫や冷凍食品の出荷などの業務に影響が生じていました。\n\n会社は外部のセキュリティー会社の支援を受けながら復旧作業を進め、17日からこれらの業務を順次再開していて、来週中の正常化を目指す方針です。\n\nただ、自社だけでなく他社が生産した製品の保管や運搬などの業務を手がけていたこともあり、外食チェーンやスーパーなどで欠品や入荷の遅れといった影響が広がりました。\n\n### 専門家 “在庫持たないようにする日本の流通構造が背景に”\n\nこれについて物流業界に詳しい流通経済大学の矢野裕児教授は、「日本の小売店は、店舗で在庫を持たない代わりに商品が少しずつ頻繁に入ってくる条件で営業している場合が多く、商品が入らなくなると在庫がなくなり欠品する可能性が高い」と述べ、在庫をなるべく持たないようにする日本の流通の構造が背景にあると指摘しています。\n\nその上で、サイバー攻撃に備えて、業界をあげて対策を強化する必要があるとしています。\n",
+    "trimmedLead": "サイバー攻撃によるシステム障害が発生した冷凍食品大手の「ニチレイ」は、倉庫からの出庫や冷凍食品の出荷などについて来週中の正常化を目指す方針です。専門家は外食チェーンやスーパーなどに影響が広がった背景のひとつに、在庫をなるべく持たないようにする日本の流通の構造があると指摘しています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015179771000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015179771000",
+  "video": [],
+  "citation": [
+    {
+      "name": "ニチレイ 出庫業務など順次再開 “来週中の正常化目指す”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015178981000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260717/K10015178981_2607170953_0717095642_01_02.jpg",
+      "datePublished": "2026-07-17T19:30:24+09:00"
+    },
+    {
+      "name": "栃木 群馬で記録的大雨 きょうも北～西日本で雷雨か 十分注意",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015179941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260718/K10015179941_2607180437_0718044248_01_02.jpg",
+      "datePublished": "2026-07-18T04:42:47+09:00"
+    },
+    {
+      "name": "栃木 足利市 旗川で氾濫おそれ 1万7812人に「緊急安全確保」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015179931000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260718/K10015179931_2607180105_0718012207_01_02.jpg",
+      "datePublished": "2026-07-18T01:22:06+09:00"
+    },
+    {
+      "name": "栃木 佐野市 旗川周辺の2249世帯6520人に「緊急安全確保」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015179901000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260718/K10015179901_2607180045_0718004901_01_02.jpg",
+      "datePublished": "2026-07-18T00:49:01+09:00"
+    },
+    {
+      "name": "【大雨 被害情報】群馬 浸水の通報相次ぐ 栃木 足利で土砂崩れ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015179921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260718/K10015179921_2607180106_0718011459_01_02.jpg",
+      "datePublished": "2026-07-18T04:52:12+09:00"
+    },
+    {
+      "name": "奈良 川岸に女性2人の遺体 37歳会社員を遺体遺棄の疑いで逮捕",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015179671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260717/K10015179671_2607172143_0717214756_01_02.jpg",
+      "datePublished": "2026-07-18T00:23:45+09:00"
+    },
+    {
+      "name": "東広島 殺人放火事件 元社員が代金回収指示された日に事件か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015179851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260717/K10015179851_2607172313_0717235115_01_02.jpg",
+      "datePublished": "2026-07-17T23:51:14+09:00"
+    },
+    {
+      "name": "衆院本会議 今国会の会期 25日まで8日間延長を議決",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015179431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260717/K10015179431_2607171856_0717191031_01_02.jpg",
+      "datePublished": "2026-07-17T22:08:17+09:00"
+    },
+    {
+      "name": "再審制度見直し 改正刑事訴訟法が参議院本会議で可決・成立",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015179011000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260717/K10015179011_2607171053_0717114146_01_02.jpg",
+      "datePublished": "2026-07-17T18:11:22+09:00"
+    },
+    {
+      "name": "人見知りの私が、変わった夜",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015178191000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260717/K10015178191_2607171912_0717191934_01_02.jpg",
+      "datePublished": "2026-07-17T19:19:33+09:00"
+    },
+    {
+      "name": "「来るはずの7人が…」 外国人が働く現場で何が？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015178241000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260717/K10015178241_2607161958_0717173725_01_02.jpg",
+      "datePublished": "2026-07-17T17:37:23+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
