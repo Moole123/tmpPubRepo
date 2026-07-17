@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015179531000",
+  "dataSourceId": "na",
+  "name": "川崎 高津区 落雷の影響か 小学校で停電 全校児童が一時避難もけがなし",
+  "headline": "川崎 落雷の影響か 小学校で停電 全校児童 一時避難もけがなし",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015179531000",
+    "playlistId": "news-nwa-society-nationwide-20260717",
+    "newsarticleName": "川崎 高津区 落雷の影響か 小学校で停電 全校児童が一時避難もけがなし",
+    "playlistName": "7月17日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "17日午後、川崎市高津区の小学校で落雷の影響とみられる停電があり、施設の一部から煙のようなものが確認されたため、学校が児童を避難させました。\n\n\n17日午後1時前、川崎市高津区の西梶ヶ谷小学校から「落",
+  "dateModified": "2026-07-17T18:14:10+09:00",
+  "datePublished": "2026-07-17T18:14:10+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260717/K10015179531_2607171812_0717181411_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260717/K10015179531_2607171812_0717181411_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0000035",
+      "name": "気象",
+      "display": true
+    },
+    {
+      "id": "0002214",
+      "name": "神奈川県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "17日午後、川崎市高津区の小学校で落雷の影響とみられる停電があり、施設の一部から煙のようなものが確認されたため、学校が児童を避難させました。\n\n\n17日午後1時前、川崎市高津区の西梶ヶ谷小学校から「落",
+  "articleBody": "17日午後、川崎市高津区の小学校で落雷の影響とみられる停電があり、施設の一部から煙のようなものが確認されたため、学校が児童を避難させました。\n\n\n17日午後1時前、川崎市高津区の西梶ヶ谷小学校から「落雷のあと停電が起き、1階の電気室から煙のようなものが見える」と消防に通報がありました。\n\n消防や警察が駆けつけた際には煙は確認されませんでしたが、消防によりますと、電気室の分電盤が一部、焼けていたということです。\n\n当時、この学校には全校児童500人余りがいて、体育館に避難したということで、児童や教職員にけがをした人はいないということです。\n\n警察と消防が詳しい状況を調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "17日午後、川崎市高津区の小学校で落雷の影響とみられる停電があり、施設の一部から煙のようなものが確認されたため、学校が児童を避難させました。\n",
+    "markedBody": "17日午後1時前、川崎市高津区の西梶ヶ谷小学校から「落雷のあと停電が起き、1階の電気室から煙のようなものが見える」と消防に通報がありました。\n\n消防や警察が駆けつけた際には煙は確認されませんでしたが、消防によりますと、電気室の分電盤が一部、焼けていたということです。\n\n当時、この学校には全校児童500人余りがいて、体育館に避難したということで、児童や教職員にけがをした人はいないということです。\n\n警察と消防が詳しい状況を調べています。\n",
+    "trimmedLead": "17日午後、川崎市高津区の小学校で落雷の影響とみられる停電があり、施設の一部から煙のようなものが確認されたため、学校が児童を避難させました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015179531000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015179531000",
+  "video": [],
+  "citation": [
+    {
+      "name": "関東で猛烈な雨相次ぐ 土砂災害・浸水・氾濫に厳重警戒を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015178661000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260717/K10015178661_2607171851_0717190434_01_02.jpg",
+      "datePublished": "2026-07-17T19:06:33+09:00"
+    },
+    {
+      "name": "衆院本会議 今国会の会期 25日まで8日間延長を議決",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015179431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260717/K10015179431_2607171856_0717191031_01_02.jpg",
+      "datePublished": "2026-07-17T19:29:52+09:00"
+    },
+    {
+      "name": "ニチレイ 出庫業務など順次再開 “来週中の正常化目指す”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015178981000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260717/K10015178981_2607170953_0717095642_01_02.jpg",
+      "datePublished": "2026-07-17T19:30:24+09:00"
+    },
+    {
+      "name": "メガソーラーの環境アセスメント義務づけ対象拡大へ 政府",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015179091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260717/K10015179091_2607171134_0717114459_01_02.jpg",
+      "datePublished": "2026-07-17T14:28:06+09:00"
+    },
+    {
+      "name": "食料品の消費税減税「来月上旬までをめどに方針決定する」政府",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015179061000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260717/K10015179061_2607171122_0717154311_01_02.jpg",
+      "datePublished": "2026-07-17T17:05:08+09:00"
+    },
+    {
+      "name": "再審制度見直し 改正刑事訴訟法が参議院本会議で可決・成立",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015179011000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260717/K10015179011_2607171053_0717114146_01_02.jpg",
+      "datePublished": "2026-07-17T18:11:22+09:00"
+    },
+    {
+      "name": "皇族数確保に向けた改正皇室典範 参議院本会議で可決・成立",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015179021000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260717/K10015179021_2607171052_0717114540_01_02.jpg",
+      "datePublished": "2026-07-17T19:27:31+09:00"
+    },
+    {
+      "name": "国旗損壊処罰法 参議院本会議で可決・成立",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015179001000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260717/K10015179001_2607171050_0717105240_01_02.jpg",
+      "datePublished": "2026-07-17T19:34:10+09:00"
+    },
+    {
+      "name": "環境省 「アーバンベア対策チーム」立ち上げ 市街地クマ対策",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015179401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260717/K10015179401_2607171633_0717170010_01_02.jpg",
+      "datePublished": "2026-07-17T17:00:10+09:00"
+    },
+    {
+      "name": "法隆寺金堂壁画 焼損前の姿を最新技術で鮮明に復元",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015179411000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260717/K10015179411_2607171634_0717170243_01_02.jpg",
+      "datePublished": "2026-07-17T17:02:42+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
