@@ -1,0 +1,156 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015179891000",
+  "dataSourceId": "na",
+  "name": "メキシコ チアパス州沿岸で大地震 M7.4 日本へ津波の影響なし",
+  "headline": "メキシコ チアパス州沿岸で大地震 M7.4 日本へ津波の影響なし",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015179891000",
+    "playlistId": "news-nwa-disaster-nationwide-20260718",
+    "newsarticleName": "メキシコ チアパス州沿岸で大地震 M7.4 日本へ津波の影響なし",
+    "playlistName": "7月18日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "ハワイにある太平洋津波警報センターから気象庁に入った連絡によりますと、日本時間の17日午後11時49分ごろ、メキシコのチアパス州沿岸を震源とするマグニチュード7.4の大きな地震がありました。\n\n\n気象",
+  "dateModified": "2026-07-18T00:33:25+09:00",
+  "datePublished": "2026-07-18T00:33:25+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260718/K10015179891_2607180024_0718003326_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260718/K10015179891_2607180024_0718003326_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害",
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0002621",
+      "name": "津波",
+      "display": true
+    },
+    {
+      "id": "0002365",
+      "name": "メキシコ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ハワイにある太平洋津波警報センターから気象庁に入った連絡によりますと、日本時間の17日午後11時49分ごろ、メキシコのチアパス州沿岸を震源とするマグニチュード7.4の大きな地震がありました。\n\n\n気象",
+  "articleBody": "ハワイにある太平洋津波警報センターから気象庁に入った連絡によりますと、日本時間の17日午後11時49分ごろ、メキシコのチアパス州沿岸を震源とするマグニチュード7.4の大きな地震がありました。\n\n\n気象庁によりますと、この地震による日本への津波の影響はありません。\n\n震源の付近では津波が発生する可能性があるとしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "ハワイにある太平洋津波警報センターから気象庁に入った連絡によりますと、日本時間の17日午後11時49分ごろ、メキシコのチアパス州沿岸を震源とするマグニチュード7.4の大きな地震がありました。\n",
+    "markedBody": "気象庁によりますと、この地震による日本への津波の影響はありません。\n\n震源の付近では津波が発生する可能性があるとしています。\n",
+    "trimmedLead": "ハワイにある太平洋津波警報センターから気象庁に入った連絡によりますと、日本時間の17日午後11時49分ごろ、メキシコのチアパス州沿岸を震源とするマグニチュード7.4の大きな地震がありました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015179891000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015179891000",
+  "video": [],
+  "citation": [
+    {
+      "name": "イギリス 与党 労働党新党首にバーナム氏選出 首相就任へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015179611000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260717/K10015179611_2607172016_0717201730_01_02.jpg",
+      "datePublished": "2026-07-17T21:51:41+09:00"
+    },
+    {
+      "name": "カナダ東部で山火事が猛威 煙の影響はニューヨークにも",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015178921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260717/K10015178921_2607170806_0717083340_01_02.jpg",
+      "datePublished": "2026-07-17T08:33:39+09:00"
+    },
+    {
+      "name": "中国 習近平国家主席 AI発展を主導していく姿勢を改めて示す",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015179381000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260717/K10015179381_2607171559_0717183539_01_02.jpg",
+      "datePublished": "2026-07-17T18:35:38+09:00"
+    },
+    {
+      "name": "米政府 国立公園の奴隷制に関する展示を差し替え 大統領令受け",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015179331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260717/K10015179331_2607171450_0717160258_01_02.jpg",
+      "datePublished": "2026-07-17T16:02:57+09:00"
+    },
+    {
+      "name": "米軍兵士に男性ホルモン検査を毎年義務づけの方針 米国防総省",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015178961000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260717/K10015178961_2607170926_0717104104_01_02.jpg",
+      "datePublished": "2026-07-17T10:41:03+09:00"
+    },
+    {
+      "name": "トランプ氏 “中国が米有権者情報2億件超を不正取得”と主張",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015179201000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260717/K10015179201_2607171228_0717130757_01_02.jpg",
+      "datePublished": "2026-07-17T18:58:35+09:00"
+    },
+    {
+      "name": "バーブルマンデブ海峡封鎖の報道 赤澤経産相 “深刻に注視”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015179211000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260717/K10015179211_2607171230_0717154509_01_02.jpg",
+      "datePublished": "2026-07-17T15:45:08+09:00"
+    },
+    {
+      "name": "アメリカ 学生ビザに新規則 滞在期間に4年の上限",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015179031000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260717/K10015179031_2607171021_0717103556_01_02.jpg",
+      "datePublished": "2026-07-17T10:35:55+09:00"
+    },
+    {
+      "name": "ウクライナに平和は訪れるか 消耗戦と長期化のおそれ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015179131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260717/K10015179131_2607171137_0717143750_01_02.jpg",
+      "datePublished": "2026-07-17T14:37:49+09:00"
+    },
+    {
+      "name": "深まる“核のジレンマ”  国際司法裁判所・勧告的意見から30年",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015178281000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260717/K10015178281_2607161239_0717153718_01_02.jpg",
+      "datePublished": "2026-07-17T15:37:17+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
