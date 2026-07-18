@@ -1,0 +1,161 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015180441000",
+  "dataSourceId": "na",
+  "name": "栃木 足利 住宅に土砂流入し倒壊 現場から女性1人見つかる",
+  "headline": "栃木 足利 住宅に土砂流入し倒壊 現場から女性1人見つかる",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015180441000",
+    "playlistId": "news-nwa-disaster-nationwide-20260718",
+    "newsarticleName": "栃木 足利 住宅に土砂流入し倒壊 現場から女性1人見つかる",
+    "playlistName": "7月18日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "大雨の影響で17日夜、栃木県足利市で住宅に土砂が流れ込んで建物が倒壊しました。この家に住む、60代の夫婦と連絡が取れていませんが、足利市は18日夕方、現場から女性1人が見つかったと発表しました。\n\n\n",
+  "dateModified": "2026-07-18T19:52:43+09:00",
+  "datePublished": "2026-07-18T19:52:43+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260718/K10015180441_2607181949_0718195244_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260718/K10015180441_2607181949_0718195244_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002209",
+      "name": "栃木県",
+      "display": true
+    },
+    {
+      "id": "0002617",
+      "name": "大雨情報",
+      "display": true
+    },
+    {
+      "id": "0000035",
+      "name": "気象",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "大雨の影響で17日夜、栃木県足利市で住宅に土砂が流れ込んで建物が倒壊しました。この家に住む、60代の夫婦と連絡が取れていませんが、足利市は18日夕方、現場から女性1人が見つかったと発表しました。\n\n\n",
+  "articleBody": "大雨の影響で17日夜、栃木県足利市で住宅に土砂が流れ込んで建物が倒壊しました。この家に住む、60代の夫婦と連絡が取れていませんが、足利市は18日夕方、現場から女性1人が見つかったと発表しました。\n\n\n足利市小俣町では17日午後10時前、「土砂崩れがあった」などと近所の人から消防に通報があり、警察などが駆けつけたところ、2階建ての住宅の1階部分に山の斜面から崩れた土砂が流れ込み、建物が倒壊していたということです。\n\n足利市によりますと、この住宅には60代の市の元職員が夫婦で暮らしていて、警察や消防ががれきなどを取り除きながら確認を進めていたところ、午後4時前に女性1人が現場から見つかったということです。\n\n容体については、明らかにしていません。\n\n警察などは引き続き捜索を続けています。\n",
+  "detailedArticleBody": {
+    "markedLead": "大雨の影響で17日夜、栃木県足利市で住宅に土砂が流れ込んで建物が倒壊しました。この家に住む、60代の夫婦と連絡が取れていませんが、足利市は18日夕方、現場から女性1人が見つかったと発表しました。\n",
+    "markedBody": "足利市小俣町では17日午後10時前、「土砂崩れがあった」などと近所の人から消防に通報があり、警察などが駆けつけたところ、2階建ての住宅の1階部分に山の斜面から崩れた土砂が流れ込み、建物が倒壊していたということです。\n\n足利市によりますと、この住宅には60代の市の元職員が夫婦で暮らしていて、警察や消防ががれきなどを取り除きながら確認を進めていたところ、午後4時前に女性1人が現場から見つかったということです。\n\n容体については、明らかにしていません。\n\n警察などは引き続き捜索を続けています。\n",
+    "trimmedLead": "大雨の影響で17日夜、栃木県足利市で住宅に土砂が流れ込んで建物が倒壊しました。この家に住む、60代の夫婦と連絡が取れていませんが、足利市は18日夕方、現場から女性1人が見つかったと発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015180441000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015180441000",
+  "video": [],
+  "citation": [
+    {
+      "name": "栃木 群馬で記録的な大雨【各地の被害まとめ】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015179921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260718/K10015179921_2607182001_0718202159_01_03.jpg",
+      "datePublished": "2026-07-18T21:31:41+09:00"
+    },
+    {
+      "name": "広範囲で大気の状態不安定 北海道 東北20日にかけ大雨のおそれ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015179941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260718/K10015179941_2607182000_0718200114_01_02.jpg",
+      "datePublished": "2026-07-18T18:48:56+09:00"
+    },
+    {
+      "name": "ナスダック株価指数 一時2％超の下落 中国AIへの警戒感で売り",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015180051000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260718/K10015180051_2607180950_0718095120_01_02.jpg",
+      "datePublished": "2026-07-18T08:15:16+09:00"
+    },
+    {
+      "name": "国会の会期延長 「副首都」構想法案の行方が焦点に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015179721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260718/K10015179721_2607172252_0718050004_01_02.jpg",
+      "datePublished": "2026-07-18T05:00:03+09:00"
+    },
+    {
+      "name": "京アニ放火殺人事件から7年 スタジオ跡地で追悼式 京都",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015179541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260718/K10015179541_2607181137_0718114600_01_02.jpg",
+      "datePublished": "2026-07-18T15:45:07+09:00"
+    },
+    {
+      "name": "千葉 点滴殺人 元職員は警察の捜査伝えられた直後に自主退職",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015179871000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260718/K10015179871_2607180004_0718051032_01_02.jpg",
+      "datePublished": "2026-07-18T05:10:31+09:00"
+    },
+    {
+      "name": "奈良 遺体遺棄疑いで逮捕の会社員 女性のトラブルを通報か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015179861000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260718/K10015179861_2607180210_0718050640_01_02.jpg",
+      "datePublished": "2026-07-18T05:06:39+09:00"
+    },
+    {
+      "name": "ニチレイ 来週正常化目指す方針 流通業界の課題指摘する声も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015179771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260718/K10015179771_2607172251_0718050512_01_02.jpg",
+      "datePublished": "2026-07-18T05:05:11+09:00"
+    },
+    {
+      "name": "「来るはずの7人が…」 外国人が働く現場で何が？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015178241000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260717/K10015178241_2607161958_0717173725_01_02.jpg",
+      "datePublished": "2026-07-17T17:37:23+09:00"
+    },
+    {
+      "name": "人見知りの私が、変わった夜",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015178191000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260717/K10015178191_2607171912_0717191934_01_02.jpg",
+      "datePublished": "2026-07-17T19:19:33+09:00"
+    },
+    {
+      "name": "アメリカとイラン 覚書署名から1か月 合意形がい化で被害拡大",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015179971000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260718/K10015179971_2607180432_0718071519_01_02.jpg",
+      "datePublished": "2026-07-18T09:16:57+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
