@@ -1,0 +1,151 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015180171000",
+  "dataSourceId": "na",
+  "name": "米アップル 日本でiPhoneの販売価格を約10％値上げ",
+  "headline": "米アップル 日本でiPhoneの販売価格を約10％値上げ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015180171000",
+    "playlistId": "news-nwa-business-nationwide-20260718",
+    "newsarticleName": "米アップル 日本でiPhoneの販売価格を約10％値上げ",
+    "playlistName": "7月18日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "アメリカのIT大手、「アップル」は、日本国内での「iPhone」の販売価格を10％程度引き上げました。円安の影響を反映したものとみられます。\n\n\nアップルは17日、日本国内の自社サイトで販売している「",
+  "dateModified": "2026-07-18T12:40:21+09:00",
+  "datePublished": "2026-07-18T12:40:21+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260718/K10015180171_2607181218_0718124022_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260718/K10015180171_2607181218_0718124022_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済",
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0002418",
+      "name": "通信",
+      "display": true
+    },
+    {
+      "id": "0000009",
+      "name": "IT・ネット",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "アメリカのIT大手、「アップル」は、日本国内での「iPhone」の販売価格を10％程度引き上げました。円安の影響を反映したものとみられます。\n\n\nアップルは17日、日本国内の自社サイトで販売している「",
+  "articleBody": "アメリカのIT大手、「アップル」は、日本国内での「iPhone」の販売価格を10％程度引き上げました。円安の影響を反映したものとみられます。\n\n\nアップルは17日、日本国内の自社サイトで販売している「iPhone17」、「iPhoneAir」、「iPhone17Pro」などの価格を引き上げました。\n\nこのうち、iPhone17の標準モデルの最低価格は14万2800円となっていて、去年9月の発売時の価格と比べると1万3000円、率にしておよそ10％値上げされています。\n\nアメリカでは今のところ価格が据え置かれていて、円安の影響を反映したものとみられます。\n\nアップルでは、半導体メモリの価格高騰を受けて、先月、タブレット型端末や、ノートパソコンなどの値上げに踏み切っています。\n\nアップルのクックCEOは先月、有力紙、「ウォール・ストリート・ジャーナル」のインタビューで「残念ながら値上げは避けられない」と述べ、自社製品の値上げに言及していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカのIT大手、「アップル」は、日本国内での「iPhone」の販売価格を10％程度引き上げました。円安の影響を反映したものとみられます。\n",
+    "markedBody": "アップルは17日、日本国内の自社サイトで販売している「iPhone17」、「iPhoneAir」、「iPhone17Pro」などの価格を引き上げました。\n\nこのうち、iPhone17の標準モデルの最低価格は14万2800円となっていて、去年9月の発売時の価格と比べると1万3000円、率にしておよそ10％値上げされています。\n\nアメリカでは今のところ価格が据え置かれていて、円安の影響を反映したものとみられます。\n\nアップルでは、半導体メモリの価格高騰を受けて、先月、タブレット型端末や、ノートパソコンなどの値上げに踏み切っています。\n\nアップルのクックCEOは先月、有力紙、「ウォール・ストリート・ジャーナル」のインタビューで「残念ながら値上げは避けられない」と述べ、自社製品の値上げに言及していました。\n",
+    "trimmedLead": "アメリカのIT大手、「アップル」は、日本国内での「iPhone」の販売価格を10％程度引き上げました。円安の影響を反映したものとみられます。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015180171000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015180171000",
+  "video": [],
+  "citation": [
+    {
+      "name": "栃木 群馬で記録的大雨 きょうも北～西日本で雷雨か 十分注意",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015179941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260718/K10015179941_2607181207_0718121252_01_02.jpg",
+      "datePublished": "2026-07-18T12:53:55+09:00"
+    },
+    {
+      "name": "【大雨被害】栃木 土砂流れ込み住宅倒壊 夫婦と連絡取れず",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015179921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260718/K10015179921_2607181026_0718103849_01_02.jpg",
+      "datePublished": "2026-07-18T11:58:05+09:00"
+    },
+    {
+      "name": "ナスダック株価指数 一時2％超の下落 中国AIへの警戒感で売り",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015180051000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260718/K10015180051_2607180950_0718095120_01_02.jpg",
+      "datePublished": "2026-07-18T08:15:16+09:00"
+    },
+    {
+      "name": "京アニ放火殺人事件から7年 スタジオ跡地で追悼式 京都",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015179541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260718/K10015179541_2607181137_0718114600_01_02.jpg",
+      "datePublished": "2026-07-18T11:45:59+09:00"
+    },
+    {
+      "name": "千葉 点滴殺人 元職員が死亡患者の病室を複数回出入りか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015180141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260718/K10015180141_2607181133_0718115710_01_02.jpg",
+      "datePublished": "2026-07-18T11:57:10+09:00"
+    },
+    {
+      "name": "ニチレイ 来週正常化目指す方針 流通業界の課題指摘する声も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015179771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260718/K10015179771_2607172251_0718050512_01_02.jpg",
+      "datePublished": "2026-07-18T05:05:11+09:00"
+    },
+    {
+      "name": "「来るはずの7人が…」 外国人が働く現場で何が？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015178241000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260717/K10015178241_2607161958_0717173725_01_02.jpg",
+      "datePublished": "2026-07-17T17:37:23+09:00"
+    },
+    {
+      "name": "人見知りの私が、変わった夜",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015178191000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260717/K10015178191_2607171912_0717191934_01_02.jpg",
+      "datePublished": "2026-07-17T19:19:33+09:00"
+    },
+    {
+      "name": "米が7日連続イラン攻撃 覚書は形がい化 事態悪化懸念",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015180131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260718/K10015180131_2607181119_0718113746_01_02.jpg",
+      "datePublished": "2026-07-18T11:37:45+09:00"
+    },
+    {
+      "name": "イングランド“北部の王”から首相に バーナム氏の素顔",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015176681000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260718/K10015176681_2607161644_0718113149_01_02.jpg",
+      "datePublished": "2026-07-18T11:31:48+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
