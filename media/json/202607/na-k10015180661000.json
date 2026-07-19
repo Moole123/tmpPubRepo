@@ -1,0 +1,144 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015180661000",
+  "dataSourceId": "na",
+  "name": "マンションで男性転落 巻き込まれた女性死亡 名古屋 栄",
+  "headline": "マンションで男性転落 巻き込まれた女性死亡 名古屋 栄",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015180661000",
+    "playlistId": "news-nwa-society-nationwide-20260719",
+    "newsarticleName": "マンションで男性転落 巻き込まれた女性死亡 名古屋 栄",
+    "playlistName": "7月19日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "19日未明、名古屋市中心部のマンションから男性が転落し、近くを歩いていた20代くらいの女性が巻き込まれて死亡しました。警察によりますと、転落した男性も意識不明の重体だということで、警察は当時の状況を詳",
+  "dateModified": "2026-07-19T11:28:56+09:00",
+  "datePublished": "2026-07-19T11:28:56+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180661_2607191109_0719112857_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180661_2607191109_0719112857_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0001538",
+      "name": "事件・事故",
+      "display": true
+    },
+    {
+      "id": "0002223",
+      "name": "愛知県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "19日未明、名古屋市中心部のマンションから男性が転落し、近くを歩いていた20代くらいの女性が巻き込まれて死亡しました。警察によりますと、転落した男性も意識不明の重体だということで、警察は当時の状況を詳",
+  "articleBody": "19日未明、名古屋市中心部のマンションから男性が転落し、近くを歩いていた20代くらいの女性が巻き込まれて死亡しました。警察によりますと、転落した男性も意識不明の重体だということで、警察は当時の状況を詳しく調べています。\n\n\n19日午前1時前、名古屋市中区栄にあるマンションで、近くを通りかかった人から「人が落ちてきて、下にいた人に接触した」などと消防に通報がありました。\n\n警察によりますと、男性がマンションから転落し、近くを歩いていた20代くらいの女性と衝突したということです。\n\n2人は病院に搬送され、このうち女性はおよそ4時間半後に死亡が確認されました。\n\n転落した男性は意識不明の重体だということです。\n\nマンションは12階建てで、警察は2人の身元の確認を進めるとともに、男性が何階から転落したかなど当時の状況を詳しく調べています。\n\n現場は名古屋市中心部のビルやマンションが密集している地域です。\n",
+  "detailedArticleBody": {
+    "markedLead": "19日未明、名古屋市中心部のマンションから男性が転落し、近くを歩いていた20代くらいの女性が巻き込まれて死亡しました。警察によりますと、転落した男性も意識不明の重体だということで、警察は当時の状況を詳しく調べています。\n",
+    "markedBody": "19日午前1時前、名古屋市中区栄にあるマンションで、近くを通りかかった人から「人が落ちてきて、下にいた人に接触した」などと消防に通報がありました。\n\n警察によりますと、男性がマンションから転落し、近くを歩いていた20代くらいの女性と衝突したということです。\n\n2人は病院に搬送され、このうち女性はおよそ4時間半後に死亡が確認されました。\n\n転落した男性は意識不明の重体だということです。\n\nマンションは12階建てで、警察は2人の身元の確認を進めるとともに、男性が何階から転落したかなど当時の状況を詳しく調べています。\n\n現場は名古屋市中心部のビルやマンションが密集している地域です。\n",
+    "trimmedLead": "19日未明、名古屋市中心部のマンションから男性が転落し、近くを歩いていた20代くらいの女性が巻き込まれて死亡しました。警察によりますと、転落した男性も意識不明の重体だということで、警察は当時の状況を詳しく調べています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015180661000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015180661000",
+  "video": [],
+  "citation": [
+    {
+      "name": "栃木 足利 住宅に土砂流入し倒壊 行方不明者の捜索続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015180561000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260719/K10015180561_2607190444_0719044933_01_02.jpg",
+      "datePublished": "2026-07-19T05:21:51+09:00"
+    },
+    {
+      "name": "西日本・北陸で猛烈な暑さに 北海道・青森は大雨に警戒",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015180531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260719/K10015180531_2607191027_0719103615_01_02.jpg",
+      "datePublished": "2026-07-19T10:36:14+09:00"
+    },
+    {
+      "name": "千葉 点滴殺人 患者は過去に担当変更希望か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015180381000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260718/K10015180381_2607181845_0718192504_01_02.jpg",
+      "datePublished": "2026-07-18T19:25:03+09:00"
+    },
+    {
+      "name": "リニア中央新幹線 静岡県内着工へ 静岡県とJR東海協定締結",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015180281000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260718/K10015180281_2607181741_0718194409_01_02.jpg",
+      "datePublished": "2026-07-18T19:44:09+09:00"
+    },
+    {
+      "name": "ウクライナ軍総司令官の解任検討か イギリス有力紙",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015180541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260719/K10015180541_2607190334_0719094759_01_02.jpg",
+      "datePublished": "2026-07-19T09:47:59+09:00"
+    },
+    {
+      "name": "W杯 イングランドが3位に 仏エムバペは2点追加し通算10得点に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015180461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260719/K10015180461_2607190920_0719092850_01_02.jpg",
+      "datePublished": "2026-07-19T11:39:48+09:00"
+    },
+    {
+      "name": "W杯 アルゼンチンが決勝へ調整 スペインは雷影響で屋外中止に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015180551000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260719/K10015180551_2607190448_0719053928_01_02.jpg",
+      "datePublished": "2026-07-19T05:39:27+09:00"
+    },
+    {
+      "name": "ドジャース 悪天候でヤンキース戦が中止 翌日ダブルヘッダーへ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015180581000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260719/K10015180581_2607190844_0719084516_01_02.jpg",
+      "datePublished": "2026-07-19T10:58:58+09:00"
+    },
+    {
+      "name": "YouTubeで広がる著名人の“名言”動画 追跡すると海外で…？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015178341000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260718/K10015178341_2607171608_0718162545_01_02.jpg",
+      "datePublished": "2026-07-18T16:25:44+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
