@@ -1,0 +1,149 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015180881000",
+  "dataSourceId": "na",
+  "name": "山口 下関 海水浴場で40代男性が溺れて死亡",
+  "headline": "山口 下関 海水浴場で40代男性が溺れて死亡",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015180881000",
+    "playlistId": "news-nwa-society-nationwide-20260719",
+    "newsarticleName": "山口 下関 海水浴場で40代男性が溺れて死亡",
+    "playlistName": "7月19日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "19日午後、山口県下関市の海水浴場で、40代の男性が海に浮いているのが見つかり、その後、死亡が確認されました。男性は家族などと海水浴やバーベキューをしていたということで、警察は男性が溺れたとみて詳しい",
+  "dateModified": "2026-07-19T22:29:44+09:00",
+  "datePublished": "2026-07-19T20:03:25+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180881_2607192012_0719201521_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180881_2607192012_0719201521_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0001538",
+      "name": "事件・事故",
+      "display": true
+    },
+    {
+      "id": "0002235",
+      "name": "山口県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "19日午後、山口県下関市の海水浴場で、40代の男性が海に浮いているのが見つかり、その後、死亡が確認されました。男性は家族などと海水浴やバーベキューをしていたということで、警察は男性が溺れたとみて詳しい",
+  "articleBody": "19日午後、山口県下関市の海水浴場で、40代の男性が海に浮いているのが見つかり、その後、死亡が確認されました。男性は家族などと海水浴やバーベキューをしていたということで、警察は男性が溺れたとみて詳しい状況を調べています。\n\n\n警察によりますと、19日午後1時ごろ、山口県下関市豊浦町にある室津海水浴場で下関市の40代の男性が海に浮いているのを近くにいた人が見つけました。\n\n男性は、意識のない状態で、病院に運ばれましたが、およそ2時間後に死亡が確認されました。\n\n死因は溺死だったということです。\n\n警察によりますと、男性は家族や親類と海水浴場を訪れ、およそ10人で海水浴やバーベキューをしていて男性は当時、酒を飲んでいたということです。\n\n警察は男性が何らかの原因で溺れたとみて当時の状況を調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "19日午後、山口県下関市の海水浴場で、40代の男性が海に浮いているのが見つかり、その後、死亡が確認されました。男性は家族などと海水浴やバーベキューをしていたということで、警察は男性が溺れたとみて詳しい状況を調べています。\n",
+    "markedBody": "警察によりますと、19日午後1時ごろ、山口県下関市豊浦町にある室津海水浴場で下関市の40代の男性が海に浮いているのを近くにいた人が見つけました。\n\n男性は、意識のない状態で、病院に運ばれましたが、およそ2時間後に死亡が確認されました。\n\n死因は溺死だったということです。\n\n警察によりますと、男性は家族や親類と海水浴場を訪れ、およそ10人で海水浴やバーベキューをしていて男性は当時、酒を飲んでいたということです。\n\n警察は男性が何らかの原因で溺れたとみて当時の状況を調べています。\n",
+    "trimmedLead": "19日午後、山口県下関市の海水浴場で、40代の男性が海に浮いているのが見つかり、その後、死亡が確認されました。男性は家族などと海水浴やバーベキューをしていたということで、警察は男性が溺れたとみて詳しい状況を調べています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015180881000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015180881000",
+  "video": [],
+  "citation": [
+    {
+      "name": "「SUP」中に海に転落 20歳の大学生が死亡 横浜",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015180781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260719/K10015180781_2607191709_0719171559_01_02.jpg",
+      "datePublished": "2026-07-19T17:15:58+09:00"
+    },
+    {
+      "name": "遊漁船火災 全員避難 けが人なし 神奈川 三浦",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015180681000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260719/K10015180681_2607191225_0719123000_01_02.jpg",
+      "datePublished": "2026-07-19T17:00:23+09:00"
+    },
+    {
+      "name": "静岡 御殿場 グラウンド周辺で複数倒木 子ども含む7人搬送",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015180731000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260719/K10015180731_2607191522_0719152303_01_02.jpg",
+      "datePublished": "2026-07-19T18:47:43+09:00"
+    },
+    {
+      "name": "マンションから男性転落 23歳女性が巻き込まれ死亡 名古屋 栄",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015180661000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260719/K10015180661_2607191109_0719112857_01_02.jpg",
+      "datePublished": "2026-07-19T17:32:28+09:00"
+    },
+    {
+      "name": "千葉 点滴殺人 混入に使われたとみられる注射器見つからず",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015180821000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260719/K10015180821_2607191757_0719182313_01_02.jpg",
+      "datePublished": "2026-07-19T18:23:12+09:00"
+    },
+    {
+      "name": "大阪 マンションで家族3人切りつけ 死亡の10代の少年関与か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015180801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260719/K10015180801_2607191739_0719182109_01_02.jpg",
+      "datePublished": "2026-07-19T18:21:08+09:00"
+    },
+    {
+      "name": "福岡 太宰府で38度 あすも埼玉で危険な暑さ予想 熱中症対策を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015180531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260719/K10015180531_2607191849_0719185642_01_02.jpg",
+      "datePublished": "2026-07-19T22:01:03+09:00"
+    },
+    {
+      "name": "「水の事故」に注意！ どう備える",
+      "url": "https://news.web.nhk/newsweb/sp/pl/editorial-nwa-0000000527",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31483997.jpg"
+    },
+    {
+      "name": "W杯 チケット価格高騰 試合直前 決勝は最低価格でも超高額",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015180701000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260719/K10015180701_2607191559_0719160252_01_02.jpg",
+      "datePublished": "2026-07-19T17:26:56+09:00"
+    },
+    {
+      "name": "W杯 決勝の見どころ スペイン4大会ぶりか アルゼンチン連覇か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015180651000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260719/K10015180651_2607191118_0719134025_01_02.jpg",
+      "datePublished": "2026-07-19T15:09:11+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

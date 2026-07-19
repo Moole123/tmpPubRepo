@@ -1,0 +1,149 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015180941000",
+  "dataSourceId": "na",
+  "name": "茨城 篭岩山 60代の登山者が滑落して死亡",
+  "headline": "茨城 篭岩山 60代の登山者が滑落して死亡",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015180941000",
+    "playlistId": "news-nwa-society-nationwide-20260719",
+    "newsarticleName": "茨城 篭岩山 60代の登山者が滑落して死亡",
+    "playlistName": "7月19日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "19日、茨城県の篭岩山で、千葉県の60代の男性が下山中に登山道から滑落して死亡しました。\n\n\n19日昼すぎ、茨城県大子町の篭岩山の展望台近くで「滑落した人がいる」と、一緒に登山をしていた男性から消防に",
+  "dateModified": "2026-07-19T22:27:29+09:00",
+  "datePublished": "2026-07-19T22:27:29+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180941_2607192211_0719222729_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180941_2607192211_0719222729_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0001538",
+      "name": "事件・事故",
+      "display": true
+    },
+    {
+      "id": "0002208",
+      "name": "茨城県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "19日、茨城県の篭岩山で、千葉県の60代の男性が下山中に登山道から滑落して死亡しました。\n\n\n19日昼すぎ、茨城県大子町の篭岩山の展望台近くで「滑落した人がいる」と、一緒に登山をしていた男性から消防に",
+  "articleBody": "19日、茨城県の篭岩山で、千葉県の60代の男性が下山中に登山道から滑落して死亡しました。\n\n\n19日昼すぎ、茨城県大子町の篭岩山の展望台近くで「滑落した人がいる」と、一緒に登山をしていた男性から消防に通報がありました。\n\n警察と消防の8人が救助に向かい、登山道脇の崖下に滑落していた、千葉県流山市の65歳の男性を救助しましたが、その後、搬送先の病院で死亡が確認されました。\n\n警察によりますと、男性は下山中に、およそ40メートルの崖下に滑落したということで、現場は補助の鎖のない下り坂でした。\n\n夏山シーズンを迎え、登山者が増える時期となっていて、警察は、急斜面や滑りやすい岩場などで、より注意するよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "19日、茨城県の篭岩山で、千葉県の60代の男性が下山中に登山道から滑落して死亡しました。\n",
+    "markedBody": "19日昼すぎ、茨城県大子町の篭岩山の展望台近くで「滑落した人がいる」と、一緒に登山をしていた男性から消防に通報がありました。\n\n警察と消防の8人が救助に向かい、登山道脇の崖下に滑落していた、千葉県流山市の65歳の男性を救助しましたが、その後、搬送先の病院で死亡が確認されました。\n\n警察によりますと、男性は下山中に、およそ40メートルの崖下に滑落したということで、現場は補助の鎖のない下り坂でした。\n\n夏山シーズンを迎え、登山者が増える時期となっていて、警察は、急斜面や滑りやすい岩場などで、より注意するよう呼びかけています。\n",
+    "trimmedLead": "19日、茨城県の篭岩山で、千葉県の60代の男性が下山中に登山道から滑落して死亡しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015180941000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015180941000",
+  "video": [],
+  "citation": [
+    {
+      "name": "山岳遭難3623人で最多 安全な計画を 警察庁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015153551000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260618/K10015153551_2606181551_0618162724_01_02.jpg",
+      "datePublished": "2026-06-18T16:27:23+09:00"
+    },
+    {
+      "name": "羅臼岳 登山者につきまとうヒグマ 登山道閉鎖し駆除も検討",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015173901000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260710/K10015173901_2607101820_0710190941_01_02.jpg",
+      "datePublished": "2026-07-10T19:09:40+09:00"
+    },
+    {
+      "name": "山口 下関 海水浴場で40代男性が溺れて死亡",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015180881000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260719/K10015180881_2607192012_0719201521_01_02.jpg",
+      "datePublished": "2026-07-19T22:29:44+09:00"
+    },
+    {
+      "name": "長崎 海水浴場で43歳男性死亡 男の子救助で溺れたか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015180891000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260719/K10015180891_2607191950_0719201436_01_02.jpg",
+      "datePublished": "2026-07-19T21:17:46+09:00"
+    },
+    {
+      "name": "競輪の伏見俊昭選手が落車事故で死去 アテネ五輪で銀メダル",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015180921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260719/K10015180921_2607192124_0719213524_01_02.jpg",
+      "datePublished": "2026-07-19T21:35:23+09:00"
+    },
+    {
+      "name": "福岡 太宰府で38度 あすも埼玉で危険な暑さ予想 熱中症対策を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015180531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260719/K10015180531_2607191849_0719185642_01_02.jpg",
+      "datePublished": "2026-07-19T22:01:03+09:00"
+    },
+    {
+      "name": "W杯 チケット価格高騰 試合直前 決勝は最低価格でも超高額",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015180701000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260719/K10015180701_2607191559_0719160252_01_02.jpg",
+      "datePublished": "2026-07-19T17:26:56+09:00"
+    },
+    {
+      "name": "W杯 決勝の見どころ スペイン4大会ぶりか アルゼンチン連覇か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015180651000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260719/K10015180651_2607191118_0719134025_01_02.jpg",
+      "datePublished": "2026-07-19T15:09:11+09:00"
+    },
+    {
+      "name": "山岳遭難 都市近郊で増加 注意点は？山岳救助のプロに聞く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014844921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20250627/K10014844921_2506271333_0627133344_01_02.jpg",
+      "datePublished": "2025-06-27T18:30:30+09:00"
+    },
+    {
+      "name": "【最新の熱中症情報】あなたのまちの暑さ指数は",
+      "url": "https://news.web.nhk/kishou-saigai/heatstroke/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30060731.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
