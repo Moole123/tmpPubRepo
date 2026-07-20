@@ -1,0 +1,175 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015181201000",
+  "dataSourceId": "na",
+  "name": "高校野球 去年全国制覇の沖縄尚学 北北海道の白樺学園 宮崎の日南学園 3校が甲子園出場決定",
+  "headline": "高校野球 去年全国制覇の沖縄尚学など3校が甲子園出場決定",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015181201000",
+    "playlistId": "news-nwa-sports-nationwide-20260720",
+    "newsarticleName": "高校野球 去年全国制覇の沖縄尚学 北北海道の白樺学園 宮崎の日南学園 3校が甲子園出場決定",
+    "playlistName": "7月20日のスポーツニュース",
+    "genreId": "sports",
+    "genreIdSlug": "sports"
+  },
+  "description": "夏の全国高校野球は20日、北北海道、宮崎、沖縄で3校が甲子園出場を決めました。\n\n\n《北北海道》\n\n北北海道大会は、白樺学園がクラーク記念国際高校に7対3で勝って甲子園出場を決めました。白樺学園は2年",
+  "dateModified": "2026-07-20T15:00:38+09:00",
+  "datePublished": "2026-07-20T13:34:16+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181201_2607201303_0720133417_02_01.jpg",
+      "height": 719,
+      "width": 1280
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181201_2607201303_0720133417_01_02.jpg",
+      "height": 719,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "スポーツ"
+  ],
+  "topic": [
+    {
+      "id": "0002460",
+      "name": "夏の全国高校野球",
+      "display": true
+    },
+    {
+      "id": "0000803",
+      "name": "高校野球",
+      "display": true
+    },
+    {
+      "id": "0001591",
+      "name": "野球",
+      "display": true
+    },
+    {
+      "id": "0002201",
+      "name": "北海道",
+      "display": true
+    },
+    {
+      "id": "0002245",
+      "name": "宮崎県",
+      "display": true
+    },
+    {
+      "id": "0002247",
+      "name": "沖縄県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "夏の全国高校野球は20日、北北海道、宮崎、沖縄で3校が甲子園出場を決めました。\n\n\n《北北海道》\n\n北北海道大会は、白樺学園がクラーク記念国際高校に7対3で勝って甲子園出場を決めました。白樺学園は2年",
+  "articleBody": "夏の全国高校野球は20日、北北海道、宮崎、沖縄で3校が甲子園出場を決めました。\n\n\n《北北海道》\n\n北北海道大会は、白樺学園がクラーク記念国際高校に7対3で勝って甲子園出場を決めました。白樺学園は2年ぶり5回目の夏の甲子園出場です。\n\n《宮崎》\n\n宮崎大会は、日南学園が小林西高校に11対0で勝って8年ぶり10回目の夏の甲子園出場を決めました。\n\n《沖縄》\n\n沖縄大会は、去年夏に全国制覇を果たした沖縄尚学高校がエナジックスポーツ高等学院に4対3で勝って、2年連続12回目の夏の甲子園出場を決めました。沖縄尚学は春夏連続の甲子園出場です。\n",
+  "detailedArticleBody": {
+    "markedLead": "夏の全国高校野球は20日、北北海道、宮崎、沖縄で3校が甲子園出場を決めました。\n",
+    "markedBody": "### 《北北海道》\n\n北北海道大会は、白樺学園がクラーク記念国際高校に7対3で勝って甲子園出場を決めました。白樺学園は2年ぶり5回目の夏の甲子園出場です。\n\n### 《宮崎》\n\n宮崎大会は、日南学園が小林西高校に11対0で勝って8年ぶり10回目の夏の甲子園出場を決めました。\n\n### 《沖縄》\n\n沖縄大会は、去年夏に全国制覇を果たした沖縄尚学高校がエナジックスポーツ高等学院に4対3で勝って、2年連続12回目の夏の甲子園出場を決めました。沖縄尚学は春夏連続の甲子園出場です。\n\n![](https://news.web.nhk/news/html/20260720/K10015181201_2607201500_0720150039_02_03.jpg)\n",
+    "trimmedLead": "夏の全国高校野球は20日、北北海道、宮崎、沖縄で3校が甲子園出場を決めました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015181201000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015181201000",
+  "video": [],
+  "citation": [
+    {
+      "name": "【夏の甲子園 2026】日程・結果・最新ニュース",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002460",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31637391.jpg"
+    },
+    {
+      "name": "スペインが優勝 4大会ぶり2回目 アルゼンチンとの延長制す",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015180471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260720/K10015180471_2607200924_0720094058_01_02.jpg",
+      "datePublished": "2026-07-20T14:51:46+09:00"
+    },
+    {
+      "name": "W杯 得点王はエムバペ（フランス）史上初の2大会連続で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015181081000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260720/K10015181081_2607200943_0720095448_01_02.jpg",
+      "datePublished": "2026-07-20T09:54:47+09:00"
+    },
+    {
+      "name": "W杯 イングランドが3位に 仏エムバペは2点追加し通算10得点に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015180461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260719/K10015180461_2607190920_0719092850_01_02.jpg",
+      "datePublished": "2026-07-19T12:21:37+09:00"
+    },
+    {
+      "name": "Ｗ杯 得点ランキング スーパースターのゴール【動画配信】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015169231000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260705/K10015169231_2607061453_0720110219_01_02.jpg",
+      "datePublished": "2026-07-20T11:02:18+09:00"
+    },
+    {
+      "name": "Ｗ杯 決勝トーナメント【全結果・動画】スペイン優勝",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015172211000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260708/K10015172211_2607082121_0708220455_01_02.jpg",
+      "datePublished": "2026-07-20T10:48:13+09:00"
+    },
+    {
+      "name": "サッカー日本代表 森保一監督「日本代表は個の力を培う必要」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015181121000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260720/K10015181121_2607201010_0720103727_01_02.jpg",
+      "datePublished": "2026-07-20T10:37:26+09:00"
+    },
+    {
+      "name": "ドジャース大谷翔平 当面は打者出場のみ 左ひざ回復のため",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015181051000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260720/K10015181051_2607200648_0720070754_01_02.jpg",
+      "datePublished": "2026-07-20T09:03:18+09:00"
+    },
+    {
+      "name": "ドジャース山本由伸 初完投で2年連続2桁10勝目 大谷翔平2打点",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015181041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260720/K10015181041_2607200648_0720070716_01_02.jpg",
+      "datePublished": "2026-07-20T13:06:39+09:00"
+    },
+    {
+      "name": "【プロ野球結果】巨人 小笠原慎之介が国内復帰後の初勝利",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015180971000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260719/K10015180971_2607192338_0720090926_01_02.jpg",
+      "datePublished": "2026-07-19T23:34:40+09:00"
+    },
+    {
+      "name": "競輪の伏見俊昭選手が落車事故で死去 アテネ五輪で銀メダル",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015180921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260719/K10015180921_2607192124_0719213524_01_02.jpg",
+      "datePublished": "2026-07-19T21:35:23+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
