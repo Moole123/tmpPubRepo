@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015181261000",
+  "dataSourceId": "na",
+  "name": "水上バイクと女子大学生が衝突 意識ない状態で搬送 兵庫 赤穂",
+  "headline": "水上バイクと女子大学生が衝突 意識ない状態で搬送 兵庫 赤穂",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015181261000",
+    "playlistId": "news-nwa-society-nationwide-20260720",
+    "newsarticleName": "水上バイクと女子大学生が衝突 意識ない状態で搬送 兵庫 赤穂",
+    "playlistName": "7月20日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "20日午後、兵庫県赤穂市の海岸で水上バイクと22歳の女子大学生が衝突する事故があり、大学生は意識のない状態で病院に搬送されました。海上保安部が詳しい事故の状況を調べています。\n\n\n20日午後0時半ごろ",
+  "dateModified": "2026-07-20T19:18:09+09:00",
+  "datePublished": "2026-07-20T17:58:51+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181261_2607201759_0720181606_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181261_2607201759_0720181606_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0001538",
+      "name": "事件・事故",
+      "display": true
+    },
+    {
+      "id": "0002228",
+      "name": "兵庫県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "20日午後、兵庫県赤穂市の海岸で水上バイクと22歳の女子大学生が衝突する事故があり、大学生は意識のない状態で病院に搬送されました。海上保安部が詳しい事故の状況を調べています。\n\n\n20日午後0時半ごろ",
+  "articleBody": "20日午後、兵庫県赤穂市の海岸で水上バイクと22歳の女子大学生が衝突する事故があり、大学生は意識のない状態で病院に搬送されました。海上保安部が詳しい事故の状況を調べています。\n\n\n20日午後0時半ごろ、兵庫県赤穂市鷆和の海岸で「水上バイクと人がぶつかった」と消防に通報がありました。\n\n姫路海上保安部によりますと、この事故で、水上バイクと衝突した大阪 四條畷市に住む22歳の女子大学生が意識のない状態で病院に搬送されたということです。\n\n海上保安部によりますと、女子大学生は合わせて5人のグループで現場の海岸を訪れていて、グループの1人の男子大学生が運転していた水上バイクと衝突したとみられるということです。海上保安部が詳しい事故の状況を調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "20日午後、兵庫県赤穂市の海岸で水上バイクと22歳の女子大学生が衝突する事故があり、大学生は意識のない状態で病院に搬送されました。海上保安部が詳しい事故の状況を調べています。\n",
+    "markedBody": "20日午後0時半ごろ、兵庫県赤穂市鷆和の海岸で「水上バイクと人がぶつかった」と消防に通報がありました。\n\n姫路海上保安部によりますと、この事故で、水上バイクと衝突した大阪 四條畷市に住む22歳の女子大学生が意識のない状態で病院に搬送されたということです。\n\n海上保安部によりますと、女子大学生は合わせて5人のグループで現場の海岸を訪れていて、グループの1人の男子大学生が運転していた水上バイクと衝突したとみられるということです。海上保安部が詳しい事故の状況を調べています。\n",
+    "trimmedLead": "20日午後、兵庫県赤穂市の海岸で水上バイクと22歳の女子大学生が衝突する事故があり、大学生は意識のない状態で病院に搬送されました。海上保安部が詳しい事故の状況を調べています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015181261000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015181261000",
+  "video": [],
+  "citation": [
+    {
+      "name": "W杯 スペインが優勝 4大会ぶり2回目 アルゼンチンとの延長制す",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015180471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260720/K10015180471_2607200924_0720094058_01_02.jpg",
+      "datePublished": "2026-07-20T18:37:00+09:00"
+    },
+    {
+      "name": "サッカー日本代表 森保一監督「日本代表は個の力を培う必要」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015181121000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260720/K10015181121_2607201010_0720103727_01_02.jpg",
+      "datePublished": "2026-07-20T10:37:26+09:00"
+    },
+    {
+      "name": "メッシと赤ちゃん時代のヤマル 撮影の舞台裏は ユニセフ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015180991000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260720/K10015180991_2607200310_0720034058_01_02.jpg",
+      "datePublished": "2026-07-20T03:40:57+09:00"
+    },
+    {
+      "name": "あす埼玉 熊谷で40度「酷暑日」予想 熱中症に厳重警戒を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015181031000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260720/K10015181031_2607201813_0720191057_01_02.jpg",
+      "datePublished": "2026-07-20T19:10:56+09:00"
+    },
+    {
+      "name": "陸自 朝霞駐屯地で火事 ごみ置き場など焼ける けが人なし",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015181191000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260720/K10015181191_2607201206_0720120838_01_03.jpg",
+      "datePublished": "2026-07-20T15:29:10+09:00"
+    },
+    {
+      "name": "マンション転落 巻き込まれ死亡の女性は食事後帰宅途中 名古屋",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015181181000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260720/K10015181181_2607201203_0720122527_01_02.jpg",
+      "datePublished": "2026-07-20T12:25:26+09:00"
+    },
+    {
+      "name": "奈良 西名阪道 軽自動車が正面衝突し2人死亡1人大けが 逆走か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015181011000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260720/K10015181011_2607200441_0720044938_01_02.jpg",
+      "datePublished": "2026-07-20T18:49:26+09:00"
+    },
+    {
+      "name": "米 9日連続イラン攻撃 イラン外相「世界はイランの強さ認識」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015180931000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260720/K10015180931_2607192235_0720061929_01_02.jpg",
+      "datePublished": "2026-07-20T19:21:24+09:00"
+    },
+    {
+      "name": "ドジャース山本由伸 初完投で2年連続2桁10勝目 大谷翔平2打点",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015181041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260720/K10015181041_2607200648_0720070716_01_02.jpg",
+      "datePublished": "2026-07-20T13:06:39+09:00"
+    },
+    {
+      "name": "YouTubeで広がる著名人の“名言”動画 追跡すると海外で…？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015178341000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260718/K10015178341_2607171608_0718162545_01_02.jpg",
+      "datePublished": "2026-07-18T16:25:44+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
