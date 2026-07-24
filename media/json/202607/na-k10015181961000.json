@@ -1,0 +1,172 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015181961000",
+  "dataSourceId": "na",
+  "name": "円相場 いくぶん値下がり イラン情勢の先行き不透明感で",
+  "headline": "円相場 いくぶん値下がり イラン情勢の先行き不透明感で",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015181961000",
+    "playlistId": "news-nwa-business-nationwide-20260721",
+    "newsarticleName": "円相場 いくぶん値下がり イラン情勢の先行き不透明感で",
+    "playlistName": "7月21日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "21日の東京外国為替市場、円相場はイラン情勢の先行きに対する不透明感から、ドルを買って円を売る動きが進み、いくぶん値下がりしました。\n\n\n午後5時時点の円相場は、先週末と比べて31銭、円安ドル高の1ド",
+  "dateModified": "2026-07-21T18:31:34+09:00",
+  "datePublished": "2026-07-21T18:31:34+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181961_2607211759_0721183135_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181961_2607211759_0721183135_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0000820",
+      "name": "イラン情勢",
+      "display": true
+    },
+    {
+      "id": "0002800",
+      "name": "イラン情勢 日本への影響・対応",
+      "display": true
+    },
+    {
+      "id": "0000819",
+      "name": "原油価格",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "21日の東京外国為替市場、円相場はイラン情勢の先行きに対する不透明感から、ドルを買って円を売る動きが進み、いくぶん値下がりしました。\n\n\n午後5時時点の円相場は、先週末と比べて31銭、円安ドル高の1ド",
+  "articleBody": "21日の東京外国為替市場、円相場はイラン情勢の先行きに対する不透明感から、ドルを買って円を売る動きが進み、いくぶん値下がりしました。\n\n\n午後5時時点の円相場は、先週末と比べて31銭、円安ドル高の1ドル＝162円59～60銭でした。\n\n一方、ユーロに対しては、2銭、円高ユーロ安の1ユーロ＝185円72～76銭でした。\n\nユーロはドルに対して1ユーロ＝1.1422～24ドルでした。\n\n市場関係者は「アメリカ軍が10日連続でイランに対する攻撃を行うなど事態が収束する見通しが立たない中、原油価格の上昇によるインフレが進むことへの懸念が高まっていることから、ドル買いの動きがみられる」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "21日の東京外国為替市場、円相場はイラン情勢の先行きに対する不透明感から、ドルを買って円を売る動きが進み、いくぶん値下がりしました。\n",
+    "markedBody": "午後5時時点の円相場は、先週末と比べて31銭、円安ドル高の1ドル＝162円59～60銭でした。\n\n一方、ユーロに対しては、2銭、円高ユーロ安の1ユーロ＝185円72～76銭でした。\n\nユーロはドルに対して1ユーロ＝1.1422～24ドルでした。\n\n市場関係者は「アメリカ軍が10日連続でイランに対する攻撃を行うなど事態が収束する見通しが立たない中、原油価格の上昇によるインフレが進むことへの懸念が高まっていることから、ドル買いの動きがみられる」と話しています。\n",
+    "trimmedLead": "21日の東京外国為替市場、円相場はイラン情勢の先行きに対する不透明感から、ドルを買って円を売る動きが進み、いくぶん値下がりしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015181961000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015181961000",
+  "video": [],
+  "citation": [
+    {
+      "name": "株価 2000円以上値上がり 半導体関連銘柄中心に買い注文広がる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015181591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260721/K10015181591_2607211532_0721161625_01_02.jpg",
+      "datePublished": "2026-07-21T16:16:24+09:00"
+    },
+    {
+      "name": "政府 新たな成長戦略決定 “17分野の投資規模 総額370兆円超”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015181811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260721/K10015181811_2607211405_0721142908_01_02.jpg",
+      "datePublished": "2026-07-21T14:29:07+09:00"
+    },
+    {
+      "name": "「強い経済」へ経済財政運営を抜本転換 高市政権 初の骨太方針",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015181561000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260721/K10015181561_2607211215_0721130013_01_02.jpg",
+      "datePublished": "2026-07-21T19:33:15+09:00"
+    },
+    {
+      "name": "首都圏新築マンション平均価格 上半期初めて1億円超に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015181881000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260721/K10015181881_2607211603_0721163649_01_02.jpg",
+      "datePublished": "2026-07-21T16:36:49+09:00"
+    },
+    {
+      "name": "岐阜 愛知で40度超 22日も関東甲信や東海で「酷暑日」予想",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015181481000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260721/K10015181481_2607211709_0721171325_01_03.jpg",
+      "datePublished": "2026-07-21T21:03:04+09:00"
+    },
+    {
+      "name": "中国艦艇が日本のEEZ内で機関銃射撃訓練実施 防衛省が確認",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015181411000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260720/K10015181411_2607210422_0721044448_01_02.jpg",
+      "datePublished": "2026-07-21T20:15:44+09:00"
+    },
+    {
+      "name": "「副首都」法案 22日審議入りで与野党が合意 参院特別委",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015181631000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260721/K10015181631_2607211134_0721120010_01_02.jpg",
+      "datePublished": "2026-07-21T18:33:46+09:00"
+    },
+    {
+      "name": "エアコン国内出荷額21％増 “エアコン2027年問題”背景に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015181821000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260721/K10015181821_2607211342_0721141315_01_02.jpg",
+      "datePublished": "2026-07-21T14:13:14+09:00"
+    },
+    {
+      "name": "「手足口病」 前週から1.3倍 35都府県で警報レベル",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015181741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260721/K10015181741_2607211304_0721133327_01_02.jpg",
+      "datePublished": "2026-07-21T13:33:27+09:00"
+    },
+    {
+      "name": "羽田空港 1億9500万円強盗未遂事件で4人逮捕 警視庁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015181551000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260721/K10015181551_2607211011_0721103524_01_02.jpg",
+      "datePublished": "2026-07-21T10:35:24+09:00"
+    },
+    {
+      "name": "米10日連続攻撃 イランはバーレーンの米関連施設を攻撃",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015181491000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260721/K10015181491_2607211733_0721191933_01_02.jpg",
+      "datePublished": "2026-07-21T19:19:32+09:00"
+    },
+    {
+      "name": "熱狂の1か月 ワールドカップが問われているもの",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015180501000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260720/K10015180501_2607201656_0720203831_01_02.jpg",
+      "datePublished": "2026-07-20T20:38:30+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015184021000",
+  "dataSourceId": "na",
+  "name": "ガソリン全国平均170円 政府の補助金で170円水準続く",
+  "headline": "ガソリン全国平均170円 政府の補助金で170円水準続く",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015184021000",
+    "playlistId": "news-nwa-business-nationwide-20260723",
+    "newsarticleName": "ガソリン全国平均170円 政府の補助金で170円水準続く",
+    "playlistName": "7月23日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "国の委託を受けて調査している石油情報センターによりますと、レギュラーガソリンの小売価格は21日時点の全国平均で1リットル当たり170円と、前の週から0.1円値上がりしました。\n\n\n政府の激変緩和措置に",
+  "dateModified": "2026-07-23T15:50:58+09:00",
+  "datePublished": "2026-07-23T15:50:58+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260723/K10015184021_2607231444_0723155059_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260723/K10015184021_2607231444_0723155059_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000819",
+      "name": "原油価格",
+      "display": true
+    },
+    {
+      "id": "0002404",
+      "name": "経済産業省",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "国の委託を受けて調査している石油情報センターによりますと、レギュラーガソリンの小売価格は21日時点の全国平均で1リットル当たり170円と、前の週から0.1円値上がりしました。\n\n\n政府の激変緩和措置に",
+  "articleBody": "国の委託を受けて調査している石油情報センターによりますと、レギュラーガソリンの小売価格は21日時点の全国平均で1リットル当たり170円と、前の週から0.1円値上がりしました。\n\n\n政府の激変緩和措置による補助金で170円程度の水準が続いています。\n\nまた、経済産業省は23日からの出荷分を対象とした補助金の額は、前の週より9.4円増えて1リットル当たり16.9円になるとしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "国の委託を受けて調査している石油情報センターによりますと、レギュラーガソリンの小売価格は21日時点の全国平均で1リットル当たり170円と、前の週から0.1円値上がりしました。\n",
+    "markedBody": "政府の激変緩和措置による補助金で170円程度の水準が続いています。\n\nまた、経済産業省は23日からの出荷分を対象とした補助金の額は、前の週より9.4円増えて1リットル当たり16.9円になるとしています。\n",
+    "trimmedLead": "国の委託を受けて調査している石油情報センターによりますと、レギュラーガソリンの小売価格は21日時点の全国平均で1リットル当たり170円と、前の週から0.1円値上がりしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015184021000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015184021000",
+  "video": [],
+  "citation": [
+    {
+      "name": "6月の中東からの原油輸入量 前年同月比で40.6％減",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015182321000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260722/K10015182321_2607220949_0722100447_01_02.jpg",
+      "datePublished": "2026-07-22T11:28:14+09:00"
+    },
+    {
+      "name": "イラン情勢 フーシ派「タンカー攻撃」 戦闘拡大への懸念強まる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015183301000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260723/K10015183301_2607230944_0723100624_01_02.jpg",
+      "datePublished": "2026-07-23T19:06:23+09:00"
+    },
+    {
+      "name": "静岡 浜松で41.1度 各地で記録的暑さ あすも熱中症に厳重警戒",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015183051000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260723/K10015183051_2607231732_0723174157_01_03.jpg",
+      "datePublished": "2026-07-23T22:24:43+09:00"
+    },
+    {
+      "name": "セブン-イレブン キャラ商品を販売日前買い占めなど不適切事例",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015183321000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260723/K10015183321_2607230954_0723120615_01_02.jpg",
+      "datePublished": "2026-07-23T17:58:08+09:00"
+    },
+    {
+      "name": "和歌山 草刈り中の男性2人がため池に転落 病院搬送も死亡",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015183481000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260723/K10015183481_2607231056_0723110313_01_02.jpg",
+      "datePublished": "2026-07-23T19:55:11+09:00"
+    },
+    {
+      "name": "トランプ氏「船舶攻撃ならインフラ破壊」 イランは報復の構え",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015183211000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260723/K10015183211_2607230513_0723064158_01_02.jpg",
+      "datePublished": "2026-07-23T11:08:54+09:00"
+    },
+    {
+      "name": "東京23区中古マンション 1億2000万円超え続くも「一服感」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015183351000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260723/K10015183351_2607231030_0723111631_01_02.jpg",
+      "datePublished": "2026-07-23T11:16:30+09:00"
+    },
+    {
+      "name": "ドジャース 大谷翔平 ノーヒットもチームは打線つながり2連勝",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015183841000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260723/K10015183841_2607231236_0723134849_01_02.jpg",
+      "datePublished": "2026-07-23T13:48:48+09:00"
+    },
+    {
+      "name": "石川 七尾 能登半島地震後 初の災害公営住宅が完成で式典",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015183791000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260723/K10015183791_2607231200_0723131959_01_03.jpg",
+      "datePublished": "2026-07-23T13:19:58+09:00"
+    },
+    {
+      "name": "小泉防衛相 核めぐり“タブーなく議論を”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015183221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260723/K10015183221_2607230411_0723060229_01_02.jpg",
+      "datePublished": "2026-07-23T19:02:17+09:00"
+    },
+    {
+      "name": "祖父が作ったカメラ 21円で落札した",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015179141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260722/K10015179141_2607211312_0722161750_01_02.jpg",
+      "datePublished": "2026-07-22T16:17:49+09:00"
+    },
+    {
+      "name": "弔いのない別れ 認知症で行方不明の父を待つ娘の13年",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015181571000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260722/K10015181571_2607211612_0722163726_01_02.jpg",
+      "datePublished": "2026-07-22T16:37:25+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

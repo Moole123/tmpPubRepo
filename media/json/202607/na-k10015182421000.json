@@ -1,0 +1,160 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015182421000",
+  "dataSourceId": "na",
+  "name": "株価 小幅な値動き 午後に利益確定の売り注文広がる",
+  "headline": "株価 小幅な値動き 午後に利益確定の売り注文広がる",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015182421000",
+    "playlistId": "news-nwa-business-nationwide-20260722",
+    "newsarticleName": "株価 小幅な値動き 午後に利益確定の売り注文広がる",
+    "playlistName": "7月22日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "22日の東京株式市場、午後に入って利益確定の売り注文が広がり、日経平均株価は、小幅な値動きとなりました。\n\n\n▽日経平均株価、22日の終値は21日と比べ116円59銭安い6万6115円60銭。\n\n▽東",
+  "dateModified": "2026-07-22T17:13:38+09:00",
+  "datePublished": "2026-07-22T12:05:11+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182421_2607221535_0722171339_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182421_2607221535_0722171339_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0002421",
+      "name": "半導体",
+      "display": true
+    },
+    {
+      "id": "0002370",
+      "name": "ニューヨーク",
+      "display": true
+    },
+    {
+      "id": "0000820",
+      "name": "イラン情勢",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "22日の東京株式市場、午後に入って利益確定の売り注文が広がり、日経平均株価は、小幅な値動きとなりました。\n\n\n▽日経平均株価、22日の終値は21日と比べ116円59銭安い6万6115円60銭。\n\n▽東",
+  "articleBody": "22日の東京株式市場、午後に入って利益確定の売り注文が広がり、日経平均株価は、小幅な値動きとなりました。\n\n\n▽日経平均株価、22日の終値は21日と比べ116円59銭安い6万6115円60銭。\n\n▽東証株価指数=トピックスは18.18上がって4033.13。\n\n▽1日の出来高は22億669万株でした。\n\n市場関係者は「午後に入って当面の利益を確定しようという売り注文が強まり、日経平均株価は結果的に小幅な値動きとなった。日本時間のあす早朝にはアメリカでAI・半導体関連の企業の決算発表が相次いで予定されていて、投資家の関心が高まっている」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "22日の東京株式市場、午後に入って利益確定の売り注文が広がり、日経平均株価は、小幅な値動きとなりました。\n",
+    "markedBody": "▽日経平均株価、22日の終値は21日と比べ116円59銭安い6万6115円60銭。\n\n▽東証株価指数\\=トピックスは18.18上がって4033.13。\n\n▽1日の出来高は22億669万株でした。\n\n市場関係者は「午後に入って当面の利益を確定しようという売り注文が強まり、日経平均株価は結果的に小幅な値動きとなった。日本時間のあす早朝にはアメリカでAI・半導体関連の企業の決算発表が相次いで予定されていて、投資家の関心が高まっている」と話しています。\n",
+    "trimmedLead": "22日の東京株式市場、午後に入って利益確定の売り注文が広がり、日経平均株価は、小幅な値動きとなりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015182421000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015182421000",
+  "video": [],
+  "citation": [
+    {
+      "name": "米軍11日連続でイラン攻撃 ホルムズ海峡めぐりこう着状態に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015182341000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260722/K10015182341_2607221054_0722111257_01_02.jpg",
+      "datePublished": "2026-07-22T18:23:14+09:00"
+    },
+    {
+      "name": "円相場 1ドル＝163円台の取引が中心に 有事のドル買い続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015182331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260722/K10015182331_2607220954_0722100918_01_02.jpg",
+      "datePublished": "2026-07-22T19:27:12+09:00"
+    },
+    {
+      "name": "6月の中東からの原油輸入量 前年同月比で40.6％減",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015182321000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260722/K10015182321_2607220949_0722100447_01_02.jpg",
+      "datePublished": "2026-07-22T11:28:14+09:00"
+    },
+    {
+      "name": "三重 静岡 岐阜で40度以上の「酷暑日」に 熱中症に厳重警戒を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015182151000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260722/K10015182151_2607221323_0722185015_01_02.jpg",
+      "datePublished": "2026-07-22T22:37:18+09:00"
+    },
+    {
+      "name": "ケンタッキー きょうから全店舗で通常営業を再開",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015182251000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260722/K10015182251_2607220420_0722050333_01_02.jpg",
+      "datePublished": "2026-07-22T05:03:32+09:00"
+    },
+    {
+      "name": "iPS細胞使った「リハート」保険適用へ 重い心臓病の治療に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015182651000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260722/K10015182651_2607221505_0722152241_01_03.jpg",
+      "datePublished": "2026-07-22T17:19:58+09:00"
+    },
+    {
+      "name": "食料品の消費税減税 税率1％案で各党折り合わず 実務者会議",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015182431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260722/K10015182431_2607221201_0722121032_01_02.jpg",
+      "datePublished": "2026-07-22T14:59:46+09:00"
+    },
+    {
+      "name": "フランス 15歳未満のSNS利用 9月から禁止へ ヨーロッパでは初",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015182291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260722/K10015182291_2607220706_0722091134_01_02.jpg",
+      "datePublished": "2026-07-22T09:11:33+09:00"
+    },
+    {
+      "name": "“夜勤も快適に” 鉄道業界で深夜に働く社員への待遇改善進む",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015182131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260722/K10015182131_2607212355_0722071950_01_02.jpg",
+      "datePublished": "2026-07-22T07:19:49+09:00"
+    },
+    {
+      "name": "評論家 山田五郎さん死去 67歳 西洋美術などユーモア交え解説",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015182541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260722/K10015182541_2607221240_0722150607_01_02.jpg",
+      "datePublished": "2026-07-22T16:44:31+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

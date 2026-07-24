@@ -1,0 +1,194 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015184741000",
+  "dataSourceId": "na",
+  "name": "ナスダック株価指数 2％超の下落 AI過剰投資警戒や金利上昇",
+  "headline": "ナスダック株価指数 2％超の下落 AI過剰投資警戒や金利上昇",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015184741000",
+    "playlistId": "news-nwa-international-nationwide-20260724",
+    "newsarticleName": "ナスダック株価指数 2％超の下落 AI過剰投資警戒や金利上昇",
+    "playlistName": "7月24日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "23日のニューヨーク株式市場では、IT大手などの銘柄に売り注文が広がり、ハイテク株の比率が高いナスダックの株価指数は前日と比べて550ポイント余り、率にして2.1％を超える大幅な下落となりました。\n\n",
+  "dateModified": "2026-07-24T07:03:33+09:00",
+  "datePublished": "2026-07-24T07:03:33+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260724/K10015184741_2607240653_0724070334_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260724/K10015184741_2607240653_0724070334_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0002423",
+      "name": "金融",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "0002421",
+      "name": "半導体",
+      "display": true
+    },
+    {
+      "id": "0000010",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "0000819",
+      "name": "原油価格",
+      "display": true
+    },
+    {
+      "id": "0002631",
+      "name": "中東",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "23日のニューヨーク株式市場では、IT大手などの銘柄に売り注文が広がり、ハイテク株の比率が高いナスダックの株価指数は前日と比べて550ポイント余り、率にして2.1％を超える大幅な下落となりました。\n\n",
+  "articleBody": "23日のニューヨーク株式市場では、IT大手などの銘柄に売り注文が広がり、ハイテク株の比率が高いナスダックの株価指数は前日と比べて550ポイント余り、率にして2.1％を超える大幅な下落となりました。\n\n\nダウ平均株価の終値は前日と比べて506ドル93セント安い、5万1711ドル65セントでした。\n\nIT大手「グーグル」の親会社の「アルファベット」が22日の決算発表でことし1年間のAI関連などの設備投資計画を引き上げたことで、投資家の間では、AIに対する過剰投資への懸念が再び強まりました。\n\nさらに、中東情勢が一段と悪化するとの見方から原油の先物価格が上昇し、インフレが再加速するとの警戒感が広がるなか、長期金利の代表的な指標である10年ものの国債の利回りが一時、去年1月以来となる4.7％台まで上昇したことも投資家の心理を冷やしました。\n",
+  "detailedArticleBody": {
+    "markedLead": "23日のニューヨーク株式市場では、IT大手などの銘柄に売り注文が広がり、ハイテク株の比率が高いナスダックの株価指数は前日と比べて550ポイント余り、率にして2.1％を超える大幅な下落となりました。\n",
+    "markedBody": "ダウ平均株価の終値は前日と比べて506ドル93セント安い、5万1711ドル65セントでした。\n\nIT大手「グーグル」の親会社の「アルファベット」が22日の決算発表でことし1年間のAI関連などの設備投資計画を引き上げたことで、投資家の間では、AIに対する過剰投資への懸念が再び強まりました。\n\nさらに、中東情勢が一段と悪化するとの見方から原油の先物価格が上昇し、インフレが再加速するとの警戒感が広がるなか、長期金利の代表的な指標である10年ものの国債の利回りが一時、去年1月以来となる4.7％台まで上昇したことも投資家の心理を冷やしました。\n",
+    "trimmedLead": "23日のニューヨーク株式市場では、IT大手などの銘柄に売り注文が広がり、ハイテク株の比率が高いナスダックの株価指数は前日と比べて550ポイント余り、率にして2.1％を超える大幅な下落となりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015184741000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015184741000",
+  "video": [],
+  "citation": [
+    {
+      "name": "トランプ政権 新追加関税を発動 日本は既存税率あわせ12.5％",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015184731000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260724/K10015184731_2607241813_0724183434_01_03.jpg",
+      "datePublished": "2026-07-24T19:00:16+09:00"
+    },
+    {
+      "name": "円安加速 1ドル164円に迫る 39年8か月ぶりの水準に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015184691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260724/K10015184691_2607240347_0724034742_01_02.jpg",
+      "datePublished": "2026-07-24T03:47:41+09:00"
+    },
+    {
+      "name": "NY原油 一時1バレル93ドル台に 約1か月半ぶりの高値水準",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015184701000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260724/K10015184701_2607240405_0724043117_01_02.jpg",
+      "datePublished": "2026-07-24T04:31:16+09:00"
+    },
+    {
+      "name": "米ルビオ国務長官 「イランが覚書を無効に」 NHK単独取材に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015183951000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260723/K10015183951_2607231655_0723175837_01_02.jpg",
+      "datePublished": "2026-07-23T22:17:55+09:00"
+    },
+    {
+      "name": "トランプ大統領 “フーシ派が再攻撃ならイラン含め攻撃”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015184491000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260724/K10015184491_2607240445_0724051652_01_02.jpg",
+      "datePublished": "2026-07-24T05:16:51+09:00"
+    },
+    {
+      "name": "イラン情勢 フーシ派「タンカー攻撃」 戦闘拡大への懸念強まる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015183301000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260723/K10015183301_2607230944_0723100624_01_02.jpg",
+      "datePublished": "2026-07-23T19:06:23+09:00"
+    },
+    {
+      "name": "トランプ氏「船舶攻撃ならインフラ破壊」 イランは報復の構え",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015183211000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260723/K10015183211_2607230513_0723064158_01_02.jpg",
+      "datePublished": "2026-07-23T11:08:54+09:00"
+    },
+    {
+      "name": "日本製鉄「世界ナンバーワンを目指して」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015170781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260716/K10015170781_2607161227_0716210834_01_02.jpg",
+      "datePublished": "2026-07-16T21:08:33+09:00"
+    },
+    {
+      "name": "「51番目の州になりたい！」アメリカ、切望する首都の住民",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015151521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260721/K10015151521_2607151520_0721172827_01_02.jpg",
+      "datePublished": "2026-07-21T17:28:26+09:00"
+    },
+    {
+      "name": "アメリカ建国250年 分断と再生",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015169751000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260706/K10015169751_2607061143_0706143049_01_02.jpg",
+      "datePublished": "2026-07-06T14:30:48+09:00"
+    },
+    {
+      "name": "前最高指導者葬儀 イラン・米戦争 見えてきたものは",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015170721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260707/K10015170721_2607071132_0707141310_01_02.jpg",
+      "datePublished": "2026-07-07T14:13:09+09:00"
+    },
+    {
+      "name": "カギは牛が握る？エネルギーの地産地消へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171051000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260713/K10015171051_2607101522_0713141027_01_02.jpg",
+      "datePublished": "2026-07-13T14:10:25+09:00"
+    },
+    {
+      "name": "「来るはずの7人が…」 外国人が働く現場で何が？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015178241000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260717/K10015178241_2607161958_0717173725_01_02.jpg",
+      "datePublished": "2026-07-17T17:37:23+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

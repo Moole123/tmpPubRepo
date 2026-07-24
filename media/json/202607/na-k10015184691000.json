@@ -1,0 +1,158 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015184691000",
+  "dataSourceId": "na",
+  "name": "円安加速 1ドル164円に迫る 39年8か月ぶりの水準に",
+  "headline": "円安加速 1ドル164円に迫る 39年8か月ぶりの水準に",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015184691000",
+    "playlistId": "news-nwa-international-nationwide-20260724",
+    "newsarticleName": "円安加速 1ドル164円に迫る 39年8か月ぶりの水準に",
+    "playlistName": "7月24日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "23日のニューヨーク外国為替市場では、中東情勢が一段と悪化することへの懸念から円を売ってドルを買う動きが進み、円相場は一時、1ドル＝163円90銭台後半まで値下がりし、164円に迫りました。\n\n\nこれ",
+  "dateModified": "2026-07-24T03:47:41+09:00",
+  "datePublished": "2026-07-24T03:47:41+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260724/K10015184691_2607240347_0724034742_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260724/K10015184691_2607240347_0724034742_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0002800",
+      "name": "イラン情勢 日本への影響・対応",
+      "display": true
+    },
+    {
+      "id": "0000820",
+      "name": "イラン情勢",
+      "display": true
+    },
+    {
+      "id": "0001597",
+      "name": "イラン",
+      "display": true
+    },
+    {
+      "id": "0002353",
+      "name": "サウジアラビア",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "0002423",
+      "name": "金融",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "23日のニューヨーク外国為替市場では、中東情勢が一段と悪化することへの懸念から円を売ってドルを買う動きが進み、円相場は一時、1ドル＝163円90銭台後半まで値下がりし、164円に迫りました。\n\n\nこれ",
+  "articleBody": "23日のニューヨーク外国為替市場では、中東情勢が一段と悪化することへの懸念から円を売ってドルを買う動きが進み、円相場は一時、1ドル＝163円90銭台後半まで値下がりし、164円に迫りました。\n\n\nこれは、1986年11月以来、およそ39年8か月ぶりの円安ドル高水準となっています。\n\n中東イエメンの反政府勢力で、イランの支援を受けるフーシ派がサウジアラビアの石油タンカーに対して攻撃を行ったと発表したことで原油の先物価格が上昇しています。\n\n金融市場では、アメリカのFRB＝連邦準備制度理事会がインフレを抑え込むために、早期の利上げに踏み切るとの観測も再び浮上していて、円を売ってドルを買う動きにつながっています。\n",
+  "detailedArticleBody": {
+    "markedLead": "23日のニューヨーク外国為替市場では、中東情勢が一段と悪化することへの懸念から円を売ってドルを買う動きが進み、円相場は一時、1ドル＝163円90銭台後半まで値下がりし、164円に迫りました。\n",
+    "markedBody": "これは、1986年11月以来、およそ39年8か月ぶりの円安ドル高水準となっています。\n\n中東イエメンの反政府勢力で、イランの支援を受けるフーシ派がサウジアラビアの石油タンカーに対して攻撃を行ったと発表したことで原油の先物価格が上昇しています。\n\n金融市場では、アメリカのFRB＝連邦準備制度理事会がインフレを抑え込むために、早期の利上げに踏み切るとの観測も再び浮上していて、円を売ってドルを買う動きにつながっています。\n",
+    "trimmedLead": "23日のニューヨーク外国為替市場では、中東情勢が一段と悪化することへの懸念から円を売ってドルを買う動きが進み、円相場は一時、1ドル＝163円90銭台後半まで値下がりし、164円に迫りました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015184691000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015184691000",
+  "video": [],
+  "citation": [
+    {
+      "name": "円相場 1ドル＝163円台後半まで値下がり 39年半ぶりの円安水準",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015184591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260723/K10015184591_2607232250_0723225326_01_02.jpg",
+      "datePublished": "2026-07-23T22:46:08+09:00"
+    },
+    {
+      "name": "きょうのおはBiz 7月23日(木)歴史的な円安 日本経済への影響は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015183461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260723/K10015183461_2607231053_0723141746_01_02.jpg",
+      "datePublished": "2026-07-23T14:17:45+09:00"
+    },
+    {
+      "name": "米ルビオ国務長官 「イランが覚書を無効に」 NHK単独取材に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015183951000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260723/K10015183951_2607231655_0723175837_01_02.jpg",
+      "datePublished": "2026-07-23T22:17:55+09:00"
+    },
+    {
+      "name": "欧州中銀金利据え置き 追加利上げを含め今後の政策判断焦点に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015184521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260723/K10015184521_2607232129_0723213754_01_02.jpg",
+      "datePublished": "2026-07-24T04:50:25+09:00"
+    },
+    {
+      "name": "イラン情勢 フーシ派「タンカー攻撃」 戦闘拡大への懸念強まる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015183301000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260723/K10015183301_2607230944_0723100624_01_02.jpg",
+      "datePublished": "2026-07-23T19:06:23+09:00"
+    },
+    {
+      "name": "歴史的円安のワケは FRB議長“タカ”の本性？【経済コラム】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015171861000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260710/K10015171861_2607101620_0710174934_01_02.jpg",
+      "datePublished": "2026-07-10T17:49:33+09:00"
+    },
+    {
+      "name": "一から分かるQ＆A　円安なぜ？今の経済に見合う円相場は？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015163571000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260630/K10015163571_2606301649_0630190958_01_02.jpg",
+      "datePublished": "2026-06-30T19:09:57+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
