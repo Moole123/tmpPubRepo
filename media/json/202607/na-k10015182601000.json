@@ -1,0 +1,143 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015182601000",
+  "dataSourceId": "na",
+  "name": "衆議院本会議 故河野洋平元衆議院議長に弔詞",
+  "headline": "衆議院本会議 故河野洋平元衆議院議長に弔詞",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015182601000",
+    "playlistId": "news-nwa-politics-nationwide-20260722",
+    "newsarticleName": "衆議院本会議 故河野洋平元衆議院議長に弔詞",
+    "playlistName": "7月22日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "先月亡くなった河野洋平元衆議院議長に対し、22日の衆議院本会議で、生前の功績をたたえる弔詞が読み上げられました。\n\n\n22日の衆議院本会議では、森衆議院議長が、先月、89歳で亡くなった河野洋平元衆議院",
+  "dateModified": "2026-07-22T14:36:13+09:00",
+  "datePublished": "2026-07-22T14:36:13+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182601_2607221359_0722143614_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182601_2607221359_0722143614_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0002393",
+      "name": "衆議院",
+      "display": true
+    },
+    {
+      "id": "0002392",
+      "name": "国会",
+      "display": true
+    },
+    {
+      "id": "0000005",
+      "name": "訃報",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "先月亡くなった河野洋平元衆議院議長に対し、22日の衆議院本会議で、生前の功績をたたえる弔詞が読み上げられました。\n\n\n22日の衆議院本会議では、森衆議院議長が、先月、89歳で亡くなった河野洋平元衆議院",
+  "articleBody": "先月亡くなった河野洋平元衆議院議長に対し、22日の衆議院本会議で、生前の功績をたたえる弔詞が読み上げられました。\n\n\n22日の衆議院本会議では、森衆議院議長が、先月、89歳で亡くなった河野洋平元衆議院議長への弔詞を朗読しました。\n\nこの中では「多年憲政のために尽力し、衆議院議長の要職につき、自民党総裁をつとめられ、しばしば国務大臣の重任に当たり、議会政治の発展に貢献された」と生前の功績をたたえました。\n\nその上で「河野洋平君の長逝を哀悼し、つつしんで弔詞をささげます」と読み上げました。\n",
+  "detailedArticleBody": {
+    "markedLead": "先月亡くなった河野洋平元衆議院議長に対し、22日の衆議院本会議で、生前の功績をたたえる弔詞が読み上げられました。\n",
+    "markedBody": "22日の衆議院本会議では、森衆議院議長が、先月、89歳で亡くなった河野洋平元衆議院議長への弔詞を朗読しました。\n\n![](https://news.web.nhk/news/html/20260722/K10015182601_2607221359_0722143614_02_03.jpg)\n\nこの中では「多年憲政のために尽力し、衆議院議長の要職につき、自民党総裁をつとめられ、しばしば国務大臣の重任に当たり、議会政治の発展に貢献された」と生前の功績をたたえました。\n\nその上で「河野洋平君の長逝を哀悼し、つつしんで弔詞をささげます」と読み上げました。\n",
+    "trimmedLead": "先月亡くなった河野洋平元衆議院議長に対し、22日の衆議院本会議で、生前の功績をたたえる弔詞が読み上げられました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015182601000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015182601000",
+  "video": [],
+  "citation": [
+    {
+      "name": "河野洋平元衆議院議長をしのぶ会 8月5日に東京都内で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015156591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260622/K10015156591_2606222143_0622215520_01_02.jpg",
+      "datePublished": "2026-06-22T21:55:19+09:00"
+    },
+    {
+      "name": "食料品の消費税減税 税率1％案で各党折り合わず 実務者会議",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015182431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260722/K10015182431_2607221201_0722121032_01_02.jpg",
+      "datePublished": "2026-07-22T14:59:46+09:00"
+    },
+    {
+      "name": "国民投票法改正案 参議院憲法審査会で賛成多数で可決",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015182381000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260722/K10015182381_2607221142_0722120655_01_02.jpg",
+      "datePublished": "2026-07-22T12:06:54+09:00"
+    },
+    {
+      "name": "三重 静岡 岐阜で40度以上の「酷暑日」に 熱中症に厳重警戒を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015182151000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260722/K10015182151_2607221323_0722185015_01_02.jpg",
+      "datePublished": "2026-07-22T22:37:18+09:00"
+    },
+    {
+      "name": "熱中症疑いで21日に287人搬送 都内でことし最多",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015182501000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260722/K10015182501_2607221244_0722133051_01_02.jpg",
+      "datePublished": "2026-07-22T13:30:51+09:00"
+    },
+    {
+      "name": "北海道 十勝岳で2004年以来の噴火 噴火警戒レベル2が継続",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015182521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260722/K10015182521_2607221311_0722133559_01_03.jpg",
+      "datePublished": "2026-07-22T13:35:58+09:00"
+    },
+    {
+      "name": "ニチレイ 個人情報漏えいした可能性のある対象者に通知行う",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015182451000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260722/K10015182451_2607221158_0722121523_01_02.jpg",
+      "datePublished": "2026-07-22T17:38:45+09:00"
+    },
+    {
+      "name": "サッカーW杯閉幕 今大会が投げかけたものは",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015182391000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260722/K10015182391_2607221128_0722134730_01_02.jpg",
+      "datePublished": "2026-07-22T13:47:29+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
