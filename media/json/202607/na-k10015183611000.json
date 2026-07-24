@@ -1,0 +1,131 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015183611000",
+  "dataSourceId": "na",
+  "name": "東京 22日 熱中症疑いで453人搬送 2010年以降最多",
+  "headline": "東京 22日 熱中症疑いで453人搬送 2010年以降最多",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015183611000",
+    "playlistId": "news-nwa-disaster-nationwide-20260723",
+    "newsarticleName": "東京 22日 熱中症疑いで453人搬送 2010年以降最多",
+    "playlistName": "7月23日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "東京消防庁によりますと、22日、都内では1歳から105歳までのあわせて453人が熱中症の疑いで救急搬送されました。1日当たりの人数としては、統計を取り始めた2010年以降で最も多くなったということです",
+  "dateModified": "2026-07-23T11:56:35+09:00",
+  "datePublished": "2026-07-23T11:56:35+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260723/K10015183611_2607231127_0723115636_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260723/K10015183611_2607231127_0723115636_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0000649",
+      "name": "熱中症",
+      "display": true
+    },
+    {
+      "id": "0002213",
+      "name": "東京都",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "東京消防庁によりますと、22日、都内では1歳から105歳までのあわせて453人が熱中症の疑いで救急搬送されました。1日当たりの人数としては、統計を取り始めた2010年以降で最も多くなったということです",
+  "articleBody": "東京消防庁によりますと、22日、都内では1歳から105歳までのあわせて453人が熱中症の疑いで救急搬送されました。1日当たりの人数としては、統計を取り始めた2010年以降で最も多くなったということです。\n\n\nこのうち、自宅の庭で植木の手入れをしていた70代の女性が死亡しました。\n\nまた、4人が重篤、18人が重症、201人が中等症、229人が軽症だということです。\n\nさらに、熱中症と診断された人以外にも暑さに伴う頭痛や脱力感などを訴えて搬送されるケースが増えていて、22日、都内で救急車が出動した件数は速報値で3612件と、統計を取り始めた1963年以降で最も多くなりました。\n\n東京消防庁はのどが渇く前にこまめに水分を補給することや、室内では冷房や扇風機を適切に使用することなど、対策の徹底を呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "東京消防庁によりますと、22日、都内では1歳から105歳までのあわせて453人が熱中症の疑いで救急搬送されました。1日当たりの人数としては、統計を取り始めた2010年以降で最も多くなったということです。\n",
+    "markedBody": "このうち、自宅の庭で植木の手入れをしていた70代の女性が死亡しました。\n\nまた、4人が重篤、18人が重症、201人が中等症、229人が軽症だということです。\n\nさらに、熱中症と診断された人以外にも暑さに伴う頭痛や脱力感などを訴えて搬送されるケースが増えていて、22日、都内で救急車が出動した件数は速報値で3612件と、統計を取り始めた1963年以降で最も多くなりました。\n\n東京消防庁はのどが渇く前にこまめに水分を補給することや、室内では冷房や扇風機を適切に使用することなど、対策の徹底を呼びかけています。\n",
+    "trimmedLead": "東京消防庁によりますと、22日、都内では1歳から105歳までのあわせて453人が熱中症の疑いで救急搬送されました。1日当たりの人数としては、統計を取り始めた2010年以降で最も多くなったということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015183611000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015183611000",
+  "video": [],
+  "citation": [
+    {
+      "name": "【最新の熱中症情報】あなたのまちの暑さ指数は",
+      "url": "https://news.web.nhk/kishou-saigai/heatstroke/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30060731.jpg"
+    },
+    {
+      "name": "熱中症予防マップ あなたの街の暑さ指数を地図表示",
+      "url": "https://news.web.nhk/bousai-map/heatstroke/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037202.jpg"
+    },
+    {
+      "name": "猛暑は災害 「熱中症」対策をまとめて紹介",
+      "url": "https://news.web.nhk/newsweb/na/nc-5192c140-71df-405a-8a2f-3ff3aa456e45",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30056396.jpg"
+    },
+    {
+      "name": "高齢者の熱中症対策 エアコンや水分補給の注意点",
+      "url": "https://news.web.nhk/newsweb/na/nc-15e51e57-98e7-47fc-b0f2-d8e383ce3b3a",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30056443.jpg"
+    },
+    {
+      "name": "子どもの熱中症対策 症状や注意点は？",
+      "url": "https://news.web.nhk/newsweb/na/nc-21b4c6dc-5b83-4633-955d-ecc5e3a4aa75",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30056402.jpg"
+    },
+    {
+      "name": "夜間・熱帯夜の熱中症対策",
+      "url": "https://news.web.nhk/newsweb/na/nc-15a34802-34b1-4f23-9769-3ce8eadde9f5",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30056449.jpg"
+    },
+    {
+      "name": "天気防災サイト あなたの街の天気予報や災害情報を即時提供",
+      "url": "https://news.web.nhk/kishou-saigai/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037196.jpg"
+    },
+    {
+      "name": "天気防災マップ ふだんの雨雲予想から災害時のリスク情報まで",
+      "url": "https://news.web.nhk/bousai-map/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037154.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

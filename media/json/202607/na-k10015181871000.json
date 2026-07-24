@@ -1,0 +1,153 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015181871000",
+  "dataSourceId": "na",
+  "name": "石川 小松 80代男性が自宅で倒れ死亡 熱中症か",
+  "headline": "石川 小松 80代男性が自宅で倒れ死亡 熱中症か",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015181871000",
+    "playlistId": "news-nwa-society-nationwide-20260721",
+    "newsarticleName": "石川 小松 80代男性が自宅で倒れ死亡 熱中症か",
+    "playlistName": "7月21日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "20日夜、石川県小松市で80代の男性が自宅で倒れているのが見つかり、熱中症の疑いで病院に搬送されましたが、その後、死亡が確認されました。\n\n\n消防によりますと、20日午後11時すぎ、石川県小松市で80",
+  "dateModified": "2026-07-21T16:14:32+09:00",
+  "datePublished": "2026-07-21T16:14:32+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181871_2607211732_0721173645_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181871_2607211732_0721173645_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002217",
+      "name": "石川県",
+      "display": true
+    },
+    {
+      "id": "0000649",
+      "name": "熱中症",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "20日夜、石川県小松市で80代の男性が自宅で倒れているのが見つかり、熱中症の疑いで病院に搬送されましたが、その後、死亡が確認されました。\n\n\n消防によりますと、20日午後11時すぎ、石川県小松市で80",
+  "articleBody": "20日夜、石川県小松市で80代の男性が自宅で倒れているのが見つかり、熱中症の疑いで病院に搬送されましたが、その後、死亡が確認されました。\n\n\n消防によりますと、20日午後11時すぎ、石川県小松市で80代の男性が自宅で意識がない状態で倒れているのを訪れた人が見つけ、消防に通報しました。\n\n男性は熱中症の疑いで病院に搬送されましたが、その後、死亡が確認されました。\n\n当時、男性の自宅のエアコンは使われていなかったということです。\n\n気象台によりますと、20日の小松市の最高気温は34.6度で、石川県には熱中症警戒アラートが発表されていました。\n",
+  "detailedArticleBody": {
+    "markedLead": "20日夜、石川県小松市で80代の男性が自宅で倒れているのが見つかり、熱中症の疑いで病院に搬送されましたが、その後、死亡が確認されました。\n",
+    "markedBody": "消防によりますと、20日午後11時すぎ、石川県小松市で80代の男性が自宅で意識がない状態で倒れているのを訪れた人が見つけ、消防に通報しました。\n\n男性は熱中症の疑いで病院に搬送されましたが、その後、死亡が確認されました。\n\n当時、男性の自宅のエアコンは使われていなかったということです。\n\n気象台によりますと、20日の小松市の最高気温は34.6度で、石川県には熱中症警戒アラートが発表されていました。\n",
+    "trimmedLead": "20日夜、石川県小松市で80代の男性が自宅で倒れているのが見つかり、熱中症の疑いで病院に搬送されましたが、その後、死亡が確認されました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015181871000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015181871000",
+  "video": [],
+  "citation": [
+    {
+      "name": "岐阜 愛知で40度超 22日も関東甲信や東海で「酷暑日」予想",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015181481000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260721/K10015181481_2607211709_0721171325_01_03.jpg",
+      "datePublished": "2026-07-21T21:03:04+09:00"
+    },
+    {
+      "name": "夜間・熱帯夜の熱中症対策",
+      "url": "https://news.web.nhk/newsweb/na/nc-15a34802-34b1-4f23-9769-3ce8eadde9f5",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30056449.jpg"
+    },
+    {
+      "name": "熱中症予防マップ あなたの街の暑さ指数を地図表示",
+      "url": "https://news.web.nhk/bousai-map/heatstroke/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037202.jpg"
+    },
+    {
+      "name": "猛暑は災害 「熱中症」対策をまとめて紹介",
+      "url": "https://news.web.nhk/newsweb/na/nc-5192c140-71df-405a-8a2f-3ff3aa456e45",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30056396.jpg"
+    },
+    {
+      "name": "羽田空港 1億9500万円強盗未遂事件で4人逮捕 警視庁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015181551000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260721/K10015181551_2607211011_0721103524_01_02.jpg",
+      "datePublished": "2026-07-21T10:35:24+09:00"
+    },
+    {
+      "name": "中国艦艇が日本のEEZ内で機関銃射撃訓練実施 防衛省が確認",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015181411000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260720/K10015181411_2607210422_0721044448_01_02.jpg",
+      "datePublished": "2026-07-21T20:15:44+09:00"
+    },
+    {
+      "name": "米10日連続攻撃 イランはバーレーンの米関連施設を攻撃",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015181491000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260721/K10015181491_2607211733_0721191933_01_02.jpg",
+      "datePublished": "2026-07-21T19:19:32+09:00"
+    },
+    {
+      "name": "「強い経済」へ経済財政運営を抜本転換 高市政権 初の骨太方針",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015181561000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260721/K10015181561_2607211215_0721130013_01_02.jpg",
+      "datePublished": "2026-07-21T19:33:15+09:00"
+    },
+    {
+      "name": "英労働党のバーナム党首 イギリスの新首相に就任 国王が任命",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015181251000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260720/K10015181251_2607211103_0721110357_01_02.jpg",
+      "datePublished": "2026-07-21T12:13:40+09:00"
+    },
+    {
+      "name": "【プロ野球結果】巨人 広島に勝利 阪神と並びセ・リーグ首位に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015181361000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260720/K10015181361_2607202323_0721090448_01_02.jpg",
+      "datePublished": "2026-07-20T23:11:08+09:00"
+    },
+    {
+      "name": "熱狂の1か月 ワールドカップが問われているもの",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015180501000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260720/K10015180501_2607201656_0720203831_01_02.jpg",
+      "datePublished": "2026-07-20T20:38:30+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
