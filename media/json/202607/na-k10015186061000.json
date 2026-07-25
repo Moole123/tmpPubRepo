@@ -1,0 +1,162 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015186061000",
+  "dataSourceId": "na",
+  "name": "山梨で猛烈な雨 新潟や東北でも大雨のおそれ",
+  "headline": "山梨で猛烈な雨 新潟や東北でも大雨のおそれ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015186061000",
+    "playlistId": "news-nwa-disaster-nationwide-20260725",
+    "newsarticleName": "山梨で猛烈な雨 新潟や東北でも大雨のおそれ",
+    "playlistName": "7月25日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "前線に向かって暖かく湿った空気が流れ込んでいる影響で、関東甲信などで局地的に雨雲が発達し、山梨県では25日夕方に猛烈な雨が降ったとみられます。新潟県でも、26日にかけて非常に激しい雨が降るおそれがあり",
+  "dateModified": "2026-07-25T21:58:26+09:00",
+  "datePublished": "2026-07-25T18:13:22+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260725/K10015186061_2607251808_0725181323_02_01.jpg",
+      "height": 719,
+      "width": 1279
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260725/K10015186061_2607251808_0725181323_01_02.jpg",
+      "height": 719,
+      "width": 1279
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002617",
+      "name": "大雨情報",
+      "display": true
+    },
+    {
+      "id": "0000035",
+      "name": "気象",
+      "display": true
+    },
+    {
+      "id": "0002219",
+      "name": "山梨県",
+      "display": true
+    },
+    {
+      "id": "0002215",
+      "name": "新潟県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "前線に向かって暖かく湿った空気が流れ込んでいる影響で、関東甲信などで局地的に雨雲が発達し、山梨県では25日夕方に猛烈な雨が降ったとみられます。新潟県でも、26日にかけて非常に激しい雨が降るおそれがあり",
+  "articleBody": "前線に向かって暖かく湿った空気が流れ込んでいる影響で、関東甲信などで局地的に雨雲が発達し、山梨県では25日夕方に猛烈な雨が降ったとみられます。新潟県でも、26日にかけて非常に激しい雨が降るおそれがあり、土砂災害に厳重な警戒が必要です。\n\n\n雨雲レーダーはNHK ONE ニュース・防災アプリでも\n\n雨雲レーダーはNHK ONE ニュース・防災アプリでも\n\n気象庁によりますと、北陸から関東付近にのびる前線に向かって、暖かく湿った空気が流れ込んでいる影響で、関東甲信などで大気の状態が非常に不安定となり局地的に雨雲が発達しています。\n\n山梨県の笛吹市付近ではレーダーによる解析で午後5時50分までの1時間におよそ110ミリの猛烈な雨が降ったとみられ、気象庁は「記録的短時間大雨」の気象防災速報を発表しました。\n\nこの時間は神奈川県や静岡県で雨が強まり、国土交通省が神奈川県清川村に設置した雨量計で午後8時までの1時間に55ミリの非常に激しい雨を観測しました。\n\n山梨県ではこれまでに降った雨で土砂災害の危険度が非常に高まっているとして、「レベル4土砂災害危険警報」が発表されている地域があります。\n\n関東甲信越では大気の非常に不安定な状態が続き\n▽山梨県ではこのあと数時間\n▽新潟県では26日の昼すぎにかけて\n1時間に50ミリの非常に激しい雨が降るおそれがあります。\n\n気象庁は土砂災害に厳重に警戒するとともに、低い土地や地下施設への浸水、川の増水や氾濫に警戒するよう呼びかけています。\n\n落雷や竜巻などの激しい突風、ひょうにも注意してください。\n\nまた、東北でも26日にかけて激しい雨が降るおそれがあり、土砂災害などに十分注意が必要です。\n",
+  "detailedArticleBody": {
+    "markedLead": "前線に向かって暖かく湿った空気が流れ込んでいる影響で、関東甲信などで局地的に雨雲が発達し、山梨県では25日夕方に猛烈な雨が降ったとみられます。新潟県でも、26日にかけて非常に激しい雨が降るおそれがあり、土砂災害に厳重な警戒が必要です。\n",
+    "markedBody": ":::nw--link-type4 {href=https://www.nhk.or.jp/nhkone/service/app/news_bousai/}\n![雨雲レーダーはNHK ONE ニュース・防災アプリでも](https://news.web.nhk/news/html/20260725/K10015186061_2607252124_0725215827_02_03.jpg)\n\n**雨雲レーダーはNHK ONE ニュース・防災アプリでも**\n:::\n\n気象庁によりますと、北陸から関東付近にのびる前線に向かって、暖かく湿った空気が流れ込んでいる影響で、関東甲信などで大気の状態が非常に不安定となり局地的に雨雲が発達しています。\n\n山梨県の笛吹市付近ではレーダーによる解析で午後5時50分までの1時間におよそ110ミリの猛烈な雨が降ったとみられ、気象庁は「記録的短時間大雨」の気象防災速報を発表しました。\n\nこの時間は神奈川県や静岡県で雨が強まり、国土交通省が神奈川県清川村に設置した雨量計で午後8時までの1時間に55ミリの非常に激しい雨を観測しました。\n\n山梨県ではこれまでに降った雨で土砂災害の危険度が非常に高まっているとして、「レベル4土砂災害危険警報」が発表されている地域があります。\n\n関東甲信越では大気の非常に不安定な状態が続き\\\n▽山梨県ではこのあと数時間\\\n▽新潟県では26日の昼すぎにかけて\\\n1時間に50ミリの非常に激しい雨が降るおそれがあります。\n\n気象庁は土砂災害に厳重に警戒するとともに、低い土地や地下施設への浸水、川の増水や氾濫に警戒するよう呼びかけています。\n\n落雷や竜巻などの激しい突風、ひょうにも注意してください。\n\nまた、東北でも26日にかけて激しい雨が降るおそれがあり、土砂災害などに十分注意が必要です。\n\n```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"003\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\r\n    <div class=\"fs-wrap\">\r\n      <h2 class=\"freespace-title\">雨雲レーダー</h2>\r\n\r\n      <a href=\"https://news.web.nhk/bousai-map/rain/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"tenkiBousaiMap-fullscreenBtn\">全画面でマップを見る</a>\r\n\r\n      <div class=\"tenkiBousaiMap-wrap\">\r\n        <iframe src=\"https://news.web.nhk/bousai-map/rain/?lat=36.3562&amp;lng=138.0922&amp;zoom=3.2&amp;mapMenu=off&amp;help=off&amp;hinan=off&amp;disableUserLocation=on\" allowfullscreen=\"allowfullscreen\" scrolling=\"no\" class=\"js-iframe-dataMap\"></iframe>\r\n      </div>\r\n    </div>\n</div>\n```\n",
+    "noHtmlMarkedLead": "前線に向かって暖かく湿った空気が流れ込んでいる影響で、関東甲信などで局地的に雨雲が発達し、山梨県では25日夕方に猛烈な雨が降ったとみられます。新潟県でも、26日にかけて非常に激しい雨が降るおそれがあり、土砂災害に厳重な警戒が必要です。\n",
+    "noHtmlMarkedBody": ":::nw--link-type4 {href=https://www.nhk.or.jp/nhkone/service/app/news_bousai/}\n![雨雲レーダーはNHK ONE ニュース・防災アプリでも](https://news.web.nhk/news/html/20260725/K10015186061_2607252124_0725215827_02_03.jpg)\n\n**雨雲レーダーはNHK ONE ニュース・防災アプリでも**\n:::\n\n気象庁によりますと、北陸から関東付近にのびる前線に向かって、暖かく湿った空気が流れ込んでいる影響で、関東甲信などで大気の状態が非常に不安定となり局地的に雨雲が発達しています。\n\n山梨県の笛吹市付近ではレーダーによる解析で午後5時50分までの1時間におよそ110ミリの猛烈な雨が降ったとみられ、気象庁は「記録的短時間大雨」の気象防災速報を発表しました。\n\nこの時間は神奈川県や静岡県で雨が強まり、国土交通省が神奈川県清川村に設置した雨量計で午後8時までの1時間に55ミリの非常に激しい雨を観測しました。\n\n山梨県ではこれまでに降った雨で土砂災害の危険度が非常に高まっているとして、「レベル4土砂災害危険警報」が発表されている地域があります。\n\n関東甲信越では大気の非常に不安定な状態が続き\\\n▽山梨県ではこのあと数時間\\\n▽新潟県では26日の昼すぎにかけて\\\n1時間に50ミリの非常に激しい雨が降るおそれがあります。\n\n気象庁は土砂災害に厳重に警戒するとともに、低い土地や地下施設への浸水、川の増水や氾濫に警戒するよう呼びかけています。\n\n落雷や竜巻などの激しい突風、ひょうにも注意してください。\n\nまた、東北でも26日にかけて激しい雨が降るおそれがあり、土砂災害などに十分注意が必要です。\n",
+    "trimmedLead": "前線に向かって暖かく湿った空気が流れ込んでいる影響で、関東甲信などで局地的に雨雲が発達し、山梨県では25日夕方に猛烈な雨が降ったとみられます。新潟県でも、26日にかけて非常に激しい雨が降るおそれがあり、土砂災害に厳重な警戒が必要です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015186061000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015186061000",
+  "video": [],
+  "citation": [
+    {
+      "name": "新たな防災気象情報と避難 いつ避難する？",
+      "url": "https://news.web.nhk/newsweb/na/nc-73478668-2271-4d37-85e6-639be6f2927c",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31369801.jpg"
+    },
+    {
+      "name": "土砂災害 警戒や避難のポイントは？",
+      "url": "https://news.web.nhk/newsweb/na/nc-d921faff-fdcd-4223-b396-f948340c5c1c",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_19407491.jpg"
+    },
+    {
+      "name": "川の氾濫 警戒のポイントは？",
+      "url": "https://news.web.nhk/newsweb/na/nc-1c290155-b464-4391-95b8-2f9687fa1f25",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_19407469.jpg"
+    },
+    {
+      "name": "天気防災マップ ふだんの雨雲予想から災害時のリスク情報まで",
+      "url": "https://news.web.nhk/bousai-map/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037154.jpg"
+    },
+    {
+      "name": "災害に遭う前に ハザードマップで危険を知る",
+      "url": "https://news.web.nhk/newsweb/na/nc-0c2dd9e1-562b-4711-a450-663274ad5d6c",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_19407434.jpg"
+    },
+    {
+      "name": "【最新の避難情報】こちらから地域別でご覧になれます",
+      "url": "https://news.web.nhk/kishou-saigai/evacuation/",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30044177.jpg"
+    },
+    {
+      "name": "【最新の河川情報】こちらから一覧でご覧になれます",
+      "url": "https://news.web.nhk/kishou-saigai/river/",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30044093.jpg"
+    },
+    {
+      "name": "【気象警報・注意報】各地の発表状況を詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/warning/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30060699.jpg"
+    },
+    {
+      "name": "線状降水帯とは？情報が出たらどうする？",
+      "url": "https://news.web.nhk/newsweb/na/nc-5092b435-f5e7-4767-a457-1c7aac190df9",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31369309.jpg"
+    },
+    {
+      "name": "「記録的短時間大雨」とは? どう身を守る?",
+      "url": "https://news.web.nhk/newsweb/na/nc-2cb59e60-dc2e-4535-a3f0-9c825e2e34a8",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31369867.jpg"
+    },
+    {
+      "name": "「命を守る行動を！」特別警報に緊急安全確保…どうすれば",
+      "url": "https://news.web.nhk/newsweb/na/nc-4206e8be-3c01-4ef5-943c-c5f2d8c343ae",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_19407519.jpg"
+    },
+    {
+      "name": "天気防災サイト あなたの街の天気予報や災害情報を即時提供",
+      "url": "https://news.web.nhk/kishou-saigai/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037196.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": true
+  }
+}
