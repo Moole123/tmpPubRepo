@@ -1,0 +1,163 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015185751000",
+  "dataSourceId": "na",
+  "name": "イギリス 首相官邸の機能の一部をマンチェスターに移転 初めて訪問",
+  "headline": "英 首相官邸の機能の一部をマンチェスターに移転 初めて訪問",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015185751000",
+    "playlistId": "news-nwa-international-nationwide-20260725",
+    "newsarticleName": "イギリス 首相官邸の機能の一部をマンチェスターに移転 初めて訪問",
+    "playlistName": "7月25日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "イギリスのバーナム首相は、地方分権を進める政策の一環として、首相官邸の機能の一部を首都ロンドンからイングランド北部に移すため、新たに設けられた官邸を初めて訪れました。\n\n\nイギリスの首相官邸はロンドン",
+  "dateModified": "2026-07-25T05:15:47+09:00",
+  "datePublished": "2026-07-25T05:15:47+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260725/K10015185751_2607250042_0725051548_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260725/K10015185751_2607250042_0725051548_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0002037",
+      "name": "イギリス",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "イギリスのバーナム首相は、地方分権を進める政策の一環として、首相官邸の機能の一部を首都ロンドンからイングランド北部に移すため、新たに設けられた官邸を初めて訪れました。\n\n\nイギリスの首相官邸はロンドン",
+  "articleBody": "イギリスのバーナム首相は、地方分権を進める政策の一環として、首相官邸の機能の一部を首都ロンドンからイングランド北部に移すため、新たに設けられた官邸を初めて訪れました。\n\n\nイギリスの首相官邸はロンドンのダウニング街10番地にあることから「ナンバー10」と呼ばれています。\n\nバーナム首相は、官邸の機能の一部を、自身が市長を務めていたイングランド北部のマンチェスターに移す方針を就任前から掲げ、新たに設けられた官邸を24日、初めて訪れました。\n\n新設された官邸は、従来の官邸から北に260キロほど離れたイングランド北部に位置していることから「ナンバー10ノース」と名付けられました。\n\nバーナム首相は「すべての地域に権限を与え、みずからの手で状況を好転させることができるようにする」と述べ、地方分権を進める考えを強調しました。\n\nイギリスの首相官邸によりますとバーナム首相は今後、「ナンバー10ノース」を毎週訪れ、執務にあたるということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "イギリスのバーナム首相は、地方分権を進める政策の一環として、首相官邸の機能の一部を首都ロンドンからイングランド北部に移すため、新たに設けられた官邸を初めて訪れました。\n",
+    "markedBody": "イギリスの首相官邸はロンドンのダウニング街10番地にあることから「ナンバー10」と呼ばれています。\n\nバーナム首相は、官邸の機能の一部を、自身が市長を務めていたイングランド北部のマンチェスターに移す方針を就任前から掲げ、新たに設けられた官邸を24日、初めて訪れました。\n\n新設された官邸は、従来の官邸から北に260キロほど離れたイングランド北部に位置していることから「ナンバー10ノース」と名付けられました。\n\nバーナム首相は「すべての地域に権限を与え、みずからの手で状況を好転させることができるようにする」と述べ、地方分権を進める考えを強調しました。\n\nイギリスの首相官邸によりますとバーナム首相は今後、「ナンバー10ノース」を毎週訪れ、執務にあたるということです。\n",
+    "trimmedLead": "イギリスのバーナム首相は、地方分権を進める政策の一環として、首相官邸の機能の一部を首都ロンドンからイングランド北部に移すため、新たに設けられた官邸を初めて訪れました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015185751000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015185751000",
+  "video": [],
+  "citation": [
+    {
+      "name": "日英外相会談 バーナム新政権のもとでも両国関係強化へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015184031000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260723/K10015184031_2607231501_0723154915_01_02.jpg",
+      "datePublished": "2026-07-23T15:49:14+09:00"
+    },
+    {
+      "name": "ロシアとウクライナ 双方がミサイルによる攻撃 死傷者も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015185811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260725/K10015185811_2607250453_0725051229_01_02.jpg",
+      "datePublished": "2026-07-25T05:12:28+09:00"
+    },
+    {
+      "name": "インド 若者抗議デモ 約7週間続く 混乱収束の見通し立たず",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015185691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260725/K10015185691_2607250123_0725051349_01_02.jpg",
+      "datePublished": "2026-07-25T05:13:48+09:00"
+    },
+    {
+      "name": "トランプ政権 新追加関税を発動 日本は既存税率あわせ12.5％",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015184731000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260724/K10015184731_2607241813_0724183434_01_03.jpg",
+      "datePublished": "2026-07-24T19:00:16+09:00"
+    },
+    {
+      "name": "トランプ大統領“損害 イランの資産で補償”にイラン外相反発",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015185491000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260724/K10015185491_2607241816_0724192252_01_02.jpg",
+      "datePublished": "2026-07-24T19:22:51+09:00"
+    },
+    {
+      "name": "米大統領「船舶など損害イラン資産で補償」13日連続イラン攻撃",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015184781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260724/K10015184781_2607240908_0724091330_01_02.jpg",
+      "datePublished": "2026-07-24T14:34:38+09:00"
+    },
+    {
+      "name": "韓国統一相“北朝鮮の非核化より対話再開を先に”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015185651000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260724/K10015185651_2607242110_0724214751_01_02.jpg",
+      "datePublished": "2026-07-24T21:47:51+09:00"
+    },
+    {
+      "name": "茂木外相 日本の対ロシア政策変わらずも意思疎通は必要",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015185281000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260724/K10015185281_2607241426_0724162740_01_02.jpg",
+      "datePublished": "2026-07-24T16:27:40+09:00"
+    },
+    {
+      "name": "【随時更新】ロシア ウクライナに軍事侵攻（7月24日の動き）",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015141151000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260724/K10015141151_2606041620_0724071402_01_02.jpg",
+      "datePublished": "2026-07-24T16:25:05+09:00"
+    },
+    {
+      "name": "スペイン山火事拡大で首都周辺に非常事態宣言 欧州各地で被害",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015185581000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260724/K10015185581_2607242018_0724205314_01_02.jpg",
+      "datePublished": "2026-07-24T20:53:13+09:00"
+    },
+    {
+      "name": "独フォルクスワーゲン 上半期決算は減益 中国販売減少などで",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015185551000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260724/K10015185551_2607241950_0724204634_01_02.jpg",
+      "datePublished": "2026-07-24T20:46:33+09:00"
+    },
+    {
+      "name": "【全文】アメリカ ルビオ国務長官インタビュー",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015184501000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260724/K10015184501_2607232133_0724114413_01_02.jpg",
+      "datePublished": "2026-07-24T11:44:12+09:00"
+    },
+    {
+      "name": "米・イラン 2つの海峡めぐり緊迫",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015185131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260724/K10015185131_2607241220_0724171010_01_02.jpg",
+      "datePublished": "2026-07-24T17:10:09+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
