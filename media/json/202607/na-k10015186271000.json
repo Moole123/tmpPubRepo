@@ -1,0 +1,149 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015186271000",
+  "dataSourceId": "na",
+  "name": "59歳 三浦知良 天皇杯代表決定戦でゴール 移籍後公式戦で初得点",
+  "headline": "59歳 三浦知良 天皇杯代表決定戦でゴール 移籍後公式戦初得点",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015186271000",
+    "playlistId": "news-nwa-sports-nationwide-20260726",
+    "newsarticleName": "59歳 三浦知良 天皇杯代表決定戦でゴール 移籍後公式戦で初得点",
+    "playlistName": "7月26日のスポーツニュース",
+    "genreId": "sports",
+    "genreIdSlug": "sports"
+  },
+  "description": "サッカー、J3の福島ユナイテッドに所属する59歳のカズ、三浦知良選手が公式戦でゴールを決めました。\n\n\n三浦選手は25日、福島市で行われた天皇杯の福島県代表決定戦の決勝、いわき古河FCとの試合に出場し",
+  "dateModified": "2026-07-26T00:02:57+09:00",
+  "datePublished": "2026-07-26T00:02:57+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260726/K10015186271_2607252356_0726000258_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260726/K10015186271_2607252356_0726000258_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "スポーツ"
+  ],
+  "topic": [
+    {
+      "id": "0000002",
+      "name": "サッカー",
+      "display": true
+    },
+    {
+      "id": "0002445",
+      "name": "サッカーJリーグ",
+      "display": true
+    },
+    {
+      "id": "0002207",
+      "name": "福島県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "サッカー、J3の福島ユナイテッドに所属する59歳のカズ、三浦知良選手が公式戦でゴールを決めました。\n\n\n三浦選手は25日、福島市で行われた天皇杯の福島県代表決定戦の決勝、いわき古河FCとの試合に出場し",
+  "articleBody": "サッカー、J3の福島ユナイテッドに所属する59歳のカズ、三浦知良選手が公式戦でゴールを決めました。\n\n\n三浦選手は25日、福島市で行われた天皇杯の福島県代表決定戦の決勝、いわき古河FCとの試合に出場し、4対0で迎えた後半7分にゴールを決めました。\n\n三浦選手は、ことし1月に福島ユナイテッドに期限付きで移籍し、チーム加入後では公式戦初得点となりました。\n\nチームは7対0で快勝し、来月開幕する天皇杯への出場を決めました。\n",
+  "detailedArticleBody": {
+    "markedLead": "サッカー、J3の福島ユナイテッドに所属する59歳のカズ、三浦知良選手が公式戦でゴールを決めました。\n",
+    "markedBody": "三浦選手は25日、福島市で行われた天皇杯の福島県代表決定戦の決勝、いわき古河FCとの試合に出場し、4対0で迎えた後半7分にゴールを決めました。\n\n三浦選手は、ことし1月に福島ユナイテッドに期限付きで移籍し、チーム加入後では公式戦初得点となりました。\n\nチームは7対0で快勝し、来月開幕する天皇杯への出場を決めました。\n",
+    "trimmedLead": "サッカー、J3の福島ユナイテッドに所属する59歳のカズ、三浦知良選手が公式戦でゴールを決めました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015186271000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015186271000",
+  "video": [],
+  "citation": [
+    {
+      "name": "前田大然がイプスウィッチ移籍 W杯経て英プレミアリーグへ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015186221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260725/K10015186221_2607252348_0725235441_01_02.jpg",
+      "datePublished": "2026-07-25T23:31:58+09:00"
+    },
+    {
+      "name": "サッカーJリーグ 新シーズンの熱中症対策を発表 実施条件拡大",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015184181000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260723/K10015184181_2607231801_0723183208_01_02.jpg",
+      "datePublished": "2026-07-23T18:32:07+09:00"
+    },
+    {
+      "name": "高校野球 福島は東日大昌平が初 福岡は東筑 13校が甲子園へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015185961000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260725/K10015185961_2607251414_0725145949_01_02.jpg",
+      "datePublished": "2026-07-25T20:27:10+09:00"
+    },
+    {
+      "name": "【プロ野球結果】巨人が阪神に連勝 単独首位に立つ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015186191000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260725/K10015186191_2607252159_0725222203_01_02.jpg",
+      "datePublished": "2026-07-25T23:02:13+09:00"
+    },
+    {
+      "name": "大相撲名古屋場所14日目 安青錦が尊富士破り 単独トップ守る",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015186071000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260725/K10015186071_2607251954_0725195509_01_02.jpg",
+      "datePublished": "2026-07-25T21:54:06+09:00"
+    },
+    {
+      "name": "野球日本代表新監督に井口資仁氏 「世界の頂点を」と意気込み",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015186021000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260725/K10015186021_2607251711_0725171236_01_02.jpg",
+      "datePublished": "2026-07-25T20:33:52+09:00"
+    },
+    {
+      "name": "卓球Tリーグ台湾で開幕 初の海外開催 張本美和ファン沸かせる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015186151000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260725/K10015186151_2607252144_0725214558_01_02.jpg",
+      "datePublished": "2026-07-25T21:31:10+09:00"
+    },
+    {
+      "name": "サッカーW杯閉幕 今大会が投げかけたものは",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015182391000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260722/K10015182391_2607221128_0722134730_01_02.jpg",
+      "datePublished": "2026-07-22T13:47:29+09:00"
+    },
+    {
+      "name": "サッカーと韓国社会",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015183801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260723/K10015183801_2607231225_0723145512_01_02.jpg",
+      "datePublished": "2026-07-23T14:55:10+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
