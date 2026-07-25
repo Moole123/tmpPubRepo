@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015185871000",
+  "dataSourceId": "na",
+  "name": "横綱 豊昇龍が名古屋場所を休場 13日目までに6敗",
+  "headline": "横綱 豊昇龍が名古屋場所を休場 13日目までに6敗",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015185871000",
+    "playlistId": "news-nwa-sports-nationwide-20260725",
+    "newsarticleName": "横綱 豊昇龍が名古屋場所を休場 13日目までに6敗",
+    "playlistName": "7月25日のスポーツニュース",
+    "genreId": "sports",
+    "genreIdSlug": "sports"
+  },
+  "description": "大相撲の横綱 豊昇龍が名古屋場所14日目の25日から休場することになりました。\n\n\n豊昇龍は先場所、右足のけがで途中休場し、今場所復帰しましたが、前半戦で平幕力士に2敗を喫しました。\n\n後半戦に入って",
+  "dateModified": "2026-07-25T10:24:08+09:00",
+  "datePublished": "2026-07-25T10:07:10+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260725/K10015185871_2607251004_0725100710_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260725/K10015185871_2607251004_0725100710_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "スポーツ"
+  ],
+  "topic": [
+    {
+      "id": "0000003",
+      "name": "大相撲",
+      "display": true
+    },
+    {
+      "id": "0002223",
+      "name": "愛知県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "大相撲の横綱 豊昇龍が名古屋場所14日目の25日から休場することになりました。\n\n\n豊昇龍は先場所、右足のけがで途中休場し、今場所復帰しましたが、前半戦で平幕力士に2敗を喫しました。\n\n後半戦に入って",
+  "articleBody": "大相撲の横綱 豊昇龍が名古屋場所14日目の25日から休場することになりました。\n\n\n豊昇龍は先場所、右足のけがで途中休場し、今場所復帰しましたが、前半戦で平幕力士に2敗を喫しました。\n\n後半戦に入っても三役力士に連敗して10日までに4敗と優勝争いに絡めず、12日目の23日は大関 琴櫻に、13日目の24日は関脇 熱海富士に敗れて6敗目を喫していました。\n\nそして、日本相撲協会に届け出て名古屋場所14日目の25日から休場することになりました。\n\n25日対戦する予定だった3敗の大関 霧島は不戦勝となります。\n\n豊昇龍の休場は2場所連続9回目で、横綱昇進後の9場所では4回目となります。\n",
+  "detailedArticleBody": {
+    "markedLead": "大相撲の横綱 豊昇龍が名古屋場所14日目の25日から休場することになりました。\n",
+    "markedBody": "豊昇龍は先場所、右足のけがで途中休場し、今場所復帰しましたが、前半戦で平幕力士に2敗を喫しました。\n\n後半戦に入っても三役力士に連敗して10日までに4敗と優勝争いに絡めず、12日目の23日は大関 琴櫻に、13日目の24日は関脇 熱海富士に敗れて6敗目を喫していました。\n\nそして、日本相撲協会に届け出て名古屋場所14日目の25日から休場することになりました。\n\n25日対戦する予定だった3敗の大関 霧島は不戦勝となります。\n\n豊昇龍の休場は2場所連続9回目で、横綱昇進後の9場所では4回目となります。\n",
+    "trimmedLead": "大相撲の横綱 豊昇龍が名古屋場所14日目の25日から休場することになりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015185871000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015185871000",
+  "video": [],
+  "citation": [
+    {
+      "name": "大相撲名古屋場所14日目 2敗の安青錦と3敗の尊富士が対戦",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015185741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260725/K10015185741_2607242217_0725050723_01_02.jpg",
+      "datePublished": "2026-07-25T05:07:22+09:00"
+    },
+    {
+      "name": "大相撲名古屋場所13日目 安青錦が霧島破り 再び単独トップ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015185221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260724/K10015185221_2607241749_0724212225_01_02.jpg",
+      "datePublished": "2026-07-24T21:22:24+09:00"
+    },
+    {
+      "name": "大相撲名古屋場所 序二段は白月狼が優勝",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015185261000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260724/K10015185261_2607241438_0724162839_01_02.jpg",
+      "datePublished": "2026-07-24T16:28:38+09:00"
+    },
+    {
+      "name": "大相撲名古屋場所 序ノ口は垣添が優勝 元小結 雷親方の長男",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015185201000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260724/K10015185201_2607241337_0724151912_01_02.jpg",
+      "datePublished": "2026-07-24T15:19:11+09:00"
+    },
+    {
+      "name": "【プロ野球結果】巨人 阪神に競り勝ち同率で首位にならぶ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015185591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260724/K10015185591_2607242253_0725045652_01_02.jpg",
+      "datePublished": "2026-07-25T00:43:01+09:00"
+    },
+    {
+      "name": "フィギュアスケート女子シングル 島田麻央がシニアデビュー",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015185711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260725/K10015185711_2607242252_0725051726_01_02.jpg",
+      "datePublished": "2026-07-25T05:17:25+09:00"
+    },
+    {
+      "name": "サッカー ドイツ代表の新監督に名将クロップ氏が就任",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015185601000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260724/K10015185601_2607242034_0724205548_01_02.jpg",
+      "datePublished": "2026-07-24T20:55:47+09:00"
+    },
+    {
+      "name": "高校野球 熊本大会は有明が初の甲子園 新潟大会は日本文理",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015185141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260724/K10015185141_2607241227_0724132056_01_02.jpg",
+      "datePublished": "2026-07-24T15:52:54+09:00"
+    },
+    {
+      "name": "【夏の甲子園 2026】日程・結果・最新ニュース",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002460",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31637391.jpg"
+    },
+    {
+      "name": "サッカーW杯閉幕 今大会が投げかけたものは",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015182391000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260722/K10015182391_2607221128_0722134730_01_02.jpg",
+      "datePublished": "2026-07-22T13:47:29+09:00"
+    },
+    {
+      "name": "熱狂の1か月 ワールドカップが問われているもの",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015180501000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260720/K10015180501_2607201656_0720203831_01_02.jpg",
+      "datePublished": "2026-07-20T20:38:30+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
