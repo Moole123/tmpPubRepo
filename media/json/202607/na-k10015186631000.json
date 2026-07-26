@@ -1,0 +1,179 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015186631000",
+  "dataSourceId": "na",
+  "name": "JR新潟駅付近 国道が冠水",
+  "headline": "JR新潟駅付近 国道が冠水",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015186631000",
+    "playlistId": "news-nwa-disaster-nationwide-20260726",
+    "newsarticleName": "JR新潟駅付近 国道が冠水",
+    "playlistName": "7月26日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "26日、午後1時半ごろ、新潟市中央区のJR新潟駅近くの国道で撮影された映像です。道路が冠水し、車がゆっくりと動くたびに水が波打つ様子が確認できます。\n\n撮影した男性は、「近くの飲食店にいたところ、店員",
+  "dateModified": "2026-07-26T17:02:58+09:00",
+  "datePublished": "2026-07-26T17:02:58+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260726/K10015186631_2607261651_0726170259_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260726/K10015186631_2607261651_0726170259_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0000035",
+      "name": "気象",
+      "display": true
+    },
+    {
+      "id": "0002215",
+      "name": "新潟県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "26日、午後1時半ごろ、新潟市中央区のJR新潟駅近くの国道で撮影された映像です。道路が冠水し、車がゆっくりと動くたびに水が波打つ様子が確認できます。\n\n撮影した男性は、「近くの飲食店にいたところ、店員",
+  "articleBody": "26日、午後1時半ごろ、新潟市中央区のJR新潟駅近くの国道で撮影された映像です。道路が冠水し、車がゆっくりと動くたびに水が波打つ様子が確認できます。\n\n撮影した男性は、「近くの飲食店にいたところ、店員から『店内のちゅう房や駐車場が冠水したので退店してほしい』と言われ、店を出ました。徐行運転していましたが、車が止まるかもしれないと不安でした」などと話していました。\n\n\n新潟県や東北南部に発達した雨雲\n\n気象庁によりますと、日本海から東北付近にのびる前線に向かって暖かく湿った空気が流れ込んでいる影響で、新潟県や東北南部には発達した雨雲がかかっています。\n\n午後2時までの1時間には、新潟空港で42.5ミリの激しい雨を観測しました。\n\n気象庁は、土砂災害や低い土地の浸水、川の氾濫に厳重に警戒するよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "26日、午後1時半ごろ、新潟市中央区のJR新潟駅近くの国道で撮影された映像です。道路が冠水し、車がゆっくりと動くたびに水が波打つ様子が確認できます。\n\n撮影した男性は、「近くの飲食店にいたところ、店員から『店内のちゅう房や駐車場が冠水したので退店してほしい』と言われ、店を出ました。徐行運転していましたが、車が止まるかもしれないと不安でした」などと話していました。\n",
+    "markedBody": "### 新潟県や東北南部に発達した雨雲\n\n気象庁によりますと、日本海から東北付近にのびる前線に向かって暖かく湿った空気が流れ込んでいる影響で、新潟県や東北南部には発達した雨雲がかかっています。\n\n午後2時までの1時間には、新潟空港で42.5ミリの激しい雨を観測しました。\n\n気象庁は、土砂災害や低い土地の浸水、川の氾濫に厳重に警戒するよう呼びかけています。\n",
+    "trimmedLead": "26日、午後1時半ごろ、新潟市中央区のJR新潟駅近くの国道で撮影された映像です。道路が冠水し、車がゆっくりと動くたびに水が波打つ様子が確認できます。\n\n撮影した男性は、「近くの飲食店にいたところ、店員から『店内のちゅう房や駐車場が冠水したので退店してほしい』と言われ、店を出ました。徐行運転していましたが、車が止まるかもしれないと不安でした」などと話していました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015186631000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015186631000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "JR新潟駅付近 国道が冠水",
+      "description": "26日、午後1時半ごろ、新潟市中央区のJR新潟駅近くの国道で撮影された映像です。道路が冠水し、車がゆっくりと動くたびに水が波打つ様子が確認できます。\n\n撮影した男性は、「近くの飲食店にいたところ、店員",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015186631_202607261651_202607261652/index.m3u8&mrposter=/news/html/20260726/K10015186631_2607261651_0726170259_01_03.jpg",
+      "duration": "PT15S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015186631_202607261651_202607261652/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260726/K10015186631_2607261651_0726170259_01_03.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "新潟や東北中心に大雨 関東も激しい雷雨に 西日本では39度超も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015186311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260726/K10015186311_2607261543_0726154602_01_03.jpg",
+      "datePublished": "2026-07-26T15:46:01+09:00"
+    },
+    {
+      "name": "落雷で電柱から火花 東京 世田谷",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015186551000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260726/K10015186551_2607261443_0726145620_01_03.jpg",
+      "datePublished": "2026-07-26T14:56:19+09:00"
+    },
+    {
+      "name": "「飛鳥・藤原の宮都」世界文化遺産に登録決定 国内で27件に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015186101000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260726/K10015186101_2607261205_0726121228_01_03.jpg",
+      "datePublished": "2026-07-26T13:48:27+09:00"
+    },
+    {
+      "name": "“米は迎撃ミサイル枯渇懸念しイラン攻撃強化を保留か”報道",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015186111000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260726/K10015186111_2607260530_0726061107_01_02.jpg",
+      "datePublished": "2026-07-26T12:23:59+09:00"
+    },
+    {
+      "name": "ドジャース 山本由伸 日米通算100勝に到達",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015186441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260726/K10015186441_2607261123_0726112444_01_02.jpg",
+      "datePublished": "2026-07-26T14:28:17+09:00"
+    },
+    {
+      "name": "相模原 障害者施設殺傷事件から10年 多くの人が献花し追悼",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015186241000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260726/K10015186241_2607261214_0726130432_01_03.jpg",
+      "datePublished": "2026-07-26T13:04:31+09:00"
+    },
+    {
+      "name": "大相撲名古屋場所 三賞 安青錦が技能賞 熱海富士が敢闘賞",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015186531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260726/K10015186531_2607261422_0726144019_01_02.jpg",
+      "datePublished": "2026-07-26T14:40:18+09:00"
+    },
+    {
+      "name": "ベルリンで車突っ込む 容疑者はイスラム主義勢力とつながりか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015186341000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260726/K10015186341_2607260659_0726074604_01_03.jpg",
+      "datePublished": "2026-07-26T12:49:34+09:00"
+    },
+    {
+      "name": "辻村深月さんが最新作で描く 悪意なき“うわさ”の罪深さ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015183891000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260726/K10015183891_2607231305_0726104025_01_02.jpg",
+      "datePublished": "2026-07-26T10:40:24+09:00"
+    },
+    {
+      "name": "SNS投稿 いいねや表示回数を水増し…“スマホ農場” 実態は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015183811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260725/K10015183811_2607251532_0725185042_01_02.jpg",
+      "datePublished": "2026-07-25T18:50:41+09:00"
+    },
+    {
+      "name": "インサイド・トヨタ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015185151000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260725/K10015185151_2607241302_0725162832_01_02.jpg",
+      "datePublished": "2026-07-25T16:28:31+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
