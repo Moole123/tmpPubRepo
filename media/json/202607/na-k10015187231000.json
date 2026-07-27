@@ -81,13 +81,36 @@
   },
   "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015187231000.json",
   "canonical": "https://news.web.nhk/newsweb/na/na-k10015187231000",
-  "video": [],
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "松橋事件 国と県の責任いずれも認め 賠償命じる判決 福岡高裁",
+      "description": "41年前、熊本県で男性が殺害されたいわゆる「松橋事件」で、服役後に再審＝やり直しの裁判で無罪が確定した男性の遺族が国と県に賠償を求めていた裁判で、福岡高等裁判所は、国と県の責任をいずれも認め、賠償を命",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015187231_202607271520_202607271520/index.m3u8&mrposter=/news/html/20260727/K10015187231_2607271437_0727143910_01_02.jpg",
+      "duration": "PT1M14S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015187231_202607271520_202607271520/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260727/K10015187231_2607271437_0727143910_01_02.jpg"
+    }
+  ],
   "citation": [
     {
       "name": "福岡県議会問題 “中尾前副議長の声と同一の可能性高い”",
       "url": "https://news.web.nhk/newsweb/na/na-k10015187091000",
       "thumbnailUrl": "https://news.web.nhk/news/html/20260727/K10015187091_2607271248_0727130437_01_03.jpg",
-      "datePublished": "2026-07-27T14:41:25+09:00"
+      "datePublished": "2026-07-27T16:15:35+09:00"
     },
     {
       "name": "佐賀 伊万里の住宅で火事 4人死亡 小学生2人を含む家族4人か",
@@ -108,10 +131,10 @@
       "datePublished": "2026-07-27T13:11:04+09:00"
     },
     {
-      "name": "西日本や東海で猛暑 九州は危険な暑さ 広く雨雲発達おそれも",
+      "name": "西日本危険な暑さ 四国や九州では40度に迫る",
       "url": "https://news.web.nhk/newsweb/na/na-k10015186851000",
       "thumbnailUrl": "https://news.web.nhk/news/html/20260727/K10015186851_2607271156_0727120136_01_03.jpg",
-      "datePublished": "2026-07-27T12:01:35+09:00"
+      "datePublished": "2026-07-27T16:18:21+09:00"
     },
     {
       "name": "大相撲名古屋場所 優勝の安青錦 “怖さと不安 やりきった”",
