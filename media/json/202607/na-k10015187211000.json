@@ -1,0 +1,190 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015187211000",
+  "dataSourceId": "na",
+  "name": "IT企業「はてな」資金流出で報告書公表 特殊詐欺による被害",
+  "headline": "IT企業「はてな」資金流出で報告書公表 特殊詐欺による被害",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015187211000",
+    "playlistId": "news-nwa-society-nationwide-20260727",
+    "newsarticleName": "IT企業「はてな」資金流出で報告書公表 特殊詐欺による被害",
+    "playlistName": "7月27日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "ブログサービスなどを運営するIT企業「はてな」は、ことし4月に11億円余りの資金が流出した事案について調査報告書を公表し、経理担当の社員が警察官を名乗る詐欺グループに、捜査協力だと信じ込まされた特殊詐",
+  "dateModified": "2026-07-27T13:08:25+09:00",
+  "datePublished": "2026-07-27T13:08:25+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260727/K10015187211_2607271239_0727130826_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260727/K10015187211_2607271239_0727130826_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0001538",
+      "name": "事件・事故",
+      "display": true
+    },
+    {
+      "id": "0000009",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "0002733",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ブログサービスなどを運営するIT企業「はてな」は、ことし4月に11億円余りの資金が流出した事案について調査報告書を公表し、経理担当の社員が警察官を名乗る詐欺グループに、捜査協力だと信じ込まされた特殊詐",
+  "articleBody": "ブログサービスなどを運営するIT企業「はてな」は、ことし4月に11億円余りの資金が流出した事案について調査報告書を公表し、経理担当の社員が警察官を名乗る詐欺グループに、捜査協力だと信じ込まされた特殊詐欺による被害だったことを明らかにしました。\n\n\n京都市中京区に本社があるIT企業「はてな」は、ことし4月におよそ11億8000万円の資金が流出した事案を受けて、外部の専門家による特別調査委員会を設置し、調査を進めてきました。\n\n公表された調査報告書によりますと、きっかけは4月20日の午前8時ごろに経理部長の私用の携帯電話に、警察官を名乗る詐欺グループから「大規模な資金洗浄についての捜査を進めている」などと連絡があったことだということです。\n\n「捜査協力」だと信じた経理部長は会社のパソコンに遠隔操作できるアプリをダウンロードさせられ、詐欺グループはそこから会社のオンラインバンキングにアクセスしていたということです。\n\n詐欺グループからの指示で会社の資金を移動させられるなどして、不正送金は2日間にわたって繰り返し行われたあと、銀行が送金を止めて、経理部長も警察に通報し、被害が発覚したとしています。\n\n報告書では特殊詐欺による被害だったとしたうえで、原因や背景として、1人の権限で振り込みができるなど、オンラインバンキングのアカウント管理がずさんであったことや、経理部の体制などに問題があったと指摘しました。\n\nはてなは「調査結果を真摯（しんし）に受け止め、ガバナンス体制や管理体制の強化などに取り組み、信頼回復に努めてまいります」とコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "ブログサービスなどを運営するIT企業「はてな」は、ことし4月に11億円余りの資金が流出した事案について調査報告書を公表し、経理担当の社員が警察官を名乗る詐欺グループに、捜査協力だと信じ込まされた特殊詐欺による被害だったことを明らかにしました。\n",
+    "markedBody": "京都市中京区に本社があるIT企業「はてな」は、ことし4月におよそ11億8000万円の資金が流出した事案を受けて、外部の専門家による特別調査委員会を設置し、調査を進めてきました。\n\n![](https://news.web.nhk/news/html/20260727/K10015187211_2607271239_0727130826_02_03.jpg)\n\n公表された調査報告書によりますと、きっかけは4月20日の午前8時ごろに経理部長の私用の携帯電話に、警察官を名乗る詐欺グループから「大規模な資金洗浄についての捜査を進めている」などと連絡があったことだということです。\n\n「捜査協力」だと信じた経理部長は会社のパソコンに遠隔操作できるアプリをダウンロードさせられ、詐欺グループはそこから会社のオンラインバンキングにアクセスしていたということです。\n\n詐欺グループからの指示で会社の資金を移動させられるなどして、不正送金は2日間にわたって繰り返し行われたあと、銀行が送金を止めて、経理部長も警察に通報し、被害が発覚したとしています。\n\n報告書では特殊詐欺による被害だったとしたうえで、原因や背景として、1人の権限で振り込みができるなど、オンラインバンキングのアカウント管理がずさんであったことや、経理部の体制などに問題があったと指摘しました。\n\nはてなは「調査結果を真摯（しんし）に受け止め、ガバナンス体制や管理体制の強化などに取り組み、信頼回復に努めてまいります」とコメントしています。\n",
+    "trimmedLead": "ブログサービスなどを運営するIT企業「はてな」は、ことし4月に11億円余りの資金が流出した事案について調査報告書を公表し、経理担当の社員が警察官を名乗る詐欺グループに、捜査協力だと信じ込まされた特殊詐欺による被害だったことを明らかにしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015187211000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015187211000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "IT企業「はてな」資金流出で報告書公表 特殊詐欺による被害",
+      "description": "ブログサービスなどを運営するIT企業「はてな」は、ことし4月に11億円余りの資金が流出した事案について調査報告書を公表し、経理担当の社員が警察官を名乗る詐欺グループに、捜査協力だと信じ込まされた特殊詐",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015187211_202607271338_202607271340/index.m3u8&mrposter=/news/html/20260727/K10015187211_2607271239_0727130826_01_02.jpg",
+      "duration": "PT1M8S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015187211_202607271338_202607271340/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260727/K10015187211_2607271239_0727130826_01_02.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "情報セキュリティー会社 企業から相談相次ぐ ニチレイ障害受け",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015185661000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260725/K10015185661_2607242135_0725001024_01_02.jpg",
+      "datePublished": "2026-07-25T00:10:24+09:00"
+    },
+    {
+      "name": "福岡県議会問題 “中尾前副議長の声と同一の可能性高い”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015187091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260727/K10015187091_2607271248_0727130437_01_03.jpg",
+      "datePublished": "2026-07-27T12:34:54+09:00"
+    },
+    {
+      "name": "佐賀 伊万里の住宅で火事 4人死亡 小学生2人を含む家族4人か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015186991000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260727/K10015186991_2607270931_0727094855_01_02.jpg",
+      "datePublished": "2026-07-27T12:14:29+09:00"
+    },
+    {
+      "name": "西日本や東海で猛暑 九州は危険な暑さ 広く雨雲発達おそれも",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015186851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260727/K10015186851_2607271156_0727120136_01_03.jpg",
+      "datePublished": "2026-07-27T12:01:35+09:00"
+    },
+    {
+      "name": "食料品の消費税減税 高市首相が判断するとの見方強まる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015186841000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260727/K10015186841_2607262329_0727050130_01_02.jpg",
+      "datePublished": "2026-07-27T05:01:30+09:00"
+    },
+    {
+      "name": "高市首相 今夜6時から会見へ 今後の政権運営の方針など説明か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015187041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260727/K10015187041_2607270922_0727104553_01_02.jpg",
+      "datePublished": "2026-07-27T09:24:14+09:00"
+    },
+    {
+      "name": "秀吉が恭順の毛利側を盛大にもてなしたこと示す文書発見",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015186821000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260727/K10015186821_2607262120_0727051251_01_02.jpg",
+      "datePublished": "2026-07-27T05:12:50+09:00"
+    },
+    {
+      "name": "米国産生鮮ジャガイモ 輸入解禁手続き進む一方で懸念の声も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015186811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260727/K10015186811_2607262145_0727070700_01_02.jpg",
+      "datePublished": "2026-07-27T07:06:59+09:00"
+    },
+    {
+      "name": "ホワイトソックス 村上宗隆 1試合2本塁打 6打点の大活躍",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015186951000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260727/K10015186951_2607270512_0727051646_01_02.jpg",
+      "datePublished": "2026-07-27T08:43:50+09:00"
+    },
+    {
+      "name": "ぬいぐるみで話題 子ザル「パンチ」1歳 ファンが祝福 千葉",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015186521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260727/K10015186521_2607261511_0727075934_01_03.jpg",
+      "datePublished": "2026-07-27T07:59:33+09:00"
+    },
+    {
+      "name": "障害者施設殺傷事件から10年 ほんの少しでも“優しい社会に”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015186641000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260726/K10015186641_2607261743_0726193210_01_02.jpg",
+      "datePublished": "2026-07-26T19:32:09+09:00"
+    },
+    {
+      "name": "中学生のひと言が地域を動かした",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015182751000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260726/K10015182751_2607241151_0726171022_01_02.jpg",
+      "datePublished": "2026-07-26T17:10:21+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
