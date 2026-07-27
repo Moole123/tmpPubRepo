@@ -71,19 +71,42 @@
   },
   "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015186431000.json",
   "canonical": "https://news.web.nhk/newsweb/na/na-k10015186431000",
-  "video": [],
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "茨城 同居生活で唇縫うよう強要疑い ほかにも唇に針と糸の傷",
+      "description": "茨城県古河市の住宅で同居していた女性を脅し、自分の唇を縫うよう強要したとして、容疑者が再逮捕された事件で、女性の唇にはほかにも針と糸で縫ったような傷があったことが、警察への取材でわかりました。警察は、",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015186431_202607261222_202607261223/index.m3u8&mrposter=/news/html/20260726/K10015186431_2607261110_0726112229_01_02.jpg",
+      "duration": "PT1M0S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015186431_202607261222_202607261223/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260726/K10015186431_2607261110_0726112229_01_02.jpg"
+    }
+  ],
   "citation": [
     {
-      "name": "「飛鳥・藤原の宮都」世界文化遺産に登録決定",
+      "name": "「飛鳥・藤原の宮都」世界文化遺産に登録決定 国内で27件に",
       "url": "https://news.web.nhk/newsweb/na/na-k10015186101000",
-      "thumbnailUrl": "https://news.web.nhk/news/html/20260726/K10015186101_2607261056_0726105716_01_02.jpg",
-      "datePublished": "2026-07-26T11:41:16+09:00"
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260726/K10015186101_2607261205_0726121228_01_03.jpg",
+      "datePublished": "2026-07-26T19:03:28+09:00"
     },
     {
-      "name": "新潟 北陸 東北で大雨 厳重警戒を 西日本などは危険な暑さに",
+      "name": "新潟と富山で再び局地的に雨が強まる 土砂災害など厳重警戒",
       "url": "https://news.web.nhk/newsweb/na/na-k10015186311000",
-      "thumbnailUrl": "https://news.web.nhk/news/html/20260726/K10015186311_2607261004_0726100501_01_02.jpg",
-      "datePublished": "2026-07-26T10:05:00+09:00"
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260726/K10015186311_2607261910_0726191501_01_03.jpg",
+      "datePublished": "2026-07-27T04:10:49+09:00"
     },
     {
       "name": "トランプ大統領 グーグルに制裁金科したEUに関税課すと主張",
@@ -92,10 +115,10 @@
       "datePublished": "2026-07-26T08:49:14+09:00"
     },
     {
-      "name": "トランプ大統領がイラン攻撃しないよう指示か 米報道",
+      "name": "“米は迎撃ミサイル枯渇懸念しイラン攻撃強化を保留か”報道",
       "url": "https://news.web.nhk/newsweb/na/na-k10015186111000",
       "thumbnailUrl": "https://news.web.nhk/news/html/20260726/K10015186111_2607260530_0726061107_01_02.jpg",
-      "datePublished": "2026-07-26T07:29:29+09:00"
+      "datePublished": "2026-07-26T18:13:09+09:00"
     },
     {
       "name": "フーシ派“サウジアラムコの石油施設攻撃”影響の懸念広がる",
@@ -110,16 +133,16 @@
       "datePublished": "2026-07-26T07:43:51+09:00"
     },
     {
-      "name": "ベルリンでLGBTQイベントに車突っ込む 1人死亡 16人けが",
+      "name": "ベルリンで車突っ込む 容疑者はイスラム主義勢力とつながりか",
       "url": "https://news.web.nhk/newsweb/na/na-k10015186341000",
       "thumbnailUrl": "https://news.web.nhk/news/html/20260726/K10015186341_2607260659_0726074604_01_03.jpg",
-      "datePublished": "2026-07-26T09:38:35+09:00"
+      "datePublished": "2026-07-26T12:49:34+09:00"
     },
     {
-      "name": "相模原 障害者施設殺傷事件からきょうで10年",
+      "name": "相模原 障害者施設殺傷事件から10年 多くの人が献花し追悼",
       "url": "https://news.web.nhk/newsweb/na/na-k10015186241000",
-      "thumbnailUrl": "https://news.web.nhk/news/html/20260726/K10015186241_2607260231_0726053509_01_02.jpg",
-      "datePublished": "2026-07-26T05:35:08+09:00"
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260726/K10015186241_2607261214_0726130432_01_03.jpg",
+      "datePublished": "2026-07-26T18:12:31+09:00"
     },
     {
       "name": "辻村深月さんが最新作で描く 悪意なき“うわさ”の罪深さ",
