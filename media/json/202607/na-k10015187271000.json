@@ -1,0 +1,132 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015187271000",
+  "dataSourceId": "na",
+  "name": "台風13号発生 今後勢力を強める予想",
+  "headline": "台風13号発生 今後勢力を強める予想",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015187271000",
+    "playlistId": "news-nwa-disaster-nationwide-20260727",
+    "newsarticleName": "台風13号発生 今後勢力を強める予想",
+    "playlistName": "7月27日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "27日午後、日本のはるか南東の太平洋で台風13号が発生しました。気象庁は、今後の情報に注意するよう呼びかけています。\n\n\n台風の情報はニュース・防災アプリで\n\n台風の情報はニュース・防災アプリで\n\n気",
+  "dateModified": "2026-07-27T16:57:25+09:00",
+  "datePublished": "2026-07-27T16:57:25+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260727/K10015187271_2607271655_0727165726_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260727/K10015187271_2607271655_0727165726_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0001345",
+      "name": "台風",
+      "display": true
+    },
+    {
+      "id": "0000035",
+      "name": "気象",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "27日午後、日本のはるか南東の太平洋で台風13号が発生しました。気象庁は、今後の情報に注意するよう呼びかけています。\n\n\n台風の情報はニュース・防災アプリで\n\n台風の情報はニュース・防災アプリで\n\n気",
+  "articleBody": "27日午後、日本のはるか南東の太平洋で台風13号が発生しました。気象庁は、今後の情報に注意するよう呼びかけています。\n\n\n台風の情報はニュース・防災アプリで\n\n台風の情報はニュース・防災アプリで\n\n気象庁の観測によりますと、27日午後3時、日本のはるか南東のミッドウェー諸島近海で熱帯低気圧が台風13号に変わりました。\n\n中心の気圧は1000ヘクトパスカル、中心付近の最大風速は18メートル、最大瞬間風速は25メートルで、中心の北側280キロ以内と南側165キロ以内では風速15メートル以上の強い風が吹いています。\n\n台風は今後、進路を北西寄りに変えて勢力を強めると予想されています。\n\nまだ進路の予報には幅があり、気象庁は今後の台風の情報に注意するよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "27日午後、日本のはるか南東の太平洋で台風13号が発生しました。気象庁は、今後の情報に注意するよう呼びかけています。\n",
+    "markedBody": ":::nw--link-type4 {href=https://www.nhk.or.jp/nhkone/service/app/news_bousai/}\n![台風の情報はニュース・防災アプリで](https://news.web.nhk/news/html/20260727/K10015187271_2607271548_0727165726_02_03.jpg)\n\n**台風の情報はニュース・防災アプリで**\n:::\n\n気象庁の観測によりますと、27日午後3時、日本のはるか南東のミッドウェー諸島近海で熱帯低気圧が台風13号に変わりました。\n\n中心の気圧は1000ヘクトパスカル、中心付近の最大風速は18メートル、最大瞬間風速は25メートルで、中心の北側280キロ以内と南側165キロ以内では風速15メートル以上の強い風が吹いています。\n\n台風は今後、進路を北西寄りに変えて勢力を強めると予想されています。\n\nまだ進路の予報には幅があり、気象庁は今後の台風の情報に注意するよう呼びかけています。\n\n```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"003\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\r\n    <div class=\"fs-wrap\">\r\n      <h2 class=\"freespace-title\">台風マップ</h2>\r\n\r\n      <a href=\"https://news.web.nhk/bousai-map/typhoon/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"tenkiBousaiMap-fullscreenBtn\">全画面でマップを見る</a>\r\n\r\n      <div class=\"tenkiBousaiMap-wrap\">\r\n        <iframe src=\"https://news.web.nhk/bousai-map/typhoon/?mapMenu=off&amp;help=off&amp;halfModal=off&amp;typhoonSelection=off&amp;disableUserLocation=on\" allowfullscreen=\"allowfullscreen\" scrolling=\"no\" class=\"js-iframe-dataMap\"></iframe>\r\n      </div>\r\n    </div>\n</div>\n```\n",
+    "noHtmlMarkedLead": "27日午後、日本のはるか南東の太平洋で台風13号が発生しました。気象庁は、今後の情報に注意するよう呼びかけています。\n",
+    "noHtmlMarkedBody": ":::nw--link-type4 {href=https://www.nhk.or.jp/nhkone/service/app/news_bousai/}\n![台風の情報はニュース・防災アプリで](https://news.web.nhk/news/html/20260727/K10015187271_2607271548_0727165726_02_03.jpg)\n\n**台風の情報はニュース・防災アプリで**\n:::\n\n気象庁の観測によりますと、27日午後3時、日本のはるか南東のミッドウェー諸島近海で熱帯低気圧が台風13号に変わりました。\n\n中心の気圧は1000ヘクトパスカル、中心付近の最大風速は18メートル、最大瞬間風速は25メートルで、中心の北側280キロ以内と南側165キロ以内では風速15メートル以上の強い風が吹いています。\n\n台風は今後、進路を北西寄りに変えて勢力を強めると予想されています。\n\nまだ進路の予報には幅があり、気象庁は今後の台風の情報に注意するよう呼びかけています。\n",
+    "trimmedLead": "27日午後、日本のはるか南東の太平洋で台風13号が発生しました。気象庁は、今後の情報に注意するよう呼びかけています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015187271000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015187271000",
+  "video": [],
+  "citation": [
+    {
+      "name": "【最新の台風情報】予想進路や勢力などを詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/typhoon/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30060645.jpg"
+    },
+    {
+      "name": "台風マップ 予想進路や勢力をリアルタイム表示",
+      "url": "https://news.web.nhk/bousai-map/typhoon/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31036866.jpg"
+    },
+    {
+      "name": "台風接近前にやっておきたい備え「タイムライン」で",
+      "url": "https://news.web.nhk/newsweb/na/nc-cc4a20bc-9976-493f-a087-23512046b7d3",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_23166686.jpg"
+    },
+    {
+      "name": "台風や低気圧による「暴風」注意点と対策は",
+      "url": "https://news.web.nhk/newsweb/na/nc-ed932a80-8b04-49af-b4e8-2e364a35b909",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_20315661.jpg"
+    },
+    {
+      "name": "伊勢湾台風とは？犠牲者5000人超「暴走木材」が街を襲った",
+      "url": "https://news.web.nhk/newsweb/na/nc-eb22b635-e86a-4563-8a47-77db97cbcfe6",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_23648643.jpg"
+    },
+    {
+      "name": "NHKONE防災 災害リスク・備えをまとめて",
+      "url": "https://news.web.nhk/newsweb/sp/pl/editorial-nwa-0000000132",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30066327.jpg"
+    },
+    {
+      "name": "天気防災サイト あなたの街の天気予報や災害情報を即時提供",
+      "url": "https://news.web.nhk/kishou-saigai/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037196.jpg"
+    },
+    {
+      "name": "天気防災マップ ふだんの雨雲予想から災害時のリスク情報まで",
+      "url": "https://news.web.nhk/bousai-map/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037154.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": true
+  }
+}
