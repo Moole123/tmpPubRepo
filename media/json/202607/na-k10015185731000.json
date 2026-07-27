@@ -76,7 +76,30 @@
   },
   "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015185731000.json",
   "canonical": "https://news.web.nhk/newsweb/na/na-k10015185731000",
-  "video": [],
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "国会が事実上閉会 合意形成どう図るかが次の国会でも課題に",
+      "description": "国会は24日夜、「副首都」構想の関連法などが成立し、事実上閉会しました。最終盤では、与野党の対立が先鋭化して審議が停滞する場面もみられ、参議院で与党が過半数に達しない状況が続く中、合意形成をどう図るか",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015185731_202607251022_202607251022/index.m3u8&mrposter=/news/html/20260725/K10015185731_2607250443_0725050232_01_02.jpg",
+      "duration": "PT3M8S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015185731_202607251022_202607251022/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260725/K10015185731_2607250443_0725050232_01_02.jpg"
+    }
+  ],
   "citation": [
     {
       "name": "第221特別国会が事実上閉会 政府提出の64法案すべて成立",
