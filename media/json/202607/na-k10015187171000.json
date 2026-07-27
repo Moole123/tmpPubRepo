@@ -1,0 +1,177 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015187171000",
+  "dataSourceId": "na",
+  "name": "株価 午前は値上がり 幅広い銘柄で買い注文",
+  "headline": "株価 午前は値上がり 幅広い銘柄で買い注文",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015187171000",
+    "playlistId": "news-nwa-business-nationwide-20260727",
+    "newsarticleName": "株価 午前は値上がり 幅広い銘柄で買い注文",
+    "playlistName": "7月27日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "週明けの27日の東京株式市場、日経平均株価は値上がりしています。\n\n\n日経平均株価、午前の終値は24日の終値と比べて152円86銭高い6万4764円1銭、東証株価指数＝トピックスは38.71上がって4",
+  "dateModified": "2026-07-27T12:06:30+09:00",
+  "datePublished": "2026-07-27T12:06:30+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260727/K10015187171_2607271155_0727120630_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260727/K10015187171_2607271155_0727120630_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0002423",
+      "name": "金融",
+      "display": true
+    },
+    {
+      "id": "0000820",
+      "name": "イラン情勢",
+      "display": true
+    },
+    {
+      "id": "0000010",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "0002421",
+      "name": "半導体",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "週明けの27日の東京株式市場、日経平均株価は値上がりしています。\n\n\n日経平均株価、午前の終値は24日の終値と比べて152円86銭高い6万4764円1銭、東証株価指数＝トピックスは38.71上がって4",
+  "articleBody": "週明けの27日の東京株式市場、日経平均株価は値上がりしています。\n\n\n日経平均株価、午前の終値は24日の終値と比べて152円86銭高い6万4764円1銭、東証株価指数＝トピックスは38.71上がって4050.02、午前の出来高は10億3797万株でした。\n\n市場関係者は「アメリカ軍によるイランへの攻撃が停止されたことを受けて原油の先物価格が下がり、投資家心理が改善したことから、幅広い銘柄に買い注文が入った。一方、一部のAI・半導体関連の銘柄では過剰投資への警戒感などから売り注文も出ている」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "週明けの27日の東京株式市場、日経平均株価は値上がりしています。\n",
+    "markedBody": "日経平均株価、午前の終値は24日の終値と比べて152円86銭高い6万4764円1銭、東証株価指数＝トピックスは38.71上がって4050.02、午前の出来高は10億3797万株でした。\n\n市場関係者は「アメリカ軍によるイランへの攻撃が停止されたことを受けて原油の先物価格が下がり、投資家心理が改善したことから、幅広い銘柄に買い注文が入った。一方、一部のAI・半導体関連の銘柄では過剰投資への警戒感などから売り注文も出ている」と話しています。\n",
+    "trimmedLead": "週明けの27日の東京株式市場、日経平均株価は値上がりしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015187171000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015187171000",
+  "video": [],
+  "citation": [
+    {
+      "name": "NY原油 一時1バレル83ドル台前半に下落 イランへの攻撃停止で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015187131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260727/K10015187131_2607271144_0727115048_01_02.jpg",
+      "datePublished": "2026-07-27T11:50:47+09:00"
+    },
+    {
+      "name": "【ライブ】福岡県議会問題 “中尾氏の声と同一の可能性高い”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015187091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260727/K10015187091_2607271104_0727121132_01_02.jpg",
+      "datePublished": "2026-07-27T12:11:31+09:00"
+    },
+    {
+      "name": "佐賀 伊万里の住宅で火事 4人死亡 小学生2人を含む家族4人か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015186991000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260727/K10015186991_2607270931_0727094855_01_02.jpg",
+      "datePublished": "2026-07-27T12:14:29+09:00"
+    },
+    {
+      "name": "西日本や東海で猛暑 九州は危険な暑さ 広く雨雲発達おそれも",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015186851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260727/K10015186851_2607271156_0727120136_01_03.jpg",
+      "datePublished": "2026-07-27T12:01:35+09:00"
+    },
+    {
+      "name": "食料品の消費税減税 高市首相が判断するとの見方強まる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015186841000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260727/K10015186841_2607262329_0727050130_01_02.jpg",
+      "datePublished": "2026-07-27T05:01:30+09:00"
+    },
+    {
+      "name": "高市首相 今夜6時から会見へ 今後の政権運営の方針など説明か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015187041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260727/K10015187041_2607270922_0727104553_01_02.jpg",
+      "datePublished": "2026-07-27T09:24:14+09:00"
+    },
+    {
+      "name": "秀吉が恭順の毛利側を盛大にもてなしたこと示す文書発見",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015186821000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260727/K10015186821_2607262120_0727051251_01_02.jpg",
+      "datePublished": "2026-07-27T05:12:50+09:00"
+    },
+    {
+      "name": "米国産生鮮ジャガイモ 輸入解禁手続き進む一方で懸念の声も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015186811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260727/K10015186811_2607262145_0727070700_01_02.jpg",
+      "datePublished": "2026-07-27T07:06:59+09:00"
+    },
+    {
+      "name": "ホワイトソックス 村上宗隆 1試合2本塁打 6打点の大活躍",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015186951000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260727/K10015186951_2607270512_0727051646_01_02.jpg",
+      "datePublished": "2026-07-27T08:43:50+09:00"
+    },
+    {
+      "name": "ぬいぐるみで話題 子ザル「パンチ」1歳 ファンが祝福 千葉",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015186521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260727/K10015186521_2607261511_0727075934_01_03.jpg",
+      "datePublished": "2026-07-27T07:59:33+09:00"
+    },
+    {
+      "name": "障害者施設殺傷事件から10年 ほんの少しでも“優しい社会に”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015186641000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260726/K10015186641_2607261743_0726193210_01_02.jpg",
+      "datePublished": "2026-07-26T19:32:09+09:00"
+    },
+    {
+      "name": "中学生のひと言が地域を動かした",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015182751000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260726/K10015182751_2607241151_0726171022_01_02.jpg",
+      "datePublished": "2026-07-26T17:10:21+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
