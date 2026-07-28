@@ -1,0 +1,165 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015189141000",
+  "dataSourceId": "na",
+  "name": "熊本 宇城 熊本南病院 停電で病院機能停止「まるで野戦病院」",
+  "headline": "熊本 宇城 熊本南病院 停電で病院機能停止「まるで野戦病院」",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015189141000",
+    "playlistId": "news-nwa-disaster-nationwide-20260729",
+    "newsarticleName": "熊本 宇城 熊本南病院 停電で病院機能停止「まるで野戦病院」",
+    "playlistName": "7月29日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "熊本県宇城市松橋町にある熊本南病院の管理課長によりますと、病院には地震が起きる前に高齢者を中心におよそ80人が入院していましたが、地震の影響で停電して、現在病院としての機能が停止しているということです",
+  "dateModified": "2026-07-29T00:19:11+09:00",
+  "datePublished": "2026-07-29T00:19:11+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260729/K10015189141_2607290013_0729001911_02_01.jpg",
+      "height": 630,
+      "width": 1200
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260729/K10015189141_2607290013_0729001911_01_02.jpg",
+      "height": 630,
+      "width": 1200
+    }
+  },
+  "genre": [
+    "気象・災害",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002860",
+      "name": "令和8年熊本地震",
+      "display": true
+    },
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0002243",
+      "name": "熊本県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "熊本県宇城市松橋町にある熊本南病院の管理課長によりますと、病院には地震が起きる前に高齢者を中心におよそ80人が入院していましたが、地震の影響で停電して、現在病院としての機能が停止しているということです",
+  "articleBody": "熊本県宇城市松橋町にある熊本南病院の管理課長によりますと、病院には地震が起きる前に高齢者を中心におよそ80人が入院していましたが、地震の影響で停電して、現在病院としての機能が停止しているということです。\n\n\nこのため、急きょ入院患者全員を転院させることを決め、余震などによる被害を防ぐために、応急的に屋外にベッドを置いたりマットを敷いたりして待機してもらっている状態で、すでに7時間余り経過したということです。\n\n管理課長は、「まるで野戦病院のようになってしまっていて、受け入れ先の病院を探しているものの見つかるかどうかわからない」と話しています。\n\nまた、患者の中には人工呼吸器が必要な人もいるということで、管理課長は「非常用の発電機2機を使って人工呼吸器など生命維持にかかわるものはかろうじて動かせているが、発電機を稼働させる重油は3日間分しかなく、今後手に入れられるか不安だ」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "熊本県宇城市松橋町にある熊本南病院の管理課長によりますと、病院には地震が起きる前に高齢者を中心におよそ80人が入院していましたが、地震の影響で停電して、現在病院としての機能が停止しているということです。\n",
+    "markedBody": "このため、急きょ入院患者全員を転院させることを決め、余震などによる被害を防ぐために、応急的に屋外にベッドを置いたりマットを敷いたりして待機してもらっている状態で、すでに7時間余り経過したということです。\n\n管理課長は、「まるで野戦病院のようになってしまっていて、受け入れ先の病院を探しているものの見つかるかどうかわからない」と話しています。\n\nまた、患者の中には人工呼吸器が必要な人もいるということで、管理課長は「非常用の発電機2機を使って人工呼吸器など生命維持にかかわるものはかろうじて動かせているが、発電機を稼働させる重油は3日間分しかなく、今後手に入れられるか不安だ」と話しています。\n",
+    "trimmedLead": "熊本県宇城市松橋町にある熊本南病院の管理課長によりますと、病院には地震が起きる前に高齢者を中心におよそ80人が入院していましたが、地震の影響で停電して、現在病院としての機能が停止しているということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015189141000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015189141000",
+  "video": [],
+  "citation": [
+    {
+      "name": "イオンモール熊本「ガスが漏れていたと報告」 10人安否不明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188721_2607290004_0729000935_01_03.jpg",
+      "datePublished": "2026-07-29T00:58:04+09:00"
+    },
+    {
+      "name": "熊本で震度7 複数の安否不明者 被害の全容つかめず",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188221_2607281633_0728163641_01_02.jpg",
+      "datePublished": "2026-07-28T22:58:35+09:00"
+    },
+    {
+      "name": "熊本 氷川町の八代北部地域医療センターで約80人が手当て",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188641000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188641_2607281942_0728194352_01_02.jpg",
+      "datePublished": "2026-07-29T00:53:38+09:00"
+    },
+    {
+      "name": "熊本 八代 道路の高架で被害か 上空からの映像",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188611000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188611_2607281752_0728175302_01_02.jpg",
+      "datePublished": "2026-07-28T18:01:54+09:00"
+    },
+    {
+      "name": "【地震】熊本 八代 植柳橋の一部が川に崩落 上空からの映像",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188631000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188631_2607281808_0728181127_01_03.jpg",
+      "datePublished": "2026-07-28T19:15:08+09:00"
+    },
+    {
+      "name": "熊本 八代 日本製紙の工場 2人が心肺停止 9人が安否不明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188691_2607282145_0728214725_01_03.jpg",
+      "datePublished": "2026-07-29T00:48:30+09:00"
+    },
+    {
+      "name": "熊本で震度7「2016年の熊本地震と似ている」気象庁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188481000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188481_2607281712_0728172115_01_02.jpg",
+      "datePublished": "2026-07-28T21:57:00+09:00"
+    },
+    {
+      "name": "地震による交通への影響 鉄道 高速道路 航空など",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188621000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188621_2607281759_0728181159_01_02.jpg",
+      "datePublished": "2026-07-29T00:52:07+09:00"
+    },
+    {
+      "name": "【ライブ】熊本で震度7 各地の様子",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188251000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188251_2607281704_0728172231_01_02.jpg",
+      "datePublished": "2026-07-28T18:58:17+09:00"
+    },
+    {
+      "name": "【最新の地震情報】各地の震度・震源を詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/earthquake/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30060617.jpg"
+    },
+    {
+      "name": "地震発生 その時どう行動する!?",
+      "url": "https://news.web.nhk/newsweb/na/nc-790dbe02-3696-4956-b2ac-83401a4f8f5b",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045984.jpg"
+    },
+    {
+      "name": "NHKONE防災 災害リスク・備えをまとめて",
+      "url": "https://news.web.nhk/newsweb/sp/pl/editorial-nwa-0000000132",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30066327.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
