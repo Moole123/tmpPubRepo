@@ -1,0 +1,159 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015188821000",
+  "dataSourceId": "na",
+  "name": "【地震速報】熊本 宇城で震度5弱 津波の心配なし（19:03）",
+  "headline": "【地震速報】熊本 宇城で震度5弱 津波の心配なし（19:03）",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015188821000",
+    "playlistId": "news-nwa-disaster-nationwide-20260728",
+    "newsarticleName": "【地震速報】熊本 宇城で震度5弱 津波の心配なし（19:03）",
+    "playlistName": "7月28日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "２８日午後７時３分ごろ地震がありました。\nこの地震による津波の心配はありません。\n震源地は熊本県熊本地方で震源の深さは１０キロ、地震の規模を示すマグニチュードは４．２と推定されます。\n各市町村の震度は",
+  "dateModified": "2026-07-28T19:13:17+09:00",
+  "datePublished": "2026-07-28T19:07:21+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260728/K10015188821_2607281907_0728191318_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260728/K10015188821_2607281907_0728191318_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0002243",
+      "name": "熊本県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "２８日午後７時３分ごろ地震がありました。\nこの地震による津波の心配はありません。\n震源地は熊本県熊本地方で震源の深さは１０キロ、地震の規模を示すマグニチュードは４．２と推定されます。\n各市町村の震度は",
+  "articleBody": "２８日午後７時３分ごろ地震がありました。\nこの地震による津波の心配はありません。\n震源地は熊本県熊本地方で震源の深さは１０キロ、地震の規模を示すマグニチュードは４．２と推定されます。\n各市町村の震度は以下のとおりです。\n▼震度５弱が、熊本県宇城市。\n▼震度４が、熊本市南区。\n▼震度３が、熊本市西区、熊本県八代市、熊本県宇土市、熊本県美里町。\n\n\n２８日午後７時３分ごろ地震がありました。\n",
+  "detailedArticleBody": {
+    "markedLead": "２８日午後７時３分ごろ地震がありました。\\\nこの地震による津波の心配はありません。\\\n震源地は熊本県熊本地方で震源の深さは１０キロ、地震の規模を示すマグニチュードは４．２と推定されます。\\\n各市町村の震度は以下のとおりです。\\\n▼震度５弱が、熊本県宇城市。\\\n▼震度４が、熊本市南区。\\\n▼震度３が、熊本市西区、熊本県八代市、熊本県宇土市、熊本県美里町。\n",
+    "markedBody": "２８日午後７時３分ごろ地震がありました。\n",
+    "trimmedLead": "２８日午後７時３分ごろ地震がありました。\nこの地震による津波の心配はありません。\n震源地は熊本県熊本地方で震源の深さは１０キロ、地震の規模を示すマグニチュードは４．２と推定されます。\n各市町村の震度は以下のとおりです。\n▼震度５弱が、熊本県宇城市。\n▼震度４が、熊本市南区。\n▼震度３が、熊本市西区、熊本県八代市、熊本県宇土市、熊本県美里町。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015188821000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015188821000",
+  "video": [],
+  "citation": [
+    {
+      "name": "【速報】イオンモール熊本で爆発 多数閉じ込め 救助の準備進む",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188721_2607281913_0728191402_01_03.jpg",
+      "datePublished": "2026-07-28T20:02:15+09:00"
+    },
+    {
+      "name": "熊本で震度7 けが人多数 交通網遮断 被害全容つかめず",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188221_2607281633_0728163641_01_02.jpg",
+      "datePublished": "2026-07-28T20:21:04+09:00"
+    },
+    {
+      "name": "熊本 氷川町 地震影響で少なくとも50人以上けがなどで搬送か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188641000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188641_2607281942_0728194352_01_02.jpg",
+      "datePublished": "2026-07-28T20:07:03+09:00"
+    },
+    {
+      "name": "熊本 八代 道路の高架で被害か 上空からの映像",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188611000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188611_2607281752_0728175302_01_02.jpg",
+      "datePublished": "2026-07-28T18:01:54+09:00"
+    },
+    {
+      "name": "【地震】熊本 八代 植柳橋の一部が川に崩落 上空からの映像",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188631000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188631_2607281808_0728181127_01_03.jpg",
+      "datePublished": "2026-07-28T19:15:08+09:00"
+    },
+    {
+      "name": "【地震】熊本 八代 工場の煙突が折れる 上空からの映像",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188691_2607281817_0728182011_01_02.jpg",
+      "datePublished": "2026-07-28T18:48:54+09:00"
+    },
+    {
+      "name": "【ライブ予定】熊本で震度7 気象庁が午後8時半から再び会見へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188481000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188481_2607281712_0728172115_01_02.jpg",
+      "datePublished": "2026-07-28T20:16:09+09:00"
+    },
+    {
+      "name": "地震による交通への影響 鉄道 高速道路 航空など",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188621000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188621_2607281759_0728181159_01_02.jpg",
+      "datePublished": "2026-07-28T20:15:39+09:00"
+    },
+    {
+      "name": "【ライブ】熊本で震度7 各地の様子",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188251000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188251_2607281704_0728172231_01_02.jpg",
+      "datePublished": "2026-07-28T18:58:17+09:00"
+    },
+    {
+      "name": "【最新の地震情報】各地の震度・震源を詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/earthquake/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30060617.jpg"
+    },
+    {
+      "name": "地震発生 その時どう行動する!?",
+      "url": "https://news.web.nhk/newsweb/na/nc-790dbe02-3696-4956-b2ac-83401a4f8f5b",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045984.jpg"
+    },
+    {
+      "name": "NHKONE防災 災害リスク・備えをまとめて",
+      "url": "https://news.web.nhk/newsweb/sp/pl/editorial-nwa-0000000132",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30066327.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
