@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015189331000",
+  "dataSourceId": "na",
+  "name": "東京 八丈町にレベル4土砂災害危険警報 厳重警戒を",
+  "headline": "東京 八丈町にレベル4土砂災害危険警報 厳重警戒を",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015189331000",
+    "playlistId": "news-nwa-disaster-nationwide-20260729",
+    "newsarticleName": "東京 八丈町にレベル4土砂災害危険警報 厳重警戒を",
+    "playlistName": "7月29日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "気象庁は29日午前6時31分、東京 八丈町に「レベル4土砂災害危険警報」を発表しました。\n\n土砂災害の危険性が非常に高くなっているため、厳重な警戒が必要です。\n\n気象庁は、自治体からの避難の情報を確認",
+  "dateModified": "2026-07-29T07:52:59+09:00",
+  "datePublished": "2026-07-29T06:45:59+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260729/K10015189331_2607290642_0729064600_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260729/K10015189331_2607290642_0729064600_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002617",
+      "name": "大雨情報",
+      "display": true
+    },
+    {
+      "id": "0002213",
+      "name": "東京都",
+      "display": true
+    },
+    {
+      "id": "0000035",
+      "name": "気象",
+      "display": true
+    },
+    {
+      "id": "0002810",
+      "name": "新たな防災気象情報(2026）",
+      "display": true
+    },
+    {
+      "id": "0002716",
+      "name": "気象庁",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "気象庁は29日午前6時31分、東京 八丈町に「レベル4土砂災害危険警報」を発表しました。\n\n土砂災害の危険性が非常に高くなっているため、厳重な警戒が必要です。\n\n気象庁は、自治体からの避難の情報を確認",
+  "articleBody": "気象庁は29日午前6時31分、東京 八丈町に「レベル4土砂災害危険警報」を発表しました。\n\n土砂災害の危険性が非常に高くなっているため、厳重な警戒が必要です。\n\n気象庁は、自治体からの避難の情報を確認し、崖の近くなど危険な場所にいる人は速やかに安全な場所に避難するよう呼びかけています。\n\n\n八丈町 役場に職員が集まり対応\n\n八丈町役場では、29日朝から職員たちが集まって対応にあたっているということです。\n\n役場によりますと、午前7時現在、被害の情報は寄せられていませんが、「線状降水帯」の発生が予想されるため、防災無線やホームページを通じて注意を呼びかけているということです。\n\n八丈町防災対策課の土屋巧課長は「朝6時半ごろから雨が降り始め、雷も激しいです。情報収集を行いながら注意を呼びかけていきたい」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "気象庁は29日午前6時31分、東京 八丈町に「レベル4土砂災害危険警報」を発表しました。\n\n土砂災害の危険性が非常に高くなっているため、厳重な警戒が必要です。\n\n気象庁は、自治体からの避難の情報を確認し、崖の近くなど危険な場所にいる人は速やかに安全な場所に避難するよう呼びかけています。\n",
+    "markedBody": "### 八丈町 役場に職員が集まり対応\n\n八丈町役場では、29日朝から職員たちが集まって対応にあたっているということです。\n\n役場によりますと、午前7時現在、被害の情報は寄せられていませんが、「線状降水帯」の発生が予想されるため、防災無線やホームページを通じて注意を呼びかけているということです。\n\n八丈町防災対策課の土屋巧課長は「朝6時半ごろから雨が降り始め、雷も激しいです。情報収集を行いながら注意を呼びかけていきたい」と話していました。\n",
+    "trimmedLead": "気象庁は29日午前6時31分、東京 八丈町に「レベル4土砂災害危険警報」を発表しました。\n\n土砂災害の危険性が非常に高くなっているため、厳重な警戒が必要です。\n\n気象庁は、自治体からの避難の情報を確認し、崖の近くなど危険な場所にいる人は速やかに安全な場所に避難するよう呼びかけています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015189331000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015189331000",
+  "video": [],
+  "citation": [
+    {
+      "name": "線状降水帯とは？情報が出たらどうする？",
+      "url": "https://news.web.nhk/newsweb/na/nc-5092b435-f5e7-4767-a457-1c7aac190df9",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31369309.jpg"
+    },
+    {
+      "name": "天気防災マップ ふだんの雨雲予想から災害時のリスク情報まで",
+      "url": "https://news.web.nhk/bousai-map/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037154.jpg"
+    },
+    {
+      "name": "天気防災サイト あなたの街の天気予報や災害情報を即時提供",
+      "url": "https://news.web.nhk/kishou-saigai/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037196.jpg"
+    },
+    {
+      "name": "「記録的短時間大雨」とは? どう身を守る?",
+      "url": "https://news.web.nhk/newsweb/na/nc-2cb59e60-dc2e-4535-a3f0-9c825e2e34a8",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31369867.jpg"
+    },
+    {
+      "name": "新たな防災気象情報と避難 いつ避難する？",
+      "url": "https://news.web.nhk/newsweb/na/nc-73478668-2271-4d37-85e6-639be6f2927c",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31369801.jpg"
+    },
+    {
+      "name": "土砂災害 警戒や避難のポイントは？",
+      "url": "https://news.web.nhk/newsweb/na/nc-d921faff-fdcd-4223-b396-f948340c5c1c",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_19407491.jpg"
+    },
+    {
+      "name": "川の氾濫 警戒のポイントは？",
+      "url": "https://news.web.nhk/newsweb/na/nc-1c290155-b464-4391-95b8-2f9687fa1f25",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_19407469.jpg"
+    },
+    {
+      "name": "【最新の避難情報】こちらから地域別でご覧になれます",
+      "url": "https://news.web.nhk/kishou-saigai/evacuation/",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30044177.jpg"
+    },
+    {
+      "name": "【最新の河川情報】こちらから一覧でご覧になれます",
+      "url": "https://news.web.nhk/kishou-saigai/river/",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30044093.jpg"
+    },
+    {
+      "name": "【気象警報・注意報】各地の発表状況を詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/warning/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30060699.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
