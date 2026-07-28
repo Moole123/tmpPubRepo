@@ -1,0 +1,162 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015188571000",
+  "dataSourceId": "na",
+  "name": "【地震】熊本空港 滑走路の閉鎖が続く 欠航相次いで決定",
+  "headline": "【地震】熊本空港 滑走路の閉鎖が続く 欠航相次いで決定",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015188571000",
+    "playlistId": "news-nwa-disaster-nationwide-20260728",
+    "newsarticleName": "【地震】熊本空港 滑走路の閉鎖が続く 欠航相次いで決定",
+    "playlistName": "7月28日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "航空各社によりますと、震度6強の揺れを観測した熊本県益城町にある熊本空港では、午後5時半現在で滑走路の点検などのため閉鎖が続いていて、相次いで欠航が決まっています。\n\n\n日本航空によりますと、熊本空港",
+  "dateModified": "2026-07-28T17:59:08+09:00",
+  "datePublished": "2026-07-28T17:45:36+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260728/K10015188571_2607281740_0728174536_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260728/K10015188571_2607281740_0728174536_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0002243",
+      "name": "熊本県",
+      "display": true
+    },
+    {
+      "id": "0002424",
+      "name": "航空",
+      "display": true
+    },
+    {
+      "id": "0002683",
+      "name": "交通・インフラ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "航空各社によりますと、震度6強の揺れを観測した熊本県益城町にある熊本空港では、午後5時半現在で滑走路の点検などのため閉鎖が続いていて、相次いで欠航が決まっています。\n\n\n日本航空によりますと、熊本空港",
+  "articleBody": "航空各社によりますと、震度6強の揺れを観測した熊本県益城町にある熊本空港では、午後5時半現在で滑走路の点検などのため閉鎖が続いていて、相次いで欠航が決まっています。\n\n\n日本航空によりますと、熊本空港を発着する6便で欠航が決まったということです。\n\nこのほか、羽田空港から熊本空港に向かう1便について、目的地を広島空港に変更したということです。\n\nまた、全日空によりますと、熊本空港を発着する4便で欠航が決まりました。\n\n航空各社ではホームページなどで最新の情報を確認してほしいと呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "航空各社によりますと、震度6強の揺れを観測した熊本県益城町にある熊本空港では、午後5時半現在で滑走路の点検などのため閉鎖が続いていて、相次いで欠航が決まっています。\n",
+    "markedBody": "日本航空によりますと、熊本空港を発着する6便で欠航が決まったということです。\n\nこのほか、羽田空港から熊本空港に向かう1便について、目的地を広島空港に変更したということです。\n\nまた、全日空によりますと、熊本空港を発着する4便で欠航が決まりました。\n\n航空各社ではホームページなどで最新の情報を確認してほしいと呼びかけています。\n",
+    "trimmedLead": "航空各社によりますと、震度6強の揺れを観測した熊本県益城町にある熊本空港では、午後5時半現在で滑走路の点検などのため閉鎖が続いていて、相次いで欠航が決まっています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015188571000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015188571000",
+  "video": [],
+  "citation": [
+    {
+      "name": "熊本 宇城市と氷川町で震度7 有明・八代海に津波注意報",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188221_2607281633_0728163641_01_02.jpg",
+      "datePublished": "2026-07-28T17:51:36+09:00"
+    },
+    {
+      "name": "【津波情報】有明・八代海に津波注意報",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188241000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188241_2607281631_0728163316_01_02.jpg",
+      "datePublished": "2026-07-28T17:39:34+09:00"
+    },
+    {
+      "name": "震度7 揺れで警戒すべきことは？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188281000",
+      "thumbnailUrl": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png",
+      "datePublished": "2026-07-28T16:43:31+09:00"
+    },
+    {
+      "name": "【ライブ】熊本で震度7 各地の様子",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188251000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188251_2607281704_0728172231_01_02.jpg",
+      "datePublished": "2026-07-28T17:32:59+09:00"
+    },
+    {
+      "name": "【地震】 JR九州 九州のすべての列車の運転を見合わせ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188271000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188271_2607281641_0728164239_01_02.jpg",
+      "datePublished": "2026-07-28T18:00:58+09:00"
+    },
+    {
+      "name": "長周期地震動 熊本県熊本地方で階級4を観測",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188391000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188391_2607281707_0728170801_01_02.jpg",
+      "datePublished": "2026-07-28T17:03:10+09:00"
+    },
+    {
+      "name": "【震度7】熊本 嘉島町と甲佐町で震度が把握できず 気象庁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188351000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188351_2607281654_0728165500_01_02.jpg",
+      "datePublished": "2026-07-28T16:52:44+09:00"
+    },
+    {
+      "name": "【最新の地震情報】各地の震度・震源を詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/earthquake/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30060617.jpg"
+    },
+    {
+      "name": "地震発生 その時どう行動する!?",
+      "url": "https://news.web.nhk/newsweb/na/nc-790dbe02-3696-4956-b2ac-83401a4f8f5b",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045984.jpg"
+    },
+    {
+      "name": "地震マップ 最新の震度分布・震源をリアルタイム更新",
+      "url": "https://news.web.nhk/bousai-map/earthquake/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31036920.jpg"
+    },
+    {
+      "name": "NHKONE防災 災害リスク・備えをまとめて",
+      "url": "https://news.web.nhk/newsweb/sp/pl/editorial-nwa-0000000132",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30066327.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

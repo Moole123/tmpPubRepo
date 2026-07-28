@@ -1,0 +1,149 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015188441000",
+  "dataSourceId": "na",
+  "name": "【地震】佐賀 玄海原発 これまでのところ異常確認されず",
+  "headline": "【地震】佐賀 玄海原発 これまでのところ異常確認されず",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015188441000",
+    "playlistId": "news-nwa-disaster-nationwide-20260728",
+    "newsarticleName": "【地震】佐賀 玄海原発 これまでのところ異常確認されず",
+    "playlistName": "7月28日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "九州電力によりますと、佐賀県玄海町にある玄海原子力発電所は、これまでのところ、地震による異常は確認されていないということです。\n\nまた、原発周辺の放射線量を測定するモニタリングポストの値にも変化はない",
+  "dateModified": "2026-07-28T17:07:34+09:00",
+  "datePublished": "2026-07-28T17:07:34+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260728/K10015188441_2607281703_0728170735_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260728/K10015188441_2607281703_0728170735_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0000021",
+      "name": "原発",
+      "display": true
+    },
+    {
+      "id": "0002241",
+      "name": "佐賀県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "九州電力によりますと、佐賀県玄海町にある玄海原子力発電所は、これまでのところ、地震による異常は確認されていないということです。\n\nまた、原発周辺の放射線量を測定するモニタリングポストの値にも変化はない",
+  "articleBody": "九州電力によりますと、佐賀県玄海町にある玄海原子力発電所は、これまでのところ、地震による異常は確認されていないということです。\n\nまた、原発周辺の放射線量を測定するモニタリングポストの値にも変化はないということです。\n\n\n玄海原発は、3号機と4号機が再稼働していて、3号機は定期検査中、4号機は運転中となっています。\n\n1号機と2号機は廃炉作業が進められています。\n",
+  "detailedArticleBody": {
+    "markedLead": "九州電力によりますと、佐賀県玄海町にある玄海原子力発電所は、これまでのところ、地震による異常は確認されていないということです。\n\nまた、原発周辺の放射線量を測定するモニタリングポストの値にも変化はないということです。\n",
+    "markedBody": "玄海原発は、3号機と4号機が再稼働していて、3号機は定期検査中、4号機は運転中となっています。\n\n1号機と2号機は廃炉作業が進められています。\n",
+    "trimmedLead": "九州電力によりますと、佐賀県玄海町にある玄海原子力発電所は、これまでのところ、地震による異常は確認されていないということです。\n\nまた、原発周辺の放射線量を測定するモニタリングポストの値にも変化はないということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015188441000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015188441000",
+  "video": [],
+  "citation": [
+    {
+      "name": "熊本 宇城市と氷川町で震度7 有明・八代海に津波注意報",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188221_2607281633_0728163641_01_02.jpg",
+      "datePublished": "2026-07-28T17:51:36+09:00"
+    },
+    {
+      "name": "【津波情報】有明・八代海に津波注意報",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188241000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188241_2607281631_0728163316_01_02.jpg",
+      "datePublished": "2026-07-28T17:39:34+09:00"
+    },
+    {
+      "name": "震度7 揺れで警戒すべきことは？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188281000",
+      "thumbnailUrl": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png",
+      "datePublished": "2026-07-28T16:43:31+09:00"
+    },
+    {
+      "name": "【最新の地震情報】各地の震度・震源を詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/earthquake/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30060617.jpg"
+    },
+    {
+      "name": "地震発生 その時どう行動する!?",
+      "url": "https://news.web.nhk/newsweb/na/nc-790dbe02-3696-4956-b2ac-83401a4f8f5b",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045984.jpg"
+    },
+    {
+      "name": "地震マップ 最新の震度分布・震源をリアルタイム更新",
+      "url": "https://news.web.nhk/bousai-map/earthquake/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31036920.jpg"
+    },
+    {
+      "name": "災害時の偽情報や誤情報に注意 拡散で命にかかわるリスクも",
+      "url": "https://news.web.nhk/newsweb/na/nc-b777764c-a841-41c5-8a78-0b496adee8d9",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045938.jpg"
+    },
+    {
+      "name": "NHKONE防災 災害リスク・備えをまとめて",
+      "url": "https://news.web.nhk/newsweb/sp/pl/editorial-nwa-0000000132",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30066327.jpg"
+    },
+    {
+      "name": "天気防災サイト あなたの街の天気予報や災害情報を即時提供",
+      "url": "https://news.web.nhk/kishou-saigai/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037196.jpg"
+    },
+    {
+      "name": "天気防災マップ ふだんの雨雲予想から災害時のリスク情報まで",
+      "url": "https://news.web.nhk/bousai-map/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037154.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

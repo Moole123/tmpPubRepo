@@ -1,0 +1,134 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015188251000",
+  "dataSourceId": "na",
+  "name": "【ライブ】熊本で震度7 各地の様子",
+  "headline": "【ライブ】熊本で震度7 各地の様子",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015188251000",
+    "playlistId": "news-nwa-disaster-nationwide-20260728",
+    "newsarticleName": "【ライブ】熊本で震度7 各地の様子",
+    "playlistName": "7月28日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "28日午後4時27分、熊本県熊本地方を震源とする地震があり、熊本県の宇城市と氷川町で震度7の揺れを観測しました。\n\nこのほか、\n▼震度6強の揺れはいずれも熊本県で熊本市南区、八代市、宇土市、美里町、益",
+  "dateModified": "2026-07-28T17:32:59+09:00",
+  "datePublished": "2026-07-28T16:39:33+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260728/K10015188251_2607281704_0728172231_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260728/K10015188251_2607281704_0728172231_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002243",
+      "name": "熊本県",
+      "display": true
+    },
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "28日午後4時27分、熊本県熊本地方を震源とする地震があり、熊本県の宇城市と氷川町で震度7の揺れを観測しました。\n\nこのほか、\n▼震度6強の揺れはいずれも熊本県で熊本市南区、八代市、宇土市、美里町、益",
+  "articleBody": "28日午後4時27分、熊本県熊本地方を震源とする地震があり、熊本県の宇城市と氷川町で震度7の揺れを観測しました。\n\nこのほか、\n▼震度6強の揺れはいずれも熊本県で熊本市南区、八代市、宇土市、美里町、益城町です。\n\n▼震度6弱の揺れは熊本県の上天草市、合志市、大津町、西原村、御船町、芦北町で観測しました。\n\n気象庁の観測によりますと震源地は熊本県熊本地方、震源の深さは10キロ、地震の規模を示すマグニチュードは7.1と推定されています。\n\nこの地震で、津波注意報が有明・八代海に出されています。\n\n\n【詳しく】熊本県のニュース\n\n【詳しく】熊本県のニュース\n",
+  "detailedArticleBody": {
+    "markedLead": "28日午後4時27分、熊本県熊本地方を震源とする地震があり、熊本県の宇城市と氷川町で震度7の揺れを観測しました。\n\nこのほか、\\\n▼震度6強の揺れはいずれも熊本県で熊本市南区、八代市、宇土市、美里町、益城町です。\n\n▼震度6弱の揺れは熊本県の上天草市、合志市、大津町、西原村、御船町、芦北町で観測しました。\n\n気象庁の観測によりますと震源地は熊本県熊本地方、震源の深さは10キロ、地震の規模を示すマグニチュードは7.1と推定されています。\n\nこの地震で、津波注意報が有明・八代海に出されています。\n",
+    "markedBody": ":::nw--link-type4 {href=https://news.web.nhk/newsweb/area/430}\n![【詳しく】熊本県のニュース](https://news.web.nhk/news/html/20260728/K10015188251_2607281657_0728165850_02_03.jpg)\n\n**【詳しく】熊本県のニュース**\n:::\n\n```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"002\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\r\n<div class=\"fs-wrap\">\r\n  <h2 class=\"freespace-title\">【ライブ配信中】</h2>\r\n  <div class=\"video-player-fixed\">\r\n    <iframe src=\"https://news.web.nhk/n-data/conf/realtime/movie/player_rt0012929_02_v3.html\" allowfullscreen=\"allowfullscreen\"></iframe>\r\n  </div>\r\n</div>\n</div>\n```\n\n```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"003\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\r\n<div class=\"fs-wrap\">\r\n  <h2 class=\"freespace-title\">【ライブ配信中】</h2>\r\n  <div class=\"video-player-fixed\">\r\n    <iframe src=\"https://news.web.nhk/n-data/conf/realtime/movie/player_rt0012929_06_v3.html\" allowfullscreen=\"allowfullscreen\"></iframe>\r\n  </div>\r\n</div>\n</div>\n```\n\n```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"004\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\r\n<div class=\"fs-wrap\">\r\n  <h2 class=\"freespace-title\">【ライブ配信中】</h2>\r\n  <div class=\"video-player-fixed\">\r\n    <iframe src=\"https://news.web.nhk/n-data/conf/realtime/movie/player_rt0012929_07_v3.html\" allowfullscreen=\"allowfullscreen\"></iframe>\r\n  </div>\r\n</div>\n</div>\n```\n\n```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"005\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\r\n<div class=\"fs-wrap\">\r\n  <h2 class=\"freespace-title\">【ライブ配信中】</h2>\r\n  <div class=\"video-player-fixed\">\r\n    <iframe src=\"https://news.web.nhk/n-data/conf/realtime/movie/player_rt0012929_08_v3.html\" allowfullscreen=\"allowfullscreen\"></iframe>\r\n  </div>\r\n</div>\n</div>\n```\n\n```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"006\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\r\n<div class=\"fs-wrap\">\r\n  <h2 class=\"freespace-title\">【ライブ配信中】</h2>\r\n  <div class=\"video-player-fixed\">\r\n    <iframe src=\"https://news.web.nhk/n-data/conf/realtime/movie/player_rt0012929_05_v3.html\" allowfullscreen=\"allowfullscreen\"></iframe>\r\n  </div>\r\n</div>\n</div>\n```\n",
+    "noHtmlMarkedLead": "28日午後4時27分、熊本県熊本地方を震源とする地震があり、熊本県の宇城市と氷川町で震度7の揺れを観測しました。\n\nこのほか、\\\n▼震度6強の揺れはいずれも熊本県で熊本市南区、八代市、宇土市、美里町、益城町です。\n\n▼震度6弱の揺れは熊本県の上天草市、合志市、大津町、西原村、御船町、芦北町で観測しました。\n\n気象庁の観測によりますと震源地は熊本県熊本地方、震源の深さは10キロ、地震の規模を示すマグニチュードは7.1と推定されています。\n\nこの地震で、津波注意報が有明・八代海に出されています。\n",
+    "noHtmlMarkedBody": ":::nw--link-type4 {href=https://news.web.nhk/newsweb/area/430}\n![【詳しく】熊本県のニュース](https://news.web.nhk/news/html/20260728/K10015188251_2607281657_0728165850_02_03.jpg)\n\n**【詳しく】熊本県のニュース**\n:::\n",
+    "trimmedLead": "28日午後4時27分、熊本県熊本地方を震源とする地震があり、熊本県の宇城市と氷川町で震度7の揺れを観測しました。\n\nこのほか、\n▼震度6強の揺れはいずれも熊本県で熊本市南区、八代市、宇土市、美里町、益城町です。\n\n▼震度6弱の揺れは熊本県の上天草市、合志市、大津町、西原村、御船町、芦北町で観測しました。\n\n気象庁の観測によりますと震源地は熊本県熊本地方、震源の深さは10キロ、地震の規模を示すマグニチュードは7.1と推定されています。\n\nこの地震で、津波注意報が有明・八代海に出されています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015188251000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015188251000",
+  "video": [],
+  "citation": [
+    {
+      "name": "【津波情報】有明・八代海に津波注意報",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188241000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188241_2607281631_0728163316_01_02.jpg",
+      "datePublished": "2026-07-28T17:39:34+09:00"
+    },
+    {
+      "name": "熊本 宇城市と氷川町で震度7 有明・八代海に津波注意報",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188221_2607281633_0728163641_01_02.jpg",
+      "datePublished": "2026-07-28T17:51:36+09:00"
+    },
+    {
+      "name": "【震度7】熊本 宇城警察署「立っていられないような強い揺れ」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188321000",
+      "thumbnailUrl": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png",
+      "datePublished": "2026-07-28T16:48:20+09:00"
+    },
+    {
+      "name": "震度7 揺れで警戒すべきことは？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188281000",
+      "thumbnailUrl": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png",
+      "datePublished": "2026-07-28T16:43:31+09:00"
+    },
+    {
+      "name": "【地震】 JR九州 九州のすべての列車の運転を見合わせ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188271000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188271_2607281641_0728164239_01_02.jpg",
+      "datePublished": "2026-07-28T18:00:58+09:00"
+    },
+    {
+      "name": "木原官房長官 「人的 物的被害は現在確認中」熊本県で震度7",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188261000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188261_2607281736_0728174142_01_02.jpg",
+      "datePublished": "2026-07-28T17:41:41+09:00"
+    },
+    {
+      "name": "【震度7】熊本 嘉島町と甲佐町で震度が把握できず 気象庁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188351000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188351_2607281654_0728165500_01_02.jpg",
+      "datePublished": "2026-07-28T16:52:44+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": true
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015188501000",
+  "dataSourceId": "na",
+  "name": "【地震】熊本県内 地震発生時の映像",
+  "headline": "【地震】熊本県内 地震発生時の映像",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015188501000",
+    "playlistId": "news-nwa-disaster-nationwide-20260728",
+    "newsarticleName": "【地震】熊本県内 地震発生時の映像",
+    "playlistName": "7月28日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "28日午後4時27分、熊本県熊本地方を震源とする地震があり、熊本県の宇城市と氷川町で震度7の揺れを観測しました。\n\n揺れの強かった地域の地震発生時の映像です。\n\n\n宇城市\n\n震度7の揺れを観測した宇城",
+  "dateModified": "2026-07-28T17:55:29+09:00",
+  "datePublished": "2026-07-28T17:55:29+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260728/K10015188501_2607281736_0728175530_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260728/K10015188501_2607281736_0728175530_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0002243",
+      "name": "熊本県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "28日午後4時27分、熊本県熊本地方を震源とする地震があり、熊本県の宇城市と氷川町で震度7の揺れを観測しました。\n\n揺れの強かった地域の地震発生時の映像です。\n\n\n宇城市\n\n震度7の揺れを観測した宇城",
+  "articleBody": "28日午後4時27分、熊本県熊本地方を震源とする地震があり、熊本県の宇城市と氷川町で震度7の揺れを観測しました。\n\n揺れの強かった地域の地震発生時の映像です。\n\n\n宇城市\n\n震度7の揺れを観測した宇城市の映像です。\n\n熊本空港（益城町）\n\n震度6強の揺れを観測した益城町の熊本空港の映像です。\n\n熊本市\n\n熊本市の映像です。\n\n水俣市\n\n震度5強の揺れを観測した水俣市の映像です。\n",
+  "detailedArticleBody": {
+    "markedLead": "28日午後4時27分、熊本県熊本地方を震源とする地震があり、熊本県の宇城市と氷川町で震度7の揺れを観測しました。\n\n揺れの強かった地域の地震発生時の映像です。\n",
+    "markedBody": "### 宇城市\n\n```raw-html\n<figure class=\"nw--video\">\n<iframe loading=\"lazy\" data-video-id=\"k10015188501_202607281727_202607281741\" src=\"https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015188501_202607281727_202607281741/index.m3u8&amp;mrposter=/news/html/20260728/K10015188501_2607281736_0728175530_02_04.jpg\" allowfullscreen></iframe>\n</figure>\n```\n\n震度7の揺れを観測した宇城市の映像です。\n\n### 熊本空港（益城町）\n\n```raw-html\n<figure class=\"nw--video\">\n<iframe loading=\"lazy\" data-video-id=\"k10015188501_202607281727_202607281742\" src=\"https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015188501_202607281727_202607281742/index.m3u8&amp;mrposter=/news/html/20260728/K10015188501_2607281735_0728175530_02_06.jpg\" allowfullscreen></iframe>\n</figure>\n```\n\n震度6強の揺れを観測した益城町の熊本空港の映像です。\n\n### 熊本市\n\n```raw-html\n<figure class=\"nw--video\">\n<iframe loading=\"lazy\" data-video-id=\"k10015188501_202607281727_202607281743\" src=\"https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015188501_202607281727_202607281743/index.m3u8&amp;mrposter=/news/html/20260728/K10015188501_2607281735_0728175530_02_08.jpg\" allowfullscreen></iframe>\n</figure>\n```\n\n熊本市の映像です。\n\n### 水俣市\n\n```raw-html\n<figure class=\"nw--video\">\n<iframe loading=\"lazy\" data-video-id=\"k10015188501_202607281726_202607281744\" src=\"https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015188501_202607281726_202607281744/index.m3u8&amp;mrposter=/news/html/20260728/K10015188501_2607281735_0728175530_02_10.jpg\" allowfullscreen></iframe>\n</figure>\n```\n\n震度5強の揺れを観測した水俣市の映像です。\n",
+    "noHtmlMarkedLead": "28日午後4時27分、熊本県熊本地方を震源とする地震があり、熊本県の宇城市と氷川町で震度7の揺れを観測しました。\n\n揺れの強かった地域の地震発生時の映像です。\n",
+    "noHtmlMarkedBody": "### 宇城市\n\n震度7の揺れを観測した宇城市の映像です。\n\n### 熊本空港（益城町）\n\n震度6強の揺れを観測した益城町の熊本空港の映像です。\n\n### 熊本市\n\n熊本市の映像です。\n\n### 水俣市\n\n震度5強の揺れを観測した水俣市の映像です。\n",
+    "trimmedLead": "28日午後4時27分、熊本県熊本地方を震源とする地震があり、熊本県の宇城市と氷川町で震度7の揺れを観測しました。\n\n揺れの強かった地域の地震発生時の映像です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015188501000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015188501000",
+  "video": [],
+  "citation": [
+    {
+      "name": "熊本 宇城市と氷川町で震度7 有明・八代海に津波注意報",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188221_2607281633_0728163641_01_02.jpg",
+      "datePublished": "2026-07-28T17:51:36+09:00"
+    },
+    {
+      "name": "【津波情報】有明・八代海に津波注意報",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188241000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188241_2607281631_0728163316_01_02.jpg",
+      "datePublished": "2026-07-28T17:39:34+09:00"
+    },
+    {
+      "name": "震度7 揺れで警戒すべきことは？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188281000",
+      "thumbnailUrl": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png",
+      "datePublished": "2026-07-28T16:43:31+09:00"
+    },
+    {
+      "name": "【ライブ】熊本で震度7 各地の様子",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188251000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188251_2607281704_0728172231_01_02.jpg",
+      "datePublished": "2026-07-28T17:32:59+09:00"
+    },
+    {
+      "name": "【地震】 JR九州 九州のすべての列車の運転を見合わせ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188271000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188271_2607281641_0728164239_01_02.jpg",
+      "datePublished": "2026-07-28T18:00:58+09:00"
+    },
+    {
+      "name": "長周期地震動 熊本県熊本地方で階級4を観測",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188391000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188391_2607281707_0728170801_01_02.jpg",
+      "datePublished": "2026-07-28T17:03:10+09:00"
+    },
+    {
+      "name": "【震度7】熊本 嘉島町と甲佐町で震度が把握できず 気象庁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188351000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188351_2607281654_0728165500_01_02.jpg",
+      "datePublished": "2026-07-28T16:52:44+09:00"
+    },
+    {
+      "name": "【最新の地震情報】各地の震度・震源を詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/earthquake/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30060617.jpg"
+    },
+    {
+      "name": "地震発生 その時どう行動する!?",
+      "url": "https://news.web.nhk/newsweb/na/nc-790dbe02-3696-4956-b2ac-83401a4f8f5b",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30045984.jpg"
+    },
+    {
+      "name": "地震マップ 最新の震度分布・震源をリアルタイム更新",
+      "url": "https://news.web.nhk/bousai-map/earthquake/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31036920.jpg"
+    },
+    {
+      "name": "NHKONE防災 災害リスク・備えをまとめて",
+      "url": "https://news.web.nhk/newsweb/sp/pl/editorial-nwa-0000000132",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30066327.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": true
+  }
+}
