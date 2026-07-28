@@ -1,0 +1,157 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015187701000",
+  "dataSourceId": "na",
+  "name": "高市首相動静 2026年7月27日",
+  "headline": "高市首相動静 2026年7月27日",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015187701000",
+    "playlistId": "news-nwa-politics-nationwide-20260728",
+    "newsarticleName": "高市首相動静 2026年7月27日",
+    "playlistName": "7月28日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "（高市首相動静 2026年7月27日）\n\n\n08:49 公邸発\n08:50 国会着\n08:53 衆議院第1委員室入る\n09:01 衆議院予算委員会開会\n12:05 衆議院予算委員会散会\n12:06 同",
+  "dateModified": "2026-07-28T10:23:14+09:00",
+  "datePublished": "2026-07-28T10:23:14+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260728/K10015187701_2607281020_0728102314_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260728/K10015187701_2607281020_0728102314_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0002532",
+      "name": "首相動静",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "（高市首相動静 2026年7月27日）\n\n\n08:49 公邸発\n08:50 国会着\n08:53 衆議院第1委員室入る\n09:01 衆議院予算委員会開会\n12:05 衆議院予算委員会散会\n12:06 同",
+  "articleBody": "（高市首相動静 2026年7月27日）\n\n\n08:49 公邸発\n08:50 国会着\n08:53 衆議院第1委員室入る\n09:01 衆議院予算委員会開会\n12:05 衆議院予算委員会散会\n12:06 同室出る\n12:08 国会発\n12:10 官邸着\n18:00 記者会見（～18:58）\n19:36 徒歩で官邸発\n19:37 公邸着\n",
+  "detailedArticleBody": {
+    "markedLead": "（高市首相動静 2026年7月27日）\n",
+    "markedBody": "08:49 公邸発\\\n08:50 国会着\\\n08:53 衆議院第1委員室入る\\\n09:01 衆議院予算委員会開会\\\n12:05 衆議院予算委員会散会\\\n12:06 同室出る\\\n12:08 国会発\\\n12:10 官邸着\\\n18:00 記者会見（～18:58）\\\n19:36 徒歩で官邸発\\\n19:37 公邸着\n",
+    "trimmedLead": "（高市首相動静 2026年7月27日）\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015187701000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015187701000",
+  "video": [],
+  "citation": [
+    {
+      "name": "消費税減税 自民内税率1％案で進めるべきの意見も 首相判断へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015187501000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015187501_2607272110_0728051125_01_02.jpg",
+      "datePublished": "2026-07-28T11:11:42+09:00"
+    },
+    {
+      "name": "北陸で大雨 石川にレベル4大雨危険警報 東日本大雨のおそれ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015187561000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015187561_2607280911_0728091219_01_03.jpg",
+      "datePublished": "2026-07-28T10:52:53+09:00"
+    },
+    {
+      "name": "台風13号発生 今後勢力を強める予想",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015187271000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260727/K10015187271_2607271928_0727195739_01_02.jpg",
+      "datePublished": "2026-07-27T19:57:38+09:00"
+    },
+    {
+      "name": "別の男性にも臓器移植手術あっせんか NPO元理事を再逮捕へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015187541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015187541_2607272133_0728055323_01_02.jpg",
+      "datePublished": "2026-07-28T05:53:22+09:00"
+    },
+    {
+      "name": "株価 一時2600円以上値下がり NY市場 半導体関連の値下がりで",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015187711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015187711_2607280935_0728095420_01_02.jpg",
+      "datePublished": "2026-07-28T09:54:19+09:00"
+    },
+    {
+      "name": "辺野古沖転覆事故 遺族が校長や船長所属団体共同代表など告訴",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015187641000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015187641_2607272345_0728051419_01_02.jpg",
+      "datePublished": "2026-07-28T05:14:18+09:00"
+    },
+    {
+      "name": "作家 東野圭吾さん死去 読者や関係者から悼む声",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015187551000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015187551_2607272139_0728052310_01_02.jpg",
+      "datePublished": "2026-07-28T05:23:10+09:00"
+    },
+    {
+      "name": "ディズニーのチケット1万2000円超に 入園料値上げの動き相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015187511000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015187511_2607272119_0728084506_01_02.jpg",
+      "datePublished": "2026-07-28T08:45:05+09:00"
+    },
+    {
+      "name": "エディオン会長 ヤマダHDとの統合「対等の精神は譲れない」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015187521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015187521_2607272107_0728065931_01_02.jpg",
+      "datePublished": "2026-07-28T06:59:30+09:00"
+    },
+    {
+      "name": "ゼレンスキー大統領 “ロシアは最大で50万人の動員を計画”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015187691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015187691_2607280743_0728090638_01_02.jpg",
+      "datePublished": "2026-07-28T09:06:37+09:00"
+    },
+    {
+      "name": "福岡県議会問題 “中尾前副議長の声と同一の可能性高い”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015187091000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260727/K10015187091_2607271248_0727130437_01_03.jpg",
+      "datePublished": "2026-07-27T19:59:55+09:00"
+    },
+    {
+      "name": "「にらまないでほしい…」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015187081000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260727/K10015187081_2607271412_0727174052_01_02.jpg",
+      "datePublished": "2026-07-27T17:40:51+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
