@@ -1,0 +1,168 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015189911000",
+  "dataSourceId": "na",
+  "name": "熊本県のモニタリングポストのデータが欠測 停電が影響か",
+  "headline": "熊本県のモニタリングポストのデータが欠測 停電が影響か",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015189911000",
+    "playlistId": "news-nwa-disaster-nationwide-20260729",
+    "newsarticleName": "熊本県のモニタリングポストのデータが欠測 停電が影響か",
+    "playlistName": "7月29日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "原子力規制委員会は、地震で被害が出ている熊本県で放射線量を測定するために県内の6か所に設置されているモニタリングポストのデータが28日夜遅くから伝送されず、放射線量を把握できない状態が続いていると発表",
+  "dateModified": "2026-07-29T18:34:24+09:00",
+  "datePublished": "2026-07-29T18:34:24+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260729/K10015189911_2607291638_0729183424_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260729/K10015189911_2607291638_0729183424_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002708",
+      "name": "原子力規制委員会",
+      "display": true
+    },
+    {
+      "id": "0002243",
+      "name": "熊本県",
+      "display": true
+    },
+    {
+      "id": "0000021",
+      "name": "原発",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "原子力規制委員会は、地震で被害が出ている熊本県で放射線量を測定するために県内の6か所に設置されているモニタリングポストのデータが28日夜遅くから伝送されず、放射線量を把握できない状態が続いていると発表",
+  "articleBody": "原子力規制委員会は、地震で被害が出ている熊本県で放射線量を測定するために県内の6か所に設置されているモニタリングポストのデータが28日夜遅くから伝送されず、放射線量を把握できない状態が続いていると発表しました。地震による停電の影響とみられ、復旧作業を急いでいます。\n\n\n原子力規制委員会によりますと、熊本県内では熊本市や宇土市など6か所に空間の放射線量を測定するモニタリングポストが設置されていますが、28日午後11時すぎから規制委員会のシステムにデータが伝送されず、放射線量を把握できない状態になっているということです。\n\nこれまでの調査で、宇土市に設置されているサーバーが地震による停電の影響で使えなくなったことが原因とみられるということで、規制委員会が復旧作業を急いでいます。\n\nモニタリングポストは原子力施設などからの影響を調べるために設置されていますが、28日午後に伝送された最後のデータは、いずれも通常の範囲だったということです。\n\nモニタリングポストをめぐっては、おととし1月の能登半島地震でも、石川県にある志賀原子力発電所の周辺のモニタリングポストの一部で、通信障害の影響で一時的にデータが送れなくなるトラブルが起きていて、災害時における機能の確保が課題になっています。\n\n規制委員会の山中伸介 委員長は記者会見で「熊本県内にあるモニタリングポストは、原発の周辺にあるものではないので心配する必要はないと考えている。万が一、データが必要になった場合は、持ち運びできる装置や航空機によるモニタリングで対応したい」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "原子力規制委員会は、地震で被害が出ている熊本県で放射線量を測定するために県内の6か所に設置されているモニタリングポストのデータが28日夜遅くから伝送されず、放射線量を把握できない状態が続いていると発表しました。地震による停電の影響とみられ、復旧作業を急いでいます。\n",
+    "markedBody": "原子力規制委員会によりますと、熊本県内では熊本市や宇土市など6か所に空間の放射線量を測定するモニタリングポストが設置されていますが、28日午後11時すぎから規制委員会のシステムにデータが伝送されず、放射線量を把握できない状態になっているということです。\n\nこれまでの調査で、宇土市に設置されているサーバーが地震による停電の影響で使えなくなったことが原因とみられるということで、規制委員会が復旧作業を急いでいます。\n\nモニタリングポストは原子力施設などからの影響を調べるために設置されていますが、28日午後に伝送された最後のデータは、いずれも通常の範囲だったということです。\n\nモニタリングポストをめぐっては、おととし1月の能登半島地震でも、石川県にある志賀原子力発電所の周辺のモニタリングポストの一部で、通信障害の影響で一時的にデータが送れなくなるトラブルが起きていて、災害時における機能の確保が課題になっています。\n\n![](https://news.web.nhk/news/html/20260729/K10015189911_2607291638_0729183424_02_03.jpg)\n\n規制委員会の山中伸介 委員長は記者会見で「熊本県内にあるモニタリングポストは、原発の周辺にあるものではないので心配する必要はないと考えている。万が一、データが必要になった場合は、持ち運びできる装置や航空機によるモニタリングで対応したい」と話していました。\n",
+    "trimmedLead": "原子力規制委員会は、地震で被害が出ている熊本県で放射線量を測定するために県内の6か所に設置されているモニタリングポストのデータが28日夜遅くから伝送されず、放射線量を把握できない状態が続いていると発表しました。地震による停電の影響とみられ、復旧作業を急いでいます。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015189911000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015189911000",
+  "video": [],
+  "citation": [
+    {
+      "name": "イオンモール熊本で爆発 地震でガス漏れか 2人死亡1人心肺停止",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188721_2607290825_0729083054_01_03.jpg",
+      "datePublished": "2026-07-29T07:25:34+09:00"
+    },
+    {
+      "name": "イオンモール熊本 爆発 複数人取り残されか 夜通し捜索へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015189291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260729/K10015189291_2607291756_0729175912_01_03.jpg",
+      "datePublished": "2026-07-29T19:49:04+09:00"
+    },
+    {
+      "name": "【29日】熊本で震度7 同程度地震に1週間ほど注意 熱中症対策を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015189251000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260729/K10015189251_2607290408_0729040929_01_02.jpg",
+      "datePublished": "2026-07-29T18:41:49+09:00"
+    },
+    {
+      "name": "【熊本被害情報】12人死亡 6人心肺停止 少なくとも4人安否不明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015189221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260729/K10015189221_2607291932_0729193451_01_03.jpg",
+      "datePublished": "2026-07-29T20:07:51+09:00"
+    },
+    {
+      "name": "熊本 日本製紙 八代工場で5人死亡 2人けが 4人が安否不明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188691_2607281817_0728182011_01_02.jpg",
+      "datePublished": "2026-07-29T16:52:55+09:00"
+    },
+    {
+      "name": "震度7 熊本 宇城の住宅倒壊 1人が巻き込まれ救助活動",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015189011000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015189011_2607290514_0729051446_01_02.jpg",
+      "datePublished": "2026-07-28T23:19:41+09:00"
+    },
+    {
+      "name": "熊本県内の各病院にけが人多数搬送 停電で機能停止の病院も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188851_2607290154_0729015619_01_03.jpg",
+      "datePublished": "2026-07-29T05:18:17+09:00"
+    },
+    {
+      "name": "熊本で震度7 最新映像から分かること【災害担当デスクが解説】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015189371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260729/K10015189371_2607290745_0729084909_01_03.jpg",
+      "datePublished": "2026-07-29T08:49:08+09:00"
+    },
+    {
+      "name": "九州で危険な暑さ 熊本も猛暑日に 熱中症対策の徹底を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015189271000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260729/K10015189271_2607291153_0729120906_01_03.jpg",
+      "datePublished": "2026-07-29T16:19:00+09:00"
+    },
+    {
+      "name": "エコノミークラス症候群に注意を【予防するポイントは】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015189341000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260729/K10015189341_2607290730_0729082336_01_02.jpg",
+      "datePublished": "2026-07-29T10:46:50+09:00"
+    },
+    {
+      "name": "取り調べた女性と不適切関係 元東京地検特捜部検事を懲戒免職",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015189591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260729/K10015189591_2607291150_0729123802_01_03.jpg",
+      "datePublished": "2026-07-29T20:17:12+09:00"
+    },
+    {
+      "name": "総人口 約1億2377万人 日本人最大の減少 外国人初の400万人超",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015189841000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260729/K10015189841_2607292021_0729202229_01_03.jpg",
+      "datePublished": "2026-07-29T17:08:29+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

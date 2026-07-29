@@ -1,0 +1,188 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015189941000",
+  "dataSourceId": "na",
+  "name": "KDDI 情報流出 通信の秘密漏えいで厳重注意の行政指導",
+  "headline": "KDDI 情報流出 通信の秘密漏えいで厳重注意の行政指導",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015189941000",
+    "playlistId": "news-nwa-business-nationwide-20260729",
+    "newsarticleName": "KDDI 情報流出 通信の秘密漏えいで厳重注意の行政指導",
+    "playlistName": "7月29日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "KDDIが企業に提供しているメールシステムに不正アクセスを受け、アドレスやパスワードが流出したことについて、総務省は、通信の秘密の漏えいにあたるとして、会社に対し厳重注意の行政指導を行いました。\n\n\n",
+  "dateModified": "2026-07-29T18:52:45+09:00",
+  "datePublished": "2026-07-29T18:52:45+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260729/K10015189941_2607291809_0729185246_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260729/K10015189941_2607291809_0729185246_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0002399",
+      "name": "総務省",
+      "display": true
+    },
+    {
+      "id": "0002418",
+      "name": "通信",
+      "display": true
+    },
+    {
+      "id": "0000009",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "0000325",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "0002733",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "KDDIが企業に提供しているメールシステムに不正アクセスを受け、アドレスやパスワードが流出したことについて、総務省は、通信の秘密の漏えいにあたるとして、会社に対し厳重注意の行政指導を行いました。\n\n\n",
+  "articleBody": "KDDIが企業に提供しているメールシステムに不正アクセスを受け、アドレスやパスワードが流出したことについて、総務省は、通信の秘密の漏えいにあたるとして、会社に対し厳重注意の行政指導を行いました。\n\n\nKDDIでは、企業に提供しているメールシステムで、ことし5月から6月にかけて不正アクセスが発生し、1223万人分のメールアドレスが流出し、このうち761万人分については、パスワードの流出が確認されました。\n\nこれについて、総務省は29日、KDDIの松田浩路社長を呼び、電気通信事業法に基づいて、厳重注意の行政指導を行いました。\n\n総務省は、アドレスとパスワードが流出し、メールボックス内の情報が閲覧可能な状態になっていたことは、通信の秘密の漏えいにあたると指摘しています。\n\nまた、事案の覚知から公表まで、22日間かかっていて、迅速な対応とは言い難いなどと指摘しています。\n\nそのうえで、会社に対し、再発防止策を講じたうえで、その実施状況などを、8月末までに報告するよう求めました。\n\n行政指導を受けたあと、松田社長は記者団に対して、「非常に今回の行政指導を重く受け止めている。再発防止に全力を尽くす」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "KDDIが企業に提供しているメールシステムに不正アクセスを受け、アドレスやパスワードが流出したことについて、総務省は、通信の秘密の漏えいにあたるとして、会社に対し厳重注意の行政指導を行いました。\n",
+    "markedBody": "KDDIでは、企業に提供しているメールシステムで、ことし5月から6月にかけて不正アクセスが発生し、1223万人分のメールアドレスが流出し、このうち761万人分については、パスワードの流出が確認されました。\n\nこれについて、総務省は29日、KDDIの松田浩路社長を呼び、電気通信事業法に基づいて、厳重注意の行政指導を行いました。\n\n総務省は、アドレスとパスワードが流出し、メールボックス内の情報が閲覧可能な状態になっていたことは、通信の秘密の漏えいにあたると指摘しています。\n\nまた、事案の覚知から公表まで、22日間かかっていて、迅速な対応とは言い難いなどと指摘しています。\n\nそのうえで、会社に対し、再発防止策を講じたうえで、その実施状況などを、8月末までに報告するよう求めました。\n\n行政指導を受けたあと、松田社長は記者団に対して、「非常に今回の行政指導を重く受け止めている。再発防止に全力を尽くす」と述べました。\n",
+    "trimmedLead": "KDDIが企業に提供しているメールシステムに不正アクセスを受け、アドレスやパスワードが流出したことについて、総務省は、通信の秘密の漏えいにあたるとして、会社に対し厳重注意の行政指導を行いました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015189941000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015189941000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "KDDI 情報流出 通信の秘密漏えいで厳重注意の行政指導",
+      "description": "KDDIが企業に提供しているメールシステムに不正アクセスを受け、アドレスやパスワードが流出したことについて、総務省は、通信の秘密の漏えいにあたるとして、会社に対し厳重注意の行政指導を行いました。\n\n\n",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015189941_202607291810_202607291816/index.m3u8&mrposter=/news/html/20260729/K10015189941_2607291809_0729185246_01_03.jpg",
+      "duration": "PT1M7S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015189941_202607291810_202607291816/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260729/K10015189941_2607291809_0729185246_01_03.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "KDDI提供のメールシステム アドレスなど1223万人分流出を確認",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015170191000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260706/K10015170191_2607061919_0706201912_01_02.jpg",
+      "datePublished": "2026-07-06T20:19:11+09:00"
+    },
+    {
+      "name": "ニチレイ サイバー攻撃を公表 外食企業や食品メーカーに影響",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015177751000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260715/K10015177751_2607151818_0715183057_01_02.jpg",
+      "datePublished": "2026-07-15T20:58:18+09:00"
+    },
+    {
+      "name": "情報セキュリティー会社 企業から相談相次ぐ ニチレイ障害受け",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015185661000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260725/K10015185661_2607242135_0725001024_01_02.jpg",
+      "datePublished": "2026-07-25T00:10:24+09:00"
+    },
+    {
+      "name": "ニチレイ サイバー攻撃によるシステム障害から復旧 業務正常化",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015185471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260724/K10015185471_2607241751_0724175940_01_02.jpg",
+      "datePublished": "2026-07-24T19:09:53+09:00"
+    },
+    {
+      "name": "携帯各社 熊本県中心に一部エリア 通信サービスに影響",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188681000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188681_2607281822_0728182504_01_02.jpg",
+      "datePublished": "2026-07-28T19:02:32+09:00"
+    },
+    {
+      "name": "【29日】熊本で震度7 同程度地震に1週間ほど注意 熱中症対策を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015189251000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260729/K10015189251_2607290408_0729040929_01_02.jpg",
+      "datePublished": "2026-07-29T18:41:49+09:00"
+    },
+    {
+      "name": "九州で危険な暑さ 熊本も猛暑日に 熱中症対策の徹底を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015189271000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260729/K10015189271_2607291153_0729120906_01_03.jpg",
+      "datePublished": "2026-07-29T16:19:00+09:00"
+    },
+    {
+      "name": "真夏の避難生活 熱中症対策のポイントとは？【詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015189771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260729/K10015189771_2607291700_0729172827_01_02.jpg",
+      "datePublished": "2026-07-29T17:28:26+09:00"
+    },
+    {
+      "name": "持ち運びが可能なエアコン約300台 熊本空港へ 防衛省",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015189921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260729/K10015189921_2607291710_0729173800_01_02.jpg",
+      "datePublished": "2026-07-29T17:37:59+09:00"
+    },
+    {
+      "name": "熊本地震 台湾“要請あれば4時間以内に救助隊出発可能”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188781_2607291241_0729124912_01_02.jpg",
+      "datePublished": "2026-07-29T19:36:23+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
