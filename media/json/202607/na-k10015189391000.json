@@ -1,0 +1,194 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015189391000",
+  "dataSourceId": "na",
+  "name": "【地震】熊本県内の給水情報（7月29日）",
+  "headline": "熊本県内の給水情報（7月29日）",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015189391000",
+    "playlistId": "news-nwa-disaster-nationwide-20260729",
+    "newsarticleName": "【地震】熊本県内の給水情報（7月29日）",
+    "playlistName": "7月29日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "熊本県内では地震の影響によって各地で断水が発生しています。\n\n熊本県内の給水に関する情報をお伝えしています。\n\n\n八代市 市内全域で断水 3か所で給水\n\n震度6強の揺れを観測した熊本県八代市によります",
+  "dateModified": "2026-07-29T09:42:31+09:00",
+  "datePublished": "2026-07-29T09:14:16+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260729/K10015189391_2607290849_0729091417_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260729/K10015189391_2607290849_0729091417_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002860",
+      "name": "令和8年熊本地震",
+      "display": true
+    },
+    {
+      "id": "0002243",
+      "name": "熊本県",
+      "display": true
+    },
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0002623",
+      "name": "ライフライン",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "熊本県内では地震の影響によって各地で断水が発生しています。\n\n熊本県内の給水に関する情報をお伝えしています。\n\n\n八代市 市内全域で断水 3か所で給水\n\n震度6強の揺れを観測した熊本県八代市によります",
+  "articleBody": "熊本県内では地震の影響によって各地で断水が発生しています。\n\n熊本県内の給水に関する情報をお伝えしています。\n\n\n八代市 市内全域で断水 3か所で給水\n\n震度6強の揺れを観測した熊本県八代市によりますと、地震の影響で、市内の全域で断水が発生しているということです。\n\n29日午前7時から\n▽太田郷コミュニティセンター\n▽代陽コミュニティセンター\n▽第二中学校の\n3か所で自衛隊の給水車による応急給水を行うことにしています。\n\n災害情報マップ\n\n災害情報マップ\n給水に関する情報や避難所、被害情報などを地図で確認できます。\n\nライフライン情報\n\nライフライン情報\n今回の地震によるライフラインへの影響をまとめています。\n",
+  "detailedArticleBody": {
+    "markedLead": "熊本県内では地震の影響によって各地で断水が発生しています。\n\n**熊本県内の給水に関する情報をお伝えしています。**{style=background-color:#ffffcc}\n",
+    "markedBody": "### 八代市 市内全域で断水 3か所で給水\n\n![](https://news.web.nhk/news/html/20260729/K10015189391_2607290827_0729091417_02_04.jpg)\n\n震度6強の揺れを観測した熊本県八代市によりますと、地震の影響で、市内の全域で断水が発生しているということです。\n\n29日午前7時から\\\n▽太田郷コミュニティセンター\\\n▽代陽コミュニティセンター\\\n▽第二中学校の\\\n3か所で自衛隊の給水車による応急給水を行うことにしています。\n\n:::nw--link-type4 {href=https://news.web.nhk/bousai-map/saigai/}\n![災害情報マップ](https://news.web.nhk/news/html/20260729/K10015189391_2607290924_0729094232_02_05.jpg)\n\n**災害情報マップ**\\\n給水に関する情報や避難所、被害情報などを地図で確認できます。\n:::\n\n:::nw--link-type4 {href=https://news.web.nhk/newsweb/na/na-k10015188841000}\n![ライフライン情報](https://news.web.nhk/news/html/20260729/K10015189391_2607290940_0729094232_02_06.jpg)\n\n**ライフライン情報**\\\n今回の地震によるライフラインへの影響をまとめています。\n:::\n",
+    "trimmedLead": "熊本県内では地震の影響によって各地で断水が発生しています。\n\n熊本県内の給水に関する情報をお伝えしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015189391000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015189391000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "熊本県内の給水情報（7月29日）",
+      "description": "熊本県内では地震の影響によって各地で断水が発生しています。\n\n熊本県内の給水に関する情報をお伝えしています。\n\n\n八代市 市内全域で断水 3か所で給水\n\n震度6強の揺れを観測した熊本県八代市によります",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015189391_202607290848_202607290850/index.m3u8&mrposter=/news/html/20260729/K10015189391_2607290849_0729091417_01_03.jpg",
+      "duration": "PT1M2S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015189391_202607290848_202607290850/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260729/K10015189391_2607290849_0729091417_01_03.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "イオンモール熊本で爆発 地震でガス漏れか 2人死亡1人心肺停止",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188721_2607290825_0729083054_01_03.jpg",
+      "datePublished": "2026-07-29T07:25:34+09:00"
+    },
+    {
+      "name": "熊本 八代 日本製紙の工場 2人心肺停止 9人安否不明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188691_2607281817_0728182011_01_02.jpg",
+      "datePublished": "2026-07-29T07:18:31+09:00"
+    },
+    {
+      "name": "震度7 熊本 宇城の住宅倒壊 1人が巻き込まれ救助活動",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015189011000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015189011_2607290514_0729051446_01_02.jpg",
+      "datePublished": "2026-07-28T23:19:41+09:00"
+    },
+    {
+      "name": "熊本県内の各病院にけが人多数搬送 停電で機能停止の病院も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188851000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188851_2607290154_0729015619_01_03.jpg",
+      "datePublished": "2026-07-29T05:18:17+09:00"
+    },
+    {
+      "name": "【ライブ】熊本震度7 地震活動活発 同程度の地震1週間ほど注意",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015189251000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260729/K10015189251_2607290408_0729040929_01_02.jpg",
+      "datePublished": "2026-07-29T09:40:13+09:00"
+    },
+    {
+      "name": "【県まとめ】3人死亡 5人心肺停止 少なくとも7人安否不明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015189221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260729/K10015189221_2607290925_0729092522_01_02.jpg",
+      "datePublished": "2026-07-29T09:52:08+09:00"
+    },
+    {
+      "name": "エコノミークラス症候群に注意を【予防するポイントは】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015189341000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260729/K10015189341_2607290730_0729082336_01_02.jpg",
+      "datePublished": "2026-07-29T08:23:35+09:00"
+    },
+    {
+      "name": "広い範囲で厳しい暑さ 熊本など地震の被災地でも熱中症対策を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015189271000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260729/K10015189271_2607290506_0729070051_01_02.jpg",
+      "datePublished": "2026-07-29T09:52:57+09:00"
+    },
+    {
+      "name": "熊本で震度7 最新映像から分かること【災害担当デスクが解説】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015189371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260729/K10015189371_2607290745_0729084909_01_03.jpg",
+      "datePublished": "2026-07-29T08:49:08+09:00"
+    },
+    {
+      "name": "交通機関への影響（鉄道 高速道路 航空など）",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188621000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188621_2607281759_0728181159_01_02.jpg",
+      "datePublished": "2026-07-29T09:48:18+09:00"
+    },
+    {
+      "name": "ライフラインへの影響（電気 ガス 水道など）",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188841000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188841_2607290107_0729015436_01_02.jpg",
+      "datePublished": "2026-07-29T08:29:18+09:00"
+    },
+    {
+      "name": "NHKONE防災 災害リスク・備えをまとめて",
+      "url": "https://news.web.nhk/newsweb/sp/pl/editorial-nwa-0000000132",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30066327.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
