@@ -1,0 +1,178 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015191221000",
+  "dataSourceId": "na",
+  "name": "消費税率引き下げ 小売業界システム改修終えられるか課題",
+  "headline": "消費税率引き下げ 小売業界システム改修終えられるか課題",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015191221000",
+    "playlistId": "news-nwa-business-nationwide-20260731",
+    "newsarticleName": "消費税率引き下げ 小売業界システム改修終えられるか課題",
+    "playlistName": "7月31日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "高市総理大臣が消費税率を引き下げる方針を表明したことを受け、小売業界ではレジなどのシステムの改修を急ぐことにしています。ただシステムの改修には一定の時間がかかることから、来年4月の税率の引き下げまでに",
+  "dateModified": "2026-07-31T05:08:29+09:00",
+  "datePublished": "2026-07-31T05:08:29+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260731/K10015191221_2607302109_0731050829_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260731/K10015191221_2607302109_0731050829_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済",
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0000709",
+      "name": "消費税",
+      "display": true
+    },
+    {
+      "id": "0002419",
+      "name": "小売業",
+      "display": true
+    },
+    {
+      "id": "0002133",
+      "name": "物価高騰",
+      "display": true
+    },
+    {
+      "id": "0000236",
+      "name": "税制改正",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "高市総理大臣が消費税率を引き下げる方針を表明したことを受け、小売業界ではレジなどのシステムの改修を急ぐことにしています。ただシステムの改修には一定の時間がかかることから、来年4月の税率の引き下げまでに",
+  "articleBody": "高市総理大臣が消費税率を引き下げる方針を表明したことを受け、小売業界ではレジなどのシステムの改修を急ぐことにしています。ただシステムの改修には一定の時間がかかることから、来年4月の税率の引き下げまでに準備を終えられるかが課題になります。\n\n\nこのうち大手スーパーに聞いたところ、政府内での議論を受けてすでにシステム改修などの準備を始めているということです。\n\n改修が必要なのは商品の管理や受発注などを行う基幹システムのほか、レジや値札などの店舗に関係するシステム、それに客が利用しているスマホのアプリなど多岐にわたるということです。\n\n会社では、こうしたシステムの改修に9か月程度かかるとみていて、準備作業に取りかかっているということです。\n\n一方でコンビニ最大手、セブン-イレブン・ジャパンの阿久津知洋 社長は「消費減税は、消費者にとって現在よりもお求めやすい価格となり、購買意欲を喚起することから望ましいと考える。システム改修や店舗のオペレーションの変更などさまざまな影響が予見されるが、消費の好循環を生む社会の実現に向け、準備を進めていく」とコメントしています。\n\n政府は来年4月から2年間、食料品の消費税率を1％に引き下げたあと、税率を元に戻す方針で、各社はこうしたことも想定してシステムの改修を進める必要があります。\n\nこのため小売業界にとって税率の引き下げまでに準備を終えられるかが課題になるほか、システム改修などのコストもかかる中、販売価格をどのように設定するかも焦点になります。\n",
+  "detailedArticleBody": {
+    "markedLead": "高市総理大臣が消費税率を引き下げる方針を表明したことを受け、小売業界ではレジなどのシステムの改修を急ぐことにしています。ただシステムの改修には一定の時間がかかることから、来年4月の税率の引き下げまでに準備を終えられるかが課題になります。\n",
+    "markedBody": "このうち大手スーパーに聞いたところ、政府内での議論を受けてすでにシステム改修などの準備を始めているということです。\n\n改修が必要なのは商品の管理や受発注などを行う基幹システムのほか、レジや値札などの店舗に関係するシステム、それに客が利用しているスマホのアプリなど多岐にわたるということです。\n\n会社では、こうしたシステムの改修に9か月程度かかるとみていて、準備作業に取りかかっているということです。\n\n一方でコンビニ最大手、セブン-イレブン・ジャパンの阿久津知洋 社長は「消費減税は、消費者にとって現在よりもお求めやすい価格となり、購買意欲を喚起することから望ましいと考える。システム改修や店舗のオペレーションの変更などさまざまな影響が予見されるが、消費の好循環を生む社会の実現に向け、準備を進めていく」とコメントしています。\n\n政府は来年4月から2年間、食料品の消費税率を1％に引き下げたあと、税率を元に戻す方針で、各社はこうしたことも想定してシステムの改修を進める必要があります。\n\nこのため小売業界にとって税率の引き下げまでに準備を終えられるかが課題になるほか、システム改修などのコストもかかる中、販売価格をどのように設定するかも焦点になります。\n",
+    "trimmedLead": "高市総理大臣が消費税率を引き下げる方針を表明したことを受け、小売業界ではレジなどのシステムの改修を急ぐことにしています。ただシステムの改修には一定の時間がかかることから、来年4月の税率の引き下げまでに準備を終えられるかが課題になります。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015191221000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015191221000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "消費税率引き下げ 小売業界システム改修終えられるか課題",
+      "description": "高市総理大臣が消費税率を引き下げる方針を表明したことを受け、小売業界ではレジなどのシステムの改修を急ぐことにしています。ただシステムの改修には一定の時間がかかることから、来年4月の税率の引き下げまでに",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015191221_202607310521_202607310522/index.m3u8&mrposter=/news/html/20260731/K10015191221_2607302109_0731050829_01_02.jpg",
+      "duration": "PT49S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015191221_202607310521_202607310522/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260731/K10015191221_2607302109_0731050829_01_02.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "食料品消費税 来年4月から2年間 1％ 高市首相が役員会で表明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190631000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190631_2607301153_0730115628_01_02.jpg",
+      "datePublished": "2026-07-30T20:50:06+09:00"
+    },
+    {
+      "name": "高市首相 食料品消費税 1％の方針「国民の理解得ていく」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191031000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015191031_2607301832_0730203639_01_02.jpg",
+      "datePublished": "2026-07-30T20:36:38+09:00"
+    },
+    {
+      "name": "食料品消費税 来年4月から1％方針 日本経済・消費者への影響は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190741_2607301715_0730174303_01_02.jpg",
+      "datePublished": "2026-07-30T19:28:29+09:00"
+    },
+    {
+      "name": "子どもSNS利用 一律の年齢制限必要か議論継続へ 国の作業部会",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191101000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015191101_2607301913_0730191626_01_02.jpg",
+      "datePublished": "2026-07-30T19:16:25+09:00"
+    },
+    {
+      "name": "アメリカとイラン再び攻撃の応酬 不安定な情勢浮き彫りに",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191081000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015191081_2607301911_0730194050_01_02.jpg",
+      "datePublished": "2026-07-30T19:40:49+09:00"
+    },
+    {
+      "name": "熊本 地震被害の「り災証明書」 申請の受け付け始まる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190311_2607300647_0730080959_01_02.jpg",
+      "datePublished": "2026-07-30T18:18:11+09:00"
+    },
+    {
+      "name": "熊本県で震度7 同程度の地震に注意 31日はさらに気温高く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190291_2607300757_0730075919_01_02.jpg",
+      "datePublished": "2026-07-30T19:00:52+09:00"
+    },
+    {
+      "name": "九州新幹線 31日から博多～熊本運行へ 【最新の交通影響】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015191431_2607302356_0731000954_01_02.jpg",
+      "datePublished": "2026-07-31T00:09:53+09:00"
+    },
+    {
+      "name": "【動画】イオンモール熊本 爆発の瞬間",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191351000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015191351_2607302353_0730235901_01_03.jpg",
+      "datePublished": "2026-07-30T23:59:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
