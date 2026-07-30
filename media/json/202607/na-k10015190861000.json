@@ -1,0 +1,193 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015190861000",
+  "dataSourceId": "na",
+  "name": "【動画】熊本 嘉島町 地震発生時のドライブレコーダー",
+  "headline": "【動画】熊本 嘉島町 地震発生時のドライブレコーダー",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015190861000",
+    "playlistId": "news-nwa-disaster-nationwide-20260730",
+    "newsarticleName": "【動画】熊本 嘉島町 地震発生時のドライブレコーダー",
+    "playlistName": "7月30日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "熊本県嘉島町の交差点付近で、地震発生時の28日午後4時半ごろに撮影された車のドライブレコーダーの映像です。\n\n\n交差点の手前を走行中に緊急地震速報が鳴り、前を走る車や重機を載せたトラックが左右に揺れ始",
+  "dateModified": "2026-07-30T17:19:17+09:00",
+  "datePublished": "2026-07-30T17:19:17+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260730/K10015190861_2607301647_0730171918_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260730/K10015190861_2607301647_0730171918_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0002243",
+      "name": "熊本県",
+      "display": true
+    },
+    {
+      "id": "0002860",
+      "name": "令和8年熊本地震",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "熊本県嘉島町の交差点付近で、地震発生時の28日午後4時半ごろに撮影された車のドライブレコーダーの映像です。\n\n\n交差点の手前を走行中に緊急地震速報が鳴り、前を走る車や重機を載せたトラックが左右に揺れ始",
+  "articleBody": "熊本県嘉島町の交差点付近で、地震発生時の28日午後4時半ごろに撮影された車のドライブレコーダーの映像です。\n\n\n交差点の手前を走行中に緊急地震速報が鳴り、前を走る車や重機を載せたトラックが左右に揺れ始めて、停車する様子が分かります。\n\n周辺の街灯や信号機、飲食店の看板なども大きく揺れています。\n\n運転していた50代の男性は「最初は経験したことがない動きで驚きました。左右に大きく揺れながら上下にはねるような浮いている感覚がありました」と話していました。\n\n熊本県のニュース\n\n熊本県のニュース\n\n災害情報\n\n災害情報\n",
+  "detailedArticleBody": {
+    "markedLead": "熊本県嘉島町の交差点付近で、地震発生時の28日午後4時半ごろに撮影された車のドライブレコーダーの映像です。\n",
+    "markedBody": "交差点の手前を走行中に緊急地震速報が鳴り、前を走る車や重機を載せたトラックが左右に揺れ始めて、停車する様子が分かります。\n\n周辺の街灯や信号機、飲食店の看板なども大きく揺れています。\n\n運転していた50代の男性は「最初は経験したことがない動きで驚きました。左右に大きく揺れながら上下にはねるような浮いている感覚がありました」と話していました。\n\n:::nw--link-type4 {href=https://news.web.nhk/newsweb/area/430}\n![熊本県のニュース](https://news.web.nhk/news/html/20260730/K10015190861_2607301713_0730171918_02_04.jpg)\n\n**熊本県のニュース**\n:::\n\n:::nw--link-type4 {href=\"https://news.web.nhk/bousai-map/saigai/?lat=32.6463&#x26;lng=130.7166&#x26;zoom=6\"}\n![災害情報](https://news.web.nhk/news/html/20260730/K10015190861_2607301714_0730171918_02_05.jpg)\n\n**災害情報**\n:::\n",
+    "trimmedLead": "熊本県嘉島町の交差点付近で、地震発生時の28日午後4時半ごろに撮影された車のドライブレコーダーの映像です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015190861000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015190861000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "【動画】熊本 嘉島町 地震発生時のドライブレコーダー",
+      "description": "熊本県嘉島町の交差点付近で、地震発生時の28日午後4時半ごろに撮影された車のドライブレコーダーの映像です。\n\n\n交差点の手前を走行中に緊急地震速報が鳴り、前を走る車や重機を載せたトラックが左右に揺れ始",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015190861_202607301648_202607301648/index.m3u8&mrposter=/news/html/20260730/K10015190861_2607301647_0730171918_01_03.jpg",
+      "duration": "PT33S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015190861_202607301648_202607301648/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260730/K10015190861_2607301647_0730171918_01_03.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "熊本県で震度7 同程度の地震に注意 猛暑で熱中症対策を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190291_2607300757_0730075919_01_02.jpg",
+      "datePublished": "2026-07-30T17:12:16+09:00"
+    },
+    {
+      "name": "熊本 地震被害の「り災証明書」 申請の受け付け始まる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190311_2607300647_0730080959_01_02.jpg",
+      "datePublished": "2026-07-30T12:15:45+09:00"
+    },
+    {
+      "name": "熊本県のライフライン 停電・給水・通信などの情報",
+      "url": "https://news.web.nhk/kishou-saigai/lifeline/pref/kumamoto/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31700392.jpg"
+    },
+    {
+      "name": "環境省 被災地のクーリングシェルター開放周知 災害時は初",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190661000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190661_2607301247_0730131010_01_02.jpg",
+      "datePublished": "2026-07-30T13:10:09+09:00"
+    },
+    {
+      "name": "イオンモール熊本 7人死亡 5人けが 捜索続く 熊本県",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190461_2607301014_0730101708_01_02.jpg",
+      "datePublished": "2026-07-30T16:32:39+09:00"
+    },
+    {
+      "name": "日本製紙 八代工場で5人死亡 2人けが 4人が安否不明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015189721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260729/K10015189721_2607291701_0729170215_01_03.jpg",
+      "datePublished": "2026-07-29T21:21:19+09:00"
+    },
+    {
+      "name": "【被害情報】熊本 氷川町 複数の建物が倒壊 5人が心肺停止",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190301000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190301_2607300145_0730051607_01_02.jpg",
+      "datePublished": "2026-07-30T05:16:06+09:00"
+    },
+    {
+      "name": "熊本地震 関連調査中含め34人死亡 県災害対策本部が発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190421_2607301023_0730102401_01_02.jpg",
+      "datePublished": "2026-07-30T16:25:51+09:00"
+    },
+    {
+      "name": "熊本地震 災害関連調査中を含め死者30人に 高市首相",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190721_2607301356_0730135822_01_02.jpg",
+      "datePublished": "2026-07-30T16:05:25+09:00"
+    },
+    {
+      "name": "九州新幹線の運転見合わせ 高速道路の通行止め区間【30日】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190231000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190231_2607301627_0730163023_01_02.jpg",
+      "datePublished": "2026-07-30T12:07:58+09:00"
+    },
+    {
+      "name": "避難所はどこに？【災害情報マップ】",
+      "url": "https://news.web.nhk/bousai-map/shien/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037807.jpg"
+    },
+    {
+      "name": "熊本で震度7 最新映像から分かること【災害担当デスクが解説】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015189371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260729/K10015189371_2607290745_0729084909_01_03.jpg",
+      "datePublished": "2026-07-29T08:49:08+09:00"
+    },
+    {
+      "name": "地震 津波 最新情報はニュース・防災アプリで",
+      "url": "https://www.nhk.or.jp/nhkone/service/app/news_bousai/",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_31189657.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
