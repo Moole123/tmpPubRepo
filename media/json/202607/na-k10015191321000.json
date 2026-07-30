@@ -1,0 +1,163 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015191321000",
+  "dataSourceId": "na",
+  "name": "ユーロ圏GDP 4月-6月プラス0.4％ 市場予想上回る伸び",
+  "headline": "ユーロ圏GDP 4月-6月プラス0.4％ 市場予想上回る伸び",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015191321000",
+    "playlistId": "news-nwa-international-nationwide-20260730",
+    "newsarticleName": "ユーロ圏GDP 4月-6月プラス0.4％ 市場予想上回る伸び",
+    "playlistName": "7月30日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "ドイツやフランスなどユーロ圏のことし4月から6月までのGDP＝域内総生産の伸び率は、前の3か月と比べてプラス0.4％と、市場の予想を上回りました。一方、ヨーロッパでは、エネルギー価格の高止まりや、猛暑",
+  "dateModified": "2026-07-30T22:59:48+09:00",
+  "datePublished": "2026-07-30T22:59:48+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260730/K10015191321_2607302159_0730225949_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260730/K10015191321_2607302159_0730225949_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0002428",
+      "name": "GDP",
+      "display": true
+    },
+    {
+      "id": "0000818",
+      "name": "EU",
+      "display": true
+    },
+    {
+      "id": "0001798",
+      "name": "ドイツ",
+      "display": true
+    },
+    {
+      "id": "0002036",
+      "name": "フランス",
+      "display": true
+    },
+    {
+      "id": "0002497",
+      "name": "イタリア",
+      "display": true
+    },
+    {
+      "id": "0002499",
+      "name": "スペイン",
+      "display": true
+    },
+    {
+      "id": "0000035",
+      "name": "気象",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ドイツやフランスなどユーロ圏のことし4月から6月までのGDP＝域内総生産の伸び率は、前の3か月と比べてプラス0.4％と、市場の予想を上回りました。一方、ヨーロッパでは、エネルギー価格の高止まりや、猛暑",
+  "articleBody": "ドイツやフランスなどユーロ圏のことし4月から6月までのGDP＝域内総生産の伸び率は、前の3か月と比べてプラス0.4％と、市場の予想を上回りました。一方、ヨーロッパでは、エネルギー価格の高止まりや、猛暑の影響で、域内経済が減速する懸念も強まっています。\n\n\nEU＝ヨーロッパ連合の統計局が30日に発表した、ユーロ圏の、ことし4月から6月までのGDPの速報値は、実質の伸び率がプラス0.4％と、前の3か月の0％から拡大しました。\n\n市場が予想していたプラス0.2％の伸び率を上回り、年率に換算するとプラス1.8％でした。\n\n国別にみますと、\n▽ユーロ圏で経済規模が最も大きいドイツが、プラス0.2％\n▽フランスとイタリアが、それぞれプラス0.2％\n▽スペインは、プラス0.7％でした。\n\n一方、ヨーロッパでは、エネルギー価格の高止まりに加え、猛暑の影響で各地で山火事が相次ぎ、域内経済が減速する懸念も強まっています。\n",
+  "detailedArticleBody": {
+    "markedLead": "ドイツやフランスなどユーロ圏のことし4月から6月までのGDP＝域内総生産の伸び率は、前の3か月と比べてプラス0.4％と、市場の予想を上回りました。一方、ヨーロッパでは、エネルギー価格の高止まりや、猛暑の影響で、域内経済が減速する懸念も強まっています。\n",
+    "markedBody": "EU＝ヨーロッパ連合の統計局が30日に発表した、ユーロ圏の、ことし4月から6月までのGDPの速報値は、実質の伸び率がプラス0.4％と、前の3か月の0％から拡大しました。\n\n市場が予想していたプラス0.2％の伸び率を上回り、年率に換算するとプラス1.8％でした。\n\n国別にみますと、\\\n▽ユーロ圏で経済規模が最も大きいドイツが、プラス0.2％\\\n▽フランスとイタリアが、それぞれプラス0.2％\\\n▽スペインは、プラス0.7％でした。\n\n一方、ヨーロッパでは、エネルギー価格の高止まりに加え、猛暑の影響で各地で山火事が相次ぎ、域内経済が減速する懸念も強まっています。\n",
+    "trimmedLead": "ドイツやフランスなどユーロ圏のことし4月から6月までのGDP＝域内総生産の伸び率は、前の3か月と比べてプラス0.4％と、市場の予想を上回りました。一方、ヨーロッパでは、エネルギー価格の高止まりや、猛暑の影響で、域内経済が減速する懸念も強まっています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015191321000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015191321000",
+  "video": [],
+  "citation": [
+    {
+      "name": "フランスやスペインの山火事 延焼防ぐための対策急ぐ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015187611000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015187611_2607272354_0728060113_01_02.jpg",
+      "datePublished": "2026-07-28T06:01:12+09:00"
+    },
+    {
+      "name": "トランプ大統領 グーグルに制裁金科したEUに関税課すと主張",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015186361000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260726/K10015186361_2607260806_0726084915_01_02.jpg",
+      "datePublished": "2026-07-26T08:49:14+09:00"
+    },
+    {
+      "name": "欧州中銀金利据え置き 追加利上げを含め今後の政策判断焦点に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015184521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260723/K10015184521_2607232129_0723213754_01_02.jpg",
+      "datePublished": "2026-07-24T04:50:25+09:00"
+    },
+    {
+      "name": "ヨーロッパ山火事拡大 フランスとスペインで30万人以上が避難",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015186461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260726/K10015186461_2607261323_0726132357_01_03.jpg",
+      "datePublished": "2026-07-26T19:05:12+09:00"
+    },
+    {
+      "name": "今年度の経済成長率 ＋0.9％程度に下方修正 中東情勢の影響",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190501000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190501_2607301119_0730115422_01_02.jpg",
+      "datePublished": "2026-07-30T11:54:21+09:00"
+    },
+    {
+      "name": "カシミールのパキスタン支配地域で衝突 30人以上死亡か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191111000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015191111_2607301916_0730192020_01_02.jpg",
+      "datePublished": "2026-07-30T19:20:20+09:00"
+    },
+    {
+      "name": "アメリカとイラン再び攻撃の応酬 不安定な情勢浮き彫りに",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191081000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015191081_2607301911_0730194050_01_02.jpg",
+      "datePublished": "2026-07-30T19:40:49+09:00"
+    },
+    {
+      "name": "米軍「強力な対応」としてイランへの攻撃発表 攻撃応酬懸念",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190431_2607301002_0730100249_01_02.jpg",
+      "datePublished": "2026-07-30T18:13:10+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
