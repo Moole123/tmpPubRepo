@@ -1,0 +1,176 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015190991000",
+  "dataSourceId": "na",
+  "name": "熊本県内のモニタリングポストが復旧",
+  "headline": "熊本県内のモニタリングポストが復旧",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015190991000",
+    "playlistId": "news-nwa-scienceculture-nationwide-20260730",
+    "newsarticleName": "熊本県内のモニタリングポストが復旧",
+    "playlistName": "7月30日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "地震による被害が出ている熊本県では28日の夜遅くから放射線量を測定するモニタリングポストのデータが送れなくなっていましたが、30日午前、復旧しました。地震による停電が原因とみられ、原子力規制委員会が調",
+  "dateModified": "2026-07-30T17:58:38+09:00",
+  "datePublished": "2026-07-30T17:58:38+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260730/K10015190991_2607301748_0730175839_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260730/K10015190991_2607301748_0730175839_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "科学・文化",
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002243",
+      "name": "熊本県",
+      "display": true
+    },
+    {
+      "id": "0002708",
+      "name": "原子力規制委員会",
+      "display": true
+    },
+    {
+      "id": "0002860",
+      "name": "令和8年熊本地震",
+      "display": true
+    },
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "地震による被害が出ている熊本県では28日の夜遅くから放射線量を測定するモニタリングポストのデータが送れなくなっていましたが、30日午前、復旧しました。地震による停電が原因とみられ、原子力規制委員会が調",
+  "articleBody": "地震による被害が出ている熊本県では28日の夜遅くから放射線量を測定するモニタリングポストのデータが送れなくなっていましたが、30日午前、復旧しました。地震による停電が原因とみられ、原子力規制委員会が調べることにしています。\n\n\n熊本県内では、熊本市や宇土市など6か所に空間の放射線量を測定するモニタリングポストが設置されていますが、28日の午後11時すぎからデータが伝送されず、放射線量を把握できない状態になりました。\n\n原子力規制庁によりますと、その後、30日午前9時ごろ、いずれのモニタリングポストもデータの伝送ができるようになったということです。\n\nモニタリングポストは原子力施設などからの影響を調べるために設置されていますが、放射線量のデータはいずれも通常の範囲だということです。\n\nこれまでの調査で、宇土市に設置されているサーバーが地震による停電の影響で使えなくなったことが原因とみられているということで、規制委員会が調べることにしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "地震による被害が出ている熊本県では28日の夜遅くから放射線量を測定するモニタリングポストのデータが送れなくなっていましたが、30日午前、復旧しました。地震による停電が原因とみられ、原子力規制委員会が調べることにしています。\n",
+    "markedBody": "熊本県内では、熊本市や宇土市など6か所に空間の放射線量を測定するモニタリングポストが設置されていますが、28日の午後11時すぎからデータが伝送されず、放射線量を把握できない状態になりました。\n\n原子力規制庁によりますと、その後、30日午前9時ごろ、いずれのモニタリングポストもデータの伝送ができるようになったということです。\n\nモニタリングポストは原子力施設などからの影響を調べるために設置されていますが、放射線量のデータはいずれも通常の範囲だということです。\n\nこれまでの調査で、宇土市に設置されているサーバーが地震による停電の影響で使えなくなったことが原因とみられているということで、規制委員会が調べることにしています。\n",
+    "trimmedLead": "地震による被害が出ている熊本県では28日の夜遅くから放射線量を測定するモニタリングポストのデータが送れなくなっていましたが、30日午前、復旧しました。地震による停電が原因とみられ、原子力規制委員会が調べることにしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015190991000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015190991000",
+  "video": [],
+  "citation": [
+    {
+      "name": "熊本県で震度7 同程度の地震に注意 31日はさらに気温高く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190291_2607300757_0730075919_01_02.jpg",
+      "datePublished": "2026-07-30T19:00:52+09:00"
+    },
+    {
+      "name": "熊本 地震被害の「り災証明書」 申請の受け付け始まる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190311_2607300647_0730080959_01_02.jpg",
+      "datePublished": "2026-07-30T18:18:11+09:00"
+    },
+    {
+      "name": "熊本県のライフライン 停電・給水・通信などの情報",
+      "url": "https://news.web.nhk/kishou-saigai/lifeline/pref/kumamoto/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31700392.jpg"
+    },
+    {
+      "name": "環境省 被災地のクーリングシェルター開放周知 災害時は初",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190661000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190661_2607301247_0730131010_01_02.jpg",
+      "datePublished": "2026-07-30T13:10:09+09:00"
+    },
+    {
+      "name": "イオンモール熊本 7人死亡 5人けが 捜索続く 熊本県",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190461_2607301014_0730101708_01_02.jpg",
+      "datePublished": "2026-07-30T18:23:36+09:00"
+    },
+    {
+      "name": "日本製紙 八代工場で5人死亡 2人けが 4人が安否不明",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015189721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260729/K10015189721_2607291701_0729170215_01_03.jpg",
+      "datePublished": "2026-07-29T21:21:19+09:00"
+    },
+    {
+      "name": "【被害情報】熊本 氷川町 複数の建物が倒壊 5人が心肺停止",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190301000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190301_2607300145_0730051607_01_02.jpg",
+      "datePublished": "2026-07-30T05:16:06+09:00"
+    },
+    {
+      "name": "熊本地震 関連調査中含め34人死亡 県災害対策本部が発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190421_2607301023_0730102401_01_02.jpg",
+      "datePublished": "2026-07-30T19:25:49+09:00"
+    },
+    {
+      "name": "熊本地震 災害関連調査中を含め死者30人に 高市首相",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190721_2607301356_0730135822_01_02.jpg",
+      "datePublished": "2026-07-30T16:05:25+09:00"
+    },
+    {
+      "name": "九州新幹線 31日から博多ー熊本運行へ 最新の交通影響は？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190231000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190231_2607301627_0730163023_01_02.jpg",
+      "datePublished": "2026-07-30T19:36:54+09:00"
+    },
+    {
+      "name": "避難所はどこに？【災害情報マップ】",
+      "url": "https://news.web.nhk/bousai-map/shien/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037807.jpg"
+    },
+    {
+      "name": "熊本で震度7 最新映像から分かること【災害担当デスクが解説】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015189371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260729/K10015189371_2607290745_0729084909_01_03.jpg",
+      "datePublished": "2026-07-29T08:49:08+09:00"
+    },
+    {
+      "name": "地震 津波 最新情報はニュース・防災アプリで",
+      "url": "https://www.nhk.or.jp/nhkone/service/app/news_bousai/",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_31189657.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

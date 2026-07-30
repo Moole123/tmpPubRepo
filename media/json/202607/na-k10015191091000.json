@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015191091000",
+  "dataSourceId": "na",
+  "name": "東京 台東区 4億円余窃盗事件で逮捕の42歳男性 不起訴に",
+  "headline": "東京 台東区 4億円余窃盗事件で逮捕の42歳男性 不起訴に",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015191091000",
+    "playlistId": "news-nwa-society-nationwide-20260730",
+    "newsarticleName": "東京 台東区 4億円余窃盗事件で逮捕の42歳男性 不起訴に",
+    "playlistName": "7月30日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "ことし1月、東京 台東区の路上で4億円余りの現金が入ったスーツケースを盗んだとして逮捕された42歳の男性について、東京地方検察庁は不起訴にしました。\n\n\n東京 豊島区に住む42歳の男性は、ことし1月、",
+  "dateModified": "2026-07-30T19:17:32+09:00",
+  "datePublished": "2026-07-30T19:17:32+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260730/K10015191091_2607301914_0730191733_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260730/K10015191091_2607301914_0730191733_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0001538",
+      "name": "事件・事故",
+      "display": true
+    },
+    {
+      "id": "0002213",
+      "name": "東京都",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ことし1月、東京 台東区の路上で4億円余りの現金が入ったスーツケースを盗んだとして逮捕された42歳の男性について、東京地方検察庁は不起訴にしました。\n\n\n東京 豊島区に住む42歳の男性は、ことし1月、",
+  "articleBody": "ことし1月、東京 台東区の路上で4億円余りの現金が入ったスーツケースを盗んだとして逮捕された42歳の男性について、東京地方検察庁は不起訴にしました。\n\n\n東京 豊島区に住む42歳の男性は、ことし1月、東京 台東区の路上で、中国籍や日本人の男女のグループが運んでいた現金およそ4億2000万円が入ったスーツケースを盗んだとして、窃盗の疑いで逮捕されました。\n\nこの男性について、東京地検は捜査の結果、30日までに不起訴にしました。\n\n理由については、「証拠関係に照らして不起訴とした」としています。\n\nこの事件では、これまでに21歳の暴力団員など6人が窃盗の罪で起訴されています。\n",
+  "detailedArticleBody": {
+    "markedLead": "ことし1月、東京 台東区の路上で4億円余りの現金が入ったスーツケースを盗んだとして逮捕された42歳の男性について、東京地方検察庁は不起訴にしました。\n",
+    "markedBody": "東京 豊島区に住む42歳の男性は、ことし1月、東京 台東区の路上で、中国籍や日本人の男女のグループが運んでいた現金およそ4億2000万円が入ったスーツケースを盗んだとして、窃盗の疑いで逮捕されました。\n\nこの男性について、東京地検は捜査の結果、30日までに不起訴にしました。\n\n理由については、「証拠関係に照らして不起訴とした」としています。\n\nこの事件では、これまでに21歳の暴力団員など6人が窃盗の罪で起訴されています。\n",
+    "trimmedLead": "ことし1月、東京 台東区の路上で4億円余りの現金が入ったスーツケースを盗んだとして逮捕された42歳の男性について、東京地方検察庁は不起訴にしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015191091000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015191091000",
+  "video": [],
+  "citation": [
+    {
+      "name": "東京 台東区 4億円窃盗事件 暴力団員ら起訴内容認める",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015172891000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260709/K10015172891_2607091736_0709175930_01_02.jpg",
+      "datePublished": "2026-07-09T17:59:29+09:00"
+    },
+    {
+      "name": "熊本県で震度7 同程度の地震に注意 31日はさらに気温高く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190291_2607300757_0730075919_01_02.jpg",
+      "datePublished": "2026-07-30T19:00:52+09:00"
+    },
+    {
+      "name": "各地で猛暑日 熊本で35度超 東北や新潟は激しい雨 厳重警戒を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190281000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190281_2607300601_0730065332_01_02.jpg",
+      "datePublished": "2026-07-30T18:54:16+09:00"
+    },
+    {
+      "name": "高校野球 熊本代表の有明高校 地震でルート変更し甲子園へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190981000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190981_2607301732_0730182743_01_02.jpg",
+      "datePublished": "2026-07-30T18:27:42+09:00"
+    },
+    {
+      "name": "食料品消費税 来年4月から1％方針 日本経済・消費者への影響は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190741_2607301715_0730174303_01_02.jpg",
+      "datePublished": "2026-07-30T19:28:29+09:00"
+    },
+    {
+      "name": "横浜市長が重大なパワハラ行為 外部調査委員が認定",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190641000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190641_2607301523_0730163944_01_03.jpg",
+      "datePublished": "2026-07-30T18:49:34+09:00"
+    },
+    {
+      "name": "プロ野球 広島カープ 矢野選手と前川選手の自宅など警察が捜索",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190911000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190911_2607301635_0730180127_01_02.jpg",
+      "datePublished": "2026-07-30T19:19:02+09:00"
+    },
+    {
+      "name": "歌指導と称し女性俳優にわいせつ行為か 音楽クリエイター逮捕",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190671_2607301225_0730140831_01_02.jpg",
+      "datePublished": "2026-07-30T14:08:30+09:00"
+    },
+    {
+      "name": "八王子スーパー強盗殺人事件31年 警視庁が情報提供呼びかけ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190611000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190611_2607301155_0730122313_01_03.jpg",
+      "datePublished": "2026-07-30T17:31:41+09:00"
+    },
+    {
+      "name": "沖縄 辺野古沖転覆事故 亡くなった女子生徒の遺族が会見",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190931000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190931_2607301705_0730172900_01_02.jpg",
+      "datePublished": "2026-07-30T17:29:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
