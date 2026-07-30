@@ -1,0 +1,156 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015190721000",
+  "dataSourceId": "na",
+  "name": "熊本地震 災害関連調査中を含め死者30人に 高市首相",
+  "headline": "熊本地震 災害関連調査中を含め死者30人に 高市首相",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015190721000",
+    "playlistId": "news-nwa-disaster-nationwide-20260730",
+    "newsarticleName": "熊本地震 災害関連調査中を含め死者30人に 高市首相",
+    "playlistName": "7月30日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "高市総理大臣は政府の「非常災害対策本部」で、今回の地震で30日午後0時半時点で、災害との関連を調査している人も含めて、死亡した人が30人にのぼっていると明らかにしました。\n\n\n熊本に現地災害対策本部を",
+  "dateModified": "2026-07-30T14:10:31+09:00",
+  "datePublished": "2026-07-30T13:37:32+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260730/K10015190721_2607301356_0730135822_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260730/K10015190721_2607301356_0730135822_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害",
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0002860",
+      "name": "令和8年熊本地震",
+      "display": true
+    },
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0002243",
+      "name": "熊本県",
+      "display": true
+    },
+    {
+      "id": "0002672",
+      "name": "高市内閣",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "高市総理大臣は政府の「非常災害対策本部」で、今回の地震で30日午後0時半時点で、災害との関連を調査している人も含めて、死亡した人が30人にのぼっていると明らかにしました。\n\n\n熊本に現地災害対策本部を",
+  "articleBody": "高市総理大臣は政府の「非常災害対策本部」で、今回の地震で30日午後0時半時点で、災害との関連を調査している人も含めて、死亡した人が30人にのぼっていると明らかにしました。\n\n\n熊本に現地災害対策本部を設置\n\nまた、高市総理大臣は「災害応急対策を強力に推進するため、熊本県庁に現地災害対策本部を設置する。各省庁は現地災害対策本部を通じて、自治体と緊密に連携を取り合い、必要な物資の確保や電力、水道などのインフラの復旧などに全力を挙げるようお願いする」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "高市総理大臣は政府の「非常災害対策本部」で、今回の地震で30日午後0時半時点で、災害との関連を調査している人も含めて、死亡した人が30人にのぼっていると明らかにしました。\n",
+    "markedBody": "### 熊本に現地災害対策本部を設置\n\nまた、高市総理大臣は「災害応急対策を強力に推進するため、熊本県庁に現地災害対策本部を設置する。各省庁は現地災害対策本部を通じて、自治体と緊密に連携を取り合い、必要な物資の確保や電力、水道などのインフラの復旧などに全力を挙げるようお願いする」と述べました。\n",
+    "noHtmlMarkedLead": "高市総理大臣は政府の「非常災害対策本部」で、今回の地震で30日午後0時半時点で、災害との関連を調査している人も含めて、死亡した人が30人にのぼっていると明らかにしました。\n",
+    "trimmedLead": "高市総理大臣は政府の「非常災害対策本部」で、今回の地震で30日午後0時半時点で、災害との関連を調査している人も含めて、死亡した人が30人にのぼっていると明らかにしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015190721000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015190721000",
+  "video": [],
+  "citation": [
+    {
+      "name": "熊本地震で18人死亡 6人心肺停止 1人安否不明 県発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190421_2607301023_0730102401_01_02.jpg",
+      "datePublished": "2026-07-30T14:13:34+09:00"
+    },
+    {
+      "name": "熊本県で震度7 同程度の地震に注意 猛暑で熱中症対策を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190291_2607300757_0730075919_01_02.jpg",
+      "datePublished": "2026-07-30T15:03:07+09:00"
+    },
+    {
+      "name": "イオンモール熊本 6人死亡 1人心肺停止 5人がけが 熊本県",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190461_2607301014_0730101708_01_02.jpg",
+      "datePublished": "2026-07-30T13:26:02+09:00"
+    },
+    {
+      "name": "日本製紙 八代工場 8人死亡 2人けが 1人安否不明 熊本県",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190441_2607301432_0730143247_01_03.jpg",
+      "datePublished": "2026-07-30T14:50:06+09:00"
+    },
+    {
+      "name": "熊本 地震被害の「り災証明書」 申請の受け付け始まる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190311_2607300647_0730080959_01_02.jpg",
+      "datePublished": "2026-07-30T12:15:45+09:00"
+    },
+    {
+      "name": "各地で猛暑日 熊本でも35度超に 東北や新潟は激しい雨に警戒を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190281000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190281_2607300601_0730065332_01_02.jpg",
+      "datePublished": "2026-07-30T15:10:59+09:00"
+    },
+    {
+      "name": "消費税減税 「意見一致に至らず」のまとめ案 高市首相判断へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015189551000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260729/K10015189551_2607291122_0729120813_01_02.jpg",
+      "datePublished": "2026-07-29T15:53:08+09:00"
+    },
+    {
+      "name": "米大統領「イランを激しく攻撃する」 攻撃の応酬再燃に懸念",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190271000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190271_2607300100_0730080344_01_02.jpg",
+      "datePublished": "2026-07-30T08:03:43+09:00"
+    },
+    {
+      "name": "FRB政策金利据え置き 今後の利上げめぐる見方分かれる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190151000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190151_2607292204_0730030442_01_02.jpg",
+      "datePublished": "2026-07-30T11:14:24+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
