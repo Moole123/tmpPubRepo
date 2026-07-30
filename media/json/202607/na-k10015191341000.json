@@ -1,0 +1,166 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015191341000",
+  "dataSourceId": "na",
+  "name": "アメリカGDP 4月-6月プラス1.5％ 堅調な個人消費やAI投資背景",
+  "headline": "アメリカGDP 4月-6月プラス1.5％ 堅調な個人消費やAI投資背景",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015191341000",
+    "playlistId": "news-nwa-international-nationwide-20260730",
+    "newsarticleName": "アメリカGDP 4月-6月プラス1.5％ 堅調な個人消費やAI投資背景",
+    "playlistName": "7月30日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "アメリカのことし4月から6月までのGDP＝国内総生産が発表され、前の3か月と比べた伸び率は、年率に換算してプラス1.5％となりました。前の期よりも減速したものの底堅い個人消費やAI関連への活発な投資な",
+  "dateModified": "2026-07-30T23:21:31+09:00",
+  "datePublished": "2026-07-30T23:21:31+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260730/K10015191341_2607302221_0730232132_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260730/K10015191341_2607302221_0730232132_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0002428",
+      "name": "GDP",
+      "display": true
+    },
+    {
+      "id": "0002738",
+      "name": "統計・指標",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "0000820",
+      "name": "イラン情勢",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "アメリカのことし4月から6月までのGDP＝国内総生産が発表され、前の3か月と比べた伸び率は、年率に換算してプラス1.5％となりました。前の期よりも減速したものの底堅い個人消費やAI関連への活発な投資な",
+  "articleBody": "アメリカのことし4月から6月までのGDP＝国内総生産が発表され、前の3か月と比べた伸び率は、年率に換算してプラス1.5％となりました。前の期よりも減速したものの底堅い個人消費やAI関連への活発な投資などを背景に5期連続のプラスとなりました。\n\n\nアメリカ商務省は、30日、ことし4月から6月までのGDPを発表しました。\n\n前の3か月と比べた実質の伸び率は、年率に換算してプラス1.5％でした。\n\n伸び率は、前の期のプラス2.1％から減速し、2.0％程度の伸び率を見込んでいた市場予想を下回りました。\n\n政府の支出が低下したことなどが要因ですが、GDPのおよそ7割を占める個人消費はプラス3.2％で、前の期の0.5％から伸びが拡大しました。\n\nまた、企業の設備投資はプラス8.4％で、前の期の10.6％から伸びは縮小しましたが、AI関連を中心に活発な投資が続いています。\n\n一方、インフレの状況を見極めるための指標としてFRB＝連邦準備制度理事会が重視するPCE＝個人消費支出の物価指数は、ことし6月、前の年の同じ月と比べた上昇率が3.7％となり5月の4.1％からいくぶん低下しました。\n\nただ、アメリカとイランの対立の激化で原油価格も上昇傾向となっていて、インフレの再加速が懸念される中、アメリカ経済の底堅さを支えてきた個人消費の動向が引き続き焦点になります。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカのことし4月から6月までのGDP＝国内総生産が発表され、前の3か月と比べた伸び率は、年率に換算してプラス1.5％となりました。前の期よりも減速したものの底堅い個人消費やAI関連への活発な投資などを背景に5期連続のプラスとなりました。\n",
+    "markedBody": "アメリカ商務省は、30日、ことし4月から6月までのGDPを発表しました。\n\n前の3か月と比べた実質の伸び率は、年率に換算してプラス1.5％でした。\n\n伸び率は、前の期のプラス2.1％から減速し、2.0％程度の伸び率を見込んでいた市場予想を下回りました。\n\n政府の支出が低下したことなどが要因ですが、GDPのおよそ7割を占める個人消費はプラス3.2％で、前の期の0.5％から伸びが拡大しました。\n\nまた、企業の設備投資はプラス8.4％で、前の期の10.6％から伸びは縮小しましたが、AI関連を中心に活発な投資が続いています。\n\n一方、インフレの状況を見極めるための指標としてFRB＝連邦準備制度理事会が重視するPCE＝個人消費支出の物価指数は、ことし6月、前の年の同じ月と比べた上昇率が3.7％となり5月の4.1％からいくぶん低下しました。\n\nただ、アメリカとイランの対立の激化で原油価格も上昇傾向となっていて、インフレの再加速が懸念される中、アメリカ経済の底堅さを支えてきた個人消費の動向が引き続き焦点になります。\n",
+    "trimmedLead": "アメリカのことし4月から6月までのGDP＝国内総生産が発表され、前の3か月と比べた伸び率は、年率に換算してプラス1.5％となりました。前の期よりも減速したものの底堅い個人消費やAI関連への活発な投資などを背景に5期連続のプラスとなりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015191341000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015191341000",
+  "video": [],
+  "citation": [
+    {
+      "name": "アメリカとイラン再び攻撃の応酬 不安定な情勢浮き彫りに",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191081000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015191081_2607301911_0730194050_01_02.jpg",
+      "datePublished": "2026-07-30T19:40:49+09:00"
+    },
+    {
+      "name": "米軍「強力な対応」としてイランへの攻撃発表 攻撃応酬懸念",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190431_2607301002_0730100249_01_02.jpg",
+      "datePublished": "2026-07-30T18:13:10+09:00"
+    },
+    {
+      "name": "FRB政策金利据え置き 今後の利上げめぐる見方分かれる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190151000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190151_2607292204_0730030442_01_02.jpg",
+      "datePublished": "2026-07-30T11:14:24+09:00"
+    },
+    {
+      "name": "熊本地震  イランのアラグチ外相“深い悲しみ”日本語で投稿",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015188781_2607281853_0728185346_01_02.jpg",
+      "datePublished": "2026-07-29T19:36:23+09:00"
+    },
+    {
+      "name": "ゼレンスキー大統領「迎撃ミサイル300発必要」支援訴え",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190351000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190351_2607300438_0730050831_01_02.jpg",
+      "datePublished": "2026-07-30T05:08:30+09:00"
+    },
+    {
+      "name": "カシミールのパキスタン支配地域で衝突 30人以上死亡か",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191111000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015191111_2607301916_0730192020_01_02.jpg",
+      "datePublished": "2026-07-30T19:20:20+09:00"
+    },
+    {
+      "name": "米IT決算 マイクロソフト増益もメタ減益 AIで明暗分かれる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190491000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190491_2607301108_0730113707_01_02.jpg",
+      "datePublished": "2026-07-30T11:37:06+09:00"
+    },
+    {
+      "name": "アメリカが人型ロボットの輸入禁止を発表 中国政府は非難",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190561000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190561_2607301134_0730125514_01_02.jpg",
+      "datePublished": "2026-07-30T12:55:13+09:00"
+    },
+    {
+      "name": "中国とロシアの艦艇4隻が宗谷海峡航行 日本半周 防衛省",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015189811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260729/K10015189811_2607291548_0729194222_01_02.jpg",
+      "datePublished": "2026-07-29T19:42:21+09:00"
+    },
+    {
+      "name": "どうなるウクライナ軍",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015187801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260728/K10015187801_2607281118_0728143725_01_02.jpg",
+      "datePublished": "2026-07-28T14:37:24+09:00"
+    },
+    {
+      "name": "米・イラン戦闘再開 ホルムズ海峡は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015187931000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260729/K10015187931_2607281200_0729120229_01_02.jpg",
+      "datePublished": "2026-07-29T12:02:28+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
