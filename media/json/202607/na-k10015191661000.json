@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015191661000",
+  "dataSourceId": "na",
+  "name": "株価 大きく値上がり 半導体関連の銘柄中心に買い注文",
+  "headline": "株価 大きく値上がり 半導体関連の銘柄中心に買い注文",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015191661000",
+    "playlistId": "news-nwa-business-nationwide-20260731",
+    "newsarticleName": "株価 大きく値上がり 半導体関連の銘柄中心に買い注文",
+    "playlistName": "7月31日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "7月31日の東京株式市場、取引開始直後から半導体関連の銘柄を中心に買い注文が広がり、日経平均株価は大きく値上がりしています。\n\n\n7月31日の東京株式市場はアメリカのIT大手が発表した決算が大幅な増益",
+  "dateModified": "2026-07-31T12:16:45+09:00",
+  "datePublished": "2026-07-31T09:36:26+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260731/K10015191661_2607310935_0731093627_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260731/K10015191661_2607310935_0731093627_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0000504",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "0002421",
+      "name": "半導体",
+      "display": true
+    },
+    {
+      "id": "0000010",
+      "name": "生成AI・人工知能",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "7月31日の東京株式市場、取引開始直後から半導体関連の銘柄を中心に買い注文が広がり、日経平均株価は大きく値上がりしています。\n\n\n7月31日の東京株式市場はアメリカのIT大手が発表した決算が大幅な増益",
+  "articleBody": "7月31日の東京株式市場、取引開始直後から半導体関連の銘柄を中心に買い注文が広がり、日経平均株価は大きく値上がりしています。\n\n\n7月31日の東京株式市場はアメリカのIT大手が発表した決算が大幅な増益となったことをきっかけに半導体の市場拡大への期待が広がり、日経平均株価は一時、3400円以上値上がりしました。\n\n▽日経平均株価、午前の終値は30日の終値と比べて2704円82銭高い6万4572円25銭。\n\n▽東証株価指数=トピックスは58.56上がって4011.06。\n\n▽午前の出来高は14億2540万株でした。\n\n市場関係者は「半導体関連の銘柄はこのところ値下がり傾向が続いていたため、買い戻す動きが目立っている。この中でも『キオクシアホールディングス』には買い注文が殺到している」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "7月31日の東京株式市場、取引開始直後から半導体関連の銘柄を中心に買い注文が広がり、日経平均株価は大きく値上がりしています。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20260731/K10015191661_2607311132_0731121646_02_03.jpg)\n\n7月31日の東京株式市場はアメリカのIT大手が発表した決算が大幅な増益となったことをきっかけに半導体の市場拡大への期待が広がり、日経平均株価は一時、3400円以上値上がりしました。\n\n▽日経平均株価、午前の終値は30日の終値と比べて2704円82銭高い6万4572円25銭。\n\n▽東証株価指数\\=トピックスは58.56上がって4011.06。\n\n▽午前の出来高は14億2540万株でした。\n\n市場関係者は「半導体関連の銘柄はこのところ値下がり傾向が続いていたため、買い戻す動きが目立っている。この中でも『キオクシアホールディングス』には買い注文が殺到している」と話しています。\n",
+    "trimmedLead": "7月31日の東京株式市場、取引開始直後から半導体関連の銘柄を中心に買い注文が広がり、日経平均株価は大きく値上がりしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015191661000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015191661000",
+  "video": [],
+  "citation": [
+    {
+      "name": "熊本で震度7 同程度の地震に注意 熱中症対策を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015191461_2607311146_0731115104_01_02.jpg",
+      "datePublished": "2026-07-31T12:02:51+09:00"
+    },
+    {
+      "name": "熊本地震 関連調査中含め34人死亡 県災害対策本部が発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190421_2607301023_0730102401_01_02.jpg",
+      "datePublished": "2026-07-30T20:13:56+09:00"
+    },
+    {
+      "name": "イオンモール熊本 7人死亡 5人けが 捜索続く 熊本県",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190461_2607301014_0730101708_01_02.jpg",
+      "datePublished": "2026-07-30T22:33:59+09:00"
+    },
+    {
+      "name": "九州新幹線 博多～熊本 運転再開 高速道路は通行止め続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015191431_2607302356_0731000954_01_02.jpg",
+      "datePublished": "2026-07-31T08:49:53+09:00"
+    },
+    {
+      "name": "高市首相 食料品消費税 1％の方針「国民の理解得ていく」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191031000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015191031_2607301832_0730203639_01_02.jpg",
+      "datePublished": "2026-07-30T20:36:38+09:00"
+    },
+    {
+      "name": "各地で猛暑日 熊本で35度超 福島と新潟は激しい雨 厳重警戒を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190281000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190281_2607302127_0730212758_01_03.jpg",
+      "datePublished": "2026-07-31T00:04:15+09:00"
+    },
+    {
+      "name": "熊本地震 約10キロの範囲で地表にずれや段差 衛星画像を分析",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015191131_2607302009_0730203052_01_02.jpg",
+      "datePublished": "2026-07-30T21:59:17+09:00"
+    },
+    {
+      "name": "アメリカが人型ロボットの輸入禁止を発表 中国政府は非難",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190561000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190561_2607301134_0730125514_01_02.jpg",
+      "datePublished": "2026-07-30T12:55:13+09:00"
+    },
+    {
+      "name": "アメリカとイラン再び攻撃の応酬 不安定な情勢浮き彫りに",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191081000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015191081_2607301911_0730194050_01_02.jpg",
+      "datePublished": "2026-07-30T19:40:49+09:00"
+    },
+    {
+      "name": "米・イラン戦闘再開 ホルムズ海峡は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015187931000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260729/K10015187931_2607281200_0729120229_01_02.jpg",
+      "datePublished": "2026-07-29T12:02:28+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

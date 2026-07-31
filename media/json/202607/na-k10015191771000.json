@@ -1,0 +1,132 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015191771000",
+  "dataSourceId": "na",
+  "name": "台風13号 最新情報 進路図 今後の進路や情報に注意を",
+  "headline": "【台風13号】今後の進路や情報に注意",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015191771000",
+    "playlistId": "news-nwa-disaster-nationwide-20260731",
+    "newsarticleName": "台風13号 最新情報 進路図 今後の進路や情報に注意を",
+    "playlistName": "7月31日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "台風13号の最新の進路は「台風マップ」でご確認いただけます。\n\n\n【必要な備えは】\n\n気象庁は今後の情報に注意するよう呼びかけています。\n台風への備えに関してまとめた記事はこちらからご覧いただけます。",
+  "dateModified": "2026-07-31T11:51:36+09:00",
+  "datePublished": "2026-07-31T11:51:36+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260731/K10015191771_2607311122_0731115137_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260731/K10015191771_2607311122_0731115137_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0001345",
+      "name": "台風",
+      "display": true
+    },
+    {
+      "id": "0000035",
+      "name": "気象",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "台風13号の最新の進路は「台風マップ」でご確認いただけます。\n\n\n【必要な備えは】\n\n気象庁は今後の情報に注意するよう呼びかけています。\n台風への備えに関してまとめた記事はこちらからご覧いただけます。",
+  "articleBody": "台風13号の最新の進路は「台風マップ」でご確認いただけます。\n\n\n【必要な備えは】\n\n気象庁は今後の情報に注意するよう呼びかけています。\n台風への備えに関してまとめた記事はこちらからご覧いただけます。\n\n台風接近前にやっておくこと 備えを「タイムライン」で\n\n台風接近前にやっておくこと 備えを「タイムライン」で\n\n非常用持ち出し袋 避難する際に あなたや家族 ペットに必要なものは？\n\n非常用持ち出し袋 避難する際に あなたや家族 ペットに必要なものは？\n\nNHKONE ニュース・防災アプリ\n\nNHKONE ニュース・防災アプリ\n",
+  "detailedArticleBody": {
+    "markedLead": "台風13号の最新の進路は「台風マップ」でご確認いただけます。\n",
+    "markedBody": "```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"001\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\r\n    <div class=\"fs-wrap\">\r\n      <h2 class=\"freespace-title\">台風マップ</h2>\r\n\r\n      <a href=\"https://news.web.nhk/bousai-map/typhoon/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"tenkiBousaiMap-fullscreenBtn\">全画面でマップを見る</a>\r\n\r\n      <div class=\"tenkiBousaiMap-wrap\">\r\n        <iframe src=\"https://news.web.nhk/bousai-map/typhoon/?mapMenu=off&amp;help=off&amp;halfModal=off&amp;typhoonSelection=off&amp;disableUserLocation=on\" allowfullscreen=\"allowfullscreen\" scrolling=\"no\" class=\"js-iframe-dataMap\"></iframe>\r\n      </div>\r\n    </div>\n</div>\n```\n\n### 【必要な備えは】\n\n気象庁は今後の情報に注意するよう呼びかけています。\\\n台風への備えに関してまとめた記事はこちらからご覧いただけます。\n\n:::nw--link-type4 {href=https://news.web.nhk/newsweb/na/nc-cc4a20bc-9976-493f-a087-23512046b7d3}\n![台風接近前にやっておくこと 備えを「タイムライン」で](https://news.web.nhk/news/html/20260731/K10015191771_2607311117_0731115137_02_03.jpg)\n\n**台風接近前にやっておくこと 備えを「タイムライン」で**\n:::\n\n:::nw--link-type4 {href=https://news.web.nhk/newsweb/na/nc-58cf1db6-d0c1-4fd2-93d3-99650cdc88f6}\n![非常用持ち出し袋 避難する際に あなたや家族 ペットに必要なものは？](https://news.web.nhk/news/html/20260731/K10015191771_2607311119_0731115137_02_04.jpg)\n\n**非常用持ち出し袋 避難する際に あなたや家族 ペットに必要なものは？**\n:::\n\n:::nw--link-type4 {href=https://www.nhk.or.jp/nhkone/service/app/news_bousai/}\n![NHKONE ニュース・防災アプリ](https://news.web.nhk/news/html/20260731/K10015191771_2607311120_0731115137_02_05.jpg)\n\n**NHKONE ニュース・防災アプリ**\n:::\n",
+    "noHtmlMarkedLead": "台風13号の最新の進路は「台風マップ」でご確認いただけます。\n",
+    "noHtmlMarkedBody": "### 【必要な備えは】\n\n気象庁は今後の情報に注意するよう呼びかけています。\\\n台風への備えに関してまとめた記事はこちらからご覧いただけます。\n\n:::nw--link-type4 {href=https://news.web.nhk/newsweb/na/nc-cc4a20bc-9976-493f-a087-23512046b7d3}\n![台風接近前にやっておくこと 備えを「タイムライン」で](https://news.web.nhk/news/html/20260731/K10015191771_2607311117_0731115137_02_03.jpg)\n\n**台風接近前にやっておくこと 備えを「タイムライン」で**\n:::\n\n:::nw--link-type4 {href=https://news.web.nhk/newsweb/na/nc-58cf1db6-d0c1-4fd2-93d3-99650cdc88f6}\n![非常用持ち出し袋 避難する際に あなたや家族 ペットに必要なものは？](https://news.web.nhk/news/html/20260731/K10015191771_2607311119_0731115137_02_04.jpg)\n\n**非常用持ち出し袋 避難する際に あなたや家族 ペットに必要なものは？**\n:::\n\n:::nw--link-type4 {href=https://www.nhk.or.jp/nhkone/service/app/news_bousai/}\n![NHKONE ニュース・防災アプリ](https://news.web.nhk/news/html/20260731/K10015191771_2607311120_0731115137_02_05.jpg)\n\n**NHKONE ニュース・防災アプリ**\n:::\n",
+    "trimmedLead": "台風13号の最新の進路は「台風マップ」でご確認いただけます。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015191771000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015191771000",
+  "video": [],
+  "citation": [
+    {
+      "name": "【最新の台風情報】予想進路や勢力などを詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/typhoon/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_30060645.jpg"
+    },
+    {
+      "name": "台風マップ 予想進路や勢力をリアルタイム表示",
+      "url": "https://news.web.nhk/bousai-map/typhoon/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31036866.jpg"
+    },
+    {
+      "name": "台風接近前にやっておきたい備え「タイムライン」で",
+      "url": "https://news.web.nhk/newsweb/na/nc-cc4a20bc-9976-493f-a087-23512046b7d3",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_23166686.jpg"
+    },
+    {
+      "name": "台風や低気圧による「暴風」注意点と対策は",
+      "url": "https://news.web.nhk/newsweb/na/nc-ed932a80-8b04-49af-b4e8-2e364a35b909",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_20315661.jpg"
+    },
+    {
+      "name": "伊勢湾台風とは？犠牲者5000人超「暴走木材」が街を襲った",
+      "url": "https://news.web.nhk/newsweb/na/nc-eb22b635-e86a-4563-8a47-77db97cbcfe6",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_23648643.jpg"
+    },
+    {
+      "name": "NHKONE防災 災害リスク・備えをまとめて",
+      "url": "https://news.web.nhk/newsweb/sp/pl/editorial-nwa-0000000132",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30066327.jpg"
+    },
+    {
+      "name": "天気防災サイト あなたの街の天気予報や災害情報を即時提供",
+      "url": "https://news.web.nhk/kishou-saigai/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037196.jpg"
+    },
+    {
+      "name": "天気防災マップ ふだんの雨雲予想から災害時のリスク情報まで",
+      "url": "https://news.web.nhk/bousai-map/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037154.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": true
+  }
+}
