@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015192901000",
+  "dataSourceId": "na",
+  "name": "【プロ野球結果】首位に同率で並ぶ巨人 3本のホームランで快勝",
+  "headline": "【プロ野球結果】首位に同率で並ぶ巨人 3本のホームランで快勝",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015192901000",
+    "playlistId": "news-nwa-sports-nationwide-20260731",
+    "newsarticleName": "【プロ野球結果】首位に同率で並ぶ巨人 3本のホームランで快勝",
+    "playlistName": "7月31日のスポーツニュース",
+    "genreId": "sports",
+    "genreIdSlug": "sports"
+  },
+  "description": "プロ野球は31日、後半戦に入りました。雨で1試合が中止となり5試合が行われました。首位に同率で並ぶ巨人が3本のホームランなどで快勝です。\n\n\n【NHK ONEで配信】ニュースウオッチ9 プロ野球ニュー",
+  "dateModified": "2026-07-31T22:32:33+09:00",
+  "datePublished": "2026-07-31T22:32:33+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260731/K10015192901_2607312108_0731223234_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260731/K10015192901_2607312108_0731223234_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "スポーツ"
+  ],
+  "topic": [
+    {
+      "id": "0000001",
+      "name": "プロ野球",
+      "display": true
+    },
+    {
+      "id": "0001591",
+      "name": "野球",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "プロ野球は31日、後半戦に入りました。雨で1試合が中止となり5試合が行われました。首位に同率で並ぶ巨人が3本のホームランなどで快勝です。\n\n\n【NHK ONEで配信】ニュースウオッチ9 プロ野球ニュー",
+  "articleBody": "プロ野球は31日、後半戦に入りました。雨で1試合が中止となり5試合が行われました。首位に同率で並ぶ巨人が3本のホームランなどで快勝です。\n\n\n【NHK ONEで配信】ニュースウオッチ9 プロ野球ニュース動画\n配信期限8月7日(金)午後10:15まで\n↓↓↓こちらで見られます↓↓↓\n\nニュースウオッチ9プロ野球ニュース動画\n",
+  "detailedArticleBody": {
+    "markedLead": "プロ野球は31日、後半戦に入りました。雨で1試合が中止となり5試合が行われました。首位に同率で並ぶ巨人が3本のホームランなどで快勝です。\n",
+    "markedBody": "【NHK ONEで配信】ニュースウオッチ9 プロ野球ニュース動画\\\n配信期限8月7日(金)午後10:15まで\\\n↓↓↓こちらで見られます↓↓↓\n\n:::nw--link-type5 {href=\"https://www.web.nhk/tv/an/nw9/pl/series-tep-V94JP16WGN/ep/788VLVXN77?startOffset=3962\"}\n![ニュースウオッチ9プロ野球ニュース動画](https://news.web.nhk/news/html/20260731/K10015192901_2607312218_0731223234_02_03.jpg)\n:::\n",
+    "trimmedLead": "プロ野球は31日、後半戦に入りました。雨で1試合が中止となり5試合が行われました。首位に同率で並ぶ巨人が3本のホームランなどで快勝です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015192901000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015192901000",
+  "video": [],
+  "citation": [
+    {
+      "name": "プロ野球 巨人 大地震の被災地熊本支援で募金呼びかけ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015192761000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015192761_2607311949_0731201531_01_02.jpg",
+      "datePublished": "2026-07-31T20:15:30+09:00"
+    },
+    {
+      "name": "UEFA “計画撤回されなければW杯参加せず” FIFAを非難",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015192111000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015192111_2607311429_0731154015_01_02.jpg",
+      "datePublished": "2026-07-31T20:39:01+09:00"
+    },
+    {
+      "name": "サッカー日本代表 次の監督の大岩剛氏が会見 “名誉と重責”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015192371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015192371_2607311809_0731190308_01_02.jpg",
+      "datePublished": "2026-07-31T19:03:07+09:00"
+    },
+    {
+      "name": "過失運転傷害疑いで書類送検のサッカー三笘薫選手 不起訴に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015192541000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015192541_2607311906_0731203712_01_02.jpg",
+      "datePublished": "2026-07-31T20:37:11+09:00"
+    },
+    {
+      "name": "高校総体サッカー男子 熊本の大津高校3位に 会場で大きな声援",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015192311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015192311_2607311732_0731202402_01_03.jpg",
+      "datePublished": "2026-07-31T20:24:01+09:00"
+    },
+    {
+      "name": "ラグビーＷ杯出場の中島イシレリ選手引退へ 新規定の影響も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015192781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015192781_2607312013_0731213251_01_02.jpg",
+      "datePublished": "2026-07-31T21:32:51+09:00"
+    },
+    {
+      "name": "五十嵐有紗 志田千陽がペア解消 バドミントン女子ダブルス",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015192841000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015192841_2607312030_0731213142_01_02.jpg",
+      "datePublished": "2026-07-31T21:31:42+09:00"
+    },
+    {
+      "name": "ホワイトソックス村上宗隆 7試合連続安打 サヨナラ勝ちに貢献",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015191591_2607310804_0731082746_01_02.jpg",
+      "datePublished": "2026-07-31T08:27:45+09:00"
+    },
+    {
+      "name": "ドジャース佐々木 6回途中2失点で5勝目 大谷は出場なし",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015192261000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015192261_2607311627_0731171049_01_02.jpg",
+      "datePublished": "2026-07-31T18:03:22+09:00"
+    },
+    {
+      "name": "ボッチャ世界選手権へ日本代表が合宿 パラ金の杉村英孝が決意",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015192801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015192801_2607312023_0731213346_01_02.jpg",
+      "datePublished": "2026-07-31T21:33:46+09:00"
+    },
+    {
+      "name": "【夏の甲子園 2026】日程・結果・最新ニュース",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002460",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31637391.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
