@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015192041000",
+  "dataSourceId": "na",
+  "name": "北アフリカのスペイン飛び地に移民が殺到し混乱 軍の派遣も",
+  "headline": "北アフリカのスペイン飛び地に移民が殺到し混乱 軍の派遣も",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015192041000",
+    "playlistId": "news-nwa-international-nationwide-20260731",
+    "newsarticleName": "北アフリカのスペイン飛び地に移民が殺到し混乱 軍の派遣も",
+    "playlistName": "7月31日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "スペインの北アフリカにある飛び地に、隣接するモロッコから1日に数千人の移民が海を泳ぐなどして殺到し、事態の鎮静化のため軍が派遣される事態となっています。\n\n\nAP通信などによりますと北アフリカにあるス",
+  "dateModified": "2026-07-31T14:33:36+09:00",
+  "datePublished": "2026-07-31T14:33:36+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260731/K10015192041_2607311334_0731143337_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260731/K10015192041_2607311334_0731143337_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0002499",
+      "name": "スペイン",
+      "display": true
+    },
+    {
+      "id": "0002812",
+      "name": "モロッコ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "スペインの北アフリカにある飛び地に、隣接するモロッコから1日に数千人の移民が海を泳ぐなどして殺到し、事態の鎮静化のため軍が派遣される事態となっています。\n\n\nAP通信などによりますと北アフリカにあるス",
+  "articleBody": "スペインの北アフリカにある飛び地に、隣接するモロッコから1日に数千人の移民が海を泳ぐなどして殺到し、事態の鎮静化のため軍が派遣される事態となっています。\n\n\nAP通信などによりますと北アフリカにあるスペイン領のセウタでは隣接するモロッコから海を泳ぐなどして到達しようとする人が急増し、30日には、合わせて数千人が国境を越えたということです。\n\n現地で撮影された映像では、陸地に上がろうとする人たちが海岸の斜面を埋め尽くし、大勢の若者が一斉にゲートのような場所を突破する様子も確認できます。\n\nAP通信はこの混乱で少なくとも9人が死亡したと伝えていて、事態の鎮静化のためスペイン当局が軍を派遣する事態となっています。\n\nイギリスのBBCは今回、移民が急増した理由は明らかではないものの、背景として7月、スペインの最高裁判所の判決でセウタなどを目指す移民を海で摘発しても、直ちにモロッコに送還することはできないとする判断が示されたことを伝えています。\n",
+  "detailedArticleBody": {
+    "markedLead": "スペインの北アフリカにある飛び地に、隣接するモロッコから1日に数千人の移民が海を泳ぐなどして殺到し、事態の鎮静化のため軍が派遣される事態となっています。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20260731/K10015192041_2607311334_0731143337_02_03.jpg)\n\nAP通信などによりますと北アフリカにあるスペイン領のセウタでは隣接するモロッコから海を泳ぐなどして到達しようとする人が急増し、30日には、合わせて数千人が国境を越えたということです。\n\n現地で撮影された映像では、陸地に上がろうとする人たちが海岸の斜面を埋め尽くし、大勢の若者が一斉にゲートのような場所を突破する様子も確認できます。\n\nAP通信はこの混乱で少なくとも9人が死亡したと伝えていて、事態の鎮静化のためスペイン当局が軍を派遣する事態となっています。\n\nイギリスのBBCは今回、移民が急増した理由は明らかではないものの、背景として7月、スペインの最高裁判所の判決でセウタなどを目指す移民を海で摘発しても、直ちにモロッコに送還することはできないとする判断が示されたことを伝えています。\n",
+    "trimmedLead": "スペインの北アフリカにある飛び地に、隣接するモロッコから1日に数千人の移民が海を泳ぐなどして殺到し、事態の鎮静化のため軍が派遣される事態となっています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015192041000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015192041000",
+  "video": [],
+  "citation": [
+    {
+      "name": "熊本で震度7 同程度の地震に注意 熱中症対策を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015191461_2607311146_0731115104_01_02.jpg",
+      "datePublished": "2026-07-31T12:02:51+09:00"
+    },
+    {
+      "name": "【被害状況】熊本地震 関連調査中含め35人死亡 熊本県発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015191421_2607311158_0731115953_01_02.jpg",
+      "datePublished": "2026-07-31T16:11:16+09:00"
+    },
+    {
+      "name": "イオンモール熊本 取り残された人いないか 警察の捜索続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015191471_2607311309_0731132642_01_02.jpg",
+      "datePublished": "2026-07-31T13:01:22+09:00"
+    },
+    {
+      "name": "熊本地震 約10キロの範囲で地表にずれや段差 衛星画像を分析",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015191131_2607302009_0730203052_01_02.jpg",
+      "datePublished": "2026-07-30T21:59:17+09:00"
+    },
+    {
+      "name": "九州新幹線 博多～熊本 運転再開 高速道路は通行止め続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015191431_2607302356_0731000954_01_02.jpg",
+      "datePublished": "2026-07-31T15:48:15+09:00"
+    },
+    {
+      "name": "東～西日本中心に危険な暑さ 熊本県内も猛烈な暑さ予想",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015191291_2607310531_0731060916_01_02.jpg",
+      "datePublished": "2026-07-31T16:28:48+09:00"
+    },
+    {
+      "name": "【台風13号】今後の進路や情報に注意",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015191771_2607311258_0731130202_01_02.jpg",
+      "datePublished": "2026-07-31T13:02:01+09:00"
+    },
+    {
+      "name": "8月食品値上げは2300品目超 値上げラッシュ秋にピークか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191751000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015191751_2607311052_0731112211_01_02.jpg",
+      "datePublished": "2026-07-31T11:22:11+09:00"
+    },
+    {
+      "name": "トランプ大統領“ハマスの武装解除で合意” ガザ地区めぐり",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015191691_2607311005_0731100749_01_03.jpg",
+      "datePublished": "2026-07-31T15:07:34+09:00"
+    },
+    {
+      "name": "米・イラン戦闘再開 ホルムズ海峡は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015187931000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260729/K10015187931_2607281200_0729120229_01_02.jpg",
+      "datePublished": "2026-07-29T12:02:28+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
