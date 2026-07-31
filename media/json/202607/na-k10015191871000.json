@@ -1,0 +1,145 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015191871000",
+  "dataSourceId": "na",
+  "name": "厚生労働省の新事務次官に村山誠氏 旧労働省出身は11年ぶり",
+  "headline": "厚生労働省の新事務次官に村山誠氏 旧労働省出身は11年ぶり",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015191871000",
+    "playlistId": "news-nwa-politics-nationwide-20260731",
+    "newsarticleName": "厚生労働省の新事務次官に村山誠氏 旧労働省出身は11年ぶり",
+    "playlistName": "7月31日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "政府は、31日の閣議で、厚生労働省の新しい事務次官に村山誠・職業安定局長を起用する人事を決めました。\n\n\nこれは、伊原和人・事務次官の退任に伴うものです。\n\n新たに厚生労働省の事務次官に起用される村山",
+  "dateModified": "2026-07-31T13:09:36+09:00",
+  "datePublished": "2026-07-31T13:09:36+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260731/K10015191871_2607311259_0731130936_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260731/K10015191871_2607311259_0731130936_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0002401",
+      "name": "厚生労働省",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "政府は、31日の閣議で、厚生労働省の新しい事務次官に村山誠・職業安定局長を起用する人事を決めました。\n\n\nこれは、伊原和人・事務次官の退任に伴うものです。\n\n新たに厚生労働省の事務次官に起用される村山",
+  "articleBody": "政府は、31日の閣議で、厚生労働省の新しい事務次官に村山誠・職業安定局長を起用する人事を決めました。\n\n\nこれは、伊原和人・事務次官の退任に伴うものです。\n\n新たに厚生労働省の事務次官に起用される村山誠氏は、千葉県出身の60歳。\n\n1990年に当時の労働省に入り、雇用環境・均等局長や官房長などを経て、去年7月から職業安定局長を務めています。\n\n旧労働省の出身者が事務次官に就任するのは、2015年に退任した村木厚子氏以来、11年ぶりとなります。\n\nこの人事は、来月4日に発令されます。\n",
+  "detailedArticleBody": {
+    "markedLead": "政府は、31日の閣議で、厚生労働省の新しい事務次官に村山誠・職業安定局長を起用する人事を決めました。\n",
+    "markedBody": "これは、伊原和人・事務次官の退任に伴うものです。\n\n新たに厚生労働省の事務次官に起用される村山誠氏は、千葉県出身の60歳。\n\n1990年に当時の労働省に入り、雇用環境・均等局長や官房長などを経て、去年7月から職業安定局長を務めています。\n\n旧労働省の出身者が事務次官に就任するのは、2015年に退任した村木厚子氏以来、11年ぶりとなります。\n\nこの人事は、来月4日に発令されます。\n",
+    "trimmedLead": "政府は、31日の閣議で、厚生労働省の新しい事務次官に村山誠・職業安定局長を起用する人事を決めました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015191871000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015191871000",
+  "video": [],
+  "citation": [
+    {
+      "name": "熊本で震度7 同程度の地震に注意 熱中症対策を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015191461_2607311146_0731115104_01_02.jpg",
+      "datePublished": "2026-07-31T12:02:51+09:00"
+    },
+    {
+      "name": "【被害状況】熊本地震 関連調査中含め35人死亡 熊本県発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015191421_2607311158_0731115953_01_02.jpg",
+      "datePublished": "2026-07-31T14:26:42+09:00"
+    },
+    {
+      "name": "イオンモール熊本 取り残された人いないか 警察の捜索続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015191471_2607311309_0731132642_01_02.jpg",
+      "datePublished": "2026-07-31T13:01:22+09:00"
+    },
+    {
+      "name": "日本製紙 八代工場 閉じ込めの11人全員救助 うち9人死亡",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191681000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015191681_2607310954_0731104251_01_02.jpg",
+      "datePublished": "2026-07-31T10:42:50+09:00"
+    },
+    {
+      "name": "政府・日銀 市場介入実施と判明 約5円変動した昨夜の円高",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191381000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015191381_2607310856_0731085822_01_03.jpg",
+      "datePublished": "2026-07-31T13:31:44+09:00"
+    },
+    {
+      "name": "【台風13号】今後の進路や情報に注意",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015191771_2607311258_0731130202_01_02.jpg",
+      "datePublished": "2026-07-31T13:02:01+09:00"
+    },
+    {
+      "name": "8月食品値上げは2300品目超 値上げラッシュ秋にピークか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191751000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015191751_2607311052_0731112211_01_02.jpg",
+      "datePublished": "2026-07-31T11:22:11+09:00"
+    },
+    {
+      "name": "7月の東京23区の消費者物価指数 前年同月比＋1.9％",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191621000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015191621_2607310851_0731091252_01_02.jpg",
+      "datePublished": "2026-07-31T11:20:30+09:00"
+    },
+    {
+      "name": "トランプ大統領“ハマスの武装解除で合意” ガザ地区めぐり",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015191691_2607311005_0731100749_01_03.jpg",
+      "datePublished": "2026-07-31T12:41:00+09:00"
+    },
+    {
+      "name": "米アップル3か月決算 iPhone好調で増益もメモリ高騰の影響示唆",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015191711_2607311005_0731105536_01_02.jpg",
+      "datePublished": "2026-07-31T10:55:35+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

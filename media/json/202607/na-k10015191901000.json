@@ -1,0 +1,170 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015191901000",
+  "dataSourceId": "na",
+  "name": "熊本断水「水道の応急復旧見込み 来週中に示したい」国交相",
+  "headline": "熊本断水「水道の応急復旧見込み 来週中に示したい」国交相",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015191901000",
+    "playlistId": "news-nwa-disaster-nationwide-20260731",
+    "newsarticleName": "熊本断水「水道の応急復旧見込み 来週中に示したい」国交相",
+    "playlistName": "7月31日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "国土交通省によりますと、今回の地震で、熊本県内では、31日午前9時時点で、およそ7万9000戸が断水しているということです。\n\n\n熊本県のライフライン情報\n\n熊本県のライフライン情報\n熊本県のライフラ",
+  "dateModified": "2026-07-31T13:00:49+09:00",
+  "datePublished": "2026-07-31T13:00:49+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260731/K10015191901_2607311222_0731130050_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260731/K10015191901_2607311222_0731130050_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害",
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "0002860",
+      "name": "令和8年熊本地震",
+      "display": true
+    },
+    {
+      "id": "0002243",
+      "name": "熊本県",
+      "display": true
+    },
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0002623",
+      "name": "ライフライン",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "国土交通省によりますと、今回の地震で、熊本県内では、31日午前9時時点で、およそ7万9000戸が断水しているということです。\n\n\n熊本県のライフライン情報\n\n熊本県のライフライン情報\n熊本県のライフラ",
+  "articleBody": "国土交通省によりますと、今回の地震で、熊本県内では、31日午前9時時点で、およそ7万9000戸が断水しているということです。\n\n\n熊本県のライフライン情報\n\n熊本県のライフライン情報\n熊本県のライフライン情報や災害関連情報です\nお住まいの地域の市町村名をクリックしてください\n\n被災地では、31日も猛烈な暑さが予想される中、現時点で45台の給水車が稼働していますが、さらに今後、81台にまで増やす予定だということです。\n\n断水の状況を把握するため、国土交通省は今月29日から担当者を派遣していて、金子国土交通大臣は31日の閣議後の会見で「断水の解消に向けては、調査結果を踏まえ来週中をめどにおおむねの応急復旧の見込みを示したい」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "国土交通省によりますと、今回の地震で、熊本県内では、31日午前9時時点で、およそ7万9000戸が断水しているということです。\n",
+    "markedBody": ":::nw--link-type4 {href=https://news.web.nhk/kishou-saigai/lifeline/pref/kumamoto/}\n![熊本県のライフライン情報](https://news.web.nhk/news/html/20260731/K10015191901_2607311224_0731130050_02_03.jpg)\n\n**熊本県のライフライン情報**\\\n熊本県のライフライン情報や災害関連情報です\\\nお住まいの地域の市町村名をクリックしてください\n:::\n\n被災地では、31日も猛烈な暑さが予想される中、現時点で45台の給水車が稼働していますが、さらに今後、81台にまで増やす予定だということです。\n\n断水の状況を把握するため、国土交通省は今月29日から担当者を派遣していて、金子国土交通大臣は31日の閣議後の会見で「断水の解消に向けては、調査結果を踏まえ来週中をめどにおおむねの応急復旧の見込みを示したい」と述べました。\n",
+    "trimmedLead": "国土交通省によりますと、今回の地震で、熊本県内では、31日午前9時時点で、およそ7万9000戸が断水しているということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015191901000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015191901000",
+  "video": [],
+  "citation": [
+    {
+      "name": "ライフラインへの影響（電気 水道 ガスなど）【7月31日】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191411000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015191411_2607302351_0731060159_01_02.jpg",
+      "datePublished": "2026-07-31T13:16:37+09:00"
+    },
+    {
+      "name": "【被害状況】熊本地震 関連調査中含め35人死亡 熊本県発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015191421_2607311158_0731115953_01_02.jpg",
+      "datePublished": "2026-07-31T14:26:42+09:00"
+    },
+    {
+      "name": "熊本で震度7 同程度の地震に注意 熱中症対策を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015191461_2607311146_0731115104_01_02.jpg",
+      "datePublished": "2026-07-31T12:02:51+09:00"
+    },
+    {
+      "name": "イオンモール熊本 取り残された人いないか 警察の捜索続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015191471_2607311309_0731132642_01_02.jpg",
+      "datePublished": "2026-07-31T13:01:22+09:00"
+    },
+    {
+      "name": "日本製紙 八代工場 閉じ込めの11人全員救助 うち9人死亡",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191681000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015191681_2607310954_0731104251_01_02.jpg",
+      "datePublished": "2026-07-31T10:42:50+09:00"
+    },
+    {
+      "name": "九州新幹線 博多～熊本 運転再開 高速道路は通行止め続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015191431_2607302356_0731000954_01_02.jpg",
+      "datePublished": "2026-07-31T12:35:44+09:00"
+    },
+    {
+      "name": "日本製紙 八代工場 残る1人救助 容体不明 捜索活動が終了",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190441000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190441_2607301432_0730143247_01_03.jpg",
+      "datePublished": "2026-07-31T00:07:36+09:00"
+    },
+    {
+      "name": "【避難中の皆さんへ】災害関連死防ぐための“命を守る対策”を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015191531_2607310621_0731063144_01_03.jpg",
+      "datePublished": "2026-07-31T11:52:30+09:00"
+    },
+    {
+      "name": "熊本 地震被害の「り災証明書」 申請の受け付け始まる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015190311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260730/K10015190311_2607300647_0730080959_01_02.jpg",
+      "datePublished": "2026-07-30T18:18:11+09:00"
+    },
+    {
+      "name": "熊本県のライフライン 停電・給水・通信などの情報",
+      "url": "https://news.web.nhk/kishou-saigai/lifeline/pref/kumamoto/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31700392.jpg"
+    },
+    {
+      "name": "避難所はどこに？【災害情報マップ】",
+      "url": "https://news.web.nhk/bousai-map/shien/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037807.jpg"
+    },
+    {
+      "name": "地震 津波 最新情報はニュース・防災アプリで",
+      "url": "https://www.nhk.or.jp/nhkone/service/app/news_bousai/",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_31189657.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
