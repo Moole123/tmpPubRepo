@@ -1,0 +1,151 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015193911000",
+  "dataSourceId": "na",
+  "name": "【地震速報】熊本 水俣市 上天草市などで震度4 津波の心配なし",
+  "headline": "【地震速報】熊本 水俣市 上天草市などで震度4 津波の心配なし",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015193911000",
+    "playlistId": "news-nwa-disaster-nationwide-20260802",
+    "newsarticleName": "【地震速報】熊本 水俣市 上天草市などで震度4 津波の心配なし",
+    "playlistName": "8月2日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "２日午前１時７分ごろ地震がありました。\nこの地震による津波の心配はありません。\n震源地は熊本県天草・芦北地方で震源の深さは１０キロ、地震の規模を示すマグニチュードは４．５と推定されます。\n\n\n【各市町",
+  "dateModified": "2026-08-02T01:13:15+09:00",
+  "datePublished": "2026-08-02T01:10:41+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260802/K10015193911_2608020113_0802011401_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260802/K10015193911_2608020113_0802011401_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002860",
+      "name": "令和8年熊本地震",
+      "display": true
+    },
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0002243",
+      "name": "熊本県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "２日午前１時７分ごろ地震がありました。\nこの地震による津波の心配はありません。\n震源地は熊本県天草・芦北地方で震源の深さは１０キロ、地震の規模を示すマグニチュードは４．５と推定されます。\n\n\n【各市町",
+  "articleBody": "２日午前１時７分ごろ地震がありました。\nこの地震による津波の心配はありません。\n震源地は熊本県天草・芦北地方で震源の深さは１０キロ、地震の規模を示すマグニチュードは４．５と推定されます。\n\n\n【各市町村の震度】\n\n各市町村の震度は以下のとおりです。\n\n▼震度4が、熊本県水俣市、熊本県上天草市、熊本県芦北町。\n\n▼震度3が、長崎県南島原市、熊本県八代市、熊本県人吉市、熊本県宇土市、熊本県宇城市、熊本県天草市、熊本県美里町、熊本県津奈木町、熊本県五木村、鹿児島県出水市、鹿児島県薩摩川内市、鹿児島県伊佐市、鹿児島県さつま町、鹿児島県長島町。\n",
+  "detailedArticleBody": {
+    "markedLead": "２日午前１時７分ごろ地震がありました。\\\nこの地震による津波の心配はありません。\\\n震源地は熊本県天草・芦北地方で震源の深さは１０キロ、地震の規模を示すマグニチュードは４．５と推定されます。\n",
+    "markedBody": "### 【各市町村の震度】\n\n各市町村の震度は以下のとおりです。\n\n:::nw--border {style=border-color:#333333}\n▼震度4が、熊本県水俣市、熊本県上天草市、熊本県芦北町。\n\n▼震度3が、長崎県南島原市、熊本県八代市、熊本県人吉市、熊本県宇土市、熊本県宇城市、熊本県天草市、熊本県美里町、熊本県津奈木町、熊本県五木村、鹿児島県出水市、鹿児島県薩摩川内市、鹿児島県伊佐市、鹿児島県さつま町、鹿児島県長島町。\n:::\n",
+    "trimmedLead": "２日午前１時７分ごろ地震がありました。\nこの地震による津波の心配はありません。\n震源地は熊本県天草・芦北地方で震源の深さは１０キロ、地震の規模を示すマグニチュードは４．５と推定されます。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015193911000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015193911000",
+  "video": [],
+  "citation": [
+    {
+      "name": "熊本地震 関連調査中含め36人死亡 住宅被害3400超 県発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260801/K10015193131_2608010642_0801064325_01_02.jpg",
+      "datePublished": "2026-08-01T21:36:07+09:00"
+    },
+    {
+      "name": "イオンモール熊本での捜索活動が終了 7人が死亡 5人がけが",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193651000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260801/K10015193651_2608011804_0801181156_01_02.jpg",
+      "datePublished": "2026-08-01T22:07:10+09:00"
+    },
+    {
+      "name": "【証言】爆発のイオンモール熊本 地震発生から爆発まで何が",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260801/K10015193311_2608011439_0801202303_01_02.jpg",
+      "datePublished": "2026-08-01T20:23:03+09:00"
+    },
+    {
+      "name": "避難生活の注意点“薬は命綱 遠慮せず声あげて”【専門家QA】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193251000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260801/K10015193251_2608011429_0801153523_01_02.jpg",
+      "datePublished": "2026-08-01T15:35:22+09:00"
+    },
+    {
+      "name": "周辺の活断層に“ひずみ”加わった可能性 専門家が分析",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260801/K10015193741_2608011917_0801192049_01_02.jpg",
+      "datePublished": "2026-08-01T19:20:49+09:00"
+    },
+    {
+      "name": "ホワイトソックス 村上 地元の熊本支援オークション開催へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260801/K10015193431_2608011238_0801143929_01_03.jpg",
+      "datePublished": "2026-08-01T14:39:28+09:00"
+    },
+    {
+      "name": "避難所はどこに？【災害情報マップ】",
+      "url": "https://news.web.nhk/bousai-map/shien/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037807.jpg"
+    },
+    {
+      "name": "令和8年熊本地震 特集サイト",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002860",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31715354.jpg"
+    },
+    {
+      "name": "【熊本地震】避難 ライフライン 交通影響 支援の動き 被災地はいま",
+      "url": "https://news.web.nhk/newsweb/sp/pl/editorial-nwa-0000000624",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31718572.jpg"
+    },
+    {
+      "name": "地震 津波 最新情報はニュース・防災アプリで",
+      "url": "https://www.nhk.or.jp/nhkone/service/app/news_bousai/",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_31189657.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
