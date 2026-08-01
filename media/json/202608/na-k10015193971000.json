@@ -1,0 +1,151 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015193971000",
+  "dataSourceId": "na",
+  "name": "モスクワで爆発 3人死亡 15人けが 原因や背景を捜査",
+  "headline": "モスクワで爆発 3人死亡 15人けが 原因や背景を捜査",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015193971000",
+    "playlistId": "news-nwa-international-nationwide-20260802",
+    "newsarticleName": "モスクワで爆発 3人死亡 15人けが 原因や背景を捜査",
+    "playlistName": "8月2日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "ロシアの首都モスクワ中心部で爆発があり、現地のメディアによりますと、これまでに3人が死亡し、15人がけがをしました。ロシアでは、ウクライナへの軍事侵攻開始以降、軍の幹部が爆発によって殺害される事件が相",
+  "dateModified": "2026-08-02T05:31:37+09:00",
+  "datePublished": "2026-08-02T05:31:37+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260802/K10015193971_2608020530_0802053138_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260802/K10015193971_2608020530_0802053138_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0001600",
+      "name": "ロシア",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ロシアの首都モスクワ中心部で爆発があり、現地のメディアによりますと、これまでに3人が死亡し、15人がけがをしました。ロシアでは、ウクライナへの軍事侵攻開始以降、軍の幹部が爆発によって殺害される事件が相",
+  "articleBody": "ロシアの首都モスクワ中心部で爆発があり、現地のメディアによりますと、これまでに3人が死亡し、15人がけがをしました。ロシアでは、ウクライナへの軍事侵攻開始以降、軍の幹部が爆発によって殺害される事件が相次いでいて、現地の捜査当局が爆発の原因や背景について捜査しています。\n\n\nロシアの複数のメディアは1日、首都モスクワ中心部のレストランの近くで爆発があり、これまでに3人が死亡し、15人がけがをしたと伝えました。\n\nレストランの周りには、救急車や捜査当局の車両が集まって厳重な警備態勢が敷かれ、一時、騒然としました。\n\nロシアでは、4年前に始まったウクライナへの軍事侵攻以降、軍の幹部が爆発によって殺害される事件が相次いでいて、現地の捜査当局が爆発の原因や背景について捜査しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "ロシアの首都モスクワ中心部で爆発があり、現地のメディアによりますと、これまでに3人が死亡し、15人がけがをしました。ロシアでは、ウクライナへの軍事侵攻開始以降、軍の幹部が爆発によって殺害される事件が相次いでいて、現地の捜査当局が爆発の原因や背景について捜査しています。\n",
+    "markedBody": "ロシアの複数のメディアは1日、首都モスクワ中心部のレストランの近くで爆発があり、これまでに3人が死亡し、15人がけがをしたと伝えました。\n\nレストランの周りには、救急車や捜査当局の車両が集まって厳重な警備態勢が敷かれ、一時、騒然としました。\n\nロシアでは、4年前に始まったウクライナへの軍事侵攻以降、軍の幹部が爆発によって殺害される事件が相次いでいて、現地の捜査当局が爆発の原因や背景について捜査しています。\n",
+    "trimmedLead": "ロシアの首都モスクワ中心部で爆発があり、現地のメディアによりますと、これまでに3人が死亡し、15人がけがをしました。ロシアでは、ウクライナへの軍事侵攻開始以降、軍の幹部が爆発によって殺害される事件が相次いでいて、現地の捜査当局が爆発の原因や背景について捜査しています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015193971000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015193971000",
+  "video": [],
+  "citation": [
+    {
+      "name": "米報道“週末にも攻撃計画” イランもけん制 攻撃応酬に懸念",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193951000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260802/K10015193951_2608020416_0802051218_01_02.jpg",
+      "datePublished": "2026-08-02T05:12:18+09:00"
+    },
+    {
+      "name": "米財務省が31日に円買い介入と報道 協調介入であれば異例",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193361000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260801/K10015193361_2608011139_0801114609_01_02.jpg",
+      "datePublished": "2026-08-01T11:46:08+09:00"
+    },
+    {
+      "name": "「今週末にもイランへの攻撃計画か」米の複数メディアが報道",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193371000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260801/K10015193371_2608011148_0801115737_01_02.jpg",
+      "datePublished": "2026-08-01T11:57:36+09:00"
+    },
+    {
+      "name": "トランプ大統領“イランへの信頼失いつつある”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193211000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260801/K10015193211_2608010933_0801100149_01_02.jpg",
+      "datePublished": "2026-08-01T10:01:48+09:00"
+    },
+    {
+      "name": "ハマス 武装解除はイスラエル軍の撤退などが条件と主張",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193151000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260801/K10015193151_2608010938_0801101459_01_02.jpg",
+      "datePublished": "2026-08-01T10:14:58+09:00"
+    },
+    {
+      "name": "【随時更新】ロシア ウクライナに軍事侵攻（8月1日の動き）",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015192401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260801/K10015192401_2607311850_0801180738_01_02.jpg",
+      "datePublished": "2026-08-01T18:07:37+09:00"
+    },
+    {
+      "name": "米「ウイグル強制労働防止法」で中国43社輸入規制 中国は反発",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260801/K10015193521_2608011436_0801150735_01_02.jpg",
+      "datePublished": "2026-08-01T15:07:35+09:00"
+    },
+    {
+      "name": "中国進出の日系企業「輸出規制強化の中 税関審査が長期化」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193291000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260801/K10015193291_2608011058_0801110653_01_02.jpg",
+      "datePublished": "2026-08-01T11:06:52+09:00"
+    },
+    {
+      "name": "ユーロ圏7月消費者物価 2.9％上昇 前年同月比",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193051000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260801/K10015193051_2608010957_0801095814_01_02.jpg",
+      "datePublished": "2026-08-01T09:49:00+09:00"
+    },
+    {
+      "name": "世界の広い地域で10月まで高温予想 国連が強い危機感",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193221000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260801/K10015193221_2608010802_0801092722_01_02.jpg",
+      "datePublished": "2026-08-01T09:27:21+09:00"
+    },
+    {
+      "name": "FIFAが子会社設立計画を撤回 UEFAなどの反発受け",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260801/K10015193461_2608011313_0801144827_01_02.jpg",
+      "datePublished": "2026-08-01T22:55:39+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
