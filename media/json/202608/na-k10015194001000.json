@@ -1,0 +1,146 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015194001000",
+  "dataSourceId": "na",
+  "name": "熊本地震 水道 ガス 通信など ライフラインへの影響 コンビニなどの休業情報も【8月2日】",
+  "headline": "ライフラインへの影響(水道 ガス 通信など)【8月2日】",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015194001000",
+    "playlistId": "news-nwa-disaster-nationwide-20260802",
+    "newsarticleName": "熊本地震 水道 ガス 通信など ライフラインへの影響 コンビニなどの休業情報も【8月2日】",
+    "playlistName": "8月2日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "今回の地震によるライフラインへの影響です。\n\n\n【詳しく】熊本県のライフライン情報\n\n【詳しく】熊本県のライフライン情報\n熊本県のライフライン情報や災害関連情報です\nお住まいの地域の市町村名をクリック",
+  "dateModified": "2026-08-02T07:27:28+09:00",
+  "datePublished": "2026-08-02T07:27:28+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260802/K10015194001_2608020625_0802072729_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260802/K10015194001_2608020625_0802072729_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002860",
+      "name": "令和8年熊本地震",
+      "display": true
+    },
+    {
+      "id": "0002623",
+      "name": "ライフライン",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "今回の地震によるライフラインへの影響です。\n\n\n【詳しく】熊本県のライフライン情報\n\n【詳しく】熊本県のライフライン情報\n熊本県のライフライン情報や災害関連情報です\nお住まいの地域の市町村名をクリック",
+  "articleBody": "今回の地震によるライフラインへの影響です。\n\n\n【詳しく】熊本県のライフライン情報\n\n【詳しく】熊本県のライフライン情報\n熊本県のライフライン情報や災害関連情報です\nお住まいの地域の市町村名をクリックしてください\n\n災害情報マップ【給水情報】\n\n災害情報マップ【給水情報】\n被害情報、給水所や避難所の情報などを確認できるマップです\n\n水道\n\n熊本県によりますと、1日午後2時の時点で、およそ6万9400戸で断水が続いています。\n\n自治体別では\n▽八代市でおよそ2万5300戸\n▽宇城市でおよそ1万7800戸\n▽宇土市でおよそ1万2200戸\n▽上天草市でおよそ7300戸\n▽熊本市と氷川町でそれぞれおよそ3200戸\n▽甲佐町でおよそ400戸となっています。\n\nガス\n\n都市ガスの供給にも影響が出ています。\n\n九州ガスによりますと、2日午前6時の時点で八代市のおよそ8700戸で供給を停止しています。\n\n復旧には少なくとも1週間から2週間ほどかかる見通しだということです。\n\n熊本県の最新ニュース\n\n熊本県の最新ニュース\n現地の最新ニュース一覧はこちらから\n\nNHK ONE ニュース・防災アプリ\n\nNHK ONE ニュース・防災アプリ\n地震の発生や速報ニュースをプッシュ通知でお知らせします\n",
+  "detailedArticleBody": {
+    "markedLead": "今回の地震によるライフラインへの影響です。\n",
+    "markedBody": ":::nw--link-type4 {href=https://news.web.nhk/kishou-saigai/lifeline/pref/kumamoto/}\n![【詳しく】熊本県のライフライン情報](https://news.web.nhk/news/html/20260802/K10015194001_2608020709_0802072729_02_03.jpg)\n\n**【詳しく】熊本県のライフライン情報**\\\n熊本県のライフライン情報や災害関連情報です\\\nお住まいの地域の市町村名をクリックしてください\n:::\n\n:::nw--link-type4 {href=\"https://news.web.nhk/bousai-map/shien/?lat=32.6463&#x26;lng=130.7166&#x26;zoom=6\"}\n![災害情報マップ【給水情報】](https://news.web.nhk/news/html/20260802/K10015194001_2608020710_0802072729_02_04.jpg)\n\n**災害情報マップ【給水情報】**\\\n被害情報、給水所や避難所の情報などを確認できるマップです\n:::\n\n### 水道\n\n熊本県によりますと、1日午後2時の時点で、およそ6万9400戸で断水が続いています。\n\n自治体別では\\\n▽八代市でおよそ2万5300戸\\\n▽宇城市でおよそ1万7800戸\\\n▽宇土市でおよそ1万2200戸\\\n▽上天草市でおよそ7300戸\\\n▽熊本市と氷川町でそれぞれおよそ3200戸\\\n▽甲佐町でおよそ400戸となっています。\n\n### ガス\n\n都市ガスの供給にも影響が出ています。\n\n九州ガスによりますと、2日午前6時の時点で八代市のおよそ8700戸で供給を停止しています。\n\n復旧には少なくとも1週間から2週間ほどかかる見通しだということです。\n\n:::nw--link-type4 {href=https://news.web.nhk/newsweb/area/430}\n![熊本県の最新ニュース](https://news.web.nhk/news/html/20260802/K10015194001_2608020714_0802072729_02_05.jpg)\n\n**熊本県の最新ニュース**\\\n現地の最新ニュース一覧はこちらから\n:::\n\n:::nw--link-type4 {href=https://www.nhk.or.jp/nhkone/service/app/news_bousai/}\n![NHK ONE ニュース・防災アプリ](https://news.web.nhk/news/html/20260802/K10015194001_2608020715_0802072729_02_06.jpg)\n\n**NHK ONE ニュース・防災アプリ**\\\n地震の発生や速報ニュースをプッシュ通知でお知らせします\n:::\n",
+    "trimmedLead": "今回の地震によるライフラインへの影響です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015194001000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015194001000",
+  "video": [],
+  "citation": [
+    {
+      "name": "熊本地震 関連調査中含め36人死亡 住宅被害3400超 県発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260801/K10015193131_2608010642_0801064325_01_02.jpg",
+      "datePublished": "2026-08-01T21:36:07+09:00"
+    },
+    {
+      "name": "イオンモール熊本での捜索活動が終了 7人が死亡 5人がけが",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193651000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260801/K10015193651_2608011804_0801181156_01_02.jpg",
+      "datePublished": "2026-08-01T22:07:10+09:00"
+    },
+    {
+      "name": "【証言】爆発のイオンモール熊本 地震発生から爆発まで何が",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260801/K10015193311_2608011439_0801202303_01_02.jpg",
+      "datePublished": "2026-08-01T20:23:03+09:00"
+    },
+    {
+      "name": "避難生活の注意点“薬は命綱 遠慮せず声あげて”【専門家QA】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193251000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260801/K10015193251_2608011429_0801153523_01_02.jpg",
+      "datePublished": "2026-08-01T15:35:22+09:00"
+    },
+    {
+      "name": "周辺の活断層に“ひずみ”加わった可能性 専門家が分析",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260801/K10015193741_2608011917_0801192049_01_02.jpg",
+      "datePublished": "2026-08-01T19:20:49+09:00"
+    },
+    {
+      "name": "ホワイトソックス 村上 地元の熊本支援オークション開催へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260801/K10015193431_2608011238_0801143929_01_03.jpg",
+      "datePublished": "2026-08-01T14:39:28+09:00"
+    },
+    {
+      "name": "避難所はどこに？【災害情報マップ】",
+      "url": "https://news.web.nhk/bousai-map/shien/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037807.jpg"
+    },
+    {
+      "name": "令和8年熊本地震 特集サイト",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002860",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31715354.jpg"
+    },
+    {
+      "name": "【熊本地震】避難 ライフライン 交通影響 支援の動き 被災地はいま",
+      "url": "https://news.web.nhk/newsweb/sp/pl/editorial-nwa-0000000624",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31718572.jpg"
+    },
+    {
+      "name": "地震 津波 最新情報はニュース・防災アプリで",
+      "url": "https://www.nhk.or.jp/nhkone/service/app/news_bousai/",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_31189657.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
