@@ -1,0 +1,142 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015193241000",
+  "dataSourceId": "na",
+  "name": "千葉 市川 マンションで「爆発音がした」通報 複数人けがか",
+  "headline": "千葉 市川 マンションで「爆発音がした」通報 複数人けがか",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015193241000",
+    "playlistId": "news-nwa-society-nationwide-20260801",
+    "newsarticleName": "千葉 市川 マンションで「爆発音がした」通報 複数人けがか",
+    "playlistName": "8月1日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "警察によりますと、1日午前6時半ごろ、千葉県市川市のマンションで「爆発音がした」と通報があり、複数人がけがをしているということです。詳しい容体などは分かっておらず、警察が詳しい状況を調べています。\n\n",
+  "dateModified": "2026-08-01T08:47:52+09:00",
+  "datePublished": "2026-08-01T08:47:52+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260801/K10015193241_2608010856_0801085815_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260801/K10015193241_2608010856_0801085815_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002212",
+      "name": "千葉県",
+      "display": true
+    },
+    {
+      "id": "0001538",
+      "name": "事件・事故",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "警察によりますと、1日午前6時半ごろ、千葉県市川市のマンションで「爆発音がした」と通報があり、複数人がけがをしているということです。詳しい容体などは分かっておらず、警察が詳しい状況を調べています。\n\n",
+  "articleBody": "警察によりますと、1日午前6時半ごろ、千葉県市川市のマンションで「爆発音がした」と通報があり、複数人がけがをしているということです。詳しい容体などは分かっておらず、警察が詳しい状況を調べています。\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "警察によりますと、1日午前6時半ごろ、千葉県市川市のマンションで「爆発音がした」と通報があり、複数人がけがをしているということです。詳しい容体などは分かっておらず、警察が詳しい状況を調べています。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20260801/K10015193241_2608010856_0801085815_02_03.jpg)\n",
+    "trimmedLead": "警察によりますと、1日午前6時半ごろ、千葉県市川市のマンションで「爆発音がした」と通報があり、複数人がけがをしているということです。詳しい容体などは分かっておらず、警察が詳しい状況を調べています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015193241000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015193241000",
+  "video": [],
+  "citation": [
+    {
+      "name": "熊本地震 関連調査中含め36人死亡 9500人余りが避難 県発表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260801/K10015193131_2608010642_0801064325_01_02.jpg",
+      "datePublished": "2026-08-01T05:52:48+09:00"
+    },
+    {
+      "name": "39度予想 熊本被災地でも猛暑日に できるかぎりの対策を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193191000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260801/K10015193191_2608010626_0801062730_01_02.jpg",
+      "datePublished": "2026-08-01T07:10:50+09:00"
+    },
+    {
+      "name": "熊本地震 避難生活の長期化も見据え環境改善進める 政府",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193101000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260801/K10015193101_2608010550_0801060304_01_02.jpg",
+      "datePublished": "2026-08-01T06:03:04+09:00"
+    },
+    {
+      "name": "被災地ボランティアの受け入れは“安全確保後に募集” 熊本",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015192461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015192461_2607311908_0731210332_01_02.jpg",
+      "datePublished": "2026-07-31T21:03:31+09:00"
+    },
+    {
+      "name": "円相場 再び急激な円買い 米財務省が市場介入の可能性伝達",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193171000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260801/K10015193171_2608010719_0801071955_01_02.jpg",
+      "datePublished": "2026-08-01T06:35:27+09:00"
+    },
+    {
+      "name": "消費税減税 自民党内に慎重意見も根強く 週明けも議論継続へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193121000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260801/K10015193121_2608010504_0801060812_01_02.jpg",
+      "datePublished": "2026-08-01T06:08:11+09:00"
+    },
+    {
+      "name": "スペイン飛び地に移民殺到 周辺国は警戒強める",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260801/K10015193141_2608010504_0801063025_01_02.jpg",
+      "datePublished": "2026-08-01T06:30:25+09:00"
+    },
+    {
+      "name": "令和8年熊本地震 特集サイト",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002860",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31715354.jpg"
+    },
+    {
+      "name": "【夏の甲子園 2026】日程・結果・最新ニュース",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002460",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31637391.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
