@@ -1,0 +1,163 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015193551000",
+  "dataSourceId": "na",
+  "name": "熊本市 支援物資を避難所へ 物資集積センターの運用開始",
+  "headline": "熊本市 支援物資を避難所へ 物資集積センターの運用開始",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015193551000",
+    "playlistId": "news-nwa-disaster-nationwide-20260801",
+    "newsarticleName": "熊本市 支援物資を避難所へ 物資集積センターの運用開始",
+    "playlistName": "8月1日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "熊本市では、各地からの支援物資を避難所ごとのニーズに応じて届けるための物資集積センターが開設され、8月1日から受け入れが始まりました。\n\n\n物資集積センターが開設されたのは、熊本市南区にある屋内プール",
+  "dateModified": "2026-08-01T16:12:22+09:00",
+  "datePublished": "2026-08-01T16:12:22+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260801/K10015193551_2608011548_0801161223_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260801/K10015193551_2608011548_0801161223_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002860",
+      "name": "令和8年熊本地震",
+      "display": true
+    },
+    {
+      "id": "0002623",
+      "name": "ライフライン",
+      "display": true
+    },
+    {
+      "id": "0002243",
+      "name": "熊本県",
+      "display": true
+    },
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "熊本市では、各地からの支援物資を避難所ごとのニーズに応じて届けるための物資集積センターが開設され、8月1日から受け入れが始まりました。\n\n\n物資集積センターが開設されたのは、熊本市南区にある屋内プール",
+  "articleBody": "熊本市では、各地からの支援物資を避難所ごとのニーズに応じて届けるための物資集積センターが開設され、8月1日から受け入れが始まりました。\n\n\n物資集積センターが開設されたのは、熊本市南区にある屋内プール施設「アクアドームくまもと」です。\n\n8月1日は、市の職員などおよそ20人が、高知県須崎市から届いた500ミリリットルの飲料水1万本を、トラックから降ろしてプールサイドに運んでいました。\n\n熊本市では支援物資の提供には市のホームページからの事前の申し込みが必要で、現在は自治体や企業、団体などに限っているということです。\n\n集まった支援物資は、一元的に市が管理し、避難所ごとのニーズに応じて届けることにしています。\n\n熊本市経済観光局の池福史弘課長は「多くの励ましのことばや支援をいただき感謝しています。猛暑の中の避難生活であり、水をはじめとして必要な物資をできるだけ速やかに届けたい」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "熊本市では、各地からの支援物資を避難所ごとのニーズに応じて届けるための物資集積センターが開設され、8月1日から受け入れが始まりました。\n",
+    "markedBody": "物資集積センターが開設されたのは、熊本市南区にある屋内プール施設「アクアドームくまもと」です。\n\n8月1日は、市の職員などおよそ20人が、高知県須崎市から届いた500ミリリットルの飲料水1万本を、トラックから降ろしてプールサイドに運んでいました。\n\n![](https://news.web.nhk/news/html/20260801/K10015193551_2608011548_0801161223_02_03.jpg)\n\n熊本市では支援物資の提供には市のホームページからの事前の申し込みが必要で、現在は自治体や企業、団体などに限っているということです。\n\n集まった支援物資は、一元的に市が管理し、避難所ごとのニーズに応じて届けることにしています。\n\n![](https://news.web.nhk/news/html/20260801/K10015193551_2608011548_0801161223_02_04.jpg)\n\n熊本市経済観光局の池福史弘課長は「多くの励ましのことばや支援をいただき感謝しています。猛暑の中の避難生活であり、水をはじめとして必要な物資をできるだけ速やかに届けたい」と話していました。\n",
+    "trimmedLead": "熊本市では、各地からの支援物資を避難所ごとのニーズに応じて届けるための物資集積センターが開設され、8月1日から受け入れが始まりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015193551000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015193551000",
+  "video": [],
+  "citation": [
+    {
+      "name": "ライフラインへの影響(水道 電気 ガスなど)【8月1日】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193061000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260801/K10015193061_2608010023_0801062045_01_02.jpg",
+      "datePublished": "2026-08-01T18:06:03+09:00"
+    },
+    {
+      "name": "熊本県のライフライン 停電・給水・通信などの情報",
+      "url": "https://news.web.nhk/kishou-saigai/lifeline/pref/kumamoto/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31700392.jpg"
+    },
+    {
+      "name": "【避難中の皆さんへ】災害関連死防ぐための“命を守る対策”を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015191531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015191531_2607310621_0731063144_01_03.jpg",
+      "datePublished": "2026-07-31T11:52:30+09:00"
+    },
+    {
+      "name": "熊本 断水の影響 「災害中間支援組織」が支援漏れないよう調整",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193081000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260801/K10015193081_2608010629_0801063855_01_02.jpg",
+      "datePublished": "2026-08-01T06:38:54+09:00"
+    },
+    {
+      "name": "熊本地震 避難生活の長期化も見据え環境改善進める 政府",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193101000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260801/K10015193101_2608010550_0801060304_01_02.jpg",
+      "datePublished": "2026-08-01T06:03:04+09:00"
+    },
+    {
+      "name": "熊本地震 関連調査中含め36人死亡 9000人余避難",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260801/K10015193131_2608010642_0801064325_01_02.jpg",
+      "datePublished": "2026-08-01T16:23:20+09:00"
+    },
+    {
+      "name": "九州新幹線 熊本～新水俣間「8月中の運転再開は困難」JR九州",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015192431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015192431_2607311915_0731191708_01_02.jpg",
+      "datePublished": "2026-07-31T19:44:06+09:00"
+    },
+    {
+      "name": "熊本 被災地でガソリンの需要が急増 出荷状況は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015192351000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260731/K10015192351_2607311805_0731184946_01_02.jpg",
+      "datePublished": "2026-07-31T18:49:45+09:00"
+    },
+    {
+      "name": "避難所はどこに？【災害情報マップ】",
+      "url": "https://news.web.nhk/bousai-map/shien/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037807.jpg"
+    },
+    {
+      "name": "地震 津波 最新情報はニュース・防災アプリで",
+      "url": "https://www.nhk.or.jp/nhkone/service/app/news_bousai/",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_31189657.jpg"
+    },
+    {
+      "name": "避難生活の注意点“薬は命綱 遠慮せず声あげて”【専門家QA】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193251000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260801/K10015193251_2608011429_0801153523_01_02.jpg",
+      "datePublished": "2026-08-01T15:35:22+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
