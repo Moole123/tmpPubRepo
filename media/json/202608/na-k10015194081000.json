@@ -1,0 +1,166 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015194081000",
+  "dataSourceId": "na",
+  "name": "熊本地震 暑さ対策や支援物資の効率的配送も【支援の動き】",
+  "headline": "熊本地震 暑さ対策や支援物資の効率的配送も【支援の動き】",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015194081000",
+    "playlistId": "news-nwa-disaster-nationwide-20260802",
+    "newsarticleName": "熊本地震 暑さ対策や支援物資の効率的配送も【支援の動き】",
+    "playlistName": "8月2日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "熊本県内の被災地で広がる支援の動きをまとめました。\n\n\n災害情報マップ\n\n災害情報マップ\n避難所や給水所、支援の情報などを地図で確認できます\n\n《暑さ対策》\n\n【八代】涼めるコンテナハウス設置 \n\n今",
+  "dateModified": "2026-08-02T11:40:46+09:00",
+  "datePublished": "2026-08-02T11:40:46+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260802/K10015194081_2608021045_0802114047_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260802/K10015194081_2608021045_0802114047_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害",
+    "暮らし"
+  ],
+  "topic": [
+    {
+      "id": "0002860",
+      "name": "令和8年熊本地震",
+      "display": true
+    },
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0002243",
+      "name": "熊本県",
+      "display": true
+    },
+    {
+      "id": "0000010",
+      "name": "生成AI・人工知能",
+      "display": true
+    }
+  ],
+  "toc": [
+    {
+      "link": "#anchor-003",
+      "title": "【八代】涼めるコンテナハウス設置"
+    },
+    {
+      "link": "#anchor-011",
+      "title": "【八代】AI利用システムで支援物資の効率的配送に"
+    }
+  ],
+  "abstract": "熊本県内の被災地で広がる支援の動きをまとめました。\n\n\n災害情報マップ\n\n災害情報マップ\n避難所や給水所、支援の情報などを地図で確認できます\n\n《暑さ対策》\n\n【八代】涼めるコンテナハウス設置 \n\n今",
+  "articleBody": "熊本県内の被災地で広がる支援の動きをまとめました。\n\n\n災害情報マップ\n\n災害情報マップ\n避難所や給水所、支援の情報などを地図で確認できます\n\n《暑さ対策》\n\n【八代】涼めるコンテナハウス設置 \n\n今回の地震で被害が大きかった八代市鏡町にあるスーパーの駐車場に設置されたコンテナハウスは、幅およそ2メートル、奥行きがおよそ5メートル、高さがおよそ3メートルあり、屋根一面にはソーラーパネルが取り付けられています。\n\n太陽光発電による電気をバッテリーにためて、コンテナ内のエアコンや電気製品などを動かす仕組みです。\n\nいすも用意されていて10人ほどが涼みながらスマートフォンの充電などができるということです。\n\n利用した60代女性\n「涼しくて本当にありがたいです。エアコンが使えなかった夜は、暑さで頭が痛くなりました。電気や水道のありがたさが本当によく分かります」\n\n会社によりますと、このコンテナハウスは、ふだんは工事現場などで使われているということですが、要望があればほかの場所でも設置したいとしています。\n\n河野拓也さん\n「被災された方やボランティアの皆さんに少しでも快適に過ごしてほしい」\n\n《支援物資》\n\n【八代】AI利用システムで支援物資の効率的配送に \n\n八代市では、避難所への支援物資の効率的な配送などにつなげようと、国の研究機関と企業がAIを使った最新のシステムを試験的に運用しています。\n\n八代市では、避難所を運営する市の職員がスマートフォンのアプリのチャット機能などを通じて、必要な物資の品目や数量などを入力していますが、全体の状況をすぐには把握しづらいという課題があるということです。\n\nこうした中、防災科学技術研究所と、減災関連の事業を行う東京の企業は、共同で開発したAIを使った最新のシステムを試験的に運用しています。\n\nこのシステムでは、市の職員が入力したそれぞれの避難所で必要な物資の品目や数量などが、AIによって20分ほどで一覧表に整理されます。\n\nさらに、避難所の場所とそれぞれ必要な物資が画面上の地図に表示されるほか、必要な物資の数量を円の大きさで表すことができます。\n\nこの日は、共同開発した企業の担当者らが、支援物資の受付や配送を担う市の職員に、システムの活用方法を説明していました。\n\n説明を受けた職員\n「職員の手をかけずにどの避難所で何が足りていないか、最新の状況が一覧でいち早くわかるのがいい。今後すぐにでも使いたい」\n\n防災科学技術研究所 伊勢正研究統括\n「多くの避難所から断片的に入ってくる情報を、AIを利用してわかりやすく早くまとめられる。避難所の要望に迅速に応えるのが災害関連死を防ぐ大きなポイントだ」\n",
+  "detailedArticleBody": {
+    "markedLead": "熊本県内の被災地で広がる支援の動きをまとめました。\n",
+    "markedBody": ":::nw--link-type4 {href=\"https://news.web.nhk/bousai-map/shien/?lat=32.7006&#x26;lng=130.7200&#x26;zoom=11\"}\n![災害情報マップ](https://news.web.nhk/news/html/20260802/K10015194081_2608021113_0802114047_02_03.jpg)\n\n**災害情報マップ**\\\n避難所や給水所、支援の情報などを地図で確認できます\n:::\n\n:::nw--colored {style=background-color:#999999}\n### 《暑さ対策》\n:::\n\n## 【八代】涼めるコンテナハウス設置 {id=anchor-003}\n\n![](https://news.web.nhk/news/html/20260802/K10015194081_2608021042_0802114047_02_04.jpg)\n\n今回の地震で被害が大きかった八代市鏡町にあるスーパーの駐車場に設置されたコンテナハウスは、幅およそ2メートル、奥行きがおよそ5メートル、高さがおよそ3メートルあり、屋根一面にはソーラーパネルが取り付けられています。\n\n![](https://news.web.nhk/news/html/20260802/K10015194081_2608021040_0802114047_02_05.jpg)\n\n太陽光発電による電気をバッテリーにためて、コンテナ内のエアコンや電気製品などを動かす仕組みです。\n\nいすも用意されていて10人ほどが涼みながらスマートフォンの充電などができるということです。\n\n![](https://news.web.nhk/news/html/20260802/K10015194081_2608021040_0802114047_02_06.jpg)\n\n:::nw--colored {style=background-color:#f5f2e6}\n**利用した60代女性**\\\n「涼しくて本当にありがたいです。エアコンが使えなかった夜は、暑さで頭が痛くなりました。電気や水道のありがたさが本当によく分かります」\n:::\n\n会社によりますと、このコンテナハウスは、ふだんは工事現場などで使われているということですが、要望があればほかの場所でも設置したいとしています。\n\n![](https://news.web.nhk/news/html/20260802/K10015194081_2608021040_0802114047_02_07.jpg \"コンテナハウスを設置した「ダイワテック」の 河野拓也さん\")\n\n:::nw--colored {style=background-color:#f5f2e6}\n**河野拓也さん**\\\n「被災された方やボランティアの皆さんに少しでも快適に過ごしてほしい」\n:::\n\n:::nw--colored {style=background-color:#999999}\n### 《支援物資》\n:::\n\n## 【八代】AI利用システムで支援物資の効率的配送に {id=anchor-011}\n\n![](https://news.web.nhk/news/html/20260802/K10015194081_2608021040_0802114047_02_08.jpg)\n\n八代市では、避難所への支援物資の効率的な配送などにつなげようと、国の研究機関と企業がAIを使った最新のシステムを試験的に運用しています。\n\n八代市では、避難所を運営する市の職員がスマートフォンのアプリのチャット機能などを通じて、必要な物資の品目や数量などを入力していますが、全体の状況をすぐには把握しづらいという課題があるということです。\n\nこうした中、防災科学技術研究所と、減災関連の事業を行う東京の企業は、共同で開発したAIを使った最新のシステムを試験的に運用しています。\n\n![](https://news.web.nhk/news/html/20260802/K10015194081_2608021040_0802114047_02_09.jpg)\n\nこのシステムでは、市の職員が入力したそれぞれの避難所で必要な物資の品目や数量などが、AIによって20分ほどで一覧表に整理されます。\n\nさらに、避難所の場所とそれぞれ必要な物資が画面上の地図に表示されるほか、必要な物資の数量を円の大きさで表すことができます。\n\nこの日は、共同開発した企業の担当者らが、支援物資の受付や配送を担う市の職員に、システムの活用方法を説明していました。\n\n:::nw--colored {style=background-color:#f5f2e6}\n**説明を受けた職員**\\\n「職員の手をかけずにどの避難所で何が足りていないか、最新の状況が一覧でいち早くわかるのがいい。今後すぐにでも使いたい」\n:::\n\n![](https://news.web.nhk/news/html/20260802/K10015194081_2608021056_0802114047_02_10.jpg)\n\n:::nw--colored {style=background-color:#f5f2e6}\n**防災科学技術研究所 伊勢正研究統括**\\\n「多くの避難所から断片的に入ってくる情報を、AIを利用してわかりやすく早くまとめられる。避難所の要望に迅速に応えるのが災害関連死を防ぐ大きなポイントだ」\n:::\n",
+    "trimmedLead": "熊本県内の被災地で広がる支援の動きをまとめました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015194081000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015194081000",
+  "video": [],
+  "citation": [
+    {
+      "name": "熊本地震 関連調査中含め38人死亡 9226人が避難",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193881000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260802/K10015193881_2608020133_0802052651_01_02.jpg",
+      "datePublished": "2026-08-02T12:32:17+09:00"
+    },
+    {
+      "name": "熊本 地震活動が活発 震度7程度に注意 危険な暑さ熱中症対策を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193991000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260802/K10015193991_2608020706_0802071332_01_02.jpg",
+      "datePublished": "2026-08-02T11:43:47+09:00"
+    },
+    {
+      "name": "【証言】爆発のイオンモール熊本 地震発生から爆発まで何が",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193311000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260801/K10015193311_2608011439_0801202303_01_02.jpg",
+      "datePublished": "2026-08-01T20:23:03+09:00"
+    },
+    {
+      "name": "避難生活の注意点“薬は命綱 遠慮せず声あげて”【専門家QA】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193251000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260801/K10015193251_2608011429_0801153523_01_02.jpg",
+      "datePublished": "2026-08-01T15:35:22+09:00"
+    },
+    {
+      "name": "周辺の活断層に“ひずみ”加わった可能性 専門家が分析",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260801/K10015193741_2608011917_0801192049_01_02.jpg",
+      "datePublished": "2026-08-01T19:20:49+09:00"
+    },
+    {
+      "name": "ホワイトソックス 村上 地元の熊本支援オークション開催へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193431000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260801/K10015193431_2608011238_0801143929_01_03.jpg",
+      "datePublished": "2026-08-01T14:39:28+09:00"
+    },
+    {
+      "name": "避難所はどこに？【災害情報マップ】",
+      "url": "https://news.web.nhk/bousai-map/shien/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037807.jpg"
+    },
+    {
+      "name": "令和8年熊本地震 特集サイト",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002860",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31715354.jpg"
+    },
+    {
+      "name": "【熊本地震】避難 ライフライン 交通影響 支援の動き 被災地はいま",
+      "url": "https://news.web.nhk/newsweb/sp/pl/editorial-nwa-0000000624",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31718572.jpg"
+    },
+    {
+      "name": "地震 津波 最新情報はニュース・防災アプリで",
+      "url": "https://www.nhk.or.jp/nhkone/service/app/news_bousai/",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_31189657.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
