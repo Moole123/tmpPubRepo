@@ -1,0 +1,184 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015195201000",
+  "dataSourceId": "na",
+  "name": "京都 高台寺付近で“黒煙が出ている” 月真院か 消火活動中",
+  "headline": "京都 高台寺付近で“黒煙が出ている” 月真院か 消火活動中",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015195201000",
+    "playlistId": "news-nwa-society-nationwide-20260803",
+    "newsarticleName": "京都 高台寺付近で“黒煙が出ている” 月真院か 消火活動中",
+    "playlistName": "8月3日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "3日午後6時半ごろ、京都市東山区にある豊臣秀吉の妻「ねね」ゆかりの高台寺付近で「黒い煙が出ている」と近くにいた人から消防に通報がありました。\n\n消防によりますと、火事があったのは高台寺の近くにある月真",
+  "dateModified": "2026-08-03T19:16:05+09:00",
+  "datePublished": "2026-08-03T19:16:05+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260803/K10015195201_2608031921_0803192221_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260803/K10015195201_2608031921_0803192221_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "0002689",
+      "name": "火災",
+      "display": true
+    },
+    {
+      "id": "0002709",
+      "name": "歴史・文化財",
+      "display": true
+    },
+    {
+      "id": "0002226",
+      "name": "京都府",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "3日午後6時半ごろ、京都市東山区にある豊臣秀吉の妻「ねね」ゆかりの高台寺付近で「黒い煙が出ている」と近くにいた人から消防に通報がありました。\n\n消防によりますと、火事があったのは高台寺の近くにある月真",
+  "articleBody": "3日午後6時半ごろ、京都市東山区にある豊臣秀吉の妻「ねね」ゆかりの高台寺付近で「黒い煙が出ている」と近くにいた人から消防に通報がありました。\n\n消防によりますと、火事があったのは高台寺の近くにある月真院と呼ばれる建物とみられ、消防が消火活動に当たっています。\n\n\nけが人の情報なし 警察\n\n警察によりますと、これまでのところ、けが人の情報は入っていないということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "3日午後6時半ごろ、京都市東山区にある豊臣秀吉の妻「ねね」ゆかりの高台寺付近で「黒い煙が出ている」と近くにいた人から消防に通報がありました。\n\n消防によりますと、火事があったのは高台寺の近くにある月真院と呼ばれる建物とみられ、消防が消火活動に当たっています。\n",
+    "markedBody": "### けが人の情報なし 警察\n\n警察によりますと、これまでのところ、けが人の情報は入っていないということです。\n",
+    "trimmedLead": "3日午後6時半ごろ、京都市東山区にある豊臣秀吉の妻「ねね」ゆかりの高台寺付近で「黒い煙が出ている」と近くにいた人から消防に通報がありました。\n\n消防によりますと、火事があったのは高台寺の近くにある月真院と呼ばれる建物とみられ、消防が消火活動に当たっています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015195201000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015195201000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "京都 高台寺付近で“黒煙が出ている” 月真院か 消火活動中",
+      "description": "3日午後6時半ごろ、京都市東山区にある豊臣秀吉の妻「ねね」ゆかりの高台寺付近で「黒い煙が出ている」と近くにいた人から消防に通報がありました。\n\n消防によりますと、火事があったのは高台寺の近くにある月真",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015195201_202608031921_202608031921/index.m3u8&mrposter=/news/html/20260803/K10015195201_2608031921_0803192221_01_03.jpg",
+      "duration": "PT32S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015195201_202608031921_202608031921/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260803/K10015195201_2608031921_0803192221_01_03.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "熊本地震 激甚災害に指定へ あす予備費使用閣議決定 高市首相",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015194841000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260803/K10015194841_2608031922_0803192444_01_02.jpg",
+      "datePublished": "2026-08-03T19:58:51+09:00"
+    },
+    {
+      "name": "イオンモール爆発 雑貨店の指示で2人戻り犠牲に 遺族に謝罪",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015194801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260803/K10015194801_2608031205_0803122716_01_03.jpg",
+      "datePublished": "2026-08-03T18:22:17+09:00"
+    },
+    {
+      "name": "地震の死亡38人 医療機関や学校の被害も（8月3日時点）",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015194741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260803/K10015194741_2608031810_0803181948_01_02.jpg",
+      "datePublished": "2026-08-03T19:08:59+09:00"
+    },
+    {
+      "name": "熊本市などで初の酷暑日 被災地であすも危険な暑さ続く見込み",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015194581000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260803/K10015194581_2608031920_0803193128_01_02.jpg",
+      "datePublished": "2026-08-03T19:31:26+09:00"
+    },
+    {
+      "name": "消費税減税 自民合同会議 賛否両論も税調会長に対応一任",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015194991000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260803/K10015194991_2608031549_0803160048_01_02.jpg",
+      "datePublished": "2026-08-03T18:40:52+09:00"
+    },
+    {
+      "name": "震度7の氷川町 高校生が自宅で死亡 父親「まだ信じられない」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015194551000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260803/K10015194551_2608030138_0803051049_01_02.jpg",
+      "datePublished": "2026-08-03T05:10:49+09:00"
+    },
+    {
+      "name": "羽田空港 荷物預け入れ締め切りを出発30分前に 出発の遅れ対策",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015194531000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260803/K10015194531_2608030014_0803052429_01_02.jpg",
+      "datePublished": "2026-08-03T16:44:33+09:00"
+    },
+    {
+      "name": "天皇ご一家 熊本地震で被災した人たちに側近を通じお見舞い",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015195041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260803/K10015195041_2608031653_0803170944_01_02.jpg",
+      "datePublished": "2026-08-03T17:09:43+09:00"
+    },
+    {
+      "name": "台風13号 小笠原で高波・暴風厳重警戒 その後沖縄・奄美へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015194591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260803/K10015194591_2608031831_0803183154_01_02.jpg",
+      "datePublished": "2026-08-03T18:49:14+09:00"
+    },
+    {
+      "name": "日米で協調介入 片山財務相 “さらなる実施もちゅうちょせず”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015194421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260803/K10015194421_2608030918_0803092311_01_03.jpg",
+      "datePublished": "2026-08-03T18:20:28+09:00"
+    },
+    {
+      "name": "令和8年熊本地震 特集サイト",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002860",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31715354.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
