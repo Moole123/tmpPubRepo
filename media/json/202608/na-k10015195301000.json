@@ -1,0 +1,160 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015195301000",
+  "dataSourceId": "na",
+  "name": "イスラエル軍攻撃で18人死亡の報道 ガザ地区和平へ影響懸念",
+  "headline": "イスラエル軍攻撃で18人死亡の報道 ガザ地区和平へ影響懸念",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015195301000",
+    "playlistId": "news-nwa-international-nationwide-20260803",
+    "newsarticleName": "イスラエル軍攻撃で18人死亡の報道 ガザ地区和平へ影響懸念",
+    "playlistName": "8月3日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "パレスチナのガザ地区でイスラエル軍による攻撃が相次ぎ、18人が死亡したと現地メディアが伝えました。イスラム組織ハマスはイスラエルを非難していて、アメリカが主導する和平計画への影響が懸念されます。\n\n\n",
+  "dateModified": "2026-08-03T22:30:34+09:00",
+  "datePublished": "2026-08-03T22:30:34+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260803/K10015195301_2608032125_0803223034_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260803/K10015195301_2608032125_0803223034_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0001594",
+      "name": "イスラエル・パレスチナ",
+      "display": true
+    },
+    {
+      "id": "0002355",
+      "name": "イスラエル",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "0000277",
+      "name": "トランプ大統領",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "パレスチナのガザ地区でイスラエル軍による攻撃が相次ぎ、18人が死亡したと現地メディアが伝えました。イスラム組織ハマスはイスラエルを非難していて、アメリカが主導する和平計画への影響が懸念されます。\n\n\n",
+  "articleBody": "パレスチナのガザ地区でイスラエル軍による攻撃が相次ぎ、18人が死亡したと現地メディアが伝えました。イスラム組織ハマスはイスラエルを非難していて、アメリカが主導する和平計画への影響が懸念されます。\n\n\nパレスチナのガザ地区ではアメリカのトランプ大統領が主導する和平計画に基づき、去年10月にイスラエルとイスラム組織ハマスの間で停戦合意が発効したあともイスラエル軍が散発的な攻撃を行っていて、現地メディアによりますと、2日には北部のガザ市などで空爆や砲撃が相次ぎ、少なくとも18人が死亡しました。\n\n現地当局は3日、停戦後のイスラエル軍の攻撃による死者が1250人に上ったと発表しました。\n\nハマスは声明で「犯罪的な攻撃だ」などと非難したうえで、トランプ大統領が先週、合意に至ったと明らかにしたハマスの武装解除も含む和平計画の進展を、イスラエルが妨害しようとしていると主張しました。\n\nハマスは武装解除の条件としてイスラエル軍の攻撃の完全な停止をあげていて、和平計画への影響が懸念されます。\n\nまた、ハマスはイスラエル軍のガザ地区からの撤退も求めていますが、イスラエル首相府の報道官はAP通信に対し、ハマスの武装解除の前に軍が撤退することはないと述べ、譲歩しない姿勢を示しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "パレスチナのガザ地区でイスラエル軍による攻撃が相次ぎ、18人が死亡したと現地メディアが伝えました。イスラム組織ハマスはイスラエルを非難していて、アメリカが主導する和平計画への影響が懸念されます。\n",
+    "markedBody": "パレスチナのガザ地区ではアメリカのトランプ大統領が主導する和平計画に基づき、去年10月にイスラエルとイスラム組織ハマスの間で停戦合意が発効したあともイスラエル軍が散発的な攻撃を行っていて、現地メディアによりますと、2日には北部のガザ市などで空爆や砲撃が相次ぎ、少なくとも18人が死亡しました。\n\n現地当局は3日、停戦後のイスラエル軍の攻撃による死者が1250人に上ったと発表しました。\n\nハマスは声明で「犯罪的な攻撃だ」などと非難したうえで、トランプ大統領が先週、合意に至ったと明らかにしたハマスの武装解除も含む和平計画の進展を、イスラエルが妨害しようとしていると主張しました。\n\nハマスは武装解除の条件としてイスラエル軍の攻撃の完全な停止をあげていて、和平計画への影響が懸念されます。\n\nまた、ハマスはイスラエル軍のガザ地区からの撤退も求めていますが、イスラエル首相府の報道官はAP通信に対し、ハマスの武装解除の前に軍が撤退することはないと述べ、譲歩しない姿勢を示しています。\n",
+    "trimmedLead": "パレスチナのガザ地区でイスラエル軍による攻撃が相次ぎ、18人が死亡したと現地メディアが伝えました。イスラム組織ハマスはイスラエルを非難していて、アメリカが主導する和平計画への影響が懸念されます。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015195301000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015195301000",
+  "video": [],
+  "citation": [
+    {
+      "name": "イラン 米との協議を否定 海峡めぐりオマーンと詰めの協議",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015195241000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260803/K10015195241_2608032045_0803210038_01_02.jpg",
+      "datePublished": "2026-08-03T21:00:37+09:00"
+    },
+    {
+      "name": "日米で協調介入 片山財務相 “さらなる実施もちゅうちょせず”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015194421000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260803/K10015194421_2608030918_0803092311_01_03.jpg",
+      "datePublished": "2026-08-03T20:40:27+09:00"
+    },
+    {
+      "name": "イオンモール爆発 雑貨店の指示で2人戻り犠牲に 遺族に謝罪",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015194801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260803/K10015194801_2608031205_0803122716_01_03.jpg",
+      "datePublished": "2026-08-03T18:22:17+09:00"
+    },
+    {
+      "name": "地震の死亡38人 医療機関や学校の被害も（8月3日時点）",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015194741000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260803/K10015194741_2608031810_0803181948_01_02.jpg",
+      "datePublished": "2026-08-03T21:21:09+09:00"
+    },
+    {
+      "name": "熊本地震 激甚災害に指定へ あす予備費使用閣議決定 高市首相",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015194841000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260803/K10015194841_2608031922_0803192444_01_02.jpg",
+      "datePublished": "2026-08-03T19:58:51+09:00"
+    },
+    {
+      "name": "熊本市などで初の酷暑日 被災地であすも危険な暑さ続く見込み",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015194581000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260803/K10015194581_2608031920_0803193128_01_02.jpg",
+      "datePublished": "2026-08-03T19:31:26+09:00"
+    },
+    {
+      "name": "台風13号 小笠原で高波・暴風厳重警戒 その後沖縄・奄美へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015194591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260803/K10015194591_2608031831_0803183154_01_02.jpg",
+      "datePublished": "2026-08-03T18:49:14+09:00"
+    },
+    {
+      "name": "九州で40度の酷暑日 熱帯夜も 関東は最高気温が大幅に低下",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015194781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260803/K10015194781_2608031934_0803194509_01_02.jpg",
+      "datePublished": "2026-08-03T18:47:54+09:00"
+    },
+    {
+      "name": "岡山 倉敷の海水浴場で60代の男性死亡 海水浴に来ていたか",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015195231000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260803/K10015195231_2608032003_0803204655_01_02.jpg",
+      "datePublished": "2026-08-03T20:46:54+09:00"
+    },
+    {
+      "name": "子どもたちの遊び場や移動式の薬局設置【被災地支援の動き】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015195021000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260803/K10015195021_2608031933_0803193618_01_02.jpg",
+      "datePublished": "2026-08-03T19:36:17+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
