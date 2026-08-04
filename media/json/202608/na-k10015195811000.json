@@ -1,0 +1,163 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015195811000",
+  "dataSourceId": "na",
+  "name": "【地震情報】熊本県と長崎県で震度3 津波の心配なし（14:06）",
+  "headline": "【地震情報】熊本県と長崎県で震度3 津波の心配なし（14:06）",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015195811000",
+    "playlistId": "news-nwa-disaster-nationwide-20260804",
+    "newsarticleName": "【地震情報】熊本県と長崎県で震度3 津波の心配なし（14:06）",
+    "playlistName": "8月4日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "4日午後2時6分ごろ、熊本県と長崎県で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。\n\n\n震度3の揺れを観測したのは、長崎県の南島原市、熊本県の八代市、上天草市、宇城市",
+  "dateModified": "2026-08-04T14:35:11+09:00",
+  "datePublished": "2026-08-04T14:10:16+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195811_2608041412_0804141420_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195811_2608041412_0804141420_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0002243",
+      "name": "熊本県",
+      "display": true
+    },
+    {
+      "id": "0002242",
+      "name": "長崎県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "4日午後2時6分ごろ、熊本県と長崎県で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。\n\n\n震度3の揺れを観測したのは、長崎県の南島原市、熊本県の八代市、上天草市、宇城市",
+  "articleBody": "4日午後2時6分ごろ、熊本県と長崎県で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。\n\n\n震度3の揺れを観測したのは、長崎県の南島原市、熊本県の八代市、上天草市、宇城市、芦北町でした。\n\nこのほか、震度2や1の揺れを福岡県、佐賀県、長崎県、熊本県、大分県、宮崎県、鹿児島県の各地で観測しました。\n\n震源地は熊本県天草・芦北地方で、震源の深さはごく浅く、地震の規模を示すマグニチュードは4.4と推定されます。\n\n熊本県では先月28日、熊本地方を震源とするマグニチュード7.1の大地震が発生し、震度7の揺れを観測しました。\n\nその後も地震活動が活発になっていて、気象庁は、1週間ほどは最大震度7程度の地震に注意するよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "4日午後2時6分ごろ、熊本県と長崎県で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。\n",
+    "markedBody": "震度3の揺れを観測したのは、長崎県の南島原市、熊本県の八代市、上天草市、宇城市、芦北町でした。\n\nこのほか、震度2や1の揺れを福岡県、佐賀県、長崎県、熊本県、大分県、宮崎県、鹿児島県の各地で観測しました。\n\n震源地は熊本県天草・芦北地方で、震源の深さはごく浅く、地震の規模を示すマグニチュードは4.4と推定されます。\n\n熊本県では先月28日、熊本地方を震源とするマグニチュード7.1の大地震が発生し、震度7の揺れを観測しました。\n\nその後も地震活動が活発になっていて、気象庁は、1週間ほどは最大震度7程度の地震に注意するよう呼びかけています。\n",
+    "trimmedLead": "4日午後2時6分ごろ、熊本県と長崎県で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015195811000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015195811000",
+  "video": [],
+  "citation": [
+    {
+      "name": "熊本地震の復旧へ予備費支出を決定 プッシュ型の物資支援など",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015195671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260804/K10015195671_2608041203_0804121515_01_02.jpg",
+      "datePublished": "2026-08-04T12:15:14+09:00"
+    },
+    {
+      "name": "“今回の熊本地震 特に暑さ対策が重要” 現地に派遣のDMAT医師",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015195561000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260804/K10015195561_2608041143_0804115446_01_02.jpg",
+      "datePublished": "2026-08-04T11:54:45+09:00"
+    },
+    {
+      "name": "令和8年熊本地震 特集サイト",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002860",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31715354.jpg"
+    },
+    {
+      "name": "熊本地震1週間 38人死亡 災害関連死いかに防ぐかが喫緊の課題",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015195471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260804/K10015195471_2608040641_0804071234_01_02.jpg",
+      "datePublished": "2026-08-04T16:22:58+09:00"
+    },
+    {
+      "name": "災害医療の3学会“高齢者の熱中症患者相次ぐ 対策徹底を”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015195411000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260803/K10015195411_2608032151_0803222916_01_02.jpg",
+      "datePublished": "2026-08-03T22:29:15+09:00"
+    },
+    {
+      "name": "熊本地震1週間 猛烈な暑さ続く できる限りの対策を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015195351000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260804/K10015195351_2608040009_0804054647_01_02.jpg",
+      "datePublished": "2026-08-04T15:50:05+09:00"
+    },
+    {
+      "name": "イオンモール爆発 雑貨店の指示で2人戻り犠牲に 遺族に謝罪",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015194801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260803/K10015194801_2608031205_0803122716_01_03.jpg",
+      "datePublished": "2026-08-03T18:22:17+09:00"
+    },
+    {
+      "name": "熊本地震 義援金募集かたる なりすましメールや電話に注意",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015195101000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260803/K10015195101_2608031717_0803174312_01_02.jpg",
+      "datePublished": "2026-08-03T17:43:11+09:00"
+    },
+    {
+      "name": "天皇ご一家 熊本地震で被災した人たちに側近を通じお見舞い",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015195041000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260803/K10015195041_2608031653_0803170944_01_02.jpg",
+      "datePublished": "2026-08-03T17:09:43+09:00"
+    },
+    {
+      "name": "避難所はどこに？【災害情報マップ】",
+      "url": "https://news.web.nhk/bousai-map/shien/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037807.jpg"
+    },
+    {
+      "name": "【熊本地震】避難 ライフライン 交通影響 支援の動き 被災地はいま",
+      "url": "https://news.web.nhk/newsweb/sp/pl/editorial-nwa-0000000624",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31718572.jpg"
+    },
+    {
+      "name": "地震 津波 最新情報はニュース・防災アプリで",
+      "url": "https://www.nhk.or.jp/nhkone/service/app/news_bousai/",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_31189657.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
