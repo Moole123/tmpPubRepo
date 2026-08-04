@@ -1,0 +1,177 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015195541000",
+  "dataSourceId": "na",
+  "name": "神奈川 伊勢原 東名高速道路で3台関係する事故 1人死亡",
+  "headline": "神奈川 伊勢原 東名高速道路で3台関係する事故 1人死亡",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015195541000",
+    "playlistId": "news-nwa-society-nationwide-20260804",
+    "newsarticleName": "神奈川 伊勢原 東名高速道路で3台関係する事故 1人死亡",
+    "playlistName": "8月4日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "4日未明、神奈川県伊勢原市の東名高速道路の上り線でトラックなど3台が関係する事故があり、1人が死亡しました。\n\n\n警察によりますと、4日午前3時半ごろ、伊勢原市の東名高速道路の上り線で、タイヤがパンク",
+  "dateModified": "2026-08-04T10:32:29+09:00",
+  "datePublished": "2026-08-04T10:32:29+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195541_2608041003_0804103230_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195541_2608041003_0804103230_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0001538",
+      "name": "事件・事故",
+      "display": true
+    },
+    {
+      "id": "0002214",
+      "name": "神奈川県",
+      "display": true
+    },
+    {
+      "id": "0002683",
+      "name": "交通・インフラ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "4日未明、神奈川県伊勢原市の東名高速道路の上り線でトラックなど3台が関係する事故があり、1人が死亡しました。\n\n\n警察によりますと、4日午前3時半ごろ、伊勢原市の東名高速道路の上り線で、タイヤがパンク",
+  "articleBody": "4日未明、神奈川県伊勢原市の東名高速道路の上り線でトラックなど3台が関係する事故があり、1人が死亡しました。\n\n\n警察によりますと、4日午前3時半ごろ、伊勢原市の東名高速道路の上り線で、タイヤがパンクしてとまっていたトラックに別のトラックが追突しました。\n\n停車していたトラックを動かそうとしていたレッカー車も巻き込まれ、車を動かす作業に当たっていた男性1人が死亡しました。\n\n止まっていたトラックの車内にいた運転手と、追突したトラックの運転手の2人もけがをしましたが、意識はあるということです。\n\n警察が事故の原因を詳しく調べています。\n\nこの事故の影響で東名高速道路の上り線は一部の交通が規制されているということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "4日未明、神奈川県伊勢原市の東名高速道路の上り線でトラックなど3台が関係する事故があり、1人が死亡しました。\n",
+    "markedBody": "警察によりますと、4日午前3時半ごろ、伊勢原市の東名高速道路の上り線で、タイヤがパンクしてとまっていたトラックに別のトラックが追突しました。\n\n停車していたトラックを動かそうとしていたレッカー車も巻き込まれ、車を動かす作業に当たっていた男性1人が死亡しました。\n\n止まっていたトラックの車内にいた運転手と、追突したトラックの運転手の2人もけがをしましたが、意識はあるということです。\n\n警察が事故の原因を詳しく調べています。\n\nこの事故の影響で東名高速道路の上り線は一部の交通が規制されているということです。\n",
+    "trimmedLead": "4日未明、神奈川県伊勢原市の東名高速道路の上り線でトラックなど3台が関係する事故があり、1人が死亡しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015195541000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015195541000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "神奈川 伊勢原 東名高速道路で3台関係する事故 1人死亡",
+      "description": "4日未明、神奈川県伊勢原市の東名高速道路の上り線でトラックなど3台が関係する事故があり、1人が死亡しました。\n\n\n警察によりますと、4日午前3時半ごろ、伊勢原市の東名高速道路の上り線で、タイヤがパンク",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015195541_202608041003_202608041011/index.m3u8&mrposter=/news/html/20260804/K10015195541_2608041003_0804103230_01_03.jpg",
+      "duration": "PT45S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015195541_202608041003_202608041011/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195541_2608041003_0804103230_01_03.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "熊本地震1週間 38人死亡 災害関連死いかに防ぐかが喫緊の課題",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015195471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260804/K10015195471_2608040641_0804071234_01_02.jpg",
+      "datePublished": "2026-08-04T11:34:33+09:00"
+    },
+    {
+      "name": "熊本地震1週間 周辺に動いていない活断層も 備えを",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015195351000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260804/K10015195351_2608040009_0804054647_01_02.jpg",
+      "datePublished": "2026-08-04T05:46:46+09:00"
+    },
+    {
+      "name": "台風13号 小笠原諸島 暴風域に 高波と暴風に厳重警戒を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015195361000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260804/K10015195361_2608041118_0804112410_01_03.jpg",
+      "datePublished": "2026-08-04T11:24:09+09:00"
+    },
+    {
+      "name": "西日本 7月中～下旬の気温は最高“温暖化なければ起こり得ず”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015195401000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260804/K10015195401_2608032142_0804080649_01_02.jpg",
+      "datePublished": "2026-08-04T08:06:48+09:00"
+    },
+    {
+      "name": "日米 追加協調介入も辞さず 米当局のドル調達の仕組み活用で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015195341000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260804/K10015195341_2608040011_0804064512_01_02.jpg",
+      "datePublished": "2026-08-04T06:45:11+09:00"
+    },
+    {
+      "name": "食料品の消費税減税 5日にも閣議決定したい考え 政府",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015195321000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260804/K10015195321_2608040113_0804054910_01_02.jpg",
+      "datePublished": "2026-08-04T05:49:09+09:00"
+    },
+    {
+      "name": "イランは協議否定 米大統領“協議進行中で最後のチャンス”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015195481000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260804/K10015195481_2608040546_0804074123_01_02.jpg",
+      "datePublished": "2026-08-04T11:35:21+09:00"
+    },
+    {
+      "name": "NYダウ最高値更新 中東情勢悪化の懸念和らぐ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015195501000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260804/K10015195501_2608040643_0804074652_01_02.jpg",
+      "datePublished": "2026-08-04T07:46:51+09:00"
+    },
+    {
+      "name": "イオンモール爆発 雑貨店の指示で2人戻り犠牲に 遺族に謝罪",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015194801000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260803/K10015194801_2608031205_0803122716_01_03.jpg",
+      "datePublished": "2026-08-03T18:22:17+09:00"
+    },
+    {
+      "name": "令和8年熊本地震 特集サイト",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002860",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31715354.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
