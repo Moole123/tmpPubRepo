@@ -1,0 +1,152 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015196741000",
+  "dataSourceId": "na",
+  "name": "【地震速報】宮城 石巻で震度3 津波の心配なし",
+  "headline": "【地震速報】宮城 石巻で震度3 津波の心配なし",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015196741000",
+    "playlistId": "news-nwa-disaster-nationwide-20260804",
+    "newsarticleName": "【地震速報】宮城 石巻で震度3 津波の心配なし",
+    "playlistName": "8月4日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "4日午後11時ごろ、宮城県で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。\n\n\n各地の震度は、▽震度3が宮城県石巻市、▽震度2が宮城県登米市、大崎市、松島町、涌谷町で観",
+  "dateModified": "2026-08-04T23:20:06+09:00",
+  "datePublished": "2026-08-04T23:03:14+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260804/K10015196741_2608042304_0804230537_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260804/K10015196741_2608042304_0804230537_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0002204",
+      "name": "宮城県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "4日午後11時ごろ、宮城県で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。\n\n\n各地の震度は、▽震度3が宮城県石巻市、▽震度2が宮城県登米市、大崎市、松島町、涌谷町で観",
+  "articleBody": "4日午後11時ごろ、宮城県で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。\n\n\n各地の震度は、▽震度3が宮城県石巻市、▽震度2が宮城県登米市、大崎市、松島町、涌谷町で観測しました。\n\n震源地は宮城県沖で、震源の深さは40キロ、地震の規模を示すマグニチュードは4.6と推定されています。\n",
+  "detailedArticleBody": {
+    "markedLead": "4日午後11時ごろ、宮城県で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20260804/K10015196741_2608042305_0804230537_02_03.jpg)\n\n各地の震度は、▽震度3が宮城県石巻市、▽震度2が宮城県登米市、大崎市、松島町、涌谷町で観測しました。\n\n震源地は宮城県沖で、震源の深さは40キロ、地震の規模を示すマグニチュードは4.6と推定されています。\n",
+    "trimmedLead": "4日午後11時ごろ、宮城県で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015196741000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015196741000",
+  "video": [],
+  "citation": [
+    {
+      "name": "熊本地震1週間 38人死亡 断水は今月末までに応急復旧の見込み",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015195471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260804/K10015195471_2608040641_0804071234_01_02.jpg",
+      "datePublished": "2026-08-04T21:35:04+09:00"
+    },
+    {
+      "name": "熊本地震1週間 猛烈な暑さ続く 台風影響にも注意を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015195771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260804/K10015195771_2608041635_0804164909_01_02.jpg",
+      "datePublished": "2026-08-04T17:02:53+09:00"
+    },
+    {
+      "name": "コストコ 熊本地震で5人けが “一部商品落下 重く受け止める”",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015195951000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260804/K10015195951_2608041547_0804164313_01_02.jpg",
+      "datePublished": "2026-08-04T16:43:12+09:00"
+    },
+    {
+      "name": "熊本 八代 死亡した91歳男性の長女「心が凍ったような気持ち」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015195781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260804/K10015195781_2608041708_0804185523_01_02.jpg",
+      "datePublished": "2026-08-04T18:55:22+09:00"
+    },
+    {
+      "name": "イオンモール熊本で活動の医師「残念でなんともいえない」",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015195991000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260804/K10015195991_2608041617_0804164425_01_02.jpg",
+      "datePublished": "2026-08-04T16:44:24+09:00"
+    },
+    {
+      "name": "“今回の熊本地震 特に暑さ対策が重要” 現地に派遣のDMAT医師",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015195561000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260804/K10015195561_2608041143_0804115446_01_02.jpg",
+      "datePublished": "2026-08-04T11:54:45+09:00"
+    },
+    {
+      "name": "令和8年熊本地震 特集サイト",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002860",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31715354.jpg"
+    },
+    {
+      "name": "熊本地震1週間 猛烈な暑さ続く できる限りの対策を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015195351000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260804/K10015195351_2608040009_0804054647_01_02.jpg",
+      "datePublished": "2026-08-04T15:50:05+09:00"
+    },
+    {
+      "name": "【熊本地震】避難 ライフライン 交通影響 支援の動き 被災地はいま",
+      "url": "https://news.web.nhk/newsweb/sp/pl/editorial-nwa-0000000624",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31718572.jpg"
+    },
+    {
+      "name": "避難所はどこに？【災害情報マップ】",
+      "url": "https://news.web.nhk/bousai-map/shien/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037807.jpg"
+    },
+    {
+      "name": "地震 津波 最新情報はニュース・防災アプリで",
+      "url": "https://www.nhk.or.jp/nhkone/service/app/news_bousai/",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_31189657.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
