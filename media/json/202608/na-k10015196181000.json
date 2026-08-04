@@ -1,0 +1,183 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015196181000",
+  "dataSourceId": "na",
+  "name": "大企業の設備投資 昨年度実績比19.7％増の見通し AI分野で旺盛",
+  "headline": "大企業の設備投資 昨年度実績比19.7％増の見通し AI分野で旺盛",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015196181000",
+    "playlistId": "news-nwa-business-nationwide-20260804",
+    "newsarticleName": "大企業の設備投資 昨年度実績比19.7％増の見通し AI分野で旺盛",
+    "playlistName": "8月4日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "AI向けの半導体やデータセンターの需要が高まっていることなどから、国内の大企業が今年度計画している設備投資の金額は、昨年度の実績より19％余り増える見通しとなっていることが、政府系金融機関の調査でわか",
+  "dateModified": "2026-08-04T19:36:00+09:00",
+  "datePublished": "2026-08-04T19:36:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260804/K10015196181_2608041808_0804193601_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260804/K10015196181_2608041808_0804193601_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "0002733",
+      "name": "企業・経営",
+      "display": true
+    },
+    {
+      "id": "0000010",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "0002421",
+      "name": "半導体",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "AI向けの半導体やデータセンターの需要が高まっていることなどから、国内の大企業が今年度計画している設備投資の金額は、昨年度の実績より19％余り増える見通しとなっていることが、政府系金融機関の調査でわか",
+  "articleBody": "AI向けの半導体やデータセンターの需要が高まっていることなどから、国内の大企業が今年度計画している設備投資の金額は、昨年度の実績より19％余り増える見通しとなっていることが、政府系金融機関の調査でわかりました。\n\n\n政府系金融機関の日本政策投資銀行は毎年、企業の設備投資の計画をまとめていて、ことしはおよそ1600社が回答しました。\n\nこのうち、資本金10億円以上の大企業が国内で計画している今年度の設備投資は合わせて24兆7551億円で、昨年度の実績を4兆677億円、率にして19.7％上回る見通しとなっています。\n\nAI向けの半導体やデータセンターに必要な素材や部品を増産しようと、工場の建設や機械の購入が見込まれていて、AIの市場拡大に関連する投資が増えていることがうかがえます。\n\nまた、電力会社でも電力の安定供給に向けた送配電網の整備が計画されているということです。\n\n企業の設備投資は雇用や所得などに影響するため、動向が注目されています。\n\n日本政策投資銀行産業・地域調査部の宮川暁世部長は会見で「中東情勢を理由に設備投資を控えるという企業は想定したよりも少なく、AIなどへの設備投資の需要は旺盛で、投資のすそ野が拡大している」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "AI向けの半導体やデータセンターの需要が高まっていることなどから、国内の大企業が今年度計画している設備投資の金額は、昨年度の実績より19％余り増える見通しとなっていることが、政府系金融機関の調査でわかりました。\n",
+    "markedBody": "政府系金融機関の日本政策投資銀行は毎年、企業の設備投資の計画をまとめていて、ことしはおよそ1600社が回答しました。\n\nこのうち、資本金10億円以上の大企業が国内で計画している今年度の設備投資は合わせて24兆7551億円で、昨年度の実績を4兆677億円、率にして19.7％上回る見通しとなっています。\n\nAI向けの半導体やデータセンターに必要な素材や部品を増産しようと、工場の建設や機械の購入が見込まれていて、AIの市場拡大に関連する投資が増えていることがうかがえます。\n\nまた、電力会社でも電力の安定供給に向けた送配電網の整備が計画されているということです。\n\n企業の設備投資は雇用や所得などに影響するため、動向が注目されています。\n\n日本政策投資銀行産業・地域調査部の宮川暁世部長は会見で「中東情勢を理由に設備投資を控えるという企業は想定したよりも少なく、AIなどへの設備投資の需要は旺盛で、投資のすそ野が拡大している」と述べました。\n",
+    "trimmedLead": "AI向けの半導体やデータセンターの需要が高まっていることなどから、国内の大企業が今年度計画している設備投資の金額は、昨年度の実績より19％余り増える見通しとなっていることが、政府系金融機関の調査でわかりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015196181000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015196181000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "大企業の設備投資 昨年度実績比19.7％増の見通し AI分野で旺盛",
+      "description": "AI向けの半導体やデータセンターの需要が高まっていることなどから、国内の大企業が今年度計画している設備投資の金額は、昨年度の実績より19％余り増える見通しとなっていることが、政府系金融機関の調査でわか",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015196181_202608041808_202608041808/index.m3u8&mrposter=/news/html/20260804/K10015196181_2608041808_0804193601_01_03.jpg",
+      "duration": "PT1M22S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015196181_202608041808_202608041808/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260804/K10015196181_2608041808_0804193601_01_03.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "熊本地震1週間 38人死亡 断水は今月末までに応急復旧の見込み",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015195471000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260804/K10015195471_2608040641_0804071234_01_02.jpg",
+      "datePublished": "2026-08-04T21:35:04+09:00"
+    },
+    {
+      "name": "ライオン3頭が死ぬ 熱中症の疑い 多摩動物公園",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015195681000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260804/K10015195681_2608041830_0804183050_01_03.jpg",
+      "datePublished": "2026-08-04T17:36:14+09:00"
+    },
+    {
+      "name": "熊本地震1週間 猛烈な暑さ続く できる限りの対策を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015195351000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260804/K10015195351_2608040009_0804054647_01_02.jpg",
+      "datePublished": "2026-08-04T15:50:05+09:00"
+    },
+    {
+      "name": "イオンモール爆発 3人死亡のオンワードHDが被災経緯を公表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015196051000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260804/K10015196051_2608041658_0804174623_01_02.jpg",
+      "datePublished": "2026-08-04T17:46:22+09:00"
+    },
+    {
+      "name": "こどもの国線 列車とトラック接触 事故の瞬間がカメラに 横浜",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015195661000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260804/K10015195661_2608041157_0804121636_01_02.jpg",
+      "datePublished": "2026-08-04T16:27:40+09:00"
+    },
+    {
+      "name": "熊本地震の復旧へ予備費支出を決定 プッシュ型の物資支援など",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015195671000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260804/K10015195671_2608041203_0804121515_01_02.jpg",
+      "datePublished": "2026-08-04T12:15:14+09:00"
+    },
+    {
+      "name": "五輪メダル10個獲得 高木美帆さんに国民栄誉賞を授与",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015195881000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260804/K10015195881_2608041850_0804185046_01_02.jpg",
+      "datePublished": "2026-08-04T19:51:38+09:00"
+    },
+    {
+      "name": "台風13号 小笠原諸島が暴風域 沖縄・奄美は5日から厳重警戒を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015195361000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260804/K10015195361_2608042044_0804204431_01_03.jpg",
+      "datePublished": "2026-08-04T20:54:53+09:00"
+    },
+    {
+      "name": "北陸と東北が梅雨明け 5日も熊本などで危険な暑さの予想",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015195591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260804/K10015195591_2608041900_0804190304_01_02.jpg",
+      "datePublished": "2026-08-04T18:55:49+09:00"
+    },
+    {
+      "name": "防衛白書「新しい戦い方」に対応 防衛関係の産業基盤を強化",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015195621000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260804/K10015195621_2608041120_0804121441_01_02.jpg",
+      "datePublished": "2026-08-04T17:56:00+09:00"
+    },
+    {
+      "name": "令和8年熊本地震 特集サイト",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002860",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31715354.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
