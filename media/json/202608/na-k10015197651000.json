@@ -1,0 +1,160 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015197651000",
+  "dataSourceId": "na",
+  "name": "AI 実在の人標的にメッセージ“自律的に人だますリスク”",
+  "headline": "AI 実在の人標的にメッセージ“自律的に人だますリスク”",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015197651000",
+    "playlistId": "news-nwa-international-nationwide-20260805",
+    "newsarticleName": "AI 実在の人標的にメッセージ“自律的に人だますリスク”",
+    "playlistName": "8月5日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "イギリスの研究機関はアメリカ企業のAIモデルの性能テストを実施していたところ、偽のアカウントを作ったり、実在する人を標的にメッセージを送ったりして不正アクセスを行おうとしたと明らかにし「自律的に人をだ",
+  "dateModified": "2026-08-05T23:33:07+09:00",
+  "datePublished": "2026-08-05T23:33:07+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260805/K10015197651_2608052236_0805233308_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260805/K10015197651_2608052236_0805233308_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "0000010",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "0000009",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "0002037",
+      "name": "イギリス",
+      "display": true
+    },
+    {
+      "id": "0002362",
+      "name": "アメリカ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "イギリスの研究機関はアメリカ企業のAIモデルの性能テストを実施していたところ、偽のアカウントを作ったり、実在する人を標的にメッセージを送ったりして不正アクセスを行おうとしたと明らかにし「自律的に人をだ",
+  "articleBody": "イギリスの研究機関はアメリカ企業のAIモデルの性能テストを実施していたところ、偽のアカウントを作ったり、実在する人を標的にメッセージを送ったりして不正アクセスを行おうとしたと明らかにし「自律的に人をだますリスクがこれほど明確になった事例は初めてだ」と指摘しています。\n\n\nイギリス政府傘下の研究機関「AIセキュリティー・インスティテュート」は、アメリカ企業の「アンソロピック」や「オープンAI」などのAIモデルの性能について、インターネットに接続可能な状態でテストを実施していたところ、実在する人や組織を標的に不正アクセスを行おうとしたことが分かったと4日、発表しました。\n\n問題が判明したのは主に「アンソロピック」のAIモデルで、公開されているソフトに悪意のあるコードを組み込もうとして、偽のアカウントを作ったほか、標的とする人に対してメッセージなどを送りコードを承認させようとしたとしています。\n\nAIモデルによる不正な試みは阻止され、被害はなかったとしていますが、研究機関はAIによる「自律的に人をだますリスクがこれほど明確になった事例は初めてだ」と指摘しています。\n\nそのうえで「AIの能力が向上するにつれ、安全性を確保するための取り組みも加速させる必要がある」と強調しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "イギリスの研究機関はアメリカ企業のAIモデルの性能テストを実施していたところ、偽のアカウントを作ったり、実在する人を標的にメッセージを送ったりして不正アクセスを行おうとしたと明らかにし「自律的に人をだますリスクがこれほど明確になった事例は初めてだ」と指摘しています。\n",
+    "markedBody": "イギリス政府傘下の研究機関「AIセキュリティー・インスティテュート」は、アメリカ企業の「アンソロピック」や「オープンAI」などのAIモデルの性能について、インターネットに接続可能な状態でテストを実施していたところ、実在する人や組織を標的に不正アクセスを行おうとしたことが分かったと4日、発表しました。\n\n問題が判明したのは主に「アンソロピック」のAIモデルで、公開されているソフトに悪意のあるコードを組み込もうとして、偽のアカウントを作ったほか、標的とする人に対してメッセージなどを送りコードを承認させようとしたとしています。\n\nAIモデルによる不正な試みは阻止され、被害はなかったとしていますが、研究機関はAIによる「自律的に人をだますリスクがこれほど明確になった事例は初めてだ」と指摘しています。\n\nそのうえで「AIの能力が向上するにつれ、安全性を確保するための取り組みも加速させる必要がある」と強調しています。\n",
+    "trimmedLead": "イギリスの研究機関はアメリカ企業のAIモデルの性能テストを実施していたところ、偽のアカウントを作ったり、実在する人を標的にメッセージを送ったりして不正アクセスを行おうとしたと明らかにし「自律的に人をだますリスクがこれほど明確になった事例は初めてだ」と指摘しています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015197651000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015197651000",
+  "video": [],
+  "citation": [
+    {
+      "name": "米 スペースX 上場後初の決算 AI開発投資が負担となり赤字に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015196821000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260805/K10015196821_2608050856_0805102510_01_02.jpg",
+      "datePublished": "2026-08-05T10:25:09+09:00"
+    },
+    {
+      "name": "AI高度化 自治体はサイバーセキュリティー対策強化を 林総務相",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015195931000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260804/K10015195931_2608041520_0804190037_01_02.jpg",
+      "datePublished": "2026-08-04T19:00:36+09:00"
+    },
+    {
+      "name": "台風13号沖縄接近へ 影響長引くおそれ 熱中症対策も徹底を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015196631000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260805/K10015196631_2608051912_0805191340_01_02.jpg",
+      "datePublished": "2026-08-05T21:59:38+09:00"
+    },
+    {
+      "name": "大型の台風15号が発生 今後の情報に注意を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015197301000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260805/K10015197301_2608051630_0805174429_01_02.jpg",
+      "datePublished": "2026-08-05T17:44:28+09:00"
+    },
+    {
+      "name": "熊本地震 災害関連死の疑い含め38人死亡 避難所に7122人が避難",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015196991000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260805/K10015196991_2608051148_0805115400_01_02.jpg",
+      "datePublished": "2026-08-05T22:04:08+09:00"
+    },
+    {
+      "name": "食料品消費税減税 政府が基本方針決定 来年4月から2年間1％に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015197191000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260805/K10015197191_2608051611_0805164616_01_02.jpg",
+      "datePublished": "2026-08-05T22:02:02+09:00"
+    },
+    {
+      "name": "イオン 7人死亡の大規模な爆発を受け 事故調査委員会を設置へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015197331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260805/K10015197331_2608051730_0805180915_01_02.jpg",
+      "datePublished": "2026-08-05T18:09:14+09:00"
+    },
+    {
+      "name": "イオンモール熊本 “LPガス爆発の可能性高い”経産省など調査",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015197391000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260805/K10015197391_2608051828_0805183553_01_02.jpg",
+      "datePublished": "2026-08-05T21:49:45+09:00"
+    },
+    {
+      "name": "【熊本地震 企業影響 5日】大手メーカーの工場など操業に影響",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015196971000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260805/K10015196971_2608051128_0805185816_01_02.jpg",
+      "datePublished": "2026-08-05T18:58:15+09:00"
+    },
+    {
+      "name": "九州新幹線 新水俣～鹿児島中央 7日から運行再開 交通への影響",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015196931000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260805/K10015196931_2608051245_0805124642_01_02.jpg",
+      "datePublished": "2026-08-05T17:22:30+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
