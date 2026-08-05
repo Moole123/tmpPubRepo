@@ -1,0 +1,166 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015196791000",
+  "dataSourceId": "na",
+  "name": "広島 東広島 住宅火災で3人死亡 家族4人と連絡取れず",
+  "headline": "広島 東広島 住宅火災で3人死亡 家族4人と連絡取れず",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015196791000",
+    "playlistId": "news-nwa-society-nationwide-20260805",
+    "newsarticleName": "広島 東広島 住宅火災で3人死亡 家族4人と連絡取れず",
+    "playlistName": "8月5日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "5日未明、広島県東広島市で住宅3棟が焼ける火事があり、警察によりますと、全焼した1棟の焼け跡からこれまでに3人の遺体が見つかったということです。この住宅で暮らしていた10代から70代の家族4人と連絡が",
+  "dateModified": "2026-08-05T10:32:06+09:00",
+  "datePublished": "2026-08-05T07:42:11+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260805/K10015196791_2608050738_0805074212_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260805/K10015196791_2608050738_0805074212_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002689",
+      "name": "火災",
+      "display": true
+    },
+    {
+      "id": "0002234",
+      "name": "広島県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "5日未明、広島県東広島市で住宅3棟が焼ける火事があり、警察によりますと、全焼した1棟の焼け跡からこれまでに3人の遺体が見つかったということです。この住宅で暮らしていた10代から70代の家族4人と連絡が",
+  "articleBody": "5日未明、広島県東広島市で住宅3棟が焼ける火事があり、警察によりますと、全焼した1棟の焼け跡からこれまでに3人の遺体が見つかったということです。この住宅で暮らしていた10代から70代の家族4人と連絡が取れていないということで、警察が確認を進めています。\n\n\n5日午前3時半すぎ、東広島市黒瀬楢原東で「建物が燃えている」と近くの住民から消防に通報がありました。\n\n消防車など9台が出て消火に当たり、火はおよそ4時間半後に消し止められましたが、2階建ての住宅1棟が全焼したほか、近くの住宅2棟にも延焼しました。\n\n警察によりますと、全焼した住宅の焼け跡からこれまでに3人の遺体が見つかり、この住宅で暮らしていた10代の女性と40代の両親、それに70代の祖父の家族4人と連絡が取れていないということです。\n\n警察が確認を進めるとともに火事の原因を調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "5日未明、広島県東広島市で住宅3棟が焼ける火事があり、警察によりますと、全焼した1棟の焼け跡からこれまでに3人の遺体が見つかったということです。この住宅で暮らしていた10代から70代の家族4人と連絡が取れていないということで、警察が確認を進めています。\n",
+    "markedBody": "5日午前3時半すぎ、東広島市黒瀬楢原東で「建物が燃えている」と近くの住民から消防に通報がありました。\n\n消防車など9台が出て消火に当たり、火はおよそ4時間半後に消し止められましたが、2階建ての住宅1棟が全焼したほか、近くの住宅2棟にも延焼しました。\n\n警察によりますと、全焼した住宅の焼け跡からこれまでに3人の遺体が見つかり、この住宅で暮らしていた10代の女性と40代の両親、それに70代の祖父の家族4人と連絡が取れていないということです。\n\n警察が確認を進めるとともに火事の原因を調べています。\n",
+    "trimmedLead": "5日未明、広島県東広島市で住宅3棟が焼ける火事があり、警察によりますと、全焼した1棟の焼け跡からこれまでに3人の遺体が見つかったということです。この住宅で暮らしていた10代から70代の家族4人と連絡が取れていないということで、警察が確認を進めています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015196791000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015196791000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "広島 東広島 住宅火災で3人死亡 家族4人と連絡取れず",
+      "description": "5日未明、広島県東広島市で住宅3棟が焼ける火事があり、警察によりますと、全焼した1棟の焼け跡からこれまでに3人の遺体が見つかったということです。この住宅で暮らしていた10代から70代の家族4人と連絡が",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015196791_202608050741_202608050741/index.m3u8&mrposter=/news/html/20260805/K10015196791_2608050738_0805074212_01_03.jpg",
+      "duration": "PT33S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015196791_202608050741_202608050741/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260805/K10015196791_2608050738_0805074212_01_03.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "台風13号 強い勢力で沖縄・奄美に接近へ 高波 暴風に厳重警戒",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015196631000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260805/K10015196631_2608051024_0805102548_01_03.jpg",
+      "datePublished": "2026-08-05T06:55:30+09:00"
+    },
+    {
+      "name": "台風14号が発生 付近を通る船舶に注意呼びかけ 気象庁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015196811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260805/K10015196811_2608050831_0805083238_01_02.jpg",
+      "datePublished": "2026-08-05T08:32:38+09:00"
+    },
+    {
+      "name": "熊本 震度5強程度以上の地震注意 復旧作業の際は熱中症対策を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015196771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260805/K10015196771_2608050525_0805053516_01_02.jpg",
+      "datePublished": "2026-08-05T05:35:16+09:00"
+    },
+    {
+      "name": "令和8年熊本地震 特集サイト",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002860",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31715354.jpg"
+    },
+    {
+      "name": "6月の実質賃金 前年同月比で1.6％増 6か月連続のプラス",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015196281000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260805/K10015196281_2608051020_0805102122_01_03.jpg",
+      "datePublished": "2026-08-05T10:21:21+09:00"
+    },
+    {
+      "name": "株価 一時2100円以上値上がり 中東情勢 緊張緩和への期待感で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015196831000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260805/K10015196831_2608050930_0805094657_01_02.jpg",
+      "datePublished": "2026-08-05T09:46:56+09:00"
+    },
+    {
+      "name": "米 スペースX 上場後初の決算 AI開発投資が負担となり赤字に",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015196821000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260805/K10015196821_2608050856_0805102510_01_02.jpg",
+      "datePublished": "2026-08-05T10:25:09+09:00"
+    },
+    {
+      "name": "米軍 対イラン作戦で一部のミサイル“ほぼ使い果たした”報道",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015196781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260805/K10015196781_2608050535_0805095815_01_02.jpg",
+      "datePublished": "2026-08-05T09:58:14+09:00"
+    },
+    {
+      "name": "ホルムズ海峡めぐるイランとオマーンの協議 米が関与を主張",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015196711000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260805/K10015196711_2608050459_0805095125_01_02.jpg",
+      "datePublished": "2026-08-05T09:51:24+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
