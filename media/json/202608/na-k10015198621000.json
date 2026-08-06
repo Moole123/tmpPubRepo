@@ -1,0 +1,142 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015198621000",
+  "dataSourceId": "na",
+  "name": "熊本地震 被災地の検索動向「住まい再建」への関心高まる",
+  "headline": "熊本地震 被災地の検索動向「住まい再建」への関心高まる",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015198621000",
+    "playlistId": "news-nwa-disaster-nationwide-20260807",
+    "newsarticleName": "熊本地震 被災地の検索動向「住まい再建」への関心高まる",
+    "playlistName": "8月7日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "熊本県で最大震度7を観測した地震の被災地で今どのような情報が必要とされているか。インターネットの検索データをもとに分析したところ、当初はライフライン関係が多かったものの、その後は住まいの再建に関連する",
+  "dateModified": "2026-08-07T06:36:59+09:00",
+  "datePublished": "2026-08-07T06:36:59+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260807/K10015198621_2608062313_0807063700_02_01.jpg",
+      "height": 719,
+      "width": 1279
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260807/K10015198621_2608062313_0807063700_01_02.jpg",
+      "height": 719,
+      "width": 1279
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002860",
+      "name": "令和8年熊本地震",
+      "display": true
+    },
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0002243",
+      "name": "熊本県",
+      "display": true
+    },
+    {
+      "id": "0000009",
+      "name": "IT・ネット",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "熊本県で最大震度7を観測した地震の被災地で今どのような情報が必要とされているか。インターネットの検索データをもとに分析したところ、当初はライフライン関係が多かったものの、その後は住まいの再建に関連する",
+  "articleBody": "熊本県で最大震度7を観測した地震の被災地で今どのような情報が必要とされているか。インターネットの検索データをもとに分析したところ、当初はライフライン関係が多かったものの、その後は住まいの再建に関連する具体的なワードの検索が増えていることが分かりました。\n\n\nNHKとLINEヤフーは検索ワードのビッグデータを個人を識別できない形で集計し、今回の地震で震度6強以上を観測した地域で、全国と比較して特に多い検索ワードを10日間にわたり分析しました。\n\nその結果、最大震度7の地震があった当初は、「断水」「ガス」といった「ライフライン」関連や、「通行止め」「渋滞情報」などの「交通」関連、それに「避難所」など「避難」に関するワードが多くみられました。\n\n一方、直近では「断水」や「通行止め」に加えて、「罹災証明書」「地震保険」など「住まいの再建」に関するワードが頻繁に検索されるようになり、こうした分野への情報ニーズが高まっていることがうかがえます。\n\n「住まいの再建」に関するワードでは、さらに「補償範囲」「査定」といった保険に関するものや、「中古マンション」「中古住宅」「アパート」など新たな住まいに関するとみられる検索も目立っています。\n\nこのほか「住宅ローン」ということばも多く検索され、災害の影響など一定の条件で住宅ローンの返済負担を軽減できる仕組みがあることから、そうした制度を調べる動きがあることもうかがえます。\n\n被災地で厳しい状況が続く中、当面のライフラインや避難に関するものに加えて、今後の生活や住まいの再建を見据え、具体的な情報を求めるニーズが高まっていることがこうした分析からかいま見られます。\n",
+  "detailedArticleBody": {
+    "markedLead": "熊本県で最大震度7を観測した地震の被災地で今どのような情報が必要とされているか。インターネットの検索データをもとに分析したところ、当初はライフライン関係が多かったものの、その後は住まいの再建に関連する具体的なワードの検索が増えていることが分かりました。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20260807/K10015198621_2608062213_0807063700_02_03.jpg)\n\nNHKとLINEヤフーは検索ワードのビッグデータを個人を識別できない形で集計し、今回の地震で震度6強以上を観測した地域で、全国と比較して特に多い検索ワードを10日間にわたり分析しました。\n\nその結果、最大震度7の地震があった当初は、「断水」「ガス」といった「ライフライン」関連や、「通行止め」「渋滞情報」などの「交通」関連、それに「避難所」など「避難」に関するワードが多くみられました。\n\n![](https://news.web.nhk/news/html/20260807/K10015198621_2608062213_0807063700_02_04.jpg)\n\n一方、直近では「断水」や「通行止め」に加えて、「罹災証明書」「地震保険」など「住まいの再建」に関するワードが頻繁に検索されるようになり、こうした分野への情報ニーズが高まっていることがうかがえます。\n\n「住まいの再建」に関するワードでは、さらに「補償範囲」「査定」といった保険に関するものや、「中古マンション」「中古住宅」「アパート」など新たな住まいに関するとみられる検索も目立っています。\n\nこのほか「住宅ローン」ということばも多く検索され、災害の影響など一定の条件で住宅ローンの返済負担を軽減できる仕組みがあることから、そうした制度を調べる動きがあることもうかがえます。\n\n被災地で厳しい状況が続く中、当面のライフラインや避難に関するものに加えて、今後の生活や住まいの再建を見据え、具体的な情報を求めるニーズが高まっていることがこうした分析からかいま見られます。\n",
+    "trimmedLead": "熊本県で最大震度7を観測した地震の被災地で今どのような情報が必要とされているか。インターネットの検索データをもとに分析したところ、当初はライフライン関係が多かったものの、その後は住まいの再建に関連する具体的なワードの検索が増えていることが分かりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015198621000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015198621000",
+  "video": [],
+  "citation": [
+    {
+      "name": "自宅が被災「避難生活＆住宅再建」り災証明・支援制度も",
+      "url": "https://news.web.nhk/newsweb/na/nc-163f6e53-c252-42f5-a37e-3761a7a325b4",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30056295.jpg"
+    },
+    {
+      "name": "熊本地震 住宅修理トラブルや便乗した詐欺に注意を 消費者庁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015198331000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260806/K10015198331_2608061803_0806182310_01_02.jpg",
+      "datePublished": "2026-08-06T18:23:09+09:00"
+    },
+    {
+      "name": "断水で赤ちゃんが風呂に入れない…どうすれば",
+      "url": "https://news.web.nhk/newsweb/na/nc-d7f096c1-4006-4288-921a-159a31544898",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30071411.jpg"
+    },
+    {
+      "name": "災害時に断水したら…どうすればいい？",
+      "url": "https://news.web.nhk/newsweb/na/nc-0b5537c7-53da-4d36-9610-fe0af97b026f",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30071157.jpg"
+    },
+    {
+      "name": "災害ボランティアはどうやれば…はじめて参加する方へ",
+      "url": "https://news.web.nhk/newsweb/na/nc-564877ba-1633-4e3f-ac97-091fdadee7e7",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30058316.jpg"
+    },
+    {
+      "name": "熊本地震 避難所で感染症を防ぐには？【専門家Q＆A】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015196941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260805/K10015196941_2608051325_0805143942_01_03.jpg",
+      "datePublished": "2026-08-05T14:39:41+09:00"
+    },
+    {
+      "name": "避難所はどこに？【災害情報マップ】",
+      "url": "https://news.web.nhk/bousai-map/shien/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037807.jpg"
+    },
+    {
+      "name": "令和8年熊本地震 特集サイト",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002860",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31715354.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

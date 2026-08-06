@@ -1,0 +1,84 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015198741000",
+  "dataSourceId": "na",
+  "name": "【地震速報】熊本 水俣市 震度3 津波の心配なし",
+  "headline": "【地震速報】熊本 水俣市 震度3 津波の心配なし",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015198741000",
+    "playlistId": "news-nwa-disaster-nationwide-20260807",
+    "newsarticleName": "【地震速報】熊本 水俣市 震度3 津波の心配なし",
+    "playlistName": "8月7日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "7日午前6時56分ごろ、熊本県で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。震度3の揺れを観測したのは熊本県水俣市でした。\n\n\nこのほか、震度1の揺れを熊本県芦北町、",
+  "dateModified": "2026-08-07T07:12:27+09:00",
+  "datePublished": "2026-08-07T07:05:29+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260807/K10015198741_2608070707_0807070828_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260807/K10015198741_2608070707_0807070828_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "7日午前6時56分ごろ、熊本県で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。震度3の揺れを観測したのは熊本県水俣市でした。\n\n\nこのほか、震度1の揺れを熊本県芦北町、",
+  "articleBody": "7日午前6時56分ごろ、熊本県で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。震度3の揺れを観測したのは熊本県水俣市でした。\n\n\nこのほか、震度1の揺れを熊本県芦北町、津奈木町、球磨村、鹿児島県の伊佐市、長島町で観測しました。\n\n気象庁の観測によりますと、震源地は熊本県天草・芦北地方で、震源の深さは10キロ。\n\n地震の規模を示すマグニチュードは2.9と推定されています。\n\n熊本県では7月28日、熊本地方を震源とするマグニチュード7.1の大地震が発生し、震度7の揺れを観測しました。\n\nその後も地震活動が活発になっていて、気象庁は、1週間ほどは最大震度5強程度以上の地震に注意するよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "7日午前6時56分ごろ、熊本県で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。震度3の揺れを観測したのは熊本県水俣市でした。\n",
+    "markedBody": "このほか、震度1の揺れを熊本県芦北町、津奈木町、球磨村、鹿児島県の伊佐市、長島町で観測しました。\n\n気象庁の観測によりますと、震源地は熊本県天草・芦北地方で、震源の深さは10キロ。\n\n地震の規模を示すマグニチュードは2.9と推定されています。\n\n熊本県では7月28日、熊本地方を震源とするマグニチュード7.1の大地震が発生し、震度7の揺れを観測しました。\n\nその後も地震活動が活発になっていて、気象庁は、1週間ほどは最大震度5強程度以上の地震に注意するよう呼びかけています。\n",
+    "trimmedLead": "7日午前6時56分ごろ、熊本県で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。震度3の揺れを観測したのは熊本県水俣市でした。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015198741000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015198741000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
