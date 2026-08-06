@@ -1,0 +1,159 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015198321000",
+  "dataSourceId": "na",
+  "name": "【台風影響】7日～8日 沖縄・鹿児島の空港を発着する便に欠航",
+  "headline": "【台風影響】7日～8日 沖縄・鹿児島の空港を発着する便に欠航",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015198321000",
+    "playlistId": "news-nwa-disaster-nationwide-20260806",
+    "newsarticleName": "【台風影響】7日～8日 沖縄・鹿児島の空港を発着する便に欠航",
+    "playlistName": "8月6日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "国内の主な航空会社によりますと、台風の影響で6日は那覇空港を発着する便を中心に110便余りが欠航となりました。7日は沖縄県や鹿児島県の空港を発着するおよそ470便が欠航します。\n\n\nまた、お盆休みの期",
+  "dateModified": "2026-08-06T17:55:02+09:00",
+  "datePublished": "2026-08-06T17:55:02+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260806/K10015198321_2608061751_0806175503_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260806/K10015198321_2608061751_0806175503_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002424",
+      "name": "航空",
+      "display": true
+    },
+    {
+      "id": "0002683",
+      "name": "交通・インフラ",
+      "display": true
+    },
+    {
+      "id": "0001345",
+      "name": "台風",
+      "display": true
+    },
+    {
+      "id": "0002247",
+      "name": "沖縄県",
+      "display": true
+    },
+    {
+      "id": "0002246",
+      "name": "鹿児島県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "国内の主な航空会社によりますと、台風の影響で6日は那覇空港を発着する便を中心に110便余りが欠航となりました。7日は沖縄県や鹿児島県の空港を発着するおよそ470便が欠航します。\n\n\nまた、お盆休みの期",
+  "articleBody": "国内の主な航空会社によりますと、台風の影響で6日は那覇空港を発着する便を中心に110便余りが欠航となりました。7日は沖縄県や鹿児島県の空港を発着するおよそ470便が欠航します。\n\n\nまた、お盆休みの期間中の下りのピークとなる8日も、沖縄県や鹿児島県の空港を発着する300便の欠航がすでに決まっています。\n\n航空各社は、今後の台風の進路によってはほかにも欠航が出る可能性があるとしてホームページなどで最新の情報を確認するよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "国内の主な航空会社によりますと、台風の影響で6日は那覇空港を発着する便を中心に110便余りが欠航となりました。7日は沖縄県や鹿児島県の空港を発着するおよそ470便が欠航します。\n",
+    "markedBody": "また、お盆休みの期間中の下りのピークとなる8日も、沖縄県や鹿児島県の空港を発着する300便の欠航がすでに決まっています。\n\n航空各社は、今後の台風の進路によってはほかにも欠航が出る可能性があるとしてホームページなどで最新の情報を確認するよう呼びかけています。\n",
+    "trimmedLead": "国内の主な航空会社によりますと、台風の影響で6日は那覇空港を発着する便を中心に110便余りが欠航となりました。7日は沖縄県や鹿児島県の空港を発着するおよそ470便が欠航します。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015198321000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015198321000",
+  "video": [],
+  "citation": [
+    {
+      "name": "台風13号 沖縄・奄美で風が強まる 沖縄は線状降水帯のおそれ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015197581000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260806/K10015197581_2608061753_0806180237_01_03.jpg",
+      "datePublished": "2026-08-06T18:02:36+09:00"
+    },
+    {
+      "name": "広島原爆の日 被爆から81年 核兵器廃絶の訴え続く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015197811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260806/K10015197811_2608061749_0806175413_01_02.jpg",
+      "datePublished": "2026-08-06T17:31:05+09:00"
+    },
+    {
+      "name": "熊本 八代市で39度 過去最高気温に並ぶ 台風影響にも注意を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015197571000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260806/K10015197571_2608061129_0806114911_01_03.jpg",
+      "datePublished": "2026-08-06T17:25:50+09:00"
+    },
+    {
+      "name": "地震で不安に 子どもの心のケアのポイントまとめた文書公開",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015198161000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260806/K10015198161_2608061442_0806154202_01_02.jpg",
+      "datePublished": "2026-08-06T15:42:01+09:00"
+    },
+    {
+      "name": "俳優 寿美花代さん死去 宝塚歌劇団で男役トップスター 94歳",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015198081000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260806/K10015198081_2608061338_0806142532_01_02.jpg",
+      "datePublished": "2026-08-06T14:25:31+09:00"
+    },
+    {
+      "name": "「イオンモール熊本」爆発 LPガス供給会社 調査に全面協力",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015198211000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260806/K10015198211_2608061514_0806155420_01_02.jpg",
+      "datePublished": "2026-08-06T15:54:19+09:00"
+    },
+    {
+      "name": "人気雑誌グッズを大量注文しキャンセル疑い 32歳を逮捕 警視庁",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015197981000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260806/K10015197981_2608061151_0806121119_01_02.jpg",
+      "datePublished": "2026-08-06T15:28:33+09:00"
+    },
+    {
+      "name": "令和8年熊本地震 特集サイト",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002860",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31715354.jpg"
+    },
+    {
+      "name": "高校野球 夏の甲子園 全試合をハイライト動画で【随時更新】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015196491000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260805/K10015196491_2608042227_0805221755_01_02.jpg",
+      "datePublished": "2026-08-05T22:19:06+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
