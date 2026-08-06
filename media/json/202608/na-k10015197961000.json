@@ -1,0 +1,178 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015197961000",
+  "dataSourceId": "na",
+  "name": "秘匿性高い通信アプリを遠隔解析 トクリュウ対策で検討へ",
+  "headline": "秘匿性高い通信アプリを遠隔解析 トクリュウ対策で検討へ",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015197961000",
+    "playlistId": "news-nwa-society-nationwide-20260806",
+    "newsarticleName": "秘匿性高い通信アプリを遠隔解析 トクリュウ対策で検討へ",
+    "playlistName": "8月6日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "秘匿性の高い通信アプリで連絡を取り合い犯行を繰り返す匿名・流動型犯罪グループへの対策として、警察庁は、指示役とみられる人物などのアプリでのやりとりを遠隔で取得する新たな捜査技術の調査を始めています。海",
+  "dateModified": "2026-08-06T12:19:03+09:00",
+  "datePublished": "2026-08-06T12:19:03+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197961_2608061147_0806121904_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197961_2608061147_0806121904_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "0002687",
+      "name": "警察庁",
+      "display": true
+    },
+    {
+      "id": "0000009",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "0002418",
+      "name": "通信",
+      "display": true
+    },
+    {
+      "id": "0001538",
+      "name": "事件・事故",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "秘匿性の高い通信アプリで連絡を取り合い犯行を繰り返す匿名・流動型犯罪グループへの対策として、警察庁は、指示役とみられる人物などのアプリでのやりとりを遠隔で取得する新たな捜査技術の調査を始めています。海",
+  "articleBody": "秘匿性の高い通信アプリで連絡を取り合い犯行を繰り返す匿名・流動型犯罪グループへの対策として、警察庁は、指示役とみられる人物などのアプリでのやりとりを遠隔で取得する新たな捜査技術の調査を始めています。海外の捜査機関の状況なども参考に、近く有識者会議を立ち上げて議論を進める方針です。\n\n\n匿名・流動型犯罪グループ＝トクリュウが関わる犯罪では、履歴が消去される秘匿性の高い通信アプリが連絡手段に使われるケースが多く、警察は押収したグループのスマートフォンから消去済みの履歴を復元する特殊な技術などを駆使して捜査しています。\n\nただ、末端の実行役を逮捕しても解析には一定の時間がかかり、その間にも別の実行役が指示を受けて事件を起こすことから、被害を防ぐことが難しくなっています。\n\n警察庁が調査を始めているのは、スマートフォンを押収していなくてもアプリでのやりとりなどを遠隔で取得できる技術で、警察関係者によりますと、こうした技術は海外の捜査機関では導入しているケースが一部あるといいます。\n\nトクリュウの指示役など容疑性の高い人物に狙いを定め犯罪計画などの情報を収集することでメンバーの検挙や被害の抑止につなげられるとする一方、警察庁はこうした捜査手法には個人の権利やプライバシーを侵害しない慎重な制度設計が求められるとして、来週にも弁護士や大学教授らを交えた有識者会議を立ち上げて議論を進める方針です。\n",
+  "detailedArticleBody": {
+    "markedLead": "秘匿性の高い通信アプリで連絡を取り合い犯行を繰り返す匿名・流動型犯罪グループへの対策として、警察庁は、指示役とみられる人物などのアプリでのやりとりを遠隔で取得する新たな捜査技術の調査を始めています。海外の捜査機関の状況なども参考に、近く有識者会議を立ち上げて議論を進める方針です。\n",
+    "markedBody": "匿名・流動型犯罪グループ＝トクリュウが関わる犯罪では、履歴が消去される秘匿性の高い通信アプリが連絡手段に使われるケースが多く、警察は押収したグループのスマートフォンから消去済みの履歴を復元する特殊な技術などを駆使して捜査しています。\n\nただ、末端の実行役を逮捕しても解析には一定の時間がかかり、その間にも別の実行役が指示を受けて事件を起こすことから、被害を防ぐことが難しくなっています。\n\n警察庁が調査を始めているのは、スマートフォンを押収していなくてもアプリでのやりとりなどを遠隔で取得できる技術で、警察関係者によりますと、こうした技術は海外の捜査機関では導入しているケースが一部あるといいます。\n\nトクリュウの指示役など容疑性の高い人物に狙いを定め犯罪計画などの情報を収集することでメンバーの検挙や被害の抑止につなげられるとする一方、警察庁はこうした捜査手法には個人の権利やプライバシーを侵害しない慎重な制度設計が求められるとして、来週にも弁護士や大学教授らを交えた有識者会議を立ち上げて議論を進める方針です。\n",
+    "trimmedLead": "秘匿性の高い通信アプリで連絡を取り合い犯行を繰り返す匿名・流動型犯罪グループへの対策として、警察庁は、指示役とみられる人物などのアプリでのやりとりを遠隔で取得する新たな捜査技術の調査を始めています。海外の捜査機関の状況なども参考に、近く有識者会議を立ち上げて議論を進める方針です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015197961000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015197961000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "秘匿性高い通信アプリを遠隔解析 トクリュウ対策で検討へ",
+      "description": "秘匿性の高い通信アプリで連絡を取り合い犯行を繰り返す匿名・流動型犯罪グループへの対策として、警察庁は、指示役とみられる人物などのアプリでのやりとりを遠隔で取得する新たな捜査技術の調査を始めています。海",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015197961_202608061229_202608061238/index.m3u8&mrposter=/news/html/20260806/K10015197961_2608061147_0806121904_01_02.jpg",
+      "duration": "PT1M8S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015197961_202608061229_202608061238/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197961_2608061147_0806121904_01_02.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "被爆から81年 広島 平和記念式典",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015197811000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260806/K10015197811_2608060959_0806101514_01_02.jpg",
+      "datePublished": "2026-08-06T12:36:04+09:00"
+    },
+    {
+      "name": "広島「原爆の日」の朝  被爆者や遺族が祈りささげる",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015197691000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260806/K10015197691_2608060507_0806062716_01_02.jpg",
+      "datePublished": "2026-08-06T06:27:15+09:00"
+    },
+    {
+      "name": "台風13号 猛烈な風が予想 沖縄は線状降水帯のおそれ 厳重警戒",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015197581000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260806/K10015197581_2608061251_0806125418_01_03.jpg",
+      "datePublished": "2026-08-06T12:54:17+09:00"
+    },
+    {
+      "name": "熊本はきょうも危険な暑さ予想 熱中症対策を 台風影響にも注意",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015197571000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260806/K10015197571_2608061129_0806114911_01_03.jpg",
+      "datePublished": "2026-08-06T13:28:47+09:00"
+    },
+    {
+      "name": "西日本で40度に迫る危険な暑さ予想 熱中症対策の徹底を",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015197901000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260806/K10015197901_2608061132_0806114254_01_02.jpg",
+      "datePublished": "2026-08-06T11:42:53+09:00"
+    },
+    {
+      "name": "コメ価格見通しを示す指数 過去最低に 民間在庫増の影響も",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015197891000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260806/K10015197891_2608061117_0806113920_01_02.jpg",
+      "datePublished": "2026-08-06T11:39:19+09:00"
+    },
+    {
+      "name": "イラン外務省 海峡めぐるオマーンとの共同声明 調整の最終段階",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015197611000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260806/K10015197611_2608060729_0806074203_01_02.jpg",
+      "datePublished": "2026-08-06T07:42:02+09:00"
+    },
+    {
+      "name": "中国 米に対抗措置 アメリカ向けドローンの輸出規制を強化",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015197591000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260806/K10015197591_2608052149_0806073441_01_02.jpg",
+      "datePublished": "2026-08-06T07:34:40+09:00"
+    },
+    {
+      "name": "ドジャース 大谷翔平 今季初1試合2本のHR チームは6連敗",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015197681000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260806/K10015197681_2608060922_0806092351_01_02.jpg",
+      "datePublished": "2026-08-06T08:26:56+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

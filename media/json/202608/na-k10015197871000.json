@@ -1,0 +1,161 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015197871000",
+  "dataSourceId": "na",
+  "name": "熊本県内 避難情報 130か所 6899人が避難【8月6日】",
+  "headline": "熊本県内 避難情報 130か所 6899人が避難【8月6日】",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015197871000",
+    "playlistId": "news-nwa-disaster-nationwide-20260806",
+    "newsarticleName": "熊本県内 避難情報 130か所 6899人が避難【8月6日】",
+    "playlistName": "8月6日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "熊本県によりますと、6日午前7時半時点、今回の地震による県内の死者は38人となっています。\n\n死者の数は今月2日から変わらず、災害関連死の疑いがある1人や、地震による「直接死」かどうか調査している1人",
+  "dateModified": "2026-08-06T12:51:58+09:00",
+  "datePublished": "2026-08-06T12:51:58+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197871_2608061123_0806125159_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197871_2608061123_0806125159_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002860",
+      "name": "令和8年熊本地震",
+      "display": true
+    },
+    {
+      "id": "0002618",
+      "name": "避難",
+      "display": true
+    },
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0002623",
+      "name": "ライフライン",
+      "display": true
+    },
+    {
+      "id": "0002243",
+      "name": "熊本県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "熊本県によりますと、6日午前7時半時点、今回の地震による県内の死者は38人となっています。\n\n死者の数は今月2日から変わらず、災害関連死の疑いがある1人や、地震による「直接死」かどうか調査している1人",
+  "articleBody": "熊本県によりますと、6日午前7時半時点、今回の地震による県内の死者は38人となっています。\n\n死者の数は今月2日から変わらず、災害関連死の疑いがある1人や、地震による「直接死」かどうか調査している1人が含まれているということです。\n\nまた県内で開設されている避難所は130か所あり、6899人が避難しているということです。\n\n\n熊本県の最新ニュース\n\n熊本県の最新ニュース\n地震による避難の状況など、熊本県内の最新ニュースをまとめてご覧いただけます。\n\n災害情報マップ\n\n災害情報マップ\n熊本県内の避難所や給水所の場所、トイレ情報などが地図上にプロットされて表示されます。ぜひご活用ください。\n\n【リアルタイム更新】避難情報\n\n【リアルタイム更新】避難情報\n熊本県の避難情報（緊急安全確保・避難指示・高齢者等避難）や避難所の開設状況をお伝えします。\n",
+  "detailedArticleBody": {
+    "markedLead": "熊本県によりますと、6日午前7時半時点、今回の地震による県内の死者は38人となっています。\n\n死者の数は今月2日から変わらず、災害関連死の疑いがある1人や、地震による「直接死」かどうか調査している1人が含まれているということです。\n\nまた県内で開設されている避難所は130か所あり、6899人が避難しているということです。\n",
+    "markedBody": ":::nw--link-type4 {href=https://news.web.nhk/newsweb/area/430}\n![熊本県の最新ニュース](https://news.web.nhk/news/html/20260806/K10015197871_2608061245_0806125159_02_03.jpg)\n\n**熊本県の最新ニュース**\\\n地震による避難の状況など、熊本県内の最新ニュースをまとめてご覧いただけます。\n:::\n\n:::nw--link-type4 {href=https://news.web.nhk/bousai-map/shien/}\n![災害情報マップ](https://news.web.nhk/news/html/20260806/K10015197871_2608061247_0806125159_02_04.jpg)\n\n**災害情報マップ**\\\n熊本県内の避難所や給水所の場所、トイレ情報などが地図上にプロットされて表示されます。ぜひご活用ください。\n:::\n\n:::nw--link-type4 {href=https://news.web.nhk/kishou-saigai/evacuation/pref/kumamoto/}\n![【リアルタイム更新】避難情報](https://news.web.nhk/news/html/20260806/K10015197871_2608061246_0806125159_02_05.jpg)\n\n**【リアルタイム更新】避難情報**\\\n熊本県の避難情報（緊急安全確保・避難指示・高齢者等避難）や避難所の開設状況をお伝えします。\n:::\n",
+    "trimmedLead": "熊本県によりますと、6日午前7時半時点、今回の地震による県内の死者は38人となっています。\n\n死者の数は今月2日から変わらず、災害関連死の疑いがある1人や、地震による「直接死」かどうか調査している1人が含まれているということです。\n\nまた県内で開設されている避難所は130か所あり、6899人が避難しているということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015197871000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015197871000",
+  "video": [],
+  "citation": [
+    {
+      "name": "熊本はきょうも危険な暑さ予想 熱中症対策を 台風影響にも注意",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015197571000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260806/K10015197571_2608061129_0806114911_01_03.jpg",
+      "datePublished": "2026-08-06T13:28:47+09:00"
+    },
+    {
+      "name": "熊本地震 災害関連死の疑い含め38人死亡 避難所に6899人が避難",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015197971000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260806/K10015197971_2608061154_0806115923_01_02.jpg",
+      "datePublished": "2026-08-06T11:59:22+09:00"
+    },
+    {
+      "name": "熊本地震 避難所で感染症を防ぐには？【専門家Q＆A】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015196941000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260805/K10015196941_2608051325_0805143942_01_03.jpg",
+      "datePublished": "2026-08-05T14:39:41+09:00"
+    },
+    {
+      "name": "熊本地震で9人死亡の日本製紙 初めて記者会見 社長が陳謝",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015197011000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260805/K10015197011_2608051503_0805161554_01_02.jpg",
+      "datePublished": "2026-08-05T18:56:07+09:00"
+    },
+    {
+      "name": "九州新幹線 新水俣駅～鹿児島中央駅 本数減らして7日再開へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015197721000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260806/K10015197721_2608060807_0806084917_01_02.jpg",
+      "datePublished": "2026-08-06T12:11:45+09:00"
+    },
+    {
+      "name": "【熊本地震】避難 ライフライン 交通影響 支援の動き 被災地はいま",
+      "url": "https://news.web.nhk/newsweb/sp/pl/editorial-nwa-0000000624",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31718572.jpg"
+    },
+    {
+      "name": "令和8年熊本地震 震度7から1週間 今後の課題は",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015197051000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260805/K10015197051_2608051138_0805133616_01_02.jpg",
+      "datePublished": "2026-08-05T13:36:15+09:00"
+    },
+    {
+      "name": "令和8年熊本地震 特集サイト",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002860",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31715354.jpg"
+    },
+    {
+      "name": "避難所はどこに？【災害情報マップ】",
+      "url": "https://news.web.nhk/bousai-map/shien/",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31037807.jpg"
+    },
+    {
+      "name": "地震 津波 最新情報はニュース・防災アプリで",
+      "url": "https://www.nhk.or.jp/nhkone/service/app/news_bousai/",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_31189657.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
