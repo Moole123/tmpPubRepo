@@ -1,0 +1,159 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015199411000",
+  "dataSourceId": "na",
+  "name": "熊本地震 亡くなった3人の氏名や年齢などを県が新たに公表",
+  "headline": "熊本地震 亡くなった3人の氏名や年齢などを県が新たに公表",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015199411000",
+    "playlistId": "news-nwa-disaster-nationwide-20260807",
+    "newsarticleName": "熊本地震 亡くなった3人の氏名や年齢などを県が新たに公表",
+    "playlistName": "8月7日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "熊本県は7日、今回の地震で亡くなった3人の氏名や年齢などを新たに公表しました。\n\n\n亡くなったのは、八代市松崎町に住む光富俊介さん（45）、八代市井上町に住む坂本敏博さん（59）、氷川町野津に住む古島",
+  "dateModified": "2026-08-07T19:11:35+09:00",
+  "datePublished": "2026-08-07T19:11:35+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260807/K10015199411_2608071749_0807191136_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260807/K10015199411_2608071749_0807191136_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "0002860",
+      "name": "令和8年熊本地震",
+      "display": true
+    },
+    {
+      "id": "0002332",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "0002243",
+      "name": "熊本県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "熊本県は7日、今回の地震で亡くなった3人の氏名や年齢などを新たに公表しました。\n\n\n亡くなったのは、八代市松崎町に住む光富俊介さん（45）、八代市井上町に住む坂本敏博さん（59）、氷川町野津に住む古島",
+  "articleBody": "熊本県は7日、今回の地震で亡くなった3人の氏名や年齢などを新たに公表しました。\n\n\n亡くなったのは、八代市松崎町に住む光富俊介さん（45）、八代市井上町に住む坂本敏博さん（59）、氷川町野津に住む古島治美さん（50）です。\n\n熊本県は遺族からの同意が得られたとしていて、今後、亡くなったほかの人についても遺族からの同意があれば、氏名などを公表するとしています。\n\n一方、熊本県は、今回の地震で亡くなった熊本市の20代の女性、宇城市の60代の女性、八代市の40代の男性、八代市の30代の男性の4人については、遺族からの同意が得られなかったとして、公表を控えました。\n",
+  "detailedArticleBody": {
+    "markedLead": "熊本県は7日、今回の地震で亡くなった3人の氏名や年齢などを新たに公表しました。\n",
+    "markedBody": "亡くなったのは、八代市松崎町に住む光富俊介さん（45）、八代市井上町に住む坂本敏博さん（59）、氷川町野津に住む古島治美さん（50）です。\n\n熊本県は遺族からの同意が得られたとしていて、今後、亡くなったほかの人についても遺族からの同意があれば、氏名などを公表するとしています。\n\n一方、熊本県は、今回の地震で亡くなった熊本市の20代の女性、宇城市の60代の女性、八代市の40代の男性、八代市の30代の男性の4人については、遺族からの同意が得られなかったとして、公表を控えました。\n",
+    "trimmedLead": "熊本県は7日、今回の地震で亡くなった3人の氏名や年齢などを新たに公表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015199411000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015199411000",
+  "video": [],
+  "citation": [
+    {
+      "name": "令和8年熊本地震 特集サイト",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002860",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31715354.jpg"
+    },
+    {
+      "name": "熊本地震 県が亡くなった5人の氏名や年齢などを公表",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015198351000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260806/K10015198351_2608061828_0806184307_01_02.jpg",
+      "datePublished": "2026-08-06T18:43:06+09:00"
+    },
+    {
+      "name": "熊本地震 災害関連死の疑い含め38人死亡 避難所に6651人避難",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015198921000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260807/K10015198921_2608071112_0807113502_01_02.jpg",
+      "datePublished": "2026-08-07T18:47:34+09:00"
+    },
+    {
+      "name": "熊本地震の被害を「激甚災害」に指定 自治体の復旧費用支援へ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015198971000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260807/K10015198971_2608071331_0807135417_01_02.jpg",
+      "datePublished": "2026-08-07T14:47:12+09:00"
+    },
+    {
+      "name": "地震被害の熊本 夜も気温下がらず 熱中症対策 揺れにも備えを",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015198731000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260807/K10015198731_2608071921_0807192146_01_02.jpg",
+      "datePublished": "2026-08-07T18:41:47+09:00"
+    },
+    {
+      "name": "大型で非常に強い台風13号 大雨や暴風など厳重警戒【中継も】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015198521000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260807/K10015198521_2608071845_0807185834_01_02.jpg",
+      "datePublished": "2026-08-07T20:44:36+09:00"
+    },
+    {
+      "name": "北海道 江別 強盗致死事件裁判 当時18歳被告に無期懲役の判決",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015199131000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260807/K10015199131_2608071356_0807142053_01_03.jpg",
+      "datePublished": "2026-08-07T19:17:10+09:00"
+    },
+    {
+      "name": "九州新幹線 新水俣～鹿児島中央で運行再開 1日6往復のダイヤ",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015198771000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260807/K10015198771_2608070828_0807084200_01_02.jpg",
+      "datePublished": "2026-08-07T11:57:21+09:00"
+    },
+    {
+      "name": "熊本 八代 地震の瞬間 手術室は緊迫した状況に…【動画】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015198461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260806/K10015198461_2608061919_0806192200_01_03.jpg",
+      "datePublished": "2026-08-06T19:21:59+09:00"
+    },
+    {
+      "name": "福岡県議 現職アンケート 金銭授受「うわさ聞いた」半数近く",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015198861000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260807/K10015198861_2608071034_0807120028_01_02.jpg",
+      "datePublished": "2026-08-07T15:59:47+09:00"
+    },
+    {
+      "name": "【夏の甲子園 2026】日程・結果・最新ニュース",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002460",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31637391.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
