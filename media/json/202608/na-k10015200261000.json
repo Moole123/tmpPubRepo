@@ -1,0 +1,157 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015200261000",
+  "dataSourceId": "na",
+  "name": "愛知県内で水難事故相次ぐ 1人死亡 1人意識不明",
+  "headline": "愛知県内で水難事故相次ぐ 1人死亡 1人意識不明",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015200261000",
+    "playlistId": "news-nwa-society-nationwide-20260808",
+    "newsarticleName": "愛知県内で水難事故相次ぐ 1人死亡 1人意識不明",
+    "playlistName": "8月8日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "8日、愛知県内の海と川で水難事故が相次ぎ、警察や消防によりますと1人が死亡し、1人が意識不明の重体となっています。\n\n\n8日正午前、愛知県田原市の赤羽根海岸で「サーフィン中に夫が溺れた」などと一緒にい",
+  "dateModified": "2026-08-08T17:56:28+09:00",
+  "datePublished": "2026-08-08T17:56:28+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260808/K10015200261_2608081751_0808175629_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260808/K10015200261_2608081751_0808175629_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "0002223",
+      "name": "愛知県",
+      "display": true
+    },
+    {
+      "id": "0001538",
+      "name": "事件・事故",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "8日、愛知県内の海と川で水難事故が相次ぎ、警察や消防によりますと1人が死亡し、1人が意識不明の重体となっています。\n\n\n8日正午前、愛知県田原市の赤羽根海岸で「サーフィン中に夫が溺れた」などと一緒にい",
+  "articleBody": "8日、愛知県内の海と川で水難事故が相次ぎ、警察や消防によりますと1人が死亡し、1人が意識不明の重体となっています。\n\n\n8日正午前、愛知県田原市の赤羽根海岸で「サーフィン中に夫が溺れた」などと一緒にいた家族から消防に通報がありました。\n\n警察や消防によりますと、1人でサーフィンをしていた岡崎市に住む46歳の男性が病院に搬送されましたが、まもなく死亡が確認されました。\n\nまた、正午すぎには、東栄町振草の川で「男性が川で溺れている」などと消防と警察に通報がありました。\n\n40代くらいの男性が病院に搬送されましたが、意識不明の重体となっています。\n\n警察によりますと、男性は妻と10代の子どもの3人で川遊びに来ていて、溺れそうになった子どもを助けようとしていたということです。\n\n警察は当時の状況を調べるとともに、遊泳中の事故に注意するよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "8日、愛知県内の海と川で水難事故が相次ぎ、警察や消防によりますと1人が死亡し、1人が意識不明の重体となっています。\n",
+    "markedBody": "8日正午前、愛知県田原市の赤羽根海岸で「サーフィン中に夫が溺れた」などと一緒にいた家族から消防に通報がありました。\n\n警察や消防によりますと、1人でサーフィンをしていた岡崎市に住む46歳の男性が病院に搬送されましたが、まもなく死亡が確認されました。\n\nまた、正午すぎには、東栄町振草の川で「男性が川で溺れている」などと消防と警察に通報がありました。\n\n40代くらいの男性が病院に搬送されましたが、意識不明の重体となっています。\n\n警察によりますと、男性は妻と10代の子どもの3人で川遊びに来ていて、溺れそうになった子どもを助けようとしていたということです。\n\n警察は当時の状況を調べるとともに、遊泳中の事故に注意するよう呼びかけています。\n",
+    "trimmedLead": "8日、愛知県内の海と川で水難事故が相次ぎ、警察や消防によりますと1人が死亡し、1人が意識不明の重体となっています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015200261000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015200261000",
+  "video": [],
+  "citation": [
+    {
+      "name": "千葉 南房総 海水浴場で男性2人が溺れる このうち1人意識なし",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015200141000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260808/K10015200141_2608081533_0808192353_01_02.jpg",
+      "datePublished": "2026-08-08T13:56:52+09:00"
+    },
+    {
+      "name": "川で水難事故にあわないための対策やポイント",
+      "url": "https://news.web.nhk/newsweb/na/nc-0139dcd7-940a-410e-ba21-47ca3b94f060",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_30058477.jpg"
+    },
+    {
+      "name": "「水の事故」に注意！ どう備える",
+      "url": "https://news.web.nhk/newsweb/sp/pl/editorial-nwa-0000000527",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31483997.jpg"
+    },
+    {
+      "name": "泳げないけど「水の事故」死者は半減？いったいなぜ？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014523441000",
+      "thumbnailUrl": "https://news.web.nhk/news/link/rlimg/rl_31565216.jpg"
+    },
+    {
+      "name": "ため池に落ちたら？  潜水カメラマンが体験した恐怖",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015197931000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260807/K10015197931_2608061906_0807180404_01_02.jpg",
+      "datePublished": "2026-08-07T18:04:03+09:00"
+    },
+    {
+      "name": "台風13号 影響は長時間続く 警戒を 台風15号の動きは?",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015199841000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260808/K10015199841_2608081946_0808195225_01_03.jpg",
+      "datePublished": "2026-08-08T19:52:24+09:00"
+    },
+    {
+      "name": "熊本 各地であすも厳しい暑さに 局地的な雨も土砂災害注意",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015199781000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260808/K10015199781_2608081208_0808121730_01_03.jpg",
+      "datePublished": "2026-08-08T19:07:13+09:00"
+    },
+    {
+      "name": "熊本地震【専門家Q＆A】ボランティア参加するには？注意点は？",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015199991000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260808/K10015199991_2608081214_0808122007_01_03.jpg",
+      "datePublished": "2026-08-08T12:09:12+09:00"
+    },
+    {
+      "name": "熊本 八代 地震の瞬間 手術室は緊迫した状況に…【動画】",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015198461000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260806/K10015198461_2608061919_0806192200_01_03.jpg",
+      "datePublished": "2026-08-06T19:21:59+09:00"
+    },
+    {
+      "name": "きょうも猛暑日 熱中症対策徹底を 局地的に大雨のおそれも",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015200031000",
+      "thumbnailUrl": "https://news.web.nhk/news/html/20260808/K10015200031_2608081851_0808185126_01_02.jpg",
+      "datePublished": "2026-08-08T16:39:12+09:00"
+    },
+    {
+      "name": "令和8年熊本地震 特集サイト",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002860",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31715354.jpg"
+    },
+    {
+      "name": "【夏の甲子園 2026】日程・結果・最新ニュース",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002460",
+      "thumbnailUrl": "https://news.web.nhk/news/special/sp_31637391.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
