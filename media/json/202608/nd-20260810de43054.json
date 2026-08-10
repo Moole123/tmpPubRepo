@@ -1,0 +1,137 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260810de43054",
+  "dataSourceId": "nd",
+  "name": "各党支持率「自民党」35.0％ 「支持なし」39.0％ NHK世論調査",
+  "headline": "各党支持率「自民党」35.0％ 「支持なし」39.0％ NHK世論調査",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260810de43054",
+    "playlistId": "news-nwa-politics-nationwide-20260810",
+    "newsarticleName": "各党支持率「自民党」35.0％ 「支持なし」39.0％ NHK世論調査",
+    "playlistName": "8月10日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "8月の各党の支持率です。\n\n各党の支持率は、「自民党」が35.0％、「日本維新の会」が2.6％、「国民民主党」が2.8％、「中道改革連合」が1.7％、「立憲民主党」が2.8％、「参政党」が2.8％、「",
+  "dateModified": "2026-08-10T19:01:07+09:00",
+  "datePublished": "2026-08-10T19:01:07+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43054/20260810de43054_E0000006492_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43054/20260810de43054_E0000006492_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "E0000000740",
+      "name": "NHK世論調査",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "8月の各党の支持率です。\n\n各党の支持率は、「自民党」が35.0％、「日本維新の会」が2.6％、「国民民主党」が2.8％、「中道改革連合」が1.7％、「立憲民主党」が2.8％、「参政党」が2.8％、「",
+  "articleBody": "8月の各党の支持率です。\n\n各党の支持率は、「自民党」が35.0％、「日本維新の会」が2.6％、「国民民主党」が2.8％、「中道改革連合」が1.7％、「立憲民主党」が2.8％、「参政党」が2.8％、「公明党」が2.2％、「チームみらい」が1.2％、「共産党」が3.4％、「れいわ新選組」から党名を変更した「いのちの党」が0.7％、「社民党」が0.2％、「日本保守党」が1.0％、「特に支持している政党はない」が39.0％でした。\n\n\nNHK世論調査\n\nNHK世論調査\n内閣支持率・政党支持率の時系列グラフはこちら\n\n内閣支持率が下がった一方、自民党の政党支持率は7月から横ばいの35.0％で、年代別に見ますと、すべての年代でおよそ30％から40％台でした。\n\nこれに対し、野党の支持率は、いずれの党もすべての年代で1桁にとどまりました。\n\n一方、「特に支持する政党はない」は、すべての年代でおよそ30％から40％台半ばを占めています。\n",
+  "detailedArticleBody": {
+    "markedLead": "8月の各党の支持率です。\n\n各党の支持率は、「自民党」が35.0％、「日本維新の会」が2.6％、「国民民主党」が2.8％、「中道改革連合」が1.7％、「立憲民主党」が2.8％、「参政党」が2.8％、「公明党」が2.2％、「チームみらい」が1.2％、「共産党」が3.4％、「れいわ新選組」から党名を変更した「いのちの党」が0.7％、「社民党」が0.2％、「日本保守党」が1.0％、「特に支持している政党はない」が39.0％でした。\n",
+    "markedBody": ":::nw--link-type4 {href=https://news.web.nhk/senkyo/shijiritsu/}\n![NHK世論調査](https://img.web.nhk/news/nd/kiji/20260810de43054/20260810de43054_E0000005964_1_l.jpg)\n\n**NHK世論調査**\\\n内閣支持率・政党支持率の時系列グラフはこちら\n:::\n\n:::nw--border {style=border-color:#DF1E1E}\n![](https://img.web.nhk/news/nd/kiji/20260810de43054/20260810de43054_E0000006211_1_l.jpg \"※注・層別分析をする場合は各層の人数が100人以上であることを目安としています\")\n\n内閣支持率が下がった一方、自民党の政党支持率は7月から横ばいの35.0％で、年代別に見ますと、すべての年代でおよそ30％から40％台でした。\n\nこれに対し、野党の支持率は、いずれの党もすべての年代で1桁にとどまりました。\n\n一方、「特に支持する政党はない」は、すべての年代でおよそ30％から40％台半ばを占めています。\n:::\n",
+    "trimmedLead": "8月の各党の支持率です。\n\n各党の支持率は、「自民党」が35.0％、「日本維新の会」が2.6％、「国民民主党」が2.8％、「中道改革連合」が1.7％、「立憲民主党」が2.8％、「参政党」が2.8％、「公明党」が2.2％、「チームみらい」が1.2％、「共産党」が3.4％、「れいわ新選組」から党名を変更した「いのちの党」が0.7％、「社民党」が0.2％、「日本保守党」が1.0％、「特に支持している政党はない」が39.0％でした。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260810de43054.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260810de43054",
+  "video": [],
+  "citation": [
+    {
+      "name": "台風15号 あす関東甲信に接近 夜にかけ上陸のおそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43043",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43043/20260810de43043_E0000006507_1_s.jpg",
+      "datePublished": "2026-08-10T20:42:47+09:00"
+    },
+    {
+      "name": "熊本地震 災害関連死の疑い含め39人死亡 避難所に6108人避難",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43067",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43067/20260810de43067_E0000006189_1_s.jpg",
+      "datePublished": "2026-08-10T20:14:20+09:00"
+    },
+    {
+      "name": "特捜検事の調べに賠償求める裁判 取り調べ映像を法廷で再生",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43095",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/r/kiji/20260810de43095/20260810de43095_E0000006170_1_s.jpg",
+      "datePublished": "2026-08-10T21:06:16+09:00"
+    },
+    {
+      "name": "新潟市の海で親子3人流される 13歳と8歳のきょうだい死亡",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43094",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43094/20260810de43094_E0000006142_1_s.jpg",
+      "datePublished": "2026-08-10T19:24:58+09:00"
+    },
+    {
+      "name": "イオンモール 設備の緊急点検 各地でイベント中止・延期相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260809de43010",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de43010/20260809de43010_E0000005939_1_s.jpg",
+      "datePublished": "2026-08-10T07:45:00+09:00"
+    },
+    {
+      "name": "避難生活は“血糖値”にも注意【専門家Q＆A】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43077",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43077/20260810de43077_E0000006134_1_s.jpg",
+      "datePublished": "2026-08-10T14:46:46+09:00"
+    },
+    {
+      "name": "東日本から西日本で猛暑続く 一層の熱中症対策を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43033",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43033/20260810de43033_E0000006325_1_s.jpg",
+      "datePublished": "2026-08-10T17:09:39+09:00"
+    },
+    {
+      "name": "「令和8年熊本地震」ニュース一覧",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002860",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260731de42176_E0000004356_1_s.jpg"
+    },
+    {
+      "name": "【夏の甲子園2026 特集ページ】日程・結果 最新ニュース 特集記事 ",
+      "url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000513",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260809de42914_E0000005623_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

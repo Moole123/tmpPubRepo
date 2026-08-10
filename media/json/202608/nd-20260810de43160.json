@@ -1,0 +1,143 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260810de43160",
+  "dataSourceId": "nd",
+  "name": "円相場 小幅な値動き",
+  "headline": "円相場 小幅な値動き",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260810de43160",
+    "playlistId": "news-nwa-business-nationwide-20260810",
+    "newsarticleName": "円相場 小幅な値動き",
+    "playlistName": "8月10日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "10日の東京外国為替市場、円相場はドルに対して小幅な値動きでした。\n\n\n午後5時時点の円相場は7日と比べて8銭、円安ドル高の1ドル＝158円48銭から50銭でした。\n\nまた、ユーロに対しては71銭円安",
+  "dateModified": "2026-08-10T20:18:05+09:00",
+  "datePublished": "2026-08-10T20:18:05+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43160/20260810de43160_E0000006454_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43160/20260810de43160_E0000006454_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000157",
+      "name": "株価・為替",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "10日の東京外国為替市場、円相場はドルに対して小幅な値動きでした。\n\n\n午後5時時点の円相場は7日と比べて8銭、円安ドル高の1ドル＝158円48銭から50銭でした。\n\nまた、ユーロに対しては71銭円安",
+  "articleBody": "10日の東京外国為替市場、円相場はドルに対して小幅な値動きでした。\n\n\n午後5時時点の円相場は7日と比べて8銭、円安ドル高の1ドル＝158円48銭から50銭でした。\n\nまた、ユーロに対しては71銭円安ユーロ高の1ユーロ＝183円23銭から27銭でした。\n\nユーロはドルに対して1ユーロ＝1.1561から62ドルでした。\n\n市場関係者は「先週、公表されたアメリカの雇用統計の結果がふるわなかったことから、FRB＝連邦準備制度理事会が近く利上げに踏み切るという見方が後退し、ドルを売って円を買う動きが出た。ただ、ドルを買い戻す動きもあったほか政府・日銀の再度の市場介入への警戒感も根強く値動きは限定的だった」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "10日の東京外国為替市場、円相場はドルに対して小幅な値動きでした。\n",
+    "markedBody": "午後5時時点の円相場は7日と比べて8銭、円安ドル高の1ドル＝158円48銭から50銭でした。\n\nまた、ユーロに対しては71銭円安ユーロ高の1ユーロ＝183円23銭から27銭でした。\n\nユーロはドルに対して1ユーロ＝1.1561から62ドルでした。\n\n市場関係者は「先週、公表されたアメリカの雇用統計の結果がふるわなかったことから、FRB＝連邦準備制度理事会が近く利上げに踏み切るという見方が後退し、ドルを売って円を買う動きが出た。ただ、ドルを買い戻す動きもあったほか政府・日銀の再度の市場介入への警戒感も根強く値動きは限定的だった」と話しています。\n",
+    "trimmedLead": "10日の東京外国為替市場、円相場はドルに対して小幅な値動きでした。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260810de43160.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260810de43160",
+  "video": [],
+  "citation": [
+    {
+      "name": "台風15号 あす関東甲信に接近 夜にかけ上陸のおそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43043",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43043/20260810de43043_E0000006507_1_s.jpg",
+      "datePublished": "2026-08-10T20:42:47+09:00"
+    },
+    {
+      "name": "株価 値上がり 半導体関連を中心に多くの銘柄に買い注文",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43076",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43076/20260810de43076_E0000006254_1_s.jpg",
+      "datePublished": "2026-08-10T16:31:36+09:00"
+    },
+    {
+      "name": "熊本地震 災害関連死の疑い含め39人死亡 避難所に6108人避難",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43067",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43067/20260810de43067_E0000006189_1_s.jpg",
+      "datePublished": "2026-08-10T20:14:20+09:00"
+    },
+    {
+      "name": "熊本 八代 ボランティア活動始まる【10日 被災地の動き】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43074",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43074/20260810de43074_E0000006163_1_s.jpg",
+      "datePublished": "2026-08-10T20:21:55+09:00"
+    },
+    {
+      "name": "新潟市の海で親子3人流される 13歳と8歳のきょうだい死亡",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43094",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43094/20260810de43094_E0000006142_1_s.jpg",
+      "datePublished": "2026-08-10T19:24:58+09:00"
+    },
+    {
+      "name": "イオンモール 設備の緊急点検 各地でイベント中止・延期相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260809de43010",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de43010/20260809de43010_E0000005939_1_s.jpg",
+      "datePublished": "2026-08-10T07:45:00+09:00"
+    },
+    {
+      "name": "避難生活は“血糖値”にも注意【専門家Q＆A】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43077",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43077/20260810de43077_E0000006134_1_s.jpg",
+      "datePublished": "2026-08-10T14:46:46+09:00"
+    },
+    {
+      "name": "東日本から西日本で猛暑続く 一層の熱中症対策を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43033",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43033/20260810de43033_E0000006325_1_s.jpg",
+      "datePublished": "2026-08-10T17:09:39+09:00"
+    },
+    {
+      "name": "「令和8年熊本地震」ニュース一覧",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002860",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260731de42176_E0000004356_1_s.jpg"
+    },
+    {
+      "name": "【夏の甲子園2026 特集ページ】日程・結果 最新ニュース 特集記事 ",
+      "url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000513",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260809de42914_E0000005623_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

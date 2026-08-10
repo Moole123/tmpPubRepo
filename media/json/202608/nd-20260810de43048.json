@@ -1,0 +1,142 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260810de43048",
+  "dataSourceId": "nd",
+  "name": "1月から6月の国際収支 経常黒字過去最大 海外からの配当増える",
+  "headline": "1月から6月の国際収支 経常黒字過去最大 海外からの配当増える",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260810de43048",
+    "playlistId": "news-nwa-business-nationwide-20260810",
+    "newsarticleName": "1月から6月の国際収支 経常黒字過去最大 海外からの配当増える",
+    "playlistName": "8月10日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "財務省が発表したことし1月から6月までの国際収支によりますと、日本が海外との貿易や投資でどれだけ稼いだかを示す経常収支は17兆4292億円の黒字でした。比較可能な1985年以降で上半期として最も大きく",
+  "dateModified": "2026-08-10T11:43:00+09:00",
+  "datePublished": "2026-08-10T11:43:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43048/20260810de43048_E0000003818_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43048/20260810de43048_E0000003818_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000703",
+      "name": "統計・指標",
+      "display": true
+    },
+    {
+      "id": "E0000000484",
+      "name": "貿易統計",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "財務省が発表したことし1月から6月までの国際収支によりますと、日本が海外との貿易や投資でどれだけ稼いだかを示す経常収支は17兆4292億円の黒字でした。比較可能な1985年以降で上半期として最も大きく",
+  "articleBody": "財務省が発表したことし1月から6月までの国際収支によりますと、日本が海外との貿易や投資でどれだけ稼いだかを示す経常収支は17兆4292億円の黒字でした。比較可能な1985年以降で上半期として最も大きくなりました。\n\n海外の子会社から受け取った配当が増えたほか半導体など電子部品の輸出が伸びたことなどが要因です。\n\n\nあわせて発表されたことし6月の経常収支は923億円の赤字でした。\n\n赤字となるのは去年1月以来、17か月ぶりとなります。\n\nこれは、日本を訪れた外国人旅行者が減少して旅行収支の黒字幅が縮小したことなどが要因です。\n",
+  "detailedArticleBody": {
+    "markedLead": "財務省が発表したことし1月から6月までの国際収支によりますと、日本が海外との貿易や投資でどれだけ稼いだかを示す経常収支は17兆4292億円の黒字でした。比較可能な1985年以降で上半期として最も大きくなりました。\n\n海外の子会社から受け取った配当が増えたほか半導体など電子部品の輸出が伸びたことなどが要因です。\n",
+    "markedBody": "![](https://img.web.nhk/news/nd/kiji/20260810de43048/20260810de43048_E0000006072_1_l.jpg)\n\nあわせて発表されたことし6月の経常収支は923億円の赤字でした。\n\n赤字となるのは去年1月以来、17か月ぶりとなります。\n\nこれは、日本を訪れた外国人旅行者が減少して旅行収支の黒字幅が縮小したことなどが要因です。\n",
+    "trimmedLead": "財務省が発表したことし1月から6月までの国際収支によりますと、日本が海外との貿易や投資でどれだけ稼いだかを示す経常収支は17兆4292億円の黒字でした。比較可能な1985年以降で上半期として最も大きくなりました。\n\n海外の子会社から受け取った配当が増えたほか半導体など電子部品の輸出が伸びたことなどが要因です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260810de43048.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260810de43048",
+  "video": [],
+  "citation": [
+    {
+      "name": "台風15号 あす関東甲信に接近 夜にかけ上陸のおそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43043",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43043/20260810de43043_E0000006507_1_s.jpg",
+      "datePublished": "2026-08-10T20:42:47+09:00"
+    },
+    {
+      "name": "東日本から西日本で猛暑続く 一層の熱中症対策を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43033",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43033/20260810de43033_E0000006325_1_s.jpg",
+      "datePublished": "2026-08-10T17:09:39+09:00"
+    },
+    {
+      "name": "長野 安曇野の土石流 従業員除き施設にいた人全員が移動終える",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43038",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43038/20260810de43038_E0000005946_1_s.jpg",
+      "datePublished": "2026-08-10T20:17:02+09:00"
+    },
+    {
+      "name": "熊本地震 気象庁「1か月ほど最大震度5弱程度以上の地震注意」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43032",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43032/20260810de43032_E0000006559_1_s.jpg",
+      "datePublished": "2026-08-10T20:19:48+09:00"
+    },
+    {
+      "name": "熊本地震 自宅全壊の被災者の偽画像拡散 報道写真をAIで加工か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260809de42999",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42999/20260809de42999_E0000005932_1_s.jpg",
+      "datePublished": "2026-08-10T00:38:00+09:00"
+    },
+    {
+      "name": "トランプ大統領 核開発合意なしでも幕引き模索か 米メディア",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43045",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43045/20260810de43045_E0000005949_1_s.jpg",
+      "datePublished": "2026-08-10T12:21:48+09:00"
+    },
+    {
+      "name": "SNSで宣伝の「琵琶湖三市同時花火大会」 中止発表",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43037",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43037/20260810de43037_E0000005959_1_s.jpg",
+      "datePublished": "2026-08-10T07:35:00+09:00"
+    },
+    {
+      "name": "「令和8年熊本地震」ニュース一覧",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002860",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260731de42176_E0000004356_1_s.jpg"
+    },
+    {
+      "name": "【夏の甲子園2026 特集ページ】日程・結果 最新ニュース 特集記事 ",
+      "url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000513",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260809de42914_E0000005623_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

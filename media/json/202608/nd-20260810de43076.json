@@ -1,0 +1,165 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260810de43076",
+  "dataSourceId": "nd",
+  "name": "株価 値上がり 半導体関連を中心に多くの銘柄に買い注文",
+  "headline": "株価 値上がり 半導体関連を中心に多くの銘柄に買い注文",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260810de43076",
+    "playlistId": "news-nwa-business-nationwide-20260810",
+    "newsarticleName": "株価 値上がり 半導体関連を中心に多くの銘柄に買い注文",
+    "playlistName": "8月10日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "10日の東京株式市場、半導体関連を中心に多くの銘柄に買い注文が入り、株価は値上がりしました。\n\n\n▽日経平均株価、10日の終値は先週末の終値と比べて1363円51銭高い6万6970円22銭\n\n▽東証株",
+  "dateModified": "2026-08-10T16:31:36+09:00",
+  "datePublished": "2026-08-10T12:09:49+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43076/20260810de43076_E0000006254_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43076/20260810de43076_E0000006254_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000157",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "E0000000477",
+      "name": "金融",
+      "display": true
+    },
+    {
+      "id": "E0000000475",
+      "name": "半導体",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "10日の東京株式市場、半導体関連を中心に多くの銘柄に買い注文が入り、株価は値上がりしました。\n\n\n▽日経平均株価、10日の終値は先週末の終値と比べて1363円51銭高い6万6970円22銭\n\n▽東証株",
+  "articleBody": "10日の東京株式市場、半導体関連を中心に多くの銘柄に買い注文が入り、株価は値上がりしました。\n\n\n▽日経平均株価、10日の終値は先週末の終値と比べて1363円51銭高い6万6970円22銭\n\n▽東証株価指数＝トピックスは25.68上がって4100.61\n\n▽1日の出来高は25億4848万株でした。\n\n市場関係者は、「半導体関連を中心に多くの銘柄に買い注文が入り、株価は一時、1400円以上値上がりした。一部で利益を確定しようという売り注文も出たが、決算が好調だった企業を中心に一日を通して買い注文が優勢だった」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "10日の東京株式市場、半導体関連を中心に多くの銘柄に買い注文が入り、株価は値上がりしました。\n",
+    "markedBody": "▽日経平均株価、10日の終値は先週末の終値と比べて1363円51銭高い6万6970円22銭\n\n▽東証株価指数＝トピックスは25.68上がって4100.61\n\n▽1日の出来高は25億4848万株でした。\n\n市場関係者は、「半導体関連を中心に多くの銘柄に買い注文が入り、株価は一時、1400円以上値上がりした。一部で利益を確定しようという売り注文も出たが、決算が好調だった企業を中心に一日を通して買い注文が優勢だった」と話しています。\n",
+    "trimmedLead": "10日の東京株式市場、半導体関連を中心に多くの銘柄に買い注文が入り、株価は値上がりしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260810de43076.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260810de43076",
+  "video": [],
+  "citation": [
+    {
+      "name": "日銀 7月の金融政策決定会合“利上げペース加速”意見相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43068",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43068/20260810de43068_E0000005998_1_s.jpg",
+      "datePublished": "2026-08-10T11:57:00+09:00"
+    },
+    {
+      "name": "1月から6月の国際収支 経常黒字過去最大 海外からの配当増える",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43048",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43048/20260810de43048_E0000003818_1_s.jpg",
+      "datePublished": "2026-08-10T11:43:00+09:00"
+    },
+    {
+      "name": "サントリー 九州熊本工場 地震で稼働停止“復旧に3から4か月”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43122",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43122/20260810de43122_E0000006235_1_s.jpg",
+      "datePublished": "2026-08-10T15:54:00+09:00"
+    },
+    {
+      "name": "イオンモール 設備の緊急点検 各地でイベント中止・延期相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260809de43010",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de43010/20260809de43010_E0000005939_1_s.jpg",
+      "datePublished": "2026-08-10T07:45:00+09:00"
+    },
+    {
+      "name": "新潟市の海で親子3人流される 13歳と8歳のきょうだい死亡",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43094",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43094/20260810de43094_E0000006142_1_s.jpg",
+      "datePublished": "2026-08-10T19:24:58+09:00"
+    },
+    {
+      "name": "台風15号 あす関東甲信に接近 夜にかけ上陸のおそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43043",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43043/20260810de43043_E0000006507_1_s.jpg",
+      "datePublished": "2026-08-10T20:42:47+09:00"
+    },
+    {
+      "name": "長野 安曇野の土石流 従業員除き施設にいた人全員が移動終える",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43038",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43038/20260810de43038_E0000005946_1_s.jpg",
+      "datePublished": "2026-08-10T20:17:02+09:00"
+    },
+    {
+      "name": "トランプ大統領 核開発合意なしでも幕引き模索か 米メディア",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43045",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43045/20260810de43045_E0000005949_1_s.jpg",
+      "datePublished": "2026-08-10T12:21:48+09:00"
+    },
+    {
+      "name": "東日本から西日本で猛暑続く 一層の熱中症対策を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43033",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43033/20260810de43033_E0000006325_1_s.jpg",
+      "datePublished": "2026-08-10T17:09:39+09:00"
+    },
+    {
+      "name": "熊本地震 自宅全壊の被災者の偽画像拡散 報道写真をAIで加工か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260809de42999",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42999/20260809de42999_E0000005932_1_s.jpg",
+      "datePublished": "2026-08-10T00:38:00+09:00"
+    },
+    {
+      "name": "「令和8年熊本地震」ニュース一覧",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002860",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260731de42176_E0000004356_1_s.jpg"
+    },
+    {
+      "name": "【夏の甲子園2026 特集ページ】日程・結果 最新ニュース 特集記事 ",
+      "url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000513",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260809de42914_E0000005623_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

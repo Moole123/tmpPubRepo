@@ -1,0 +1,138 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260809de42912",
+  "dataSourceId": "nd",
+  "name": "福井 大飯原発3号機が自動停止 発電設備にトラブルがあった影響 外部への影響なし",
+  "headline": "大飯原発3号機 発電設備トラブルで自動停止 外部への影響なし",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260809de42912",
+    "playlistId": "news-nwa-society-nationwide-20260809",
+    "newsarticleName": "福井 大飯原発3号機が自動停止 発電設備にトラブルがあった影響 外部への影響なし",
+    "playlistName": "8月9日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "福井県にある関西電力の大飯原子力発電所3号機で、8日夜、発電設備のトラブルの影響で原子炉の運転が自動的に停止しました。\n関西電力によりますと、外部への影響はないということで、詳しい状況を調べています。",
+  "dateModified": "2026-08-09T11:41:09+09:00",
+  "datePublished": "2026-08-09T05:10:43+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42912/20260809de42912_E0000005630_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42912/20260809de42912_E0000005630_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000108",
+      "name": "原発",
+      "display": true
+    },
+    {
+      "id": "E0000000346",
+      "name": "福井県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "福井県にある関西電力の大飯原子力発電所3号機で、8日夜、発電設備のトラブルの影響で原子炉の運転が自動的に停止しました。\n関西電力によりますと、外部への影響はないということで、詳しい状況を調べています。",
+  "articleBody": "福井県にある関西電力の大飯原子力発電所3号機で、8日夜、発電設備のトラブルの影響で原子炉の運転が自動的に停止しました。\n関西電力によりますと、外部への影響はないということで、詳しい状況を調べています。\n\n\n関西電力によりますと、福井県にある大飯原発3号機で、8日午後11時56分に、電気をつくるために必要な発電機内部の磁界がなくなったことを示す警報が鳴り、発電機が自動的に停止しました。\n\nこれに伴い、原子炉に制御棒が挿入され、自動的に運転が停止しました。\n\n原子炉の状態に異常はないということです。\n\nまた、原発周辺の放射線量を測定するモニタリングポストの値にも変化はなく、外部への影響もないということです。\n\n関西電力によりますと、発電機に磁界を発生させる装置などに不具合があった可能性があるということで、今後、詳しい状況を調べる必要があるため、今のところ、運転再開の時期は未定だとしています。\n\n関西電力の原発では、ことし5月、福井県にある美浜原発3号機で、発電設備から蒸気が漏れ、原子炉の運転を手動で停止するトラブルが起きています。\n\n関西電力は「立地地域をはじめ、皆様にご心配をおかけしたことをおわび申し上げます。原因調査に最優先で取り組む所存です」などとコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "福井県にある関西電力の大飯原子力発電所3号機で、8日夜、発電設備のトラブルの影響で原子炉の運転が自動的に停止しました。\\\n関西電力によりますと、外部への影響はないということで、詳しい状況を調べています。\n",
+    "markedBody": "関西電力によりますと、福井県にある大飯原発3号機で、8日午後11時56分に、電気をつくるために必要な発電機内部の磁界がなくなったことを示す警報が鳴り、発電機が自動的に停止しました。\n\nこれに伴い、原子炉に制御棒が挿入され、自動的に運転が停止しました。\n\n原子炉の状態に異常はないということです。\n\nまた、原発周辺の放射線量を測定するモニタリングポストの値にも変化はなく、外部への影響もないということです。\n\n関西電力によりますと、発電機に磁界を発生させる装置などに不具合があった可能性があるということで、今後、詳しい状況を調べる必要があるため、今のところ、運転再開の時期は未定だとしています。\n\n関西電力の原発では、ことし5月、福井県にある美浜原発3号機で、発電設備から蒸気が漏れ、原子炉の運転を手動で停止するトラブルが起きています。\n\n関西電力は「立地地域をはじめ、皆様にご心配をおかけしたことをおわび申し上げます。原因調査に最優先で取り組む所存です」などとコメントしています。\n",
+    "trimmedLead": "福井県にある関西電力の大飯原子力発電所3号機で、8日夜、発電設備のトラブルの影響で原子炉の運転が自動的に停止しました。\n関西電力によりますと、外部への影響はないということで、詳しい状況を調べています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260809de42912.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260809de42912",
+  "video": [],
+  "citation": [
+    {
+      "name": "台風13号 高波強風影響続く 台風15号の進路にも注意を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260808de42871",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260808de42871/20260808de42871_E0000005735_1_s.jpg",
+      "datePublished": "2026-08-09T12:55:35+09:00"
+    },
+    {
+      "name": "北日本と東日本中心 9日も大気の状態が非常に不安定の見込み",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260808de42872",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260808de42872/20260808de42872_E0000005601_1_s.jpg",
+      "datePublished": "2026-08-09T01:51:00+09:00"
+    },
+    {
+      "name": "【地震情報】岩手 普代村で震度4 津波の心配なし　",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260809de42879",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42879/20260809de42879_E0000005621_1_s.jpg",
+      "datePublished": "2026-08-09T05:28:59+09:00"
+    },
+    {
+      "name": "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260808de42867",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260808de42867/20260808de42867_E0000005597_1_s.jpg",
+      "datePublished": "2026-08-09T01:53:00+09:00"
+    },
+    {
+      "name": "ラグビーリーグワン フィジー出身選手が死亡 熱中症疑いで搬送",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260808de42866",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260808de42866/20260808de42866_E0000004054_1_s.jpg",
+      "datePublished": "2026-08-09T01:54:00+09:00"
+    },
+    {
+      "name": "「韓国サッカー協会が外国人審判員に性的接待」韓国メディア",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260808de42863",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260808de42863/20260808de42863_E0000005596_1_s.jpg",
+      "datePublished": "2026-08-09T01:55:00+09:00"
+    },
+    {
+      "name": "イチローさん マリナーズOBのホームラン競争でファンわかせる",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260808de42862",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260808de42862/20260808de42862_E0000005595_1_s.jpg",
+      "datePublished": "2026-08-09T01:56:00+09:00"
+    },
+    {
+      "name": "「令和8年熊本地震」ニュース一覧",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002860",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260731de42176_E0000004356_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

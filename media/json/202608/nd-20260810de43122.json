@@ -1,0 +1,201 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260810de43122",
+  "dataSourceId": "nd",
+  "name": "熊本地震の影響で稼働を停止しているサントリーの工場　復旧に３から４か月 年内生産再開目指す",
+  "headline": "サントリー 九州熊本工場 地震で稼働停止“復旧に3から4か月”",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260810de43122",
+    "playlistId": "news-nwa-disaster-nationwide-20260810",
+    "newsarticleName": "熊本地震の影響で稼働を停止しているサントリーの工場　復旧に３から４か月 年内生産再開目指す",
+    "playlistName": "8月10日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "サントリーは、地震の影響で稼働を停止している熊本県内の工場について、生産設備の修理などのため、復旧には3か月から4か月ほどかかるとの見通しを明らかにしました。会社では、年内の生産再開を目指すとしていま",
+  "dateModified": "2026-08-10T15:54:00+09:00",
+  "datePublished": "2026-08-10T15:54:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43122/20260810de43122_E0000006235_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43122/20260810de43122_E0000006235_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000010002",
+      "name": "令和8年熊本地震",
+      "display": true
+    },
+    {
+      "id": "E0000000371",
+      "name": "熊本県",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "サントリーは、地震の影響で稼働を停止している熊本県内の工場について、生産設備の修理などのため、復旧には3か月から4か月ほどかかるとの見通しを明らかにしました。会社では、年内の生産再開を目指すとしていま",
+  "articleBody": "サントリーは、地震の影響で稼働を停止している熊本県内の工場について、生産設備の修理などのため、復旧には3か月から4か月ほどかかるとの見通しを明らかにしました。会社では、年内の生産再開を目指すとしています。\n\n\nビールや清涼飲料などを生産している熊本県嘉島町にあるサントリーの「九州熊本工場」は地震発生後、工場の稼働を停止しています。\n\n会社が工場内の被害状況を調査したところ、生産設備や建屋の一部の損壊を確認したということです。\n\nこれについて会社は10日、工場の復旧には3か月から4か月ほどかかるとの見通しを示すとともに、年内の生産再開を目指していることを明らかにしました。\n\nビールや清涼飲料などの代替生産は現在、県外にある別の工場や委託先の工場で行っているということです。\n\nこの工場では、2016年の熊本地震でも大きな被害を受け、完全に復旧するまでに1年5か月かかりました。\n",
+  "detailedArticleBody": {
+    "markedLead": "サントリーは、地震の影響で稼働を停止している熊本県内の工場について、生産設備の修理などのため、復旧には3か月から4か月ほどかかるとの見通しを明らかにしました。会社では、年内の生産再開を目指すとしています。\n",
+    "markedBody": "ビールや清涼飲料などを生産している熊本県嘉島町にあるサントリーの「九州熊本工場」は地震発生後、工場の稼働を停止しています。\n\n会社が工場内の被害状況を調査したところ、生産設備や建屋の一部の損壊を確認したということです。\n\nこれについて会社は10日、工場の復旧には3か月から4か月ほどかかるとの見通しを示すとともに、年内の生産再開を目指していることを明らかにしました。\n\nビールや清涼飲料などの代替生産は現在、県外にある別の工場や委託先の工場で行っているということです。\n\nこの工場では、2016年の熊本地震でも大きな被害を受け、完全に復旧するまでに1年5か月かかりました。\n",
+    "trimmedLead": "サントリーは、地震の影響で稼働を停止している熊本県内の工場について、生産設備の修理などのため、復旧には3か月から4か月ほどかかるとの見通しを明らかにしました。会社では、年内の生産再開を目指すとしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260810de43122.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260810de43122",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "サントリー 九州熊本工場 地震で稼働停止“復旧に3から4か月”",
+      "description": "サントリーは、地震の影響で稼働を停止している熊本県内の工場について、生産設備の修理などのため、復旧には3か月から4か月ほどかかるとの見通しを明らかにしました。会社では、年内の生産再開を目指すとしていま",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20260810de43122_E0000006294_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20260810de43122/20260810de43122_E0000006235_1_l.jpg",
+      "duration": "PT1M0S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20260810de43122_E0000006294_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43122/20260810de43122_E0000006235_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "熊本地震 災害関連死の疑い含め39人死亡 避難所に6108人避難",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43067",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43067/20260810de43067_E0000006189_1_s.jpg",
+      "datePublished": "2026-08-10T20:14:20+09:00"
+    },
+    {
+      "name": "熊本地震 気象庁「1か月ほど最大震度5弱程度以上の地震注意」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43032",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43032/20260810de43032_E0000006559_1_s.jpg",
+      "datePublished": "2026-08-10T20:19:48+09:00"
+    },
+    {
+      "name": "イオンモール 設備の緊急点検 各地でイベント中止・延期相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260809de43010",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de43010/20260809de43010_E0000005939_1_s.jpg",
+      "datePublished": "2026-08-10T07:45:00+09:00"
+    },
+    {
+      "name": "熊本地震 自宅全壊の被災者の偽画像拡散 報道写真をAIで加工か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260809de42999",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42999/20260809de42999_E0000005932_1_s.jpg",
+      "datePublished": "2026-08-10T00:38:00+09:00"
+    },
+    {
+      "name": "避難生活は“血糖値”にも注意【専門家Q＆A】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43077",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43077/20260810de43077_E0000006134_1_s.jpg",
+      "datePublished": "2026-08-10T14:46:46+09:00"
+    },
+    {
+      "name": "新潟市の海で親子3人流される 13歳と8歳のきょうだい死亡",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43094",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43094/20260810de43094_E0000006142_1_s.jpg",
+      "datePublished": "2026-08-10T19:24:58+09:00"
+    },
+    {
+      "name": "台風15号 あす関東甲信に接近 夜にかけ上陸のおそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43043",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43043/20260810de43043_E0000006507_1_s.jpg",
+      "datePublished": "2026-08-10T20:42:47+09:00"
+    },
+    {
+      "name": "長野 安曇野の土石流 従業員除き施設にいた人全員が移動終える",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43038",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43038/20260810de43038_E0000005946_1_s.jpg",
+      "datePublished": "2026-08-10T20:17:02+09:00"
+    },
+    {
+      "name": "トランプ大統領 核開発合意なしでも幕引き模索か 米メディア",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43045",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43045/20260810de43045_E0000005949_1_s.jpg",
+      "datePublished": "2026-08-10T12:21:48+09:00"
+    },
+    {
+      "name": "東日本から西日本で猛暑続く 一層の熱中症対策を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43033",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43033/20260810de43033_E0000006325_1_s.jpg",
+      "datePublished": "2026-08-10T17:09:39+09:00"
+    },
+    {
+      "name": "日銀 7月の金融政策決定会合“利上げペース加速”意見相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43068",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43068/20260810de43068_E0000005998_1_s.jpg",
+      "datePublished": "2026-08-10T11:57:00+09:00"
+    },
+    {
+      "name": "SNSで宣伝の「琵琶湖三市同時花火大会」 中止発表",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43037",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43037/20260810de43037_E0000005959_1_s.jpg",
+      "datePublished": "2026-08-10T07:35:00+09:00"
+    },
+    {
+      "name": "「令和8年熊本地震」ニュース一覧",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002860",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260731de42176_E0000004356_1_s.jpg"
+    },
+    {
+      "name": "【夏の甲子園2026 特集ページ】日程・結果 最新ニュース 特集記事 ",
+      "url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000513",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260809de42914_E0000005623_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
