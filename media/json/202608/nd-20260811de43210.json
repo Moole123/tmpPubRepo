@@ -1,0 +1,149 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260811de43210",
+  "dataSourceId": "nd",
+  "name": "フィリピンで土砂崩れや浸水 8人死亡 2万人以上が避難所で生活",
+  "headline": "フィリピンで土砂崩れや浸水 8人死亡 2万人以上が避難所で生活",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260811de43210",
+    "playlistId": "news-nwa-international-nationwide-20260811",
+    "newsarticleName": "フィリピンで土砂崩れや浸水 8人死亡 2万人以上が避難所で生活",
+    "playlistName": "8月11日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "フィリピンでは、台風や季節風の影響で土砂崩れや浸水が相次ぎ、これまでに8人が死亡、2万人以上が避難所での生活を余儀なくされています。\n\n\nフィリピンでは先週発生し、その後、熱帯低気圧に変わった台風14",
+  "dateModified": "2026-08-11T06:12:08+09:00",
+  "datePublished": "2026-08-11T06:12:08+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43210/20260811de43210_E0000006633_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43210/20260811de43210_E0000006633_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際",
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000202",
+      "name": "台風",
+      "display": true
+    },
+    {
+      "id": "E0000000418",
+      "name": "フィリピン",
+      "display": true
+    },
+    {
+      "id": "E0000000114",
+      "name": "気象",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "フィリピンでは、台風や季節風の影響で土砂崩れや浸水が相次ぎ、これまでに8人が死亡、2万人以上が避難所での生活を余儀なくされています。\n\n\nフィリピンでは先週発生し、その後、熱帯低気圧に変わった台風14",
+  "articleBody": "フィリピンでは、台風や季節風の影響で土砂崩れや浸水が相次ぎ、これまでに8人が死亡、2万人以上が避難所での生活を余儀なくされています。\n\n\nフィリピンでは先週発生し、その後、熱帯低気圧に変わった台風14号や「モンスーン」と呼ばれる季節風の影響で大雨が続き、首都マニラがあるルソン島などでは土砂崩れや浸水が相次いでいます。\n\n災害対策当局によりますと、長引く雨で地盤が緩み、少なくとも8人が土砂崩れなどで死亡したほか、住宅の浸水が相次ぎおよそ2万2000人が避難所での生活を余儀なくされているということです。\n\nマニラ市に隣接するケソン市の施設には市民およそ1700人が避難し、テントの中で家族と過ごしたり、支援物資を受け取ったりしていました。\n\n家族と避難してきた45歳の女性は「自宅が浸水するのはこれで2度目です。今回は、屋根の上まで水が届きました」と疲れた表情で話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "フィリピンでは、台風や季節風の影響で土砂崩れや浸水が相次ぎ、これまでに8人が死亡、2万人以上が避難所での生活を余儀なくされています。\n",
+    "markedBody": "フィリピンでは先週発生し、その後、熱帯低気圧に変わった台風14号や「モンスーン」と呼ばれる季節風の影響で大雨が続き、首都マニラがあるルソン島などでは土砂崩れや浸水が相次いでいます。\n\n災害対策当局によりますと、長引く雨で地盤が緩み、少なくとも8人が土砂崩れなどで死亡したほか、住宅の浸水が相次ぎおよそ2万2000人が避難所での生活を余儀なくされているということです。\n\nマニラ市に隣接するケソン市の施設には市民およそ1700人が避難し、テントの中で家族と過ごしたり、支援物資を受け取ったりしていました。\n\n家族と避難してきた45歳の女性は「自宅が浸水するのはこれで2度目です。今回は、屋根の上まで水が届きました」と疲れた表情で話していました。\n",
+    "trimmedLead": "フィリピンでは、台風や季節風の影響で土砂崩れや浸水が相次ぎ、これまでに8人が死亡、2万人以上が避難所での生活を余儀なくされています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260811de43210.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260811de43210",
+  "video": [],
+  "citation": [
+    {
+      "name": "コロンビアでM7.4の地震 111人死亡 87人けが 各地で建物被害",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43201",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43201/20260810de43201_E0000006635_1_s.jpg",
+      "datePublished": "2026-08-11T05:16:57+09:00"
+    },
+    {
+      "name": "イラン大統領 モジタバ師と面会か 最高指導者の健在アピールも",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43176",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43176/20260810de43176_E0000006570_1_s.jpg",
+      "datePublished": "2026-08-10T20:57:51+09:00"
+    },
+    {
+      "name": "トランプ大統領 核開発合意なしでも幕引き模索か 米メディア",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43045",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43045/20260810de43045_E0000005949_1_s.jpg",
+      "datePublished": "2026-08-10T12:21:48+09:00"
+    },
+    {
+      "name": "イスラエル首相 ガザ地区の和平に向けた工程表 拒否すると表明",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260809de43024",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de43024/20260809de43024_E0000005950_1_s.jpg",
+      "datePublished": "2026-08-10T05:53:00+09:00"
+    },
+    {
+      "name": "黒海周辺 ロシアとウクライナ双方が攻撃 トルコ外相停止求める",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43042",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43042/20260810de43042_E0000005945_1_s.jpg",
+      "datePublished": "2026-08-10T05:36:00+09:00"
+    },
+    {
+      "name": "ニューヨーク自由の女神の島近く ボート転覆 乳児と母2人死亡",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43103",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43103/20260810de43103_E0000004049_1_s.jpg",
+      "datePublished": "2026-08-10T15:30:00+09:00"
+    },
+    {
+      "name": "タングステン 中国の輸出規制影響 製品価格高騰や調達難に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260809de43011",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de43011/20260809de43011_E0000005928_1_s.jpg",
+      "datePublished": "2026-08-10T07:19:00+09:00"
+    },
+    {
+      "name": "高市首相 オマーン国王と電話会談“国際社会とも協議を”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43179",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43179/20260810de43179_E0000006546_1_s.jpg",
+      "datePublished": "2026-08-10T20:26:40+09:00"
+    },
+    {
+      "name": "ハルペリン文書 知られざる核危機",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015196981000",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260809de42885_E0000005609_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
