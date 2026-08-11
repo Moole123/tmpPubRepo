@@ -1,0 +1,130 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260811de43235",
+  "dataSourceId": "nd",
+  "name": "【地震】熊本・八代市 芦北町で震度3 津波心配なし（7:59）",
+  "headline": "【地震】熊本・八代市 芦北町で震度3 津波心配なし（7:59）",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260811de43235",
+    "playlistId": "news-nwa-disaster-nationwide-20260811",
+    "newsarticleName": "【地震】熊本・八代市 芦北町で震度3 津波心配なし（7:59）",
+    "playlistName": "8月11日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "11日午前7時59分ごろ、熊本県で震度3の揺れを観測する地震がありました。\nこの地震による津波の心配はありません。\n\n\nこの地震で震度3の揺れを観測したのは、熊本県の八代市と芦北町でした。\n\nこのほか",
+  "dateModified": "2026-08-11T08:41:43+09:00",
+  "datePublished": "2026-08-11T08:07:17+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43235/20260811de43235_E0000006658_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43235/20260811de43235_E0000006658_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000389",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "E0000000371",
+      "name": "熊本県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "11日午前7時59分ごろ、熊本県で震度3の揺れを観測する地震がありました。\nこの地震による津波の心配はありません。\n\n\nこの地震で震度3の揺れを観測したのは、熊本県の八代市と芦北町でした。\n\nこのほか",
+  "articleBody": "11日午前7時59分ごろ、熊本県で震度3の揺れを観測する地震がありました。\nこの地震による津波の心配はありません。\n\n\nこの地震で震度3の揺れを観測したのは、熊本県の八代市と芦北町でした。\n\nこのほか、震度2や1の揺れを佐賀県、長崎県、熊本県、宮崎県、鹿児島県の各地で観測しました。\n\n気象庁の観測によりますと、震源地は熊本県熊本地方で、震源の深さはごく浅く、地震の規模を示すマグニチュードは4.3と推定されています。\n\n熊本県では先月28日、熊本地方を震源とするマグニチュード7.1の大地震が発生し、震度7の揺れを観測しました。\n\n気象庁は、依然として活発な地震活動が続いているとして、今後1か月ほどは最大震度5弱程度以上の地震に注意するよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "11日午前7時59分ごろ、熊本県で震度3の揺れを観測する地震がありました。\\\nこの地震による津波の心配はありません。\n",
+    "markedBody": "この地震で震度3の揺れを観測したのは、熊本県の八代市と芦北町でした。\n\nこのほか、震度2や1の揺れを佐賀県、長崎県、熊本県、宮崎県、鹿児島県の各地で観測しました。\n\n気象庁の観測によりますと、震源地は熊本県熊本地方で、震源の深さはごく浅く、地震の規模を示すマグニチュードは4.3と推定されています。\n\n熊本県では先月28日、熊本地方を震源とするマグニチュード7.1の大地震が発生し、震度7の揺れを観測しました。\n\n気象庁は、依然として活発な地震活動が続いているとして、今後1か月ほどは最大震度5弱程度以上の地震に注意するよう呼びかけています。\n",
+    "trimmedLead": "11日午前7時59分ごろ、熊本県で震度3の揺れを観測する地震がありました。\nこの地震による津波の心配はありません。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260811de43235.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260811de43235",
+  "video": [],
+  "citation": [
+    {
+      "name": "【最新の地震情報】各地の震度・震源を詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/earthquake/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00078_E0000003275_1_s.jpg"
+    },
+    {
+      "name": "地震マップ 最新の震度分布・震源をリアルタイム更新",
+      "url": "https://news.web.nhk/bousai-map/earthquake/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00362_E0000003393_1_s.jpg"
+    },
+    {
+      "name": "地震動予測地図 震度6弱以上 各地の揺れリスク",
+      "url": "https://news.web.nhk/newsweb/na/nc-04b01a9b-a30f-46c5-af92-bd6f205a005f",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00299_E0000003318_1_s.jpg"
+    },
+    {
+      "name": "首都直下地震 新たな被害想定 “死者 最大1万8000人”",
+      "url": "https://news.web.nhk/newsweb/na/nc-e348f9cc-3c19-4405-a5b0-210cab9aeaae",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00379_E0000003411_1_s.jpg"
+    },
+    {
+      "name": "非常用持ち出し袋 地震や水害で避難する際に あなたや家族、ペットに必要なものは？",
+      "url": "https://news.web.nhk/newsweb/na/nc-58cf1db6-d0c1-4fd2-93d3-99650cdc88f6",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00300_E0000003319_1_s.jpg"
+    },
+    {
+      "name": "NHKONE防災 災害リスク・備えをまとめて",
+      "url": "https://news.web.nhk/newsweb/sp/pl/editorial-nwa-0000000132",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00297_E0000003324_1_s.jpg"
+    },
+    {
+      "name": "地震 津波から命守る情報を「NHK ONE ニュース・防災アプリ」で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014931351000",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00249_E0000003288_1_s.jpg"
+    },
+    {
+      "name": "天気防災マップ ふだんの雨雲予想から災害時のリスク情報まで",
+      "url": "https://news.web.nhk/bousai-map/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00366_E0000003397_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
