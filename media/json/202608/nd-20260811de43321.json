@@ -1,0 +1,166 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260811de43321",
+  "dataSourceId": "nd",
+  "name": "観覧エリアに打ち上げ花火の一部落下 3人やけど 静岡 伊東",
+  "headline": "観覧エリアに打ち上げ花火の一部落下 3人やけど 静岡 伊東",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260811de43321",
+    "playlistId": "news-nwa-society-nationwide-20260812",
+    "newsarticleName": "観覧エリアに打ち上げ花火の一部落下 3人やけど 静岡 伊東",
+    "playlistName": "8月12日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "10日夜、静岡県伊東市で行われた花火大会で打ち上げた花火の一部が観覧エリアに落下し、子どもを含む合わせて3人がけがをしました。\n\n\n伊東市によりますと、10日午後9時前、市内で開かれた花火大会で打ち上",
+  "dateModified": "2026-08-12T06:22:00+09:00",
+  "datePublished": "2026-08-12T06:22:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43321/20260811de43321_E0000006864_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43321/20260811de43321_E0000006864_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000350",
+      "name": "静岡県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "10日夜、静岡県伊東市で行われた花火大会で打ち上げた花火の一部が観覧エリアに落下し、子どもを含む合わせて3人がけがをしました。\n\n\n伊東市によりますと、10日午後9時前、市内で開かれた花火大会で打ち上",
+  "articleBody": "10日夜、静岡県伊東市で行われた花火大会で打ち上げた花火の一部が観覧エリアに落下し、子どもを含む合わせて3人がけがをしました。\n\n\n伊東市によりますと、10日午後9時前、市内で開かれた花火大会で打ち上げた花火の一部が観覧エリアに落下しました。\n\n市や消防によりますと、31歳の女性と30歳の男性、それに7歳の男の子の合わせて3人がやけどをしたということです。いずれも命に別状はないということです。\n\nこのほか、2人が服が焦げるなどしたということです。\n\n花火大会を主催した委員会は被害にあった人たちに謝罪するとともに、事故の原因を詳しく調べることにしています。\n\n委員会の会長を務める伊東市の杉本憲也市長は「事故を重く受け止め、原因の究明と再発防止を徹底する」とコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "10日夜、静岡県伊東市で行われた花火大会で打ち上げた花火の一部が観覧エリアに落下し、子どもを含む合わせて3人がけがをしました。\n",
+    "markedBody": "伊東市によりますと、10日午後9時前、市内で開かれた花火大会で打ち上げた花火の一部が観覧エリアに落下しました。\n\n市や消防によりますと、31歳の女性と30歳の男性、それに7歳の男の子の合わせて3人がやけどをしたということです。いずれも命に別状はないということです。\n\nこのほか、2人が服が焦げるなどしたということです。\n\n花火大会を主催した委員会は被害にあった人たちに謝罪するとともに、事故の原因を詳しく調べることにしています。\n\n委員会の会長を務める伊東市の杉本憲也市長は「事故を重く受け止め、原因の究明と再発防止を徹底する」とコメントしています。\n",
+    "trimmedLead": "10日夜、静岡県伊東市で行われた花火大会で打ち上げた花火の一部が観覧エリアに落下し、子どもを含む合わせて3人がけがをしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260811de43321.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260811de43321",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "観覧エリアに打ち上げ花火の一部落下 3人やけど 静岡 伊東",
+      "description": "10日夜、静岡県伊東市で行われた花火大会で打ち上げた花火の一部が観覧エリアに落下し、子どもを含む合わせて3人がけがをしました。\n\n\n伊東市によりますと、10日午後9時前、市内で開かれた花火大会で打ち上",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20260811de43321_E0000006910_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20260811de43321/20260811de43321_E0000006864_1_l.jpg",
+      "duration": "PT53S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20260811de43321_E0000006910_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43321/20260811de43321_E0000006864_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "台風15号 関東で強風被害 台風から離れても大雨に警戒",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260811de43217",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43217/20260811de43217_E0000006919_1_s.jpg",
+      "datePublished": "2026-08-12T07:00:54+09:00"
+    },
+    {
+      "name": "【交通影響】JR青梅線 久留里線運転見合わせ 北関東道通行止め",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43204",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43204/20260810de43204_E0000006857_1_s.jpg",
+      "datePublished": "2026-08-12T07:13:16+09:00"
+    },
+    {
+      "name": "【気象予報士解説】台風15号 今後の見通しは",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260811de43243",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43243/20260811de43243_E0000006906_1_s.jpg",
+      "datePublished": "2026-08-12T05:34:25+09:00"
+    },
+    {
+      "name": "【ライブ配信】高速道路 各地の様子",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260811de43277",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43277/20260811de43277_E0000006792_1_s.jpg",
+      "datePublished": "2026-08-11T18:00:00+09:00"
+    },
+    {
+      "name": "イオンモール熊本 爆発事故 避難後一時入館認めたと会社が発表",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260811de43246",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43246/20260811de43246_E0000006724_1_s.jpg",
+      "datePublished": "2026-08-11T17:08:47+09:00"
+    },
+    {
+      "name": "熊本地震から2週間 仮設住宅の建設始まる【被災地の動き】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260811de43234",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43234/20260811de43234_E0000006684_1_s.jpg",
+      "datePublished": "2026-08-11T17:13:34+09:00"
+    },
+    {
+      "name": "熊本地震 “たかおっちゃん”のスニーカー　めいが思い語る",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260811de43276",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43276/20260811de43276_E0000006770_1_s.jpg",
+      "datePublished": "2026-08-11T17:51:00+09:00"
+    },
+    {
+      "name": "日本版GPS衛星「みちびき7号機」 H3ロケットで打ち上げ成功",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43195",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43195/20260810de43195_E0000006641_1_s.jpg",
+      "datePublished": "2026-08-11T12:38:25+09:00"
+    },
+    {
+      "name": "「令和8年熊本地震」ニュース一覧",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002860",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260731de42176_E0000004356_1_s.jpg"
+    },
+    {
+      "name": "【夏の甲子園2026 特集ページ】日程・結果 最新ニュース 特集記事 ",
+      "url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000513",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260809de42914_E0000005623_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
