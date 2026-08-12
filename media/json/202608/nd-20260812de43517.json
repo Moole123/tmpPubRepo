@@ -1,0 +1,183 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260812de43517",
+  "dataSourceId": "nd",
+  "name": "米消費者物価上昇率3.4％ 伸び率縮小で早期利上げ観測が後退か",
+  "headline": "米消費者物価上昇率3.4％ 伸び率縮小で早期利上げ観測が後退か",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260812de43517",
+    "playlistId": "news-nwa-international-nationwide-20260812",
+    "newsarticleName": "米消費者物価上昇率3.4％ 伸び率縮小で早期利上げ観測が後退か",
+    "playlistName": "8月12日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "為替相場や株価に影響を及ぼすアメリカの消費者物価指数が12日に発表され、先月は去年の同じ月と比べて3.4％の上昇となりました。\n\n伸び率は、依然として高い水準ですが前の月と比べて0.1ポイント縮小しま",
+  "dateModified": "2026-08-12T21:54:00+09:00",
+  "datePublished": "2026-08-12T21:54:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43517/20260812de43517_E0000007614_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43517/20260812de43517_E0000007614_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000419",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "E0000000477",
+      "name": "金融",
+      "display": true
+    },
+    {
+      "id": "E0000000483",
+      "name": "消費者物価指数",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "為替相場や株価に影響を及ぼすアメリカの消費者物価指数が12日に発表され、先月は去年の同じ月と比べて3.4％の上昇となりました。\n\n伸び率は、依然として高い水準ですが前の月と比べて0.1ポイント縮小しま",
+  "articleBody": "為替相場や株価に影響を及ぼすアメリカの消費者物価指数が12日に発表され、先月は去年の同じ月と比べて3.4％の上昇となりました。\n\n伸び率は、依然として高い水準ですが前の月と比べて0.1ポイント縮小しました。\n\n伸び率が縮小したことで、金融市場ではFRB＝連邦準備制度理事会が早期の利上げに踏み切るという観測が後退しそうです。\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "為替相場や株価に影響を及ぼすアメリカの消費者物価指数が12日に発表され、先月は去年の同じ月と比べて3.4％の上昇となりました。\n\n伸び率は、依然として高い水準ですが前の月と比べて0.1ポイント縮小しました。\n\n伸び率が縮小したことで、金融市場ではFRB＝連邦準備制度理事会が早期の利上げに踏み切るという観測が後退しそうです。\n",
+    "markedBody": "",
+    "trimmedLead": "為替相場や株価に影響を及ぼすアメリカの消費者物価指数が12日に発表され、先月は去年の同じ月と比べて3.4％の上昇となりました。\n\n伸び率は、依然として高い水準ですが前の月と比べて0.1ポイント縮小しました。\n\n伸び率が縮小したことで、金融市場ではFRB＝連邦準備制度理事会が早期の利上げに踏み切るという観測が後退しそうです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260812de43517.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260812de43517",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "米消費者物価上昇率3.4％ 伸び率縮小で早期利上げ観測が後退か",
+      "description": "為替相場や株価に影響を及ぼすアメリカの消費者物価指数が12日に発表され、先月は去年の同じ月と比べて3.4％の上昇となりました。\n\n伸び率は、依然として高い水準ですが前の月と比べて0.1ポイント縮小しま",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20260812de43517_E0000007615_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20260812de43517/20260812de43517_E0000007614_1_l.jpg",
+      "duration": "PT19S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20260812de43517_E0000007615_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43517/20260812de43517_E0000007614_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "“弾道ミサイルなどの発射実験は事前通知を”40余国が共同声明",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260812de43381",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43381/20260812de43381_E0000007205_1_s.jpg",
+      "datePublished": "2026-08-12T20:46:20+09:00"
+    },
+    {
+      "name": "ロシア プーチン大統領 北方領土問題めぐり 日本を強くけん制",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260812de43491",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43491/20260812de43491_E0000007523_1_s.jpg",
+      "datePublished": "2026-08-12T19:51:47+09:00"
+    },
+    {
+      "name": "高市首相 イラン大統領と電話会談“ホルムズ自由で安全 重要”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260812de43492",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43492/20260812de43492_E0000007530_1_s.jpg",
+      "datePublished": "2026-08-12T22:09:47+09:00"
+    },
+    {
+      "name": "中国 重慶駐在の日本総領事が8か月空席も代行として着任",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260812de43469",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43469/20260812de43469_E0000007455_1_s.jpg",
+      "datePublished": "2026-08-12T19:35:06+09:00"
+    },
+    {
+      "name": "中国 朱鎔基元首相が死去 97歳 「鉄腕宰相」とも呼ばれる",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260812de43497",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43497/20260812de43497_E0000007539_1_s.jpg",
+      "datePublished": "2026-08-12T22:31:33+09:00"
+    },
+    {
+      "name": "中国から輸出された新車 2か月連続で100万台超 EV需要高く",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260812de43473",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43473/20260812de43473_E0000007506_1_s.jpg",
+      "datePublished": "2026-08-12T18:55:32+09:00"
+    },
+    {
+      "name": "韓国 旧統一教会元幹部ら在宅起訴 政治家130人余に違法献金か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260812de43478",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43478/20260812de43478_E0000007476_1_s.jpg",
+      "datePublished": "2026-08-12T19:08:00+09:00"
+    },
+    {
+      "name": "【随時更新】ロシア ウクライナに軍事侵攻（8月12日の動き）",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260812de43328",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43328/20260812de43328_E0000006924_1_s.jpg",
+      "datePublished": "2026-08-12T21:17:26+09:00"
+    },
+    {
+      "name": "北朝鮮 弾道ミサイルの可能性あるもの EEZ外側に落下か 防衛省",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260812de43345",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43345/20260812de43345_E0000003943_1_s.jpg",
+      "datePublished": "2026-08-12T17:46:14+09:00"
+    },
+    {
+      "name": "朝鮮半島 遠のく南北融和",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260812de43391",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43391/20260812de43391_E0000007035_1_s.jpg",
+      "datePublished": "2026-08-12T18:01:15+09:00"
+    },
+    {
+      "name": "ハルペリン文書 知られざる核危機",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015196981000",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260809de42885_E0000005609_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
