@@ -1,0 +1,160 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260812de43496",
+  "dataSourceId": "nd",
+  "name": "ドコモのシェアサイクル 都内でのサービスを再開",
+  "headline": "ドコモのシェアサイクル 都内でのサービスを再開",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260812de43496",
+    "playlistId": "news-nwa-business-nationwide-20260812",
+    "newsarticleName": "ドコモのシェアサイクル 都内でのサービスを再開",
+    "playlistName": "8月12日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "NTTドコモの子会社は、システムの不具合の影響で一時、全国でサービスの提供を止めていた「シェアサイクル」について、利用者が最も多い都内での利用を12日再開したと発表しました。\n\n\nこの会社では、全国お",
+  "dateModified": "2026-08-12T19:49:22+09:00",
+  "datePublished": "2026-08-12T19:49:22+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43496/20260812de43496_E0000007541_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43496/20260812de43496_E0000007541_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "暮らし"
+  ],
+  "topic": [
+    {
+      "id": "E0000000341",
+      "name": "東京都",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "NTTドコモの子会社は、システムの不具合の影響で一時、全国でサービスの提供を止めていた「シェアサイクル」について、利用者が最も多い都内での利用を12日再開したと発表しました。\n\n\nこの会社では、全国お",
+  "articleBody": "NTTドコモの子会社は、システムの不具合の影響で一時、全国でサービスの提供を止めていた「シェアサイクル」について、利用者が最も多い都内での利用を12日再開したと発表しました。\n\n\nこの会社では、全国およそ6000か所、あわせて2万8000台の自転車を提供するシェアサイクルのサービスを展開していますが、システムの不具合によって今月4日の午後から全国でサービスの提供を止める措置をとっていました。\n\n会社では、システムの復旧に伴い各地で順次、サービスを再開してきましたが、12日、利用者が最も多い都内でのサービスを再開したと発表しました。\n\n会社によりますと、今月1日のシステムの更新時期から不具合が一部で起きていたということで、この間に自転車を借りた利用者については、一律で利用料金の返金を行う方針だということです。\n\n会社では「お客さまに多大なるご不便、ご迷惑をおかけしましたことを深くおわび申し上げます」としています。\n",
+  "detailedArticleBody": {
+    "markedLead": "NTTドコモの子会社は、システムの不具合の影響で一時、全国でサービスの提供を止めていた「シェアサイクル」について、利用者が最も多い都内での利用を12日再開したと発表しました。\n",
+    "markedBody": "この会社では、全国およそ6000か所、あわせて2万8000台の自転車を提供するシェアサイクルのサービスを展開していますが、システムの不具合によって今月4日の午後から全国でサービスの提供を止める措置をとっていました。\n\n会社では、システムの復旧に伴い各地で順次、サービスを再開してきましたが、12日、利用者が最も多い都内でのサービスを再開したと発表しました。\n\n会社によりますと、今月1日のシステムの更新時期から不具合が一部で起きていたということで、この間に自転車を借りた利用者については、一律で利用料金の返金を行う方針だということです。\n\n会社では「お客さまに多大なるご不便、ご迷惑をおかけしましたことを深くおわび申し上げます」としています。\n",
+    "trimmedLead": "NTTドコモの子会社は、システムの不具合の影響で一時、全国でサービスの提供を止めていた「シェアサイクル」について、利用者が最も多い都内での利用を12日再開したと発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260812de43496.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260812de43496",
+  "video": [],
+  "citation": [
+    {
+      "name": "台風17号が発生 “今後の情報に注意を” 気象庁",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260812de43369",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43369/20260812de43369_E0000007513_1_s.jpg",
+      "datePublished": "2026-08-12T19:37:06+09:00"
+    },
+    {
+      "name": "広い範囲で大気不安定 関東では危険警報も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260811de43217",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43217/20260811de43217_E0000007505_1_s.jpg",
+      "datePublished": "2026-08-12T19:31:12+09:00"
+    },
+    {
+      "name": "高市首相 イラン大統領と電話会談“ホルムズ自由で安全 重要”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260812de43492",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43492/20260812de43492_E0000007530_1_s.jpg",
+      "datePublished": "2026-08-12T19:43:43+09:00"
+    },
+    {
+      "name": "熊本地震 災害関連死の疑い含め39人死亡 避難所に3585人避難",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260812de43373",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43373/20260812de43373_E0000007058_1_s.jpg",
+      "datePublished": "2026-08-12T19:35:18+09:00"
+    },
+    {
+      "name": "熊本震度7の被災地 通所介護施設で再開できない所や一部制限も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260812de43444",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43444/20260812de43444_E0000007452_1_s.jpg",
+      "datePublished": "2026-08-12T18:47:00+09:00"
+    },
+    {
+      "name": "熊本 宇城 無料で使える洗濯機設置【12日 被災地の動き】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260812de43371",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43371/20260812de43371_E0000007044_1_s.jpg",
+      "datePublished": "2026-08-12T19:53:45+09:00"
+    },
+    {
+      "name": "奥田碩氏が死去 93歳 トヨタ自動車社長や経団連会長など歴任",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260812de43330",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43330/20260812de43330_E0000007077_1_s.jpg",
+      "datePublished": "2026-08-12T17:58:14+09:00"
+    },
+    {
+      "name": "中国 朱鎔基元首相が死去 97歳 「鉄腕宰相」とも呼ばれる",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260812de43497",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43497/20260812de43497_E0000007539_1_s.jpg",
+      "datePublished": "2026-08-12T19:32:00+09:00"
+    },
+    {
+      "name": "日航機墜落事故から41年 追悼慰霊式に遺族などが参列",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260812de43375",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43375/20260812de43375_E0000007475_1_s.jpg",
+      "datePublished": "2026-08-12T19:34:50+09:00"
+    },
+    {
+      "name": "「令和8年熊本地震」ニュース一覧",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002860",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260731de42176_E0000004356_1_s.jpg"
+    },
+    {
+      "name": "【夏の甲子園2026 特集ページ】日程・結果 最新ニュース 特集記事 ",
+      "url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000513",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260809de42914_E0000005623_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
