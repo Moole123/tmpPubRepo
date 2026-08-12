@@ -1,0 +1,153 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260812de43392",
+  "dataSourceId": "nd",
+  "name": "株価 小幅な値動き",
+  "headline": "株価 小幅な値動き",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260812de43392",
+    "playlistId": "news-nwa-business-nationwide-20260812",
+    "newsarticleName": "株価 小幅な値動き",
+    "playlistName": "8月12日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "12日の東京株式市場、日経平均株価は小幅な値動きとなっています。\n\n\n▽日経平均株価、午前の終値は、10日の終値と比べて69円96銭高い、6万7040円18銭。\n\n▽東証株価指数＝トピックスは、13.",
+  "dateModified": "2026-08-12T12:43:06+09:00",
+  "datePublished": "2026-08-12T12:43:06+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43392/20260812de43392_E0000007059_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43392/20260812de43392_E0000007059_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000157",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "E0000000427",
+      "name": "ニューヨーク",
+      "display": true
+    },
+    {
+      "id": "E0000000475",
+      "name": "半導体",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "12日の東京株式市場、日経平均株価は小幅な値動きとなっています。\n\n\n▽日経平均株価、午前の終値は、10日の終値と比べて69円96銭高い、6万7040円18銭。\n\n▽東証株価指数＝トピックスは、13.",
+  "articleBody": "12日の東京株式市場、日経平均株価は小幅な値動きとなっています。\n\n\n▽日経平均株価、午前の終値は、10日の終値と比べて69円96銭高い、6万7040円18銭。\n\n▽東証株価指数＝トピックスは、13.80上がって、4114.41。\n\n▽午前の出来高は、11億8884万株でした。\n\n市場関係者は「11日のニューヨーク市場でハイテク関連の銘柄が値上がりした流れを受けて、東京市場でも半導体関連の銘柄に買い注文が出ている。ただ、国内では夏休みの時期を迎え、取り引きの材料となるような企業の動きが少なく、売り買いが交錯する展開となっている」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "12日の東京株式市場、日経平均株価は小幅な値動きとなっています。\n",
+    "markedBody": "▽日経平均株価、午前の終値は、10日の終値と比べて69円96銭高い、6万7040円18銭。\n\n▽東証株価指数＝トピックスは、13.80上がって、4114.41。\n\n▽午前の出来高は、11億8884万株でした。\n\n市場関係者は「11日のニューヨーク市場でハイテク関連の銘柄が値上がりした流れを受けて、東京市場でも半導体関連の銘柄に買い注文が出ている。ただ、国内では夏休みの時期を迎え、取り引きの材料となるような企業の動きが少なく、売り買いが交錯する展開となっている」と話しています。\n",
+    "trimmedLead": "12日の東京株式市場、日経平均株価は小幅な値動きとなっています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260812de43392.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260812de43392",
+  "video": [],
+  "citation": [
+    {
+      "name": "台風15号は熱帯低気圧に 東北から西日本は激しい雨のおそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260811de43217",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43217/20260811de43217_E0000007067_1_s.jpg",
+      "datePublished": "2026-08-12T12:35:01+09:00"
+    },
+    {
+      "name": "熊本 12日も猛暑に 熱中症対策を 震度5弱程度以上の地震も注意",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260812de43342",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43342/20260812de43342_E0000006912_1_s.jpg",
+      "datePublished": "2026-08-12T11:38:31+09:00"
+    },
+    {
+      "name": "熊本地震 断層沿い30キロ余で地表のずれなど確認 専門家の調査",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260811de43322",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43322/20260811de43322_E0000006869_1_s.jpg",
+      "datePublished": "2026-08-12T07:45:46+09:00"
+    },
+    {
+      "name": "【気象予報士解説】台風15号 今後の見通しは",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260811de43243",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43243/20260811de43243_E0000006923_1_s.jpg",
+      "datePublished": "2026-08-12T07:23:01+09:00"
+    },
+    {
+      "name": "北朝鮮 弾道ミサイルの可能性あるもの EEZ外側に落下か 防衛省",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260812de43345",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43345/20260812de43345_E0000003943_1_s.jpg",
+      "datePublished": "2026-08-12T13:41:23+09:00"
+    },
+    {
+      "name": "日航ジャンボ機の墜落事故 きょうで41年 520人が犠牲",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260812de43331",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43331/20260812de43331_E0000006886_1_s.jpg",
+      "datePublished": "2026-08-12T11:34:06+09:00"
+    },
+    {
+      "name": "「令和8年熊本地震」ニュース一覧",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002860",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260731de42176_E0000004356_1_s.jpg"
+    },
+    {
+      "name": "“トランプ大統領 7月 秘密裏に専用機から乗り換え”米有力紙",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260811de43298",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43298/20260811de43298_E0000006832_1_s.jpg",
+      "datePublished": "2026-08-12T12:55:25+09:00"
+    },
+    {
+      "name": "【夏の甲子園2026 特集ページ】日程・結果 最新ニュース 特集記事 ",
+      "url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000513",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260809de42914_E0000005623_1_s.jpg"
+    },
+    {
+      "name": "奥田碩氏が死去 93歳 トヨタ自動車社長や経団連会長など歴任",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260812de43330",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43330/20260812de43330_E0000007077_1_s.jpg",
+      "datePublished": "2026-08-12T13:04:39+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
