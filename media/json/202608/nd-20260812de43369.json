@@ -1,0 +1,130 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260812de43369",
+  "dataSourceId": "nd",
+  "name": "台風17号が発生 “今後の情報に注意を” 気象庁",
+  "headline": "台風17号が発生 “今後の情報に注意を” 気象庁",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260812de43369",
+    "playlistId": "news-nwa-disaster-nationwide-20260812",
+    "newsarticleName": "台風17号が発生 “今後の情報に注意を” 気象庁",
+    "playlistName": "8月12日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "12日午前、小笠原近海で台風17号が発生しました。\n\n台風は今後北寄りに進む見込みで、気象庁は今後の情報に注意するよう呼びかけています。\n\n\n気象庁の観測によりますと、12日午前9時、小笠原近海で熱帯",
+  "dateModified": "2026-08-12T10:53:00+09:00",
+  "datePublished": "2026-08-12T10:53:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43369/20260812de43369_E0000006950_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43369/20260812de43369_E0000006950_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000114",
+      "name": "気象",
+      "display": true
+    },
+    {
+      "id": "E0000000202",
+      "name": "台風",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "12日午前、小笠原近海で台風17号が発生しました。\n\n台風は今後北寄りに進む見込みで、気象庁は今後の情報に注意するよう呼びかけています。\n\n\n気象庁の観測によりますと、12日午前9時、小笠原近海で熱帯",
+  "articleBody": "12日午前、小笠原近海で台風17号が発生しました。\n\n台風は今後北寄りに進む見込みで、気象庁は今後の情報に注意するよう呼びかけています。\n\n\n気象庁の観測によりますと、12日午前9時、小笠原近海で熱帯低気圧が台風17号に変わりました。\n\n中心の気圧は994ヘクトパスカル、中心付近の最大風速は18メートル、最大瞬間風速は25メートルで、中心の南側650キロ以内と北側390キロ以内では風速15メートル以上の強い風が吹いています。\n\n台風はゆっくりとした速さで東北東に進んでいて、今後北寄りに進むと予想されています。\n\n気象庁は、今後の情報に注意するよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "12日午前、小笠原近海で台風17号が発生しました。\n\n台風は今後北寄りに進む見込みで、気象庁は今後の情報に注意するよう呼びかけています。\n",
+    "markedBody": "気象庁の観測によりますと、12日午前9時、小笠原近海で熱帯低気圧が台風17号に変わりました。\n\n中心の気圧は994ヘクトパスカル、中心付近の最大風速は18メートル、最大瞬間風速は25メートルで、中心の南側650キロ以内と北側390キロ以内では風速15メートル以上の強い風が吹いています。\n\n台風はゆっくりとした速さで東北東に進んでいて、今後北寄りに進むと予想されています。\n\n気象庁は、今後の情報に注意するよう呼びかけています。\n",
+    "trimmedLead": "12日午前、小笠原近海で台風17号が発生しました。\n\n台風は今後北寄りに進む見込みで、気象庁は今後の情報に注意するよう呼びかけています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260812de43369.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260812de43369",
+  "video": [],
+  "citation": [
+    {
+      "name": "【最新の台風情報】予想進路や勢力などを詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/typhoon/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00002_E0000003277_1_s.jpg"
+    },
+    {
+      "name": "台風マップ 予想進路や勢力をリアルタイム表示",
+      "url": "https://news.web.nhk/bousai-map/typhoon/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00357_E0000003388_1_s.jpg"
+    },
+    {
+      "name": "新たな防災気象情報と避難 いつ避難する？",
+      "url": "https://news.web.nhk/newsweb/na/nc-73478668-2271-4d37-85e6-639be6f2927c",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00031_E0000003429_1_s.jpg"
+    },
+    {
+      "name": "台風接近前にやっておきたい備え「タイムライン」で",
+      "url": "https://news.web.nhk/newsweb/na/nc-cc4a20bc-9976-493f-a087-23512046b7d3",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00053_E0000002559_1_s.jpg"
+    },
+    {
+      "name": "台風や低気圧による「暴風」注意点と対策は",
+      "url": "https://news.web.nhk/newsweb/na/nc-ed932a80-8b04-49af-b4e8-2e364a35b909",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00040_E0000001749_1_s.jpg"
+    },
+    {
+      "name": "伊勢湾台風とは？犠牲者5000人超「暴走木材」が街を襲った",
+      "url": "https://news.web.nhk/newsweb/na/nc-eb22b635-e86a-4563-8a47-77db97cbcfe6",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00061_E0000002663_1_s.jpg"
+    },
+    {
+      "name": "天気防災サイト あなたの街の天気予報や災害情報を即時提供",
+      "url": "https://news.web.nhk/kishou-saigai/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00367_E0000003399_1_s.jpg"
+    },
+    {
+      "name": "大雨 最新情報 雨雲レーダーは「NHK ONE ニュース・防災アプリ」で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014929581000",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00233_E0000003287_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
