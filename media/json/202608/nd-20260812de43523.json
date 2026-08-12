@@ -1,0 +1,151 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260812de43523",
+  "dataSourceId": "nd",
+  "name": "台風17号 北寄りに進む見込み 進路予報に幅 今後の情報に注意",
+  "headline": "台風17号 北寄りに進む見込み 進路予報に幅 今後の情報に注意",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260812de43523",
+    "playlistId": "news-nwa-disaster-nationwide-20260813",
+    "newsarticleName": "台風17号 北寄りに進む見込み 進路予報に幅 今後の情報に注意",
+    "playlistName": "8月13日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "大型の台風17号は、日本の南の海上を北寄りに進んでいて、進路の予報には幅があるため、気象庁は、今後の情報に注意するよう呼びかけています。\n\n\nNHK ONE ニュース・防災アプリ\n\nNHK ONE ニ",
+  "dateModified": "2026-08-13T05:10:45+09:00",
+  "datePublished": "2026-08-13T05:10:45+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43523/20260812de43523_E0000007653_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43523/20260812de43523_E0000007653_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000114",
+      "name": "気象",
+      "display": true
+    },
+    {
+      "id": "E0000000202",
+      "name": "台風",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "大型の台風17号は、日本の南の海上を北寄りに進んでいて、進路の予報には幅があるため、気象庁は、今後の情報に注意するよう呼びかけています。\n\n\nNHK ONE ニュース・防災アプリ\n\nNHK ONE ニ",
+  "articleBody": "大型の台風17号は、日本の南の海上を北寄りに進んでいて、進路の予報には幅があるため、気象庁は、今後の情報に注意するよう呼びかけています。\n\n\nNHK ONE ニュース・防災アプリ\n\nNHK ONE ニュース・防災アプリ\n台風の進路図や最新ニュースはアプリでもご覧いただけます\n\n気象庁によりますと、12日、小笠原近海で発生した大型の台風17号は、13日午前3時には小笠原近海を1時間に30キロの速さで北北東に進んでいます。\n\n中心の気圧は994ヘクトパスカル、中心付近の最大風速は18メートル、最大瞬間風速は25メートルで、中心の南西側650キロ以内と北東側390キロ以内では風速15メートル以上の強い風が吹いています。\n\n台風はこのあとも北寄りに進む見込みです。\n\n進路の予報にはまだ幅があるため、気象庁は最新の情報に注意するよう呼びかけています。\n\n台風接近前にやっておくこと 備えを「タイムライン」で\n\n台風接近前にやっておくこと 備えを「タイムライン」で\n「台風の接近が予想される」その時、命を守るために何をすればいいか。大切なのは状況悪化の前に準備を終えておくことです。最接近予想の少なくとも3日前からやるべきことを「タイムライン」を使って説明します。\n",
+  "detailedArticleBody": {
+    "markedLead": "大型の台風17号は、日本の南の海上を北寄りに進んでいて、進路の予報には幅があるため、気象庁は、今後の情報に注意するよう呼びかけています。\n",
+    "markedBody": ":::nw--link-type4 {href=https://www.nhk.or.jp/nhkone/service/app/news_bousai/}\n![NHK ONE ニュース・防災アプリ](https://img.web.nhk/news/nd/kiji/20260812de43523/20260812de43523_E0000003925_1_l.jpg)\n\n**NHK ONE ニュース・防災アプリ**\\\n台風の進路図や最新ニュースはアプリでもご覧いただけます\n:::\n\n```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"002\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\n    <div class=\"fs-wrap\">\n      <h2 class=\"freespace-title\">台風マップ</h2>\n\n      <a href=\"https://news.web.nhk/bousai-map/typhoon/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"tenkiBousaiMap-fullscreenBtn\">全画面でマップを見る</a>\n\n      <div class=\"tenkiBousaiMap-wrap\">\n        <iframe src=\"https://news.web.nhk/bousai-map/typhoon/?mapMenu=off&amp;help=off&amp;halfModal=off&amp;typhoonSelection=off&amp;disableUserLocation=on\" allowfullscreen=\"allowfullscreen\" scrolling=\"no\" class=\"js-iframe-dataMap\"></iframe>\n      </div>\n    </div>\n</div>\n```\n\n気象庁によりますと、12日、小笠原近海で発生した大型の台風17号は、13日午前3時には小笠原近海を1時間に30キロの速さで北北東に進んでいます。\n\n中心の気圧は994ヘクトパスカル、中心付近の最大風速は18メートル、最大瞬間風速は25メートルで、中心の南西側650キロ以内と北東側390キロ以内では風速15メートル以上の強い風が吹いています。\n\n台風はこのあとも北寄りに進む見込みです。\n\n進路の予報にはまだ幅があるため、気象庁は最新の情報に注意するよう呼びかけています。\n\n:::nw--link-type4 {href=https://news.web.nhk/newsweb/na/nc-cc4a20bc-9976-493f-a087-23512046b7d3}\n![台風接近前にやっておくこと 備えを「タイムライン」で](https://img.web.nhk/news/nd/kiji/20260812de43523/20260812de43523_E0000005951_1_l.jpg)\n\n**台風接近前にやっておくこと 備えを「タイムライン」で**\\\n「台風の接近が予想される」その時、命を守るために何をすればいいか。大切なのは状況悪化の前に準備を終えておくことです。最接近予想の少なくとも3日前からやるべきことを「タイムライン」を使って説明します。\n:::\n\n```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"005\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\n    <div class=\"fs-wrap\">\n      <h2 class=\"freespace-title\">雨雲レーダー</h2>\n\n      <a href=\"https://news.web.nhk/bousai-map/rain/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"tenkiBousaiMap-fullscreenBtn\">全画面でマップを見る</a>\n\n      <div class=\"tenkiBousaiMap-wrap\">\n        <iframe src=\"https://news.web.nhk/bousai-map/rain/?lat=36.3562&amp;lng=138.0922&amp;zoom=3.2&amp;mapMenu=off&amp;help=off&amp;hinan=off&amp;disableUserLocation=on\" allowfullscreen=\"allowfullscreen\" scrolling=\"no\" class=\"js-iframe-dataMap\"></iframe>\n      </div>\n    </div>\n</div>\n```\n",
+    "noHtmlMarkedLead": "大型の台風17号は、日本の南の海上を北寄りに進んでいて、進路の予報には幅があるため、気象庁は、今後の情報に注意するよう呼びかけています。\n",
+    "noHtmlMarkedBody": ":::nw--link-type4 {href=https://www.nhk.or.jp/nhkone/service/app/news_bousai/}\n![NHK ONE ニュース・防災アプリ](https://img.web.nhk/news/nd/kiji/20260812de43523/20260812de43523_E0000003925_1_l.jpg)\n\n**NHK ONE ニュース・防災アプリ**\\\n台風の進路図や最新ニュースはアプリでもご覧いただけます\n:::\n\n気象庁によりますと、12日、小笠原近海で発生した大型の台風17号は、13日午前3時には小笠原近海を1時間に30キロの速さで北北東に進んでいます。\n\n中心の気圧は994ヘクトパスカル、中心付近の最大風速は18メートル、最大瞬間風速は25メートルで、中心の南西側650キロ以内と北東側390キロ以内では風速15メートル以上の強い風が吹いています。\n\n台風はこのあとも北寄りに進む見込みです。\n\n進路の予報にはまだ幅があるため、気象庁は最新の情報に注意するよう呼びかけています。\n\n:::nw--link-type4 {href=https://news.web.nhk/newsweb/na/nc-cc4a20bc-9976-493f-a087-23512046b7d3}\n![台風接近前にやっておくこと 備えを「タイムライン」で](https://img.web.nhk/news/nd/kiji/20260812de43523/20260812de43523_E0000005951_1_l.jpg)\n\n**台風接近前にやっておくこと 備えを「タイムライン」で**\\\n「台風の接近が予想される」その時、命を守るために何をすればいいか。大切なのは状況悪化の前に準備を終えておくことです。最接近予想の少なくとも3日前からやるべきことを「タイムライン」を使って説明します。\n:::\n",
+    "trimmedLead": "大型の台風17号は、日本の南の海上を北寄りに進んでいて、進路の予報には幅があるため、気象庁は、今後の情報に注意するよう呼びかけています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260812de43523.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260812de43523",
+  "video": [],
+  "citation": [
+    {
+      "name": "熱帯低気圧 広い範囲で大気不安定 関東では危険警報も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260811de43217",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43217/20260811de43217_E0000007505_1_s.jpg",
+      "datePublished": "2026-08-12T21:03:55+09:00"
+    },
+    {
+      "name": "台風17号が発生 “今後の情報に注意を” 気象庁",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260812de43369",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43369/20260812de43369_E0000007623_1_s.jpg",
+      "datePublished": "2026-08-12T19:37:00+09:00"
+    },
+    {
+      "name": "米物価上昇率3.4％ 伸び率縮小 利上げ観測やや後退",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260812de43517",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43517/20260812de43517_E0000007648_1_s.jpg",
+      "datePublished": "2026-08-13T03:44:58+09:00"
+    },
+    {
+      "name": "熊本地震 災害関連死の疑い含め39人死亡 避難所に3585人避難",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260812de43373",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43373/20260812de43373_E0000007058_1_s.jpg",
+      "datePublished": "2026-08-12T19:35:18+09:00"
+    },
+    {
+      "name": "熊本 断水の復旧長期化 断層沿いの主要な水道管の被害が要因か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260812de43486",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43486/20260812de43486_E0000007517_1_s.jpg",
+      "datePublished": "2026-08-12T19:52:10+09:00"
+    },
+    {
+      "name": "熊本震度7の被災地 通所介護施設で再開できない所や一部制限も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260812de43444",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43444/20260812de43444_E0000007452_1_s.jpg",
+      "datePublished": "2026-08-12T18:47:00+09:00"
+    },
+    {
+      "name": "日航機墜落事故から41年 追悼慰霊式に遺族などが参列",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260812de43375",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43375/20260812de43375_E0000007475_1_s.jpg",
+      "datePublished": "2026-08-12T20:56:46+09:00"
+    },
+    {
+      "name": "熱中症搬送者数 8月9日までの1週間で7600人余 熊本も200人近く",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260812de43538",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43538/20260812de43538_E0000003459_1_s.jpg",
+      "datePublished": "2026-08-13T00:23:00+09:00"
+    },
+    {
+      "name": "「令和8年熊本地震」ニュース一覧",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002860",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260731de42176_E0000004356_1_s.jpg"
+    },
+    {
+      "name": "【夏の甲子園2026 特集ページ】日程・結果 最新ニュース 特集記事 ",
+      "url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000513",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260809de42914_E0000005623_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": true
+  }
+}
