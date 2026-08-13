@@ -1,0 +1,151 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260813de43656",
+  "dataSourceId": "nd",
+  "name": "東京 野川 仙川 善福寺川にレベル４氾濫危険警報 厳重警戒を ",
+  "headline": "東京 野川 仙川 善福寺川にレベル４氾濫危険警報 厳重警戒を ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260813de43656",
+    "playlistId": "news-nwa-society-nationwide-20260813",
+    "newsarticleName": "東京 野川 仙川 善福寺川にレベル４氾濫危険警報 厳重警戒を ",
+    "playlistName": "8月13日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "気象庁と東京都は13日午後3時58分、都内を流れる野川と仙川に午後4時、善福寺川にそれぞれレベル4氾濫危険警報を発表しました。\n\nそれぞれの川では水位が上昇していて、今後、氾濫するおそれがあります。\n",
+  "dateModified": "2026-08-13T16:14:00+09:00",
+  "datePublished": "2026-08-13T16:14:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43656/20260813de43656_E0000003987_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43656/20260813de43656_E0000003987_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000341",
+      "name": "東京都",
+      "display": true
+    },
+    {
+      "id": "E0000000114",
+      "name": "気象",
+      "display": true
+    },
+    {
+      "id": "E0000000587",
+      "name": "大雨情報",
+      "display": true
+    },
+    {
+      "id": "E0000000772",
+      "name": "新たな防災気象情報(2026）",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "気象庁と東京都は13日午後3時58分、都内を流れる野川と仙川に午後4時、善福寺川にそれぞれレベル4氾濫危険警報を発表しました。\n\nそれぞれの川では水位が上昇していて、今後、氾濫するおそれがあります。\n",
+  "articleBody": "気象庁と東京都は13日午後3時58分、都内を流れる野川と仙川に午後4時、善福寺川にそれぞれレベル4氾濫危険警報を発表しました。\n\nそれぞれの川では水位が上昇していて、今後、氾濫するおそれがあります。\n\n気象庁と東京都は自治体からの避難の情報を確認し、危険な場所にいる人は速やかに安全な場所に避難するよう呼びかけています。\n\n特に地下施設は浸水に厳重な警戒が必要です。\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "気象庁と東京都は13日午後3時58分、都内を流れる野川と仙川に午後4時、善福寺川にそれぞれレベル4氾濫危険警報を発表しました。\n\nそれぞれの川では水位が上昇していて、今後、氾濫するおそれがあります。\n\n気象庁と東京都は自治体からの避難の情報を確認し、危険な場所にいる人は速やかに安全な場所に避難するよう呼びかけています。\n\n特に地下施設は浸水に厳重な警戒が必要です。\n",
+    "markedBody": "```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"002\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\n    <div class=\"fs-wrap\">\n      <h2 class=\"freespace-title\">河川の洪水危険度マップ</h2>\n\n      <a href=\"https://news.web.nhk/bousai-map/flood/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"tenkiBousaiMap-fullscreenBtn\">全画面でマップを見る</a>\n\n      <div class=\"tenkiBousaiMap-wrap\">\n        <iframe src=\"https://news.web.nhk/bousai-map/flood/?lat=36.3562&amp;lng=137.0922&amp;zoom=3.6&amp;mapMenu=off&amp;help=off&amp;floodSelection=off&amp;cameraToggle=off&amp;disableUserLocation=on\" allowfullscreen=\"allowfullscreen\" scrolling=\"no\" class=\"js-iframe-dataMap\"></iframe>\n      </div>\n    </div>\n</div>\n```\n",
+    "noHtmlMarkedLead": "気象庁と東京都は13日午後3時58分、都内を流れる野川と仙川に午後4時、善福寺川にそれぞれレベル4氾濫危険警報を発表しました。\n\nそれぞれの川では水位が上昇していて、今後、氾濫するおそれがあります。\n\n気象庁と東京都は自治体からの避難の情報を確認し、危険な場所にいる人は速やかに安全な場所に避難するよう呼びかけています。\n\n特に地下施設は浸水に厳重な警戒が必要です。\n",
+    "trimmedLead": "気象庁と東京都は13日午後3時58分、都内を流れる野川と仙川に午後4時、善福寺川にそれぞれレベル4氾濫危険警報を発表しました。\n\nそれぞれの川では水位が上昇していて、今後、氾濫するおそれがあります。\n\n気象庁と東京都は自治体からの避難の情報を確認し、危険な場所にいる人は速やかに安全な場所に避難するよう呼びかけています。\n\n特に地下施設は浸水に厳重な警戒が必要です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260813de43656.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260813de43656",
+  "video": [],
+  "citation": [
+    {
+      "name": "【最新の避難情報】こちらから地域別でご覧になれます",
+      "url": "https://news.web.nhk/kishou-saigai/evacuation/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00211_E0000003212_1_s.jpg"
+    },
+    {
+      "name": "【気象警報・注意報】各地の発表状況を詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/warning/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00266_E0000003278_1_s.jpg"
+    },
+    {
+      "name": "【最新の河川情報】こちらから一覧でご覧になれます",
+      "url": "https://news.web.nhk/kishou-saigai/river/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00212_E0000003213_1_s.jpg"
+    },
+    {
+      "name": "新たな防災気象情報と避難 いつ避難する？",
+      "url": "https://news.web.nhk/newsweb/na/nc-73478668-2271-4d37-85e6-639be6f2927c",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00031_E0000003429_1_s.jpg"
+    },
+    {
+      "name": "「命を守る行動を！」特別警報に緊急安全確保…どうすれば",
+      "url": "https://news.web.nhk/newsweb/na/nc-4206e8be-3c01-4ef5-943c-c5f2d8c343ae",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00033_E0000001589_1_s.jpg"
+    },
+    {
+      "name": "土砂災害マップ【NHK】現在の危険度をリアルタイム表示",
+      "url": "https://news.web.nhk/bousai-map/landslide/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00359_E0000003390_1_s.jpg"
+    },
+    {
+      "name": "土砂災害 警戒や避難のポイントは？",
+      "url": "https://news.web.nhk/newsweb/na/nc-d921faff-fdcd-4223-b396-f948340c5c1c",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00016_E0000001588_1_s.jpg"
+    },
+    {
+      "name": "川の氾濫 警戒のポイントは？",
+      "url": "https://news.web.nhk/newsweb/na/nc-1c290155-b464-4391-95b8-2f9687fa1f25",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00015_E0000001586_1_s.jpg"
+    },
+    {
+      "name": "線状降水帯とは？情報が出たらどうする？",
+      "url": "https://news.web.nhk/newsweb/na/nc-5092b435-f5e7-4767-a457-1c7aac190df9",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00149_E0000003428_1_s.jpg"
+    },
+    {
+      "name": "「記録的短時間大雨」とは? どう身を守る?",
+      "url": "https://news.web.nhk/newsweb/na/nc-2cb59e60-dc2e-4535-a3f0-9c825e2e34a8",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00054_E0000003430_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": true
+  }
+}
