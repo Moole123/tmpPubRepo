@@ -1,0 +1,99 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260813de43729",
+  "dataSourceId": "nd",
+  "name": "【大雨 交通影響】首都圏 JRや私鉄各線で運転見合わせや遅れ",
+  "headline": "【大雨 交通影響】首都圏 JRや私鉄各線で運転見合わせや遅れ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260813de43729",
+    "playlistId": "news-nwa-disaster-nationwide-20260813",
+    "newsarticleName": "【大雨 交通影響】首都圏 JRや私鉄各線で運転見合わせや遅れ",
+    "playlistName": "8月13日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "雨の影響で、鉄道にもJRや私鉄各線で運転の見合わせや遅れなどの影響が出ています。\n\n\nJR\n\n午後6時半の時点で、JR成田線は千葉県我孫子市の我孫子駅と印西市の木下駅の間で運転を見合わせています。\n\n",
+  "dateModified": "2026-08-13T19:05:59+09:00",
+  "datePublished": "2026-08-13T19:05:59+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43729/20260813de43729_E0000004054_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43729/20260813de43729_E0000004054_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000587",
+      "name": "大雨情報",
+      "display": true
+    },
+    {
+      "id": "E0000000481",
+      "name": "鉄道",
+      "display": true
+    },
+    {
+      "id": "E0000000340",
+      "name": "千葉県",
+      "display": true
+    },
+    {
+      "id": "E0000000341",
+      "name": "東京都",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "雨の影響で、鉄道にもJRや私鉄各線で運転の見合わせや遅れなどの影響が出ています。\n\n\nJR\n\n午後6時半の時点で、JR成田線は千葉県我孫子市の我孫子駅と印西市の木下駅の間で運転を見合わせています。\n\n",
+  "articleBody": "雨の影響で、鉄道にもJRや私鉄各線で運転の見合わせや遅れなどの影響が出ています。\n\n\nJR\n\n午後6時半の時点で、JR成田線は千葉県我孫子市の我孫子駅と印西市の木下駅の間で運転を見合わせています。\n\nJR久留里線は千葉県木更津市の木更津駅と君津市の久留里駅の間で運転を見合わせています。\n\nJR内房線は千葉県富津市の大貫駅から上総湊駅の間で運転を見合わせています。\n\nJR外房線は千葉駅から千葉県一宮町の上総一ノ宮駅の間で運転を見合わせています。\n\n私鉄\n\n私鉄では、京急電鉄が泉岳寺駅から品川駅の間で運転を見合わせているほか、品川駅と羽田空港の間でダイヤが大幅に乱れています。\n\nこのほかの私鉄各線でも列車の本数を減らしたり、遅れが発生したりするなど影響が出ています。\n",
+  "detailedArticleBody": {
+    "markedLead": "雨の影響で、鉄道にもJRや私鉄各線で運転の見合わせや遅れなどの影響が出ています。\n",
+    "markedBody": "## JR\n\n午後6時半の時点で、JR成田線は千葉県我孫子市の我孫子駅と印西市の木下駅の間で運転を見合わせています。\n\nJR久留里線は千葉県木更津市の木更津駅と君津市の久留里駅の間で運転を見合わせています。\n\nJR内房線は千葉県富津市の大貫駅から上総湊駅の間で運転を見合わせています。\n\nJR外房線は千葉駅から千葉県一宮町の上総一ノ宮駅の間で運転を見合わせています。\n\n## 私鉄\n\n私鉄では、京急電鉄が泉岳寺駅から品川駅の間で運転を見合わせているほか、品川駅と羽田空港の間でダイヤが大幅に乱れています。\n\nこのほかの私鉄各線でも列車の本数を減らしたり、遅れが発生したりするなど影響が出ています。\n",
+    "trimmedLead": "雨の影響で、鉄道にもJRや私鉄各線で運転の見合わせや遅れなどの影響が出ています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260813de43729.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260813de43729",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
