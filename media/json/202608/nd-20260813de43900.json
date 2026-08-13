@@ -1,0 +1,151 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260813de43900",
+  "dataSourceId": "nd",
+  "name": "高市首相「官邸連絡室」で被害状況の把握など対応 SNS投稿",
+  "headline": "高市首相「官邸連絡室」で被害状況の把握など対応 SNS投稿",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260813de43900",
+    "playlistId": "news-nwa-politics-nationwide-20260814",
+    "newsarticleName": "高市首相「官邸連絡室」で被害状況の把握など対応 SNS投稿",
+    "playlistName": "8月14日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "高市総理大臣は13日午後10時半ごろ、SNSに投稿し、「これまでに経験したことのないような大雨となっており、最大級の警戒をお願いする。ハザードマップを確認し、浸水や土砂災害のおそれがある区域にいる方は",
+  "dateModified": "2026-08-14T00:02:02+09:00",
+  "datePublished": "2026-08-14T00:02:02+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-640x360.png",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治",
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000114",
+      "name": "気象",
+      "display": true
+    },
+    {
+      "id": "E0000000640",
+      "name": "高市内閣",
+      "display": true
+    },
+    {
+      "id": "E0000000587",
+      "name": "大雨情報",
+      "display": true
+    },
+    {
+      "id": "E0000000340",
+      "name": "千葉県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "高市総理大臣は13日午後10時半ごろ、SNSに投稿し、「これまでに経験したことのないような大雨となっており、最大級の警戒をお願いする。ハザードマップを確認し、浸水や土砂災害のおそれがある区域にいる方は",
+  "articleBody": "高市総理大臣は13日午後10時半ごろ、SNSに投稿し、「これまでに経験したことのないような大雨となっており、最大級の警戒をお願いする。ハザードマップを確認し、浸水や土砂災害のおそれがある区域にいる方は自治体や気象台から発表される避難情報や気象情報を確認してもらいたい」と呼びかけました。\n\n\nそして政府の官邸危機管理センターに設置した「情報連絡室」を、午後9時50分に「官邸連絡室」に改組し、被害状況の把握や国民への情報提供などにあたっていでると明らかにしました。\n",
+  "detailedArticleBody": {
+    "markedLead": "高市総理大臣は13日午後10時半ごろ、SNSに投稿し、「これまでに経験したことのないような大雨となっており、最大級の警戒をお願いする。ハザードマップを確認し、浸水や土砂災害のおそれがある区域にいる方は自治体や気象台から発表される避難情報や気象情報を確認してもらいたい」と呼びかけました。\n",
+    "markedBody": "そして政府の官邸危機管理センターに設置した「情報連絡室」を、午後9時50分に「官邸連絡室」に改組し、被害状況の把握や国民への情報提供などにあたっていでると明らかにしました。\n",
+    "trimmedLead": "高市総理大臣は13日午後10時半ごろ、SNSに投稿し、「これまでに経験したことのないような大雨となっており、最大級の警戒をお願いする。ハザードマップを確認し、浸水や土砂災害のおそれがある区域にいる方は自治体や気象台から発表される避難情報や気象情報を確認してもらいたい」と呼びかけました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260813de43900.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260813de43900",
+  "video": [],
+  "citation": [
+    {
+      "name": "【最新の避難情報】こちらから地域別でご覧になれます",
+      "url": "https://news.web.nhk/kishou-saigai/evacuation/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00211_E0000003212_1_s.jpg"
+    },
+    {
+      "name": "【気象警報・注意報】各地の発表状況を詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/warning/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00266_E0000003278_1_s.jpg"
+    },
+    {
+      "name": "【最新の河川情報】こちらから一覧でご覧になれます",
+      "url": "https://news.web.nhk/kishou-saigai/river/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00212_E0000003213_1_s.jpg"
+    },
+    {
+      "name": "新たな防災気象情報と避難 いつ避難する？",
+      "url": "https://news.web.nhk/newsweb/na/nc-73478668-2271-4d37-85e6-639be6f2927c",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00031_E0000003429_1_s.jpg"
+    },
+    {
+      "name": "「命を守る行動を！」特別警報に緊急安全確保…どうすれば",
+      "url": "https://news.web.nhk/newsweb/na/nc-4206e8be-3c01-4ef5-943c-c5f2d8c343ae",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00033_E0000001589_1_s.jpg"
+    },
+    {
+      "name": "土砂災害マップ【NHK】現在の危険度をリアルタイム表示",
+      "url": "https://news.web.nhk/bousai-map/landslide/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00359_E0000003390_1_s.jpg"
+    },
+    {
+      "name": "土砂災害 警戒や避難のポイントは？",
+      "url": "https://news.web.nhk/newsweb/na/nc-d921faff-fdcd-4223-b396-f948340c5c1c",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00016_E0000001588_1_s.jpg"
+    },
+    {
+      "name": "川の氾濫 警戒のポイントは？",
+      "url": "https://news.web.nhk/newsweb/na/nc-1c290155-b464-4391-95b8-2f9687fa1f25",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00015_E0000001586_1_s.jpg"
+    },
+    {
+      "name": "線状降水帯とは？情報が出たらどうする？",
+      "url": "https://news.web.nhk/newsweb/na/nc-5092b435-f5e7-4767-a457-1c7aac190df9",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00149_E0000003428_1_s.jpg"
+    },
+    {
+      "name": "「記録的短時間大雨」とは? どう身を守る?",
+      "url": "https://news.web.nhk/newsweb/na/nc-2cb59e60-dc2e-4535-a3f0-9c825e2e34a8",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00054_E0000003430_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": false,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
