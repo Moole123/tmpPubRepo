@@ -1,0 +1,172 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260814de44093",
+  "dataSourceId": "nd",
+  "name": "千葉 JR大網駅では構内に水や泥 駅員が掃き出す作業に追われる",
+  "headline": "千葉 JR大網駅では構内に水や泥 駅員が掃き出す作業に追われる",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260814de44093",
+    "playlistId": "news-nwa-disaster-nationwide-20260814",
+    "newsarticleName": "千葉 JR大網駅では構内に水や泥 駅員が掃き出す作業に追われる",
+    "playlistName": "8月14日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "千葉県大網白里市のJR大網駅では、一夜明けた14日、駅員が構内にたまった水や泥を掃き出す作業に追われていました。\n\n\nJR大網駅では、13日夜の豪雨で駅構内まで水が入り込み、ひざ下あたりの高さまで浸水",
+  "dateModified": "2026-08-14T16:57:19+09:00",
+  "datePublished": "2026-08-14T16:57:19+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44093/20260814de44093_E0000008845_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44093/20260814de44093_E0000008845_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000010098",
+      "name": "千葉豪雨",
+      "display": true
+    },
+    {
+      "id": "E0000000340",
+      "name": "千葉県",
+      "display": true
+    },
+    {
+      "id": "E0000000481",
+      "name": "鉄道",
+      "display": true
+    },
+    {
+      "id": "E0000000651",
+      "name": "交通・インフラ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "千葉県大網白里市のJR大網駅では、一夜明けた14日、駅員が構内にたまった水や泥を掃き出す作業に追われていました。\n\n\nJR大網駅では、13日夜の豪雨で駅構内まで水が入り込み、ひざ下あたりの高さまで浸水",
+  "articleBody": "千葉県大網白里市のJR大網駅では、一夜明けた14日、駅員が構内にたまった水や泥を掃き出す作業に追われていました。\n\n\nJR大網駅では、13日夜の豪雨で駅構内まで水が入り込み、ひざ下あたりの高さまで浸水したということです。\n\n14日は、駅構内の改札の付近で、駅員2人がたまった水や泥を掃き出す作業に追われていました。\n\nまた、駅前やロータリーでは、電車の運転再開を待つ人やタクシーやバスを待つ人の姿も多く見られたほか、駅周辺のコンビニエンスストアや飲食店では、汚れたいすや棚などを運び出す作業を進めていました。\n\n14日夜は帰宅できず、駅に止まっていた電車内で過ごしたという30代男性は、「コンコースも水浸しで出たくても出られず、12時間ほど車内にいました。本当だったら電車で帰りたいのですが、5000円以上かけてタクシーで帰ります」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "千葉県大網白里市のJR大網駅では、一夜明けた14日、駅員が構内にたまった水や泥を掃き出す作業に追われていました。\n",
+    "markedBody": "JR大網駅では、13日夜の豪雨で駅構内まで水が入り込み、ひざ下あたりの高さまで浸水したということです。\n\n14日は、駅構内の改札の付近で、駅員2人がたまった水や泥を掃き出す作業に追われていました。\n\nまた、駅前やロータリーでは、電車の運転再開を待つ人やタクシーやバスを待つ人の姿も多く見られたほか、駅周辺のコンビニエンスストアや飲食店では、汚れたいすや棚などを運び出す作業を進めていました。\n\n14日夜は帰宅できず、駅に止まっていた電車内で過ごしたという30代男性は、「コンコースも水浸しで出たくても出られず、12時間ほど車内にいました。本当だったら電車で帰りたいのですが、5000円以上かけてタクシーで帰ります」と話していました。\n",
+    "trimmedLead": "千葉県大網白里市のJR大網駅では、一夜明けた14日、駅員が構内にたまった水や泥を掃き出す作業に追われていました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260814de44093.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260814de44093",
+  "video": [],
+  "citation": [
+    {
+      "name": "千葉 記録的大雨 今後も激しい雨のおそれ 警戒を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260814de44019",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44019/20260814de44019_E0000008526_1_s.jpg",
+      "datePublished": "2026-08-14T17:01:53+09:00"
+    },
+    {
+      "name": "【千葉 大雨被害】死者8人に 路上や車内で亡くなる",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260814de43980",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de43980/20260814de43980_E0000008593_1_s.jpg",
+      "datePublished": "2026-08-14T17:22:41+09:00"
+    },
+    {
+      "name": "【大雨被害】千葉 記録的大雨 自治体ごとに詳しく(13日)",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260813de43748",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43748/20260813de43748_E0000008421_1_s.jpg",
+      "datePublished": "2026-08-14T08:54:00+09:00"
+    },
+    {
+      "name": "【大雨 交通影響】首都圏 鉄道や道路の状況（14日）",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260814de43937",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de43937/20260814de43937_E0000003974_1_s.jpg",
+      "datePublished": "2026-08-14T15:06:58+09:00"
+    },
+    {
+      "name": "台風17号 南鳥島近海を北東へ進む 今後の情報に注意",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260812de43523",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43523/20260812de43523_E0000008414_1_s.jpg",
+      "datePublished": "2026-08-14T01:16:00+09:00"
+    },
+    {
+      "name": "【大雨】千葉県庁で約1800人が一夜明かす 帰宅困難者相次ぎ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260813de43764",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43764/20260813de43764_E0000008399_1_s.jpg",
+      "datePublished": "2026-08-14T16:52:24+09:00"
+    },
+    {
+      "name": "「週刊少年ジャンプ」直近の発行部数 100万部を下回る",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260814de44024",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44024/20260814de44024_E0000008554_1_s.jpg",
+      "datePublished": "2026-08-14T12:05:00+09:00"
+    },
+    {
+      "name": "政府 ロシアへの対抗措置を検討 プーチン氏の北方領土訪問受け",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260814de43919",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de43919/20260814de43919_E0000003843_1_s.jpg",
+      "datePublished": "2026-08-14T16:45:54+09:00"
+    },
+    {
+      "name": "高校野球 夏の甲子園【大会10日目の見どころ】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260813de43715",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43715/20260813de43715_E0000008373_1_s.jpg",
+      "datePublished": "2026-08-14T06:12:00+09:00"
+    },
+    {
+      "name": "ベルリンの壁建設開始から65年で追悼式典 当時を知る人も出席",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260814de43958",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de43958/20260814de43958_E0000008439_1_s.jpg",
+      "datePublished": "2026-08-14T06:39:45+09:00"
+    },
+    {
+      "name": "「計画通りには動けない」 “共助”の理想と現実",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260812de43441",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43441/20260812de43441_E0000007514_1_s.jpg",
+      "datePublished": "2026-08-13T18:38:02+09:00"
+    },
+    {
+      "name": "S＆P500 株価指数が最高値 FRB利上げ観測後退で",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260814de43968",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de43968/20260814de43968_E0000008444_1_s.jpg",
+      "datePublished": "2026-08-14T07:28:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
