@@ -1,0 +1,151 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260814de44161",
+  "dataSourceId": "nd",
+  "name": "ニチレイ サイバー攻撃で従業員の氏名など漏えいのおそれ",
+  "headline": "ニチレイ サイバー攻撃で従業員の氏名など漏えいのおそれ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260814de44161",
+    "playlistId": "news-nwa-business-nationwide-20260814",
+    "newsarticleName": "ニチレイ サイバー攻撃で従業員の氏名など漏えいのおそれ",
+    "playlistName": "8月14日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "冷凍食品大手のニチレイは、先月受けたサイバー攻撃によって、従業員の氏名や生年月日などの情報が漏えいしたおそれがあると発表しました。現時点で情報が不正に利用された事実は確認されていないということです。\n",
+  "dateModified": "2026-08-14T19:25:36+09:00",
+  "datePublished": "2026-08-14T19:25:36+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44161/20260814de44161_E0000009169_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44161/20260814de44161_E0000009169_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "冷凍食品大手のニチレイは、先月受けたサイバー攻撃によって、従業員の氏名や生年月日などの情報が漏えいしたおそれがあると発表しました。現時点で情報が不正に利用された事実は確認されていないということです。\n",
+  "articleBody": "冷凍食品大手のニチレイは、先月受けたサイバー攻撃によって、従業員の氏名や生年月日などの情報が漏えいしたおそれがあると発表しました。現時点で情報が不正に利用された事実は確認されていないということです。\n\n\nニチレイは先月、サイバー攻撃を受け、倉庫からの出庫や冷凍食品の出荷ができなくなるなど、10日余りにわたって業務に影響が出ました。\n\n会社は14日社内で調査した結果、サイバー攻撃を受けたサーバーに保管されていたグループの従業員の個人情報が漏えいしたおそれがあると発表しました。\n\n漏えいしたおそれがあるのは、一部の従業員の氏名や生年月日、メールアドレスのほか、人事や労務に関する情報などだということです。\n\n会社では、該当する従業員に情報が漏えいした可能性があることを通知しましたが、現時点で情報が不正に利用された事実は確認されていないということです。\n\n一方で漏えいしたおそれがある情報の件数については、調査を続けているため回答を差し控えるとしています。\n\nニチレイは、「外部の専門会社の協力のもと、引き続き調査を行う。今後追加で個人情報の漏えいのおそれが確認された場合は、該当する方に速やかにお知らせする」などとコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "冷凍食品大手のニチレイは、先月受けたサイバー攻撃によって、従業員の氏名や生年月日などの情報が漏えいしたおそれがあると発表しました。現時点で情報が不正に利用された事実は確認されていないということです。\n",
+    "markedBody": "ニチレイは先月、サイバー攻撃を受け、倉庫からの出庫や冷凍食品の出荷ができなくなるなど、10日余りにわたって業務に影響が出ました。\n\n会社は14日社内で調査した結果、サイバー攻撃を受けたサーバーに保管されていたグループの従業員の個人情報が漏えいしたおそれがあると発表しました。\n\n漏えいしたおそれがあるのは、一部の従業員の氏名や生年月日、メールアドレスのほか、人事や労務に関する情報などだということです。\n\n会社では、該当する従業員に情報が漏えいした可能性があることを通知しましたが、現時点で情報が不正に利用された事実は確認されていないということです。\n\n一方で漏えいしたおそれがある情報の件数については、調査を続けているため回答を差し控えるとしています。\n\nニチレイは、「外部の専門会社の協力のもと、引き続き調査を行う。今後追加で個人情報の漏えいのおそれが確認された場合は、該当する方に速やかにお知らせする」などとコメントしています。\n",
+    "trimmedLead": "冷凍食品大手のニチレイは、先月受けたサイバー攻撃によって、従業員の氏名や生年月日などの情報が漏えいしたおそれがあると発表しました。現時点で情報が不正に利用された事実は確認されていないということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260814de44161.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260814de44161",
+  "video": [],
+  "citation": [
+    {
+      "name": "「ニチレイ」サイバー攻撃　ランサムウエアの対策急げ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43079",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43079/20260810de43079_E0000006024_1_s.jpg",
+      "datePublished": "2026-08-12T16:31:00+09:00"
+    },
+    {
+      "name": "経産省 大雨で被災した千葉の中小企業へ相談窓口など支援開始",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260814de44118",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44118/20260814de44118_E0000008940_1_s.jpg",
+      "datePublished": "2026-08-14T17:36:53+09:00"
+    },
+    {
+      "name": "千葉など関東 15日明け方にかけ非常に激しい雨のおそれ 警戒を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260814de44019",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44019/20260814de44019_E0000008526_1_s.jpg",
+      "datePublished": "2026-08-14T18:59:43+09:00"
+    },
+    {
+      "name": "【千葉 大雨被害】死者8人に 住宅被害は少なくとも178棟に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260814de43980",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de43980/20260814de43980_E0000008593_1_s.jpg",
+      "datePublished": "2026-08-14T19:13:13+09:00"
+    },
+    {
+      "name": "千葉 大雨影響 約1万8450戸が停電（17:00）",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260813de43775",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43775/20260813de43775_E0000004017_1_s.jpg",
+      "datePublished": "2026-08-14T18:10:56+09:00"
+    },
+    {
+      "name": "【大雨 交通影響】鉄道や道路の状況（14日）",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260814de43937",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de43937/20260814de43937_E0000003974_1_s.jpg",
+      "datePublished": "2026-08-14T18:03:29+09:00"
+    },
+    {
+      "name": "【大雨】千葉県庁で約1800人が一夜明かす 帰宅困難者相次ぎ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260813de43764",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43764/20260813de43764_E0000008399_1_s.jpg",
+      "datePublished": "2026-08-14T16:52:24+09:00"
+    },
+    {
+      "name": "「週刊少年ジャンプ」直近の発行部数 100万部を下回る",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260814de44024",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44024/20260814de44024_E0000008554_1_s.jpg",
+      "datePublished": "2026-08-14T12:05:00+09:00"
+    },
+    {
+      "name": "高校野球 夏の甲子園【大会10日目の見どころ】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260813de43715",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43715/20260813de43715_E0000008373_1_s.jpg",
+      "datePublished": "2026-08-14T06:12:00+09:00"
+    },
+    {
+      "name": "「計画通りには動けない」 “共助”の理想と現実",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260812de43441",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43441/20260812de43441_E0000007514_1_s.jpg",
+      "datePublished": "2026-08-13T18:38:02+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
