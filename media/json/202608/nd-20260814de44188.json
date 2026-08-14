@@ -1,0 +1,161 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260814de44188",
+  "dataSourceId": "nd",
+  "name": "米 7月の小売業の売上高 前月比0.6％減 FRB利上げ観測やや後退",
+  "headline": "米 7月の小売業の売上高 前月比0.6％減 FRB利上げ観測やや後退",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260814de44188",
+    "playlistId": "news-nwa-international-nationwide-20260815",
+    "newsarticleName": "米 7月の小売業の売上高 前月比0.6％減 FRB利上げ観測やや後退",
+    "playlistName": "8月15日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "アメリカの個人消費の動向を示す小売業の売上高は、先月、前の月と比べて0.6％減少しました。ネット通販や自動車販売が落ち込んだことが主な要因で、金融市場ではFRB＝連邦準備制度理事会による早期の利上げ観",
+  "dateModified": "2026-08-15T00:05:27+09:00",
+  "datePublished": "2026-08-15T00:05:27+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44188/20260814de44188_E0000009284_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44188/20260814de44188_E0000009284_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000419",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "E0000000473",
+      "name": "小売業",
+      "display": true
+    },
+    {
+      "id": "E0000000703",
+      "name": "統計・指標",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "アメリカの個人消費の動向を示す小売業の売上高は、先月、前の月と比べて0.6％減少しました。ネット通販や自動車販売が落ち込んだことが主な要因で、金融市場ではFRB＝連邦準備制度理事会による早期の利上げ観",
+  "articleBody": "アメリカの個人消費の動向を示す小売業の売上高は、先月、前の月と比べて0.6％減少しました。ネット通販や自動車販売が落ち込んだことが主な要因で、金融市場ではFRB＝連邦準備制度理事会による早期の利上げ観測がいくぶん後退しました。\n\n\nアメリカ商務省が14日に発表した先月の小売業の売上高はおよそ7636億ドル、日本円にして121兆円余りで、前の月から0.6％減少しました。\n\n0.1％程度の増加を見込んでいた市場予想を大きく下回りました。\n\n項目別に見ると、\n▽「ネット通販」が2.2％、\n▽「自動車・自動車部品」が1.8％、\n▽「ガソリンスタンド」が0.9％、\nそれぞれ減少しました。\n\n一方、\n▽「衣類・アクセサリー」が1.9％、\n▽「ヘルスケア」関連が0.7％、\nそれぞれ増加しました。\n\n個人消費の動向を示す小売業の売上高が減少したことを受けて、金融市場ではFRBによる早期の利上げ観測がいくぶん後退しました。\n\nアメリカのメディア、ブルームバーグは、ネット通販大手の「アマゾン」のセールが6月に前倒しされるなど特殊な要因が影響した可能性があると伝えています。\n\n一方、エコノミストの間では先行きに慎重な見方が出ているとも伝えていて、アメリカ経済を支えてきた個人消費が堅調さを維持できるかが焦点となりそうです。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカの個人消費の動向を示す小売業の売上高は、先月、前の月と比べて0.6％減少しました。ネット通販や自動車販売が落ち込んだことが主な要因で、金融市場ではFRB＝連邦準備制度理事会による早期の利上げ観測がいくぶん後退しました。\n",
+    "markedBody": "アメリカ商務省が14日に発表した先月の小売業の売上高はおよそ7636億ドル、日本円にして121兆円余りで、前の月から0.6％減少しました。\n\n0.1％程度の増加を見込んでいた市場予想を大きく下回りました。\n\n項目別に見ると、\\\n▽「ネット通販」が2.2％、\\\n▽「自動車・自動車部品」が1.8％、\\\n▽「ガソリンスタンド」が0.9％、\\\nそれぞれ減少しました。\n\n一方、\\\n▽「衣類・アクセサリー」が1.9％、\\\n▽「ヘルスケア」関連が0.7％、\\\nそれぞれ増加しました。\n\n個人消費の動向を示す小売業の売上高が減少したことを受けて、金融市場ではFRBによる早期の利上げ観測がいくぶん後退しました。\n\nアメリカのメディア、ブルームバーグは、ネット通販大手の「アマゾン」のセールが6月に前倒しされるなど特殊な要因が影響した可能性があると伝えています。\n\n一方、エコノミストの間では先行きに慎重な見方が出ているとも伝えていて、アメリカ経済を支えてきた個人消費が堅調さを維持できるかが焦点となりそうです。\n",
+    "trimmedLead": "アメリカの個人消費の動向を示す小売業の売上高は、先月、前の月と比べて0.6％減少しました。ネット通販や自動車販売が落ち込んだことが主な要因で、金融市場ではFRB＝連邦準備制度理事会による早期の利上げ観測がいくぶん後退しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260814de44188.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260814de44188",
+  "video": [],
+  "citation": [
+    {
+      "name": "トランプ政権のハーバード大巡る“反ユダヤ”の訴えを棄却 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260814de44074",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44074/20260814de44074_E0000008742_1_s.jpg",
+      "datePublished": "2026-08-14T15:40:05+09:00"
+    },
+    {
+      "name": "キューバ フィデル・カストロ氏生誕100年で米に対抗姿勢",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260814de44066",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44066/20260814de44066_E0000008731_2_s.jpg",
+      "datePublished": "2026-08-14T15:47:00+09:00"
+    },
+    {
+      "name": "エルニーニョ現象“歴史的な水準”予測 日本 台風増加のおそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260814de44018",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44018/20260814de44018_E0000008708_1_s.jpg",
+      "datePublished": "2026-08-14T13:25:00+09:00"
+    },
+    {
+      "name": "プーチン大統領の北方領土訪問 国連が当事者に自制呼びかけ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260814de44017",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44017/20260814de44017_E0000008525_1_s.jpg",
+      "datePublished": "2026-08-14T12:02:00+09:00"
+    },
+    {
+      "name": "政府 ロシアへの対抗措置を検討 プーチン氏の北方領土訪問受け",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260814de43919",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de43919/20260814de43919_E0000003843_1_s.jpg",
+      "datePublished": "2026-08-14T16:45:54+09:00"
+    },
+    {
+      "name": "米「イラン海上封鎖 無期限可能」ホルムズ海峡開放 見通せず",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260814de43959",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de43959/20260814de43959_E0000008441_1_s.jpg",
+      "datePublished": "2026-08-14T13:13:36+09:00"
+    },
+    {
+      "name": "ウクライナで地雷探知の新システム 日本の支援で供与",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260814de43955",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de43955/20260814de43955_E0000008429_1_s.jpg",
+      "datePublished": "2026-08-14T07:10:00+09:00"
+    },
+    {
+      "name": "中国 朱鎔基元首相 死去 中国の日本関係者も追悼",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260813de43766",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43766/20260813de43766_E0000008309_1_s.jpg",
+      "datePublished": "2026-08-14T01:56:39+09:00"
+    },
+    {
+      "name": "ロシア プーチン大統領 北方領土に その狙いは 専門家に聞く",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260813de43710",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43710/20260813de43710_E0000008356_1_s.jpg",
+      "datePublished": "2026-08-13T23:23:36+09:00"
+    },
+    {
+      "name": "円安是正 為替介入 日米協調の深層と迫られる政策",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260813de43584",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43584/20260813de43584_E0000007809_1_s.jpg",
+      "datePublished": "2026-08-13T15:58:04+09:00"
+    },
+    {
+      "name": "朝鮮半島 遠のく南北融和",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260812de43391",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43391/20260812de43391_E0000007035_1_s.jpg",
+      "datePublished": "2026-08-12T18:01:15+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
