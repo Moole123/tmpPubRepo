@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260816de44386",
+  "dataSourceId": "nd",
+  "name": "東京 府中 多摩川で遊んでいた中学3年男子生徒が溺れて重体",
+  "headline": "東京 府中 多摩川で遊んでいた中学3年男子生徒が溺れて重体",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260816de44386",
+    "playlistId": "news-nwa-society-nationwide-20260816",
+    "newsarticleName": "東京 府中 多摩川で遊んでいた中学3年男子生徒が溺れて重体",
+    "playlistName": "8月16日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "16日午前、東京 府中市の多摩川で、中学3年の男子生徒が友人とともに川で遊んでいて溺れ、意識不明の重体になっています。\n\n\n午前11時ごろ、府中市と多摩市の間を流れる多摩川で、「中学生が流されている」",
+  "dateModified": "2026-08-16T16:54:49+09:00",
+  "datePublished": "2026-08-16T16:54:49+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44386/20260816de44386_E0000009760_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44386/20260816de44386_E0000009760_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000208",
+      "name": "事件・事故",
+      "display": true
+    },
+    {
+      "id": "E0000000341",
+      "name": "東京都",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "16日午前、東京 府中市の多摩川で、中学3年の男子生徒が友人とともに川で遊んでいて溺れ、意識不明の重体になっています。\n\n\n午前11時ごろ、府中市と多摩市の間を流れる多摩川で、「中学生が流されている」",
+  "articleBody": "16日午前、東京 府中市の多摩川で、中学3年の男子生徒が友人とともに川で遊んでいて溺れ、意識不明の重体になっています。\n\n\n午前11時ごろ、府中市と多摩市の間を流れる多摩川で、「中学生が流されている」と消防を通じて警視庁に通報がありました。\n\n警視庁によりますと、消防が救助活動にあたり、およそ40分後に、通報があった場所にほど近い水深2メートルの川底で中学3年の男子生徒が沈んでいるのが見つかり、助け出されたということです。\n\n男子生徒は病院に搬送され、意識不明の重体になっています。\n\n当時、同じ中学校の友人5人と岸から川に飛び込んで遊んでいて、溺れたということです。\n\n警視庁は溺れた当時の状況をさらに詳しく調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "16日午前、東京 府中市の多摩川で、中学3年の男子生徒が友人とともに川で遊んでいて溺れ、意識不明の重体になっています。\n",
+    "markedBody": "午前11時ごろ、府中市と多摩市の間を流れる多摩川で、「中学生が流されている」と消防を通じて警視庁に通報がありました。\n\n警視庁によりますと、消防が救助活動にあたり、およそ40分後に、通報があった場所にほど近い水深2メートルの川底で中学3年の男子生徒が沈んでいるのが見つかり、助け出されたということです。\n\n男子生徒は病院に搬送され、意識不明の重体になっています。\n\n当時、同じ中学校の友人5人と岸から川に飛び込んで遊んでいて、溺れたということです。\n\n警視庁は溺れた当時の状況をさらに詳しく調べています。\n",
+    "trimmedLead": "16日午前、東京 府中市の多摩川で、中学3年の男子生徒が友人とともに川で遊んでいて溺れ、意識不明の重体になっています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260816de44386.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260816de44386",
+  "video": [],
+  "citation": [
+    {
+      "name": "多摩川で釣りをしていた男性死亡 川で溺れたか 東京 昭島市",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260811de43262",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43262/20260811de43262_E0000006749_1_s.jpg",
+      "datePublished": "2026-08-11T15:17:00+09:00"
+    },
+    {
+      "name": "岐阜 長良川で水難事故相次ぐ 23歳の男性 計2人が溺れて死亡",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260815de44296",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44296/20260815de44296_E0000009611_1_s.jpg",
+      "datePublished": "2026-08-15T23:48:12+09:00"
+    },
+    {
+      "name": "【千葉豪雨】死者10人に 夜にかけ雨のおそれ 土砂災害に注意を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260815de44322",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44322/20260815de44322_E0000009672_1_s.jpg",
+      "datePublished": "2026-08-16T17:25:01+09:00"
+    },
+    {
+      "name": "熊本地震 災害関連死の疑い含め39人死亡 避難所に3121人避難",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260816de44361",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44361/20260816de44361_E0000009692_1_s.jpg",
+      "datePublished": "2026-08-16T18:13:34+09:00"
+    },
+    {
+      "name": "熊本地震 「くまモン」が活動再開 被害受けた小学校を訪問",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260816de44363",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44363/20260816de44363_E0000009699_1_s.jpg",
+      "datePublished": "2026-08-16T12:39:19+09:00"
+    },
+    {
+      "name": "お盆のUターンラッシュ 新幹線と空の便がピークに",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260816de44364",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44364/20260816de44364_E0000009710_1_s.jpg",
+      "datePublished": "2026-08-16T13:08:14+09:00"
+    },
+    {
+      "name": "上野動物園のパンダ舎 あすから解体 多くの人が最後の別れ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260816de44365",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44365/20260816de44365_E0000009704_1_s.jpg",
+      "datePublished": "2026-08-16T13:26:04+09:00"
+    },
+    {
+      "name": "水木しげると硫黄島 命の重みをいまに問う",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260812de43431",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43431/20260812de43431_E0000008814_1_s.jpg",
+      "datePublished": "2026-08-16T11:30:00+09:00"
+    },
+    {
+      "name": "読み継がれる学級日誌 少女たちが綴った“戦争と平和”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260812de43429",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43429/20260812de43429_E0000007251_1_s.jpg",
+      "datePublished": "2026-08-15T11:48:20+09:00"
+    },
+    {
+      "name": "女性審判たちが切り開いた「道」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260813de43572",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43572/20260813de43572_E0000008241_1_s.jpg",
+      "datePublished": "2026-08-16T14:42:27+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
