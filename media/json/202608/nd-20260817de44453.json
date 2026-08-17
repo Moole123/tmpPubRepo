@@ -1,0 +1,168 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260817de44453",
+  "dataSourceId": "nd",
+  "name": "4-6月のGDP 年率プラス1.1％ 3期連続のプラス",
+  "headline": "4-6月のGDP 年率プラス1.1％ 3期連続のプラス",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260817de44453",
+    "playlistId": "news-nwa-business-nationwide-20260817",
+    "newsarticleName": "4-6月のGDP 年率プラス1.1％ 3期連続のプラス",
+    "playlistName": "8月17日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "ことし4月から6月までのGDP＝国内総生産は、前の3か月と比べた実質の伸び率が年率換算でプラス1.1％と3期連続のプラスとなりました。\n\n\n内閣府が17日発表したことし4月から6月までのGDPの速報値",
+  "dateModified": "2026-08-17T10:30:15+09:00",
+  "datePublished": "2026-08-17T08:58:16+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44453/20260817de44453_E0000003649_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44453/20260817de44453_E0000003649_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000482",
+      "name": "GDP",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ことし4月から6月までのGDP＝国内総生産は、前の3か月と比べた実質の伸び率が年率換算でプラス1.1％と3期連続のプラスとなりました。\n\n\n内閣府が17日発表したことし4月から6月までのGDPの速報値",
+  "articleBody": "ことし4月から6月までのGDP＝国内総生産は、前の3か月と比べた実質の伸び率が年率換算でプラス1.1％と3期連続のプラスとなりました。\n\n\n内閣府が17日発表したことし4月から6月までのGDPの速報値は、物価の変動を除いた実質の伸び率が前の3か月と比べてプラス0.3％となりました。\n\nこれが1年間続いた場合の年率に換算するとプラス1.1％で、3期連続のプラスとなりました。\n\n項目ごとに見ますと、GDPのおよそ半分を占める「個人消費」は前の3か月と比べてマイナス0.02％でした。\n\n事前の民間シンクタンクなどの予測では、実質賃金のプラスが続く中、制度変更にともなう自動車販売の増加やエアコン購入の駆け込み需要などで、プラスが見込まれていましたが、予想を下回った形です。\n\n一方、「政府支出」はプラス1.6％、「輸出」はプラス0.5％でした。\n\nまた、「輸入」は中東情勢の緊迫化の影響で原油の輸入量が減ったことなどからマイナス1.5％となり、これも計算上、GDPを押し上げました。\n",
+  "detailedArticleBody": {
+    "markedLead": "ことし4月から6月までのGDP＝国内総生産は、前の3か月と比べた実質の伸び率が年率換算でプラス1.1％と3期連続のプラスとなりました。\n",
+    "markedBody": "![](https://img.web.nhk/news/nd/kiji/20260817de44453/20260817de44453_E0000009915_1_l.jpg)\n\n内閣府が17日発表したことし4月から6月までのGDPの速報値は、物価の変動を除いた実質の伸び率が前の3か月と比べてプラス0.3％となりました。\n\nこれが1年間続いた場合の年率に換算するとプラス1.1％で、3期連続のプラスとなりました。\n\n項目ごとに見ますと、GDPのおよそ半分を占める「個人消費」は前の3か月と比べてマイナス0.02％でした。\n\n事前の民間シンクタンクなどの予測では、実質賃金のプラスが続く中、制度変更にともなう自動車販売の増加やエアコン購入の駆け込み需要などで、プラスが見込まれていましたが、予想を下回った形です。\n\n一方、「政府支出」はプラス1.6％、「輸出」はプラス0.5％でした。\n\nまた、「輸入」は中東情勢の緊迫化の影響で原油の輸入量が減ったことなどからマイナス1.5％となり、これも計算上、GDPを押し上げました。\n",
+    "trimmedLead": "ことし4月から6月までのGDP＝国内総生産は、前の3か月と比べた実質の伸び率が年率換算でプラス1.1％と3期連続のプラスとなりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260817de44453.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260817de44453",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "4-6月のGDP 年率プラス1.1％ 3期連続のプラス",
+      "description": "ことし4月から6月までのGDP＝国内総生産は、前の3か月と比べた実質の伸び率が年率換算でプラス1.1％と3期連続のプラスとなりました。\n\n\n内閣府が17日発表したことし4月から6月までのGDPの速報値",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20260817de44453_E0000009922_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20260817de44453/20260817de44453_E0000003649_1_l.jpg",
+      "duration": "PT1M18S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20260817de44453_E0000009922_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44453/20260817de44453_E0000003649_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "熊本地震 地震活動と暑さに注意 できるかぎりの熱中症対策を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260816de44421",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44421/20260816de44421_E0000009881_1_s.jpg",
+      "datePublished": "2026-08-17T05:48:39+09:00"
+    },
+    {
+      "name": "千葉豪雨 死者10人 千葉市で車約2500台が路上に残る",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260816de44428",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44428/20260816de44428_E0000009889_1_s.jpg",
+      "datePublished": "2026-08-17T02:39:00+09:00"
+    },
+    {
+      "name": "車いす利用者 送迎車での死亡事故7年で30件 消費者事故調",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260816de44410",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44410/20260816de44410_E0000009827_1_s.jpg",
+      "datePublished": "2026-08-17T05:56:00+09:00"
+    },
+    {
+      "name": "熊本地震 災害関連死の疑い含め39人死亡 避難所に3121人避難",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260816de44361",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44361/20260816de44361_E0000009692_1_s.jpg",
+      "datePublished": "2026-08-16T18:13:34+09:00"
+    },
+    {
+      "name": "サッカー元日本代表巻さん 地元宇城で夏祭り【被災地の動き】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260816de44395",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44395/20260816de44395_E0000009843_1_s.jpg",
+      "datePublished": "2026-08-16T23:53:37+09:00"
+    },
+    {
+      "name": "熊本地震 17日も熱中症対策を 最大震度5弱程度以上の地震注意",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260815de44323",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44323/20260815de44323_E0000009657_1_s.jpg",
+      "datePublished": "2026-08-16T19:28:38+09:00"
+    },
+    {
+      "name": "東京 府中 多摩川で遊んでいた中学3年男子生徒が溺れて重体",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260816de44386",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44386/20260816de44386_E0000009760_1_s.jpg",
+      "datePublished": "2026-08-16T16:54:49+09:00"
+    },
+    {
+      "name": "上野動物園のパンダ舎 17日から解体 多くの人が最後の別れ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260816de44365",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44365/20260816de44365_E0000009704_1_s.jpg",
+      "datePublished": "2026-08-16T13:26:00+09:00"
+    },
+    {
+      "name": "水木しげると硫黄島 命の重みをいまに問う",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260812de43431",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43431/20260812de43431_E0000008814_1_s.jpg",
+      "datePublished": "2026-08-16T11:30:00+09:00"
+    },
+    {
+      "name": "女性審判たちが切り開いた「道」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260813de43572",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43572/20260813de43572_E0000008241_1_s.jpg",
+      "datePublished": "2026-08-16T14:42:27+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
