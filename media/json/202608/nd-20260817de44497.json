@@ -1,0 +1,149 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260817de44497",
+  "dataSourceId": "nd",
+  "name": "株価 売り買い交錯で小幅な値動き",
+  "headline": "株価 売り買い交錯で小幅な値動き",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260817de44497",
+    "playlistId": "news-nwa-business-nationwide-20260817",
+    "newsarticleName": "株価 売り買い交錯で小幅な値動き",
+    "playlistName": "8月17日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "週明けの17日の東京株式市場、日経平均株価は小幅な値動きとなっています。\n\n\n▽日経平均株価、午前の終値は14日の終値と比べて7円64銭高い6万8721円44銭。\n\n▽東証株価指数=トピックスは25.",
+  "dateModified": "2026-08-17T13:10:35+09:00",
+  "datePublished": "2026-08-17T13:10:35+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44497/20260817de44497_E0000010015_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44497/20260817de44497_E0000010015_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000157",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "E0000000475",
+      "name": "半導体",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "週明けの17日の東京株式市場、日経平均株価は小幅な値動きとなっています。\n\n\n▽日経平均株価、午前の終値は14日の終値と比べて7円64銭高い6万8721円44銭。\n\n▽東証株価指数=トピックスは25.",
+  "articleBody": "週明けの17日の東京株式市場、日経平均株価は小幅な値動きとなっています。\n\n\n▽日経平均株価、午前の終値は14日の終値と比べて7円64銭高い6万8721円44銭。\n\n▽東証株価指数=トピックスは25.05下がって4172.15。\n\n▽午前の出来高は9億5923万株でした。\n\n市場関係者は「好調な決算を背景に半導体関連の銘柄では買い注文が広がっている。一方で、日経平均株価は、先週、4営業日連続で値上がりしていたことから、いったん利益を確定するための売り注文も見られ、売り買いが交錯した展開となっている」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "週明けの17日の東京株式市場、日経平均株価は小幅な値動きとなっています。\n",
+    "markedBody": "▽日経平均株価、午前の終値は14日の終値と比べて7円64銭高い6万8721円44銭。\n\n▽東証株価指数\\=トピックスは25.05下がって4172.15。\n\n▽午前の出来高は9億5923万株でした。\n\n市場関係者は「好調な決算を背景に半導体関連の銘柄では買い注文が広がっている。一方で、日経平均株価は、先週、4営業日連続で値上がりしていたことから、いったん利益を確定するための売り注文も見られ、売り買いが交錯した展開となっている」と話しています。\n",
+    "trimmedLead": "週明けの17日の東京株式市場、日経平均株価は小幅な値動きとなっています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260817de44497.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260817de44497",
+  "video": [],
+  "citation": [
+    {
+      "name": "長期金利 2.93％に上昇 インフレ加速の見方 背景に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260817de44469",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44469/20260817de44469_E0000009950_1_s.jpg",
+      "datePublished": "2026-08-17T12:56:22+09:00"
+    },
+    {
+      "name": "4-6月のGDP 年率プラス1.1％ 3期連続のプラス",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260817de44453",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44453/20260817de44453_E0000003649_1_s.jpg",
+      "datePublished": "2026-08-17T13:00:17+09:00"
+    },
+    {
+      "name": "高性能AI対策検討の官民作業部会座長“地域金融機関を支援へ”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260816de44412",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44412/20260816de44412_E0000009824_1_s.jpg",
+      "datePublished": "2026-08-17T07:19:22+09:00"
+    },
+    {
+      "name": "千葉豪雨 死者10人 2人行方不明 千葉市で車約2500台路上に残る",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260816de44428",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44428/20260816de44428_E0000009998_1_s.jpg",
+      "datePublished": "2026-08-17T13:18:24+09:00"
+    },
+    {
+      "name": "熊本 各地で厳しい暑さ熱中症対策を 地震活動に引き続き注意",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260816de44421",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44421/20260816de44421_E0000009881_1_s.jpg",
+      "datePublished": "2026-08-17T11:58:00+09:00"
+    },
+    {
+      "name": "熊本地震影響 トヨタ田原工場で再開 ホンダは停止続く",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260816de44413",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44413/20260816de44413_E0000009840_1_s.jpg",
+      "datePublished": "2026-08-17T07:16:38+09:00"
+    },
+    {
+      "name": "論文盗用疑惑のケンブリッジ大元教授死亡 疑惑に人種差別訴え",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260817de44438",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44438/20260817de44438_E0000009874_1_s.jpg",
+      "datePublished": "2026-08-17T07:34:00+09:00"
+    },
+    {
+      "name": "トランプ大統領 米韓合同軍事演習“縮小を指示”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260816de44424",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44424/20260816de44424_E0000009888_1_s.jpg",
+      "datePublished": "2026-08-17T10:01:53+09:00"
+    },
+    {
+      "name": "トミー・ジョンさん死去 ひじのじん帯再建手術に革新 大リーグ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260817de44449",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44449/20260817de44449_E0000009902_1_s.jpg",
+      "datePublished": "2026-08-17T09:21:10+09:00"
+    },
+    {
+      "name": "【夏の甲子園2026 特集ページ】日程・結果 最新ニュース 特集記事 ",
+      "url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000513",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260809de42914_E0000005623_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
