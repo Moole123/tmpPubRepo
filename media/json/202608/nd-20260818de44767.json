@@ -1,0 +1,163 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260818de44767",
+  "dataSourceId": "nd",
+  "name": "高校野球 横浜が花巻東に勝利 ベスト4進出",
+  "headline": "高校野球 横浜が花巻東に勝利 ベスト4進出",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260818de44767",
+    "playlistId": "news-nwa-sports-nationwide-20260818",
+    "newsarticleName": "高校野球 横浜が花巻東に勝利 ベスト4進出",
+    "playlistName": "8月18日のスポーツニュース",
+    "genreId": "sports",
+    "genreIdSlug": "sports"
+  },
+  "description": "夏の全国高校野球、大会13日目、準々決勝の第3試合は、神奈川の横浜高校が岩手の花巻東高校に6対0で勝ってベスト4進出を決めました。\n\nNHKは、すべての試合を「NHKONE」で同時・見逃し配信していま",
+  "dateModified": "2026-08-18T16:51:16+09:00",
+  "datePublished": "2026-08-18T15:42:40+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44767/20260818de44767_E0000011249_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44767/20260818de44767_E0000011249_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "スポーツ"
+  ],
+  "topic": [
+    {
+      "id": "E0000000513",
+      "name": "夏の全国高校野球",
+      "display": true
+    },
+    {
+      "id": "E0000000342",
+      "name": "神奈川県",
+      "display": true
+    },
+    {
+      "id": "E0000000213",
+      "name": "野球",
+      "display": true
+    },
+    {
+      "id": "E0000000331",
+      "name": "岩手県",
+      "display": true
+    },
+    {
+      "id": "E0000000180",
+      "name": "高校野球",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "夏の全国高校野球、大会13日目、準々決勝の第3試合は、神奈川の横浜高校が岩手の花巻東高校に6対0で勝ってベスト4進出を決めました。\n\nNHKは、すべての試合を「NHKONE」で同時・見逃し配信していま",
+  "articleBody": "夏の全国高校野球、大会13日目、準々決勝の第3試合は、神奈川の横浜高校が岩手の花巻東高校に6対0で勝ってベスト4進出を決めました。\n\nNHKは、すべての試合を「NHKONE」で同時・見逃し配信しています。\n\n\n【NHK ONEで見逃し配信】\n配信期限:8月25日(火)\n↓↓↓こちらでご覧になれます↓↓↓\n\nNHK ONEリンク\n",
+  "detailedArticleBody": {
+    "markedLead": "夏の全国高校野球、大会13日目、準々決勝の第3試合は、神奈川の横浜高校が岩手の花巻東高校に6対0で勝ってベスト4進出を決めました。\n\nNHKは、すべての試合を「NHKONE」で同時・見逃し配信しています。\n",
+    "markedBody": "**【NHK ONEで見逃し配信】**\\\n**配信期限:8月25日(火)**\\\n**↓↓↓こちらでご覧になれます↓↓↓**\n\n:::nw--link-type5 {href=\"https://www.web.nhk/tv/pl/series-tep-DY9PY99JV3/ep/4JM61RKGRN?startOffset=3554\"}\n![NHK ONEリンク](https://img.web.nhk/news/nd/kiji/20260818de44767/20260818de44767_E0000010905_1_l.jpg)\n:::\n",
+    "trimmedLead": "夏の全国高校野球、大会13日目、準々決勝の第3試合は、神奈川の横浜高校が岩手の花巻東高校に6対0で勝ってベスト4進出を決めました。\n\nNHKは、すべての試合を「NHKONE」で同時・見逃し配信しています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260818de44767.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260818de44767",
+  "video": [],
+  "citation": [
+    {
+      "name": "【NHK ONEで配信中】夏の甲子園 すべての試合を同時・見逃し（7日間）配信",
+      "url": "https://www.web.nhk/tv/pl/series-tep-DY9PY99JV3/list?mediaAction=watch",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260809de42915_E0000005624_1_s.jpg"
+    },
+    {
+      "name": "高校野球 夏の甲子園 全試合をハイライト動画で【8月9日から】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260809de42917",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42917/20260809de42917_E0000005640_1_s.jpg",
+      "datePublished": "2026-08-17T11:42:07+09:00"
+    },
+    {
+      "name": "高校野球 「2部制」期間 熱中症疑いの選手はのべ9人",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260815de44282",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44282/20260815de44282_E0000009511_1_s.jpg",
+      "datePublished": "2026-08-15T19:54:37+09:00"
+    },
+    {
+      "name": "高校野球 夏の甲子園【大会12日目の見どころ】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260816de44328",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44328/20260816de44328_E0000009640_1_s.jpg",
+      "datePublished": "2026-08-16T04:48:16+09:00"
+    },
+    {
+      "name": "高校野球 健大高崎が佐野日大高に勝つ 12年ぶり準々決勝進出",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260816de44351",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44351/20260816de44351_E0000009674_1_s.jpg",
+      "datePublished": "2026-08-16T17:13:18+09:00"
+    },
+    {
+      "name": "高校野球 仙台育英が拓大紅陵に勝ち3年ぶりのベスト8進出",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260815de44277",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44277/20260815de44277_E0000009500_1_s.jpg",
+      "datePublished": "2026-08-16T01:12:00+09:00"
+    },
+    {
+      "name": "高校野球 三重が履正社に勝利 12年ぶりのベスト8進出",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260815de44271",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44271/20260815de44271_E0000009482_1_s.jpg",
+      "datePublished": "2026-08-15T23:21:50+09:00"
+    },
+    {
+      "name": "高校野球 智弁和歌山が敦賀気比に延長で勝利 準々決勝へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260815de44249",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/r/kiji/20260815de44249/20260815de44249_E0000009426_1_s.jpg",
+      "datePublished": "2026-08-16T00:36:31+09:00"
+    },
+    {
+      "name": "高校野球 天理が高川学園に逆転勝ちで準々決勝へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260815de44219",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44219/20260815de44219_E0000009376_1_s.jpg",
+      "datePublished": "2026-08-15T16:50:46+09:00"
+    },
+    {
+      "name": "【夏の甲子園2026 特集ページ】日程・結果 最新ニュース 特集記事 ",
+      "url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000513",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260809de42914_E0000005623_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
