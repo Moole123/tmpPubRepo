@@ -1,0 +1,149 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260818de44703",
+  "dataSourceId": "nd",
+  "name": "株価 1100円以上の値下がり 原油先物価格上昇などを受けて",
+  "headline": "株価 1100円以上の値下がり 原油先物価格上昇などを受けて",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260818de44703",
+    "playlistId": "news-nwa-business-nationwide-20260818",
+    "newsarticleName": "株価 1100円以上の値下がり 原油先物価格上昇などを受けて",
+    "playlistName": "8月18日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "18日の東京株式市場は、原油先物価格の上昇などを受けて日経平均株価は1100円以上、値下がりしています。\n\n\n▽日経平均株価、午前の終値は17日の終値と比べて1121円71銭安い、6万8098円54銭",
+  "dateModified": "2026-08-18T14:13:07+09:00",
+  "datePublished": "2026-08-18T14:13:07+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44703/20260818de44703_E0000010900_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44703/20260818de44703_E0000010900_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000157",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "E0000000182",
+      "name": "原油価格",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "18日の東京株式市場は、原油先物価格の上昇などを受けて日経平均株価は1100円以上、値下がりしています。\n\n\n▽日経平均株価、午前の終値は17日の終値と比べて1121円71銭安い、6万8098円54銭",
+  "articleBody": "18日の東京株式市場は、原油先物価格の上昇などを受けて日経平均株価は1100円以上、値下がりしています。\n\n\n▽日経平均株価、午前の終値は17日の終値と比べて1121円71銭安い、6万8098円54銭。\n\n▽東証株価指数＝トピックスは19.00、下がって4165.11。\n\n▽午前の出来高は10億9154万株でした。\n\n市場関係者は「イラン情勢をめぐる不透明感が続き原油の先物価格が上がっていることに加え、長期金利が上昇傾向となっていることから、企業業績への影響が懸念され、半導体関連銘柄などに売り注文が出ている」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "18日の東京株式市場は、原油先物価格の上昇などを受けて日経平均株価は1100円以上、値下がりしています。\n",
+    "markedBody": "▽日経平均株価、午前の終値は17日の終値と比べて1121円71銭安い、6万8098円54銭。\n\n▽東証株価指数＝トピックスは19.00、下がって4165.11。\n\n▽午前の出来高は10億9154万株でした。\n\n市場関係者は「イラン情勢をめぐる不透明感が続き原油の先物価格が上がっていることに加え、長期金利が上昇傾向となっていることから、企業業績への影響が懸念され、半導体関連銘柄などに売り注文が出ている」と話しています。\n",
+    "trimmedLead": "18日の東京株式市場は、原油先物価格の上昇などを受けて日経平均株価は1100円以上、値下がりしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260818de44703.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260818de44703",
+  "video": [],
+  "citation": [
+    {
+      "name": "長期金利 2.945％に上昇 インフレ加速の見方など 国債売る動き",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44679",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44679/20260818de44679_E0000003661_1_s.jpg",
+      "datePublished": "2026-08-18T09:23:49+09:00"
+    },
+    {
+      "name": "楽天グループ 迎撃ドローン開発手がけるドイツ新興企業と提携",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260817de44669",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44669/20260817de44669_E0000010834_1_s.jpg",
+      "datePublished": "2026-08-18T06:41:13+09:00"
+    },
+    {
+      "name": "高校野球 天理が完封勝利でベスト4一番乗り",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44680",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44680/20260818de44680_E0000010852_1_s.jpg",
+      "datePublished": "2026-08-18T14:46:19+09:00"
+    },
+    {
+      "name": "熊本地震3週間 3000人以上避難所に 高市首相と熊本県知事会談",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260817de44662",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44662/20260817de44662_E0000010830_1_s.jpg",
+      "datePublished": "2026-08-18T15:27:38+09:00"
+    },
+    {
+      "name": "千葉豪雨 新たに1人の死亡確認 死者11人に 浸水被害は2140棟",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260817de44659",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44659/20260817de44659_E0000011297_1_s.jpg",
+      "datePublished": "2026-08-18T15:26:32+09:00"
+    },
+    {
+      "name": "ANAとJAL 国内線維持で協調へ 初のダイヤ調整 【Ｑ＆Ａ】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260817de44528",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44528/20260817de44528_E0000010228_1_s.jpg",
+      "datePublished": "2026-08-17T20:50:07+09:00"
+    },
+    {
+      "name": "ロシア外相“駐ロ日本大使呼び出し” 日本側“18日に応じる”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260817de44664",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44664/20260817de44664_E0000010837_1_s.jpg",
+      "datePublished": "2026-08-18T06:21:00+09:00"
+    },
+    {
+      "name": "トランプ大統領 “北朝鮮 対話呼びかけに対し非常に前向き”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44677",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44677/20260818de44677_E0000010847_1_s.jpg",
+      "datePublished": "2026-08-18T07:30:18+09:00"
+    },
+    {
+      "name": "なぜ戦争をするのか \"知の巨人\"たちの戦争論 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260817de44501",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44501/20260817de44501_E0000010031_1_s.jpg",
+      "datePublished": "2026-08-17T15:52:43+09:00"
+    },
+    {
+      "name": "【夏の甲子園2026 特集ページ】日程・結果 最新ニュース 特集記事 ",
+      "url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000513",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260809de42914_E0000005623_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
