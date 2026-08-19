@@ -1,0 +1,178 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260819de45160",
+  "dataSourceId": "nd",
+  "name": "サッカー 59歳の三浦知良選手 天皇杯で2ゴール",
+  "headline": "サッカー 59歳の三浦知良選手 天皇杯で2ゴール",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260819de45160",
+    "playlistId": "news-nwa-sports-nationwide-20260819",
+    "newsarticleName": "サッカー 59歳の三浦知良選手 天皇杯で2ゴール",
+    "playlistName": "8月19日のスポーツニュース",
+    "genreId": "sports",
+    "genreIdSlug": "sports"
+  },
+  "description": "サッカーJ3、福島ユナイテッドの59歳、カズ、三浦知良選手が19日行われた天皇杯1回戦で、2ゴールを決めました。\n\n\n",
+  "dateModified": "2026-08-19T21:04:00+09:00",
+  "datePublished": "2026-08-19T21:04:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45160/20260819de45160_E0000012947_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45160/20260819de45160_E0000012947_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "スポーツ"
+  ],
+  "topic": [
+    {
+      "id": "E0000000499",
+      "name": "サッカーJリーグ",
+      "display": true
+    },
+    {
+      "id": "E0000000101",
+      "name": "サッカー",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "サッカーJ3、福島ユナイテッドの59歳、カズ、三浦知良選手が19日行われた天皇杯1回戦で、2ゴールを決めました。\n\n\n",
+  "articleBody": "サッカーJ3、福島ユナイテッドの59歳、カズ、三浦知良選手が19日行われた天皇杯1回戦で、2ゴールを決めました。\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "サッカーJ3、福島ユナイテッドの59歳、カズ、三浦知良選手が19日行われた天皇杯1回戦で、2ゴールを決めました。\n",
+    "markedBody": "![](https://img.web.nhk/news/nd/kiji/20260819de45160/20260819de45160_E0000012948_1_l.jpg)\n",
+    "trimmedLead": "サッカーJ3、福島ユナイテッドの59歳、カズ、三浦知良選手が19日行われた天皇杯1回戦で、2ゴールを決めました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260819de45160.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260819de45160",
+  "video": [],
+  "citation": [
+    {
+      "name": "日本代表GK 鈴木彩艶がプレミアリーグ アストンビラに移籍へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260819de45104",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45104/20260819de45104_E0000012755_1_s.jpg",
+      "datePublished": "2026-08-19T19:55:27+09:00"
+    },
+    {
+      "name": "天皇皇后両陛下 アジア大会開会式出席で9月に愛知県へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260819de45073",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45073/20260819de45073_E0000012608_1_s.jpg",
+      "datePublished": "2026-08-19T18:50:55+09:00"
+    },
+    {
+      "name": "アジア大会 日本選手団の結団式 旗手の藤波朱理が意気込み",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260819de45070",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45070/20260819de45070_E0000012543_1_s.jpg",
+      "datePublished": "2026-08-19T17:55:00+09:00"
+    },
+    {
+      "name": "ホワイトソックス村上宗隆 29号ホームラン シーズン30号に王手",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260819de45056",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45056/20260819de45056_E0000012481_1_s.jpg",
+      "datePublished": "2026-08-19T16:29:39+09:00"
+    },
+    {
+      "name": "ドジャース 大谷翔平 6年連続30号ホームラン チームは2連勝",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260819de44941",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44941/20260819de44941_E0000011983_1_s.jpg",
+      "datePublished": "2026-08-19T16:18:26+09:00"
+    },
+    {
+      "name": "レッドソックス吉田 けがは「深刻」 復帰は早くても今季終盤か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260819de44953",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44953/20260819de44953_E0000011994_2_s.jpg",
+      "datePublished": "2026-08-19T11:55:00+09:00"
+    },
+    {
+      "name": "ブルージェイズ 岡本和真 17試合ぶりの25号ホームラン",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260819de44958",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44958/20260819de44958_E0000011997_1_s.jpg",
+      "datePublished": "2026-08-19T14:18:29+09:00"
+    },
+    {
+      "name": "横浜高野球部元監督 渡辺元智さん死去 プロで活躍のOBなど心境",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44892",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44892/20260818de44892_E0000011864_1_s.jpg",
+      "datePublished": "2026-08-18T21:54:54+09:00"
+    },
+    {
+      "name": "高校野球 健大高崎が有明に延長の末サヨナラ勝ち 初のベスト4",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44857",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44857/20260818de44857_E0000011654_1_s.jpg",
+      "datePublished": "2026-08-19T03:29:00+09:00"
+    },
+    {
+      "name": "高校野球 横浜が花巻東に勝利 ベスト4へ エース織田翔希が完封",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44767",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44767/20260818de44767_E0000011249_1_s.jpg",
+      "datePublished": "2026-08-18T22:19:01+09:00"
+    },
+    {
+      "name": "高校野球 智弁和歌山の打線が奮起 仙台育英に勝ってベスト4",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44681",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44681/20260818de44681_E0000010853_1_s.jpg",
+      "datePublished": "2026-08-18T21:09:27+09:00"
+    },
+    {
+      "name": "高校野球 天理が完封勝利でベスト4一番乗り",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44680",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44680/20260818de44680_E0000010852_1_s.jpg",
+      "datePublished": "2026-08-18T17:35:29+09:00"
+    },
+    {
+      "name": "夏の甲子園 全試合をハイライト動画で【準々決勝から決勝】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44693",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44693/20260818de44693_E0000010868_1_s.jpg",
+      "datePublished": "2026-08-18T21:59:00+09:00"
+    },
+    {
+      "name": "【NHK ONEで配信中】夏の甲子園 すべての試合を同時・見逃し（7日間）配信",
+      "url": "https://www.web.nhk/tv/pl/series-tep-DY9PY99JV3/list?mediaAction=watch",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260809de42915_E0000005624_1_s.jpg"
+    },
+    {
+      "name": "【夏の甲子園2026 特集ページ】日程・結果 最新ニュース 特集記事 ",
+      "url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000513",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260809de42914_E0000005623_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260819de45101",
+  "dataSourceId": "nd",
+  "name": "7月の訪日客数 中国からは大幅減も全体では4か月ぶりに増加",
+  "headline": "7月の訪日客数 中国からは大幅減も全体では4か月ぶりに増加",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260819de45101",
+    "playlistId": "news-nwa-business-nationwide-20260819",
+    "newsarticleName": "7月の訪日客数 中国からは大幅減も全体では4か月ぶりに増加",
+    "playlistName": "8月19日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "7月に日本を訪れた外国人旅行者は344万人余りと、去年の同じ月と比べて0.1％増加し、4か月ぶりにプラスとなりました。中国からの旅行者は大幅な減少が続いているものの、近隣の韓国や台湾などから訪れた人は",
+  "dateModified": "2026-08-19T19:17:16+09:00",
+  "datePublished": "2026-08-19T19:17:16+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45101/20260819de45101_E0000012749_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45101/20260819de45101_E0000012749_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000479",
+      "name": "観光",
+      "display": true
+    },
+    {
+      "id": "E0000000215",
+      "name": "中国",
+      "display": true
+    },
+    {
+      "id": "E0000000376",
+      "name": "韓国",
+      "display": true
+    },
+    {
+      "id": "E0000000222",
+      "name": "台湾",
+      "display": true
+    },
+    {
+      "id": "E0000000426",
+      "name": "香港",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "7月に日本を訪れた外国人旅行者は344万人余りと、去年の同じ月と比べて0.1％増加し、4か月ぶりにプラスとなりました。中国からの旅行者は大幅な減少が続いているものの、近隣の韓国や台湾などから訪れた人は",
+  "articleBody": "7月に日本を訪れた外国人旅行者は344万人余りと、去年の同じ月と比べて0.1％増加し、4か月ぶりにプラスとなりました。中国からの旅行者は大幅な減少が続いているものの、近隣の韓国や台湾などから訪れた人は増えて、落ち込みを埋めた形です。\n\n\n日本政府観光局によりますと、7月に日本を訪れた外国人旅行者は、速報値で344万2100人と、去年の同じ月と比べて0.1％増加しました。\n\nことし3月以来、4か月ぶりのプラスとなり、7月としては過去最高を更新しました。\n\n国・地域別でみると、\n▽香港を除く中国は、42万8200人と日中関係の悪化を背景に56.1％減少し、8か月連続のマイナスとなりました。\n\n一方、\n▽旅行者が最も多い韓国が、89万4700人と31.9％\n▽台湾は、76万3800人で26.4％\nそれぞれ増加しました。\n\nいずれも、学校の休みや、航空便の座席数が増えたことなどから、顕著に伸びました。\n\nまた、\n▽去年、SNSでうわさが広がり、大幅に減少した香港は、27万2500人と一転して54.8％増えました。\n\nこのほか、マレーシアなども大きく増加して、中国からの旅行者数が落ち込んだ分を埋めた形になりました。\n",
+  "detailedArticleBody": {
+    "markedLead": "7月に日本を訪れた外国人旅行者は344万人余りと、去年の同じ月と比べて0.1％増加し、4か月ぶりにプラスとなりました。中国からの旅行者は大幅な減少が続いているものの、近隣の韓国や台湾などから訪れた人は増えて、落ち込みを埋めた形です。\n",
+    "markedBody": "日本政府観光局によりますと、7月に日本を訪れた外国人旅行者は、速報値で344万2100人と、去年の同じ月と比べて0.1％増加しました。\n\nことし3月以来、4か月ぶりのプラスとなり、7月としては過去最高を更新しました。\n\n国・地域別でみると、\\\n▽香港を除く中国は、42万8200人と日中関係の悪化を背景に56.1％減少し、8か月連続のマイナスとなりました。\n\n一方、\\\n▽旅行者が最も多い韓国が、89万4700人と31.9％\\\n▽台湾は、76万3800人で26.4％\\\nそれぞれ増加しました。\n\nいずれも、学校の休みや、航空便の座席数が増えたことなどから、顕著に伸びました。\n\nまた、\\\n▽去年、SNSでうわさが広がり、大幅に減少した香港は、27万2500人と一転して54.8％増えました。\n\nこのほか、マレーシアなども大きく増加して、中国からの旅行者数が落ち込んだ分を埋めた形になりました。\n",
+    "trimmedLead": "7月に日本を訪れた外国人旅行者は344万人余りと、去年の同じ月と比べて0.1％増加し、4か月ぶりにプラスとなりました。中国からの旅行者は大幅な減少が続いているものの、近隣の韓国や台湾などから訪れた人は増えて、落ち込みを埋めた形です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260819de45101.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260819de45101",
+  "video": [],
+  "citation": [
+    {
+      "name": "京都のお盆の伝統行事「五山送り火」 古都の夜空を照らす",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260817de44436",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44436/20260817de44436_E0000009864_1_s.jpg",
+      "datePublished": "2026-08-17T06:23:09+09:00"
+    },
+    {
+      "name": "韓国 インチョン国際空港 上半期の国際線旅客数が世界一",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260815de44196",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44196/20260815de44196_E0000009311_1_s.jpg",
+      "datePublished": "2026-08-15T04:55:59+09:00"
+    },
+    {
+      "name": "地震で被害受けた熊本城 一般公開が再開",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260813de43578",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43578/20260813de43578_E0000007782_1_s.jpg",
+      "datePublished": "2026-08-13T12:22:00+09:00"
+    },
+    {
+      "name": "熊本地震 熊本市で38度危険な暑さ予想 熱中症対策の徹底を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44909",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44909/20260818de44909_E0000011920_1_s.jpg",
+      "datePublished": "2026-08-19T16:45:05+09:00"
+    },
+    {
+      "name": "避難所の7割がエアコンなし 専門家「真夏は生死に関わる問題」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260819de44948",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44948/20260819de44948_E0000012440_1_s.jpg",
+      "datePublished": "2026-08-19T16:12:51+09:00"
+    },
+    {
+      "name": "台風18号発生 非常に強い勢力に発達見込み 影響出るおそれも",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260819de45027",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45027/20260819de45027_E0000012914_1_s.jpg",
+      "datePublished": "2026-08-19T19:34:00+09:00"
+    },
+    {
+      "name": "暑さから子どもたちを守る 夏休み中の「学童保育」 対策は?",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260819de45003",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45003/20260819de45003_E0000012193_1_s.jpg",
+      "datePublished": "2026-08-19T15:20:28+09:00"
+    },
+    {
+      "name": "オープンAIが18歳未満対象にChatGPTの対策強化へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260819de44976",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44976/20260819de44976_E0000012073_1_s.jpg",
+      "datePublished": "2026-08-19T14:53:37+09:00"
+    },
+    {
+      "name": "韓国南部で記録的大雨 住宅への被害など相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260819de44931",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44931/20260819de44931_E0000011945_1_s.jpg",
+      "datePublished": "2026-08-19T09:15:48+09:00"
+    },
+    {
+      "name": "ウクライナ東部にロシアのミサイル着弾 10人死亡 応酬続く",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44907",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44907/20260818de44907_E0000011913_1_s.jpg",
+      "datePublished": "2026-08-19T09:12:56+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
