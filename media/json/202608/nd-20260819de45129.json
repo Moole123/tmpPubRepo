@@ -1,0 +1,149 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260819de45129",
+  "dataSourceId": "nd",
+  "name": "千葉豪雨 浸水面積31平方キロ 山手線内側の半分ほどに達したか",
+  "headline": "千葉豪雨 浸水面積31平方キロ 山手線内側の半分ほどに達したか",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260819de45129",
+    "playlistId": "news-nwa-disaster-nationwide-20260819",
+    "newsarticleName": "千葉豪雨 浸水面積31平方キロ 山手線内側の半分ほどに達したか",
+    "playlistName": "8月19日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "今回の豪雨で千葉県では浸水した面積が少なくとも山手線の内側の半分に当たる31平方キロに達したとみられることが測量会社の解析で分かりました。多くの車が動けなくなった千葉市では高低差が数十センチから1メー",
+  "dateModified": "2026-08-19T20:56:43+09:00",
+  "datePublished": "2026-08-19T20:56:43+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45129/20260819de45129_E0000012941_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45129/20260819de45129_E0000012941_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000010098",
+      "name": "千葉豪雨",
+      "display": true
+    },
+    {
+      "id": "E0000000340",
+      "name": "千葉県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "今回の豪雨で千葉県では浸水した面積が少なくとも山手線の内側の半分に当たる31平方キロに達したとみられることが測量会社の解析で分かりました。多くの車が動けなくなった千葉市では高低差が数十センチから1メー",
+  "articleBody": "今回の豪雨で千葉県では浸水した面積が少なくとも山手線の内側の半分に当たる31平方キロに達したとみられることが測量会社の解析で分かりました。多くの車が動けなくなった千葉市では高低差が数十センチから1メートルほどのくぼ地で浸水していたこともわかり、会社では「ハザードマップなどを参考に身の回りの地形を確認してほしい」としています。\n\n\n測量会社の「国際航業」はレベル5大雨特別警報が発表された千葉県の22の自治体について、人工衛星が豪雨の前と後にレーダーで観測したデータを比べ、浸水の分布を解析しました。\n\nそれによりますと、アンダーパスなど上に構造物がある場所は含まれていませんが、浸水した面積は少なくとも 31平方キロ、JR山手線の内側の半分ほどに達していたことが解析からわかりました。\n\nこのうち県の中北部を流れる鹿島川流域では、佐倉市や四街道市、それに千葉市若葉区などにみられる 台地にある谷のような「谷津地形」を中心に浸水が広がっていることが分かります。\n\n一方、多くの車が浸水した千葉市中心部では西側のエリアに浸水箇所が点在しているのが確認できます。\n\nこの辺りは全体的に平らな土地ですが、その中に低いくぼ地があり、降った雨が集まって局所的に浸水したと見られています。\n\nこれらのくぼ地の高低差は数十センチから1メートルほどで宅地や道路などを造成する際に出来た起伏も含まれています。\n\n会社によりますと、大規模河川が氾濫していないのに都市部でこれだけの浸水面積になることは珍しいということです。\n\n国際航業RSソリューション部の鎌形哲稔 部長は「水が集まりやすい谷津地形のほか、局所的な低地が水に浸かり、結果的に大きな浸水面積になったと考えられる。ハザードマップや古い地図などを参考に自分の身の回りの地形について知ってほしい」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "今回の豪雨で千葉県では浸水した面積が少なくとも山手線の内側の半分に当たる31平方キロに達したとみられることが測量会社の解析で分かりました。多くの車が動けなくなった千葉市では高低差が数十センチから1メートルほどのくぼ地で浸水していたこともわかり、会社では「ハザードマップなどを参考に身の回りの地形を確認してほしい」としています。\n",
+    "markedBody": "測量会社の「国際航業」はレベル5大雨特別警報が発表された千葉県の22の自治体について、人工衛星が豪雨の前と後にレーダーで観測したデータを比べ、浸水の分布を解析しました。\n\nそれによりますと、アンダーパスなど上に構造物がある場所は含まれていませんが、浸水した面積は少なくとも 31平方キロ、JR山手線の内側の半分ほどに達していたことが解析からわかりました。\n\n![](https://img.web.nhk/news/nd/kiji/20260819de45129/20260819de45129_E0000012937_1_l.jpg)\n\nこのうち県の中北部を流れる鹿島川流域では、佐倉市や四街道市、それに千葉市若葉区などにみられる 台地にある谷のような「谷津地形」を中心に浸水が広がっていることが分かります。\n\n![](https://img.web.nhk/news/nd/kiji/20260819de45129/20260819de45129_E0000012938_1_l.jpg)\n\n一方、多くの車が浸水した千葉市中心部では西側のエリアに浸水箇所が点在しているのが確認できます。\n\nこの辺りは全体的に平らな土地ですが、その中に低いくぼ地があり、降った雨が集まって局所的に浸水したと見られています。\n\nこれらのくぼ地の高低差は数十センチから1メートルほどで宅地や道路などを造成する際に出来た起伏も含まれています。\n\n会社によりますと、大規模河川が氾濫していないのに都市部でこれだけの浸水面積になることは珍しいということです。\n\n国際航業RSソリューション部の鎌形哲稔 部長は「水が集まりやすい谷津地形のほか、局所的な低地が水に浸かり、結果的に大きな浸水面積になったと考えられる。ハザードマップや古い地図などを参考に自分の身の回りの地形について知ってほしい」と話していました。\n",
+    "trimmedLead": "今回の豪雨で千葉県では浸水した面積が少なくとも山手線の内側の半分に当たる31平方キロに達したとみられることが測量会社の解析で分かりました。多くの車が動けなくなった千葉市では高低差が数十センチから1メートルほどのくぼ地で浸水していたこともわかり、会社では「ハザードマップなどを参考に身の回りの地形を確認してほしい」としています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260819de45129.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260819de45129",
+  "video": [],
+  "citation": [
+    {
+      "name": "宮崎 小林 眼科医院の駐車場で車突っ込む 女性死亡",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260819de45067",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45067/20260819de45067_E0000012551_1_s.jpg",
+      "datePublished": "2026-08-19T18:18:46+09:00"
+    },
+    {
+      "name": "避難所の7割がエアコンなし 専門家「真夏は生死に関わる問題」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260819de44948",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44948/20260819de44948_E0000012440_1_s.jpg",
+      "datePublished": "2026-08-19T16:12:51+09:00"
+    },
+    {
+      "name": "熊本 JR不通区間の一部で代行バス運行始まる【被災地の動き】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260819de44946",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44946/20260819de44946_E0000012086_1_s.jpg",
+      "datePublished": "2026-08-19T19:17:37+09:00"
+    },
+    {
+      "name": "解約後も請求続く服レンタル業者 国民生活センターが注意喚起",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260819de45075",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45075/20260819de45075_E0000012619_1_s.jpg",
+      "datePublished": "2026-08-19T18:35:55+09:00"
+    },
+    {
+      "name": "俳優の岸惠子さん死去 93歳 映画「君の名は」など出演",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260819de44980",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44980/20260819de44980_E0000012078_1_s.jpg",
+      "datePublished": "2026-08-19T19:36:43+09:00"
+    },
+    {
+      "name": "台風18号発生 非常に強い勢力に発達見込み 影響出るおそれも",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260819de45027",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45027/20260819de45027_E0000012972_1_s.jpg",
+      "datePublished": "2026-08-19T19:34:00+09:00"
+    },
+    {
+      "name": "米トランプ政権 ICC＝国際刑事裁判所 赤根所長を制裁対象に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260819de44920",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44920/20260819de44920_E0000011902_1_s.jpg",
+      "datePublished": "2026-08-20T00:02:36+09:00"
+    },
+    {
+      "name": "日本代表GK 鈴木彩艶がプレミアリーグ アストンビラに移籍へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260819de45104",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45104/20260819de45104_E0000012755_1_s.jpg",
+      "datePublished": "2026-08-19T19:55:27+09:00"
+    },
+    {
+      "name": "【夏の甲子園2026 特集ページ】日程・結果 最新ニュース 特集記事 ",
+      "url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000513",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260809de42914_E0000005623_1_s.jpg"
+    },
+    {
+      "name": "「介護保険料払っているけど…」高齢外国人どう支援？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44827",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44827/20260818de44827_E0000012596_1_s.jpg",
+      "datePublished": "2026-08-19T18:31:34+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

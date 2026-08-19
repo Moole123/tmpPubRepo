@@ -1,0 +1,156 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260819de45162",
+  "dataSourceId": "nd",
+  "name": "個人情報保護委 KDDIに行政指導 メールアドレスなど流出で",
+  "headline": "個人情報保護委 KDDIに行政指導 メールアドレスなど流出で",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260819de45162",
+    "playlistId": "news-nwa-politics-nationwide-20260819",
+    "newsarticleName": "個人情報保護委 KDDIに行政指導 メールアドレスなど流出で",
+    "playlistName": "8月19日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "KDDIが企業に提供しているメールシステムで不正アクセスが発生し、アドレスやパスワードが流出したことについて、政府の個人情報保護委員会は、安全管理上の不備が認められたとして、会社に対し、改善を求める行",
+  "dateModified": "2026-08-19T22:50:24+09:00",
+  "datePublished": "2026-08-19T22:50:24+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45162/20260819de45162_E0000012952_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45162/20260819de45162_E0000012952_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000472",
+      "name": "通信",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "KDDIが企業に提供しているメールシステムで不正アクセスが発生し、アドレスやパスワードが流出したことについて、政府の個人情報保護委員会は、安全管理上の不備が認められたとして、会社に対し、改善を求める行",
+  "articleBody": "KDDIが企業に提供しているメールシステムで不正アクセスが発生し、アドレスやパスワードが流出したことについて、政府の個人情報保護委員会は、安全管理上の不備が認められたとして、会社に対し、改善を求める行政指導を行いました。\n\n\nKDDIが企業に提供しているメールシステムで、ことし5月から6月にかけて不正アクセスが発生し、1223万人分のメールアドレスが流出したほか、このうち、761万人分については、パスワードの流出も確認されました。\n\nこれについて、政府の個人情報保護委員会は、被害の拡大を最小限に抑えるべく、多層的に対策を講じる必要があったにも関わらず、安全管理上の不備が認められたとして、19日、会社に対し、改善を求める行政指導を行いました。\n\nまた、ことし10月19日までに、再発防止策の実施状況について報告するよう求めました。\n\nKDDIをめぐっては、総務省が7月、通信の秘密の漏えいにあたるとして、厳重注意の行政指導を行っています。\n",
+  "detailedArticleBody": {
+    "markedLead": "KDDIが企業に提供しているメールシステムで不正アクセスが発生し、アドレスやパスワードが流出したことについて、政府の個人情報保護委員会は、安全管理上の不備が認められたとして、会社に対し、改善を求める行政指導を行いました。\n",
+    "markedBody": "KDDIが企業に提供しているメールシステムで、ことし5月から6月にかけて不正アクセスが発生し、1223万人分のメールアドレスが流出したほか、このうち、761万人分については、パスワードの流出も確認されました。\n\nこれについて、政府の個人情報保護委員会は、被害の拡大を最小限に抑えるべく、多層的に対策を講じる必要があったにも関わらず、安全管理上の不備が認められたとして、19日、会社に対し、改善を求める行政指導を行いました。\n\nまた、ことし10月19日までに、再発防止策の実施状況について報告するよう求めました。\n\nKDDIをめぐっては、総務省が7月、通信の秘密の漏えいにあたるとして、厳重注意の行政指導を行っています。\n",
+    "trimmedLead": "KDDIが企業に提供しているメールシステムで不正アクセスが発生し、アドレスやパスワードが流出したことについて、政府の個人情報保護委員会は、安全管理上の不備が認められたとして、会社に対し、改善を求める行政指導を行いました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260819de45162.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260819de45162",
+  "video": [],
+  "citation": [
+    {
+      "name": "ニチレイ サイバー攻撃で従業員の氏名など漏えいのおそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260814de44161",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44161/20260814de44161_E0000009169_1_s.jpg",
+      "datePublished": "2026-08-14T19:25:36+09:00"
+    },
+    {
+      "name": "解約後も請求続く服レンタル業者 国民生活センターが注意喚起",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260819de45075",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45075/20260819de45075_E0000012619_1_s.jpg",
+      "datePublished": "2026-08-19T18:35:55+09:00"
+    },
+    {
+      "name": "15歳未満のSNS利用禁止法に違憲判断 フランス憲法評議会",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260815de44203",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44203/20260815de44203_E0000009340_1_s.jpg",
+      "datePublished": "2026-08-15T06:40:33+09:00"
+    },
+    {
+      "name": "フードデリバリー「menu」終了へ 競争激化で撤退相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260819de45140",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45140/20260819de45140_E0000012931_1_s.jpg",
+      "datePublished": "2026-08-19T20:51:53+09:00"
+    },
+    {
+      "name": "20日も西日本中心に猛烈な暑さ予想 熱中症対策の徹底を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44906",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44906/20260818de44906_E0000012003_1_s.jpg",
+      "datePublished": "2026-08-19T18:58:05+09:00"
+    },
+    {
+      "name": "台風18号発生 非常に強い勢力に発達見込み 影響出るおそれも",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260819de45027",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45027/20260819de45027_E0000012972_1_s.jpg",
+      "datePublished": "2026-08-19T19:34:00+09:00"
+    },
+    {
+      "name": "熊本地震 災害関連死の疑い含め39人死亡 避難所に2966人避難",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44828",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44828/20260818de44828_E0000012912_1_s.jpg",
+      "datePublished": "2026-08-19T19:42:44+09:00"
+    },
+    {
+      "name": "熊本 応援の医師 看護師など熱中症の症状 対策徹底を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260819de45094",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45094/20260819de45094_E0000012839_1_s.jpg",
+      "datePublished": "2026-08-19T19:51:30+09:00"
+    },
+    {
+      "name": "車水没 ドラレコに記録 「このまま行けると思ったが…」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260819de44985",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44985/20260819de44985_E0000012578_1_s.jpg",
+      "datePublished": "2026-08-19T20:14:18+09:00"
+    },
+    {
+      "name": "米トランプ政権 ICC＝国際刑事裁判所 赤根所長を制裁対象に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260819de44920",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44920/20260819de44920_E0000011902_1_s.jpg",
+      "datePublished": "2026-08-20T00:02:36+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
