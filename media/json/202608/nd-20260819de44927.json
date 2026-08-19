@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260819de44927",
+  "dataSourceId": "nd",
+  "name": "世界的に金利上昇 インフレ・財政悪化懸念 IT巨額社債も要因に",
+  "headline": "世界的に金利上昇 インフレ・財政悪化懸念 IT巨額社債も要因に",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260819de44927",
+    "playlistId": "news-nwa-international-nationwide-20260819",
+    "newsarticleName": "世界的に金利上昇 インフレ・財政悪化懸念 IT巨額社債も要因に",
+    "playlistName": "8月19日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "原油高に伴うインフレや財政悪化への懸念などを背景に、アメリカや日本、ヨーロッパなど世界的に長期金利が上昇しています。\n\nAIブームを受けて大手IT企業が巨額の社債を相次いで発行するなか、投資マネーが国",
+  "dateModified": "2026-08-19T09:12:07+09:00",
+  "datePublished": "2026-08-19T09:12:07+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44927/20260819de44927_E0000011933_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44927/20260819de44927_E0000011933_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000725",
+      "name": "金利",
+      "display": true
+    },
+    {
+      "id": "E0000000475",
+      "name": "半導体",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "原油高に伴うインフレや財政悪化への懸念などを背景に、アメリカや日本、ヨーロッパなど世界的に長期金利が上昇しています。\n\nAIブームを受けて大手IT企業が巨額の社債を相次いで発行するなか、投資マネーが国",
+  "articleBody": "原油高に伴うインフレや財政悪化への懸念などを背景に、アメリカや日本、ヨーロッパなど世界的に長期金利が上昇しています。\n\nAIブームを受けて大手IT企業が巨額の社債を相次いで発行するなか、投資マネーが国債から社債へ流れるリスクが意識されていることも、金利上昇の要因として指摘されています。\n\n\n18日の日本の債券市場では国債を売る動きが強まり、長期金利の代表的な指標である10年ものの国債の利回りが一時、2.945％まで上昇し、29年10か月ぶりの高い水準となりました。\n\n長期金利の上昇は世界的に起きていて、アメリカの30年ものの国債の利回りは18日、一時、2007年以来、およそ19年ぶりの高い水準となる5.33％台まで上昇したほか、フランスの10年ものの国債の利回りは2008年以来、ドイツの10年ものの国債の利回りも2011年以来の高い水準となっています。\n\n背景にあるのは、イラン情勢の長期化に伴う原油高によってインフレが加速するとの警戒感に加え、各国の財政状況が悪化することへの懸念があります。\n\nさらにアメリカではAIブームが続くなか、データセンターの構築に巨額の資金を投じる「ハイパースケーラー」と呼ばれる大手IT企業が巨額の社債を相次いで発行しています。\n\nこのため、投資マネーがこうした社債に流れるリスクが意識されていることも金利上昇の要因として指摘され、国債をめぐる需給が緩むことへの警戒感も高まり始めています。\n\n半導体などハイテク株に売り 米長期金利上昇で\n\n18日のニューヨーク株式市場では、アメリカで長期金利が上昇していることを受けて半導体などの銘柄に売り注文が出て、ハイテク株の比率が高いナスダックの株価指数は前日から355ポイントあまり、率にしておよそ1.3％下落しました。\n\nダウ平均株価の終値は前日と比べて116ドル38セント安い、5万3343ドル40セントでした。\n",
+  "detailedArticleBody": {
+    "markedLead": "原油高に伴うインフレや財政悪化への懸念などを背景に、アメリカや日本、ヨーロッパなど世界的に長期金利が上昇しています。\n\nAIブームを受けて大手IT企業が巨額の社債を相次いで発行するなか、投資マネーが国債から社債へ流れるリスクが意識されていることも、金利上昇の要因として指摘されています。\n",
+    "markedBody": "18日の日本の債券市場では国債を売る動きが強まり、長期金利の代表的な指標である10年ものの国債の利回りが一時、2.945％まで上昇し、29年10か月ぶりの高い水準となりました。\n\n長期金利の上昇は世界的に起きていて、アメリカの30年ものの国債の利回りは18日、一時、2007年以来、およそ19年ぶりの高い水準となる5.33％台まで上昇したほか、フランスの10年ものの国債の利回りは2008年以来、ドイツの10年ものの国債の利回りも2011年以来の高い水準となっています。\n\n背景にあるのは、イラン情勢の長期化に伴う原油高によってインフレが加速するとの警戒感に加え、各国の財政状況が悪化することへの懸念があります。\n\nさらにアメリカではAIブームが続くなか、データセンターの構築に巨額の資金を投じる「ハイパースケーラー」と呼ばれる大手IT企業が巨額の社債を相次いで発行しています。\n\nこのため、投資マネーがこうした社債に流れるリスクが意識されていることも金利上昇の要因として指摘され、国債をめぐる需給が緩むことへの警戒感も高まり始めています。\n\n## 半導体などハイテク株に売り 米長期金利上昇で\n\n18日のニューヨーク株式市場では、アメリカで長期金利が上昇していることを受けて半導体などの銘柄に売り注文が出て、ハイテク株の比率が高いナスダックの株価指数は前日から355ポイントあまり、率にしておよそ1.3％下落しました。\n\nダウ平均株価の終値は前日と比べて116ドル38セント安い、5万3343ドル40セントでした。\n",
+    "trimmedLead": "原油高に伴うインフレや財政悪化への懸念などを背景に、アメリカや日本、ヨーロッパなど世界的に長期金利が上昇しています。\n\nAIブームを受けて大手IT企業が巨額の社債を相次いで発行するなか、投資マネーが国債から社債へ流れるリスクが意識されていることも、金利上昇の要因として指摘されています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260819de44927.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260819de44927",
+  "video": [],
+  "citation": [
+    {
+      "name": "ネット証券各社 米取引時間拡大受け 米国株売買対応広げる方針",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260817de44650",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44650/20260817de44650_E0000010821_1_s.jpg",
+      "datePublished": "2026-08-18T05:52:29+09:00"
+    },
+    {
+      "name": "株価 大きく値下がり 半導体関連の銘柄を中心に売り注文",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44703",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44703/20260818de44703_E0000011334_1_s.jpg",
+      "datePublished": "2026-08-18T17:37:38+09:00"
+    },
+    {
+      "name": "千葉市 豪雨による路上の約2500台の車 19日にも移動完了見通し",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44899",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44899/20260818de44899_E0000011868_1_s.jpg",
+      "datePublished": "2026-08-18T22:12:12+09:00"
+    },
+    {
+      "name": "千葉豪雨 新たに2人の死亡確認 死者13人に 浸水被害は2314棟",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260817de44659",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44659/20260817de44659_E0000011297_1_s.jpg",
+      "datePublished": "2026-08-18T19:04:47+09:00"
+    },
+    {
+      "name": "熊本地震 局所的に今の耐震基準でも倒壊するほどの揺れか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44700",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44700/20260818de44700_E0000011722_1_s.jpg",
+      "datePublished": "2026-08-18T19:14:00+09:00"
+    },
+    {
+      "name": "太平洋のクロマグロ漁獲枠 来年から2年間 大型魚25％増で合意 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44751",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44751/20260818de44751_E0000011237_1_s.jpg",
+      "datePublished": "2026-08-18T17:37:00+09:00"
+    },
+    {
+      "name": "那覇空港 自衛隊戦闘機が着陸時に機体トラブル 旅客機40便影響",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44743",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44743/20260818de44743_E0000011159_1_s.jpg",
+      "datePublished": "2026-08-18T20:31:01+09:00"
+    },
+    {
+      "name": "秋篠宮ご夫妻 パラグアイに向けて出発",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44900",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44900/20260818de44900_E0000011874_1_s.jpg",
+      "datePublished": "2026-08-18T22:43:36+09:00"
+    },
+    {
+      "name": "米国産ジャガイモ輸入解禁“容認できず”JA北海道中央会",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44701",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44701/20260818de44701_E0000011517_1_s.jpg",
+      "datePublished": "2026-08-18T17:48:00+09:00"
+    },
+    {
+      "name": "【夏の甲子園2026 特集ページ】日程・結果 最新ニュース 特集記事 ",
+      "url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000513",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260809de42914_E0000005623_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

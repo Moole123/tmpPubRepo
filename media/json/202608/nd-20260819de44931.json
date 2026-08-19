@@ -1,0 +1,179 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260819de44931",
+  "dataSourceId": "nd",
+  "name": "韓国南部で記録的大雨 住宅への被害など相次ぐ",
+  "headline": "韓国南部で記録的大雨 住宅への被害など相次ぐ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260819de44931",
+    "playlistId": "news-nwa-international-nationwide-20260819",
+    "newsarticleName": "韓国南部で記録的大雨 住宅への被害など相次ぐ",
+    "playlistName": "8月19日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "韓国では南部を中心に記録的な大雨となり、各地で土砂崩れや住宅の浸水などが相次ぎました。\n\n地元当局は、被害状況の確認と復旧作業を急いでいます。\n\n\n韓国南部のキョンサン南道（慶尚南道）では今月15日以",
+  "dateModified": "2026-08-19T09:15:48+09:00",
+  "datePublished": "2026-08-19T09:15:48+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44931/20260819de44931_E0000011945_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44931/20260819de44931_E0000011945_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000376",
+      "name": "韓国",
+      "display": true
+    },
+    {
+      "id": "E0000000114",
+      "name": "気象",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "韓国では南部を中心に記録的な大雨となり、各地で土砂崩れや住宅の浸水などが相次ぎました。\n\n地元当局は、被害状況の確認と復旧作業を急いでいます。\n\n\n韓国南部のキョンサン南道（慶尚南道）では今月15日以",
+  "articleBody": "韓国では南部を中心に記録的な大雨となり、各地で土砂崩れや住宅の浸水などが相次ぎました。\n\n地元当局は、被害状況の確認と復旧作業を急いでいます。\n\n\n韓国南部のキョンサン南道（慶尚南道）では今月15日以降、雨が強まり、18日朝までの総雨量は、多いところで900ミリを超える記録的な大雨となりました。\n\nこの大雨で各地で被害が相次ぎ、韓国の消防当局によりますと、コジェ（巨済）にある集合住宅に土砂が流れ込み、1人の死亡が確認されたということです。\n\nまた、住宅への浸水や道路の冠水、それに倒木などがおよそ2600件、報告されたほか、農作物への被害も相次いでいるということです。\n\n地元当局は被害状況の確認と復旧作業を急ぐとともに、被災した地域への財政支援を進めることにしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "韓国では南部を中心に記録的な大雨となり、各地で土砂崩れや住宅の浸水などが相次ぎました。\n\n地元当局は、被害状況の確認と復旧作業を急いでいます。\n",
+    "markedBody": "韓国南部のキョンサン南道（慶尚南道）では今月15日以降、雨が強まり、18日朝までの総雨量は、多いところで900ミリを超える記録的な大雨となりました。\n\nこの大雨で各地で被害が相次ぎ、韓国の消防当局によりますと、コジェ（巨済）にある集合住宅に土砂が流れ込み、1人の死亡が確認されたということです。\n\nまた、住宅への浸水や道路の冠水、それに倒木などがおよそ2600件、報告されたほか、農作物への被害も相次いでいるということです。\n\n地元当局は被害状況の確認と復旧作業を急ぐとともに、被災した地域への財政支援を進めることにしています。\n",
+    "trimmedLead": "韓国では南部を中心に記録的な大雨となり、各地で土砂崩れや住宅の浸水などが相次ぎました。\n\n地元当局は、被害状況の確認と復旧作業を急いでいます。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260819de44931.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260819de44931",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "韓国南部で記録的大雨 住宅への被害など相次ぐ",
+      "description": "韓国では南部を中心に記録的な大雨となり、各地で土砂崩れや住宅の浸水などが相次ぎました。\n\n地元当局は、被害状況の確認と復旧作業を急いでいます。\n\n\n韓国南部のキョンサン南道（慶尚南道）では今月15日以",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20260819de44931_E0000011946_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20260819de44931/20260819de44931_E0000011945_1_l.jpg",
+      "duration": "PT53S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20260819de44931_E0000011946_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44931/20260819de44931_E0000011945_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "“英首相が米大統領首席補佐官装う人物とメッセージ”報道",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44893",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44893/20260818de44893_E0000011862_1_s.jpg",
+      "datePublished": "2026-08-18T22:44:43+09:00"
+    },
+    {
+      "name": "韓国与党「共に民主党」代表にイ大統領の側近選出　",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260817de44657",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44657/20260817de44657_E0000010817_1_s.jpg",
+      "datePublished": "2026-08-17T22:29:34+09:00"
+    },
+    {
+      "name": "太平洋のクロマグロ漁獲枠 来年から2年間 大型魚25％増で合意 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44751",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44751/20260818de44751_E0000011237_1_s.jpg",
+      "datePublished": "2026-08-18T17:37:00+09:00"
+    },
+    {
+      "name": "ロシア外務省が日本大使に抗議 日本大使館「立場 適切に説明」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44873",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44873/20260818de44873_E0000011771_1_s.jpg",
+      "datePublished": "2026-08-18T19:23:45+09:00"
+    },
+    {
+      "name": "ロシア外相“駐ロ日本大使呼び出し” 日本側“18日に応じる”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260817de44664",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44664/20260817de44664_E0000010837_1_s.jpg",
+      "datePublished": "2026-08-18T06:21:00+09:00"
+    },
+    {
+      "name": "中国外相 19日から韓国訪問 朝鮮半島情勢など意見交換へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44844",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44844/20260818de44844_E0000011704_1_s.jpg",
+      "datePublished": "2026-08-18T18:45:00+09:00"
+    },
+    {
+      "name": "日豪防衛相会談 インド太平洋地域の抑止力向上へ連携強化確認",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44825",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44825/20260818de44825_E0000011546_1_s.jpg",
+      "datePublished": "2026-08-18T18:37:00+09:00"
+    },
+    {
+      "name": "米トルコ首脳が電話会談 エルドアン氏“イランと協議継続を”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44773",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44773/20260818de44773_E0000011308_1_s.jpg",
+      "datePublished": "2026-08-18T17:40:41+09:00"
+    },
+    {
+      "name": "米クシュナー氏が中東訪問 ハマスの武装解除 早期進展に期待",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44683",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44683/20260818de44683_E0000010906_1_s.jpg",
+      "datePublished": "2026-08-18T12:32:00+09:00"
+    },
+    {
+      "name": "インド 若者たちの抗議行動 なぜ支持拡大？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44744",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44744/20260818de44744_E0000011138_1_s.jpg",
+      "datePublished": "2026-08-18T16:34:03+09:00"
+    },
+    {
+      "name": "トランプファミリー関わるリゾート計画で噴き出す怒り",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43111",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43111/20260810de43111_E0000006231_1_s.jpg",
+      "datePublished": "2026-08-17T19:40:08+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
