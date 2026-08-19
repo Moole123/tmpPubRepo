@@ -1,0 +1,149 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260819de45027",
+  "dataSourceId": "nd",
+  "name": "台風18号発生 日本のはるか南東 今後の情報に注意を",
+  "headline": "台風18号発生 日本のはるか南東 今後の情報に注意を",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260819de45027",
+    "playlistId": "news-nwa-disaster-nationwide-20260819",
+    "newsarticleName": "台風18号発生 日本のはるか南東 今後の情報に注意を",
+    "playlistName": "8月19日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "19日正午、日本のはるか南東のトラック諸島近海で台風18号が発生しました。\n\n徐々に北西へと進んで、来週、日本に影響が出るおそれもあり、気象庁は、今後の情報に注意するよう呼びかけています。\n\n\n気象庁",
+  "dateModified": "2026-08-19T15:28:10+09:00",
+  "datePublished": "2026-08-19T15:28:10+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45027/20260819de45027_E0000012250_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45027/20260819de45027_E0000012250_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000202",
+      "name": "台風",
+      "display": true
+    },
+    {
+      "id": "E0000000114",
+      "name": "気象",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "19日正午、日本のはるか南東のトラック諸島近海で台風18号が発生しました。\n\n徐々に北西へと進んで、来週、日本に影響が出るおそれもあり、気象庁は、今後の情報に注意するよう呼びかけています。\n\n\n気象庁",
+  "articleBody": "19日正午、日本のはるか南東のトラック諸島近海で台風18号が発生しました。\n\n徐々に北西へと進んで、来週、日本に影響が出るおそれもあり、気象庁は、今後の情報に注意するよう呼びかけています。\n\n\n気象庁の観測によりますと、19日正午、日本のはるか南東のトラック諸島近海で熱帯低気圧が台風18号に変わりました。\n\n中心の気圧は1002ヘクトパスカル、中心付近の最大風速は18メートル、最大瞬間風速は25メートルで中心の南側280キロ以内と北側165キロ以内では風速15メートル以上の強い風が吹いています。\n\n台風はトラック諸島近海でほとんど停滞していますが、このあとは徐々に北西へと進み、来週の前半ごろには南西諸島付近に近づき、日本に影響が出るおそれもあります。\n\n今後の進路予報などにはまだ幅があり、気象庁は今後の台風の情報に注意するよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "19日正午、日本のはるか南東のトラック諸島近海で台風18号が発生しました。\n\n徐々に北西へと進んで、来週、日本に影響が出るおそれもあり、気象庁は、今後の情報に注意するよう呼びかけています。\n",
+    "markedBody": "気象庁の観測によりますと、19日正午、日本のはるか南東のトラック諸島近海で熱帯低気圧が台風18号に変わりました。\n\n中心の気圧は1002ヘクトパスカル、中心付近の最大風速は18メートル、最大瞬間風速は25メートルで中心の南側280キロ以内と北側165キロ以内では風速15メートル以上の強い風が吹いています。\n\n台風はトラック諸島近海でほとんど停滞していますが、このあとは徐々に北西へと進み、来週の前半ごろには南西諸島付近に近づき、日本に影響が出るおそれもあります。\n\n今後の進路予報などにはまだ幅があり、気象庁は今後の台風の情報に注意するよう呼びかけています。\n",
+    "trimmedLead": "19日正午、日本のはるか南東のトラック諸島近海で台風18号が発生しました。\n\n徐々に北西へと進んで、来週、日本に影響が出るおそれもあり、気象庁は、今後の情報に注意するよう呼びかけています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260819de45027.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260819de45027",
+  "video": [],
+  "citation": [
+    {
+      "name": "熊本など九州北部で危険な暑さ予想 熱中症対策の徹底を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44906",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44906/20260818de44906_E0000012003_1_s.jpg",
+      "datePublished": "2026-08-19T12:03:52+09:00"
+    },
+    {
+      "name": "千葉豪雨 死者13人 浸水2300棟超 路上の車両きょう移動完了へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44911",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44911/20260818de44911_E0000011896_1_s.jpg",
+      "datePublished": "2026-08-19T12:02:00+09:00"
+    },
+    {
+      "name": "世界的に金利上昇 インフレ・財政悪化懸念 IT巨額社債も要因に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260819de44927",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44927/20260819de44927_E0000011933_1_s.jpg",
+      "datePublished": "2026-08-19T09:12:07+09:00"
+    },
+    {
+      "name": "熊本地震 熊本市で38度危険な暑さ予想 熱中症対策の徹底を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44909",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44909/20260818de44909_E0000011920_1_s.jpg",
+      "datePublished": "2026-08-19T16:45:05+09:00"
+    },
+    {
+      "name": "株価 一時2300円超値下がり 企業業績への懸念で",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260819de44933",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44933/20260819de44933_E0000011948_1_s.jpg",
+      "datePublished": "2026-08-19T16:26:14+09:00"
+    },
+    {
+      "name": "那覇空港 自衛隊戦闘機が着陸時に機体トラブル 旅客機40便影響",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44743",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44743/20260818de44743_E0000011159_1_s.jpg",
+      "datePublished": "2026-08-18T20:31:01+09:00"
+    },
+    {
+      "name": "米国産ジャガイモ輸入解禁“容認できず”JA北海道中央会",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44701",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44701/20260818de44701_E0000011517_1_s.jpg",
+      "datePublished": "2026-08-18T17:48:00+09:00"
+    },
+    {
+      "name": "ロシア外務省が日本大使に抗議 日本大使館「立場 適切に説明」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44873",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44873/20260818de44873_E0000011771_1_s.jpg",
+      "datePublished": "2026-08-18T19:23:45+09:00"
+    },
+    {
+      "name": "お笑い 「四千頭身」メンバー 迷惑防止条例違反などで書類送検",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44696",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44696/20260818de44696_E0000010894_1_s.jpg",
+      "datePublished": "2026-08-18T17:24:43+09:00"
+    },
+    {
+      "name": "【夏の甲子園2026 特集ページ】日程・結果 最新ニュース 特集記事 ",
+      "url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000513",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260809de42914_E0000005623_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
