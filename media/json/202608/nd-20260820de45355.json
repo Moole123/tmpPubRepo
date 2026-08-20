@@ -1,0 +1,148 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260820de45355",
+  "dataSourceId": "nd",
+  "name": "円相場 値上がり 米の長期金利低下でドル売り円買い進む",
+  "headline": "円相場 値上がり 米の長期金利低下でドル売り円買い進む",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260820de45355",
+    "playlistId": "news-nwa-business-nationwide-20260820",
+    "newsarticleName": "円相場 値上がり 米の長期金利低下でドル売り円買い進む",
+    "playlistName": "8月20日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "20日の東京外国為替市場、アメリカの長期金利が低下したことでドルを売って円を買う動きが進み、円相場はドルに対して値上がりしました。\n\n\n午後5時時点の円相場は、19日と比べて73銭、円高ドル安の1ドル",
+  "dateModified": "2026-08-20T18:21:27+09:00",
+  "datePublished": "2026-08-20T18:21:27+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45355/20260820de45355_E0000013810_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45355/20260820de45355_E0000013810_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000157",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "E0000000419",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "E0000000725",
+      "name": "金利",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "20日の東京外国為替市場、アメリカの長期金利が低下したことでドルを売って円を買う動きが進み、円相場はドルに対して値上がりしました。\n\n\n午後5時時点の円相場は、19日と比べて73銭、円高ドル安の1ドル",
+  "articleBody": "20日の東京外国為替市場、アメリカの長期金利が低下したことでドルを売って円を買う動きが進み、円相場はドルに対して値上がりしました。\n\n\n午後5時時点の円相場は、19日と比べて73銭、円高ドル安の1ドル＝158円44銭から45銭でした。\n\n一方、ユーロに対しては、68銭、円安ユーロ高の1ユーロ＝185円26銭から30銭でした。\n\nユーロはドルに対して1ユーロ＝1.1692から93ドルでした。\n\n市場関係者は「アメリカ財務省が国債を買い戻す規模を増やすと発表したことで、アメリカの長期金利が低下し、ドルを売って円を買う動きが進み、一時、1円以上円高が進んだ」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "20日の東京外国為替市場、アメリカの長期金利が低下したことでドルを売って円を買う動きが進み、円相場はドルに対して値上がりしました。\n",
+    "markedBody": "午後5時時点の円相場は、19日と比べて73銭、円高ドル安の1ドル＝158円44銭から45銭でした。\n\n一方、ユーロに対しては、68銭、円安ユーロ高の1ユーロ＝185円26銭から30銭でした。\n\nユーロはドルに対して1ユーロ＝1.1692から93ドルでした。\n\n市場関係者は「アメリカ財務省が国債を買い戻す規模を増やすと発表したことで、アメリカの長期金利が低下し、ドルを売って円を買う動きが進み、一時、1円以上円高が進んだ」と話しています。\n",
+    "trimmedLead": "20日の東京外国為替市場、アメリカの長期金利が低下したことでドルを売って円を買う動きが進み、円相場はドルに対して値上がりしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260820de45355.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260820de45355",
+  "video": [],
+  "citation": [
+    {
+      "name": "株価 値上がり 長期金利低下で幅広い銘柄に買い注文",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260820de45236",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45236/20260820de45236_E0000013609_1_s.jpg",
+      "datePublished": "2026-08-20T17:22:32+09:00"
+    },
+    {
+      "name": "米財務省が国債買い戻し倍増 長期金利上昇を抑えるねらい",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260820de45184",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45184/20260820de45184_E0000003533_1_s.jpg",
+      "datePublished": "2026-08-20T02:04:00+09:00"
+    },
+    {
+      "name": "北朝鮮の弾道ミサイルの可能性あるもの 日本のEEZ外に落下か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260820de45335",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45335/20260820de45335_E0000013794_1_s.jpg",
+      "datePublished": "2026-08-20T18:13:41+09:00"
+    },
+    {
+      "name": "台風18号 23日には非常に強い勢力に発達か 今後の情報に注意を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260820de45221",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45221/20260820de45221_E0000013737_1_s.jpg",
+      "datePublished": "2026-08-20T18:19:16+09:00"
+    },
+    {
+      "name": "千葉豪雨から1週間 ボランティア本格化 園児受け入れの動きも",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260820de45235",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45235/20260820de45235_E0000013251_1_s.jpg",
+      "datePublished": "2026-08-20T12:04:00+09:00"
+    },
+    {
+      "name": "高校野球 健大高崎が初の決勝進出 天理に競り勝つ【詳報】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260819de45039",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45039/20260819de45039_E0000012384_1_s.jpg",
+      "datePublished": "2026-08-20T18:18:01+09:00"
+    },
+    {
+      "name": "高校野球 智弁和歌山 5年ぶり決勝へ 横浜に逆転勝ち【詳報】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260819de45038",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45038/20260819de45038_E0000012394_1_s.jpg",
+      "datePublished": "2026-08-20T16:22:49+09:00"
+    },
+    {
+      "name": "【夏の甲子園2026 特集ページ】日程・結果 最新ニュース 特集記事 ",
+      "url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000513",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260809de42914_E0000005623_1_s.jpg"
+    },
+    {
+      "name": "「介護保険料払っているけど…」高齢外国人どう支援？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44827",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44827/20260818de44827_E0000012596_1_s.jpg",
+      "datePublished": "2026-08-19T18:31:34+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
