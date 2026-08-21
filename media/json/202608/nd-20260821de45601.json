@@ -1,0 +1,161 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260821de45601",
+  "dataSourceId": "nd",
+  "name": "千葉豪雨受け 全国のアンダーパスなど緊急点検 3か所で異常 国土交通省",
+  "headline": "千葉豪雨受け アンダーパスを緊急点検 3か所で異常 国交省",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260821de45601",
+    "playlistId": "news-nwa-disaster-nationwide-20260822",
+    "newsarticleName": "千葉豪雨受け 全国のアンダーパスなど緊急点検 3か所で異常 国土交通省",
+    "playlistName": "8月22日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "千葉豪雨の際に冠水し、車に乗っていた男性が死亡したアンダーパスで、非常用電源が起動せず、排水ポンプが動いていなかったことを受けて、国土交通省が、全国の排水設備などを緊急に点検したところ、3か所で異常が",
+  "dateModified": "2026-08-22T05:02:34+09:00",
+  "datePublished": "2026-08-22T05:02:34+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45601/20260821de45601_E0000014753_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45601/20260821de45601_E0000014753_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000010098",
+      "name": "千葉豪雨",
+      "display": true
+    },
+    {
+      "id": "E0000000340",
+      "name": "千葉県",
+      "display": true
+    },
+    {
+      "id": "E0000000465",
+      "name": "国土交通省",
+      "display": true
+    },
+    {
+      "id": "E0000000114",
+      "name": "気象",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "千葉豪雨の際に冠水し、車に乗っていた男性が死亡したアンダーパスで、非常用電源が起動せず、排水ポンプが動いていなかったことを受けて、国土交通省が、全国の排水設備などを緊急に点検したところ、3か所で異常が",
+  "articleBody": "千葉豪雨の際に冠水し、車に乗っていた男性が死亡したアンダーパスで、非常用電源が起動せず、排水ポンプが動いていなかったことを受けて、国土交通省が、全国の排水設備などを緊急に点検したところ、3か所で異常が見つかりました。\n\n\n今月13日に発生した千葉豪雨では、千葉市中央区村田町にあるアンダーパスが冠水し、水につかった車の中にいた男性が死亡しました。\n\nアンダーパスには、排水ポンプが備え付けられていましたが、当時、停電していて、自動で起動するはずの非常用発電機も動いていませんでした。\n\nこれを受けて国土交通省は、大雨の際に冠水する危険性がある全国の国道のアンダーパスやトンネルなど102か所で、排水設備などの緊急点検を行いました。\n\nその結果、3か所で非常用発電機の異常が見つかったということです。\n\nこのうち、愛知県清須市の「朝日アンダーパス」では、停電を検知するセンサーに不具合が見つかり、補修を終える今月末までは、大雨の際には事前に通行規制をするなどの対応をとるとしています。\n\nまた、京都市の「千代原口トンネル」と、那覇市の「うみそらトンネル」でも非常用発電機に異常が見つかりましたが、いずれもすでに補修を終えたということです。\n\n国土交通省によりますと、その後の調査で、千葉市のアンダーパスの非常用発電機は、停電の発生に加えて、設置されている水位計が一定の水位を計測した場合に起動する仕組みだとわかったということで、全国に同じタイプの非常用発電機がないか、改めて調査しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "千葉豪雨の際に冠水し、車に乗っていた男性が死亡したアンダーパスで、非常用電源が起動せず、排水ポンプが動いていなかったことを受けて、国土交通省が、全国の排水設備などを緊急に点検したところ、3か所で異常が見つかりました。\n",
+    "markedBody": "今月13日に発生した千葉豪雨では、千葉市中央区村田町にあるアンダーパスが冠水し、水につかった車の中にいた男性が死亡しました。\n\nアンダーパスには、排水ポンプが備え付けられていましたが、当時、停電していて、自動で起動するはずの非常用発電機も動いていませんでした。\n\nこれを受けて国土交通省は、大雨の際に冠水する危険性がある全国の国道のアンダーパスやトンネルなど102か所で、排水設備などの緊急点検を行いました。\n\nその結果、3か所で非常用発電機の異常が見つかったということです。\n\nこのうち、愛知県清須市の「朝日アンダーパス」では、停電を検知するセンサーに不具合が見つかり、補修を終える今月末までは、大雨の際には事前に通行規制をするなどの対応をとるとしています。\n\nまた、京都市の「千代原口トンネル」と、那覇市の「うみそらトンネル」でも非常用発電機に異常が見つかりましたが、いずれもすでに補修を終えたということです。\n\n国土交通省によりますと、その後の調査で、千葉市のアンダーパスの非常用発電機は、停電の発生に加えて、設置されている水位計が一定の水位を計測した場合に起動する仕組みだとわかったということで、全国に同じタイプの非常用発電機がないか、改めて調査しています。\n",
+    "trimmedLead": "千葉豪雨の際に冠水し、車に乗っていた男性が死亡したアンダーパスで、非常用電源が起動せず、排水ポンプが動いていなかったことを受けて、国土交通省が、全国の排水設備などを緊急に点検したところ、3か所で異常が見つかりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260821de45601.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260821de45601",
+  "video": [],
+  "citation": [
+    {
+      "name": "佐賀 長崎道鳥栖IC付近 部活バス含む車6台関係の事故 10人搬送",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45571",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45571/20260821de45571_E0000014626_1_s.jpg",
+      "datePublished": "2026-08-21T22:36:18+09:00"
+    },
+    {
+      "name": "経産省 ラピダス出資に1500億円要求へ 来年度予算の概算要求で",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45596",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45596/20260821de45596_E0000014741_1_s.jpg",
+      "datePublished": "2026-08-21T22:18:25+09:00"
+    },
+    {
+      "name": "日本学術会議 新会員125人を公表 10月の特殊法人移行を前に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45512",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45512/20260821de45512_E0000014532_1_s.jpg",
+      "datePublished": "2026-08-21T23:46:37+09:00"
+    },
+    {
+      "name": "法務省 ネット番組「ラヴ上等」とのタイアップ中止を発表",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45566",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45566/20260821de45566_E0000014602_1_s.jpg",
+      "datePublished": "2026-08-22T00:30:00+09:00"
+    },
+    {
+      "name": "千葉豪雨 死者13人 浸水被害約3600棟 農業被害28億円",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45579",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45579/20260821de45579_E0000014681_1_s.jpg",
+      "datePublished": "2026-08-21T19:55:23+09:00"
+    },
+    {
+      "name": "千葉豪雨 水没車から女性救助 消防隊員が証言「心苦しい思い」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45558",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45558/20260821de45558_E0000014559_1_s.jpg",
+      "datePublished": "2026-08-21T18:13:00+09:00"
+    },
+    {
+      "name": "千葉豪雨で大雨警報等の基準引き下げ 千葉市と八千代市で",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45501",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45501/20260821de45501_E0000003830_1_s.jpg",
+      "datePublished": "2026-08-21T14:16:47+09:00"
+    },
+    {
+      "name": "被害の千葉大病院支援 医療器具の洗浄設備貸し出し 東京科学大",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45590",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45590/20260821de45590_E0000014734_1_s.jpg",
+      "datePublished": "2026-08-21T21:58:13+09:00"
+    },
+    {
+      "name": "千葉豪雨 千葉市で義援金の受け付け始まる【被災地では】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45464",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45464/20260821de45464_E0000014156_1_s.jpg",
+      "datePublished": "2026-08-21T21:31:01+09:00"
+    },
+    {
+      "name": "2週間予報など長期予報充実 2030年までに実現目指す 気象庁",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45609",
+      "thumbnailUrl": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png",
+      "datePublished": "2026-08-21T23:34:03+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
