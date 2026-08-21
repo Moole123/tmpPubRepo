@@ -1,0 +1,171 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260821de45521",
+  "dataSourceId": "nd",
+  "name": "スーパーのコメ平均価格 5キロ3191円 2週ぶり値下がり",
+  "headline": "スーパーのコメ平均価格 5キロ3191円 2週ぶり値下がり",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260821de45521",
+    "playlistId": "news-nwa-business-nationwide-20260821",
+    "newsarticleName": "スーパーのコメ平均価格 5キロ3191円 2週ぶり値下がり",
+    "playlistName": "8月21日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "農林水産省によりますと、全国のスーパーで今月16日までの1週間に販売されたコメの平均価格は、5キロあたりの税込みで3191円と前の週より29円下がりました。値下がりは2週ぶりです。\n\n\n",
+  "dateModified": "2026-08-21T17:52:10+09:00",
+  "datePublished": "2026-08-21T17:52:10+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45521/20260821de45521_E0000014563_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45521/20260821de45521_E0000014563_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000456",
+      "name": "農林水産省",
+      "display": true
+    },
+    {
+      "id": "E0000000474",
+      "name": "農業",
+      "display": true
+    },
+    {
+      "id": "E0000000473",
+      "name": "小売業",
+      "display": true
+    },
+    {
+      "id": "E0000000584",
+      "name": "コメ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "農林水産省によりますと、全国のスーパーで今月16日までの1週間に販売されたコメの平均価格は、5キロあたりの税込みで3191円と前の週より29円下がりました。値下がりは2週ぶりです。\n\n\n",
+  "articleBody": "農林水産省によりますと、全国のスーパーで今月16日までの1週間に販売されたコメの平均価格は、5キロあたりの税込みで3191円と前の週より29円下がりました。値下がりは2週ぶりです。\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "農林水産省によりますと、全国のスーパーで今月16日までの1週間に販売されたコメの平均価格は、5キロあたりの税込みで3191円と前の週より29円下がりました。値下がりは2週ぶりです。\n",
+    "markedBody": "",
+    "trimmedLead": "農林水産省によりますと、全国のスーパーで今月16日までの1週間に販売されたコメの平均価格は、5キロあたりの税込みで3191円と前の週より29円下がりました。値下がりは2週ぶりです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260821de45521.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260821de45521",
+  "video": [],
+  "citation": [
+    {
+      "name": "スーパーのコメ平均価格 5キロ3220円 7週ぶり値上がり",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260814de44099",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44099/20260814de44099_E0000008841_1_s.jpg",
+      "datePublished": "2026-08-14T19:36:00+09:00"
+    },
+    {
+      "name": "JA全中会長 ことし産のコメ「概算金」下落に懸念示す",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260820de45359",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45359/20260820de45359_E0000013811_1_s.jpg",
+      "datePublished": "2026-08-20T20:42:59+09:00"
+    },
+    {
+      "name": "台風18号 今後の情報に注意を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45459",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45459/20260821de45459_E0000014533_1_s.jpg",
+      "datePublished": "2026-08-21T17:22:03+09:00"
+    },
+    {
+      "name": "大阪パチンコ店放火殺人事件 高見素直死刑囚に死刑執行 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45451",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45451/20260821de45451_E0000014101_1_s.jpg",
+      "datePublished": "2026-08-21T12:23:30+09:00"
+    },
+    {
+      "name": "東武日光線 作業員4人死亡の列車事故 見張り役などから聴取",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45429",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45429/20260821de45429_E0000014110_1_s.jpg",
+      "datePublished": "2026-08-21T17:37:07+09:00"
+    },
+    {
+      "name": "パワハラ認定の横浜 山中竹春市長 国際会議の参加見送り",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45494",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45494/20260821de45494_E0000014319_1_s.jpg",
+      "datePublished": "2026-08-21T17:25:00+09:00"
+    },
+    {
+      "name": "クールジャパン機構 概算要求見送り 廃止含めて検討 経産省",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45462",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45462/20260821de45462_E0000014129_1_s.jpg",
+      "datePublished": "2026-08-21T11:51:00+09:00"
+    },
+    {
+      "name": "愛子さま 琵琶湖博物館でビワコオオナマズ鑑賞",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45468",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45468/20260821de45468_E0000014301_1_s.jpg",
+      "datePublished": "2026-08-21T13:29:36+09:00"
+    },
+    {
+      "name": "NZ地震 犠牲者追悼のプレート取り外される 盗難か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45470",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45470/20260821de45470_E0000014299_1_s.jpg",
+      "datePublished": "2026-08-21T13:28:38+09:00"
+    },
+    {
+      "name": "熊本地震 被災地はきょうも猛烈な暑さ 熱中症対策継続を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45435",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45435/20260821de45435_E0000014057_1_s.jpg",
+      "datePublished": "2026-08-21T12:10:05+09:00"
+    },
+    {
+      "name": "埼玉県で「記録的短時間大雨」発表 中国地方などでも雨雲発達",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45437",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45437/20260821de45437_E0000014531_1_s.jpg",
+      "datePublished": "2026-08-21T17:33:17+09:00"
+    },
+    {
+      "name": "【夏の甲子園2026 特集ページ】日程・結果 最新ニュース 特集記事 ",
+      "url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000513",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260809de42914_E0000005623_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
