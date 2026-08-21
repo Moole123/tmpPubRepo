@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260821de45510",
+  "dataSourceId": "nd",
+  "name": "木原官房長官 熊本の被災地訪問 イオンモールなど被害状況確認",
+  "headline": "木原官房長官 熊本の被災地訪問 イオンモールなど被害状況確認",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260821de45510",
+    "playlistId": "news-nwa-disaster-nationwide-20260821",
+    "newsarticleName": "木原官房長官 熊本の被災地訪問 イオンモールなど被害状況確認",
+    "playlistName": "8月21日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "木原官房長官は、今回の熊本地震発生後、初めて被災地を訪問し、上空からの視察を行うとともに、大規模な爆発が起きた「イオンモール熊本」などで被害の状況を確認しました。\n\n\n訪問は2日間の日程で、初日の21",
+  "dateModified": "2026-08-21T15:32:24+09:00",
+  "datePublished": "2026-08-21T15:32:24+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45510/20260821de45510_E0000014386_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45510/20260821de45510_E0000014386_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害",
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "E0000010002",
+      "name": "令和8年熊本地震",
+      "display": true
+    },
+    {
+      "id": "E0000000371",
+      "name": "熊本県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "木原官房長官は、今回の熊本地震発生後、初めて被災地を訪問し、上空からの視察を行うとともに、大規模な爆発が起きた「イオンモール熊本」などで被害の状況を確認しました。\n\n\n訪問は2日間の日程で、初日の21",
+  "articleBody": "木原官房長官は、今回の熊本地震発生後、初めて被災地を訪問し、上空からの視察を行うとともに、大規模な爆発が起きた「イオンモール熊本」などで被害の状況を確認しました。\n\n\n訪問は2日間の日程で、初日の21日は午前中、自衛隊のヘリコプターで上空からの視察を行ったのに加え、10年前の地震でも大きな被害を受けた御船町にある「平成音楽大学」を訪れ、大学の関係者から話を聞くとともに、今回の地震でひびが入った校舎の様子などを見て回りました。\n\nまた、大規模な爆発が起きた嘉島町の「イオンモール熊本」では、献花して犠牲者を悼むとともに、建物の被害状況を確認しました。\n\n今回の地震を受けて、政府は来週にも被災者の生活再建に向けた支援パッケージをとりまとめる方針で、木原官房長官は夕方には熊本県庁で木村知事と会談し、意見を交わすことにしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "木原官房長官は、今回の熊本地震発生後、初めて被災地を訪問し、上空からの視察を行うとともに、大規模な爆発が起きた「イオンモール熊本」などで被害の状況を確認しました。\n",
+    "markedBody": "訪問は2日間の日程で、初日の21日は午前中、自衛隊のヘリコプターで上空からの視察を行ったのに加え、10年前の地震でも大きな被害を受けた御船町にある「平成音楽大学」を訪れ、大学の関係者から話を聞くとともに、今回の地震でひびが入った校舎の様子などを見て回りました。\n\n![](https://img.web.nhk/news/nd/kiji/20260821de45510/20260821de45510_E0000014382_1_l.jpg)\n\nまた、大規模な爆発が起きた嘉島町の「イオンモール熊本」では、献花して犠牲者を悼むとともに、建物の被害状況を確認しました。\n\n今回の地震を受けて、政府は来週にも被災者の生活再建に向けた支援パッケージをとりまとめる方針で、木原官房長官は夕方には熊本県庁で木村知事と会談し、意見を交わすことにしています。\n",
+    "trimmedLead": "木原官房長官は、今回の熊本地震発生後、初めて被災地を訪問し、上空からの視察を行うとともに、大規模な爆発が起きた「イオンモール熊本」などで被害の状況を確認しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260821de45510.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260821de45510",
+  "video": [],
+  "citation": [
+    {
+      "name": "NZ地震 犠牲者追悼のプレート取り外される 盗難か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45470",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45470/20260821de45470_E0000014299_1_s.jpg",
+      "datePublished": "2026-08-21T13:28:38+09:00"
+    },
+    {
+      "name": "日米韓高官が電話協議 緊密連携確認 北朝鮮弾道ミサイル発射で",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45484",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45484/20260821de45484_E0000014285_1_s.jpg",
+      "datePublished": "2026-08-21T13:49:00+09:00"
+    },
+    {
+      "name": "パワハラ認定の横浜 山中竹春市長 国際会議の参加見送り",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45494",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45494/20260821de45494_E0000014319_1_s.jpg",
+      "datePublished": "2026-08-21T14:05:00+09:00"
+    },
+    {
+      "name": "台風18号 今後の情報に注意を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45459",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45459/20260821de45459_E0000014109_1_s.jpg",
+      "datePublished": "2026-08-21T11:23:00+09:00"
+    },
+    {
+      "name": "大阪パチンコ店放火殺人事件 高見素直死刑囚に死刑執行 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45451",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45451/20260821de45451_E0000014101_1_s.jpg",
+      "datePublished": "2026-08-21T12:23:30+09:00"
+    },
+    {
+      "name": "東武日光線 作業員4人死亡の列車事故 見張り役などから聴取",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45429",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45429/20260821de45429_E0000014110_1_s.jpg",
+      "datePublished": "2026-08-21T15:48:34+09:00"
+    },
+    {
+      "name": "7月消費者物価 生鮮除き1.8％上昇 上昇率は拡大 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45440",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45440/20260821de45440_E0000014197_1_s.jpg",
+      "datePublished": "2026-08-21T09:01:00+09:00"
+    },
+    {
+      "name": "米「史上最大規模の制裁」へ イランは「経済テロ」と反発",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45432",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45432/20260821de45432_E0000014051_1_s.jpg",
+      "datePublished": "2026-08-21T06:16:00+09:00"
+    },
+    {
+      "name": "【夏の甲子園2026 特集ページ】日程・結果 最新ニュース 特集記事 ",
+      "url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000513",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260809de42914_E0000005623_1_s.jpg"
+    },
+    {
+      "name": " あの初夏の日 少年はいま",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260819de44975",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44975/20260819de44975_E0000012468_1_s.jpg",
+      "datePublished": "2026-08-20T18:24:55+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
