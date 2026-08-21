@@ -1,0 +1,156 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260821de45560",
+  "dataSourceId": "nd",
+  "name": "千葉豪雨 普通交付税約87億円 繰り上げて交付 総務省",
+  "headline": "千葉豪雨 普通交付税約87億円 繰り上げて交付 総務省",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260821de45560",
+    "playlistId": "news-nwa-politics-nationwide-20260821",
+    "newsarticleName": "千葉豪雨 普通交付税約87億円 繰り上げて交付 総務省",
+    "playlistName": "8月21日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "記録的な豪雨で被害を受けた千葉県内の22の市と町に対し、普通交付税およそ87億円が繰り上げて交付されました。\n\n\n普通交付税は、自治体の財源不足を補うため、国から年4回に分けて交付されていますが、大規",
+  "dateModified": "2026-08-21T18:58:49+09:00",
+  "datePublished": "2026-08-21T18:58:49+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45560/20260821de45560_E0000014591_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45560/20260821de45560_E0000014591_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治",
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000010098",
+      "name": "千葉豪雨",
+      "display": true
+    },
+    {
+      "id": "E0000000340",
+      "name": "千葉県",
+      "display": true
+    },
+    {
+      "id": "E0000000455",
+      "name": "総務省",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "記録的な豪雨で被害を受けた千葉県内の22の市と町に対し、普通交付税およそ87億円が繰り上げて交付されました。\n\n\n普通交付税は、自治体の財源不足を補うため、国から年4回に分けて交付されていますが、大規",
+  "articleBody": "記録的な豪雨で被害を受けた千葉県内の22の市と町に対し、普通交付税およそ87億円が繰り上げて交付されました。\n\n\n普通交付税は、自治体の財源不足を補うため、国から年4回に分けて交付されていますが、大規模な災害があった場合などは時期を繰り上げて交付されます。\n\n総務省は、記録的な豪雨で被害を受けた自治体の資金繰りを円滑にして復旧を支援するため、千葉県内の22の市と町に対し、来月に交付予定の普通交付税の一部、およそ87億円を21日、繰り上げて交付しました。\n\n内訳は、\n▽千葉市に30億6700万円\n▽松戸市に6億5300万円\n▽山武市に5億4200万円などとなっています。\n",
+  "detailedArticleBody": {
+    "markedLead": "記録的な豪雨で被害を受けた千葉県内の22の市と町に対し、普通交付税およそ87億円が繰り上げて交付されました。\n",
+    "markedBody": "普通交付税は、自治体の財源不足を補うため、国から年4回に分けて交付されていますが、大規模な災害があった場合などは時期を繰り上げて交付されます。\n\n総務省は、記録的な豪雨で被害を受けた自治体の資金繰りを円滑にして復旧を支援するため、千葉県内の22の市と町に対し、来月に交付予定の普通交付税の一部、およそ87億円を21日、繰り上げて交付しました。\n\n内訳は、\\\n▽千葉市に30億6700万円\\\n▽松戸市に6億5300万円\\\n▽山武市に5億4200万円などとなっています。\n",
+    "trimmedLead": "記録的な豪雨で被害を受けた千葉県内の22の市と町に対し、普通交付税およそ87億円が繰り上げて交付されました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260821de45560.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260821de45560",
+  "video": [],
+  "citation": [
+    {
+      "name": "千葉豪雨 生活やなりわいの再建が課題に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260820de45417",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45417/20260820de45417_E0000014029_1_s.jpg",
+      "datePublished": "2026-08-21T06:38:00+09:00"
+    },
+    {
+      "name": "千葉豪雨で大雨警報等の基準引き下げ 千葉市と八千代市で",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45501",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45501/20260821de45501_E0000003830_1_s.jpg",
+      "datePublished": "2026-08-21T14:16:47+09:00"
+    },
+    {
+      "name": "さいたま市で「記録的短時間大雨」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45541",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45541/20260821de45541_E0000014531_1_s.jpg",
+      "datePublished": "2026-08-21T17:05:00+09:00"
+    },
+    {
+      "name": "東武日光線 4人死亡列車事故 ホーム下に緊急避難スペースなし",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45429",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45429/20260821de45429_E0000014112_1_s.jpg",
+      "datePublished": "2026-08-21T20:10:43+09:00"
+    },
+    {
+      "name": "大量の食パンが大山に 「不法投棄にあたる」警察に相談 鳥取",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45513",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45513/20260821de45513_E0000014622_1_s.jpg",
+      "datePublished": "2026-08-21T15:35:00+09:00"
+    },
+    {
+      "name": "台風18号 今後の情報に注意を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45459",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45459/20260821de45459_E0000014533_1_s.jpg",
+      "datePublished": "2026-08-21T19:48:50+09:00"
+    },
+    {
+      "name": "ホルムズ海峡で“シャトル船”が原油輸送 日本にも 専門家",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45517",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45517/20260821de45517_E0000014438_1_s.jpg",
+      "datePublished": "2026-08-21T15:37:24+09:00"
+    },
+    {
+      "name": "大阪パチンコ店放火殺人事件 高見素直死刑囚に死刑執行 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45451",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45451/20260821de45451_E0000014101_1_s.jpg",
+      "datePublished": "2026-08-21T12:23:30+09:00"
+    },
+    {
+      "name": "パワハラ認定の横浜 山中竹春市長 国際会議の参加見送り",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45494",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45494/20260821de45494_E0000014319_1_s.jpg",
+      "datePublished": "2026-08-21T17:25:00+09:00"
+    },
+    {
+      "name": "クールジャパン機構 概算要求見送り 廃止含めて検討 経産省",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45462",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45462/20260821de45462_E0000014129_1_s.jpg",
+      "datePublished": "2026-08-21T11:51:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
