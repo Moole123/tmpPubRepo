@@ -1,0 +1,156 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260821de45459",
+  "dataSourceId": "nd",
+  "name": "台風18号 今後の情報に注意を",
+  "headline": "台風18号 今後の情報に注意を",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260821de45459",
+    "playlistId": "news-nwa-disaster-nationwide-20260821",
+    "newsarticleName": "台風18号 今後の情報に注意を",
+    "playlistName": "8月21日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "日本のはるか南東の海上を進む台風18号は、しだいに勢力を強めていて来週、南西諸島に近づくおそれがあります。気象庁は、今後の情報に注意するよう呼びかけています。\n\n\n気象庁によりますと、台風18号は、日",
+  "dateModified": "2026-08-21T11:23:00+09:00",
+  "datePublished": "2026-08-21T11:23:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45459/20260821de45459_E0000014109_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45459/20260821de45459_E0000014109_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000202",
+      "name": "台風",
+      "display": true
+    },
+    {
+      "id": "E0000000114",
+      "name": "気象",
+      "display": true
+    },
+    {
+      "id": "E0000000682",
+      "name": "気象庁",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "日本のはるか南東の海上を進む台風18号は、しだいに勢力を強めていて来週、南西諸島に近づくおそれがあります。気象庁は、今後の情報に注意するよう呼びかけています。\n\n\n気象庁によりますと、台風18号は、日",
+  "articleBody": "日本のはるか南東の海上を進む台風18号は、しだいに勢力を強めていて来週、南西諸島に近づくおそれがあります。気象庁は、今後の情報に注意するよう呼びかけています。\n\n\n気象庁によりますと、台風18号は、日本のはるか南東のマリアナ諸島を北よりに進んでいます。\n\n21日午前9時には中心気圧が985ヘクトパスカルとやや発達しています。\n\n台風はこのあとも発達しながら北西よりに進み、23日には非常に強い勢力になる見込みで、来週の中ごろ、南西諸島に近づくと予想されています。\n\nその後の予想にはまだ幅がありますが、気象庁は今後の台風の情報に注意するよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "日本のはるか南東の海上を進む台風18号は、しだいに勢力を強めていて来週、南西諸島に近づくおそれがあります。気象庁は、今後の情報に注意するよう呼びかけています。\n",
+    "markedBody": "```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"001\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\n    <div class=\"fs-wrap\">\n      <h2 class=\"freespace-title\">台風マップ</h2>\n\n      <a href=\"https://news.web.nhk/bousai-map/typhoon/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"tenkiBousaiMap-fullscreenBtn\">全画面でマップを見る</a>\n\n      <div class=\"tenkiBousaiMap-wrap\">\n        <iframe src=\"https://news.web.nhk/bousai-map/typhoon/?mapMenu=off&amp;help=off&amp;halfModal=off&amp;typhoonSelection=off&amp;disableUserLocation=on\" allowfullscreen=\"allowfullscreen\" scrolling=\"no\" class=\"js-iframe-dataMap\"></iframe>\n      </div>\n    </div>\n</div>\n```\n\n気象庁によりますと、台風18号は、日本のはるか南東のマリアナ諸島を北よりに進んでいます。\n\n21日午前9時には中心気圧が985ヘクトパスカルとやや発達しています。\n\n台風はこのあとも発達しながら北西よりに進み、23日には非常に強い勢力になる見込みで、来週の中ごろ、南西諸島に近づくと予想されています。\n\nその後の予想にはまだ幅がありますが、気象庁は今後の台風の情報に注意するよう呼びかけています。\n",
+    "noHtmlMarkedLead": "日本のはるか南東の海上を進む台風18号は、しだいに勢力を強めていて来週、南西諸島に近づくおそれがあります。気象庁は、今後の情報に注意するよう呼びかけています。\n",
+    "noHtmlMarkedBody": "気象庁によりますと、台風18号は、日本のはるか南東のマリアナ諸島を北よりに進んでいます。\n\n21日午前9時には中心気圧が985ヘクトパスカルとやや発達しています。\n\n台風はこのあとも発達しながら北西よりに進み、23日には非常に強い勢力になる見込みで、来週の中ごろ、南西諸島に近づくと予想されています。\n\nその後の予想にはまだ幅がありますが、気象庁は今後の台風の情報に注意するよう呼びかけています。\n",
+    "trimmedLead": "日本のはるか南東の海上を進む台風18号は、しだいに勢力を強めていて来週、南西諸島に近づくおそれがあります。気象庁は、今後の情報に注意するよう呼びかけています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260821de45459.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260821de45459",
+  "video": [],
+  "citation": [
+    {
+      "name": "西日本中心に猛烈な暑さ 熱中症対策を 局地的に非常に激しい雨",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45437",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45437/20260821de45437_E0000014113_1_s.jpg",
+      "datePublished": "2026-08-21T06:34:00+09:00"
+    },
+    {
+      "name": "熊本地震 被災地はきょうも猛烈な暑さ 熱中症対策継続を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45435",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45435/20260821de45435_E0000014057_1_s.jpg",
+      "datePublished": "2026-08-21T12:10:05+09:00"
+    },
+    {
+      "name": "熊本地震 仮置き場でリチウムイオン電池の分別徹底を 環境省",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45427",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45427/20260821de45427_E0000014040_1_s.jpg",
+      "datePublished": "2026-08-21T06:35:00+09:00"
+    },
+    {
+      "name": "大阪パチンコ店放火殺人事件 高見素直死刑囚に死刑執行 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45451",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45451/20260821de45451_E0000014101_1_s.jpg",
+      "datePublished": "2026-08-21T11:42:50+09:00"
+    },
+    {
+      "name": "東武日光線 作業員4人死亡の列車事故 見張り役などから聴取",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45429",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45429/20260821de45429_E0000014110_1_s.jpg",
+      "datePublished": "2026-08-21T11:55:15+09:00"
+    },
+    {
+      "name": "千葉豪雨 生活やなりわいの再建が課題に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260820de45417",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45417/20260820de45417_E0000014029_1_s.jpg",
+      "datePublished": "2026-08-21T06:38:00+09:00"
+    },
+    {
+      "name": "7月消費者物価 生鮮除き1.8％上昇 上昇率は拡大 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45440",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45440/20260821de45440_E0000003932_1_s.jpg",
+      "datePublished": "2026-08-21T09:01:00+09:00"
+    },
+    {
+      "name": "NYダウ700ドル超下落 米長期金利が再び上昇で",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45439",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45439/20260821de45439_E0000014059_1_s.jpg",
+      "datePublished": "2026-08-21T07:12:14+09:00"
+    },
+    {
+      "name": "米「史上最大規模の制裁」へ イランは「経済テロ」と反発",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45432",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45432/20260821de45432_E0000014051_1_s.jpg",
+      "datePublished": "2026-08-21T06:16:00+09:00"
+    },
+    {
+      "name": "【夏の甲子園2026 特集ページ】日程・結果 最新ニュース 特集記事 ",
+      "url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000513",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260809de42914_E0000005623_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": true
+  }
+}
