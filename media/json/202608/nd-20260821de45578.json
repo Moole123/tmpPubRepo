@@ -1,0 +1,101 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260821de45578",
+  "dataSourceId": "nd",
+  "name": "巧妙な落とし穴 知らないうちに“トバシ口座”に加担",
+  "headline": "巧妙な落とし穴 知らないうちに“トバシ口座”に加担",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260821de45578",
+    "playlistId": "news-nwa-society-nationwide-20260821",
+    "newsarticleName": "巧妙な落とし穴 知らないうちに“トバシ口座”に加担",
+    "playlistName": "8月21日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "匿名流動型犯罪グループ「トクリュウ」が関わったとみられる事件が、各地で相次いでいます。\n\nトクリュウグループは、強盗や特殊詐欺などの犯罪で得た収益を、警察の捜査や金融機関の監視の目をかいくぐって移動さ",
+  "dateModified": "2026-08-21T21:27:00+09:00",
+  "datePublished": "2026-08-21T21:27:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45578/20260821de45578_E0000014668_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45578/20260821de45578_E0000014668_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "匿名流動型犯罪グループ「トクリュウ」が関わったとみられる事件が、各地で相次いでいます。\n\nトクリュウグループは、強盗や特殊詐欺などの犯罪で得た収益を、警察の捜査や金融機関の監視の目をかいくぐって移動さ",
+  "articleBody": "匿名流動型犯罪グループ「トクリュウ」が関わったとみられる事件が、各地で相次いでいます。\n\nトクリュウグループは、強盗や特殊詐欺などの犯罪で得た収益を、警察の捜査や金融機関の監視の目をかいくぐって移動させています。\n\nこの時に必要になるのが、通称「トバシ口座」と呼ばれる第三者名義の金融機関の口座です。\n\n口座を譲り渡してトクリュウに加担してしまったケースを取材しました。\n\n（※データ放送では動画はご覧になれません）\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "匿名流動型犯罪グループ「トクリュウ」が関わったとみられる事件が、各地で相次いでいます。\n\nトクリュウグループは、強盗や特殊詐欺などの犯罪で得た収益を、警察の捜査や金融機関の監視の目をかいくぐって移動させています。\n\nこの時に必要になるのが、通称「トバシ口座」と呼ばれる第三者名義の金融機関の口座です。\n\n口座を譲り渡してトクリュウに加担してしまったケースを取材しました。\n\n（※データ放送では動画はご覧になれません）\n",
+    "markedBody": "",
+    "trimmedLead": "匿名流動型犯罪グループ「トクリュウ」が関わったとみられる事件が、各地で相次いでいます。\n\nトクリュウグループは、強盗や特殊詐欺などの犯罪で得た収益を、警察の捜査や金融機関の監視の目をかいくぐって移動させています。\n\nこの時に必要になるのが、通称「トバシ口座」と呼ばれる第三者名義の金融機関の口座です。\n\n口座を譲り渡してトクリュウに加担してしまったケースを取材しました。\n\n（※データ放送では動画はご覧になれません）\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260821de45578.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260821de45578",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "巧妙な落とし穴 知らないうちに“トバシ口座”に加担",
+      "description": "匿名流動型犯罪グループ「トクリュウ」が関わったとみられる事件が、各地で相次いでいます。\n\nトクリュウグループは、強盗や特殊詐欺などの犯罪で得た収益を、警察の捜査や金融機関の監視の目をかいくぐって移動さ",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20260821de45578_E0000014674_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20260821de45578/20260821de45578_E0000014668_1_l.jpg",
+      "duration": "PT6M42S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20260821de45578_E0000014674_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45578/20260821de45578_E0000014668_1_l.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
