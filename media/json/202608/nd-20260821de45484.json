@@ -1,0 +1,160 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260821de45484",
+  "dataSourceId": "nd",
+  "name": "日米韓高官が電話協議 緊密連携確認 北朝鮮弾道ミサイル発射で",
+  "headline": "日米韓高官が電話協議 緊密連携確認 北朝鮮弾道ミサイル発射で",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260821de45484",
+    "playlistId": "news-nwa-politics-nationwide-20260821",
+    "newsarticleName": "日米韓高官が電話協議 緊密連携確認 北朝鮮弾道ミサイル発射で",
+    "playlistName": "8月21日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "20日の北朝鮮による弾道ミサイルの発射を受けて、外務省の有吉アジア大洋州局審議官は21日午前、アメリカ国務省のデービッド・ウィラゾル国務次官補代理と、韓国外務省のペク・ヨンジン（白●填）朝鮮半島政策局",
+  "dateModified": "2026-08-21T13:49:00+09:00",
+  "datePublished": "2026-08-21T13:49:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45484/20260821de45484_E0000014285_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45484/20260821de45484_E0000014285_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治",
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000146",
+      "name": "北朝鮮 ミサイル",
+      "display": true
+    },
+    {
+      "id": "E0000000454",
+      "name": "外務省",
+      "display": true
+    },
+    {
+      "id": "E0000000419",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "E0000000376",
+      "name": "韓国",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "20日の北朝鮮による弾道ミサイルの発射を受けて、外務省の有吉アジア大洋州局審議官は21日午前、アメリカ国務省のデービッド・ウィラゾル国務次官補代理と、韓国外務省のペク・ヨンジン（白●填）朝鮮半島政策局",
+  "articleBody": "20日の北朝鮮による弾道ミサイルの発射を受けて、外務省の有吉アジア大洋州局審議官は21日午前、アメリカ国務省のデービッド・ウィラゾル国務次官補代理と、韓国外務省のペク・ヨンジン（白●填）朝鮮半島政策局長と、電話協議を行いました。\n\n\n協議では、弾道ミサイルの発射は国連の安保理決議違反だと改めて確認した上で、北朝鮮に対し、地域と国際社会の平和と安全を脅かす挑発行動をやめるよう求めることで一致しました。\n\nそして、引き続き日米韓3か国で緊密に連携していくことを確認しました。\n\n※●＝金へんに「庸」。\n",
+  "detailedArticleBody": {
+    "markedLead": "20日の北朝鮮による弾道ミサイルの発射を受けて、外務省の有吉アジア大洋州局審議官は21日午前、アメリカ国務省のデービッド・ウィラゾル国務次官補代理と、韓国外務省のペク・ヨンジン（白●填）朝鮮半島政策局長と、電話協議を行いました。\n",
+    "markedBody": "協議では、弾道ミサイルの発射は国連の安保理決議違反だと改めて確認した上で、北朝鮮に対し、地域と国際社会の平和と安全を脅かす挑発行動をやめるよう求めることで一致しました。\n\nそして、引き続き日米韓3か国で緊密に連携していくことを確認しました。\n\n※●＝金へんに「庸」。\n",
+    "trimmedLead": "20日の北朝鮮による弾道ミサイルの発射を受けて、外務省の有吉アジア大洋州局審議官は21日午前、アメリカ国務省のデービッド・ウィラゾル国務次官補代理と、韓国外務省のペク・ヨンジン（白●填）朝鮮半島政策局長と、電話協議を行いました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260821de45484.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260821de45484",
+  "video": [],
+  "citation": [
+    {
+      "name": "北朝鮮が複数の弾道ミサイル発射 日本のEEZ外に落下か 防衛省",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260820de45335",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45335/20260820de45335_E0000013794_1_s.jpg",
+      "datePublished": "2026-08-20T21:25:02+09:00"
+    },
+    {
+      "name": "東武日光線 作業員4人死亡の列車事故 見張り役などから聴取",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45429",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45429/20260821de45429_E0000014110_1_s.jpg",
+      "datePublished": "2026-08-21T12:21:32+09:00"
+    },
+    {
+      "name": "大阪パチンコ店放火殺人事件 高見素直死刑囚に死刑執行 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45451",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45451/20260821de45451_E0000014101_1_s.jpg",
+      "datePublished": "2026-08-21T12:23:30+09:00"
+    },
+    {
+      "name": "静岡 清水区 建造中の船から出火し1人死亡 9人搬送",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45473",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45473/20260821de45473_E0000014165_1_s.jpg",
+      "datePublished": "2026-08-21T12:35:28+09:00"
+    },
+    {
+      "name": "台風18号 今後の情報に注意を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45459",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45459/20260821de45459_E0000014109_1_s.jpg",
+      "datePublished": "2026-08-21T11:23:00+09:00"
+    },
+    {
+      "name": "北陸で非常に激しい雨 西日本中心に猛烈な暑さ 熱中症対策を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45437",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45437/20260821de45437_E0000014174_1_s.jpg",
+      "datePublished": "2026-08-21T13:03:00+09:00"
+    },
+    {
+      "name": "クールジャパン機構 概算要求見送り 廃止含めて検討 経産省",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45462",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45462/20260821de45462_E0000014129_1_s.jpg",
+      "datePublished": "2026-08-21T11:51:00+09:00"
+    },
+    {
+      "name": "熊本地震 被災地はきょうも猛烈な暑さ 熱中症対策継続を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45435",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45435/20260821de45435_E0000014057_1_s.jpg",
+      "datePublished": "2026-08-21T12:10:05+09:00"
+    },
+    {
+      "name": "千葉豪雨 生活やなりわいの再建が課題に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260820de45417",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45417/20260820de45417_E0000014029_1_s.jpg",
+      "datePublished": "2026-08-21T06:38:00+09:00"
+    },
+    {
+      "name": "【夏の甲子園2026 特集ページ】日程・結果 最新ニュース 特集記事 ",
+      "url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000513",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260809de42914_E0000005623_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

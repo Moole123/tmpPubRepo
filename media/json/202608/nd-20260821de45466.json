@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260821de45466",
+  "dataSourceId": "nd",
+  "name": "株価 小幅に値下がり 長期金利再び上昇で企業業績に懸念",
+  "headline": "株価 小幅に値下がり 長期金利再び上昇で企業業績に懸念",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260821de45466",
+    "playlistId": "news-nwa-business-nationwide-20260821",
+    "newsarticleName": "株価 小幅に値下がり 長期金利再び上昇で企業業績に懸念",
+    "playlistName": "8月21日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "21日の東京株式市場、長期金利が上昇していることで企業の業績にマイナスになるという見方から日経平均株価は小幅に値下がりしています。\n\n\n▽日経平均株価、午前の終値は20日の終値と比べて208円34銭安",
+  "dateModified": "2026-08-21T12:18:45+09:00",
+  "datePublished": "2026-08-21T12:18:45+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45466/20260821de45466_E0000014155_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45466/20260821de45466_E0000014155_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000157",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    },
+    {
+      "id": "E0000000475",
+      "name": "半導体",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "21日の東京株式市場、長期金利が上昇していることで企業の業績にマイナスになるという見方から日経平均株価は小幅に値下がりしています。\n\n\n▽日経平均株価、午前の終値は20日の終値と比べて208円34銭安",
+  "articleBody": "21日の東京株式市場、長期金利が上昇していることで企業の業績にマイナスになるという見方から日経平均株価は小幅に値下がりしています。\n\n\n▽日経平均株価、午前の終値は20日の終値と比べて208円34銭安い6万6008円45銭。\n\n▽東証株価指数＝トピックスは5.07下がって4054.66。\n\n▽午前の出来高は9億9539万株でした。\n\n市場関係者は「20日に低下した長期金利が再び上昇していることで、企業の資金調達コストが増えて業績にマイナスになるという見方から売り注文が広がっている。一方で、業績が好調な半導体関連の銘柄には買い注文も入っていて、下げ幅は一定程度に抑えられている」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "21日の東京株式市場、長期金利が上昇していることで企業の業績にマイナスになるという見方から日経平均株価は小幅に値下がりしています。\n",
+    "markedBody": "▽日経平均株価、午前の終値は20日の終値と比べて208円34銭安い6万6008円45銭。\n\n▽東証株価指数＝トピックスは5.07下がって4054.66。\n\n▽午前の出来高は9億9539万株でした。\n\n市場関係者は「20日に低下した長期金利が再び上昇していることで、企業の資金調達コストが増えて業績にマイナスになるという見方から売り注文が広がっている。一方で、業績が好調な半導体関連の銘柄には買い注文も入っていて、下げ幅は一定程度に抑えられている」と話しています。\n",
+    "trimmedLead": "21日の東京株式市場、長期金利が上昇していることで企業の業績にマイナスになるという見方から日経平均株価は小幅に値下がりしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260821de45466.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260821de45466",
+  "video": [],
+  "citation": [
+    {
+      "name": "NYダウ700ドル超下落 米長期金利が再び上昇で",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45439",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45439/20260821de45439_E0000014059_1_s.jpg",
+      "datePublished": "2026-08-21T07:12:14+09:00"
+    },
+    {
+      "name": "7月消費者物価 生鮮除き1.8％上昇 上昇率は拡大 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45440",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45440/20260821de45440_E0000014197_1_s.jpg",
+      "datePublished": "2026-08-21T09:01:00+09:00"
+    },
+    {
+      "name": "台風18号 今後の情報に注意を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45459",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45459/20260821de45459_E0000014109_1_s.jpg",
+      "datePublished": "2026-08-21T11:23:00+09:00"
+    },
+    {
+      "name": "北陸で非常に激しい雨 西日本中心に猛烈な暑さ 熱中症対策を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45437",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45437/20260821de45437_E0000014174_1_s.jpg",
+      "datePublished": "2026-08-21T13:03:00+09:00"
+    },
+    {
+      "name": "熊本地震 被災地はきょうも猛烈な暑さ 熱中症対策継続を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45435",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45435/20260821de45435_E0000014057_1_s.jpg",
+      "datePublished": "2026-08-21T12:10:05+09:00"
+    },
+    {
+      "name": "熊本地震 仮置き場でリチウムイオン電池の分別徹底を 環境省",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45427",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45427/20260821de45427_E0000014040_1_s.jpg",
+      "datePublished": "2026-08-21T06:35:00+09:00"
+    },
+    {
+      "name": "千葉豪雨 生活やなりわいの再建が課題に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260820de45417",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45417/20260820de45417_E0000014029_1_s.jpg",
+      "datePublished": "2026-08-21T06:38:00+09:00"
+    },
+    {
+      "name": "大阪パチンコ店放火殺人事件 高見素直死刑囚に死刑執行 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45451",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45451/20260821de45451_E0000014101_1_s.jpg",
+      "datePublished": "2026-08-21T12:23:30+09:00"
+    },
+    {
+      "name": "東武日光線 作業員4人死亡の列車事故 見張り役などから聴取",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45429",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45429/20260821de45429_E0000014110_1_s.jpg",
+      "datePublished": "2026-08-21T12:21:32+09:00"
+    },
+    {
+      "name": "米「史上最大規模の制裁」へ イランは「経済テロ」と反発",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45432",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45432/20260821de45432_E0000014051_1_s.jpg",
+      "datePublished": "2026-08-21T06:16:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

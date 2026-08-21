@@ -1,0 +1,167 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260821de45470",
+  "dataSourceId": "nd",
+  "name": "NZ地震 犠牲者追悼のプレート取り外される 盗難か",
+  "headline": "NZ地震 犠牲者追悼のプレート取り外される 盗難か",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260821de45470",
+    "playlistId": "news-nwa-international-nationwide-20260821",
+    "newsarticleName": "NZ地震 犠牲者追悼のプレート取り外される 盗難か",
+    "playlistName": "8月21日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "ニュージーランドで15年前に起きた地震で亡くなった日本人を含む犠牲者を追悼する金属プレートが、何者かによって取り外されているのがわかり、地元の警察は盗まれたとみて捜査しています。\n\n\n2011年2月、",
+  "dateModified": "2026-08-21T13:28:38+09:00",
+  "datePublished": "2026-08-21T13:28:38+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45470/20260821de45470_E0000014299_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45470/20260821de45470_E0000014299_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000572",
+      "name": "ニュージーランド",
+      "display": true
+    },
+    {
+      "id": "E0000000389",
+      "name": "地震",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ニュージーランドで15年前に起きた地震で亡くなった日本人を含む犠牲者を追悼する金属プレートが、何者かによって取り外されているのがわかり、地元の警察は盗まれたとみて捜査しています。\n\n\n2011年2月、",
+  "articleBody": "ニュージーランドで15年前に起きた地震で亡くなった日本人を含む犠牲者を追悼する金属プレートが、何者かによって取り外されているのがわかり、地元の警察は盗まれたとみて捜査しています。\n\n\n2011年2月、ニュージーランド南部で発生した地震ではクライストチャーチ中心部の語学学校が入るビルが倒壊するなどし、富山市の専門学校の生徒など日本人28人を含む185人が亡くなりました。\n\nビルの跡地近くの広場には、語学学校で亡くなった人々を追悼する金属プレートが設置されていましたが、地元の警察によりますと、今月11日から12日ごろにかけて、何者かによって取り外されたということです。\n\nクライストチャーチ市によりますと、プレートには「2011年2月22日の地震で命を落とした語学学校のスタッフ9人と生徒71人を追悼して」と記されていたということです。\n\n広場とは別の場所にあった戦没者を追悼するプレートも取り外されたということで、地元の警察は盗まれたとみて目撃情報の提供を呼びかけるなどして捜査しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "ニュージーランドで15年前に起きた地震で亡くなった日本人を含む犠牲者を追悼する金属プレートが、何者かによって取り外されているのがわかり、地元の警察は盗まれたとみて捜査しています。\n",
+    "markedBody": "2011年2月、ニュージーランド南部で発生した地震ではクライストチャーチ中心部の語学学校が入るビルが倒壊するなどし、富山市の専門学校の生徒など日本人28人を含む185人が亡くなりました。\n\nビルの跡地近くの広場には、語学学校で亡くなった人々を追悼する金属プレートが設置されていましたが、地元の警察によりますと、今月11日から12日ごろにかけて、何者かによって取り外されたということです。\n\nクライストチャーチ市によりますと、プレートには「2011年2月22日の地震で命を落とした語学学校のスタッフ9人と生徒71人を追悼して」と記されていたということです。\n\n広場とは別の場所にあった戦没者を追悼するプレートも取り外されたということで、地元の警察は盗まれたとみて目撃情報の提供を呼びかけるなどして捜査しています。\n",
+    "trimmedLead": "ニュージーランドで15年前に起きた地震で亡くなった日本人を含む犠牲者を追悼する金属プレートが、何者かによって取り外されているのがわかり、地元の警察は盗まれたとみて捜査しています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260821de45470.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260821de45470",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "NZ地震 犠牲者追悼のプレート取り外される 盗難か",
+      "description": "ニュージーランドで15年前に起きた地震で亡くなった日本人を含む犠牲者を追悼する金属プレートが、何者かによって取り外されているのがわかり、地元の警察は盗まれたとみて捜査しています。\n\n\n2011年2月、",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20260821de45470_E0000014300_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20260821de45470/20260821de45470_E0000014299_1_l.jpg",
+      "duration": "PT1M11S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20260821de45470_E0000014300_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45470/20260821de45470_E0000014299_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "米「史上最大規模の制裁」へ イランは「経済テロ」と反発",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45432",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45432/20260821de45432_E0000014051_1_s.jpg",
+      "datePublished": "2026-08-21T06:16:00+09:00"
+    },
+    {
+      "name": "NYダウ700ドル超下落 米長期金利が再び上昇で",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45439",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45439/20260821de45439_E0000014059_1_s.jpg",
+      "datePublished": "2026-08-21T07:12:14+09:00"
+    },
+    {
+      "name": "中央アフリカで金鉱山が崩落し 100人以上死亡 救助活動続く",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260820de45418",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45418/20260820de45418_E0000004049_1_s.jpg",
+      "datePublished": "2026-08-21T00:18:21+09:00"
+    },
+    {
+      "name": "中国 不動産大手「恒大グループ」創業者に無期懲役の判決",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260820de45377",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45377/20260820de45377_E0000013982_1_s.jpg",
+      "datePublished": "2026-08-20T20:58:24+09:00"
+    },
+    {
+      "name": "中国 レアアース磁石の対日輸出 7月は半減 輸出規制が影響か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260820de45409",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45409/20260820de45409_E0000003519_1_s.jpg",
+      "datePublished": "2026-08-20T21:52:58+09:00"
+    },
+    {
+      "name": "キム・ヨジョン氏 “米韓は主従関係”米と対話の可能性示唆か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45428",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45428/20260821de45428_E0000014048_1_s.jpg",
+      "datePublished": "2026-08-21T04:48:22+09:00"
+    },
+    {
+      "name": "ロシアによる攻撃 キーウなどで16人死亡 46人けが",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260820de45383",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45383/20260820de45383_E0000013975_1_s.jpg",
+      "datePublished": "2026-08-21T03:16:00+09:00"
+    },
+    {
+      "name": "高市首相 英首相と初の電話会談 安全保障など協力推進で一致",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260820de45372",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45372/20260820de45372_E0000014003_1_s.jpg",
+      "datePublished": "2026-08-21T03:23:58+09:00"
+    },
+    {
+      "name": "トランプファミリー関わるリゾート計画で噴き出す怒り",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43111",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43111/20260810de43111_E0000006231_1_s.jpg",
+      "datePublished": "2026-08-17T19:40:08+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
