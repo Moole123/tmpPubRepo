@@ -1,0 +1,149 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260821de45594",
+  "dataSourceId": "nd",
+  "name": "中国 南部の大規模洪水で死者159人に 各地で大雨被害",
+  "headline": "中国 南部の大規模洪水で死者159人に 各地で大雨被害",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260821de45594",
+    "playlistId": "news-nwa-international-nationwide-20260821",
+    "newsarticleName": "中国 南部の大規模洪水で死者159人に 各地で大雨被害",
+    "playlistName": "8月21日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "中国南部で7月に発生した、台風の影響による大規模な洪水などの被害について、国営メディアは、広西チワン族自治区の死者の数が大幅に増え、合わせて159人になったと伝えています。\n\n\n中国南部では7月上旬、",
+  "dateModified": "2026-08-21T22:16:48+09:00",
+  "datePublished": "2026-08-21T22:16:48+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45594/20260821de45594_E0000014743_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45594/20260821de45594_E0000014743_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000215",
+      "name": "中国",
+      "display": true
+    },
+    {
+      "id": "E0000000202",
+      "name": "台風",
+      "display": true
+    },
+    {
+      "id": "E0000000114",
+      "name": "気象",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "中国南部で7月に発生した、台風の影響による大規模な洪水などの被害について、国営メディアは、広西チワン族自治区の死者の数が大幅に増え、合わせて159人になったと伝えています。\n\n\n中国南部では7月上旬、",
+  "articleBody": "中国南部で7月に発生した、台風の影響による大規模な洪水などの被害について、国営メディアは、広西チワン族自治区の死者の数が大幅に増え、合わせて159人になったと伝えています。\n\n\n中国南部では7月上旬、台風10号などの影響で大雨や暴風の被害が相次ぎ、このうち広西チワン族自治区ではダムが決壊し、大規模な洪水が発生するなどしました。\n\n地元当局は、7月9日時点で39人が死亡したと発表していましたが、国営の中国中央テレビによりますと、8月21日までに確認された死者の数が大幅に増え、合わせて159人になったと伝えました。\n\nまた、洪水などの被災者は165万人以上にのぼるということです。\n\n中国では、このほかにも7月は大雨による被害が各地で相次ぎ、内陸部・甘粛省で短時間の大雨による土砂災害が発生し、25人が死亡しています。\n\n各地で災害が相次ぐなか、習近平国家主席は、防災を徹底しリスクや危険な場所を点検・是正するよう求める重要指示を出しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "中国南部で7月に発生した、台風の影響による大規模な洪水などの被害について、国営メディアは、広西チワン族自治区の死者の数が大幅に増え、合わせて159人になったと伝えています。\n",
+    "markedBody": "中国南部では7月上旬、台風10号などの影響で大雨や暴風の被害が相次ぎ、このうち広西チワン族自治区ではダムが決壊し、大規模な洪水が発生するなどしました。\n\n地元当局は、7月9日時点で39人が死亡したと発表していましたが、国営の中国中央テレビによりますと、8月21日までに確認された死者の数が大幅に増え、合わせて159人になったと伝えました。\n\nまた、洪水などの被災者は165万人以上にのぼるということです。\n\n中国では、このほかにも7月は大雨による被害が各地で相次ぎ、内陸部・甘粛省で短時間の大雨による土砂災害が発生し、25人が死亡しています。\n\n各地で災害が相次ぐなか、習近平国家主席は、防災を徹底しリスクや危険な場所を点検・是正するよう求める重要指示を出しています。\n",
+    "trimmedLead": "中国南部で7月に発生した、台風の影響による大規模な洪水などの被害について、国営メディアは、広西チワン族自治区の死者の数が大幅に増え、合わせて159人になったと伝えています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260821de45594.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260821de45594",
+  "video": [],
+  "citation": [
+    {
+      "name": "超党派議員が来週訪中 中国外務省「正しい軌道への努力 留意」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45591",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45591/20260821de45591_E0000014720_1_s.jpg",
+      "datePublished": "2026-08-21T21:32:00+09:00"
+    },
+    {
+      "name": "中国 レアアース磁石の対日輸出 7月は半減 輸出規制が影響か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260820de45409",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45409/20260820de45409_E0000003519_1_s.jpg",
+      "datePublished": "2026-08-20T21:52:58+09:00"
+    },
+    {
+      "name": "北日本～西日本 あすにかけ大気が非常に不安定 各地で雨雲発達",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45437",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45437/20260821de45437_E0000014673_1_s.jpg",
+      "datePublished": "2026-08-21T22:59:12+09:00"
+    },
+    {
+      "name": "台風18号 今後の情報に注意を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45459",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45459/20260821de45459_E0000014533_1_s.jpg",
+      "datePublished": "2026-08-21T19:48:50+09:00"
+    },
+    {
+      "name": "熊本地震 被災地は危険な暑さに 大気不安定で非常に激しい雨も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45584",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45584/20260821de45584_E0000014705_1_s.jpg",
+      "datePublished": "2026-08-21T20:44:04+09:00"
+    },
+    {
+      "name": "熊本地震 災害関連死の疑い含め38人死亡 避難所に2884人避難",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45477",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45477/20260821de45477_E0000014283_1_s.jpg",
+      "datePublished": "2026-08-21T21:14:39+09:00"
+    },
+    {
+      "name": "千葉豪雨 千葉市で義援金の受け付け始まる【被災地では】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45464",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45464/20260821de45464_E0000014156_1_s.jpg",
+      "datePublished": "2026-08-21T21:31:01+09:00"
+    },
+    {
+      "name": "韓国訪問中の中国外相 北朝鮮めぐり“米は敵視政策の放棄を”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260820de45419",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45419/20260820de45419_E0000014032_1_s.jpg",
+      "datePublished": "2026-08-20T22:41:50+09:00"
+    },
+    {
+      "name": "香港 天安門事件追悼団体と幹部に有罪判決",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45542",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45542/20260821de45542_E0000014540_1_s.jpg",
+      "datePublished": "2026-08-21T23:50:34+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

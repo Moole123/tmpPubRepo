@@ -1,0 +1,145 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260821de45596",
+  "dataSourceId": "nd",
+  "name": "経産省 ラピダス出資に1500億円要求へ 来年度予算の概算要求で",
+  "headline": "経産省 ラピダス出資に1500億円要求へ 来年度予算の概算要求で",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260821de45596",
+    "playlistId": "news-nwa-business-nationwide-20260821",
+    "newsarticleName": "経産省 ラピダス出資に1500億円要求へ 来年度予算の概算要求で",
+    "playlistName": "8月21日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "経済産業省は、先端半導体の量産を目指す「ラピダス」への新たな出資金として、来年度予算の概算要求で1500億円を要求する方針を固めました。実現すれば国による出資は3度目で、出資額は合わせて4000億円に",
+  "dateModified": "2026-08-21T22:18:25+09:00",
+  "datePublished": "2026-08-21T22:18:25+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45596/20260821de45596_E0000014741_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45596/20260821de45596_E0000014741_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "E0000000460",
+      "name": "経済産業省",
+      "display": true
+    },
+    {
+      "id": "E0000000475",
+      "name": "半導体",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "経済産業省は、先端半導体の量産を目指す「ラピダス」への新たな出資金として、来年度予算の概算要求で1500億円を要求する方針を固めました。実現すれば国による出資は3度目で、出資額は合わせて4000億円に",
+  "articleBody": "経済産業省は、先端半導体の量産を目指す「ラピダス」への新たな出資金として、来年度予算の概算要求で1500億円を要求する方針を固めました。実現すれば国による出資は3度目で、出資額は合わせて4000億円になります。\n\n\n家電やスマートフォンなど幅広い製品に欠かせない半導体について、政府は国の「特定重要物資」に指定し生産能力を強化することにしていて、北海道千歳市で先端半導体の量産を目指すラピダスは、その中心的な役割を担うことが期待されています。\n\nこうした中で経済産業省は、来年度の概算要求で、ラピダスへの新たな出資金として1500億円を要求する方針を固めました。\n\n実現すればラピダスへの国の出資は3度目で、出資額は合わせて4000億円になります。\n\n政府のラピダスへの支援額は、出資以外の研究開発費なども含めるとこれまでに2兆6000億円余りに上るだけに、巨額の支援に見合う具体的な成果を出せるかが焦点になっています。\n",
+  "detailedArticleBody": {
+    "markedLead": "経済産業省は、先端半導体の量産を目指す「ラピダス」への新たな出資金として、来年度予算の概算要求で1500億円を要求する方針を固めました。実現すれば国による出資は3度目で、出資額は合わせて4000億円になります。\n",
+    "markedBody": "家電やスマートフォンなど幅広い製品に欠かせない半導体について、政府は国の「特定重要物資」に指定し生産能力を強化することにしていて、北海道千歳市で先端半導体の量産を目指すラピダスは、その中心的な役割を担うことが期待されています。\n\nこうした中で経済産業省は、来年度の概算要求で、ラピダスへの新たな出資金として1500億円を要求する方針を固めました。\n\n実現すればラピダスへの国の出資は3度目で、出資額は合わせて4000億円になります。\n\n政府のラピダスへの支援額は、出資以外の研究開発費なども含めるとこれまでに2兆6000億円余りに上るだけに、巨額の支援に見合う具体的な成果を出せるかが焦点になっています。\n",
+    "trimmedLead": "経済産業省は、先端半導体の量産を目指す「ラピダス」への新たな出資金として、来年度予算の概算要求で1500億円を要求する方針を固めました。実現すれば国による出資は3度目で、出資額は合わせて4000億円になります。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260821de45596.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260821de45596",
+  "video": [],
+  "citation": [
+    {
+      "name": "台風18号 23日には非常に強い勢力に発達か 今後の情報に注意を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260820de45221",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45221/20260820de45221_E0000014027_1_s.jpg",
+      "datePublished": "2026-08-20T19:41:00+09:00"
+    },
+    {
+      "name": "経産省 石油化学プラントの脱中東ナフサ依存を支援へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260820de45329",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45329/20260820de45329_E0000013706_1_s.jpg",
+      "datePublished": "2026-08-20T18:10:54+09:00"
+    },
+    {
+      "name": "経産省 来年度予算案の概算要求 7兆7千億円規模で調整",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260820de45186",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45186/20260820de45186_E0000012988_1_s.jpg",
+      "datePublished": "2026-08-20T05:25:53+09:00"
+    },
+    {
+      "name": "防衛省 令和9年度予算案 過去最大 約9兆円要求の方向で調整",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260819de45165",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45165/20260819de45165_E0000012963_1_s.jpg",
+      "datePublished": "2026-08-19T22:30:59+09:00"
+    },
+    {
+      "name": "クールジャパン機構 概算要求見送り 廃止含めて検討 経産省",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45462",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45462/20260821de45462_E0000014129_1_s.jpg",
+      "datePublished": "2026-08-21T11:51:00+09:00"
+    },
+    {
+      "name": "ソニー・TSMC 次世代画像センサー 2029年から量産へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260811de43301",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43301/20260811de43301_E0000006881_2_s.jpg",
+      "datePublished": "2026-08-12T05:17:00+09:00"
+    },
+    {
+      "name": "国債利払い費の想定金利は3.8％調整 国債費も膨張へ 概算要求",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45549",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45549/20260821de45549_E0000014550_1_s.jpg",
+      "datePublished": "2026-08-21T20:10:01+09:00"
+    },
+    {
+      "name": "女性研究者支援の大学に年間最大5000万円補助へ 文部科学省",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260816de44362",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44362/20260816de44362_E0000003806_1_s.jpg",
+      "datePublished": "2026-08-16T13:16:34+09:00"
+    },
+    {
+      "name": "クルマづくりで進むAI活用 人間に残る仕事は何か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44691",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44691/20260818de44691_E0000013932_1_s.jpg",
+      "datePublished": "2026-08-20T19:52:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
