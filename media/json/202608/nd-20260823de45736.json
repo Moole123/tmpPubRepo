@@ -1,0 +1,154 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260823de45736",
+  "dataSourceId": "nd",
+  "name": "JR外房線 きょう始発から全線で運転再開へ",
+  "headline": "JR外房線 きょう始発から全線で運転再開へ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260823de45736",
+    "playlistId": "news-nwa-disaster-nationwide-20260823",
+    "newsarticleName": "JR外房線 きょう始発から全線で運転再開へ",
+    "playlistName": "8月23日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "千葉県での記録的な豪雨により、一部区間で運転の見合わせが続いていたJR外房線は復旧作業が順調に進み、予定より1日早く23日の始発から全線で運転が再開される予定です。\n\n\n今回の豪雨でJR外房線は、線路",
+  "dateModified": "2026-08-23T01:34:29+09:00",
+  "datePublished": "2026-08-23T01:34:29+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-640x360.png",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000010098",
+      "name": "千葉豪雨",
+      "display": true
+    },
+    {
+      "id": "E0000000651",
+      "name": "交通・インフラ",
+      "display": true
+    },
+    {
+      "id": "E0000000481",
+      "name": "鉄道",
+      "display": true
+    },
+    {
+      "id": "E0000000340",
+      "name": "千葉県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "千葉県での記録的な豪雨により、一部区間で運転の見合わせが続いていたJR外房線は復旧作業が順調に進み、予定より1日早く23日の始発から全線で運転が再開される予定です。\n\n\n今回の豪雨でJR外房線は、線路",
+  "articleBody": "千葉県での記録的な豪雨により、一部区間で運転の見合わせが続いていたJR外房線は復旧作業が順調に進み、予定より1日早く23日の始発から全線で運転が再開される予定です。\n\n\n今回の豪雨でJR外房線は、線路の下の土砂が流出するなどして、大網白里市の大網駅と千葉市の誉田駅の間で運転の見合わせが続いていました。\n\nその後、線路の復旧作業が順調に進んだことから、JRは当初の予定より1日早い23日の始発から全線で運転を再開することにしました。\n\nJR茂原駅ではお盆明けの今月17日から代行バスが運行されていましたが、外房線の全線再開が決まった22日、乗客からは喜びの声が聞かれました。\n\n通勤で外房線を利用するという60代の男性は「運転再開は大変うれしいです。この間、バスがあって助かりました」と話していました。\n\nまた、通学などで利用する20代の男性は「バスだと電車よりも時間がかかるので再開が早まってよかったです」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "千葉県での記録的な豪雨により、一部区間で運転の見合わせが続いていたJR外房線は復旧作業が順調に進み、予定より1日早く23日の始発から全線で運転が再開される予定です。\n",
+    "markedBody": "今回の豪雨でJR外房線は、線路の下の土砂が流出するなどして、大網白里市の大網駅と千葉市の誉田駅の間で運転の見合わせが続いていました。\n\nその後、線路の復旧作業が順調に進んだことから、JRは当初の予定より1日早い23日の始発から全線で運転を再開することにしました。\n\nJR茂原駅ではお盆明けの今月17日から代行バスが運行されていましたが、外房線の全線再開が決まった22日、乗客からは喜びの声が聞かれました。\n\n通勤で外房線を利用するという60代の男性は「運転再開は大変うれしいです。この間、バスがあって助かりました」と話していました。\n\nまた、通学などで利用する20代の男性は「バスだと電車よりも時間がかかるので再開が早まってよかったです」と話していました。\n",
+    "trimmedLead": "千葉県での記録的な豪雨により、一部区間で運転の見合わせが続いていたJR外房線は復旧作業が順調に進み、予定より1日早く23日の始発から全線で運転が再開される予定です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260823de45736.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260823de45736",
+  "video": [],
+  "citation": [
+    {
+      "name": "鉄道運行情報",
+      "url": "https://news.web.nhk/news/traffic/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00046_E0000003285_1_s.jpg"
+    },
+    {
+      "name": "千葉豪雨「低地」に被災集中　専門家「大雨時の行動 検討を」 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260822de45702",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45702/20260822de45702_E0000015039_1_s.jpg",
+      "datePublished": "2026-08-22T21:16:34+09:00"
+    },
+    {
+      "name": "東京駅近くで信号機が地面に沈む 工事中 大雨が原因の可能性",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260822de45716",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45716/20260822de45716_E0000015112_1_s.jpg",
+      "datePublished": "2026-08-22T21:52:44+09:00"
+    },
+    {
+      "name": "台風20号の影響 沖縄 八重山地方で23日に線状降水帯発生おそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260822de45693",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45693/20260822de45693_E0000015006_1_s.jpg",
+      "datePublished": "2026-08-22T23:02:37+09:00"
+    },
+    {
+      "name": "熊本 中学生 部活で汗 菓子店 もなか作り再開【被災地の動き】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260822de45646",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45646/20260822de45646_E0000015095_1_s.jpg",
+      "datePublished": "2026-08-22T22:07:59+09:00"
+    },
+    {
+      "name": "滋賀 野洲 化学工場で男性作業員2人が意識不明",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260822de45718",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45718/20260822de45718_E0000003884_1_s.jpg",
+      "datePublished": "2026-08-22T22:26:40+09:00"
+    },
+    {
+      "name": "栃木4人死亡列車事故 運転士200メートル手前で進入許可認識か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260822de45675",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45675/20260822de45675_E0000014984_1_s.jpg",
+      "datePublished": "2026-08-22T18:51:00+09:00"
+    },
+    {
+      "name": "変革期の甲子園 選手が“いい顔”を続けられるように",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260822de45668",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45668/20260822de45668_E0000015096_1_s.jpg",
+      "datePublished": "2026-08-22T23:30:41+09:00"
+    },
+    {
+      "name": "オーバードーズ それでも、なぜ 依存・死亡のリスクも",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260820de45214",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45214/20260820de45214_E0000014761_1_s.jpg",
+      "datePublished": "2026-08-22T20:22:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": false,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
