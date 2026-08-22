@@ -1,0 +1,159 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260823de45731",
+  "dataSourceId": "nd",
+  "name": "東京 杉並 道路が冠水し看板が水に流される【22日・映像】",
+  "headline": "東京 杉並 道路が冠水し看板が水に流される【22日・映像】",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260823de45731",
+    "playlistId": "news-nwa-disaster-nationwide-20260823",
+    "newsarticleName": "東京 杉並 道路が冠水し看板が水に流される【22日・映像】",
+    "playlistName": "8月23日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "関東南部では、22日夕方、猛烈な雨が降って「記録的短時間大雨」の気象防災速報が相次いで発表されました。\n\n\n22日午後5時すぎ、東京・杉並区にある京王井の頭線の久我山駅の近くで撮影された映像です。\n\n",
+  "dateModified": "2026-08-23T05:50:59+09:00",
+  "datePublished": "2026-08-23T05:50:59+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45731/20260823de45731_E0000015141_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45731/20260823de45731_E0000015141_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000341",
+      "name": "東京都",
+      "display": true
+    },
+    {
+      "id": "E0000000587",
+      "name": "大雨情報",
+      "display": true
+    },
+    {
+      "id": "E0000000114",
+      "name": "気象",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "関東南部では、22日夕方、猛烈な雨が降って「記録的短時間大雨」の気象防災速報が相次いで発表されました。\n\n\n22日午後5時すぎ、東京・杉並区にある京王井の頭線の久我山駅の近くで撮影された映像です。\n\n",
+  "articleBody": "関東南部では、22日夕方、猛烈な雨が降って「記録的短時間大雨」の気象防災速報が相次いで発表されました。\n\n\n22日午後5時すぎ、東京・杉並区にある京王井の頭線の久我山駅の近くで撮影された映像です。\n\n道路が冠水し、水が速いスピードで流れています。\n\n足首の上くらいまでの水の中、ベビーカーを持ち上げて運ぶ人がいたほか、看板が水に流されている様子も見られました。\n\nカフェの中には水が入り込んでいて、店員がこれ以上水が流れ込むのを防ごうと、店の入り口に板を立てて押さえています。\n",
+  "detailedArticleBody": {
+    "markedLead": "関東南部では、22日夕方、猛烈な雨が降って「記録的短時間大雨」の気象防災速報が相次いで発表されました。\n",
+    "markedBody": "22日午後5時すぎ、東京・杉並区にある京王井の頭線の久我山駅の近くで撮影された映像です。\n\n道路が冠水し、水が速いスピードで流れています。\n\n足首の上くらいまでの水の中、ベビーカーを持ち上げて運ぶ人がいたほか、看板が水に流されている様子も見られました。\n\nカフェの中には水が入り込んでいて、店員がこれ以上水が流れ込むのを防ごうと、店の入り口に板を立てて押さえています。\n",
+    "trimmedLead": "関東南部では、22日夕方、猛烈な雨が降って「記録的短時間大雨」の気象防災速報が相次いで発表されました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260823de45731.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260823de45731",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "東京 杉並 道路が冠水し看板が水に流される【22日・映像】",
+      "description": "関東南部では、22日夕方、猛烈な雨が降って「記録的短時間大雨」の気象防災速報が相次いで発表されました。\n\n\n22日午後5時すぎ、東京・杉並区にある京王井の頭線の久我山駅の近くで撮影された映像です。\n\n",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20260823de45731_E0000015142_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20260823de45731/20260823de45731_E0000015141_1_l.jpg",
+      "duration": "PT16S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20260823de45731_E0000015142_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45731/20260823de45731_E0000015141_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "茨城 東京 埼玉 千葉で震度5弱 気象庁“今後1週間程度は注意”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260823de45738",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45738/20260823de45738_E0000015157_1_s.jpg",
+      "datePublished": "2026-08-23T06:55:59+09:00"
+    },
+    {
+      "name": "【被害情報まとめ】地震 埼玉県や神奈川県で複数のけが人",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260823de45744",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45744/20260823de45744_E0000003973_1_s.jpg",
+      "datePublished": "2026-08-23T06:59:13+09:00"
+    },
+    {
+      "name": "【地震】東京 江東区“水道管が破裂”道路に水があふれ出す",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260823de45743",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45743/20260823de45743_E0000015182_1_s.jpg",
+      "datePublished": "2026-08-23T02:32:00+09:00"
+    },
+    {
+      "name": "地震による交通機関への影響",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260823de45760",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45760/20260823de45760_E0000003971_1_s.jpg",
+      "datePublished": "2026-08-23T06:30:45+09:00"
+    },
+    {
+      "name": "地震や津波発生時の行動と備え ポイントをイラスト解説",
+      "url": "https://news.web.nhk/newsweb/na/nc-28c42bc2-428e-4daa-ba42-f06c071cf15b",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00296_E0000003316_1_s.jpg"
+    },
+    {
+      "name": "オーバードーズ それでも、なぜ 依存・死亡のリスクも",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260820de45214",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45214/20260820de45214_E0000014761_1_s.jpg",
+      "datePublished": "2026-08-22T20:22:00+09:00"
+    },
+    {
+      "name": "変革期の甲子園 選手が“いい顔”を続けられるように",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260822de45668",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45668/20260822de45668_E0000015096_1_s.jpg",
+      "datePublished": "2026-08-22T23:30:41+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": false,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
