@@ -1,0 +1,137 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260822de45671",
+  "dataSourceId": "nd",
+  "name": "【ライブ】東京 北区と板橋区付近 埼玉 戸田市付近で記録的な大雨",
+  "headline": "東京 北区と板橋区付近 埼玉 戸田市付近で記録的な大雨",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260822de45671",
+    "playlistId": "news-nwa-disaster-nationwide-20260822",
+    "newsarticleName": "【ライブ】東京 北区と板橋区付近 埼玉 戸田市付近で記録的な大雨",
+    "playlistName": "8月22日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "気象庁によりますと、東京の北区付近と板橋区付近、それに埼玉県戸田市付近では、レーダーによる解析で午後5時までの1時間にいずれもおよそ100ミリの猛烈な雨が降ったとみられます。\n\n災害が発生する危険が迫",
+  "dateModified": "2026-08-22T17:51:51+09:00",
+  "datePublished": "2026-08-22T17:20:37+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45671/20260822de45671_E0000014983_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45671/20260822de45671_E0000014983_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000114",
+      "name": "気象",
+      "display": true
+    },
+    {
+      "id": "E0000000341",
+      "name": "東京都",
+      "display": true
+    },
+    {
+      "id": "E0000000339",
+      "name": "埼玉県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "気象庁によりますと、東京の北区付近と板橋区付近、それに埼玉県戸田市付近では、レーダーによる解析で午後5時までの1時間にいずれもおよそ100ミリの猛烈な雨が降ったとみられます。\n\n災害が発生する危険が迫",
+  "articleBody": "気象庁によりますと、東京の北区付近と板橋区付近、それに埼玉県戸田市付近では、レーダーによる解析で午後5時までの1時間にいずれもおよそ100ミリの猛烈な雨が降ったとみられます。\n\n災害が発生する危険が迫っていることから、気象庁は「記録的短時間大雨」の気象防災速報を発表して、安全を確保するよう、呼びかけています。\n\n各地の様子をライブ配信でお伝えしています。\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "気象庁によりますと、東京の北区付近と板橋区付近、それに埼玉県戸田市付近では、レーダーによる解析で午後5時までの1時間にいずれもおよそ100ミリの猛烈な雨が降ったとみられます。\n\n災害が発生する危険が迫っていることから、気象庁は「記録的短時間大雨」の気象防災速報を発表して、安全を確保するよう、呼びかけています。\n\n**各地の様子をライブ配信でお伝えしています。**\n",
+    "markedBody": "```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"001\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\n<div class=\"fs-wrap\">\n  <h2 class=\"freespace-title\">【ライブ配信中】</h2>\n  <div class=\"video-player-fixed\">\n    <iframe src=\"https://news.web.nhk/n-data/conf/realtime/movie/player_rt20260822de45685_05.html\" title=\"NHKライブ配信\" allow=\"fullscreen\"></iframe>\n  </div>\n</div>\n</div>\n```\n\n```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"002\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\n<div class=\"fs-wrap\">\n  <h2 class=\"freespace-title\">【ライブ配信中】</h2>\n  <div class=\"video-player-fixed\">\n    <iframe src=\"https://news.web.nhk/n-data/conf/realtime/movie/player_rt20260822de45685_06.html\" title=\"NHKライブ配信\" allow=\"fullscreen\"></iframe>\n  </div>\n</div>\n</div>\n```\n\n```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"003\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\n<div class=\"fs-wrap\">\n  <h2 class=\"freespace-title\">【ライブ配信中】</h2>\n  <div class=\"video-player-fixed\">\n    <iframe src=\"https://news.web.nhk/n-data/conf/realtime/movie/player_rt20260822de45685_07.html\" title=\"NHKライブ配信\" allow=\"fullscreen\"></iframe>\n  </div>\n</div>\n</div>\n```\n\n```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"004\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\n<div class=\"fs-wrap\">\n  <h2 class=\"freespace-title\">【ライブ配信中】</h2>\n  <div class=\"video-player-fixed\">\n    <iframe src=\"https://news.web.nhk/n-data/conf/realtime/movie/player_rt20260822de45685_08.html\" title=\"NHKライブ配信\" allow=\"fullscreen\"></iframe>\n  </div>\n</div>\n</div>\n```\n",
+    "noHtmlMarkedLead": "気象庁によりますと、東京の北区付近と板橋区付近、それに埼玉県戸田市付近では、レーダーによる解析で午後5時までの1時間にいずれもおよそ100ミリの猛烈な雨が降ったとみられます。\n\n災害が発生する危険が迫っていることから、気象庁は「記録的短時間大雨」の気象防災速報を発表して、安全を確保するよう、呼びかけています。\n\n**各地の様子をライブ配信でお伝えしています。**\n",
+    "trimmedLead": "気象庁によりますと、東京の北区付近と板橋区付近、それに埼玉県戸田市付近では、レーダーによる解析で午後5時までの1時間にいずれもおよそ100ミリの猛烈な雨が降ったとみられます。\n\n災害が発生する危険が迫っていることから、気象庁は「記録的短時間大雨」の気象防災速報を発表して、安全を確保するよう、呼びかけています。\n\n各地の様子をライブ配信でお伝えしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260822de45671.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260822de45671",
+  "video": [],
+  "citation": [
+    {
+      "name": "台風18号 来週 南西諸島に近づくおそれ 今後の情報に注意を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260822de45618",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45618/20260822de45618_E0000014945_1_s.jpg",
+      "datePublished": "2026-08-22T10:47:00+09:00"
+    },
+    {
+      "name": "TikTok 米司法省に4億ドル支払いで和解",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260822de45652",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45652/20260822de45652_E0000014887_1_s.jpg",
+      "datePublished": "2026-08-22T15:00:00+09:00"
+    },
+    {
+      "name": "トランプ大統領 経済制裁強化しイラン側の対応見極める考え",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260822de45643",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45643/20260822de45643_E0000014852_1_s.jpg",
+      "datePublished": "2026-08-22T13:31:00+09:00"
+    },
+    {
+      "name": "ICC赤根智子所長「『法の支配』の終えんの始まりとさせない」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260822de45623",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45623/20260822de45623_E0000014784_1_s.jpg",
+      "datePublished": "2026-08-22T07:26:00+09:00"
+    },
+    {
+      "name": "千葉 路上の車両の所有者への引き渡し 警察などに協力求める",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260822de45615",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45615/20260822de45615_E0000014773_1_s.jpg",
+      "datePublished": "2026-08-22T12:27:49+09:00"
+    },
+    {
+      "name": "高校野球 智弁和歌山が優勝 5年ぶり4回目 健大高崎に逆転勝ち",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260820de45392",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45392/20260820de45392_E0000014855_1_s.jpg",
+      "datePublished": "2026-08-22T17:18:12+09:00"
+    },
+    {
+      "name": "【夏の甲子園2026 特集ページ】日程・結果 最新ニュース 特集記事 ",
+      "url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000513",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260809de42914_E0000005623_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": true
+  }
+}
