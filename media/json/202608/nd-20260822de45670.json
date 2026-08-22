@@ -1,0 +1,153 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260822de45670",
+  "dataSourceId": "nd",
+  "name": "青森 十和田 外国人観光客がクマに襲われけが 命に別状なし",
+  "headline": "青森 十和田 外国人観光客がクマに襲われけが 命に別状なし",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260822de45670",
+    "playlistId": "news-nwa-society-nationwide-20260822",
+    "newsarticleName": "青森 十和田 外国人観光客がクマに襲われけが 命に別状なし",
+    "playlistName": "8月22日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "22日午前、青森県十和田市の展望台の近くで、観光に訪れていた30代の外国人の男性がクマに腕をかまれるなどしてけがをしました。クマは見つかっておらず、自治体などが住民や観光客に注意を呼びかけています。\n",
+  "dateModified": "2026-08-22T18:38:17+09:00",
+  "datePublished": "2026-08-22T18:38:17+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45670/20260822de45670_E0000014967_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45670/20260822de45670_E0000014967_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000521",
+      "name": "クマ被害",
+      "display": true
+    },
+    {
+      "id": "E0000000330",
+      "name": "青森県",
+      "display": true
+    },
+    {
+      "id": "E0000000149",
+      "name": "環境",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "22日午前、青森県十和田市の展望台の近くで、観光に訪れていた30代の外国人の男性がクマに腕をかまれるなどしてけがをしました。クマは見つかっておらず、自治体などが住民や観光客に注意を呼びかけています。\n",
+  "articleBody": "22日午前、青森県十和田市の展望台の近くで、観光に訪れていた30代の外国人の男性がクマに腕をかまれるなどしてけがをしました。クマは見つかっておらず、自治体などが住民や観光客に注意を呼びかけています。\n\n\n自治体や消防によりますと、22日午前10時すぎ、青森県十和田市奥瀬の瞰湖台展望台の近くで、観光に訪れていた30代の外国人の男性がクマに襲われました。\n\n男性はクマに腕をかまれてけがをしたほか、肩や口にもけがをしていて、青森県八戸市内の病院にドクターヘリで搬送されました。\n\n男性は搬送時、意識があり、会話も可能な状態で、命に別状はないということです。\n\n市によりますと、クマは男性を襲ったあと、山の中に逃げていったということです。\n\n現場は十和田湖が眺められる展望台の近くで、市は近くに箱わなを設置するよう猟友会に依頼したほか、警察とともに現場付近をパトロールするなどして、住民や観光客に注意を呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "22日午前、青森県十和田市の展望台の近くで、観光に訪れていた30代の外国人の男性がクマに腕をかまれるなどしてけがをしました。クマは見つかっておらず、自治体などが住民や観光客に注意を呼びかけています。\n",
+    "markedBody": "自治体や消防によりますと、22日午前10時すぎ、青森県十和田市奥瀬の瞰湖台展望台の近くで、観光に訪れていた30代の外国人の男性がクマに襲われました。\n\n男性はクマに腕をかまれてけがをしたほか、肩や口にもけがをしていて、青森県八戸市内の病院にドクターヘリで搬送されました。\n\n男性は搬送時、意識があり、会話も可能な状態で、命に別状はないということです。\n\n市によりますと、クマは男性を襲ったあと、山の中に逃げていったということです。\n\n現場は十和田湖が眺められる展望台の近くで、市は近くに箱わなを設置するよう猟友会に依頼したほか、警察とともに現場付近をパトロールするなどして、住民や観光客に注意を呼びかけています。\n",
+    "trimmedLead": "22日午前、青森県十和田市の展望台の近くで、観光に訪れていた30代の外国人の男性がクマに腕をかまれるなどしてけがをしました。クマは見つかっておらず、自治体などが住民や観光客に注意を呼びかけています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260822de45670.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260822de45670",
+  "video": [],
+  "citation": [
+    {
+      "name": "「クマ被害」ニュース 特集サイト",
+      "url": "https://news.web.nhk/newsweb/sp/pl/news-nwa-topic-nationwide-0002515",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00295_E0000003314_1_s.jpg"
+    },
+    {
+      "name": "関東南部で猛烈な雨 浸水や川の氾濫に厳重警戒を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260822de45682",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45682/20260822de45682_E0000014994_1_s.jpg",
+      "datePublished": "2026-08-22T20:10:39+09:00"
+    },
+    {
+      "name": "台風18号 来週 南西諸島に近づくおそれ 今後の情報に注意を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260822de45618",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45618/20260822de45618_E0000014945_1_s.jpg",
+      "datePublished": "2026-08-22T10:47:00+09:00"
+    },
+    {
+      "name": "高校野球 智弁和歌山が優勝 5年ぶり4回目 健大高崎に逆転勝ち",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260820de45392",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45392/20260820de45392_E0000014855_1_s.jpg",
+      "datePublished": "2026-08-22T19:34:15+09:00"
+    },
+    {
+      "name": "千葉豪雨 被害住宅の応急修理支援する制度 受け付け順次始まる",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260822de45641",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45641/20260822de45641_E0000014839_1_s.jpg",
+      "datePublished": "2026-08-22T18:16:20+09:00"
+    },
+    {
+      "name": "熊本地震 八代市がごみ出し控える呼びかけ 処理が追いつかず",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260822de45657",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45657/20260822de45657_E0000014907_1_s.jpg",
+      "datePublished": "2026-08-22T16:34:21+09:00"
+    },
+    {
+      "name": "ドジャース4連勝 山本由伸好投も13勝目ならず 大谷翔平1安打",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260822de45660",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45660/20260822de45660_E0000014927_1_s.jpg",
+      "datePublished": "2026-08-22T18:43:07+09:00"
+    },
+    {
+      "name": "トランプ政権 カナダ産乳製品やワインなどに50％追加関税発動",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260822de45661",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45661/20260822de45661_E0000003523_1_s.jpg",
+      "datePublished": "2026-08-22T15:45:19+09:00"
+    },
+    {
+      "name": "TikTok 米司法省に4億ドル支払いで和解",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260822de45652",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45652/20260822de45652_E0000014887_1_s.jpg",
+      "datePublished": "2026-08-22T15:00:00+09:00"
+    },
+    {
+      "name": "【夏の甲子園2026 特集ページ】日程・結果 最新ニュース 特集記事 ",
+      "url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000513",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260809de42914_E0000005623_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

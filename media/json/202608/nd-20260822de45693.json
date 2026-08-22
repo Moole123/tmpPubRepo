@@ -1,0 +1,172 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260822de45693",
+  "dataSourceId": "nd",
+  "name": "【台風】18号 来週南西諸島に接近か 19号と20号も相次いで発生",
+  "headline": "【台風】18号 来週南西諸島に接近か 19号と20号も相次いで発生",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260822de45693",
+    "playlistId": "news-nwa-disaster-nationwide-20260822",
+    "newsarticleName": "【台風】18号 来週南西諸島に接近か 19号と20号も相次いで発生",
+    "playlistName": "8月22日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "強い台風18号は、日本のはるか南の海上を進んでいて、来週、南西諸島に近づくおそれがあります。また22日は、台風19号と20号が相次いで発生しました。\n\n今後の情報に注意してください。\n\n\n台風18号\n",
+  "dateModified": "2026-08-22T18:53:00+09:00",
+  "datePublished": "2026-08-22T18:53:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45693/20260822de45693_E0000015006_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45693/20260822de45693_E0000015006_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000202",
+      "name": "台風",
+      "display": true
+    },
+    {
+      "id": "E0000000114",
+      "name": "気象",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "強い台風18号は、日本のはるか南の海上を進んでいて、来週、南西諸島に近づくおそれがあります。また22日は、台風19号と20号が相次いで発生しました。\n\n今後の情報に注意してください。\n\n\n台風18号\n",
+  "articleBody": "強い台風18号は、日本のはるか南の海上を進んでいて、来週、南西諸島に近づくおそれがあります。また22日は、台風19号と20号が相次いで発生しました。\n\n今後の情報に注意してください。\n\n\n台風18号\n\n気象庁によりますと、強い台風18号は、22日午後3時には、日本のはるか南のマリアナ諸島付近の海上を北西に進んでいます。\n\n中心の気圧は965ヘクトパスカル、中心付近の最大風速は35メートル、最大瞬間風速は50メートルで、中心から半径110キロ以内では風速25メートル以上の暴風が吹いています。\n\n台風はこのあとも発達しながら北西へ進み、非常に強い勢力になる見込みで、来週、南西諸島に近づくと予想されています。\n\n今後の情報に注意してください。\n\n台風19号と20号も相次いで発生\n\nまた22日は、台風19号と20号が相次いで発生しました。\n\n8月に発生した台風はこれで7個となり、平年の5.7個を上回りました。\n\nこのうち、台風19号は日本への直接の影響はない見込みです。\n\n一方、台風20号は、午後3時には宮古島の北の海上にあって、ゆっくりと西に進んでいます。\n\n中心の気圧は998ヘクトパスカル、中心付近の最大風速は18メートル、最大瞬間風速は25メートルで中心の南側390キロ以内と北側280キロ以内では風速15メートル以上の強い風が吹いています。\n\n雨雲がかかっている宮古島地方と八重山地方では、これまでの雨でレベル4土砂災害危険警報が発表されている地域があり、厳重に警戒してください。\n",
+  "detailedArticleBody": {
+    "markedLead": "強い台風18号は、日本のはるか南の海上を進んでいて、来週、南西諸島に近づくおそれがあります。また22日は、台風19号と20号が相次いで発生しました。\n\n今後の情報に注意してください。\n\n```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"001\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\n    <div class=\"fs-wrap\">\n      <h2 class=\"freespace-title\">台風マップ</h2>\n\n      <a href=\"https://news.web.nhk/bousai-map/typhoon/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"tenkiBousaiMap-fullscreenBtn\">全画面でマップを見る</a>\n\n      <div class=\"tenkiBousaiMap-wrap\">\n        <iframe src=\"https://news.web.nhk/bousai-map/typhoon/?mapMenu=off&amp;help=off&amp;halfModal=off&amp;typhoonSelection=off&amp;disableUserLocation=on\" allowfullscreen=\"allowfullscreen\" scrolling=\"no\" class=\"js-iframe-dataMap\"></iframe>\n      </div>\n    </div>\n</div>\n```\n",
+    "markedBody": "## 台風18号\n\n気象庁によりますと、強い台風18号は、22日午後3時には、日本のはるか南のマリアナ諸島付近の海上を北西に進んでいます。\n\n中心の気圧は965ヘクトパスカル、中心付近の最大風速は35メートル、最大瞬間風速は50メートルで、中心から半径110キロ以内では風速25メートル以上の暴風が吹いています。\n\n台風はこのあとも発達しながら北西へ進み、非常に強い勢力になる見込みで、来週、南西諸島に近づくと予想されています。\n\n今後の情報に注意してください。\n\n## 台風19号と20号も相次いで発生\n\nまた22日は、台風19号と20号が相次いで発生しました。\n\n8月に発生した台風はこれで7個となり、平年の5.7個を上回りました。\n\nこのうち、台風19号は日本への直接の影響はない見込みです。\n\n一方、台風20号は、午後3時には宮古島の北の海上にあって、ゆっくりと西に進んでいます。\n\n中心の気圧は998ヘクトパスカル、中心付近の最大風速は18メートル、最大瞬間風速は25メートルで中心の南側390キロ以内と北側280キロ以内では風速15メートル以上の強い風が吹いています。\n\n雨雲がかかっている宮古島地方と八重山地方では、これまでの雨でレベル4土砂災害危険警報が発表されている地域があり、厳重に警戒してください。\n",
+    "noHtmlMarkedLead": "強い台風18号は、日本のはるか南の海上を進んでいて、来週、南西諸島に近づくおそれがあります。また22日は、台風19号と20号が相次いで発生しました。\n\n今後の情報に注意してください。\n",
+    "noHtmlMarkedBody": "## 台風18号\n\n気象庁によりますと、強い台風18号は、22日午後3時には、日本のはるか南のマリアナ諸島付近の海上を北西に進んでいます。\n\n中心の気圧は965ヘクトパスカル、中心付近の最大風速は35メートル、最大瞬間風速は50メートルで、中心から半径110キロ以内では風速25メートル以上の暴風が吹いています。\n\n台風はこのあとも発達しながら北西へ進み、非常に強い勢力になる見込みで、来週、南西諸島に近づくと予想されています。\n\n今後の情報に注意してください。\n\n## 台風19号と20号も相次いで発生\n\nまた22日は、台風19号と20号が相次いで発生しました。\n\n8月に発生した台風はこれで7個となり、平年の5.7個を上回りました。\n\nこのうち、台風19号は日本への直接の影響はない見込みです。\n\n一方、台風20号は、午後3時には宮古島の北の海上にあって、ゆっくりと西に進んでいます。\n\n中心の気圧は998ヘクトパスカル、中心付近の最大風速は18メートル、最大瞬間風速は25メートルで中心の南側390キロ以内と北側280キロ以内では風速15メートル以上の強い風が吹いています。\n\n雨雲がかかっている宮古島地方と八重山地方では、これまでの雨でレベル4土砂災害危険警報が発表されている地域があり、厳重に警戒してください。\n",
+    "trimmedLead": "強い台風18号は、日本のはるか南の海上を進んでいて、来週、南西諸島に近づくおそれがあります。また22日は、台風19号と20号が相次いで発生しました。\n\n今後の情報に注意してください。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260822de45693.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260822de45693",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "【台風】18号 来週南西諸島に接近か 19号と20号も相次いで発生",
+      "description": "強い台風18号は、日本のはるか南の海上を進んでいて、来週、南西諸島に近づくおそれがあります。また22日は、台風19号と20号が相次いで発生しました。\n\n今後の情報に注意してください。\n\n\n台風18号\n",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20260822de45693_E0000015031_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20260822de45693/20260822de45693_E0000015006_1_l.jpg",
+      "duration": "PT46S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20260822de45693_E0000015031_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45693/20260822de45693_E0000015006_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "台風マップ 予想進路や勢力をリアルタイム表示",
+      "url": "https://news.web.nhk/bousai-map/typhoon/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00357_E0000003388_1_s.jpg"
+    },
+    {
+      "name": "台風接近前にやっておきたい備え「タイムライン」で",
+      "url": "https://news.web.nhk/newsweb/na/nc-cc4a20bc-9976-493f-a087-23512046b7d3",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00053_E0000002559_1_s.jpg"
+    },
+    {
+      "name": "関東南部で猛烈な雨 浸水や川の氾濫に厳重警戒を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260822de45682",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45682/20260822de45682_E0000014994_1_s.jpg",
+      "datePublished": "2026-08-22T20:10:39+09:00"
+    },
+    {
+      "name": "台風18号 来週 南西諸島に近づくおそれ 今後の情報に注意を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260822de45618",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45618/20260822de45618_E0000014945_1_s.jpg",
+      "datePublished": "2026-08-22T10:47:00+09:00"
+    },
+    {
+      "name": "千葉豪雨 被害住宅の応急修理支援する制度 受け付け順次始まる",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260822de45641",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45641/20260822de45641_E0000014839_1_s.jpg",
+      "datePublished": "2026-08-22T18:16:20+09:00"
+    },
+    {
+      "name": "高校野球 智弁和歌山が優勝 5年ぶり4回目 健大高崎に逆転勝ち",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260820de45392",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45392/20260820de45392_E0000014855_1_s.jpg",
+      "datePublished": "2026-08-22T19:34:15+09:00"
+    },
+    {
+      "name": "TikTok 米司法省に4億ドル支払いで和解",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260822de45652",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45652/20260822de45652_E0000014887_1_s.jpg",
+      "datePublished": "2026-08-22T15:00:00+09:00"
+    },
+    {
+      "name": "トランプ大統領 経済制裁強化しイラン側の対応見極める考え",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260822de45643",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45643/20260822de45643_E0000014852_1_s.jpg",
+      "datePublished": "2026-08-22T13:31:00+09:00"
+    },
+    {
+      "name": "千葉 路上の車両の所有者への引き渡し 警察などに協力求める",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260822de45615",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45615/20260822de45615_E0000014773_1_s.jpg",
+      "datePublished": "2026-08-22T12:27:49+09:00"
+    },
+    {
+      "name": "【夏の甲子園2026 特集ページ】日程・結果 最新ニュース 特集記事 ",
+      "url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000513",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260809de42914_E0000005623_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": true
+  }
+}
