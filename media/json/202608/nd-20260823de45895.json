@@ -1,0 +1,156 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260823de45895",
+  "dataSourceId": "nd",
+  "name": "新方式で国産初の量子コンピューター稼働開始 分子科学研究所",
+  "headline": "新方式で国産初の量子コンピューター稼働開始 分子科学研究所",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260823de45895",
+    "playlistId": "news-nwa-scienceculture-nationwide-20260824",
+    "newsarticleName": "新方式で国産初の量子コンピューター稼働開始 分子科学研究所",
+    "playlistName": "8月24日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "開発競争が進む量子コンピューターをめぐり、「中性原子」と呼ばれる国産としては初めての方式を採用した量子コンピューターが、愛知県内で稼働を始めたことがわかりました。\n\n\n量子コンピューターは電子や原子な",
+  "dateModified": "2026-08-24T05:10:35+09:00",
+  "datePublished": "2026-08-24T05:10:35+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45895/20260823de45895_E0000015446_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45895/20260823de45895_E0000015446_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "科学・文化",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000446",
+      "name": "サイエンス",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "E0000000351",
+      "name": "愛知県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "開発競争が進む量子コンピューターをめぐり、「中性原子」と呼ばれる国産としては初めての方式を採用した量子コンピューターが、愛知県内で稼働を始めたことがわかりました。\n\n\n量子コンピューターは電子や原子な",
+  "articleBody": "開発競争が進む量子コンピューターをめぐり、「中性原子」と呼ばれる国産としては初めての方式を採用した量子コンピューターが、愛知県内で稼働を始めたことがわかりました。\n\n\n量子コンピューターは電子や原子などの極めて小さな物質、量子に特有の現象を応用した次世代のコンピューターで、複数の方式で実用化に向けた開発競争が進められています。\n\n新たに稼働を始めたのは、「中性原子」と呼ばれる国産としては初めての方式を採用した量子コンピューターで、愛知県岡崎市にある分子科学研究所などの研究チームが開発しました。\n\nこの方式は、レーザー光を使って真空中に並べた電気を帯びていない原子を制御し計算に利用するということで、計算を行う部分は幅1メートル60センチ、奥行き1メートルほどの枠に収められています。\n\n先行するほかの方式に比べて、室温で動作するため冷却装置が必要なく小型化しやすいなどのメリットがあり、量子コンピューターの実用化に向けた課題の克服が期待されるということです。\n\n今回の量子コンピューターは今のところ基礎的な計算ができる段階だということですが、研究チームは今後、大規模な計算を安定的に行えるようさらに開発を進めることにしています。\n\n研究チームの代表で、分子科学研究所の大森賢治教授は「まずは特定の社会問題に対し、スーパーコンピューターより役に立つ性能を発揮できるようにしたい。先行しているほかの方式よりも優れた特長を発揮できるようさらに開発を進めたい」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "開発競争が進む量子コンピューターをめぐり、「中性原子」と呼ばれる国産としては初めての方式を採用した量子コンピューターが、愛知県内で稼働を始めたことがわかりました。\n",
+    "markedBody": "量子コンピューターは電子や原子などの極めて小さな物質、量子に特有の現象を応用した次世代のコンピューターで、複数の方式で実用化に向けた開発競争が進められています。\n\n新たに稼働を始めたのは、「中性原子」と呼ばれる国産としては初めての方式を採用した量子コンピューターで、愛知県岡崎市にある分子科学研究所などの研究チームが開発しました。\n\nこの方式は、レーザー光を使って真空中に並べた電気を帯びていない原子を制御し計算に利用するということで、計算を行う部分は幅1メートル60センチ、奥行き1メートルほどの枠に収められています。\n\n先行するほかの方式に比べて、室温で動作するため冷却装置が必要なく小型化しやすいなどのメリットがあり、量子コンピューターの実用化に向けた課題の克服が期待されるということです。\n\n今回の量子コンピューターは今のところ基礎的な計算ができる段階だということですが、研究チームは今後、大規模な計算を安定的に行えるようさらに開発を進めることにしています。\n\n![](https://img.web.nhk/news/nd/kiji/20260823de45895/20260823de45895_E0000015445_1_l.jpg)\n\n研究チームの代表で、分子科学研究所の大森賢治教授は「まずは特定の社会問題に対し、スーパーコンピューターより役に立つ性能を発揮できるようにしたい。先行しているほかの方式よりも優れた特長を発揮できるようさらに開発を進めたい」と話していました。\n",
+    "trimmedLead": "開発競争が進む量子コンピューターをめぐり、「中性原子」と呼ばれる国産としては初めての方式を採用した量子コンピューターが、愛知県内で稼働を始めたことがわかりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260823de45895.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260823de45895",
+  "video": [],
+  "citation": [
+    {
+      "name": "東武鉄道4人死亡事故 事故当日3本の列車は問題なく通過か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260823de45877",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45877/20260823de45877_E0000015365_1_s.jpg",
+      "datePublished": "2026-08-23T18:59:00+09:00"
+    },
+    {
+      "name": "専門家 “関東の地下にある「地震の巣」で発生 備え確認を”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260823de45881",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45881/20260823de45881_E0000015361_1_s.jpg",
+      "datePublished": "2026-08-23T18:57:00+09:00"
+    },
+    {
+      "name": "茨城 東京 埼玉 千葉で震度5弱 気象庁“今後1週間程度は注意”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260823de45738",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45738/20260823de45738_E0000015157_1_s.jpg",
+      "datePublished": "2026-08-23T07:14:00+09:00"
+    },
+    {
+      "name": "【被害情報まとめ】地震 東京や埼玉 神奈川などでけが人",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260823de45744",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45744/20260823de45744_E0000003973_1_s.jpg",
+      "datePublished": "2026-08-23T19:25:17+09:00"
+    },
+    {
+      "name": "千葉豪雨 死者13人 浸水被害3900棟余 外房線全線再開",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260823de45878",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45878/20260823de45878_E0000015406_1_s.jpg",
+      "datePublished": "2026-08-23T20:22:50+09:00"
+    },
+    {
+      "name": "台風20号 先島諸島で大雨 台風18号 25日から沖縄 奄美に接近へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260823de45798",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45798/20260823de45798_E0000015454_1_s.jpg",
+      "datePublished": "2026-08-23T21:13:00+09:00"
+    },
+    {
+      "name": "りくりゅう 三浦さんと木原さん婚約 フィギュアペアで五輪金",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260823de45815",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45815/20260823de45815_E0000015289_1_s.jpg",
+      "datePublished": "2026-08-23T15:49:16+09:00"
+    },
+    {
+      "name": "24日は大分で40度予想 西・東日本で猛烈な暑さか 熱中症対策を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260823de45805",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45805/20260823de45805_E0000015419_1_s.jpg",
+      "datePublished": "2026-08-23T21:03:22+09:00"
+    },
+    {
+      "name": "電子投票で投票どう変わる？視覚障害者の“取り残される思い”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260822de45659",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45659/20260822de45659_E0000015145_1_s.jpg",
+      "datePublished": "2026-08-23T09:45:00+09:00"
+    },
+    {
+      "name": "北京で2回目の人型ロボット運動会 人類記録上回るなど性能向上",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260823de45846",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45846/20260823de45846_E0000015426_1_s.jpg",
+      "datePublished": "2026-08-23T20:24:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
