@@ -1,0 +1,149 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260823de45806",
+  "dataSourceId": "nd",
+  "name": "大分 臼杵 79歳男性が死亡 熱中症か",
+  "headline": "大分 臼杵 79歳男性が死亡 熱中症か",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260823de45806",
+    "playlistId": "news-nwa-society-nationwide-20260823",
+    "newsarticleName": "大分 臼杵 79歳男性が死亡 熱中症か",
+    "playlistName": "8月23日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "22日昼前、大分県臼杵市の住宅の敷地内で79歳の男性が倒れているのが見つかり、その後、死亡が確認されました。警察によりますと、熱中症で亡くなったとみられるということです。\n\n\n22日午前11時半前、臼",
+  "dateModified": "2026-08-23T07:23:06+09:00",
+  "datePublished": "2026-08-23T07:23:06+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45806/20260823de45806_E0000003856_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45806/20260823de45806_E0000003856_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会",
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000165",
+      "name": "熱中症",
+      "display": true
+    },
+    {
+      "id": "E0000000114",
+      "name": "気象",
+      "display": true
+    },
+    {
+      "id": "E0000000372",
+      "name": "大分県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "22日昼前、大分県臼杵市の住宅の敷地内で79歳の男性が倒れているのが見つかり、その後、死亡が確認されました。警察によりますと、熱中症で亡くなったとみられるということです。\n\n\n22日午前11時半前、臼",
+  "articleBody": "22日昼前、大分県臼杵市の住宅の敷地内で79歳の男性が倒れているのが見つかり、その後、死亡が確認されました。警察によりますと、熱中症で亡くなったとみられるということです。\n\n\n22日午前11時半前、臼杵市深田にある住宅の敷地内でこの家に住む山下好信さん（79）が倒れているのを外出先から帰宅した妻が見つけ、消防に通報しました。\n\n山下さんは意識不明の状態で市内の病院に搬送され、その後、死亡が確認されました。\n\n警察によりますと、近くにはせん定用の道具や軍手などがあり、草刈りなどで屋外にいたとみられます。\n\n熱中症で亡くなったとみられるということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "22日昼前、大分県臼杵市の住宅の敷地内で79歳の男性が倒れているのが見つかり、その後、死亡が確認されました。警察によりますと、熱中症で亡くなったとみられるということです。\n",
+    "markedBody": "22日午前11時半前、臼杵市深田にある住宅の敷地内でこの家に住む山下好信さん（79）が倒れているのを外出先から帰宅した妻が見つけ、消防に通報しました。\n\n山下さんは意識不明の状態で市内の病院に搬送され、その後、死亡が確認されました。\n\n警察によりますと、近くにはせん定用の道具や軍手などがあり、草刈りなどで屋外にいたとみられます。\n\n熱中症で亡くなったとみられるということです。\n",
+    "trimmedLead": "22日昼前、大分県臼杵市の住宅の敷地内で79歳の男性が倒れているのが見つかり、その後、死亡が確認されました。警察によりますと、熱中症で亡くなったとみられるということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260823de45806.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260823de45806",
+  "video": [],
+  "citation": [
+    {
+      "name": "高齢者の熱中症に注意 普段からの予防策は「筋肉」と「食事」で！",
+      "url": "https://news.web.nhk/newsweb/na/nc-4cc2c4cd-412e-4096-a119-b1f7e904fc08",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260813de43886_E0000008375_1_s.jpg"
+    },
+    {
+      "name": "大分では40度の酷暑日予想 熊本も危険な暑さに 大気不安定注意",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260823de45805",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45805/20260823de45805_E0000015214_1_s.jpg",
+      "datePublished": "2026-08-23T06:53:16+09:00"
+    },
+    {
+      "name": "茨城 東京 埼玉 千葉で震度5弱 気象庁“今後1週間程度は注意”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260823de45738",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45738/20260823de45738_E0000015157_1_s.jpg",
+      "datePublished": "2026-08-23T07:14:45+09:00"
+    },
+    {
+      "name": "【被害情報まとめ】地震 埼玉県や神奈川県で複数のけが人",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260823de45744",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45744/20260823de45744_E0000003973_1_s.jpg",
+      "datePublished": "2026-08-23T07:31:01+09:00"
+    },
+    {
+      "name": "【地震】東京 江東区“水道管が破裂”道路に水があふれ出す",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260823de45743",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45743/20260823de45743_E0000015182_1_s.jpg",
+      "datePublished": "2026-08-23T02:32:00+09:00"
+    },
+    {
+      "name": "時間外労働「月45時間以内」一律指導取りやめ 連合は懸念示す",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45598",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45598/20260821de45598_E0000003608_1_s.jpg",
+      "datePublished": "2026-08-23T06:59:44+09:00"
+    },
+    {
+      "name": "地震による交通機関への影響",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260823de45760",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45760/20260823de45760_E0000003971_1_s.jpg",
+      "datePublished": "2026-08-23T07:11:19+09:00"
+    },
+    {
+      "name": "オーバードーズ それでも、なぜ 依存・死亡のリスクも",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260820de45214",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45214/20260820de45214_E0000014761_1_s.jpg",
+      "datePublished": "2026-08-22T20:22:00+09:00"
+    },
+    {
+      "name": "変革期の甲子園 選手が“いい顔”を続けられるように",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260822de45668",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45668/20260822de45668_E0000015096_1_s.jpg",
+      "datePublished": "2026-08-22T23:30:41+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
