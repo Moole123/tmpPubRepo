@@ -1,0 +1,149 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260824de46059",
+  "dataSourceId": "nd",
+  "name": "台湾の東部・南部で大雨 2人行方不明 130人超けが",
+  "headline": "台湾の東部・南部で大雨 2人行方不明 130人超けが",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260824de46059",
+    "playlistId": "news-nwa-international-nationwide-20260824",
+    "newsarticleName": "台湾の東部・南部で大雨 2人行方不明 130人超けが",
+    "playlistName": "8月24日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "台湾では、熱帯低気圧などによる大雨で住宅が水につかるなどして、130人以上がけがをしました。今後、沖縄・奄美に近づく見込みの台風18号も接近する見通しで、警戒を強めています。\n\n\n台湾では、熱帯低気圧",
+  "dateModified": "2026-08-24T20:07:41+09:00",
+  "datePublished": "2026-08-24T20:07:41+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46059/20260824de46059_E0000016011_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46059/20260824de46059_E0000016011_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000222",
+      "name": "台湾",
+      "display": true
+    },
+    {
+      "id": "E0000000202",
+      "name": "台風",
+      "display": true
+    },
+    {
+      "id": "E0000000114",
+      "name": "気象",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "台湾では、熱帯低気圧などによる大雨で住宅が水につかるなどして、130人以上がけがをしました。今後、沖縄・奄美に近づく見込みの台風18号も接近する見通しで、警戒を強めています。\n\n\n台湾では、熱帯低気圧",
+  "articleBody": "台湾では、熱帯低気圧などによる大雨で住宅が水につかるなどして、130人以上がけがをしました。今後、沖縄・奄美に近づく見込みの台風18号も接近する見通しで、警戒を強めています。\n\n\n台湾では、熱帯低気圧などの影響で、東部や南部で大雨となり、南部・屏東県では、22日から現地時間の24日午後1時までに降った雨の量が933ミリに達しました。\n\nこの大雨で、24日午後2時までに2人の行方がわからなくなっているほか、けがをした人は135人にのぼっています。\n\n台湾のテレビ局TVBSは南部で住宅が次々と水につかる様子や、陥没した道路に大型の建設機械が沈んでいく様子を伝えています。\n\n台湾では、沖縄・奄美に近づく見込みの台風18号も、今週後半にかけて接近するおそれがあり、首相にあたる卓栄泰行政院長が対応を指示するなど、警戒を強めています。\n",
+  "detailedArticleBody": {
+    "markedLead": "台湾では、熱帯低気圧などによる大雨で住宅が水につかるなどして、130人以上がけがをしました。今後、沖縄・奄美に近づく見込みの台風18号も接近する見通しで、警戒を強めています。\n",
+    "markedBody": "台湾では、熱帯低気圧などの影響で、東部や南部で大雨となり、南部・屏東県では、22日から現地時間の24日午後1時までに降った雨の量が933ミリに達しました。\n\nこの大雨で、24日午後2時までに2人の行方がわからなくなっているほか、けがをした人は135人にのぼっています。\n\n台湾のテレビ局TVBSは南部で住宅が次々と水につかる様子や、陥没した道路に大型の建設機械が沈んでいく様子を伝えています。\n\n台湾では、沖縄・奄美に近づく見込みの台風18号も、今週後半にかけて接近するおそれがあり、首相にあたる卓栄泰行政院長が対応を指示するなど、警戒を強めています。\n",
+    "trimmedLead": "台湾では、熱帯低気圧などによる大雨で住宅が水につかるなどして、130人以上がけがをしました。今後、沖縄・奄美に近づく見込みの台風18号も接近する見通しで、警戒を強めています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260824de46059.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260824de46059",
+  "video": [],
+  "citation": [
+    {
+      "name": "台風18号 あす以降 沖縄・奄美に接近 猛烈な風のおそれ 備えを",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260823de45899",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45899/20260823de45899_E0000015879_1_s.jpg",
+      "datePublished": "2026-08-24T17:17:01+09:00"
+    },
+    {
+      "name": "台風21号が発生 フィリピン東の海上 付近航行する船舶は注意を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260824de45957",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45957/20260824de45957_E0000015882_1_s.jpg",
+      "datePublished": "2026-08-24T17:04:14+09:00"
+    },
+    {
+      "name": "北朝鮮国営メディア 高市首相の靖国神社へのよう拝など非難",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260824de45996",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45996/20260824de45996_E0000015769_1_s.jpg",
+      "datePublished": "2026-08-24T15:10:31+09:00"
+    },
+    {
+      "name": "木原官房長官 北朝鮮対応でアメリカ政府などと緊密連携",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260824de45974",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45974/20260824de45974_E0000015630_1_s.jpg",
+      "datePublished": "2026-08-24T15:18:32+09:00"
+    },
+    {
+      "name": "茂木外相“ICC所長赤根氏は日本の国際司法 役割強化の表れ”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260824de46000",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46000/20260824de46000_E0000015791_1_s.jpg",
+      "datePublished": "2026-08-24T16:17:00+09:00"
+    },
+    {
+      "name": "木原官房長官 ICC赤根所長と緊密に意思疎通 必要な支援行う",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260824de45976",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45976/20260824de45976_E0000015654_1_s.jpg",
+      "datePublished": "2026-08-24T15:07:00+09:00"
+    },
+    {
+      "name": "イラン革命防衛隊報道官「米が軍事面での敗北認めたに等しい」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260824de45942",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45942/20260824de45942_E0000015532_1_s.jpg",
+      "datePublished": "2026-08-24T19:40:01+09:00"
+    },
+    {
+      "name": "日中関係悪化で模索する民間交流",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260824de45964",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45964/20260824de45964_E0000015575_1_s.jpg",
+      "datePublished": "2026-08-24T13:50:13+09:00"
+    },
+    {
+      "name": "“AIインフラを止めろ” トランプ支持層に広がる反発",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44706",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44706/20260818de44706_E0000010936_1_s.jpg",
+      "datePublished": "2026-08-23T21:06:49+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

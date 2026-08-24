@@ -1,0 +1,156 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260824de46045",
+  "dataSourceId": "nd",
+  "name": "損保ジャパン 自動車保険料を来年1月に平均5％引き上げ",
+  "headline": "損保ジャパン 自動車保険料を来年1月に平均5％引き上げ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260824de46045",
+    "playlistId": "news-nwa-business-nationwide-20260824",
+    "newsarticleName": "損保ジャパン 自動車保険料を来年1月に平均5％引き上げ",
+    "playlistName": "8月24日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "損害保険大手の損害保険ジャパンは来年1月から自動車保険の保険料を平均で5％引き上げることを決めました。自動車の修理費が膨らんでいるためで、ほかの損害保険大手でも引き上げの動きが相次いでいます。\n\n\n損",
+  "dateModified": "2026-08-24T19:37:06+09:00",
+  "datePublished": "2026-08-24T19:37:06+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46045/20260824de46045_E0000015986_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46045/20260824de46045_E0000015986_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "暮らし"
+  ],
+  "topic": [
+    {
+      "id": "E0000000471",
+      "name": "自動車",
+      "display": true
+    },
+    {
+      "id": "E0000000324",
+      "name": "物価高騰",
+      "display": true
+    },
+    {
+      "id": "E0000000651",
+      "name": "交通・インフラ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "損害保険大手の損害保険ジャパンは来年1月から自動車保険の保険料を平均で5％引き上げることを決めました。自動車の修理費が膨らんでいるためで、ほかの損害保険大手でも引き上げの動きが相次いでいます。\n\n\n損",
+  "articleBody": "損害保険大手の損害保険ジャパンは来年1月から自動車保険の保険料を平均で5％引き上げることを決めました。自動車の修理費が膨らんでいるためで、ほかの損害保険大手でも引き上げの動きが相次いでいます。\n\n\n損害保険ジャパンは、来年1月から自動車保険の保険料を平均で5％引き上げます。\n\n会社は先月にも平均で1.8％引き上げていて、理由について車の部品の価格や人件費の上昇で修理費が膨らみ、保険金の支払いが増えているためだとしています。\n\nこのほか\n▽東京海上日動火災保険もことし10月に平均で6.5％。\n▽合併によって来年発足する三井住友海上あいおい損害保険も、来年4月におよそ6％、\nそれぞれ引き上げを予定しています。\n\n損害保険をめぐっては自動車やバイクを持つ人に加入が義務付けられている、自賠責＝自動車損害賠償責任保険の保険料も、ことし11月に平均で6.2％引き上げられる予定になっています。\n",
+  "detailedArticleBody": {
+    "markedLead": "損害保険大手の損害保険ジャパンは来年1月から自動車保険の保険料を平均で5％引き上げることを決めました。自動車の修理費が膨らんでいるためで、ほかの損害保険大手でも引き上げの動きが相次いでいます。\n",
+    "markedBody": "損害保険ジャパンは、来年1月から自動車保険の保険料を平均で5％引き上げます。\n\n会社は先月にも平均で1.8％引き上げていて、理由について車の部品の価格や人件費の上昇で修理費が膨らみ、保険金の支払いが増えているためだとしています。\n\nこのほか\\\n▽東京海上日動火災保険もことし10月に平均で6.5％。\\\n▽合併によって来年発足する三井住友海上あいおい損害保険も、来年4月におよそ6％、\\\nそれぞれ引き上げを予定しています。\n\n損害保険をめぐっては自動車やバイクを持つ人に加入が義務付けられている、自賠責＝自動車損害賠償責任保険の保険料も、ことし11月に平均で6.2％引き上げられる予定になっています。\n",
+    "trimmedLead": "損害保険大手の損害保険ジャパンは来年1月から自動車保険の保険料を平均で5％引き上げることを決めました。自動車の修理費が膨らんでいるためで、ほかの損害保険大手でも引き上げの動きが相次いでいます。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260824de46045.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260824de46045",
+  "video": [],
+  "citation": [
+    {
+      "name": "福岡県議会 藏内勇夫議長が議員辞職願を提出",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260824de45934",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45934/20260824de45934_E0000015503_1_s.jpg",
+      "datePublished": "2026-08-24T18:30:58+09:00"
+    },
+    {
+      "name": "台風18号 あす以降 沖縄・奄美に接近 猛烈な風のおそれ 備えを",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260823de45899",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45899/20260823de45899_E0000015879_1_s.jpg",
+      "datePublished": "2026-08-24T17:17:01+09:00"
+    },
+    {
+      "name": "台風21号が発生 フィリピン東の海上 付近航行する船舶は注意を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260824de45957",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45957/20260824de45957_E0000015882_1_s.jpg",
+      "datePublished": "2026-08-24T17:04:14+09:00"
+    },
+    {
+      "name": "近畿で39度超 25日は熊本・大分など「酷暑日」に 熱中症対策を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260823de45898",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45898/20260823de45898_E0000015865_1_s.jpg",
+      "datePublished": "2026-08-24T20:35:08+09:00"
+    },
+    {
+      "name": "相模原 男子高校生死亡 暴行加えられたか 事件とみて捜査",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260824de45952",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45952/20260824de45952_E0000015550_1_s.jpg",
+      "datePublished": "2026-08-24T15:04:57+09:00"
+    },
+    {
+      "name": "3歳長女を床に落とし骨折させたか 20代母親を逮捕 警視庁",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260824de46024",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46024/20260824de46024_E0000015889_1_s.jpg",
+      "datePublished": "2026-08-24T18:16:58+09:00"
+    },
+    {
+      "name": "売春めぐり相手方も規制を 法務省検討会が報告書案",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260824de45962",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45962/20260824de45962_E0000015599_1_s.jpg",
+      "datePublished": "2026-08-24T14:24:24+09:00"
+    },
+    {
+      "name": "中古マンション価格 東京23区は2か月連続下落 都心は頭打ちか?",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260824de45945",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45945/20260824de45945_E0000015884_1_s.jpg",
+      "datePublished": "2026-08-24T17:49:09+09:00"
+    },
+    {
+      "name": "人工衛星活用し旬のキャベツ届ける取り組み開始 JAXAなど",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260824de46018",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46018/20260824de46018_E0000015867_1_s.jpg",
+      "datePublished": "2026-08-24T17:58:00+09:00"
+    },
+    {
+      "name": "SNSの子どもへの影響 IT大手で被害未然防止の取り組み広がる",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260823de45889",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45889/20260823de45889_E0000015440_1_s.jpg",
+      "datePublished": "2026-08-24T05:26:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

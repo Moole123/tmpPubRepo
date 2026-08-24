@@ -1,0 +1,157 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260824de46068",
+  "dataSourceId": "nd",
+  "name": "多摩川の河口付近で「船が座礁」通報 複数人がけが",
+  "headline": "多摩川の河口付近で「船が座礁」通報 複数人がけが",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260824de46068",
+    "playlistId": "news-nwa-society-nationwide-20260824",
+    "newsarticleName": "多摩川の河口付近で「船が座礁」通報 複数人がけが",
+    "playlistName": "8月24日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "24日、川崎市の多摩川の河口付近で「クルーザーが座礁している」などと通報があり、海上保安庁によりますと、複数人がけがをしているということです。\n\n警察や海上保安庁が詳しい状況を調べています。\n\n\n24",
+  "dateModified": "2026-08-24T19:47:00+09:00",
+  "datePublished": "2026-08-24T19:47:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46068/20260824de46068_E0000016030_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46068/20260824de46068_E0000016030_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000341",
+      "name": "東京都",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "24日、川崎市の多摩川の河口付近で「クルーザーが座礁している」などと通報があり、海上保安庁によりますと、複数人がけがをしているということです。\n\n警察や海上保安庁が詳しい状況を調べています。\n\n\n24",
+  "articleBody": "24日、川崎市の多摩川の河口付近で「クルーザーが座礁している」などと通報があり、海上保安庁によりますと、複数人がけがをしているということです。\n\n警察や海上保安庁が詳しい状況を調べています。\n\n\n24日午後7時10分ごろ、川崎市川崎区浮島町で「クルーザーが座礁している」と通報がありました。\n\n海上保安庁などによりますと、船は10人乗りで、全員が救助されたということですが、このうち複数人がけがをしているということです。\n\nけがの程度はわかっていませんが、いずれも意識はあるということです。\n\n現場は、多摩川の河口付近だということで警察や海上保安庁が、詳しい状況を調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "24日、川崎市の多摩川の河口付近で「クルーザーが座礁している」などと通報があり、海上保安庁によりますと、複数人がけがをしているということです。\n\n警察や海上保安庁が詳しい状況を調べています。\n",
+    "markedBody": "24日午後7時10分ごろ、川崎市川崎区浮島町で「クルーザーが座礁している」と通報がありました。\n\n海上保安庁などによりますと、船は10人乗りで、全員が救助されたということですが、このうち複数人がけがをしているということです。\n\nけがの程度はわかっていませんが、いずれも意識はあるということです。\n\n現場は、多摩川の河口付近だということで警察や海上保安庁が、詳しい状況を調べています。\n",
+    "trimmedLead": "24日、川崎市の多摩川の河口付近で「クルーザーが座礁している」などと通報があり、海上保安庁によりますと、複数人がけがをしているということです。\n\n警察や海上保安庁が詳しい状況を調べています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260824de46068.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260824de46068",
+  "video": [],
+  "citation": [
+    {
+      "name": "熊本地震 2次避難所で看護師が聞き取り【被災地の動き】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260824de45999",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45999/20260824de45999_E0000015885_1_s.jpg",
+      "datePublished": "2026-08-24T19:05:33+09:00"
+    },
+    {
+      "name": "熊本地震 宇城 断水解消でも“数時間程度しか出ない”地域も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260824de45977",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45977/20260824de45977_E0000015706_1_s.jpg",
+      "datePublished": "2026-08-24T15:49:11+09:00"
+    },
+    {
+      "name": "売春めぐり相手方も規制を 法務省検討会が報告書案",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260824de45962",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45962/20260824de45962_E0000015599_1_s.jpg",
+      "datePublished": "2026-08-24T14:24:24+09:00"
+    },
+    {
+      "name": "近畿で39度超 25日は熊本・大分など「酷暑日」に 熱中症対策を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260823de45898",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45898/20260823de45898_E0000015865_1_s.jpg",
+      "datePublished": "2026-08-24T20:35:08+09:00"
+    },
+    {
+      "name": "福岡県議会 藏内勇夫議長が議員辞職願を提出",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260824de45934",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45934/20260824de45934_E0000015503_1_s.jpg",
+      "datePublished": "2026-08-24T18:30:58+09:00"
+    },
+    {
+      "name": "前例のない原発の地震データめぐる不正 見えてきた深層",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45450",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45450/20260821de45450_E0000015652_1_s.jpg",
+      "datePublished": "2026-08-24T18:09:45+09:00"
+    },
+    {
+      "name": "SNSチャット勧誘にもクーリング・オフ拡大案 消費者庁検討会",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260824de46006",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46006/20260824de46006_E0000015820_1_s.jpg",
+      "datePublished": "2026-08-24T16:36:09+09:00"
+    },
+    {
+      "name": "中古マンション価格 東京23区は2か月連続下落 都心は頭打ちか?",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260824de45945",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45945/20260824de45945_E0000015884_1_s.jpg",
+      "datePublished": "2026-08-24T17:49:09+09:00"
+    },
+    {
+      "name": "スズキ 軽乗用車のEV公開 参入相次ぎ普及なるか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260824de45955",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45955/20260824de45955_E0000015631_1_s.jpg",
+      "datePublished": "2026-08-24T19:39:10+09:00"
+    },
+    {
+      "name": "相模原 男子高校生死亡 暴行加えられたか 事件とみて捜査",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260824de45952",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45952/20260824de45952_E0000015550_1_s.jpg",
+      "datePublished": "2026-08-24T15:04:57+09:00"
+    },
+    {
+      "name": "イラン革命防衛隊報道官「米が軍事面での敗北認めたに等しい」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260824de45942",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45942/20260824de45942_E0000015532_1_s.jpg",
+      "datePublished": "2026-08-24T19:40:01+09:00"
+    },
+    {
+      "name": "台風18号 あす以降 沖縄・奄美に接近 猛烈な風のおそれ 備えを",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260823de45899",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45899/20260823de45899_E0000015879_1_s.jpg",
+      "datePublished": "2026-08-24T17:17:01+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
