@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260825de46187",
+  "dataSourceId": "nd",
+  "name": "中野ブロードウェイの店舗で高級時計盗まれる 被害2億円相当か",
+  "headline": "中野ブロードウェイの店舗で高級時計盗まれる 被害2億円相当か",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260825de46187",
+    "playlistId": "news-nwa-society-nationwide-20260825",
+    "newsarticleName": "中野ブロードウェイの店舗で高級時計盗まれる 被害2億円相当か",
+    "playlistName": "8月25日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "警視庁によりますと、25日正午前、東京・中野区の商業施設、「中野ブロードウェイ」に入る時計店で男がショーケースをハンマーのようなもので割って海外製の高級腕時計4本、2億円相当を盗んで逃げたということで",
+  "dateModified": "2026-08-25T13:58:00+09:00",
+  "datePublished": "2026-08-25T13:58:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46187/20260825de46187_E0000004046_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46187/20260825de46187_E0000004046_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "警視庁によりますと、25日正午前、東京・中野区の商業施設、「中野ブロードウェイ」に入る時計店で男がショーケースをハンマーのようなもので割って海外製の高級腕時計4本、2億円相当を盗んで逃げたということで",
+  "articleBody": "警視庁によりますと、25日正午前、東京・中野区の商業施設、「中野ブロードウェイ」に入る時計店で男がショーケースをハンマーのようなもので割って海外製の高級腕時計4本、2億円相当を盗んで逃げたということです。\n\nこれまでの調べで店内にいたのは、10秒ほどだったということで警視庁は2人が関与したとみて窃盗事件として行方を捜査しています。\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "警視庁によりますと、25日正午前、東京・中野区の商業施設、「中野ブロードウェイ」に入る時計店で男がショーケースをハンマーのようなもので割って海外製の高級腕時計4本、2億円相当を盗んで逃げたということです。\n\nこれまでの調べで店内にいたのは、10秒ほどだったということで警視庁は2人が関与したとみて窃盗事件として行方を捜査しています。\n",
+    "markedBody": "",
+    "trimmedLead": "警視庁によりますと、25日正午前、東京・中野区の商業施設、「中野ブロードウェイ」に入る時計店で男がショーケースをハンマーのようなもので割って海外製の高級腕時計4本、2億円相当を盗んで逃げたということです。\n\nこれまでの調べで店内にいたのは、10秒ほどだったということで警視庁は2人が関与したとみて窃盗事件として行方を捜査しています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260825de46187.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260825de46187",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
