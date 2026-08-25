@@ -1,0 +1,172 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260825de46226",
+  "dataSourceId": "nd",
+  "name": "政府 透明性確保へAIの学習データ収集方法開示要請の原則公表",
+  "headline": "政府 透明性確保へAIの学習データ収集方法開示要請の原則公表",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260825de46226",
+    "playlistId": "news-nwa-politics-nationwide-20260825",
+    "newsarticleName": "政府 透明性確保へAIの学習データ収集方法開示要請の原則公表",
+    "playlistName": "8月25日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "生成AIの開発と、知的財産権の保護の両立に向けて、政府は、事業者が守るべき内容をまとめた基本原則を公表しました。透明性を確保するため、AIが学習したデータの収集方法を開示することなどを要請しています。",
+  "dateModified": "2026-08-25T17:40:46+09:00",
+  "datePublished": "2026-08-25T17:40:46+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46226/20260825de46226_E0000016529_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46226/20260825de46226_E0000016529_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "E0000000106",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "E0000000317",
+      "name": "経済安全保障",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "生成AIの開発と、知的財産権の保護の両立に向けて、政府は、事業者が守るべき内容をまとめた基本原則を公表しました。透明性を確保するため、AIが学習したデータの収集方法を開示することなどを要請しています。",
+  "articleBody": "生成AIの開発と、知的財産権の保護の両立に向けて、政府は、事業者が守るべき内容をまとめた基本原則を公表しました。透明性を確保するため、AIが学習したデータの収集方法を開示することなどを要請しています。\n\n\n基本原則では、生成AIの開発や提供を行う事業者に対し、AIの学習方法やデータの収集手段などの概要を、ホームページで開示するよう要請しています。\n\nまた、著作物の権利者や、生成AIの利用者から求めがあれば、学習データに著作物が含まれるかどうかなどを、一定の条件のもとで開示することも盛り込んでいます。\n\n対象となるのは、国内の事業者のほか、生成AIサービスを日本に提供する海外の事業者も含まれます。\n\n基本原則に罰則規定はないものの、事業者が開示などを行わない場合には、その理由を説明することも求めていて、政府は、この秋にも適用を始めることにしています。\n\n知的財産戦略を担当する小野田経済安全保障担当大臣は、閣議のあとの記者会見で、「技術の進歩と知的財産保護の両立に向けた大きな一歩になると期待したい。状況次第で、さらなる措置の検討も含めて適切に対応したい」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "生成AIの開発と、知的財産権の保護の両立に向けて、政府は、事業者が守るべき内容をまとめた基本原則を公表しました。透明性を確保するため、AIが学習したデータの収集方法を開示することなどを要請しています。\n",
+    "markedBody": "基本原則では、生成AIの開発や提供を行う事業者に対し、AIの学習方法やデータの収集手段などの概要を、ホームページで開示するよう要請しています。\n\nまた、著作物の権利者や、生成AIの利用者から求めがあれば、学習データに著作物が含まれるかどうかなどを、一定の条件のもとで開示することも盛り込んでいます。\n\n対象となるのは、国内の事業者のほか、生成AIサービスを日本に提供する海外の事業者も含まれます。\n\n基本原則に罰則規定はないものの、事業者が開示などを行わない場合には、その理由を説明することも求めていて、政府は、この秋にも適用を始めることにしています。\n\n知的財産戦略を担当する小野田経済安全保障担当大臣は、閣議のあとの記者会見で、「技術の進歩と知的財産保護の両立に向けた大きな一歩になると期待したい。状況次第で、さらなる措置の検討も含めて適切に対応したい」と述べました。\n",
+    "trimmedLead": "生成AIの開発と、知的財産権の保護の両立に向けて、政府は、事業者が守るべき内容をまとめた基本原則を公表しました。透明性を確保するため、AIが学習したデータの収集方法を開示することなどを要請しています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260825de46226.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260825de46226",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "政府 透明性確保へAIの学習データ収集方法開示要請の原則公表",
+      "description": "生成AIの開発と、知的財産権の保護の両立に向けて、政府は、事業者が守るべき内容をまとめた基本原則を公表しました。透明性を確保するため、AIが学習したデータの収集方法を開示することなどを要請しています。",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20260825de46226_E0000016660_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20260825de46226/20260825de46226_E0000016529_1_l.jpg",
+      "duration": "PT1M15S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20260825de46226_E0000016660_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46226/20260825de46226_E0000016529_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "AI学習データの公表要請の基本原則案 今秋にも適用へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260819de44968",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44968/20260819de44968_E0000003844_1_s.jpg",
+      "datePublished": "2026-08-19T13:50:00+09:00"
+    },
+    {
+      "name": "企業の法務業務へのAI活用で新指針 法務省",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45505",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45505/20260821de45505_E0000003805_1_s.jpg",
+      "datePublished": "2026-08-21T16:06:00+09:00"
+    },
+    {
+      "name": "オープンAIが18歳未満対象にChatGPTの対策強化へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260819de44976",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44976/20260819de44976_E0000012073_1_s.jpg",
+      "datePublished": "2026-08-19T14:53:00+09:00"
+    },
+    {
+      "name": "小野田大臣“サイバー攻撃事案など踏まえ必要な予算確保を”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260824de45992",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45992/20260824de45992_E0000015726_1_s.jpg",
+      "datePublished": "2026-08-24T15:24:00+09:00"
+    },
+    {
+      "name": "大国の圧力に立ち向かう日本人 赤根智子さんの仕事の流儀",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015013371000",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260819de44928_E0000011930_1_s.jpg"
+    },
+    {
+      "name": "“AIインフラを止めろ” トランプ支持層に広がる反発",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44706",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44706/20260818de44706_E0000010936_1_s.jpg",
+      "datePublished": "2026-08-23T21:06:49+09:00"
+    },
+    {
+      "name": "台風18号 鹿児島 奄美地方や沖縄本島地方に接近 厳重警戒を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260824de46074",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46074/20260824de46074_E0000016714_1_s.jpg",
+      "datePublished": "2026-08-25T18:48:27+09:00"
+    },
+    {
+      "name": "自民税調 消費税1％へ議論開始 9月半ばまでに税制改正大綱",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260825de46194",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46194/20260825de46194_E0000016430_1_s.jpg",
+      "datePublished": "2026-08-25T15:51:52+09:00"
+    },
+    {
+      "name": "熊本地震“炊き出しでイスラム教徒苦情”根拠ない情報拡散",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260825de46105",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46105/20260825de46105_E0000016090_1_s.jpg",
+      "datePublished": "2026-08-25T08:05:00+09:00"
+    },
+    {
+      "name": "【比較動画】クマ撃退スプレー 市販製品の「性能」に大きな差",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260825de46130",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46130/20260825de46130_E0000016321_1_s.jpg",
+      "datePublished": "2026-08-25T18:47:55+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
