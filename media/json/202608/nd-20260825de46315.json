@@ -1,0 +1,156 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260825de46315",
+  "dataSourceId": "nd",
+  "name": "農水副大臣がAPEC会合で中国閣僚とことば交わす",
+  "headline": "農水副大臣がAPEC会合で中国閣僚とことば交わす",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260825de46315",
+    "playlistId": "news-nwa-politics-nationwide-20260825",
+    "newsarticleName": "農水副大臣がAPEC会合で中国閣僚とことば交わす",
+    "playlistName": "8月25日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "山下農林水産副大臣は、中国・杭州で開かれたAPEC＝アジア太平洋経済協力会議の食料安全保障担当相会合で、中国の農業分野を担当する閣僚とことばを交わしました。\n\n\n農林水産省によりますと、24日の夕方に",
+  "dateModified": "2026-08-25T22:01:59+09:00",
+  "datePublished": "2026-08-25T22:01:59+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46315/20260825de46315_E0000016957_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46315/20260825de46315_E0000016957_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治",
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000456",
+      "name": "農林水産省",
+      "display": true
+    },
+    {
+      "id": "E0000000215",
+      "name": "中国",
+      "display": true
+    },
+    {
+      "id": "E0000000391",
+      "name": "日中関係",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "山下農林水産副大臣は、中国・杭州で開かれたAPEC＝アジア太平洋経済協力会議の食料安全保障担当相会合で、中国の農業分野を担当する閣僚とことばを交わしました。\n\n\n農林水産省によりますと、24日の夕方に",
+  "articleBody": "山下農林水産副大臣は、中国・杭州で開かれたAPEC＝アジア太平洋経済協力会議の食料安全保障担当相会合で、中国の農業分野を担当する閣僚とことばを交わしました。\n\n\n農林水産省によりますと、24日の夕方に現地で開かれた夕食会で、山下副大臣は、中国の張柱農業農村相と短時間、ことばを交わしたということです。\n\n日中関係が悪化して以降、農林水産分野でも閣僚級の公式な協議や会合は途絶えています。\n",
+  "detailedArticleBody": {
+    "markedLead": "山下農林水産副大臣は、中国・杭州で開かれたAPEC＝アジア太平洋経済協力会議の食料安全保障担当相会合で、中国の農業分野を担当する閣僚とことばを交わしました。\n",
+    "markedBody": "農林水産省によりますと、24日の夕方に現地で開かれた夕食会で、山下副大臣は、中国の張柱農業農村相と短時間、ことばを交わしたということです。\n\n日中関係が悪化して以降、農林水産分野でも閣僚級の公式な協議や会合は途絶えています。\n",
+    "trimmedLead": "山下農林水産副大臣は、中国・杭州で開かれたAPEC＝アジア太平洋経済協力会議の食料安全保障担当相会合で、中国の農業分野を担当する閣僚とことばを交わしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260825de46315.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260825de46315",
+  "video": [],
+  "citation": [
+    {
+      "name": "南太平洋 バヌアツ諸島で大規模噴火 日本への津波の有無調査",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260825de46314",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46314/20260825de46314_E0000004023_1_s.jpg",
+      "datePublished": "2026-08-25T20:56:00+09:00"
+    },
+    {
+      "name": "中野ブロードウェイの店舗で高級時計盗まれる 被害2億円相当か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260825de46187",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46187/20260825de46187_E0000016909_1_s.jpg",
+      "datePublished": "2026-08-25T20:42:25+09:00"
+    },
+    {
+      "name": "西日本では39度超の危険な暑さに 夜間も熱中症対策を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260824de46075",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46075/20260824de46075_E0000016512_1_s.jpg",
+      "datePublished": "2026-08-25T19:29:48+09:00"
+    },
+    {
+      "name": "四国 早明浦ダム 第４次取水制限へ 2008年以来 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260825de46292",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46292/20260825de46292_E0000016915_1_s.jpg",
+      "datePublished": "2026-08-25T20:25:42+09:00"
+    },
+    {
+      "name": "台風18号 鹿児島 奄美地方や沖縄本島地方に最接近 厳重警戒を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260824de46074",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46074/20260824de46074_E0000016802_1_s.jpg",
+      "datePublished": "2026-08-25T22:51:11+09:00"
+    },
+    {
+      "name": "高市首相 ガソリン1リットル 170円程度に抑制の支援策継続方針",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260825de46280",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46280/20260825de46280_E0000016763_1_s.jpg",
+      "datePublished": "2026-08-25T18:37:00+09:00"
+    },
+    {
+      "name": "熊本 宇城 ラグビー五郎丸さんが子どもと交流【被災地の動き】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260825de46129",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46129/20260825de46129_E0000016779_1_s.jpg",
+      "datePublished": "2026-08-25T18:54:31+09:00"
+    },
+    {
+      "name": "神奈川 船舶衝突事故 「花火見に行く途中」 海保が詳しく捜査",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260825de46260",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46260/20260825de46260_E0000016695_1_s.jpg",
+      "datePublished": "2026-08-25T18:26:41+09:00"
+    },
+    {
+      "name": "【比較動画】クマ撃退スプレー 市販製品の「性能」に大きな差",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260825de46130",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46130/20260825de46130_E0000016321_1_s.jpg",
+      "datePublished": "2026-08-25T19:31:55+09:00"
+    },
+    {
+      "name": "正岡子規 未発表の2句見つかる 新年の心情込めた俳句など",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260825de46283",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46283/20260825de46283_E0000016792_1_s.jpg",
+      "datePublished": "2026-08-25T19:06:14+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
