@@ -1,0 +1,157 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260826de46400",
+  "dataSourceId": "nd",
+  "name": "株価 小幅な値上がり",
+  "headline": "株価 小幅な値上がり",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260826de46400",
+    "playlistId": "news-nwa-business-nationwide-20260826",
+    "newsarticleName": "株価 小幅な値上がり",
+    "playlistName": "8月26日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "26日の東京株式市場、日経平均株価は小幅に値上がりしています。\n\n\n▽日経平均株価、午前の終値は25日と比べて371円12銭高い6万6227円55銭。\n\n▽東証株価指数＝トピックスは24.77上がって",
+  "dateModified": "2026-08-26T12:14:20+09:00",
+  "datePublished": "2026-08-26T12:14:20+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46400/20260826de46400_E0000017112_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46400/20260826de46400_E0000017112_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000157",
+      "name": "株価・為替",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "26日の東京株式市場、日経平均株価は小幅に値上がりしています。\n\n\n▽日経平均株価、午前の終値は25日と比べて371円12銭高い6万6227円55銭。\n\n▽東証株価指数＝トピックスは24.77上がって",
+  "articleBody": "26日の東京株式市場、日経平均株価は小幅に値上がりしています。\n\n\n▽日経平均株価、午前の終値は25日と比べて371円12銭高い6万6227円55銭。\n\n▽東証株価指数＝トピックスは24.77上がって4118.44。\n\n▽午前の出来高は8億7528万株でした。\n\n市場関係者は「25日のニューヨーク原油市場で原油の先物価格が大幅に下落したことから、インフレ懸念が和らぎ、一部で買い注文が出ている。一方で、半導体関連の銘柄などで当面の利益を確定しようと売り注文も出ていて、結果として小幅な値上がりとなっている」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "26日の東京株式市場、日経平均株価は小幅に値上がりしています。\n",
+    "markedBody": "▽日経平均株価、午前の終値は25日と比べて371円12銭高い6万6227円55銭。\n\n▽東証株価指数＝トピックスは24.77上がって4118.44。\n\n▽午前の出来高は8億7528万株でした。\n\n市場関係者は「25日のニューヨーク原油市場で原油の先物価格が大幅に下落したことから、インフレ懸念が和らぎ、一部で買い注文が出ている。一方で、半導体関連の銘柄などで当面の利益を確定しようと売り注文も出ていて、結果として小幅な値上がりとなっている」と話しています。\n",
+    "trimmedLead": "26日の東京株式市場、日経平均株価は小幅に値上がりしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260826de46400.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260826de46400",
+  "video": [],
+  "citation": [
+    {
+      "name": "NY原油80ドル台に下落 ホルムズ海峡の航路協議を受けて",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260826de46356",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46356/20260826de46356_E0000003623_1_s.jpg",
+      "datePublished": "2026-08-26T11:25:54+09:00"
+    },
+    {
+      "name": "台風18号 奄美や沖縄本島から遠ざかるも土砂災害に厳重警戒を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260826de46333",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46333/20260826de46333_E0000017113_1_s.jpg",
+      "datePublished": "2026-08-26T12:23:48+09:00"
+    },
+    {
+      "name": "西日本中心に35度以上の猛烈な暑さに 急な激しい雨にも注意を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260826de46337",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46337/20260826de46337_E0000017055_1_s.jpg",
+      "datePublished": "2026-08-26T12:30:08+09:00"
+    },
+    {
+      "name": "妊娠中期に暑い中を過ごすと「早産」リスク高まる",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260825de46320",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46320/20260825de46320_E0000016966_1_s.jpg",
+      "datePublished": "2026-08-26T06:09:00+09:00"
+    },
+    {
+      "name": "政府 エネルギー安定確保で新計画 代替パイプライン建設支援",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260826de46331",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46331/20260826de46331_E0000016978_1_s.jpg",
+      "datePublished": "2026-08-26T05:06:00+09:00"
+    },
+    {
+      "name": "高級時計窃盗事件 2人組の男 現場にハンマー残し逃走か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260826de46385",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46385/20260826de46385_E0000017076_1_s.jpg",
+      "datePublished": "2026-08-26T11:49:00+09:00"
+    },
+    {
+      "name": "米ルビオ長官“当面新たな攻撃なし”同盟国などに伝達 米報道",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260826de46380",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46380/20260826de46380_E0000017039_1_s.jpg",
+      "datePublished": "2026-08-26T11:33:00+09:00"
+    },
+    {
+      "name": "トランプ大統領 オンタリオ湖の改称検討 カナダとの対立激化",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260826de46334",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46334/20260826de46334_E0000016981_1_s.jpg",
+      "datePublished": "2026-08-26T07:46:00+09:00"
+    },
+    {
+      "name": "イランへの制裁 米の元制裁調査官“交渉の席に戻すねらい”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260826de46381",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46381/20260826de46381_E0000017064_1_s.jpg",
+      "datePublished": "2026-08-26T11:46:12+09:00"
+    },
+    {
+      "name": "発がん性指摘の化学物質含む溶液に白菜浸し出荷か 中国河北省",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260826de46332",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46332/20260826de46332_E0000004049_1_s.jpg",
+      "datePublished": "2026-08-26T07:44:21+09:00"
+    },
+    {
+      "name": "テニス錦織圭 現役最後の全米OP男子シングルス予選2回戦へ進出",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260826de46362",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46362/20260826de46362_E0000017027_1_s.jpg",
+      "datePublished": "2026-08-26T11:28:52+09:00"
+    },
+    {
+      "name": "AI時代に必要なのは？未来を読む叡智 オードリー・タンの言葉",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45472",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45472/20260821de45472_E0000016589_1_s.jpg",
+      "datePublished": "2026-08-25T19:20:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
