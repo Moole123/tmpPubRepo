@@ -1,0 +1,161 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260826de46466",
+  "dataSourceId": "nd",
+  "name": "「フィジカルAI」を複数企業が共同で開発進める施設 稼働開始",
+  "headline": "「フィジカルAI」を複数企業が共同で開発進める施設 稼働開始",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260826de46466",
+    "playlistId": "news-nwa-business-nationwide-20260826",
+    "newsarticleName": "「フィジカルAI」を複数企業が共同で開発進める施設 稼働開始",
+    "playlistName": "8月26日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "AIが自律的に判断してロボットなどを動かす「フィジカルAI」を複数の企業が共同で開発を進めるための施設が千葉県に開設されました。\n\n\nこの施設は、大阪の専門商社や東京の製薬会社などあわせて5社が、自社",
+  "dateModified": "2026-08-26T16:55:59+09:00",
+  "datePublished": "2026-08-26T16:55:59+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46466/20260826de46466_E0000017347_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46466/20260826de46466_E0000017347_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000106",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    },
+    {
+      "id": "E0000000340",
+      "name": "千葉県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "AIが自律的に判断してロボットなどを動かす「フィジカルAI」を複数の企業が共同で開発を進めるための施設が千葉県に開設されました。\n\n\nこの施設は、大阪の専門商社や東京の製薬会社などあわせて5社が、自社",
+  "articleBody": "AIが自律的に判断してロボットなどを動かす「フィジカルAI」を複数の企業が共同で開発を進めるための施設が千葉県に開設されました。\n\n\nこの施設は、大阪の専門商社や東京の製薬会社などあわせて5社が、自社の製品の製造ラインなどに活用できるフィジカルAIを開発しようと千葉県習志野市に設置しました。\n\n26日から本格的に稼働を開始するのにあわせて、報道関係者に内部が公開され、人型のロボットが30台以上並ぶ中、スタッフがコントローラーで操作して、ぬいぐるみをつかんだり、段ボールを動かしたりする動作をAIに学習させていました。\n\nこうした学習を進めることで将来的には、AIが自律的にロボットを動かしてさまざまな作業を行える状態を目指すということです。\n\nフィジカルAIをめぐっては人手不足の業界での活用が期待されている一方で、開発には多額の資金や専門の設備などが必要で、この施設では、複数の企業が協力することで開発をスピードアップできるとしています。\n\n早ければ今年度中にも各社の現場の単純作業にロボットを導入したいとしていて、各社で作る団体の磯部宗克事務局長は「さまざまな業種の会社が横断的に協力することで、より便利なAIが開発できると考えている。今後は医療や小売りなどの分野の企業の参加も期待したい」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "AIが自律的に判断してロボットなどを動かす「フィジカルAI」を複数の企業が共同で開発を進めるための施設が千葉県に開設されました。\n",
+    "markedBody": "この施設は、大阪の専門商社や東京の製薬会社などあわせて5社が、自社の製品の製造ラインなどに活用できるフィジカルAIを開発しようと千葉県習志野市に設置しました。\n\n26日から本格的に稼働を開始するのにあわせて、報道関係者に内部が公開され、人型のロボットが30台以上並ぶ中、スタッフがコントローラーで操作して、ぬいぐるみをつかんだり、段ボールを動かしたりする動作をAIに学習させていました。\n\nこうした学習を進めることで将来的には、AIが自律的にロボットを動かしてさまざまな作業を行える状態を目指すということです。\n\nフィジカルAIをめぐっては人手不足の業界での活用が期待されている一方で、開発には多額の資金や専門の設備などが必要で、この施設では、複数の企業が協力することで開発をスピードアップできるとしています。\n\n早ければ今年度中にも各社の現場の単純作業にロボットを導入したいとしていて、各社で作る団体の磯部宗克事務局長は「さまざまな業種の会社が横断的に協力することで、より便利なAIが開発できると考えている。今後は医療や小売りなどの分野の企業の参加も期待したい」と話していました。\n",
+    "trimmedLead": "AIが自律的に判断してロボットなどを動かす「フィジカルAI」を複数の企業が共同で開発を進めるための施設が千葉県に開設されました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260826de46466.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260826de46466",
+  "video": [],
+  "citation": [
+    {
+      "name": "AI関連の展示会「フィジカルAI」に注目集まる 約100社が出展",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260826de46402",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46402/20260826de46402_E0000017137_1_s.jpg",
+      "datePublished": "2026-08-26T13:04:23+09:00"
+    },
+    {
+      "name": "AI時代に必要なのは？未来を読む叡智 オードリー・タンの言葉",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260821de45472",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45472/20260821de45472_E0000016589_1_s.jpg",
+      "datePublished": "2026-08-25T19:20:00+09:00"
+    },
+    {
+      "name": "福岡県で40度以上「酷暑日」に 各地で危険な暑さ 熱中症対策を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260826de46337",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46337/20260826de46337_E0000017303_1_s.jpg",
+      "datePublished": "2026-08-26T16:27:18+09:00"
+    },
+    {
+      "name": "台風18号 奄美や沖縄本島から遠ざかるも土砂災害に厳重警戒を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260826de46333",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46333/20260826de46333_E0000017368_1_s.jpg",
+      "datePublished": "2026-08-26T16:22:58+09:00"
+    },
+    {
+      "name": "米ルビオ長官“当面新たな攻撃なし”同盟国などに伝達 米報道",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260826de46380",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46380/20260826de46380_E0000017039_1_s.jpg",
+      "datePublished": "2026-08-26T11:33:00+09:00"
+    },
+    {
+      "name": "CIA長官がモスクワ訪問か ロシアに警告の見方も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260826de46411",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46411/20260826de46411_E0000017162_1_s.jpg",
+      "datePublished": "2026-08-26T13:22:46+09:00"
+    },
+    {
+      "name": "イラン国営メディア トランプ大統領息子の命脅かす映像 米報道",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260826de46398",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46398/20260826de46398_E0000017116_1_s.jpg",
+      "datePublished": "2026-08-26T13:06:35+09:00"
+    },
+    {
+      "name": "高級時計窃盗事件 2人組の男 現場にハンマー残し逃走か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260826de46385",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46385/20260826de46385_E0000017076_1_s.jpg",
+      "datePublished": "2026-08-26T16:14:05+09:00"
+    },
+    {
+      "name": "妊娠中期に暑い中を過ごすと「早産」リスク高まる",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260825de46320",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46320/20260825de46320_E0000016966_1_s.jpg",
+      "datePublished": "2026-08-26T06:09:00+09:00"
+    },
+    {
+      "name": "自民 福岡県連から28日に聴き取り 早期に事態の収拾を図る",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260826de46329",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46329/20260826de46329_E0000016976_1_s.jpg",
+      "datePublished": "2026-08-26T05:55:00+09:00"
+    },
+    {
+      "name": "政府 エネルギー安定確保で新計画 代替パイプライン建設支援",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260826de46331",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46331/20260826de46331_E0000016978_1_s.jpg",
+      "datePublished": "2026-08-26T05:06:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
