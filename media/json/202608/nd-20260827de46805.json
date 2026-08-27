@@ -1,0 +1,160 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260827de46805",
+  "dataSourceId": "nd",
+  "name": "AIで需要拡大 “短期間で設置”コンテナ型のデータセンター",
+  "headline": "AIで需要拡大 “短期間で設置”コンテナ型のデータセンター",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260827de46805",
+    "playlistId": "news-nwa-business-nationwide-20260827",
+    "newsarticleName": "AIで需要拡大 “短期間で設置”コンテナ型のデータセンター",
+    "playlistName": "8月27日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "NTTドコモの子会社と、東京電力パワーグリッドは、都内にコンテナ型のデータセンターの設置を進めると発表しました。AIの利用拡大に伴ってデータセンターの需要は拡大していて、短期間で設置できることなどにメ",
+  "dateModified": "2026-08-27T21:11:00+09:00",
+  "datePublished": "2026-08-27T21:11:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46805/20260827de46805_E0000018419_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46805/20260827de46805_E0000018419_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000106",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "E0000000472",
+      "name": "通信",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "NTTドコモの子会社と、東京電力パワーグリッドは、都内にコンテナ型のデータセンターの設置を進めると発表しました。AIの利用拡大に伴ってデータセンターの需要は拡大していて、短期間で設置できることなどにメ",
+  "articleBody": "NTTドコモの子会社と、東京電力パワーグリッドは、都内にコンテナ型のデータセンターの設置を進めると発表しました。AIの利用拡大に伴ってデータセンターの需要は拡大していて、短期間で設置できることなどにメリットがあるとしています。\n\n\nNTTドコモビジネスと、東京電力パワーグリッドは27日、東京 大田区にコンテナ型のデータセンターの設置を進めると発表し、その設備が公開されました。\n\n長さ6メートルのコンテナには、液体を使った特殊な冷却設備が設置され、使用すると高い温度を出す高性能な半導体を搭載したサーバーでも使うことができるということです。\n\nAIの利用拡大に伴ってデータセンターの需要は拡大していますが、会社によりますと、首都圏では土地の確保が難しくなっているほか、建設から稼働までにも時間がかかり、需要の拡大に建設が追いついていない状況だということです。\n\n会社ではコンテナ型なら首都圏でも設置の余地があるとしていて、まず東京 大田区での受付を27日から開始し、来年秋ごろにサービスの提供を始めたいとしています。\n\nNTTドコモビジネスのクラウド＆ネットワークサービス部の松林修 部門長は「従来のデータセンターは稼働までに早くて5年、場合によっては10年かかると言われていて、今のAIのスピードに全くついていけていない。コンテナ型であれば素早くスタートできる」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "NTTドコモの子会社と、東京電力パワーグリッドは、都内にコンテナ型のデータセンターの設置を進めると発表しました。AIの利用拡大に伴ってデータセンターの需要は拡大していて、短期間で設置できることなどにメリットがあるとしています。\n",
+    "markedBody": "NTTドコモビジネスと、東京電力パワーグリッドは27日、東京 大田区にコンテナ型のデータセンターの設置を進めると発表し、その設備が公開されました。\n\n長さ6メートルのコンテナには、液体を使った特殊な冷却設備が設置され、使用すると高い温度を出す高性能な半導体を搭載したサーバーでも使うことができるということです。\n\nAIの利用拡大に伴ってデータセンターの需要は拡大していますが、会社によりますと、首都圏では土地の確保が難しくなっているほか、建設から稼働までにも時間がかかり、需要の拡大に建設が追いついていない状況だということです。\n\n会社ではコンテナ型なら首都圏でも設置の余地があるとしていて、まず東京 大田区での受付を27日から開始し、来年秋ごろにサービスの提供を始めたいとしています。\n\n![](https://img.web.nhk/news/nd/kiji/20260827de46805/20260827de46805_E0000018420_1_l.jpg)\n\nNTTドコモビジネスのクラウド＆ネットワークサービス部の松林修 部門長は「従来のデータセンターは稼働までに早くて5年、場合によっては10年かかると言われていて、今のAIのスピードに全くついていけていない。コンテナ型であれば素早くスタートできる」と話していました。\n",
+    "trimmedLead": "NTTドコモの子会社と、東京電力パワーグリッドは、都内にコンテナ型のデータセンターの設置を進めると発表しました。AIの利用拡大に伴ってデータセンターの需要は拡大していて、短期間で設置できることなどにメリットがあるとしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260827de46805.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260827de46805",
+  "video": [],
+  "citation": [
+    {
+      "name": "キオクシア 岩手工場拡張など5兆円投資へ AI需要に対応",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46699",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46699/20260827de46699_E0000017977_1_s.jpg",
+      "datePublished": "2026-08-27T15:20:00+09:00"
+    },
+    {
+      "name": "政府 透明性確保へAIの学習データ収集方法開示要請の原則公表",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260825de46226",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46226/20260825de46226_E0000016529_1_s.jpg",
+      "datePublished": "2026-08-25T17:40:46+09:00"
+    },
+    {
+      "name": "AI学習データの公表要請の基本原則案 今秋にも適用へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260819de44968",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44968/20260819de44968_E0000003844_1_s.jpg",
+      "datePublished": "2026-08-19T13:50:00+09:00"
+    },
+    {
+      "name": "石川 富山の大雨特別警報を切り替え 土砂災害などに厳重警戒を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46591",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46591/20260827de46591_E0000018268_1_s.jpg",
+      "datePublished": "2026-08-27T20:49:55+09:00"
+    },
+    {
+      "name": "【被害まとめ】石川 富山 一時レベル5大雨特別警報 土砂崩れも",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46613",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46613/20260827de46613_E0000017711_1_s.jpg",
+      "datePublished": "2026-08-27T21:58:53+09:00"
+    },
+    {
+      "name": "石川と富山 13の川で氾濫 国交省（27日正午時点）",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46625",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46625/20260827de46625_E0000017708_1_s.jpg",
+      "datePublished": "2026-08-27T19:33:08+09:00"
+    },
+    {
+      "name": "【動画】大雨 石川県・富山県・福井県 各地の状況は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46608",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46608/20260827de46608_E0000018132_1_s.jpg",
+      "datePublished": "2026-08-27T19:19:53+09:00"
+    },
+    {
+      "name": "九州新幹線 熊本ー新水俣は9月18日運行再開 全線で運行再開へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46719",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46719/20260827de46719_E0000003584_1_s.jpg",
+      "datePublished": "2026-08-27T14:41:00+09:00"
+    },
+    {
+      "name": "芸術家 草間彌生さん死去 97歳 水玉モチーフの作品で知られる",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46651",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46651/20260827de46651_E0000017799_1_s.jpg",
+      "datePublished": "2026-08-27T21:18:11+09:00"
+    },
+    {
+      "name": "息子はなぜ… 母親が問い続ける“事故の真相” ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260825de46167",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46167/20260825de46167_E0000017266_1_s.jpg",
+      "datePublished": "2026-08-26T16:40:39+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
