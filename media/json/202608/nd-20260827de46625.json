@@ -1,0 +1,159 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260827de46625",
+  "dataSourceId": "nd",
+  "name": "富山 石川 各地で川の氾濫を確認",
+  "headline": "富山 石川 各地で川の氾濫を確認",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260827de46625",
+    "playlistId": "news-nwa-disaster-nationwide-20260827",
+    "newsarticleName": "富山 石川 各地で川の氾濫を確認",
+    "playlistName": "8月27日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "富山県は午前8時までに、氷見市内を流れる川のうち、上庄川の泉地区の両岸で、阿尾川の指崎地区の右岸で、宇波川の宇波地区の両岸で氾濫が確認されたと発表しました。\n\n\n国土交通省は、午前7時半ごろの時点で、",
+  "dateModified": "2026-08-27T10:22:48+09:00",
+  "datePublished": "2026-08-27T09:36:59+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46625/20260827de46625_E0000017708_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46625/20260827de46625_E0000017708_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000114",
+      "name": "気象",
+      "display": true
+    },
+    {
+      "id": "E0000000587",
+      "name": "大雨情報",
+      "display": true
+    },
+    {
+      "id": "E0000000344",
+      "name": "富山県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "富山県は午前8時までに、氷見市内を流れる川のうち、上庄川の泉地区の両岸で、阿尾川の指崎地区の右岸で、宇波川の宇波地区の両岸で氾濫が確認されたと発表しました。\n\n\n国土交通省は、午前7時半ごろの時点で、",
+  "articleBody": "富山県は午前8時までに、氷見市内を流れる川のうち、上庄川の泉地区の両岸で、阿尾川の指崎地区の右岸で、宇波川の宇波地区の両岸で氾濫が確認されたと発表しました。\n\n\n国土交通省は、午前7時半ごろの時点で、石川県を流れる少なくとも3つの川で氾濫していることが河川カメラで確認されたと明らかにしました。\n氾濫が確認されたのは、石川県の羽咋市を流れる飯山川、志賀町を流れる菱根川、宝達志水町を流れる樋の川です。\n\n国土交通省は、川のそばには近づかないよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "富山県は午前8時までに、氷見市内を流れる川のうち、上庄川の泉地区の両岸で、阿尾川の指崎地区の右岸で、宇波川の宇波地区の両岸で氾濫が確認されたと発表しました。\n",
+    "markedBody": "国土交通省は、午前7時半ごろの時点で、石川県を流れる少なくとも3つの川で氾濫していることが河川カメラで確認されたと明らかにしました。\\\n氾濫が確認されたのは、石川県の羽咋市を流れる飯山川、志賀町を流れる菱根川、宝達志水町を流れる樋の川です。\n\n国土交通省は、川のそばには近づかないよう呼びかけています。\n",
+    "trimmedLead": "富山県は午前8時までに、氷見市内を流れる川のうち、上庄川の泉地区の両岸で、阿尾川の指崎地区の右岸で、宇波川の宇波地区の両岸で氾濫が確認されたと発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260827de46625.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260827de46625",
+  "video": [],
+  "citation": [
+    {
+      "name": "【速報中】石川 富山にレベル5大雨特別警報 最大級の警戒",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46591",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46591/20260827de46591_E0000017679_1_s.jpg",
+      "datePublished": "2026-08-27T09:31:05+09:00"
+    },
+    {
+      "name": "気象庁と国土交通省が会見「命の危険迫る 身の安全の確保を」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46593",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46593/20260827de46593_E0000017682_1_s.jpg",
+      "datePublished": "2026-08-27T08:11:00+09:00"
+    },
+    {
+      "name": "石川 羽咋 飯山川 飯山橋付近で水が堤防の高さ超えあふれる",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46599",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46599/20260827de46599_E0000017676_1_s.jpg",
+      "datePublished": "2026-08-27T07:17:00+09:00"
+    },
+    {
+      "name": "【動画】大雨 石川県と富山県 各地の状況は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46608",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46608/20260827de46608_E0000017692_1_s.jpg",
+      "datePublished": "2026-08-27T09:00:00+09:00"
+    },
+    {
+      "name": "【最新の避難情報】こちらから地域別でご覧になれます",
+      "url": "https://news.web.nhk/kishou-saigai/evacuation/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00211_E0000003212_1_s.jpg"
+    },
+    {
+      "name": "【最新の河川情報】こちらから一覧でご覧になれます",
+      "url": "https://news.web.nhk/kishou-saigai/river/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00212_E0000003213_1_s.jpg"
+    },
+    {
+      "name": "川の氾濫 警戒のポイントは？",
+      "url": "https://news.web.nhk/newsweb/na/nc-1c290155-b464-4391-95b8-2f9687fa1f25",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00015_E0000001586_1_s.jpg"
+    },
+    {
+      "name": "【気象警報・注意報】各地の発表状況を詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/warning/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00266_E0000003278_1_s.jpg"
+    },
+    {
+      "name": "「命を守る行動を！」特別警報に緊急安全確保…どうすれば",
+      "url": "https://news.web.nhk/newsweb/na/nc-4206e8be-3c01-4ef5-943c-c5f2d8c343ae",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00033_E0000001589_1_s.jpg"
+    },
+    {
+      "name": "「記録的短時間大雨」とは? どう身を守る?",
+      "url": "https://news.web.nhk/newsweb/na/nc-2cb59e60-dc2e-4535-a3f0-9c825e2e34a8",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00054_E0000003430_1_s.jpg"
+    },
+    {
+      "name": "線状降水帯とは？情報が出たらどうする？",
+      "url": "https://news.web.nhk/newsweb/na/nc-5092b435-f5e7-4767-a457-1c7aac190df9",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00149_E0000003428_1_s.jpg"
+    },
+    {
+      "name": "大雨 最新情報 雨雲レーダーは「NHK ONE ニュース・防災アプリ」で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014929581000",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00233_E0000003287_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
