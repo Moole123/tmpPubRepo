@@ -1,0 +1,145 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260828de47071",
+  "dataSourceId": "nd",
+  "name": "イエローハット 最大で約180万人分の個人情報が流出か",
+  "headline": "イエローハット 最大で約180万人分の個人情報が流出か",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260828de47071",
+    "playlistId": "news-nwa-business-nationwide-20260828",
+    "newsarticleName": "イエローハット 最大で約180万人分の個人情報が流出か",
+    "playlistName": "8月28日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "大手自動車用品チェーン「イエローハット」は、予約システムが不正アクセスを受け、最大でおよそ180万人分の氏名や電話番号などが外部に流出した可能性があると発表しました。\n\n\n不正アクセスを受けたのは店舗",
+  "dateModified": "2026-08-28T20:12:56+09:00",
+  "datePublished": "2026-08-28T20:12:56+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de47071/20260828de47071_E0000019215_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de47071/20260828de47071_E0000019215_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000471",
+      "name": "自動車",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "大手自動車用品チェーン「イエローハット」は、予約システムが不正アクセスを受け、最大でおよそ180万人分の氏名や電話番号などが外部に流出した可能性があると発表しました。\n\n\n不正アクセスを受けたのは店舗",
+  "articleBody": "大手自動車用品チェーン「イエローハット」は、予約システムが不正アクセスを受け、最大でおよそ180万人分の氏名や電話番号などが外部に流出した可能性があると発表しました。\n\n\n不正アクセスを受けたのは店舗でのタイヤ交換の時間などを予約するシステムで、利用者の氏名や電話番号、メールアドレスなど最大で180万人分に上る個人情報が外部に流出した可能性があるということです。\n\nクレジットカードの番号やパスワードはこのシステムには記録されていないため、漏えいした可能性はないとしています。\n\nまた、今のところ情報流出に伴う被害は確認されていないとしています。\n\nイエローハットは「利用者や関係者にご迷惑とご心配をおかけし、深くおわび申し上げます。不審なメールが届いた場合は開封しないなど十分、注意していただきたい」とコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "大手自動車用品チェーン「イエローハット」は、予約システムが不正アクセスを受け、最大でおよそ180万人分の氏名や電話番号などが外部に流出した可能性があると発表しました。\n",
+    "markedBody": "不正アクセスを受けたのは店舗でのタイヤ交換の時間などを予約するシステムで、利用者の氏名や電話番号、メールアドレスなど最大で180万人分に上る個人情報が外部に流出した可能性があるということです。\n\nクレジットカードの番号やパスワードはこのシステムには記録されていないため、漏えいした可能性はないとしています。\n\nまた、今のところ情報流出に伴う被害は確認されていないとしています。\n\nイエローハットは「利用者や関係者にご迷惑とご心配をおかけし、深くおわび申し上げます。不審なメールが届いた場合は開封しないなど十分、注意していただきたい」とコメントしています。\n",
+    "trimmedLead": "大手自動車用品チェーン「イエローハット」は、予約システムが不正アクセスを受け、最大でおよそ180万人分の氏名や電話番号などが外部に流出した可能性があると発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260828de47071.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260828de47071",
+  "video": [],
+  "citation": [
+    {
+      "name": "鹿児島 いちき串木野 中高生4人海で溺れ1人救助 3人を捜索",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de47061",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de47061/20260828de47061_E0000019156_1_s.jpg",
+      "datePublished": "2026-08-28T19:37:08+09:00"
+    },
+    {
+      "name": "インフルエンザ全国的な流行入り 8月の発表は異例の早さ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46966",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46966/20260828de46966_E0000018904_1_s.jpg",
+      "datePublished": "2026-08-28T20:10:45+09:00"
+    },
+    {
+      "name": "ネパール土石流552人死亡 連絡取れない日本人か 5人氏名公表",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46815",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46815/20260827de46815_E0000018495_1_s.jpg",
+      "datePublished": "2026-08-28T20:17:00+09:00"
+    },
+    {
+      "name": "熊本地震1か月 揺れへの備え継続を 猛烈な暑さも続く",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46824",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46824/20260827de46824_E0000018503_1_s.jpg",
+      "datePublished": "2026-08-28T12:36:02+09:00"
+    },
+    {
+      "name": "イオンモール熊本 爆発事故から1か月 実効性ある対策が課題",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46906",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46906/20260828de46906_E0000019114_1_s.jpg",
+      "datePublished": "2026-08-28T18:06:52+09:00"
+    },
+    {
+      "name": "パワハラ認定の山中 横浜市長が辞職届「けじめつけるべき」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46874",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46874/20260828de46874_E0000019005_1_s.jpg",
+      "datePublished": "2026-08-28T18:33:56+09:00"
+    },
+    {
+      "name": "高級時計窃盗事件 2日前に容疑者とみられる人物来店 下見か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46917",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46917/20260828de46917_E0000018694_1_s.jpg",
+      "datePublished": "2026-08-28T12:59:09+09:00"
+    },
+    {
+      "name": "「九州ふっこう応援割」宿泊料 最大6割引 10月以降実施 国交相",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46972",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46972/20260828de46972_E0000018829_1_s.jpg",
+      "datePublished": "2026-08-28T14:38:00+09:00"
+    },
+    {
+      "name": "子どものSNS規制 広がる背景は 【Q＆Aで詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46832",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46832/20260828de46832_E0000018512_1_s.jpg",
+      "datePublished": "2026-08-28T08:12:09+09:00"
+    },
+    {
+      "name": "息子はなぜ… 母親が問い続ける“事故の真相” ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260825de46167",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46167/20260825de46167_E0000017266_1_s.jpg",
+      "datePublished": "2026-08-26T16:40:39+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

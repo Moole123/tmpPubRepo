@@ -1,0 +1,161 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260828de47052",
+  "dataSourceId": "nd",
+  "name": "スーパーのコメ平均価格 5キロ3156円 2週連続の値下がり",
+  "headline": "スーパーのコメ平均価格 5キロ3156円 2週連続の値下がり",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260828de47052",
+    "playlistId": "news-nwa-business-nationwide-20260828",
+    "newsarticleName": "スーパーのコメ平均価格 5キロ3156円 2週連続の値下がり",
+    "playlistName": "8月28日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "全国のスーパーで今月23日までの1週間に販売されたコメの平均価格は、5キロあたりの税込みで3156円と2週連続で値下がりしました。\n\n\n農林水産省の発表によりますと、全国のスーパーおよそ1000店で調",
+  "dateModified": "2026-08-28T18:39:05+09:00",
+  "datePublished": "2026-08-28T18:39:05+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de47052/20260828de47052_E0000019102_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de47052/20260828de47052_E0000019102_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000584",
+      "name": "コメ",
+      "display": true
+    },
+    {
+      "id": "E0000000456",
+      "name": "農林水産省",
+      "display": true
+    },
+    {
+      "id": "E0000000474",
+      "name": "農業",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "全国のスーパーで今月23日までの1週間に販売されたコメの平均価格は、5キロあたりの税込みで3156円と2週連続で値下がりしました。\n\n\n農林水産省の発表によりますと、全国のスーパーおよそ1000店で調",
+  "articleBody": "全国のスーパーで今月23日までの1週間に販売されたコメの平均価格は、5キロあたりの税込みで3156円と2週連続で値下がりしました。\n\n\n農林水産省の発表によりますと、全国のスーパーおよそ1000店で調べた今月23日までの1週間のコメの平均価格は、5キロあたり税込みで3156円で、前の週より35円値下がりしました。\n\n値下がりは2週連続です。\n\n▽産地と品種が単一の銘柄米は、36円値下がりして3175円\n▽ブレンド米なども33円値下がりして3061円でした。\n\n一方、農林水産省は28日、先月末時点の民間のコメの在庫量について、去年の同じ月の1.7倍余りにあたる162万トンだったことも明らかにしました。\n\nこの時期の在庫としては、いまの形で調査を始めた2008年以降、最大だということです。\n\n農林水産省は、新米が本格的に出回る前に、こうしたコメの在庫を売り切ろうという動きが、スーパーでの販売価格の値下がりにつながっていると分析しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "全国のスーパーで今月23日までの1週間に販売されたコメの平均価格は、5キロあたりの税込みで3156円と2週連続で値下がりしました。\n",
+    "markedBody": "![](https://img.web.nhk/news/nd/kiji/20260828de47052/20260828de47052_E0000019174_1_l.jpg)\n\n農林水産省の発表によりますと、全国のスーパーおよそ1000店で調べた今月23日までの1週間のコメの平均価格は、5キロあたり税込みで3156円で、前の週より35円値下がりしました。\n\n値下がりは2週連続です。\n\n![](https://img.web.nhk/news/nd/kiji/20260828de47052/20260828de47052_E0000019177_1_l.jpg)\n\n▽産地と品種が単一の銘柄米は、36円値下がりして3175円\\\n▽ブレンド米なども33円値下がりして3061円でした。\n\n一方、農林水産省は28日、先月末時点の民間のコメの在庫量について、去年の同じ月の1.7倍余りにあたる162万トンだったことも明らかにしました。\n\nこの時期の在庫としては、いまの形で調査を始めた2008年以降、最大だということです。\n\n農林水産省は、新米が本格的に出回る前に、こうしたコメの在庫を売り切ろうという動きが、スーパーでの販売価格の値下がりにつながっていると分析しています。\n",
+    "trimmedLead": "全国のスーパーで今月23日までの1週間に販売されたコメの平均価格は、5キロあたりの税込みで3156円と2週連続で値下がりしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260828de47052.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260828de47052",
+  "video": [],
+  "citation": [
+    {
+      "name": "政府の備蓄米 9月中に買い戻しの方針 農水省が最終調整",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46570",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46570/20260827de46570_E0000017657_1_s.jpg",
+      "datePublished": "2026-08-27T01:31:00+09:00"
+    },
+    {
+      "name": "インフルエンザ全国的な流行入り 8月の発表は異例の早さ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46966",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46966/20260828de46966_E0000018904_1_s.jpg",
+      "datePublished": "2026-08-28T20:10:45+09:00"
+    },
+    {
+      "name": "台風23号発生 8月で10個の台風発生は60年ぶり",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46954",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46954/20260828de46954_E0000018816_1_s.jpg",
+      "datePublished": "2026-08-28T14:31:47+09:00"
+    },
+    {
+      "name": "ネパール土石流552人死亡 連絡取れない日本人か 5人氏名公表",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46815",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46815/20260827de46815_E0000018495_1_s.jpg",
+      "datePublished": "2026-08-28T20:17:00+09:00"
+    },
+    {
+      "name": "熊本地震1か月 揺れへの備え継続を 猛烈な暑さも続く",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46824",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46824/20260827de46824_E0000018503_1_s.jpg",
+      "datePublished": "2026-08-28T12:36:02+09:00"
+    },
+    {
+      "name": "熊本地震1か月 住宅被害は5万棟超 災害関連死を防ぎ生活再建へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46904",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46904/20260828de46904_E0000018903_1_s.jpg",
+      "datePublished": "2026-08-28T19:58:02+09:00"
+    },
+    {
+      "name": "パワハラ認定の山中 横浜市長が辞職届「けじめつけるべき」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46874",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46874/20260828de46874_E0000019005_1_s.jpg",
+      "datePublished": "2026-08-28T18:33:56+09:00"
+    },
+    {
+      "name": "イラン軍事作戦半年 ホルムズ海峡など打開道筋見いだせず",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46813",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46813/20260827de46813_E0000018471_1_s.jpg",
+      "datePublished": "2026-08-28T06:14:00+09:00"
+    },
+    {
+      "name": "高級時計窃盗事件 2日前に容疑者とみられる人物来店 下見か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46917",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46917/20260828de46917_E0000018694_1_s.jpg",
+      "datePublished": "2026-08-28T12:59:09+09:00"
+    },
+    {
+      "name": "子どものSNS規制 広がる背景は 【Q＆Aで詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46832",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46832/20260828de46832_E0000018512_1_s.jpg",
+      "datePublished": "2026-08-28T08:12:09+09:00"
+    },
+    {
+      "name": "息子はなぜ… 母親が問い続ける“事故の真相” ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260825de46167",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46167/20260825de46167_E0000017266_1_s.jpg",
+      "datePublished": "2026-08-26T16:40:39+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
