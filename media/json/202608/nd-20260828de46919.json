@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260828de46919",
+  "dataSourceId": "nd",
+  "name": "株価 値上がり 半導体大手の決算受けたアメリカ株価上昇で",
+  "headline": "株価 値上がり 半導体大手の決算受けたアメリカ株価上昇で",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260828de46919",
+    "playlistId": "news-nwa-business-nationwide-20260828",
+    "newsarticleName": "株価 値上がり 半導体大手の決算受けたアメリカ株価上昇で",
+    "playlistName": "8月28日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "28日の東京株式市場、27日のニューヨーク市場で主要な株価指数が上昇した流れを受けて、日経平均株価は値上がりしています。\n\n\n▽日経平均株価、午前の終値は27日と比べて550円90銭高い6万6682円",
+  "dateModified": "2026-08-28T13:07:45+09:00",
+  "datePublished": "2026-08-28T13:07:45+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46919/20260828de46919_E0000018696_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46919/20260828de46919_E0000018696_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000157",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "E0000000475",
+      "name": "半導体",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "28日の東京株式市場、27日のニューヨーク市場で主要な株価指数が上昇した流れを受けて、日経平均株価は値上がりしています。\n\n\n▽日経平均株価、午前の終値は27日と比べて550円90銭高い6万6682円",
+  "articleBody": "28日の東京株式市場、27日のニューヨーク市場で主要な株価指数が上昇した流れを受けて、日経平均株価は値上がりしています。\n\n\n▽日経平均株価、午前の終値は27日と比べて550円90銭高い6万6682円88銭。\n\n▽東証株価指数＝トピックスは35.16上がって4152.38。\n\n▽午前の出来高は8億5077万株でした。\n\n市場関係者は「27日のニューヨーク市場では、アメリカの半導体大手の決算が好調だったという受け止めから主要な株価指数が上昇した。これを受けて、東京市場でもAI・半導体関連の銘柄を中心に買い注文が広がっている」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "28日の東京株式市場、27日のニューヨーク市場で主要な株価指数が上昇した流れを受けて、日経平均株価は値上がりしています。\n",
+    "markedBody": "▽日経平均株価、午前の終値は27日と比べて550円90銭高い6万6682円88銭。\n\n▽東証株価指数＝トピックスは35.16上がって4152.38。\n\n▽午前の出来高は8億5077万株でした。\n\n市場関係者は「27日のニューヨーク市場では、アメリカの半導体大手の決算が好調だったという受け止めから主要な株価指数が上昇した。これを受けて、東京市場でもAI・半導体関連の銘柄を中心に買い注文が広がっている」と話しています。\n",
+    "trimmedLead": "28日の東京株式市場、27日のニューヨーク市場で主要な株価指数が上昇した流れを受けて、日経平均株価は値上がりしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260828de46919.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260828de46919",
+  "video": [],
+  "citation": [
+    {
+      "name": "完全失業率 7月は2.4% 前月より0.1ポイント改善 総務省",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46862",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46862/20260828de46862_E0000018534_1_s.jpg",
+      "datePublished": "2026-08-28T09:00:00+09:00"
+    },
+    {
+      "name": "東京23区 8月の消費者物価指数 前年同月比+1.8％",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46863",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46863/20260828de46863_E0000018535_1_s.jpg",
+      "datePublished": "2026-08-28T12:18:25+09:00"
+    },
+    {
+      "name": "熊本地震1か月 避難生活続く 安心な住まいの確保が課題",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46835",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46835/20260828de46835_E0000018478_1_s.jpg",
+      "datePublished": "2026-08-28T08:20:35+09:00"
+    },
+    {
+      "name": "熊本地震1か月“住まい再建”関連の検索引き続き多く",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46886",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46886/20260828de46886_E0000018581_1_s.jpg",
+      "datePublished": "2026-08-28T11:50:08+09:00"
+    },
+    {
+      "name": "全国的に大気不安定 北陸再び雨強まる見込み 土砂災害に警戒 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46810",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46810/20260827de46810_E0000018688_1_s.jpg",
+      "datePublished": "2026-08-28T12:00:00+09:00"
+    },
+    {
+      "name": "ネパール・中国の国境地帯で土石流 ネパール側の死者359人",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46576",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46576/20260827de46576_E0000017724_1_s.jpg",
+      "datePublished": "2026-08-28T10:12:00+09:00"
+    },
+    {
+      "name": "横浜 山中市長 支援者に辞意伝える 重大なパワハラ行為認定で",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46874",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46874/20260828de46874_E0000018765_1_s.jpg",
+      "datePublished": "2026-08-28T13:51:42+09:00"
+    },
+    {
+      "name": "保育所の待機児童数 9年ぶりに増加 背景に保育士不足など",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46898",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46898/20260828de46898_E0000018628_1_s.jpg",
+      "datePublished": "2026-08-28T12:00:55+09:00"
+    },
+    {
+      "name": "ラグビーリーグワン 海外出身選手の出場制限を見直しへ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46879",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46879/20260828de46879_E0000003507_1_s.jpg",
+      "datePublished": "2026-08-28T11:46:00+09:00"
+    },
+    {
+      "name": "子どものSNS規制 広がる背景は 【Q＆Aで詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46832",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46832/20260828de46832_E0000018512_1_s.jpg",
+      "datePublished": "2026-08-28T08:12:09+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
