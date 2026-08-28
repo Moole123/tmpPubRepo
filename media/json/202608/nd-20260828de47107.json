@@ -1,0 +1,134 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260828de47107",
+  "dataSourceId": "nd",
+  "name": "マレーシアの空港 東京発の航空機の車輪格納部から遺体",
+  "headline": "マレーシアの空港 東京発の航空機の車輪格納部から遺体",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260828de47107",
+    "playlistId": "news-nwa-international-nationwide-20260828",
+    "newsarticleName": "マレーシアの空港 東京発の航空機の車輪格納部から遺体",
+    "playlistName": "8月28日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "マレーシアの空港で、航空機の車輪を格納する部分から男性の遺体が見つかりました。航空機は東京発の便だったということで、地元の警察が死因などを調べています。\n\n\nマレーシアの警察によりますと、現地時間の2",
+  "dateModified": "2026-08-28T22:41:02+09:00",
+  "datePublished": "2026-08-28T22:41:02+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-640x360.png",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000478",
+      "name": "航空",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "マレーシアの空港で、航空機の車輪を格納する部分から男性の遺体が見つかりました。航空機は東京発の便だったということで、地元の警察が死因などを調べています。\n\n\nマレーシアの警察によりますと、現地時間の2",
+  "articleBody": "マレーシアの空港で、航空機の車輪を格納する部分から男性の遺体が見つかりました。航空機は東京発の便だったということで、地元の警察が死因などを調べています。\n\n\nマレーシアの警察によりますと、現地時間の27日午前7時ごろ、クアラルンプール国際空港で、航空機の車輪を格納する部分から男性の遺体が見つかったということです。\n\n男性の年齢は17歳から25歳と推定され、白いパーカーなどを身につけていましたが、身元を特定する証明書は見つかっていません。\n\n整備の担当者が異臭に気がついたことから発覚したということで、死亡してから72時間以上経過しているとみられるとしています。\n\n航空機は東京発の便だったということですが、航空会社などは明らかにされていません。\n\n遺体に目立った外傷はなく、警察は事件性は低いとみて、身元の特定とともに死因などを調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "マレーシアの空港で、航空機の車輪を格納する部分から男性の遺体が見つかりました。航空機は東京発の便だったということで、地元の警察が死因などを調べています。\n",
+    "markedBody": "マレーシアの警察によりますと、現地時間の27日午前7時ごろ、クアラルンプール国際空港で、航空機の車輪を格納する部分から男性の遺体が見つかったということです。\n\n男性の年齢は17歳から25歳と推定され、白いパーカーなどを身につけていましたが、身元を特定する証明書は見つかっていません。\n\n整備の担当者が異臭に気がついたことから発覚したということで、死亡してから72時間以上経過しているとみられるとしています。\n\n航空機は東京発の便だったということですが、航空会社などは明らかにされていません。\n\n遺体に目立った外傷はなく、警察は事件性は低いとみて、身元の特定とともに死因などを調べています。\n",
+    "trimmedLead": "マレーシアの空港で、航空機の車輪を格納する部分から男性の遺体が見つかりました。航空機は東京発の便だったということで、地元の警察が死因などを調べています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260828de47107.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260828de47107",
+  "video": [],
+  "citation": [
+    {
+      "name": "ネパール土石流552人死亡 連絡取れない日本人か 5人氏名公表",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46815",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46815/20260827de46815_E0000018495_1_s.jpg",
+      "datePublished": "2026-08-28T22:32:23+09:00"
+    },
+    {
+      "name": "米のイラン軍事作戦半年 ホルムズ回避の代替ルート構築進む",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de47041",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de47041/20260828de47041_E0000019100_1_s.jpg",
+      "datePublished": "2026-08-28T20:53:29+09:00"
+    },
+    {
+      "name": "「米政府のアンソロピック排除措置は違憲」連邦地裁",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de47040",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de47040/20260828de47040_E0000019065_1_s.jpg",
+      "datePublished": "2026-08-28T19:00:45+09:00"
+    },
+    {
+      "name": "ジャクソンホール会議が開幕 FRBウォーシュ議長の講演に注目",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46922",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46922/20260828de46922_E0000018745_1_s.jpg",
+      "datePublished": "2026-08-28T14:44:52+09:00"
+    },
+    {
+      "name": "トランプ大統領 オンタリオ湖をアメリカ湖に変更の大統領令",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46864",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46864/20260828de46864_E0000018537_1_s.jpg",
+      "datePublished": "2026-08-28T10:15:00+09:00"
+    },
+    {
+      "name": "国連事務総長 エボラ出血熱 感染急速拡大で各国の協力呼びかけ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46848",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46848/20260828de46848_E0000018496_1_s.jpg",
+      "datePublished": "2026-08-28T07:14:57+09:00"
+    },
+    {
+      "name": "ロシア情報機関トップ 米CIA長官と会談認めるも“特別でない”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46851",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/r/kiji/20260828de46851/20260828de46851_E0000018502_1_s.jpg",
+      "datePublished": "2026-08-28T08:02:02+09:00"
+    },
+    {
+      "name": "“戦後 欧州最悪の虐殺”で服役中のムラディッチ元司令官 死亡",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46850",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46850/20260828de46850_E0000018501_1_s.jpg",
+      "datePublished": "2026-08-28T08:16:45+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": false,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
