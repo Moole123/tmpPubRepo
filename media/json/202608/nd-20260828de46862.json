@@ -1,0 +1,161 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260828de46862",
+  "dataSourceId": "nd",
+  "name": "完全失業率 7月は2.4% 前月より0.1ポイント改善 総務省",
+  "headline": "完全失業率 7月は2.4% 前月より0.1ポイント改善 総務省",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260828de46862",
+    "playlistId": "news-nwa-business-nationwide-20260828",
+    "newsarticleName": "完全失業率 7月は2.4% 前月より0.1ポイント改善 総務省",
+    "playlistName": "8月28日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "7月の全国の完全失業率は2.4％で、6月より0.1ポイント改善しました。\n\n\n総務省によりますと7月の就業者数は6850万人で、2025年の同じ月と変わりませんでした。\n\n主な産業別の就業者では「生活",
+  "dateModified": "2026-08-28T09:00:00+09:00",
+  "datePublished": "2026-08-28T09:00:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46862/20260828de46862_E0000018534_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46862/20260828de46862_E0000018534_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000455",
+      "name": "総務省",
+      "display": true
+    },
+    {
+      "id": "E0000000486",
+      "name": "雇用統計",
+      "display": true
+    },
+    {
+      "id": "E0000000703",
+      "name": "統計・指標",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "7月の全国の完全失業率は2.4％で、6月より0.1ポイント改善しました。\n\n\n総務省によりますと7月の就業者数は6850万人で、2025年の同じ月と変わりませんでした。\n\n主な産業別の就業者では「生活",
+  "articleBody": "7月の全国の完全失業率は2.4％で、6月より0.1ポイント改善しました。\n\n\n総務省によりますと7月の就業者数は6850万人で、2025年の同じ月と変わりませんでした。\n\n主な産業別の就業者では「生活関連サービス業、娯楽業」が2025年の同じ月と比べて13万人増えた一方、「卸売業、小売業」が15万人減りました。\n\nまた、正規の職員や従業員の数は3736万人で、前の年の同じ月と比べて16万人増え、33か月連続の増加となりました。\n\n一方、完全失業者数は169万人で、前の年の同じ月と変わりませんでした。\n\nこの結果、季節による変動要因を除いた全国の完全失業率は2.4％で、6月より0.1ポイント改善しました。\n\n総務省は「これまで仕事をしていなかった人が新たに仕事に就く動きがみられるなど、雇用情勢は悪くないと認識している。引き続き注視したい」としています。\n",
+  "detailedArticleBody": {
+    "markedLead": "7月の全国の完全失業率は2.4％で、6月より0.1ポイント改善しました。\n",
+    "markedBody": "総務省によりますと7月の就業者数は6850万人で、2025年の同じ月と変わりませんでした。\n\n主な産業別の就業者では「生活関連サービス業、娯楽業」が2025年の同じ月と比べて13万人増えた一方、「卸売業、小売業」が15万人減りました。\n\nまた、正規の職員や従業員の数は3736万人で、前の年の同じ月と比べて16万人増え、33か月連続の増加となりました。\n\n一方、完全失業者数は169万人で、前の年の同じ月と変わりませんでした。\n\nこの結果、季節による変動要因を除いた全国の完全失業率は2.4％で、6月より0.1ポイント改善しました。\n\n総務省は「これまで仕事をしていなかった人が新たに仕事に就く動きがみられるなど、雇用情勢は悪くないと認識している。引き続き注視したい」としています。\n",
+    "trimmedLead": "7月の全国の完全失業率は2.4％で、6月より0.1ポイント改善しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260828de46862.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260828de46862",
+  "video": [],
+  "citation": [
+    {
+      "name": "7月の有効求人倍率1.18倍 前月と同水準 厚労省",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46829",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46829/20260827de46829_E0000018533_1_s.jpg",
+      "datePublished": "2026-08-28T08:57:25+09:00"
+    },
+    {
+      "name": "熊本地震1か月 揺れへの備え継続を 猛烈な暑さも続く",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46824",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46824/20260827de46824_E0000018503_1_s.jpg",
+      "datePublished": "2026-08-28T09:00:55+09:00"
+    },
+    {
+      "name": "熊本地震1か月 避難生活続く 安心な住まいの確保が課題",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46835",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46835/20260828de46835_E0000018478_1_s.jpg",
+      "datePublished": "2026-08-28T08:20:35+09:00"
+    },
+    {
+      "name": "子どものSNS規制 広がる背景は 【Q＆Aで詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46832",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46832/20260828de46832_E0000018512_1_s.jpg",
+      "datePublished": "2026-08-28T08:12:09+09:00"
+    },
+    {
+      "name": "【被害まとめ】石川 富山 一時レベル5大雨特別警報 土砂崩れも",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46613",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46613/20260827de46613_E0000017711_1_s.jpg",
+      "datePublished": "2026-08-27T21:58:53+09:00"
+    },
+    {
+      "name": "沖縄県知事選6人が立候補 基地負担や経済振興で論戦へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46747",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46747/20260827de46747_E0000018174_1_s.jpg",
+      "datePublished": "2026-08-27T17:26:00+09:00"
+    },
+    {
+      "name": "千葉豪雨から2週間 死者13人 浸水被害4012棟 避難者45人",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260826de46556",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46556/20260826de46556_E0000017644_1_s.jpg",
+      "datePublished": "2026-08-27T18:39:33+09:00"
+    },
+    {
+      "name": "熊本地震 八代で井戸水使う地域 今も通常どおり水が使えず",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46705",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46705/20260827de46705_E0000018105_1_s.jpg",
+      "datePublished": "2026-08-27T20:43:34+09:00"
+    },
+    {
+      "name": "ネパール・中国の国境地帯で土石流 ネパール側の死者359人",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46576",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46576/20260827de46576_E0000017724_1_s.jpg",
+      "datePublished": "2026-08-28T10:12:24+09:00"
+    },
+    {
+      "name": "中部電力 浜岡原発廃炉めぐり報告書を不正に改ざん",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46626",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46626/20260827de46626_E0000017738_1_s.jpg",
+      "datePublished": "2026-08-27T20:30:11+09:00"
+    },
+    {
+      "name": "息子はなぜ… 母親が問い続ける“事故の真相” ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260825de46167",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46167/20260825de46167_E0000017266_1_s.jpg",
+      "datePublished": "2026-08-26T16:40:39+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
