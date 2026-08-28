@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260828de46923",
+  "dataSourceId": "nd",
+  "name": "最高裁 生成AI活用検討でシステム開発費を予算計上へ",
+  "headline": "最高裁 生成AI活用検討でシステム開発費を予算計上へ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260828de46923",
+    "playlistId": "news-nwa-society-nationwide-20260828",
+    "newsarticleName": "最高裁 生成AI活用検討でシステム開発費を予算計上へ",
+    "playlistName": "8月28日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "生成AIを裁判官の業務に活用することを検討している最高裁判所は、実際の裁判記録を使った実証実験を行うために必要なシステムの開発費用を、来年度予算案の概算要求に盛り込む方針を決めました。\n\n\n最高裁判所",
+  "dateModified": "2026-08-28T12:34:17+09:00",
+  "datePublished": "2026-08-28T12:34:17+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46923/20260828de46923_E0000018709_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46923/20260828de46923_E0000018709_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000106",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "E0000000650",
+      "name": "裁判",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "生成AIを裁判官の業務に活用することを検討している最高裁判所は、実際の裁判記録を使った実証実験を行うために必要なシステムの開発費用を、来年度予算案の概算要求に盛り込む方針を決めました。\n\n\n最高裁判所",
+  "articleBody": "生成AIを裁判官の業務に活用することを検討している最高裁判所は、実際の裁判記録を使った実証実験を行うために必要なシステムの開発費用を、来年度予算案の概算要求に盛り込む方針を決めました。\n\n\n最高裁判所は迅速な審理につなげるため、民事裁判で生成AIを活用できるか検討しています。\n\nこれまでに模擬の裁判記録を使い、双方の主張を争点ごとにまとめた「争点整理表」が適切に作成できるかなどを一般の生成AIサービスで検証し、課題の洗い出しを行いました。\n\n一方で、実際の裁判記録を使って実証実験を行うには、当事者のプライバシーに関わる情報や営業秘密などが含まれていることから、十分なセキュリティー環境が必要となっていました。\n\nこのため最高裁判所は、実証実験に必要なシステムの開発費用などとして、およそ6000万円を来年度予算案の概算要求に盛り込む方針を決めました。\n\n外部にデータが流出しないクラウド環境を整備するほか、「プロンプト」と呼ばれる生成AIへの指示を入力する、裁判所独自の画面も作成するということで、システムが完成ししだい、早ければ来年度中に実証実験を始めたいとしています。\n\n最高裁が生成AIの活用に関連する費用を予算案に盛り込むのは、今回が初めてです。\n",
+  "detailedArticleBody": {
+    "markedLead": "生成AIを裁判官の業務に活用することを検討している最高裁判所は、実際の裁判記録を使った実証実験を行うために必要なシステムの開発費用を、来年度予算案の概算要求に盛り込む方針を決めました。\n",
+    "markedBody": "最高裁判所は迅速な審理につなげるため、民事裁判で生成AIを活用できるか検討しています。\n\nこれまでに模擬の裁判記録を使い、双方の主張を争点ごとにまとめた「争点整理表」が適切に作成できるかなどを一般の生成AIサービスで検証し、課題の洗い出しを行いました。\n\n一方で、実際の裁判記録を使って実証実験を行うには、当事者のプライバシーに関わる情報や営業秘密などが含まれていることから、十分なセキュリティー環境が必要となっていました。\n\nこのため最高裁判所は、実証実験に必要なシステムの開発費用などとして、およそ6000万円を来年度予算案の概算要求に盛り込む方針を決めました。\n\n外部にデータが流出しないクラウド環境を整備するほか、「プロンプト」と呼ばれる生成AIへの指示を入力する、裁判所独自の画面も作成するということで、システムが完成ししだい、早ければ来年度中に実証実験を始めたいとしています。\n\n最高裁が生成AIの活用に関連する費用を予算案に盛り込むのは、今回が初めてです。\n",
+    "trimmedLead": "生成AIを裁判官の業務に活用することを検討している最高裁判所は、実際の裁判記録を使った実証実験を行うために必要なシステムの開発費用を、来年度予算案の概算要求に盛り込む方針を決めました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260828de46923.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260828de46923",
+  "video": [],
+  "citation": [
+    {
+      "name": "全国的に大気不安定 北陸再び雨強まる見込み 土砂災害に警戒 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46810",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46810/20260827de46810_E0000018688_1_s.jpg",
+      "datePublished": "2026-08-28T12:00:00+09:00"
+    },
+    {
+      "name": "熊本地震1か月 揺れへの備え継続を 猛烈な暑さも続く",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46824",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46824/20260827de46824_E0000018503_1_s.jpg",
+      "datePublished": "2026-08-28T09:00:55+09:00"
+    },
+    {
+      "name": "熊本地震1か月“住まい再建”関連の検索引き続き多く",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46886",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46886/20260828de46886_E0000018581_1_s.jpg",
+      "datePublished": "2026-08-28T11:50:08+09:00"
+    },
+    {
+      "name": "政府 熊本地震の支援パッケージ決定 中小企業支援や「応援割」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46755",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46755/20260827de46755_E0000018196_1_s.jpg",
+      "datePublished": "2026-08-27T18:53:00+09:00"
+    },
+    {
+      "name": "パワハラ認定の横浜市 山中市長 辞職は避けられない情勢",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46874",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46874/20260828de46874_E0000018556_1_s.jpg",
+      "datePublished": "2026-08-28T12:27:15+09:00"
+    },
+    {
+      "name": "イラン軍事作戦半年 ホルムズ海峡など打開道筋見いだせず",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46813",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46813/20260827de46813_E0000018471_1_s.jpg",
+      "datePublished": "2026-08-28T06:14:00+09:00"
+    },
+    {
+      "name": "東京 中野 高級時計窃盗事件 容疑者“お金にして母国に”供述",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46838",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46838/20260828de46838_E0000018485_1_s.jpg",
+      "datePublished": "2026-08-28T06:27:00+09:00"
+    },
+    {
+      "name": "子どものSNS規制 広がる背景は 【Q＆Aで詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46832",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46832/20260828de46832_E0000018512_1_s.jpg",
+      "datePublished": "2026-08-28T08:12:09+09:00"
+    },
+    {
+      "name": "息子はなぜ… 母親が問い続ける“事故の真相” ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260825de46167",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46167/20260825de46167_E0000017266_1_s.jpg",
+      "datePublished": "2026-08-26T16:40:39+09:00"
+    },
+    {
+      "name": "福岡県議会 藏内前議長 NHKインタビュー 辞職理由は【QA詳細】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260826de46550",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46550/20260826de46550_E0000017630_1_s.jpg",
+      "datePublished": "2026-08-27T21:05:39+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
