@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260829de47170",
+  "dataSourceId": "nd",
+  "name": "富山 大雨で不通のJR氷見線 運転再開は早くても9月6日に",
+  "headline": "富山 大雨で不通のJR氷見線 運転再開は早くても9月6日に",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260829de47170",
+    "playlistId": "news-nwa-disaster-nationwide-20260829",
+    "newsarticleName": "富山 大雨で不通のJR氷見線 運転再開は早くても9月6日に",
+    "playlistName": "8月29日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "27日の記録的な大雨で線路に土砂が流れ込んだ富山県のJR氷見線について、JR西日本は運転再開は早くても9月6日になると発表しました。\n\n\n富山県の高岡市と氷見市を結ぶJR氷見線は、27日から運転を取り",
+  "dateModified": "2026-08-29T19:15:05+09:00",
+  "datePublished": "2026-08-29T19:15:05+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260829de47170/20260829de47170_E0000003582_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260829de47170/20260829de47170_E0000003582_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000481",
+      "name": "鉄道",
+      "display": true
+    },
+    {
+      "id": "E0000000651",
+      "name": "交通・インフラ",
+      "display": true
+    },
+    {
+      "id": "E0000000344",
+      "name": "富山県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "27日の記録的な大雨で線路に土砂が流れ込んだ富山県のJR氷見線について、JR西日本は運転再開は早くても9月6日になると発表しました。\n\n\n富山県の高岡市と氷見市を結ぶJR氷見線は、27日から運転を取り",
+  "articleBody": "27日の記録的な大雨で線路に土砂が流れ込んだ富山県のJR氷見線について、JR西日本は運転再開は早くても9月6日になると発表しました。\n\n\n富山県の高岡市と氷見市を結ぶJR氷見線は、27日から運転を取りやめていて、JR西日本によりますと、大雨で線路が冠水したほか土砂が流れ込むなどの被害が数か所で確認されたということです。\n\n復旧作業が進められていますが時間がかかる見込みで、JR西日本は29日、運転再開は早くても9月6日の始発からになると発表しました。\n\nJR氷見線は、通勤や通学のほか、富山湾越しに立山連峰を望む雨晴海岸を訪れる観光客も利用していますが、影響が長引く見通しになりました。\n\nバスなどの代行輸送は予定していないということで、運転再開する日時については復旧作業の状況を踏まえて改めて発表するとしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "27日の記録的な大雨で線路に土砂が流れ込んだ富山県のJR氷見線について、JR西日本は運転再開は早くても9月6日になると発表しました。\n",
+    "markedBody": "富山県の高岡市と氷見市を結ぶJR氷見線は、27日から運転を取りやめていて、JR西日本によりますと、大雨で線路が冠水したほか土砂が流れ込むなどの被害が数か所で確認されたということです。\n\n復旧作業が進められていますが時間がかかる見込みで、JR西日本は29日、運転再開は早くても9月6日の始発からになると発表しました。\n\nJR氷見線は、通勤や通学のほか、富山湾越しに立山連峰を望む雨晴海岸を訪れる観光客も利用していますが、影響が長引く見通しになりました。\n\nバスなどの代行輸送は予定していないということで、運転再開する日時については復旧作業の状況を踏まえて改めて発表するとしています。\n",
+    "trimmedLead": "27日の記録的な大雨で線路に土砂が流れ込んだ富山県のJR氷見線について、JR西日本は運転再開は早くても9月6日になると発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260829de47170.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260829de47170",
+  "video": [],
+  "citation": [
+    {
+      "name": "前線で大気の状態不安定 北陸でも断続的に雨強まる 警戒を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de47108",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de47108/20260828de47108_E0000019499_1_s.jpg",
+      "datePublished": "2026-08-29T19:53:02+09:00"
+    },
+    {
+      "name": "石川・富山の記録的大雨被害【29日の状況】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260829de47145",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260829de47145/20260829de47145_E0000019484_1_s.jpg",
+      "datePublished": "2026-08-29T20:11:30+09:00"
+    },
+    {
+      "name": "熊本地震 400人余を病院間搬送 緊急事態で生かされたことは…",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260829de47139",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260829de47139/20260829de47139_E0000019454_1_s.jpg",
+      "datePublished": "2026-08-29T17:29:00+09:00"
+    },
+    {
+      "name": "鹿児島 いちき串木野市の水難事故 沖合で発見の中高生3人死亡",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260829de47141",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260829de47141/20260829de47141_E0000019468_1_s.jpg",
+      "datePublished": "2026-08-29T19:51:35+09:00"
+    },
+    {
+      "name": "横浜市の山中市長が辞職届 各党が選挙準備加速へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de47106",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/r/kiji/20260828de47106/20260828de47106_E0000019309_1_s.jpg",
+      "datePublished": "2026-08-29T04:54:00+09:00"
+    },
+    {
+      "name": "東京 高級時計窃盗事件 逮捕の2人 事件前後に服を着替えたか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de47100",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de47100/20260828de47100_E0000019324_1_s.jpg",
+      "datePublished": "2026-08-29T06:29:05+09:00"
+    },
+    {
+      "name": "ネパール土石流 633人が死亡 二次災害のリスクを警戒",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260829de47121",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260829de47121/20260829de47121_E0000019320_1_s.jpg",
+      "datePublished": "2026-08-29T19:57:08+09:00"
+    },
+    {
+      "name": "インフルエンザ全国的な流行入り 8月の発表は異例の早さ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46966",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46966/20260828de46966_E0000018904_1_s.jpg",
+      "datePublished": "2026-08-28T20:10:45+09:00"
+    },
+    {
+      "name": "「指示がなければ、生きていた」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46749",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46749/20260827de46749_E0000018551_1_s.jpg",
+      "datePublished": "2026-08-28T13:19:49+09:00"
+    },
+    {
+      "name": "熊本地震1か月 大型商業施設の避難対応は？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46903",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46903/20260828de46903_E0000018676_1_s.jpg",
+      "datePublished": "2026-08-28T15:23:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
