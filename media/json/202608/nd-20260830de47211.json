@@ -1,0 +1,135 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260830de47211",
+  "dataSourceId": "nd",
+  "name": "【河川カメラの映像】福井県 各地の河川状況",
+  "headline": "【河川カメラの映像】福井県 各地の河川状況",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260830de47211",
+    "playlistId": "news-nwa-disaster-nationwide-20260830",
+    "newsarticleName": "【河川カメラの映像】福井県 各地の河川状況",
+    "playlistName": "8月30日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "前線と湿った空気の影響で福井県では当初の予想を上回る大雨となっています。\n福井県内各地の河川の状況を河川カメラの映像でお伝えします。\n\n\n",
+  "dateModified": "2026-08-30T05:42:00+09:00",
+  "datePublished": "2026-08-30T05:42:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47211/20260830de47211_E0000004011_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47211/20260830de47211_E0000004011_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000587",
+      "name": "大雨情報",
+      "display": true
+    },
+    {
+      "id": "E0000000114",
+      "name": "気象",
+      "display": true
+    },
+    {
+      "id": "E0000000346",
+      "name": "福井県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "前線と湿った空気の影響で福井県では当初の予想を上回る大雨となっています。\n福井県内各地の河川の状況を河川カメラの映像でお伝えします。\n\n\n",
+  "articleBody": "前線と湿った空気の影響で福井県では当初の予想を上回る大雨となっています。\n福井県内各地の河川の状況を河川カメラの映像でお伝えします。\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "前線と湿った空気の影響で福井県では当初の予想を上回る大雨となっています。\\\n福井県内各地の河川の状況を河川カメラの映像でお伝えします。\n",
+    "markedBody": "```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"001\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\n<div class=\"fs-wrap\">\n  <h2 class=\"freespace-title\">【河川カメラの映像】</h2>\n  <div class=\"video-player-fixed\">\n    <iframe src=\"https://news.web.nhk/n-data/conf/realtime/movie/player_rt20260830de47210_01.html\" title=\"NHKライブ配信\" allow=\"fullscreen\"></iframe>\n  </div>\n</div>\n</div>\n```\n\n```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"002\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\n<div class=\"fs-wrap\">\n  <h2 class=\"freespace-title\"></h2>\n  <div class=\"video-player-fixed\">\n    <iframe src=\"https://news.web.nhk/n-data/conf/realtime/movie/player_rt20260830de47210_02.html\" title=\"NHKライブ配信\" allow=\"fullscreen\"></iframe>\n  </div>\n</div>\n</div>\n```\n",
+    "noHtmlMarkedLead": "前線と湿った空気の影響で福井県では当初の予想を上回る大雨となっています。\\\n福井県内各地の河川の状況を河川カメラの映像でお伝えします。\n",
+    "trimmedLead": "前線と湿った空気の影響で福井県では当初の予想を上回る大雨となっています。\n福井県内各地の河川の状況を河川カメラの映像でお伝えします。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260830de47211.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260830de47211",
+  "video": [],
+  "citation": [
+    {
+      "name": "【最新の河川情報】こちらから一覧でご覧になれます",
+      "url": "https://news.web.nhk/kishou-saigai/river/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00212_E0000003213_1_s.jpg"
+    },
+    {
+      "name": "福井県に大雨特別警報 福井市 大野市 勝山市の3市が対象",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260830de47200",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47200/20260830de47200_E0000019571_1_s.jpg",
+      "datePublished": "2026-08-30T06:23:46+09:00"
+    },
+    {
+      "name": "福井市と大野市に緊急安全確保 命が助かる可能性の高い行動を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260830de47199",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47199/20260830de47199_E0000004042_1_s.jpg",
+      "datePublished": "2026-08-30T06:16:00+09:00"
+    },
+    {
+      "name": "レベル4氾濫危険警報 福井県 九頭竜川水系 竹田川",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260830de47204",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47204/20260830de47204_E0000004034_1_s.jpg",
+      "datePublished": "2026-08-30T04:34:00+09:00"
+    },
+    {
+      "name": "【気象警報・注意報】各地の発表状況を詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/warning/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00266_E0000003278_1_s.jpg"
+    },
+    {
+      "name": "土砂災害マップ【NHK】現在の危険度をリアルタイム表示",
+      "url": "https://news.web.nhk/bousai-map/landslide/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00359_E0000003390_1_s.jpg"
+    },
+    {
+      "name": "気象庁と国交省が会見“身の安全確保を”福井県に大雨特別警報",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260830de47205",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47205/20260830de47205_E0000019565_1_s.jpg",
+      "datePublished": "2026-08-30T06:24:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": true
+  }
+}
