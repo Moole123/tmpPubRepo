@@ -1,0 +1,192 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260830de47265",
+  "dataSourceId": "nd",
+  "name": "【動画】福井 勝山市 えちぜん鉄道の線路に大量の水が流れ込む",
+  "headline": "【動画】福井 勝山市 えちぜん鉄道の線路に大量の水が流れ込む",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260830de47265",
+    "playlistId": "news-nwa-disaster-nationwide-20260830",
+    "newsarticleName": "【動画】福井 勝山市 えちぜん鉄道の線路に大量の水が流れ込む",
+    "playlistName": "8月30日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "福井県勝山市鹿谷町保田のえちぜん鉄道勝山永平寺線で30日午前7時すぎに撮影された映像です。\n\n山側から線路に大量の水が流れ込んでいる様子が確認できます。\n\n\n",
+  "dateModified": "2026-08-30T12:15:16+09:00",
+  "datePublished": "2026-08-30T12:15:16+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47265/20260830de47265_E0000019657_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47265/20260830de47265_E0000019657_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000651",
+      "name": "交通・インフラ",
+      "display": true
+    },
+    {
+      "id": "E0000000481",
+      "name": "鉄道",
+      "display": true
+    },
+    {
+      "id": "E0000000587",
+      "name": "大雨情報",
+      "display": true
+    },
+    {
+      "id": "E0000000346",
+      "name": "福井県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "福井県勝山市鹿谷町保田のえちぜん鉄道勝山永平寺線で30日午前7時すぎに撮影された映像です。\n\n山側から線路に大量の水が流れ込んでいる様子が確認できます。\n\n\n",
+  "articleBody": "福井県勝山市鹿谷町保田のえちぜん鉄道勝山永平寺線で30日午前7時すぎに撮影された映像です。\n\n山側から線路に大量の水が流れ込んでいる様子が確認できます。\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "福井県勝山市鹿谷町保田のえちぜん鉄道勝山永平寺線で30日午前7時すぎに撮影された映像です。\n\n山側から線路に大量の水が流れ込んでいる様子が確認できます。\n",
+    "markedBody": "",
+    "trimmedLead": "福井県勝山市鹿谷町保田のえちぜん鉄道勝山永平寺線で30日午前7時すぎに撮影された映像です。\n\n山側から線路に大量の水が流れ込んでいる様子が確認できます。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260830de47265.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260830de47265",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "【動画】福井 勝山市 えちぜん鉄道の線路に大量の水が流れ込む",
+      "description": "福井県勝山市鹿谷町保田のえちぜん鉄道勝山永平寺線で30日午前7時すぎに撮影された映像です。\n\n山側から線路に大量の水が流れ込んでいる様子が確認できます。\n\n\n",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20260830de47265_E0000019660_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20260830de47265/20260830de47265_E0000019657_1_l.jpg",
+      "duration": "PT12S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20260830de47265_E0000019660_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47265/20260830de47265_E0000019657_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "福井県3市 大雨危険警報に 土砂災害など引き続き厳重に警戒を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260830de47200",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47200/20260830de47200_E0000019659_1_s.jpg",
+      "datePublished": "2026-08-30T14:29:31+09:00"
+    },
+    {
+      "name": "福井 大野 勝山の3市に緊急安全確保 命助かる可能性高い行動を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260830de47199",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47199/20260830de47199_E0000004042_1_s.jpg",
+      "datePublished": "2026-08-30T11:18:13+09:00"
+    },
+    {
+      "name": "【気象予報士解説】福井県 大雨危険警報に切り替え (正午更新)",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260830de47219",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47219/20260830de47219_E0000019674_1_s.jpg",
+      "datePublished": "2026-08-30T12:52:47+09:00"
+    },
+    {
+      "name": "気象庁と国交省が会見“身の安全確保を”福井県に大雨特別警報",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260830de47205",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47205/20260830de47205_E0000019565_1_s.jpg",
+      "datePublished": "2026-08-30T06:24:00+09:00"
+    },
+    {
+      "name": "【最新の避難情報】こちらから地域別でご覧になれます",
+      "url": "https://news.web.nhk/kishou-saigai/evacuation/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00211_E0000003212_1_s.jpg"
+    },
+    {
+      "name": "【気象警報・注意報】各地の発表状況を詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/warning/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00266_E0000003278_1_s.jpg"
+    },
+    {
+      "name": "【最新の河川情報】こちらから一覧でご覧になれます",
+      "url": "https://news.web.nhk/kishou-saigai/river/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00212_E0000003213_1_s.jpg"
+    },
+    {
+      "name": "「命を守る行動を！」特別警報に緊急安全確保…どうすれば",
+      "url": "https://news.web.nhk/newsweb/na/nc-4206e8be-3c01-4ef5-943c-c5f2d8c343ae",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00033_E0000001589_1_s.jpg"
+    },
+    {
+      "name": "土砂災害マップ【NHK】現在の危険度をリアルタイム表示",
+      "url": "https://news.web.nhk/bousai-map/landslide/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00359_E0000003390_1_s.jpg"
+    },
+    {
+      "name": "土砂災害 警戒や避難のポイントは？",
+      "url": "https://news.web.nhk/newsweb/na/nc-d921faff-fdcd-4223-b396-f948340c5c1c",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00016_E0000001588_1_s.jpg"
+    },
+    {
+      "name": "川の氾濫 警戒のポイントは？",
+      "url": "https://news.web.nhk/newsweb/na/nc-1c290155-b464-4391-95b8-2f9687fa1f25",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00015_E0000001586_1_s.jpg"
+    },
+    {
+      "name": "線状降水帯とは？情報が出たらどうする？",
+      "url": "https://news.web.nhk/newsweb/na/nc-5092b435-f5e7-4767-a457-1c7aac190df9",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00149_E0000003428_1_s.jpg"
+    },
+    {
+      "name": "「記録的短時間大雨」とは? どう身を守る?",
+      "url": "https://news.web.nhk/newsweb/na/nc-2cb59e60-dc2e-4535-a3f0-9c825e2e34a8",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00054_E0000003430_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
