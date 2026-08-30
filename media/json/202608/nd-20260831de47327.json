@@ -1,0 +1,144 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260831de47327",
+  "dataSourceId": "nd",
+  "name": "滋賀 乗用車とトラックが正面衝突 2人死亡1人重体3人重軽傷",
+  "headline": "滋賀 乗用車とトラックが正面衝突 2人死亡1人重体3人重軽傷",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260831de47327",
+    "playlistId": "news-nwa-society-nationwide-20260831",
+    "newsarticleName": "滋賀 乗用車とトラックが正面衝突 2人死亡1人重体3人重軽傷",
+    "playlistName": "8月31日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "30日夕方、滋賀県高島市の国道161号で、5人が乗った乗用車と4トントラックが正面衝突する事故があり、いずれも乗用車に乗っていた、愛知県豊山町の27歳の男性と名古屋市に住むフィリピン国籍の28歳の男性",
+  "dateModified": "2026-08-31T01:55:54+09:00",
+  "datePublished": "2026-08-31T01:55:54+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47327/20260831de47327_E0000003884_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47327/20260831de47327_E0000003884_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000208",
+      "name": "事件・事故",
+      "display": true
+    },
+    {
+      "id": "E0000000353",
+      "name": "滋賀県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "30日夕方、滋賀県高島市の国道161号で、5人が乗った乗用車と4トントラックが正面衝突する事故があり、いずれも乗用車に乗っていた、愛知県豊山町の27歳の男性と名古屋市に住むフィリピン国籍の28歳の男性",
+  "articleBody": "30日夕方、滋賀県高島市の国道161号で、5人が乗った乗用車と4トントラックが正面衝突する事故があり、いずれも乗用車に乗っていた、愛知県豊山町の27歳の男性と名古屋市に住むフィリピン国籍の28歳の男性の死亡が確認されたほか、名古屋市に住む31歳の女性が意識不明の重体となっています。\n\n\nまた、乗用車に乗っていた4歳の男の子が大けがをするなど、3人が重軽傷を負いました。\n\n警察は、現場の状況から乗用車がセンターラインを越えて反対車線にはみ出した可能性があるとみて、事故当時の状況を詳しく調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "30日夕方、滋賀県高島市の国道161号で、5人が乗った乗用車と4トントラックが正面衝突する事故があり、いずれも乗用車に乗っていた、愛知県豊山町の27歳の男性と名古屋市に住むフィリピン国籍の28歳の男性の死亡が確認されたほか、名古屋市に住む31歳の女性が意識不明の重体となっています。\n",
+    "markedBody": "また、乗用車に乗っていた4歳の男の子が大けがをするなど、3人が重軽傷を負いました。\n\n警察は、現場の状況から乗用車がセンターラインを越えて反対車線にはみ出した可能性があるとみて、事故当時の状況を詳しく調べています。\n",
+    "trimmedLead": "30日夕方、滋賀県高島市の国道161号で、5人が乗った乗用車と4トントラックが正面衝突する事故があり、いずれも乗用車に乗っていた、愛知県豊山町の27歳の男性と名古屋市に住むフィリピン国籍の28歳の男性の死亡が確認されたほか、名古屋市に住む31歳の女性が意識不明の重体となっています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260831de47327.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260831de47327",
+  "video": [],
+  "citation": [
+    {
+      "name": "ディズニーランドで客のモバイルバッテリーから煙 けが人なし",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260830de47293",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47293/20260830de47293_E0000019741_1_s.jpg",
+      "datePublished": "2026-08-30T21:10:08+09:00"
+    },
+    {
+      "name": "福井県で記録的な大雨 土砂災害に引き続き十分注意を ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260830de47200",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47200/20260830de47200_E0000019757_1_s.jpg",
+      "datePublished": "2026-08-30T22:33:52+09:00"
+    },
+    {
+      "name": "福井県内の緊急安全確保はすべて避難指示に切り替え",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260830de47281",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47281/20260830de47281_E0000004045_1_s.jpg",
+      "datePublished": "2026-08-30T13:03:15+09:00"
+    },
+    {
+      "name": "【被害まとめ】福井県内 道路冠水や住宅浸水の情報相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260830de47209",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47209/20260830de47209_E0000019751_1_s.jpg",
+      "datePublished": "2026-08-30T20:00:47+09:00"
+    },
+    {
+      "name": "【大雨被害 動画】福井県内の上空からの映像",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260830de47264",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47264/20260830de47264_E0000019662_1_s.jpg",
+      "datePublished": "2026-08-30T18:09:00+09:00"
+    },
+    {
+      "name": "ネパール土石流 750人死亡 3000人以上が行方不明",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260830de47268",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47268/20260830de47268_E0000019556_1_s.jpg",
+      "datePublished": "2026-08-30T14:20:22+09:00"
+    },
+    {
+      "name": "よみがえる法隆寺の至宝 ～金堂壁画・完全復元に挑む～",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46668",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46668/20260827de46668_E0000018178_1_s.jpg",
+      "datePublished": "2026-08-30T14:36:15+09:00"
+    },
+    {
+      "name": "故郷が教えてくれた“立ち向かう”力 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46667",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46667/20260827de46667_E0000018232_1_s.jpg",
+      "datePublished": "2026-08-30T16:54:54+09:00"
+    },
+    {
+      "name": "“果物を安く販売” 不審SNS投稿を追跡 熊本支援うたうものも",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46727",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46727/20260827de46727_E0000019011_1_s.jpg",
+      "datePublished": "2026-08-29T17:07:13+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
