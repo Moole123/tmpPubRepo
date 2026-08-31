@@ -1,0 +1,152 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260831de47442",
+  "dataSourceId": "nd",
+  "name": "【上空映像】三重 伊勢神宮近くの商店街で火事",
+  "headline": "【上空映像】三重 伊勢神宮近くの商店街で火事",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260831de47442",
+    "playlistId": "news-nwa-society-nationwide-20260831",
+    "newsarticleName": "【上空映像】三重 伊勢神宮近くの商店街で火事",
+    "playlistName": "8月31日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "消防によりますと、31日午後3時15分ごろ、三重県の伊勢神宮の近くにある近鉄・宇治山田駅前の商店街で「商店街の店舗が燃えている」と通報がありました。消防車10台が出て、消火活動が行われています。\nいま",
+  "dateModified": "2026-08-31T17:01:16+09:00",
+  "datePublished": "2026-08-31T16:54:27+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47442/20260831de47442_E0000020460_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47442/20260831de47442_E0000020460_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000352",
+      "name": "三重県",
+      "display": true
+    },
+    {
+      "id": "E0000000657",
+      "name": "火災",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "消防によりますと、31日午後3時15分ごろ、三重県の伊勢神宮の近くにある近鉄・宇治山田駅前の商店街で「商店街の店舗が燃えている」と通報がありました。消防車10台が出て、消火活動が行われています。\nいま",
+  "articleBody": "消防によりますと、31日午後3時15分ごろ、三重県の伊勢神宮の近くにある近鉄・宇治山田駅前の商店街で「商店街の店舗が燃えている」と通報がありました。消防車10台が出て、消火活動が行われています。\nいまのところ、逃げ遅れやけが人の情報は入っていないということです。\n\n\nNHKのヘリコプターが午後4時半すぎに撮影した映像では、複数の店舗とみられる建物から真っ赤な炎があがり、煙がたちのぼっている様子が確認できます。\n",
+  "detailedArticleBody": {
+    "markedLead": "消防によりますと、31日午後3時15分ごろ、三重県の伊勢神宮の近くにある近鉄・宇治山田駅前の商店街で「商店街の店舗が燃えている」と通報がありました。消防車10台が出て、消火活動が行われています。\\\nいまのところ、逃げ遅れやけが人の情報は入っていないということです。\n",
+    "markedBody": "```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"001\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\n<div class=\"fs-wrap\">\n  <h2 class=\"freespace-title\">【上空からの映像 配信中】</h2>\n  <div class=\"video-player-fixed\">\n    <iframe src=\"https://news.web.nhk/n-data/conf/realtime/movie/player_rt20260831de47438_02.html\" title=\"NHKライブ配信\" allow=\"fullscreen\"></iframe>\n  </div>\n</div>\n</div>\n```\n\nNHKのヘリコプターが午後4時半すぎに撮影した映像では、複数の店舗とみられる建物から真っ赤な炎があがり、煙がたちのぼっている様子が確認できます。\n",
+    "noHtmlMarkedLead": "消防によりますと、31日午後3時15分ごろ、三重県の伊勢神宮の近くにある近鉄・宇治山田駅前の商店街で「商店街の店舗が燃えている」と通報がありました。消防車10台が出て、消火活動が行われています。\\\nいまのところ、逃げ遅れやけが人の情報は入っていないということです。\n",
+    "noHtmlMarkedBody": "NHKのヘリコプターが午後4時半すぎに撮影した映像では、複数の店舗とみられる建物から真っ赤な炎があがり、煙がたちのぼっている様子が確認できます。\n",
+    "trimmedLead": "消防によりますと、31日午後3時15分ごろ、三重県の伊勢神宮の近くにある近鉄・宇治山田駅前の商店街で「商店街の店舗が燃えている」と通報がありました。消防車10台が出て、消火活動が行われています。\nいまのところ、逃げ遅れやけが人の情報は入っていないということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260831de47442.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260831de47442",
+  "video": [],
+  "citation": [
+    {
+      "name": "核のごみ最終処分地の文献調査 茨城 常陸大宮市に申し入れ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260831de47363",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47363/20260831de47363_E0000020318_1_s.jpg",
+      "datePublished": "2026-08-31T16:38:22+09:00"
+    },
+    {
+      "name": "福井県 記録的大雨 被害から一夜明け片づけ作業 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260831de47359",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47359/20260831de47359_E0000019956_1_s.jpg",
+      "datePublished": "2026-08-31T13:51:41+09:00"
+    },
+    {
+      "name": "北陸で雨雲発達 富山は土砂災害に厳重警戒 各地で熱中症対策を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260831de47330",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47330/20260831de47330_E0000020300_1_s.jpg",
+      "datePublished": "2026-08-31T15:23:17+09:00"
+    },
+    {
+      "name": "ネパール土石流 919人死亡確認 4793人行方不明",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260831de47364",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47364/20260831de47364_E0000020061_1_s.jpg",
+      "datePublished": "2026-08-31T15:06:56+09:00"
+    },
+    {
+      "name": "9月の食品値上げは4900品目超　ことし最多",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260831de47374",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47374/20260831de47374_E0000020083_1_s.jpg",
+      "datePublished": "2026-08-31T13:47:53+09:00"
+    },
+    {
+      "name": "滋賀 高島 6人死傷事故 ドラレコに乗用車はみでる映像",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260831de47395",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47395/20260831de47395_E0000020155_1_s.jpg",
+      "datePublished": "2026-08-31T14:18:51+09:00"
+    },
+    {
+      "name": "横浜 パワハラ認定の山中市長辞職に伴う選挙 10月18日投開票",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260831de47373",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47373/20260831de47373_E0000020078_1_s.jpg",
+      "datePublished": "2026-08-31T12:57:00+09:00"
+    },
+    {
+      "name": "来年度予算案 概算要求の提出進む 総額は過去最大の見通し",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260830de47308",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47308/20260830de47308_E0000003818_1_s.jpg",
+      "datePublished": "2026-08-31T16:12:48+09:00"
+    },
+    {
+      "name": "よみがえる法隆寺の至宝 ～金堂壁画・完全復元に挑む～",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46668",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46668/20260827de46668_E0000018178_1_s.jpg",
+      "datePublished": "2026-08-30T14:36:15+09:00"
+    },
+    {
+      "name": "故郷が教えてくれた“立ち向かう”力 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46667",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46667/20260827de46667_E0000018232_1_s.jpg",
+      "datePublished": "2026-08-30T16:54:54+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": true
+  }
+}
