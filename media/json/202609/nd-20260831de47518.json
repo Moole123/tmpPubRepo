@@ -1,0 +1,177 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260831de47518",
+  "dataSourceId": "nd",
+  "name": "電機大手 データセンター関連企業の買収相次ぐ AI拡大で",
+  "headline": "電機大手 データセンター関連企業の買収相次ぐ AI拡大で",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260831de47518",
+    "playlistId": "news-nwa-business-nationwide-20260901",
+    "newsarticleName": "電機大手 データセンター関連企業の買収相次ぐ AI拡大で",
+    "playlistName": "9月1日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "AIの利用拡大に伴い世界中でデータセンターの建設が進む中、日本の大手電機メーカーがデータセンター関連の事業拡大に向けて相次いで企業買収に乗り出しています。\n\n\n三菱電機はアメリカのエネルギー関連会社を",
+  "dateModified": "2026-09-01T07:25:36+09:00",
+  "datePublished": "2026-09-01T07:25:36+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47518/20260831de47518_E0000004050_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47518/20260831de47518_E0000004050_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000106",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    },
+    {
+      "id": "E0000000701",
+      "name": "資源・エネルギー",
+      "display": true
+    },
+    {
+      "id": "E0000000419",
+      "name": "アメリカ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "AIの利用拡大に伴い世界中でデータセンターの建設が進む中、日本の大手電機メーカーがデータセンター関連の事業拡大に向けて相次いで企業買収に乗り出しています。\n\n\n三菱電機はアメリカのエネルギー関連会社を",
+  "articleBody": "AIの利用拡大に伴い世界中でデータセンターの建設が進む中、日本の大手電機メーカーがデータセンター関連の事業拡大に向けて相次いで企業買収に乗り出しています。\n\n\n三菱電機はアメリカのエネルギー関連会社を2200億円余りを投じて買収します。\n\nデータセンターは大量の電力消費をいかに抑えるかが課題となっていますが、買収先の会社は効率的に電力を消費するためのソフトウエアに強みがあるということで、三菱電機としてはみずからの強みである受配電を行う設備とこの会社のソフトウエアを組み合わせて、国内外でデータセンター向けの取り引きを拡大したい考えです。\n\n濱本総一上席執行役員は「電力を効率的に扱いたいというニーズは高まっていて、データセンターや工場、ビルなどで大きく需要が広がると見込んでいる」と話しています。\n\nまた、電子部品大手のTDKはデータセンターに必要な冷却装置部品の販売を強化するため、アメリカの部品メーカーを買収する手続きを進めています。\n\nこのほか日立製作所もデータセンター向けの変圧器関連の部品を手がけるカナダの会社を買収することを発表していて、データセンター関連の事業拡大に向けて企業買収の動きが相次いでいます。\n\n専門家「世界で最も伸びている市場、各企業が注力」\n\nAIの利用に伴い膨大な情報を処理するデータセンターの整備が世界的に広がっていて、総務省によりますと、世界のデータセンター市場は2030年には7391億ドル、日本円に換算して117兆円規模と、ことしと比べ28％程度拡大するとしています。\n\n日本の電機メーカーの間でデータセンター関連の企業買収が相次いでいることについて、みずほ銀行の藤本知己シニアアナリストは「生成AIの普及を背景にデータセンター市場はグローバルで見ても最も伸びている市場といっても過言ではない。需要が建物だけでなく、中に入る受配電設備や冷却設備など幅広い製品に波及していて、各企業が得意な領域を強化するために最も注力する分野だ」と述べました。\n\nさらに、IT大手のいわゆる「ハイパースケーラー」や大手半導体企業などとの関係が重要になると指摘したうえで「製品単体ではなく課題解決型の提案にどこまで踏み込めるかが重要で、データセンターの監視や保守といった周辺の領域を組み合わせる企業ほど関係を深めることができる。日本は技術力が高い企業が多い一方で、ソリューション提供などの観点では、強化の余地がある」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "AIの利用拡大に伴い世界中でデータセンターの建設が進む中、日本の大手電機メーカーがデータセンター関連の事業拡大に向けて相次いで企業買収に乗り出しています。\n",
+    "markedBody": "![](https://img.web.nhk/news/nd/kiji/20260831de47518/20260831de47518_E0000020900_1_l.jpg)\n\n三菱電機はアメリカのエネルギー関連会社を2200億円余りを投じて買収します。\n\nデータセンターは大量の電力消費をいかに抑えるかが課題となっていますが、買収先の会社は効率的に電力を消費するためのソフトウエアに強みがあるということで、三菱電機としてはみずからの強みである受配電を行う設備とこの会社のソフトウエアを組み合わせて、国内外でデータセンター向けの取り引きを拡大したい考えです。\n\n濱本総一上席執行役員は「電力を効率的に扱いたいというニーズは高まっていて、データセンターや工場、ビルなどで大きく需要が広がると見込んでいる」と話しています。\n\n![](https://img.web.nhk/news/nd/kiji/20260831de47518/20260831de47518_E0000020899_1_l.jpg)\n\nまた、電子部品大手のTDKはデータセンターに必要な冷却装置部品の販売を強化するため、アメリカの部品メーカーを買収する手続きを進めています。\n\n![](https://img.web.nhk/news/nd/kiji/20260831de47518/20260831de47518_E0000020898_1_l.jpg)\n\nこのほか日立製作所もデータセンター向けの変圧器関連の部品を手がけるカナダの会社を買収することを発表していて、データセンター関連の事業拡大に向けて企業買収の動きが相次いでいます。\n\n## 専門家「世界で最も伸びている市場、各企業が注力」\n\nAIの利用に伴い膨大な情報を処理するデータセンターの整備が世界的に広がっていて、総務省によりますと、世界のデータセンター市場は2030年には7391億ドル、日本円に換算して117兆円規模と、ことしと比べ28％程度拡大するとしています。\n\n日本の電機メーカーの間でデータセンター関連の企業買収が相次いでいることについて、みずほ銀行の藤本知己シニアアナリストは「生成AIの普及を背景にデータセンター市場はグローバルで見ても最も伸びている市場といっても過言ではない。需要が建物だけでなく、中に入る受配電設備や冷却設備など幅広い製品に波及していて、各企業が得意な領域を強化するために最も注力する分野だ」と述べました。\n\nさらに、IT大手のいわゆる「ハイパースケーラー」や大手半導体企業などとの関係が重要になると指摘したうえで「製品単体ではなく課題解決型の提案にどこまで踏み込めるかが重要で、データセンターの監視や保守といった周辺の領域を組み合わせる企業ほど関係を深めることができる。日本は技術力が高い企業が多い一方で、ソリューション提供などの観点では、強化の余地がある」と話しています。\n",
+    "trimmedLead": "AIの利用拡大に伴い世界中でデータセンターの建設が進む中、日本の大手電機メーカーがデータセンター関連の事業拡大に向けて相次いで企業買収に乗り出しています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260831de47518.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260831de47518",
+  "video": [],
+  "citation": [
+    {
+      "name": "新たな学習指導要領 生成AI念頭 情報教育を新教科で大幅拡充へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260831de47356",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47356/20260831de47356_E0000019982_1_s.jpg",
+      "datePublished": "2026-08-31T20:04:29+09:00"
+    },
+    {
+      "name": "北陸は土砂災害など十分注意 熱帯低気圧あす台風に発達か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260831de47330",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47330/20260831de47330_E0000020806_1_s.jpg",
+      "datePublished": "2026-08-31T20:04:56+09:00"
+    },
+    {
+      "name": "核のごみ最終処分地の文献調査 茨城 常陸大宮市に申し入れ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260831de47363",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47363/20260831de47363_E0000020318_1_s.jpg",
+      "datePublished": "2026-08-31T20:21:57+09:00"
+    },
+    {
+      "name": "ネパール土石流 行方不明の日本人5人 大阪市在住か 市教委説明",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260831de47484",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47484/20260831de47484_E0000020835_1_s.jpg",
+      "datePublished": "2026-08-31T20:27:45+09:00"
+    },
+    {
+      "name": "【福井】記録的大雨 被害から一夜明け片づけ作業 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260831de47359",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47359/20260831de47359_E0000020378_1_s.jpg",
+      "datePublished": "2026-08-31T21:37:23+09:00"
+    },
+    {
+      "name": "熊本地震 普通交付税616億円を追加で繰り上げ交付へ 総務省",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260831de47428",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47428/20260831de47428_E0000020358_1_s.jpg",
+      "datePublished": "2026-08-31T17:20:00+09:00"
+    },
+    {
+      "name": "政府備蓄米 21万トンを買い戻しへ最終調整 農水省",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260831de47430",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47430/20260831de47430_E0000020419_1_s.jpg",
+      "datePublished": "2026-08-31T17:31:00+09:00"
+    },
+    {
+      "name": "ネパール土石流 919人死亡確認 4793人行方不明",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260831de47364",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47364/20260831de47364_E0000020061_1_s.jpg",
+      "datePublished": "2026-08-31T20:52:41+09:00"
+    },
+    {
+      "name": "9月の食品値上げは4900品目超　ことし最多",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260831de47374",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47374/20260831de47374_E0000020083_1_s.jpg",
+      "datePublished": "2026-08-31T21:17:21+09:00"
+    },
+    {
+      "name": "来年度予算案 概算要求 総額は過去最大 143兆円前後の見通し",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260830de47308",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47308/20260830de47308_E0000020586_1_s.jpg",
+      "datePublished": "2026-08-31T19:57:26+09:00"
+    },
+    {
+      "name": "よみがえる法隆寺の至宝 ～金堂壁画・完全復元に挑む～",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46668",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46668/20260827de46668_E0000018178_1_s.jpg",
+      "datePublished": "2026-08-30T14:36:15+09:00"
+    },
+    {
+      "name": "故郷が教えてくれた“立ち向かう”力 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46667",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46667/20260827de46667_E0000018232_1_s.jpg",
+      "datePublished": "2026-08-30T16:54:54+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
