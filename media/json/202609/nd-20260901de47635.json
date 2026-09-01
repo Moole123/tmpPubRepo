@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260901de47635",
+  "dataSourceId": "nd",
+  "name": "秋篠宮さま 熊本県の病院を視察",
+  "headline": "秋篠宮さま 熊本県の病院を視察",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260901de47635",
+    "playlistId": "news-nwa-society-nationwide-20260901",
+    "newsarticleName": "秋篠宮さま 熊本県の病院を視察",
+    "playlistName": "9月1日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "秋篠宮さまは1日、熊本県の病院を訪れ、熊本地震の対応にあたっている医療従事者たちを励まされました。\n\n\n秋篠宮さまは1日午後、総裁をつとめている社会福祉法人「済生会」が運営する熊本市内の病院を訪ねられ",
+  "dateModified": "2026-09-01T17:05:19+09:00",
+  "datePublished": "2026-09-01T17:05:19+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-640x360.png",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000159",
+      "name": "皇室",
+      "display": true
+    },
+    {
+      "id": "E0000010002",
+      "name": "令和8年熊本地震",
+      "display": true
+    },
+    {
+      "id": "E0000000371",
+      "name": "熊本県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "秋篠宮さまは1日、熊本県の病院を訪れ、熊本地震の対応にあたっている医療従事者たちを励まされました。\n\n\n秋篠宮さまは1日午後、総裁をつとめている社会福祉法人「済生会」が運営する熊本市内の病院を訪ねられ",
+  "articleBody": "秋篠宮さまは1日、熊本県の病院を訪れ、熊本地震の対応にあたっている医療従事者たちを励まされました。\n\n\n秋篠宮さまは1日午後、総裁をつとめている社会福祉法人「済生会」が運営する熊本市内の病院を訪ねられました。\n\nこの病院は、医師や看護師などでつくる「災害派遣医療チーム」＝DMATの拠点病院として先月3日までに地震でけがなどをしたおよそ450人を受け入れて診療にあたりました。\n\n済生会によりますと秋篠宮さまは自宅や実家が倒壊した医師や看護師たちに、「ご家族は大丈夫でしたか」などとお見舞いのことばをかけられたということです。\n\nまた、けがの程度に応じて優先順位を判断するトリアージをホールで行ったことについて、当時の写真を前に説明を受けられたということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "秋篠宮さまは1日、熊本県の病院を訪れ、熊本地震の対応にあたっている医療従事者たちを励まされました。\n",
+    "markedBody": "秋篠宮さまは1日午後、総裁をつとめている社会福祉法人「済生会」が運営する熊本市内の病院を訪ねられました。\n\nこの病院は、医師や看護師などでつくる「災害派遣医療チーム」＝DMATの拠点病院として先月3日までに地震でけがなどをしたおよそ450人を受け入れて診療にあたりました。\n\n済生会によりますと秋篠宮さまは自宅や実家が倒壊した医師や看護師たちに、「ご家族は大丈夫でしたか」などとお見舞いのことばをかけられたということです。\n\nまた、けがの程度に応じて優先順位を判断するトリアージをホールで行ったことについて、当時の写真を前に説明を受けられたということです。\n",
+    "trimmedLead": "秋篠宮さまは1日、熊本県の病院を訪れ、熊本地震の対応にあたっている医療従事者たちを励まされました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260901de47635.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260901de47635",
+  "video": [],
+  "citation": [
+    {
+      "name": "日本人初の宇宙飛行 秋山豊寛さん死去 元TBS記者 84歳",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260901de47618",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47618/20260901de47618_E0000021249_1_s.jpg",
+      "datePublished": "2026-09-01T16:21:57+09:00"
+    },
+    {
+      "name": "長期金利 3%に上昇 約30年ぶり 日銀の早期利上げ観測など背景",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260901de47546",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47546/20260901de47546_E0000020973_1_s.jpg",
+      "datePublished": "2026-09-01T16:39:34+09:00"
+    },
+    {
+      "name": "ネパール土石流死者1000人超 国連「6万5000人が支援必要」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260901de47575",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47575/20260901de47575_E0000021354_1_s.jpg",
+      "datePublished": "2026-09-01T16:42:00+09:00"
+    },
+    {
+      "name": "「生活道路」法定速度30キロ初日 違反を警戒",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260831de47504",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47504/20260831de47504_E0000021032_1_s.jpg",
+      "datePublished": "2026-09-01T14:03:53+09:00"
+    },
+    {
+      "name": "防災の日に各地で訓練 政府は日本海溝・千島海溝巨大地震想定 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260831de47514",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47514/20260831de47514_E0000021209_1_s.jpg",
+      "datePublished": "2026-09-01T16:31:06+09:00"
+    },
+    {
+      "name": "台風24号発生 南西諸島に近づくおそれ 今後の情報に注意",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260901de47558",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47558/20260901de47558_E0000021159_1_s.jpg",
+      "datePublished": "2026-09-01T13:18:56+09:00"
+    },
+    {
+      "name": "鈴木農相 政府備蓄米21万トン買い戻しを表明 価格への影響焦点",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260901de47556",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47556/20260901de47556_E0000020987_1_s.jpg",
+      "datePublished": "2026-09-01T12:34:24+09:00"
+    },
+    {
+      "name": "サッカー メッシ アルゼンチン代表を引退 SNSで表明",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260901de47526",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47526/20260901de47526_E0000020950_1_s.jpg",
+      "datePublished": "2026-09-01T11:00:27+09:00"
+    },
+    {
+      "name": "よみがえる法隆寺の至宝 ～金堂壁画・完全復元に挑む～",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46668",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46668/20260827de46668_E0000018178_1_s.jpg",
+      "datePublished": "2026-08-30T14:36:15+09:00"
+    },
+    {
+      "name": "故郷が教えてくれた“立ち向かう”力 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46667",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46667/20260827de46667_E0000018232_1_s.jpg",
+      "datePublished": "2026-08-30T16:54:54+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
