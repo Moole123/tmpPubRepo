@@ -1,0 +1,101 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260901de47685",
+  "dataSourceId": "nd",
+  "name": "【動画】Pickup NEWS（9月2日）",
+  "headline": "【動画】Pickup NEWS（9月2日）",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260901de47685",
+    "playlistId": "news-nwa-society-nationwide-20260902",
+    "newsarticleName": "【動画】Pickup NEWS（9月2日）",
+    "playlistName": "9月2日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "これまでに入っているニュースを、まとめて1分の動画でお伝えします。\n\n（データ放送では動画をご覧いただけません）\n\n\n",
+  "dateModified": "2026-09-02T06:49:24+09:00",
+  "datePublished": "2026-09-02T06:49:24+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47685/20260901de47685_E0000021650_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47685/20260901de47685_E0000021650_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "これまでに入っているニュースを、まとめて1分の動画でお伝えします。\n\n（データ放送では動画をご覧いただけません）\n\n\n",
+  "articleBody": "これまでに入っているニュースを、まとめて1分の動画でお伝えします。\n\n（データ放送では動画をご覧いただけません）\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "これまでに入っているニュースを、まとめて1分の動画でお伝えします。\n\n（データ放送では動画をご覧いただけません）\n",
+    "markedBody": "",
+    "trimmedLead": "これまでに入っているニュースを、まとめて1分の動画でお伝えします。\n\n（データ放送では動画をご覧いただけません）\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260901de47685.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260901de47685",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "【動画】Pickup NEWS（9月2日）",
+      "description": "これまでに入っているニュースを、まとめて1分の動画でお伝えします。\n\n（データ放送では動画をご覧いただけません）\n\n\n",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20260901de47685_E0000021646_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20260901de47685/20260901de47685_E0000021650_1_l.jpg",
+      "duration": "PT1M1S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20260901de47685_E0000021646_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47685/20260901de47685_E0000021650_1_l.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
