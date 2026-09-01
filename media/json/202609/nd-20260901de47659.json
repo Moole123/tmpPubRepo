@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260901de47659",
+  "dataSourceId": "nd",
+  "name": "円相場 小幅に値下がり",
+  "headline": "円相場 小幅に値下がり",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260901de47659",
+    "playlistId": "news-nwa-business-nationwide-20260901",
+    "newsarticleName": "円相場 小幅に値下がり",
+    "playlistName": "9月1日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "1日の東京外国為替市場、円相場はドルに対して小幅に値下がりしました。\n\n\n午後5時時点の円相場は、31日と比べて42銭、円安ドル高の1ドル＝159円98銭から160円ちょうどでした。\n\nまた、ユーロに",
+  "dateModified": "2026-09-01T18:44:04+09:00",
+  "datePublished": "2026-09-01T18:44:04+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47659/20260901de47659_E0000021481_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47659/20260901de47659_E0000021481_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000157",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "E0000000477",
+      "name": "金融",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "1日の東京外国為替市場、円相場はドルに対して小幅に値下がりしました。\n\n\n午後5時時点の円相場は、31日と比べて42銭、円安ドル高の1ドル＝159円98銭から160円ちょうどでした。\n\nまた、ユーロに",
+  "articleBody": "1日の東京外国為替市場、円相場はドルに対して小幅に値下がりしました。\n\n\n午後5時時点の円相場は、31日と比べて42銭、円安ドル高の1ドル＝159円98銭から160円ちょうどでした。\n\nまた、ユーロに対しては、39銭、円安ユーロ高の1ユーロ＝185円50銭から54銭でした。\n\nユーロはドルに対して1ユーロ＝1.1595から96ドルでした。\n\n市場関係者は「日銀の早期利上げへの観測が強まったことで、円を買う動きがあった一方、長期金利上昇の背景には日本の財政状況に対する懸念があるという見方から円が売られた。為替介入への警戒感もあり、結果として小幅な値下がりになった」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "1日の東京外国為替市場、円相場はドルに対して小幅に値下がりしました。\n",
+    "markedBody": "午後5時時点の円相場は、31日と比べて42銭、円安ドル高の1ドル＝159円98銭から160円ちょうどでした。\n\nまた、ユーロに対しては、39銭、円安ユーロ高の1ユーロ＝185円50銭から54銭でした。\n\nユーロはドルに対して1ユーロ＝1.1595から96ドルでした。\n\n市場関係者は「日銀の早期利上げへの観測が強まったことで、円を買う動きがあった一方、長期金利上昇の背景には日本の財政状況に対する懸念があるという見方から円が売られた。為替介入への警戒感もあり、結果として小幅な値下がりになった」と話していました。\n",
+    "trimmedLead": "1日の東京外国為替市場、円相場はドルに対して小幅に値下がりしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260901de47659.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260901de47659",
+  "video": [],
+  "citation": [
+    {
+      "name": "長期金利 3%に上昇 約30年ぶり 日銀の早期利上げ観測など背景",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260901de47546",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47546/20260901de47546_E0000020973_1_s.jpg",
+      "datePublished": "2026-09-01T18:50:02+09:00"
+    },
+    {
+      "name": "日本人初の宇宙飛行 秋山豊寛さん死去 元TBS記者 84歳",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260901de47618",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47618/20260901de47618_E0000021249_1_s.jpg",
+      "datePublished": "2026-09-01T19:00:35+09:00"
+    },
+    {
+      "name": "ネパール土石流死者1000人超 国連「6万5000人が支援必要」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260901de47575",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47575/20260901de47575_E0000021354_1_s.jpg",
+      "datePublished": "2026-09-01T18:45:02+09:00"
+    },
+    {
+      "name": "「生活道路」法定速度30キロ初日 違反を警戒",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260831de47504",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47504/20260831de47504_E0000021032_1_s.jpg",
+      "datePublished": "2026-09-01T14:03:53+09:00"
+    },
+    {
+      "name": "防災の日に各地で訓練 政府は日本海溝・千島海溝巨大地震想定 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260831de47514",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47514/20260831de47514_E0000021209_1_s.jpg",
+      "datePublished": "2026-09-01T17:52:37+09:00"
+    },
+    {
+      "name": "台風24号 2日～4日ごろに沖縄・奄美に近づく見込み",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260901de47558",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47558/20260901de47558_E0000021556_1_s.jpg",
+      "datePublished": "2026-09-01T19:03:05+09:00"
+    },
+    {
+      "name": "鈴木農相 政府備蓄米21万トン買い戻しを表明 価格への影響焦点",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260901de47556",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47556/20260901de47556_E0000020987_1_s.jpg",
+      "datePublished": "2026-09-01T12:34:24+09:00"
+    },
+    {
+      "name": "サッカー メッシ アルゼンチン代表を引退 SNSで表明",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260901de47526",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47526/20260901de47526_E0000020950_1_s.jpg",
+      "datePublished": "2026-09-01T18:34:06+09:00"
+    },
+    {
+      "name": "よみがえる法隆寺の至宝 ～金堂壁画・完全復元に挑む～",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46668",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46668/20260827de46668_E0000018178_1_s.jpg",
+      "datePublished": "2026-08-30T14:36:15+09:00"
+    },
+    {
+      "name": "故郷が教えてくれた“立ち向かう”力 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46667",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46667/20260827de46667_E0000018232_1_s.jpg",
+      "datePublished": "2026-08-30T16:54:54+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
