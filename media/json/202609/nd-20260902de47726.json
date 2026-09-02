@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260902de47726",
+  "dataSourceId": "nd",
+  "name": "英スターマー前首相が議員辞職を明らかに",
+  "headline": "英スターマー前首相が議員辞職を明らかに",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260902de47726",
+    "playlistId": "news-nwa-international-nationwide-20260902",
+    "newsarticleName": "英スターマー前首相が議員辞職を明らかに",
+    "playlistName": "9月2日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "イギリスのスターマー前首相は「後任にバトンを渡すのが適切な時期と判断した」などとして、議員を辞職すると明らかにしました。\n\n\nイギリスのスターマー前首相は1日、自身のSNSで発表した声明で「後任にバト",
+  "dateModified": "2026-09-02T07:30:17+09:00",
+  "datePublished": "2026-09-02T07:30:17+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47726/20260902de47726_E0000021740_2_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47726/20260902de47726_E0000021740_2_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "イギリスのスターマー前首相は「後任にバトンを渡すのが適切な時期と判断した」などとして、議員を辞職すると明らかにしました。\n\n\nイギリスのスターマー前首相は1日、自身のSNSで発表した声明で「後任にバト",
+  "articleBody": "イギリスのスターマー前首相は「後任にバトンを渡すのが適切な時期と判断した」などとして、議員を辞職すると明らかにしました。\n\n\nイギリスのスターマー前首相は1日、自身のSNSで発表した声明で「後任にバトンを渡すのが適切な時期と判断した」として下院議員を辞職すると明らかにしました。\n\n今後については、「今こそ急速に変化する世界の中で防衛や安全保障、貿易などの国際問題に集中するときだ。また、女性に対する暴力の問題にも取り組んでいく」としています。\n\nスターマー氏は2020年に労働党の党首に就任し、2024年の総選挙で14年ぶりの政権交代を実現し、首相に就任しました。\n\nしかし、財政再建に向けた増税などへの国民の不満が出て支持が低下し、ことし5月の地方選挙で大敗したあと、党内から責任を問う声が出て7月に首相を退任しました。\n\nスターマー氏を選出していたロンドンの選挙区では今後、補欠選挙が行われることになります。\n",
+  "detailedArticleBody": {
+    "markedLead": "イギリスのスターマー前首相は「後任にバトンを渡すのが適切な時期と判断した」などとして、議員を辞職すると明らかにしました。\n",
+    "markedBody": "イギリスのスターマー前首相は1日、自身のSNSで発表した声明で「後任にバトンを渡すのが適切な時期と判断した」として下院議員を辞職すると明らかにしました。\n\n今後については、「今こそ急速に変化する世界の中で防衛や安全保障、貿易などの国際問題に集中するときだ。また、女性に対する暴力の問題にも取り組んでいく」としています。\n\nスターマー氏は2020年に労働党の党首に就任し、2024年の総選挙で14年ぶりの政権交代を実現し、首相に就任しました。\n\nしかし、財政再建に向けた増税などへの国民の不満が出て支持が低下し、ことし5月の地方選挙で大敗したあと、党内から責任を問う声が出て7月に首相を退任しました。\n\nスターマー氏を選出していたロンドンの選挙区では今後、補欠選挙が行われることになります。\n",
+    "trimmedLead": "イギリスのスターマー前首相は「後任にバトンを渡すのが適切な時期と判断した」などとして、議員を辞職すると明らかにしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260902de47726.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260902de47726",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
