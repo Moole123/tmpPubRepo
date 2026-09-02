@@ -1,0 +1,147 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260903de47889",
+  "dataSourceId": "nd",
+  "name": "【大雨】青森市やむつ市 県道で土砂崩れや住宅浸水の被害",
+  "headline": "【大雨】青森市やむつ市 県道で土砂崩れや住宅浸水の被害",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260903de47889",
+    "playlistId": "news-nwa-disaster-nationwide-20260903",
+    "newsarticleName": "【大雨】青森市やむつ市 県道で土砂崩れや住宅浸水の被害",
+    "playlistName": "9月3日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "青森県や消防によりますと、青森県内ではむつ市の県道で土砂崩れが発生しているほか、青森市で住宅が水につかったり、道路が冠水したりしているということです。\n\n\n青森県によりますと、むつ市では脇野沢の県道1",
+  "dateModified": "2026-09-03T06:35:15+09:00",
+  "datePublished": "2026-09-03T06:35:15+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47889/20260903de47889_E0000004028_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47889/20260903de47889_E0000004028_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000330",
+      "name": "青森県",
+      "display": true
+    },
+    {
+      "id": "E0000000587",
+      "name": "大雨情報",
+      "display": true
+    },
+    {
+      "id": "E0000000114",
+      "name": "気象",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "青森県や消防によりますと、青森県内ではむつ市の県道で土砂崩れが発生しているほか、青森市で住宅が水につかったり、道路が冠水したりしているということです。\n\n\n青森県によりますと、むつ市では脇野沢の県道1",
+  "articleBody": "青森県や消防によりますと、青森県内ではむつ市の県道で土砂崩れが発生しているほか、青森市で住宅が水につかったり、道路が冠水したりしているということです。\n\n\n青森県によりますと、むつ市では脇野沢の県道175号の一部で土砂崩れが発生し、3日午前1時から通行止めとなっているということです。\n\nまた、消防によりますと、青森市では奥内地区の生活道路がおよそ200メートルにわたって冠水したほか、住宅1棟で床下が水につかったということです。\n\nこのほか、飛鳥岸田地区でも150メートルほどにわたって道路が冠水したほか、住宅1棟で床下が水につかる被害が確認されたということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "青森県や消防によりますと、青森県内ではむつ市の県道で土砂崩れが発生しているほか、青森市で住宅が水につかったり、道路が冠水したりしているということです。\n",
+    "markedBody": "青森県によりますと、むつ市では脇野沢の県道175号の一部で土砂崩れが発生し、3日午前1時から通行止めとなっているということです。\n\nまた、消防によりますと、青森市では奥内地区の生活道路がおよそ200メートルにわたって冠水したほか、住宅1棟で床下が水につかったということです。\n\nこのほか、飛鳥岸田地区でも150メートルほどにわたって道路が冠水したほか、住宅1棟で床下が水につかる被害が確認されたということです。\n",
+    "trimmedLead": "青森県や消防によりますと、青森県内ではむつ市の県道で土砂崩れが発生しているほか、青森市で住宅が水につかったり、道路が冠水したりしているということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260903de47889.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260903de47889",
+  "video": [],
+  "citation": [
+    {
+      "name": "前線活発化 秋田で非常に激しい雨 広い範囲で大雨続くおそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47887",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47887/20260903de47887_E0000022354_1_s.jpg",
+      "datePublished": "2026-09-03T06:59:02+09:00"
+    },
+    {
+      "name": "青森市 一部地域に避難指示 内真部川が氾濫のおそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47886",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47886/20260903de47886_E0000004037_1_s.jpg",
+      "datePublished": "2026-09-03T05:34:06+09:00"
+    },
+    {
+      "name": "【最新の河川情報】こちらから一覧でご覧になれます",
+      "url": "https://news.web.nhk/kishou-saigai/river/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00212_E0000003213_1_s.jpg"
+    },
+    {
+      "name": "【気象警報・注意報】各地の発表状況を詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/warning/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00266_E0000003278_1_s.jpg"
+    },
+    {
+      "name": "「命を守る行動を！」特別警報に緊急安全確保…どうすれば",
+      "url": "https://news.web.nhk/newsweb/na/nc-4206e8be-3c01-4ef5-943c-c5f2d8c343ae",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00033_E0000001589_1_s.jpg"
+    },
+    {
+      "name": "土砂災害マップ【NHK】現在の危険度をリアルタイム表示",
+      "url": "https://news.web.nhk/bousai-map/landslide/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00359_E0000003390_1_s.jpg"
+    },
+    {
+      "name": "土砂災害 警戒や避難のポイントは？",
+      "url": "https://news.web.nhk/newsweb/na/nc-d921faff-fdcd-4223-b396-f948340c5c1c",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00016_E0000001588_1_s.jpg"
+    },
+    {
+      "name": "川の氾濫 警戒のポイントは？",
+      "url": "https://news.web.nhk/newsweb/na/nc-1c290155-b464-4391-95b8-2f9687fa1f25",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00015_E0000001586_1_s.jpg"
+    },
+    {
+      "name": "線状降水帯とは？情報が出たらどうする？",
+      "url": "https://news.web.nhk/newsweb/na/nc-5092b435-f5e7-4767-a457-1c7aac190df9",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00149_E0000003428_1_s.jpg"
+    },
+    {
+      "name": "「記録的短時間大雨」とは? どう身を守る?",
+      "url": "https://news.web.nhk/newsweb/na/nc-2cb59e60-dc2e-4535-a3f0-9c825e2e34a8",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00054_E0000003430_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
