@@ -1,0 +1,144 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260902de47787",
+  "dataSourceId": "nd",
+  "name": "日銀 植田総裁 利上げは9月会合含め毎回会合で議論",
+  "headline": "日銀 植田総裁 利上げは9月会合含め毎回会合で議論",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260902de47787",
+    "playlistId": "news-nwa-business-nationwide-20260902",
+    "newsarticleName": "日銀 植田総裁 利上げは9月会合含め毎回会合で議論",
+    "playlistName": "9月2日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "日銀の植田総裁は、訪問先のアメリカで会見し、今後の利上げについて、中東情勢や為替相場の変動の影響などによる経済や物価へのリスクを点検しながら、9月の会合も含め毎回の会合で議論していく考えを示しました。",
+  "dateModified": "2026-09-02T14:57:47+09:00",
+  "datePublished": "2026-09-02T14:57:47+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47787/20260902de47787_E0000021978_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47787/20260902de47787_E0000021978_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000725",
+      "name": "金利",
+      "display": true
+    },
+    {
+      "id": "E0000000380",
+      "name": "日本銀行（日銀）",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "日銀の植田総裁は、訪問先のアメリカで会見し、今後の利上げについて、中東情勢や為替相場の変動の影響などによる経済や物価へのリスクを点検しながら、9月の会合も含め毎回の会合で議論していく考えを示しました。",
+  "articleBody": "日銀の植田総裁は、訪問先のアメリカで会見し、今後の利上げについて、中東情勢や為替相場の変動の影響などによる経済や物価へのリスクを点検しながら、9月の会合も含め毎回の会合で議論していく考えを示しました。\n\n\nこの中で植田総裁は、今後の物価の見通しについて、「前回、7月の金融政策決定会合で示した展望レポートの見通しにだいたい沿ったような経済データが出ている」と述べ、基調的な物価上昇率は2％に近づいてきているという見方を示しました。\n\nその上で、今後の利上げについて「中東情勢と、AI関連の動き、それに為替相場の変動の影響を重視しつつ、経済、物価の中心的な見通しが実現する確度やリスクを点検しながら適切に判断していきたい。次回会合含め、毎回の決定会合においてしっかり議論していきたい」と述べました。\n\n市場では、日銀が利上げのペースを速めて9月の金融政策決定会合で追加の利上げに踏み切るのではないかという見方が広がっていて、日銀の対応が注目されています。\n",
+  "detailedArticleBody": {
+    "markedLead": "日銀の植田総裁は、訪問先のアメリカで会見し、今後の利上げについて、中東情勢や為替相場の変動の影響などによる経済や物価へのリスクを点検しながら、9月の会合も含め毎回の会合で議論していく考えを示しました。\n",
+    "markedBody": "この中で植田総裁は、今後の物価の見通しについて、「前回、7月の金融政策決定会合で示した展望レポートの見通しにだいたい沿ったような経済データが出ている」と述べ、基調的な物価上昇率は2％に近づいてきているという見方を示しました。\n\nその上で、今後の利上げについて「中東情勢と、AI関連の動き、それに為替相場の変動の影響を重視しつつ、経済、物価の中心的な見通しが実現する確度やリスクを点検しながら適切に判断していきたい。次回会合含め、毎回の決定会合においてしっかり議論していきたい」と述べました。\n\n市場では、日銀が利上げのペースを速めて9月の金融政策決定会合で追加の利上げに踏み切るのではないかという見方が広がっていて、日銀の対応が注目されています。\n",
+    "trimmedLead": "日銀の植田総裁は、訪問先のアメリカで会見し、今後の利上げについて、中東情勢や為替相場の変動の影響などによる経済や物価へのリスクを点検しながら、9月の会合も含め毎回の会合で議論していく考えを示しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260902de47787.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260902de47787",
+  "video": [],
+  "citation": [
+    {
+      "name": "台風と前線の影響で西・東日本では3日から大雨のおそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260901de47704",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47704/20260901de47704_E0000021873_1_s.jpg",
+      "datePublished": "2026-09-02T12:29:39+09:00"
+    },
+    {
+      "name": "G20閉幕　政府・日銀の政策焦点　アメリカの注文など踏まえ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260902de47719",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47719/20260902de47719_E0000021727_1_s.jpg",
+      "datePublished": "2026-09-02T13:44:03+09:00"
+    },
+    {
+      "name": "ネパール土石流 発生から1週間 エネルギー施設にも深刻な影響",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260901de47705",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47705/20260901de47705_E0000021773_1_s.jpg",
+      "datePublished": "2026-09-02T12:15:56+09:00"
+    },
+    {
+      "name": "長期金利3.015％に一時上昇 イラン情勢緊迫化でインフレ懸念",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260902de47751",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47751/20260902de47751_E0000021937_1_s.jpg",
+      "datePublished": "2026-09-02T11:18:00+09:00"
+    },
+    {
+      "name": "株価 一時1900円超の値下がり 原油の先物価格の上昇などで",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260902de47733",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47733/20260902de47733_E0000021830_1_s.jpg",
+      "datePublished": "2026-09-02T12:39:59+09:00"
+    },
+    {
+      "name": "プーチン大統領 日ロ関係悪化の責任 “100%日本にある”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260902de47747",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47747/20260902de47747_E0000021784_1_s.jpg",
+      "datePublished": "2026-09-02T11:32:44+09:00"
+    },
+    {
+      "name": "台風24号 北上中 4日ごろにかけて沖縄・奄美に近づく見込み",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260902de47743",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47743/20260902de47743_E0000021968_1_s.jpg",
+      "datePublished": "2026-09-02T13:31:25+09:00"
+    },
+    {
+      "name": "新築マンション高騰“投機的取引抑制を”国交省が税制改正要望",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260902de47744",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47744/20260902de47744_E0000021780_1_s.jpg",
+      "datePublished": "2026-09-02T10:59:00+09:00"
+    },
+    {
+      "name": "よみがえる法隆寺の至宝 ～金堂壁画・完全復元に挑む～",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46668",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46668/20260827de46668_E0000018178_1_s.jpg",
+      "datePublished": "2026-08-30T14:36:15+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
