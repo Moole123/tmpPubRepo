@@ -1,0 +1,151 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260904de48064",
+  "dataSourceId": "nd",
+  "name": "ネパール土石流災害で日本の警察が検視部隊派遣",
+  "headline": "ネパール土石流災害で日本の警察が検視部隊派遣",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260904de48064",
+    "playlistId": "news-nwa-international-nationwide-20260904",
+    "newsarticleName": "ネパール土石流災害で日本の警察が検視部隊派遣",
+    "playlistName": "9月4日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "ネパールと中国の国境付近で起きた大規模な土砂災害で、日本の警察から、死者の身元の特定などにあたる警察官5人が派遣されることになりました。ネパール政府からの要請に基づくものだということです。\n\n\n先月ネ",
+  "dateModified": "2026-09-04T05:02:35+09:00",
+  "datePublished": "2026-09-04T05:02:35+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48064/20260904de48064_E0000023718_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48064/20260904de48064_E0000023718_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000010103",
+      "name": "ネパール土石流",
+      "display": true
+    },
+    {
+      "id": "E0000000598",
+      "name": "警察",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ネパールと中国の国境付近で起きた大規模な土砂災害で、日本の警察から、死者の身元の特定などにあたる警察官5人が派遣されることになりました。ネパール政府からの要請に基づくものだということです。\n\n\n先月ネ",
+  "articleBody": "ネパールと中国の国境付近で起きた大規模な土砂災害で、日本の警察から、死者の身元の特定などにあたる警察官5人が派遣されることになりました。ネパール政府からの要請に基づくものだということです。\n\n\n先月ネパールと中国の国境付近で起きた大規模な土砂災害では、これまでに死者1200人、日本人5人を含む4700人以上が行方不明になっています。\n\n警察庁によりますと、ネパール政府から日本政府への要請を受け、警察庁から2人、警視庁から3人のあわせて5人の警察官が「国際緊急援助隊」として派遣されるということです。\n\n派遣は4日からで、当面、現地で死者の身元の特定などの活動にあたるということです。\n\n警察庁によりますと警察官の「国際緊急援助隊」としての海外派遣は、これまでにのべ17の地域、あわせて300人あまりに上り、最近では3年前、トルコとシリアで発生した地震の際に現地で救助活動などにあたっています。\n",
+  "detailedArticleBody": {
+    "markedLead": "ネパールと中国の国境付近で起きた大規模な土砂災害で、日本の警察から、死者の身元の特定などにあたる警察官5人が派遣されることになりました。ネパール政府からの要請に基づくものだということです。\n",
+    "markedBody": "![](https://img.web.nhk/news/nd/kiji/20260904de48064/20260904de48064_E0000023717_1_l.jpg)\n\n先月ネパールと中国の国境付近で起きた大規模な土砂災害では、これまでに死者1200人、日本人5人を含む4700人以上が行方不明になっています。\n\n警察庁によりますと、ネパール政府から日本政府への要請を受け、警察庁から2人、警視庁から3人のあわせて5人の警察官が「国際緊急援助隊」として派遣されるということです。\n\n派遣は4日からで、当面、現地で死者の身元の特定などの活動にあたるということです。\n\n警察庁によりますと警察官の「国際緊急援助隊」としての海外派遣は、これまでにのべ17の地域、あわせて300人あまりに上り、最近では3年前、トルコとシリアで発生した地震の際に現地で救助活動などにあたっています。\n",
+    "trimmedLead": "ネパールと中国の国境付近で起きた大規模な土砂災害で、日本の警察から、死者の身元の特定などにあたる警察官5人が派遣されることになりました。ネパール政府からの要請に基づくものだということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260904de48064.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260904de48064",
+  "video": [],
+  "citation": [
+    {
+      "name": "ネパール土石流 1200人以上死亡 政府が早期警報システム整備へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47996",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47996/20260903de47996_E0000023513_1_s.jpg",
+      "datePublished": "2026-09-03T18:52:00+09:00"
+    },
+    {
+      "name": "米ベッセント財務長官 日銀利上げで円安改善と伝達 米報道",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47990",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47990/20260903de47990_E0000023480_1_s.jpg",
+      "datePublished": "2026-09-03T18:11:00+09:00"
+    },
+    {
+      "name": "プーチン大統領 北方領土の税制優遇措置などで投資活発と主張",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47972",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47972/20260903de47972_E0000023420_1_s.jpg",
+      "datePublished": "2026-09-03T19:28:52+09:00"
+    },
+    {
+      "name": "ICC＝国際刑事裁判所“解体論”が広げる波紋",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47925",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47925/20260903de47925_E0000022460_1_s.jpg",
+      "datePublished": "2026-09-03T16:40:00+09:00"
+    },
+    {
+      "name": "グーグルの広告サービス独占めぐる裁判 事業分割を回避",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47956",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47956/20260903de47956_E0000023021_1_s.jpg",
+      "datePublished": "2026-09-03T14:30:00+09:00"
+    },
+    {
+      "name": "「スター・ウォーズ」監督 ロサンゼルスに美術館創設し内覧会",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47915",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47915/20260903de47915_E0000022434_1_s.jpg",
+      "datePublished": "2026-09-03T12:02:00+09:00"
+    },
+    {
+      "name": "結婚式4人死亡 イラン“戦争犯罪” 米“攻撃準備できている”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47900",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47900/20260903de47900_E0000022379_2_s.jpg",
+      "datePublished": "2026-09-03T20:34:07+09:00"
+    },
+    {
+      "name": "アメリカ中間選挙まで2か月 共和・民主の選挙戦さらに激しく",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47876",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47876/20260903de47876_E0000022322_1_s.jpg",
+      "datePublished": "2026-09-03T13:49:51+09:00"
+    },
+    {
+      "name": "コンゴ民主共和国でエボラ出血熱の死者3000人超える",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47881",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47881/20260903de47881_E0000022333_1_s.jpg",
+      "datePublished": "2026-09-03T04:59:00+09:00"
+    },
+    {
+      "name": "「命拾いしたけど、複雑な心境」 土石流逃れた日本人は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260831de47412",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47412/20260831de47412_E0000020687_1_s.jpg",
+      "datePublished": "2026-09-01T11:52:25+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
