@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260903de47942",
+  "dataSourceId": "nd",
+  "name": "株価 小幅な値動き",
+  "headline": "株価 小幅な値動き",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260903de47942",
+    "playlistId": "news-nwa-business-nationwide-20260903",
+    "newsarticleName": "株価 小幅な値動き",
+    "playlistName": "9月3日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "3日の東京株式市場、売り買いが交錯する展開となっていて、日経平均株価は、小幅な値動きとなっています。\n\n\n日経平均株価、午前の終値は2日の終値と比べて130円19銭高い6万4455円83銭。\n\n東証株",
+  "dateModified": "2026-09-03T13:18:36+09:00",
+  "datePublished": "2026-09-03T13:18:36+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47942/20260903de47942_E0000022548_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47942/20260903de47942_E0000022548_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000157",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "E0000000477",
+      "name": "金融",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "3日の東京株式市場、売り買いが交錯する展開となっていて、日経平均株価は、小幅な値動きとなっています。\n\n\n日経平均株価、午前の終値は2日の終値と比べて130円19銭高い6万4455円83銭。\n\n東証株",
+  "articleBody": "3日の東京株式市場、売り買いが交錯する展開となっていて、日経平均株価は、小幅な値動きとなっています。\n\n\n日経平均株価、午前の終値は2日の終値と比べて130円19銭高い6万4455円83銭。\n\n東証株価指数、トピックスは42.48上がって4124.08。\n午前の出来高は9億4573万株でした。\n\n市場関係者は、「日経平均株価はきのうまでの3日間でおよそ2000円下落したため、きょうは値下がりした銘柄を買い戻す動きが出ている。ただ、長期金利や原油の先物価格の先行きに対する警戒感から、売り注文も出ていて、結果として小幅な値動きとなっている」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "3日の東京株式市場、売り買いが交錯する展開となっていて、日経平均株価は、小幅な値動きとなっています。\n",
+    "markedBody": "日経平均株価、午前の終値は2日の終値と比べて130円19銭高い6万4455円83銭。\n\n東証株価指数、トピックスは42.48上がって4124.08。\\\n午前の出来高は9億4573万株でした。\n\n市場関係者は、「日経平均株価はきのうまでの3日間でおよそ2000円下落したため、きょうは値下がりした銘柄を買い戻す動きが出ている。ただ、長期金利や原油の先物価格の先行きに対する警戒感から、売り注文も出ていて、結果として小幅な値動きとなっている」と話していました。\n",
+    "trimmedLead": "3日の東京株式市場、売り買いが交錯する展開となっていて、日経平均株価は、小幅な値動きとなっています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260903de47942.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260903de47942",
+  "video": [],
+  "citation": [
+    {
+      "name": "宮崎 イセエビ漁の漁船が不明と通報 船長ら3人死亡 海上保安部",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47914",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47914/20260903de47914_E0000022499_1_s.jpg",
+      "datePublished": "2026-09-03T13:44:11+09:00"
+    },
+    {
+      "name": "「まんじゅうや」は無効票 東京高裁 神栖市長の訴え退ける",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47905",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47905/20260903de47905_E0000022399_1_s.jpg",
+      "datePublished": "2026-09-03T12:50:47+09:00"
+    },
+    {
+      "name": "台風と前線 広範囲で大雨に 九州南部で線状降水帯のおそれも",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47887",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47887/20260903de47887_E0000023018_1_s.jpg",
+      "datePublished": "2026-09-03T14:51:38+09:00"
+    },
+    {
+      "name": "結婚式4人死亡 イラン“戦争犯罪” 米“攻撃準備できている”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47900",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47900/20260903de47900_E0000022379_2_s.jpg",
+      "datePublished": "2026-09-03T09:27:00+09:00"
+    },
+    {
+      "name": "コンゴ民主共和国でエボラ出血熱の死者3000人超える",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47881",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47881/20260903de47881_E0000022333_1_s.jpg",
+      "datePublished": "2026-09-03T04:59:00+09:00"
+    },
+    {
+      "name": "上皇さまの意向受け 将来の葬儀の規模大幅縮小へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260902de47735",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47735/20260902de47735_E0000021927_1_s.jpg",
+      "datePublished": "2026-09-02T19:00:00+09:00"
+    },
+    {
+      "name": "陸自が侵攻相手対処の攻撃用小型無人機を初めて公開",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260902de47796",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47796/20260902de47796_E0000022065_1_s.jpg",
+      "datePublished": "2026-09-02T20:18:00+09:00"
+    },
+    {
+      "name": "ネパール土石流 1200人以上死亡 首相は気候変動対策を訴え",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47884",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47884/20260903de47884_E0000022336_1_s.jpg",
+      "datePublished": "2026-09-03T05:29:00+09:00"
+    },
+    {
+      "name": "ベネチア国際映画祭開幕 最優秀賞競う部門に日本の2作品",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47885",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47885/20260903de47885_E0000022353_1_s.jpg",
+      "datePublished": "2026-09-03T06:40:22+09:00"
+    },
+    {
+      "name": "アメリカ中間選挙まで2か月 共和・民主の選挙戦さらに激しく",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47876",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47876/20260903de47876_E0000022322_1_s.jpg",
+      "datePublished": "2026-09-03T13:49:51+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
