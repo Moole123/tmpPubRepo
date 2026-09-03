@@ -1,0 +1,154 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260903de47943",
+  "dataSourceId": "nd",
+  "name": "他人のSNSアカウントに不正アクセスした疑い逮捕",
+  "headline": "他人のSNSアカウントに不正アクセスした疑い逮捕",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260903de47943",
+    "playlistId": "news-nwa-society-nationwide-20260903",
+    "newsarticleName": "他人のSNSアカウントに不正アクセスした疑い逮捕",
+    "playlistName": "9月3日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "20代の女性がクラウドサービスに保存していたSNSのIDとパスワードを入手して不正にログインしたなどとして大阪に住む34歳の会社役員が警視庁に逮捕されました。\n\n\n逮捕されたのは大阪・北区の会社役員、",
+  "dateModified": "2026-09-03T15:11:05+09:00",
+  "datePublished": "2026-09-03T15:11:05+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47943/20260903de47943_E0000022560_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47943/20260903de47943_E0000022560_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000208",
+      "name": "事件・事故",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "E0000000355",
+      "name": "大阪府",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "20代の女性がクラウドサービスに保存していたSNSのIDとパスワードを入手して不正にログインしたなどとして大阪に住む34歳の会社役員が警視庁に逮捕されました。\n\n\n逮捕されたのは大阪・北区の会社役員、",
+  "articleBody": "20代の女性がクラウドサービスに保存していたSNSのIDとパスワードを入手して不正にログインしたなどとして大阪に住む34歳の会社役員が警視庁に逮捕されました。\n\n\n逮捕されたのは大阪・北区の会社役員、本田正憲容疑者（34）です。\n\n警視庁によりますと、ことし2月から3月にかけて都内の20代の女性が利用するXのアカウントのIDとパスワードを入手して不正にログインしたなどとして不正アクセス禁止法違反などの疑いが持たれています。\n\n女性はIDとパスワードをクラウドサービスに保存していましたが、別人になりすまして連絡をとってきた容疑者に保存内容を見るために必要な情報を教えてしまったということです。\n\nことし2月、女性は「アカウントを乗っ取られた」などと警視庁に被害を相談していました。\n\n調べに対し、「SNSのダイレクトメッセージの内容など女性のプライベートを知りたかった」という趣旨の供述をしているということです。\n\n警視庁は100人以上のSNSのアカウントに不正にログインしていたとみて調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "20代の女性がクラウドサービスに保存していたSNSのIDとパスワードを入手して不正にログインしたなどとして大阪に住む34歳の会社役員が警視庁に逮捕されました。\n",
+    "markedBody": "逮捕されたのは大阪・北区の会社役員、本田正憲容疑者（34）です。\n\n警視庁によりますと、ことし2月から3月にかけて都内の20代の女性が利用するXのアカウントのIDとパスワードを入手して不正にログインしたなどとして不正アクセス禁止法違反などの疑いが持たれています。\n\n女性はIDとパスワードをクラウドサービスに保存していましたが、別人になりすまして連絡をとってきた容疑者に保存内容を見るために必要な情報を教えてしまったということです。\n\nことし2月、女性は「アカウントを乗っ取られた」などと警視庁に被害を相談していました。\n\n調べに対し、「SNSのダイレクトメッセージの内容など女性のプライベートを知りたかった」という趣旨の供述をしているということです。\n\n警視庁は100人以上のSNSのアカウントに不正にログインしていたとみて調べています。\n",
+    "trimmedLead": "20代の女性がクラウドサービスに保存していたSNSのIDとパスワードを入手して不正にログインしたなどとして大阪に住む34歳の会社役員が警視庁に逮捕されました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260903de47943.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260903de47943",
+  "video": [],
+  "citation": [
+    {
+      "name": "台風と前線 広範囲で大雨に 九州南部で線状降水帯のおそれも",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47887",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47887/20260903de47887_E0000023459_1_s.jpg",
+      "datePublished": "2026-09-03T17:05:20+09:00"
+    },
+    {
+      "name": "台風マップ 予想進路や勢力をリアルタイム表示",
+      "url": "https://news.web.nhk/bousai-map/typhoon/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00357_E0000003388_1_s.jpg"
+    },
+    {
+      "name": "NEC 高性能AI使ったサイバーセキュリティー対策発表",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260902de47804",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47804/20260902de47804_E0000022048_1_s.jpg",
+      "datePublished": "2026-09-02T16:43:00+09:00"
+    },
+    {
+      "name": "ソニーG傘下の企業などアンソロピック訴え AI学習で著作権侵害",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260901de47586",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47586/20260901de47586_E0000021117_1_s.jpg",
+      "datePublished": "2026-09-01T12:59:00+09:00"
+    },
+    {
+      "name": "詳報「まんじゅうや」は無効票 東京高裁 神栖市長の訴え退ける",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47905",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47905/20260903de47905_E0000022399_1_s.jpg",
+      "datePublished": "2026-09-03T15:44:52+09:00"
+    },
+    {
+      "name": "軽油カルテル初公判 石油販売5社が起訴内容認める",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47927",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47927/20260903de47927_E0000022476_1_s.jpg",
+      "datePublished": "2026-09-03T12:58:16+09:00"
+    },
+    {
+      "name": "富山市 交番襲撃事件の遺族訴訟 2審も訴え退ける",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260902de47835",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47835/20260902de47835_E0000022193_1_s.jpg",
+      "datePublished": "2026-09-02T19:12:42+09:00"
+    },
+    {
+      "name": "世界文化遺産の国内候補に「彦根城」の推薦を決定",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47931",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47931/20260903de47931_E0000022515_1_s.jpg",
+      "datePublished": "2026-09-03T12:58:00+09:00"
+    },
+    {
+      "name": "被爆の記録映画 フィルムに未知の広範囲シーン確認",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47922",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47922/20260903de47922_E0000022512_1_s.jpg",
+      "datePublished": "2026-09-03T13:04:00+09:00"
+    },
+    {
+      "name": "みみちゃんと行く モバイルバッテリーの発火対策は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260902de47756",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47756/20260902de47756_E0000021822_1_s.jpg",
+      "datePublished": "2026-09-02T17:19:30+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
