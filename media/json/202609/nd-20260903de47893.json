@@ -1,0 +1,161 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260903de47893",
+  "dataSourceId": "nd",
+  "name": "【動画】気象予報士解説 広い範囲で大雨続くおそれ",
+  "headline": "【動画】気象予報士解説 広い範囲で大雨続くおそれ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260903de47893",
+    "playlistId": "news-nwa-disaster-nationwide-20260903",
+    "newsarticleName": "【動画】気象予報士解説 広い範囲で大雨続くおそれ",
+    "playlistName": "9月3日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "秋雨前線の影響で東北や北陸に発達した雨雲がかかっていて、このあと前線は次第に南下し、台風24号が湿った空気を運んでくることから今後数日は広い範囲で大雨が続くおそれがあります。今後の見通しについて気象予",
+  "dateModified": "2026-09-03T08:36:48+09:00",
+  "datePublished": "2026-09-03T08:36:48+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47893/20260903de47893_E0000022357_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47893/20260903de47893_E0000022357_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000587",
+      "name": "大雨情報",
+      "display": true
+    },
+    {
+      "id": "E0000000114",
+      "name": "気象",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "秋雨前線の影響で東北や北陸に発達した雨雲がかかっていて、このあと前線は次第に南下し、台風24号が湿った空気を運んでくることから今後数日は広い範囲で大雨が続くおそれがあります。今後の見通しについて気象予",
+  "articleBody": "秋雨前線の影響で東北や北陸に発達した雨雲がかかっていて、このあと前線は次第に南下し、台風24号が湿った空気を運んでくることから今後数日は広い範囲で大雨が続くおそれがあります。今後の見通しについて気象予報士の解説です。\n\n9月3日の朝の気象情報で放送した内容です。\n※データ放送ではご覧いただけません\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "秋雨前線の影響で東北や北陸に発達した雨雲がかかっていて、このあと前線は次第に南下し、台風24号が湿った空気を運んでくることから今後数日は広い範囲で大雨が続くおそれがあります。今後の見通しについて気象予報士の解説です。\n\n9月3日の朝の気象情報で放送した内容です。\\\n※データ放送ではご覧いただけません\n",
+    "markedBody": "",
+    "trimmedLead": "秋雨前線の影響で東北や北陸に発達した雨雲がかかっていて、このあと前線は次第に南下し、台風24号が湿った空気を運んでくることから今後数日は広い範囲で大雨が続くおそれがあります。今後の見通しについて気象予報士の解説です。\n\n9月3日の朝の気象情報で放送した内容です。\n※データ放送ではご覧いただけません\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260903de47893.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260903de47893",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "【動画】気象予報士解説 広い範囲で大雨続くおそれ",
+      "description": "秋雨前線の影響で東北や北陸に発達した雨雲がかかっていて、このあと前線は次第に南下し、台風24号が湿った空気を運んでくることから今後数日は広い範囲で大雨が続くおそれがあります。今後の見通しについて気象予",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20260903de47893_E0000022356_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20260903de47893/20260903de47893_E0000022357_1_l.jpg",
+      "duration": "PT4M19S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20260903de47893_E0000022356_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47893/20260903de47893_E0000022357_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "前線活発化 東北～北陸に発達した雨雲 広い範囲で大雨のおそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47887",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47887/20260903de47887_E0000022365_1_s.jpg",
+      "datePublished": "2026-09-03T08:43:11+09:00"
+    },
+    {
+      "name": "【大雨】青森市やむつ市 県道で土砂崩れや住宅浸水の被害",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47889",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47889/20260903de47889_E0000004028_1_s.jpg",
+      "datePublished": "2026-09-03T08:50:36+09:00"
+    },
+    {
+      "name": "高市首相 党役員人事と内閣改造 再来週にも踏み切るとの見方も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47879",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47879/20260903de47879_E0000003844_1_s.jpg",
+      "datePublished": "2026-09-03T04:53:27+09:00"
+    },
+    {
+      "name": "上皇さまの意向受け 将来の葬儀の規模大幅縮小へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260902de47735",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47735/20260902de47735_E0000021927_1_s.jpg",
+      "datePublished": "2026-09-02T19:00:00+09:00"
+    },
+    {
+      "name": "陸自が侵攻相手対処の攻撃用小型無人機を初めて公開",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260902de47796",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47796/20260902de47796_E0000022065_1_s.jpg",
+      "datePublished": "2026-09-02T20:18:00+09:00"
+    },
+    {
+      "name": "ネパール土石流 1200人以上死亡 首相は気候変動対策を訴え",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47884",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47884/20260903de47884_E0000022336_1_s.jpg",
+      "datePublished": "2026-09-03T05:29:46+09:00"
+    },
+    {
+      "name": "アメリカ中間選挙まで2か月 共和・民主の選挙戦さらに激しく",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47876",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47876/20260903de47876_E0000022322_1_s.jpg",
+      "datePublished": "2026-09-03T05:40:03+09:00"
+    },
+    {
+      "name": "ベネチア国際映画祭開幕 最優秀賞競う部門に日本の2作品",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47885",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47885/20260903de47885_E0000022353_1_s.jpg",
+      "datePublished": "2026-09-03T06:40:22+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
