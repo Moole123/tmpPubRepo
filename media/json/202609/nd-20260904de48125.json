@@ -1,0 +1,156 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260904de48125",
+  "dataSourceId": "nd",
+  "name": "株価 値上がり 銘柄を買い戻す動きも",
+  "headline": "株価 値上がり 銘柄を買い戻す動きも",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260904de48125",
+    "playlistId": "news-nwa-business-nationwide-20260904",
+    "newsarticleName": "株価 値上がり 銘柄を買い戻す動きも",
+    "playlistName": "9月4日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "4日の東京株式市場、日経平均株価は値上がりしています。\n\n\n日経平均株価、午前の終値は3日の終値と比べて555円26銭高い6万4769円74銭。\n\n一方、東証株価指数＝トピックスは7.56下がって40",
+  "dateModified": "2026-09-04T12:50:04+09:00",
+  "datePublished": "2026-09-04T12:50:04+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48125/20260904de48125_E0000023860_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48125/20260904de48125_E0000023860_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000157",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "E0000000477",
+      "name": "金融",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "4日の東京株式市場、日経平均株価は値上がりしています。\n\n\n日経平均株価、午前の終値は3日の終値と比べて555円26銭高い6万4769円74銭。\n\n一方、東証株価指数＝トピックスは7.56下がって40",
+  "articleBody": "4日の東京株式市場、日経平均株価は値上がりしています。\n\n\n日経平均株価、午前の終値は3日の終値と比べて555円26銭高い6万4769円74銭。\n\n一方、東証株価指数＝トピックスは7.56下がって4094.48。\n\n午前の出来高は10億4411万株でした。\n\n市場関係者は、「日経平均株価は3日まで4日連続で値下がりしていたが、アメリカのニューヨーク市場でFRB＝連邦準備制度理事会が早期の利上げに踏み切るとの見方が後退して株価が上昇した流れなどを受けこのところ値下がりしていた銘柄を買い戻す動きも出た」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "4日の東京株式市場、日経平均株価は値上がりしています。\n",
+    "markedBody": "日経平均株価、午前の終値は3日の終値と比べて555円26銭高い6万4769円74銭。\n\n一方、東証株価指数＝トピックスは7.56下がって4094.48。\n\n午前の出来高は10億4411万株でした。\n\n市場関係者は、「日経平均株価は3日まで4日連続で値下がりしていたが、アメリカのニューヨーク市場でFRB＝連邦準備制度理事会が早期の利上げに踏み切るとの見方が後退して株価が上昇した流れなどを受けこのところ値下がりしていた銘柄を買い戻す動きも出た」と話しています。\n",
+    "trimmedLead": "4日の東京株式市場、日経平均株価は値上がりしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260904de48125.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260904de48125",
+  "video": [],
+  "citation": [
+    {
+      "name": "円高さらに加速 1ドル＝155円台前半に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48124",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48124/20260904de48124_E0000023859_1_s.jpg",
+      "datePublished": "2026-09-04T12:47:31+09:00"
+    },
+    {
+      "name": "米ベッセント財務長官 日銀利上げで円安改善と伝達 米報道",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47990",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47990/20260903de47990_E0000023480_1_s.jpg",
+      "datePublished": "2026-09-03T18:11:00+09:00"
+    },
+    {
+      "name": "宮崎県に「線状降水帯直前予測」鹿児島 大分 高知でも厳重警戒",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de48057",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de48057/20260903de48057_E0000023827_1_s.jpg",
+      "datePublished": "2026-09-04T12:58:55+09:00"
+    },
+    {
+      "name": "イグ・ノーベル賞で日本「鼻のかみ方」研究が医学賞を受賞",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48062",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48062/20260904de48062_E0000023701_1_s.jpg",
+      "datePublished": "2026-09-04T03:09:00+09:00"
+    },
+    {
+      "name": "最低賃金引き上げ 国は中小企業などへの支援進める方針",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de48045",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de48045/20260903de48045_E0000023673_1_s.jpg",
+      "datePublished": "2026-09-04T12:23:22+09:00"
+    },
+    {
+      "name": "ネパール土石流災害で日本の警察が検視部隊派遣",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48064",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48064/20260904de48064_E0000023718_1_s.jpg",
+      "datePublished": "2026-09-04T05:02:00+09:00"
+    },
+    {
+      "name": "7月家計調査 実質消費支出は8か月連続減少“節約志向が続く”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48082",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48082/20260904de48082_E0000023777_1_s.jpg",
+      "datePublished": "2026-09-04T11:21:34+09:00"
+    },
+    {
+      "name": "ゼレンスキー大統領「ロシア上空危険」 プーチン大統領が批判",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48068",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48068/20260904de48068_E0000023722_1_s.jpg",
+      "datePublished": "2026-09-04T06:21:02+09:00"
+    },
+    {
+      "name": "政権骨格維持へ 麻生氏、鈴木氏、木原氏は続投の見方",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de48053",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de48053/20260903de48053_E0000023683_1_s.jpg",
+      "datePublished": "2026-09-04T04:59:00+09:00"
+    },
+    {
+      "name": "ドジャース 大谷翔平 31試合ぶり先発外れる 12試合HRなし",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48083",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48083/20260904de48083_E0000003503_1_s.jpg",
+      "datePublished": "2026-09-04T11:03:36+09:00"
+    },
+    {
+      "name": "上皇さまの意向受け 将来の葬儀の規模大幅縮小へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260902de47735",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47735/20260902de47735_E0000021927_1_s.jpg",
+      "datePublished": "2026-09-02T19:00:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
