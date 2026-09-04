@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260904de48193",
+  "dataSourceId": "nd",
+  "name": "秋の連休 新幹線の混雑ピーク 下り19日・上り22日の見通し",
+  "headline": "秋の連休 新幹線の混雑ピーク 下り19日・上り22日の見通し",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260904de48193",
+    "playlistId": "news-nwa-society-nationwide-20260904",
+    "newsarticleName": "秋の連休 新幹線の混雑ピーク 下り19日・上り22日の見通し",
+    "playlistName": "9月4日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "JR各社は、秋の連休の新幹線の予約状況を発表しました。\n\nピークは、▼下りは9月19日、▼上りは9月22日の見通しです。\n\n\nJR各社によりますと、連休が始まる前日の18日から23日の新幹線の指定席の",
+  "dateModified": "2026-09-04T18:41:46+09:00",
+  "datePublished": "2026-09-04T18:41:46+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48193/20260904de48193_E0000024444_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48193/20260904de48193_E0000024444_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000481",
+      "name": "鉄道",
+      "display": true
+    },
+    {
+      "id": "E0000000651",
+      "name": "交通・インフラ",
+      "display": true
+    },
+    {
+      "id": "E0000000479",
+      "name": "観光",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "JR各社は、秋の連休の新幹線の予約状況を発表しました。\n\nピークは、▼下りは9月19日、▼上りは9月22日の見通しです。\n\n\nJR各社によりますと、連休が始まる前日の18日から23日の新幹線の指定席の",
+  "articleBody": "JR各社は、秋の連休の新幹線の予約状況を発表しました。\n\nピークは、▼下りは9月19日、▼上りは9月22日の見通しです。\n\n\nJR各社によりますと、連休が始まる前日の18日から23日の新幹線の指定席の予約数は、3日の時点でグループ全体で193万席で、予約率はおよそ37％となっています。\n\n混雑のピークは▼下りは9月19日、▼上りは9月22日の見通しです。\n\nJR各社は「ピークの日でも時間帯によっては空席があるので、早めに旅行などの計画を立てて混雑を避けるよう検討してほしい」と呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "JR各社は、秋の連休の新幹線の予約状況を発表しました。\n\nピークは、▼下りは9月19日、▼上りは9月22日の見通しです。\n",
+    "markedBody": "JR各社によりますと、連休が始まる前日の18日から23日の新幹線の指定席の予約数は、3日の時点でグループ全体で193万席で、予約率はおよそ37％となっています。\n\n混雑のピークは▼下りは9月19日、▼上りは9月22日の見通しです。\n\nJR各社は「ピークの日でも時間帯によっては空席があるので、早めに旅行などの計画を立てて混雑を避けるよう検討してほしい」と呼びかけています。\n",
+    "trimmedLead": "JR各社は、秋の連休の新幹線の予約状況を発表しました。\n\nピークは、▼下りは9月19日、▼上りは9月22日の見通しです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260904de48193.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260904de48193",
+  "video": [],
+  "citation": [
+    {
+      "name": "台風や前線 九州南部は大雨 関東ほか7日にかけ大雨か【中継】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de48057",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de48057/20260903de48057_E0000024034_1_s.jpg",
+      "datePublished": "2026-09-04T19:13:36+09:00"
+    },
+    {
+      "name": "羽田空港の新たなサテライト施設 きょうから運用始まる",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260831de47519",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47519/20260831de47519_E0000020914_1_s.jpg",
+      "datePublished": "2026-09-01T06:45:00+09:00"
+    },
+    {
+      "name": "世界文化遺産の国内候補に「彦根城」推薦決定 文化庁の審議会",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47931",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47931/20260903de47931_E0000022515_1_s.jpg",
+      "datePublished": "2026-09-04T13:13:22+09:00"
+    },
+    {
+      "name": "ロンドン初の自動運転タクシー 東京でも年内に試験運行へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48065",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48065/20260904de48065_E0000023709_1_s.jpg",
+      "datePublished": "2026-09-04T05:16:50+09:00"
+    },
+    {
+      "name": "地域のガソリンスタンド維持へ 重点支援の仕組み検討 経産省　",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48158",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48158/20260904de48158_E0000023936_1_s.jpg",
+      "datePublished": "2026-09-04T17:22:43+09:00"
+    },
+    {
+      "name": "“ロシア上空 安全ではない” ウクライナ外相がICAOに通告",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47898",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47898/20260903de47898_E0000022363_1_s.jpg",
+      "datePublished": "2026-09-03T08:25:00+09:00"
+    },
+    {
+      "name": "インフルエンザ患者数 前週比1.6倍に増加“基本的な対策を”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48171",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48171/20260904de48171_E0000023976_1_s.jpg",
+      "datePublished": "2026-09-04T19:38:14+09:00"
+    },
+    {
+      "name": "【動画】ネパール土石流 2人救助 発災から9日後 その瞬間",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48070",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48070/20260904de48070_E0000023903_1_s.jpg",
+      "datePublished": "2026-09-04T18:43:34+09:00"
+    },
+    {
+      "name": "消費税減税の大綱原案が判明“臨時的な引き下げ”明記",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48176",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48176/20260904de48176_E0000023996_1_s.jpg",
+      "datePublished": "2026-09-04T15:56:00+09:00"
+    },
+    {
+      "name": "みみちゃんと行く モバイルバッテリーの発火対策は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260902de47756",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47756/20260902de47756_E0000021822_1_s.jpg",
+      "datePublished": "2026-09-02T17:19:30+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

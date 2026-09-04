@@ -1,0 +1,137 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260904de48206",
+  "dataSourceId": "nd",
+  "name": "長期金利 一時2.9％を下回る",
+  "headline": "長期金利 一時2.9％を下回る",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260904de48206",
+    "playlistId": "news-nwa-business-nationwide-20260904",
+    "newsarticleName": "長期金利 一時2.9％を下回る",
+    "playlistName": "9月4日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "4日の債券市場では、長期金利の代表的な指標である10年ものの国債の利回りが、一時、2.9％を下回りました。\n\n\n長期金利は、債券市場で日本国債が売られて価格が下がると、上昇するという関係になっています",
+  "dateModified": "2026-09-04T19:05:32+09:00",
+  "datePublished": "2026-09-04T19:05:32+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48206/20260904de48206_E0000020973_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48206/20260904de48206_E0000020973_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000725",
+      "name": "金利",
+      "display": true
+    },
+    {
+      "id": "E0000000157",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "E0000000419",
+      "name": "アメリカ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "4日の債券市場では、長期金利の代表的な指標である10年ものの国債の利回りが、一時、2.9％を下回りました。\n\n\n長期金利は、債券市場で日本国債が売られて価格が下がると、上昇するという関係になっています",
+  "articleBody": "4日の債券市場では、長期金利の代表的な指標である10年ものの国債の利回りが、一時、2.9％を下回りました。\n\n\n長期金利は、債券市場で日本国債が売られて価格が下がると、上昇するという関係になっています。\n\n長期金利は9月1日におよそ30年ぶりに3％を超え、2日には一時、3.015％まで上昇しました。\n\n4日の債券市場では、円高ドル安が進んだことで円安による物価上昇への懸念がいくぶん和らいだことから国債を買う動きが広がって、長期金利の代表的な指標である10年ものの国債の利回りが、一時、2.895％まで低下しました。\n\n市場関係者は、「日本とアメリカの中央銀行幹部の金融政策をめぐる発言などで日米の金利差が縮小するとの観測から円高ドル安が進み、国内での物価上昇圧力が和らぐとの見方が広がった。こうしたことから日銀の利上げが物価の上昇を抑えられないのではないかという懸念もいくぶん後退した」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "4日の債券市場では、長期金利の代表的な指標である10年ものの国債の利回りが、一時、2.9％を下回りました。\n",
+    "markedBody": "長期金利は、債券市場で日本国債が売られて価格が下がると、上昇するという関係になっています。\n\n長期金利は9月1日におよそ30年ぶりに3％を超え、2日には一時、3.015％まで上昇しました。\n\n4日の債券市場では、円高ドル安が進んだことで円安による物価上昇への懸念がいくぶん和らいだことから国債を買う動きが広がって、長期金利の代表的な指標である10年ものの国債の利回りが、一時、2.895％まで低下しました。\n\n市場関係者は、「日本とアメリカの中央銀行幹部の金融政策をめぐる発言などで日米の金利差が縮小するとの観測から円高ドル安が進み、国内での物価上昇圧力が和らぐとの見方が広がった。こうしたことから日銀の利上げが物価の上昇を抑えられないのではないかという懸念もいくぶん後退した」と話しています。\n",
+    "trimmedLead": "4日の債券市場では、長期金利の代表的な指標である10年ものの国債の利回りが、一時、2.9％を下回りました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260904de48206.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260904de48206",
+  "video": [],
+  "citation": [
+    {
+      "name": "円相場 一時1ドル＝155円台前半まで円高進む",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48124",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48124/20260904de48124_E0000023859_1_s.jpg",
+      "datePublished": "2026-09-04T18:40:26+09:00"
+    },
+    {
+      "name": "株価 値上がり 長期金利の上昇一服で半導体関連に買い注文",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48125",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48125/20260904de48125_E0000023860_1_s.jpg",
+      "datePublished": "2026-09-04T16:36:11+09:00"
+    },
+    {
+      "name": "米ベッセント財務長官 日銀利上げで円安改善と伝達 米報道",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47990",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47990/20260903de47990_E0000023480_1_s.jpg",
+      "datePublished": "2026-09-03T18:11:00+09:00"
+    },
+    {
+      "name": "片山財務相「米財務長官に問いただされたことない」日銀めぐり",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de48048",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de48048/20260903de48048_E0000023655_1_s.jpg",
+      "datePublished": "2026-09-03T21:25:52+09:00"
+    },
+    {
+      "name": "FRB「多くの地区で経済活動拡大」物価大幅上昇の地区も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47888",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47888/20260903de47888_E0000003542_1_s.jpg",
+      "datePublished": "2026-09-03T07:00:44+09:00"
+    },
+    {
+      "name": "日銀 高田審議委員 “機動的に利上げを進めるべき”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260902de47789",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47789/20260902de47789_E0000021985_1_s.jpg",
+      "datePublished": "2026-09-02T17:09:51+09:00"
+    },
+    {
+      "name": "長期金利 一時3.015％まで上昇 インフレ懸念高まる",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260902de47751",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47751/20260902de47751_E0000021937_1_s.jpg",
+      "datePublished": "2026-09-02T22:40:53+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

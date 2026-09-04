@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260904de48190",
+  "dataSourceId": "nd",
+  "name": "秋の連休 高速道路渋滞予測 ピークは下り19日20日 上り21日22日の見通し",
+  "headline": "秋の連休 高速道路渋滞 ピークは下り19日20日 上り21日22日か",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260904de48190",
+    "playlistId": "news-nwa-society-nationwide-20260904",
+    "newsarticleName": "秋の連休 高速道路渋滞予測 ピークは下り19日20日 上り21日22日の見通し",
+    "playlistName": "9月4日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "ことしの秋の連休は11年ぶりの5連休となり、高速道路では渋滞が予測されています。下りは19日と20日、上りは21日と22日がピークとなる見通しです。\n\n\nことしの秋の連休は19日から23日までとなり、",
+  "dateModified": "2026-09-04T19:40:46+09:00",
+  "datePublished": "2026-09-04T19:40:46+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48190/20260904de48190_E0000024073_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48190/20260904de48190_E0000024073_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000651",
+      "name": "交通・インフラ",
+      "display": true
+    },
+    {
+      "id": "E0000000471",
+      "name": "自動車",
+      "display": true
+    },
+    {
+      "id": "E0000000479",
+      "name": "観光",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ことしの秋の連休は11年ぶりの5連休となり、高速道路では渋滞が予測されています。下りは19日と20日、上りは21日と22日がピークとなる見通しです。\n\n\nことしの秋の連休は19日から23日までとなり、",
+  "articleBody": "ことしの秋の連休は11年ぶりの5連休となり、高速道路では渋滞が予測されています。下りは19日と20日、上りは21日と22日がピークとなる見通しです。\n\n\nことしの秋の連休は19日から23日までとなり、2015年以来11年ぶりの5連休となります。\n\n高速道路各社の渋滞予測によりますと、下りは19日と20日にピークとなる見込みです。\n\n中央自動車道は神奈川県の相模湖インターチェンジ付近を先頭に19日と20日のいずれも午前6時ごろに45キロ、\n東北自動車道は埼玉県の羽生パーキングエリア付近を先頭に20日の午前9時ごろに35キロと予想されています。\n\n一方、上りは、21日と22日が渋滞のピークとなる見通しです。\n\n関越自動車道は埼玉県の坂戸西スマートインターチェンジ付近を先頭に22日の午後5時ごろに40キロ、\n中央自動車道は東京都と神奈川県にまたがる小仏トンネル付近を先頭に22日の午後3時ごろに30キロと予想されています。\n\n高速道路各社は、ホームページなどで渋滞予測を確認し、混雑が予想される日や時間帯を避けるよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "ことしの秋の連休は11年ぶりの5連休となり、高速道路では渋滞が予測されています。下りは19日と20日、上りは21日と22日がピークとなる見通しです。\n",
+    "markedBody": "ことしの秋の連休は19日から23日までとなり、2015年以来11年ぶりの5連休となります。\n\n:::nw--border {style=border-color:#909091}\n高速道路各社の渋滞予測によりますと、下りは19日と20日にピークとなる見込みです。\n\n中央自動車道は神奈川県の相模湖インターチェンジ付近を先頭に19日と20日のいずれも午前6時ごろに45キロ、\\\n東北自動車道は埼玉県の羽生パーキングエリア付近を先頭に20日の午前9時ごろに35キロと予想されています。\n:::\n\n:::nw--border {style=border-color:#909091}\n一方、上りは、21日と22日が渋滞のピークとなる見通しです。\n\n関越自動車道は埼玉県の坂戸西スマートインターチェンジ付近を先頭に22日の午後5時ごろに40キロ、\\\n中央自動車道は東京都と神奈川県にまたがる小仏トンネル付近を先頭に22日の午後3時ごろに30キロと予想されています。\n:::\n\n高速道路各社は、ホームページなどで渋滞予測を確認し、混雑が予想される日や時間帯を避けるよう呼びかけています。\n",
+    "trimmedLead": "ことしの秋の連休は11年ぶりの5連休となり、高速道路では渋滞が予測されています。下りは19日と20日、上りは21日と22日がピークとなる見通しです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260904de48190.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260904de48190",
+  "video": [],
+  "citation": [
+    {
+      "name": "台風や前線 九州南部は大雨 関東ほか7日にかけ大雨か【中継】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de48057",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de48057/20260903de48057_E0000024034_1_s.jpg",
+      "datePublished": "2026-09-04T19:13:36+09:00"
+    },
+    {
+      "name": "インフルエンザ患者数 前週比1.6倍に増加“基本的な対策を”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48171",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48171/20260904de48171_E0000023976_1_s.jpg",
+      "datePublished": "2026-09-04T19:38:14+09:00"
+    },
+    {
+      "name": "消費税減税の大綱原案が判明“臨時的な引き下げ”明記",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48176",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48176/20260904de48176_E0000023996_1_s.jpg",
+      "datePublished": "2026-09-04T15:56:00+09:00"
+    },
+    {
+      "name": "地域のガソリンスタンド維持へ 重点支援の仕組み検討 経産省　",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48158",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48158/20260904de48158_E0000023936_1_s.jpg",
+      "datePublished": "2026-09-04T17:22:43+09:00"
+    },
+    {
+      "name": "米 ホワイトハウスがMAGAゲームサイト公開 批判の声も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48170",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48170/20260904de48170_E0000023973_1_s.jpg",
+      "datePublished": "2026-09-04T15:54:45+09:00"
+    },
+    {
+      "name": "円相場 一時1ドル＝155円台前半まで円高進む",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48124",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48124/20260904de48124_E0000023859_1_s.jpg",
+      "datePublished": "2026-09-04T18:40:26+09:00"
+    },
+    {
+      "name": "来年度予算案の概算要求 過去最大に 総額143兆656億円",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48100",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48100/20260904de48100_E0000003836_1_s.jpg",
+      "datePublished": "2026-09-04T18:02:20+09:00"
+    },
+    {
+      "name": "イグ・ノーベル賞で日本「鼻のかみ方」研究が医学賞を受賞",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48062",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48062/20260904de48062_E0000023701_1_s.jpg",
+      "datePublished": "2026-09-04T03:09:00+09:00"
+    },
+    {
+      "name": "“異動先”は建設現場 AI時代の配置転換",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260826de46465",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46465/20260826de46465_E0000023505_1_s.jpg",
+      "datePublished": "2026-09-04T11:55:00+09:00"
+    },
+    {
+      "name": "ICC＝国際刑事裁判所“解体論”が広げる波紋",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47925",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47925/20260903de47925_E0000022460_1_s.jpg",
+      "datePublished": "2026-09-03T16:40:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
