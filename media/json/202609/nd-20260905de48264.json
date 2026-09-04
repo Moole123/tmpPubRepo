@@ -1,0 +1,149 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260905de48264",
+  "dataSourceId": "nd",
+  "name": "気象庁 午前6時10分から会見へ 屋久島町に土砂災害特別警報",
+  "headline": "気象庁 午前6時10分から会見へ 屋久島町に土砂災害特別警報",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260905de48264",
+    "playlistId": "news-nwa-disaster-nationwide-20260905",
+    "newsarticleName": "気象庁 午前6時10分から会見へ 屋久島町に土砂災害特別警報",
+    "playlistName": "9月5日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "鹿児島県屋久島町に「レベル5土砂災害特別警報」を発表したことについて、気象庁は、午前6時10分から記者会見を開き、警戒点などについて説明することにしています。\n\n\n",
+  "dateModified": "2026-09-05T05:29:04+09:00",
+  "datePublished": "2026-09-05T05:29:04+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48264/20260905de48264_E0000003830_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48264/20260905de48264_E0000003830_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000682",
+      "name": "気象庁",
+      "display": true
+    },
+    {
+      "id": "E0000000587",
+      "name": "大雨情報",
+      "display": true
+    },
+    {
+      "id": "E0000000114",
+      "name": "気象",
+      "display": true
+    },
+    {
+      "id": "E0000000374",
+      "name": "鹿児島県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "鹿児島県屋久島町に「レベル5土砂災害特別警報」を発表したことについて、気象庁は、午前6時10分から記者会見を開き、警戒点などについて説明することにしています。\n\n\n",
+  "articleBody": "鹿児島県屋久島町に「レベル5土砂災害特別警報」を発表したことについて、気象庁は、午前6時10分から記者会見を開き、警戒点などについて説明することにしています。\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "鹿児島県屋久島町に「レベル5土砂災害特別警報」を発表したことについて、気象庁は、午前6時10分から記者会見を開き、警戒点などについて説明することにしています。\n",
+    "markedBody": "```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"001\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\n<div class=\"fs-wrap\">\n  <h2 class=\"freespace-title\">【ライブ配信】</h2>\n  <div class=\"video-player-fixed\">\n    <iframe src=\"https://news.web.nhk/n-data/conf/realtime/movie/player_rt20260809de42897_03.html\" title=\"NHKライブ配信\" allow=\"fullscreen\"></iframe>\n  </div>\n</div>\n</div>\n```\n\n```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"002\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\n<div class=\"fs-wrap\">\n  <h2 class=\"freespace-title\"></h2>\n  <div class=\"video-player-fixed\">\n    <iframe src=\"https://news.web.nhk/n-data/conf/realtime/movie/player_rt20260809de42897_04.html\" title=\"NHKライブ配信\" allow=\"fullscreen\"></iframe>\n  </div>\n</div>\n</div>\n```\n",
+    "noHtmlMarkedLead": "鹿児島県屋久島町に「レベル5土砂災害特別警報」を発表したことについて、気象庁は、午前6時10分から記者会見を開き、警戒点などについて説明することにしています。\n",
+    "trimmedLead": "鹿児島県屋久島町に「レベル5土砂災害特別警報」を発表したことについて、気象庁は、午前6時10分から記者会見を開き、警戒点などについて説明することにしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260905de48264.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260905de48264",
+  "video": [],
+  "citation": [
+    {
+      "name": "鹿児島 屋久島町に土砂災害特別警報 命が助かる行動を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260905de48258",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48258/20260905de48258_E0000024994_1_s.jpg",
+      "datePublished": "2026-09-05T05:35:53+09:00"
+    },
+    {
+      "name": "インフルエンザ患者数 前週比1.6倍に増加“基本的な対策を”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48171",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48171/20260904de48171_E0000023976_1_s.jpg",
+      "datePublished": "2026-09-04T19:54:54+09:00"
+    },
+    {
+      "name": "米雇用統計 8月の就業者は前月比増加 市場予想を大きく上回る",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48240",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48240/20260904de48240_E0000024577_1_s.jpg",
+      "datePublished": "2026-09-05T00:41:53+09:00"
+    },
+    {
+      "name": "来年度予算案の概算要求 過去最大に 総額143兆656億円",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48100",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48100/20260904de48100_E0000003836_1_s.jpg",
+      "datePublished": "2026-09-04T18:02:20+09:00"
+    },
+    {
+      "name": "【動画】ネパール土石流 2人救助 発災から9日後 その瞬間",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48070",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48070/20260904de48070_E0000024513_1_s.jpg",
+      "datePublished": "2026-09-04T21:59:27+09:00"
+    },
+    {
+      "name": "証言「トクリュウに関わりそうに」 “身近な存在”からの誘い",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48185",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48185/20260904de48185_E0000024045_1_s.jpg",
+      "datePublished": "2026-09-04T18:49:00+09:00"
+    },
+    {
+      "name": "米 ホワイトハウスがMAGAゲームサイト公開 批判の声も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48170",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48170/20260904de48170_E0000023973_1_s.jpg",
+      "datePublished": "2026-09-04T15:54:45+09:00"
+    },
+    {
+      "name": "ICC＝国際刑事裁判所“解体論”が広げる波紋",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47925",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47925/20260903de47925_E0000022460_1_s.jpg",
+      "datePublished": "2026-09-03T16:40:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": true
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260905de48261",
+  "dataSourceId": "nd",
+  "name": "インドネシア付近で大規模噴火 日本への津波の有無調査 気象庁",
+  "headline": "インドネシア付近で大規模噴火 日本への津波の有無調査 気象庁",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260905de48261",
+    "playlistId": "news-nwa-disaster-nationwide-20260905",
+    "newsarticleName": "インドネシア付近で大規模噴火 日本への津波の有無調査 気象庁",
+    "playlistName": "9月5日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "気象庁によりますと、日本時間の5日午前2時50分ごろ、インドネシアのクラカタウ火山で大規模な噴火が発生しました。\n\n\n気象庁は、今回の噴火による日本への津波の有無について調べています。\n\n大規模な噴火",
+  "dateModified": "2026-09-05T04:15:00+09:00",
+  "datePublished": "2026-09-05T04:15:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48261/20260905de48261_E0000024999_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48261/20260905de48261_E0000024999_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000592",
+      "name": "火山・噴火",
+      "display": true
+    },
+    {
+      "id": "E0000000416",
+      "name": "インドネシア",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "気象庁によりますと、日本時間の5日午前2時50分ごろ、インドネシアのクラカタウ火山で大規模な噴火が発生しました。\n\n\n気象庁は、今回の噴火による日本への津波の有無について調べています。\n\n大規模な噴火",
+  "articleBody": "気象庁によりますと、日本時間の5日午前2時50分ごろ、インドネシアのクラカタウ火山で大規模な噴火が発生しました。\n\n\n気象庁は、今回の噴火による日本への津波の有無について調べています。\n\n大規模な噴火が起きると、地震による津波と異なり、気圧の急激な変化によって潮位が上昇することがあります。\n\n今回の噴火で津波が発生した場合、日本国内で到達が予想されるのは、早いところで沖縄県で5日午前6時ごろです。\n\n今後の情報に注意してください。\n",
+  "detailedArticleBody": {
+    "markedLead": "気象庁によりますと、日本時間の5日午前2時50分ごろ、インドネシアのクラカタウ火山で大規模な噴火が発生しました。\n",
+    "markedBody": "気象庁は、今回の噴火による日本への津波の有無について調べています。\n\n大規模な噴火が起きると、地震による津波と異なり、気圧の急激な変化によって潮位が上昇することがあります。\n\n今回の噴火で津波が発生した場合、日本国内で到達が予想されるのは、早いところで沖縄県で5日午前6時ごろです。\n\n今後の情報に注意してください。\n",
+    "trimmedLead": "気象庁によりますと、日本時間の5日午前2時50分ごろ、インドネシアのクラカタウ火山で大規模な噴火が発生しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260905de48261.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260905de48261",
+  "video": [],
+  "citation": [
+    {
+      "name": "鹿児島 種子島・屋久島地方で線状降水帯発生 厳重警戒【中継】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de48057",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de48057/20260903de48057_E0000024514_1_s.jpg",
+      "datePublished": "2026-09-05T01:05:57+09:00"
+    },
+    {
+      "name": "インフルエンザ患者数 前週比1.6倍に増加“基本的な対策を”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48171",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48171/20260904de48171_E0000023976_1_s.jpg",
+      "datePublished": "2026-09-04T19:54:54+09:00"
+    },
+    {
+      "name": "来年度予算案の概算要求 過去最大に 総額143兆656億円",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48100",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48100/20260904de48100_E0000003836_1_s.jpg",
+      "datePublished": "2026-09-04T18:02:20+09:00"
+    },
+    {
+      "name": "【動画】ネパール土石流 2人救助 発災から9日後 その瞬間",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48070",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48070/20260904de48070_E0000024513_1_s.jpg",
+      "datePublished": "2026-09-04T21:59:27+09:00"
+    },
+    {
+      "name": "地域のガソリンスタンド維持へ 重点支援の仕組み検討 経産省　",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48158",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48158/20260904de48158_E0000023936_1_s.jpg",
+      "datePublished": "2026-09-04T20:14:08+09:00"
+    },
+    {
+      "name": "証言「トクリュウに関わりそうに」 “身近な存在”からの誘い",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48185",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48185/20260904de48185_E0000024045_1_s.jpg",
+      "datePublished": "2026-09-04T18:49:00+09:00"
+    },
+    {
+      "name": "ニデック 品質不正で調査委員会が報告書 会社が会見",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48126",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48126/20260904de48126_E0000024032_1_s.jpg",
+      "datePublished": "2026-09-04T19:38:43+09:00"
+    },
+    {
+      "name": "米 ホワイトハウスがMAGAゲームサイト公開 批判の声も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48170",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48170/20260904de48170_E0000023973_1_s.jpg",
+      "datePublished": "2026-09-04T15:54:45+09:00"
+    },
+    {
+      "name": "イグ・ノーベル賞で日本「鼻のかみ方」研究が医学賞を受賞",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48062",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48062/20260904de48062_E0000023701_1_s.jpg",
+      "datePublished": "2026-09-04T03:09:00+09:00"
+    },
+    {
+      "name": "ICC＝国際刑事裁判所“解体論”が広げる波紋",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47925",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47925/20260903de47925_E0000022460_1_s.jpg",
+      "datePublished": "2026-09-03T16:40:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
