@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260905de48314",
+  "dataSourceId": "nd",
+  "name": "ブルージェイズ 岡本和真 1安打1打点 チームは3連勝",
+  "headline": "ブルージェイズ 岡本和真 1安打1打点 チームは3連勝",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260905de48314",
+    "playlistId": "news-nwa-sports-nationwide-20260905",
+    "newsarticleName": "ブルージェイズ 岡本和真 1安打1打点 チームは3連勝",
+    "playlistName": "9月5日のスポーツニュース",
+    "genreId": "sports",
+    "genreIdSlug": "sports"
+  },
+  "description": "大リーグ、ブルージェイズの岡本和真選手はロイヤルズ戦でタイムリーヒットを打ち、3試合ぶりに打点をあげてチームの3連勝に貢献しました。\n\n\nブルージェイズは4日、相手の本拠地カンザスシティーでロイヤルズ",
+  "dateModified": "2026-09-05T15:07:56+09:00",
+  "datePublished": "2026-09-05T15:07:56+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48314/20260905de48314_E0000025139_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48314/20260905de48314_E0000025139_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "スポーツ"
+  ],
+  "topic": [
+    {
+      "id": "E0000000735",
+      "name": "岡本和真",
+      "display": true
+    },
+    {
+      "id": "E0000000104",
+      "name": "大リーグ",
+      "display": true
+    },
+    {
+      "id": "E0000000213",
+      "name": "野球",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "大リーグ、ブルージェイズの岡本和真選手はロイヤルズ戦でタイムリーヒットを打ち、3試合ぶりに打点をあげてチームの3連勝に貢献しました。\n\n\nブルージェイズは4日、相手の本拠地カンザスシティーでロイヤルズ",
+  "articleBody": "大リーグ、ブルージェイズの岡本和真選手はロイヤルズ戦でタイムリーヒットを打ち、3試合ぶりに打点をあげてチームの3連勝に貢献しました。\n\n\nブルージェイズは4日、相手の本拠地カンザスシティーでロイヤルズと対戦し、岡本選手は5番・サードで出場しました。\n\n1回の第1打席は、1点を先制し、なお1アウト一塁三塁の場面でチェンジアップをレフト前に運んでタイムリーヒットを打ちました。\n\n3試合ぶりの打点でリードを2点に広げました。\n\n2回の第2打席は2アウト二塁三塁と追加点のチャンスでサードゴロに倒れました。\n\n第3打席はセカンドフライ、第4打席は空振りの三振、第5打席は見逃しの三振でした。\n\n岡本選手はこの試合、5打数1安打1打点、三振2つで、打率は2割2分7厘です。\n\nブルージェイズは9対2で勝ち、3連勝で勝率を5割に戻しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "大リーグ、ブルージェイズの岡本和真選手はロイヤルズ戦でタイムリーヒットを打ち、3試合ぶりに打点をあげてチームの3連勝に貢献しました。\n",
+    "markedBody": "ブルージェイズは4日、相手の本拠地カンザスシティーでロイヤルズと対戦し、岡本選手は5番・サードで出場しました。\n\n1回の第1打席は、1点を先制し、なお1アウト一塁三塁の場面でチェンジアップをレフト前に運んでタイムリーヒットを打ちました。\n\n3試合ぶりの打点でリードを2点に広げました。\n\n2回の第2打席は2アウト二塁三塁と追加点のチャンスでサードゴロに倒れました。\n\n第3打席はセカンドフライ、第4打席は空振りの三振、第5打席は見逃しの三振でした。\n\n岡本選手はこの試合、5打数1安打1打点、三振2つで、打率は2割2分7厘です。\n\nブルージェイズは9対2で勝ち、3連勝で勝率を5割に戻しました。\n",
+    "trimmedLead": "大リーグ、ブルージェイズの岡本和真選手はロイヤルズ戦でタイムリーヒットを打ち、3試合ぶりに打点をあげてチームの3連勝に貢献しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260905de48314.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260905de48314",
+  "video": [],
+  "citation": [
+    {
+      "name": "大谷翔平 2日連続で先発外れる さらに数日休養の可能性も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260905de48283",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48283/20260905de48283_E0000025138_1_s.jpg",
+      "datePublished": "2026-09-05T13:09:00+09:00"
+    },
+    {
+      "name": "カブス 今永昇太 7回途中1失点で9勝目 鈴木誠也はノーヒット",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260905de48300",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48300/20260905de48300_E0000025099_1_s.jpg",
+      "datePublished": "2026-09-05T13:34:51+09:00"
+    },
+    {
+      "name": "メッツ 千賀滉大 9回から登板 4試合連続無失点",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260905de48301",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48301/20260905de48301_E0000025110_1_s.jpg",
+      "datePublished": "2026-09-05T13:33:38+09:00"
+    },
+    {
+      "name": "ホワイトソックス村上 2試合連続無安打 チームは連敗ストップ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260905de48294",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48294/20260905de48294_E0000025079_1_s.jpg",
+      "datePublished": "2026-09-05T12:52:00+09:00"
+    },
+    {
+      "name": "ロッテ一筋19年 37歳の唐川侑己が今季かぎりで引退へ プロ野球",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48153",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48153/20260904de48153_E0000023925_1_s.jpg",
+      "datePublished": "2026-09-04T14:52:03+09:00"
+    },
+    {
+      "name": "【プロ野球結果】セ・リーグ2位の巨人 広島に競り勝つ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48236",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48236/20260904de48236_E0000024592_1_s.jpg",
+      "datePublished": "2026-09-05T09:01:30+09:00"
+    },
+    {
+      "name": "大相撲 秋場所稽古総見 横綱昇進に挑む大関 霧島が精力的",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48134",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48134/20260904de48134_E0000023892_1_s.jpg",
+      "datePublished": "2026-09-04T14:05:07+09:00"
+    },
+    {
+      "name": "バスケットボール女子W杯 日本が1次リーグ初戦勝利",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48239",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48239/20260904de48239_E0000004053_1_s.jpg",
+      "datePublished": "2026-09-04T22:58:20+09:00"
+    },
+    {
+      "name": "競泳 村佐達也 男子100m自由形で日本新記録",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48246",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48246/20260904de48246_E0000024588_1_s.jpg",
+      "datePublished": "2026-09-05T00:01:38+09:00"
+    },
+    {
+      "name": "故郷が教えてくれた“立ち向かう”力 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46667",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46667/20260827de46667_E0000018232_1_s.jpg",
+      "datePublished": "2026-08-30T16:54:54+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
