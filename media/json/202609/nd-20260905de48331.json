@@ -1,0 +1,167 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260905de48331",
+  "dataSourceId": "nd",
+  "name": "鳥取 岩美町 10代の男性3人海に流され 1人行方不明",
+  "headline": "鳥取 岩美町 10代の男性3人海に流され 1人行方不明",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260905de48331",
+    "playlistId": "news-nwa-society-nationwide-20260905",
+    "newsarticleName": "鳥取 岩美町 10代の男性3人海に流され 1人行方不明",
+    "playlistName": "9月5日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "5日午後、鳥取県岩美町で、3人が海に流され、このうち1人の行方が分からないということです。警察によりますと3人は10代の男性だということで、消防や警察などが行方のわからなくなっている男性を捜しています",
+  "dateModified": "2026-09-05T18:03:00+09:00",
+  "datePublished": "2026-09-05T18:03:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48331/20260905de48331_E0000025164_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48331/20260905de48331_E0000025164_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000359",
+      "name": "鳥取県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "5日午後、鳥取県岩美町で、3人が海に流され、このうち1人の行方が分からないということです。警察によりますと3人は10代の男性だということで、消防や警察などが行方のわからなくなっている男性を捜しています",
+  "articleBody": "5日午後、鳥取県岩美町で、3人が海に流され、このうち1人の行方が分からないということです。警察によりますと3人は10代の男性だということで、消防や警察などが行方のわからなくなっている男性を捜しています。\n\n\n消防によりますと、5日午後4時前、鳥取県岩美町の海岸で、「3人が海に流された」と一緒にいた友人から通報がありました。\n\n3人のうち2人は救助されるなどしていずれも意識はあるということですが、残りの1人は行方が分かっておらず、消防や警察などが捜索を続けています。\n\n警察によりますと、3人はいずれも10代の男性だということです。\n\n現場の海岸は夏場は海水浴場として開設されていますが、現在は開設期間が終わっているということです。\n\n海上保安部によりますと、当時、波の高さは1メートルほどでうねりがあったということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "5日午後、鳥取県岩美町で、3人が海に流され、このうち1人の行方が分からないということです。警察によりますと3人は10代の男性だということで、消防や警察などが行方のわからなくなっている男性を捜しています。\n",
+    "markedBody": "![](https://img.web.nhk/news/nd/kiji/20260905de48331/20260905de48331_E0000025165_1_l.jpg)\n\n消防によりますと、5日午後4時前、鳥取県岩美町の海岸で、「3人が海に流された」と一緒にいた友人から通報がありました。\n\n3人のうち2人は救助されるなどしていずれも意識はあるということですが、残りの1人は行方が分かっておらず、消防や警察などが捜索を続けています。\n\n警察によりますと、3人はいずれも10代の男性だということです。\n\n現場の海岸は夏場は海水浴場として開設されていますが、現在は開設期間が終わっているということです。\n\n海上保安部によりますと、当時、波の高さは1メートルほどでうねりがあったということです。\n",
+    "trimmedLead": "5日午後、鳥取県岩美町で、3人が海に流され、このうち1人の行方が分からないということです。警察によりますと3人は10代の男性だということで、消防や警察などが行方のわからなくなっている男性を捜しています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260905de48331.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260905de48331",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "鳥取 岩美町 10代の男性3人海に流され 1人行方不明",
+      "description": "5日午後、鳥取県岩美町で、3人が海に流され、このうち1人の行方が分からないということです。警察によりますと3人は10代の男性だということで、消防や警察などが行方のわからなくなっている男性を捜しています",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20260905de48331_E0000025197_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20260905de48331/20260905de48331_E0000025164_1_l.jpg",
+      "duration": "PT34S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20260905de48331_E0000025197_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48331/20260905de48331_E0000025164_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "「水の事故」に注意！ どう備える",
+      "url": "https://news.web.nhk/newsweb/sp/pl/editorial-nwa-0000000527",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00404_E0000003441_1_s.jpg"
+    },
+    {
+      "name": "台風24号 秋雨前線 熱帯低気圧 大雨続くおそれ 今後の見通しは",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260905de48255",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48255/20260905de48255_E0000025075_1_s.jpg",
+      "datePublished": "2026-09-05T19:03:29+09:00"
+    },
+    {
+      "name": "鹿児島 屋久島町 レベル5土砂災害特別警報 危険警報に切り替え",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260905de48287",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48287/20260905de48287_E0000003985_1_s.jpg",
+      "datePublished": "2026-09-05T19:18:29+09:00"
+    },
+    {
+      "name": "星新一さん自筆のSFみつかる 初期の未発表作品か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260905de48277",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48277/20260905de48277_E0000025043_1_s.jpg",
+      "datePublished": "2026-09-05T12:31:00+09:00"
+    },
+    {
+      "name": "訪米中の赤澤経産相 関税措置めぐり“去年の日米合意は不変”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260905de48275",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48275/20260905de48275_E0000025008_1_s.jpg",
+      "datePublished": "2026-09-05T09:08:00+09:00"
+    },
+    {
+      "name": "フランスで猛暑続く 暑さ関連とみられる死者7000人に　　",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260905de48267",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48267/20260905de48267_E0000025047_1_s.jpg",
+      "datePublished": "2026-09-05T10:34:00+09:00"
+    },
+    {
+      "name": "ベネチア国際映画祭 塚本晋也監督の映画が公式上映",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260905de48291",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48291/20260905de48291_E0000025067_1_s.jpg",
+      "datePublished": "2026-09-05T12:45:55+09:00"
+    },
+    {
+      "name": "国連総会“メルカトル図法ではない図法を推奨”決議を採択",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260905de48269",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48269/20260905de48269_E0000025022_1_s.jpg",
+      "datePublished": "2026-09-05T07:55:00+09:00"
+    },
+    {
+      "name": "わたしは洗脳されていた 1億円失った男性が明かす悪夢の日々",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260831de47353",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47353/20260831de47353_E0000023762_1_s.jpg",
+      "datePublished": "2026-09-04T17:33:15+09:00"
+    },
+    {
+      "name": "“異動先”は建設現場 AI時代の配置転換",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260826de46465",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46465/20260826de46465_E0000023505_1_s.jpg",
+      "datePublished": "2026-09-04T11:55:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
