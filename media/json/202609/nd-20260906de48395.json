@@ -1,0 +1,158 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260906de48395",
+  "dataSourceId": "nd",
+  "name": "東京 伊豆諸島南部に「線状降水帯直前予測」",
+  "headline": "東京 伊豆諸島南部に「線状降水帯直前予測」",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260906de48395",
+    "playlistId": "news-nwa-disaster-nationwide-20260906",
+    "newsarticleName": "東京 伊豆諸島南部に「線状降水帯直前予測」",
+    "playlistName": "9月6日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "気象庁は東京の伊豆諸島南部では今後3時間以内に線状降水帯が発生する可能性が高まっているとして、午前7時8分、「線状降水帯直前予測」の気象防災速報を発表しました。\n\n「線状降水帯」は発達した積乱雲が連な",
+  "dateModified": "2026-09-06T07:17:00+09:00",
+  "datePublished": "2026-09-06T07:17:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48395/20260906de48395_E0000003982_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48395/20260906de48395_E0000003982_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000587",
+      "name": "大雨情報",
+      "display": true
+    },
+    {
+      "id": "E0000000341",
+      "name": "東京都",
+      "display": true
+    },
+    {
+      "id": "E0000000114",
+      "name": "気象",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "気象庁は東京の伊豆諸島南部では今後3時間以内に線状降水帯が発生する可能性が高まっているとして、午前7時8分、「線状降水帯直前予測」の気象防災速報を発表しました。\n\n「線状降水帯」は発達した積乱雲が連な",
+  "articleBody": "気象庁は東京の伊豆諸島南部では今後3時間以内に線状降水帯が発生する可能性が高まっているとして、午前7時8分、「線状降水帯直前予測」の気象防災速報を発表しました。\n\n「線状降水帯」は発達した積乱雲が連なって大雨をもたらす現象で、伊豆諸島南部では非常に激しい雨が降り続いて、命に危険が及ぶ土砂災害や洪水が発生する危険性が急激に高まる可能性があります。\n\n気象庁は、崖や川の近くなどにいる人は自治体からの避難の情報や周囲の状況を確認するよう呼びかけています。\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "気象庁は東京の伊豆諸島南部では今後3時間以内に線状降水帯が発生する可能性が高まっているとして、午前7時8分、「線状降水帯直前予測」の気象防災速報を発表しました。\n\n「線状降水帯」は発達した積乱雲が連なって大雨をもたらす現象で、伊豆諸島南部では非常に激しい雨が降り続いて、命に危険が及ぶ土砂災害や洪水が発生する危険性が急激に高まる可能性があります。\n\n気象庁は、崖や川の近くなどにいる人は自治体からの避難の情報や周囲の状況を確認するよう呼びかけています。\n",
+    "markedBody": "```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"001\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\n    <div class=\"fs-wrap\">\n      <figure>\n        <img src=\"https://news.web.nhk/n-data/dn/124050.jpg\" width=\"640\" height=\"360\" alt=\"\">\n      </figure>\n    </div>\n</div>\n```\n\n```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"002\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\n    <div class=\"fs-wrap\">\n      <h2 class=\"freespace-title\">雨雲レーダー</h2>\n\n      <a href=\"https://news.web.nhk/bousai-map/rain/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"tenkiBousaiMap-fullscreenBtn\">全画面でマップを見る</a>\n\n      <div class=\"tenkiBousaiMap-wrap\">\n        <iframe src=\"https://news.web.nhk/bousai-map/rain/?lat=36.3562&amp;lng=138.0922&amp;zoom=3.2&amp;mapMenu=off&amp;help=off&amp;hinan=off&amp;disableUserLocation=on\" allowfullscreen=\"allowfullscreen\" scrolling=\"no\" class=\"js-iframe-dataMap\"></iframe>\n      </div>\n    </div>\n</div>\n```\n",
+    "noHtmlMarkedLead": "気象庁は東京の伊豆諸島南部では今後3時間以内に線状降水帯が発生する可能性が高まっているとして、午前7時8分、「線状降水帯直前予測」の気象防災速報を発表しました。\n\n「線状降水帯」は発達した積乱雲が連なって大雨をもたらす現象で、伊豆諸島南部では非常に激しい雨が降り続いて、命に危険が及ぶ土砂災害や洪水が発生する危険性が急激に高まる可能性があります。\n\n気象庁は、崖や川の近くなどにいる人は自治体からの避難の情報や周囲の状況を確認するよう呼びかけています。\n",
+    "trimmedLead": "気象庁は東京の伊豆諸島南部では今後3時間以内に線状降水帯が発生する可能性が高まっているとして、午前7時8分、「線状降水帯直前予測」の気象防災速報を発表しました。\n\n「線状降水帯」は発達した積乱雲が連なって大雨をもたらす現象で、伊豆諸島南部では非常に激しい雨が降り続いて、命に危険が及ぶ土砂災害や洪水が発生する危険性が急激に高まる可能性があります。\n\n気象庁は、崖や川の近くなどにいる人は自治体からの避難の情報や周囲の状況を確認するよう呼びかけています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260906de48395.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260906de48395",
+  "video": [],
+  "citation": [
+    {
+      "name": "西日本～東北の太平洋側中心に大雨 10日まで続くおそれも",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260906de48377",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48377/20260906de48377_E0000025311_1_s.jpg",
+      "datePublished": "2026-09-06T09:19:46+09:00"
+    },
+    {
+      "name": "東京 八丈町に記録的短時間大雨の気象防災速報",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260906de48392",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48392/20260906de48392_E0000025326_1_s.jpg",
+      "datePublished": "2026-09-06T09:15:05+09:00"
+    },
+    {
+      "name": "新たな防災気象情報 今月28日から発表開始 どう変わる？",
+      "url": "https://news.web.nhk/newsweb/na/nc-98559dc0-ace2-4a67-8a39-690465aa4aae",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00390_E0000003423_1_s.jpg"
+    },
+    {
+      "name": "土砂災害 警戒や避難のポイントは？",
+      "url": "https://news.web.nhk/newsweb/na/nc-d921faff-fdcd-4223-b396-f948340c5c1c",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00016_E0000001588_1_s.jpg"
+    },
+    {
+      "name": "川の氾濫 警戒のポイントは？",
+      "url": "https://news.web.nhk/newsweb/na/nc-1c290155-b464-4391-95b8-2f9687fa1f25",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00015_E0000001586_1_s.jpg"
+    },
+    {
+      "name": "天気防災マップ ふだんの雨雲予想から災害時のリスク情報まで",
+      "url": "https://news.web.nhk/bousai-map/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00366_E0000003397_1_s.jpg"
+    },
+    {
+      "name": "災害に遭う前に ハザードマップで危険を知る",
+      "url": "https://news.web.nhk/newsweb/na/nc-0c2dd9e1-562b-4711-a450-663274ad5d6c",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00014_E0000001585_1_s.jpg"
+    },
+    {
+      "name": "【最新の避難情報】こちらから地域別でご覧になれます",
+      "url": "https://news.web.nhk/kishou-saigai/evacuation/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00211_E0000003212_1_s.jpg"
+    },
+    {
+      "name": "【最新の河川情報】こちらから一覧でご覧になれます",
+      "url": "https://news.web.nhk/kishou-saigai/river/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00212_E0000003213_1_s.jpg"
+    },
+    {
+      "name": "【気象警報・注意報】各地の発表状況を詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/warning/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00266_E0000003278_1_s.jpg"
+    },
+    {
+      "name": "線状降水帯とは？情報が出たらどうする？",
+      "url": "https://news.web.nhk/newsweb/na/nc-5092b435-f5e7-4767-a457-1c7aac190df9",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00149_E0000003428_1_s.jpg"
+    },
+    {
+      "name": "「記録的短時間大雨」とは? どう身を守る?",
+      "url": "https://news.web.nhk/newsweb/na/nc-2cb59e60-dc2e-4535-a3f0-9c825e2e34a8",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00054_E0000003430_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": true
+  }
+}

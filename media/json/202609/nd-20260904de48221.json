@@ -1,0 +1,149 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260904de48221",
+  "dataSourceId": "nd",
+  "name": "JR首都圏在来線 6日夜から7日にかけて運休や遅れの可能性",
+  "headline": "JR首都圏在来線 6日夜から7日にかけて運休や遅れの可能性",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260904de48221",
+    "playlistId": "news-nwa-society-nationwide-20260906",
+    "newsarticleName": "JR首都圏在来線 6日夜から7日にかけて運休や遅れの可能性",
+    "playlistName": "9月6日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "JR東日本によりますと、前線や台風による大雨の影響で、首都圏の在来線は6日、日曜日の夜から7日の月曜日にかけて、運休や遅れが発生する可能性があるということです。\n\n詳しい運転計画は決まり次第、発表する",
+  "dateModified": "2026-09-06T05:31:00+09:00",
+  "datePublished": "2026-09-04T21:06:33+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48221/20260904de48221_E0000024560_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48221/20260904de48221_E0000024560_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000481",
+      "name": "鉄道",
+      "display": true
+    },
+    {
+      "id": "E0000000651",
+      "name": "交通・インフラ",
+      "display": true
+    },
+    {
+      "id": "E0000000587",
+      "name": "大雨情報",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "JR東日本によりますと、前線や台風による大雨の影響で、首都圏の在来線は6日、日曜日の夜から7日の月曜日にかけて、運休や遅れが発生する可能性があるということです。\n\n詳しい運転計画は決まり次第、発表する",
+  "articleBody": "JR東日本によりますと、前線や台風による大雨の影響で、首都圏の在来線は6日、日曜日の夜から7日の月曜日にかけて、運休や遅れが発生する可能性があるということです。\n\n詳しい運転計画は決まり次第、発表するということで、JR東日本はホームページなどで最新の情報に注意するよう呼びかけています。\n\n\n鉄道運行情報\n\n鉄道運行情報\n最新の鉄道運行情報はこちらのページでご確認ください\n",
+  "detailedArticleBody": {
+    "markedLead": "JR東日本によりますと、前線や台風による大雨の影響で、首都圏の在来線は6日、日曜日の夜から7日の月曜日にかけて、運休や遅れが発生する可能性があるということです。\n\n詳しい運転計画は決まり次第、発表するということで、JR東日本はホームページなどで最新の情報に注意するよう呼びかけています。\n",
+    "markedBody": ":::nw--link-type4 {href=https://news.web.nhk/news/traffic/}\n![鉄道運行情報](https://img.web.nhk/news/nd/kiji/20260904de48221/20260904de48221_E0000003917_1_l.jpg)\n\n**鉄道運行情報**\\\n最新の鉄道運行情報はこちらのページでご確認ください\n:::\n",
+    "trimmedLead": "JR東日本によりますと、前線や台風による大雨の影響で、首都圏の在来線は6日、日曜日の夜から7日の月曜日にかけて、運休や遅れが発生する可能性があるということです。\n\n詳しい運転計画は決まり次第、発表するということで、JR東日本はホームページなどで最新の情報に注意するよう呼びかけています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260904de48221.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260904de48221",
+  "video": [],
+  "citation": [
+    {
+      "name": "台風24号 秋雨前線 熱帯低気圧 大雨続くおそれ 今後の見通しは",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260905de48255",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48255/20260905de48255_E0000025241_1_s.jpg",
+      "datePublished": "2026-09-06T09:13:49+09:00"
+    },
+    {
+      "name": "内閣改造 片山財務相 茂木外相 小泉防衛相 留任の方向で調整",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260905de48338",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48338/20260905de48338_E0000025250_1_s.jpg",
+      "datePublished": "2026-09-06T09:19:30+09:00"
+    },
+    {
+      "name": "ネパール土石流 トンネルからさらに1人救助 住宅から女性1人も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260905de48334",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48334/20260905de48334_E0000025216_1_s.jpg",
+      "datePublished": "2026-09-05T22:23:44+09:00"
+    },
+    {
+      "name": "鳥取 岩美町 10代の男性3人海に流され 1人行方不明",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260905de48331",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48331/20260905de48331_E0000025164_1_s.jpg",
+      "datePublished": "2026-09-05T18:03:00+09:00"
+    },
+    {
+      "name": "星新一さん自筆のSFみつかる 初期の未発表作品か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260905de48277",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48277/20260905de48277_E0000025043_1_s.jpg",
+      "datePublished": "2026-09-05T12:31:00+09:00"
+    },
+    {
+      "name": "文化祭の高校でスプレー噴射 教員2人けが 盗撮行為していたか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260905de48332",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48332/20260905de48332_E0000025129_1_s.jpg",
+      "datePublished": "2026-09-05T17:23:26+09:00"
+    },
+    {
+      "name": "ドイツ東部で6日に州議会選挙「極右」第1党か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260905de48322",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48322/20260905de48322_E0000025195_1_s.jpg",
+      "datePublished": "2026-09-05T18:29:00+09:00"
+    },
+    {
+      "name": "長期金利上昇 私たちの暮らしや経済への影響は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260905de48324",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48324/20260905de48324_E0000025182_1_s.jpg",
+      "datePublished": "2026-09-05T20:09:00+09:00"
+    },
+    {
+      "name": "SNSで関心高まる沖縄県知事選 YouTube動画を分析すると…",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47963",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47963/20260903de47963_E0000024453_1_s.jpg",
+      "datePublished": "2026-09-05T17:30:39+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

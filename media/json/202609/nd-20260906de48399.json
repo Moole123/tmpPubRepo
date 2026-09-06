@@ -1,0 +1,161 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260906de48399",
+  "dataSourceId": "nd",
+  "name": "【伊豆諸島南部 大雨警戒】各地の状況は ライブ配信中",
+  "headline": "【伊豆諸島南部 大雨警戒】各地の状況は ライブ配信中",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260906de48399",
+    "playlistId": "news-nwa-disaster-nationwide-20260906",
+    "newsarticleName": "【伊豆諸島南部 大雨警戒】各地の状況は ライブ配信中",
+    "playlistName": "9月6日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "大雨となっている各地の状況をライブ配信でお伝えしています。\n\n\n",
+  "dateModified": "2026-09-06T09:08:00+09:00",
+  "datePublished": "2026-09-06T09:08:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48399/20260906de48399_E0000025328_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48399/20260906de48399_E0000025328_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000587",
+      "name": "大雨情報",
+      "display": true
+    },
+    {
+      "id": "E0000000114",
+      "name": "気象",
+      "display": true
+    },
+    {
+      "id": "E0000000341",
+      "name": "東京都",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "大雨となっている各地の状況をライブ配信でお伝えしています。\n\n\n",
+  "articleBody": "大雨となっている各地の状況をライブ配信でお伝えしています。\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "大雨となっている各地の状況をライブ配信でお伝えしています。\n",
+    "markedBody": "```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"001\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\n<div class=\"fs-wrap\">\n  <h2 class=\"freespace-title\">【ライブ配信中】</h2>\n  <div class=\"video-player-fixed\">\n    <iframe src=\"https://news.web.nhk/n-data/conf/realtime/movie/player_rt20260903de48043_07.html\" title=\"NHKライブ配信\" allow=\"fullscreen\"></iframe>\n  </div>\n</div>\n</div>\n```\n",
+    "noHtmlMarkedLead": "大雨となっている各地の状況をライブ配信でお伝えしています。\n",
+    "trimmedLead": "大雨となっている各地の状況をライブ配信でお伝えしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260906de48399.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260906de48399",
+  "video": [],
+  "citation": [
+    {
+      "name": "新たな防災気象情報 今月28日から発表開始 どう変わる？",
+      "url": "https://news.web.nhk/newsweb/na/nc-98559dc0-ace2-4a67-8a39-690465aa4aae",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00390_E0000003423_1_s.jpg"
+    },
+    {
+      "name": "土砂災害 警戒や避難のポイントは？",
+      "url": "https://news.web.nhk/newsweb/na/nc-d921faff-fdcd-4223-b396-f948340c5c1c",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00016_E0000001588_1_s.jpg"
+    },
+    {
+      "name": "川の氾濫 警戒のポイントは？",
+      "url": "https://news.web.nhk/newsweb/na/nc-1c290155-b464-4391-95b8-2f9687fa1f25",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00015_E0000001586_1_s.jpg"
+    },
+    {
+      "name": "天気防災マップ ふだんの雨雲予想から災害時のリスク情報まで",
+      "url": "https://news.web.nhk/bousai-map/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00366_E0000003397_1_s.jpg"
+    },
+    {
+      "name": "災害に遭う前に ハザードマップで危険を知る",
+      "url": "https://news.web.nhk/newsweb/na/nc-0c2dd9e1-562b-4711-a450-663274ad5d6c",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00014_E0000001585_1_s.jpg"
+    },
+    {
+      "name": "【最新の避難情報】こちらから地域別でご覧になれます",
+      "url": "https://news.web.nhk/kishou-saigai/evacuation/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00211_E0000003212_1_s.jpg"
+    },
+    {
+      "name": "【最新の河川情報】こちらから一覧でご覧になれます",
+      "url": "https://news.web.nhk/kishou-saigai/river/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00212_E0000003213_1_s.jpg"
+    },
+    {
+      "name": "【気象警報・注意報】各地の発表状況を詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/warning/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00266_E0000003278_1_s.jpg"
+    },
+    {
+      "name": "線状降水帯とは？情報が出たらどうする？",
+      "url": "https://news.web.nhk/newsweb/na/nc-5092b435-f5e7-4767-a457-1c7aac190df9",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00149_E0000003428_1_s.jpg"
+    },
+    {
+      "name": "「記録的短時間大雨」とは? どう身を守る?",
+      "url": "https://news.web.nhk/newsweb/na/nc-2cb59e60-dc2e-4535-a3f0-9c825e2e34a8",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00054_E0000003430_1_s.jpg"
+    },
+    {
+      "name": "「命を守る行動を！」特別警報に緊急安全確保…どうすれば",
+      "url": "https://news.web.nhk/newsweb/na/nc-4206e8be-3c01-4ef5-943c-c5f2d8c343ae",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00033_E0000001589_1_s.jpg"
+    },
+    {
+      "name": "天気防災サイト あなたの街の天気予報や災害情報を即時提供",
+      "url": "https://news.web.nhk/kishou-saigai/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00367_E0000003399_1_s.jpg"
+    },
+    {
+      "name": "大雨 最新情報 雨雲レーダーは「NHK ONE ニュース・防災アプリ」で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014929581000",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00233_E0000003287_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": true
+  }
+}
