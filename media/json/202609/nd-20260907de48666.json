@@ -1,0 +1,151 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260907de48666",
+  "dataSourceId": "nd",
+  "name": "高市首相 「命守る行動最優先に」 SNSに投稿",
+  "headline": "高市首相 「命守る行動最優先に」 SNSに投稿",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260907de48666",
+    "playlistId": "news-nwa-politics-nationwide-20260907",
+    "newsarticleName": "高市首相 「命守る行動最優先に」 SNSに投稿",
+    "playlistName": "9月7日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "高市総理大臣は7日午前5時20分ごろ、SNSに投稿しました。\n\n\nこの中では、東京 伊豆諸島の新島村に「レベル5土砂災害特別警報」が発表されたことについて「土砂災害など何らかの災害がすでに発生している",
+  "dateModified": "2026-09-07T06:59:38+09:00",
+  "datePublished": "2026-09-07T06:59:38+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48666/20260907de48666_E0000025606_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48666/20260907de48666_E0000025606_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治",
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000114",
+      "name": "気象",
+      "display": true
+    },
+    {
+      "id": "E0000000640",
+      "name": "高市内閣",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "高市総理大臣は7日午前5時20分ごろ、SNSに投稿しました。\n\n\nこの中では、東京 伊豆諸島の新島村に「レベル5土砂災害特別警報」が発表されたことについて「土砂災害など何らかの災害がすでに発生している",
+  "articleBody": "高市総理大臣は7日午前5時20分ごろ、SNSに投稿しました。\n\n\nこの中では、東京 伊豆諸島の新島村に「レベル5土砂災害特別警報」が発表されたことについて「土砂災害など何らかの災害がすでに発生している可能性が極めて高い状況だ。命の危険が迫っているため、自治体の指示に従い、直ちに身の安全を確保してもらいたい。避難所までの移動がかえって危険な場合は無理をせず、今いる場所よりも少しでも安全な場所に移動するなど、命を守る行動を最優先してほしい」と呼びかけています。\n\nその上で「今後、ほかの市町村にも特別警報が発表される可能性がある。最新の防災気象情報に十分注意してもらいたい」としています。\n\nまた、政府として、総理大臣官邸の危機管理センターに設置した「官邸連絡室」で自治体と連携しながら危機管理の対応をとっていると説明しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "高市総理大臣は7日午前5時20分ごろ、SNSに投稿しました。\n",
+    "markedBody": "この中では、東京 伊豆諸島の新島村に「レベル5土砂災害特別警報」が発表されたことについて「土砂災害など何らかの災害がすでに発生している可能性が極めて高い状況だ。命の危険が迫っているため、自治体の指示に従い、直ちに身の安全を確保してもらいたい。避難所までの移動がかえって危険な場合は無理をせず、今いる場所よりも少しでも安全な場所に移動するなど、命を守る行動を最優先してほしい」と呼びかけています。\n\nその上で「今後、ほかの市町村にも特別警報が発表される可能性がある。最新の防災気象情報に十分注意してもらいたい」としています。\n\nまた、政府として、総理大臣官邸の危機管理センターに設置した「官邸連絡室」で自治体と連携しながら危機管理の対応をとっていると説明しています。\n",
+    "trimmedLead": "高市総理大臣は7日午前5時20分ごろ、SNSに投稿しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260907de48666.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260907de48666",
+  "video": [],
+  "citation": [
+    {
+      "name": "東京 新島村に土砂災害特別警報 伊豆諸島や関東南部で大雨",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260907de48631",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48631/20260907de48631_E0000025571_1_s.jpg",
+      "datePublished": "2026-09-07T06:52:56+09:00"
+    },
+    {
+      "name": "気象庁会見 東京 新島村に土砂災害特別警報",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260907de48645",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48645/20260907de48645_E0000025610_1_s.jpg",
+      "datePublished": "2026-09-07T07:12:48+09:00"
+    },
+    {
+      "name": "大雨交通影響 7日は山手線など本数減 運休区間も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260906de48452",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48452/20260906de48452_E0000025397_1_s.jpg",
+      "datePublished": "2026-09-07T06:50:57+09:00"
+    },
+    {
+      "name": "大雨影響 7日は臨時休校相次ぐ 東京23区の一部や横浜市など",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260906de48469",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48469/20260906de48469_E0000025490_1_s.jpg",
+      "datePublished": "2026-09-06T19:35:06+09:00"
+    },
+    {
+      "name": "【専門家QA】必要な情報確認と避難行動は？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de48021",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de48021/20260903de48021_E0000023616_1_s.jpg",
+      "datePublished": "2026-09-03T19:25:00+09:00"
+    },
+    {
+      "name": "岐阜 洋菓子店火事3人死亡「人が刺されガソリンまかれた」通報",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260906de48427",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48427/20260906de48427_E0000025361_1_s.jpg",
+      "datePublished": "2026-09-06T19:32:23+09:00"
+    },
+    {
+      "name": "国民民主党 代表選挙 玉木代表が再選",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260906de48450",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48450/20260906de48450_E0000025389_1_s.jpg",
+      "datePublished": "2026-09-06T19:35:28+09:00"
+    },
+    {
+      "name": "ネパール土石流 トンネルからさらに1人救助 住宅から女性1人も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260905de48334",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48334/20260905de48334_E0000025216_1_s.jpg",
+      "datePublished": "2026-09-05T22:23:44+09:00"
+    },
+    {
+      "name": "くら寿司 人気キャラ景品のキャンペーン 従業員が横領で中止に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260906de48460",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48460/20260906de48460_E0000025418_1_s.jpg",
+      "datePublished": "2026-09-06T16:33:55+09:00"
+    },
+    {
+      "name": "SNSで関心高まる沖縄県知事選 YouTube動画を分析すると…",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47963",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47963/20260903de47963_E0000024453_1_s.jpg",
+      "datePublished": "2026-09-05T17:30:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
