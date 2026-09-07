@@ -1,0 +1,154 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260907de48845",
+  "dataSourceId": "nd",
+  "name": "株価、値上がり　半導体関連の銘柄に買い注文",
+  "headline": "株価、値上がり　半導体関連の銘柄に買い注文",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260907de48845",
+    "playlistId": "news-nwa-business-nationwide-20260907",
+    "newsarticleName": "株価、値上がり　半導体関連の銘柄に買い注文",
+    "playlistName": "9月7日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "週明け7日の東京株式市場、半導体関連の銘柄を中心に買い注文が出て、株価は値上がりしました。\n\n\n日経平均株価、7日の終値は先週末と比べて1378円90銭高い、6万6399円84銭。\n東証株価指数、トピ",
+  "dateModified": "2026-09-07T19:23:06+09:00",
+  "datePublished": "2026-09-07T19:23:06+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48845/20260907de48845_E0000025903_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48845/20260907de48845_E0000025903_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "暮らし"
+  ],
+  "topic": [
+    {
+      "id": "E0000000157",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "E0000000475",
+      "name": "半導体",
+      "display": true
+    },
+    {
+      "id": "E0000000419",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "E0000000376",
+      "name": "韓国",
+      "display": true
+    },
+    {
+      "id": "E0000000725",
+      "name": "金利",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "週明け7日の東京株式市場、半導体関連の銘柄を中心に買い注文が出て、株価は値上がりしました。\n\n\n日経平均株価、7日の終値は先週末と比べて1378円90銭高い、6万6399円84銭。\n東証株価指数、トピ",
+  "articleBody": "週明け7日の東京株式市場、半導体関連の銘柄を中心に買い注文が出て、株価は値上がりしました。\n\n\n日経平均株価、7日の終値は先週末と比べて1378円90銭高い、6万6399円84銭。\n東証株価指数、トピックスは22.57上がって、4125.80。\n1日の出来高は20億2987万株でした。\n市場関係者は「半導体関連の銘柄は、アメリカだけでなく韓国の市場でも値上がりしていて、積極的な投資を進める心理的な支えとなっている。一方で、企業の調達コストに影響する長期金利の動向も注目されていて、取引時間中、金利が上昇すると株価の値上がり幅が縮小する場面もあった」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "週明け7日の東京株式市場、半導体関連の銘柄を中心に買い注文が出て、株価は値上がりしました。\n",
+    "markedBody": "日経平均株価、7日の終値は先週末と比べて1378円90銭高い、6万6399円84銭。\\\n東証株価指数、トピックスは22.57上がって、4125.80。\\\n1日の出来高は20億2987万株でした。\\\n市場関係者は「半導体関連の銘柄は、アメリカだけでなく韓国の市場でも値上がりしていて、積極的な投資を進める心理的な支えとなっている。一方で、企業の調達コストに影響する長期金利の動向も注目されていて、取引時間中、金利が上昇すると株価の値上がり幅が縮小する場面もあった」と話しています。\n",
+    "trimmedLead": "週明け7日の東京株式市場、半導体関連の銘柄を中心に買い注文が出て、株価は値上がりしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260907de48845.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260907de48845",
+  "video": [],
+  "citation": [
+    {
+      "name": "概算要求拡大 長期金利上昇で今後は？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260907de48745",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48745/20260907de48745_E0000025749_1_s.jpg",
+      "datePublished": "2026-09-07T15:52:58+09:00"
+    },
+    {
+      "name": "景気拡大 戦後最長の見方も 7月景気動向指数「改善」維持",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260907de48739",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48739/20260907de48739_E0000025953_1_s.jpg",
+      "datePublished": "2026-09-07T19:41:47+09:00"
+    },
+    {
+      "name": "【きょうのおはBiz 9月7日（月）】災害時の備え 企業が支援",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260907de48715",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48715/20260907de48715_E0000025669_1_s.jpg",
+      "datePublished": "2026-09-07T14:37:42+09:00"
+    },
+    {
+      "name": "キャッシュレス決済の“死角”「全東信」破綻の内幕",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260906de48454",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48454/20260906de48454_E0000025762_1_s.jpg",
+      "datePublished": "2026-09-07T16:37:00+09:00"
+    },
+    {
+      "name": "大島町 利島村 新島村に土砂災害特別警報 千葉県でも大雨に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260907de48631",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48631/20260907de48631_E0000026072_1_s.jpg",
+      "datePublished": "2026-09-08T00:08:37+09:00"
+    },
+    {
+      "name": "【被害】福島 いわき アンダーパスで水没した車の女性死亡　",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260907de48714",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48714/20260907de48714_E0000025872_1_s.jpg",
+      "datePublished": "2026-09-07T19:30:13+09:00"
+    },
+    {
+      "name": "【解説】車が浸水してしまったら…どうすれば? ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260907de48698",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48698/20260907de48698_E0000025658_1_s.jpg",
+      "datePublished": "2026-09-07T11:40:13+09:00"
+    },
+    {
+      "name": "「普通の人々が…」芥川賞作家がいま、関東大震災を描くわけ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48214",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48214/20260904de48214_E0000025704_1_s.jpg",
+      "datePublished": "2026-09-07T16:19:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
