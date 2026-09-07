@@ -1,0 +1,161 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260907de48732",
+  "dataSourceId": "nd",
+  "name": "日経平均株価 値上がり 米市場のハイテク銘柄上昇で",
+  "headline": "日経平均株価 値上がり 米市場のハイテク銘柄上昇で",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260907de48732",
+    "playlistId": "news-nwa-business-nationwide-20260907",
+    "newsarticleName": "日経平均株価 値上がり 米市場のハイテク銘柄上昇で",
+    "playlistName": "9月7日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "週明けの7日の東京株式市場、半導体関連の銘柄を中心に買い注文が広がり、日経平均株価は値上がりしています。\n\n\n日経平均株価、午前の終値は先週末の終値と比べて1439円17銭、高い6万6460円11銭。",
+  "dateModified": "2026-09-07T11:57:01+09:00",
+  "datePublished": "2026-09-07T11:14:26+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48732/20260907de48732_E0000025766_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48732/20260907de48732_E0000025766_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000157",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "E0000000477",
+      "name": "金融",
+      "display": true
+    },
+    {
+      "id": "E0000000419",
+      "name": "アメリカ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "週明けの7日の東京株式市場、半導体関連の銘柄を中心に買い注文が広がり、日経平均株価は値上がりしています。\n\n\n日経平均株価、午前の終値は先週末の終値と比べて1439円17銭、高い6万6460円11銭。",
+  "articleBody": "週明けの7日の東京株式市場、半導体関連の銘柄を中心に買い注文が広がり、日経平均株価は値上がりしています。\n\n\n日経平均株価、午前の終値は先週末の終値と比べて1439円17銭、高い6万6460円11銭。\n\n東証株価指数、トピックスは25.30上がって4128.53。\n\n午前の出来高は9億6150万株でした。\n\n市場関係者は「先週末のニューヨーク株式市場でハイテク関連の銘柄が値上がりした流れを受け東京市場でも半導体関連の銘柄を中心に買い注文が広がっている。また、企業の資金調達コストに影響する長期金利が先週と比べるといくぶん低下していることもあって、日経平均株価の値上がり幅は一時1600円を超えた」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "週明けの7日の東京株式市場、半導体関連の銘柄を中心に買い注文が広がり、日経平均株価は値上がりしています。\n",
+    "markedBody": "日経平均株価、午前の終値は先週末の終値と比べて1439円17銭、高い6万6460円11銭。\n\n東証株価指数、トピックスは25.30上がって4128.53。\n\n午前の出来高は9億6150万株でした。\n\n市場関係者は「先週末のニューヨーク株式市場でハイテク関連の銘柄が値上がりした流れを受け東京市場でも半導体関連の銘柄を中心に買い注文が広がっている。また、企業の資金調達コストに影響する長期金利が先週と比べるといくぶん低下していることもあって、日経平均株価の値上がり幅は一時1600円を超えた」と話しています。\n",
+    "trimmedLead": "週明けの7日の東京株式市場、半導体関連の銘柄を中心に買い注文が広がり、日経平均株価は値上がりしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260907de48732.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260907de48732",
+  "video": [],
+  "citation": [
+    {
+      "name": "東北新幹線で人身事故 女性死亡 運転見合わせ約2時間半で再開",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260907de48699",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48699/20260907de48699_E0000003893_1_s.jpg",
+      "datePublished": "2026-09-07T11:41:46+09:00"
+    },
+    {
+      "name": "利島村にも土砂災害特別警報 線状降水帯直前予測も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260907de48631",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48631/20260907de48631_E0000025885_1_s.jpg",
+      "datePublished": "2026-09-07T16:19:04+09:00"
+    },
+    {
+      "name": "気象庁会見 東京 新島村に土砂災害特別警報",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260907de48645",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48645/20260907de48645_E0000025610_1_s.jpg",
+      "datePublished": "2026-09-07T07:12:48+09:00"
+    },
+    {
+      "name": "大雨交通影響 山手線などは通常どおりの運転に戻る",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260906de48452",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48452/20260906de48452_E0000025397_1_s.jpg",
+      "datePublished": "2026-09-07T15:05:00+09:00"
+    },
+    {
+      "name": "大雨影響 7日は臨時休校相次ぐ 東京23区の一部や横浜市など",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260906de48469",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48469/20260906de48469_E0000025490_1_s.jpg",
+      "datePublished": "2026-09-06T19:35:06+09:00"
+    },
+    {
+      "name": "【専門家QA】必要な情報確認と避難行動は？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de48021",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de48021/20260903de48021_E0000023616_1_s.jpg",
+      "datePublished": "2026-09-03T19:25:00+09:00"
+    },
+    {
+      "name": "岐阜 洋菓子店火事3人死亡「人が刺されガソリンまかれた」通報",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260906de48427",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48427/20260906de48427_E0000025361_1_s.jpg",
+      "datePublished": "2026-09-06T19:32:23+09:00"
+    },
+    {
+      "name": "国民民主党 代表選挙 玉木代表が再選",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260906de48450",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48450/20260906de48450_E0000025389_1_s.jpg",
+      "datePublished": "2026-09-06T19:35:28+09:00"
+    },
+    {
+      "name": "ネパール土石流 トンネルからさらに1人救助 住宅から女性1人も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260905de48334",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48334/20260905de48334_E0000025216_1_s.jpg",
+      "datePublished": "2026-09-05T22:23:44+09:00"
+    },
+    {
+      "name": "くら寿司 人気キャラ景品のキャンペーン 従業員が横領で中止に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260906de48460",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48460/20260906de48460_E0000025418_1_s.jpg",
+      "datePublished": "2026-09-06T16:33:55+09:00"
+    },
+    {
+      "name": "SNSで関心高まる沖縄県知事選 YouTube動画を分析すると…",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47963",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47963/20260903de47963_E0000024453_1_s.jpg",
+      "datePublished": "2026-09-05T17:30:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
