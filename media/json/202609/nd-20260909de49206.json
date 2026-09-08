@@ -1,0 +1,132 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260909de49206",
+  "dataSourceId": "nd",
+  "name": "空港インフラの異常 AIで検知へ 国内19空港で実証実験",
+  "headline": "空港インフラの異常 AIで検知へ 国内19空港で実証実験",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260909de49206",
+    "playlistId": "news-nwa-business-nationwide-20260909",
+    "newsarticleName": "空港インフラの異常 AIで検知へ 国内19空港で実証実験",
+    "playlistName": "9月9日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "成田空港や関西空港など国内19の空港が、AIを活用して滑走路などの異常を検知するシステムの導入に乗り出すことになりました。人手不足に悩む空港の維持、管理を効率的に行うねらいがあります。\n\n\n成田空港や",
+  "dateModified": "2026-09-09T06:32:12+09:00",
+  "datePublished": "2026-09-09T06:32:12+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49206/20260909de49206_E0000026784_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49206/20260909de49206_E0000026784_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000478",
+      "name": "航空",
+      "display": true
+    },
+    {
+      "id": "E0000000106",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "成田空港や関西空港など国内19の空港が、AIを活用して滑走路などの異常を検知するシステムの導入に乗り出すことになりました。人手不足に悩む空港の維持、管理を効率的に行うねらいがあります。\n\n\n成田空港や",
+  "articleBody": "成田空港や関西空港など国内19の空港が、AIを活用して滑走路などの異常を検知するシステムの導入に乗り出すことになりました。人手不足に悩む空港の維持、管理を効率的に行うねらいがあります。\n\n\n成田空港や関西空港、それに広島空港など国内19の空港は、大手商社の住友商事と連携し、空港設備の点検や監視などを行うシステムの実証実験を始めています。\n\nこのシステムでは、空港設備のトラブルや異常などのデータをAIに学習させた上で、空港を点検する車両に搭載したカメラの映像から、滑走路の亀裂や異物を見つけたり、誘導灯などの設備の異常を検知したりすることを目指しています。\n\nまた、アンテナなど高い場所にある設備の点検にはドローンも活用するということです。\n\nこれまで空港設備の点検や監視は専門の人材に頼ってきたものの、人手不足が深刻化していて、日本を訪れる観光客の増加により航空需要も増えることが予想される中で、大きな課題になっています。\n\n住友商事によりますと、システムの導入で作業員による点検時間を半分程度にまで減らすことを目指すとしていて、効率的な空港の維持、管理につなげたい考えです。\n\n実証実験は来年3月末まで行う予定で、準備が整った空港から順次、本格的な導入を始めることにしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "成田空港や関西空港など国内19の空港が、AIを活用して滑走路などの異常を検知するシステムの導入に乗り出すことになりました。人手不足に悩む空港の維持、管理を効率的に行うねらいがあります。\n",
+    "markedBody": "成田空港や関西空港、それに広島空港など国内19の空港は、大手商社の住友商事と連携し、空港設備の点検や監視などを行うシステムの実証実験を始めています。\n\nこのシステムでは、空港設備のトラブルや異常などのデータをAIに学習させた上で、空港を点検する車両に搭載したカメラの映像から、滑走路の亀裂や異物を見つけたり、誘導灯などの設備の異常を検知したりすることを目指しています。\n\nまた、アンテナなど高い場所にある設備の点検にはドローンも活用するということです。\n\nこれまで空港設備の点検や監視は専門の人材に頼ってきたものの、人手不足が深刻化していて、日本を訪れる観光客の増加により航空需要も増えることが予想される中で、大きな課題になっています。\n\n住友商事によりますと、システムの導入で作業員による点検時間を半分程度にまで減らすことを目指すとしていて、効率的な空港の維持、管理につなげたい考えです。\n\n実証実験は来年3月末まで行う予定で、準備が整った空港から順次、本格的な導入を始めることにしています。\n",
+    "trimmedLead": "成田空港や関西空港など国内19の空港が、AIを活用して滑走路などの異常を検知するシステムの導入に乗り出すことになりました。人手不足に悩む空港の維持、管理を効率的に行うねらいがあります。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260909de49206.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260909de49206",
+  "video": [],
+  "citation": [
+    {
+      "name": "航空機リース事業に熱視線 旅行客増や中東情勢背景に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de48897",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de48897/20260908de48897_E0000026131_1_s.jpg",
+      "datePublished": "2026-09-08T06:25:56+09:00"
+    },
+    {
+      "name": "\"AI疲れ\"していませんか?",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de48961",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de48961/20260908de48961_E0000026215_1_s.jpg",
+      "datePublished": "2026-09-08T14:43:46+09:00"
+    },
+    {
+      "name": "大雨続く見込み 各地で線状降水帯発生のおそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260909de49198",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49198/20260909de49198_E0000026796_1_s.jpg",
+      "datePublished": "2026-09-09T06:46:45+09:00"
+    },
+    {
+      "name": "中日本高速道路で通行止め可能性 愛知で鉄道一部運転見合わせ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de49176",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de49176/20260908de49176_E0000003974_1_s.jpg",
+      "datePublished": "2026-09-09T08:00:09+09:00"
+    },
+    {
+      "name": "名古屋 市内の全市立学校と幼稚園 9日は休校・休園に 大雨影響",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de49182",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de49182/20260908de49182_E0000003455_1_s.jpg",
+      "datePublished": "2026-09-08T23:12:13+09:00"
+    },
+    {
+      "name": "上智大生殺害放火事件 未解決のまま30年に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de49178",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de49178/20260908de49178_E0000026761_1_s.jpg",
+      "datePublished": "2026-09-09T05:15:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
