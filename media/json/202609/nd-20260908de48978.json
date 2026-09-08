@@ -1,0 +1,157 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260908de48978",
+  "dataSourceId": "nd",
+  "name": "天皇陛下 皇居で稲刈り",
+  "headline": "天皇陛下 皇居で稲刈り",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260908de48978",
+    "playlistId": "news-nwa-society-nationwide-20260908",
+    "newsarticleName": "天皇陛下 皇居で稲刈り",
+    "playlistName": "9月8日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "天皇陛下は8日、皇居にある田んぼで恒例の稲刈りをされました。\n\n\n皇居での稲作は、昭和天皇が農業の奨励のため昭和2年にはじめ、恒例行事として、上皇さま、天皇陛下へと受け継がれてきました。\n\n皇居にある",
+  "dateModified": "2026-09-08T13:59:40+09:00",
+  "datePublished": "2026-09-08T13:59:40+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de48978/20260908de48978_E0000026290_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de48978/20260908de48978_E0000026290_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000159",
+      "name": "皇室",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "天皇陛下は8日、皇居にある田んぼで恒例の稲刈りをされました。\n\n\n皇居での稲作は、昭和天皇が農業の奨励のため昭和2年にはじめ、恒例行事として、上皇さま、天皇陛下へと受け継がれてきました。\n\n皇居にある",
+  "articleBody": "天皇陛下は8日、皇居にある田んぼで恒例の稲刈りをされました。\n\n\n皇居での稲作は、昭和天皇が農業の奨励のため昭和2年にはじめ、恒例行事として、上皇さま、天皇陛下へと受け継がれてきました。\n\n皇居にあるおよそ240平方メートルの田んぼでは、ことし5月に天皇陛下がみずから植えられた、もち米の「マンゲツモチ」と、うるち米の「ニホンマサリ」の稲穂が実っています。\n\n天皇陛下は午前11時ごろから、長靴を履いて田んぼに入り、鎌を使ってあわせて20株の稲を刈り取られました。\n\n宮内庁によりますと、作柄は平年並みで、収穫されたコメは、11月に皇居で行われる新嘗祭などで使われることになっています。\n",
+  "detailedArticleBody": {
+    "markedLead": "天皇陛下は8日、皇居にある田んぼで恒例の稲刈りをされました。\n",
+    "markedBody": "皇居での稲作は、昭和天皇が農業の奨励のため昭和2年にはじめ、恒例行事として、上皇さま、天皇陛下へと受け継がれてきました。\n\n皇居にあるおよそ240平方メートルの田んぼでは、ことし5月に天皇陛下がみずから植えられた、もち米の「マンゲツモチ」と、うるち米の「ニホンマサリ」の稲穂が実っています。\n\n天皇陛下は午前11時ごろから、長靴を履いて田んぼに入り、鎌を使ってあわせて20株の稲を刈り取られました。\n\n宮内庁によりますと、作柄は平年並みで、収穫されたコメは、11月に皇居で行われる新嘗祭などで使われることになっています。\n",
+    "trimmedLead": "天皇陛下は8日、皇居にある田んぼで恒例の稲刈りをされました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260908de48978.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260908de48978",
+  "video": [],
+  "citation": [
+    {
+      "name": "秋篠宮ご夫妻 ノルウェー前国王の葬儀に出発",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de48947",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de48947/20260908de48947_E0000026186_1_s.jpg",
+      "datePublished": "2026-09-08T10:42:44+09:00"
+    },
+    {
+      "name": "大雨続く 東海と四国では線状降水帯発生の可能性も 警戒を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de48909",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de48909/20260908de48909_E0000026209_1_s.jpg",
+      "datePublished": "2026-09-08T12:22:00+09:00"
+    },
+    {
+      "name": "【解説】車が浸水してしまったら…どうすれば? ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260907de48698",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48698/20260907de48698_E0000025658_1_s.jpg",
+      "datePublished": "2026-09-07T11:40:13+09:00"
+    },
+    {
+      "name": "静岡 川根本町 工事現場で土砂崩れ 作業員1人巻き込まれる",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de48964",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de48964/20260908de48964_E0000003889_1_s.jpg",
+      "datePublished": "2026-09-08T12:35:11+09:00"
+    },
+    {
+      "name": "自民役員会 党役員人事 高市首相に一任 来週にも人事行う方針",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de48957",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de48957/20260908de48957_E0000026208_1_s.jpg",
+      "datePublished": "2026-09-08T11:45:00+09:00"
+    },
+    {
+      "name": "トランプ大統領「ボンバルディア機販売禁止」カナダをけん制",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de48956",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de48956/20260908de48956_E0000026212_1_s.jpg",
+      "datePublished": "2026-09-08T11:50:17+09:00"
+    },
+    {
+      "name": "ドジャース大谷翔平 1番指名打者で5試合ぶり先発出場",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de48925",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de48925/20260908de48925_E0000003503_1_s.jpg",
+      "datePublished": "2026-09-08T12:33:12+09:00"
+    },
+    {
+      "name": "岐阜 洋菓子店3人死亡事件 現場にガソリン携行缶 放火に使用か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de48967",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de48967/20260908de48967_E0000026254_1_s.jpg",
+      "datePublished": "2026-09-08T12:41:00+09:00"
+    },
+    {
+      "name": "円相場 一時1ドル＝152円台まで値上がり 7か月ぶり",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de48928",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de48928/20260908de48928_E0000026201_1_s.jpg",
+      "datePublished": "2026-09-08T12:48:43+09:00"
+    },
+    {
+      "name": "金融庁 超長期の住宅ローン審査を重点的にモニタリング",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260907de48880",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48880/20260907de48880_E0000026110_1_s.jpg",
+      "datePublished": "2026-09-08T06:30:01+09:00"
+    },
+    {
+      "name": "キャッシュレス決済の“死角”「全東信」破綻の内幕",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260906de48454",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48454/20260906de48454_E0000025762_1_s.jpg",
+      "datePublished": "2026-09-07T16:37:00+09:00"
+    },
+    {
+      "name": "漫画で沖縄戦を描く理由",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260831de47362",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47362/20260831de47362_E0000024518_1_s.jpg",
+      "datePublished": "2026-09-07T18:18:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
