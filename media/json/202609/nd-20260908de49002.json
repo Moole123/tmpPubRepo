@@ -1,0 +1,161 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260908de49002",
+  "dataSourceId": "nd",
+  "name": "牧野復興相 福島大動画“ある種の偏見の表れ 正しい発信を”",
+  "headline": "牧野復興相 福島大動画“ある種の偏見の表れ 正しい発信を”",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260908de49002",
+    "playlistId": "news-nwa-politics-nationwide-20260908",
+    "newsarticleName": "牧野復興相 福島大動画“ある種の偏見の表れ 正しい発信を”",
+    "playlistName": "9月8日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "ネット上に配信された動画で福島大学の放射能の研究をやゆするような発言があったことをめぐり、牧野復興大臣は、福島の復興に対する偏見の表れではないかとして、現状を理解した上での正しい発信を求めました。\n\n",
+  "dateModified": "2026-09-08T14:29:00+09:00",
+  "datePublished": "2026-09-08T14:29:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de49002/20260908de49002_E0000026365_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de49002/20260908de49002_E0000026365_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000335",
+      "name": "福島県",
+      "display": true
+    },
+    {
+      "id": "E0000000205",
+      "name": "福島第一原発",
+      "display": true
+    },
+    {
+      "id": "E0000000681",
+      "name": "復興庁",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ネット上に配信された動画で福島大学の放射能の研究をやゆするような発言があったことをめぐり、牧野復興大臣は、福島の復興に対する偏見の表れではないかとして、現状を理解した上での正しい発信を求めました。\n\n",
+  "articleBody": "ネット上に配信された動画で福島大学の放射能の研究をやゆするような発言があったことをめぐり、牧野復興大臣は、福島の復興に対する偏見の表れではないかとして、現状を理解した上での正しい発信を求めました。\n\n\nこれは、学歴などをテーマとするユーチューバーが動画の中で福島大学が原発事故のあとに取り組んでいる放射能の研究をやゆするような発言をしたもので、その後、ユーチューバーは動画を削除し、SNSで謝罪しました。\n\nこれについて、牧野復興大臣は8日、閣議のあとの記者会見で「学生や関係者の心情や尊厳を傷つけ、非常に遺憾だ」と述べました。\n\nその上で「福島の復興に対してのある種の偏見の表れではないか。正確に福島の現状や復興の努力について理解し、正しい発信をしてもらいたい」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "ネット上に配信された動画で福島大学の放射能の研究をやゆするような発言があったことをめぐり、牧野復興大臣は、福島の復興に対する偏見の表れではないかとして、現状を理解した上での正しい発信を求めました。\n",
+    "markedBody": "これは、学歴などをテーマとするユーチューバーが動画の中で福島大学が原発事故のあとに取り組んでいる放射能の研究をやゆするような発言をしたもので、その後、ユーチューバーは動画を削除し、SNSで謝罪しました。\n\nこれについて、牧野復興大臣は8日、閣議のあとの記者会見で「学生や関係者の心情や尊厳を傷つけ、非常に遺憾だ」と述べました。\n\nその上で「福島の復興に対してのある種の偏見の表れではないか。正確に福島の現状や復興の努力について理解し、正しい発信をしてもらいたい」と述べました。\n",
+    "trimmedLead": "ネット上に配信された動画で福島大学の放射能の研究をやゆするような発言があったことをめぐり、牧野復興大臣は、福島の復興に対する偏見の表れではないかとして、現状を理解した上での正しい発信を求めました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260908de49002.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260908de49002",
+  "video": [],
+  "citation": [
+    {
+      "name": "福島大学の放射能研究やゆする動画めぐり 大学側が声明発表",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260902de47867",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47867/20260902de47867_E0000022313_1_s.jpg",
+      "datePublished": "2026-09-02T22:05:35+09:00"
+    },
+    {
+      "name": "核のごみ調査 続く国の申し入れ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260907de48753",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48753/20260907de48753_E0000025793_1_s.jpg",
+      "datePublished": "2026-09-07T15:17:50+09:00"
+    },
+    {
+      "name": "福島 アンダーパス冠水 ポンプ作動も川の水位上昇で排水進まず",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de48890",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de48890/20260908de48890_E0000026127_1_s.jpg",
+      "datePublished": "2026-09-08T02:56:25+09:00"
+    },
+    {
+      "name": "自民役員会 党役員人事 高市首相に一任 来週にも人事行う方針",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de48957",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de48957/20260908de48957_E0000026208_1_s.jpg",
+      "datePublished": "2026-09-08T11:45:00+09:00"
+    },
+    {
+      "name": "庄内川 レベル5氾濫特別警報 東海で線状降水帯発生 最大警戒を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de48909",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de48909/20260908de48909_E0000026642_1_s.jpg",
+      "datePublished": "2026-09-08T19:22:17+09:00"
+    },
+    {
+      "name": "【解説】車が浸水してしまったら…どうすれば? ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260907de48698",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48698/20260907de48698_E0000025658_1_s.jpg",
+      "datePublished": "2026-09-07T11:40:13+09:00"
+    },
+    {
+      "name": "岐阜 洋菓子店3人死亡事件 現場にガソリン携行缶 放火に使用か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de48967",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de48967/20260908de48967_E0000026254_1_s.jpg",
+      "datePublished": "2026-09-08T12:41:00+09:00"
+    },
+    {
+      "name": "キャッシュレス決済の“死角”「全東信」破綻の内幕",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260906de48454",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48454/20260906de48454_E0000025762_1_s.jpg",
+      "datePublished": "2026-09-07T16:37:00+09:00"
+    },
+    {
+      "name": "「普通の人々が…」芥川賞作家がいま、関東大震災を描くわけ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48214",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48214/20260904de48214_E0000025704_1_s.jpg",
+      "datePublished": "2026-09-07T16:19:00+09:00"
+    },
+    {
+      "name": "漫画で沖縄戦を描く理由",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260831de47362",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47362/20260831de47362_E0000024518_1_s.jpg",
+      "datePublished": "2026-09-07T18:18:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260908de49006",
+  "dataSourceId": "nd",
+  "name": "インドネシア 噴火影響で閉鎖の国際空港など再開",
+  "headline": "インドネシア 噴火影響で閉鎖の国際空港など再開",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260908de49006",
+    "playlistId": "news-nwa-international-nationwide-20260908",
+    "newsarticleName": "インドネシア 噴火影響で閉鎖の国際空港など再開",
+    "playlistName": "9月8日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "インドネシアでは、火山の大規模な噴火にともなう火山灰の影響で、首都近郊の主要な国際空港など8つの空港が一時、閉鎖されましたが、現地時間の8日午前までにすべて再開されました。\n\n\nインドネシアのジャワ島",
+  "dateModified": "2026-09-08T14:49:33+09:00",
+  "datePublished": "2026-09-08T14:49:33+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-640x360.png",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際",
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000416",
+      "name": "インドネシア",
+      "display": true
+    },
+    {
+      "id": "E0000000592",
+      "name": "火山・噴火",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "インドネシアでは、火山の大規模な噴火にともなう火山灰の影響で、首都近郊の主要な国際空港など8つの空港が一時、閉鎖されましたが、現地時間の8日午前までにすべて再開されました。\n\n\nインドネシアのジャワ島",
+  "articleBody": "インドネシアでは、火山の大規模な噴火にともなう火山灰の影響で、首都近郊の主要な国際空港など8つの空港が一時、閉鎖されましたが、現地時間の8日午前までにすべて再開されました。\n\n\nインドネシアのジャワ島とスマトラ島の間のスンダ海峡にある火山アナック・クラカタウでは、9月4日の夜から大規模な噴火が起き、噴煙がおよそ1万5000メートルまで上がりました。\n\n地元当局などによりますと、この噴火にともなう火山灰の影響で、首都近郊にあるスカルノ・ハッタ国際空港など、あわせて8つの空港が一時、閉鎖されましたが、現地時間の8日午前までにすべて再開されました。\n\n閉鎖の影響で現地と羽田空港や成田空港を結ぶ便にも欠航が相次ぎ、地元当局によりますと全体では7日午後までに2900便あまり、あわせておよそ34万人の乗客に影響が出たということです。\n\n地元当局は火山活動は落ち着いてきたと分析する一方、噴火は断続的に起きているとしていて、引き続き火山周辺への立ち入りを禁止しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "インドネシアでは、火山の大規模な噴火にともなう火山灰の影響で、首都近郊の主要な国際空港など8つの空港が一時、閉鎖されましたが、現地時間の8日午前までにすべて再開されました。\n",
+    "markedBody": "インドネシアのジャワ島とスマトラ島の間のスンダ海峡にある火山アナック・クラカタウでは、9月4日の夜から大規模な噴火が起き、噴煙がおよそ1万5000メートルまで上がりました。\n\n地元当局などによりますと、この噴火にともなう火山灰の影響で、首都近郊にあるスカルノ・ハッタ国際空港など、あわせて8つの空港が一時、閉鎖されましたが、現地時間の8日午前までにすべて再開されました。\n\n閉鎖の影響で現地と羽田空港や成田空港を結ぶ便にも欠航が相次ぎ、地元当局によりますと全体では7日午後までに2900便あまり、あわせておよそ34万人の乗客に影響が出たということです。\n\n地元当局は火山活動は落ち着いてきたと分析する一方、噴火は断続的に起きているとしていて、引き続き火山周辺への立ち入りを禁止しています。\n",
+    "trimmedLead": "インドネシアでは、火山の大規模な噴火にともなう火山灰の影響で、首都近郊の主要な国際空港など8つの空港が一時、閉鎖されましたが、現地時間の8日午前までにすべて再開されました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260908de49006.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260908de49006",
+  "video": [],
+  "citation": [
+    {
+      "name": "インドネシア噴火 国際空港は深夜再開の見通し",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260907de48802",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48802/20260907de48802_E0000025901_1_s.jpg",
+      "datePublished": "2026-09-07T21:57:44+09:00"
+    },
+    {
+      "name": "インドネシア 大規模噴火 日本への津波の心配なし 気象庁 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260905de48261",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48261/20260905de48261_E0000025098_1_s.jpg",
+      "datePublished": "2026-09-05T12:41:49+09:00"
+    },
+    {
+      "name": "新イラン大使に森川徹氏 政府が閣議決定",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de48981",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de48981/20260908de48981_E0000026295_1_s.jpg",
+      "datePublished": "2026-09-08T13:19:30+09:00"
+    },
+    {
+      "name": "トランプ大統領「ボンバルディア機販売禁止」カナダをけん制",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de48956",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de48956/20260908de48956_E0000026212_1_s.jpg",
+      "datePublished": "2026-09-08T11:50:17+09:00"
+    },
+    {
+      "name": "中国 日本製半導体関連物質をダンピング認定",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de48891",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de48891/20260908de48891_E0000026128_1_s.jpg",
+      "datePublished": "2026-09-08T06:09:00+09:00"
+    },
+    {
+      "name": "ロシア ウクライナ和平でアメリカ交えた協議再開排除せず",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de48912",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de48912/20260908de48912_E0000026139_1_s.jpg",
+      "datePublished": "2026-09-08T09:12:20+09:00"
+    },
+    {
+      "name": "北朝鮮 国防相 日米韓の共同訓練を非難",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de48907",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de48907/20260908de48907_E0000026136_1_s.jpg",
+      "datePublished": "2026-09-08T09:17:08+09:00"
+    },
+    {
+      "name": "仏モンサンミシェルと厳島神社がある廿日市市が観光で交流",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de48933",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de48933/20260908de48933_E0000026171_1_s.jpg",
+      "datePublished": "2026-09-08T10:21:00+09:00"
+    },
+    {
+      "name": "無人機対策　ウクライナで漁業用網の再利用進む",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de48908",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de48908/20260908de48908_E0000026137_1_s.jpg",
+      "datePublished": "2026-09-08T05:01:08+09:00"
+    },
+    {
+      "name": "ロシアと北朝鮮を結ぶ初の車両用の橋が完成",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de48892",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de48892/20260908de48892_E0000026129_1_s.jpg",
+      "datePublished": "2026-09-08T05:38:59+09:00"
+    },
+    {
+      "name": "EU グリーンランドに2億ユーロ投資発表 関係強化がねらい",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de48905",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de48905/20260908de48905_E0000026135_1_s.jpg",
+      "datePublished": "2026-09-08T04:48:00+09:00"
+    },
+    {
+      "name": "ドイツ州議選 メルツ首相 州政府成立に協力しない姿勢強調",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de48914",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de48914/20260908de48914_E0000026141_1_s.jpg",
+      "datePublished": "2026-09-08T05:11:00+09:00"
+    },
+    {
+      "name": "航空機リース事業に熱視線 旅行客増や中東情勢背景に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de48897",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de48897/20260908de48897_E0000026131_1_s.jpg",
+      "datePublished": "2026-09-08T06:25:56+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
