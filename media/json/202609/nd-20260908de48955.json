@@ -1,0 +1,142 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260908de48955",
+  "dataSourceId": "nd",
+  "name": "【動画】塚本晋也監督が描く 帰還兵の“終わりのない苦しみ”",
+  "headline": "【動画】塚本晋也監督が描く 帰還兵の“終わりのない苦しみ”",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260908de48955",
+    "playlistId": "news-nwa-society-nationwide-20260909",
+    "newsarticleName": "【動画】塚本晋也監督が描く 帰還兵の“終わりのない苦しみ”",
+    "playlistName": "9月9日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "イタリアで開催中のベネチア国際映画祭で、最優秀賞(金獅子賞)を競う部門に塚本晋也監督の作品がノミネートされています。\n戦争とは何なのか。映画監督として長年問い続けてきた塚本監督。\n今回、戦争を経験した",
+  "dateModified": "2026-09-09T17:08:29+09:00",
+  "datePublished": "2026-09-09T17:08:29+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de48955/20260908de48955_E0000026227_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de48955/20260908de48955_E0000026227_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000668",
+      "name": "戦争と平和",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "イタリアで開催中のベネチア国際映画祭で、最優秀賞(金獅子賞)を競う部門に塚本晋也監督の作品がノミネートされています。\n戦争とは何なのか。映画監督として長年問い続けてきた塚本監督。\n今回、戦争を経験した",
+  "articleBody": "イタリアで開催中のベネチア国際映画祭で、最優秀賞(金獅子賞)を競う部門に塚本晋也監督の作品がノミネートされています。\n戦争とは何なのか。映画監督として長年問い続けてきた塚本監督。\n今回、戦争を経験した兵士が抱える“終わりのない苦しみ”を描きました。\n\n2026年9月8日 おはよう日本で放送\n（動画は6分00秒 データ放送ではご覧いただけません）\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "イタリアで開催中のベネチア国際映画祭で、最優秀賞(金獅子賞)を競う部門に塚本晋也監督の作品がノミネートされています。\\\n戦争とは何なのか。映画監督として長年問い続けてきた塚本監督。\\\n今回、戦争を経験した兵士が抱える“終わりのない苦しみ”を描きました。\n\n2026年9月8日 おはよう日本で放送\\\n（動画は6分00秒 データ放送ではご覧いただけません）\n",
+    "markedBody": "![](https://img.web.nhk/news/nd/kiji/20260908de48955/20260908de48955_E0000026392_1_l.jpg \"撮影時の塚本監督の様子\")\n\n![](https://img.web.nhk/news/nd/kiji/20260908de48955/20260908de48955_E0000027086_1_l.jpg \"ベネチア国際映画祭での塚本監督\")\n",
+    "trimmedLead": "イタリアで開催中のベネチア国際映画祭で、最優秀賞(金獅子賞)を競う部門に塚本晋也監督の作品がノミネートされています。\n戦争とは何なのか。映画監督として長年問い続けてきた塚本監督。\n今回、戦争を経験した兵士が抱える“終わりのない苦しみ”を描きました。\n\n2026年9月8日 おはよう日本で放送\n（動画は6分00秒 データ放送ではご覧いただけません）\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260908de48955.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260908de48955",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "【動画】塚本晋也監督が描く 帰還兵の“終わりのない苦しみ”",
+      "description": "イタリアで開催中のベネチア国際映画祭で、最優秀賞(金獅子賞)を競う部門に塚本晋也監督の作品がノミネートされています。\n戦争とは何なのか。映画監督として長年問い続けてきた塚本監督。\n今回、戦争を経験した",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20260908de48955_E0000026259_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20260908de48955/20260908de48955_E0000026227_1_l.jpg",
+      "duration": "PT6M1S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20260908de48955_E0000026259_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de48955/20260908de48955_E0000026227_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "“戦後”を“戦前”にしないために",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014561961000",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260909de49325_E0000027127_1_s.jpg"
+    },
+    {
+      "name": "戦場で“人を殺す”ということ 塚本晋也監督の描く戦争",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260818de44697",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44697/20260818de44697_E0000021208_1_s.jpg",
+      "datePublished": "2026-09-01T19:31:00+09:00"
+    },
+    {
+      "name": "ベネチア国際映画祭 塚本晋也監督の映画が公式上映",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260905de48291",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48291/20260905de48291_E0000025067_1_s.jpg",
+      "datePublished": "2026-09-05T12:45:00+09:00"
+    },
+    {
+      "name": "漫画で沖縄戦を描く理由",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260831de47362",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47362/20260831de47362_E0000024518_1_s.jpg",
+      "datePublished": "2026-09-07T18:18:00+09:00"
+    },
+    {
+      "name": "被爆の記録映画 フィルムに未知の広範囲シーン確認",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47922",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47922/20260903de47922_E0000022512_1_s.jpg",
+      "datePublished": "2026-09-03T13:04:00+09:00"
+    },
+    {
+      "name": "戦争を伝えるミュージアム",
+      "url": "https://www.nhk.or.jp/archives/sensou/special/warmuseum/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00039_E0000001685_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

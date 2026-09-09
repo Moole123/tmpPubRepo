@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260909de49324",
+  "dataSourceId": "nd",
+  "name": "陣内孝雄元法相が死去",
+  "headline": "陣内孝雄元法相が死去",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260909de49324",
+    "playlistId": "news-nwa-politics-nationwide-20260909",
+    "newsarticleName": "陣内孝雄元法相が死去",
+    "playlistName": "9月9日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "元参議院議員で、法務大臣を務めた陣内孝雄氏が肺炎のため亡くなりました。93歳でした。\n\n\n陣内氏は佐賀県出身で、旧建設省に入省し、九州地方建設局長や河川局長などを務めたあと、1988年に行われた参議院",
+  "dateModified": "2026-09-09T16:28:00+09:00",
+  "datePublished": "2026-09-09T16:28:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49324/20260909de49324_E0000027147_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49324/20260909de49324_E0000027147_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "E0000000103",
+      "name": "訃報",
+      "display": true
+    },
+    {
+      "id": "E0000000369",
+      "name": "佐賀県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "元参議院議員で、法務大臣を務めた陣内孝雄氏が肺炎のため亡くなりました。93歳でした。\n\n\n陣内氏は佐賀県出身で、旧建設省に入省し、九州地方建設局長や河川局長などを務めたあと、1988年に行われた参議院",
+  "articleBody": "元参議院議員で、法務大臣を務めた陣内孝雄氏が肺炎のため亡くなりました。93歳でした。\n\n\n陣内氏は佐賀県出身で、旧建設省に入省し、九州地方建設局長や河川局長などを務めたあと、1988年に行われた参議院佐賀選挙区の補欠選挙で初当選しました。\n\n1999年には小渕内閣で法務大臣に就任し、その後、参議院の中小企業対策特別委員長や予算委員長を務めました。\n\n陣内氏は、8日、肺炎のため東京都内の病院で亡くなりました。\n\n93歳でした。\n",
+  "detailedArticleBody": {
+    "markedLead": "元参議院議員で、法務大臣を務めた陣内孝雄氏が肺炎のため亡くなりました。93歳でした。\n",
+    "markedBody": "陣内氏は佐賀県出身で、旧建設省に入省し、九州地方建設局長や河川局長などを務めたあと、1988年に行われた参議院佐賀選挙区の補欠選挙で初当選しました。\n\n1999年には小渕内閣で法務大臣に就任し、その後、参議院の中小企業対策特別委員長や予算委員長を務めました。\n\n陣内氏は、8日、肺炎のため東京都内の病院で亡くなりました。\n\n93歳でした。\n",
+    "trimmedLead": "元参議院議員で、法務大臣を務めた陣内孝雄氏が肺炎のため亡くなりました。93歳でした。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260909de49324.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260909de49324",
+  "video": [],
+  "citation": [
+    {
+      "name": "香港 初代行政長官を務めた董建華氏が死去",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260909de49288",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49288/20260909de49288_E0000027021_1_s.jpg",
+      "datePublished": "2026-09-09T15:02:52+09:00"
+    },
+    {
+      "name": "たけし軍団メンバー お笑い芸人のグレート義太夫さん死去",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de48990",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de48990/20260908de48990_E0000026323_1_s.jpg",
+      "datePublished": "2026-09-08T13:39:00+09:00"
+    },
+    {
+      "name": "【動画】名古屋 大雨 23人けが 路上で動けない車両200台以上 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260909de49220",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49220/20260909de49220_E0000026811_1_s.jpg",
+      "datePublished": "2026-09-09T18:01:43+09:00"
+    },
+    {
+      "name": "非常に激しい雨 東海では線状降水帯発生のおそれ 厳重に警戒を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260909de49198",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49198/20260909de49198_E0000027203_1_s.jpg",
+      "datePublished": "2026-09-09T18:24:54+09:00"
+    },
+    {
+      "name": "福岡県議会が開会 辞職の藏内前議長の後任に自民の大島氏選出",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260909de49307",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49307/20260909de49307_E0000027069_1_s.jpg",
+      "datePublished": "2026-09-09T15:15:00+09:00"
+    },
+    {
+      "name": "ガールズバー従業員に売春強要の罪 元経営者に懲役7年の判決",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260909de49273",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49273/20260909de49273_E0000026954_1_s.jpg",
+      "datePublished": "2026-09-09T13:53:00+09:00"
+    },
+    {
+      "name": "ネパール土石流 発生から2週間 温暖化への対応求める声も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de49138",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de49138/20260908de49138_E0000026770_1_s.jpg",
+      "datePublished": "2026-09-09T16:08:31+09:00"
+    },
+    {
+      "name": "トランプ政権 カナダ産オートバイやアルコール飲料など禁輸へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260909de49265",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49265/20260909de49265_E0000026932_1_s.jpg",
+      "datePublished": "2026-09-09T13:19:35+09:00"
+    },
+    {
+      "name": "上智大生殺害放火事件 未解決のまま30年 情報提供を呼びかけ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de49178",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de49178/20260908de49178_E0000026761_1_s.jpg",
+      "datePublished": "2026-09-09T18:00:22+09:00"
+    },
+    {
+      "name": "“災害列島”で急務の防災対策 問われる防災庁",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260906de48491",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48491/20260906de48491_E0000026347_1_s.jpg",
+      "datePublished": "2026-09-09T10:09:27+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
