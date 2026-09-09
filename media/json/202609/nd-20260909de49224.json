@@ -1,0 +1,145 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260909de49224",
+  "dataSourceId": "nd",
+  "name": "高市首相動静 2026年9月8日",
+  "headline": "高市首相動静 2026年9月8日",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260909de49224",
+    "playlistId": "news-nwa-politics-nationwide-20260909",
+    "newsarticleName": "高市首相動静 2026年9月8日",
+    "playlistName": "9月9日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "（高市首相動静 2026年9月8日）\n\n\n09:51 徒歩で公邸発\n09:52 官邸着\n10:00 閣議（～10:06）\n10:07 片山さつき財務大臣と会話（～10:08）\n10:24 官邸発\n10",
+  "dateModified": "2026-09-09T09:01:17+09:00",
+  "datePublished": "2026-09-09T09:01:17+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49224/20260909de49224_E0000003852_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49224/20260909de49224_E0000003852_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "E0000000526",
+      "name": "首相動静",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "（高市首相動静 2026年9月8日）\n\n\n09:51 徒歩で公邸発\n09:52 官邸着\n10:00 閣議（～10:06）\n10:07 片山さつき財務大臣と会話（～10:08）\n10:24 官邸発\n10",
+  "articleBody": "（高市首相動静 2026年9月8日）\n\n\n09:51 徒歩で公邸発\n09:52 官邸着\n10:00 閣議（～10:06）\n10:07 片山さつき財務大臣と会話（～10:08）\n10:24 官邸発\n10:28 自民党本部着\n10:31 自民党役員会（～10:46）\n10:47 自民党の元宿仁事務総長と面会（～10:50）\n10:51 自民党の西村康稔選挙対策委員長と面会（～10:55）\n10:56 同所発\n11:00 官邸着\n11:15 片山財務大臣、自民党の小野寺五典税制調査会長、総務省の原邦彰事務次官、財務省の宇波弘貴事務次官、坂本基主計局長、植松利夫主税局長と面会（～11:54）\n11:59 長門正貢元日本郵政社長と昼食（～12:58）\n14:22 ビデオメッセージ収録（～14:41）\n15:35 市川恵一国家安全保障局長、原和也国家情報局長と面会（～15:51）\n15:52 原国家情報局長と面会（～15:59）\n17:55 徒歩で官邸発\n17:57 公邸着\n",
+  "detailedArticleBody": {
+    "markedLead": "（高市首相動静 2026年9月8日）\n",
+    "markedBody": "09:51 徒歩で公邸発\\\n09:52 官邸着\\\n10:00 閣議（～10:06）\\\n10:07 片山さつき財務大臣と会話（～10:08）\\\n10:24 官邸発\\\n10:28 自民党本部着\\\n10:31 自民党役員会（～10:46）\\\n10:47 自民党の元宿仁事務総長と面会（～10:50）\\\n10:51 自民党の西村康稔選挙対策委員長と面会（～10:55）\\\n10:56 同所発\\\n11:00 官邸着\\\n11:15 片山財務大臣、自民党の小野寺五典税制調査会長、総務省の原邦彰事務次官、財務省の宇波弘貴事務次官、坂本基主計局長、植松利夫主税局長と面会（～11:54）\\\n11:59 長門正貢元日本郵政社長と昼食（～12:58）\\\n14:22 ビデオメッセージ収録（～14:41）\\\n15:35 市川恵一国家安全保障局長、原和也国家情報局長と面会（～15:51）\\\n15:52 原国家情報局長と面会（～15:59）\\\n17:55 徒歩で官邸発\\\n17:57 公邸着\n",
+    "trimmedLead": "（高市首相動静 2026年9月8日）\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260909de49224.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260909de49224",
+  "video": [],
+  "citation": [
+    {
+      "name": "非常に激しい雨 東海では線状降水帯発生のおそれ 厳重に警戒を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260909de49198",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49198/20260909de49198_E0000027055_1_s.jpg",
+      "datePublished": "2026-09-09T15:54:40+09:00"
+    },
+    {
+      "name": "中日本高速道路で通行止め可能性 愛知で鉄道一部運転見合わせ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de49176",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de49176/20260908de49176_E0000003974_1_s.jpg",
+      "datePublished": "2026-09-09T08:00:09+09:00"
+    },
+    {
+      "name": "【動画】名古屋 大雨で道路冠水や地下鉄駅の浸水 被害状況は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de49034",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de49034/20260908de49034_E0000026436_1_s.jpg",
+      "datePublished": "2026-09-09T06:30:42+09:00"
+    },
+    {
+      "name": "ネパール土石流 発生から2週間 温暖化への対応求める声も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de49138",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de49138/20260908de49138_E0000026770_1_s.jpg",
+      "datePublished": "2026-09-09T12:21:44+09:00"
+    },
+    {
+      "name": "自民党役員人事と内閣改造 政権骨格維持 維新ポスト調整も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260909de49187",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49187/20260909de49187_E0000026760_1_s.jpg",
+      "datePublished": "2026-09-09T04:55:00+09:00"
+    },
+    {
+      "name": "アメリカ 共和党が初めて中間選挙前に党大会開催へ 焦点は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de49169",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de49169/20260908de49169_E0000026741_1_s.jpg",
+      "datePublished": "2026-09-09T06:15:00+09:00"
+    },
+    {
+      "name": "上智大生殺害放火事件 未解決のまま30年 情報提供を呼びかけ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de49178",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de49178/20260908de49178_E0000026761_1_s.jpg",
+      "datePublished": "2026-09-09T12:30:29+09:00"
+    },
+    {
+      "name": "大手金融グループ 個人向けサービス強化で預金獲得目指す",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260909de49205",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49205/20260909de49205_E0000026785_1_s.jpg",
+      "datePublished": "2026-09-09T06:29:32+09:00"
+    },
+    {
+      "name": "空港インフラの異常 AIで検知へ 国内19空港で実証実験",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260909de49206",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49206/20260909de49206_E0000026784_1_s.jpg",
+      "datePublished": "2026-09-09T06:32:12+09:00"
+    },
+    {
+      "name": "福岡県議会きょう開会 対策を確実に進められるかが焦点",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de49174",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de49174/20260908de49174_E0000026738_1_s.jpg",
+      "datePublished": "2026-09-09T04:52:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": false,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
