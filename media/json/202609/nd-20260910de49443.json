@@ -1,0 +1,183 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260910de49443",
+  "dataSourceId": "nd",
+  "name": "「ランサムウエア」のサイバー攻撃被害 半期で過去最多 警察庁",
+  "headline": "「ランサムウエア」のサイバー攻撃被害 半期で過去最多 警察庁",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260910de49443",
+    "playlistId": "news-nwa-society-nationwide-20260910",
+    "newsarticleName": "「ランサムウエア」のサイバー攻撃被害 半期で過去最多 警察庁",
+    "playlistName": "9月10日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "企業などのデータを暗号化して金銭などを要求するサイバー攻撃、「ランサムウエア」の被害がことし上半期で123件にのぼり、半年間の件数としては最も多くなったことが警察庁のまとめでわかりました。復旧にかかる",
+  "dateModified": "2026-09-10T10:59:00+09:00",
+  "datePublished": "2026-09-10T10:59:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49443/20260910de49443_E0000003473_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49443/20260910de49443_E0000003473_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "E0000000703",
+      "name": "統計・指標",
+      "display": true
+    },
+    {
+      "id": "E0000000208",
+      "name": "事件・事故",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "企業などのデータを暗号化して金銭などを要求するサイバー攻撃、「ランサムウエア」の被害がことし上半期で123件にのぼり、半年間の件数としては最も多くなったことが警察庁のまとめでわかりました。復旧にかかる",
+  "articleBody": "企業などのデータを暗号化して金銭などを要求するサイバー攻撃、「ランサムウエア」の被害がことし上半期で123件にのぼり、半年間の件数としては最も多くなったことが警察庁のまとめでわかりました。復旧にかかる費用が高額になるなど、被害が深刻化するケースが目立ってきているということです。\n\n\n「ランサムウエア」は企業などのデータを暗号化して使えない状態にした上で、復旧させる見返りに金や暗号資産を支払わせようとするいわゆる「身代金要求型」のサイバー攻撃です。\n\nデータの凍結や流出だけでなくシステム障害が起きて、事業に深刻な影響が出るケースも相次いでいます。\n\n警察庁によりますと、ことし6月末までの上半期、全国の企業や団体で123件の被害が確認され、統計を取り始めた2020年以降、半年間の被害としては最も多くなっています。\n\n中小企業が79件と全体の6割あまりを占め、復旧までに2か月以上かかるケースが相次ぐなど、事業に及ぼす影響が長期化する傾向にあるということです。\n\nまた復旧費用が1000万円以上になった割合がおよそ6割を占め、中には1億円以上かかったケースもみられるなど、被害が深刻化しているということです。\n\n警察庁はソフトウエアを常に最新のバージョンにアップデートしておくことや、従業員に正しいセキュリティの知識を身につけさせるなど、基本的な対策の徹底を呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "企業などのデータを暗号化して金銭などを要求するサイバー攻撃、「ランサムウエア」の被害がことし上半期で123件にのぼり、半年間の件数としては最も多くなったことが警察庁のまとめでわかりました。復旧にかかる費用が高額になるなど、被害が深刻化するケースが目立ってきているということです。\n",
+    "markedBody": "「ランサムウエア」は企業などのデータを暗号化して使えない状態にした上で、復旧させる見返りに金や暗号資産を支払わせようとするいわゆる「身代金要求型」のサイバー攻撃です。\n\nデータの凍結や流出だけでなくシステム障害が起きて、事業に深刻な影響が出るケースも相次いでいます。\n\n警察庁によりますと、ことし6月末までの上半期、全国の企業や団体で123件の被害が確認され、統計を取り始めた2020年以降、半年間の被害としては最も多くなっています。\n\n中小企業が79件と全体の6割あまりを占め、復旧までに2か月以上かかるケースが相次ぐなど、事業に及ぼす影響が長期化する傾向にあるということです。\n\nまた復旧費用が1000万円以上になった割合がおよそ6割を占め、中には1億円以上かかったケースもみられるなど、被害が深刻化しているということです。\n\n警察庁はソフトウエアを常に最新のバージョンにアップデートしておくことや、従業員に正しいセキュリティの知識を身につけさせるなど、基本的な対策の徹底を呼びかけています。\n",
+    "trimmedLead": "企業などのデータを暗号化して金銭などを要求するサイバー攻撃、「ランサムウエア」の被害がことし上半期で123件にのぼり、半年間の件数としては最も多くなったことが警察庁のまとめでわかりました。復旧にかかる費用が高額になるなど、被害が深刻化するケースが目立ってきているということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260910de49443.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260910de49443",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "「ランサムウエア」のサイバー攻撃被害 半期で過去最多 警察庁",
+      "description": "企業などのデータを暗号化して金銭などを要求するサイバー攻撃、「ランサムウエア」の被害がことし上半期で123件にのぼり、半年間の件数としては最も多くなったことが警察庁のまとめでわかりました。復旧にかかる",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20260910de49443_E0000027541_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20260910de49443/20260910de49443_E0000003473_1_l.jpg",
+      "duration": "PT1M26S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20260910de49443_E0000027541_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49443/20260910de49443_E0000003473_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "張本勲さん死去 86歳 プロ野球最多安打 解説者では「喝！」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260910de49426",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49426/20260910de49426_E0000027379_1_s.jpg",
+      "datePublished": "2026-09-10T17:20:42+09:00"
+    },
+    {
+      "name": "前線再び北上 11日太平洋側中心に雨強まる予想 土砂災害に注意",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260909de49378",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49378/20260909de49378_E0000027992_1_s.jpg",
+      "datePublished": "2026-09-10T17:53:52+09:00"
+    },
+    {
+      "name": "中道 立民・公明出身者で分裂へ 統一会派での連携維持が課題",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260909de49377",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49377/20260909de49377_E0000027329_1_s.jpg",
+      "datePublished": "2026-09-10T05:02:00+09:00"
+    },
+    {
+      "name": "ラスカー賞に睡眠研究の筑波大 柳沢教授らと中外製薬研究者3人",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260910de49414",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49414/20260910de49414_E0000027355_1_s.jpg",
+      "datePublished": "2026-09-10T17:56:24+09:00"
+    },
+    {
+      "name": "東京 狛江 強盗致死事件 実行役の被告 無期懲役確定へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260910de49410",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49410/20260910de49410_E0000003568_1_s.jpg",
+      "datePublished": "2026-09-10T02:19:00+09:00"
+    },
+    {
+      "name": "アップル 初の折りたたみ式スマホ発表 販売価格36万円余から",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260909de49403",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49403/20260909de49403_E0000027356_1_s.jpg",
+      "datePublished": "2026-09-10T17:48:09+09:00"
+    },
+    {
+      "name": "将棋「王位戦」藤井聡太六冠が防衛 7連覇を果たす",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260909de49392",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49392/20260909de49392_E0000027325_1_s.jpg",
+      "datePublished": "2026-09-09T23:51:00+09:00"
+    },
+    {
+      "name": "千葉豪雨でマンション地下設備が浸水 停電 断水が課題に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de49018",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de49018/20260908de49018_E0000027181_1_s.jpg",
+      "datePublished": "2026-09-09T22:07:58+09:00"
+    },
+    {
+      "name": "沖縄県知事選挙 候補者のフェイク相次ぐ 生成AIの偽動画も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260909de49372",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49372/20260909de49372_E0000027273_1_s.jpg",
+      "datePublished": "2026-09-09T20:02:00+09:00"
+    },
+    {
+      "name": "SNSで関心高まる沖縄県知事選 YouTube動画を分析すると…",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47963",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47963/20260903de47963_E0000024453_1_s.jpg",
+      "datePublished": "2026-09-05T17:30:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

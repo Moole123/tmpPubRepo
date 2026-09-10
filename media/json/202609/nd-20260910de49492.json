@@ -1,0 +1,201 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260910de49492",
+  "dataSourceId": "nd",
+  "name": "米政府機関「中国企業が産業規模で米AI蒸留」非難 中国は反発",
+  "headline": "米政府機関「中国企業が産業規模で米AI蒸留」非難 中国は反発",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260910de49492",
+    "playlistId": "news-nwa-international-nationwide-20260910",
+    "newsarticleName": "米政府機関「中国企業が産業規模で米AI蒸留」非難 中国は反発",
+    "playlistName": "9月10日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "アメリカの政府機関は、中国企業6社が、アメリカ企業が開発した最先端のAIの機能を「蒸留」と呼ばれる手法を用いて「産業規模」で抜き出しているとして、非難する文書を出しました。\n\n中国政府は「事実無根だ」",
+  "dateModified": "2026-09-10T14:32:00+09:00",
+  "datePublished": "2026-09-10T14:32:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49492/20260910de49492_E0000027672_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49492/20260910de49492_E0000027672_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000419",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "E0000000215",
+      "name": "中国",
+      "display": true
+    },
+    {
+      "id": "E0000000174",
+      "name": "米中関係",
+      "display": true
+    },
+    {
+      "id": "E0000000106",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "アメリカの政府機関は、中国企業6社が、アメリカ企業が開発した最先端のAIの機能を「蒸留」と呼ばれる手法を用いて「産業規模」で抜き出しているとして、非難する文書を出しました。\n\n中国政府は「事実無根だ」",
+  "articleBody": "アメリカの政府機関は、中国企業6社が、アメリカ企業が開発した最先端のAIの機能を「蒸留」と呼ばれる手法を用いて「産業規模」で抜き出しているとして、非難する文書を出しました。\n\n中国政府は「事実無根だ」などと反発していて、9月下旬に予定される米中首脳会談を前に議題の1つとされるAIをめぐり非難の応酬となっています。\n\n\nアメリカのNSA＝国家安全保障局などの政府機関は、8日に発表した文書で、新興企業の「ディープシーク」など中国企業6社が、2024年以降、アメリカ企業が開発した最先端のAIの機能を「蒸留」と呼ばれる手法で抜き出していたとして非難しました。\n\n「蒸留」はAIに大量の質問をして回答を集め、その知識を別のAIに学ばせる技術で、文書のなかでは、中国企業が不正なアカウントなどを用いて追跡を回避しながらこれを産業規模で行い、「AIの開発期間の短縮とコストの削減という恩恵を受けている」と主張しています。\n\nこれに対して中国商務省の報道官は9日談話を発表し「産業規模の蒸留という非難は事実無根だ」と反発し、「蒸留はAIの分野では相互学習の一般的な手法だ」としています。\n\nそのうえで「アメリカが蒸留への打撃を名目に、中国のAI企業を封じ込める行動に出るのなら断固として対抗措置を講じる」としています。\n\n米中関係をめぐっては、9月下旬に習近平国家主席が訪米してトランプ大統領と首脳会談を行う予定ですが、議題の1つとされるAIをめぐり非難の応酬となっています。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカの政府機関は、中国企業6社が、アメリカ企業が開発した最先端のAIの機能を「蒸留」と呼ばれる手法を用いて「産業規模」で抜き出しているとして、非難する文書を出しました。\n\n中国政府は「事実無根だ」などと反発していて、9月下旬に予定される米中首脳会談を前に議題の1つとされるAIをめぐり非難の応酬となっています。\n",
+    "markedBody": "アメリカのNSA＝国家安全保障局などの政府機関は、8日に発表した文書で、新興企業の「ディープシーク」など中国企業6社が、2024年以降、アメリカ企業が開発した最先端のAIの機能を「蒸留」と呼ばれる手法で抜き出していたとして非難しました。\n\n「蒸留」はAIに大量の質問をして回答を集め、その知識を別のAIに学ばせる技術で、文書のなかでは、中国企業が不正なアカウントなどを用いて追跡を回避しながらこれを産業規模で行い、「AIの開発期間の短縮とコストの削減という恩恵を受けている」と主張しています。\n\nこれに対して中国商務省の報道官は9日談話を発表し「産業規模の蒸留という非難は事実無根だ」と反発し、「蒸留はAIの分野では相互学習の一般的な手法だ」としています。\n\nそのうえで「アメリカが蒸留への打撃を名目に、中国のAI企業を封じ込める行動に出るのなら断固として対抗措置を講じる」としています。\n\n米中関係をめぐっては、9月下旬に習近平国家主席が訪米してトランプ大統領と首脳会談を行う予定ですが、議題の1つとされるAIをめぐり非難の応酬となっています。\n",
+    "trimmedLead": "アメリカの政府機関は、中国企業6社が、アメリカ企業が開発した最先端のAIの機能を「蒸留」と呼ばれる手法を用いて「産業規模」で抜き出しているとして、非難する文書を出しました。\n\n中国政府は「事実無根だ」などと反発していて、9月下旬に予定される米中首脳会談を前に議題の1つとされるAIをめぐり非難の応酬となっています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260910de49492.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260910de49492",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "米政府機関「中国企業が産業規模で米AI蒸留」非難 中国は反発",
+      "description": "アメリカの政府機関は、中国企業6社が、アメリカ企業が開発した最先端のAIの機能を「蒸留」と呼ばれる手法を用いて「産業規模」で抜き出しているとして、非難する文書を出しました。\n\n中国政府は「事実無根だ」",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20260910de49492_E0000027693_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20260910de49492/20260910de49492_E0000027672_1_l.jpg",
+      "duration": "PT1M33S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20260910de49492_E0000027693_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49492/20260910de49492_E0000027672_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "フィリピン西部でフェリー火災 5人死亡86人行方不明",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260910de49477",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49477/20260910de49477_E0000027605_1_s.jpg",
+      "datePublished": "2026-09-10T13:43:18+09:00"
+    },
+    {
+      "name": "トランプ大統領 共和党大会で演説「民主党に委ねれば悲劇だ」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260909de49402",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49402/20260909de49402_E0000027559_1_s.jpg",
+      "datePublished": "2026-09-10T15:44:05+09:00"
+    },
+    {
+      "name": "アップル 初の折りたたみ式スマホ発表 販売価格36万円余から",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260909de49403",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49403/20260909de49403_E0000027356_1_s.jpg",
+      "datePublished": "2026-09-10T17:48:09+09:00"
+    },
+    {
+      "name": "ホルムズ海峡巡る米イラン応酬で船舶への攻撃相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260910de49416",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49416/20260910de49416_E0000027348_1_s.jpg",
+      "datePublished": "2026-09-10T11:28:52+09:00"
+    },
+    {
+      "name": "米財務省 国債買い戻し3倍に引き上げも長期金利は上昇",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260910de49424",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49424/20260910de49424_E0000027376_1_s.jpg",
+      "datePublished": "2026-09-10T08:34:55+09:00"
+    },
+    {
+      "name": "米トランプ大統領 ロシアとウクライナとの3者会談実現に意欲",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260910de49420",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49420/20260910de49420_E0000027369_1_s.jpg",
+      "datePublished": "2026-09-10T07:02:00+09:00"
+    },
+    {
+      "name": "ロシア報道官 米中ロ3か国首脳会談 “可能性はある”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260910de49413",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49413/20260910de49413_E0000027346_1_s.jpg",
+      "datePublished": "2026-09-10T06:16:58+09:00"
+    },
+    {
+      "name": "ドイツ州議選で躍進の「極右」党首と首相が議会で舌戦",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260909de49405",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49405/20260909de49405_E0000027335_1_s.jpg",
+      "datePublished": "2026-09-10T04:26:00+09:00"
+    },
+    {
+      "name": "ラスカー賞に睡眠研究の筑波大 柳沢教授らと中外製薬研究者3人",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260910de49414",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49414/20260910de49414_E0000027355_1_s.jpg",
+      "datePublished": "2026-09-10T17:56:24+09:00"
+    },
+    {
+      "name": "国連本部で日本寄贈の「平和の鐘」鳴らす式典",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260910de49412",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49412/20260910de49412_E0000027353_1_s.jpg",
+      "datePublished": "2026-09-10T05:23:25+09:00"
+    },
+    {
+      "name": "ネパール土石流 ヒマラヤ山脈の新たな危機",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de48970",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de48970/20260908de48970_E0000026242_1_s.jpg",
+      "datePublished": "2026-09-08T15:29:27+09:00"
+    },
+    {
+      "name": "ウクライナ 深まる苦境 ゼレンスキー大統領の試練",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260909de49254",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49254/20260909de49254_E0000026879_1_s.jpg",
+      "datePublished": "2026-09-09T15:02:03+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

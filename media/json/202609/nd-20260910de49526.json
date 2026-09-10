@@ -1,0 +1,173 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260910de49526",
+  "dataSourceId": "nd",
+  "name": "天皇皇后両陛下 国民スポーツ大会開会式出席で青森県訪問へ",
+  "headline": "天皇皇后両陛下 国民スポーツ大会開会式出席で青森県訪問へ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260910de49526",
+    "playlistId": "news-nwa-society-nationwide-20260910",
+    "newsarticleName": "天皇皇后両陛下 国民スポーツ大会開会式出席で青森県訪問へ",
+    "playlistName": "9月10日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "天皇皇后両陛下は「国民スポーツ大会」の開会式に出席するため、来月10日から2日間の日程で、青森県を訪問されることになりました。\n\n\n「国民スポーツ大会」はスポーツの普及や国民の健康と体力の向上を目的に",
+  "dateModified": "2026-09-10T16:47:00+09:00",
+  "datePublished": "2026-09-10T16:47:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49526/20260910de49526_E0000027898_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49526/20260910de49526_E0000027898_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000159",
+      "name": "皇室",
+      "display": true
+    },
+    {
+      "id": "E0000000330",
+      "name": "青森県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "天皇皇后両陛下は「国民スポーツ大会」の開会式に出席するため、来月10日から2日間の日程で、青森県を訪問されることになりました。\n\n\n「国民スポーツ大会」はスポーツの普及や国民の健康と体力の向上を目的に",
+  "articleBody": "天皇皇后両陛下は「国民スポーツ大会」の開会式に出席するため、来月10日から2日間の日程で、青森県を訪問されることになりました。\n\n\n「国民スポーツ大会」はスポーツの普及や国民の健康と体力の向上を目的に、毎年各都道府県の持ち回りで開催されている国内最大の総合スポーツ大会です。\n\n宮内庁によりますと、両陛下は来月10日に羽田空港から特別機で青森空港に到着し、午後、青森市のアリーナで開かれる国民スポーツ大会の開会式に出席されます。\n\n11日は午前中、青森市の総合体育館で行われる卓球を観戦されます。\n\n午後には、豊かな生態系の再生を目的に作られた人工の砂浜がある海浜公園を訪れて、環境保全活動を行う人から話を聞くほか、「青森ねぶた祭」の歴史を紹介する市の観光施設などを訪ね、夜に東京に戻られる予定です。\n",
+  "detailedArticleBody": {
+    "markedLead": "天皇皇后両陛下は「国民スポーツ大会」の開会式に出席するため、来月10日から2日間の日程で、青森県を訪問されることになりました。\n",
+    "markedBody": "「国民スポーツ大会」はスポーツの普及や国民の健康と体力の向上を目的に、毎年各都道府県の持ち回りで開催されている国内最大の総合スポーツ大会です。\n\n宮内庁によりますと、両陛下は来月10日に羽田空港から特別機で青森空港に到着し、午後、青森市のアリーナで開かれる国民スポーツ大会の開会式に出席されます。\n\n11日は午前中、青森市の総合体育館で行われる卓球を観戦されます。\n\n午後には、豊かな生態系の再生を目的に作られた人工の砂浜がある海浜公園を訪れて、環境保全活動を行う人から話を聞くほか、「青森ねぶた祭」の歴史を紹介する市の観光施設などを訪ね、夜に東京に戻られる予定です。\n",
+    "trimmedLead": "天皇皇后両陛下は「国民スポーツ大会」の開会式に出席するため、来月10日から2日間の日程で、青森県を訪問されることになりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260910de49526.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260910de49526",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "天皇皇后両陛下 国民スポーツ大会開会式出席で青森県訪問へ",
+      "description": "天皇皇后両陛下は「国民スポーツ大会」の開会式に出席するため、来月10日から2日間の日程で、青森県を訪問されることになりました。\n\n\n「国民スポーツ大会」はスポーツの普及や国民の健康と体力の向上を目的に",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20260910de49526_E0000027964_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20260910de49526/20260910de49526_E0000027898_1_l.jpg",
+      "duration": "PT50S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20260910de49526_E0000027964_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49526/20260910de49526_E0000027898_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "天皇陛下 皇居で稲刈り",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de48978",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de48978/20260908de48978_E0000026290_1_s.jpg",
+      "datePublished": "2026-09-08T13:59:00+09:00"
+    },
+    {
+      "name": "前線再び北上 11日太平洋側中心に雨強まる予想 土砂災害に注意",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260909de49378",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49378/20260909de49378_E0000027992_1_s.jpg",
+      "datePublished": "2026-09-10T17:53:52+09:00"
+    },
+    {
+      "name": "名古屋 記録的な大雨で後片づけ続く 車のレッカー依頼も相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260910de49446",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49446/20260910de49446_E0000027783_1_s.jpg",
+      "datePublished": "2026-09-10T15:06:00+09:00"
+    },
+    {
+      "name": "「ランサムウエア」のサイバー攻撃被害 半期で過去最多 警察庁",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260910de49443",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49443/20260910de49443_E0000003473_1_s.jpg",
+      "datePublished": "2026-09-10T10:59:00+09:00"
+    },
+    {
+      "name": "世界遺産の高野山で宿坊営む複数の宗教法人 1億円超の申告漏れ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260910de49447",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49447/20260910de49447_E0000027441_1_s.jpg",
+      "datePublished": "2026-09-10T16:54:31+09:00"
+    },
+    {
+      "name": "“AIが人々の命奪いかねない”アンソロピック研究者が退社表明",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260910de49482",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49482/20260910de49482_E0000027623_1_s.jpg",
+      "datePublished": "2026-09-10T13:57:00+09:00"
+    },
+    {
+      "name": "張本勲さん死去 86歳 プロ野球最多安打 解説者では「喝！」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260910de49426",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49426/20260910de49426_E0000027379_1_s.jpg",
+      "datePublished": "2026-09-10T17:20:42+09:00"
+    },
+    {
+      "name": "三重 新名神6人死亡事故 元会社員に拘禁刑7年求刑",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260910de49522",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49522/20260910de49522_E0000027861_1_s.jpg",
+      "datePublished": "2026-09-10T15:52:13+09:00"
+    },
+    {
+      "name": "アップル 初の折りたたみ式スマホ発表 販売価格36万円余から",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260909de49403",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49403/20260909de49403_E0000027356_1_s.jpg",
+      "datePublished": "2026-09-10T17:48:09+09:00"
+    },
+    {
+      "name": "ドジャース大谷翔平選手 15日間のけが人リスト入りへ 移籍後初",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260910de49433",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49433/20260910de49433_E0000027779_1_s.jpg",
+      "datePublished": "2026-09-10T17:49:40+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
