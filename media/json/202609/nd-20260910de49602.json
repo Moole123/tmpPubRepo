@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260910de49602",
+  "dataSourceId": "nd",
+  "name": "中国青島 修理中の貨物船で火災 25人死亡",
+  "headline": "中国青島 修理中の貨物船で火災 25人死亡",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260910de49602",
+    "playlistId": "news-nwa-international-nationwide-20260910",
+    "newsarticleName": "中国青島 修理中の貨物船で火災 25人死亡",
+    "playlistName": "9月10日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "中国の国営メディアによりますと、日本時間の10日正午すぎ、東部の山東省青島で、修理中だった貨物船で火災が発生し、これまでに25人が死亡したということです。\n\n\n中国国営の新華社通信によりますと、現地時",
+  "dateModified": "2026-09-10T22:21:57+09:00",
+  "datePublished": "2026-09-10T22:21:57+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49602/20260910de49602_E0000004049_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49602/20260910de49602_E0000004049_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000215",
+      "name": "中国",
+      "display": true
+    },
+    {
+      "id": "E0000000657",
+      "name": "火災",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "中国の国営メディアによりますと、日本時間の10日正午すぎ、東部の山東省青島で、修理中だった貨物船で火災が発生し、これまでに25人が死亡したということです。\n\n\n中国国営の新華社通信によりますと、現地時",
+  "articleBody": "中国の国営メディアによりますと、日本時間の10日正午すぎ、東部の山東省青島で、修理中だった貨物船で火災が発生し、これまでに25人が死亡したということです。\n\n\n中国国営の新華社通信によりますと、現地時間の10日11時すぎ、日本時間の正午すぎ、東部の山東省青島の造船所で、修理中だった外国籍の貨物船で火災が発生しました。\n\n火は、およそ3時間後に消し止められましたが、当時、船にいた42人のうち、25人の死亡が確認されたということです。\n\nまた、5人が病院に搬送されたということです。\n\n習近平国家主席は、速やかに原因を究明し、責任を追及するよう求める重要指示を出しました。\n\n北京にある日本大使館によりますと、これまでに日本人の被害は確認されていないということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "中国の国営メディアによりますと、日本時間の10日正午すぎ、東部の山東省青島で、修理中だった貨物船で火災が発生し、これまでに25人が死亡したということです。\n",
+    "markedBody": "中国国営の新華社通信によりますと、現地時間の10日11時すぎ、日本時間の正午すぎ、東部の山東省青島の造船所で、修理中だった外国籍の貨物船で火災が発生しました。\n\n火は、およそ3時間後に消し止められましたが、当時、船にいた42人のうち、25人の死亡が確認されたということです。\n\nまた、5人が病院に搬送されたということです。\n\n習近平国家主席は、速やかに原因を究明し、責任を追及するよう求める重要指示を出しました。\n\n北京にある日本大使館によりますと、これまでに日本人の被害は確認されていないということです。\n",
+    "trimmedLead": "中国の国営メディアによりますと、日本時間の10日正午すぎ、東部の山東省青島で、修理中だった貨物船で火災が発生し、これまでに25人が死亡したということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260910de49602.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260910de49602",
+  "video": [],
+  "citation": [
+    {
+      "name": "ウクライナ大統領を乗せた専用機に無人機接近か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260910de49582",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49582/20260910de49582_E0000028129_1_s.jpg",
+      "datePublished": "2026-09-10T21:33:07+09:00"
+    },
+    {
+      "name": "イラク・レバノンの退避勧告 一部解除 外務省",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260910de49583",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49583/20260910de49583_E0000028108_1_s.jpg",
+      "datePublished": "2026-09-10T20:54:32+09:00"
+    },
+    {
+      "name": "太平洋島しょ国 ミサイル実験に懸念表明 中国名指しせず",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260905de48312",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48312/20260905de48312_E0000025142_1_s.jpg",
+      "datePublished": "2026-09-05T15:11:00+09:00"
+    },
+    {
+      "name": "ネパール土石流 発生から2週間 国際社会に支援呼びかけへ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de49138",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de49138/20260908de49138_E0000027137_1_s.jpg",
+      "datePublished": "2026-09-09T20:31:53+09:00"
+    },
+    {
+      "name": "ネパール土石流 トンネルに120人以上取り残されたか 捜索続く",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de49163",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de49163/20260908de49163_E0000026740_1_s.jpg",
+      "datePublished": "2026-09-08T22:48:44+09:00"
+    },
+    {
+      "name": "米政府機関「中国企業が産業規模で米AI蒸留」非難 中国は反発",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260910de49492",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49492/20260910de49492_E0000027672_1_s.jpg",
+      "datePublished": "2026-09-10T14:32:00+09:00"
+    },
+    {
+      "name": "家畜の感染症「口てい疫」感染性のあるウイルスが検疫で初検出",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260910de49458",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49458/20260910de49458_E0000027522_1_s.jpg",
+      "datePublished": "2026-09-10T12:20:00+09:00"
+    },
+    {
+      "name": "中国 習主席がBRICSで7年ぶりインド訪問 訪米へ外交活発化",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260910de49599",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49599/20260910de49599_E0000028171_1_s.jpg",
+      "datePublished": "2026-09-10T22:00:24+09:00"
+    },
+    {
+      "name": "中国習主席訪米に企業団同行か 米大統領「国賓待遇の夕食会」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260905de48325",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48325/20260905de48325_E0000025152_1_s.jpg",
+      "datePublished": "2026-09-05T15:54:00+09:00"
+    },
+    {
+      "name": "ロシア報道官 米中ロ3か国首脳会談 “可能性はある”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260910de49413",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49413/20260910de49413_E0000027346_1_s.jpg",
+      "datePublished": "2026-09-10T06:16:58+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
