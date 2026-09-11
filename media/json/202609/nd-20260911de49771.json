@@ -1,0 +1,160 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260911de49771",
+  "dataSourceId": "nd",
+  "name": "青森 国民スポーツ大会のゴルフ会場でクマ目撃 競技中止",
+  "headline": "青森 国民スポーツ大会のゴルフ会場でクマ目撃 競技中止",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260911de49771",
+    "playlistId": "news-nwa-society-nationwide-20260911",
+    "newsarticleName": "青森 国民スポーツ大会のゴルフ会場でクマ目撃 競技中止",
+    "playlistName": "9月11日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "国民スポーツ大会＝国スポの会期前競技として青森市で行われていたゴルフ・少年男子の会場で11日、親子とみられるクマ2頭が目撃され、競技は中止となりました。けがをした人はいませんでした。\n\n\n青森県により",
+  "dateModified": "2026-09-11T19:40:41+09:00",
+  "datePublished": "2026-09-11T19:40:41+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260911de49771/20260911de49771_E0000028629_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260911de49771/20260911de49771_E0000028629_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000330",
+      "name": "青森県",
+      "display": true
+    },
+    {
+      "id": "E0000000521",
+      "name": "クマ被害",
+      "display": true
+    },
+    {
+      "id": "E0000000227",
+      "name": "ゴルフ",
+      "display": true
+    },
+    {
+      "id": "E0000000510",
+      "name": "ゴルフ（男子）",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "国民スポーツ大会＝国スポの会期前競技として青森市で行われていたゴルフ・少年男子の会場で11日、親子とみられるクマ2頭が目撃され、競技は中止となりました。けがをした人はいませんでした。\n\n\n青森県により",
+  "articleBody": "国民スポーツ大会＝国スポの会期前競技として青森市で行われていたゴルフ・少年男子の会場で11日、親子とみられるクマ2頭が目撃され、競技は中止となりました。けがをした人はいませんでした。\n\n\n青森県によりますと、11日午前8時10分ごろ、国スポの会期前競技の1つ、ゴルフ・少年男子の会場となっている青森市の「東奥カントリークラブ」で、コースを巡回していたスタッフが親子とみられるクマ2頭を目撃しました。\n\nクマはその後、隣のホールへ走っていき、そのまま近くにある林の中に入っていったということです。\n\nこのため、運営側が競技を中断して選手らをクラブハウスに避難させ、主催する日本スポーツ協会などが競技の中止を決定しました。\n\nけがをした人はいないということです。\n\nゴルフの少年男子は10日から84人が参加して行われ、10日の成績をもとに最終的な順位を決定するということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "国民スポーツ大会＝国スポの会期前競技として青森市で行われていたゴルフ・少年男子の会場で11日、親子とみられるクマ2頭が目撃され、競技は中止となりました。けがをした人はいませんでした。\n",
+    "markedBody": "青森県によりますと、11日午前8時10分ごろ、国スポの会期前競技の1つ、ゴルフ・少年男子の会場となっている青森市の「東奥カントリークラブ」で、コースを巡回していたスタッフが親子とみられるクマ2頭を目撃しました。\n\nクマはその後、隣のホールへ走っていき、そのまま近くにある林の中に入っていったということです。\n\nこのため、運営側が競技を中断して選手らをクラブハウスに避難させ、主催する日本スポーツ協会などが競技の中止を決定しました。\n\nけがをした人はいないということです。\n\nゴルフの少年男子は10日から84人が参加して行われ、10日の成績をもとに最終的な順位を決定するということです。\n",
+    "trimmedLead": "国民スポーツ大会＝国スポの会期前競技として青森市で行われていたゴルフ・少年男子の会場で11日、親子とみられるクマ2頭が目撃され、競技は中止となりました。けがをした人はいませんでした。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260911de49771.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260911de49771",
+  "video": [],
+  "citation": [
+    {
+      "name": "【詳しく】消費税減税の大綱案 1％に引き下げへ 対応策は？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260911de49656",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260911de49656/20260911de49656_E0000028604_1_s.jpg",
+      "datePublished": "2026-09-11T19:44:12+09:00"
+    },
+    {
+      "name": "相模原 高校生暴行死 直前にオートバイ巡りトラブルか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260911de49664",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260911de49664/20260911de49664_E0000028308_1_s.jpg",
+      "datePublished": "2026-09-11T18:13:00+09:00"
+    },
+    {
+      "name": "片山財務相“胴元は日本語では怖いが市場感の表れの報道も”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260911de49706",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260911de49706/20260911de49706_E0000028439_1_s.jpg",
+      "datePublished": "2026-09-11T16:28:48+09:00"
+    },
+    {
+      "name": "中部電力 浜岡原発再稼働に向けた審査 申請取り下げで最終調整",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260911de49642",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260911de49642/20260911de49642_E0000028241_1_s.jpg",
+      "datePublished": "2026-09-11T20:08:59+09:00"
+    },
+    {
+      "name": "府省庁職員ら24万件超の個人情報漏えいか 松本デジタル相会見",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260911de49659",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260911de49659/20260911de49659_E0000003836_1_s.jpg",
+      "datePublished": "2026-09-11T20:30:54+09:00"
+    },
+    {
+      "name": "バンド演奏用の楽譜“模倣され無料公開”賠償責任は？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260911de49721",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260911de49721/20260911de49721_E0000028480_1_s.jpg",
+      "datePublished": "2026-09-11T17:34:25+09:00"
+    },
+    {
+      "name": "米同時多発テロ事件から25年 このあと追悼式典",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260911de49614",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260911de49614/20260911de49614_E0000028213_1_s.jpg",
+      "datePublished": "2026-09-11T18:45:32+09:00"
+    },
+    {
+      "name": "米保守系活動家チャーリー・カーク氏殺害1年で追悼集会",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260911de49739",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260911de49739/20260911de49739_E0000028560_1_s.jpg",
+      "datePublished": "2026-09-11T18:32:44+09:00"
+    },
+    {
+      "name": "大相撲 横綱 豊昇龍が秋場所休場 7月に右ひざ手術",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260911de49645",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260911de49645/20260911de49645_E0000028254_1_s.jpg",
+      "datePublished": "2026-09-11T12:31:50+09:00"
+    },
+    {
+      "name": "故郷に初優勝と大関昇進の喜びを！",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260911de49663",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260911de49663/20260911de49663_E0000028293_1_s.jpg",
+      "datePublished": "2026-09-11T14:41:11+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
