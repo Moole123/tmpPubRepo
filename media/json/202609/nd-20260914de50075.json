@@ -1,0 +1,114 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260914de50075",
+  "dataSourceId": "nd",
+  "name": "各党支持率「自民党」35.9％ 「支持なし」37.6％ NHK世論調査",
+  "headline": "各党支持率「自民党」35.9％ 「支持なし」37.6％ NHK世論調査",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260914de50075",
+    "playlistId": "news-nwa-politics-nationwide-20260914",
+    "newsarticleName": "各党支持率「自民党」35.9％ 「支持なし」37.6％ NHK世論調査",
+    "playlistName": "9月14日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "9月の各党の支持率です。\n\n「自民党」が35.9％、「日本維新の会」が2.3％、「国民民主党」が2.8％、「中道改革連合」が1.2％、「立憲民主党」が3.7％、「参政党」が2.5％、「公明党」が2.5",
+  "dateModified": "2026-09-14T19:01:02+09:00",
+  "datePublished": "2026-09-14T19:01:02+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260914de50075/20260914de50075_E0000029769_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260914de50075/20260914de50075_E0000029769_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "E0000000740",
+      "name": "NHK世論調査",
+      "display": true
+    },
+    {
+      "id": "E0000000135",
+      "name": "選挙",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "9月の各党の支持率です。\n\n「自民党」が35.9％、「日本維新の会」が2.3％、「国民民主党」が2.8％、「中道改革連合」が1.2％、「立憲民主党」が3.7％、「参政党」が2.5％、「公明党」が2.5",
+  "articleBody": "9月の各党の支持率です。\n\n「自民党」が35.9％、「日本維新の会」が2.3％、「国民民主党」が2.8％、「中道改革連合」が1.2％、「立憲民主党」が3.7％、「参政党」が2.5％、「公明党」が2.5％、「チームみらい」が0.8％、「共産党」が2.5％、「いのちの党」が0.2％、「社民党」が0.6％、「日本保守党」が0.7％、「特に支持している政党はない」が37.6％でした。\n\n\n【リンク】NHK世論調査\n\n【リンク】NHK世論調査\n内閣支持率、政党支持率の時系列 グラフはこちらから\n\n政党支持率は、自民党が35.9％だったのに対し、野党はいずれも3％台以下でした。\n\n「特に支持している政党はない」は37.6％でした。\n\n年代別で見ますと、自民党は年代が上がるほど高くなる傾向があり、40代以下では20％台後半だったのに対し、50代から70代は30％台後半、80歳以上では40％台後半でした。\n\nまた、立憲民主党も年代が上がるほど高くなり、80歳以上で6.9％でした。\n\n一方、国民民主党は30代以下で9.7％と若い人で高く、参政党は40代で9.1％と高くなっています。\n",
+  "detailedArticleBody": {
+    "markedLead": "9月の各党の支持率です。\n\n「自民党」が35.9％、「日本維新の会」が2.3％、「国民民主党」が2.8％、「中道改革連合」が1.2％、「立憲民主党」が3.7％、「参政党」が2.5％、「公明党」が2.5％、「チームみらい」が0.8％、「共産党」が2.5％、「いのちの党」が0.2％、「社民党」が0.6％、「日本保守党」が0.7％、「特に支持している政党はない」が37.6％でした。\n",
+    "markedBody": ":::nw--link-type4 {href=https://www.nhk.or.jp/senkyo/shijiritsu/}\n![【リンク】NHK世論調査](https://img.web.nhk/news/nd/kiji/20260914de50075/20260914de50075_E0000005964_1_l.jpg)\n\n**【リンク】NHK世論調査**\\\n内閣支持率、政党支持率の時系列 グラフはこちらから\n:::\n\n:::nw--border {style=border-color:#DF1E1E}\n![](https://img.web.nhk/news/nd/kiji/20260914de50075/20260914de50075_E0000029545_1_l.jpg \"※注・層別分析をする場合は各層の人数が100人以上であることを目安としています\")\n\n政党支持率は、自民党が35.9％だったのに対し、野党はいずれも3％台以下でした。\n\n「特に支持している政党はない」は37.6％でした。\n\n年代別で見ますと、自民党は年代が上がるほど高くなる傾向があり、40代以下では20％台後半だったのに対し、50代から70代は30％台後半、80歳以上では40％台後半でした。\n\nまた、立憲民主党も年代が上がるほど高くなり、80歳以上で6.9％でした。\n\n一方、国民民主党は30代以下で9.7％と若い人で高く、参政党は40代で9.1％と高くなっています。\n:::\n",
+    "trimmedLead": "9月の各党の支持率です。\n\n「自民党」が35.9％、「日本維新の会」が2.3％、「国民民主党」が2.8％、「中道改革連合」が1.2％、「立憲民主党」が3.7％、「参政党」が2.5％、「公明党」が2.5％、「チームみらい」が0.8％、「共産党」が2.5％、「いのちの党」が0.2％、「社民党」が0.6％、「日本保守党」が0.7％、「特に支持している政党はない」が37.6％でした。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260914de50075.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260914de50075",
+  "video": [],
+  "citation": [
+    {
+      "name": "沖縄県知事選 初当選の古謝氏が一夜明け抱負",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260914de50046",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260914de50046/20260914de50046_E0000029305_1_s.jpg",
+      "datePublished": "2026-09-14T13:39:02+09:00"
+    },
+    {
+      "name": "沖縄県知事選挙 新人の古謝玄太氏が初当選 現職ら抑える",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260907de48826",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48826/20260907de48826_E0000029166_1_s.jpg",
+      "datePublished": "2026-09-14T08:06:55+09:00"
+    },
+    {
+      "name": "【解説】沖縄県知事選挙 古謝氏の勝因は? 高市政権への影響は?",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260913de49962",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260913de49962/20260913de49962_E0000029197_1_s.jpg",
+      "datePublished": "2026-09-13T22:33:45+09:00"
+    },
+    {
+      "name": "沖縄県知事選挙 出口調査の結果は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260907de48824",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48824/20260907de48824_E0000029131_1_s.jpg",
+      "datePublished": "2026-09-13T20:01:43+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
