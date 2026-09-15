@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260915de50348",
+  "dataSourceId": "nd",
+  "name": "松本デジタル相\"不正アクセス早期検知へ 監視体制強化\"",
+  "headline": "松本デジタル相\"不正アクセス早期検知へ 監視体制強化\"",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260915de50348",
+    "playlistId": "news-nwa-politics-nationwide-20260915",
+    "newsarticleName": "松本デジタル相\"不正アクセス早期検知へ 監視体制強化\"",
+    "playlistName": "9月15日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "不正アクセスにより、政府内のネットワークから府省庁の職員らの個人情報24万件あまりが漏えいした可能性が明らかになったことを受けて、松本デジタル大臣は、不正アクセスを早期に検知して必要な措置をとれるよう",
+  "dateModified": "2026-09-15T15:31:12+09:00",
+  "datePublished": "2026-09-15T15:31:12+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260915de50348/20260915de50348_E0000030363_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260915de50348/20260915de50348_E0000030363_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "E0000000461",
+      "name": "デジタル庁",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "不正アクセスにより、政府内のネットワークから府省庁の職員らの個人情報24万件あまりが漏えいした可能性が明らかになったことを受けて、松本デジタル大臣は、不正アクセスを早期に検知して必要な措置をとれるよう",
+  "articleBody": "不正アクセスにより、政府内のネットワークから府省庁の職員らの個人情報24万件あまりが漏えいした可能性が明らかになったことを受けて、松本デジタル大臣は、不正アクセスを早期に検知して必要な措置をとれるよう、監視体制の強化などに取り組む考えを示しました。\n\n\nデジタル庁によりますと、ことし6月25日、サーバー上の大量のファイルへのアクセスが検知され、その2週間後の7月9日に第三者による不正アクセスと分かり、外部との通信を遮断する措置がとられたということです。\n\n松本デジタル大臣は15日、閣議のあとの記者会見で、不正アクセスと判明するまで2週間かかったことについて、正規の業務によるアクセスか、不正利用かを確認するのに時間が必要だったと説明しました。\n\nその上で「一定のタイムラグが出てしまったので改善し、できるだけタイムラグを短くする対処は必要だ」と述べ、不正アクセスを早期に検知して必要な措置をとれるよう、監視体制の強化や分析手法の改善に取り組む考えを示しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "不正アクセスにより、政府内のネットワークから府省庁の職員らの個人情報24万件あまりが漏えいした可能性が明らかになったことを受けて、松本デジタル大臣は、不正アクセスを早期に検知して必要な措置をとれるよう、監視体制の強化などに取り組む考えを示しました。\n",
+    "markedBody": "デジタル庁によりますと、ことし6月25日、サーバー上の大量のファイルへのアクセスが検知され、その2週間後の7月9日に第三者による不正アクセスと分かり、外部との通信を遮断する措置がとられたということです。\n\n松本デジタル大臣は15日、閣議のあとの記者会見で、不正アクセスと判明するまで2週間かかったことについて、正規の業務によるアクセスか、不正利用かを確認するのに時間が必要だったと説明しました。\n\nその上で「一定のタイムラグが出てしまったので改善し、できるだけタイムラグを短くする対処は必要だ」と述べ、不正アクセスを早期に検知して必要な措置をとれるよう、監視体制の強化や分析手法の改善に取り組む考えを示しました。\n",
+    "trimmedLead": "不正アクセスにより、政府内のネットワークから府省庁の職員らの個人情報24万件あまりが漏えいした可能性が明らかになったことを受けて、松本デジタル大臣は、不正アクセスを早期に検知して必要な措置をとれるよう、監視体制の強化などに取り組む考えを示しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260915de50348.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260915de50348",
+  "video": [],
+  "citation": [
+    {
+      "name": "米アンソロピックCEO“AI開発ペース減速させる必要”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260913de49934",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260913de49934/20260913de49934_E0000028990_1_s.jpg",
+      "datePublished": "2026-09-13T17:24:03+09:00"
+    },
+    {
+      "name": "“AIが人々の命奪いかねない”アンソロピック研究者が退社表明",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260910de49482",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49482/20260910de49482_E0000027623_1_s.jpg",
+      "datePublished": "2026-09-10T13:57:00+09:00"
+    },
+    {
+      "name": "NEC 高性能AI使ったサイバーセキュリティー対策発表",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260902de47804",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47804/20260902de47804_E0000022048_1_s.jpg",
+      "datePublished": "2026-09-02T16:43:00+09:00"
+    },
+    {
+      "name": "「ランサムウエア」のサイバー攻撃被害 半期で過去最多 警察庁",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260910de49443",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49443/20260910de49443_E0000003473_1_s.jpg",
+      "datePublished": "2026-09-10T19:09:46+09:00"
+    },
+    {
+      "name": "熊本地震 公費解体本格化前に人材バンクで人員派遣強化 環境省",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260914de50205",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260914de50205/20260914de50205_E0000029923_1_s.jpg",
+      "datePublished": "2026-09-15T06:31:00+09:00"
+    },
+    {
+      "name": "前線南下で激しい雨のおそれ 熱帯低気圧の動向にも注意",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260914de50211",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260914de50211/20260914de50211_E0000030349_1_s.jpg",
+      "datePublished": "2026-09-15T15:24:15+09:00"
+    },
+    {
+      "name": "景気よくなっている実感「ある」15％「ない」78％ NHK世論調査",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260914de50076",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260914de50076/20260914de50076_E0000029534_1_s.jpg",
+      "datePublished": "2026-09-15T05:00:59+09:00"
+    },
+    {
+      "name": "中部電力 経営トップ2人辞任へ 組織の意識改革につながるか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260914de50203",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260914de50203/20260914de50203_E0000029918_1_s.jpg",
+      "datePublished": "2026-09-15T05:11:00+09:00"
+    },
+    {
+      "name": "浜岡原発データ不正 規制委が立ち入り検査結果取りまとめへ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260915de50216",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260915de50216/20260915de50216_E0000029934_1_s.jpg",
+      "datePublished": "2026-09-15T05:14:29+09:00"
+    },
+    {
+      "name": "歴史を変えるのはあなた？立体地図で“遺跡大発見時代”が到来",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de48015",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de48015/20260903de48015_E0000028882_1_s.jpg",
+      "datePublished": "2026-09-12T19:39:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
