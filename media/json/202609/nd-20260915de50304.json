@@ -1,0 +1,151 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260915de50304",
+  "dataSourceId": "nd",
+  "name": "名古屋市の大雨被害 普通交付税を繰り上げ交付へ 総務省",
+  "headline": "名古屋市の大雨被害 普通交付税を繰り上げ交付へ 総務省",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260915de50304",
+    "playlistId": "news-nwa-politics-nationwide-20260915",
+    "newsarticleName": "名古屋市の大雨被害 普通交付税を繰り上げ交付へ 総務省",
+    "playlistName": "9月15日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "9月8日の記録的な大雨で被害を受けた名古屋市に対し、普通交付税1億6000万円あまりが繰り上げて交付されることになりました。\n\n\n普通交付税は、地方自治体の財源不足を補うため、国から年4回に分けて交付",
+  "dateModified": "2026-09-15T14:43:17+09:00",
+  "datePublished": "2026-09-15T14:43:17+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260915de50304/20260915de50304_E0000030234_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260915de50304/20260915de50304_E0000030234_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治",
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000351",
+      "name": "愛知県",
+      "display": true
+    },
+    {
+      "id": "E0000000455",
+      "name": "総務省",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "9月8日の記録的な大雨で被害を受けた名古屋市に対し、普通交付税1億6000万円あまりが繰り上げて交付されることになりました。\n\n\n普通交付税は、地方自治体の財源不足を補うため、国から年4回に分けて交付",
+  "articleBody": "9月8日の記録的な大雨で被害を受けた名古屋市に対し、普通交付税1億6000万円あまりが繰り上げて交付されることになりました。\n\n\n普通交付税は、地方自治体の財源不足を補うため、国から年4回に分けて交付されていますが、大規模な災害があった場合などには時期を繰り上げて交付されます。\n\n総務省は、9月8日の記録的な大雨で被害を受けた名古屋市の資金繰りを円滑にするため、ことし11月に交付予定の普通交付税の一部、1億6100万円を、16日に繰り上げて交付することを決めました。\n\n林総務大臣は、閣議のあとの記者会見で「引き続き、被害状況などを踏まえながら、被災自治体の財政運営に支障が生じないよう適切に対応していく」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "9月8日の記録的な大雨で被害を受けた名古屋市に対し、普通交付税1億6000万円あまりが繰り上げて交付されることになりました。\n",
+    "markedBody": "普通交付税は、地方自治体の財源不足を補うため、国から年4回に分けて交付されていますが、大規模な災害があった場合などには時期を繰り上げて交付されます。\n\n総務省は、9月8日の記録的な大雨で被害を受けた名古屋市の資金繰りを円滑にするため、ことし11月に交付予定の普通交付税の一部、1億6100万円を、16日に繰り上げて交付することを決めました。\n\n![](https://img.web.nhk/news/nd/kiji/20260915de50304/20260915de50304_E0000030235_1_l.jpg)\n\n林総務大臣は、閣議のあとの記者会見で「引き続き、被害状況などを踏まえながら、被災自治体の財政運営に支障が生じないよう適切に対応していく」と述べました。\n",
+    "trimmedLead": "9月8日の記録的な大雨で被害を受けた名古屋市に対し、普通交付税1億6000万円あまりが繰り上げて交付されることになりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260915de50304.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260915de50304",
+  "video": [],
+  "citation": [
+    {
+      "name": "記録的大雨当日の名古屋駅周辺の推計人口 ふだんの1.7倍に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260915de50284",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260915de50284/20260915de50284_E0000030142_1_s.jpg",
+      "datePublished": "2026-09-15T11:46:00+09:00"
+    },
+    {
+      "name": "名古屋 記録的大雨から3日 交差点に動かない車も 影響続く",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260911de49737",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260911de49737/20260911de49737_E0000028530_1_s.jpg",
+      "datePublished": "2026-09-11T19:09:40+09:00"
+    },
+    {
+      "name": "名古屋 記録的な大雨で後片づけ続く 車のレッカー依頼も相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260910de49446",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49446/20260910de49446_E0000027783_1_s.jpg",
+      "datePublished": "2026-09-10T15:06:00+09:00"
+    },
+    {
+      "name": "熊本地震 公費解体本格化前に人材バンクで人員派遣強化 環境省",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260914de50205",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260914de50205/20260914de50205_E0000029923_1_s.jpg",
+      "datePublished": "2026-09-15T06:31:00+09:00"
+    },
+    {
+      "name": "前線南下で激しい雨のおそれ 熱帯低気圧の動向にも注意",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260914de50211",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260914de50211/20260914de50211_E0000030349_1_s.jpg",
+      "datePublished": "2026-09-15T15:24:15+09:00"
+    },
+    {
+      "name": "江崎グリコ アーモンド飲料 約10万本自主回収 細菌混入で",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260914de50180",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260914de50180/20260914de50180_E0000029956_1_s.jpg",
+      "datePublished": "2026-09-14T20:32:00+09:00"
+    },
+    {
+      "name": "景気よくなっている実感「ある」15％「ない」78％ NHK世論調査",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260914de50076",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260914de50076/20260914de50076_E0000029534_1_s.jpg",
+      "datePublished": "2026-09-15T05:00:59+09:00"
+    },
+    {
+      "name": "中部電力 経営トップ2人辞任へ 組織の意識改革につながるか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260914de50203",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260914de50203/20260914de50203_E0000029918_1_s.jpg",
+      "datePublished": "2026-09-15T05:11:00+09:00"
+    },
+    {
+      "name": "浜岡原発データ不正 規制委が立ち入り検査結果取りまとめへ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260915de50216",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260915de50216/20260915de50216_E0000029934_1_s.jpg",
+      "datePublished": "2026-09-15T05:14:29+09:00"
+    },
+    {
+      "name": "歴史を変えるのはあなた？立体地図で“遺跡大発見時代”が到来",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de48015",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de48015/20260903de48015_E0000028882_1_s.jpg",
+      "datePublished": "2026-09-12T19:39:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
