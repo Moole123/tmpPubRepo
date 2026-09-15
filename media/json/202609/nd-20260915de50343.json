@@ -1,0 +1,151 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260915de50343",
+  "dataSourceId": "nd",
+  "name": "長期金利 再び上昇し3.035％まで上昇 30年ぶりの高い水準",
+  "headline": "長期金利 再び上昇し3.035％まで上昇 30年ぶりの高い水準",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260915de50343",
+    "playlistId": "news-nwa-business-nationwide-20260915",
+    "newsarticleName": "長期金利 再び上昇し3.035％まで上昇 30年ぶりの高い水準",
+    "playlistName": "9月15日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "きょうの債券市場では長期金利が上昇し、およそ30年ぶりの水準となる3.035％をつけました。\n\n\nきょうの債券市場では、国債を売る動きが広がり、長期金利の代表的な指標である10年ものの国債の利回りが3",
+  "dateModified": "2026-09-15T19:03:03+09:00",
+  "datePublished": "2026-09-15T14:51:33+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260915de50343/20260915de50343_E0000003661_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260915de50343/20260915de50343_E0000003661_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000725",
+      "name": "金利",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "きょうの債券市場では長期金利が上昇し、およそ30年ぶりの水準となる3.035％をつけました。\n\n\nきょうの債券市場では、国債を売る動きが広がり、長期金利の代表的な指標である10年ものの国債の利回りが3",
+  "articleBody": "きょうの債券市場では長期金利が上昇し、およそ30年ぶりの水準となる3.035％をつけました。\n\n\nきょうの債券市場では、国債を売る動きが広がり、長期金利の代表的な指標である10年ものの国債の利回りが3.035％まで上昇しました。\n\n日本相互証券によりますと、1996年9月以来およそ30年ぶりの高い水準です。\n\n原油の先物価格の上昇を背景にアメリカの長期金利が一時、5％を超える高い水準となっている流れを受けて、日本でも国債を売る動きが進んでいます。\n\n市場関係者は、「原油の先物価格の上昇で日本国内でもインフレが進み、日銀が利上げのペースを早めるのではないかという観測から、金利の先高感も意識されている」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "きょうの債券市場では長期金利が上昇し、およそ30年ぶりの水準となる3.035％をつけました。\n",
+    "markedBody": "きょうの債券市場では、国債を売る動きが広がり、長期金利の代表的な指標である10年ものの国債の利回りが3.035％まで上昇しました。\n\n日本相互証券によりますと、1996年9月以来およそ30年ぶりの高い水準です。\n\n原油の先物価格の上昇を背景にアメリカの長期金利が一時、5％を超える高い水準となっている流れを受けて、日本でも国債を売る動きが進んでいます。\n\n市場関係者は、「原油の先物価格の上昇で日本国内でもインフレが進み、日銀が利上げのペースを早めるのではないかという観測から、金利の先高感も意識されている」と話しています。\n",
+    "trimmedLead": "きょうの債券市場では長期金利が上昇し、およそ30年ぶりの水準となる3.035％をつけました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260915de50343.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260915de50343",
+  "video": [],
+  "citation": [
+    {
+      "name": "高市首相 沖縄県知事選当選の古謝氏と経済活性化など連携確認",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260915de50294",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260915de50294/20260915de50294_E0000030194_1_s.jpg",
+      "datePublished": "2026-09-15T15:41:58+09:00"
+    },
+    {
+      "name": "前線南下で激しい雨のおそれ 熱帯低気圧の動向にも注意",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260914de50211",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260914de50211/20260914de50211_E0000030349_1_s.jpg",
+      "datePublished": "2026-09-15T15:24:15+09:00"
+    },
+    {
+      "name": "エミー賞 ヒロ・ムライさんがアジア系初コメディー部門監督賞",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260915de50369",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260915de50369/20260915de50369_E0000030482_1_s.jpg",
+      "datePublished": "2026-09-15T16:16:00+09:00"
+    },
+    {
+      "name": "マイクロソフト AI開発の新行動規範を公表し意見募集",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260915de50293",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260915de50293/20260915de50293_E0000030164_1_s.jpg",
+      "datePublished": "2026-09-15T12:20:00+09:00"
+    },
+    {
+      "name": "子育て世帯「フラット35」金利引き下げ拡大を検討へ 国交省",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260914de50204",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260914de50204/20260914de50204_E0000029925_1_s.jpg",
+      "datePublished": "2026-09-15T05:09:00+09:00"
+    },
+    {
+      "name": "江崎グリコ アーモンド飲料 約10万本自主回収 細菌混入で",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260914de50180",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260914de50180/20260914de50180_E0000029956_1_s.jpg",
+      "datePublished": "2026-09-14T20:32:00+09:00"
+    },
+    {
+      "name": "景気よくなっている実感「ある」15％「ない」78％ NHK世論調査",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260914de50076",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260914de50076/20260914de50076_E0000029534_1_s.jpg",
+      "datePublished": "2026-09-15T05:00:59+09:00"
+    },
+    {
+      "name": "自民 維新 税制調査会幹部 消費税減税の大綱案了承 閣議決定へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260914de50115",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260914de50115/20260914de50115_E0000029654_1_s.jpg",
+      "datePublished": "2026-09-14T22:21:55+09:00"
+    },
+    {
+      "name": "中部電力 経営トップ2人辞任へ 組織の意識改革につながるか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260914de50203",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260914de50203/20260914de50203_E0000029918_1_s.jpg",
+      "datePublished": "2026-09-15T05:11:00+09:00"
+    },
+    {
+      "name": "浜岡原発データ不正 規制委が立ち入り検査結果取りまとめへ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260915de50216",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260915de50216/20260915de50216_E0000029934_1_s.jpg",
+      "datePublished": "2026-09-15T05:14:29+09:00"
+    },
+    {
+      "name": "歴史を変えるのはあなた？立体地図で“遺跡大発見時代”が到来",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de48015",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de48015/20260903de48015_E0000028882_1_s.jpg",
+      "datePublished": "2026-09-12T19:39:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
