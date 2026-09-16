@@ -1,0 +1,132 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260917de50715",
+  "dataSourceId": "nd",
+  "name": "【台風25号】小笠原諸島では18日以降 雨風が強まるおそれ",
+  "headline": "【台風25号】小笠原諸島では18日以降 雨風が強まるおそれ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260917de50715",
+    "playlistId": "news-nwa-disaster-nationwide-20260917",
+    "newsarticleName": "【台風25号】小笠原諸島では18日以降 雨風が強まるおそれ",
+    "playlistName": "9月17日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "大型の台風25号は日本のはるか南東の海上を北に進んでいて、小笠原諸島では18日から19日ごろにかけて雨や風が強まって波も高くなる見込みです。\n台風はその後、本州の南の海上に進み、連休の天気に影響を与え",
+  "dateModified": "2026-09-17T07:09:26+09:00",
+  "datePublished": "2026-09-17T05:11:36+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50715/20260917de50715_E0000031635_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50715/20260917de50715_E0000031635_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000202",
+      "name": "台風",
+      "display": true
+    },
+    {
+      "id": "E0000000114",
+      "name": "気象",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "大型の台風25号は日本のはるか南東の海上を北に進んでいて、小笠原諸島では18日から19日ごろにかけて雨や風が強まって波も高くなる見込みです。\n台風はその後、本州の南の海上に進み、連休の天気に影響を与え",
+  "articleBody": "大型の台風25号は日本のはるか南東の海上を北に進んでいて、小笠原諸島では18日から19日ごろにかけて雨や風が強まって波も高くなる見込みです。\n台風はその後、本州の南の海上に進み、連休の天気に影響を与えるおそれがあり、最新の情報を確認するようにしてください。\n\n\n台風や大雨の最新情報 雨雲レーダーは「ニュース・防災アプリ」で\n\n台風や大雨の最新情報 雨雲レーダーは「ニュース・防災アプリ」で\n\n気象庁の観測によりますと、16日午後9時、日本のはるか南東の海上で熱帯低気圧が台風25号に変わりました。\n\n大型の台風25号は、17日の午前6時にはマリアナ諸島付近にあって、1時間に25キロの速さで北へ進んでいます。\n\n中心の気圧は996ヘクトパスカル、中心付近の最大風速は20メートル、最大瞬間風速は30メートルで中心の北側950キロ以内と南側440キロ以内では風速15メートル以上の強い風が吹いています。\n\n台風はやや発達しながら18日以降小笠原諸島の近海へ進む見込みで、小笠原諸島では18日から19日ごろにかけて雨や風が強まるとともに、海上はうねりを伴って大しけになるおそれがあります。\n\n気象庁は高波に警戒するとともに、強風や大雨による土砂災害に十分注意するよう呼びかけています。\n\nその後の台風の予報は幅が大きくなっていますが、進路を北東よりに変えて本州の南の海上に進む可能性があります。\n\n連休の天気に影響を与えるおそれがあり、気象庁は最新の気象情報を確認するよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "大型の台風25号は日本のはるか南東の海上を北に進んでいて、小笠原諸島では18日から19日ごろにかけて雨や風が強まって波も高くなる見込みです。\\\n台風はその後、本州の南の海上に進み、連休の天気に影響を与えるおそれがあり、最新の情報を確認するようにしてください。\n",
+    "markedBody": ":::nw--link-type4 {href=https://www.nhk.or.jp/nhkone/service/app/news_bousai/}\n![台風や大雨の最新情報 雨雲レーダーは「ニュース・防災アプリ」で](https://img.web.nhk/news/nd/kiji/20260917de50715/20260917de50715_E0000003925_1_l.jpg)\n\n**台風や大雨の最新情報 雨雲レーダーは「ニュース・防災アプリ」で**\n:::\n\n気象庁の観測によりますと、16日午後9時、日本のはるか南東の海上で熱帯低気圧が台風25号に変わりました。\n\n大型の台風25号は、17日の午前6時にはマリアナ諸島付近にあって、1時間に25キロの速さで北へ進んでいます。\n\n中心の気圧は996ヘクトパスカル、中心付近の最大風速は20メートル、最大瞬間風速は30メートルで中心の北側950キロ以内と南側440キロ以内では風速15メートル以上の強い風が吹いています。\n\n台風はやや発達しながら18日以降小笠原諸島の近海へ進む見込みで、小笠原諸島では18日から19日ごろにかけて雨や風が強まるとともに、海上はうねりを伴って大しけになるおそれがあります。\n\n気象庁は高波に警戒するとともに、強風や大雨による土砂災害に十分注意するよう呼びかけています。\n\nその後の台風の予報は幅が大きくなっていますが、進路を北東よりに変えて本州の南の海上に進む可能性があります。\n\n連休の天気に影響を与えるおそれがあり、気象庁は最新の気象情報を確認するよう呼びかけています。\n\n```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"003\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\n    <div class=\"fs-wrap\">\n      <h2 class=\"freespace-title\">台風マップ</h2>\n\n      <a href=\"https://news.web.nhk/bousai-map/typhoon/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"tenkiBousaiMap-fullscreenBtn\">全画面でマップを見る</a>\n\n      <div class=\"tenkiBousaiMap-wrap\">\n        <iframe src=\"https://news.web.nhk/bousai-map/typhoon/?mapMenu=off&amp;help=off&amp;halfModal=off&amp;typhoonSelection=off&amp;disableUserLocation=on\" allowfullscreen=\"allowfullscreen\" scrolling=\"no\" class=\"js-iframe-dataMap\"></iframe>\n      </div>\n    </div>\n</div>\n```\n",
+    "noHtmlMarkedLead": "大型の台風25号は日本のはるか南東の海上を北に進んでいて、小笠原諸島では18日から19日ごろにかけて雨や風が強まって波も高くなる見込みです。\\\n台風はその後、本州の南の海上に進み、連休の天気に影響を与えるおそれがあり、最新の情報を確認するようにしてください。\n",
+    "noHtmlMarkedBody": ":::nw--link-type4 {href=https://www.nhk.or.jp/nhkone/service/app/news_bousai/}\n![台風や大雨の最新情報 雨雲レーダーは「ニュース・防災アプリ」で](https://img.web.nhk/news/nd/kiji/20260917de50715/20260917de50715_E0000003925_1_l.jpg)\n\n**台風や大雨の最新情報 雨雲レーダーは「ニュース・防災アプリ」で**\n:::\n\n気象庁の観測によりますと、16日午後9時、日本のはるか南東の海上で熱帯低気圧が台風25号に変わりました。\n\n大型の台風25号は、17日の午前6時にはマリアナ諸島付近にあって、1時間に25キロの速さで北へ進んでいます。\n\n中心の気圧は996ヘクトパスカル、中心付近の最大風速は20メートル、最大瞬間風速は30メートルで中心の北側950キロ以内と南側440キロ以内では風速15メートル以上の強い風が吹いています。\n\n台風はやや発達しながら18日以降小笠原諸島の近海へ進む見込みで、小笠原諸島では18日から19日ごろにかけて雨や風が強まるとともに、海上はうねりを伴って大しけになるおそれがあります。\n\n気象庁は高波に警戒するとともに、強風や大雨による土砂災害に十分注意するよう呼びかけています。\n\nその後の台風の予報は幅が大きくなっていますが、進路を北東よりに変えて本州の南の海上に進む可能性があります。\n\n連休の天気に影響を与えるおそれがあり、気象庁は最新の気象情報を確認するよう呼びかけています。\n",
+    "trimmedLead": "大型の台風25号は日本のはるか南東の海上を北に進んでいて、小笠原諸島では18日から19日ごろにかけて雨や風が強まって波も高くなる見込みです。\n台風はその後、本州の南の海上に進み、連休の天気に影響を与えるおそれがあり、最新の情報を確認するようにしてください。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260917de50715.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260917de50715",
+  "video": [],
+  "citation": [
+    {
+      "name": "【最新の台風情報】予想進路や勢力などを詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/typhoon/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00002_E0000003277_1_s.jpg"
+    },
+    {
+      "name": "台風マップ 予想進路や勢力をリアルタイム表示",
+      "url": "https://news.web.nhk/bousai-map/typhoon/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00357_E0000003388_1_s.jpg"
+    },
+    {
+      "name": "新たな防災気象情報と避難 いつ避難する？",
+      "url": "https://news.web.nhk/newsweb/na/nc-73478668-2271-4d37-85e6-639be6f2927c",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00031_E0000003429_1_s.jpg"
+    },
+    {
+      "name": "台風接近前にやっておきたい備え「タイムライン」で",
+      "url": "https://news.web.nhk/newsweb/na/nc-cc4a20bc-9976-493f-a087-23512046b7d3",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00053_E0000002559_1_s.jpg"
+    },
+    {
+      "name": "台風や低気圧による「暴風」注意点と対策は",
+      "url": "https://news.web.nhk/newsweb/na/nc-ed932a80-8b04-49af-b4e8-2e364a35b909",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00040_E0000001749_1_s.jpg"
+    },
+    {
+      "name": "伊勢湾台風とは？犠牲者5000人超「暴走木材」が街を襲った",
+      "url": "https://news.web.nhk/newsweb/na/nc-eb22b635-e86a-4563-8a47-77db97cbcfe6",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00061_E0000002663_1_s.jpg"
+    },
+    {
+      "name": "天気防災サイト あなたの街の天気予報や災害情報を即時提供",
+      "url": "https://news.web.nhk/kishou-saigai/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00367_E0000003399_1_s.jpg"
+    },
+    {
+      "name": "大雨 最新情報 雨雲レーダーは「NHK ONE ニュース・防災アプリ」で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014929581000",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00233_E0000003287_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": true
+  }
+}
