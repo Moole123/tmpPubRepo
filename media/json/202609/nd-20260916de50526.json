@@ -1,0 +1,127 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260916de50526",
+  "dataSourceId": "nd",
+  "name": "日経平均株価 小幅な値動き",
+  "headline": "日経平均株価 小幅な値動き",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260916de50526",
+    "playlistId": "news-nwa-business-nationwide-20260916",
+    "newsarticleName": "日経平均株価 小幅な値動き",
+    "playlistName": "9月16日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "16日の東京株式市場、日経平均株価は、売り買いが交錯して小幅な値動きとなっています。\n\n\n日経平均株価、午前の終値は15日の終値と比べて88円10銭安い、6万3396円00銭。\n\n一方、東証株価指数、",
+  "dateModified": "2026-09-16T12:07:04+09:00",
+  "datePublished": "2026-09-16T12:07:04+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50526/20260916de50526_E0000030926_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50526/20260916de50526_E0000030926_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000157",
+      "name": "株価・為替",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "16日の東京株式市場、日経平均株価は、売り買いが交錯して小幅な値動きとなっています。\n\n\n日経平均株価、午前の終値は15日の終値と比べて88円10銭安い、6万3396円00銭。\n\n一方、東証株価指数、",
+  "articleBody": "16日の東京株式市場、日経平均株価は、売り買いが交錯して小幅な値動きとなっています。\n\n\n日経平均株価、午前の終値は15日の終値と比べて88円10銭安い、6万3396円00銭。\n\n一方、東証株価指数、トピックスは20.28上がって4057.44。\n\n午前の出来高は、8億1078万株でした。\n\n市場関係者は、「日経平均株価がきのうまで3営業日連続で値下がりしているため、きょうの東京市場では値下がりした銘柄を買い戻す動きが出ている。ただ、原油の先物価格が1バレル＝100ドルを超えて推移していることなどから売り注文も出ていて、結果的に日経平均株価は小幅な値動きにとどまっている」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "16日の東京株式市場、日経平均株価は、売り買いが交錯して小幅な値動きとなっています。\n",
+    "markedBody": "日経平均株価、午前の終値は15日の終値と比べて88円10銭安い、6万3396円00銭。\n\n一方、東証株価指数、トピックスは20.28上がって4057.44。\n\n午前の出来高は、8億1078万株でした。\n\n市場関係者は、「日経平均株価がきのうまで3営業日連続で値下がりしているため、きょうの東京市場では値下がりした銘柄を買い戻す動きが出ている。ただ、原油の先物価格が1バレル＝100ドルを超えて推移していることなどから売り注文も出ていて、結果的に日経平均株価は小幅な値動きにとどまっている」と話しています。\n",
+    "trimmedLead": "16日の東京株式市場、日経平均株価は、売り買いが交錯して小幅な値動きとなっています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260916de50526.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260916de50526",
+  "video": [],
+  "citation": [
+    {
+      "name": "地価調査 全国で5年連続上昇 住宅地商業地とも需要堅調の中で",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260915de50254",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260915de50254/20260915de50254_E0000030532_1_s.jpg",
+      "datePublished": "2026-09-15T20:10:33+09:00"
+    },
+    {
+      "name": "消費税減税 小規模事業者が税率変化に対応できるか課題",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260915de50455",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260915de50455/20260915de50455_E0000030768_1_s.jpg",
+      "datePublished": "2026-09-16T06:05:00+09:00"
+    },
+    {
+      "name": "8月の貿易収支1兆1056億円の赤字 4か月連続の赤字",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260916de50481",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50481/20260916de50481_E0000030830_1_s.jpg",
+      "datePublished": "2026-09-16T09:00:00+09:00"
+    },
+    {
+      "name": "アメリカ長期金利が19年ぶりの高水準 インフレ懸念背景に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260916de50462",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50462/20260916de50462_E0000030786_1_s.jpg",
+      "datePublished": "2026-09-16T07:28:41+09:00"
+    },
+    {
+      "name": "ニューヨーク原油　1バレル＝106ドル台で約4か月ぶり高値水準",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260916de50468",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50468/20260916de50468_E0000030790_1_s.jpg",
+      "datePublished": "2026-09-16T09:20:24+09:00"
+    },
+    {
+      "name": "“令和のミスター円”円安トレンド変えるには？【経済コラム】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260910de49455",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49455/20260910de49455_E0000028499_1_s.jpg",
+      "datePublished": "2026-09-11T19:35:06+09:00"
+    },
+    {
+      "name": "AI需要拡大で経済・物価どうなる 日銀の金融政策にも影響？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47923",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47923/20260903de47923_E0000030447_1_s.jpg",
+      "datePublished": "2026-09-15T17:41:26+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
