@@ -1,0 +1,174 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260917de50855",
+  "dataSourceId": "nd",
+  "name": "米オープンAI 人間の意図に沿わないAI動作を早期公表へ",
+  "headline": "米オープンAI 人間の意図に沿わないAI動作を早期公表へ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260917de50855",
+    "playlistId": "news-nwa-international-nationwide-20260917",
+    "newsarticleName": "米オープンAI 人間の意図に沿わないAI動作を早期公表へ",
+    "playlistName": "9月17日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "AI開発をめぐり安全対策への懸念が高まる中、アメリカの「オープンAI」は、開発中のAIで生じた人間の意図に沿わない動作を早期に公表する方針を明らかにしました。社外の開発者などと広く知見を共有することで",
+  "dateModified": "2026-09-17T17:46:00+09:00",
+  "datePublished": "2026-09-17T17:46:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50855/20260917de50855_E0000032115_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50855/20260917de50855_E0000032115_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000106",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "E0000000419",
+      "name": "アメリカ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "AI開発をめぐり安全対策への懸念が高まる中、アメリカの「オープンAI」は、開発中のAIで生じた人間の意図に沿わない動作を早期に公表する方針を明らかにしました。社外の開発者などと広く知見を共有することで",
+  "articleBody": "AI開発をめぐり安全対策への懸念が高まる中、アメリカの「オープンAI」は、開発中のAIで生じた人間の意図に沿わない動作を早期に公表する方針を明らかにしました。社外の開発者などと広く知見を共有することで改善に生かしたいとしています。\n\n\n「ChatGPT」の開発を手がけるオープンAIは16日、開発中のAIで生じた人間の意図に沿わない動作について、完全に説明できない場合でも早期に公表するほか、社内で誰でも通報できる仕組みを取り入れると発表しました。\n\nまた、過去6か月間に確認されたAIの具体的な動作を明らかにし、みずから指示を追加したり、データをねつ造したりしたほか、複数のAIの間で無許可で情報交換したり、ファイルを勝手にインターネットにアップロードしたりした事例があったとしています。\n\nオープンAIは新たな方針のねらいについて、知見を広く共有することでほかの開発者などが同じ問題を検証し、改善策を講じることができるようにするほか、今後、業界全体での情報公開の基準策定に向けた一歩としたいとしています。\n\nAI開発をめぐり安全対策への懸念が高まる中、今月には、AI企業「アンソロピック」のCEOが開発の減速を求める声明を発表し、オープンAIのアルトマンCEOもその考えに賛同していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "AI開発をめぐり安全対策への懸念が高まる中、アメリカの「オープンAI」は、開発中のAIで生じた人間の意図に沿わない動作を早期に公表する方針を明らかにしました。社外の開発者などと広く知見を共有することで改善に生かしたいとしています。\n",
+    "markedBody": "「ChatGPT」の開発を手がけるオープンAIは16日、開発中のAIで生じた人間の意図に沿わない動作について、完全に説明できない場合でも早期に公表するほか、社内で誰でも通報できる仕組みを取り入れると発表しました。\n\nまた、過去6か月間に確認されたAIの具体的な動作を明らかにし、みずから指示を追加したり、データをねつ造したりしたほか、複数のAIの間で無許可で情報交換したり、ファイルを勝手にインターネットにアップロードしたりした事例があったとしています。\n\nオープンAIは新たな方針のねらいについて、知見を広く共有することでほかの開発者などが同じ問題を検証し、改善策を講じることができるようにするほか、今後、業界全体での情報公開の基準策定に向けた一歩としたいとしています。\n\nAI開発をめぐり安全対策への懸念が高まる中、今月には、AI企業「アンソロピック」のCEOが開発の減速を求める声明を発表し、オープンAIのアルトマンCEOもその考えに賛同していました。\n",
+    "trimmedLead": "AI開発をめぐり安全対策への懸念が高まる中、アメリカの「オープンAI」は、開発中のAIで生じた人間の意図に沿わない動作を早期に公表する方針を明らかにしました。社外の開発者などと広く知見を共有することで改善に生かしたいとしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260917de50855.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260917de50855",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "米オープンAI 人間の意図に沿わないAI動作を早期公表へ",
+      "description": "AI開発をめぐり安全対策への懸念が高まる中、アメリカの「オープンAI」は、開発中のAIで生じた人間の意図に沿わない動作を早期に公表する方針を明らかにしました。社外の開発者などと広く知見を共有することで",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20260917de50855_E0000032175_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20260917de50855/20260917de50855_E0000032115_1_l.jpg",
+      "duration": "PT1M17S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20260917de50855_E0000032175_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50855/20260917de50855_E0000032115_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "国連グテーレス事務総長 AI開発競争 国際的な規制必要と訴える",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50717",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50717/20260917de50717_E0000031633_1_s.jpg",
+      "datePublished": "2026-09-17T06:58:00+09:00"
+    },
+    {
+      "name": "米アンソロピックCEO“AI開発ペース減速させる必要”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260913de49934",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260913de49934/20260913de49934_E0000028990_1_s.jpg",
+      "datePublished": "2026-09-13T17:24:03+09:00"
+    },
+    {
+      "name": "“AIが人々の命奪いかねない”アンソロピック研究者が退社表明",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260910de49482",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49482/20260910de49482_E0000027623_1_s.jpg",
+      "datePublished": "2026-09-10T13:57:00+09:00"
+    },
+    {
+      "name": "米エヌビディアCEO AI開発に「新たな規制必要ない」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260916de50638",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50638/20260916de50638_E0000031446_2_s.jpg",
+      "datePublished": "2026-09-16T19:22:00+09:00"
+    },
+    {
+      "name": "アメリカでAI開発の規制求め政敵が“共闘” 議論活発に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50702",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50702/20260917de50702_E0000031610_1_s.jpg",
+      "datePublished": "2026-09-17T06:21:08+09:00"
+    },
+    {
+      "name": "【ライブ配信】第2次高市改造内閣が発足 記者会見",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50695",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50695/20260917de50695_E0000031608_1_s.jpg",
+      "datePublished": "2026-09-17T19:06:47+09:00"
+    },
+    {
+      "name": "台風25号 あす以降小笠原諸島近海 本州は連休中の天気に影響も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50715",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50715/20260917de50715_E0000032091_1_s.jpg",
+      "datePublished": "2026-09-17T17:24:29+09:00"
+    },
+    {
+      "name": "米 FRB 0.25％の利上げ決定 年内追加利上げに踏み切るか焦点に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260916de50687",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50687/20260916de50687_E0000031685_1_s.jpg",
+      "datePublished": "2026-09-17T10:29:00+09:00"
+    },
+    {
+      "name": "クマ被害 この秋の対策は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260915de50276",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260915de50276/20260915de50276_E0000030072_1_s.jpg",
+      "datePublished": "2026-09-15T14:43:33+09:00"
+    },
+    {
+      "name": "証拠は誰のものか 公開制限議論の行方",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260916de50530",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50530/20260916de50530_E0000030940_1_s.jpg",
+      "datePublished": "2026-09-16T15:32:27+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
