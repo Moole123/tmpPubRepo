@@ -1,0 +1,144 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260917de50882",
+  "dataSourceId": "nd",
+  "name": "安保3文書の改定に向けた有識者会議 AIの研究・開発求める意見",
+  "headline": "安保3文書の改定に向けた有識者会議 AIの研究・開発求める意見",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260917de50882",
+    "playlistId": "news-nwa-politics-nationwide-20260917",
+    "newsarticleName": "安保3文書の改定に向けた有識者会議 AIの研究・開発求める意見",
+    "playlistName": "9月17日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "安全保障関連の3文書の改定に向けた政府の有識者会議は、抑止力や対処力を強化するための取り組みについて議論し、出席者からはAIの研究・開発などを進めるべきだといった意見が出されました。\n\n\n政府の有識者",
+  "dateModified": "2026-09-17T19:58:33+09:00",
+  "datePublished": "2026-09-17T19:58:33+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50882/20260917de50882_E0000032264_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50882/20260917de50882_E0000032264_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "E0000000515",
+      "name": "安全保障",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "安全保障関連の3文書の改定に向けた政府の有識者会議は、抑止力や対処力を強化するための取り組みについて議論し、出席者からはAIの研究・開発などを進めるべきだといった意見が出されました。\n\n\n政府の有識者",
+  "articleBody": "安全保障関連の3文書の改定に向けた政府の有識者会議は、抑止力や対処力を強化するための取り組みについて議論し、出席者からはAIの研究・開発などを進めるべきだといった意見が出されました。\n\n\n政府の有識者会議は17日に4回目の会合を開き、「総合的な抑止力・対処力強化のための政府横断的な取り組み」をテーマに議論しました。\n\nこの中ではAIの研究・開発や輸送網を構築するための公共インフラの整備、それに自衛官や海上保安官の処遇改善などを進めるべきだといった意見が出されました。\n\nそして複数の出席者が、こうした取り組みを実現するため必要な防衛費を確保することが重要だと主張したということです。\n\nこのほか出席者の1人は、今回の改定で原子力潜水艦の導入について明記するよう求めたということです。\n\n会合のあと元統合幕僚長の山崎幸二氏は記者団に対し「安全保障の最終的な担保である防衛力について、必要な能力を確実に構築できるような予算と規模が必要だ」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "安全保障関連の3文書の改定に向けた政府の有識者会議は、抑止力や対処力を強化するための取り組みについて議論し、出席者からはAIの研究・開発などを進めるべきだといった意見が出されました。\n",
+    "markedBody": "政府の有識者会議は17日に4回目の会合を開き、「総合的な抑止力・対処力強化のための政府横断的な取り組み」をテーマに議論しました。\n\nこの中ではAIの研究・開発や輸送網を構築するための公共インフラの整備、それに自衛官や海上保安官の処遇改善などを進めるべきだといった意見が出されました。\n\nそして複数の出席者が、こうした取り組みを実現するため必要な防衛費を確保することが重要だと主張したということです。\n\nこのほか出席者の1人は、今回の改定で原子力潜水艦の導入について明記するよう求めたということです。\n\n会合のあと元統合幕僚長の山崎幸二氏は記者団に対し「安全保障の最終的な担保である防衛力について、必要な能力を確実に構築できるような予算と規模が必要だ」と述べました。\n",
+    "trimmedLead": "安全保障関連の3文書の改定に向けた政府の有識者会議は、抑止力や対処力を強化するための取り組みについて議論し、出席者からはAIの研究・開発などを進めるべきだといった意見が出されました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260917de50882.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260917de50882",
+  "video": [],
+  "citation": [
+    {
+      "name": "小泉防衛相“原子力潜水艦選択肢として排除せず”3文書改定で",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260911de49684",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260911de49684/20260911de49684_E0000028361_1_s.jpg",
+      "datePublished": "2026-09-11T13:27:00+09:00"
+    },
+    {
+      "name": "中国主催の安保会議 国防相が日本念頭に「軍国主義に警戒を」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260916de50642",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50642/20260916de50642_E0000031500_1_s.jpg",
+      "datePublished": "2026-09-16T19:57:24+09:00"
+    },
+    {
+      "name": "第2次高市改造内閣の顔ぶれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50741",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50741/20260917de50741_E0000031829_1_s.jpg",
+      "datePublished": "2026-09-17T18:47:09+09:00"
+    },
+    {
+      "name": "内閣改造 閣僚たちの抱負は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50835",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50835/20260917de50835_E0000003843_1_s.jpg",
+      "datePublished": "2026-09-17T18:43:28+09:00"
+    },
+    {
+      "name": "内閣改造 与野党の反応",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50830",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50830/20260917de50830_E0000032229_1_s.jpg",
+      "datePublished": "2026-09-17T18:27:00+09:00"
+    },
+    {
+      "name": "林総務相 入閣見送り“地域に貢献 一議員で何できるか考える”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50811",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50811/20260917de50811_E0000030892_1_s.jpg",
+      "datePublished": "2026-09-17T16:08:27+09:00"
+    },
+    {
+      "name": "内閣改造 経済界の反応 日本商工会議所会頭「継続は力なり」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50853",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50853/20260917de50853_E0000032105_1_s.jpg",
+      "datePublished": "2026-09-17T18:06:14+09:00"
+    },
+    {
+      "name": "「高市内閣」ニュース一覧",
+      "url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-0002672",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00281_E0000003299_1_s.jpg"
+    },
+    {
+      "name": "沖縄県知事選で12年ぶりの“保守県政”へ　結果と影響",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260915de50288",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260915de50288/20260915de50288_E0000030132_1_s.jpg",
+      "datePublished": "2026-09-15T16:24:57+09:00"
+    },
+    {
+      "name": "台風25号 小笠原諸島接近へ 東日本は連休中の天気に影響も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50715",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50715/20260917de50715_E0000032236_1_s.jpg",
+      "datePublished": "2026-09-17T19:21:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
