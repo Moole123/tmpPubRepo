@@ -1,0 +1,132 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260918de50941",
+  "dataSourceId": "nd",
+  "name": "フランス防衛企業がAIシステム発表“欧州は米国に依存せず”",
+  "headline": "フランス防衛企業がAIシステム発表“欧州は米国に依存せず”",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260918de50941",
+    "playlistId": "news-nwa-international-nationwide-20260918",
+    "newsarticleName": "フランス防衛企業がAIシステム発表“欧州は米国に依存せず”",
+    "playlistName": "9月18日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "フランスの大手防衛企業がAIを搭載した新たな軍事用のシステムを発表し、CEOはヨーロッパ各国はAI開発をリードするアメリカ企業に依存しないことが重要だとの考えを強調しました。\n\n\nフランスの大手防衛企",
+  "dateModified": "2026-09-18T06:36:08+09:00",
+  "datePublished": "2026-09-18T06:36:08+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de50941/20260918de50941_E0000032399_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de50941/20260918de50941_E0000032399_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000293",
+      "name": "フランス",
+      "display": true
+    },
+    {
+      "id": "E0000000106",
+      "name": "生成AI・人工知能",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "フランスの大手防衛企業がAIを搭載した新たな軍事用のシステムを発表し、CEOはヨーロッパ各国はAI開発をリードするアメリカ企業に依存しないことが重要だとの考えを強調しました。\n\n\nフランスの大手防衛企",
+  "articleBody": "フランスの大手防衛企業がAIを搭載した新たな軍事用のシステムを発表し、CEOはヨーロッパ各国はAI開発をリードするアメリカ企業に依存しないことが重要だとの考えを強調しました。\n\n\nフランスの大手防衛企業「タレス」は17日、前線に展開する部隊や艦艇、それに衛星などから幅広い情報を収集し、生成AIによって標的の選定や作戦の立案を行う新たなシステムを開発したと発表しました。\n\nシステムはそれぞれの国の防衛戦略や方針に沿って柔軟に運用ができることが強みだとしています。\n\nパトリス・ケーンCEOは「主権を保ち、データを管理できることは非常に重要だ」と述べ、ヨーロッパ各国がAI開発でリードするアメリカ企業に依存しないことが重要だと強調しました。\n\nまた、アメリカでAI開発を規制すべきかどうかの議論が活発になっていることについて、ケーンCEOは「AIを制御する方法はあると確信している。技術的な保証に加えて適切な枠組みが必要だ」と述べ、国際的な規制の枠組みが必要だという考えを示しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "フランスの大手防衛企業がAIを搭載した新たな軍事用のシステムを発表し、CEOはヨーロッパ各国はAI開発をリードするアメリカ企業に依存しないことが重要だとの考えを強調しました。\n",
+    "markedBody": "フランスの大手防衛企業「タレス」は17日、前線に展開する部隊や艦艇、それに衛星などから幅広い情報を収集し、生成AIによって標的の選定や作戦の立案を行う新たなシステムを開発したと発表しました。\n\nシステムはそれぞれの国の防衛戦略や方針に沿って柔軟に運用ができることが強みだとしています。\n\nパトリス・ケーンCEOは「主権を保ち、データを管理できることは非常に重要だ」と述べ、ヨーロッパ各国がAI開発でリードするアメリカ企業に依存しないことが重要だと強調しました。\n\nまた、アメリカでAI開発を規制すべきかどうかの議論が活発になっていることについて、ケーンCEOは「AIを制御する方法はあると確信している。技術的な保証に加えて適切な枠組みが必要だ」と述べ、国際的な規制の枠組みが必要だという考えを示しました。\n",
+    "trimmedLead": "フランスの大手防衛企業がAIを搭載した新たな軍事用のシステムを発表し、CEOはヨーロッパ各国はAI開発をリードするアメリカ企業に依存しないことが重要だとの考えを強調しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260918de50941.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260918de50941",
+  "video": [],
+  "citation": [
+    {
+      "name": "熊本地震の被災地支援　台湾で14億円以上の寄付金集まる",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50931",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50931/20260917de50931_E0000032372_1_s.jpg",
+      "datePublished": "2026-09-18T00:22:28+09:00"
+    },
+    {
+      "name": "北朝鮮の閣僚が来日 8年ぶりか アジア大会の開幕を前に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50908",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50908/20260917de50908_E0000032309_1_s.jpg",
+      "datePublished": "2026-09-17T21:21:45+09:00"
+    },
+    {
+      "name": "北朝鮮国防次官 「北京香山フォーラム」7年ぶり出席",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50892",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50892/20260917de50892_E0000032266_1_s.jpg",
+      "datePublished": "2026-09-17T21:07:23+09:00"
+    },
+    {
+      "name": "バンコクの高級住宅で日本人4人拘束、特殊詐欺に関与か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50845",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50845/20260917de50845_E0000032094_1_s.jpg",
+      "datePublished": "2026-09-17T18:37:00+09:00"
+    },
+    {
+      "name": "米オープンAI 人間の意図に沿わないAI動作を早期公表へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50855",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50855/20260917de50855_E0000032115_1_s.jpg",
+      "datePublished": "2026-09-17T17:46:00+09:00"
+    },
+    {
+      "name": "中国 国民の“出国規制”強化",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260915de50298",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260915de50298/20260915de50298_E0000030167_1_s.jpg",
+      "datePublished": "2026-09-15T16:01:24+09:00"
+    },
+    {
+      "name": "プーチン大統領に“友人”から苦言",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260916de50516",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50516/20260916de50516_E0000030913_1_s.jpg",
+      "datePublished": "2026-09-16T14:53:34+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
