@@ -1,0 +1,167 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260917de50777",
+  "dataSourceId": "nd",
+  "name": "東京 北区 マンション敷地内で刃物持った女が暴れる 2人がけが",
+  "headline": "東京 北区 マンション敷地内で刃物持った女が暴れる 2人がけが",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260917de50777",
+    "playlistId": "news-nwa-society-nationwide-20260917",
+    "newsarticleName": "東京 北区 マンション敷地内で刃物持った女が暴れる 2人がけが",
+    "playlistName": "9月17日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "警視庁や東京消防庁によりますと、17日午後0時20分ごろ、東京・北区滝野川にあるマンションの敷地内で「人が刺されたようだ」と119番通報がありました。\n\n刃物を持った女が暴れたとみられ、男性2人がけが",
+  "dateModified": "2026-09-17T14:40:07+09:00",
+  "datePublished": "2026-09-17T13:21:15+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50777/20260917de50777_E0000031827_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50777/20260917de50777_E0000031827_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000208",
+      "name": "事件・事故",
+      "display": true
+    },
+    {
+      "id": "E0000000341",
+      "name": "東京都",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "警視庁や東京消防庁によりますと、17日午後0時20分ごろ、東京・北区滝野川にあるマンションの敷地内で「人が刺されたようだ」と119番通報がありました。\n\n刃物を持った女が暴れたとみられ、男性2人がけが",
+  "articleBody": "警視庁や東京消防庁によりますと、17日午後0時20分ごろ、東京・北区滝野川にあるマンションの敷地内で「人が刺されたようだ」と119番通報がありました。\n\n刃物を持った女が暴れたとみられ、男性2人がけがをしたということです。\n\n詳しいけがの程度は分かっていませんが、いずれも意識はあるということです。\n\n警視庁は女を傷害の疑いでその場で逮捕し、詳しい状況を調べています。\n\n現場はJR板橋駅から南東に100メートル余り離れたマンションなどが建ち並ぶ地域で、近くには小学校もあります。\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "警視庁や東京消防庁によりますと、17日午後0時20分ごろ、東京・北区滝野川にあるマンションの敷地内で「人が刺されたようだ」と119番通報がありました。\n\n刃物を持った女が暴れたとみられ、男性2人がけがをしたということです。\n\n詳しいけがの程度は分かっていませんが、いずれも意識はあるということです。\n\n警視庁は女を傷害の疑いでその場で逮捕し、詳しい状況を調べています。\n\n現場はJR板橋駅から南東に100メートル余り離れたマンションなどが建ち並ぶ地域で、近くには小学校もあります。\n",
+    "markedBody": "",
+    "trimmedLead": "警視庁や東京消防庁によりますと、17日午後0時20分ごろ、東京・北区滝野川にあるマンションの敷地内で「人が刺されたようだ」と119番通報がありました。\n\n刃物を持った女が暴れたとみられ、男性2人がけがをしたということです。\n\n詳しいけがの程度は分かっていませんが、いずれも意識はあるということです。\n\n警視庁は女を傷害の疑いでその場で逮捕し、詳しい状況を調べています。\n\n現場はJR板橋駅から南東に100メートル余り離れたマンションなどが建ち並ぶ地域で、近くには小学校もあります。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260917de50777.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260917de50777",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "東京 北区 マンション敷地内で刃物持った女が暴れる 2人がけが",
+      "description": "警視庁や東京消防庁によりますと、17日午後0時20分ごろ、東京・北区滝野川にあるマンションの敷地内で「人が刺されたようだ」と119番通報がありました。\n\n刃物を持った女が暴れたとみられ、男性2人がけが",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20260917de50777_E0000032006_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20260917de50777/20260917de50777_E0000031827_1_l.jpg",
+      "duration": "PT41S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20260917de50777_E0000032006_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50777/20260917de50777_E0000031827_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "第2次高市改造内閣の閣僚名簿発表 午後6時半から記者会見 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50695",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50695/20260917de50695_E0000031608_1_s.jpg",
+      "datePublished": "2026-09-17T14:33:00+09:00"
+    },
+    {
+      "name": "台風25号 あす以降小笠原諸島近海 本州は連休中の天気に影響も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50715",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50715/20260917de50715_E0000031812_1_s.jpg",
+      "datePublished": "2026-09-17T12:00:00+09:00"
+    },
+    {
+      "name": "米 FRB 0.25％の利上げ決定 年内追加利上げに踏み切るか焦点に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260916de50687",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50687/20260916de50687_E0000031685_1_s.jpg",
+      "datePublished": "2026-09-17T10:29:00+09:00"
+    },
+    {
+      "name": "「核のごみ」処分地調査 常陸大宮市議は反対5賛成4 表明せずも",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50714",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50714/20260917de50714_E0000031628_1_s.jpg",
+      "datePublished": "2026-09-17T09:07:00+09:00"
+    },
+    {
+      "name": "ゼレンスキー大統領「北朝鮮は安い値段で現代戦を経験」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50707",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50707/20260917de50707_E0000031618_1_s.jpg",
+      "datePublished": "2026-09-17T05:19:35+09:00"
+    },
+    {
+      "name": "国連グテーレス事務総長 AI開発競争 国際的な規制必要と訴える",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50717",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50717/20260917de50717_E0000031633_1_s.jpg",
+      "datePublished": "2026-09-17T06:58:07+09:00"
+    },
+    {
+      "name": "日銀 きょうから金融政策決定会合 利上げを最終判断へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50713",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50713/20260917de50713_E0000031623_1_s.jpg",
+      "datePublished": "2026-09-17T05:29:47+09:00"
+    },
+    {
+      "name": "クマ被害 この秋の対策は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260915de50276",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260915de50276/20260915de50276_E0000030072_1_s.jpg",
+      "datePublished": "2026-09-15T14:43:33+09:00"
+    },
+    {
+      "name": "証拠は誰のものか 公開制限議論の行方",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260916de50530",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50530/20260916de50530_E0000030940_1_s.jpg",
+      "datePublished": "2026-09-16T15:32:27+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

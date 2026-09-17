@@ -1,0 +1,137 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260917de50800",
+  "dataSourceId": "nd",
+  "name": "内閣改造 法相に山下貴司元法相を起用へ",
+  "headline": "内閣改造 法相に山下貴司元法相を起用へ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260917de50800",
+    "playlistId": "news-nwa-politics-nationwide-20260917",
+    "newsarticleName": "内閣改造 法相に山下貴司元法相を起用へ",
+    "playlistName": "9月17日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "17日に行われる内閣改造で、高市総理大臣は、法務大臣に山下貴司・元法務大臣を起用する意向を固めました。\n\n山下氏が法務大臣を務めるのは2回目です。\n\n\n山下氏は衆議院岡山2区選出の当選6回で、61歳。",
+  "dateModified": "2026-09-17T13:07:00+09:00",
+  "datePublished": "2026-09-17T13:07:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50800/20260917de50800_E0000031763_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50800/20260917de50800_E0000031763_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "E0000010105",
+      "name": "内閣改造",
+      "display": true
+    },
+    {
+      "id": "E0000000640",
+      "name": "高市内閣",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "17日に行われる内閣改造で、高市総理大臣は、法務大臣に山下貴司・元法務大臣を起用する意向を固めました。\n\n山下氏が法務大臣を務めるのは2回目です。\n\n\n山下氏は衆議院岡山2区選出の当選6回で、61歳。",
+  "articleBody": "17日に行われる内閣改造で、高市総理大臣は、法務大臣に山下貴司・元法務大臣を起用する意向を固めました。\n\n山下氏が法務大臣を務めるのは2回目です。\n\n\n山下氏は衆議院岡山2区選出の当選6回で、61歳。\n\n旧茂木派の出身です。\n\n検察官を経て、2012年の衆議院選挙で初当選し、2018年に安倍内閣で当選3回で法務大臣に抜てきされました。\n\n現在は、衆議院内閣委員長を務めています。\n\nまた党の憲法改正実現本部の事務局長として憲法論議に携わっています。\n\n高市総理大臣としては、法務行政に精通する山下氏を起用することで、政権が掲げる政策の推進を図る狙いがあるものとみられます。\n",
+  "detailedArticleBody": {
+    "markedLead": "17日に行われる内閣改造で、高市総理大臣は、法務大臣に山下貴司・元法務大臣を起用する意向を固めました。\n\n山下氏が法務大臣を務めるのは2回目です。\n",
+    "markedBody": "山下氏は衆議院岡山2区選出の当選6回で、61歳。\n\n旧茂木派の出身です。\n\n検察官を経て、2012年の衆議院選挙で初当選し、2018年に安倍内閣で当選3回で法務大臣に抜てきされました。\n\n現在は、衆議院内閣委員長を務めています。\n\nまた党の憲法改正実現本部の事務局長として憲法論議に携わっています。\n\n高市総理大臣としては、法務行政に精通する山下氏を起用することで、政権が掲げる政策の推進を図る狙いがあるものとみられます。\n",
+    "trimmedLead": "17日に行われる内閣改造で、高市総理大臣は、法務大臣に山下貴司・元法務大臣を起用する意向を固めました。\n\n山下氏が法務大臣を務めるのは2回目です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260917de50800.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260917de50800",
+  "video": [],
+  "citation": [
+    {
+      "name": "第2次高市改造内閣の閣僚名簿発表 午後6時半から記者会見 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50695",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50695/20260917de50695_E0000031608_1_s.jpg",
+      "datePublished": "2026-09-17T14:33:00+09:00"
+    },
+    {
+      "name": "自民 新執行部が発足 内閣改造へ 高市首相の狙いは",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260916de50641",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50641/20260916de50641_E0000031568_1_s.jpg",
+      "datePublished": "2026-09-16T21:58:26+09:00"
+    },
+    {
+      "name": "参院自民党 人事を発表 参院幹事長に青木一彦氏 石井氏は交代",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260916de50497",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50497/20260916de50497_E0000030522_1_s.jpg",
+      "datePublished": "2026-09-16T13:58:55+09:00"
+    },
+    {
+      "name": "「高市内閣」ニュース一覧",
+      "url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-0002672",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00281_E0000003299_1_s.jpg"
+    },
+    {
+      "name": "中道分裂 立民出身者は新党「民主改革の会」届け出へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50705",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50705/20260917de50705_E0000031616_1_s.jpg",
+      "datePublished": "2026-09-17T05:05:05+09:00"
+    },
+    {
+      "name": "沖縄県知事選で12年ぶりの“保守県政”へ　結果と影響",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260915de50288",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260915de50288/20260915de50288_E0000030132_1_s.jpg",
+      "datePublished": "2026-09-15T16:24:57+09:00"
+    },
+    {
+      "name": "米 FRB 0.25％の利上げ決定 年内追加利上げに踏み切るか焦点に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260916de50687",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50687/20260916de50687_E0000031685_1_s.jpg",
+      "datePublished": "2026-09-17T10:29:00+09:00"
+    },
+    {
+      "name": "台風25号 あす以降小笠原諸島近海 本州は連休中の天気に影響も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50715",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50715/20260917de50715_E0000031812_1_s.jpg",
+      "datePublished": "2026-09-17T12:00:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
