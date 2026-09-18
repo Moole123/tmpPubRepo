@@ -1,0 +1,156 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260918de51120",
+  "dataSourceId": "nd",
+  "name": "円安進む 1ドル＝158円台に 日銀植田総裁の発言受け",
+  "headline": "円安進む 1ドル＝158円台に 日銀植田総裁の発言受け",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260918de51120",
+    "playlistId": "news-nwa-business-nationwide-20260918",
+    "newsarticleName": "円安進む 1ドル＝158円台に 日銀植田総裁の発言受け",
+    "playlistName": "9月18日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "18日のロンドン外国為替市場では、日銀の植田総裁の記者会見での発言を受けて円売りドル買いの動きが進み、円相場は一時、1ドル＝158円台まで値下がりしました。\n\n\n日銀の金融政策決定会合と植田総裁の記者",
+  "dateModified": "2026-09-18T20:47:43+09:00",
+  "datePublished": "2026-09-18T20:47:43+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de51120/20260918de51120_E0000033193_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de51120/20260918de51120_E0000033193_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000157",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "E0000000294",
+      "name": "イギリス",
+      "display": true
+    },
+    {
+      "id": "E0000000380",
+      "name": "日本銀行（日銀）",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "18日のロンドン外国為替市場では、日銀の植田総裁の記者会見での発言を受けて円売りドル買いの動きが進み、円相場は一時、1ドル＝158円台まで値下がりしました。\n\n\n日銀の金融政策決定会合と植田総裁の記者",
+  "articleBody": "18日のロンドン外国為替市場では、日銀の植田総裁の記者会見での発言を受けて円売りドル買いの動きが進み、円相場は一時、1ドル＝158円台まで値下がりしました。\n\n\n日銀の金融政策決定会合と植田総裁の記者会見を受けて、18日のロンドン外国為替市場では、東京市場に続いて円安が進み、円相場は一時、1ドル＝158円台まで値下がりしました。\n\n市場では植田総裁が会見で今後の利上げペースを示唆しなかったという受け止めが広がり、円を売ってドルを買う動きが進んでいます。\n\n市場関係者は「植田総裁の会見での発言から、市場が予想していたよりもさらなる利上げには積極的ではないという見方が広がったことで、円売りにつながっている」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "18日のロンドン外国為替市場では、日銀の植田総裁の記者会見での発言を受けて円売りドル買いの動きが進み、円相場は一時、1ドル＝158円台まで値下がりしました。\n",
+    "markedBody": "日銀の金融政策決定会合と植田総裁の記者会見を受けて、18日のロンドン外国為替市場では、東京市場に続いて円安が進み、円相場は一時、1ドル＝158円台まで値下がりしました。\n\n市場では植田総裁が会見で今後の利上げペースを示唆しなかったという受け止めが広がり、円を売ってドルを買う動きが進んでいます。\n\n市場関係者は「植田総裁の会見での発言から、市場が予想していたよりもさらなる利上げには積極的ではないという見方が広がったことで、円売りにつながっている」と話しています。\n",
+    "trimmedLead": "18日のロンドン外国為替市場では、日銀の植田総裁の記者会見での発言を受けて円売りドル買いの動きが進み、円相場は一時、1ドル＝158円台まで値下がりしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260918de51120.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260918de51120",
+  "video": [],
+  "citation": [
+    {
+      "name": "円安進む 日銀利上げペース示唆せずの見方",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260918de51089",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de51089/20260918de51089_E0000033059_1_s.jpg",
+      "datePublished": "2026-09-18T18:20:09+09:00"
+    },
+    {
+      "name": "政策金利引き上げ 私たちの生活はどう変わる？【詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260918de50967",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de50967/20260918de50967_E0000032981_1_s.jpg",
+      "datePublished": "2026-09-18T19:46:43+09:00"
+    },
+    {
+      "name": "日銀 利上げ決定 政策金利1.25％程度へと引き上げ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260918de50968",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de50968/20260918de50968_E0000032983_1_s.jpg",
+      "datePublished": "2026-09-18T19:34:28+09:00"
+    },
+    {
+      "name": "市場が注視 来年度予算案の編成本格化【経済コラム】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50861",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50861/20260917de50861_E0000032757_1_s.jpg",
+      "datePublished": "2026-09-18T18:47:41+09:00"
+    },
+    {
+      "name": "宮崎で猛烈な雨 台風25号は小笠原に接近 連休に影響のおそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260918de50946",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de50946/20260918de50946_E0000033112_1_s.jpg",
+      "datePublished": "2026-09-18T20:10:34+09:00"
+    },
+    {
+      "name": "3か月予報 10月は西日本などで晴れるも11月以降 降水量多いか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260918de51076",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de51076/20260918de51076_E0000033041_1_s.jpg",
+      "datePublished": "2026-09-18T18:09:33+09:00"
+    },
+    {
+      "name": "第2次高市改造内閣 副大臣27人決まる 維新からは2人起用",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260918de51063",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de51063/20260918de51063_E0000032990_1_s.jpg",
+      "datePublished": "2026-09-18T18:02:00+09:00"
+    },
+    {
+      "name": "第2次高市改造内閣 政務官28人決まる 維新からは3人起用",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260918de51086",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de51086/20260918de51086_E0000003843_1_s.jpg",
+      "datePublished": "2026-09-18T19:27:44+09:00"
+    },
+    {
+      "name": "政府備蓄米 8事業者から21万トン買い戻しへ 農水省",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260918de51118",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de51118/20260918de51118_E0000033180_1_s.jpg",
+      "datePublished": "2026-09-18T19:58:00+09:00"
+    },
+    {
+      "name": "ジャガイモ輸入解禁手続きで説明会 生産者「やっていけない」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260918de51050",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de51050/20260918de51050_E0000032929_1_s.jpg",
+      "datePublished": "2026-09-18T19:59:34+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
