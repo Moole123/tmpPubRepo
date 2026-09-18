@@ -1,0 +1,184 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260918de50968",
+  "dataSourceId": "nd",
+  "name": "日銀 3か月ぶり利上げ決定 政策金利1.25％程度へ引き上げ",
+  "headline": "日銀 3か月ぶり利上げ決定 政策金利1.25％程度へ引き上げ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260918de50968",
+    "playlistId": "news-nwa-business-nationwide-20260918",
+    "newsarticleName": "日銀 3か月ぶり利上げ決定 政策金利1.25％程度へ引き上げ",
+    "playlistName": "9月18日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "日銀は18日まで開いた金融政策決定会合で、政策金利を1.25％程度へと引き上げることを決めました。\n利上げはことし6月以来、3か月ぶりで、物価が大幅に上昇するリスクへの警戒が必要だとして、利上げのペー",
+  "dateModified": "2026-09-18T12:01:00+09:00",
+  "datePublished": "2026-09-18T12:01:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de50968/20260918de50968_E0000003651_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de50968/20260918de50968_E0000003651_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000380",
+      "name": "日本銀行（日銀）",
+      "display": true
+    },
+    {
+      "id": "E0000000725",
+      "name": "金利",
+      "display": true
+    },
+    {
+      "id": "E0000000477",
+      "name": "金融",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "日銀は18日まで開いた金融政策決定会合で、政策金利を1.25％程度へと引き上げることを決めました。\n利上げはことし6月以来、3か月ぶりで、物価が大幅に上昇するリスクへの警戒が必要だとして、利上げのペー",
+  "articleBody": "日銀は18日まで開いた金融政策決定会合で、政策金利を1.25％程度へと引き上げることを決めました。\n利上げはことし6月以来、3か月ぶりで、物価が大幅に上昇するリスクへの警戒が必要だとして、利上げのペースを速めた形です。\n\n\n日銀は、18日、2日目の金融政策決定会合を開き政策金利としている短期の市場金利をいまの1％程度から1.25％程度へと引き上げることを決めました。\n\n決定の背景にあるのは物価の上振れリスクです。\n\n日銀は、食料品などを中心に値上げが続く中、「基調的な物価上昇率」が目標とする2％に近づいているという見方を強めています。\n\nさらに、中東情勢に伴う原油価格の高騰や為替相場の動向、それにAI関連需要の拡大によって企業間の取引価格の上昇は続いていて、この先、消費者向けのモノやサービスへの価格に広く反映されていくと見込んでいます。\n\nこのため日銀としては物価上昇率が2％を大きく超えていくリスクにより警戒が必要だと判断したとみられます。\n\n日銀はおととし3月にマイナス金利政策を解除したあと、おおむね半年に1回、利上げを行ってきましたが、今回は、そのペースを速めて対応する形です。\n\n政策金利は1995年4月以来、31年ぶりの高い水準となり、日本経済は金利のある世界に一段と進むことになります。\n\n日銀の金融政策をめぐってはアメリカのベッセント財務長官が「植田総裁は最善の措置を講じる」などと繰り返し発言し、金融市場では日銀が利上げを進めるのが望ましいと示唆したものだという受け止めも広がって、今回の会合での判断が注目されていました。\n\n植田総裁はこのあと記者会見して今回の決定について説明する予定で、その内容や金融市場の反応が焦点となります。\n",
+  "detailedArticleBody": {
+    "markedLead": "日銀は18日まで開いた金融政策決定会合で、政策金利を1.25％程度へと引き上げることを決めました。\\\n利上げはことし6月以来、3か月ぶりで、物価が大幅に上昇するリスクへの警戒が必要だとして、利上げのペースを速めた形です。\n",
+    "markedBody": "日銀は、18日、2日目の金融政策決定会合を開き政策金利としている短期の市場金利をいまの1％程度から1.25％程度へと引き上げることを決めました。\n\n決定の背景にあるのは物価の上振れリスクです。\n\n日銀は、食料品などを中心に値上げが続く中、「基調的な物価上昇率」が目標とする2％に近づいているという見方を強めています。\n\nさらに、中東情勢に伴う原油価格の高騰や為替相場の動向、それにAI関連需要の拡大によって企業間の取引価格の上昇は続いていて、この先、消費者向けのモノやサービスへの価格に広く反映されていくと見込んでいます。\n\nこのため日銀としては物価上昇率が2％を大きく超えていくリスクにより警戒が必要だと判断したとみられます。\n\n![](https://img.web.nhk/news/nd/kiji/20260918de50968/20260918de50968_E0000032601_1_l.jpg)\n\n日銀はおととし3月にマイナス金利政策を解除したあと、おおむね半年に1回、利上げを行ってきましたが、今回は、そのペースを速めて対応する形です。\n\n政策金利は1995年4月以来、31年ぶりの高い水準となり、日本経済は金利のある世界に一段と進むことになります。\n\n日銀の金融政策をめぐってはアメリカのベッセント財務長官が「植田総裁は最善の措置を講じる」などと繰り返し発言し、金融市場では日銀が利上げを進めるのが望ましいと示唆したものだという受け止めも広がって、今回の会合での判断が注目されていました。\n\n植田総裁はこのあと記者会見して今回の決定について説明する予定で、その内容や金融市場の反応が焦点となります。\n",
+    "trimmedLead": "日銀は18日まで開いた金融政策決定会合で、政策金利を1.25％程度へと引き上げることを決めました。\n利上げはことし6月以来、3か月ぶりで、物価が大幅に上昇するリスクへの警戒が必要だとして、利上げのペースを速めた形です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260918de50968.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260918de50968",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "日銀 3か月ぶり利上げ決定 政策金利1.25％程度へ引き上げ",
+      "description": "日銀は18日まで開いた金融政策決定会合で、政策金利を1.25％程度へと引き上げることを決めました。\n利上げはことし6月以来、3か月ぶりで、物価が大幅に上昇するリスクへの警戒が必要だとして、利上げのペー",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20260918de50968_E0000032543_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20260918de50968/20260918de50968_E0000003651_1_l.jpg",
+      "duration": "PT1M44S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20260918de50968_E0000032543_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de50968/20260918de50968_E0000003651_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "日銀 まもなく利上げ決定へ 金融政策決定会合2日目",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260918de50935",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de50935/20260918de50935_E0000032377_1_s.jpg",
+      "datePublished": "2026-09-18T11:53:41+09:00"
+    },
+    {
+      "name": "円相場 アメリカの利上げ発表を受けて値下がり",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50897",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50897/20260917de50897_E0000032261_1_s.jpg",
+      "datePublished": "2026-09-17T19:40:48+09:00"
+    },
+    {
+      "name": "プロ野球 ソフトバンクがパ・リーグ優勝 3年連続22回目",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50909",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50909/20260917de50909_E0000032330_1_s.jpg",
+      "datePublished": "2026-09-17T21:14:00+09:00"
+    },
+    {
+      "name": "関電の美浜原発3号配管から水滴落下 原子炉を手動停止 福井",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50928",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50928/20260917de50928_E0000032367_1_s.jpg",
+      "datePublished": "2026-09-18T05:26:03+09:00"
+    },
+    {
+      "name": "第2次高市改造内閣発足 首相“強い経済へ 実行力重視で人選”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50695",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50695/20260917de50695_E0000032282_1_s.jpg",
+      "datePublished": "2026-09-17T22:52:01+09:00"
+    },
+    {
+      "name": "【プロ野球結果】ソフトバンクが3年連続22回目のリーグ優勝",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260918de50933",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de50933/20260918de50933_E0000032375_1_s.jpg",
+      "datePublished": "2026-09-18T00:46:00+09:00"
+    },
+    {
+      "name": "中学校でクマよけスプレー噴射か 生徒逮捕 11人搬送 岩手 北上",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50887",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50887/20260917de50887_E0000032250_1_s.jpg",
+      "datePublished": "2026-09-17T19:44:00+09:00"
+    },
+    {
+      "name": "熊本地震の被災地支援　台湾で14億円以上の寄付金集まる",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50931",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50931/20260917de50931_E0000032372_1_s.jpg",
+      "datePublished": "2026-09-18T00:22:28+09:00"
+    },
+    {
+      "name": "「東京ゲームショウ」が開幕 異業種企業の出展も盛んに",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50881",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50881/20260917de50881_E0000032237_1_s.jpg",
+      "datePublished": "2026-09-17T19:42:00+09:00"
+    },
+    {
+      "name": "クマ被害 この秋の対策は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260915de50276",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260915de50276/20260915de50276_E0000030072_1_s.jpg",
+      "datePublished": "2026-09-15T14:43:33+09:00"
+    },
+    {
+      "name": "歴史を変えるのはあなた？立体地図で“遺跡大発見時代”が到来",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de48015",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de48015/20260903de48015_E0000028882_1_s.jpg",
+      "datePublished": "2026-09-12T19:39:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

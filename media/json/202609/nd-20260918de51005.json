@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260918de51005",
+  "dataSourceId": "nd",
+  "name": "株価 値上がり 日銀の金融政策決定会合に警戒も",
+  "headline": "株価 値上がり 日銀の金融政策決定会合に警戒も",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260918de51005",
+    "playlistId": "news-nwa-business-nationwide-20260918",
+    "newsarticleName": "株価 値上がり 日銀の金融政策決定会合に警戒も",
+    "playlistName": "9月18日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "18日の東京株式市場、日経平均株価は、AI・半導体関連の銘柄に買い注文が広がって値上がりしています。\n\n\n日経平均株価、午前の終値は17日の終値と比べて525円86銭高い6万4662円11銭。\n\n一方",
+  "dateModified": "2026-09-18T12:46:00+09:00",
+  "datePublished": "2026-09-18T12:46:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de51005/20260918de51005_E0000032621_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de51005/20260918de51005_E0000032621_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000157",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "E0000000477",
+      "name": "金融",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "18日の東京株式市場、日経平均株価は、AI・半導体関連の銘柄に買い注文が広がって値上がりしています。\n\n\n日経平均株価、午前の終値は17日の終値と比べて525円86銭高い6万4662円11銭。\n\n一方",
+  "articleBody": "18日の東京株式市場、日経平均株価は、AI・半導体関連の銘柄に買い注文が広がって値上がりしています。\n\n\n日経平均株価、午前の終値は17日の終値と比べて525円86銭高い6万4662円11銭。\n\n一方、東証株価指数、トピックスは17.81下がって4076.38。\n\n午前の出来高は8億4713万株でした。\n\n市場関係者は、「アメリカでハイテク株の株価が上昇した流れを受けて、日経平均株価に影響の大きいAI・半導体関連の銘柄に買い注文が広がった。一方、きょう開かれる日銀の金融政策決定会合後の記者会見での発言内容への警戒感もあって売り注文も出ていて、値上がり幅の縮小につながった」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "18日の東京株式市場、日経平均株価は、AI・半導体関連の銘柄に買い注文が広がって値上がりしています。\n",
+    "markedBody": "日経平均株価、午前の終値は17日の終値と比べて525円86銭高い6万4662円11銭。\n\n一方、東証株価指数、トピックスは17.81下がって4076.38。\n\n午前の出来高は8億4713万株でした。\n\n市場関係者は、「アメリカでハイテク株の株価が上昇した流れを受けて、日経平均株価に影響の大きいAI・半導体関連の銘柄に買い注文が広がった。一方、きょう開かれる日銀の金融政策決定会合後の記者会見での発言内容への警戒感もあって売り注文も出ていて、値上がり幅の縮小につながった」と話しています。\n",
+    "trimmedLead": "18日の東京株式市場、日経平均株価は、AI・半導体関連の銘柄に買い注文が広がって値上がりしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260918de51005.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260918de51005",
+  "video": [],
+  "citation": [
+    {
+      "name": "日銀 3か月ぶり利上げ決定 政策金利1.25％程度へ引き上げ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260918de50968",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de50968/20260918de50968_E0000003651_1_s.jpg",
+      "datePublished": "2026-09-18T12:01:00+09:00"
+    },
+    {
+      "name": "台風25号 小笠原に接近へ 連休の東日本太平洋側 大雨のおそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260918de50946",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de50946/20260918de50946_E0000032465_1_s.jpg",
+      "datePublished": "2026-09-18T12:06:00+09:00"
+    },
+    {
+      "name": "第2次高市改造内閣 本格始動",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260918de50970",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de50970/20260918de50970_E0000003844_1_s.jpg",
+      "datePublished": "2026-09-18T11:57:59+09:00"
+    },
+    {
+      "name": "九州新幹線 52日ぶりに全線で運行再開で乗客からは安どの声",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50932",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50932/20260917de50932_E0000032397_1_s.jpg",
+      "datePublished": "2026-09-18T06:29:00+09:00"
+    },
+    {
+      "name": "JR東日本 盗撮被害の女性社員が会社提訴“望まない異動”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260918de50975",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de50975/20260918de50975_E0000032492_1_s.jpg",
+      "datePublished": "2026-09-18T11:43:00+09:00"
+    },
+    {
+      "name": "ジャガイモ輸入解禁めぐり アメリカが手続き加速を要求",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50925",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50925/20260917de50925_E0000032358_1_s.jpg",
+      "datePublished": "2026-09-18T05:51:03+09:00"
+    },
+    {
+      "name": "関電の美浜原発3号配管から水滴落下 原子炉を手動停止 福井",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50928",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50928/20260917de50928_E0000032367_1_s.jpg",
+      "datePublished": "2026-09-18T05:26:03+09:00"
+    },
+    {
+      "name": "第2次高市改造内閣発足 首相“強い経済へ 実行力重視で人選”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50695",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50695/20260917de50695_E0000032282_1_s.jpg",
+      "datePublished": "2026-09-17T22:52:01+09:00"
+    },
+    {
+      "name": "ドジャースが5年連続の地区優勝 ナショナルリーグ西部地区",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260918de50949",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de50949/20260918de50949_E0000032408_1_s.jpg",
+      "datePublished": "2026-09-18T12:45:19+09:00"
+    },
+    {
+      "name": "「かあちゃん 見捨てんどってくれてありがとう」 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260916de50518",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50518/20260916de50518_E0000031051_1_s.jpg",
+      "datePublished": "2026-09-17T19:22:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
