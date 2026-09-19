@@ -1,0 +1,156 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260919de51229",
+  "dataSourceId": "nd",
+  "name": "グーグルの生成AI サイバー能力試験中に他社のシステムに侵入",
+  "headline": "グーグルの生成AI サイバー能力試験中に他社のシステムに侵入",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260919de51229",
+    "playlistId": "news-nwa-scienceculture-nationwide-20260919",
+    "newsarticleName": "グーグルの生成AI サイバー能力試験中に他社のシステムに侵入",
+    "playlistName": "9月19日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "アメリカのIT大手「グーグル」が開発した生成AIが、ことし5月におこなわれたサイバー能力の試験中に、実在する企業3社のシステムに侵入していたことがわかりました。\n\n\nアメリカの有力紙、ウォール・ストリ",
+  "dateModified": "2026-09-19T12:55:52+09:00",
+  "datePublished": "2026-09-19T12:55:52+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51229/20260919de51229_E0000003630_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51229/20260919de51229_E0000003630_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "科学・文化",
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000106",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "アメリカのIT大手「グーグル」が開発した生成AIが、ことし5月におこなわれたサイバー能力の試験中に、実在する企業3社のシステムに侵入していたことがわかりました。\n\n\nアメリカの有力紙、ウォール・ストリ",
+  "articleBody": "アメリカのIT大手「グーグル」が開発した生成AIが、ことし5月におこなわれたサイバー能力の試験中に、実在する企業3社のシステムに侵入していたことがわかりました。\n\n\nアメリカの有力紙、ウォール・ストリート・ジャーナルは18日、アメリカのIT大手「グーグル」が開発した生成AI「Gemini」がことし5月に行われたサイバー能力の試験中に、実在する3つの会社のシステムに侵入していたと伝えました。\n\n記事によりますと、このうち1件ではAIが保護されたシステムへのアクセス権を得るまでパスワードを推測し続けたほか、残りの2件ではAIがインターネット上で公開されているパスワードなどの認証情報を見つけ、それらを使ってシステムに侵入したということです。\n\n試験では誤ってインターネットに接続できる設定になっていたということで、いずれの事例でもAI自身が実在する企業のシステムに侵入していると認識し、動作を停止したということです。\n\nグーグルはこれらについて、3社に被害はなかったなどとして公表していませんでした。\n\nグーグルはNHKの取材に対し、AIによる侵入を認めたうえで、「AIはテストの一部であると判断し、ウェブサイトへのアクセスに必要な認証情報を推測するなどしたが、事例のすべてにおいて動作を停止している。高性能なAIモデルが責任を持って行動するよう訓練することの重要性を浮き彫りにしている」とコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカのIT大手「グーグル」が開発した生成AIが、ことし5月におこなわれたサイバー能力の試験中に、実在する企業3社のシステムに侵入していたことがわかりました。\n",
+    "markedBody": "アメリカの有力紙、ウォール・ストリート・ジャーナルは18日、アメリカのIT大手「グーグル」が開発した生成AI「Gemini」がことし5月に行われたサイバー能力の試験中に、実在する3つの会社のシステムに侵入していたと伝えました。\n\n記事によりますと、このうち1件ではAIが保護されたシステムへのアクセス権を得るまでパスワードを推測し続けたほか、残りの2件ではAIがインターネット上で公開されているパスワードなどの認証情報を見つけ、それらを使ってシステムに侵入したということです。\n\n試験では誤ってインターネットに接続できる設定になっていたということで、いずれの事例でもAI自身が実在する企業のシステムに侵入していると認識し、動作を停止したということです。\n\nグーグルはこれらについて、3社に被害はなかったなどとして公表していませんでした。\n\nグーグルはNHKの取材に対し、AIによる侵入を認めたうえで、「AIはテストの一部であると判断し、ウェブサイトへのアクセスに必要な認証情報を推測するなどしたが、事例のすべてにおいて動作を停止している。高性能なAIモデルが責任を持って行動するよう訓練することの重要性を浮き彫りにしている」とコメントしています。\n",
+    "trimmedLead": "アメリカのIT大手「グーグル」が開発した生成AIが、ことし5月におこなわれたサイバー能力の試験中に、実在する企業3社のシステムに侵入していたことがわかりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260919de51229.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260919de51229",
+  "video": [],
+  "citation": [
+    {
+      "name": "米政府高官“日米首脳会談は22日 米中首脳会談はAIなど議論”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260919de51218",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51218/20260919de51218_E0000033328_1_s.jpg",
+      "datePublished": "2026-09-19T12:09:00+09:00"
+    },
+    {
+      "name": "アメリカ中間選挙の期日前投票 一部の州で始まる",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260919de51216",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51216/20260919de51216_E0000033322_1_s.jpg",
+      "datePublished": "2026-09-19T11:23:13+09:00"
+    },
+    {
+      "name": "トランプ大統領「グリーンランド安全保障 米に恒久管理 合意」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260919de51190",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51190/20260919de51190_E0000033314_1_s.jpg",
+      "datePublished": "2026-09-19T09:59:00+09:00"
+    },
+    {
+      "name": "トランプ大統領 一部メディアに“ホワイトハウスで取材禁止”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260919de51209",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51209/20260919de51209_E0000033303_1_s.jpg",
+      "datePublished": "2026-09-19T10:25:39+09:00"
+    },
+    {
+      "name": "次期国連事務総長を選ぶ3回目の投票 常任理事国の意向が焦点に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260919de51177",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51177/20260919de51177_E0000033286_1_s.jpg",
+      "datePublished": "2026-09-19T05:33:02+09:00"
+    },
+    {
+      "name": "ゼレンスキー大統領“ジェット無人機の迎撃試験に成功”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260919de51213",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51213/20260919de51213_E0000033319_1_s.jpg",
+      "datePublished": "2026-09-19T10:53:27+09:00"
+    },
+    {
+      "name": "仏大統領が警戒感「ロシアの攻撃性と脅威は性質が変化」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260919de51210",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51210/20260919de51210_E0000033307_1_s.jpg",
+      "datePublished": "2026-09-19T10:57:50+09:00"
+    },
+    {
+      "name": "イランで徹底抗戦を強調する大規模集会 国民の団結ねらいか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260919de51212",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51212/20260919de51212_E0000033315_2_s.jpg",
+      "datePublished": "2026-09-19T10:40:20+09:00"
+    },
+    {
+      "name": "ツタンカーメン王墓の奥に“未発見の部屋？”ネイチャーが報道",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260918de51097",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de51097/20260918de51097_E0000033137_1_s.jpg",
+      "datePublished": "2026-09-18T19:08:14+09:00"
+    },
+    {
+      "name": "韓国 イ大統領が記者会見 支持率低下「私の至らなさ」と謝罪",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260918de51080",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de51080/20260918de51080_E0000033028_1_s.jpg",
+      "datePublished": "2026-09-18T18:16:04+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
