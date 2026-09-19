@@ -1,0 +1,157 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260919de51203",
+  "dataSourceId": "nd",
+  "name": "米新興AI企業 最新モデルを生命科学分野で提供 安全対策も",
+  "headline": "米新興AI企業 最新モデルを生命科学分野で提供 安全対策も",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260919de51203",
+    "playlistId": "news-nwa-international-nationwide-20260919",
+    "newsarticleName": "米新興AI企業 最新モデルを生命科学分野で提供 安全対策も",
+    "playlistName": "9月19日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "アメリカのAI新興企業「アンソロピック」は17日、先端のAIモデルを生命科学分野の専門家に提供すると発表しました。安全基準や倫理面を審査する認証制度も導入するとしていて、生成AIが悪用される懸念が高ま",
+  "dateModified": "2026-09-19T08:26:38+09:00",
+  "datePublished": "2026-09-19T08:26:38+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51203/20260919de51203_E0000033296_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51203/20260919de51203_E0000033296_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000419",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "アメリカのAI新興企業「アンソロピック」は17日、先端のAIモデルを生命科学分野の専門家に提供すると発表しました。安全基準や倫理面を審査する認証制度も導入するとしていて、生成AIが悪用される懸念が高ま",
+  "articleBody": "アメリカのAI新興企業「アンソロピック」は17日、先端のAIモデルを生命科学分野の専門家に提供すると発表しました。安全基準や倫理面を審査する認証制度も導入するとしていて、生成AIが悪用される懸念が高まる中で、活用と安全対策を両立する姿勢を示すねらいがあるとみられます。\n\n\nアメリカのAI企業、アンソロピックは17日、「クロード・ミュトス」や「クロード・オーパス」など、自社が開発する先端の生成AIのモデルについて生命科学分野の専門家が薬の開発や臨床などで利用できるよう提供を始めるとホームページで発表しました。\n\nアンソロピックは、ミュトスについてサイバー攻撃に悪用されるおそれもあるとして提供先の企業などを限定していますが、病気の治療や健康増進を加速するため研究者や製薬会社などが活用できるようにするとしています。\n\n新たに認証制度も導入し、利用するには研究実績や安全基準のほか倫理面の審査を通過することが条件になるということです。また、利用したデータは30日間、保存されるなど不正な利用がないか監視するとしています。\n\nAIの開発をめぐっては、安全対策への懸念が高まる中、アンソロピックは9月、自社が開発するAIが使われ生物兵器の開発支援につながるおそれがあった事例などを公表していて、医療などの分野での活用と安全対策を両立する姿勢を示すねらいがあるとみられます。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカのAI新興企業「アンソロピック」は17日、先端のAIモデルを生命科学分野の専門家に提供すると発表しました。安全基準や倫理面を審査する認証制度も導入するとしていて、生成AIが悪用される懸念が高まる中で、活用と安全対策を両立する姿勢を示すねらいがあるとみられます。\n",
+    "markedBody": "アメリカのAI企業、アンソロピックは17日、「クロード・ミュトス」や「クロード・オーパス」など、自社が開発する先端の生成AIのモデルについて生命科学分野の専門家が薬の開発や臨床などで利用できるよう提供を始めるとホームページで発表しました。\n\nアンソロピックは、ミュトスについてサイバー攻撃に悪用されるおそれもあるとして提供先の企業などを限定していますが、病気の治療や健康増進を加速するため研究者や製薬会社などが活用できるようにするとしています。\n\n新たに認証制度も導入し、利用するには研究実績や安全基準のほか倫理面の審査を通過することが条件になるということです。また、利用したデータは30日間、保存されるなど不正な利用がないか監視するとしています。\n\nAIの開発をめぐっては、安全対策への懸念が高まる中、アンソロピックは9月、自社が開発するAIが使われ生物兵器の開発支援につながるおそれがあった事例などを公表していて、医療などの分野での活用と安全対策を両立する姿勢を示すねらいがあるとみられます。\n",
+    "trimmedLead": "アメリカのAI新興企業「アンソロピック」は17日、先端のAIモデルを生命科学分野の専門家に提供すると発表しました。安全基準や倫理面を審査する認証制度も導入するとしていて、生成AIが悪用される懸念が高まる中で、活用と安全対策を両立する姿勢を示すねらいがあるとみられます。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260919de51203.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260919de51203",
+  "video": [],
+  "citation": [
+    {
+      "name": "高市首相 日米首脳会談を調整 対中認識のすりあわせ図る",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260919de51163",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51163/20260919de51163_E0000032546_1_s.jpg",
+      "datePublished": "2026-09-19T05:07:07+09:00"
+    },
+    {
+      "name": "小泉防衛相 米国防長官と電話会談 安全保障協力推進で一致",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260919de51167",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51167/20260919de51167_E0000033279_1_s.jpg",
+      "datePublished": "2026-09-19T02:25:44+09:00"
+    },
+    {
+      "name": "トランプ大統領「グリーンランド安全保障 米に恒久管理 合意」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260919de51190",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51190/20260919de51190_E0000033292_1_s.jpg",
+      "datePublished": "2026-09-19T08:17:19+09:00"
+    },
+    {
+      "name": "次期国連事務総長を選ぶ3回目の投票 常任理事国の意向が焦点に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260919de51177",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51177/20260919de51177_E0000033286_1_s.jpg",
+      "datePublished": "2026-09-19T05:33:02+09:00"
+    },
+    {
+      "name": "フィリピンの学校で銃撃事件 生徒ら3人死亡",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260918de51130",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de51130/20260918de51130_E0000033207_1_s.jpg",
+      "datePublished": "2026-09-18T21:03:14+09:00"
+    },
+    {
+      "name": "台湾がフィリピンに初の巡視船供与へ 対中国で連携か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260918de51088",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de51088/20260918de51088_E0000033071_1_s.jpg",
+      "datePublished": "2026-09-18T19:24:59+09:00"
+    },
+    {
+      "name": "南シナ海でフィリピン当局船と中国海警局の船が衝突",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260918de51143",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de51143/20260918de51143_E0000033243_1_s.jpg",
+      "datePublished": "2026-09-18T22:09:10+09:00"
+    },
+    {
+      "name": "中国と北朝鮮を結ぶ国境の橋 10月にも開通か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260918de51087",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de51087/20260918de51087_E0000033057_1_s.jpg",
+      "datePublished": "2026-09-18T18:54:42+09:00"
+    },
+    {
+      "name": "ツタンカーメン王墓の奥に“未発見の部屋？”ネイチャーが報道",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260918de51097",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de51097/20260918de51097_E0000033137_1_s.jpg",
+      "datePublished": "2026-09-18T19:08:14+09:00"
+    },
+    {
+      "name": "韓国 イ大統領が記者会見 支持率低下「私の至らなさ」と謝罪",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260918de51080",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de51080/20260918de51080_E0000033028_1_s.jpg",
+      "datePublished": "2026-09-18T18:16:04+09:00"
+    },
+    {
+      "name": "対日非難強める北朝鮮 選手団派遣のねらいは",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50748",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50748/20260917de50748_E0000031697_1_s.jpg",
+      "datePublished": "2026-09-17T12:43:29+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
