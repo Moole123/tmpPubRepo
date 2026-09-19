@@ -1,0 +1,178 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260919de51211",
+  "dataSourceId": "nd",
+  "name": "宮崎 大雨の日南市 高齢女性が土砂に巻き込まれ死亡",
+  "headline": "宮崎 大雨の日南市 高齢女性が土砂に巻き込まれ死亡",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260919de51211",
+    "playlistId": "news-nwa-disaster-nationwide-20260919",
+    "newsarticleName": "宮崎 大雨の日南市 高齢女性が土砂に巻き込まれ死亡",
+    "playlistName": "9月19日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "19日朝、宮崎県日南市で住宅近くの斜面が崩れて高齢の女性が巻き込まれ死亡しました。警察が身元の確認を進めるとともに、現場の状況などを調べています。\n\n\n19日午前7時半すぎ、宮崎県日南市板敷で「土砂崩",
+  "dateModified": "2026-09-19T09:57:00+09:00",
+  "datePublished": "2026-09-19T09:57:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51211/20260919de51211_E0000033302_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51211/20260919de51211_E0000033302_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000373",
+      "name": "宮崎県",
+      "display": true
+    },
+    {
+      "id": "E0000000587",
+      "name": "大雨情報",
+      "display": true
+    },
+    {
+      "id": "E0000000114",
+      "name": "気象",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "19日朝、宮崎県日南市で住宅近くの斜面が崩れて高齢の女性が巻き込まれ死亡しました。警察が身元の確認を進めるとともに、現場の状況などを調べています。\n\n\n19日午前7時半すぎ、宮崎県日南市板敷で「土砂崩",
+  "articleBody": "19日朝、宮崎県日南市で住宅近くの斜面が崩れて高齢の女性が巻き込まれ死亡しました。警察が身元の確認を進めるとともに、現場の状況などを調べています。\n\n\n19日午前7時半すぎ、宮崎県日南市板敷で「土砂崩れが起きて高齢の女性が巻き込まれた」という通報がありました。\n\n消防が現場を確認したところ、住宅近くの斜面が崩れて、高齢の女性が土砂に巻き込まれているのが見つかりました。\n\n警察によりますと、女性はその場で死亡が確認されたということです。\n\n警察が身元の確認を進めるとともに、現場の状況などを調べています。\n\n宮崎県では日南市を含む県南部で大雨となり、17日の降り始めから19日5時までの日南市の総雨量は426ミリに達しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "19日朝、宮崎県日南市で住宅近くの斜面が崩れて高齢の女性が巻き込まれ死亡しました。警察が身元の確認を進めるとともに、現場の状況などを調べています。\n",
+    "markedBody": "19日午前7時半すぎ、宮崎県日南市板敷で「土砂崩れが起きて高齢の女性が巻き込まれた」という通報がありました。\n\n消防が現場を確認したところ、住宅近くの斜面が崩れて、高齢の女性が土砂に巻き込まれているのが見つかりました。\n\n警察によりますと、女性はその場で死亡が確認されたということです。\n\n警察が身元の確認を進めるとともに、現場の状況などを調べています。\n\n宮崎県では日南市を含む県南部で大雨となり、17日の降り始めから19日5時までの日南市の総雨量は426ミリに達しています。\n",
+    "trimmedLead": "19日朝、宮崎県日南市で住宅近くの斜面が崩れて高齢の女性が巻き込まれ死亡しました。警察が身元の確認を進めるとともに、現場の状況などを調べています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260919de51211.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260919de51211",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "宮崎 大雨の日南市 高齢女性が土砂に巻き込まれ死亡",
+      "description": "19日朝、宮崎県日南市で住宅近くの斜面が崩れて高齢の女性が巻き込まれ死亡しました。警察が身元の確認を進めるとともに、現場の状況などを調べています。\n\n\n19日午前7時半すぎ、宮崎県日南市板敷で「土砂崩",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20260919de51211_E0000033308_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20260919de51211/20260919de51211_E0000033302_1_l.jpg",
+      "duration": "PT18S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20260919de51211_E0000033308_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51211/20260919de51211_E0000033302_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "大型の台風25号 あす以降 伊豆諸島・関東などに接近のおそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260918de51158",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de51158/20260918de51158_E0000033313_1_s.jpg",
+      "datePublished": "2026-09-19T10:23:03+09:00"
+    },
+    {
+      "name": "高市首相 日米首脳会談を調整 対中認識のすりあわせ図る",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260919de51163",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51163/20260919de51163_E0000032546_1_s.jpg",
+      "datePublished": "2026-09-19T05:07:00+09:00"
+    },
+    {
+      "name": "次期国連事務総長を選ぶ3回目の投票 常任理事国の意向が焦点に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260919de51177",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51177/20260919de51177_E0000033286_1_s.jpg",
+      "datePublished": "2026-09-19T05:33:02+09:00"
+    },
+    {
+      "name": "日銀 どう物価安定図るか 今後の利上げも難しい判断",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260919de51165",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51165/20260919de51165_E0000033278_1_s.jpg",
+      "datePublished": "2026-09-19T05:45:00+09:00"
+    },
+    {
+      "name": "都市部の内水氾濫 国交省の検討会 年内めどに対策とりまとめ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260918de51153",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de51153/20260918de51153_E0000033257_1_s.jpg",
+      "datePublished": "2026-09-19T05:48:00+09:00"
+    },
+    {
+      "name": "ロシア下院選挙 プーチン大統領も投票 ウクライナは厳しく非難",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260919de51182",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51182/20260919de51182_E0000033288_1_s.jpg",
+      "datePublished": "2026-09-19T06:00:58+09:00"
+    },
+    {
+      "name": "トランプ大統領「グリーンランド安全保障 米に恒久管理 合意」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260919de51190",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51190/20260919de51190_E0000033314_1_s.jpg",
+      "datePublished": "2026-09-19T09:59:00+09:00"
+    },
+    {
+      "name": "ジャガイモ輸入解禁めぐり アメリカが手続き加速を要求",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50925",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50925/20260917de50925_E0000032358_1_s.jpg",
+      "datePublished": "2026-09-18T05:51:03+09:00"
+    },
+    {
+      "name": "大相撲秋場所 7日目見どころ 安青錦と熱海富士が対戦",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260919de51161",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51161/20260919de51161_E0000003489_1_s.jpg",
+      "datePublished": "2026-09-19T06:09:15+09:00"
+    },
+    {
+      "name": "「かあちゃん 見捨てんどってくれてありがとう」 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260916de50518",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50518/20260916de50518_E0000031051_1_s.jpg",
+      "datePublished": "2026-09-17T19:22:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
