@@ -1,0 +1,156 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260919de51277",
+  "dataSourceId": "nd",
+  "name": "【プロ野球結果】首位 阪神敗れ 2位 巨人勝ちゲーム差無くなる",
+  "headline": "【プロ野球結果】首位 阪神敗れ 2位 巨人勝ちゲーム差無くなる",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260919de51277",
+    "playlistId": "news-nwa-sports-nationwide-20260919",
+    "newsarticleName": "【プロ野球結果】首位 阪神敗れ 2位 巨人勝ちゲーム差無くなる",
+    "playlistName": "9月19日のスポーツニュース",
+    "genreId": "sports",
+    "genreIdSlug": "sports"
+  },
+  "description": "プロ野球は19日、6試合が行われ、セ・リーグは、首位の阪神が敗れて2位の巨人が勝ち、ゲーム差が無くなりました。\n\n\n【NHK ONEで配信】サタデーウオッチ9 プロ野球ニュース動画\n配信期限9月26日",
+  "dateModified": "2026-09-19T22:14:00+09:00",
+  "datePublished": "2026-09-19T22:14:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51277/20260919de51277_E0000005607_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51277/20260919de51277_E0000005607_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "スポーツ"
+  ],
+  "topic": [
+    {
+      "id": "E0000000100",
+      "name": "プロ野球",
+      "display": true
+    },
+    {
+      "id": "E0000000213",
+      "name": "野球",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "プロ野球は19日、6試合が行われ、セ・リーグは、首位の阪神が敗れて2位の巨人が勝ち、ゲーム差が無くなりました。\n\n\n【NHK ONEで配信】サタデーウオッチ9 プロ野球ニュース動画\n配信期限9月26日",
+  "articleBody": "プロ野球は19日、6試合が行われ、セ・リーグは、首位の阪神が敗れて2位の巨人が勝ち、ゲーム差が無くなりました。\n\n\n【NHK ONEで配信】サタデーウオッチ9 プロ野球ニュース動画\n配信期限9月26日(土) 午後10:00\n↓↓↓こちらで見られます↓↓↓\n\nサタデーウオッチ9 プロ野球ニュース動画\n",
+  "detailedArticleBody": {
+    "markedLead": "プロ野球は19日、6試合が行われ、セ・リーグは、首位の阪神が敗れて2位の巨人が勝ち、ゲーム差が無くなりました。\n",
+    "markedBody": "**【NHK ONEで配信】サタデーウオッチ9 プロ野球ニュース動画**\\\n**配信期限9月26日(土) 午後10:00**\\\n**↓↓↓こちらで見られます↓↓↓**\n\n:::nw--link-type5 {href=\"https://one.nhk/www.web.nhk/tv/pl/schedule-tep-g1-130-20260919/ep/M8Q8RXY6LZ?startOffset=2892\"}\n![サタデーウオッチ9 プロ野球ニュース動画](https://img.web.nhk/news/nd/kiji/20260919de51277/20260919de51277_E0000007599_1_l.jpg)\n:::\n",
+    "trimmedLead": "プロ野球は19日、6試合が行われ、セ・リーグは、首位の阪神が敗れて2位の巨人が勝ち、ゲーム差が無くなりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260919de51277.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260919de51277",
+  "video": [],
+  "citation": [
+    {
+      "name": "愛知・名古屋アジア大会開幕 天皇陛下が開会を宣言",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260919de51267",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51267/20260919de51267_E0000033519_1_s.jpg",
+      "datePublished": "2026-09-19T22:00:00+09:00"
+    },
+    {
+      "name": "大相撲秋場所7日目 安青錦が熱海富士を寄り切る",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260919de51258",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51258/20260919de51258_E0000033459_1_s.jpg",
+      "datePublished": "2026-09-19T20:53:11+09:00"
+    },
+    {
+      "name": "クライミングシリーズ スピード第6戦で大政涼が日本勢初優勝",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260919de51232",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/r/kiji/20260919de51232/20260919de51232_E0000033466_1_s.jpg",
+      "datePublished": "2026-09-19T14:13:00+09:00"
+    },
+    {
+      "name": "ホワイトソックス 村上宗隆 得点に絡むも逆転負けで2位に後退",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260919de51230",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51230/20260919de51230_E0000033363_1_s.jpg",
+      "datePublished": "2026-09-19T13:22:00+09:00"
+    },
+    {
+      "name": "ドジャース大谷翔平 復帰を前に実戦形式で調整の方針",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260919de51240",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51240/20260919de51240_E0000033394_1_s.jpg",
+      "datePublished": "2026-09-19T15:11:44+09:00"
+    },
+    {
+      "name": "ブルージェイズ 岡本和真 1安打と四球もチーム敗れる",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260919de51239",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51239/20260919de51239_E0000033389_1_s.jpg",
+      "datePublished": "2026-09-19T14:53:36+09:00"
+    },
+    {
+      "name": "アキレスけん断裂のロッテ 種市篤暉が来季見据え1軍練習に参加",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260919de51253",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51253/20260919de51253_E0000033443_1_s.jpg",
+      "datePublished": "2026-09-19T17:48:06+09:00"
+    },
+    {
+      "name": "カブス鈴木 1安打2打点もチームは敗れる",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260919de51227",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51227/20260919de51227_E0000033345_1_s.jpg",
+      "datePublished": "2026-09-19T12:39:17+09:00"
+    },
+    {
+      "name": "サッカー皇后杯 元日に決勝 15年ぶりに天皇杯と同日開催",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260918de51061",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de51061/20260918de51061_E0000032984_1_s.jpg",
+      "datePublished": "2026-09-18T17:26:53+09:00"
+    },
+    {
+      "name": "転換点を迎える猛暑の中でのスポーツ アスリートにも迫る脅威",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260916de50592",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50592/20260916de50592_E0000032468_1_s.jpg",
+      "datePublished": "2026-09-18T16:42:30+09:00"
+    },
+    {
+      "name": "100メートル8秒台が続出！中国人型ロボットどこに向かう？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260902de47812",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47812/20260902de47812_E0000028615_1_s.jpg",
+      "datePublished": "2026-09-16T12:28:51+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
