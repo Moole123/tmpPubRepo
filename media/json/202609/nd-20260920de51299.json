@@ -1,0 +1,176 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260920de51299",
+  "dataSourceId": "nd",
+  "name": "【気象予報士解説】台風25号 今後の見通しは？（7時台）",
+  "headline": "【気象予報士解説】台風25号 今後の見通しは？（7時台）",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260920de51299",
+    "playlistId": "news-nwa-disaster-nationwide-20260920",
+    "newsarticleName": "【気象予報士解説】台風25号 今後の見通しは？（7時台）",
+    "playlistName": "9月20日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "台風25号の今後の見通しや注意点について南利幸 気象予報士の解説です。\n\n\n【動画は3分43秒】\n9月20日の「おはよう日本」で放送した内容です。\n※データ放送ではご覧いただけません。\n",
+  "dateModified": "2026-09-20T07:50:00+09:00",
+  "datePublished": "2026-09-20T07:50:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260920de51299/20260920de51299_E0000033639_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260920de51299/20260920de51299_E0000033639_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000202",
+      "name": "台風",
+      "display": true
+    },
+    {
+      "id": "E0000000587",
+      "name": "大雨情報",
+      "display": true
+    },
+    {
+      "id": "E0000000114",
+      "name": "気象",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "台風25号の今後の見通しや注意点について南利幸 気象予報士の解説です。\n\n\n【動画は3分43秒】\n9月20日の「おはよう日本」で放送した内容です。\n※データ放送ではご覧いただけません。\n",
+  "articleBody": "台風25号の今後の見通しや注意点について南利幸 気象予報士の解説です。\n\n\n【動画は3分43秒】\n9月20日の「おはよう日本」で放送した内容です。\n※データ放送ではご覧いただけません。\n",
+  "detailedArticleBody": {
+    "markedLead": "台風25号の今後の見通しや注意点について南利幸 気象予報士の解説です。\n",
+    "markedBody": "【動画は3分43秒】\\\n9月20日の「おはよう日本」で放送した内容です。\\\n※データ放送ではご覧いただけません。\n",
+    "trimmedLead": "台風25号の今後の見通しや注意点について南利幸 気象予報士の解説です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260920de51299.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260920de51299",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "【気象予報士解説】台風25号 今後の見通しは？（7時台）",
+      "description": "台風25号の今後の見通しや注意点について南利幸 気象予報士の解説です。\n\n\n【動画は3分43秒】\n9月20日の「おはよう日本」で放送した内容です。\n※データ放送ではご覧いただけません。\n",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20260920de51299_E0000033629_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20260920de51299/20260920de51299_E0000033639_1_l.jpg",
+      "duration": "PT3M44S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20260920de51299_E0000033629_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260920de51299/20260920de51299_E0000033639_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "台風25号 21日から22日ごろ関東など接近へ 大雨など厳重警戒を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260919de51282",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51282/20260919de51282_E0000033626_1_s.jpg",
+      "datePublished": "2026-09-20T08:49:27+09:00"
+    },
+    {
+      "name": "【台風25号】鉄道・空の便・道路は（20日朝の時点）",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260920de51297",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260920de51297/20260920de51297_E0000003971_1_s.jpg",
+      "datePublished": "2026-09-20T07:43:07+09:00"
+    },
+    {
+      "name": "台風25号に備える 八丈島の酒蔵で雨風対策 静岡県の漁港でも",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260919de51220",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51220/20260919de51220_E0000033327_1_s.jpg",
+      "datePublished": "2026-09-19T19:14:34+09:00"
+    },
+    {
+      "name": "【最新の台風情報】予想進路や勢力などを詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/typhoon/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00002_E0000003277_1_s.jpg"
+    },
+    {
+      "name": "台風マップ 予想進路や勢力をリアルタイム表示",
+      "url": "https://news.web.nhk/bousai-map/typhoon/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00357_E0000003388_1_s.jpg"
+    },
+    {
+      "name": "新たな防災気象情報と避難 いつ避難する？",
+      "url": "https://news.web.nhk/newsweb/na/nc-73478668-2271-4d37-85e6-639be6f2927c",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00031_E0000003429_1_s.jpg"
+    },
+    {
+      "name": "台風接近前にやっておきたい備え「タイムライン」で",
+      "url": "https://news.web.nhk/newsweb/na/nc-cc4a20bc-9976-493f-a087-23512046b7d3",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00053_E0000002559_1_s.jpg"
+    },
+    {
+      "name": "台風や低気圧による「暴風」注意点と対策は",
+      "url": "https://news.web.nhk/newsweb/na/nc-ed932a80-8b04-49af-b4e8-2e364a35b909",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00040_E0000001749_1_s.jpg"
+    },
+    {
+      "name": "伊勢湾台風とは？犠牲者5000人超「暴走木材」が街を襲った",
+      "url": "https://news.web.nhk/newsweb/na/nc-eb22b635-e86a-4563-8a47-77db97cbcfe6",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00061_E0000002663_1_s.jpg"
+    },
+    {
+      "name": "天気防災サイト あなたの街の天気予報や災害情報を即時提供",
+      "url": "https://news.web.nhk/kishou-saigai/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00367_E0000003399_1_s.jpg"
+    },
+    {
+      "name": "大雨 最新情報 雨雲レーダーは「NHK ONE ニュース・防災アプリ」で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014929581000",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00233_E0000003287_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
