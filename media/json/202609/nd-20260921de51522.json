@@ -1,0 +1,168 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260921de51522",
+  "dataSourceId": "nd",
+  "name": "千葉 佐倉 土砂が崩れ住宅の窓割れる",
+  "headline": "千葉 佐倉 土砂が崩れ住宅の窓割れる",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260921de51522",
+    "playlistId": "news-nwa-disaster-nationwide-20260921",
+    "newsarticleName": "千葉 佐倉 土砂が崩れ住宅の窓割れる",
+    "playlistName": "9月21日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "警察や消防によりますと、千葉県佐倉市では午前1時半すぎ、六崎の住民から「裏山の土砂が自分の家の外壁近くまで来ている」と消防に通報がありました。\n\n\n消防が駆けつけたところ民家の裏山が幅およそ10メート",
+  "dateModified": "2026-09-21T05:57:05+09:00",
+  "datePublished": "2026-09-21T05:57:05+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260921de51522/20260921de51522_E0000004051_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260921de51522/20260921de51522_E0000004051_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000202",
+      "name": "台風",
+      "display": true
+    },
+    {
+      "id": "E0000000340",
+      "name": "千葉県",
+      "display": true
+    },
+    {
+      "id": "E0000000587",
+      "name": "大雨情報",
+      "display": true
+    },
+    {
+      "id": "E0000000114",
+      "name": "気象",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "警察や消防によりますと、千葉県佐倉市では午前1時半すぎ、六崎の住民から「裏山の土砂が自分の家の外壁近くまで来ている」と消防に通報がありました。\n\n\n消防が駆けつけたところ民家の裏山が幅およそ10メート",
+  "articleBody": "警察や消防によりますと、千葉県佐倉市では午前1時半すぎ、六崎の住民から「裏山の土砂が自分の家の外壁近くまで来ている」と消防に通報がありました。\n\n\n消防が駆けつけたところ民家の裏山が幅およそ10メートルに渡って崩れ、住宅の窓ガラスが割れていたということです。\n\nこの家に住む人は、避難して無事でした。\n\nこうした状況を受けて佐倉市は午前2時に、市内の土砂災害警戒区域や土砂災害特別警戒区域に住む人を対象に警戒レベルが最も高いレベル5の「緊急安全確保」を出しましたが、大雨による土砂災害の危険性がいくぶん低くなったとして、午前5時に「避難指示」に切り替えました。\n",
+  "detailedArticleBody": {
+    "markedLead": "警察や消防によりますと、千葉県佐倉市では午前1時半すぎ、六崎の住民から「裏山の土砂が自分の家の外壁近くまで来ている」と消防に通報がありました。\n",
+    "markedBody": "消防が駆けつけたところ民家の裏山が幅およそ10メートルに渡って崩れ、住宅の窓ガラスが割れていたということです。\n\nこの家に住む人は、避難して無事でした。\n\nこうした状況を受けて佐倉市は午前2時に、市内の土砂災害警戒区域や土砂災害特別警戒区域に住む人を対象に警戒レベルが最も高いレベル5の「緊急安全確保」を出しましたが、大雨による土砂災害の危険性がいくぶん低くなったとして、午前5時に「避難指示」に切り替えました。\n",
+    "trimmedLead": "警察や消防によりますと、千葉県佐倉市では午前1時半すぎ、六崎の住民から「裏山の土砂が自分の家の外壁近くまで来ている」と消防に通報がありました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260921de51522.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260921de51522",
+  "video": [],
+  "citation": [
+    {
+      "name": "台風25号は伊豆諸島や関東甲信に 大雨・暴風など厳重警戒",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260921de51478",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260921de51478/20260921de51478_E0000033879_1_s.jpg",
+      "datePublished": "2026-09-21T07:23:00+09:00"
+    },
+    {
+      "name": "【ライブ配信】台風25号 伊豆諸島や関東甲信に接近へ 各地は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260920de51326",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260920de51326/20260920de51326_E0000033686_1_s.jpg",
+      "datePublished": "2026-09-21T05:59:30+09:00"
+    },
+    {
+      "name": "【台風25号】交通影響まとめ 鉄道・空の便・道路・フェリー",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260920de51297",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260920de51297/20260920de51297_E0000003948_1_s.jpg",
+      "datePublished": "2026-09-21T04:55:04+09:00"
+    },
+    {
+      "name": "【最新の避難情報】こちらから地域別でご覧になれます",
+      "url": "https://news.web.nhk/kishou-saigai/evacuation/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00211_E0000003212_1_s.jpg"
+    },
+    {
+      "name": "鉄道運行情報",
+      "url": "https://news.web.nhk/news/traffic/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00046_E0000003285_1_s.jpg"
+    },
+    {
+      "name": "台風マップ 予想進路や勢力をリアルタイム表示",
+      "url": "https://news.web.nhk/bousai-map/typhoon/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00357_E0000003388_1_s.jpg"
+    },
+    {
+      "name": "台風接近前にやっておきたい備え「タイムライン」で",
+      "url": "https://news.web.nhk/newsweb/na/nc-cc4a20bc-9976-493f-a087-23512046b7d3",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00053_E0000002559_1_s.jpg"
+    },
+    {
+      "name": "天気防災サイト あなたの街の天気予報や災害情報を即時提供",
+      "url": "https://news.web.nhk/kishou-saigai/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00367_E0000003399_1_s.jpg"
+    },
+    {
+      "name": "大雨 最新情報 雨雲レーダーは「NHK ONE ニュース・防災アプリ」で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014929581000",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00233_E0000003287_1_s.jpg"
+    },
+    {
+      "name": "伊勢湾台風とは？犠牲者5000人超「暴走木材」が街を襲った",
+      "url": "https://news.web.nhk/newsweb/na/nc-eb22b635-e86a-4563-8a47-77db97cbcfe6",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00061_E0000002663_1_s.jpg"
+    },
+    {
+      "name": "台風や低気圧による「暴風」注意点と対策は",
+      "url": "https://news.web.nhk/newsweb/na/nc-ed932a80-8b04-49af-b4e8-2e364a35b909",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00040_E0000001749_1_s.jpg"
+    },
+    {
+      "name": "【最新の台風情報】予想進路や勢力などを詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/typhoon/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00002_E0000003277_1_s.jpg"
+    },
+    {
+      "name": "新たな防災気象情報と避難 いつ避難する？",
+      "url": "https://news.web.nhk/newsweb/na/nc-73478668-2271-4d37-85e6-639be6f2927c",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00031_E0000003429_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
