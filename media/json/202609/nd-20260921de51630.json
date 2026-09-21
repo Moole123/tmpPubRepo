@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260921de51630",
+  "dataSourceId": "nd",
+  "name": "高市首相 台風25号の影響でアメリカへの出発時間遅らせる",
+  "headline": "高市首相 台風25号の影響でアメリカへの出発時間遅らせる",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260921de51630",
+    "playlistId": "news-nwa-politics-nationwide-20260921",
+    "newsarticleName": "高市首相 台風25号の影響でアメリカへの出発時間遅らせる",
+    "playlistName": "9月21日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "高市総理大臣は、アメリカ・ニューヨークで開かれる国連総会に出席するため、21日夜、羽田空港を出発する予定ですが、台風25号の影響で、出発時間を当初の予定より4時間遅らせることになりました。\n\n\n高市総",
+  "dateModified": "2026-09-21T14:04:34+09:00",
+  "datePublished": "2026-09-21T14:04:34+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260921de51630/20260921de51630_E0000033969_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260921de51630/20260921de51630_E0000033969_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "E0000000640",
+      "name": "高市内閣",
+      "display": true
+    },
+    {
+      "id": "E0000000419",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "E0000000215",
+      "name": "中国",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "高市総理大臣は、アメリカ・ニューヨークで開かれる国連総会に出席するため、21日夜、羽田空港を出発する予定ですが、台風25号の影響で、出発時間を当初の予定より4時間遅らせることになりました。\n\n\n高市総",
+  "articleBody": "高市総理大臣は、アメリカ・ニューヨークで開かれる国連総会に出席するため、21日夜、羽田空港を出発する予定ですが、台風25号の影響で、出発時間を当初の予定より4時間遅らせることになりました。\n\n\n高市総理大臣は、21日夜、政府専用機でアメリカ・ニューヨークに向けて羽田空港を出発する予定です。\n\n政府は、台風25号の影響で、出発時間を、当初予定していた午後7時から4時間遅らせ、午後11時に変更すると発表しました。\n\n政府関係者によりますと、現地での日程に変更はないということです。\n\n高市総理大臣は、現地時間の22日、アメリカのトランプ大統領と会談し、米中首脳会談を控える中、中国をめぐる認識をすりあわせたい考えです。\n\nまた、国連総会の一般討論演説では、中東情勢を受け、湾岸諸国の経済やエネルギーの強じん化に向けた協力計画を策定していると説明し、世界的なエネルギーの安定供給のための取り組みを一層強化する方針を示す方向で調整しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "高市総理大臣は、アメリカ・ニューヨークで開かれる国連総会に出席するため、21日夜、羽田空港を出発する予定ですが、台風25号の影響で、出発時間を当初の予定より4時間遅らせることになりました。\n",
+    "markedBody": "高市総理大臣は、21日夜、政府専用機でアメリカ・ニューヨークに向けて羽田空港を出発する予定です。\n\n政府は、台風25号の影響で、出発時間を、当初予定していた午後7時から4時間遅らせ、午後11時に変更すると発表しました。\n\n政府関係者によりますと、現地での日程に変更はないということです。\n\n高市総理大臣は、現地時間の22日、アメリカのトランプ大統領と会談し、米中首脳会談を控える中、中国をめぐる認識をすりあわせたい考えです。\n\nまた、国連総会の一般討論演説では、中東情勢を受け、湾岸諸国の経済やエネルギーの強じん化に向けた協力計画を策定していると説明し、世界的なエネルギーの安定供給のための取り組みを一層強化する方針を示す方向で調整しています。\n",
+    "trimmedLead": "高市総理大臣は、アメリカ・ニューヨークで開かれる国連総会に出席するため、21日夜、羽田空港を出発する予定ですが、台風25号の影響で、出発時間を当初の予定より4時間遅らせることになりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260921de51630.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260921de51630",
+  "video": [],
+  "citation": [
+    {
+      "name": "台風25号 関東に最接近 伊豆諸島の大島町にレベル5特別警報",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260921de51478",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260921de51478/20260921de51478_E0000034047_1_s.jpg",
+      "datePublished": "2026-09-21T19:03:15+09:00"
+    },
+    {
+      "name": "【台風25号】交通影響まとめ 鉄道・空の便・道路・フェリー",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260920de51297",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260920de51297/20260920de51297_E0000003948_1_s.jpg",
+      "datePublished": "2026-09-21T04:55:04+09:00"
+    },
+    {
+      "name": "【ライブ配信】台風25号 関東各地の様子は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260920de51326",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260920de51326/20260920de51326_E0000033686_1_s.jpg",
+      "datePublished": "2026-09-21T17:27:00+09:00"
+    },
+    {
+      "name": "【気象予報士解説】台風25号 大雨や暴風 今後の見通しは？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260921de51523",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260921de51523/20260921de51523_E0000034036_1_s.jpg",
+      "datePublished": "2026-09-21T18:23:54+09:00"
+    },
+    {
+      "name": "北朝鮮 弾道ミサイル続けて発射 いずれもEEZ外に落下か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260920de51353",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260920de51353/20260920de51353_E0000033811_1_s.jpg",
+      "datePublished": "2026-09-20T20:59:05+09:00"
+    },
+    {
+      "name": "財務省のフェンスにタクシーが衝突 4人けが",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260921de51467",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260921de51467/20260921de51467_E0000033844_1_s.jpg",
+      "datePublished": "2026-09-21T02:22:26+09:00"
+    },
+    {
+      "name": "高市首相 国連総会の演説で中東エネルギー協力計画策定表明へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260921de51459",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260921de51459/20260921de51459_E0000033845_1_s.jpg",
+      "datePublished": "2026-09-21T05:10:15+09:00"
+    },
+    {
+      "name": "福岡 男児が事故で意識不明 危険運転傷害の疑いで容疑者逮捕",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260920de51330",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260920de51330/20260920de51330_E0000033776_1_s.jpg",
+      "datePublished": "2026-09-20T22:40:12+09:00"
+    },
+    {
+      "name": "北九州 川で遊んでいた男性が溺れ死亡 めがね拾おうとしたか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260920de51366",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260920de51366/20260920de51366_E0000033772_1_s.jpg",
+      "datePublished": "2026-09-21T00:13:01+09:00"
+    },
+    {
+      "name": "大相撲秋場所 9日目見どころ 大関目指す熱海富士 高安との一番",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260921de51420",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260921de51420/20260921de51420_E0000003487_1_s.jpg",
+      "datePublished": "2026-09-21T06:20:41+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
