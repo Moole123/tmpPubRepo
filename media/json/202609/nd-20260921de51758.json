@@ -1,0 +1,169 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260921de51758",
+  "dataSourceId": "nd",
+  "name": "千葉 佐倉 市内の一部地域に「緊急安全確保」",
+  "headline": "千葉 佐倉 市内の一部地域に「緊急安全確保」",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260921de51758",
+    "playlistId": "news-nwa-disaster-nationwide-20260921",
+    "newsarticleName": "千葉 佐倉 市内の一部地域に「緊急安全確保」",
+    "playlistName": "9月21日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "千葉県佐倉市は市内の鏑木町の一部の地域と表町の全域の住民に対し、21日午後10時までに緊急安全確保を出しました。\n\n\n警戒レベルで最も高いレベル5で、周囲の状況を確認し、近くの建物や自宅の2階以上の斜",
+  "dateModified": "2026-09-21T23:39:00+09:00",
+  "datePublished": "2026-09-21T23:39:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260921de51758/20260921de51758_E0000004042_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260921de51758/20260921de51758_E0000004042_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000202",
+      "name": "台風",
+      "display": true
+    },
+    {
+      "id": "E0000000587",
+      "name": "大雨情報",
+      "display": true
+    },
+    {
+      "id": "E0000000340",
+      "name": "千葉県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "千葉県佐倉市は市内の鏑木町の一部の地域と表町の全域の住民に対し、21日午後10時までに緊急安全確保を出しました。\n\n\n警戒レベルで最も高いレベル5で、周囲の状況を確認し、近くの建物や自宅の2階以上の斜",
+  "articleBody": "千葉県佐倉市は市内の鏑木町の一部の地域と表町の全域の住民に対し、21日午後10時までに緊急安全確保を出しました。\n\n\n警戒レベルで最も高いレベル5で、周囲の状況を確認し、近くの建物や自宅の2階以上の斜面から離れた場所など、少しでも安全な場所で命の助かる可能性の高い行動をとるよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "千葉県佐倉市は市内の鏑木町の一部の地域と表町の全域の住民に対し、21日午後10時までに緊急安全確保を出しました。\n",
+    "markedBody": "警戒レベルで最も高いレベル5で、周囲の状況を確認し、近くの建物や自宅の2階以上の斜面から離れた場所など、少しでも安全な場所で命の助かる可能性の高い行動をとるよう呼びかけています。\n",
+    "trimmedLead": "千葉県佐倉市は市内の鏑木町の一部の地域と表町の全域の住民に対し、21日午後10時までに緊急安全確保を出しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260921de51758.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260921de51758",
+  "video": [],
+  "citation": [
+    {
+      "name": "台風25号 大島町の特別警報は危険警報に 関東で記録的大雨",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260921de51748",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260921de51748/20260921de51748_E0000034123_1_s.jpg",
+      "datePublished": "2026-09-22T00:38:18+09:00"
+    },
+    {
+      "name": "神奈川 三浦「建物が倒壊」と通報 30代女性と連絡取れず",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260921de51760",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260921de51760/20260921de51760_E0000003898_1_s.jpg",
+      "datePublished": "2026-09-21T23:53:40+09:00"
+    },
+    {
+      "name": "神奈川 横須賀「崖崩れで家が壊れた」通報 70代夫婦連絡つかず",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260921de51761",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260921de51761/20260921de51761_E0000003898_1_s.jpg",
+      "datePublished": "2026-09-21T23:59:25+09:00"
+    },
+    {
+      "name": "【台風25号】交通影響まとめ 関東の鉄道 22日の運転見合わせも",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260921de51512",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260921de51512/20260921de51512_E0000003948_1_s.jpg",
+      "datePublished": "2026-09-21T20:50:00+09:00"
+    },
+    {
+      "name": "【最新の避難情報】こちらから地域別でご覧になれます",
+      "url": "https://news.web.nhk/kishou-saigai/evacuation/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00211_E0000003212_1_s.jpg"
+    },
+    {
+      "name": "鉄道運行情報",
+      "url": "https://news.web.nhk/news/traffic/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00046_E0000003285_1_s.jpg"
+    },
+    {
+      "name": "台風マップ 予想進路や勢力をリアルタイム表示",
+      "url": "https://news.web.nhk/bousai-map/typhoon/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00357_E0000003388_1_s.jpg"
+    },
+    {
+      "name": "台風接近前にやっておきたい備え「タイムライン」で",
+      "url": "https://news.web.nhk/newsweb/na/nc-cc4a20bc-9976-493f-a087-23512046b7d3",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00053_E0000002559_1_s.jpg"
+    },
+    {
+      "name": "天気防災サイト あなたの街の天気予報や災害情報を即時提供",
+      "url": "https://news.web.nhk/kishou-saigai/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00367_E0000003399_1_s.jpg"
+    },
+    {
+      "name": "大雨 最新情報 雨雲レーダーは「NHK ONE ニュース・防災アプリ」で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014929581000",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00233_E0000003287_1_s.jpg"
+    },
+    {
+      "name": "伊勢湾台風とは？犠牲者5000人超「暴走木材」が街を襲った",
+      "url": "https://news.web.nhk/newsweb/na/nc-eb22b635-e86a-4563-8a47-77db97cbcfe6",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00061_E0000002663_1_s.jpg"
+    },
+    {
+      "name": "台風や低気圧による「暴風」注意点と対策は",
+      "url": "https://news.web.nhk/newsweb/na/nc-ed932a80-8b04-49af-b4e8-2e364a35b909",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00040_E0000001749_1_s.jpg"
+    },
+    {
+      "name": "【最新の台風情報】予想進路や勢力などを詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/typhoon/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00002_E0000003277_1_s.jpg"
+    },
+    {
+      "name": "新たな防災気象情報と避難 いつ避難する？",
+      "url": "https://news.web.nhk/newsweb/na/nc-73478668-2271-4d37-85e6-639be6f2927c",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00031_E0000003429_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260921de51761",
+  "dataSourceId": "nd",
+  "name": "神奈川 横須賀「崖崩れで家が壊れた」通報 70代夫婦連絡つかず",
+  "headline": "神奈川 横須賀「崖崩れで家が壊れた」通報 70代夫婦連絡つかず",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260921de51761",
+    "playlistId": "news-nwa-disaster-nationwide-20260921",
+    "newsarticleName": "神奈川 横須賀「崖崩れで家が壊れた」通報 70代夫婦連絡つかず",
+    "playlistName": "9月21日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "警察や市によりますと21日午後4時前、神奈川県横須賀市長井2丁目で「崖が崩れて家が壊れている」と近くに住む人から通報がありました。\n\n\n警察や消防が駆けつけたところ、現場の住宅には崖から土砂が流れ込ん",
+  "dateModified": "2026-09-21T23:59:25+09:00",
+  "datePublished": "2026-09-21T23:59:25+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260921de51761/20260921de51761_E0000003898_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260921de51761/20260921de51761_E0000003898_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000202",
+      "name": "台風",
+      "display": true
+    },
+    {
+      "id": "E0000000587",
+      "name": "大雨情報",
+      "display": true
+    },
+    {
+      "id": "E0000000342",
+      "name": "神奈川県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "警察や市によりますと21日午後4時前、神奈川県横須賀市長井2丁目で「崖が崩れて家が壊れている」と近くに住む人から通報がありました。\n\n\n警察や消防が駆けつけたところ、現場の住宅には崖から土砂が流れ込ん",
+  "articleBody": "警察や市によりますと21日午後4時前、神奈川県横須賀市長井2丁目で「崖が崩れて家が壊れている」と近くに住む人から通報がありました。\n\n\n警察や消防が駆けつけたところ、現場の住宅には崖から土砂が流れ込んでいて、この家に住む70代の夫婦2人と連絡が取れなくなっているということです。\n\n警察と消防が安否確認を進めています。\n",
+  "detailedArticleBody": {
+    "markedLead": "警察や市によりますと21日午後4時前、神奈川県横須賀市長井2丁目で「崖が崩れて家が壊れている」と近くに住む人から通報がありました。\n",
+    "markedBody": "警察や消防が駆けつけたところ、現場の住宅には崖から土砂が流れ込んでいて、この家に住む70代の夫婦2人と連絡が取れなくなっているということです。\n\n警察と消防が安否確認を進めています。\n",
+    "trimmedLead": "警察や市によりますと21日午後4時前、神奈川県横須賀市長井2丁目で「崖が崩れて家が壊れている」と近くに住む人から通報がありました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260921de51761.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260921de51761",
+  "video": [],
+  "citation": [
+    {
+      "name": "神奈川 三浦「建物が倒壊」と通報 30代女性と連絡取れず",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260921de51760",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260921de51760/20260921de51760_E0000003898_1_s.jpg",
+      "datePublished": "2026-09-21T23:53:40+09:00"
+    },
+    {
+      "name": "台風25号 大島町の特別警報は危険警報に 関東で記録的大雨",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260921de51748",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260921de51748/20260921de51748_E0000034123_1_s.jpg",
+      "datePublished": "2026-09-22T00:38:18+09:00"
+    },
+    {
+      "name": "【気象予報士解説】台風25号 大雨や暴風 警戒点は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260921de51523",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260921de51523/20260921de51523_E0000034093_1_s.jpg",
+      "datePublished": "2026-09-21T21:36:00+09:00"
+    },
+    {
+      "name": "【最新の避難情報】こちらから地域別でご覧になれます",
+      "url": "https://news.web.nhk/kishou-saigai/evacuation/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00211_E0000003212_1_s.jpg"
+    },
+    {
+      "name": "【台風25号】交通影響まとめ 関東の鉄道 22日の運転見合わせも",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260921de51512",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260921de51512/20260921de51512_E0000003948_1_s.jpg",
+      "datePublished": "2026-09-21T20:50:00+09:00"
+    },
+    {
+      "name": "鉄道運行情報",
+      "url": "https://news.web.nhk/news/traffic/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00046_E0000003285_1_s.jpg"
+    },
+    {
+      "name": "台風マップ 予想進路や勢力をリアルタイム表示",
+      "url": "https://news.web.nhk/bousai-map/typhoon/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00357_E0000003388_1_s.jpg"
+    },
+    {
+      "name": "天気防災サイト あなたの街の天気予報や災害情報を即時提供",
+      "url": "https://news.web.nhk/kishou-saigai/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00367_E0000003399_1_s.jpg"
+    },
+    {
+      "name": "大雨 最新情報 雨雲レーダーは「NHK ONE ニュース・防災アプリ」で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014929581000",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00233_E0000003287_1_s.jpg"
+    },
+    {
+      "name": "台風や低気圧による「暴風」注意点と対策は",
+      "url": "https://news.web.nhk/newsweb/na/nc-ed932a80-8b04-49af-b4e8-2e364a35b909",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00040_E0000001749_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
