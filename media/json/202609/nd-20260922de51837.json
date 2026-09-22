@@ -1,0 +1,179 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260922de51837",
+  "dataSourceId": "nd",
+  "name": "オープンAI “安全なAI開発進めるため 世界的な取り組み必要”",
+  "headline": "オープンAI “安全なAI開発進めるため 世界的な取り組み必要”",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260922de51837",
+    "playlistId": "news-nwa-international-nationwide-20260922",
+    "newsarticleName": "オープンAI “安全なAI開発進めるため 世界的な取り組み必要”",
+    "playlistName": "9月22日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "AIの安全性への懸念をめぐる議論が広がるなか、アメリカのAI開発企業「オープンAI」は21日、最先端の開発を安全に進めるため世界的な取り組みが必要だと訴え、アメリカが主導すべきだとする提言を公表しまし",
+  "dateModified": "2026-09-22T12:12:00+09:00",
+  "datePublished": "2026-09-22T12:12:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51837/20260922de51837_E0000034218_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51837/20260922de51837_E0000034218_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000106",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "E0000000419",
+      "name": "アメリカ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "AIの安全性への懸念をめぐる議論が広がるなか、アメリカのAI開発企業「オープンAI」は21日、最先端の開発を安全に進めるため世界的な取り組みが必要だと訴え、アメリカが主導すべきだとする提言を公表しまし",
+  "articleBody": "AIの安全性への懸念をめぐる議論が広がるなか、アメリカのAI開発企業「オープンAI」は21日、最先端の開発を安全に進めるため世界的な取り組みが必要だと訴え、アメリカが主導すべきだとする提言を公表しました。\n\n\nAIの開発をめぐっては、将来AIが自発的に改善を続けて人間が制御できなくなるなど、安全性への懸念を指摘する声が企業トップや研究者の間で広がっています。\n\nこうしたなか、オープンAIは21日、AIの安全性やセキュリティーなどに関する国際的な基準を設けるべきだとの提言を公表しました。\n\n具体的には、AIモデルの能力やリスク、安全性を評価する世界共通の技術基準を設けることや、人間の意図しないAIの挙動などがみられた場合に、その情報を共有・報告するための仕組みが必要だとしています。\n\nまたこうした取り組みは、アメリカが主導的な役割を果たして各国と協力すべきだとしています。\n\n提言では、AIが自発的に改善する能力について「今後、適切な注意と慎重さを欠いたまま開発を進めれば、人間はAI開発に対する実質的な制御を失うおそれがある。そうなればAIはより危険な存在となり人々にとって脅威になる可能性がある」と警鐘を鳴らしています。\n\nアメリカでは、「オープンAI」のサム・アルトマンCEOが23日、ニューヨークで開かれる国連の安全保障理事会の会合に出席すると報じられていて、AI開発の安全性をめぐってどういった議論が行われるか、注目されます。\n",
+  "detailedArticleBody": {
+    "markedLead": "AIの安全性への懸念をめぐる議論が広がるなか、アメリカのAI開発企業「オープンAI」は21日、最先端の開発を安全に進めるため世界的な取り組みが必要だと訴え、アメリカが主導すべきだとする提言を公表しました。\n",
+    "markedBody": "AIの開発をめぐっては、将来AIが自発的に改善を続けて人間が制御できなくなるなど、安全性への懸念を指摘する声が企業トップや研究者の間で広がっています。\n\nこうしたなか、オープンAIは21日、AIの安全性やセキュリティーなどに関する国際的な基準を設けるべきだとの提言を公表しました。\n\n具体的には、AIモデルの能力やリスク、安全性を評価する世界共通の技術基準を設けることや、人間の意図しないAIの挙動などがみられた場合に、その情報を共有・報告するための仕組みが必要だとしています。\n\nまたこうした取り組みは、アメリカが主導的な役割を果たして各国と協力すべきだとしています。\n\n提言では、AIが自発的に改善する能力について「今後、適切な注意と慎重さを欠いたまま開発を進めれば、人間はAI開発に対する実質的な制御を失うおそれがある。そうなればAIはより危険な存在となり人々にとって脅威になる可能性がある」と警鐘を鳴らしています。\n\nアメリカでは、「オープンAI」のサム・アルトマンCEOが23日、ニューヨークで開かれる国連の安全保障理事会の会合に出席すると報じられていて、AI開発の安全性をめぐってどういった議論が行われるか、注目されます。\n",
+    "trimmedLead": "AIの安全性への懸念をめぐる議論が広がるなか、アメリカのAI開発企業「オープンAI」は21日、最先端の開発を安全に進めるため世界的な取り組みが必要だと訴え、アメリカが主導すべきだとする提言を公表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260922de51837.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260922de51837",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "オープンAI “安全なAI開発進めるため 世界的な取り組み必要”",
+      "description": "AIの安全性への懸念をめぐる議論が広がるなか、アメリカのAI開発企業「オープンAI」は21日、最先端の開発を安全に進めるため世界的な取り組みが必要だと訴え、アメリカが主導すべきだとする提言を公表しまし",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20260922de51837_E0000034226_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20260922de51837/20260922de51837_E0000034218_1_l.jpg",
+      "duration": "PT50S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20260922de51837_E0000034226_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51837/20260922de51837_E0000034218_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "NY株式市場 ナスダック株価指数 約3か月半ぶりに最高値を更新",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51819",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51819/20260922de51819_E0000034189_1_s.jpg",
+      "datePublished": "2026-09-22T09:25:00+09:00"
+    },
+    {
+      "name": "日米韓外相 北朝鮮の完全な非核化へ協力の方針 改めて確認",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51790",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51790/20260922de51790_E0000034144_1_s.jpg",
+      "datePublished": "2026-09-22T10:15:00+09:00"
+    },
+    {
+      "name": "ホワイトハウスでの取材禁止 CNNなど3社が差し止め求め提訴",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51788",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51788/20260922de51788_E0000034142_1_s.jpg",
+      "datePublished": "2026-09-22T09:23:29+09:00"
+    },
+    {
+      "name": "国連総会 きょうから各国首脳の一般討論演説 気候変動やAIも",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51782",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51782/20260922de51782_E0000034135_1_s.jpg",
+      "datePublished": "2026-09-22T05:28:00+09:00"
+    },
+    {
+      "name": "日米首脳会談へ トランプ大統領と中国への対応など意見交換か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51786",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51786/20260922de51786_E0000034139_1_s.jpg",
+      "datePublished": "2026-09-22T05:43:00+09:00"
+    },
+    {
+      "name": "中国軍制服組トップなど務めた2人が巨額賄賂などで党籍はく奪",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51785",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51785/20260922de51785_E0000034136_1_s.jpg",
+      "datePublished": "2026-09-22T05:56:57+09:00"
+    },
+    {
+      "name": "ドイツ メルツ首相 続投姿勢改めて強調 州議会選挙で議席失う",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51787",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51787/20260922de51787_E0000034140_1_s.jpg",
+      "datePublished": "2026-09-22T05:46:00+09:00"
+    },
+    {
+      "name": "大英図書館の再開発事業で着工式 日本の不動産会社が参画",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51804",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51804/20260922de51804_E0000034155_1_s.jpg",
+      "datePublished": "2026-09-22T07:18:10+09:00"
+    },
+    {
+      "name": "アメリカと中国 AI重大事案で意思疎通の手段を構築へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51793",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51793/20260922de51793_E0000034143_1_s.jpg",
+      "datePublished": "2026-09-22T05:47:00+09:00"
+    },
+    {
+      "name": "日本支援のミンダナオ和平 歴史的節目に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260918de50980",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de50980/20260918de50980_E0000032557_1_s.jpg",
+      "datePublished": "2026-09-18T14:22:48+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
