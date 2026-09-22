@@ -1,0 +1,179 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260922de51877",
+  "dataSourceId": "nd",
+  "name": "青森 深浦町 住宅全焼の火事 男性2人の遺体見つかる",
+  "headline": "青森 深浦町 住宅全焼の火事 男性2人の遺体見つかる",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260922de51877",
+    "playlistId": "news-nwa-society-nationwide-20260922",
+    "newsarticleName": "青森 深浦町 住宅全焼の火事 男性2人の遺体見つかる",
+    "playlistName": "9月22日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "21日夜、青森県深浦町で住宅が全焼する火事があり、焼け跡から2人が遺体で見つかりました。火事のあとこの家に住む親子と連絡が取れなくなっているということで、警察が身元の確認を進めています。\n\n\n21日午",
+  "dateModified": "2026-09-22T17:48:00+09:00",
+  "datePublished": "2026-09-22T17:48:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51877/20260922de51877_E0000034287_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51877/20260922de51877_E0000034287_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000657",
+      "name": "火災",
+      "display": true
+    },
+    {
+      "id": "E0000000330",
+      "name": "青森県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "21日夜、青森県深浦町で住宅が全焼する火事があり、焼け跡から2人が遺体で見つかりました。火事のあとこの家に住む親子と連絡が取れなくなっているということで、警察が身元の確認を進めています。\n\n\n21日午",
+  "articleBody": "21日夜、青森県深浦町で住宅が全焼する火事があり、焼け跡から2人が遺体で見つかりました。火事のあとこの家に住む親子と連絡が取れなくなっているということで、警察が身元の確認を進めています。\n\n\n21日午後8時前、青森県深浦町岩崎で「建物が燃えている」と消防に通報がありました。\n\n火はおよそ4時間後に消し止められましたが、木造モルタル2階建ての住宅が全焼するなどして、焼け跡から男性2人が遺体で見つかりました。\n\n警察によりますと、この住宅には84歳の父親と55歳の息子の2人が住んでいて、火事のあと連絡が取れなくなっているということです。\n\n警察が身元の確認を進めるとともに火事の詳しい原因を調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "21日夜、青森県深浦町で住宅が全焼する火事があり、焼け跡から2人が遺体で見つかりました。火事のあとこの家に住む親子と連絡が取れなくなっているということで、警察が身元の確認を進めています。\n",
+    "markedBody": "21日午後8時前、青森県深浦町岩崎で「建物が燃えている」と消防に通報がありました。\n\n火はおよそ4時間後に消し止められましたが、木造モルタル2階建ての住宅が全焼するなどして、焼け跡から男性2人が遺体で見つかりました。\n\n警察によりますと、この住宅には84歳の父親と55歳の息子の2人が住んでいて、火事のあと連絡が取れなくなっているということです。\n\n警察が身元の確認を進めるとともに火事の詳しい原因を調べています。\n",
+    "trimmedLead": "21日夜、青森県深浦町で住宅が全焼する火事があり、焼け跡から2人が遺体で見つかりました。火事のあとこの家に住む親子と連絡が取れなくなっているということで、警察が身元の確認を進めています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260922de51877.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260922de51877",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "青森 深浦町 住宅全焼の火事 男性2人の遺体見つかる",
+      "description": "21日夜、青森県深浦町で住宅が全焼する火事があり、焼け跡から2人が遺体で見つかりました。火事のあとこの家に住む親子と連絡が取れなくなっているということで、警察が身元の確認を進めています。\n\n\n21日午",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20260922de51877_E0000034290_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20260922de51877/20260922de51877_E0000034287_1_l.jpg",
+      "duration": "PT26S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20260922de51877_E0000034290_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51877/20260922de51877_E0000034287_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "日米首脳会談 日本時間23日開催を発表 日本政府",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51835",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51835/20260922de51835_E0000034228_1_s.jpg",
+      "datePublished": "2026-09-22T14:45:55+09:00"
+    },
+    {
+      "name": "【台風被害】 神奈川と千葉で4人死亡6人不明 住宅被害470棟余",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51778",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51778/20260922de51778_E0000034250_1_s.jpg",
+      "datePublished": "2026-09-22T18:01:46+09:00"
+    },
+    {
+      "name": "【台風25号】交通影響続く 首都圏の鉄道 運転見合わせ【22日】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51800",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51800/20260922de51800_E0000003948_1_s.jpg",
+      "datePublished": "2026-09-22T18:12:30+09:00"
+    },
+    {
+      "name": "台風25号 関東や伊豆諸島で記録的大雨 土砂災害に引き続き警戒",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260921de51748",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260921de51748/20260921de51748_E0000034185_1_s.jpg",
+      "datePublished": "2026-09-22T12:43:07+09:00"
+    },
+    {
+      "name": "【動画】 道路崩れ 各地で冠水 台風25号の被害状況",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51808",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51808/20260922de51808_E0000034271_1_s.jpg",
+      "datePublished": "2026-09-22T18:39:48+09:00"
+    },
+    {
+      "name": "日米韓外相 北朝鮮の完全な非核化へ協力の方針 改めて確認",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51790",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51790/20260922de51790_E0000034144_1_s.jpg",
+      "datePublished": "2026-09-22T10:15:00+09:00"
+    },
+    {
+      "name": "福岡 3歳児死亡事故 容疑者「前夜に飲酒し 朝また飲んで車に」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51846",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51846/20260922de51846_E0000034239_1_s.jpg",
+      "datePublished": "2026-09-22T13:38:00+09:00"
+    },
+    {
+      "name": "北朝鮮ミサイルは約1000キロ飛行 日本の一部も射程内の可能性",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51828",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51828/20260922de51828_E0000034207_1_s.jpg",
+      "datePublished": "2026-09-22T15:51:04+09:00"
+    },
+    {
+      "name": "NY株式市場 ナスダック株価指数 約3か月半ぶりに最高値を更新",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51819",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51819/20260922de51819_E0000034189_1_s.jpg",
+      "datePublished": "2026-09-22T09:25:00+09:00"
+    },
+    {
+      "name": "病への挑戦 がん新薬開発の最前線 治験も選択肢に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260909de49315",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49315/20260909de49315_E0000031833_1_s.jpg",
+      "datePublished": "2026-09-22T11:56:40+09:00"
+    },
+    {
+      "name": "【全文】ウクライナ ゼレンスキー大統領インタビュー",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50749",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50749/20260917de50749_E0000032580_1_s.jpg",
+      "datePublished": "2026-09-22T12:56:12+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

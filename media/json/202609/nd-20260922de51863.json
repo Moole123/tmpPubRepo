@@ -1,0 +1,89 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260922de51863",
+  "dataSourceId": "nd",
+  "name": "【地震情報】茨城県で震度3 津波の心配なし",
+  "headline": "【地震情報】茨城県で震度3 津波の心配なし",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260922de51863",
+    "playlistId": "news-nwa-disaster-nationwide-20260922",
+    "newsarticleName": "【地震情報】茨城県で震度3 津波の心配なし",
+    "playlistName": "9月22日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "22日午後3時34分ごろ、茨城県で震度3を観測する地震がありました。\nこの地震による津波の心配はありません。\n震度3を観測したのは、茨城県の水戸市と石岡市、笠間市です。\nこのほか震度2や1の揺れを茨城",
+  "dateModified": "2026-09-22T15:54:29+09:00",
+  "datePublished": "2026-09-22T15:38:53+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51863/20260922de51863_E0000034268_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51863/20260922de51863_E0000034268_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000336",
+      "name": "茨城県",
+      "display": true
+    },
+    {
+      "id": "E0000000389",
+      "name": "地震",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "22日午後3時34分ごろ、茨城県で震度3を観測する地震がありました。\nこの地震による津波の心配はありません。\n震度3を観測したのは、茨城県の水戸市と石岡市、笠間市です。\nこのほか震度2や1の揺れを茨城",
+  "articleBody": "22日午後3時34分ごろ、茨城県で震度3を観測する地震がありました。\nこの地震による津波の心配はありません。\n震度3を観測したのは、茨城県の水戸市と石岡市、笠間市です。\nこのほか震度2や1の揺れを茨城県の広い範囲と栃木県、埼玉県、千葉県、群馬県、東京都、神奈川県の各地で観測しました。\n気象庁の観測によりますと、震源は茨城県南部で、震源の深さは50キロ、地震の規模を示すマグニチュードは3.9と推定されています。\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "22日午後3時34分ごろ、茨城県で震度3を観測する地震がありました。\\\nこの地震による津波の心配はありません。\\\n震度3を観測したのは、茨城県の水戸市と石岡市、笠間市です。\\\nこのほか震度2や1の揺れを茨城県の広い範囲と栃木県、埼玉県、千葉県、群馬県、東京都、神奈川県の各地で観測しました。\\\n気象庁の観測によりますと、震源は茨城県南部で、震源の深さは50キロ、地震の規模を示すマグニチュードは3.9と推定されています。\n",
+    "markedBody": "![](https://img.web.nhk/news/nd/kiji/20260922de51863/20260922de51863_E0000034269_1_l.jpg)\n",
+    "trimmedLead": "22日午後3時34分ごろ、茨城県で震度3を観測する地震がありました。\nこの地震による津波の心配はありません。\n震度3を観測したのは、茨城県の水戸市と石岡市、笠間市です。\nこのほか震度2や1の揺れを茨城県の広い範囲と栃木県、埼玉県、千葉県、群馬県、東京都、神奈川県の各地で観測しました。\n気象庁の観測によりますと、震源は茨城県南部で、震源の深さは50キロ、地震の規模を示すマグニチュードは3.9と推定されています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260922de51863.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260922de51863",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
