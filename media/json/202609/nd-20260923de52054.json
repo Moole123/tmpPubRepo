@@ -1,0 +1,132 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260923de52054",
+  "dataSourceId": "nd",
+  "name": "新宿駅前のビルで火災か 数人が体調不良訴え",
+  "headline": "新宿駅前のビルで火災か 数人が体調不良訴え",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260923de52054",
+    "playlistId": "news-nwa-society-nationwide-20260923",
+    "newsarticleName": "新宿駅前のビルで火災か 数人が体調不良訴え",
+    "playlistName": "9月23日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "23日夜、JR新宿駅前のビルの7階から煙が出て、現在も消火活動が続いています。\n\n東京消防庁によりますと、7階には飲食店が入っていて、数人が煙を吸うなどして体調不良を訴えているということです。\n\n\n東",
+  "dateModified": "2026-09-23T21:20:05+09:00",
+  "datePublished": "2026-09-23T20:55:35+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52054/20260923de52054_E0000034603_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52054/20260923de52054_E0000034603_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000341",
+      "name": "東京都",
+      "display": true
+    },
+    {
+      "id": "E0000000657",
+      "name": "火災",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "23日夜、JR新宿駅前のビルの7階から煙が出て、現在も消火活動が続いています。\n\n東京消防庁によりますと、7階には飲食店が入っていて、数人が煙を吸うなどして体調不良を訴えているということです。\n\n\n東",
+  "articleBody": "23日夜、JR新宿駅前のビルの7階から煙が出て、現在も消火活動が続いています。\n\n東京消防庁によりますと、7階には飲食店が入っていて、数人が煙を吸うなどして体調不良を訴えているということです。\n\n\n東京消防庁によりますと、23日午後8時ごろ、新宿区新宿3丁目にあるビルの7階から煙が出ました。\n\n消防車など30台が駆けつけ、現在も消火活動が続いています。\n\nビルの7階には飲食店が入っていて、数人が煙を吸うなどして体調不良を訴えているということです。\n\n現場はJR新宿駅前にある飲食店や映画館などが入るビルで、警視庁と東京消防庁が詳しい状況の確認を進めています。\n",
+  "detailedArticleBody": {
+    "markedLead": "23日夜、JR新宿駅前のビルの7階から煙が出て、現在も消火活動が続いています。\n\n東京消防庁によりますと、7階には飲食店が入っていて、数人が煙を吸うなどして体調不良を訴えているということです。\n",
+    "markedBody": "![](https://img.web.nhk/news/nd/kiji/20260923de52054/20260923de52054_E0000034601_1_l.jpg)\n\n東京消防庁によりますと、23日午後8時ごろ、新宿区新宿3丁目にあるビルの7階から煙が出ました。\n\n消防車など30台が駆けつけ、現在も消火活動が続いています。\n\nビルの7階には飲食店が入っていて、数人が煙を吸うなどして体調不良を訴えているということです。\n\n現場はJR新宿駅前にある飲食店や映画館などが入るビルで、警視庁と東京消防庁が詳しい状況の確認を進めています。\n",
+    "trimmedLead": "23日夜、JR新宿駅前のビルの7階から煙が出て、現在も消火活動が続いています。\n\n東京消防庁によりますと、7階には飲食店が入っていて、数人が煙を吸うなどして体調不良を訴えているということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260923de52054.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260923de52054",
+  "video": [],
+  "citation": [
+    {
+      "name": "台風25号 千葉と神奈川で10人死亡 4人行方不明 住宅被害相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51926",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51926/20260922de51926_E0000034370_1_s.jpg",
+      "datePublished": "2026-09-23T19:25:00+09:00"
+    },
+    {
+      "name": "【動画】 道路崩れ 各地で冠水 台風25号の被害状況",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51808",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51808/20260922de51808_E0000034271_1_s.jpg",
+      "datePublished": "2026-09-22T18:39:48+09:00"
+    },
+    {
+      "name": "日ウクライナ首脳会談 “各国結束して支援が重要”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de51944",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51944/20260923de51944_E0000034412_1_s.jpg",
+      "datePublished": "2026-09-23T19:51:14+09:00"
+    },
+    {
+      "name": "高市首相 国連総会出席や日米首脳会談終え帰国の途",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de52031",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52031/20260923de52031_E0000034549_1_s.jpg",
+      "datePublished": "2026-09-23T19:35:49+09:00"
+    },
+    {
+      "name": "中国の習近平国家主席がアメリカへ出発　米中首脳会談へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de51963",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51963/20260923de51963_E0000034559_1_s.jpg",
+      "datePublished": "2026-09-23T18:55:00+09:00"
+    },
+    {
+      "name": "米とイラン代表が協議 事態の打開につながるかが焦点",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de51933",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51933/20260923de51933_E0000034425_1_s.jpg",
+      "datePublished": "2026-09-23T12:28:20+09:00"
+    },
+    {
+      "name": "【全文】ウクライナ ゼレンスキー大統領インタビュー",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50749",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50749/20260917de50749_E0000032580_1_s.jpg",
+      "datePublished": "2026-09-22T12:56:12+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

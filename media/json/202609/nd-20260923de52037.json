@@ -1,0 +1,133 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260923de52037",
+  "dataSourceId": "nd",
+  "name": "JCOM ネット接続サービス障害が復旧",
+  "headline": "JCOM ネット接続サービス障害が復旧",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260923de52037",
+    "playlistId": "news-nwa-business-nationwide-20260923",
+    "newsarticleName": "JCOM ネット接続サービス障害が復旧",
+    "playlistName": "9月23日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "ケーブルテレビ大手の「JCOM」は、23日朝から発生したインターネット接続サービスの障害について、午後8時までに復旧が完了したと明らかにしました。\n\n\n「JCOM」が提供するインターネット接続サービス",
+  "dateModified": "2026-09-23T21:10:36+09:00",
+  "datePublished": "2026-09-23T19:52:15+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52037/20260923de52037_E0000034584_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52037/20260923de52037_E0000034584_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "E0000000472",
+      "name": "通信",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ケーブルテレビ大手の「JCOM」は、23日朝から発生したインターネット接続サービスの障害について、午後8時までに復旧が完了したと明らかにしました。\n\n\n「JCOM」が提供するインターネット接続サービス",
+  "articleBody": "ケーブルテレビ大手の「JCOM」は、23日朝から発生したインターネット接続サービスの障害について、午後8時までに復旧が完了したと明らかにしました。\n\n\n「JCOM」が提供するインターネット接続サービスでは23日午前9時ごろから障害が発生し、会社が復旧作業を進めていました。\n\nネット接続サービスにはことし3月末時点で全国の456万世帯余りが加入していますが、このうち、実際に何世帯に影響が出たかは調査中だとしています。\n\nただ、会社では、北海道と九州・沖縄を除く全国で障害が発生した可能性が高いとしていて、原因の特定を進めることにしています。\n\n「JCOM」では「お客様に多大なご迷惑をおかけし、深くお詫び申しあげます」とコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "ケーブルテレビ大手の「JCOM」は、23日朝から発生したインターネット接続サービスの障害について、午後8時までに復旧が完了したと明らかにしました。\n",
+    "markedBody": "「JCOM」が提供するインターネット接続サービスでは23日午前9時ごろから障害が発生し、会社が復旧作業を進めていました。\n\nネット接続サービスにはことし3月末時点で全国の456万世帯余りが加入していますが、このうち、実際に何世帯に影響が出たかは調査中だとしています。\n\nただ、会社では、北海道と九州・沖縄を除く全国で障害が発生した可能性が高いとしていて、原因の特定を進めることにしています。\n\n「JCOM」では「お客様に多大なご迷惑をおかけし、深くお詫び申しあげます」とコメントしています。\n",
+    "trimmedLead": "ケーブルテレビ大手の「JCOM」は、23日朝から発生したインターネット接続サービスの障害について、午後8時までに復旧が完了したと明らかにしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260923de52037.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260923de52037",
+  "video": [],
+  "citation": [
+    {
+      "name": "台風25号 千葉と神奈川で10人死亡 4人行方不明 住宅被害相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51926",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51926/20260922de51926_E0000034370_1_s.jpg",
+      "datePublished": "2026-09-23T19:25:00+09:00"
+    },
+    {
+      "name": "【動画】 道路崩れ 各地で冠水 台風25号の被害状況",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51808",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51808/20260922de51808_E0000034271_1_s.jpg",
+      "datePublished": "2026-09-22T18:39:48+09:00"
+    },
+    {
+      "name": "日ウクライナ首脳会談 “各国結束して支援が重要”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de51944",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51944/20260923de51944_E0000034412_1_s.jpg",
+      "datePublished": "2026-09-23T19:51:14+09:00"
+    },
+    {
+      "name": "高市首相 国連総会出席や日米首脳会談終え帰国の途",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de52031",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52031/20260923de52031_E0000034549_1_s.jpg",
+      "datePublished": "2026-09-23T19:35:49+09:00"
+    },
+    {
+      "name": "中国の習近平国家主席がアメリカへ出発　米中首脳会談へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de51963",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51963/20260923de51963_E0000034559_1_s.jpg",
+      "datePublished": "2026-09-23T18:55:00+09:00"
+    },
+    {
+      "name": "米とイラン代表が協議 事態の打開につながるかが焦点",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de51933",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51933/20260923de51933_E0000034425_1_s.jpg",
+      "datePublished": "2026-09-23T12:28:20+09:00"
+    },
+    {
+      "name": "【全文】ウクライナ ゼレンスキー大統領インタビュー",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50749",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50749/20260917de50749_E0000032580_1_s.jpg",
+      "datePublished": "2026-09-22T12:56:12+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

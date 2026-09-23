@@ -1,0 +1,125 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260923de51938",
+  "dataSourceId": "nd",
+  "name": "総武本線 成田線 内房線 外房線 JRの状況は【台風影響】",
+  "headline": "【台風25号】交通影響 JR一部区間で復旧に1週間以上か（23日）",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260923de51938",
+    "playlistId": "news-nwa-disaster-nationwide-20260923",
+    "newsarticleName": "総武本線 成田線 内房線 外房線 JRの状況は【台風影響】",
+    "playlistName": "9月23日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "23日午後6時現在の交通機関への影響です。\n\n\n鉄道\n\nJR東日本によりますと、24日の始発から運転を再開するのは、\n▽外房線の千葉駅と安房鴨川駅の間の全線と、\n▽総武本線の佐倉駅と榎戸駅の間です。\n",
+  "dateModified": "2026-09-23T18:48:00+09:00",
+  "datePublished": "2026-09-23T07:03:19+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51938/20260923de51938_E0000003966_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51938/20260923de51938_E0000003966_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000202",
+      "name": "台風",
+      "display": true
+    },
+    {
+      "id": "E0000000481",
+      "name": "鉄道",
+      "display": true
+    },
+    {
+      "id": "E0000000651",
+      "name": "交通・インフラ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "23日午後6時現在の交通機関への影響です。\n\n\n鉄道\n\nJR東日本によりますと、24日の始発から運転を再開するのは、\n▽外房線の千葉駅と安房鴨川駅の間の全線と、\n▽総武本線の佐倉駅と榎戸駅の間です。\n",
+  "articleBody": "23日午後6時現在の交通機関への影響です。\n\n\n鉄道\n\nJR東日本によりますと、24日の始発から運転を再開するのは、\n▽外房線の千葉駅と安房鴨川駅の間の全線と、\n▽総武本線の佐倉駅と榎戸駅の間です。\n\nまた、24日以降も運転を見合わせる区間のうち、\n▽成田線の新木駅と木下駅の間と、\n▽内房線の木更津駅と安房鴨川駅の間は、\n今月26日の運転再開を見込んでいるということです。\n\n一方、総武本線、成田線、内房線、久留里線の一部区間では、復旧までに1週間から数か月程度かかる見込みだということで、JR東日本は、こうした区間でバスによる代行輸送を検討しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "23日午後6時現在の交通機関への影響です。\n",
+    "markedBody": "## 鉄道\n\nJR東日本によりますと、24日の始発から運転を再開するのは、\\\n▽外房線の千葉駅と安房鴨川駅の間の全線と、\\\n▽総武本線の佐倉駅と榎戸駅の間です。\n\nまた、24日以降も運転を見合わせる区間のうち、\\\n▽成田線の新木駅と木下駅の間と、\\\n▽内房線の木更津駅と安房鴨川駅の間は、\\\n今月26日の運転再開を見込んでいるということです。\n\n一方、総武本線、成田線、内房線、久留里線の一部区間では、復旧までに1週間から数か月程度かかる見込みだということで、JR東日本は、こうした区間でバスによる代行輸送を検討しています。\n",
+    "trimmedLead": "23日午後6時現在の交通機関への影響です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260923de51938.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260923de51938",
+  "video": [],
+  "citation": [
+    {
+      "name": "鉄道運行情報",
+      "url": "https://news.web.nhk/news/traffic/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00046_E0000003285_1_s.jpg"
+    },
+    {
+      "name": "台風25号 千葉と神奈川で10人死亡 4人行方不明 住宅被害相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51926",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51926/20260922de51926_E0000034370_1_s.jpg",
+      "datePublished": "2026-09-23T19:25:00+09:00"
+    },
+    {
+      "name": "【動画】 道路崩れ 各地で冠水 台風25号の被害状況",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51808",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51808/20260922de51808_E0000034271_1_s.jpg",
+      "datePublished": "2026-09-22T18:39:48+09:00"
+    },
+    {
+      "name": "秋の連休最終日 交通機関は混雑",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de51975",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51975/20260923de51975_E0000034441_1_s.jpg",
+      "datePublished": "2026-09-23T12:32:53+09:00"
+    },
+    {
+      "name": "JCOMでネット接続サービスに障害",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de52004",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52004/20260923de52004_E0000034493_1_s.jpg",
+      "datePublished": "2026-09-23T16:17:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
