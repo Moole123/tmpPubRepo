@@ -1,0 +1,174 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260923de52004",
+  "dataSourceId": "nd",
+  "name": "JCOMでネット接続サービスに障害",
+  "headline": "JCOMでネット接続サービスに障害",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260923de52004",
+    "playlistId": "news-nwa-business-nationwide-20260923",
+    "newsarticleName": "JCOMでネット接続サービスに障害",
+    "playlistName": "9月23日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "ケーブルテレビ大手の「JCOM」によりますと、23日午前9時ごろからインターネット接続サービスに障害が発生し、利用できない状況になっているということです。\n\n\n北海道と九州・沖縄を除く全国で障害が発生",
+  "dateModified": "2026-09-23T16:17:00+09:00",
+  "datePublished": "2026-09-23T16:17:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52004/20260923de52004_E0000034493_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52004/20260923de52004_E0000034493_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "暮らし"
+  ],
+  "topic": [
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "E0000000472",
+      "name": "通信",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ケーブルテレビ大手の「JCOM」によりますと、23日午前9時ごろからインターネット接続サービスに障害が発生し、利用できない状況になっているということです。\n\n\n北海道と九州・沖縄を除く全国で障害が発生",
+  "articleBody": "ケーブルテレビ大手の「JCOM」によりますと、23日午前9時ごろからインターネット接続サービスに障害が発生し、利用できない状況になっているということです。\n\n\n北海道と九州・沖縄を除く全国で障害が発生している可能性が高いとしています。\n\n今のところ、ケーブルテレビの視聴には障害は確認されておらず、会社が原因の特定を進めるとともに、復旧を急いでいます。\n\n「JCOM」では「お客様に多大なご迷惑をおかけし、深くお詫び申しあげます」とコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "ケーブルテレビ大手の「JCOM」によりますと、23日午前9時ごろからインターネット接続サービスに障害が発生し、利用できない状況になっているということです。\n",
+    "markedBody": "北海道と九州・沖縄を除く全国で障害が発生している可能性が高いとしています。\n\n今のところ、ケーブルテレビの視聴には障害は確認されておらず、会社が原因の特定を進めるとともに、復旧を急いでいます。\n\n「JCOM」では「お客様に多大なご迷惑をおかけし、深くお詫び申しあげます」とコメントしています。\n",
+    "trimmedLead": "ケーブルテレビ大手の「JCOM」によりますと、23日午前9時ごろからインターネット接続サービスに障害が発生し、利用できない状況になっているということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260923de52004.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260923de52004",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "JCOMでネット接続サービスに障害",
+      "description": "ケーブルテレビ大手の「JCOM」によりますと、23日午前9時ごろからインターネット接続サービスに障害が発生し、利用できない状況になっているということです。\n\n\n北海道と九州・沖縄を除く全国で障害が発生",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20260923de52004_E0000034494_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20260923de52004/20260923de52004_E0000034493_1_l.jpg",
+      "duration": "PT18S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20260923de52004_E0000034494_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52004/20260923de52004_E0000034493_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "台風25号 千葉と神奈川で9人死亡 4人行方不明 住宅被害相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51926",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51926/20260922de51926_E0000034370_1_s.jpg",
+      "datePublished": "2026-09-23T16:37:40+09:00"
+    },
+    {
+      "name": "【動画】 道路崩れ 各地で冠水 台風25号の被害状況",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51808",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51808/20260922de51808_E0000034271_1_s.jpg",
+      "datePublished": "2026-09-22T18:39:48+09:00"
+    },
+    {
+      "name": "秋の連休最終日 交通機関は混雑",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de51975",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51975/20260923de51975_E0000034441_1_s.jpg",
+      "datePublished": "2026-09-23T12:32:53+09:00"
+    },
+    {
+      "name": "トランプ大統領 国連総会で演説 ICC加盟国に脱退呼びかけ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de51930",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51930/20260923de51930_E0000034376_1_s.jpg",
+      "datePublished": "2026-09-23T06:40:00+09:00"
+    },
+    {
+      "name": "高市首相 記者会見“日米同盟関係さらに揺るぎのないものに”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de51965",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51965/20260923de51965_E0000034452_1_s.jpg",
+      "datePublished": "2026-09-23T14:59:35+09:00"
+    },
+    {
+      "name": "米とイラン代表が協議 事態の打開につながるかが焦点",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de51933",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51933/20260923de51933_E0000034425_1_s.jpg",
+      "datePublished": "2026-09-23T12:28:20+09:00"
+    },
+    {
+      "name": "損壊したサウジアラビアのパイプライン操業再開と報道",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de51932",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51932/20260923de51932_E0000034381_3_s.jpg",
+      "datePublished": "2026-09-23T05:59:00+09:00"
+    },
+    {
+      "name": "引用回数多い論文の数 日本は4年連続で13位 低迷続く",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de51980",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51980/20260923de51980_E0000003806_1_s.jpg",
+      "datePublished": "2026-09-23T13:21:11+09:00"
+    },
+    {
+      "name": "ホワイトハウス「トランプTV」開始 主要メディアと対立のなか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51923",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51923/20260922de51923_E0000034371_1_s.jpg",
+      "datePublished": "2026-09-22T22:37:00+09:00"
+    },
+    {
+      "name": "病への挑戦 がん新薬開発の最前線 治験も選択肢に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260909de49315",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49315/20260909de49315_E0000031833_1_s.jpg",
+      "datePublished": "2026-09-22T11:56:40+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
