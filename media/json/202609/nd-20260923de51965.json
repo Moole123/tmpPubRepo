@@ -1,0 +1,157 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260923de51965",
+  "dataSourceId": "nd",
+  "name": "【ライブ配信中】高市首相 記者会見 NY訪問の成果など説明",
+  "headline": "【ライブ配信中】高市首相 記者会見 NY訪問の成果など説明",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260923de51965",
+    "playlistId": "news-nwa-politics-nationwide-20260923",
+    "newsarticleName": "【ライブ配信中】高市首相 記者会見 NY訪問の成果など説明",
+    "playlistName": "9月23日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "高市総理大臣は現地で記者会見を開き、今回の訪問の成果などを説明しています。\n\n\n",
+  "dateModified": "2026-09-23T13:02:00+09:00",
+  "datePublished": "2026-09-23T12:13:24+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51965/20260923de51965_E0000034450_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51965/20260923de51965_E0000034450_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治",
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000212",
+      "name": "日米首脳会談",
+      "display": true
+    },
+    {
+      "id": "E0000000419",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "E0000000427",
+      "name": "ニューヨーク",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "高市総理大臣は現地で記者会見を開き、今回の訪問の成果などを説明しています。\n\n\n",
+  "articleBody": "高市総理大臣は現地で記者会見を開き、今回の訪問の成果などを説明しています。\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "高市総理大臣は現地で記者会見を開き、今回の訪問の成果などを説明しています。\n",
+    "markedBody": "```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"001\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\n<div class=\"fs-wrap\">\n<h2 class=\"freespace-title\">【ライブ配信】</h2>\n<div class=\"video-player-fixed\">\n   <iframe src=\"https://news.web.nhk/n-data/conf/realtime/movie/player_rt20260923de51957_01.html\" title=\"NHKライブ配信\" allow=\"fullscreen\"></iframe>\n  </div>\n</div>\n</div>\n```\n",
+    "noHtmlMarkedLead": "高市総理大臣は現地で記者会見を開き、今回の訪問の成果などを説明しています。\n",
+    "trimmedLead": "高市総理大臣は現地で記者会見を開き、今回の訪問の成果などを説明しています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260923de51965.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260923de51965",
+  "video": [],
+  "citation": [
+    {
+      "name": "日米首脳 中国めぐる諸課題を意見交換 高市首相からICCに言及 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51902",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51902/20260922de51902_E0000034386_1_s.jpg",
+      "datePublished": "2026-09-23T12:25:00+09:00"
+    },
+    {
+      "name": "トランプ大統領 国連総会で演説 ICC加盟国に脱退呼びかけ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de51930",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51930/20260923de51930_E0000034376_1_s.jpg",
+      "datePublished": "2026-09-23T06:40:00+09:00"
+    },
+    {
+      "name": "トランプ大統領 グリーンランドに米軍基地設置の協定に署名",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de51941",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51941/20260923de51941_E0000034406_1_s.jpg",
+      "datePublished": "2026-09-23T08:09:47+09:00"
+    },
+    {
+      "name": "ダウ平均株価は下落もナスダック最高値更新 半導体に買い注文",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de51940",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51940/20260923de51940_E0000034400_1_s.jpg",
+      "datePublished": "2026-09-23T06:59:52+09:00"
+    },
+    {
+      "name": "日ウクライナ首脳会談 “各国結束して支援が重要”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de51944",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51944/20260923de51944_E0000034412_1_s.jpg",
+      "datePublished": "2026-09-23T09:46:00+09:00"
+    },
+    {
+      "name": "台風25号 千葉と神奈川で9人死亡 4人行方不明 住宅被害相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51926",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51926/20260922de51926_E0000034370_1_s.jpg",
+      "datePublished": "2026-09-23T12:40:00+09:00"
+    },
+    {
+      "name": "【台風25号】交通影響 始発から運転再開のところも（23日）",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de51938",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51938/20260923de51938_E0000003966_1_s.jpg",
+      "datePublished": "2026-09-23T07:03:19+09:00"
+    },
+    {
+      "name": "【台風被害】千葉と神奈川で7人死亡 5人行方不明 道路崩落も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51778",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51778/20260922de51778_E0000034288_1_s.jpg",
+      "datePublished": "2026-09-22T23:43:37+09:00"
+    },
+    {
+      "name": "【動画】 道路崩れ 各地で冠水 台風25号の被害状況",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51808",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51808/20260922de51808_E0000034271_1_s.jpg",
+      "datePublished": "2026-09-22T18:39:48+09:00"
+    },
+    {
+      "name": "アジア大会でひぼう中傷投稿相次ぐ 削除要請すでに120件超",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51903",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51903/20260922de51903_E0000034357_1_s.jpg",
+      "datePublished": "2026-09-22T21:47:57+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": true
+  }
+}

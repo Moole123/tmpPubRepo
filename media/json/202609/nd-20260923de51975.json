@@ -1,0 +1,162 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260923de51975",
+  "dataSourceId": "nd",
+  "name": "秋の連休最終日 交通機関は混雑",
+  "headline": "秋の連休最終日 交通機関は混雑",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260923de51975",
+    "playlistId": "news-nwa-society-nationwide-20260923",
+    "newsarticleName": "秋の連休最終日 交通機関は混雑",
+    "playlistName": "9月23日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "11年ぶりの5連休となる秋の連休は23日が最終日で、交通機関は行楽地などで過ごした人たちで混雑しています。\n\n\nJR東海によりますと、東海道新幹線の上りは午前中から混雑していて、空席が少なくなっている",
+  "dateModified": "2026-09-23T12:32:53+09:00",
+  "datePublished": "2026-09-23T12:32:53+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51975/20260923de51975_E0000034441_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51975/20260923de51975_E0000034441_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000651",
+      "name": "交通・インフラ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "11年ぶりの5連休となる秋の連休は23日が最終日で、交通機関は行楽地などで過ごした人たちで混雑しています。\n\n\nJR東海によりますと、東海道新幹線の上りは午前中から混雑していて、空席が少なくなっている",
+  "articleBody": "11年ぶりの5連休となる秋の連休は23日が最終日で、交通機関は行楽地などで過ごした人たちで混雑しています。\n\n\nJR東海によりますと、東海道新幹線の上りは午前中から混雑していて、空席が少なくなっているということです。\n\n午後は指定席が満席となっている列車もあり、早めに席を確保するよう呼びかけています。\n\nまた、国内の空の便でも混雑が予想されていて、日本航空によりますと、羽田空港発着の便などで23日は終日、ほぼ満席となっているということです。\n\n高速道路は午前11時現在、\n▽東名高速道路の上りで神奈川県の横浜町田インターチェンジ付近を先頭に13キロ\n▽東名高速道路の下りで神奈川県の大和トンネル付近で12キロ\n▽名神高速道路の上りで滋賀県の蝉丸トンネル入り口付近を先頭に15キロなど渋滞が起きているところがあります。\n\n高速道路各社は23日夜にかけて各地で渋滞が予想されるとして、ホームページで渋滞予測を確認して、混雑が予想される時間帯を避けるよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "11年ぶりの5連休となる秋の連休は23日が最終日で、交通機関は行楽地などで過ごした人たちで混雑しています。\n",
+    "markedBody": "JR東海によりますと、東海道新幹線の上りは午前中から混雑していて、空席が少なくなっているということです。\n\n午後は指定席が満席となっている列車もあり、早めに席を確保するよう呼びかけています。\n\nまた、国内の空の便でも混雑が予想されていて、日本航空によりますと、羽田空港発着の便などで23日は終日、ほぼ満席となっているということです。\n\n高速道路は午前11時現在、\\\n▽東名高速道路の上りで神奈川県の横浜町田インターチェンジ付近を先頭に13キロ\\\n▽東名高速道路の下りで神奈川県の大和トンネル付近で12キロ\\\n▽名神高速道路の上りで滋賀県の蝉丸トンネル入り口付近を先頭に15キロなど渋滞が起きているところがあります。\n\n高速道路各社は23日夜にかけて各地で渋滞が予想されるとして、ホームページで渋滞予測を確認して、混雑が予想される時間帯を避けるよう呼びかけています。\n",
+    "trimmedLead": "11年ぶりの5連休となる秋の連休は23日が最終日で、交通機関は行楽地などで過ごした人たちで混雑しています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260923de51975.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260923de51975",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "秋の連休最終日 交通機関は混雑",
+      "description": "11年ぶりの5連休となる秋の連休は23日が最終日で、交通機関は行楽地などで過ごした人たちで混雑しています。\n\n\nJR東海によりますと、東海道新幹線の上りは午前中から混雑していて、空席が少なくなっている",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20260923de51975_E0000034444_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20260923de51975/20260923de51975_E0000034441_1_l.jpg",
+      "duration": "PT1M14S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20260923de51975_E0000034444_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51975/20260923de51975_E0000034441_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "台風25号 千葉と神奈川で9人死亡 4人行方不明 住宅被害相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51926",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51926/20260922de51926_E0000034370_1_s.jpg",
+      "datePublished": "2026-09-23T12:40:00+09:00"
+    },
+    {
+      "name": "【ライブ配信中】高市首相 記者会見 NY訪問の成果など説明",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de51965",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51965/20260923de51965_E0000034450_1_s.jpg",
+      "datePublished": "2026-09-23T13:02:00+09:00"
+    },
+    {
+      "name": "日米首脳 中国めぐる諸課題を意見交換 高市首相からICCに言及 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51902",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51902/20260922de51902_E0000034386_1_s.jpg",
+      "datePublished": "2026-09-23T12:25:00+09:00"
+    },
+    {
+      "name": "高市首相 “法の支配に基づく国際秩序に貢献”国連総会演説  ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de51969",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51969/20260923de51969_E0000034428_1_s.jpg",
+      "datePublished": "2026-09-23T11:48:00+09:00"
+    },
+    {
+      "name": "日ウクライナ首脳会談 “各国結束して支援が重要”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de51944",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51944/20260923de51944_E0000034412_1_s.jpg",
+      "datePublished": "2026-09-23T09:46:00+09:00"
+    },
+    {
+      "name": "茂木外相“CTBT早期発効へ力の限り取り組む”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de51968",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51968/20260923de51968_E0000034426_1_s.jpg",
+      "datePublished": "2026-09-23T12:01:41+09:00"
+    },
+    {
+      "name": "米とイラン代表が協議 事態の打開につながるかが焦点",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de51933",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51933/20260923de51933_E0000034425_1_s.jpg",
+      "datePublished": "2026-09-23T12:28:20+09:00"
+    },
+    {
+      "name": "故ダイアナ元妃の弟が回顧録でチャールズ国王を批判し物議",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de51931",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51931/20260923de51931_E0000034378_1_s.jpg",
+      "datePublished": "2026-09-23T08:35:53+09:00"
+    },
+    {
+      "name": "大谷翔平 日本時間24日復帰へ 監督「ラインナップに入る予定」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de51966",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51966/20260923de51966_E0000034423_1_s.jpg",
+      "datePublished": "2026-09-23T11:54:47+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
