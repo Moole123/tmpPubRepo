@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260923de51940",
+  "dataSourceId": "nd",
+  "name": "ダウ平均株価は下落もナスダック最高値更新 半導体に買い注文",
+  "headline": "ダウ平均株価は下落もナスダック最高値更新 半導体に買い注文",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260923de51940",
+    "playlistId": "news-nwa-international-nationwide-20260923",
+    "newsarticleName": "ダウ平均株価は下落もナスダック最高値更新 半導体に買い注文",
+    "playlistName": "9月23日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "22日のニューヨーク株式市場では、業績が伸び悩むことへの警戒感などから金融関連の銘柄を中心に売り注文が出て、ダウ平均株価の終値は前日と比べて185ドル14セント安い、5万1863ドル69セントでした。",
+  "dateModified": "2026-09-23T06:59:52+09:00",
+  "datePublished": "2026-09-23T06:59:52+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51940/20260923de51940_E0000034400_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51940/20260923de51940_E0000034400_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際",
+    "経済"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "22日のニューヨーク株式市場では、業績が伸び悩むことへの警戒感などから金融関連の銘柄を中心に売り注文が出て、ダウ平均株価の終値は前日と比べて185ドル14セント安い、5万1863ドル69セントでした。",
+  "articleBody": "22日のニューヨーク株式市場では、業績が伸び悩むことへの警戒感などから金融関連の銘柄を中心に売り注文が出て、ダウ平均株価の終値は前日と比べて185ドル14セント安い、5万1863ドル69セントでした。\n\n\n一方、AIの需要が拡大するとの見方から、半導体関連の銘柄では買い注文が優勢となりました。\n\nハイテク株の比率が高いナスダックの株価指数は、前日から120ポイントあまり上昇して2日連続で最高値を更新しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "22日のニューヨーク株式市場では、業績が伸び悩むことへの警戒感などから金融関連の銘柄を中心に売り注文が出て、ダウ平均株価の終値は前日と比べて185ドル14セント安い、5万1863ドル69セントでした。\n",
+    "markedBody": "一方、AIの需要が拡大するとの見方から、半導体関連の銘柄では買い注文が優勢となりました。\n\nハイテク株の比率が高いナスダックの株価指数は、前日から120ポイントあまり上昇して2日連続で最高値を更新しました。\n",
+    "trimmedLead": "22日のニューヨーク株式市場では、業績が伸び悩むことへの警戒感などから金融関連の銘柄を中心に売り注文が出て、ダウ平均株価の終値は前日と比べて185ドル14セント安い、5万1863ドル69セントでした。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260923de51940.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260923de51940",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
