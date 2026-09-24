@@ -1,0 +1,145 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260924de52196",
+  "dataSourceId": "nd",
+  "name": "JCOM ネット障害 最大約408万世帯に影響 外部から大量アクセス",
+  "headline": "JCOM ネット障害 最大約408万世帯に影響 外部から大量アクセス",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260924de52196",
+    "playlistId": "news-nwa-business-nationwide-20260924",
+    "newsarticleName": "JCOM ネット障害 最大約408万世帯に影響 外部から大量アクセス",
+    "playlistName": "9月24日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "ケーブルテレビ大手の「JCOM」は23日発生したインターネット接続サービスの障害によって、最大およそ408万世帯に影響が確認されたと発表しました。\n\n原因については、外部から大量のアクセスがあったこと",
+  "dateModified": "2026-09-24T17:26:00+09:00",
+  "datePublished": "2026-09-24T16:53:15+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52196/20260924de52196_E0000034989_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52196/20260924de52196_E0000034989_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ケーブルテレビ大手の「JCOM」は23日発生したインターネット接続サービスの障害によって、最大およそ408万世帯に影響が確認されたと発表しました。\n\n原因については、外部から大量のアクセスがあったこと",
+  "articleBody": "ケーブルテレビ大手の「JCOM」は23日発生したインターネット接続サービスの障害によって、最大およそ408万世帯に影響が確認されたと発表しました。\n\n原因については、外部から大量のアクセスがあったことでサーバに負荷がかかり、ネット接続に必要な処理が正常に行えなくなったためだとしています。\n\n\n「JCOM」が提供するインターネット接続サービスでは23日午前9時ごろから障害が発生し、復旧作業が完了した午後8時までの間、インターネットに接続できないなどの影響が出ました。\n\n会社は24日この障害によって、北海道と九州エリアを除く最大およそ408万世帯に影響が確認されたと発表しました。\n\n原因については外部から大量のアクセスがあったことでサーバに負荷がかかり、ネット接続に必要な処理が正常に行えなくなったためだとしていますが、どこからアクセスがあったかなどは現時点で調査中だとしています。\n\n会社では引き続きなぜ大量のアクセスがあったかなどを調べることにしています。\n\nJCOMは「今回の事象を厳粛に受け止め、アクセス集中対策を強化するとともに、障害発生時の情報提供についても改善を進め、再発防止に努めていきます」とコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "ケーブルテレビ大手の「JCOM」は23日発生したインターネット接続サービスの障害によって、最大およそ408万世帯に影響が確認されたと発表しました。\n\n原因については、外部から大量のアクセスがあったことでサーバに負荷がかかり、ネット接続に必要な処理が正常に行えなくなったためだとしています。\n",
+    "markedBody": "「JCOM」が提供するインターネット接続サービスでは23日午前9時ごろから障害が発生し、復旧作業が完了した午後8時までの間、インターネットに接続できないなどの影響が出ました。\n\n会社は24日この障害によって、北海道と九州エリアを除く最大およそ408万世帯に影響が確認されたと発表しました。\n\n原因については外部から大量のアクセスがあったことでサーバに負荷がかかり、ネット接続に必要な処理が正常に行えなくなったためだとしていますが、どこからアクセスがあったかなどは現時点で調査中だとしています。\n\n会社では引き続きなぜ大量のアクセスがあったかなどを調べることにしています。\n\nJCOMは「今回の事象を厳粛に受け止め、アクセス集中対策を強化するとともに、障害発生時の情報提供についても改善を進め、再発防止に努めていきます」とコメントしています。\n",
+    "trimmedLead": "ケーブルテレビ大手の「JCOM」は23日発生したインターネット接続サービスの障害によって、最大およそ408万世帯に影響が確認されたと発表しました。\n\n原因については、外部から大量のアクセスがあったことでサーバに負荷がかかり、ネット接続に必要な処理が正常に行えなくなったためだとしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260924de52196.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260924de52196",
+  "video": [],
+  "citation": [
+    {
+      "name": "台風25号 千葉と神奈川で11人死亡3人不明 北印旛沼で堤防決壊",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de52072",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52072/20260923de52072_E0000034809_1_s.jpg",
+      "datePublished": "2026-09-24T19:12:02+09:00"
+    },
+    {
+      "name": "台風25号 千葉 印旛沼付近 水につかった太陽光発電施設で火事",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260924de52122",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52122/20260924de52122_E0000034738_1_s.jpg",
+      "datePublished": "2026-09-24T14:30:28+09:00"
+    },
+    {
+      "name": "台風26号 沖縄の南の海上へ進む可能性 最新の情報確認を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de52066",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52066/20260923de52066_E0000035174_1_s.jpg",
+      "datePublished": "2026-09-24T19:28:51+09:00"
+    },
+    {
+      "name": "長期金利 3.075％まで上昇 1996年8月以来の高水準",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260924de52101",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52101/20260924de52101_E0000034690_1_s.jpg",
+      "datePublished": "2026-09-24T13:31:00+09:00"
+    },
+    {
+      "name": "ジャングリア沖縄 親会社が173億円余の赤字",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de52050",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52050/20260923de52050_E0000034600_1_s.jpg",
+      "datePublished": "2026-09-24T05:47:00+09:00"
+    },
+    {
+      "name": "8月の中古マンション価格 東京都が2年4か月ぶり下落",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260924de52110",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52110/20260924de52110_E0000034852_1_s.jpg",
+      "datePublished": "2026-09-24T13:10:00+09:00"
+    },
+    {
+      "name": "飯塚事件 「DNA型不一致の新証拠」 3回目の再審請求へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de52068",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52068/20260923de52068_E0000034634_1_s.jpg",
+      "datePublished": "2026-09-24T05:45:00+09:00"
+    },
+    {
+      "name": "シールで落とし物を返却 新たな仕組み開発 警視庁などと連携へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de52064",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52064/20260923de52064_E0000034619_1_s.jpg",
+      "datePublished": "2026-09-24T05:56:00+09:00"
+    },
+    {
+      "name": "ドジャース 大谷翔平 復帰戦初打席ヒット 山本は15勝目ならず",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260924de52092",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52092/20260924de52092_E0000034744_1_s.jpg",
+      "datePublished": "2026-09-24T16:19:14+09:00"
+    },
+    {
+      "name": "水木しげる『白い旗』原作にない“妖怪”をアニメに描いた理由",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50774",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50774/20260917de50774_E0000031857_1_s.jpg",
+      "datePublished": "2026-09-23T11:14:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

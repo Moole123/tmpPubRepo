@@ -1,0 +1,181 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260923de52064",
+  "dataSourceId": "nd",
+  "name": "シールで落とし物を返却 スタートアップ企業が新たな仕組み開発 警視庁などと連携へ",
+  "headline": "シールで落とし物を返却 新たな仕組み開発 警視庁などと連携へ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260923de52064",
+    "playlistId": "news-nwa-society-nationwide-20260924",
+    "newsarticleName": "シールで落とし物を返却 スタートアップ企業が新たな仕組み開発 警視庁などと連携へ",
+    "playlistName": "9月24日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "年々増加する落とし物をより迅速に返却しようと、都内のスタートアップ企業は、持ち主が特定できるシールを切り札にした新たな仕組みを開発し、今後、警視庁などと連携することになりました。\n\n\n去年1年間の都内",
+  "dateModified": "2026-09-24T05:56:00+09:00",
+  "datePublished": "2026-09-24T05:56:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52064/20260923de52064_E0000034619_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52064/20260923de52064_E0000034619_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "E0000000341",
+      "name": "東京都",
+      "display": true
+    },
+    {
+      "id": "E0000000598",
+      "name": "警察",
+      "display": true
+    },
+    {
+      "id": "E0000000655",
+      "name": "警察庁",
+      "display": true
+    },
+    {
+      "id": "E0000000481",
+      "name": "鉄道",
+      "display": true
+    },
+    {
+      "id": "E0000000651",
+      "name": "交通・インフラ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "年々増加する落とし物をより迅速に返却しようと、都内のスタートアップ企業は、持ち主が特定できるシールを切り札にした新たな仕組みを開発し、今後、警視庁などと連携することになりました。\n\n\n去年1年間の都内",
+  "articleBody": "年々増加する落とし物をより迅速に返却しようと、都内のスタートアップ企業は、持ち主が特定できるシールを切り札にした新たな仕組みを開発し、今後、警視庁などと連携することになりました。\n\n\n去年1年間の都内の落とし物は、前の年より13万件ほど多く、過去最多のおよそ450万件で、仕分けや登録、保管、それに返却といった管理業務の負担軽減が大きな課題です。\n\nこうした中、落とし物の管理システムを開発する都内のスタートアップ企業は、落とし物が届けられる警視庁や全国の警察、鉄道会社などと連携して、持ち主に速やかに通知を送るサービスを、来月から開始することになりました。\n\nこの新たなサービスの切り札は、6桁の数字のIDが書かれた小さなシールです。\n\n利用者は、5枚1セットのシールを購入して、名前や電話番号などの情報を事前登録した上で、スマートフォンやワイヤレスイヤホンなどに貼ると、シールが車のナンバーのような役割を果たします。\n\n落とし物として届けられた場合、警察や鉄道会社などはシールのIDをこの企業に連絡し、企業は登録情報をもとに持ち主に通知する仕組みです。\n\n企業では、連携に参加する鉄道やバスなどの交通機関や商業施設を増やし、より早く確実な落とし物の返却を目指すことにしています。\n\nスタートアップ企業「find」の十日市晃子広報担当は「サービスを通じて業務の負荷を減らし、落とし物が必ず見つかる世界を実現していきたい」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "年々増加する落とし物をより迅速に返却しようと、都内のスタートアップ企業は、持ち主が特定できるシールを切り札にした新たな仕組みを開発し、今後、警視庁などと連携することになりました。\n",
+    "markedBody": "去年1年間の都内の落とし物は、前の年より13万件ほど多く、過去最多のおよそ450万件で、仕分けや登録、保管、それに返却といった管理業務の負担軽減が大きな課題です。\n\nこうした中、落とし物の管理システムを開発する都内のスタートアップ企業は、落とし物が届けられる警視庁や全国の警察、鉄道会社などと連携して、持ち主に速やかに通知を送るサービスを、来月から開始することになりました。\n\nこの新たなサービスの切り札は、6桁の数字のIDが書かれた小さなシールです。\n\n![](https://img.web.nhk/news/nd/kiji/20260923de52064/20260923de52064_E0000034620_1_l.jpg)\n\n利用者は、5枚1セットのシールを購入して、名前や電話番号などの情報を事前登録した上で、スマートフォンやワイヤレスイヤホンなどに貼ると、シールが車のナンバーのような役割を果たします。\n\n落とし物として届けられた場合、警察や鉄道会社などはシールのIDをこの企業に連絡し、企業は登録情報をもとに持ち主に通知する仕組みです。\n\n企業では、連携に参加する鉄道やバスなどの交通機関や商業施設を増やし、より早く確実な落とし物の返却を目指すことにしています。\n\nスタートアップ企業「find」の十日市晃子広報担当は「サービスを通じて業務の負荷を減らし、落とし物が必ず見つかる世界を実現していきたい」と話しています。\n",
+    "trimmedLead": "年々増加する落とし物をより迅速に返却しようと、都内のスタートアップ企業は、持ち主が特定できるシールを切り札にした新たな仕組みを開発し、今後、警視庁などと連携することになりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260923de52064.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260923de52064",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "シールで落とし物を返却 新たな仕組み開発 警視庁などと連携へ",
+      "description": "年々増加する落とし物をより迅速に返却しようと、都内のスタートアップ企業は、持ち主が特定できるシールを切り札にした新たな仕組みを開発し、今後、警視庁などと連携することになりました。\n\n\n去年1年間の都内",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20260923de52064_E0000034694_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20260923de52064/20260923de52064_E0000034619_1_l.jpg",
+      "duration": "PT1M55S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20260923de52064_E0000034694_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52064/20260923de52064_E0000034619_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "中国 習近平主席がアメリカに到着 米中首脳会談へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260924de52079",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52079/20260924de52079_E0000034662_1_s.jpg",
+      "datePublished": "2026-09-24T15:33:00+09:00"
+    },
+    {
+      "name": "台風26号 沖縄の南の海上へ進む可能性 最新の情報確認を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de52066",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52066/20260923de52066_E0000035174_1_s.jpg",
+      "datePublished": "2026-09-24T19:28:51+09:00"
+    },
+    {
+      "name": "全日空機乗客 那覇空港で緊急脱出 3人けが エンジントラブルか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de52071",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52071/20260923de52071_E0000034649_1_s.jpg",
+      "datePublished": "2026-09-24T04:25:00+09:00"
+    },
+    {
+      "name": "台風25号 千葉と神奈川で11人死亡3人不明 北印旛沼で堤防決壊",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de52072",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52072/20260923de52072_E0000034809_1_s.jpg",
+      "datePublished": "2026-09-24T19:12:02+09:00"
+    },
+    {
+      "name": "台風25号 千葉と神奈川で10人死亡 4人行方不明 住宅被害相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51926",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51926/20260922de51926_E0000034370_1_s.jpg",
+      "datePublished": "2026-09-23T19:25:00+09:00"
+    },
+    {
+      "name": "【動画】 道路崩れ 各地で冠水 台風25号の被害状況",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51808",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51808/20260922de51808_E0000034271_1_s.jpg",
+      "datePublished": "2026-09-22T18:39:48+09:00"
+    },
+    {
+      "name": "高市首相 トランプ大統領 国連総会で演説 日米首脳会談も ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de52038",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52038/20260923de52038_E0000034614_1_s.jpg",
+      "datePublished": "2026-09-23T22:05:27+09:00"
+    },
+    {
+      "name": "水木しげる『白い旗』原作にない“妖怪”をアニメに描いた理由",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50774",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50774/20260917de50774_E0000031857_1_s.jpg",
+      "datePublished": "2026-09-23T11:14:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

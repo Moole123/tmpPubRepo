@@ -1,0 +1,133 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260924de52130",
+  "dataSourceId": "nd",
+  "name": "株価 値上がり 半導体関連の銘柄に買い注文",
+  "headline": "株価 値上がり 半導体関連の銘柄に買い注文",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260924de52130",
+    "playlistId": "news-nwa-business-nationwide-20260924",
+    "newsarticleName": "株価 値上がり 半導体関連の銘柄に買い注文",
+    "playlistName": "9月24日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "連休明けの24日の東京株式市場、半導体関連の銘柄を中心に買い注文が出て、日経平均株価は値上がりしました。\n\n\n▽日経平均株価、24日の終値は先週末と比べて495円4銭、高い6万5513円99銭。\n\n▽",
+  "dateModified": "2026-09-24T16:01:45+09:00",
+  "datePublished": "2026-09-24T12:01:28+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52130/20260924de52130_E0000034929_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52130/20260924de52130_E0000034929_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000157",
+      "name": "株価・為替",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "連休明けの24日の東京株式市場、半導体関連の銘柄を中心に買い注文が出て、日経平均株価は値上がりしました。\n\n\n▽日経平均株価、24日の終値は先週末と比べて495円4銭、高い6万5513円99銭。\n\n▽",
+  "articleBody": "連休明けの24日の東京株式市場、半導体関連の銘柄を中心に買い注文が出て、日経平均株価は値上がりしました。\n\n\n▽日経平均株価、24日の終値は先週末と比べて495円4銭、高い6万5513円99銭。\n\n▽東証株価指数=トピックスは15.84下がって4075.30。\n\n▽1日の出来高は24億9306万株でした。\n\n市場関係者は「半導体関連の銘柄を中心に買い注文が出て、午前中、日経平均株価の上昇幅は一時、1200円を超える場面もあった。しかし、その後は、長期金利の上昇で、企業の資金調達コストが増えることへの懸念から売り注文も出て、上昇幅は縮小した」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "連休明けの24日の東京株式市場、半導体関連の銘柄を中心に買い注文が出て、日経平均株価は値上がりしました。\n",
+    "markedBody": "▽日経平均株価、24日の終値は先週末と比べて495円4銭、高い6万5513円99銭。\n\n▽東証株価指数\\=トピックスは15.84下がって4075.30。\n\n▽1日の出来高は24億9306万株でした。\n\n市場関係者は「半導体関連の銘柄を中心に買い注文が出て、午前中、日経平均株価の上昇幅は一時、1200円を超える場面もあった。しかし、その後は、長期金利の上昇で、企業の資金調達コストが増えることへの懸念から売り注文も出て、上昇幅は縮小した」と話しています。\n",
+    "trimmedLead": "連休明けの24日の東京株式市場、半導体関連の銘柄を中心に買い注文が出て、日経平均株価は値上がりしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260924de52130.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260924de52130",
+  "video": [],
+  "citation": [
+    {
+      "name": "ジャングリア沖縄 親会社が173億円余の赤字",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de52050",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52050/20260923de52050_E0000034600_1_s.jpg",
+      "datePublished": "2026-09-24T05:47:00+09:00"
+    },
+    {
+      "name": "長期金利 3.075％まで上昇 1996年8月以来の高水準",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260924de52101",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52101/20260924de52101_E0000034690_1_s.jpg",
+      "datePublished": "2026-09-24T13:31:00+09:00"
+    },
+    {
+      "name": "台風26号 沖縄の南の海上へ進む可能性 最新の情報確認を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de52066",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52066/20260923de52066_E0000035174_1_s.jpg",
+      "datePublished": "2026-09-24T19:28:51+09:00"
+    },
+    {
+      "name": "台風25号 千葉と神奈川で11人死亡3人不明 北印旛沼で堤防決壊",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de52072",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52072/20260923de52072_E0000034809_1_s.jpg",
+      "datePublished": "2026-09-24T19:12:02+09:00"
+    },
+    {
+      "name": "飯塚事件 「DNA型不一致の新証拠」 3回目の再審請求へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de52068",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52068/20260923de52068_E0000034634_1_s.jpg",
+      "datePublished": "2026-09-24T05:45:00+09:00"
+    },
+    {
+      "name": "中国 習近平主席がアメリカに到着 米中首脳会談へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260924de52079",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52079/20260924de52079_E0000034662_1_s.jpg",
+      "datePublished": "2026-09-24T15:33:00+09:00"
+    },
+    {
+      "name": "シールで落とし物を返却 新たな仕組み開発 警視庁などと連携へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de52064",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52064/20260923de52064_E0000034619_1_s.jpg",
+      "datePublished": "2026-09-24T05:56:00+09:00"
+    },
+    {
+      "name": "ドジャース 大谷翔平 復帰戦初打席ヒット 山本は15勝目ならず",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260924de52092",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52092/20260924de52092_E0000034744_1_s.jpg",
+      "datePublished": "2026-09-24T16:19:14+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

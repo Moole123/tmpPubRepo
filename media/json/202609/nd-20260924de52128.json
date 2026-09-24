@@ -1,0 +1,149 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260924de52128",
+  "dataSourceId": "nd",
+  "name": "オープンAIのAIモデル 豪医療統計関連サイトに不正アクセス",
+  "headline": "オープンAIのAIモデル 豪医療統計関連サイトに不正アクセス",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260924de52128",
+    "playlistId": "news-nwa-international-nationwide-20260924",
+    "newsarticleName": "オープンAIのAIモデル 豪医療統計関連サイトに不正アクセス",
+    "playlistName": "9月24日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "アメリカのAI開発企業「オープンAI」のAIモデルがオーストラリア政府の医療統計に関するサイトに不正にアクセスし、アルバニージー首相は、強い懸念を示しました。\n\n\nオーストラリアのアルバニージー首相は",
+  "dateModified": "2026-09-24T12:05:00+09:00",
+  "datePublished": "2026-09-24T12:05:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52128/20260924de52128_E0000034751_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52128/20260924de52128_E0000034751_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000106",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "E0000000417",
+      "name": "オーストラリア",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "アメリカのAI開発企業「オープンAI」のAIモデルがオーストラリア政府の医療統計に関するサイトに不正にアクセスし、アルバニージー首相は、強い懸念を示しました。\n\n\nオーストラリアのアルバニージー首相は",
+  "articleBody": "アメリカのAI開発企業「オープンAI」のAIモデルがオーストラリア政府の医療統計に関するサイトに不正にアクセスし、アルバニージー首相は、強い懸念を示しました。\n\n\nオーストラリアのアルバニージー首相は23日の記者会見で、ことし6月中旬に、「オープンAI」のAIモデルがオーストラリアの医療保険制度に関わる医療費などの統計データを閲覧できるサイトに不正にアクセスしたことを明らかにしました。\n\n不正アクセスは「オープンAI」の研究チームがAIモデルを使って医療費の支出について調査する中で行われ、非公開のファイルを含む情報にアクセスしていたということです。\n\n現時点で、個人情報へのアクセスは確認できなかったものの、オーストラリア側は調査を続けているとしています。\n\n「オープンAI」からオーストラリア政府への通知が、発生から3か月近くたった今月10日だったことも問題視され、アルバニージー首相はサム・アルトマンCEOと直接、電話で話し、政府への報告が遅れたことに不満と強い懸念を示したということです。\n\nアルバニージー首相は会見で「明らかに容認できない事態だ。AIは大きな経済的機会をもたらす一方で、重大なリスクも伴うため、私たちを守る安全策が必要だ。われわれがAIに形作られるのではなく、われわれがAIを形作っていかなければならない」と指摘しました。\n\n「オープンAI」は事態に気づいたのは先月だったと釈明した上で「当社のモデルは意図しない動作を行ってしまった。調査は継続中であり、当社はこれらの問題について透明性を保ち、得られた知見を共有する」とコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカのAI開発企業「オープンAI」のAIモデルがオーストラリア政府の医療統計に関するサイトに不正にアクセスし、アルバニージー首相は、強い懸念を示しました。\n",
+    "markedBody": "オーストラリアのアルバニージー首相は23日の記者会見で、ことし6月中旬に、「オープンAI」のAIモデルがオーストラリアの医療保険制度に関わる医療費などの統計データを閲覧できるサイトに不正にアクセスしたことを明らかにしました。\n\n不正アクセスは「オープンAI」の研究チームがAIモデルを使って医療費の支出について調査する中で行われ、非公開のファイルを含む情報にアクセスしていたということです。\n\n現時点で、個人情報へのアクセスは確認できなかったものの、オーストラリア側は調査を続けているとしています。\n\n「オープンAI」からオーストラリア政府への通知が、発生から3か月近くたった今月10日だったことも問題視され、アルバニージー首相はサム・アルトマンCEOと直接、電話で話し、政府への報告が遅れたことに不満と強い懸念を示したということです。\n\nアルバニージー首相は会見で「明らかに容認できない事態だ。AIは大きな経済的機会をもたらす一方で、重大なリスクも伴うため、私たちを守る安全策が必要だ。われわれがAIに形作られるのではなく、われわれがAIを形作っていかなければならない」と指摘しました。\n\n「オープンAI」は事態に気づいたのは先月だったと釈明した上で「当社のモデルは意図しない動作を行ってしまった。調査は継続中であり、当社はこれらの問題について透明性を保ち、得られた知見を共有する」とコメントしています。\n",
+    "trimmedLead": "アメリカのAI開発企業「オープンAI」のAIモデルがオーストラリア政府の医療統計に関するサイトに不正にアクセスし、アルバニージー首相は、強い懸念を示しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260924de52128.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260924de52128",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "オープンAIのAIモデル 豪医療統計関連サイトに不正アクセス",
+      "description": "アメリカのAI開発企業「オープンAI」のAIモデルがオーストラリア政府の医療統計に関するサイトに不正にアクセスし、アルバニージー首相は、強い懸念を示しました。\n\n\nオーストラリアのアルバニージー首相は",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20260924de52128_E0000034772_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20260924de52128/20260924de52128_E0000034751_1_l.jpg",
+      "duration": "PT2M14S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20260924de52128_E0000034772_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52128/20260924de52128_E0000034751_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "中国 習近平主席がアメリカに到着 米中首脳会談へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260924de52079",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52079/20260924de52079_E0000034662_1_s.jpg",
+      "datePublished": "2026-09-24T15:33:00+09:00"
+    },
+    {
+      "name": "ゼレンスキー大統領 国連総会でロシアの資金源断つこと訴える",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260924de52093",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52093/20260924de52093_E0000034683_1_s.jpg",
+      "datePublished": "2026-09-24T09:31:00+09:00"
+    },
+    {
+      "name": "米ロ外相が会談 米は限定的な攻撃停止への関与に意欲",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260924de52084",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52084/20260924de52084_E0000034658_1_s.jpg",
+      "datePublished": "2026-09-24T05:51:07+09:00"
+    },
+    {
+      "name": "フランスで若者の志願による新たな兵役制度 射撃訓練など公開",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260924de52078",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52078/20260924de52078_E0000034651_1_s.jpg",
+      "datePublished": "2026-09-24T08:49:00+09:00"
+    },
+    {
+      "name": "OECD 物価上昇率予測 来年3.6％に引き上げ エネルギー高騰受け",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260924de52090",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52090/20260924de52090_E0000034714_1_s.jpg",
+      "datePublished": "2026-09-24T08:50:00+09:00"
+    },
+    {
+      "name": "カンボジア 特殊詐欺対策で国際会議 協力強化で成果文書採択へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de52069",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52069/20260923de52069_E0000034630_1_s.jpg",
+      "datePublished": "2026-09-24T00:30:25+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
