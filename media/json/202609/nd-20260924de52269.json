@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260924de52269",
+  "dataSourceId": "nd",
+  "name": "公明 中道離党の出身者28人の復党を承認",
+  "headline": "公明 中道離党の出身者28人の復党を承認",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260924de52269",
+    "playlistId": "news-nwa-politics-nationwide-20260924",
+    "newsarticleName": "公明 中道離党の出身者28人の復党を承認",
+    "playlistName": "9月24日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "公明党は、中道改革連合の分裂を受けて党出身の衆議院議員28人の復党を承認しました。これにより所属議員の数は衆参あわせて49人と、野党では国民民主党に次ぐ勢力となりました。\n\n\n中道改革連合に所属してい",
+  "dateModified": "2026-09-24T23:57:09+09:00",
+  "datePublished": "2026-09-24T23:57:09+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52269/20260924de52269_E0000035288_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52269/20260924de52269_E0000035288_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "公明党は、中道改革連合の分裂を受けて党出身の衆議院議員28人の復党を承認しました。これにより所属議員の数は衆参あわせて49人と、野党では国民民主党に次ぐ勢力となりました。\n\n\n中道改革連合に所属してい",
+  "articleBody": "公明党は、中道改革連合の分裂を受けて党出身の衆議院議員28人の復党を承認しました。これにより所属議員の数は衆参あわせて49人と、野党では国民民主党に次ぐ勢力となりました。\n\n\n中道改革連合に所属していた公明党出身の衆議院議員28人は党の分裂に伴って先週、離党し、その後、公明党にそろって復党願を提出しました。\n\nこれを受けて党は、24日、中央規律委員会を開いて28人の復党を承認しました。\n\nこれにより所属議員の数は、衆議院副議長を務める石井啓一氏を含めて衆参あわせて49人と、野党では国民民主党に次ぐ勢力となりました。\n\n公明党は今後、衆議院議員の復党を踏まえて幹部の人事を行う方針で、来月3日の党大会で決定することにしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "公明党は、中道改革連合の分裂を受けて党出身の衆議院議員28人の復党を承認しました。これにより所属議員の数は衆参あわせて49人と、野党では国民民主党に次ぐ勢力となりました。\n",
+    "markedBody": "中道改革連合に所属していた公明党出身の衆議院議員28人は党の分裂に伴って先週、離党し、その後、公明党にそろって復党願を提出しました。\n\nこれを受けて党は、24日、中央規律委員会を開いて28人の復党を承認しました。\n\nこれにより所属議員の数は、衆議院副議長を務める石井啓一氏を含めて衆参あわせて49人と、野党では国民民主党に次ぐ勢力となりました。\n\n公明党は今後、衆議院議員の復党を踏まえて幹部の人事を行う方針で、来月3日の党大会で決定することにしています。\n",
+    "trimmedLead": "公明党は、中道改革連合の分裂を受けて党出身の衆議院議員28人の復党を承認しました。これにより所属議員の数は衆参あわせて49人と、野党では国民民主党に次ぐ勢力となりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260924de52269.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260924de52269",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
