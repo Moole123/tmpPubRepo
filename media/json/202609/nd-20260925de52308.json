@@ -1,0 +1,178 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260925de52308",
+  "dataSourceId": "nd",
+  "name": "天皇皇后両陛下 29日に熊本地震の被災地を訪問へ",
+  "headline": "天皇皇后両陛下 29日に熊本地震の被災地を訪問へ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260925de52308",
+    "playlistId": "news-nwa-society-nationwide-20260925",
+    "newsarticleName": "天皇皇后両陛下 29日に熊本地震の被災地を訪問へ",
+    "playlistName": "9月25日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "天皇皇后両陛下は今月29日、ことし7月の熊本地震で大きな被害を受けた被災地を訪問し、被災した人たちを見舞われることになりました。\n\n\n宮内庁によりますと、両陛下は今月29日の午前、特別機で熊本県に入り",
+  "dateModified": "2026-09-25T11:21:00+09:00",
+  "datePublished": "2026-09-25T11:21:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52308/20260925de52308_E0000035373_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52308/20260925de52308_E0000035373_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000159",
+      "name": "皇室",
+      "display": true
+    },
+    {
+      "id": "E0000010002",
+      "name": "令和8年熊本地震",
+      "display": true
+    },
+    {
+      "id": "E0000000389",
+      "name": "地震",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "天皇皇后両陛下は今月29日、ことし7月の熊本地震で大きな被害を受けた被災地を訪問し、被災した人たちを見舞われることになりました。\n\n\n宮内庁によりますと、両陛下は今月29日の午前、特別機で熊本県に入り",
+  "articleBody": "天皇皇后両陛下は今月29日、ことし7月の熊本地震で大きな被害を受けた被災地を訪問し、被災した人たちを見舞われることになりました。\n\n\n宮内庁によりますと、両陛下は今月29日の午前、特別機で熊本県に入り、午後には自衛隊のヘリコプターを使い、今回の地震で20人が死亡した八代市を訪問されます。\n\n両陛下は今も避難を余儀なくされている人たちを見舞ったり、災害対応にあたった人たちをねぎらわれたりします。\n\nその後、震度7の揺れを観測した氷川町と宇城市を訪れ、被災状況を視察するほか、被災した人たちを見舞い、災害対応にあたった関係者をねぎらわれます。\n\n両陛下は夜には東京に戻られる予定です。\n\n両陛下は長女の愛子さまとともに、10年前の地震の被害から復興の歩みを進める中、再び被災したことに心を痛めていて、現地の負担を考慮し、被災地を訪問する時期を検討されてきたということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "天皇皇后両陛下は今月29日、ことし7月の熊本地震で大きな被害を受けた被災地を訪問し、被災した人たちを見舞われることになりました。\n",
+    "markedBody": "宮内庁によりますと、両陛下は今月29日の午前、特別機で熊本県に入り、午後には自衛隊のヘリコプターを使い、今回の地震で20人が死亡した八代市を訪問されます。\n\n両陛下は今も避難を余儀なくされている人たちを見舞ったり、災害対応にあたった人たちをねぎらわれたりします。\n\nその後、震度7の揺れを観測した氷川町と宇城市を訪れ、被災状況を視察するほか、被災した人たちを見舞い、災害対応にあたった関係者をねぎらわれます。\n\n両陛下は夜には東京に戻られる予定です。\n\n両陛下は長女の愛子さまとともに、10年前の地震の被害から復興の歩みを進める中、再び被災したことに心を痛めていて、現地の負担を考慮し、被災地を訪問する時期を検討されてきたということです。\n",
+    "trimmedLead": "天皇皇后両陛下は今月29日、ことし7月の熊本地震で大きな被害を受けた被災地を訪問し、被災した人たちを見舞われることになりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260925de52308.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260925de52308",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "天皇皇后両陛下 29日に熊本地震の被災地を訪問へ",
+      "description": "天皇皇后両陛下は今月29日、ことし7月の熊本地震で大きな被害を受けた被災地を訪問し、被災した人たちを見舞われることになりました。\n\n\n宮内庁によりますと、両陛下は今月29日の午前、特別機で熊本県に入り",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20260925de52308_E0000035500_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20260925de52308/20260925de52308_E0000035373_1_l.jpg",
+      "duration": "PT1M4S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20260925de52308_E0000035500_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52308/20260925de52308_E0000035373_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "全東信破綻で未回収の売上金 10月中にも飲食店などに支払いへ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260925de52300",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52300/20260925de52300_E0000023918_1_s.jpg",
+      "datePublished": "2026-09-25T09:56:00+09:00"
+    },
+    {
+      "name": "台風26号 沖縄の南を北上見込み 沖縄では27日以降大しけか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260925de52272",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52272/20260925de52272_E0000035389_1_s.jpg",
+      "datePublished": "2026-09-25T12:13:32+09:00"
+    },
+    {
+      "name": "米大統領主催の晩さん会で習主席「日本の軍国主義と戦った」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260924de52268",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52268/20260924de52268_E0000035445_1_s.jpg",
+      "datePublished": "2026-09-25T12:19:00+09:00"
+    },
+    {
+      "name": "ICC脱退をナウルが表明　米国による圧力で同調広がるか焦点",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260925de52277",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52277/20260925de52277_E0000035307_1_s.jpg",
+      "datePublished": "2026-09-25T05:21:00+09:00"
+    },
+    {
+      "name": "アジア大会卓球男子団体 日本が中国破り60年ぶり金メダル",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260924de52255",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52255/20260924de52255_E0000035250_1_s.jpg",
+      "datePublished": "2026-09-24T22:53:49+09:00"
+    },
+    {
+      "name": "ジャングリア沖縄 親会社が173億円余の赤字",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de52050",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52050/20260923de52050_E0000034600_1_s.jpg",
+      "datePublished": "2026-09-24T05:47:00+09:00"
+    },
+    {
+      "name": "競泳 17歳の大橋信選手 世界新で金 アジア大会 男子200m平泳ぎ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260924de52207",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52207/20260924de52207_E0000035086_1_s.jpg",
+      "datePublished": "2026-09-24T23:38:52+09:00"
+    },
+    {
+      "name": "ポーランドの「スターリンク」関連施設で火災 ロシア関与か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260925de52282",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52282/20260925de52282_E0000035309_1_s.jpg",
+      "datePublished": "2026-09-25T05:44:00+09:00"
+    },
+    {
+      "name": "病への挑戦　最新科学が捉えた“サイレントキラー”のサイン",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260915de50362",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260915de50362/20260915de50362_E0000031192_1_s.jpg",
+      "datePublished": "2026-09-24T13:56:00+09:00"
+    },
+    {
+      "name": "水木しげる『白い旗』原作にない“妖怪”をアニメに描いた理由",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50774",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50774/20260917de50774_E0000031857_1_s.jpg",
+      "datePublished": "2026-09-23T11:14:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

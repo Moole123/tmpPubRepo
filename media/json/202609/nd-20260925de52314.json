@@ -1,0 +1,156 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260925de52314",
+  "dataSourceId": "nd",
+  "name": "長期金利3.115％に上昇 1996年8月以来 約30年ぶりの高水準",
+  "headline": "長期金利3.115％に上昇 1996年8月以来 約30年ぶりの高水準",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260925de52314",
+    "playlistId": "news-nwa-business-nationwide-20260925",
+    "newsarticleName": "長期金利3.115％に上昇 1996年8月以来 約30年ぶりの高水準",
+    "playlistName": "9月25日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "25日の債券市場では、長期金利の代表的な指標である10年ものの国債の利回りが一時、3.115％まで上昇しました。\n\n\n日本相互証券によりますと、1996年8月以来、およそ30年ぶりの高い水準です。\n\n",
+  "dateModified": "2026-09-25T10:48:00+09:00",
+  "datePublished": "2026-09-25T10:48:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52314/20260925de52314_E0000034690_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52314/20260925de52314_E0000034690_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000725",
+      "name": "金利",
+      "display": true
+    },
+    {
+      "id": "E0000000477",
+      "name": "金融",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "25日の債券市場では、長期金利の代表的な指標である10年ものの国債の利回りが一時、3.115％まで上昇しました。\n\n\n日本相互証券によりますと、1996年8月以来、およそ30年ぶりの高い水準です。\n\n",
+  "articleBody": "25日の債券市場では、長期金利の代表的な指標である10年ものの国債の利回りが一時、3.115％まで上昇しました。\n\n\n日本相互証券によりますと、1996年8月以来、およそ30年ぶりの高い水準です。\n\n原油価格の高止まりに伴うインフレや財政状況への懸念から、アメリカをはじめヨーロッパ各国でも金利の上昇傾向が続いています。\n\nこうしたなか日本でも国債を売る動きが広がり、金利が上昇しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "25日の債券市場では、長期金利の代表的な指標である10年ものの国債の利回りが一時、3.115％まで上昇しました。\n",
+    "markedBody": "日本相互証券によりますと、1996年8月以来、およそ30年ぶりの高い水準です。\n\n原油価格の高止まりに伴うインフレや財政状況への懸念から、アメリカをはじめヨーロッパ各国でも金利の上昇傾向が続いています。\n\nこうしたなか日本でも国債を売る動きが広がり、金利が上昇しています。\n",
+    "trimmedLead": "25日の債券市場では、長期金利の代表的な指標である10年ものの国債の利回りが一時、3.115％まで上昇しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260925de52314.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260925de52314",
+  "video": [],
+  "citation": [
+    {
+      "name": "円相場1ドル＝159円台に下落 米30年債利回り22年ぶり高水準",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260925de52281",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52281/20260925de52281_E0000035308_1_s.jpg",
+      "datePublished": "2026-09-25T05:55:07+09:00"
+    },
+    {
+      "name": "全東信破綻で未回収の売上金 10月中にも飲食店などに支払いへ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260925de52300",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52300/20260925de52300_E0000023918_1_s.jpg",
+      "datePublished": "2026-09-25T09:56:00+09:00"
+    },
+    {
+      "name": "日銀政策金利1.25％程度へ～加速する利上げと円安の行方",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260924de52120",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52120/20260924de52120_E0000034729_1_s.jpg",
+      "datePublished": "2026-09-24T14:32:57+09:00"
+    },
+    {
+      "name": "台風26号 沖縄の南を北上見込み 沖縄では27日以降大しけか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260925de52272",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52272/20260925de52272_E0000035389_1_s.jpg",
+      "datePublished": "2026-09-25T12:13:32+09:00"
+    },
+    {
+      "name": "米大統領主催の晩さん会で習主席「日本の軍国主義と戦った」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260924de52268",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52268/20260924de52268_E0000035445_1_s.jpg",
+      "datePublished": "2026-09-25T12:19:00+09:00"
+    },
+    {
+      "name": "ICC脱退をナウルが表明　米国による圧力で同調広がるか焦点",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260925de52277",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52277/20260925de52277_E0000035307_1_s.jpg",
+      "datePublished": "2026-09-25T05:21:00+09:00"
+    },
+    {
+      "name": "ジャングリア沖縄 親会社が173億円余の赤字",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260923de52050",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52050/20260923de52050_E0000034600_1_s.jpg",
+      "datePublished": "2026-09-24T05:47:00+09:00"
+    },
+    {
+      "name": "競泳 17歳の大橋信選手 世界新で金 アジア大会 男子200m平泳ぎ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260924de52207",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52207/20260924de52207_E0000035086_1_s.jpg",
+      "datePublished": "2026-09-24T23:38:52+09:00"
+    },
+    {
+      "name": "ポーランドの「スターリンク」関連施設で火災 ロシア関与か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260925de52282",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52282/20260925de52282_E0000035309_1_s.jpg",
+      "datePublished": "2026-09-25T05:44:00+09:00"
+    },
+    {
+      "name": "病への挑戦　最新科学が捉えた“サイレントキラー”のサイン",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260915de50362",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260915de50362/20260915de50362_E0000031192_1_s.jpg",
+      "datePublished": "2026-09-24T13:56:00+09:00"
+    },
+    {
+      "name": "水木しげる『白い旗』原作にない“妖怪”をアニメに描いた理由",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50774",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50774/20260917de50774_E0000031857_1_s.jpg",
+      "datePublished": "2026-09-23T11:14:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
