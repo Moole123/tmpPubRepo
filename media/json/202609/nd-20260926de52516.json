@@ -1,0 +1,151 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260926de52516",
+  "dataSourceId": "nd",
+  "name": "円相場1ドル＝156円台に値上がり 介入警戒強まる",
+  "headline": "円相場1ドル＝156円台に値上がり 介入警戒強まる",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260926de52516",
+    "playlistId": "news-nwa-business-nationwide-20260926",
+    "newsarticleName": "円相場1ドル＝156円台に値上がり 介入警戒強まる",
+    "playlistName": "9月26日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "25日のニューヨーク外国為替市場ではドルを売って円を買う動きが進み、円相場は一時、1ドル＝156円台まで値上がりしました。\n\n\n片山財務大臣がアメリカのベッセント財務長官と電話会談を行い、「円の過小評",
+  "dateModified": "2026-09-26T00:48:00+09:00",
+  "datePublished": "2026-09-26T00:48:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52516/20260926de52516_E0000036008_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52516/20260926de52516_E0000036008_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000157",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "E0000000419",
+      "name": "アメリカ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "25日のニューヨーク外国為替市場ではドルを売って円を買う動きが進み、円相場は一時、1ドル＝156円台まで値上がりしました。\n\n\n片山財務大臣がアメリカのベッセント財務長官と電話会談を行い、「円の過小評",
+  "articleBody": "25日のニューヨーク外国為替市場ではドルを売って円を買う動きが進み、円相場は一時、1ドル＝156円台まで値上がりしました。\n\n\n片山財務大臣がアメリカのベッセント財務長官と電話会談を行い、「円の過小評価は問題であるという点を再確認した」と述べたと伝わり、投資家の間では日米の通貨当局による協調介入などの可能性が意識され、円を買う動きにつながりました。\n\n円相場は24日には1ドル＝159円台まで値下がりしていましたが、1日で2円あまり円高方向に振れたことになります。\n",
+  "detailedArticleBody": {
+    "markedLead": "25日のニューヨーク外国為替市場ではドルを売って円を買う動きが進み、円相場は一時、1ドル＝156円台まで値上がりしました。\n",
+    "markedBody": "片山財務大臣がアメリカのベッセント財務長官と電話会談を行い、「円の過小評価は問題であるという点を再確認した」と述べたと伝わり、投資家の間では日米の通貨当局による協調介入などの可能性が意識され、円を買う動きにつながりました。\n\n円相場は24日には1ドル＝159円台まで値下がりしていましたが、1日で2円あまり円高方向に振れたことになります。\n",
+    "trimmedLead": "25日のニューヨーク外国為替市場ではドルを売って円を買う動きが進み、円相場は一時、1ドル＝156円台まで値上がりしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260926de52516.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260926de52516",
+  "video": [],
+  "citation": [
+    {
+      "name": "片山財務相がベッセント長官と電話会談 日米協力強化を確認",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260925de52509",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52509/20260925de52509_E0000036001_1_s.jpg",
+      "datePublished": "2026-09-25T23:51:00+09:00"
+    },
+    {
+      "name": "財務相“日米首脳会談でトランプ大統領から円安懸念示された”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260925de52321",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52321/20260925de52321_E0000035425_1_s.jpg",
+      "datePublished": "2026-09-25T20:00:30+09:00"
+    },
+    {
+      "name": "円相場 一時1ドル＝157円台まで値上がり",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260925de52455",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52455/20260925de52455_E0000035805_1_s.jpg",
+      "datePublished": "2026-09-25T19:07:39+09:00"
+    },
+    {
+      "name": "アメリカで住宅ローン金利が7％超え　住宅購入の負担増",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260925de52397",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52397/20260925de52397_E0000035664_1_s.jpg",
+      "datePublished": "2026-09-25T16:25:19+09:00"
+    },
+    {
+      "name": "イスラエル総選挙 ネタニヤフ首相苦戦",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260925de52333",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52333/20260925de52333_E0000035457_1_s.jpg",
+      "datePublished": "2026-09-25T13:30:42+09:00"
+    },
+    {
+      "name": "“イラン外相 米側に戦闘終結に向けた提案”欧米メディア報道",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260925de52362",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52362/20260925de52362_E0000035668_1_s.jpg",
+      "datePublished": "2026-09-25T17:25:53+09:00"
+    },
+    {
+      "name": "ホワイトハウス CNNなど取材禁止措置解除も米中報道に影響",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260925de52280",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52280/20260925de52280_E0000035316_1_s.jpg",
+      "datePublished": "2026-09-25T07:26:00+09:00"
+    },
+    {
+      "name": "米大統領主催の晩さん会で習主席「日本の軍国主義と戦った」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260924de52268",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52268/20260924de52268_E0000035445_1_s.jpg",
+      "datePublished": "2026-09-25T19:39:00+09:00"
+    },
+    {
+      "name": "米中のゆずれない戦い AIインフラ競争の行方は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260924de52167",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52167/20260924de52167_E0000034987_1_s.jpg",
+      "datePublished": "2026-09-24T17:38:00+09:00"
+    },
+    {
+      "name": "国際学力調査 日本の強みと課題は？AI時代に必要な力は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260925de52324",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52324/20260925de52324_E0000035419_1_s.jpg",
+      "datePublished": "2026-09-25T15:41:19+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
