@@ -1,0 +1,166 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260926de52569",
+  "dataSourceId": "nd",
+  "name": "開発中のAIモデルがまた“逸脱行動” 53件の画像流出も",
+  "headline": "開発中のAIモデルがまた“逸脱行動” 53件の画像流出も",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260926de52569",
+    "playlistId": "news-nwa-international-nationwide-20260926",
+    "newsarticleName": "開発中のAIモデルがまた“逸脱行動” 53件の画像流出も",
+    "playlistName": "9月26日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "アメリカのオープンAIは開発中のAIモデルが開発者の意図を逸脱して行動し、他社のウェブサイトやサービスに悪影響を与えたと明らかにしました。\n\n被害を受けた組織は数十にのぼり、この中には政府機関や大学も",
+  "dateModified": "2026-09-26T13:37:00+09:00",
+  "datePublished": "2026-09-26T13:37:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52569/20260926de52569_E0000036111_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52569/20260926de52569_E0000036111_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000106",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "E0000000419",
+      "name": "アメリカ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "アメリカのオープンAIは開発中のAIモデルが開発者の意図を逸脱して行動し、他社のウェブサイトやサービスに悪影響を与えたと明らかにしました。\n\n被害を受けた組織は数十にのぼり、この中には政府機関や大学も",
+  "articleBody": "アメリカのオープンAIは開発中のAIモデルが開発者の意図を逸脱して行動し、他社のウェブサイトやサービスに悪影響を与えたと明らかにしました。\n\n被害を受けた組織は数十にのぼり、この中には政府機関や大学も含まれるということです。\n\n\nオープンAIは、開発中のAIモデルが他社のシステムのセキュリティーを回避してウェブサイトやサービスに悪影響を与えたケースを調査し、被害を受けた数十の組織に通知したことを25日明らかにしました。\n\n被害を受けたウェブサイトには政府機関や大学それに公的機関も含まれるということです。\n\nまた被害の一例としてサービスの利用者が提供した画像の流出が53件確認されたことを明らかにしました。\n\nオープンAIのAIモデルをめぐっては、オーストラリア政府の医療統計に関するサイトへの不正なアクセスが明らかになり、アルバニージー首相が23日強い懸念を示しオープンAI側が釈明したばかりでした。\n\nサム・アルトマンCEOは25日自身のSNSで「透明性の確保とAIの行動の正確な把握に努め影響を受けた組織と連携していく」とコメントしています。\n\n最先端のAIモデルの開発にあたっては、AIが開発者の意図を逸脱して行動するケースが相次ぎ、安全性に対する懸念が高まっています。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカのオープンAIは開発中のAIモデルが開発者の意図を逸脱して行動し、他社のウェブサイトやサービスに悪影響を与えたと明らかにしました。\n\n被害を受けた組織は数十にのぼり、この中には政府機関や大学も含まれるということです。\n",
+    "markedBody": "オープンAIは、開発中のAIモデルが他社のシステムのセキュリティーを回避してウェブサイトやサービスに悪影響を与えたケースを調査し、被害を受けた数十の組織に通知したことを25日明らかにしました。\n\n被害を受けたウェブサイトには政府機関や大学それに公的機関も含まれるということです。\n\nまた被害の一例としてサービスの利用者が提供した画像の流出が53件確認されたことを明らかにしました。\n\nオープンAIのAIモデルをめぐっては、オーストラリア政府の医療統計に関するサイトへの不正なアクセスが明らかになり、アルバニージー首相が23日強い懸念を示しオープンAI側が釈明したばかりでした。\n\nサム・アルトマンCEOは25日自身のSNSで「透明性の確保とAIの行動の正確な把握に努め影響を受けた組織と連携していく」とコメントしています。\n\n最先端のAIモデルの開発にあたっては、AIが開発者の意図を逸脱して行動するケースが相次ぎ、安全性に対する懸念が高まっています。\n",
+    "trimmedLead": "アメリカのオープンAIは開発中のAIモデルが開発者の意図を逸脱して行動し、他社のウェブサイトやサービスに悪影響を与えたと明らかにしました。\n\n被害を受けた組織は数十にのぼり、この中には政府機関や大学も含まれるということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260926de52569.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260926de52569",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "開発中のAIモデルがまた“逸脱行動” 53件の画像流出も",
+      "description": "アメリカのオープンAIは開発中のAIモデルが開発者の意図を逸脱して行動し、他社のウェブサイトやサービスに悪影響を与えたと明らかにしました。\n\n被害を受けた組織は数十にのぼり、この中には政府機関や大学も",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20260926de52569_E0000036236_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20260926de52569/20260926de52569_E0000036111_1_l.jpg",
+      "duration": "PT1M19S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20260926de52569_E0000036236_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52569/20260926de52569_E0000036111_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "ローマ教皇 AIが日常を侵食と警告 フランス訪問で",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260926de52537",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52537/20260926de52537_E0000036035_1_s.jpg",
+      "datePublished": "2026-09-26T08:52:00+09:00"
+    },
+    {
+      "name": "オープンAIのAIモデル 豪医療統計関連サイトに不正アクセス",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260924de52128",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52128/20260924de52128_E0000034751_1_s.jpg",
+      "datePublished": "2026-09-24T12:05:00+09:00"
+    },
+    {
+      "name": "米中のゆずれない戦い AIインフラ競争の行方は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260924de52167",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52167/20260924de52167_E0000034987_1_s.jpg",
+      "datePublished": "2026-09-24T17:38:00+09:00"
+    },
+    {
+      "name": "アメリカと中国 AI重大事案で意思疎通の手段を構築へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51793",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51793/20260922de51793_E0000034143_1_s.jpg",
+      "datePublished": "2026-09-22T05:47:00+09:00"
+    },
+    {
+      "name": "オープンAI “安全なAI開発進めるため 世界的な取り組み必要”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260922de51837",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51837/20260922de51837_E0000034218_1_s.jpg",
+      "datePublished": "2026-09-22T12:12:00+09:00"
+    },
+    {
+      "name": "米新興AI企業 最新モデルを生命科学分野で提供 安全対策も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260919de51203",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51203/20260919de51203_E0000033296_1_s.jpg",
+      "datePublished": "2026-09-19T08:26:00+09:00"
+    },
+    {
+      "name": "「AI開発競争をやめよ」アメリカで若者が集まりデモ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260918de50974",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de50974/20260918de50974_E0000032481_1_s.jpg",
+      "datePublished": "2026-09-18T11:36:00+09:00"
+    },
+    {
+      "name": "英国王“AI 破滅的な結果もたらすことがないよう対策必要”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260918de50989",
+      "thumbnailUrl": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png",
+      "datePublished": "2026-09-18T12:31:00+09:00"
+    },
+    {
+      "name": "遺言書は“勘定よりも感情”を… AIで変わる終活の形",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015173241000",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260918de51033_E0000032794_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

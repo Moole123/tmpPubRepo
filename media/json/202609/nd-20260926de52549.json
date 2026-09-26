@@ -1,0 +1,179 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260926de52549",
+  "dataSourceId": "nd",
+  "name": "国民年金保険料 子が１歳まで両親ともに免除へ 自営業など対象",
+  "headline": "国民年金保険料 子が１歳まで両親ともに免除へ 自営業など対象",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260926de52549",
+    "playlistId": "news-nwa-politics-nationwide-20260926",
+    "newsarticleName": "国民年金保険料 子が１歳まで両親ともに免除へ 自営業など対象",
+    "playlistName": "9月26日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "自営業者やフリーランスなどの子育てを支援するため、子どもが1歳になるまでの間、両親の国民年金保険料を免除する制度が10月から始まります。\n\n\n自営業者やフリーランスなどの子育て支援策として、厚生労働省",
+  "dateModified": "2026-09-26T11:37:00+09:00",
+  "datePublished": "2026-09-26T11:37:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52549/20260926de52549_E0000036065_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52549/20260926de52549_E0000036065_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "E0000000148",
+      "name": "医療・健康",
+      "display": true
+    },
+    {
+      "id": "E0000000673",
+      "name": "福祉・介護",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "自営業者やフリーランスなどの子育てを支援するため、子どもが1歳になるまでの間、両親の国民年金保険料を免除する制度が10月から始まります。\n\n\n自営業者やフリーランスなどの子育て支援策として、厚生労働省",
+  "articleBody": "自営業者やフリーランスなどの子育てを支援するため、子どもが1歳になるまでの間、両親の国民年金保険料を免除する制度が10月から始まります。\n\n\n自営業者やフリーランスなどの子育て支援策として、厚生労働省は、子どもが1歳になるまでの間、両親の国民年金保険料を免除する制度を10月1日から始めます。\n\nこれまで母親にかぎって産前産後の4か月間のみ免除されていますが、来月から対象や期間を拡大し、父親については子どもが生まれてから12か月間、母親は産前の1か月を含む13か月間、現在月額1万7920円となっている保険料が全額、免除されます。\n\n所得水準などの要件はなく、保険料を免除された期間分の基礎年金は満額受け取ることができます。\n\n財源には国が公的医療保険の保険料に上乗せする形でことし4月から徴収を始めた「子ども・子育て支援金」が充てられます。\n\n厚生労働省は、市区町村の窓口やマイナポータルなどを通じて、免除に必要な手続きをとるよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "自営業者やフリーランスなどの子育てを支援するため、子どもが1歳になるまでの間、両親の国民年金保険料を免除する制度が10月から始まります。\n",
+    "markedBody": "自営業者やフリーランスなどの子育て支援策として、厚生労働省は、子どもが1歳になるまでの間、両親の国民年金保険料を免除する制度を10月1日から始めます。\n\nこれまで母親にかぎって産前産後の4か月間のみ免除されていますが、来月から対象や期間を拡大し、父親については子どもが生まれてから12か月間、母親は産前の1か月を含む13か月間、現在月額1万7920円となっている保険料が全額、免除されます。\n\n所得水準などの要件はなく、保険料を免除された期間分の基礎年金は満額受け取ることができます。\n\n財源には国が公的医療保険の保険料に上乗せする形でことし4月から徴収を始めた「子ども・子育て支援金」が充てられます。\n\n厚生労働省は、市区町村の窓口やマイナポータルなどを通じて、免除に必要な手続きをとるよう呼びかけています。\n",
+    "trimmedLead": "自営業者やフリーランスなどの子育てを支援するため、子どもが1歳になるまでの間、両親の国民年金保険料を免除する制度が10月から始まります。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260926de52549.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260926de52549",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "国民年金保険料 子が１歳まで両親ともに免除へ 自営業など対象",
+      "description": "自営業者やフリーランスなどの子育てを支援するため、子どもが1歳になるまでの間、両親の国民年金保険料を免除する制度が10月から始まります。\n\n\n自営業者やフリーランスなどの子育て支援策として、厚生労働省",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20260926de52549_E0000036107_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20260926de52549/20260926de52549_E0000036065_1_l.jpg",
+      "duration": "PT1M10S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20260926de52549_E0000036107_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52549/20260926de52549_E0000036065_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "台風26号 沖縄に接近へ 来週も東～西日本は雨降りやすい見込み",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260926de52529",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52529/20260926de52529_E0000036317_1_s.jpg",
+      "datePublished": "2026-09-27T00:18:38+09:00"
+    },
+    {
+      "name": "習主席 訪米終え帰国へ 年内にあと2回会談の意向示す",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260926de52523",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52523/20260926de52523_E0000036024_1_s.jpg",
+      "datePublished": "2026-09-26T10:52:00+09:00"
+    },
+    {
+      "name": "ネパール土石流 1か月 8万人超の被災者 生活再建が課題",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260926de52515",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52515/20260926de52515_E0000036019_1_s.jpg",
+      "datePublished": "2026-09-26T19:03:44+09:00"
+    },
+    {
+      "name": "群馬 太田 女性死亡事件 逃走した長女の元夫を公開手配",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260925de52508",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52508/20260925de52508_E0000035618_1_s.jpg",
+      "datePublished": "2026-09-26T10:47:00+09:00"
+    },
+    {
+      "name": "円相場1ドル＝156円台に上昇 1日で2円余円高に 介入警戒強まる",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260926de52516",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52516/20260926de52516_E0000036008_1_s.jpg",
+      "datePublished": "2026-09-26T04:50:14+09:00"
+    },
+    {
+      "name": "長期金利3.115％に上昇 1996年8月以来 約30年ぶりの高水準",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260925de52314",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52314/20260925de52314_E0000034690_1_s.jpg",
+      "datePublished": "2026-09-25T10:48:00+09:00"
+    },
+    {
+      "name": "18歳未満の選挙運動禁止規定は憲法違反の初判断 東京地裁",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260925de52402",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52402/20260925de52402_E0000035877_1_s.jpg",
+      "datePublished": "2026-09-25T19:10:00+09:00"
+    },
+    {
+      "name": "政治団体NHK党 立花党首 兵庫県議への脅迫容疑改めて不起訴",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260926de52517",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52517/20260926de52517_E0000036010_1_s.jpg",
+      "datePublished": "2026-09-26T01:15:45+09:00"
+    },
+    {
+      "name": "福岡県の服部知事 県政めぐる責任とり給与3か月間ゼロを表明 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260925de52503",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52503/20260925de52503_E0000035998_1_s.jpg",
+      "datePublished": "2026-09-25T23:48:45+09:00"
+    },
+    {
+      "name": "ウミガメを育む砂浜で いま起きている異変とは？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50814",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50814/20260917de50814_E0000035738_1_s.jpg",
+      "datePublished": "2026-09-25T20:24:00+09:00"
+    },
+    {
+      "name": "生きた心地がしなかった クマ捕獲の現場で何が",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260910de49428",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49428/20260910de49428_E0000035350_1_s.jpg",
+      "datePublished": "2026-09-25T18:11:04+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

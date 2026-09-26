@@ -1,0 +1,184 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260927de52650",
+  "dataSourceId": "nd",
+  "name": "【気象予報士解説】九州北部に線状降水帯のおそれ 台風26号は",
+  "headline": "【気象予報士解説】九州北部に線状降水帯のおそれ 台風26号は",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260927de52650",
+    "playlistId": "news-nwa-disaster-nationwide-20260927",
+    "newsarticleName": "【気象予報士解説】九州北部に線状降水帯のおそれ 台風26号は",
+    "playlistName": "9月27日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "秋雨前線の影響で九州北部には発達した雨雲がかかり、九州北部に「線状降水帯直前予測」気象防災速報が発表されました。警戒点や台風26号の見通しについて、南利幸 気象予報士の解説です。\n\n27日の「おはよう",
+  "dateModified": "2026-09-27T08:13:00+09:00",
+  "datePublished": "2026-09-27T08:13:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52650/20260927de52650_E0000036386_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52650/20260927de52650_E0000036386_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000202",
+      "name": "台風",
+      "display": true
+    },
+    {
+      "id": "E0000000587",
+      "name": "大雨情報",
+      "display": true
+    },
+    {
+      "id": "E0000000114",
+      "name": "気象",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "秋雨前線の影響で九州北部には発達した雨雲がかかり、九州北部に「線状降水帯直前予測」気象防災速報が発表されました。警戒点や台風26号の見通しについて、南利幸 気象予報士の解説です。\n\n27日の「おはよう",
+  "articleBody": "秋雨前線の影響で九州北部には発達した雨雲がかかり、九州北部に「線状降水帯直前予測」気象防災速報が発表されました。警戒点や台風26号の見通しについて、南利幸 気象予報士の解説です。\n\n27日の「おはよう日本 7時台」で放送した内容です。\n※データ放送ではご覧になれません。\n\n\n【台風の最新情報はこちら】\n\n【台風の最新情報はこちら】\n",
+  "detailedArticleBody": {
+    "markedLead": "秋雨前線の影響で九州北部には発達した雨雲がかかり、九州北部に「線状降水帯直前予測」気象防災速報が発表されました。警戒点や台風26号の見通しについて、南利幸 気象予報士の解説です。\n\n27日の「おはよう日本 7時台」で放送した内容です。\\\n※データ放送ではご覧になれません。\n",
+    "markedBody": ":::nw--link-type4 {href=https://news.web.nhk/newsweb/na/nd-20260927de52641}\n![【台風の最新情報はこちら】](https://img.web.nhk/news/nd/kiji/20260927de52650/20260927de52650_E0000004005_1_l.jpg)\n\n**【台風の最新情報はこちら】**\n:::\n",
+    "trimmedLead": "秋雨前線の影響で九州北部には発達した雨雲がかかり、九州北部に「線状降水帯直前予測」気象防災速報が発表されました。警戒点や台風26号の見通しについて、南利幸 気象予報士の解説です。\n\n27日の「おはよう日本 7時台」で放送した内容です。\n※データ放送ではご覧になれません。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260927de52650.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260927de52650",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "【気象予報士解説】九州北部に線状降水帯のおそれ 台風26号は",
+      "description": "秋雨前線の影響で九州北部には発達した雨雲がかかり、九州北部に「線状降水帯直前予測」気象防災速報が発表されました。警戒点や台風26号の見通しについて、南利幸 気象予報士の解説です。\n\n27日の「おはよう",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20260927de52650_E0000036385_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20260927de52650/20260927de52650_E0000036386_1_l.jpg",
+      "duration": "PT3M35S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20260927de52650_E0000036385_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52650/20260927de52650_E0000036386_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "前線停滞で九州北部大雨に 土砂災害など厳重警戒を 台風26号も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260927de52641",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52641/20260927de52641_E0000036383_1_s.jpg",
+      "datePublished": "2026-09-27T08:26:00+09:00"
+    },
+    {
+      "name": "米中合意文書 台湾言及なく 米大統領「習氏は私の考え理解」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260927de52637",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52637/20260927de52637_E0000036350_1_s.jpg",
+      "datePublished": "2026-09-27T05:10:00+09:00"
+    },
+    {
+      "name": "トランプ大統領 イラン側の提案“受け入れられない”と拒否",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260927de52638",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52638/20260927de52638_E0000036343_1_s.jpg",
+      "datePublished": "2026-09-27T06:19:16+09:00"
+    },
+    {
+      "name": "パラ陸上メダリスト 上与那原寛和選手が死去 練習中に交通事故",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260927de52631",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52631/20260927de52631_E0000036329_1_s.jpg",
+      "datePublished": "2026-09-27T01:30:12+09:00"
+    },
+    {
+      "name": "高市首相 米大統領 電話会談“米中首脳会談の内容説明受ける”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260926de52606",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52606/20260926de52606_E0000036250_1_s.jpg",
+      "datePublished": "2026-09-26T22:50:21+09:00"
+    },
+    {
+      "name": "アジア大会 陸上女子1500m 田中希実が銅 今大会2つ目のメダル",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260927de52632",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52632/20260927de52632_E0000036319_1_s.jpg",
+      "datePublished": "2026-09-27T01:01:10+09:00"
+    },
+    {
+      "name": "アジア大会サッカー男子 日本は北朝鮮に競り勝ち準決勝へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260926de52625",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/r/kiji/20260926de52625/20260926de52625_E0000036303_1_s.jpg",
+      "datePublished": "2026-09-26T23:12:37+09:00"
+    },
+    {
+      "name": "人類が滅びる？高まるAI脅威論 国内の研究者の見方は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260924de52153",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52153/20260924de52153_E0000035412_1_s.jpg",
+      "datePublished": "2026-09-26T17:49:57+09:00"
+    },
+    {
+      "name": "「心の病」で終わらせない 新たな治療の最前線",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260924de52127",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52127/20260924de52127_E0000035400_1_s.jpg",
+      "datePublished": "2026-09-26T17:18:55+09:00"
+    },
+    {
+      "name": "ウミガメを育む砂浜で いま起きている異変とは？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50814",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50814/20260917de50814_E0000035738_1_s.jpg",
+      "datePublished": "2026-09-25T20:24:00+09:00"
+    },
+    {
+      "name": "生きた心地がしなかった クマ捕獲の現場で何が",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260910de49428",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49428/20260910de49428_E0000035350_1_s.jpg",
+      "datePublished": "2026-09-25T18:11:04+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

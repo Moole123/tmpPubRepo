@@ -1,0 +1,163 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260927de52636",
+  "dataSourceId": "nd",
+  "name": "海底に沈むプラスチックゴミを映像から自動検出するAI開発",
+  "headline": "海底に沈むプラスチックゴミを映像から自動検出するAI開発",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260927de52636",
+    "playlistId": "news-nwa-society-nationwide-20260927",
+    "newsarticleName": "海底に沈むプラスチックゴミを映像から自動検出するAI開発",
+    "playlistName": "9月27日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "深海の映像から、海底に沈むプラスチックなどのゴミを自動的に検出するAIが新たに開発され、環境対策に役立つと期待されています。\n\n\nJAMSTEC＝海洋研究開発機構のグループは、日本周辺の深海で40年以",
+  "dateModified": "2026-09-27T05:06:36+09:00",
+  "datePublished": "2026-09-27T05:06:36+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52636/20260927de52636_E0000036336_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52636/20260927de52636_E0000036336_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会",
+    "暮らし"
+  ],
+  "topic": [
+    {
+      "id": "E0000000149",
+      "name": "環境",
+      "display": true
+    },
+    {
+      "id": "E0000000106",
+      "name": "生成AI・人工知能",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "深海の映像から、海底に沈むプラスチックなどのゴミを自動的に検出するAIが新たに開発され、環境対策に役立つと期待されています。\n\n\nJAMSTEC＝海洋研究開発機構のグループは、日本周辺の深海で40年以",
+  "articleBody": "深海の映像から、海底に沈むプラスチックなどのゴミを自動的に検出するAIが新たに開発され、環境対策に役立つと期待されています。\n\n\nJAMSTEC＝海洋研究開発機構のグループは、日本周辺の深海で40年以上にわたり無人探査機などを使った調査を行い、映像を撮影しています。\n\nグループはこれらの映像から1万2000枚以上の画像を切り出し、ゴミの形などを分析してコンピューターに学習させることで、映像に写っている海底のプラスチックなどのゴミを自動的に検出するAIを新たに開発しました。\n\nこのAIはマイクロプラスチックなどの小さなゴミは認識できませんが、2センチメートルから1メートルほどの目に見える大きさのゴミであれば、一つ一つ認識して数え上げることができるということです。\n\nグループによりますと、海底に沈むプラスチックのゴミは分解されずに環境中に残り続けるため対策が課題となっていますが、これまでは、ゴミがどこにどれほどあるかを確認するため、研究者が目視で映像の再生と一時停止を繰り返していたということです。\n\nグループはAIを使うことで作業にかかる時間が目視の半分以下に短縮されたとしています。\n\nJAMSTECの中嶋亮太主任研究員は、「プラスチックのごみは消えないゴミとして海底に蓄積し続けるため対策をとらないと汚染が進み続ける深刻な問題だ。AIの精度をさらに高め、迅速な対策などに役立てていきたい」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "深海の映像から、海底に沈むプラスチックなどのゴミを自動的に検出するAIが新たに開発され、環境対策に役立つと期待されています。\n",
+    "markedBody": "JAMSTEC＝海洋研究開発機構のグループは、日本周辺の深海で40年以上にわたり無人探査機などを使った調査を行い、映像を撮影しています。\n\nグループはこれらの映像から1万2000枚以上の画像を切り出し、ゴミの形などを分析してコンピューターに学習させることで、映像に写っている海底のプラスチックなどのゴミを自動的に検出するAIを新たに開発しました。\n\nこのAIはマイクロプラスチックなどの小さなゴミは認識できませんが、2センチメートルから1メートルほどの目に見える大きさのゴミであれば、一つ一つ認識して数え上げることができるということです。\n\nグループによりますと、海底に沈むプラスチックのゴミは分解されずに環境中に残り続けるため対策が課題となっていますが、これまでは、ゴミがどこにどれほどあるかを確認するため、研究者が目視で映像の再生と一時停止を繰り返していたということです。\n\nグループはAIを使うことで作業にかかる時間が目視の半分以下に短縮されたとしています。\n\nJAMSTECの中嶋亮太主任研究員は、「プラスチックのごみは消えないゴミとして海底に蓄積し続けるため対策をとらないと汚染が進み続ける深刻な問題だ。AIの精度をさらに高め、迅速な対策などに役立てていきたい」と話しています。\n",
+    "trimmedLead": "深海の映像から、海底に沈むプラスチックなどのゴミを自動的に検出するAIが新たに開発され、環境対策に役立つと期待されています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260927de52636.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260927de52636",
+  "video": [],
+  "citation": [
+    {
+      "name": "米中首脳会談 合意点は？AIはSIに変更 台湾言及なし",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260926de52588",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52588/20260926de52588_E0000036179_1_s.jpg",
+      "datePublished": "2026-09-26T22:52:04+09:00"
+    },
+    {
+      "name": "高市首相 米大統領 電話会談“米中首脳会談の内容説明受ける”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260926de52606",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52606/20260926de52606_E0000036250_1_s.jpg",
+      "datePublished": "2026-09-26T22:50:21+09:00"
+    },
+    {
+      "name": "大相撲秋場所14日目 大の里が3敗目 安青錦と並び千秋楽へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260926de52603",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52603/20260926de52603_E0000036249_1_s.jpg",
+      "datePublished": "2026-09-26T22:59:00+09:00"
+    },
+    {
+      "name": "アジア大会サッカー男子 日本は北朝鮮に競り勝ち準決勝へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260926de52625",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/r/kiji/20260926de52625/20260926de52625_E0000036303_1_s.jpg",
+      "datePublished": "2026-09-26T23:12:37+09:00"
+    },
+    {
+      "name": "台風26号 沖縄に接近へ 来週も東～西日本は雨降りやすい見込み",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260926de52529",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52529/20260926de52529_E0000036317_1_s.jpg",
+      "datePublished": "2026-09-27T00:18:38+09:00"
+    },
+    {
+      "name": "台風25号の記録的大雨 いまも影響残る 復旧作業や雨への備えも",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260926de52563",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52563/20260926de52563_E0000036161_1_s.jpg",
+      "datePublished": "2026-09-26T17:56:39+09:00"
+    },
+    {
+      "name": "名古屋 栄のテレビ塔 展望台付近で火事 30人避難もけが人なし",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260926de52560",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52560/20260926de52560_E0000036082_1_s.jpg",
+      "datePublished": "2026-09-26T16:31:35+09:00"
+    },
+    {
+      "name": "アジア大会 組織委事務総長がミス謝罪 競技への影響はなし",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260926de52585",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52585/20260926de52585_E0000036157_1_s.jpg",
+      "datePublished": "2026-09-26T16:50:13+09:00"
+    },
+    {
+      "name": "人類が滅びる？高まるAI脅威論 国内の研究者の見方は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260924de52153",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52153/20260924de52153_E0000035412_1_s.jpg",
+      "datePublished": "2026-09-26T17:49:57+09:00"
+    },
+    {
+      "name": "「心の病」で終わらせない 新たな治療の最前線",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260924de52127",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52127/20260924de52127_E0000035400_1_s.jpg",
+      "datePublished": "2026-09-26T17:18:55+09:00"
+    },
+    {
+      "name": "ウミガメを育む砂浜で いま起きている異変とは？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50814",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50814/20260917de50814_E0000035738_1_s.jpg",
+      "datePublished": "2026-09-25T20:24:00+09:00"
+    },
+    {
+      "name": "生きた心地がしなかった クマ捕獲の現場で何が",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260910de49428",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49428/20260910de49428_E0000035350_1_s.jpg",
+      "datePublished": "2026-09-25T18:11:04+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
