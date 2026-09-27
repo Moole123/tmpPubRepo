@@ -1,0 +1,184 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260927de52694",
+  "dataSourceId": "nd",
+  "name": "東京メトロ 不正アクセスでメールアドレス 約5万9000件流出か",
+  "headline": "東京メトロ 不正アクセスでメールアドレス 約5万9000件流出か",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260927de52694",
+    "playlistId": "news-nwa-business-nationwide-20260927",
+    "newsarticleName": "東京メトロ 不正アクセスでメールアドレス 約5万9000件流出か",
+    "playlistName": "9月27日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "東京メトロは不正アクセスを受け、ポイントサービスに登録している会員のメールアドレスおよそ5万9000件が外部に流出した可能性があると発表しました。鉄道の運行に影響はないということです。\n\n\n東京メトロ",
+  "dateModified": "2026-09-27T15:48:00+09:00",
+  "datePublished": "2026-09-27T15:48:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52694/20260927de52694_E0000036476_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52694/20260927de52694_E0000036476_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000481",
+      "name": "鉄道",
+      "display": true
+    },
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "東京メトロは不正アクセスを受け、ポイントサービスに登録している会員のメールアドレスおよそ5万9000件が外部に流出した可能性があると発表しました。鉄道の運行に影響はないということです。\n\n\n東京メトロ",
+  "articleBody": "東京メトロは不正アクセスを受け、ポイントサービスに登録している会員のメールアドレスおよそ5万9000件が外部に流出した可能性があると発表しました。鉄道の運行に影響はないということです。\n\n\n東京メトロによりますと今月20日、ポイントサービスのメール配信システムに不具合が起き、調査したところサーバーに海外からとみられる不正アクセスがあったことが25日に確認されたということです。\n\nその後の調査で、ポイントサービスに登録している会員のメールアドレスの一部、およそ5万9000件が外部に流出した可能性があることがわかったということです。\n\n会社ではこのほかの情報が流出していないか確認を進めるとともに、不正アクセスを受けた原因を調べています。\n\n東京メトロは「ご心配とご迷惑をおかけしていることを深くお詫び申し上げます。会社を装った不審なメールには十分気をつけるようお願いします」とコメントしています。\n\n一方、京王電鉄は26日、身代金要求型のコンピュータウイルス「ランサムウエア」による攻撃を受け、一部の営業システムに障害が出ていると発表しました。\n\n情報が流出したかどうかなど調査を続けているということです。\n\nいずれの会社も鉄道の運行に影響はないということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "東京メトロは不正アクセスを受け、ポイントサービスに登録している会員のメールアドレスおよそ5万9000件が外部に流出した可能性があると発表しました。鉄道の運行に影響はないということです。\n",
+    "markedBody": "東京メトロによりますと今月20日、ポイントサービスのメール配信システムに不具合が起き、調査したところサーバーに海外からとみられる不正アクセスがあったことが25日に確認されたということです。\n\nその後の調査で、ポイントサービスに登録している会員のメールアドレスの一部、およそ5万9000件が外部に流出した可能性があることがわかったということです。\n\n会社ではこのほかの情報が流出していないか確認を進めるとともに、不正アクセスを受けた原因を調べています。\n\n東京メトロは「ご心配とご迷惑をおかけしていることを深くお詫び申し上げます。会社を装った不審なメールには十分気をつけるようお願いします」とコメントしています。\n\n一方、京王電鉄は26日、身代金要求型のコンピュータウイルス「ランサムウエア」による攻撃を受け、一部の営業システムに障害が出ていると発表しました。\n\n情報が流出したかどうかなど調査を続けているということです。\n\nいずれの会社も鉄道の運行に影響はないということです。\n",
+    "trimmedLead": "東京メトロは不正アクセスを受け、ポイントサービスに登録している会員のメールアドレスおよそ5万9000件が外部に流出した可能性があると発表しました。鉄道の運行に影響はないということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260927de52694.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260927de52694",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "東京メトロ 不正アクセスでメールアドレス 約5万9000件流出か",
+      "description": "東京メトロは不正アクセスを受け、ポイントサービスに登録している会員のメールアドレスおよそ5万9000件が外部に流出した可能性があると発表しました。鉄道の運行に影響はないということです。\n\n\n東京メトロ",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20260927de52694_E0000036507_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20260927de52694/20260927de52694_E0000036476_1_l.jpg",
+      "duration": "PT1M21S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20260927de52694_E0000036507_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52694/20260927de52694_E0000036476_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "群馬女性殺害事件 長女の元夫逮捕 高崎市内のパチンコ店で確保",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260927de52686",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52686/20260927de52686_E0000036470_1_s.jpg",
+      "datePublished": "2026-09-27T19:01:00+09:00"
+    },
+    {
+      "name": "前線停滞で九州北部大雨に あす激しい雨のおそれ 台風も急発達",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260927de52641",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52641/20260927de52641_E0000036551_1_s.jpg",
+      "datePublished": "2026-09-27T20:21:00+09:00"
+    },
+    {
+      "name": "【気象予報士解説】前線停滞で九州北部大雨に 台風26号も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260927de52650",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52650/20260927de52650_E0000036432_1_s.jpg",
+      "datePublished": "2026-09-27T12:53:56+09:00"
+    },
+    {
+      "name": "イラン外相 トランプ大統領の反応認識も仲介国待ち対応判断",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260927de52673",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52673/20260927de52673_E0000036419_1_s.jpg",
+      "datePublished": "2026-09-27T11:40:00+09:00"
+    },
+    {
+      "name": "トランプ大統領 イラン側の提案“受け入れられない”と拒否",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260927de52638",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52638/20260927de52638_E0000036343_1_s.jpg",
+      "datePublished": "2026-09-27T06:19:16+09:00"
+    },
+    {
+      "name": "米中合意文書 台湾言及なく 米大統領「習氏は私の考え理解」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260927de52637",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52637/20260927de52637_E0000036350_1_s.jpg",
+      "datePublished": "2026-09-27T05:10:00+09:00"
+    },
+    {
+      "name": "ドジャース大谷翔平 2試合ぶり安打 チームは100勝に王手",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260927de52659",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52659/20260927de52659_E0000036407_1_s.jpg",
+      "datePublished": "2026-09-27T09:42:00+09:00"
+    },
+    {
+      "name": "アジア大会 陸上女子1500m 田中希実が銅 今大会2つ目のメダル",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260927de52632",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52632/20260927de52632_E0000036319_1_s.jpg",
+      "datePublished": "2026-09-27T01:01:10+09:00"
+    },
+    {
+      "name": "人類が滅びる？高まるAI脅威論 国内の研究者の見方は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260924de52153",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52153/20260924de52153_E0000035412_1_s.jpg",
+      "datePublished": "2026-09-26T17:49:00+09:00"
+    },
+    {
+      "name": "ウミガメを育む砂浜で いま起きている異変とは？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50814",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50814/20260917de50814_E0000035738_1_s.jpg",
+      "datePublished": "2026-09-25T20:24:00+09:00"
+    },
+    {
+      "name": "生きた心地がしなかった クマ捕獲の現場で何が",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260910de49428",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49428/20260910de49428_E0000035350_1_s.jpg",
+      "datePublished": "2026-09-25T18:11:04+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

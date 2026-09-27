@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260927de52700",
+  "dataSourceId": "nd",
+  "name": "台風25号 土砂崩れのアパートで遺体発見 住人女性か 神奈川",
+  "headline": "台風25号 土砂崩れのアパートで遺体発見 住人女性か 神奈川",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260927de52700",
+    "playlistId": "news-nwa-disaster-nationwide-20260927",
+    "newsarticleName": "台風25号 土砂崩れのアパートで遺体発見 住人女性か 神奈川",
+    "playlistName": "9月27日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "台風25号の大雨で土砂崩れがあった神奈川県三浦市のアパートで27日午後、遺体が見つかりました。警察は亡くなったのは行方がわからなくなっていた住人の20代の女性とみて身元の確認を進めています。\n\n\n9月",
+  "dateModified": "2026-09-27T16:27:18+09:00",
+  "datePublished": "2026-09-27T16:27:18+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52700/20260927de52700_E0000036480_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52700/20260927de52700_E0000036480_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000202",
+      "name": "台風",
+      "display": true
+    },
+    {
+      "id": "E0000000342",
+      "name": "神奈川県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "台風25号の大雨で土砂崩れがあった神奈川県三浦市のアパートで27日午後、遺体が見つかりました。警察は亡くなったのは行方がわからなくなっていた住人の20代の女性とみて身元の確認を進めています。\n\n\n9月",
+  "articleBody": "台風25号の大雨で土砂崩れがあった神奈川県三浦市のアパートで27日午後、遺体が見つかりました。警察は亡くなったのは行方がわからなくなっていた住人の20代の女性とみて身元の確認を進めています。\n\n\n9月21日の午後、三浦市南下浦町上宮田にある2階建てのアパートに土砂が流れ込み、1階に住んでいた20代の女性の行方がわからなくなっていました。\n\n警察と消防、それに自衛隊が捜索を続けていましたが、27日午後、アパート付近の土砂の中から遺体が見つかりました。\n\n警察は亡くなったのは住人の20代の女性とみて身元の確認を進めています。\n\n台風25号の影響で神奈川県内で死亡したのは5人となりました。\n",
+  "detailedArticleBody": {
+    "markedLead": "台風25号の大雨で土砂崩れがあった神奈川県三浦市のアパートで27日午後、遺体が見つかりました。警察は亡くなったのは行方がわからなくなっていた住人の20代の女性とみて身元の確認を進めています。\n",
+    "markedBody": "9月21日の午後、三浦市南下浦町上宮田にある2階建てのアパートに土砂が流れ込み、1階に住んでいた20代の女性の行方がわからなくなっていました。\n\n警察と消防、それに自衛隊が捜索を続けていましたが、27日午後、アパート付近の土砂の中から遺体が見つかりました。\n\n警察は亡くなったのは住人の20代の女性とみて身元の確認を進めています。\n\n台風25号の影響で神奈川県内で死亡したのは5人となりました。\n",
+    "trimmedLead": "台風25号の大雨で土砂崩れがあった神奈川県三浦市のアパートで27日午後、遺体が見つかりました。警察は亡くなったのは行方がわからなくなっていた住人の20代の女性とみて身元の確認を進めています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260927de52700.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260927de52700",
+  "video": [],
+  "citation": [
+    {
+      "name": "前線停滞で九州北部大雨に あす激しい雨のおそれ 台風も急発達",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260927de52641",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52641/20260927de52641_E0000036551_1_s.jpg",
+      "datePublished": "2026-09-27T20:21:00+09:00"
+    },
+    {
+      "name": "福岡 筑後地方と熊本 熊本地方に線状降水帯直前予測",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260927de52658",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52658/20260927de52658_E0000003982_1_s.jpg",
+      "datePublished": "2026-09-27T09:19:00+09:00"
+    },
+    {
+      "name": "【気象予報士解説】前線停滞で九州北部大雨に 台風26号も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260927de52650",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52650/20260927de52650_E0000036432_1_s.jpg",
+      "datePublished": "2026-09-27T12:53:56+09:00"
+    },
+    {
+      "name": "群馬女性殺害事件 長女の元夫逮捕 高崎市内のパチンコ店で確保",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260927de52686",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52686/20260927de52686_E0000036470_1_s.jpg",
+      "datePublished": "2026-09-27T19:01:00+09:00"
+    },
+    {
+      "name": "イラン外相 トランプ大統領の反応認識も仲介国待ち対応判断",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260927de52673",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52673/20260927de52673_E0000036419_1_s.jpg",
+      "datePublished": "2026-09-27T11:40:00+09:00"
+    },
+    {
+      "name": "トランプ大統領 イラン側の提案“受け入れられない”と拒否",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260927de52638",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52638/20260927de52638_E0000036343_1_s.jpg",
+      "datePublished": "2026-09-27T06:19:16+09:00"
+    },
+    {
+      "name": "米中合意文書 台湾言及なく 米大統領「習氏は私の考え理解」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260927de52637",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52637/20260927de52637_E0000036350_1_s.jpg",
+      "datePublished": "2026-09-27T05:10:00+09:00"
+    },
+    {
+      "name": "人類が滅びる？高まるAI脅威論 国内の研究者の見方は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260924de52153",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52153/20260924de52153_E0000035412_1_s.jpg",
+      "datePublished": "2026-09-26T17:49:00+09:00"
+    },
+    {
+      "name": "ウミガメを育む砂浜で いま起きている異変とは？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50814",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50814/20260917de50814_E0000035738_1_s.jpg",
+      "datePublished": "2026-09-25T20:24:00+09:00"
+    },
+    {
+      "name": "生きた心地がしなかった クマ捕獲の現場で何が",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260910de49428",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49428/20260910de49428_E0000035350_1_s.jpg",
+      "datePublished": "2026-09-25T18:11:04+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
