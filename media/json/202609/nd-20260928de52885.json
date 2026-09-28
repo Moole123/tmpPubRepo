@@ -1,0 +1,146 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260928de52885",
+  "dataSourceId": "nd",
+  "name": "パーク24 不正アクセスで会員の個人情報660万件漏えい",
+  "headline": "パーク24 不正アクセスで会員の個人情報660万件漏えい",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260928de52885",
+    "playlistId": "news-nwa-business-nationwide-20260928",
+    "newsarticleName": "パーク24 不正アクセスで会員の個人情報660万件漏えい",
+    "playlistName": "9月28日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "駐車場の運営などを手がける「パーク24」は、カーシェアリングサービスのシステムが不正なアクセスを受け、およそ660万件の会員の氏名や住所、運転免許の情報などが外部に漏えいしたと発表しました。\n\n\nパー",
+  "dateModified": "2026-09-28T17:32:55+09:00",
+  "datePublished": "2026-09-28T17:32:55+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52885/20260928de52885_E0000037112_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52885/20260928de52885_E0000037112_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "駐車場の運営などを手がける「パーク24」は、カーシェアリングサービスのシステムが不正なアクセスを受け、およそ660万件の会員の氏名や住所、運転免許の情報などが外部に漏えいしたと発表しました。\n\n\nパー",
+  "articleBody": "駐車場の運営などを手がける「パーク24」は、カーシェアリングサービスのシステムが不正なアクセスを受け、およそ660万件の会員の氏名や住所、運転免許の情報などが外部に漏えいしたと発表しました。\n\n\nパーク24によりますと、今月25日、子会社が運営するカーシェアリングサービス「タイムズカー」のシステムで不正なアクセスを検知し、調査したところ、およそ660万件の会員の個人情報が外部に漏えいしたことがわかったということです。\n\n漏えいしたのは、会員の名前や住所、生年月日、電話番号、それに運転免許の情報などで、クレジットカードの情報は含まれておらず、いまのところ漏えいした情報が不正に利用された事実は確認されていないとしています。\n\n会社は、個人情報保護委員会や警察に報告するとともに、個人情報が漏えいした会員を対象に、個別に連絡を行っているということです。\n\nパーク24は「お客様、お取引先様をはじめ、関係者の皆様には多大なるご迷惑とご心配をおかけし、深くおわび申し上げる」とコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "駐車場の運営などを手がける「パーク24」は、カーシェアリングサービスのシステムが不正なアクセスを受け、およそ660万件の会員の氏名や住所、運転免許の情報などが外部に漏えいしたと発表しました。\n",
+    "markedBody": "![](https://img.web.nhk/news/nd/kiji/20260928de52885/20260928de52885_E0000037114_1_l.jpg)\n\nパーク24によりますと、今月25日、子会社が運営するカーシェアリングサービス「タイムズカー」のシステムで不正なアクセスを検知し、調査したところ、およそ660万件の会員の個人情報が外部に漏えいしたことがわかったということです。\n\n漏えいしたのは、会員の名前や住所、生年月日、電話番号、それに運転免許の情報などで、クレジットカードの情報は含まれておらず、いまのところ漏えいした情報が不正に利用された事実は確認されていないとしています。\n\n会社は、個人情報保護委員会や警察に報告するとともに、個人情報が漏えいした会員を対象に、個別に連絡を行っているということです。\n\nパーク24は「お客様、お取引先様をはじめ、関係者の皆様には多大なるご迷惑とご心配をおかけし、深くおわび申し上げる」とコメントしています。\n",
+    "trimmedLead": "駐車場の運営などを手がける「パーク24」は、カーシェアリングサービスのシステムが不正なアクセスを受け、およそ660万件の会員の氏名や住所、運転免許の情報などが外部に漏えいしたと発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260928de52885.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260928de52885",
+  "video": [],
+  "citation": [
+    {
+      "name": "台風26号 大東島地方暴風など警戒 広く大気不安定で激しい雨　",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260928de52761",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52761/20260928de52761_E0000036932_1_s.jpg",
+      "datePublished": "2026-09-28T16:25:54+09:00"
+    },
+    {
+      "name": "台風25号の記録的大雨から1週間 千葉と神奈川で13人が死亡",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260928de52757",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52757/20260928de52757_E0000036637_1_s.jpg",
+      "datePublished": "2026-09-28T16:01:27+09:00"
+    },
+    {
+      "name": "「北の国から」脚本家の倉本聰さん死去 91歳",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260928de52785",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52785/20260928de52785_E0000037058_1_s.jpg",
+      "datePublished": "2026-09-28T17:29:08+09:00"
+    },
+    {
+      "name": "KDDIと日本郵便 郵便局にドローン常設へ 実証実験開始",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260928de52850",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52850/20260928de52850_E0000036927_1_s.jpg",
+      "datePublished": "2026-09-28T14:13:00+09:00"
+    },
+    {
+      "name": "ボージョレ・ヌーボー 熱波の影響で1か月早く羽田空港に到着",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260928de52792",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52792/20260928de52792_E0000036702_1_s.jpg",
+      "datePublished": "2026-09-28T11:27:00+09:00"
+    },
+    {
+      "name": "不正会計など不適切行為相次ぐ「ニデック」 社長ら交代検討　",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260928de52811",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52811/20260928de52811_E0000036778_1_s.jpg",
+      "datePublished": "2026-09-28T13:17:00+09:00"
+    },
+    {
+      "name": "泉健太氏と緒方林太郎氏が衆院で新会派を届け出",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260928de52852",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52852/20260928de52852_E0000036933_1_s.jpg",
+      "datePublished": "2026-09-28T15:06:34+09:00"
+    },
+    {
+      "name": "高市首相 自民党役員人事と内閣改造の裏側 臨時国会の焦点は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260914de50145",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260914de50145/20260914de50145_E0000036165_1_s.jpg",
+      "datePublished": "2026-09-28T13:44:06+09:00"
+    },
+    {
+      "name": "熊本地震2か月 被災自治体の復旧・復興に向け支援チーム設置へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260927de52689",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52689/20260927de52689_E0000036779_1_s.jpg",
+      "datePublished": "2026-09-28T12:39:00+09:00"
+    },
+    {
+      "name": "人類が滅びる？高まるAI脅威論 国内の研究者の見方は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260924de52153",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52153/20260924de52153_E0000035412_1_s.jpg",
+      "datePublished": "2026-09-26T17:49:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
