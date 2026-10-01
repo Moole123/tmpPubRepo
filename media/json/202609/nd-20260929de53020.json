@@ -1,0 +1,173 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260929de53020",
+  "dataSourceId": "nd",
+  "name": "セイコーマート 不正アクセスで約57万アカウント漏えいか",
+  "headline": "セイコーマート 不正アクセスで約57万アカウント漏えいか",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260929de53020",
+    "playlistId": "news-nwa-society-nationwide-20260929",
+    "newsarticleName": "セイコーマート 不正アクセスで約57万アカウント漏えいか",
+    "playlistName": "9月29日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "コンビニチェーンの「セイコーマート」は、利用者向けのアプリなどの会員情報を管理するサーバーに不正アクセスを受け、およそ57万アカウントの情報が漏えいした可能性があると発表しました。会社は原因を調べると",
+  "dateModified": "2026-09-29T13:11:21+09:00",
+  "datePublished": "2026-09-29T11:58:51+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53020/20260929de53020_E0000037543_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53020/20260929de53020_E0000037543_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "コンビニチェーンの「セイコーマート」は、利用者向けのアプリなどの会員情報を管理するサーバーに不正アクセスを受け、およそ57万アカウントの情報が漏えいした可能性があると発表しました。会社は原因を調べると",
+  "articleBody": "コンビニチェーンの「セイコーマート」は、利用者向けのアプリなどの会員情報を管理するサーバーに不正アクセスを受け、およそ57万アカウントの情報が漏えいした可能性があると発表しました。会社は原因を調べるとともに、今後、セイコーマートを名乗ってクレジットカードの情報を聞き出そうとするメールなどに注意するよう呼びかけています。\n\n\n発表によりますと、9月24日に不正なクラブカードの退会処理が確認され、その後の調査で「セイコーマートクラブ会員」の利用者向けのアプリなどの会員情報を管理するサーバーに不正アクセスを受けたことが判明したということです。\n\n漏えいした可能性があるのは、名前や住所、それに電話番号やメールアドレスなど、およそ57万アカウントの情報だということです。\n\n一方、入会時は利用者にクレジットカードの情報の登録を求めておらず、現時点で具体的な被害の情報は寄せられていないということです。\n\n会社は28日午後8時にサーバーへの接続を停止し、新規の入会を止めるなどの措置を取ったほか、不正アクセスの詳しい原因を調べています。\n\n会社は今後、セイコーマートを名乗ってクレジットカードの情報を聞き出そうとするメールなどに注意するよう呼びかけているほか、不審なケースがあった場合は電話による相談窓口に連絡してほしいとしています。\n\n相談窓口\n\nセイコーマート お客様相談室\n電話：0120－89－8551\n月曜日～土曜日　午前9時～午後5時 受け付け\n",
+  "detailedArticleBody": {
+    "markedLead": "コンビニチェーンの「セイコーマート」は、利用者向けのアプリなどの会員情報を管理するサーバーに不正アクセスを受け、およそ57万アカウントの情報が漏えいした可能性があると発表しました。会社は原因を調べるとともに、今後、セイコーマートを名乗ってクレジットカードの情報を聞き出そうとするメールなどに注意するよう呼びかけています。\n",
+    "markedBody": "発表によりますと、9月24日に不正なクラブカードの退会処理が確認され、その後の調査で「セイコーマートクラブ会員」の利用者向けのアプリなどの会員情報を管理するサーバーに不正アクセスを受けたことが判明したということです。\n\n漏えいした可能性があるのは、名前や住所、それに電話番号やメールアドレスなど、およそ57万アカウントの情報だということです。\n\n一方、入会時は利用者にクレジットカードの情報の登録を求めておらず、現時点で具体的な被害の情報は寄せられていないということです。\n\n会社は28日午後8時にサーバーへの接続を停止し、新規の入会を止めるなどの措置を取ったほか、不正アクセスの詳しい原因を調べています。\n\n会社は今後、セイコーマートを名乗ってクレジットカードの情報を聞き出そうとするメールなどに注意するよう呼びかけているほか、不審なケースがあった場合は電話による相談窓口に連絡してほしいとしています。\n\n:::nw--border {style=border-color:#000000}\n## 相談窓口\n\n**セイコーマート お客様相談室**\\\n**電話：0120－89－8551**\\\n**月曜日～土曜日　午前9時～午後5時 受け付け**\n:::\n",
+    "trimmedLead": "コンビニチェーンの「セイコーマート」は、利用者向けのアプリなどの会員情報を管理するサーバーに不正アクセスを受け、およそ57万アカウントの情報が漏えいした可能性があると発表しました。会社は原因を調べるとともに、今後、セイコーマートを名乗ってクレジットカードの情報を聞き出そうとするメールなどに注意するよう呼びかけています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260929de53020.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260929de53020",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "セイコーマート 不正アクセスで約57万アカウント漏えいか",
+      "description": "コンビニチェーンの「セイコーマート」は、利用者向けのアプリなどの会員情報を管理するサーバーに不正アクセスを受け、およそ57万アカウントの情報が漏えいした可能性があると発表しました。会社は原因を調べると",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20260929de53020_E0000037544_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20260929de53020/20260929de53020_E0000037543_1_l.jpg",
+      "duration": "PT34S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20260929de53020_E0000037544_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53020/20260929de53020_E0000037543_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "台風26号 伊豆諸島に近づく見込み 高波に警戒を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260929de52959",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de52959/20260929de52959_E0000038102_1_s.jpg",
+      "datePublished": "2026-09-29T19:19:00+09:00"
+    },
+    {
+      "name": "東京都心 34日連続で雨を観測 統計開始以来最長に 【なぜ？】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260929de52997",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de52997/20260929de52997_E0000037535_1_s.jpg",
+      "datePublished": "2026-09-29T19:08:49+09:00"
+    },
+    {
+      "name": "パーク24 不正アクセスで会員の個人情報660万件漏えい",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260928de52885",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52885/20260928de52885_E0000037112_1_s.jpg",
+      "datePublished": "2026-09-28T17:32:00+09:00"
+    },
+    {
+      "name": "食料品の消費税減税などの準備へ 予備費から1118億円支出決定",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260929de53017",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53017/20260929de53017_E0000037501_1_s.jpg",
+      "datePublished": "2026-09-29T13:23:30+09:00"
+    },
+    {
+      "name": "「シャオシャオ」と「レイレイ」中国返還後初の一般公開",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260929de53022",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53022/20260929de53022_E0000037553_1_s.jpg",
+      "datePublished": "2026-09-29T15:12:14+09:00"
+    },
+    {
+      "name": "千葉市 国道で車がトラックと正面衝突して炎上 3人死亡",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260929de52982",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de52982/20260929de52982_E0000037398_1_s.jpg",
+      "datePublished": "2026-09-29T18:54:26+09:00"
+    },
+    {
+      "name": "天皇皇后両陛下 熊本地震の被災地訪問 天候不良で30日に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260929de52993",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de52993/20260929de52993_E0000037419_1_s.jpg",
+      "datePublished": "2026-09-29T10:22:00+09:00"
+    },
+    {
+      "name": "スペースX大型宇宙船 初の地球周回軌道投入に成功",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260929de52969",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de52969/20260929de52969_E0000037395_1_s.jpg",
+      "datePublished": "2026-09-29T07:16:00+09:00"
+    },
+    {
+      "name": "列車が来て、一生懸命逃げたんだよ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260928de52783",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52783/20260928de52783_E0000037156_1_s.jpg",
+      "datePublished": "2026-09-28T18:22:00+09:00"
+    },
+    {
+      "name": "大谷翔平 苦難の裏側 そして3連覇への挑戦",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260925de52398",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52398/20260925de52398_E0000036810_1_s.jpg",
+      "datePublished": "2026-09-28T15:20:38+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

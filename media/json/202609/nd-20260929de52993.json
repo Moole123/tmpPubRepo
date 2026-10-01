@@ -1,0 +1,178 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260929de52993",
+  "dataSourceId": "nd",
+  "name": "天皇皇后両陛下 熊本地震の被災地訪問 天候不良で30日に",
+  "headline": "天皇皇后両陛下 熊本地震の被災地訪問 天候不良で30日に",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260929de52993",
+    "playlistId": "news-nwa-society-nationwide-20260929",
+    "newsarticleName": "天皇皇后両陛下 熊本地震の被災地訪問 天候不良で30日に",
+    "playlistName": "9月29日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "天皇皇后両陛下は29日、ことし7月の熊本地震で大きな被害を受けた被災地を訪問される予定でしたが、宮内庁は現地の天候不良のため、30日に延期すると発表しました。\n\n\n両陛下は29日に特別機で熊本県に入り",
+  "dateModified": "2026-09-29T10:22:00+09:00",
+  "datePublished": "2026-09-29T10:22:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de52993/20260929de52993_E0000037419_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de52993/20260929de52993_E0000037419_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000159",
+      "name": "皇室",
+      "display": true
+    },
+    {
+      "id": "E0000000371",
+      "name": "熊本県",
+      "display": true
+    },
+    {
+      "id": "E0000010002",
+      "name": "令和8年熊本地震",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "天皇皇后両陛下は29日、ことし7月の熊本地震で大きな被害を受けた被災地を訪問される予定でしたが、宮内庁は現地の天候不良のため、30日に延期すると発表しました。\n\n\n両陛下は29日に特別機で熊本県に入り",
+  "articleBody": "天皇皇后両陛下は29日、ことし7月の熊本地震で大きな被害を受けた被災地を訪問される予定でしたが、宮内庁は現地の天候不良のため、30日に延期すると発表しました。\n\n\n両陛下は29日に特別機で熊本県に入り、自衛隊のヘリコプターのほか、車を使って地震で大きな被害を受けた八代市、氷川町、それに宇城市を回り、被災した人たちを見舞うとともに、災害対応にあたった関係者をねぎらわれる予定でした。\n\n宮内庁によりますと、現地の天候不良でヘリコプターでの移動が難しくなったため、30日に延期するということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "天皇皇后両陛下は29日、ことし7月の熊本地震で大きな被害を受けた被災地を訪問される予定でしたが、宮内庁は現地の天候不良のため、30日に延期すると発表しました。\n",
+    "markedBody": "両陛下は29日に特別機で熊本県に入り、自衛隊のヘリコプターのほか、車を使って地震で大きな被害を受けた八代市、氷川町、それに宇城市を回り、被災した人たちを見舞うとともに、災害対応にあたった関係者をねぎらわれる予定でした。\n\n宮内庁によりますと、現地の天候不良でヘリコプターでの移動が難しくなったため、30日に延期するということです。\n",
+    "trimmedLead": "天皇皇后両陛下は29日、ことし7月の熊本地震で大きな被害を受けた被災地を訪問される予定でしたが、宮内庁は現地の天候不良のため、30日に延期すると発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260929de52993.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260929de52993",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "天皇皇后両陛下 熊本地震の被災地訪問 天候不良で30日に",
+      "description": "天皇皇后両陛下は29日、ことし7月の熊本地震で大きな被害を受けた被災地を訪問される予定でしたが、宮内庁は現地の天候不良のため、30日に延期すると発表しました。\n\n\n両陛下は29日に特別機で熊本県に入り",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20260929de52993_E0000037589_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20260929de52993/20260929de52993_E0000037419_1_l.jpg",
+      "duration": "PT22S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20260929de52993_E0000037589_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de52993/20260929de52993_E0000037419_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "台風26号 伊豆諸島に近づく見込み 高波に警戒を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260929de52959",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de52959/20260929de52959_E0000038102_1_s.jpg",
+      "datePublished": "2026-09-29T19:19:00+09:00"
+    },
+    {
+      "name": "熊本 イオンモール爆発事故 生存者2人救助時の状況は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260928de52869",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52869/20260928de52869_E0000037079_1_s.jpg",
+      "datePublished": "2026-09-28T20:13:59+09:00"
+    },
+    {
+      "name": "被災、また被災… なりわい再建どうする 熊本地震から2か月",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260928de52862",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52862/20260928de52862_E0000037016_2_s.jpg",
+      "datePublished": "2026-09-28T17:27:55+09:00"
+    },
+    {
+      "name": "群馬女性殺害事件 元夫の車の窓ガラス割れた状態",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260929de52981",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de52981/20260929de52981_E0000037397_1_s.jpg",
+      "datePublished": "2026-09-29T07:24:00+09:00"
+    },
+    {
+      "name": "千葉市 国道で車がトラックと正面衝突して炎上 3人死亡",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260929de52982",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de52982/20260929de52982_E0000037398_1_s.jpg",
+      "datePublished": "2026-09-29T18:54:26+09:00"
+    },
+    {
+      "name": "北朝鮮外務次官 国連演説で“わが国は核保有国だ”と主張",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260929de52988",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de52988/20260929de52988_E0000037403_1_s.jpg",
+      "datePublished": "2026-09-29T08:46:00+09:00"
+    },
+    {
+      "name": "「20年前から」証言も マンション修繕工事談合",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260929de52960",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de52960/20260929de52960_E0000037380_1_s.jpg",
+      "datePublished": "2026-09-29T05:48:00+09:00"
+    },
+    {
+      "name": "パーク24 不正アクセスで会員の個人情報660万件漏えい",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260928de52885",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52885/20260928de52885_E0000037112_1_s.jpg",
+      "datePublished": "2026-09-28T17:32:00+09:00"
+    },
+    {
+      "name": "列車が来て、一生懸命逃げたんだよ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260928de52783",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52783/20260928de52783_E0000037156_1_s.jpg",
+      "datePublished": "2026-09-28T18:22:00+09:00"
+    },
+    {
+      "name": "大谷翔平 苦難の裏側 そして3連覇への挑戦",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260925de52398",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52398/20260925de52398_E0000036810_1_s.jpg",
+      "datePublished": "2026-09-28T15:20:38+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
