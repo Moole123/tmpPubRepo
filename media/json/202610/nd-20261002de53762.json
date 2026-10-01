@@ -1,0 +1,160 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261002de53762",
+  "dataSourceId": "nd",
+  "name": "佐川急便に不正アクセス 住所など個人情報が漏えいか",
+  "headline": "佐川急便に不正アクセス 住所など個人情報が漏えいか",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261002de53762",
+    "playlistId": "news-nwa-business-nationwide-20261002",
+    "newsarticleName": "佐川急便に不正アクセス 住所など個人情報が漏えいか",
+    "playlistName": "10月2日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "宅配大手の佐川急便は、荷物の配達状況を確認するシステムが不正なアクセスを受け、荷物の送り主と配達先の氏名や住所、電話番号などが外部に漏えいしたおそれがあると発表しました。\n\n\n佐川急便によりますと30",
+  "dateModified": "2026-10-02T00:37:58+09:00",
+  "datePublished": "2026-10-02T00:37:58+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53762/20261002de53762_E0000039926_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53762/20261002de53762_E0000039926_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    },
+    {
+      "id": "E0000000709",
+      "name": "物流",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "宅配大手の佐川急便は、荷物の配達状況を確認するシステムが不正なアクセスを受け、荷物の送り主と配達先の氏名や住所、電話番号などが外部に漏えいしたおそれがあると発表しました。\n\n\n佐川急便によりますと30",
+  "articleBody": "宅配大手の佐川急便は、荷物の配達状況を確認するシステムが不正なアクセスを受け、荷物の送り主と配達先の氏名や住所、電話番号などが外部に漏えいしたおそれがあると発表しました。\n\n\n佐川急便によりますと30日に、荷物の配達状況を確認するシステムが第三者から不正なアクセスを受けたことが確認されたということです。\n\n会社が調査したところ、1日になって荷物の送り主と配達先の氏名や住所、電話番号などが外部に漏えいしたおそれがあることが分かったとしています。\n\nこの中には、クレジットカードの情報やパスワードは含まれていないと説明しています。\n\n漏えいした情報の件数は現在調査中だということで、佐川急便は「顧客や関係者に多大なるご迷惑とご心配をおかけし、深くお詫び申し上げます」とコメントしています。\n\n会社が設置した専用の相談窓口の電話番号は0120-28-3449で、土日、祝日を含めて午前9時から午後5時まで相談を受け付けています。\n\n不正アクセスの被害は、\n▽「パーク24」の子会社が運営するカーシェアリングサービス「タイムズカー」のシステムでおよそ660万件の会員の個人情報が漏えいしたほか、\n▽宅配大手のヤマト運輸でも代金を後払いするサービスで情報漏えいがなかったか会社が調べるなど、相次いで確認されています。\n",
+  "detailedArticleBody": {
+    "markedLead": "宅配大手の佐川急便は、荷物の配達状況を確認するシステムが不正なアクセスを受け、荷物の送り主と配達先の氏名や住所、電話番号などが外部に漏えいしたおそれがあると発表しました。\n",
+    "markedBody": "佐川急便によりますと30日に、荷物の配達状況を確認するシステムが第三者から不正なアクセスを受けたことが確認されたということです。\n\n会社が調査したところ、1日になって荷物の送り主と配達先の氏名や住所、電話番号などが外部に漏えいしたおそれがあることが分かったとしています。\n\nこの中には、クレジットカードの情報やパスワードは含まれていないと説明しています。\n\n漏えいした情報の件数は現在調査中だということで、佐川急便は「顧客や関係者に多大なるご迷惑とご心配をおかけし、深くお詫び申し上げます」とコメントしています。\n\n会社が設置した専用の相談窓口の電話番号は0120-28-3449で、土日、祝日を含めて午前9時から午後5時まで相談を受け付けています。\n\n不正アクセスの被害は、\\\n▽「パーク24」の子会社が運営するカーシェアリングサービス「タイムズカー」のシステムでおよそ660万件の会員の個人情報が漏えいしたほか、\\\n▽宅配大手のヤマト運輸でも代金を後払いするサービスで情報漏えいがなかったか会社が調べるなど、相次いで確認されています。\n",
+    "trimmedLead": "宅配大手の佐川急便は、荷物の配達状況を確認するシステムが不正なアクセスを受け、荷物の送り主と配達先の氏名や住所、電話番号などが外部に漏えいしたおそれがあると発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261002de53762.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261002de53762",
+  "video": [],
+  "citation": [
+    {
+      "name": "千葉の火力発電所の敷地に国内最大規模のデータセンター建設へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261001de53654",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261001de53654/20261001de53654_E0000039579_1_s.jpg",
+      "datePublished": "2026-10-01T17:25:29+09:00"
+    },
+    {
+      "name": "企業や官庁で内定式 “望まない転勤廃止”で人材確保の動きも",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261001de53615",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261001de53615/20261001de53615_E0000039451_1_s.jpg",
+      "datePublished": "2026-10-01T17:13:00+09:00"
+    },
+    {
+      "name": "トヨタ 祝日勤務見直しへ 人材確保がねらい 来年度",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261001de53558",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261001de53558/20261001de53558_E0000039242_1_s.jpg",
+      "datePublished": "2026-10-01T12:52:36+09:00"
+    },
+    {
+      "name": "東京地検特捜部検事の取り調べめぐる国賠訴訟　判決は来年1月",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261001de53639",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261001de53639/20261001de53639_E0000039516_1_s.jpg",
+      "datePublished": "2026-10-01T16:15:00+09:00"
+    },
+    {
+      "name": "神戸 横断歩道に乗用車突っ込む 歩行者1人死亡 3人けが",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261001de53642",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261001de53642/20261001de53642_E0000039536_1_s.jpg",
+      "datePublished": "2026-10-01T22:00:19+09:00"
+    },
+    {
+      "name": "ニデック 戒田理夫新社長が会見「品質第一にした会社に戻す」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261001de53606",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261001de53606/20261001de53606_E0000039540_1_s.jpg",
+      "datePublished": "2026-10-01T19:35:33+09:00"
+    },
+    {
+      "name": "ノーベル賞 5日から発表 日本から“3年連続受賞”なるか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260930de53274",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260930de53274/20260930de53274_E0000038986_1_s.jpg",
+      "datePublished": "2026-10-01T12:36:00+09:00"
+    },
+    {
+      "name": "台風27号 勢力を強めながら日曜日ごろ小笠原近海へ進む見込み",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261001de53515",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261001de53515/20261001de53515_E0000039702_1_s.jpg",
+      "datePublished": "2026-10-01T18:50:46+09:00"
+    },
+    {
+      "name": "台風予測にAI革命 その実力を徹底分析",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260930de53252",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260930de53252/20260930de53252_E0000038295_1_s.jpg",
+      "datePublished": "2026-09-30T17:26:08+09:00"
+    },
+    {
+      "name": "「timelesz」猪俣周杜メンバーの契約解除 所属事務所が発表",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261001de53556",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261001de53556/20261001de53556_E0000039225_1_s.jpg",
+      "datePublished": "2026-10-01T18:37:19+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
