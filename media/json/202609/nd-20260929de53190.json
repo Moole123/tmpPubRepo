@@ -1,0 +1,179 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260929de53190",
+  "dataSourceId": "nd",
+  "name": "細野防災相 台風被害の印旛沼堤防や停電 “速やかに復旧を”",
+  "headline": "細野防災相 台風被害の印旛沼堤防や停電 “速やかに復旧を”",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260929de53190",
+    "playlistId": "news-nwa-politics-nationwide-20260929",
+    "newsarticleName": "細野防災相 台風被害の印旛沼堤防や停電 “速やかに復旧を”",
+    "playlistName": "9月29日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "政府は29日、台風25号の被害状況の把握と台風26号の接近に備えて、関係省庁による災害対策会議を開きました。\n\n\nこの中で細野防災担当大臣は、「台風25号で大きな被害を受けた千葉県や神奈川県などは台風",
+  "dateModified": "2026-09-29T20:32:14+09:00",
+  "datePublished": "2026-09-29T20:32:14+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53190/20260929de53190_E0000038146_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53190/20260929de53190_E0000038146_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治",
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000202",
+      "name": "台風",
+      "display": true
+    },
+    {
+      "id": "E0000000114",
+      "name": "気象",
+      "display": true
+    },
+    {
+      "id": "E0000000340",
+      "name": "千葉県",
+      "display": true
+    },
+    {
+      "id": "E0000000342",
+      "name": "神奈川県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "政府は29日、台風25号の被害状況の把握と台風26号の接近に備えて、関係省庁による災害対策会議を開きました。\n\n\nこの中で細野防災担当大臣は、「台風25号で大きな被害を受けた千葉県や神奈川県などは台風",
+  "articleBody": "政府は29日、台風25号の被害状況の把握と台風26号の接近に備えて、関係省庁による災害対策会議を開きました。\n\n\nこの中で細野防災担当大臣は、「台風25号で大きな被害を受けた千葉県や神奈川県などは台風26号による直接的な影響は少ないものの、前線の影響で普段より少ない雨量で土砂災害や大雨災害の危険度が高まりやすい状態が続く見込みだ」と述べました。\n\nその上で関係省庁に対し、堤防が決壊した千葉県の印旛沼の緊急復旧対応や、停電などの復旧をできるかぎり速やかに進めるよう求めました。\n",
+  "detailedArticleBody": {
+    "markedLead": "政府は29日、台風25号の被害状況の把握と台風26号の接近に備えて、関係省庁による災害対策会議を開きました。\n",
+    "markedBody": "![](https://img.web.nhk/news/nd/kiji/20260929de53190/20260929de53190_E0000038145_1_l.jpg)\n\nこの中で細野防災担当大臣は、「台風25号で大きな被害を受けた千葉県や神奈川県などは台風26号による直接的な影響は少ないものの、前線の影響で普段より少ない雨量で土砂災害や大雨災害の危険度が高まりやすい状態が続く見込みだ」と述べました。\n\nその上で関係省庁に対し、堤防が決壊した千葉県の印旛沼の緊急復旧対応や、停電などの復旧をできるかぎり速やかに進めるよう求めました。\n",
+    "trimmedLead": "政府は29日、台風25号の被害状況の把握と台風26号の接近に備えて、関係省庁による災害対策会議を開きました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260929de53190.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260929de53190",
+  "video": [],
+  "citation": [
+    {
+      "name": "台風25号の記録的大雨から1週間 死亡は14人に 2人行方不明",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260928de52757",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52757/20260928de52757_E0000036637_1_s.jpg",
+      "datePublished": "2026-09-28T20:26:27+09:00"
+    },
+    {
+      "name": "印旛沼で堤防の応急復旧工事 住民は片づけ「全然終わらない」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260928de52876",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52876/20260928de52876_E0000037039_1_s.jpg",
+      "datePublished": "2026-09-28T19:34:00+09:00"
+    },
+    {
+      "name": "千葉 堤防決壊した印旛沼周辺で警報基準を引き下げ 気象庁",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260929de53126",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53126/20260929de53126_E0000037849_1_s.jpg",
+      "datePublished": "2026-09-29T16:46:22+09:00"
+    },
+    {
+      "name": "東京都心 34日連続で雨を観測 統計開始以来最長に 【なぜ？】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260929de52997",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de52997/20260929de52997_E0000037535_1_s.jpg",
+      "datePublished": "2026-09-29T19:08:49+09:00"
+    },
+    {
+      "name": "台風26号 伊豆諸島に近づく見込み 高波に警戒を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260929de52959",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de52959/20260929de52959_E0000038102_1_s.jpg",
+      "datePublished": "2026-09-29T19:19:00+09:00"
+    },
+    {
+      "name": "インフルエンザ患者数 前週の約1.5倍 マスク着用など対策を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260929de53102",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53102/20260929de53102_E0000037832_1_s.jpg",
+      "datePublished": "2026-09-29T18:51:00+09:00"
+    },
+    {
+      "name": "タイムズカー 運転免許画像などの漏えいは160万件 どうすれば",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260929de53160",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53160/20260929de53160_E0000038219_1_s.jpg",
+      "datePublished": "2026-09-29T22:54:00+09:00"
+    },
+    {
+      "name": "マレーシアで日本人9人拘束 特殊詐欺に関わったか 摘発相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260929de53153",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53153/20260929de53153_E0000037986_1_s.jpg",
+      "datePublished": "2026-09-29T18:47:00+09:00"
+    },
+    {
+      "name": "政府 臨時国会 10月5日の召集を決定",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260929de52998",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de52998/20260929de52998_E0000003844_1_s.jpg",
+      "datePublished": "2026-09-29T17:35:00+09:00"
+    },
+    {
+      "name": "日本の人口 1億2297万人余に 減少幅は過去最大 国勢調査確定値",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260929de53106",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53106/20260929de53106_E0000037851_1_s.jpg",
+      "datePublished": "2026-09-29T19:35:00+09:00"
+    },
+    {
+      "name": "東京大学の新総長に藤垣裕子氏 女性の総長は大学創立以来初",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260929de53079",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53079/20260929de53079_E0000037814_1_s.jpg",
+      "datePublished": "2026-09-29T18:33:00+09:00"
+    },
+    {
+      "name": "「シャオシャオ」と「レイレイ」中国返還後初の一般公開",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260929de53022",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53022/20260929de53022_E0000037553_1_s.jpg",
+      "datePublished": "2026-09-29T15:12:14+09:00"
+    },
+    {
+      "name": "電気料金が「過去最高」の水準へ この冬はどうなる？【Q＆A】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260929de52999",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de52999/20260929de52999_E0000038176_1_s.jpg",
+      "datePublished": "2026-09-29T18:13:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

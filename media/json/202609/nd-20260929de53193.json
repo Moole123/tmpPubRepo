@@ -1,0 +1,156 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260929de53193",
+  "dataSourceId": "nd",
+  "name": "関西電力の過大請求 経産省に再発防止策など報告",
+  "headline": "関西電力の過大請求 経産省に再発防止策など報告",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260929de53193",
+    "playlistId": "news-nwa-business-nationwide-20260929",
+    "newsarticleName": "関西電力の過大請求 経産省に再発防止策など報告",
+    "playlistName": "9月29日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "関西電力は、おととし4月以降、家庭向けなどの一部の契約で本来よりおよそ1400万円過大に電気料金を請求していた問題で、29日に経済産業省に対し原因や再発防止策などをまとめた報告書を提出しました。\n\n\n",
+  "dateModified": "2026-09-29T20:42:00+09:00",
+  "datePublished": "2026-09-29T20:42:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53193/20260929de53193_E0000038152_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53193/20260929de53193_E0000038152_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "地域"
+  ],
+  "topic": [
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    },
+    {
+      "id": "E0000000701",
+      "name": "資源・エネルギー",
+      "display": true
+    },
+    {
+      "id": "E0000000460",
+      "name": "経済産業省",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "関西電力は、おととし4月以降、家庭向けなどの一部の契約で本来よりおよそ1400万円過大に電気料金を請求していた問題で、29日に経済産業省に対し原因や再発防止策などをまとめた報告書を提出しました。\n\n\n",
+  "articleBody": "関西電力は、おととし4月以降、家庭向けなどの一部の契約で本来よりおよそ1400万円過大に電気料金を請求していた問題で、29日に経済産業省に対し原因や再発防止策などをまとめた報告書を提出しました。\n\n\n関西電力が提出した報告書によりますと、おととし4月に発電の原価の算定を行う際に用語の定義を誤解した結果、請求する金額を過大に算定してしまったということです。\n\n過大請求していたのは8月末時点でおよそ492万件に上るということで、会社は再発防止に向けて原価の算定時などの確認を徹底するとともに、本来より多く徴収した分については可能な限り速やかに返還する方針です。\n\n関西電力は「お客さまにご迷惑をおかけしていることを改めて深くおわび申し上げる」とコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "関西電力は、おととし4月以降、家庭向けなどの一部の契約で本来よりおよそ1400万円過大に電気料金を請求していた問題で、29日に経済産業省に対し原因や再発防止策などをまとめた報告書を提出しました。\n",
+    "markedBody": "関西電力が提出した報告書によりますと、おととし4月に発電の原価の算定を行う際に用語の定義を誤解した結果、請求する金額を過大に算定してしまったということです。\n\n過大請求していたのは8月末時点でおよそ492万件に上るということで、会社は再発防止に向けて原価の算定時などの確認を徹底するとともに、本来より多く徴収した分については可能な限り速やかに返還する方針です。\n\n関西電力は「お客さまにご迷惑をおかけしていることを改めて深くおわび申し上げる」とコメントしています。\n",
+    "trimmedLead": "関西電力は、おととし4月以降、家庭向けなどの一部の契約で本来よりおよそ1400万円過大に電気料金を請求していた問題で、29日に経済産業省に対し原因や再発防止策などをまとめた報告書を提出しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260929de53193.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260929de53193",
+  "video": [],
+  "citation": [
+    {
+      "name": "ニデック 岸田社長の辞任を発表 相次ぐ不祥事を受けて引責",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260929de53189",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53189/20260929de53189_E0000038143_1_s.jpg",
+      "datePublished": "2026-09-29T20:50:55+09:00"
+    },
+    {
+      "name": "分電盤の点検商法 相談5倍に急増 注意を 国民生活センター",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260916de50619",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50619/20260916de50619_E0000031388_1_s.jpg",
+      "datePublished": "2026-09-16T19:40:00+09:00"
+    },
+    {
+      "name": "中部電力グループが電気料金過大に徴収 対象は約500万件",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260910de49537",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49537/20260910de49537_E0000027927_1_s.jpg",
+      "datePublished": "2026-09-10T17:21:00+09:00"
+    },
+    {
+      "name": "中部電力の料金過大請求「社内の論理優先でミスを正せず」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260929de53114",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53114/20260929de53114_E0000037810_1_s.jpg",
+      "datePublished": "2026-09-29T16:28:00+09:00"
+    },
+    {
+      "name": "不祥事相次ぐ中部電力 新体制へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260929de53031",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53031/20260929de53031_E0000037519_1_s.jpg",
+      "datePublished": "2026-09-29T14:18:00+09:00"
+    },
+    {
+      "name": "解約後も請求続く服レンタル業者 国民生活センターが注意喚起",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260819de45075",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45075/20260819de45075_E0000012619_1_s.jpg",
+      "datePublished": "2026-08-19T18:35:00+09:00"
+    },
+    {
+      "name": "電気料金が「過去最高」の水準へ この冬はどうなる？【Q＆A】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260929de52999",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de52999/20260929de52999_E0000038176_1_s.jpg",
+      "datePublished": "2026-09-29T18:13:00+09:00"
+    },
+    {
+      "name": "台風26号 伊豆諸島に近づく見込み 高波に警戒を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260929de52959",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de52959/20260929de52959_E0000038102_1_s.jpg",
+      "datePublished": "2026-09-29T19:19:00+09:00"
+    },
+    {
+      "name": "青森 五所川原の突風 気象台“最大約65メートルの強さと推定”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260929de53186",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53186/20260929de53186_E0000038116_1_s.jpg",
+      "datePublished": "2026-09-29T21:23:20+09:00"
+    },
+    {
+      "name": "AI需要拡大で経済・物価どうなる 日銀の金融政策にも影響？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47923",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47923/20260903de47923_E0000030447_1_s.jpg",
+      "datePublished": "2026-09-15T17:41:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

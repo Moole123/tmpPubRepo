@@ -1,0 +1,145 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260930de53330",
+  "dataSourceId": "nd",
+  "name": "株価 値上がり 原油先物価格が下落傾向で企業収益の懸念和らぐ",
+  "headline": "株価 値上がり 原油先物価格が下落傾向で企業収益の懸念和らぐ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260930de53330",
+    "playlistId": "news-nwa-business-nationwide-20260930",
+    "newsarticleName": "株価 値上がり 原油先物価格が下落傾向で企業収益の懸念和らぐ",
+    "playlistName": "9月30日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "30日の東京株式市場、原油の先物価格が下落傾向にあり、企業収益への懸念が和らいだことなどから、株価は値上がりしました。\n\n\n日経平均株価、30日の終値は29日と比べ1272円45銭、高い6万6753円",
+  "dateModified": "2026-09-30T13:04:00+09:00",
+  "datePublished": "2026-09-30T13:04:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260930de53330/20260930de53330_E0000038822_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260930de53330/20260930de53330_E0000038822_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000157",
+      "name": "株価・為替",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "30日の東京株式市場、原油の先物価格が下落傾向にあり、企業収益への懸念が和らいだことなどから、株価は値上がりしました。\n\n\n日経平均株価、30日の終値は29日と比べ1272円45銭、高い6万6753円",
+  "articleBody": "30日の東京株式市場、原油の先物価格が下落傾向にあり、企業収益への懸念が和らいだことなどから、株価は値上がりしました。\n\n\n日経平均株価、30日の終値は29日と比べ1272円45銭、高い6万6753円72銭。\n\n東証株価指数、トピックスは67.52、上がって4108.65。\n\n1日の出来高は、27億6231万株でした。\n\n市場関係者は、「原油の先物価格が下落傾向にあり企業収益への懸念が和らいだことに加え、アメリカのオープンAIの業績が好調だという海外メディアの報道が伝わったことで、午後に入ると出資する企業に買い注文が集まり株価が押し上げられる形になった」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "30日の東京株式市場、原油の先物価格が下落傾向にあり、企業収益への懸念が和らいだことなどから、株価は値上がりしました。\n",
+    "markedBody": "日経平均株価、30日の終値は29日と比べ1272円45銭、高い6万6753円72銭。\n\n東証株価指数、トピックスは67.52、上がって4108.65。\n\n1日の出来高は、27億6231万株でした。\n\n市場関係者は、「原油の先物価格が下落傾向にあり企業収益への懸念が和らいだことに加え、アメリカのオープンAIの業績が好調だという海外メディアの報道が伝わったことで、午後に入ると出資する企業に買い注文が集まり株価が押し上げられる形になった」と話しています。\n",
+    "trimmedLead": "30日の東京株式市場、原油の先物価格が下落傾向にあり、企業収益への懸念が和らいだことなどから、株価は値上がりしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260930de53330.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260930de53330",
+  "video": [],
+  "citation": [
+    {
+      "name": "台風26号 明け方にかけ伊豆諸島に接近 千葉で雨強まるおそれも",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260930de53237",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260930de53237/20260930de53237_E0000039141_1_s.jpg",
+      "datePublished": "2026-10-01T00:19:00+09:00"
+    },
+    {
+      "name": "アメリカとイランの間接協議 双方とも妥協しない姿勢",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260930de53236",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260930de53236/20260930de53236_E0000038255_1_s.jpg",
+      "datePublished": "2026-09-30T05:12:00+09:00"
+    },
+    {
+      "name": "政府・与党 臨時国会で消費税法案成立を 野党は論戦の構え",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260930de53231",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260930de53231/20260930de53231_E0000038247_1_s.jpg",
+      "datePublished": "2026-09-30T04:07:00+09:00"
+    },
+    {
+      "name": "「核のごみ」文献調査 茨城 常陸大宮市長が受け入れを表明",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260930de53229",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260930de53229/20260930de53229_E0000038863_1_s.jpg",
+      "datePublished": "2026-09-30T19:59:09+09:00"
+    },
+    {
+      "name": "日本の教員 労働時間が長く給与満足度はOECD平均を下回る",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260930de53228",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260930de53228/20260930de53228_E0000038236_1_s.jpg",
+      "datePublished": "2026-09-30T04:16:00+09:00"
+    },
+    {
+      "name": "原油の調達多角化に向け新法案 臨時国会に提出へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260929de53226",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53226/20260929de53226_E0000038234_1_s.jpg",
+      "datePublished": "2026-09-30T04:44:00+09:00"
+    },
+    {
+      "name": "「後払い」相次ぐトラブル 対策は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260929de53018",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53018/20260929de53018_E0000037490_1_s.jpg",
+      "datePublished": "2026-09-29T14:06:09+09:00"
+    },
+    {
+      "name": "不祥事相次ぐ中部電力 新体制へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260929de53031",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53031/20260929de53031_E0000037519_1_s.jpg",
+      "datePublished": "2026-09-29T14:18:00+09:00"
+    },
+    {
+      "name": "“米中接近”の裏側は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260929de53006",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53006/20260929de53006_E0000037467_1_s.jpg",
+      "datePublished": "2026-09-29T14:36:50+09:00"
+    },
+    {
+      "name": "なぜいま社会主義？「自由と競争」アメリカでの勢いは本物か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de49053",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de49053/20260908de49053_E0000037578_1_s.jpg",
+      "datePublished": "2026-09-29T18:43:40+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
