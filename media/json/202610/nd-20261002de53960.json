@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261002de53960",
+  "dataSourceId": "nd",
+  "name": "「e-Tax」で不具合 贈与税申告内容が閲覧される状態に",
+  "headline": "「e-Tax」で不具合 贈与税申告内容が閲覧される状態に",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261002de53960",
+    "playlistId": "news-nwa-society-nationwide-20261002",
+    "newsarticleName": "「e-Tax」で不具合 贈与税申告内容が閲覧される状態に",
+    "playlistName": "10月2日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "税金の電子申告や納税ができる国税庁のシステム「e-Tax」で、贈与税の申告内容が本人以外からも閲覧される状態になる不具合があったとして、国税庁は謝罪しました。\n\n\n国税庁によりますと、e-Taxのシス",
+  "dateModified": "2026-10-02T20:51:00+09:00",
+  "datePublished": "2026-10-02T20:51:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53960/20261002de53960_E0000040700_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53960/20261002de53960_E0000040700_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000663",
+      "name": "国税庁・国税局",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "税金の電子申告や納税ができる国税庁のシステム「e-Tax」で、贈与税の申告内容が本人以外からも閲覧される状態になる不具合があったとして、国税庁は謝罪しました。\n\n\n国税庁によりますと、e-Taxのシス",
+  "articleBody": "税金の電子申告や納税ができる国税庁のシステム「e-Tax」で、贈与税の申告内容が本人以外からも閲覧される状態になる不具合があったとして、国税庁は謝罪しました。\n\n\n国税庁によりますと、e-Taxのシステム改修をした直後の9月24日の午前8時半から翌日にかけての27時間あまりにわたって不具合があり、贈与税の申告書などが本人以外からも閲覧される状態になっていたということです。\n\n利用者からの連絡で明らかになったということで、この期間に、79人の申告書などが本人以外の19人から閲覧された可能性があるということです。\n\nこの申告書などには、贈与した人や贈与を受けた人の氏名や住所、生年月日のほか、贈与税の額など、あわせて203人分の個人情報が記載されていたということです。\n\n国税庁によりますと、すでに不具合は解消し、閲覧されたおそれのある人に謝罪したということです。\n\n国税庁は「税務行政に対する国民の皆様の信頼を損なうもので、誠に申し訳なく、深くお詫び申し上げます。再発防止策の徹底に万全を期し、信頼の確保に努めてまいります」とコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "税金の電子申告や納税ができる国税庁のシステム「e-Tax」で、贈与税の申告内容が本人以外からも閲覧される状態になる不具合があったとして、国税庁は謝罪しました。\n",
+    "markedBody": "国税庁によりますと、e-Taxのシステム改修をした直後の9月24日の午前8時半から翌日にかけての27時間あまりにわたって不具合があり、贈与税の申告書などが本人以外からも閲覧される状態になっていたということです。\n\n利用者からの連絡で明らかになったということで、この期間に、79人の申告書などが本人以外の19人から閲覧された可能性があるということです。\n\nこの申告書などには、贈与した人や贈与を受けた人の氏名や住所、生年月日のほか、贈与税の額など、あわせて203人分の個人情報が記載されていたということです。\n\n国税庁によりますと、すでに不具合は解消し、閲覧されたおそれのある人に謝罪したということです。\n\n国税庁は「税務行政に対する国民の皆様の信頼を損なうもので、誠に申し訳なく、深くお詫び申し上げます。再発防止策の徹底に万全を期し、信頼の確保に努めてまいります」とコメントしています。\n",
+    "trimmedLead": "税金の電子申告や納税ができる国税庁のシステム「e-Tax」で、贈与税の申告内容が本人以外からも閲覧される状態になる不具合があったとして、国税庁は謝罪しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261002de53960.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261002de53960",
+  "video": [],
+  "citation": [
+    {
+      "name": "大阪公立大学で大規模システム障害 復旧めど立たず8日まで休講",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261002de53839",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53839/20261002de53839_E0000040163_1_s.jpg",
+      "datePublished": "2026-10-02T20:43:37+09:00"
+    },
+    {
+      "name": "佐川急便に不正アクセス 住所など個人情報が漏えいか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261002de53762",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53762/20261002de53762_E0000039926_1_s.jpg",
+      "datePublished": "2026-10-02T00:37:58+09:00"
+    },
+    {
+      "name": "オープンAI 社内で安全性懸念の警告あるも会社側が無視 米報道",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260930de53376",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260930de53376/20260930de53376_E0000038754_1_s.jpg",
+      "datePublished": "2026-09-30T15:29:18+09:00"
+    },
+    {
+      "name": "タイムズカー 運転免許画像などの漏えいは160万件 どうすれば",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260929de53160",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53160/20260929de53160_E0000038219_1_s.jpg",
+      "datePublished": "2026-09-29T22:54:00+09:00"
+    },
+    {
+      "name": "オープンAI 次期モデルの公開中止か 安全性の懸念で",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260929de53016",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53016/20260929de53016_E0000037485_1_s.jpg",
+      "datePublished": "2026-09-29T13:27:00+09:00"
+    },
+    {
+      "name": "台風27号 4日に小笠原近海へ進む見込み 今後の情報に注意",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261002de53779",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53779/20261002de53779_E0000040643_1_s.jpg",
+      "datePublished": "2026-10-02T19:19:21+09:00"
+    },
+    {
+      "name": "台風25号 千葉 盛り土崩落 少なくとも5件 過去に危険性指摘も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261002de53849",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53849/20261002de53849_E0000040645_1_s.jpg",
+      "datePublished": "2026-10-02T19:36:00+09:00"
+    },
+    {
+      "name": "ロシアへの追加制裁を発表 「影の船団」も制裁対象に 日本政府",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261002de53966",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53966/20261002de53966_E0000040711_1_s.jpg",
+      "datePublished": "2026-10-02T20:53:56+09:00"
+    },
+    {
+      "name": "東ティモールで“特殊詐欺拠点”を摘発 日本人7人を拘束",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261002de53950",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53950/20261002de53950_E0000040650_1_s.jpg",
+      "datePublished": "2026-10-02T19:58:16+09:00"
+    },
+    {
+      "name": "生成AI開発　安全対策は進むか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261001de53655",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261001de53655/20261001de53655_E0000039571_1_s.jpg",
+      "datePublished": "2026-10-01T19:46:16+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

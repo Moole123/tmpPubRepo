@@ -13,8 +13,8 @@
     "genreIdSlug": "international"
   },
   "description": "ロシアは飛び地のカリーニングラード州をめぐりNATO＝北大西洋条約機構に対して核兵器の使用も辞さないと警告する文書が、ロシアからNATOに送られていたことが明らかになりました。\nNATO側はロシアに核",
-  "dateModified": "2026-10-02T05:30:30+09:00",
-  "datePublished": "2026-10-02T05:30:30+09:00",
+  "dateModified": "2026-10-02T05:30:00+09:00",
+  "datePublished": "2026-10-02T05:30:00+09:00",
   "author": {
     "image": {
       "url": "https://news.web.nhk/nhk-logo.png",
@@ -76,7 +76,30 @@
   },
   "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261002de53773.json",
   "canonical": "https://news.web.nhk/newsweb/na/nd-20261002de53773",
-  "video": [],
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "ロシア 飛び地めぐりNATOに警告文書「核兵器使用も辞さない」",
+      "description": "ロシアは飛び地のカリーニングラード州をめぐりNATO＝北大西洋条約機構に対して核兵器の使用も辞さないと警告する文書が、ロシアからNATOに送られていたことが明らかになりました。\nNATO側はロシアに核",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261002de53773_E0000040033_2_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261002de53773/20261002de53773_E0000039954_1_l.jpg",
+      "duration": "PT1M20S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261002de53773_E0000040033_2_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53773/20261002de53773_E0000039954_1_l.jpg"
+    }
+  ],
   "citation": [
     {
       "name": "ドイツ・ウクライナの合弁会社が無人機生産 NHKに初公開",
@@ -94,7 +117,7 @@
       "name": "イスラエル首相「副操縦士はイスラム過激思想に洗脳」主張",
       "url": "https://news.web.nhk/newsweb/na/nd-20261002de53772",
       "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53772/20261002de53772_E0000039949_1_s.jpg",
-      "datePublished": "2026-10-02T05:04:20+09:00"
+      "datePublished": "2026-10-02T06:42:44+09:00"
     },
     {
       "name": "中国 改正「国防動員法」施行 先端技術活用など新たに盛り込む",

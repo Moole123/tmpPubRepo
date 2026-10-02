@@ -1,0 +1,167 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261002de53839",
+  "dataSourceId": "nd",
+  "name": "大阪公立大学で大規模システム障害 復旧めど立たず8日まで休講",
+  "headline": "大阪公立大学で大規模システム障害 復旧めど立たず8日まで休講",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261002de53839",
+    "playlistId": "news-nwa-society-nationwide-20261002",
+    "newsarticleName": "大阪公立大学で大規模システム障害 復旧めど立たず8日まで休講",
+    "playlistName": "10月2日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "大阪市などにキャンパスのある大阪公立大学で、2日未明からシステムに大規模な障害が発生し、2日の授業はすべて取りやめとなりました。復旧のめどは立っていないということで、大学は当面、10月8日まで休講とす",
+  "dateModified": "2026-10-02T20:43:37+09:00",
+  "datePublished": "2026-10-02T12:50:46+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53839/20261002de53839_E0000040163_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53839/20261002de53839_E0000040163_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "E0000000355",
+      "name": "大阪府",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "大阪市などにキャンパスのある大阪公立大学で、2日未明からシステムに大規模な障害が発生し、2日の授業はすべて取りやめとなりました。復旧のめどは立っていないということで、大学は当面、10月8日まで休講とす",
+  "articleBody": "大阪市などにキャンパスのある大阪公立大学で、2日未明からシステムに大規模な障害が発生し、2日の授業はすべて取りやめとなりました。復旧のめどは立っていないということで、大学は当面、10月8日まで休講とすることを決めました。\n\n\n大阪市と堺市、泉佐野市にキャンパスのある大阪公立大学によりますと、2日未明から大学の基盤システムに大規模な障害が発生しました。\n\n大学のホームページや授業で使うシステムなどが利用できない状況だということで、この影響で、大学は2日の授業をすべて取りやめました。\n\nこれまでに原因は明らかになっておらず、復旧のめどは立っていないということで、大学は当面、10月8日まで休講とすることを決めました。\n\n一方、大学の医学部附属病院や獣医臨床センターでは、これまでのところシステム障害は確認されておらず、通常どおり診療などが行われているということです。\n\n大学はシステムの復旧作業を進めるとともに原因を調査していて、来週、会見を開いて詳しい状況を説明することにしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "大阪市などにキャンパスのある大阪公立大学で、2日未明からシステムに大規模な障害が発生し、2日の授業はすべて取りやめとなりました。復旧のめどは立っていないということで、大学は当面、10月8日まで休講とすることを決めました。\n",
+    "markedBody": "大阪市と堺市、泉佐野市にキャンパスのある大阪公立大学によりますと、2日未明から大学の基盤システムに大規模な障害が発生しました。\n\n大学のホームページや授業で使うシステムなどが利用できない状況だということで、この影響で、大学は2日の授業をすべて取りやめました。\n\nこれまでに原因は明らかになっておらず、復旧のめどは立っていないということで、大学は当面、10月8日まで休講とすることを決めました。\n\n一方、大学の医学部附属病院や獣医臨床センターでは、これまでのところシステム障害は確認されておらず、通常どおり診療などが行われているということです。\n\n大学はシステムの復旧作業を進めるとともに原因を調査していて、来週、会見を開いて詳しい状況を説明することにしています。\n",
+    "trimmedLead": "大阪市などにキャンパスのある大阪公立大学で、2日未明からシステムに大規模な障害が発生し、2日の授業はすべて取りやめとなりました。復旧のめどは立っていないということで、大学は当面、10月8日まで休講とすることを決めました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261002de53839.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261002de53839",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "大阪公立大学で大規模システム障害 復旧めど立たず8日まで休講",
+      "description": "大阪市などにキャンパスのある大阪公立大学で、2日未明からシステムに大規模な障害が発生し、2日の授業はすべて取りやめとなりました。復旧のめどは立っていないということで、大学は当面、10月8日まで休講とす",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261002de53839_E0000040374_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261002de53839/20261002de53839_E0000040163_1_l.jpg",
+      "duration": "PT1M3S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261002de53839_E0000040374_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53839/20261002de53839_E0000040163_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "飲酒乗務問題の東海汽船に20日間の船舶使用停止命令 国交省",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261002de53794",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53794/20261002de53794_E0000039986_1_s.jpg",
+      "datePublished": "2026-10-02T19:53:53+09:00"
+    },
+    {
+      "name": "台風27号 4日に小笠原近海へ進む見込み 今後の情報に注意",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261002de53779",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53779/20261002de53779_E0000040643_1_s.jpg",
+      "datePublished": "2026-10-02T19:19:21+09:00"
+    },
+    {
+      "name": "簗農相が会見「国交省に問い合わせ 党支部会合で報告」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261002de53817",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53817/20261002de53817_E0000040536_1_s.jpg",
+      "datePublished": "2026-10-02T19:10:00+09:00"
+    },
+    {
+      "name": "福岡県議会 自民県議が議長就任前のゴルフ会費用負担を証言",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261002de53802",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53802/20261002de53802_E0000040014_1_s.jpg",
+      "datePublished": "2026-10-02T19:15:04+09:00"
+    },
+    {
+      "name": "米長期金利 24年ぶりの高水準に 住宅ローンは7％台前半",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261002de53787",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53787/20261002de53787_E0000039975_1_s.jpg",
+      "datePublished": "2026-10-02T08:46:00+09:00"
+    },
+    {
+      "name": "プーチン大統領 日ロは困難を乗り越えたあと互恵的関係に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261002de53774",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53774/20261002de53774_E0000039956_1_s.jpg",
+      "datePublished": "2026-10-02T19:40:33+09:00"
+    },
+    {
+      "name": "アメリカ国防総省が中東地域に新たに空母派遣へ 米紙報道",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261002de53832",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53832/20261002de53832_E0000040111_1_s.jpg",
+      "datePublished": "2026-10-02T12:17:00+09:00"
+    },
+    {
+      "name": "五輪の未来像は IOCコベントリー会長 独占インタビュー",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261001de53709",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261001de53709/20261001de53709_E0000040030_1_s.jpg",
+      "datePublished": "2026-10-02T12:51:00+09:00"
+    },
+    {
+      "name": "北海道 大雪山系旭岳で初冠雪観測 全国で今シーズン最も早く",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261002de53783",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53783/20261002de53783_E0000040004_1_s.jpg",
+      "datePublished": "2026-10-02T11:56:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
