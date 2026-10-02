@@ -1,0 +1,132 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261003de54005",
+  "dataSourceId": "nd",
+  "name": "台風27号 あす以降 小笠原近海に 高波に警戒 今後の情報に注意",
+  "headline": "台風27号 あす以降 小笠原近海に 高波に警戒 今後の情報に注意",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261003de54005",
+    "playlistId": "news-nwa-disaster-nationwide-20261003",
+    "newsarticleName": "台風27号 あす以降 小笠原近海に 高波に警戒 今後の情報に注意",
+    "playlistName": "10月3日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "日本のはるか南の海上にある大型で強い台風27号は今後、発達しながら北上し、週明けに東京の小笠原諸島に最も近づく見込みで、4日以降、高波に警戒が必要です。\n\n\n気象庁によりますと、大型で強い台風27号は",
+  "dateModified": "2026-10-03T05:24:00+09:00",
+  "datePublished": "2026-10-03T05:24:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54005/20261003de54005_E0000040803_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54005/20261003de54005_E0000040803_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000202",
+      "name": "台風",
+      "display": true
+    },
+    {
+      "id": "E0000000114",
+      "name": "気象",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "日本のはるか南の海上にある大型で強い台風27号は今後、発達しながら北上し、週明けに東京の小笠原諸島に最も近づく見込みで、4日以降、高波に警戒が必要です。\n\n\n気象庁によりますと、大型で強い台風27号は",
+  "articleBody": "日本のはるか南の海上にある大型で強い台風27号は今後、発達しながら北上し、週明けに東京の小笠原諸島に最も近づく見込みで、4日以降、高波に警戒が必要です。\n\n\n気象庁によりますと、大型で強い台風27号は3日午前6時には、日本のはるか南のマリアナ諸島を1時間に15キロの速さで北北東へ進んでいます。\n\n中心の気圧は970ヘクトパスカル、中心付近の最大風速は35メートル、最大瞬間風速は50メートルで、中心から半径130キロ以内では風速25メートル以上の暴風となっています。\n\n台風は今後、発達しながら北寄りに進み、4日には非常に強い勢力となって小笠原近海へ進み、小笠原諸島には来週5日から6日ごろ最も近づく見込みです。\n\n小笠原諸島では4日にはうねりを伴って6メートルの大しけとなり6日ごろにかけて続く見込みで、気象庁は高波に警戒を呼びかけています。\n\nまた、風も強まり、5日以降は強風にも十分注意してください。\n\nその後の進路予報にはまだ幅がありますが、日本の東の海上を北上する見込みです。\n\n来週6日ごろからは北日本と東日本で波が高くなるおそれがあります。\n\n最新の情報を確認するようにしてください。\n\n一方、3日は高気圧が西から張り出して晴れるところ多いと予想され、雨が続いていた関東でも秋晴れとなる見込みです。\n",
+  "detailedArticleBody": {
+    "markedLead": "日本のはるか南の海上にある大型で強い台風27号は今後、発達しながら北上し、週明けに東京の小笠原諸島に最も近づく見込みで、4日以降、高波に警戒が必要です。\n",
+    "markedBody": "```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"001\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\n    <div class=\"fs-wrap\">\n      <h2 class=\"freespace-title\">台風マップ</h2>\n\n      <a href=\"https://news.web.nhk/bousai-map/typhoon/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"tenkiBousaiMap-fullscreenBtn\">全画面でマップを見る</a>\n\n      <div class=\"tenkiBousaiMap-wrap\">\n        <iframe src=\"https://news.web.nhk/bousai-map/typhoon/?mapMenu=off&amp;help=off&amp;halfModal=off&amp;typhoonSelection=off&amp;disableUserLocation=on\" allowfullscreen=\"allowfullscreen\" scrolling=\"no\" class=\"js-iframe-dataMap\"></iframe>\n      </div>\n    </div>\n</div>\n```\n\n気象庁によりますと、大型で強い台風27号は3日午前6時には、日本のはるか南のマリアナ諸島を1時間に15キロの速さで北北東へ進んでいます。\n\n中心の気圧は970ヘクトパスカル、中心付近の最大風速は35メートル、最大瞬間風速は50メートルで、中心から半径130キロ以内では風速25メートル以上の暴風となっています。\n\n台風は今後、発達しながら北寄りに進み、4日には非常に強い勢力となって小笠原近海へ進み、小笠原諸島には来週5日から6日ごろ最も近づく見込みです。\n\n小笠原諸島では4日にはうねりを伴って6メートルの大しけとなり6日ごろにかけて続く見込みで、気象庁は高波に警戒を呼びかけています。\n\nまた、風も強まり、5日以降は強風にも十分注意してください。\n\nその後の進路予報にはまだ幅がありますが、日本の東の海上を北上する見込みです。\n\n来週6日ごろからは北日本と東日本で波が高くなるおそれがあります。\n\n最新の情報を確認するようにしてください。\n\n一方、3日は高気圧が西から張り出して晴れるところ多いと予想され、雨が続いていた関東でも秋晴れとなる見込みです。\n",
+    "noHtmlMarkedLead": "日本のはるか南の海上にある大型で強い台風27号は今後、発達しながら北上し、週明けに東京の小笠原諸島に最も近づく見込みで、4日以降、高波に警戒が必要です。\n",
+    "noHtmlMarkedBody": "気象庁によりますと、大型で強い台風27号は3日午前6時には、日本のはるか南のマリアナ諸島を1時間に15キロの速さで北北東へ進んでいます。\n\n中心の気圧は970ヘクトパスカル、中心付近の最大風速は35メートル、最大瞬間風速は50メートルで、中心から半径130キロ以内では風速25メートル以上の暴風となっています。\n\n台風は今後、発達しながら北寄りに進み、4日には非常に強い勢力となって小笠原近海へ進み、小笠原諸島には来週5日から6日ごろ最も近づく見込みです。\n\n小笠原諸島では4日にはうねりを伴って6メートルの大しけとなり6日ごろにかけて続く見込みで、気象庁は高波に警戒を呼びかけています。\n\nまた、風も強まり、5日以降は強風にも十分注意してください。\n\nその後の進路予報にはまだ幅がありますが、日本の東の海上を北上する見込みです。\n\n来週6日ごろからは北日本と東日本で波が高くなるおそれがあります。\n\n最新の情報を確認するようにしてください。\n\n一方、3日は高気圧が西から張り出して晴れるところ多いと予想され、雨が続いていた関東でも秋晴れとなる見込みです。\n",
+    "trimmedLead": "日本のはるか南の海上にある大型で強い台風27号は今後、発達しながら北上し、週明けに東京の小笠原諸島に最も近づく見込みで、4日以降、高波に警戒が必要です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261003de54005.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261003de54005",
+  "video": [],
+  "citation": [
+    {
+      "name": "【最新の台風情報】予想進路や勢力などを詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/typhoon/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00002_E0000003277_1_s.jpg"
+    },
+    {
+      "name": "台風マップ 予想進路や勢力をリアルタイム表示",
+      "url": "https://news.web.nhk/bousai-map/typhoon/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00357_E0000003388_1_s.jpg"
+    },
+    {
+      "name": "新たな防災気象情報と避難 いつ避難する？",
+      "url": "https://news.web.nhk/newsweb/na/nc-73478668-2271-4d37-85e6-639be6f2927c",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00031_E0000003429_1_s.jpg"
+    },
+    {
+      "name": "台風接近前にやっておきたい備え「タイムライン」で",
+      "url": "https://news.web.nhk/newsweb/na/nc-cc4a20bc-9976-493f-a087-23512046b7d3",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00053_E0000002559_1_s.jpg"
+    },
+    {
+      "name": "台風や低気圧による「暴風」注意点と対策は",
+      "url": "https://news.web.nhk/newsweb/na/nc-ed932a80-8b04-49af-b4e8-2e364a35b909",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00040_E0000001749_1_s.jpg"
+    },
+    {
+      "name": "伊勢湾台風とは？犠牲者5000人超「暴走木材」が街を襲った",
+      "url": "https://news.web.nhk/newsweb/na/nc-eb22b635-e86a-4563-8a47-77db97cbcfe6",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00061_E0000002663_1_s.jpg"
+    },
+    {
+      "name": "天気防災サイト あなたの街の天気予報や災害情報を即時提供",
+      "url": "https://news.web.nhk/kishou-saigai/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00367_E0000003399_1_s.jpg"
+    },
+    {
+      "name": "大雨 最新情報 雨雲レーダーは「NHK ONE ニュース・防災アプリ」で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014929581000",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00233_E0000003287_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": true
+  }
+}

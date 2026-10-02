@@ -1,0 +1,161 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261003de54013",
+  "dataSourceId": "nd",
+  "name": "初入閣 井林国土交通相に聞く 記録的な大雨などへの対策は",
+  "headline": "初入閣 井林国土交通相に聞く 記録的な大雨などへの対策は",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261003de54013",
+    "playlistId": "news-nwa-politics-nationwide-20261003",
+    "newsarticleName": "初入閣 井林国土交通相に聞く 記録的な大雨などへの対策は",
+    "playlistName": "10月3日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "9月に発足した第2次高市改造内閣。\n\n各地で被害が相次ぐ記録的な大雨への対策などをどう進めるのか。\n\n新たに就任した井林辰憲国土交通大臣に問いました。\n\n\n",
+  "dateModified": "2026-10-03T07:46:00+09:00",
+  "datePublished": "2026-10-03T07:46:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54013/20261003de54013_E0000040808_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54013/20261003de54013_E0000040808_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000640",
+      "name": "高市内閣",
+      "display": true
+    },
+    {
+      "id": "E0000000465",
+      "name": "国土交通省",
+      "display": true
+    },
+    {
+      "id": "E0000010105",
+      "name": "内閣改造",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "9月に発足した第2次高市改造内閣。\n\n各地で被害が相次ぐ記録的な大雨への対策などをどう進めるのか。\n\n新たに就任した井林辰憲国土交通大臣に問いました。\n\n\n",
+  "articleBody": "9月に発足した第2次高市改造内閣。\n\n各地で被害が相次ぐ記録的な大雨への対策などをどう進めるのか。\n\n新たに就任した井林辰憲国土交通大臣に問いました。\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "9月に発足した第2次高市改造内閣。\n\n各地で被害が相次ぐ記録的な大雨への対策などをどう進めるのか。\n\n新たに就任した井林辰憲国土交通大臣に問いました。\n",
+    "markedBody": "",
+    "trimmedLead": "9月に発足した第2次高市改造内閣。\n\n各地で被害が相次ぐ記録的な大雨への対策などをどう進めるのか。\n\n新たに就任した井林辰憲国土交通大臣に問いました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261003de54013.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261003de54013",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "初入閣 井林国土交通相に聞く 記録的な大雨などへの対策は",
+      "description": "9月に発足した第2次高市改造内閣。\n\n各地で被害が相次ぐ記録的な大雨への対策などをどう進めるのか。\n\n新たに就任した井林辰憲国土交通大臣に問いました。\n\n\n",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261003de54013_E0000040806_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261003de54013/20261003de54013_E0000040808_1_l.jpg",
+      "duration": "PT3M13S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261003de54013_E0000040806_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54013/20261003de54013_E0000040808_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "臨時国会開会へ どうなる食料品の消費税減税",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260928de52802",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52802/20260928de52802_E0000038155_1_s.jpg",
+      "datePublished": "2026-09-30T11:52:09+09:00"
+    },
+    {
+      "name": "船舶使用停止命令の東海汽船 “慣習踏襲の社内風土に問題”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261003de54007",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54007/20261003de54007_E0000040795_1_s.jpg",
+      "datePublished": "2026-10-03T05:28:09+09:00"
+    },
+    {
+      "name": "井林国交相 アンダーパス対策で自治体向けマニュアル作成へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261003de54006",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54006/20261003de54006_E0000040791_1_s.jpg",
+      "datePublished": "2026-10-03T05:01:25+09:00"
+    },
+    {
+      "name": "政府・与党 消費税法案成立を 野党 充実審議 農相発言もただす",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261003de53997",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de53997/20261003de53997_E0000040778_1_s.jpg",
+      "datePublished": "2026-10-03T04:58:08+09:00"
+    },
+    {
+      "name": "「副首都」要件案を公表 4道府県に指定可能性",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261003de53995",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de53995/20261003de53995_E0000040776_1_s.jpg",
+      "datePublished": "2026-10-03T00:50:59+09:00"
+    },
+    {
+      "name": "関文部科学相に聞く “初入閣”どう臨むのか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261002de53968",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53968/20261002de53968_E0000040746_1_s.jpg",
+      "datePublished": "2026-10-02T22:14:00+09:00"
+    },
+    {
+      "name": "高市首相 自民党幹部と会談 臨時国会 政府・与党連携し運営を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261002de53971",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53971/20261002de53971_E0000040737_1_s.jpg",
+      "datePublished": "2026-10-02T21:31:58+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
