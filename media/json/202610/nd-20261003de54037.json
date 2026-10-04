@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261003de54037",
+  "dataSourceId": "nd",
+  "name": "第一ライフに不正アクセス 12万人分の従業員情報が流出か",
+  "headline": "第一ライフに不正アクセス 12万人分の従業員情報が流出か",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261003de54037",
+    "playlistId": "news-nwa-business-nationwide-20261003",
+    "newsarticleName": "第一ライフに不正アクセス 12万人分の従業員情報が流出か",
+    "playlistName": "10月3日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "生命保険大手の第一ライフグループは、社内の人事システムが不正アクセスを受け、退職者を含むおよそ12万人分の従業員情報が外部に流出した可能性があると発表しました。\n\n一方、現時点では顧客情報への不正アク",
+  "dateModified": "2026-10-03T11:58:35+09:00",
+  "datePublished": "2026-10-03T11:58:35+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54037/20261003de54037_E0000040873_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54037/20261003de54037_E0000040873_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "生命保険大手の第一ライフグループは、社内の人事システムが不正アクセスを受け、退職者を含むおよそ12万人分の従業員情報が外部に流出した可能性があると発表しました。\n\n一方、現時点では顧客情報への不正アク",
+  "articleBody": "生命保険大手の第一ライフグループは、社内の人事システムが不正アクセスを受け、退職者を含むおよそ12万人分の従業員情報が外部に流出した可能性があると発表しました。\n\n一方、現時点では顧客情報への不正アクセスは確認されていないとしています。\n\n\n第一ライフグループによりますと、先月24日に社内の人事システムで不正アクセスを検知したため、調査したところ、傘下の第一生命を含む従業員の個人情報が第三者に閲覧され、外部に流出した可能性があることを確認したということです。\n\n流出した可能性のある情報は従業員と退職者あわせておよそ12万人分で、名前や住所、電話番号、それに職位などが含まれているということです。\n\n一方、会社では現時点で顧客情報への不正アクセスは確認されていないとしています。\n\n第一ライフグループは「ご心配とご迷惑をおかけし、深くおわび申し上げます」とコメントしています。\n\n不正アクセスの被害はカーシェアリングサービス「タイムズカー」のシステムでおよそ660万件の会員の個人情報が漏えいしたほか、宅配大手の佐川急便で荷物の送り主と配達先の氏名などが外部に漏えいした可能性が明らかになるなど、相次いで確認されています。\n",
+  "detailedArticleBody": {
+    "markedLead": "生命保険大手の第一ライフグループは、社内の人事システムが不正アクセスを受け、退職者を含むおよそ12万人分の従業員情報が外部に流出した可能性があると発表しました。\n\n一方、現時点では顧客情報への不正アクセスは確認されていないとしています。\n",
+    "markedBody": "第一ライフグループによりますと、先月24日に社内の人事システムで不正アクセスを検知したため、調査したところ、傘下の第一生命を含む従業員の個人情報が第三者に閲覧され、外部に流出した可能性があることを確認したということです。\n\n流出した可能性のある情報は従業員と退職者あわせておよそ12万人分で、名前や住所、電話番号、それに職位などが含まれているということです。\n\n一方、会社では現時点で顧客情報への不正アクセスは確認されていないとしています。\n\n第一ライフグループは「ご心配とご迷惑をおかけし、深くおわび申し上げます」とコメントしています。\n\n不正アクセスの被害はカーシェアリングサービス「タイムズカー」のシステムでおよそ660万件の会員の個人情報が漏えいしたほか、宅配大手の佐川急便で荷物の送り主と配達先の氏名などが外部に漏えいした可能性が明らかになるなど、相次いで確認されています。\n",
+    "trimmedLead": "生命保険大手の第一ライフグループは、社内の人事システムが不正アクセスを受け、退職者を含むおよそ12万人分の従業員情報が外部に流出した可能性があると発表しました。\n\n一方、現時点では顧客情報への不正アクセスは確認されていないとしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261003de54037.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261003de54037",
+  "video": [],
+  "citation": [
+    {
+      "name": "「e-Tax」で不具合 贈与税申告内容が閲覧される状態に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261002de53960",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53960/20261002de53960_E0000040700_1_s.jpg",
+      "datePublished": "2026-10-02T20:51:00+09:00"
+    },
+    {
+      "name": "「タイムズカー」免許画像など漏えい 集団訴訟の登録者1万人超",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261002de53951",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53951/20261002de53951_E0000040646_1_s.jpg",
+      "datePublished": "2026-10-02T19:25:00+09:00"
+    },
+    {
+      "name": "佐川急便に不正アクセス 住所など個人情報が漏えいか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261002de53762",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53762/20261002de53762_E0000039926_1_s.jpg",
+      "datePublished": "2026-10-02T00:37:58+09:00"
+    },
+    {
+      "name": "富山市の国勢調査 人口水増し問題で市役所を捜索 富山県警",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261003de54022",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54022/20261003de54022_E0000040858_1_s.jpg",
+      "datePublished": "2026-10-03T15:59:00+09:00"
+    },
+    {
+      "name": "台風27号 4日以降 小笠原近海に 高波に警戒 今後の情報に注意",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261003de54005",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54005/20261003de54005_E0000041014_1_s.jpg",
+      "datePublished": "2026-10-03T18:52:00+09:00"
+    },
+    {
+      "name": "テスラ 世界の新車販売台数減少“去年の駆け込み需要の反動”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261003de54014",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54014/20261003de54014_E0000040809_1_s.jpg",
+      "datePublished": "2026-10-03T08:16:42+09:00"
+    },
+    {
+      "name": "アメリカ就業者数 市場予想大幅に下回る FRB利上げ観測が後退",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261003de53999",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de53999/20261003de53999_E0000040780_1_s.jpg",
+      "datePublished": "2026-10-03T01:19:01+09:00"
+    },
+    {
+      "name": "サッカー日本代表 久保建英選手と俳優 福原遥さんが結婚を発表",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261002de53982",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53982/20261002de53982_E0000040743_1_s.jpg",
+      "datePublished": "2026-10-02T23:28:41+09:00"
+    },
+    {
+      "name": "台風予測にAI革命 その実力を徹底分析",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260930de53252",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260930de53252/20260930de53252_E0000038295_1_s.jpg",
+      "datePublished": "2026-09-30T17:26:08+09:00"
+    },
+    {
+      "name": "アメリカ経済の光と影 ミリオネア急増の裏で",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260929de53025",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53025/20260929de53025_E0000040330_1_s.jpg",
+      "datePublished": "2026-10-02T17:16:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

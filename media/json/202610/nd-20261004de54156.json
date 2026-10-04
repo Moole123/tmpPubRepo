@@ -1,0 +1,140 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261004de54156",
+  "dataSourceId": "nd",
+  "name": "スペイン南東部の町で大雨による洪水 1人死亡",
+  "headline": "スペイン南東部の町で大雨による洪水 1人死亡",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261004de54156",
+    "playlistId": "news-nwa-international-nationwide-20261004",
+    "newsarticleName": "スペイン南東部の町で大雨による洪水 1人死亡",
+    "playlistName": "10月4日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "スペイン南東部の町で大雨による洪水が発生し、水につかった住宅から1人が遺体で見つかりました。\n\n\nスペイン南東部の町マドリゲラスで、2日、大規模な洪水が発生しました。\n\n現地を上空から撮影した映像から",
+  "dateModified": "2026-10-04T06:16:19+09:00",
+  "datePublished": "2026-10-04T06:16:19+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54156/20261004de54156_E0000041487_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54156/20261004de54156_E0000041487_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際",
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000519",
+      "name": "スペイン",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "スペイン南東部の町で大雨による洪水が発生し、水につかった住宅から1人が遺体で見つかりました。\n\n\nスペイン南東部の町マドリゲラスで、2日、大規模な洪水が発生しました。\n\n現地を上空から撮影した映像から",
+  "articleBody": "スペイン南東部の町で大雨による洪水が発生し、水につかった住宅から1人が遺体で見つかりました。\n\n\nスペイン南東部の町マドリゲラスで、2日、大規模な洪水が発生しました。\n\n現地を上空から撮影した映像からは、住宅街が広範囲で水につかり、道路が冠水していることが分かります。\n\nまた、洪水で流されたとみられる車が道路脇に積み重なっているほか、町の人たちが泥をかぶったいすなどの家具を屋外に運び出して後片づけをしていました。\n\n地元の州の関係者によりますと当時、現地ではおよそ2時間、雨が降り続き、マドリゲラスの町には近隣の地域に降った雨が集中して流れ込んで状況が悪化したとみられるということです。\n\nロイター通信によりますと、現地の消防が90人を救助しましたが、1メートルほどの高さまで水につかった住宅から女性1人が遺体で見つかったということです。\n\nスペインでは2024年10月、東部で大規模な洪水が発生し、バレンシア州などで230人以上が犠牲になっています。\n",
+  "detailedArticleBody": {
+    "markedLead": "スペイン南東部の町で大雨による洪水が発生し、水につかった住宅から1人が遺体で見つかりました。\n",
+    "markedBody": "スペイン南東部の町マドリゲラスで、2日、大規模な洪水が発生しました。\n\n現地を上空から撮影した映像からは、住宅街が広範囲で水につかり、道路が冠水していることが分かります。\n\nまた、洪水で流されたとみられる車が道路脇に積み重なっているほか、町の人たちが泥をかぶったいすなどの家具を屋外に運び出して後片づけをしていました。\n\n地元の州の関係者によりますと当時、現地ではおよそ2時間、雨が降り続き、マドリゲラスの町には近隣の地域に降った雨が集中して流れ込んで状況が悪化したとみられるということです。\n\nロイター通信によりますと、現地の消防が90人を救助しましたが、1メートルほどの高さまで水につかった住宅から女性1人が遺体で見つかったということです。\n\nスペインでは2024年10月、東部で大規模な洪水が発生し、バレンシア州などで230人以上が犠牲になっています。\n",
+    "trimmedLead": "スペイン南東部の町で大雨による洪水が発生し、水につかった住宅から1人が遺体で見つかりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261004de54156.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261004de54156",
+  "video": [],
+  "citation": [
+    {
+      "name": "北朝鮮キム・ヨジョン氏“中距離戦略ミサイルを発射”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261003de54093",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54093/20261003de54093_E0000041070_1_s.jpg",
+      "datePublished": "2026-10-03T21:26:14+09:00"
+    },
+    {
+      "name": "ウクライナ首都でロシアが橋を連日攻撃 生活への影響拡大懸念",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261003de54094",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54094/20261003de54094_E0000041067_1_s.jpg",
+      "datePublished": "2026-10-03T22:02:21+09:00"
+    },
+    {
+      "name": "フランスで高校生が教育環境の改善訴えデモ 約5000人拘束",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261003de54065",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54065/20261003de54065_E0000040987_1_s.jpg",
+      "datePublished": "2026-10-03T17:51:00+09:00"
+    },
+    {
+      "name": "副操縦士がテロ実行しようとしたか UAEの国営通信が報道",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261003de54041",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54041/20261003de54041_E0000040895_1_s.jpg",
+      "datePublished": "2026-10-03T19:07:00+09:00"
+    },
+    {
+      "name": "老舗の「パラマウント」と「ワーナー」の社名が買収で消失へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261003de54032",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54032/20261003de54032_E0000040866_1_s.jpg",
+      "datePublished": "2026-10-03T11:17:00+09:00"
+    },
+    {
+      "name": "アメリカ中間選挙まで1か月 共和党と民主党の選挙戦激化",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261003de54002",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54002/20261003de54002_E0000041044_1_s.jpg",
+      "datePublished": "2026-10-03T04:50:00+09:00"
+    },
+    {
+      "name": "G7首脳会議 軽油など石油備蓄1億バレル 4か月間で放出へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261003de54004",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54004/20261003de54004_E0000040851_1_s.jpg",
+      "datePublished": "2026-10-03T07:36:00+09:00"
+    },
+    {
+      "name": "トランプ大統領 アラスカLNGの事業めぐり韓国に受け入れ迫る",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261003de54030",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54030/20261003de54030_E0000040855_1_s.jpg",
+      "datePublished": "2026-10-03T11:07:00+09:00"
+    },
+    {
+      "name": "“米中接近”の裏側は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260929de53006",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53006/20260929de53006_E0000037467_1_s.jpg",
+      "datePublished": "2026-09-29T14:36:50+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

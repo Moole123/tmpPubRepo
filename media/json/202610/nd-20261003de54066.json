@@ -1,0 +1,156 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261003de54066",
+  "dataSourceId": "nd",
+  "name": "東京 八丈島 ダイビングで一時行方不明の8人救助 全員意識あり",
+  "headline": "東京 八丈島 ダイビングで一時行方不明の8人救助 全員意識あり",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261003de54066",
+    "playlistId": "news-nwa-society-nationwide-20261003",
+    "newsarticleName": "東京 八丈島 ダイビングで一時行方不明の8人救助 全員意識あり",
+    "playlistName": "10月3日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "3日午後、東京 八丈島近くの海で、ダイビングをしていたインストラクターと客あわせて8人の行方が一時分からなくなりましたが、海上保安部によりますと、午後5時半ごろまでに8人全員が救助され、いずれも意識は",
+  "dateModified": "2026-10-03T19:14:12+09:00",
+  "datePublished": "2026-10-03T17:29:37+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54066/20261003de54066_E0000041003_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54066/20261003de54066_E0000041003_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000341",
+      "name": "東京都",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "3日午後、東京 八丈島近くの海で、ダイビングをしていたインストラクターと客あわせて8人の行方が一時分からなくなりましたが、海上保安部によりますと、午後5時半ごろまでに8人全員が救助され、いずれも意識は",
+  "articleBody": "3日午後、東京 八丈島近くの海で、ダイビングをしていたインストラクターと客あわせて8人の行方が一時分からなくなりましたが、海上保安部によりますと、午後5時半ごろまでに8人全員が救助され、いずれも意識はあるということです。\n\n\n静岡県の下田海上保安部によりますと3日午後1時50分すぎ、八丈島で、ダイビングボートの船長から「午前11時30分ごろからインストラクターと客の8人がダイビングを開始し、午後0時半に浮上してくる予定だったが、全員浮上してこない」と下田海上保安部に通報がありました。\n\n通報を受けた海上保安部の巡視艇などが周辺海域の捜索を行ったところ、通報からおよそ2時間半後の午後4時半ごろ、八丈島から北におよそ10キロ離れた海上で8人を発見したということです。\n\n海上保安部が救助活動を行い、午後5時半ごろまでに8人全員が海上保安部の航空機で救助されました。\n\n海上保安部によりますと、いずれも意識はあるということです。\n\n当時、現場の海域では波の高さは3メートルだったということで、海上保安部などが当時の詳しい状況を調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "3日午後、東京 八丈島近くの海で、ダイビングをしていたインストラクターと客あわせて8人の行方が一時分からなくなりましたが、海上保安部によりますと、午後5時半ごろまでに8人全員が救助され、いずれも意識はあるということです。\n",
+    "markedBody": "静岡県の下田海上保安部によりますと3日午後1時50分すぎ、八丈島で、ダイビングボートの船長から「午前11時30分ごろからインストラクターと客の8人がダイビングを開始し、午後0時半に浮上してくる予定だったが、全員浮上してこない」と下田海上保安部に通報がありました。\n\n通報を受けた海上保安部の巡視艇などが周辺海域の捜索を行ったところ、通報からおよそ2時間半後の午後4時半ごろ、八丈島から北におよそ10キロ離れた海上で8人を発見したということです。\n\n海上保安部が救助活動を行い、午後5時半ごろまでに8人全員が海上保安部の航空機で救助されました。\n\n海上保安部によりますと、いずれも意識はあるということです。\n\n当時、現場の海域では波の高さは3メートルだったということで、海上保安部などが当時の詳しい状況を調べています。\n",
+    "trimmedLead": "3日午後、東京 八丈島近くの海で、ダイビングをしていたインストラクターと客あわせて8人の行方が一時分からなくなりましたが、海上保安部によりますと、午後5時半ごろまでに8人全員が救助され、いずれも意識はあるということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261003de54066.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261003de54066",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "東京 八丈島 ダイビングで一時行方不明の8人救助 全員意識あり",
+      "description": "3日午後、東京 八丈島近くの海で、ダイビングをしていたインストラクターと客あわせて8人の行方が一時分からなくなりましたが、海上保安部によりますと、午後5時半ごろまでに8人全員が救助され、いずれも意識は",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261003de54066_E0000041016_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261003de54066/20261003de54066_E0000041003_1_l.jpg",
+      "duration": "PT55S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261003de54066_E0000041016_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54066/20261003de54066_E0000041003_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "台風27号 4日以降 小笠原近海に 高波に警戒 今後の情報に注意",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261003de54005",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54005/20261003de54005_E0000041014_1_s.jpg",
+      "datePublished": "2026-10-03T18:52:00+09:00"
+    },
+    {
+      "name": "9歳男児がタワマン23階のベランダから転落し死亡 東京 中央区",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261003de54069",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54069/20261003de54069_E0000040994_1_s.jpg",
+      "datePublished": "2026-10-03T18:03:00+09:00"
+    },
+    {
+      "name": "レスリング女子 藤波朱理 公式戦の連勝が「155」で止まる",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261003de54049",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54049/20261003de54049_E0000040925_1_s.jpg",
+      "datePublished": "2026-10-03T23:33:20+09:00"
+    },
+    {
+      "name": "富山市の国勢調査 人口水増し問題で市役所を捜索 富山県警",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261003de54022",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54022/20261003de54022_E0000040858_1_s.jpg",
+      "datePublished": "2026-10-03T15:59:00+09:00"
+    },
+    {
+      "name": "フランスで高校生が教育環境の改善訴えデモ 約5000人拘束",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261003de54065",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54065/20261003de54065_E0000040987_1_s.jpg",
+      "datePublished": "2026-10-03T17:51:00+09:00"
+    },
+    {
+      "name": "老舗の「パラマウント」と「ワーナー」の社名が買収で消失へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261003de54032",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54032/20261003de54032_E0000040866_1_s.jpg",
+      "datePublished": "2026-10-03T11:17:00+09:00"
+    },
+    {
+      "name": "ドジャース 大谷翔平 地区シリーズへ「期待とわくわく感」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261003de54033",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54033/20261003de54033_E0000040874_1_s.jpg",
+      "datePublished": "2026-10-03T13:49:00+09:00"
+    },
+    {
+      "name": "ネクタイの締め方がわからない",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260928de52861",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52861/20260928de52861_E0000039527_1_s.jpg",
+      "datePublished": "2026-10-03T11:34:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
