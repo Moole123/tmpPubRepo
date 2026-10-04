@@ -1,0 +1,156 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261004de54358",
+  "dataSourceId": "nd",
+  "name": "日経新聞サイバー攻撃で情報漏えいか なりすましメールが送信",
+  "headline": "日経新聞サイバー攻撃で情報漏えいか なりすましメールが送信",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261004de54358",
+    "playlistId": "news-nwa-society-nationwide-20261004",
+    "newsarticleName": "日経新聞サイバー攻撃で情報漏えいか なりすましメールが送信",
+    "playlistName": "10月4日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "日本経済新聞社は社員が使っていた業務用ソフトのアカウントがサイバー攻撃を受け、社員になりすましたメールおよそ9000件が送信されたと発表しました。\n\nメールアドレスなどの情報が漏えいしたとみられるとい",
+  "dateModified": "2026-10-04T21:30:36+09:00",
+  "datePublished": "2026-10-04T21:30:36+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54358/20261004de54358_E0000042678_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54358/20261004de54358_E0000042678_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会",
+    "暮らし"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "日本経済新聞社は社員が使っていた業務用ソフトのアカウントがサイバー攻撃を受け、社員になりすましたメールおよそ9000件が送信されたと発表しました。\n\nメールアドレスなどの情報が漏えいしたとみられるとい",
+  "articleBody": "日本経済新聞社は社員が使っていた業務用ソフトのアカウントがサイバー攻撃を受け、社員になりすましたメールおよそ9000件が送信されたと発表しました。\n\nメールアドレスなどの情報が漏えいしたとみられるということです。\n\n\n日本経済新聞社によりますと、先月30日、社員とやりとりがあった取材先などに、悪意のあるサイトに誘導するなりすましメールが送信されたということです。\n\n社員が使っていた業務用ソフト「マイクロソフト365」のアカウントがサイバー攻撃を受け、第三者が不正にログインしたとみられるということです。\n\nメールアドレスや氏名のほか、一部のメールの内容の情報が漏えいした可能性があり、送信されたなりすましメールはおよそ9000件にのぼるということです。\n\n会社はアカウントのパスワードを変更するとともに、漏えいした個人情報の件数などを調べています。\n\nまたこのほかにも社員1人が業務で使っていた別のクラウドサービス「グーグルワークスペース」のアカウントがことし7月下旬以降に、外部から不正ログインされ、取引先など1600人余りのメールアドレスなどの個人情報が漏えいした可能性があるということです。\n\n日本経済新聞社は、「ご迷惑とご心配をおかけしておりますことを深くおわび申し上げます。不審なメールへの注意をお願いするとともに調査を進めてまいります。今回の事態を深刻に受け止め、セキュリティー対策をさらに強化して情報管理を徹底します」とコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "日本経済新聞社は社員が使っていた業務用ソフトのアカウントがサイバー攻撃を受け、社員になりすましたメールおよそ9000件が送信されたと発表しました。\n\nメールアドレスなどの情報が漏えいしたとみられるということです。\n",
+    "markedBody": "![](https://img.web.nhk/news/nd/kiji/20261004de54358/20261004de54358_E0000042676_1_l.jpg)\n\n日本経済新聞社によりますと、先月30日、社員とやりとりがあった取材先などに、悪意のあるサイトに誘導するなりすましメールが送信されたということです。\n\n社員が使っていた業務用ソフト「マイクロソフト365」のアカウントがサイバー攻撃を受け、第三者が不正にログインしたとみられるということです。\n\nメールアドレスや氏名のほか、一部のメールの内容の情報が漏えいした可能性があり、送信されたなりすましメールはおよそ9000件にのぼるということです。\n\n会社はアカウントのパスワードを変更するとともに、漏えいした個人情報の件数などを調べています。\n\nまたこのほかにも社員1人が業務で使っていた別のクラウドサービス「グーグルワークスペース」のアカウントがことし7月下旬以降に、外部から不正ログインされ、取引先など1600人余りのメールアドレスなどの個人情報が漏えいした可能性があるということです。\n\n日本経済新聞社は、「ご迷惑とご心配をおかけしておりますことを深くおわび申し上げます。不審なメールへの注意をお願いするとともに調査を進めてまいります。今回の事態を深刻に受け止め、セキュリティー対策をさらに強化して情報管理を徹底します」とコメントしています。\n",
+    "trimmedLead": "日本経済新聞社は社員が使っていた業務用ソフトのアカウントがサイバー攻撃を受け、社員になりすましたメールおよそ9000件が送信されたと発表しました。\n\nメールアドレスなどの情報が漏えいしたとみられるということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261004de54358.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261004de54358",
+  "video": [],
+  "citation": [
+    {
+      "name": "那覇市ホテル強盗殺人事件 死因は窒息 逮捕の米海兵隊員は否認",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261004de54164",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54164/20261004de54164_E0000041568_1_s.jpg",
+      "datePublished": "2026-10-04T23:13:24+09:00"
+    },
+    {
+      "name": "淡路島 釣りの男児が海に転落し重体 助けに入った知人男性死亡",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261004de54174",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54174/20261004de54174_E0000041651_1_s.jpg",
+      "datePublished": "2026-10-04T16:37:00+09:00"
+    },
+    {
+      "name": "横浜市長選挙 パワハラ問題で辞職の前市長と新人 7人が立候補",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261004de54266",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54266/20261004de54266_E0000041913_1_s.jpg",
+      "datePublished": "2026-10-04T19:39:09+09:00"
+    },
+    {
+      "name": "名古屋アジア大会閉会式 16日間の熱戦に幕",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261004de54249",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54249/20261004de54249_E0000041908_1_s.jpg",
+      "datePublished": "2026-10-04T22:10:09+09:00"
+    },
+    {
+      "name": "ドジャースが地区シリーズ先勝 大谷翔平は1安打",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261004de54157",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54157/20261004de54157_E0000041664_1_s.jpg",
+      "datePublished": "2026-10-04T18:48:19+09:00"
+    },
+    {
+      "name": "ホワイトソックス 地区シリーズで先勝 村上が先制ホームラン",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261004de54148",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54148/20261004de54148_E0000041480_1_s.jpg",
+      "datePublished": "2026-10-04T14:12:20+09:00"
+    },
+    {
+      "name": "台風27号 あさってにかけ小笠原近海を北上の見込み 高波に警戒",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261004de54159",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54159/20261004de54159_E0000042205_1_s.jpg",
+      "datePublished": "2026-10-04T19:42:08+09:00"
+    },
+    {
+      "name": "サザン関口和之氏の著作権管理会社 5億8000万円余の申告漏れ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261003de54104",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54104/20261003de54104_E0000041418_1_s.jpg",
+      "datePublished": "2026-10-04T05:11:00+09:00"
+    },
+    {
+      "name": "「人工的に豪雨が…」 大雨フェイクを検証 AIで偽の予測画像も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260930de53427",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260930de53427/20260930de53427_E0000040565_1_s.jpg",
+      "datePublished": "2026-10-03T16:01:00+09:00"
+    },
+    {
+      "name": "ネクタイの締め方がわからない",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260928de52861",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52861/20260928de52861_E0000039527_1_s.jpg",
+      "datePublished": "2026-10-03T11:34:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
