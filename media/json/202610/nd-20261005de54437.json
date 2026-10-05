@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261005de54437",
+  "dataSourceId": "nd",
+  "name": "株価 3か月ぶりに7万円台回復 取引開始直後から買い注文広がる",
+  "headline": "株価 3か月ぶりに7万円台回復 取引開始直後から買い注文広がる",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261005de54437",
+    "playlistId": "news-nwa-business-nationwide-20261005",
+    "newsarticleName": "株価 3か月ぶりに7万円台回復 取引開始直後から買い注文広がる",
+    "playlistName": "10月5日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "週明けの5日の東京株式市場、取引開始直後から買い注文が広がり、日経平均株価は一時、7万円台を回復しました。日経平均株価が取引時間中に7万円台となるのは、ことし7月6日以来、およそ3か月ぶりです。\n\n\n",
+  "dateModified": "2026-10-05T10:41:02+09:00",
+  "datePublished": "2026-10-05T10:41:02+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54437/20261005de54437_E0000043111_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54437/20261005de54437_E0000043111_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000157",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "E0000000419",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "E0000000725",
+      "name": "金利",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "週明けの5日の東京株式市場、取引開始直後から買い注文が広がり、日経平均株価は一時、7万円台を回復しました。日経平均株価が取引時間中に7万円台となるのは、ことし7月6日以来、およそ3か月ぶりです。\n\n\n",
+  "articleBody": "週明けの5日の東京株式市場、取引開始直後から買い注文が広がり、日経平均株価は一時、7万円台を回復しました。日経平均株価が取引時間中に7万円台となるのは、ことし7月6日以来、およそ3か月ぶりです。\n\n\nアメリカの早期の利上げ観測が後退したことで2日にニューヨーク株式市場で主要な株価指数がそろって値上がりした流れを受けて、東京市場でも半導体関連の銘柄を中心に買い注文が広がっています。\n",
+  "detailedArticleBody": {
+    "markedLead": "週明けの5日の東京株式市場、取引開始直後から買い注文が広がり、日経平均株価は一時、7万円台を回復しました。日経平均株価が取引時間中に7万円台となるのは、ことし7月6日以来、およそ3か月ぶりです。\n",
+    "markedBody": "アメリカの早期の利上げ観測が後退したことで2日にニューヨーク株式市場で主要な株価指数がそろって値上がりした流れを受けて、東京市場でも半導体関連の銘柄を中心に買い注文が広がっています。\n",
+    "trimmedLead": "週明けの5日の東京株式市場、取引開始直後から買い注文が広がり、日経平均株価は一時、7万円台を回復しました。日経平均株価が取引時間中に7万円台となるのは、ことし7月6日以来、およそ3か月ぶりです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261005de54437.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261005de54437",
+  "video": [],
+  "citation": [
+    {
+      "name": "米兵逮捕の強盗殺人事件 被害女性の首にコードのようなものか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261005de54384",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54384/20261005de54384_E0000042750_1_s.jpg",
+      "datePublished": "2026-10-05T06:02:00+09:00"
+    },
+    {
+      "name": "ブラジル大統領選挙 10月25日に決選投票へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261005de54416",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54416/20261005de54416_E0000043033_1_s.jpg",
+      "datePublished": "2026-10-05T09:49:00+09:00"
+    },
+    {
+      "name": "台風27号 あすにかけて小笠原近海を北上 高波に警戒を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261005de54402",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54402/20261005de54402_E0000042795_1_s.jpg",
+      "datePublished": "2026-10-05T06:48:00+09:00"
+    },
+    {
+      "name": "ノーベル賞 5日は生理学・医学賞の発表日",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261004de54368",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54368/20261004de54368_E0000042721_1_s.jpg",
+      "datePublished": "2026-10-05T04:49:04+09:00"
+    },
+    {
+      "name": "柔道世界選手権 女子48キロ 古賀若菜が初の金メダル",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261005de54396",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54396/20261005de54396_E0000042760_1_s.jpg",
+      "datePublished": "2026-10-05T05:17:37+09:00"
+    },
+    {
+      "name": "臨時国会きょう召集 消費税減税法案などで論戦へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261005de54388",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54388/20261005de54388_E0000042752_1_s.jpg",
+      "datePublished": "2026-10-05T08:27:59+09:00"
+    },
+    {
+      "name": "18歳未満の選挙運動禁止めぐる裁判 原告側控訴の方針",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261004de54360",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54360/20261004de54360_E0000042700_1_s.jpg",
+      "datePublished": "2026-10-05T05:14:00+09:00"
+    },
+    {
+      "name": "日経新聞サイバー攻撃で情報漏えいか なりすましメールが送信",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261004de54358",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54358/20261004de54358_E0000042678_1_s.jpg",
+      "datePublished": "2026-10-04T21:30:36+09:00"
+    },
+    {
+      "name": "アルツハイマー病だった父 私は・・・",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260930de53350",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260930de53350/20260930de53350_E0000039486_1_s.jpg",
+      "datePublished": "2026-10-04T20:20:45+09:00"
+    },
+    {
+      "name": "「人工的に豪雨が…」 大雨フェイクを検証 AIで偽の予測画像も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260930de53427",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260930de53427/20260930de53427_E0000040565_1_s.jpg",
+      "datePublished": "2026-10-03T16:01:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
