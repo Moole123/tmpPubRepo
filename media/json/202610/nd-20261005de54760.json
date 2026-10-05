@@ -1,0 +1,190 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261005de54760",
+  "dataSourceId": "nd",
+  "name": "「焼肉きんぐ」運営会社 1000万件余のユーザー情報が漏えい",
+  "headline": "「焼肉きんぐ」運営会社 1000万件余のユーザー情報が漏えい",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261005de54760",
+    "playlistId": "news-nwa-business-nationwide-20261005",
+    "newsarticleName": "「焼肉きんぐ」運営会社 1000万件余のユーザー情報が漏えい",
+    "playlistName": "10月5日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "全国で370店舗以上を展開する「焼肉きんぐ」を運営する「物語コーポレーション」は、会員を管理するシステムに不正アクセスがあり、アプリに登録した1000万余りのユーザーに関する情報が漏えいしたと発表しま",
+  "dateModified": "2026-10-05T19:13:08+09:00",
+  "datePublished": "2026-10-05T18:01:36+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54760/20261005de54760_E0000044013_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54760/20261005de54760_E0000044013_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "全国で370店舗以上を展開する「焼肉きんぐ」を運営する「物語コーポレーション」は、会員を管理するシステムに不正アクセスがあり、アプリに登録した1000万余りのユーザーに関する情報が漏えいしたと発表しま",
+  "articleBody": "全国で370店舗以上を展開する「焼肉きんぐ」を運営する「物語コーポレーション」は、会員を管理するシステムに不正アクセスがあり、アプリに登録した1000万余りのユーザーに関する情報が漏えいしたと発表しました。今のところ漏えいした情報の不正利用は確認されていないとしています。\n\n\n会社によりますと、不正アクセスがあったのは「焼肉きんぐ」の公式アプリの会員を管理するシステムで、今月2日の午前6時半すぎに不正なアクセスを受けたということです。\n\nこれによって、アプリに登録した1078万件のユーザーの情報が漏えいし、会員登録した際の名前やメールアドレス、電話番号などの個人情報が含まれているということです。\n\n会社は、アプリにログインする際のパスワードや生年月日や性別、郵便番号の漏えいはなく、クレジットカードなどの決済情報は保持していないとしています。\n\nまた、今のところ漏えいした情報が不正に利用された事実は確認されていないということです。\n\n会社は「多大なるご迷惑とご心配をおかけする事態になり心よりおわび申し上げます」とコメントしています。\n\n最近は、\n▽カーシェアリングサービス「タイムズカー」のシステムに不正アクセスがあり、運転免許証の画像を含むおよそ660万件の会員の個人情報が漏えいしたほか、\n▽第一ライフグループや大和証券でも不正アクセスで顧客や従業員の個人情報が漏えいした可能性が明らかになるなど、\n大手企業で被害が相次いでいます。\n",
+  "detailedArticleBody": {
+    "markedLead": "全国で370店舗以上を展開する「焼肉きんぐ」を運営する「物語コーポレーション」は、会員を管理するシステムに不正アクセスがあり、アプリに登録した1000万余りのユーザーに関する情報が漏えいしたと発表しました。今のところ漏えいした情報の不正利用は確認されていないとしています。\n",
+    "markedBody": "会社によりますと、不正アクセスがあったのは「焼肉きんぐ」の公式アプリの会員を管理するシステムで、今月2日の午前6時半すぎに不正なアクセスを受けたということです。\n\nこれによって、アプリに登録した1078万件のユーザーの情報が漏えいし、会員登録した際の名前やメールアドレス、電話番号などの個人情報が含まれているということです。\n\n会社は、アプリにログインする際のパスワードや生年月日や性別、郵便番号の漏えいはなく、クレジットカードなどの決済情報は保持していないとしています。\n\nまた、今のところ漏えいした情報が不正に利用された事実は確認されていないということです。\n\n会社は「多大なるご迷惑とご心配をおかけする事態になり心よりおわび申し上げます」とコメントしています。\n\n最近は、\\\n▽カーシェアリングサービス「タイムズカー」のシステムに不正アクセスがあり、運転免許証の画像を含むおよそ660万件の会員の個人情報が漏えいしたほか、\\\n▽第一ライフグループや大和証券でも不正アクセスで顧客や従業員の個人情報が漏えいした可能性が明らかになるなど、\\\n大手企業で被害が相次いでいます。\n",
+    "trimmedLead": "全国で370店舗以上を展開する「焼肉きんぐ」を運営する「物語コーポレーション」は、会員を管理するシステムに不正アクセスがあり、アプリに登録した1000万余りのユーザーに関する情報が漏えいしたと発表しました。今のところ漏えいした情報の不正利用は確認されていないとしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261005de54760.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261005de54760",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "「焼肉きんぐ」運営会社 1000万件余のユーザー情報が漏えい",
+      "description": "全国で370店舗以上を展開する「焼肉きんぐ」を運営する「物語コーポレーション」は、会員を管理するシステムに不正アクセスがあり、アプリに登録した1000万余りのユーザーに関する情報が漏えいしたと発表しま",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261005de54760_E0000044034_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261005de54760/20261005de54760_E0000044013_1_l.jpg",
+      "duration": "PT46S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261005de54760_E0000044034_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54760/20261005de54760_E0000044013_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "大和証券 委託先サーバー不正アクセス 個人情報11万人分流出か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261005de54568",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54568/20261005de54568_E0000043968_1_s.jpg",
+      "datePublished": "2026-10-05T15:24:00+09:00"
+    },
+    {
+      "name": "プルデンシャル生命 第三者委の報告書を受領 8日に会見へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261005de54553",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54553/20261005de54553_E0000043643_1_s.jpg",
+      "datePublished": "2026-10-05T13:02:00+09:00"
+    },
+    {
+      "name": "簗農相 地元の道路“予算カット”発言撤回 「深く反省」陳謝",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261005de54586",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54586/20261005de54586_E0000043963_1_s.jpg",
+      "datePublished": "2026-10-05T21:56:18+09:00"
+    },
+    {
+      "name": "台風27号 小笠原近海を北上 28号29号発生で“トリプル台風”に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261005de54402",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54402/20261005de54402_E0000043946_1_s.jpg",
+      "datePublished": "2026-10-05T19:59:09+09:00"
+    },
+    {
+      "name": "台風28号が発生 ハリケーンから台風に 非常に強い勢力で西へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261005de54429",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54429/20261005de54429_E0000043948_1_s.jpg",
+      "datePublished": "2026-10-05T16:29:03+09:00"
+    },
+    {
+      "name": "台風29号が発生 今後の情報に注意を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261005de54440",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54440/20261005de54440_E0000043947_1_s.jpg",
+      "datePublished": "2026-10-05T16:30:20+09:00"
+    },
+    {
+      "name": "首相 所信表明演説 “経済の力で国民の暮らしを守る”【全文】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261005de54430",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54430/20261005de54430_E0000043799_1_s.jpg",
+      "datePublished": "2026-10-05T16:05:00+09:00"
+    },
+    {
+      "name": "交際相手25歳女性の遺体を宮城の山中に遺棄か 36歳容疑者逮捕",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261005de54622",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54622/20261005de54622_E0000043825_1_s.jpg",
+      "datePublished": "2026-10-05T18:13:02+09:00"
+    },
+    {
+      "name": "米兵逮捕の強盗殺人事件 現場周辺で発見 被害者リュックに財布",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261005de54503",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54503/20261005de54503_E0000043203_1_s.jpg",
+      "datePublished": "2026-10-05T12:03:00+09:00"
+    },
+    {
+      "name": "ノーベル生理学・医学賞に「光遺伝学」の基礎築いた米独研究者",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261004de54368",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54368/20261004de54368_E0000044708_1_s.jpg",
+      "datePublished": "2026-10-05T21:29:37+09:00"
+    },
+    {
+      "name": "サバも手が届かない！？庶民の魚サバ高騰　背景には何が",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260925de52383",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52383/20260925de52383_E0000040257_1_s.jpg",
+      "datePublished": "2026-10-05T11:08:27+09:00"
+    },
+    {
+      "name": "地方都市活性化へ　路面電車“進化論”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261001de53644",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261001de53644/20261001de53644_E0000039544_1_s.jpg",
+      "datePublished": "2026-10-05T15:01:10+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
