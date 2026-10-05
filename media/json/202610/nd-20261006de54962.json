@@ -1,0 +1,115 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261006de54962",
+  "dataSourceId": "nd",
+  "name": "ロシア外務省 日本の追加制裁を批判し対抗措置の構え",
+  "headline": "ロシア外務省 日本の追加制裁を批判し対抗措置の構え",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261006de54962",
+    "playlistId": "news-nwa-international-nationwide-20261006",
+    "newsarticleName": "ロシア外務省 日本の追加制裁を批判し対抗措置の構え",
+    "playlistName": "10月6日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "ロシア外務省は、日本政府がロシアに対する追加制裁を決定したことについて「非友好的だ」と強く批判したうえで、何らかの対抗措置をとる構えを示しました。\n\n\n日本政府は10月2日、ウクライナへの軍事侵攻を続",
+  "dateModified": "2026-10-06T06:30:12+09:00",
+  "datePublished": "2026-10-06T06:30:12+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de54962/20261006de54962_E0000046549_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de54962/20261006de54962_E0000046549_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000220",
+      "name": "ロシア",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ロシア外務省は、日本政府がロシアに対する追加制裁を決定したことについて「非友好的だ」と強く批判したうえで、何らかの対抗措置をとる構えを示しました。\n\n\n日本政府は10月2日、ウクライナへの軍事侵攻を続",
+  "articleBody": "ロシア外務省は、日本政府がロシアに対する追加制裁を決定したことについて「非友好的だ」と強く批判したうえで、何らかの対抗措置をとる構えを示しました。\n\n\n日本政府は10月2日、ウクライナへの軍事侵攻を続けるロシアに追加の制裁措置を講じることを発表し、ロシア産の原油などを運ぶ「影の船団」と呼ばれる船舶35隻などを新たに制裁対象に加えました。\n\nこれについて、ロシア外務省のザハロワ報道官は5日、声明で、「非友好的な決定だ」と強く批判しました。\n\nそのうえで「われわれは相応の対抗措置をとる。日本にとって重要な分野が対象となるだろう」として、何らかの対抗措置をとる構えを示しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "ロシア外務省は、日本政府がロシアに対する追加制裁を決定したことについて「非友好的だ」と強く批判したうえで、何らかの対抗措置をとる構えを示しました。\n",
+    "markedBody": "日本政府は10月2日、ウクライナへの軍事侵攻を続けるロシアに追加の制裁措置を講じることを発表し、ロシア産の原油などを運ぶ「影の船団」と呼ばれる船舶35隻などを新たに制裁対象に加えました。\n\nこれについて、ロシア外務省のザハロワ報道官は5日、声明で、「非友好的な決定だ」と強く批判しました。\n\nそのうえで「われわれは相応の対抗措置をとる。日本にとって重要な分野が対象となるだろう」として、何らかの対抗措置をとる構えを示しました。\n",
+    "trimmedLead": "ロシア外務省は、日本政府がロシアに対する追加制裁を決定したことについて「非友好的だ」と強く批判したうえで、何らかの対抗措置をとる構えを示しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261006de54962.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261006de54962",
+  "video": [],
+  "citation": [
+    {
+      "name": "“ロシアが北朝鮮に無人機製造技術を提供”ゼレンスキー大統領",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261005de54889",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54889/20261005de54889_E0000046402_1_s.jpg",
+      "datePublished": "2026-10-05T21:05:16+09:00"
+    },
+    {
+      "name": "ドイツ ウクライナにロシア軍の無人機攻撃対策など支援",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261005de54400",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54400/20261005de54400_E0000042758_1_s.jpg",
+      "datePublished": "2026-10-05T06:50:57+09:00"
+    },
+    {
+      "name": "ウクライナ キーウの橋にまた無人機攻撃 市民に心理的圧力か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261004de54373",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54373/20261004de54373_E0000042745_1_s.jpg",
+      "datePublished": "2026-10-04T23:45:31+09:00"
+    },
+    {
+      "name": "ロシア ウクライナ駐在外交官らに報復攻撃巻き添えを警告",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261004de54144",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54144/20261004de54144_E0000041464_1_s.jpg",
+      "datePublished": "2026-10-04T05:06:00+09:00"
+    },
+    {
+      "name": "英の空軍基地から米軍爆撃機が撤収 “新たな脅威のため”米紙",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261005de54633",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54633/20261005de54633_E0000043886_1_s.jpg",
+      "datePublished": "2026-10-05T15:51:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
