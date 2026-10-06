@@ -1,0 +1,139 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261006de55001",
+  "dataSourceId": "nd",
+  "name": "ハッカー集団中心人物か 国内で拘束 アサヒGHD攻撃にも関与か",
+  "headline": "ハッカー集団中心人物か 国内で拘束 アサヒGHD攻撃にも関与か",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261006de55001",
+    "playlistId": "news-nwa-society-nationwide-20261006",
+    "newsarticleName": "ハッカー集団中心人物か 国内で拘束 アサヒGHD攻撃にも関与か",
+    "playlistName": "10月6日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "世界各国の企業を標的にサイバー攻撃を仕掛けている国際ハッカー集団の中心メンバーとみられる容疑者を日本の捜査当局が国内で拘束し、今月ドイツの当局に引き渡していたことが捜査関係者への取材でわかりました。こ",
+  "dateModified": "2026-10-06T11:58:23+09:00",
+  "datePublished": "2026-10-06T11:58:23+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55001/20261006de55001_E0000046914_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55001/20261006de55001_E0000046914_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "世界各国の企業を標的にサイバー攻撃を仕掛けている国際ハッカー集団の中心メンバーとみられる容疑者を日本の捜査当局が国内で拘束し、今月ドイツの当局に引き渡していたことが捜査関係者への取材でわかりました。こ",
+  "articleBody": "世界各国の企業を標的にサイバー攻撃を仕掛けている国際ハッカー集団の中心メンバーとみられる容疑者を日本の捜査当局が国内で拘束し、今月ドイツの当局に引き渡していたことが捜査関係者への取材でわかりました。このハッカー集団は去年、日本の「アサヒグループホールディングス」で大規模なシステム障害が起きたサイバー攻撃にも関与したとみられています。\n\n\n捜査関係者によりますと身柄を拘束されたのは「Qilin」と名乗る国際ハッカー集団の中心メンバーとみられるロシア国籍の28歳の男の容疑者です。\n\n「Qilin」は数年前から世界中の企業を標的に身代金要求型のコンピューターウイルス＝「ランサムウエア」によるサイバー攻撃を仕掛け大きな被害を与えているとされています。\n\n日本を含む各国の機関が共同捜査を進める中、容疑者が国内に滞在しているという情報が寄せられ、日本の捜査当局が本人の身柄を拘束したということです。\n\nそして今月、ドイツ国内の企業が被害に遭った事件で容疑者を捜査していたドイツの当局に引き渡したということです。\n\n「Qilin」は去年、日本の「アサヒグループホールディングス」のネットワークがサイバー攻撃を受け、大規模なシステム障害が起きた事件でもデータを盗み取ったと主張する犯行声明を出していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "世界各国の企業を標的にサイバー攻撃を仕掛けている国際ハッカー集団の中心メンバーとみられる容疑者を日本の捜査当局が国内で拘束し、今月ドイツの当局に引き渡していたことが捜査関係者への取材でわかりました。このハッカー集団は去年、日本の「アサヒグループホールディングス」で大規模なシステム障害が起きたサイバー攻撃にも関与したとみられています。\n",
+    "markedBody": "捜査関係者によりますと身柄を拘束されたのは「Qilin」と名乗る国際ハッカー集団の中心メンバーとみられるロシア国籍の28歳の男の容疑者です。\n\n「Qilin」は数年前から世界中の企業を標的に身代金要求型のコンピューターウイルス＝「ランサムウエア」によるサイバー攻撃を仕掛け大きな被害を与えているとされています。\n\n日本を含む各国の機関が共同捜査を進める中、容疑者が国内に滞在しているという情報が寄せられ、日本の捜査当局が本人の身柄を拘束したということです。\n\nそして今月、ドイツ国内の企業が被害に遭った事件で容疑者を捜査していたドイツの当局に引き渡したということです。\n\n「Qilin」は去年、日本の「アサヒグループホールディングス」のネットワークがサイバー攻撃を受け、大規模なシステム障害が起きた事件でもデータを盗み取ったと主張する犯行声明を出していました。\n",
+    "trimmedLead": "世界各国の企業を標的にサイバー攻撃を仕掛けている国際ハッカー集団の中心メンバーとみられる容疑者を日本の捜査当局が国内で拘束し、今月ドイツの当局に引き渡していたことが捜査関係者への取材でわかりました。このハッカー集団は去年、日本の「アサヒグループホールディングス」で大規模なシステム障害が起きたサイバー攻撃にも関与したとみられています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261006de55001.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261006de55001",
+  "video": [],
+  "citation": [
+    {
+      "name": "GMOグループ会社に不正アクセス 個人情報最大94万件余流出か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55007",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55007/20261006de55007_E0000046920_1_s.jpg",
+      "datePublished": "2026-10-06T11:47:00+09:00"
+    },
+    {
+      "name": "「焼肉きんぐ」運営会社 1000万件余のユーザー情報が漏えい",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261005de54760",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54760/20261005de54760_E0000044013_1_s.jpg",
+      "datePublished": "2026-10-05T19:13:08+09:00"
+    },
+    {
+      "name": "大阪公立大システム障害 ランサムウエアによるサイバー攻撃か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261005de54843",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54843/20261005de54843_E0000045499_1_s.jpg",
+      "datePublished": "2026-10-05T19:20:38+09:00"
+    },
+    {
+      "name": "タイムズカー 運転免許画像などの漏えいは160万件 どうすれば",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260929de53160",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53160/20260929de53160_E0000038219_1_s.jpg",
+      "datePublished": "2026-09-29T22:54:00+09:00"
+    },
+    {
+      "name": "簗農相「予算は選挙結果ではなく公平適切に対応」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55039",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55039/20261006de55039_E0000046968_1_s.jpg",
+      "datePublished": "2026-10-06T12:10:45+09:00"
+    },
+    {
+      "name": "台風27号 関東の海上や伊豆諸島では大しけの見込み 高波に警戒",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de54955",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de54955/20261006de54955_E0000046977_1_s.jpg",
+      "datePublished": "2026-10-06T12:04:00+09:00"
+    },
+    {
+      "name": "ノーベル賞 6日は物理学賞の発表日",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261005de54668",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54668/20261005de54668_E0000043916_1_s.jpg",
+      "datePublished": "2026-10-06T05:26:00+09:00"
+    },
+    {
+      "name": "「皇居ラン」のマナー違反受け 千代田区が実態調査へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de54956",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de54956/20261006de54956_E0000046547_1_s.jpg",
+      "datePublished": "2026-10-06T05:40:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
