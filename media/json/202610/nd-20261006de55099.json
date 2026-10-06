@@ -1,0 +1,166 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261006de55099",
+  "dataSourceId": "nd",
+  "name": "ミスターマックスで不正アクセス 個人情報最大170万人超流出か",
+  "headline": "ミスターマックスで不正アクセス 個人情報最大170万人超流出か",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261006de55099",
+    "playlistId": "news-nwa-business-nationwide-20261006",
+    "newsarticleName": "ミスターマックスで不正アクセス 個人情報最大170万人超流出か",
+    "playlistName": "10月6日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "九州や関東などでディスカウントストアを展開する「ミスターマックス」は6日、運営するアプリやオンラインストアのサーバーが不正アクセスを受け、個人情報が外部に流出したと明らかにしました。\n\n\n流出した可能",
+  "dateModified": "2026-10-06T12:19:00+09:00",
+  "datePublished": "2026-10-06T12:19:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55099/20261006de55099_E0000047121_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55099/20261006de55099_E0000047121_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "九州や関東などでディスカウントストアを展開する「ミスターマックス」は6日、運営するアプリやオンラインストアのサーバーが不正アクセスを受け、個人情報が外部に流出したと明らかにしました。\n\n\n流出した可能",
+  "articleBody": "九州や関東などでディスカウントストアを展開する「ミスターマックス」は6日、運営するアプリやオンラインストアのサーバーが不正アクセスを受け、個人情報が外部に流出したと明らかにしました。\n\n\n流出した可能性があるのはアプリやオンラインストアの会員のIDや名前、メールアドレス、電話番号で、会社は、対象が最大で173万人にのぼる可能性があるとしています。\n\nパスワードや住所、生年月日、クレジットカードに関する情報の流出はなく、現時点では流出した情報を不正に利用した被害は確認されていないとしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "九州や関東などでディスカウントストアを展開する「ミスターマックス」は6日、運営するアプリやオンラインストアのサーバーが不正アクセスを受け、個人情報が外部に流出したと明らかにしました。\n",
+    "markedBody": "![](https://img.web.nhk/news/nd/kiji/20261006de55099/20261006de55099_E0000047122_1_l.jpg)\n\n流出した可能性があるのはアプリやオンラインストアの会員のIDや名前、メールアドレス、電話番号で、会社は、対象が最大で173万人にのぼる可能性があるとしています。\n\nパスワードや住所、生年月日、クレジットカードに関する情報の流出はなく、現時点では流出した情報を不正に利用した被害は確認されていないとしています。\n",
+    "trimmedLead": "九州や関東などでディスカウントストアを展開する「ミスターマックス」は6日、運営するアプリやオンラインストアのサーバーが不正アクセスを受け、個人情報が外部に流出したと明らかにしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261006de55099.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261006de55099",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "ミスターマックスで不正アクセス 個人情報最大170万人超流出か",
+      "description": "九州や関東などでディスカウントストアを展開する「ミスターマックス」は6日、運営するアプリやオンラインストアのサーバーが不正アクセスを受け、個人情報が外部に流出したと明らかにしました。\n\n\n流出した可能",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261006de55099_E0000047470_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261006de55099/20261006de55099_E0000047121_1_l.jpg",
+      "duration": "PT29S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261006de55099_E0000047470_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55099/20261006de55099_E0000047121_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "GMOグループ会社に不正アクセス 個人情報最大94万件余流出か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55007",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55007/20261006de55007_E0000046920_1_s.jpg",
+      "datePublished": "2026-10-06T11:47:00+09:00"
+    },
+    {
+      "name": "「焼肉きんぐ」運営会社 1000万件余のユーザー情報が漏えい",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261005de54760",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54760/20261005de54760_E0000044013_1_s.jpg",
+      "datePublished": "2026-10-05T19:13:08+09:00"
+    },
+    {
+      "name": "大和証券 委託先サーバー不正アクセス 個人情報11万人分流出か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261005de54568",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54568/20261005de54568_E0000043968_1_s.jpg",
+      "datePublished": "2026-10-05T15:24:00+09:00"
+    },
+    {
+      "name": "ハッカー集団中心人物か 国内で拘束 アサヒGHD攻撃にも関与か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55001",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55001/20261006de55001_E0000046914_1_s.jpg",
+      "datePublished": "2026-10-06T11:58:00+09:00"
+    },
+    {
+      "name": "大起水産 不正アクセスで約17万5000人分の個人情報漏えいか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261005de54848",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54848/20261005de54848_E0000045649_1_s.jpg",
+      "datePublished": "2026-10-05T19:44:18+09:00"
+    },
+    {
+      "name": "日経新聞サイバー攻撃で情報漏えいか なりすましメールが送信",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261004de54358",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54358/20261004de54358_E0000042678_1_s.jpg",
+      "datePublished": "2026-10-04T21:30:36+09:00"
+    },
+    {
+      "name": "台風27号 関東の海上や伊豆諸島では大しけの見込み 高波に警戒",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de54955",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de54955/20261006de54955_E0000046977_1_s.jpg",
+      "datePublished": "2026-10-06T12:04:00+09:00"
+    },
+    {
+      "name": "簗農相「予算は選挙結果ではなく公平適切に対応」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55039",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55039/20261006de55039_E0000046968_1_s.jpg",
+      "datePublished": "2026-10-06T12:34:48+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
