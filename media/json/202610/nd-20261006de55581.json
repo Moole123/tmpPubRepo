@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261006de55581",
+  "dataSourceId": "nd",
+  "name": "フィジカルAI 日立とファナックなど大手連携の開発相次ぐ",
+  "headline": "フィジカルAI 日立とファナックなど大手連携の開発相次ぐ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261006de55581",
+    "playlistId": "news-nwa-business-nationwide-20261007",
+    "newsarticleName": "フィジカルAI 日立とファナックなど大手連携の開発相次ぐ",
+    "playlistName": "10月7日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "日立製作所と産業用ロボット大手のファナックは、AIが自律的に判断してロボットなどを動かすフィジカルAIの分野で提携し、来年度の実用化を目指すことになりました。フィジカルAIをめぐっては、生産性向上につ",
+  "dateModified": "2026-10-07T06:03:40+09:00",
+  "datePublished": "2026-10-07T06:03:40+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55581/20261006de55581_E0000050580_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55581/20261006de55581_E0000050580_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000475",
+      "name": "半導体",
+      "display": true
+    },
+    {
+      "id": "E0000000471",
+      "name": "自動車",
+      "display": true
+    },
+    {
+      "id": "E0000000336",
+      "name": "茨城県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "日立製作所と産業用ロボット大手のファナックは、AIが自律的に判断してロボットなどを動かすフィジカルAIの分野で提携し、来年度の実用化を目指すことになりました。フィジカルAIをめぐっては、生産性向上につ",
+  "articleBody": "日立製作所と産業用ロボット大手のファナックは、AIが自律的に判断してロボットなどを動かすフィジカルAIの分野で提携し、来年度の実用化を目指すことになりました。フィジカルAIをめぐっては、生産性向上につながるという期待感から大手企業どうしが協力して開発を進める動きが相次いでいます。\n\n\n発表によりますと、日立製作所とファナックはフィジカルAIの分野で提携し、両社のAI技術と産業用ロボット技術などを組み合わせて複雑な作業に対応できるロボットの開発を始めることになりました。\n\nまずは茨城県内にある日立の工場で実証実験を行い、ロボットがさまざまな形状の部品の中から必要なものを選び取ったり、作業内容が変わっても正常に動いたりできるかなどを確認するということです。\n\nそのうえで、来年度から半導体や自動車といった製造業のほか、物流や農業など向けに現場の状況をAIが判断して作業するロボットを実用化したい考えです。\n\nフィジカルAIをめぐっては、さまざまな現場で生産性向上や人手不足解消につながると期待される一方、熟練工のノウハウをデータ化してどのようにAIに学習させるかが課題となっていて、富士通とアメリカの半導体大手エヌビディアなどが連携を強化するなど大手企業どうしが協力して開発を進める動きが相次いでいます。\n",
+  "detailedArticleBody": {
+    "markedLead": "日立製作所と産業用ロボット大手のファナックは、AIが自律的に判断してロボットなどを動かすフィジカルAIの分野で提携し、来年度の実用化を目指すことになりました。フィジカルAIをめぐっては、生産性向上につながるという期待感から大手企業どうしが協力して開発を進める動きが相次いでいます。\n",
+    "markedBody": "発表によりますと、日立製作所とファナックはフィジカルAIの分野で提携し、両社のAI技術と産業用ロボット技術などを組み合わせて複雑な作業に対応できるロボットの開発を始めることになりました。\n\nまずは茨城県内にある日立の工場で実証実験を行い、ロボットがさまざまな形状の部品の中から必要なものを選び取ったり、作業内容が変わっても正常に動いたりできるかなどを確認するということです。\n\nそのうえで、来年度から半導体や自動車といった製造業のほか、物流や農業など向けに現場の状況をAIが判断して作業するロボットを実用化したい考えです。\n\nフィジカルAIをめぐっては、さまざまな現場で生産性向上や人手不足解消につながると期待される一方、熟練工のノウハウをデータ化してどのようにAIに学習させるかが課題となっていて、富士通とアメリカの半導体大手エヌビディアなどが連携を強化するなど大手企業どうしが協力して開発を進める動きが相次いでいます。\n",
+    "trimmedLead": "日立製作所と産業用ロボット大手のファナックは、AIが自律的に判断してロボットなどを動かすフィジカルAIの分野で提携し、来年度の実用化を目指すことになりました。フィジカルAIをめぐっては、生産性向上につながるという期待感から大手企業どうしが協力して開発を進める動きが相次いでいます。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261006de55581.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261006de55581",
+  "video": [],
+  "citation": [
+    {
+      "name": "台風27号 関東の海上はあす明け方にかけて高波に警戒",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de54955",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de54955/20261006de54955_E0000050557_1_s.jpg",
+      "datePublished": "2026-10-06T20:26:00+09:00"
+    },
+    {
+      "name": "ノーベル物理学賞に米大学教授 「IceCube」でニュートリノ観測",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261005de54668",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54668/20261005de54668_E0000049155_1_s.jpg",
+      "datePublished": "2026-10-06T22:16:00+09:00"
+    },
+    {
+      "name": "個人情報流出なぜ相次ぐ?“異様な状況”AI悪用可能性の指摘も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55037",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55037/20261006de55037_E0000047936_1_s.jpg",
+      "datePublished": "2026-10-06T20:08:00+09:00"
+    },
+    {
+      "name": "ハッカー集団 中心人物か 国内で拘束 アサヒGHD攻撃にも関与か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55001",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55001/20261006de55001_E0000046914_1_s.jpg",
+      "datePublished": "2026-10-06T18:22:52+09:00"
+    },
+    {
+      "name": "西鉄のICカード利用履歴照会サービスに不正アクセス",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55188",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55188/20261006de55188_E0000047953_1_s.jpg",
+      "datePublished": "2026-10-06T18:28:41+09:00"
+    },
+    {
+      "name": "長雨で日照不足 いちごの生育に影響 静岡 伊豆の国市",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55487",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55487/20261006de55487_E0000049572_1_s.jpg",
+      "datePublished": "2026-10-06T19:16:45+09:00"
+    },
+    {
+      "name": "簗農相「予算は選挙結果ではなく公平適切に対応」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55039",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55039/20261006de55039_E0000046968_1_s.jpg",
+      "datePublished": "2026-10-06T19:50:50+09:00"
+    },
+    {
+      "name": "川崎重工 造船向けのフィジカルAI活用ロボット 試作機を公開",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55161",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55161/20261006de55161_E0000050103_1_s.jpg",
+      "datePublished": "2026-10-06T19:49:00+09:00"
+    },
+    {
+      "name": "「これで元に戻れる」 と思っていた",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261002de53815",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53815/20261002de53815_E0000046928_1_s.jpg",
+      "datePublished": "2026-10-06T16:16:40+09:00"
+    },
+    {
+      "name": "臨時国会召集 審議の焦点とその行方は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55057",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55057/20261006de55057_E0000046999_1_s.jpg",
+      "datePublished": "2026-10-06T14:30:26+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
