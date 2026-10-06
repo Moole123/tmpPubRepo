@@ -1,0 +1,156 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261006de55492",
+  "dataSourceId": "nd",
+  "name": "ウクライナで橋への攻撃相次ぐ 南部ザポリージャ州でも",
+  "headline": "ウクライナで橋への攻撃相次ぐ 南部ザポリージャ州でも",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261006de55492",
+    "playlistId": "news-nwa-international-nationwide-20261006",
+    "newsarticleName": "ウクライナで橋への攻撃相次ぐ 南部ザポリージャ州でも",
+    "playlistName": "10月6日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "ウクライナでは今月に入って、都市部に架かる橋をねらったロシア軍の攻撃が相次ぎ、首都キーウに続いて南部のザポリージャでも主要な橋が損傷しました。\n\n\nロシアはウクライナ各地への攻撃を続け、東部のハルキウ",
+  "dateModified": "2026-10-06T19:25:14+09:00",
+  "datePublished": "2026-10-06T19:25:14+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55492/20261006de55492_E0000049726_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55492/20261006de55492_E0000049726_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000296",
+      "name": "ウクライナ情勢",
+      "display": true
+    },
+    {
+      "id": "E0000000220",
+      "name": "ロシア",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ウクライナでは今月に入って、都市部に架かる橋をねらったロシア軍の攻撃が相次ぎ、首都キーウに続いて南部のザポリージャでも主要な橋が損傷しました。\n\n\nロシアはウクライナ各地への攻撃を続け、東部のハルキウ",
+  "articleBody": "ウクライナでは今月に入って、都市部に架かる橋をねらったロシア軍の攻撃が相次ぎ、首都キーウに続いて南部のザポリージャでも主要な橋が損傷しました。\n\n\nロシアはウクライナ各地への攻撃を続け、東部のハルキウでは5日、縫製工場や集合住宅などが被害を受け地元の市長は少なくとも6人が死亡したとSNSに投稿しました。\n\nまた南部ザポリージャ州ではドニプロ川に架かる主要な橋が攻撃を受けて大きな穴が開き、州当局は一時的に通行止めの措置を取ったと6日発表しました。\n\nロシアは「ウクライナ軍の部隊の移動や補給を橋が支えている」として今月、首都キーウでも主要な橋を攻撃し市民生活に大きな影響が出ています。\n\n一方、ウクライナ側は無人機を使ってロシアの内陸部を攻撃し、首都モスクワの市長や州知事によりますと5日夜から6日朝にかけて650機の無人機が飛来し2人が死亡、9人がけがをしたということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "ウクライナでは今月に入って、都市部に架かる橋をねらったロシア軍の攻撃が相次ぎ、首都キーウに続いて南部のザポリージャでも主要な橋が損傷しました。\n",
+    "markedBody": "ロシアはウクライナ各地への攻撃を続け、東部のハルキウでは5日、縫製工場や集合住宅などが被害を受け地元の市長は少なくとも6人が死亡したとSNSに投稿しました。\n\nまた南部ザポリージャ州ではドニプロ川に架かる主要な橋が攻撃を受けて大きな穴が開き、州当局は一時的に通行止めの措置を取ったと6日発表しました。\n\nロシアは「ウクライナ軍の部隊の移動や補給を橋が支えている」として今月、首都キーウでも主要な橋を攻撃し市民生活に大きな影響が出ています。\n\n一方、ウクライナ側は無人機を使ってロシアの内陸部を攻撃し、首都モスクワの市長や州知事によりますと5日夜から6日朝にかけて650機の無人機が飛来し2人が死亡、9人がけがをしたということです。\n",
+    "trimmedLead": "ウクライナでは今月に入って、都市部に架かる橋をねらったロシア軍の攻撃が相次ぎ、首都キーウに続いて南部のザポリージャでも主要な橋が損傷しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261006de55492.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261006de55492",
+  "video": [],
+  "citation": [
+    {
+      "name": "ノーベル物理学賞に米大学教授 「IceCube」でニュートリノ観測",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261005de54668",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54668/20261005de54668_E0000049155_1_s.jpg",
+      "datePublished": "2026-10-06T20:42:34+09:00"
+    },
+    {
+      "name": "ハッカー集団 中心人物か 国内で拘束 アサヒGHD攻撃にも関与か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55001",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55001/20261006de55001_E0000046914_1_s.jpg",
+      "datePublished": "2026-10-06T18:22:52+09:00"
+    },
+    {
+      "name": "中国の指示で台湾総統の息子監視か 米FBIが容疑者逮捕",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55242",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55242/20261006de55242_E0000047863_1_s.jpg",
+      "datePublished": "2026-10-06T15:46:00+09:00"
+    },
+    {
+      "name": "トランプ大統領 演説壇上で大統領令署名 軽油高騰対策で",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55244",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55244/20261006de55244_E0000047859_1_s.jpg",
+      "datePublished": "2026-10-06T15:51:00+09:00"
+    },
+    {
+      "name": "高市首相 米トランプ大統領に日朝首脳会談への働きかけを依頼",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55168",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55168/20261006de55168_E0000047709_1_s.jpg",
+      "datePublished": "2026-10-06T14:31:00+09:00"
+    },
+    {
+      "name": "トランプ大統領“脅威の情報把握”英空軍基地から爆撃機撤収で",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de54999",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de54999/20261006de54999_E0000046906_1_s.jpg",
+      "datePublished": "2026-10-06T11:03:00+09:00"
+    },
+    {
+      "name": "ロシア外務省 日本の追加制裁を批判し対抗措置の構え",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de54962",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de54962/20261006de54962_E0000046549_1_s.jpg",
+      "datePublished": "2026-10-06T11:43:49+09:00"
+    },
+    {
+      "name": "ネパール土石流 被災地での捜索・救助が原則打ち切り",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de54940",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de54940/20261006de54940_E0000046537_1_s.jpg",
+      "datePublished": "2026-10-06T11:31:00+09:00"
+    },
+    {
+      "name": "英ベストセラー作家 ジェフリー・アーチャーさん死去",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55068",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55068/20261006de55068_E0000047084_1_s.jpg",
+      "datePublished": "2026-10-06T12:14:00+09:00"
+    },
+    {
+      "name": "対ロシア カナダ首相の覚悟",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55077",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55077/20261006de55077_E0000047033_1_s.jpg",
+      "datePublished": "2026-10-06T12:54:32+09:00"
+    },
+    {
+      "name": "サバも手が届かない！？庶民の魚サバ高騰　背景には何が",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260925de52383",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52383/20260925de52383_E0000040257_1_s.jpg",
+      "datePublished": "2026-10-05T11:08:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

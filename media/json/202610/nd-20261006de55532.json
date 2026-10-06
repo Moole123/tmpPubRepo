@@ -1,0 +1,156 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261006de55532",
+  "dataSourceId": "nd",
+  "name": "企業への不正アクセス被害相次ぐ 個人情報の大規模流出も",
+  "headline": "企業への不正アクセス被害相次ぐ 個人情報の大規模流出も",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261006de55532",
+    "playlistId": "news-nwa-business-nationwide-20261006",
+    "newsarticleName": "企業への不正アクセス被害相次ぐ 個人情報の大規模流出も",
+    "playlistName": "10月6日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "企業への不正アクセスによってサプライチェーンに影響が出たり，企業がもつ個人情報の大規模な流出につながったりするケースが相次いでいます。\n\n\n冷凍食品大手の「ニチレイ」では、ことし7月、不正アクセスによ",
+  "dateModified": "2026-10-06T20:53:33+09:00",
+  "datePublished": "2026-10-06T20:53:33+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55532/20261006de55532_E0000003477_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55532/20261006de55532_E0000003477_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "企業への不正アクセスによってサプライチェーンに影響が出たり，企業がもつ個人情報の大規模な流出につながったりするケースが相次いでいます。\n\n\n冷凍食品大手の「ニチレイ」では、ことし7月、不正アクセスによ",
+  "articleBody": "企業への不正アクセスによってサプライチェーンに影響が出たり，企業がもつ個人情報の大規模な流出につながったりするケースが相次いでいます。\n\n\n冷凍食品大手の「ニチレイ」では、ことし7月、不正アクセスによるシステム障害で冷蔵倉庫からの出庫業務などに影響が出たことから、外食企業や食品メーカーの間で食材の調達に遅れが出るなどしました。\n\n先月は京王電鉄が身代金要求型のコンピューターウイルス「ランサムウエア」による攻撃を受け、一部の営業システムに障害が出たと発表したほか、東京メトロが不正アクセスを受け、ポイントサービスに登録している会員のメールアドレス、およそ5万9000件が外部に流出した可能性があると発表しました。\n\nこのほかにもカーシェアリングサービス「タイムズカー」のシステムが不正アクセスを受け、運転免許証の画像といった本人確認に使われる情報を含む、およそ660万件の会員の個人情報が漏えいしたことが明らかになりました。\n\nまた今月に入ってからは1日に宅配大手の佐川急便が荷物の送り主と配達先の氏名などが外部に漏えいした可能性があると発表しました。\n\n5日には、大和証券が委託先のサーバーに不正アクセスがあり、およそ11万人分の顧客の氏名や口座番号などの個人情報が漏えいした可能性があると発表したほか、「焼肉きんぐ」の運営企業が、会員管理システムに不正アクセスがあり、アプリに登録した1000万あまりのユーザーに関する情報が漏えいしたと発表しました。\n\nさらに、6日は、IT企業「GMOインターネットグループ」傘下の会社が、運営しているアンケートサイトに不正アクセスがあり、会員の個人情報最大94万件あまりが流出したと発表したほか、九州や関東などでディスカウントストアを展開する「ミスターマックス」が、アプリやオンラインストアのサーバーが不正アクセスを受け、会員の個人情報が最大で173万人分、外部に流出した可能性があると明らかにしました。\n",
+  "detailedArticleBody": {
+    "markedLead": "企業への不正アクセスによってサプライチェーンに影響が出たり，企業がもつ個人情報の大規模な流出につながったりするケースが相次いでいます。\n",
+    "markedBody": "冷凍食品大手の「ニチレイ」では、ことし7月、不正アクセスによるシステム障害で冷蔵倉庫からの出庫業務などに影響が出たことから、外食企業や食品メーカーの間で食材の調達に遅れが出るなどしました。\n\n先月は京王電鉄が身代金要求型のコンピューターウイルス「ランサムウエア」による攻撃を受け、一部の営業システムに障害が出たと発表したほか、東京メトロが不正アクセスを受け、ポイントサービスに登録している会員のメールアドレス、およそ5万9000件が外部に流出した可能性があると発表しました。\n\nこのほかにもカーシェアリングサービス「タイムズカー」のシステムが不正アクセスを受け、運転免許証の画像といった本人確認に使われる情報を含む、およそ660万件の会員の個人情報が漏えいしたことが明らかになりました。\n\nまた今月に入ってからは1日に宅配大手の佐川急便が荷物の送り主と配達先の氏名などが外部に漏えいした可能性があると発表しました。\n\n5日には、大和証券が委託先のサーバーに不正アクセスがあり、およそ11万人分の顧客の氏名や口座番号などの個人情報が漏えいした可能性があると発表したほか、「焼肉きんぐ」の運営企業が、会員管理システムに不正アクセスがあり、アプリに登録した1000万あまりのユーザーに関する情報が漏えいしたと発表しました。\n\nさらに、6日は、IT企業「GMOインターネットグループ」傘下の会社が、運営しているアンケートサイトに不正アクセスがあり、会員の個人情報最大94万件あまりが流出したと発表したほか、九州や関東などでディスカウントストアを展開する「ミスターマックス」が、アプリやオンラインストアのサーバーが不正アクセスを受け、会員の個人情報が最大で173万人分、外部に流出した可能性があると明らかにしました。\n",
+    "trimmedLead": "企業への不正アクセスによってサプライチェーンに影響が出たり，企業がもつ個人情報の大規模な流出につながったりするケースが相次いでいます。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261006de55532.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261006de55532",
+  "video": [],
+  "citation": [
+    {
+      "name": "個人情報流出なぜ相次ぐ?“異様な状況”AI悪用可能性の指摘も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55037",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55037/20261006de55037_E0000047936_1_s.jpg",
+      "datePublished": "2026-10-06T20:08:00+09:00"
+    },
+    {
+      "name": "ハッカー集団 中心人物か 国内で拘束 アサヒGHD攻撃にも関与か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55001",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55001/20261006de55001_E0000046914_1_s.jpg",
+      "datePublished": "2026-10-06T18:22:52+09:00"
+    },
+    {
+      "name": "台風27号 関東の海上はあす明け方にかけて高波に警戒",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de54955",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de54955/20261006de54955_E0000049682_1_s.jpg",
+      "datePublished": "2026-10-06T20:26:03+09:00"
+    },
+    {
+      "name": "ノーベル物理学賞に米大学教授 「IceCube」でニュートリノ観測",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261005de54668",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54668/20261005de54668_E0000049155_1_s.jpg",
+      "datePublished": "2026-10-06T20:42:34+09:00"
+    },
+    {
+      "name": "西鉄のICカード利用履歴照会サービスに不正アクセス",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55188",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55188/20261006de55188_E0000047953_1_s.jpg",
+      "datePublished": "2026-10-06T18:28:41+09:00"
+    },
+    {
+      "name": "簗農相「予算は選挙結果ではなく公平適切に対応」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55039",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55039/20261006de55039_E0000046968_1_s.jpg",
+      "datePublished": "2026-10-06T19:50:50+09:00"
+    },
+    {
+      "name": "川崎重工 造船向けのフィジカルAI活用ロボット 試作機を公開",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55161",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55161/20261006de55161_E0000050103_1_s.jpg",
+      "datePublished": "2026-10-06T19:49:00+09:00"
+    },
+    {
+      "name": "千葉で防災テーマのイベント 水没した車からの脱出方法を紹介",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55309",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55309/20261006de55309_E0000047944_1_s.jpg",
+      "datePublished": "2026-10-06T18:03:47+09:00"
+    },
+    {
+      "name": "「これで元に戻れる」 と思っていた",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261002de53815",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53815/20261002de53815_E0000046928_1_s.jpg",
+      "datePublished": "2026-10-06T16:16:40+09:00"
+    },
+    {
+      "name": "臨時国会召集 審議の焦点とその行方は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55057",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55057/20261006de55057_E0000046999_1_s.jpg",
+      "datePublished": "2026-10-06T14:30:26+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
