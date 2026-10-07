@@ -1,0 +1,190 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261007de56148",
+  "dataSourceId": "nd",
+  "name": "デンマーク 人口上回る880万人分の個人情報に不正アクセス",
+  "headline": "デンマーク 人口上回る880万人分の個人情報に不正アクセス",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261007de56148",
+    "playlistId": "news-nwa-international-nationwide-20261007",
+    "newsarticleName": "デンマーク 人口上回る880万人分の個人情報に不正アクセス",
+    "playlistName": "10月7日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "デンマーク政府は、国のデータベースに登録された人口を上回るおよそ880万人分の名前や、個人の識別番号などが不正アクセスを受けたと明らかにし、警察が捜査しています。\n\n\nデンマーク政府は5日、国のデータ",
+  "dateModified": "2026-10-07T21:19:08+09:00",
+  "datePublished": "2026-10-07T21:19:08+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de56148/20261007de56148_E0000053971_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de56148/20261007de56148_E0000053971_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "E0000000405",
+      "name": "デンマーク",
+      "display": true
+    },
+    {
+      "id": "E0000000419",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "E0000000599",
+      "name": "ヨーロッパ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "デンマーク政府は、国のデータベースに登録された人口を上回るおよそ880万人分の名前や、個人の識別番号などが不正アクセスを受けたと明らかにし、警察が捜査しています。\n\n\nデンマーク政府は5日、国のデータ",
+  "articleBody": "デンマーク政府は、国のデータベースに登録された人口を上回るおよそ880万人分の名前や、個人の識別番号などが不正アクセスを受けたと明らかにし、警察が捜査しています。\n\n\nデンマーク政府は5日、国のデータベースに登録されたおよそ880万人分の名前や住所、個人の識別番号などが不正アクセスを受けるセキュリティーの重大事案が発生したと発表しました。\n\n先月システムに異常な動きがあったことを今月2日に把握し、国内の特定の企業に与えられていたシステムへの照会権限が悪用され、何者かが不正にアクセスしていたことがわかったとしています。\n\nデンマークの人口はおよそ600万ですが、データベースには亡くなった人や国外への移住者を含むおよそ1100万人分が登録されていて、名前や住所を非公開にして保護する登録をした人の情報は不正アクセスを受けていないということです。\n\n関係当局などが経緯を詳しく調べるとともに、警察も捜査を行っているとしています。\n\n個人の識別番号は、政府機関や銀行、医療機関などで個人の特定のため広く使われていて、デンマーク政府は「電話やメールでの問い合わせで相手が名前や住所、番号を知っていても、パスワードなどを教えないように」と注意を呼びかけています。\n\n米国防総省でも300万人余の人事データベースに不正アクセス\n\nアメリカのCNNテレビなど複数のメディアは、アメリカ国防総省で人事データを管理する組織のサーバーがことし7月までの9か月間にわたって外部から不正アクセスを受け、300万人あまりの個人情報が閲覧可能な状態にあったと伝えています。\n\n記事によりますと、不正アクセスを受けた情報には現役や退役軍人などの名前や生年月日のほか、社会保障番号や職務データなどが含まれているということです。\n\n国防総省の担当者は取材に対し「情報が悪用された証拠は見つかっていない」と答えたということですが、記事では国家安全保障上の懸念を生じさせるとの専門家の見方を伝えています。\n",
+  "detailedArticleBody": {
+    "markedLead": "デンマーク政府は、国のデータベースに登録された人口を上回るおよそ880万人分の名前や、個人の識別番号などが不正アクセスを受けたと明らかにし、警察が捜査しています。\n",
+    "markedBody": "デンマーク政府は5日、国のデータベースに登録されたおよそ880万人分の名前や住所、個人の識別番号などが不正アクセスを受けるセキュリティーの重大事案が発生したと発表しました。\n\n先月システムに異常な動きがあったことを今月2日に把握し、国内の特定の企業に与えられていたシステムへの照会権限が悪用され、何者かが不正にアクセスしていたことがわかったとしています。\n\nデンマークの人口はおよそ600万ですが、データベースには亡くなった人や国外への移住者を含むおよそ1100万人分が登録されていて、名前や住所を非公開にして保護する登録をした人の情報は不正アクセスを受けていないということです。\n\n関係当局などが経緯を詳しく調べるとともに、警察も捜査を行っているとしています。\n\n個人の識別番号は、政府機関や銀行、医療機関などで個人の特定のため広く使われていて、デンマーク政府は「電話やメールでの問い合わせで相手が名前や住所、番号を知っていても、パスワードなどを教えないように」と注意を呼びかけています。\n\n## 米国防総省でも300万人余の人事データベースに不正アクセス\n\nアメリカのCNNテレビなど複数のメディアは、アメリカ国防総省で人事データを管理する組織のサーバーがことし7月までの9か月間にわたって外部から不正アクセスを受け、300万人あまりの個人情報が閲覧可能な状態にあったと伝えています。\n\n記事によりますと、不正アクセスを受けた情報には現役や退役軍人などの名前や生年月日のほか、社会保障番号や職務データなどが含まれているということです。\n\n国防総省の担当者は取材に対し「情報が悪用された証拠は見つかっていない」と答えたということですが、記事では国家安全保障上の懸念を生じさせるとの専門家の見方を伝えています。\n",
+    "trimmedLead": "デンマーク政府は、国のデータベースに登録された人口を上回るおよそ880万人分の名前や、個人の識別番号などが不正アクセスを受けたと明らかにし、警察が捜査しています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261007de56148.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261007de56148",
+  "video": [],
+  "citation": [
+    {
+      "name": "相次ぐ不正アクセス 自分の情報をどう守る リスクと対策は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55543",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55543/20261006de55543_E0000050511_1_s.jpg",
+      "datePublished": "2026-10-06T22:08:42+09:00"
+    },
+    {
+      "name": "損保ジャパン のべ6万件の顧客情報が流出か 不正アクセス",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261007de55973",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55973/20261007de55973_E0000051885_1_s.jpg",
+      "datePublished": "2026-10-07T18:08:00+09:00"
+    },
+    {
+      "name": " HIS 去年の不正アクセスで最大627人分のパスポート情報流出か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261007de56092",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de56092/20261007de56092_E0000053502_1_s.jpg",
+      "datePublished": "2026-10-07T18:59:00+09:00"
+    },
+    {
+      "name": "ソフトバンク子会社に不正アクセス クラウドサービスに障害",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261007de56048",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de56048/20261007de56048_E0000052439_1_s.jpg",
+      "datePublished": "2026-10-07T19:54:58+09:00"
+    },
+    {
+      "name": "ノーベル化学賞に東京理科大学名誉教授",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55098",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55098/20261006de55098_E0000054434_1_s.jpg",
+      "datePublished": "2026-10-07T22:58:40+09:00"
+    },
+    {
+      "name": "米バンス副大統領“イランはウラン濃縮能力削減に応じるべき”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261007de55829",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/r/kiji/20261007de55829/20261007de55829_E0000051780_1_s.jpg",
+      "datePublished": "2026-10-07T16:47:36+09:00"
+    },
+    {
+      "name": "米アンソロピックがAIモデル「ミュトス」の提供先を拡大",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261007de55853",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55853/20261007de55853_E0000051778_1_s.jpg",
+      "datePublished": "2026-10-07T15:24:00+09:00"
+    },
+    {
+      "name": "ニューヨーク株式市場でS＆P500が最高値更新 AI関連銘柄に買い",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261007de55633",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55633/20261007de55633_E0000050669_1_s.jpg",
+      "datePublished": "2026-10-07T07:56:12+09:00"
+    },
+    {
+      "name": "「監視社会」か「治安の維持」か カメラをめぐる論争",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261005de54467",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54467/20261005de54467_E0000046963_1_s.jpg",
+      "datePublished": "2026-10-07T12:10:05+09:00"
+    },
+    {
+      "name": "アメリカと中国が核関連施設の相互訪問協議か 米メディア報道",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261007de55632",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55632/20261007de55632_E0000050642_1_s.jpg",
+      "datePublished": "2026-10-07T07:34:00+09:00"
+    },
+    {
+      "name": "パレスチナ ガザ地区 戦闘開始から3年 厳しい人道状況続く",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261007de55611",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55611/20261007de55611_E0000050597_1_s.jpg",
+      "datePublished": "2026-10-07T19:00:16+09:00"
+    },
+    {
+      "name": "ウクライナ世論調査「ロシアに勝利できる」およそ8割",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261007de55615",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55615/20261007de55615_E0000050604_1_s.jpg",
+      "datePublished": "2026-10-07T07:47:00+09:00"
+    },
+    {
+      "name": "ケニアでエボラ出血熱に感染の男性死亡 感染拡大に警戒強める",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261007de55603",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55603/20261007de55603_E0000050583_1_s.jpg",
+      "datePublished": "2026-10-07T07:40:00+09:00"
+    },
+    {
+      "name": "対ロシア カナダ首相の覚悟",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55077",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55077/20261006de55077_E0000047033_1_s.jpg",
+      "datePublished": "2026-10-06T12:54:32+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
