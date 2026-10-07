@@ -1,0 +1,156 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261007de56048",
+  "dataSourceId": "nd",
+  "name": "ソフトバンク子会社に不正アクセス クラウドサービスに障害",
+  "headline": "ソフトバンク子会社に不正アクセス クラウドサービスに障害",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261007de56048",
+    "playlistId": "news-nwa-business-nationwide-20261007",
+    "newsarticleName": "ソフトバンク子会社に不正アクセス クラウドサービスに障害",
+    "playlistName": "10月7日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "ソフトバンクの子会社の「IDCフロンティア」は、システムに不正アクセスがあり、自社が提供するクラウドサービスの一部に障害が発生していると発表しました。\n\n\n発表によりますと7日午前3時40分ごろ、「I",
+  "dateModified": "2026-10-07T19:54:58+09:00",
+  "datePublished": "2026-10-07T18:28:47+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de56048/20261007de56048_E0000052439_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de56048/20261007de56048_E0000052439_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ソフトバンクの子会社の「IDCフロンティア」は、システムに不正アクセスがあり、自社が提供するクラウドサービスの一部に障害が発生していると発表しました。\n\n\n発表によりますと7日午前3時40分ごろ、「I",
+  "articleBody": "ソフトバンクの子会社の「IDCフロンティア」は、システムに不正アクセスがあり、自社が提供するクラウドサービスの一部に障害が発生していると発表しました。\n\n\n発表によりますと7日午前3時40分ごろ、「IDCフロンティア」が提供する法人向けのクラウドサービスのシステムに不正アクセスがあったということです。\n\nこの不正アクセスによって福島県白河市にあるデータセンターが影響を受け、クラウドサービスの一部に障害が発生しているということです。\n\nこれによって顧客の中にはクラウドを使ったサービスが利用できないなどの影響が出ているということです。\n\n会社では情報漏えいがあったかや被害の規模などについては調査中だとしています。\n\nこの会社が提供するクラウドサービスは企業だけでなく自治体などでも導入されているということで、会社では対象となる顧客に個別に連絡しているということです。\n\nIDCフロンティアは「このたびは多大なるご心配とご迷惑をおかけしておりますことを深くおわび申し上げます。新たに公表すべき事実が判明した場合には速やかにお知らせいたします」とコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "ソフトバンクの子会社の「IDCフロンティア」は、システムに不正アクセスがあり、自社が提供するクラウドサービスの一部に障害が発生していると発表しました。\n",
+    "markedBody": "発表によりますと7日午前3時40分ごろ、「IDCフロンティア」が提供する法人向けのクラウドサービスのシステムに不正アクセスがあったということです。\n\nこの不正アクセスによって福島県白河市にあるデータセンターが影響を受け、クラウドサービスの一部に障害が発生しているということです。\n\nこれによって顧客の中にはクラウドを使ったサービスが利用できないなどの影響が出ているということです。\n\n会社では情報漏えいがあったかや被害の規模などについては調査中だとしています。\n\nこの会社が提供するクラウドサービスは企業だけでなく自治体などでも導入されているということで、会社では対象となる顧客に個別に連絡しているということです。\n\nIDCフロンティアは「このたびは多大なるご心配とご迷惑をおかけしておりますことを深くおわび申し上げます。新たに公表すべき事実が判明した場合には速やかにお知らせいたします」とコメントしています。\n",
+    "trimmedLead": "ソフトバンクの子会社の「IDCフロンティア」は、システムに不正アクセスがあり、自社が提供するクラウドサービスの一部に障害が発生していると発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261007de56048.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261007de56048",
+  "video": [],
+  "citation": [
+    {
+      "name": "損保ジャパン のべ6万件の顧客情報が流出か 不正アクセス",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261007de55973",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55973/20261007de55973_E0000051885_1_s.jpg",
+      "datePublished": "2026-10-07T18:08:00+09:00"
+    },
+    {
+      "name": " HIS 去年の不正アクセスで最大627人分のパスポート情報流出か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261007de56092",
+      "thumbnailUrl": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png",
+      "datePublished": "2026-10-07T18:59:59+09:00"
+    },
+    {
+      "name": "タイムズカー情報漏えい 業界団体に対策の点検を要請 国交省",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55582",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55582/20261006de55582_E0000050573_1_s.jpg",
+      "datePublished": "2026-10-07T05:04:00+09:00"
+    },
+    {
+      "name": "旭化成子会社 個人情報55万人余 漏えいの可能性と発表",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261007de55592",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55592/20261007de55592_E0000050579_1_s.jpg",
+      "datePublished": "2026-10-07T00:53:39+09:00"
+    },
+    {
+      "name": "企業への不正アクセス被害相次ぐ 個人情報の大規模流出も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55532",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55532/20261006de55532_E0000003477_1_s.jpg",
+      "datePublished": "2026-10-06T20:53:33+09:00"
+    },
+    {
+      "name": "ハッカー集団 中心人物か 国内で拘束 アサヒGHD攻撃にも関与か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55001",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55001/20261006de55001_E0000046914_1_s.jpg",
+      "datePublished": "2026-10-06T18:22:52+09:00"
+    },
+    {
+      "name": "GMOグループ会社に不正アクセス 個人情報最大94万件余流出か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55007",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55007/20261006de55007_E0000046920_1_s.jpg",
+      "datePublished": "2026-10-06T11:47:00+09:00"
+    },
+    {
+      "name": "PayPayアカウント買い取り疑いで逮捕 詐欺で使う目的か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55062",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55062/20261006de55062_E0000047024_1_s.jpg",
+      "datePublished": "2026-10-06T18:14:59+09:00"
+    },
+    {
+      "name": "西鉄のICカード利用履歴照会サービスに不正アクセス",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55188",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55188/20261006de55188_E0000047953_1_s.jpg",
+      "datePublished": "2026-10-06T18:28:41+09:00"
+    },
+    {
+      "name": "ミスターマックスで不正アクセス 個人情報最大170万人超流出か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55099",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55099/20261006de55099_E0000047121_1_s.jpg",
+      "datePublished": "2026-10-06T14:01:46+09:00"
+    },
+    {
+      "name": "シチズン時計 約10万人分の個人情報が流出か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55355",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55355/20261006de55355_E0000047963_1_s.jpg",
+      "datePublished": "2026-10-06T18:35:05+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261007de55973",
+  "dataSourceId": "nd",
+  "name": "損保ジャパン のべ6万件の顧客情報が流出か 不正アクセス",
+  "headline": "損保ジャパン のべ6万件の顧客情報が流出か 不正アクセス",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261007de55973",
+    "playlistId": "news-nwa-business-nationwide-20261007",
+    "newsarticleName": "損保ジャパン のべ6万件の顧客情報が流出か 不正アクセス",
+    "playlistName": "10月7日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "損害保険大手の損害保険ジャパンは、顧客からの問い合わせの情報を管理する委託先のサーバーに不正アクセスがあり、のべ6万件の顧客情報が漏えいした可能性があると発表しました。\n\n\n損害保険ジャパンでは、通信",
+  "dateModified": "2026-10-07T18:08:00+09:00",
+  "datePublished": "2026-10-07T18:08:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55973/20261007de55973_E0000051885_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55973/20261007de55973_E0000051885_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "損害保険大手の損害保険ジャパンは、顧客からの問い合わせの情報を管理する委託先のサーバーに不正アクセスがあり、のべ6万件の顧客情報が漏えいした可能性があると発表しました。\n\n\n損害保険ジャパンでは、通信",
+  "articleBody": "損害保険大手の損害保険ジャパンは、顧客からの問い合わせの情報を管理する委託先のサーバーに不正アクセスがあり、のべ6万件の顧客情報が漏えいした可能性があると発表しました。\n\n\n損害保険ジャパンでは、通信機能を備えたドライブレコーダーのサービスを法人向けに提供しています。\n\n会社によりますと、このサービスを利用している法人の従業員の氏名や電話番号、それに住所やメールアドレスなどのべ6万件の顧客情報が外部からの不正アクセスによって漏えいした可能性があるということです。\n\n会社では金融機関の口座情報やクレジットカード、マイナンバーカードといった情報は含まれていないとしています。\n\nまたこれまでのところ、漏えいした可能性のある情報が、公開されたり拡散されたりする被害は確認されていないとしています。\n\n損害保険ジャパンでは、「多大なるご心配とご迷惑をおかけしておりますことを深くおわび申し上げます」とコメントしたうえで、委託先での情報管理を強化していくとしています。\n\nこの委託先のサーバーの不正アクセスをめぐっては、大和証券やシチズン時計も顧客情報が漏えいした可能性があると発表していて、影響が広がっています。\n",
+  "detailedArticleBody": {
+    "markedLead": "損害保険大手の損害保険ジャパンは、顧客からの問い合わせの情報を管理する委託先のサーバーに不正アクセスがあり、のべ6万件の顧客情報が漏えいした可能性があると発表しました。\n",
+    "markedBody": "損害保険ジャパンでは、通信機能を備えたドライブレコーダーのサービスを法人向けに提供しています。\n\n会社によりますと、このサービスを利用している法人の従業員の氏名や電話番号、それに住所やメールアドレスなどのべ6万件の顧客情報が外部からの不正アクセスによって漏えいした可能性があるということです。\n\n会社では金融機関の口座情報やクレジットカード、マイナンバーカードといった情報は含まれていないとしています。\n\nまたこれまでのところ、漏えいした可能性のある情報が、公開されたり拡散されたりする被害は確認されていないとしています。\n\n損害保険ジャパンでは、「多大なるご心配とご迷惑をおかけしておりますことを深くおわび申し上げます」とコメントしたうえで、委託先での情報管理を強化していくとしています。\n\nこの委託先のサーバーの不正アクセスをめぐっては、大和証券やシチズン時計も顧客情報が漏えいした可能性があると発表していて、影響が広がっています。\n",
+    "trimmedLead": "損害保険大手の損害保険ジャパンは、顧客からの問い合わせの情報を管理する委託先のサーバーに不正アクセスがあり、のべ6万件の顧客情報が漏えいした可能性があると発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261007de55973.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261007de55973",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "損保ジャパン のべ6万件の顧客情報が流出か 不正アクセス",
+      "description": "損害保険大手の損害保険ジャパンは、顧客からの問い合わせの情報を管理する委託先のサーバーに不正アクセスがあり、のべ6万件の顧客情報が漏えいした可能性があると発表しました。\n\n\n損害保険ジャパンでは、通信",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261007de55973_E0000051912_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261007de55973/20261007de55973_E0000051885_1_l.jpg",
+      "duration": "PT47S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261007de55973_E0000051912_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55973/20261007de55973_E0000051885_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "個人情報流出なぜ相次ぐ?“異様な状況”AI悪用可能性の指摘も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55037",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55037/20261006de55037_E0000047936_1_s.jpg",
+      "datePublished": "2026-10-06T20:08:00+09:00"
+    },
+    {
+      "name": "衆院予算委の質疑 与党“１日で” 野党“２日間で” 協議継続",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261007de55822",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55822/20261007de55822_E0000051741_1_s.jpg",
+      "datePublished": "2026-10-07T15:02:00+09:00"
+    },
+    {
+      "name": "簗農相“道路予算カット”発言で働きかけ改めて否定",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261007de55717",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55717/20261007de55717_E0000051765_1_s.jpg",
+      "datePublished": "2026-10-07T17:47:00+09:00"
+    },
+    {
+      "name": "大手ビールメーカー4社を強制調査 価格カルテル疑い 公取委　",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261007de55664",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55664/20261007de55664_E0000051622_1_s.jpg",
+      "datePublished": "2026-10-07T19:27:00+09:00"
+    },
+    {
+      "name": "高市首相 古謝知事と面会 米兵逮捕で“日米で協議進める”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261007de55698",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55698/20261007de55698_E0000051847_1_s.jpg",
+      "datePublished": "2026-10-07T18:37:50+09:00"
+    },
+    {
+      "name": "7月の生活保護申請 2万5000件余　直近10年の同月で2番目の多さ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261007de55881",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55881/20261007de55881_E0000051827_1_s.jpg",
+      "datePublished": "2026-10-07T16:36:42+09:00"
+    },
+    {
+      "name": "80歳暴力団員を海岸法違反疑いで逮捕 18年前から海の家営業か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261007de55816",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55816/20261007de55816_E0000051748_1_s.jpg",
+      "datePublished": "2026-10-07T14:50:53+09:00"
+    },
+    {
+      "name": "吉原の同系列風俗店を摘発 9人逮捕 47億円余売り上げか 警視庁",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261007de55830",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55830/20261007de55830_E0000003571_1_s.jpg",
+      "datePublished": "2026-10-07T14:46:48+09:00"
+    },
+    {
+      "name": "【随時更新】ノーベル化学賞に東京理科大学名誉教授",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55098",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55098/20261006de55098_E0000053582_1_s.jpg",
+      "datePublished": "2026-10-07T20:29:58+09:00"
+    },
+    {
+      "name": "臨時国会召集 審議の焦点とその行方は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55057",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55057/20261006de55057_E0000046999_1_s.jpg",
+      "datePublished": "2026-10-06T14:30:26+09:00"
+    },
+    {
+      "name": "“アフリカに野球を広めたい”スポーツでの国際協力",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261007de55704",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55704/20261007de55704_E0000051076_1_s.jpg",
+      "datePublished": "2026-10-07T14:02:48+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
