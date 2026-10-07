@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261008de56224",
+  "dataSourceId": "nd",
+  "name": "国際ハッカー集団 ドイツ当局「約4000の企業など攻撃」",
+  "headline": "国際ハッカー集団 ドイツ当局「約4000の企業など攻撃」",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261008de56224",
+    "playlistId": "news-nwa-international-nationwide-20261008",
+    "newsarticleName": "国際ハッカー集団 ドイツ当局「約4000の企業など攻撃」",
+    "playlistName": "10月8日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "日本で拘束され、10月、ドイツに身柄を引き渡された国際ハッカー集団の中心メンバーとみられる容疑者をめぐり、ドイツの当局は、このハッカー集団がおととし以降、世界のおよそ4000の企業などにサイバー攻撃を",
+  "dateModified": "2026-10-08T05:47:42+09:00",
+  "datePublished": "2026-10-08T05:47:42+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56224/20261008de56224_E0000054474_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56224/20261008de56224_E0000054474_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "E0000000225",
+      "name": "ドイツ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "日本で拘束され、10月、ドイツに身柄を引き渡された国際ハッカー集団の中心メンバーとみられる容疑者をめぐり、ドイツの当局は、このハッカー集団がおととし以降、世界のおよそ4000の企業などにサイバー攻撃を",
+  "articleBody": "日本で拘束され、10月、ドイツに身柄を引き渡された国際ハッカー集団の中心メンバーとみられる容疑者をめぐり、ドイツの当局は、このハッカー集団がおととし以降、世界のおよそ4000の企業などにサイバー攻撃を仕掛けていたと明らかにしました。\n\n\n日本の捜査当局からドイツに身柄が引き渡されたのは「Qilin」と名乗る国際ハッカー集団の中心メンバーとみられるロシア国籍の28歳の男の容疑者です。\n\nドイツの当局は7日、記者会見し「主要人物の1人を拘束した。10月2日、ドイツに引き渡された」と述べました。\n\nそのうえで、このハッカー集団について、身代金要求型のコンピューターウイルス＝「ランサムウエア」によるサイバー攻撃を仕掛ける犯罪組織で、おととし以降、世界であわせておよそ4000の企業や病院、行政機関を攻撃してきたと明らかにしました。\n\nさらに攻撃の対象とした企業などに対しこの4年間であわせて29億ドル、日本円にしておよそ4500億円を要求し、220億円以上が実際に支払われたとしています。\n\nドイツでは、キリスト教の団体や連邦議会に議席を持つ政党など、およそ150の組織などが標的になったということで、ドイツの当局は、このハッカー集団はインターネット上で最も活発で悪質な集団の1つだと強調し、警戒を呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "日本で拘束され、10月、ドイツに身柄を引き渡された国際ハッカー集団の中心メンバーとみられる容疑者をめぐり、ドイツの当局は、このハッカー集団がおととし以降、世界のおよそ4000の企業などにサイバー攻撃を仕掛けていたと明らかにしました。\n",
+    "markedBody": "日本の捜査当局からドイツに身柄が引き渡されたのは「Qilin」と名乗る国際ハッカー集団の中心メンバーとみられるロシア国籍の28歳の男の容疑者です。\n\nドイツの当局は7日、記者会見し「主要人物の1人を拘束した。10月2日、ドイツに引き渡された」と述べました。\n\nそのうえで、このハッカー集団について、身代金要求型のコンピューターウイルス＝「ランサムウエア」によるサイバー攻撃を仕掛ける犯罪組織で、おととし以降、世界であわせておよそ4000の企業や病院、行政機関を攻撃してきたと明らかにしました。\n\nさらに攻撃の対象とした企業などに対しこの4年間であわせて29億ドル、日本円にしておよそ4500億円を要求し、220億円以上が実際に支払われたとしています。\n\nドイツでは、キリスト教の団体や連邦議会に議席を持つ政党など、およそ150の組織などが標的になったということで、ドイツの当局は、このハッカー集団はインターネット上で最も活発で悪質な集団の1つだと強調し、警戒を呼びかけています。\n",
+    "trimmedLead": "日本で拘束され、10月、ドイツに身柄を引き渡された国際ハッカー集団の中心メンバーとみられる容疑者をめぐり、ドイツの当局は、このハッカー集団がおととし以降、世界のおよそ4000の企業などにサイバー攻撃を仕掛けていたと明らかにしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261008de56224.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261008de56224",
+  "video": [],
+  "citation": [
+    {
+      "name": "ハッカー集団 中心人物か 国内で拘束 アサヒGHD攻撃にも関与か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55001",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55001/20261006de55001_E0000046914_1_s.jpg",
+      "datePublished": "2026-10-06T18:22:52+09:00"
+    },
+    {
+      "name": "ノーベル化学賞に東京理科大学名誉教授",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55098",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55098/20261006de55098_E0000054434_1_s.jpg",
+      "datePublished": "2026-10-07T22:58:00+09:00"
+    },
+    {
+      "name": "米バンス副大統領“イランはウラン濃縮能力削減に応じるべき”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261007de55829",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/r/kiji/20261007de55829/20261007de55829_E0000051780_1_s.jpg",
+      "datePublished": "2026-10-07T16:47:36+09:00"
+    },
+    {
+      "name": "米アンソロピックがAIモデル「ミュトス」の提供先を拡大",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261007de55853",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55853/20261007de55853_E0000051778_1_s.jpg",
+      "datePublished": "2026-10-07T15:24:00+09:00"
+    },
+    {
+      "name": "ドイツ情報機関元トップらをスパイ容疑などで逮捕",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261007de56154",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de56154/20261007de56154_E0000054368_1_s.jpg",
+      "datePublished": "2026-10-07T21:32:48+09:00"
+    },
+    {
+      "name": "「監視社会」か「治安の維持」か カメラをめぐる論争",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261005de54467",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54467/20261005de54467_E0000046963_1_s.jpg",
+      "datePublished": "2026-10-07T12:10:05+09:00"
+    },
+    {
+      "name": "デンマーク 人口上回る880万人分の個人情報に不正アクセス",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261007de56148",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de56148/20261007de56148_E0000053971_1_s.jpg",
+      "datePublished": "2026-10-07T21:19:08+09:00"
+    },
+    {
+      "name": "ロシア軍 プーチン大統領の誕生日に大規模攻撃 12人以上死亡",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261007de56090",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de56090/20261007de56090_E0000053318_1_s.jpg",
+      "datePublished": "2026-10-07T18:50:00+09:00"
+    },
+    {
+      "name": "パレスチナ ガザ地区 戦闘開始から3年 厳しい人道状況続く",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261007de55611",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55611/20261007de55611_E0000050597_1_s.jpg",
+      "datePublished": "2026-10-07T19:00:16+09:00"
+    },
+    {
+      "name": "対ロシア カナダ首相の覚悟",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55077",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55077/20261006de55077_E0000047033_1_s.jpg",
+      "datePublished": "2026-10-06T12:54:32+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
