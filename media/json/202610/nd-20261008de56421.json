@@ -1,0 +1,144 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261008de56421",
+  "dataSourceId": "nd",
+  "name": "墨田区の高校で生徒が防犯用スプレー噴射 2人軽傷",
+  "headline": "墨田区の高校で生徒が防犯用スプレー噴射 2人軽傷",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261008de56421",
+    "playlistId": "news-nwa-society-nationwide-20261008",
+    "newsarticleName": "墨田区の高校で生徒が防犯用スプレー噴射 2人軽傷",
+    "playlistName": "10月8日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "8日朝、東京・墨田区の高校の教室で生徒が防犯用スプレーを噴射して生徒2人が目の痛みを訴えるなど軽いけがをしました。\n\n\n警視庁によりますと、8日午前9時すぎ、東京・墨田区太平の立志舎高校で、防犯用のス",
+  "dateModified": "2026-10-08T11:55:00+09:00",
+  "datePublished": "2026-10-08T11:55:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56421/20261008de56421_E0000055125_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56421/20261008de56421_E0000055125_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000341",
+      "name": "東京都",
+      "display": true
+    },
+    {
+      "id": "E0000000208",
+      "name": "事件・事故",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "8日朝、東京・墨田区の高校の教室で生徒が防犯用スプレーを噴射して生徒2人が目の痛みを訴えるなど軽いけがをしました。\n\n\n警視庁によりますと、8日午前9時すぎ、東京・墨田区太平の立志舎高校で、防犯用のス",
+  "articleBody": "8日朝、東京・墨田区の高校の教室で生徒が防犯用スプレーを噴射して生徒2人が目の痛みを訴えるなど軽いけがをしました。\n\n\n警視庁によりますと、8日午前9時すぎ、東京・墨田区太平の立志舎高校で、防犯用のスプレーが誤って噴射され、体調が悪い生徒がいるという通報がありました。\n\nスプレーが噴射されたのは生徒およそ30人がいた教室の中で、男子生徒1人と女子生徒1人が目の痛みを訴えるなど軽いけがをしたということです。\n\n当時、学校は朝のホームルームの時間で、警視庁のこれまでの調べでは教室にいた別の男子生徒がスプレーを床に向けて噴射したとみられるということで詳しい状況を調べています。\n\n現場の学校は、JR錦糸町駅から北におよそ500メートル余り離れたビルなどが建ち並ぶ場所の一角です。\n",
+  "detailedArticleBody": {
+    "markedLead": "8日朝、東京・墨田区の高校の教室で生徒が防犯用スプレーを噴射して生徒2人が目の痛みを訴えるなど軽いけがをしました。\n",
+    "markedBody": "警視庁によりますと、8日午前9時すぎ、東京・墨田区太平の立志舎高校で、防犯用のスプレーが誤って噴射され、体調が悪い生徒がいるという通報がありました。\n\nスプレーが噴射されたのは生徒およそ30人がいた教室の中で、男子生徒1人と女子生徒1人が目の痛みを訴えるなど軽いけがをしたということです。\n\n当時、学校は朝のホームルームの時間で、警視庁のこれまでの調べでは教室にいた別の男子生徒がスプレーを床に向けて噴射したとみられるということで詳しい状況を調べています。\n\n現場の学校は、JR錦糸町駅から北におよそ500メートル余り離れたビルなどが建ち並ぶ場所の一角です。\n",
+    "trimmedLead": "8日朝、東京・墨田区の高校の教室で生徒が防犯用スプレーを噴射して生徒2人が目の痛みを訴えるなど軽いけがをしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261008de56421.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261008de56421",
+  "video": [],
+  "citation": [
+    {
+      "name": "ノーベル賞 きょうは文学賞の発表 村上春樹さんの受賞に期待も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261007de55972",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55972/20261007de55972_E0000051870_1_s.jpg",
+      "datePublished": "2026-10-08T05:44:07+09:00"
+    },
+    {
+      "name": "参院できょうから代表質問 消費税減税など論戦 農相発言追及も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56201",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56201/20261008de56201_E0000054458_1_s.jpg",
+      "datePublished": "2026-10-08T05:35:00+09:00"
+    },
+    {
+      "name": "ローカル線に続き「幹線」も 鉄道網見直しへ新たな議論",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56192",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56192/20261008de56192_E0000054457_1_s.jpg",
+      "datePublished": "2026-10-08T05:30:00+09:00"
+    },
+    {
+      "name": "大手ビールメーカー4社 出荷価格の一覧表“裏会”で示し協議か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56219",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56219/20261008de56219_E0000054467_1_s.jpg",
+      "datePublished": "2026-10-08T05:26:00+09:00"
+    },
+    {
+      "name": "トランプ大統領 ロシア研究所職員死亡“生物兵器”否定的見方",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56250",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56250/20261008de56250_E0000054862_1_s.jpg",
+      "datePublished": "2026-10-08T10:34:00+09:00"
+    },
+    {
+      "name": "パリのシャンゼリゼ通りと大阪・御堂筋が「姉妹ストリート」に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56247",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56247/20261008de56247_E0000054780_1_s.jpg",
+      "datePublished": "2026-10-08T08:58:49+09:00"
+    },
+    {
+      "name": "プロ野球 中日の新監督に工藤公康氏 就任へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56275",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56275/20261008de56275_E0000054887_1_s.jpg",
+      "datePublished": "2026-10-08T10:49:00+09:00"
+    },
+    {
+      "name": "ドジャース 3年連続でリーグ優勝決定シリーズ進出",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56277",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56277/20261008de56277_E0000055017_1_s.jpg",
+      "datePublished": "2026-10-08T12:26:00+09:00"
+    },
+    {
+      "name": "負けても負けても…愛される 新“負け組の星”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55370",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55370/20261006de55370_E0000050955_1_s.jpg",
+      "datePublished": "2026-10-07T17:18:27+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
