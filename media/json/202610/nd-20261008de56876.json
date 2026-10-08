@@ -1,0 +1,139 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261008de56876",
+  "dataSourceId": "nd",
+  "name": "相次ぐ不正アクセスで3つの攻撃手法 専門機関が注意呼びかけ",
+  "headline": "相次ぐ不正アクセスで3つの攻撃手法 専門機関が注意呼びかけ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261008de56876",
+    "playlistId": "news-nwa-society-nationwide-20261008",
+    "newsarticleName": "相次ぐ不正アクセスで3つの攻撃手法 専門機関が注意呼びかけ",
+    "playlistName": "10月8日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "不正アクセスで個人情報が流出する被害が相次いでいることを受けて、情報セキュリティーの専門機関がこれまでに確認されている3つの攻撃手法を公開し、企業などに注意を呼びかけています。\n\n\n国内のサイバー攻撃",
+  "dateModified": "2026-10-08T21:25:30+09:00",
+  "datePublished": "2026-10-08T21:25:30+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56876/20261008de56876_E0000058643_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56876/20261008de56876_E0000058643_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "不正アクセスで個人情報が流出する被害が相次いでいることを受けて、情報セキュリティーの専門機関がこれまでに確認されている3つの攻撃手法を公開し、企業などに注意を呼びかけています。\n\n\n国内のサイバー攻撃",
+  "articleBody": "不正アクセスで個人情報が流出する被害が相次いでいることを受けて、情報セキュリティーの専門機関がこれまでに確認されている3つの攻撃手法を公開し、企業などに注意を呼びかけています。\n\n\n国内のサイバー攻撃の報告を受け付けて、対応を支援している専門機関「JPCERTコーディネーションセンター」は先月ごろから相次いでいるサイバー攻撃で確認された手法について公開しました。\n\n主に3つの手法があり、すでに知られているソフトウエアのぜい弱性を探索して攻撃するもの、アプリなどで使われるデータをやりとりする仕組みを経由して不正に操作するもの、ことし8月に公表された特定の分析ツールのぜい弱性を悪用するものだったということです。\n\n攻撃の通信先には国内や海外のサーバーが確認されているということです。\n\nJPCERTコーディネーションセンターは企業などに対策として、ソフトウエアを最新に更新してぜい弱性を修正することや保存期間を過ぎた個人情報などのデータは削除することなどを呼びかけています。\n\n今回の分析には、ランサムウエアを使ったサイバー攻撃は含まれておらず、今後も被害の状況を踏まえて、情報を公開していくとしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "不正アクセスで個人情報が流出する被害が相次いでいることを受けて、情報セキュリティーの専門機関がこれまでに確認されている3つの攻撃手法を公開し、企業などに注意を呼びかけています。\n",
+    "markedBody": "国内のサイバー攻撃の報告を受け付けて、対応を支援している専門機関「JPCERTコーディネーションセンター」は先月ごろから相次いでいるサイバー攻撃で確認された手法について公開しました。\n\n主に3つの手法があり、すでに知られているソフトウエアのぜい弱性を探索して攻撃するもの、アプリなどで使われるデータをやりとりする仕組みを経由して不正に操作するもの、ことし8月に公表された特定の分析ツールのぜい弱性を悪用するものだったということです。\n\n攻撃の通信先には国内や海外のサーバーが確認されているということです。\n\nJPCERTコーディネーションセンターは企業などに対策として、ソフトウエアを最新に更新してぜい弱性を修正することや保存期間を過ぎた個人情報などのデータは削除することなどを呼びかけています。\n\n今回の分析には、ランサムウエアを使ったサイバー攻撃は含まれておらず、今後も被害の状況を踏まえて、情報を公開していくとしています。\n",
+    "trimmedLead": "不正アクセスで個人情報が流出する被害が相次いでいることを受けて、情報セキュリティーの専門機関がこれまでに確認されている3つの攻撃手法を公開し、企業などに注意を呼びかけています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261008de56876.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261008de56876",
+  "video": [],
+  "citation": [
+    {
+      "name": "ノーベル文学賞にアン・カーソン氏 カナダの詩人",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261007de55972",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55972/20261007de55972_E0000051870_1_s.jpg",
+      "datePublished": "2026-10-08T22:08:30+09:00"
+    },
+    {
+      "name": "神奈川県警の警察官 回収した運転免許証 数十枚不正に持ち出し",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56547",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56547/20261008de56547_E0000055866_1_s.jpg",
+      "datePublished": "2026-10-08T15:02:00+09:00"
+    },
+    {
+      "name": "参議院自民 参議院幹事長人事で石井氏交代の説明を求める声",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56463",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56463/20261008de56463_E0000055554_1_s.jpg",
+      "datePublished": "2026-10-08T13:14:00+09:00"
+    },
+    {
+      "name": "プルデンシャル生命 不適切受領52億円に 社長陳謝",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56488",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56488/20261008de56488_E0000055741_1_s.jpg",
+      "datePublished": "2026-10-08T18:01:00+09:00"
+    },
+    {
+      "name": "ソフトバンク子会社にランサムウエア攻撃 企業や自治体に影響",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56405",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56405/20261008de56405_E0000056119_1_s.jpg",
+      "datePublished": "2026-10-08T19:13:32+09:00"
+    },
+    {
+      "name": "パリのシャンゼリゼ通りと大阪・御堂筋が「姉妹ストリート」に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56247",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56247/20261008de56247_E0000054780_1_s.jpg",
+      "datePublished": "2026-10-08T08:58:49+09:00"
+    },
+    {
+      "name": "プロ野球 中日の新監督に工藤公康氏 就任へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56275",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56275/20261008de56275_E0000054887_1_s.jpg",
+      "datePublished": "2026-10-08T10:49:00+09:00"
+    },
+    {
+      "name": "ドジャース 3年連続でリーグ優勝決定シリーズ進出",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56277",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56277/20261008de56277_E0000055017_1_s.jpg",
+      "datePublished": "2026-10-08T19:50:26+09:00"
+    },
+    {
+      "name": "負けても負けても…愛される 新“負け組の星”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55370",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55370/20261006de55370_E0000050955_1_s.jpg",
+      "datePublished": "2026-10-07T17:18:27+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

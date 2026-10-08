@@ -1,0 +1,198 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261008de56831",
+  "dataSourceId": "nd",
+  "name": "第一興商で個人情報漏えいのおそれ ローソンでは漏えいが確認",
+  "headline": "第一興商で個人情報漏えいのおそれ ローソンでは漏えいが確認",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261008de56831",
+    "playlistId": "news-nwa-society-nationwide-20261008",
+    "newsarticleName": "第一興商で個人情報漏えいのおそれ ローソンでは漏えいが確認",
+    "playlistName": "10月8日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "カラオケ店などを運営する第一興商は、個人情報の取り扱いを委託している会社の従業員の端末がマルウエアに感染し、およそ872万件の個人情報が外部に漏えいしたおそれがあると明らかにしました。\nまたローソンも",
+  "dateModified": "2026-10-08T19:17:00+09:00",
+  "datePublished": "2026-10-08T19:17:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56831/20261008de56831_E0000057806_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56831/20261008de56831_E0000057806_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "カラオケ店などを運営する第一興商は、個人情報の取り扱いを委託している会社の従業員の端末がマルウエアに感染し、およそ872万件の個人情報が外部に漏えいしたおそれがあると明らかにしました。\nまたローソンも",
+  "articleBody": "カラオケ店などを運営する第一興商は、個人情報の取り扱いを委託している会社の従業員の端末がマルウエアに感染し、およそ872万件の個人情報が外部に漏えいしたおそれがあると明らかにしました。\nまたローソンも不正アクセスによっておよそ215万件の個人情報の漏えいが確認されたと明らかにしました。\n\n\n第一興商 約872万件の個人情報が外部に漏れたおそれ\n\nカラオケ店などを運営する第一興商は8日、店の利用客などのおよそ872万件の個人情報が外部に漏れたおそれがあると明らかにしました。\n\n会社によりますと、個人情報の取り扱いを委託している会社の従業員の端末がマルウエアに感染したことによるもので、漏えいした可能性があるのは利用客や従業員の氏名や性別のほか、生年月日、メールアドレスなどだということです。\n\n現時点で不正利用は確認されていないとしています。\n\nローソン 215万件余の個人情報 外部への漏えいを確認\n\nローソンは会社のシステムが不正アクセスを受けて、215万件あまりの個人情報が外部に漏れたことが確認されたと明らかにしました。\n\n漏れたのはローソンのアプリなどを利用する際に必要なIDを登録している人の名前やメールアドレスです。\n\n会社によりますと、利用したことがあるサービスによって、住所やクレジットカードの番号の一部が漏れた人もいるということです。\n\n現時点で不正利用は確認されていないということで、会社では対象者に順次通知することにしています。\n\n不正アクセスによる個人情報の流出が相次ぐなか、各社では不審な電話やメールに注意するよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "カラオケ店などを運営する第一興商は、個人情報の取り扱いを委託している会社の従業員の端末がマルウエアに感染し、およそ872万件の個人情報が外部に漏えいしたおそれがあると明らかにしました。\\\nまたローソンも不正アクセスによっておよそ215万件の個人情報の漏えいが確認されたと明らかにしました。\n",
+    "markedBody": "## 第一興商 約872万件の個人情報が外部に漏れたおそれ\n\nカラオケ店などを運営する第一興商は8日、店の利用客などのおよそ872万件の個人情報が外部に漏れたおそれがあると明らかにしました。\n\n会社によりますと、個人情報の取り扱いを委託している会社の従業員の端末がマルウエアに感染したことによるもので、漏えいした可能性があるのは利用客や従業員の氏名や性別のほか、生年月日、メールアドレスなどだということです。\n\n現時点で不正利用は確認されていないとしています。\n\n## ローソン 215万件余の個人情報 外部への漏えいを確認\n\nローソンは会社のシステムが不正アクセスを受けて、215万件あまりの個人情報が外部に漏れたことが確認されたと明らかにしました。\n\n漏れたのはローソンのアプリなどを利用する際に必要なIDを登録している人の名前やメールアドレスです。\n\n会社によりますと、利用したことがあるサービスによって、住所やクレジットカードの番号の一部が漏れた人もいるということです。\n\n現時点で不正利用は確認されていないということで、会社では対象者に順次通知することにしています。\n\n不正アクセスによる個人情報の流出が相次ぐなか、各社では不審な電話やメールに注意するよう呼びかけています。\n",
+    "trimmedLead": "カラオケ店などを運営する第一興商は、個人情報の取り扱いを委託している会社の従業員の端末がマルウエアに感染し、およそ872万件の個人情報が外部に漏えいしたおそれがあると明らかにしました。\nまたローソンも不正アクセスによっておよそ215万件の個人情報の漏えいが確認されたと明らかにしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261008de56831.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261008de56831",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "第一興商で個人情報漏えいのおそれ ローソンでは漏えいが確認",
+      "description": "カラオケ店などを運営する第一興商は、個人情報の取り扱いを委託している会社の従業員の端末がマルウエアに感染し、およそ872万件の個人情報が外部に漏えいしたおそれがあると明らかにしました。\nまたローソンも",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261008de56831_E0000057855_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261008de56831/20261008de56831_E0000057806_1_l.jpg",
+      "duration": "PT38S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261008de56831_E0000057855_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56831/20261008de56831_E0000057806_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "運転免許証 情報漏えいで再交付申請相次ぐ“効果は限定的”か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56278",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56278/20261008de56278_E0000056010_1_s.jpg",
+      "datePublished": "2026-10-08T18:29:00+09:00"
+    },
+    {
+      "name": "タイムズカー情報漏えい 業界団体に対策の点検を要請 国交省",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55582",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55582/20261006de55582_E0000050573_1_s.jpg",
+      "datePublished": "2026-10-07T05:04:00+09:00"
+    },
+    {
+      "name": "損保ジャパン のべ6万件の顧客情報が流出か 不正アクセス",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261007de55973",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55973/20261007de55973_E0000051885_1_s.jpg",
+      "datePublished": "2026-10-07T18:08:00+09:00"
+    },
+    {
+      "name": "ソフトバンク子会社に不正アクセス クラウドサービスに障害",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261007de56048",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de56048/20261007de56048_E0000052439_1_s.jpg",
+      "datePublished": "2026-10-07T19:54:00+09:00"
+    },
+    {
+      "name": " HIS 去年の不正アクセスで最大627人分のパスポート情報流出か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261007de56092",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de56092/20261007de56092_E0000053502_1_s.jpg",
+      "datePublished": "2026-10-07T18:59:00+09:00"
+    },
+    {
+      "name": "ノーベル文学賞にアン・カーソン氏 カナダの詩人",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261007de55972",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55972/20261007de55972_E0000051870_1_s.jpg",
+      "datePublished": "2026-10-08T22:08:30+09:00"
+    },
+    {
+      "name": "神奈川県警の警察官 回収した運転免許証 数十枚不正に持ち出し",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56547",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56547/20261008de56547_E0000055866_1_s.jpg",
+      "datePublished": "2026-10-08T15:02:00+09:00"
+    },
+    {
+      "name": "参議院自民 参議院幹事長人事で石井氏交代の説明を求める声",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56463",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56463/20261008de56463_E0000055554_1_s.jpg",
+      "datePublished": "2026-10-08T13:14:00+09:00"
+    },
+    {
+      "name": "プルデンシャル生命 不適切受領52億円に 社長陳謝",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56488",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56488/20261008de56488_E0000055741_1_s.jpg",
+      "datePublished": "2026-10-08T18:01:00+09:00"
+    },
+    {
+      "name": "ソフトバンク子会社にランサムウエア攻撃 企業や自治体に影響",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56405",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56405/20261008de56405_E0000056119_1_s.jpg",
+      "datePublished": "2026-10-08T19:13:32+09:00"
+    },
+    {
+      "name": "パリのシャンゼリゼ通りと大阪・御堂筋が「姉妹ストリート」に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56247",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56247/20261008de56247_E0000054780_1_s.jpg",
+      "datePublished": "2026-10-08T08:58:49+09:00"
+    },
+    {
+      "name": "プロ野球 中日の新監督に工藤公康氏 就任へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56275",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56275/20261008de56275_E0000054887_1_s.jpg",
+      "datePublished": "2026-10-08T10:49:00+09:00"
+    },
+    {
+      "name": "ドジャース 3年連続でリーグ優勝決定シリーズ進出",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56277",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56277/20261008de56277_E0000055017_1_s.jpg",
+      "datePublished": "2026-10-08T19:50:26+09:00"
+    },
+    {
+      "name": "負けても負けても…愛される 新“負け組の星”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55370",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55370/20261006de55370_E0000050955_1_s.jpg",
+      "datePublished": "2026-10-07T17:18:27+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
