@@ -1,0 +1,149 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261009de56918",
+  "dataSourceId": "nd",
+  "name": "ソフトバンク子会社 サイバー攻撃受け データ復旧などは困難",
+  "headline": "ソフトバンク子会社 サイバー攻撃受け データ復旧などは困難",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261009de56918",
+    "playlistId": "news-nwa-business-nationwide-20261009",
+    "newsarticleName": "ソフトバンク子会社 サイバー攻撃受け データ復旧などは困難",
+    "playlistName": "10月9日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "ソフトバンクの子会社のシステムがサイバー攻撃を受けた影響で、495の企業や自治体などに影響が出る中、会社は8日、遮断したサーバーに保管された顧客のデータは取り出しや復元が困難だという見通しを明らかにし",
+  "dateModified": "2026-10-09T06:28:00+09:00",
+  "datePublished": "2026-10-09T06:28:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56918/20261009de56918_E0000058822_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56918/20261009de56918_E0000058822_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "E0000000336",
+      "name": "茨城県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ソフトバンクの子会社のシステムがサイバー攻撃を受けた影響で、495の企業や自治体などに影響が出る中、会社は8日、遮断したサーバーに保管された顧客のデータは取り出しや復元が困難だという見通しを明らかにし",
+  "articleBody": "ソフトバンクの子会社のシステムがサイバー攻撃を受けた影響で、495の企業や自治体などに影響が出る中、会社は8日、遮断したサーバーに保管された顧客のデータは取り出しや復元が困難だという見通しを明らかにしました。\n\n\nソフトバンクの子会社「IDCフロンティア」は7日、法人向けのクラウドサービスのシステムが身代金要求型のコンピューターウイルス「ランサムウエア」による攻撃を受けたと発表しました。\n\n会社ではこのシステムを使ったサービスを利用している495の企業や自治体などに影響が及んでいるとしていて、8日もこれらの企業や自治体では、通常どおりの業務ができないなどの影響が続きました。\n\n会社は攻撃を受けてから二次被害などを防ぐためネットワークを遮断してシステムを停止していますが、8日、新たに遮断したサーバーに保管されている顧客のデータは取り出しや復元が困難だという見通しを明らかにしました。\n\nデータの復元は顧客自身がバックアップしているデータからのみ可能だとして、その場合の作業は顧客自身で行うよう呼びかけています。\n\n今回のサイバー攻撃の影響で、茨城県の公式ホームページでは閲覧できない状態が続き、県は8日、災害情報の提供や電子申請など緊急性が高い情報を掲載する「暫定版ホームページ」を開設したほか、食品大手のニッスイの冷蔵や冷凍の食品などの物流を担う子会社では、全国にある17の物流拠点すべてで入荷や出荷ができない状態が続いています。\n\nまたNTTドコモは8日、サイトの閲覧を制限するといった子ども向けのフィルタリングの機能が使えなくなっていることを明らかにしました。\n\n会社は現在も影響範囲の特定やサイバー攻撃の経路などの確認を進めていて、現時点でシステムの復旧のめどは立っていないということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "ソフトバンクの子会社のシステムがサイバー攻撃を受けた影響で、495の企業や自治体などに影響が出る中、会社は8日、遮断したサーバーに保管された顧客のデータは取り出しや復元が困難だという見通しを明らかにしました。\n",
+    "markedBody": "ソフトバンクの子会社「IDCフロンティア」は7日、法人向けのクラウドサービスのシステムが身代金要求型のコンピューターウイルス「ランサムウエア」による攻撃を受けたと発表しました。\n\n会社ではこのシステムを使ったサービスを利用している495の企業や自治体などに影響が及んでいるとしていて、8日もこれらの企業や自治体では、通常どおりの業務ができないなどの影響が続きました。\n\n会社は攻撃を受けてから二次被害などを防ぐためネットワークを遮断してシステムを停止していますが、8日、新たに遮断したサーバーに保管されている顧客のデータは取り出しや復元が困難だという見通しを明らかにしました。\n\nデータの復元は顧客自身がバックアップしているデータからのみ可能だとして、その場合の作業は顧客自身で行うよう呼びかけています。\n\n今回のサイバー攻撃の影響で、茨城県の公式ホームページでは閲覧できない状態が続き、県は8日、災害情報の提供や電子申請など緊急性が高い情報を掲載する「暫定版ホームページ」を開設したほか、食品大手のニッスイの冷蔵や冷凍の食品などの物流を担う子会社では、全国にある17の物流拠点すべてで入荷や出荷ができない状態が続いています。\n\nまたNTTドコモは8日、サイトの閲覧を制限するといった子ども向けのフィルタリングの機能が使えなくなっていることを明らかにしました。\n\n会社は現在も影響範囲の特定やサイバー攻撃の経路などの確認を進めていて、現時点でシステムの復旧のめどは立っていないということです。\n",
+    "trimmedLead": "ソフトバンクの子会社のシステムがサイバー攻撃を受けた影響で、495の企業や自治体などに影響が出る中、会社は8日、遮断したサーバーに保管された顧客のデータは取り出しや復元が困難だという見通しを明らかにしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261009de56918.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261009de56918",
+  "video": [],
+  "citation": [
+    {
+      "name": "企業への不正アクセス 相次いで明らかに",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261009de56931",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56931/20261009de56931_E0000003476_1_s.jpg",
+      "datePublished": "2026-10-09T05:38:00+09:00"
+    },
+    {
+      "name": "ソフトバンク子会社にランサムウエア攻撃 企業や自治体に影響",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56405",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56405/20261008de56405_E0000056119_1_s.jpg",
+      "datePublished": "2026-10-08T19:13:32+09:00"
+    },
+    {
+      "name": "相次ぐ不正アクセスで3つの攻撃手法 専門機関が注意呼びかけ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56876",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56876/20261008de56876_E0000058643_1_s.jpg",
+      "datePublished": "2026-10-08T21:25:30+09:00"
+    },
+    {
+      "name": "サイバー攻撃 SKE48のファン向けメールサービス利用できず",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56796",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56796/20261008de56796_E0000057532_1_s.jpg",
+      "datePublished": "2026-10-08T19:04:00+09:00"
+    },
+    {
+      "name": "プルデンシャル生命 不適切受領52億円に 社長陳謝",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56488",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56488/20261008de56488_E0000055741_1_s.jpg",
+      "datePublished": "2026-10-08T18:01:00+09:00"
+    },
+    {
+      "name": "ファーストリテイリング決算 国内外好調で過去最高益",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56898",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56898/20261008de56898_E0000058830_1_s.jpg",
+      "datePublished": "2026-10-09T00:50:00+09:00"
+    },
+    {
+      "name": "トヨタ 中国で競争力強化へ 中国の車大手と3社で戦略提携 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261009de56905",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56905/20261009de56905_E0000058827_1_s.jpg",
+      "datePublished": "2026-10-09T01:14:00+09:00"
+    },
+    {
+      "name": "日本や東南アジアなど緊急時の石油備蓄放出検討で合意",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261009de56915",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56915/20261009de56915_E0000058834_1_s.jpg",
+      "datePublished": "2026-10-09T01:15:00+09:00"
+    },
+    {
+      "name": "負けても負けても…愛される 新“負け組の星”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55370",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55370/20261006de55370_E0000050955_1_s.jpg",
+      "datePublished": "2026-10-07T17:18:27+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

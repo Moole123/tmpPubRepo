@@ -1,0 +1,144 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261009de56931",
+  "dataSourceId": "nd",
+  "name": "企業への不正アクセス 相次いで明らかに",
+  "headline": "企業への不正アクセス 相次いで明らかに",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261009de56931",
+    "playlistId": "news-nwa-business-nationwide-20261009",
+    "newsarticleName": "企業への不正アクセス 相次いで明らかに",
+    "playlistName": "10月9日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "企業への不正アクセスによる被害が相次ぐ中、8日、カラオケ店などを運営する第一興商がおよそ872万件の個人情報が外部に漏えいしたおそれがあると明らかにしたほか、ニュースメディア「NewsPicks」の運",
+  "dateModified": "2026-10-09T05:38:00+09:00",
+  "datePublished": "2026-10-09T05:38:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56931/20261009de56931_E0000003476_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56931/20261009de56931_E0000003476_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "企業への不正アクセスによる被害が相次ぐ中、8日、カラオケ店などを運営する第一興商がおよそ872万件の個人情報が外部に漏えいしたおそれがあると明らかにしたほか、ニュースメディア「NewsPicks」の運",
+  "articleBody": "企業への不正アクセスによる被害が相次ぐ中、8日、カラオケ店などを運営する第一興商がおよそ872万件の個人情報が外部に漏えいしたおそれがあると明らかにしたほか、ニュースメディア「NewsPicks」の運営会社も不正アクセスによってサービスの利用者のクレジットカードの情報の一部などが外部に漏えいした可能性があると明らかにしました。\n\n\nカラオケ店などを運営する第一興商は8日、店の利用客などのおよそ872万件の個人情報が外部に漏えいしたおそれがあると明らかにしました。\n\n会社によりますと、個人情報の取り扱いを委託している会社の従業員の端末がマルウエアに感染したことによるもので、漏えいした可能性があるのは、利用客や従業員の氏名や性別のほか、生年月日、メールアドレスなどだということです。\n\nまた、ローソンは会社のシステムが不正アクセスを受けて、215万件あまりの個人情報が外部に漏えいしたことが確認されたと明らかにしました。\n\n漏えいしたのはローソンのアプリなどを利用する際に必要なIDを登録している人の名前やメールアドレスです。\n\n会社によりますと利用したことがあるサービスによって、住所やクレジットカードの番号の一部が漏れた人もいるということです。\n\nさらにニュースメディア「NewsPicks」の運営会社、ユーザベースは、業務で利用している管理ツールが第三者による不正アクセスを受け、サービスを利用したことがある一部の人の個人情報が外部に漏えいした可能性があると明らかにしました。\n\n会社によりますと、漏えいした可能性があるのは、氏名や勤務先、住所などのほか、クレジットカードの名義やカードの番号の一部だということで、現在も詳細な調査を進めているとしています。\n\nいずれの会社も現時点で不正な利用は確認されていないとしていますが、さまざまな企業で不正アクセスによる被害が相次いで明らかになる事態となっています。\n",
+  "detailedArticleBody": {
+    "markedLead": "企業への不正アクセスによる被害が相次ぐ中、8日、カラオケ店などを運営する第一興商がおよそ872万件の個人情報が外部に漏えいしたおそれがあると明らかにしたほか、ニュースメディア「NewsPicks」の運営会社も不正アクセスによってサービスの利用者のクレジットカードの情報の一部などが外部に漏えいした可能性があると明らかにしました。\n",
+    "markedBody": "カラオケ店などを運営する第一興商は8日、店の利用客などのおよそ872万件の個人情報が外部に漏えいしたおそれがあると明らかにしました。\n\n会社によりますと、個人情報の取り扱いを委託している会社の従業員の端末がマルウエアに感染したことによるもので、漏えいした可能性があるのは、利用客や従業員の氏名や性別のほか、生年月日、メールアドレスなどだということです。\n\nまた、ローソンは会社のシステムが不正アクセスを受けて、215万件あまりの個人情報が外部に漏えいしたことが確認されたと明らかにしました。\n\n漏えいしたのはローソンのアプリなどを利用する際に必要なIDを登録している人の名前やメールアドレスです。\n\n会社によりますと利用したことがあるサービスによって、住所やクレジットカードの番号の一部が漏れた人もいるということです。\n\nさらにニュースメディア「NewsPicks」の運営会社、ユーザベースは、業務で利用している管理ツールが第三者による不正アクセスを受け、サービスを利用したことがある一部の人の個人情報が外部に漏えいした可能性があると明らかにしました。\n\n会社によりますと、漏えいした可能性があるのは、氏名や勤務先、住所などのほか、クレジットカードの名義やカードの番号の一部だということで、現在も詳細な調査を進めているとしています。\n\nいずれの会社も現時点で不正な利用は確認されていないとしていますが、さまざまな企業で不正アクセスによる被害が相次いで明らかになる事態となっています。\n",
+    "trimmedLead": "企業への不正アクセスによる被害が相次ぐ中、8日、カラオケ店などを運営する第一興商がおよそ872万件の個人情報が外部に漏えいしたおそれがあると明らかにしたほか、ニュースメディア「NewsPicks」の運営会社も不正アクセスによってサービスの利用者のクレジットカードの情報の一部などが外部に漏えいした可能性があると明らかにしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261009de56931.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261009de56931",
+  "video": [],
+  "citation": [
+    {
+      "name": "ソフトバンク子会社 サイバー攻撃受け データ復旧などは困難",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261009de56918",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56918/20261009de56918_E0000058822_1_s.jpg",
+      "datePublished": "2026-10-09T06:28:00+09:00"
+    },
+    {
+      "name": "消費税法案提出へ 与党“早期審議入り”野党“財源追及”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261009de56934",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56934/20261009de56934_E0000058789_1_s.jpg",
+      "datePublished": "2026-10-09T05:02:00+09:00"
+    },
+    {
+      "name": "声優などの団体 声の生成AIガイドライン初作成“事前許諾を”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261009de56922",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56922/20261009de56922_E0000058819_1_s.jpg",
+      "datePublished": "2026-10-09T05:13:00+09:00"
+    },
+    {
+      "name": "トヨタ 中国で競争力強化へ 中国の車大手と3社で戦略提携 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261009de56905",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56905/20261009de56905_E0000058827_1_s.jpg",
+      "datePublished": "2026-10-09T01:14:00+09:00"
+    },
+    {
+      "name": "ファーストリテイリング決算 国内外好調で過去最高益",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56898",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56898/20261008de56898_E0000058830_1_s.jpg",
+      "datePublished": "2026-10-09T00:50:00+09:00"
+    },
+    {
+      "name": "2026年ノーベル賞 9日は平和賞発表",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260930de53274",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260930de53274/20260930de53274_E0000038986_1_s.jpg",
+      "datePublished": "2026-10-08T22:36:26+09:00"
+    },
+    {
+      "name": "ドジャース 3年連続でリーグ優勝決定シリーズ進出",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56277",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56277/20261008de56277_E0000055017_1_s.jpg",
+      "datePublished": "2026-10-08T19:50:26+09:00"
+    },
+    {
+      "name": "阪神 佐藤輝明が三冠王 4年ぶり史上9人目 村上宗隆以来",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56508",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56508/20261008de56508_E0000055812_1_s.jpg",
+      "datePublished": "2026-10-08T23:54:55+09:00"
+    },
+    {
+      "name": "負けても負けても…愛される 新“負け組の星”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55370",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55370/20261006de55370_E0000050955_1_s.jpg",
+      "datePublished": "2026-10-07T17:18:27+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
