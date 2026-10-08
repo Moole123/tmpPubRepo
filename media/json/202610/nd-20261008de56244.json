@@ -1,0 +1,84 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261008de56244",
+  "dataSourceId": "nd",
+  "name": "高市首相動静 2026年10月7日",
+  "headline": "高市首相動静 2026年10月7日",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261008de56244",
+    "playlistId": "news-nwa-politics-nationwide-20261008",
+    "newsarticleName": "高市首相動静 2026年10月7日",
+    "playlistName": "10月8日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "（高市首相動静2026年10月7日）\n\n\n09:53 徒歩で公邸発\n09:54 官邸着\n12:52 官邸発\n12:53 国会着\n12:54 衆議院議長応接室入る\n13:00 同室出る。衆議院本会議場入",
+  "dateModified": "2026-10-08T08:07:00+09:00",
+  "datePublished": "2026-10-08T08:07:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56244/20261008de56244_E0000003852_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56244/20261008de56244_E0000003852_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "E0000000526",
+      "name": "首相動静",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "（高市首相動静2026年10月7日）\n\n\n09:53 徒歩で公邸発\n09:54 官邸着\n12:52 官邸発\n12:53 国会着\n12:54 衆議院議長応接室入る\n13:00 同室出る。衆議院本会議場入",
+  "articleBody": "（高市首相動静2026年10月7日）\n\n\n09:53 徒歩で公邸発\n09:54 官邸着\n12:52 官邸発\n12:53 国会着\n12:54 衆議院議長応接室入る\n13:00 同室出る。衆議院本会議場入る\n13:02 衆議院本会議開会\n15:24 衆議院本会議散会。衆議院本会議場出る\n15:26 国会発\n15:28 官邸着\n16:45 沖縄県の古謝玄太知事と面会。木原稔官房長官同席（～16:57）\n17:25 官邸発\n17:36 東京・芝公園の東京プリンスホテル着。宴会場「鳳凰の間」で全国商工会連合会の特産品PRイベント「AllJapanSpecialtiesGala2026」に出席し、あいさつ\n17:57 同所発\n18:04 官邸着\n21:21 ノーベル化学賞受賞が決まった東京理科大学の硤合憲三名誉教授と電話（～21:23）\n21:24 徒歩で官邸発\n21:25 公邸着\n",
+  "detailedArticleBody": {
+    "markedLead": "（高市首相動静2026年10月7日）\n",
+    "markedBody": "09:53 徒歩で公邸発\\\n09:54 官邸着\\\n12:52 官邸発\\\n12:53 国会着\\\n12:54 衆議院議長応接室入る\\\n13:00 同室出る。衆議院本会議場入る\\\n13:02 衆議院本会議開会\\\n15:24 衆議院本会議散会。衆議院本会議場出る\\\n15:26 国会発\\\n15:28 官邸着\\\n16:45 沖縄県の古謝玄太知事と面会。木原稔官房長官同席（～16:57）\\\n17:25 官邸発\\\n17:36 東京・芝公園の東京プリンスホテル着。宴会場「鳳凰の間」で全国商工会連合会の特産品PRイベント「AllJapanSpecialtiesGala2026」に出席し、あいさつ\\\n17:57 同所発\\\n18:04 官邸着\\\n21:21 ノーベル化学賞受賞が決まった東京理科大学の硤合憲三名誉教授と電話（～21:23）\\\n21:24 徒歩で官邸発\\\n21:25 公邸着\n",
+    "trimmedLead": "（高市首相動静2026年10月7日）\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261008de56244.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261008de56244",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
