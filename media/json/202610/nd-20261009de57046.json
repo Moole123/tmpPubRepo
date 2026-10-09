@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261009de57046",
+  "dataSourceId": "nd",
+  "name": "アメリカ司法省 中国関係企業のサイバー攻撃阻止 警察庁も協力",
+  "headline": "アメリカ司法省 中国関係企業のサイバー攻撃阻止 警察庁も協力",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261009de57046",
+    "playlistId": "news-nwa-international-nationwide-20261009",
+    "newsarticleName": "アメリカ司法省 中国関係企業のサイバー攻撃阻止 警察庁も協力",
+    "playlistName": "10月9日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "アメリカ司法省は中国政府と契約関係にある企業が発電所や空港といった重要インフラなどに対するサイバー攻撃に関わっていたとして攻撃手段を遮断したと発表しました。\n\n標的には日本の空港も入っていて、日本の警",
+  "dateModified": "2026-10-09T11:56:56+09:00",
+  "datePublished": "2026-10-09T11:56:56+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de57046/20261009de57046_E0000003531_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de57046/20261009de57046_E0000003531_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000419",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "E0000000215",
+      "name": "中国",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "アメリカ司法省は中国政府と契約関係にある企業が発電所や空港といった重要インフラなどに対するサイバー攻撃に関わっていたとして攻撃手段を遮断したと発表しました。\n\n標的には日本の空港も入っていて、日本の警",
+  "articleBody": "アメリカ司法省は中国政府と契約関係にある企業が発電所や空港といった重要インフラなどに対するサイバー攻撃に関わっていたとして攻撃手段を遮断したと発表しました。\n\n標的には日本の空港も入っていて、日本の警察庁も捜査に協力したとしています。\n\n\nアメリカ司法省は8日、FBI＝連邦捜査局とともに中国政府と契約関係があるセキュリティー企業、「インテグリティ・テック」社が発電所や空港など、重要インフラへのサイバー攻撃に関わっていたとして、この会社が使っていたインターネット上の住所にあたる7つの「ドメイン」を使えなくして攻撃手段を遮断したと発表しました。\n\n発表によりますと、この会社は、ハッカー集団がサイバー攻撃の標的とする重要インフラの、ネットワークのぜい弱性を偵察するサービスを提供していて、偵察の対象にはアメリカの電力会社や日本の空港が含まれていたということです。\n\nまた、標的の組織のネットワークに侵入してマルウエアと呼ばれる不正なプログラムを仕掛け、ハッカー集団が遠隔でアクセスできるようにしていて、台湾のおよそ20の大学が被害を受けたということです。\n\n捜査には日本の警察庁も協力したということで、FBIサイバー部門の担当者は「中国はサイバー攻撃を拡大するため請負業者に依存している。こうした業者を摘発し妨害することで、中国がアメリカのネットワークやインフラを狙うことを困難にできる」とコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカ司法省は中国政府と契約関係にある企業が発電所や空港といった重要インフラなどに対するサイバー攻撃に関わっていたとして攻撃手段を遮断したと発表しました。\n\n標的には日本の空港も入っていて、日本の警察庁も捜査に協力したとしています。\n",
+    "markedBody": "アメリカ司法省は8日、FBI＝連邦捜査局とともに中国政府と契約関係があるセキュリティー企業、「インテグリティ・テック」社が発電所や空港など、重要インフラへのサイバー攻撃に関わっていたとして、この会社が使っていたインターネット上の住所にあたる7つの「ドメイン」を使えなくして攻撃手段を遮断したと発表しました。\n\n発表によりますと、この会社は、ハッカー集団がサイバー攻撃の標的とする重要インフラの、ネットワークのぜい弱性を偵察するサービスを提供していて、偵察の対象にはアメリカの電力会社や日本の空港が含まれていたということです。\n\nまた、標的の組織のネットワークに侵入してマルウエアと呼ばれる不正なプログラムを仕掛け、ハッカー集団が遠隔でアクセスできるようにしていて、台湾のおよそ20の大学が被害を受けたということです。\n\n捜査には日本の警察庁も協力したということで、FBIサイバー部門の担当者は「中国はサイバー攻撃を拡大するため請負業者に依存している。こうした業者を摘発し妨害することで、中国がアメリカのネットワークやインフラを狙うことを困難にできる」とコメントしています。\n",
+    "trimmedLead": "アメリカ司法省は中国政府と契約関係にある企業が発電所や空港といった重要インフラなどに対するサイバー攻撃に関わっていたとして攻撃手段を遮断したと発表しました。\n\n標的には日本の空港も入っていて、日本の警察庁も捜査に協力したとしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261009de57046.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261009de57046",
+  "video": [],
+  "citation": [
+    {
+      "name": "ロシアの攻撃相次ぐウクライナ 首都キーウで計画停電開始　",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261009de56969",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56969/20261009de56969_E0000059187_1_s.jpg",
+      "datePublished": "2026-10-09T11:03:10+09:00"
+    },
+    {
+      "name": "トランプ政権 マイクロソフトなどの永住権手続き受け付け停止",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261009de56951",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56951/20261009de56951_E0000059077_1_s.jpg",
+      "datePublished": "2026-10-09T08:07:53+09:00"
+    },
+    {
+      "name": "ロシア ICC赤根所長らの身柄引き渡しをオランダなどに要請",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261009de56946",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56946/20261009de56946_E0000058845_1_s.jpg",
+      "datePublished": "2026-10-09T11:51:03+09:00"
+    },
+    {
+      "name": "日本のうなぎ文化に理解を バチカンで「かば焼き」ふるまう",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261009de56970",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56970/20261009de56970_E0000059200_1_s.jpg",
+      "datePublished": "2026-10-09T10:52:20+09:00"
+    },
+    {
+      "name": "ナスダック指数一時1.7％下落 オープンAIの成長に懸念",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261009de56948",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56948/20261009de56948_E0000034189_1_s.jpg",
+      "datePublished": "2026-10-09T07:01:56+09:00"
+    },
+    {
+      "name": "インド 有権者名簿の不正疑惑で最大野党が抗議デモ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56864",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56864/20261008de56864_E0000058816_1_s.jpg",
+      "datePublished": "2026-10-08T21:13:00+09:00"
+    },
+    {
+      "name": "トランプ大統領「中間選挙前にイランを攻撃することはない」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261009de56929",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56929/20261009de56929_E0000058821_1_s.jpg",
+      "datePublished": "2026-10-09T02:49:00+09:00"
+    },
+    {
+      "name": "サウジアラビアの2つの空港に攻撃 3人死亡 フーシ派が攻撃主張",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56411",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56411/20261008de56411_E0000055331_1_s.jpg",
+      "datePublished": "2026-10-08T13:19:00+09:00"
+    },
+    {
+      "name": "「監視社会」か「治安の維持」か カメラをめぐる論争",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261005de54467",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54467/20261005de54467_E0000046963_1_s.jpg",
+      "datePublished": "2026-10-07T12:10:05+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
