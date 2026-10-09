@@ -1,0 +1,149 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261009de56955",
+  "dataSourceId": "nd",
+  "name": "ブックオフ 不正アクセスで最大643万件の会員情報漏えいか",
+  "headline": "ブックオフ 不正アクセスで最大643万件の会員情報漏えいか",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261009de56955",
+    "playlistId": "news-nwa-business-nationwide-20261009",
+    "newsarticleName": "ブックオフ 不正アクセスで最大643万件の会員情報漏えいか",
+    "playlistName": "10月9日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "中古書籍の販売などを手がける「ブックオフグループホールディングス」は、子会社が提供する会員情報の管理システムに不正アクセスがあり、最大で643万件の会員の情報が漏えいした可能性があると発表しました。\n",
+  "dateModified": "2026-10-09T10:20:22+09:00",
+  "datePublished": "2026-10-09T08:52:36+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56955/20261009de56955_E0000059132_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56955/20261009de56955_E0000059132_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "中古書籍の販売などを手がける「ブックオフグループホールディングス」は、子会社が提供する会員情報の管理システムに不正アクセスがあり、最大で643万件の会員の情報が漏えいした可能性があると発表しました。\n",
+  "articleBody": "中古書籍の販売などを手がける「ブックオフグループホールディングス」は、子会社が提供する会員情報の管理システムに不正アクセスがあり、最大で643万件の会員の情報が漏えいした可能性があると発表しました。\n\n\n会社によりますと、今月6日、会員情報を管理する子会社のシステムに不正なアクセスが確認され、調査した結果、会員情報が外部から取得されたことがわかったということです。\n\n漏えいした可能性があるのは最大643万件の会員情報で、このなかには、氏名や生年月日、住所、それに会員番号などが含まれるということです。\n\n一方で、クレジットカードの情報などは含まれていないということです。\n\nこれまでのところ、流出した情報が外部に公開されたり、第三者に悪用されたりした事実は確認されていないとしています。\n\n会社ではブックオフのサービスを装ったメールやショートメールなどが送られる可能性があるとして、注意を呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "中古書籍の販売などを手がける「ブックオフグループホールディングス」は、子会社が提供する会員情報の管理システムに不正アクセスがあり、最大で643万件の会員の情報が漏えいした可能性があると発表しました。\n",
+    "markedBody": "会社によりますと、今月6日、会員情報を管理する子会社のシステムに不正なアクセスが確認され、調査した結果、会員情報が外部から取得されたことがわかったということです。\n\n漏えいした可能性があるのは最大643万件の会員情報で、このなかには、氏名や生年月日、住所、それに会員番号などが含まれるということです。\n\n一方で、クレジットカードの情報などは含まれていないということです。\n\nこれまでのところ、流出した情報が外部に公開されたり、第三者に悪用されたりした事実は確認されていないとしています。\n\n会社ではブックオフのサービスを装ったメールやショートメールなどが送られる可能性があるとして、注意を呼びかけています。\n",
+    "trimmedLead": "中古書籍の販売などを手がける「ブックオフグループホールディングス」は、子会社が提供する会員情報の管理システムに不正アクセスがあり、最大で643万件の会員の情報が漏えいした可能性があると発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261009de56955.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261009de56955",
+  "video": [],
+  "citation": [
+    {
+      "name": "消費税法案提出へ 与党“早期審議入り”野党“財源追及”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261009de56934",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56934/20261009de56934_E0000058789_1_s.jpg",
+      "datePublished": "2026-10-09T05:02:00+09:00"
+    },
+    {
+      "name": "企業への不正アクセス 相次いで明らかに",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261009de56931",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56931/20261009de56931_E0000003476_1_s.jpg",
+      "datePublished": "2026-10-09T05:38:00+09:00"
+    },
+    {
+      "name": "声優などの団体 声の生成AIガイドライン初作成“事前許諾を”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261009de56922",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56922/20261009de56922_E0000058819_1_s.jpg",
+      "datePublished": "2026-10-09T05:13:00+09:00"
+    },
+    {
+      "name": "トヨタ 中国で競争力強化へ 中国の車大手と3社で戦略提携 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261009de56905",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56905/20261009de56905_E0000058827_1_s.jpg",
+      "datePublished": "2026-10-09T01:14:00+09:00"
+    },
+    {
+      "name": "ファーストリテイリング決算 国内外好調で過去最高益",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56898",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56898/20261008de56898_E0000058830_1_s.jpg",
+      "datePublished": "2026-10-09T00:50:00+09:00"
+    },
+    {
+      "name": "2026年ノーベル賞 9日は平和賞発表",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260930de53274",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260930de53274/20260930de53274_E0000038986_1_s.jpg",
+      "datePublished": "2026-10-08T22:36:26+09:00"
+    },
+    {
+      "name": "ドジャース 3年連続でリーグ優勝決定シリーズ進出",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56277",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56277/20261008de56277_E0000055017_1_s.jpg",
+      "datePublished": "2026-10-08T19:50:26+09:00"
+    },
+    {
+      "name": "阪神 佐藤輝明が三冠王 4年ぶり史上9人目 村上宗隆以来",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56508",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56508/20261008de56508_E0000055812_1_s.jpg",
+      "datePublished": "2026-10-08T23:54:00+09:00"
+    },
+    {
+      "name": "負けても負けても…愛される 新“負け組の星”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55370",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55370/20261006de55370_E0000050955_1_s.jpg",
+      "datePublished": "2026-10-07T17:18:27+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
