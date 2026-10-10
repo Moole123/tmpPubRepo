@@ -1,0 +1,167 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261011de57816",
+  "dataSourceId": "nd",
+  "name": "サウジ首都の国際空港に攻撃 12人死亡 けが人300人以上",
+  "headline": "サウジ首都の国際空港に攻撃 12人死亡 けが人300人以上",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261011de57816",
+    "playlistId": "news-nwa-international-nationwide-20261011",
+    "newsarticleName": "サウジ首都の国際空港に攻撃 12人死亡 けが人300人以上",
+    "playlistName": "10月11日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "サウジアラビアの当局は首都リヤドの国際空港が10日、攻撃を受け、12人が死亡し、300人以上がけがをしたと発表しました。サウジアラビアと対立する隣国イエメンの反政府勢力フーシ派は、この空港への攻撃を繰",
+  "dateModified": "2026-10-11T08:13:00+09:00",
+  "datePublished": "2026-10-11T06:19:59+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de57816/20261011de57816_E0000064238_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de57816/20261011de57816_E0000064238_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000410",
+      "name": "サウジアラビア",
+      "display": true
+    },
+    {
+      "id": "E0000000812",
+      "name": "イエメン",
+      "display": true
+    },
+    {
+      "id": "E0000000183",
+      "name": "イラン情勢",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "サウジアラビアの当局は首都リヤドの国際空港が10日、攻撃を受け、12人が死亡し、300人以上がけがをしたと発表しました。サウジアラビアと対立する隣国イエメンの反政府勢力フーシ派は、この空港への攻撃を繰",
+  "articleBody": "サウジアラビアの当局は首都リヤドの国際空港が10日、攻撃を受け、12人が死亡し、300人以上がけがをしたと発表しました。サウジアラビアと対立する隣国イエメンの反政府勢力フーシ派は、この空港への攻撃を繰り返していて、緊張が高まっています。\n\n\nサウジアラビアの隣国イエメンではフーシ派と、サウジアラビアが支援する暫定政権側との対立が激化しています。\n\nこうした中、サウジアラビアの航空当局は首都リヤドにある国際空港が10日、攻撃を受け、12人が死亡し、309人がけがをしたと11日、発表しました。\n\nけがをした人の中には重傷者もいるということです。\n\nこの国際空港は、今月に入って複数回フーシ派による攻撃を受け、死傷者が出ていたほか、民間機や空港施設などにも被害が出ています。\n\nアメリカや日本など各国の政府が国民に対し空港やその周辺の地域に近寄らないよう呼びかけるなど、緊張が高まっています。\n",
+  "detailedArticleBody": {
+    "markedLead": "サウジアラビアの当局は首都リヤドの国際空港が10日、攻撃を受け、12人が死亡し、300人以上がけがをしたと発表しました。サウジアラビアと対立する隣国イエメンの反政府勢力フーシ派は、この空港への攻撃を繰り返していて、緊張が高まっています。\n",
+    "markedBody": "サウジアラビアの隣国イエメンではフーシ派と、サウジアラビアが支援する暫定政権側との対立が激化しています。\n\nこうした中、サウジアラビアの航空当局は首都リヤドにある国際空港が10日、攻撃を受け、12人が死亡し、309人がけがをしたと11日、発表しました。\n\nけがをした人の中には重傷者もいるということです。\n\nこの国際空港は、今月に入って複数回フーシ派による攻撃を受け、死傷者が出ていたほか、民間機や空港施設などにも被害が出ています。\n\nアメリカや日本など各国の政府が国民に対し空港やその周辺の地域に近寄らないよう呼びかけるなど、緊張が高まっています。\n",
+    "trimmedLead": "サウジアラビアの当局は首都リヤドの国際空港が10日、攻撃を受け、12人が死亡し、300人以上がけがをしたと発表しました。サウジアラビアと対立する隣国イエメンの反政府勢力フーシ派は、この空港への攻撃を繰り返していて、緊張が高まっています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261011de57816.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261011de57816",
+  "video": [],
+  "citation": [
+    {
+      "name": "サウジアラビア空港への攻撃で3人死亡　攻撃の応酬激化懸念",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261010de57540",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261010de57540/20261010de57540_E0000062954_1_s.jpg",
+      "datePublished": "2026-10-10T04:42:00+09:00"
+    },
+    {
+      "name": "フーシ派 サウジアラビア首都を弾道ミサイルで攻撃 応酬が激化",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261009de56932",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56932/20261009de56932_E0000058936_1_s.jpg",
+      "datePublished": "2026-10-09T05:23:00+09:00"
+    },
+    {
+      "name": "ICC締約国議長団 アメリカに制裁の撤回を求める声明を発表",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261011de57809",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de57809/20261011de57809_E0000064127_1_s.jpg",
+      "datePublished": "2026-10-11T03:51:00+09:00"
+    },
+    {
+      "name": "ノーベル平和賞 ピレイ氏「ICCの存続に緊張と不安」危機感示す",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261011de57808",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de57808/20261011de57808_E0000064125_1_s.jpg",
+      "datePublished": "2026-10-11T05:09:17+09:00"
+    },
+    {
+      "name": "茂木外相 米 ルビオ国務長官にICC制裁への日本の立場伝達",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261010de57789",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261010de57789/20261010de57789_E0000064104_1_s.jpg",
+      "datePublished": "2026-10-11T07:31:10+09:00"
+    },
+    {
+      "name": "米 ルビオ国務長官 茂木外相にICC制裁の必要性を伝達",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261011de57812",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de57812/20261011de57812_E0000064128_1_s.jpg",
+      "datePublished": "2026-10-11T05:08:00+09:00"
+    },
+    {
+      "name": "台湾総統「中国が現状変更」 防衛力強化強調し連携呼びかけ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261010de57680",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261010de57680/20261010de57680_E0000063385_1_s.jpg",
+      "datePublished": "2026-10-10T17:05:00+09:00"
+    },
+    {
+      "name": "インド“ゴキブリ人民党”創設者　抗議活動前に拘束",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261010de57783",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261010de57783/20261010de57783_E0000064082_1_s.jpg",
+      "datePublished": "2026-10-10T23:20:28+09:00"
+    },
+    {
+      "name": "米トランプ政権 ICC＝国際刑事裁判所を制裁対象に【詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261009de57527",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de57527/20261009de57527_E0000062939_1_s.jpg",
+      "datePublished": "2026-10-10T11:47:00+09:00"
+    },
+    {
+      "name": "ノーベル平和賞にナビ・ピレイ氏 ICCの裁判官など歴任",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261007de55783",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55783/20261007de55783_E0000061310_1_s.jpg",
+      "datePublished": "2026-10-10T03:11:00+09:00"
+    },
+    {
+      "name": "ノーベル平和賞はどこへ？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261009de57073",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de57073/20261009de57073_E0000059295_1_s.jpg",
+      "datePublished": "2026-10-09T12:29:13+09:00"
+    },
+    {
+      "name": "ガザ戦闘開始から3年 和平計画の行方は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261009de57093",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de57093/20261009de57093_E0000060099_1_s.jpg",
+      "datePublished": "2026-10-09T19:38:04+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

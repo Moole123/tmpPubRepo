@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261010de57670",
+  "dataSourceId": "nd",
+  "name": "不正アクセス 高知県が会員サイトで情報漏えいと発表",
+  "headline": "不正アクセス 高知県が会員サイトで情報漏えいと発表",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261010de57670",
+    "playlistId": "news-nwa-society-nationwide-20261010",
+    "newsarticleName": "不正アクセス 高知県が会員サイトで情報漏えいと発表",
+    "playlistName": "10月10日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "高知県は観光キャンペーンの会員サイトが不正なアクセスを受け、358人分のメールアドレスや年齢などの個人情報が漏えいしたと発表しました。\n\n\n不正なアクセスを受けたのは、高知県の観光キャンペーン「どっぷ",
+  "dateModified": "2026-10-10T17:03:57+09:00",
+  "datePublished": "2026-10-10T17:03:57+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261010de57670/20261010de57670_E0000063384_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261010de57670/20261010de57670_E0000063384_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "E0000000367",
+      "name": "高知県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "高知県は観光キャンペーンの会員サイトが不正なアクセスを受け、358人分のメールアドレスや年齢などの個人情報が漏えいしたと発表しました。\n\n\n不正なアクセスを受けたのは、高知県の観光キャンペーン「どっぷ",
+  "articleBody": "高知県は観光キャンペーンの会員サイトが不正なアクセスを受け、358人分のメールアドレスや年齢などの個人情報が漏えいしたと発表しました。\n\n\n不正なアクセスを受けたのは、高知県の観光キャンペーン「どっぷり高知旅」の一環でことし8月に立ち上げられた会員向けの交流サイト「高知の知」です。\n\n県によりますと、10月6日、サイトの運営を委託している東京の会社のシステムが不正なアクセスを検知し、調査したところ、すべての会員にあたる358人分のメールアドレスや年齢・性別などの個人情報が漏えいしたことが分かったということです。\n\n会員によっては氏名や住所の登録もしているということですが、これまでのところ、それらの漏えいは確認されていないということです。\n\nサイトの公開は一時的に停止されていて、セキュリティー対策の強化を進めるとしています。\n\nキャンペーンの推進委員会は「情報漏えいはあってはならないことで重く受け止めるとともに委託先の会社に対しては迅速な調査と再発防止の徹底を求めていく」としています。\n",
+  "detailedArticleBody": {
+    "markedLead": "高知県は観光キャンペーンの会員サイトが不正なアクセスを受け、358人分のメールアドレスや年齢などの個人情報が漏えいしたと発表しました。\n",
+    "markedBody": "不正なアクセスを受けたのは、高知県の観光キャンペーン「どっぷり高知旅」の一環でことし8月に立ち上げられた会員向けの交流サイト「高知の知」です。\n\n県によりますと、10月6日、サイトの運営を委託している東京の会社のシステムが不正なアクセスを検知し、調査したところ、すべての会員にあたる358人分のメールアドレスや年齢・性別などの個人情報が漏えいしたことが分かったということです。\n\n会員によっては氏名や住所の登録もしているということですが、これまでのところ、それらの漏えいは確認されていないということです。\n\nサイトの公開は一時的に停止されていて、セキュリティー対策の強化を進めるとしています。\n\nキャンペーンの推進委員会は「情報漏えいはあってはならないことで重く受け止めるとともに委託先の会社に対しては迅速な調査と再発防止の徹底を求めていく」としています。\n",
+    "trimmedLead": "高知県は観光キャンペーンの会員サイトが不正なアクセスを受け、358人分のメールアドレスや年齢などの個人情報が漏えいしたと発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261010de57670.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261010de57670",
+  "video": [],
+  "citation": [
+    {
+      "name": "サイバー攻撃急増 セキュリティー企業は作業急ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261010de57651",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261010de57651/20261010de57651_E0000063372_1_s.jpg",
+      "datePublished": "2026-10-10T15:12:29+09:00"
+    },
+    {
+      "name": "大阪 伝統のだんじり祭りで横転事故相次ぐ 2人死亡",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261010de57626",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261010de57626/20261010de57626_E0000063358_1_s.jpg",
+      "datePublished": "2026-10-10T19:05:00+09:00"
+    },
+    {
+      "name": "米トランプ政権 ICC＝国際刑事裁判所を制裁対象に【詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261009de57527",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de57527/20261009de57527_E0000062939_1_s.jpg",
+      "datePublished": "2026-10-10T11:47:00+09:00"
+    },
+    {
+      "name": "ナビ・ピレイ氏が学んだ大学関係者「賞は米へのメッセージ」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261010de57585",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261010de57585/20261010de57585_E0000063187_1_s.jpg",
+      "datePublished": "2026-10-10T12:24:42+09:00"
+    },
+    {
+      "name": "政府 相次ぐ不正アクセス受け 官民問わず対策の徹底求める",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261010de57529",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261010de57529/20261010de57529_E0000062949_1_s.jpg",
+      "datePublished": "2026-10-10T05:14:16+09:00"
+    },
+    {
+      "name": "スカイチケット ブックオフでも…情報漏えい相次ぐ【対策は】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261009de57123",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de57123/20261009de57123_E0000060051_1_s.jpg",
+      "datePublished": "2026-10-10T02:54:09+09:00"
+    },
+    {
+      "name": "ノーベル平和賞にナビ・ピレイ氏 ICCの裁判官など歴任",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261007de55783",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55783/20261007de55783_E0000061310_1_s.jpg",
+      "datePublished": "2026-10-10T03:11:00+09:00"
+    },
+    {
+      "name": "アメリカ 運転免許証などの情報 1億5000万件以上が漏えいか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261009de57294",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de57294/20261009de57294_E0000060897_1_s.jpg",
+      "datePublished": "2026-10-09T17:10:00+09:00"
+    },
+    {
+      "name": "生成AI 授業で生かすには 教育現場の模索",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56472",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56472/20261008de56472_E0000060201_1_s.jpg",
+      "datePublished": "2026-10-09T20:31:09+09:00"
+    },
+    {
+      "name": "6秒間に4発 “餃子の王将”社長を撃ったのは誰だ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56507",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56507/20261008de56507_E0000060137_1_s.jpg",
+      "datePublished": "2026-10-09T19:22:45+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

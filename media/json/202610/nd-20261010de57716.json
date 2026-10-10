@@ -1,0 +1,144 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261010de57716",
+  "dataSourceId": "nd",
+  "name": "米アンソロピック AIが警察に殺人事件の架空情報送信",
+  "headline": "米アンソロピック AIが警察に殺人事件の架空情報送信",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261010de57716",
+    "playlistId": "news-nwa-international-nationwide-20261010",
+    "newsarticleName": "米アンソロピック AIが警察に殺人事件の架空情報送信",
+    "playlistName": "10月10日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "アメリカのAI開発企業「アンソロピック」は、自社の生成AIが性能のテスト中、警察のウェブサイトにある窓口に殺人事件に関する架空の情報を送信するなどといった意図しない動作を行っていたと発表しました。\n\n",
+  "dateModified": "2026-10-10T19:03:00+09:00",
+  "datePublished": "2026-10-10T19:03:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261010de57716/20261010de57716_E0000063421_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261010de57716/20261010de57716_E0000063421_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000106",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "E0000000419",
+      "name": "アメリカ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "アメリカのAI開発企業「アンソロピック」は、自社の生成AIが性能のテスト中、警察のウェブサイトにある窓口に殺人事件に関する架空の情報を送信するなどといった意図しない動作を行っていたと発表しました。\n\n",
+  "articleBody": "アメリカのAI開発企業「アンソロピック」は、自社の生成AIが性能のテスト中、警察のウェブサイトにある窓口に殺人事件に関する架空の情報を送信するなどといった意図しない動作を行っていたと発表しました。\n\n\nアンソロピックは、9日、ホームページで自社の生成AIが意図しない動作を行っていた事例を発表しました。\n\nこのうちの1つでは生成AIが性能テスト中にペンシルベニア州・フィラデルフィアの警察当局のウェブサイトにある未解決の殺人事件に関する情報提供窓口に架空の情報を送信したということです。具体的には、「事件に関係する情報を持っている可能性がある。説明と合致する人物を見た」などと送信していました。\n\n名前や連絡先は空欄のまま送信されて迷惑投稿として扱われ、捜査には使われなかったとしていますが、地元メディアは事案があったのはことし7月で、警察当局は「発見と市への報告が2か月も遅れたことは容認できない」としていると伝えています。\n\nまた、アンソロピックは、ほかの事案の対象となった組織などを発表していませんがアメリカの有力紙、ニューヨークタイムズは、生成AIがアメリカ国務省のウェブサイトでビザの申請手続きを行ったと伝えています。\n\n今回確認された事案については再発防止策を講じたとしていますが、アンソロピックの生成AIはこれまでにも外部組織にサイバー攻撃を行った事例などもあり開発の推進と安全性の確保をどう両立するかが求められています。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカのAI開発企業「アンソロピック」は、自社の生成AIが性能のテスト中、警察のウェブサイトにある窓口に殺人事件に関する架空の情報を送信するなどといった意図しない動作を行っていたと発表しました。\n",
+    "markedBody": "アンソロピックは、9日、ホームページで自社の生成AIが意図しない動作を行っていた事例を発表しました。\n\nこのうちの1つでは生成AIが性能テスト中にペンシルベニア州・フィラデルフィアの警察当局のウェブサイトにある未解決の殺人事件に関する情報提供窓口に架空の情報を送信したということです。具体的には、「事件に関係する情報を持っている可能性がある。説明と合致する人物を見た」などと送信していました。\n\n名前や連絡先は空欄のまま送信されて迷惑投稿として扱われ、捜査には使われなかったとしていますが、地元メディアは事案があったのはことし7月で、警察当局は「発見と市への報告が2か月も遅れたことは容認できない」としていると伝えています。\n\nまた、アンソロピックは、ほかの事案の対象となった組織などを発表していませんがアメリカの有力紙、ニューヨークタイムズは、生成AIがアメリカ国務省のウェブサイトでビザの申請手続きを行ったと伝えています。\n\n今回確認された事案については再発防止策を講じたとしていますが、アンソロピックの生成AIはこれまでにも外部組織にサイバー攻撃を行った事例などもあり開発の推進と安全性の確保をどう両立するかが求められています。\n",
+    "trimmedLead": "アメリカのAI開発企業「アンソロピック」は、自社の生成AIが性能のテスト中、警察のウェブサイトにある窓口に殺人事件に関する架空の情報を送信するなどといった意図しない動作を行っていたと発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261010de57716.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261010de57716",
+  "video": [],
+  "citation": [
+    {
+      "name": "スカイチケット ブックオフでも…情報漏えい相次ぐ【対策は】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261009de57123",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de57123/20261009de57123_E0000060051_1_s.jpg",
+      "datePublished": "2026-10-10T02:54:09+09:00"
+    },
+    {
+      "name": "声優などの団体 声の生成AIガイドライン初作成“事前許諾を”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261009de56922",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56922/20261009de56922_E0000058819_1_s.jpg",
+      "datePublished": "2026-10-09T05:13:00+09:00"
+    },
+    {
+      "name": "生成AI 授業で生かすには 教育現場の模索",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56472",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56472/20261008de56472_E0000060201_1_s.jpg",
+      "datePublished": "2026-10-09T20:31:09+09:00"
+    },
+    {
+      "name": "サムスン 営業利益 約8.8倍 半導体需要拡大で過去最高を更新",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56506",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56506/20261008de56506_E0000055791_1_s.jpg",
+      "datePublished": "2026-10-08T14:04:00+09:00"
+    },
+    {
+      "name": "日米の経営者ら AIで日米の共通ルールづくり提言",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56238",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56238/20261008de56238_E0000054588_1_s.jpg",
+      "datePublished": "2026-10-08T07:53:59+09:00"
+    },
+    {
+      "name": "米アンソロピックがAIモデル「ミュトス」の提供先を拡大",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261007de55853",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55853/20261007de55853_E0000051778_1_s.jpg",
+      "datePublished": "2026-10-07T15:24:00+09:00"
+    },
+    {
+      "name": "川崎重工 造船向けのフィジカルAI活用ロボット 試作機を公開",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55161",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55161/20261006de55161_E0000050103_1_s.jpg",
+      "datePublished": "2026-10-06T19:49:00+09:00"
+    },
+    {
+      "name": "トランプ大統領 AI政策を調整する司令塔組織を設立",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261005de54399",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54399/20261005de54399_E0000042757_1_s.jpg",
+      "datePublished": "2026-10-05T06:35:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

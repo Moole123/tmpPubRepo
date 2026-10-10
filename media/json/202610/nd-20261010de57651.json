@@ -1,0 +1,156 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261010de57651",
+  "dataSourceId": "nd",
+  "name": "サイバー攻撃急増 セキュリティー企業は作業急ぐ",
+  "headline": "サイバー攻撃急増 セキュリティー企業は作業急ぐ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261010de57651",
+    "playlistId": "news-nwa-business-nationwide-20261010",
+    "newsarticleName": "サイバー攻撃急増 セキュリティー企業は作業急ぐ",
+    "playlistName": "10月10日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "不正アクセスによる情報漏えいが相次ぐなか、都内のセキュリティー企業では、顧客の企業のウェブサイトにぜい弱性がないかを確認する作業が急ピッチで行われています。\n\n\n東京・港区にあるセキュリティー企業では",
+  "dateModified": "2026-10-10T15:12:29+09:00",
+  "datePublished": "2026-10-10T15:12:29+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261010de57651/20261010de57651_E0000063372_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261010de57651/20261010de57651_E0000063372_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "不正アクセスによる情報漏えいが相次ぐなか、都内のセキュリティー企業では、顧客の企業のウェブサイトにぜい弱性がないかを確認する作業が急ピッチで行われています。\n\n\n東京・港区にあるセキュリティー企業では",
+  "articleBody": "不正アクセスによる情報漏えいが相次ぐなか、都内のセキュリティー企業では、顧客の企業のウェブサイトにぜい弱性がないかを確認する作業が急ピッチで行われています。\n\n\n東京・港区にあるセキュリティー企業では、不正アクセスの急増を受けて、9月末以降、顧客からの相談や問い合わせが通常の5倍近くに増えているということです。\n\n相談の多くは、自社のシステムから情報が漏えいしていないか確認してほしいとか、システムのぜい弱性を把握して対策を強化したいといった内容が多いということで、会社では休日も対応に当たっています。\n\n顧客から依頼を受けると、担当者がその企業のウェブサイトなどにセキュリティー面でぜい弱性がないかを確認する診断テストを行います。\n\nハッカーから狙われやすいのは、古いバージョンのサーバーを使っている場合や、サイトのセキュリティー設定を適切に行っていない場合などだということで、担当者はこうした点を確認した上で、問題があった場合、対応策などを企業側に伝えることにしています。\n\nまたこのセキュリティー企業では、ダークウェブと呼ばれる闇サイト上にどのような情報が公開されているかを監視しています。\n\n闇サイトにはハッカーが取得したと主張する世界中の企業などのサイトのドメインのほか、身代金の支払い期限を示す時計も表示されていて、なかには日本企業のサイトと見られるものもあるということです。\n\n「パニックにならずに基本に忠実な対策を」\n\n「VLCセキュリティ」の宮崎謙太郎執行役員は、「ここまで攻撃が続くと、自分たちの番が回ってくるのではと心配する声は多く聞かれるが、まずはパニックにならずに基本に忠実な対策をとることが大切だ。サイトやアドレスなど攻撃の入り口になりやすい部分のぜい弱性を把握して優先順位をつけて対策していく必要がある」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "不正アクセスによる情報漏えいが相次ぐなか、都内のセキュリティー企業では、顧客の企業のウェブサイトにぜい弱性がないかを確認する作業が急ピッチで行われています。\n",
+    "markedBody": "東京・港区にあるセキュリティー企業では、不正アクセスの急増を受けて、9月末以降、顧客からの相談や問い合わせが通常の5倍近くに増えているということです。\n\n相談の多くは、自社のシステムから情報が漏えいしていないか確認してほしいとか、システムのぜい弱性を把握して対策を強化したいといった内容が多いということで、会社では休日も対応に当たっています。\n\n顧客から依頼を受けると、担当者がその企業のウェブサイトなどにセキュリティー面でぜい弱性がないかを確認する診断テストを行います。\n\nハッカーから狙われやすいのは、古いバージョンのサーバーを使っている場合や、サイトのセキュリティー設定を適切に行っていない場合などだということで、担当者はこうした点を確認した上で、問題があった場合、対応策などを企業側に伝えることにしています。\n\nまたこのセキュリティー企業では、ダークウェブと呼ばれる闇サイト上にどのような情報が公開されているかを監視しています。\n\n闇サイトにはハッカーが取得したと主張する世界中の企業などのサイトのドメインのほか、身代金の支払い期限を示す時計も表示されていて、なかには日本企業のサイトと見られるものもあるということです。\n\n## 「パニックにならずに基本に忠実な対策を」\n\n「VLCセキュリティ」の宮崎謙太郎執行役員は、「ここまで攻撃が続くと、自分たちの番が回ってくるのではと心配する声は多く聞かれるが、まずはパニックにならずに基本に忠実な対策をとることが大切だ。サイトやアドレスなど攻撃の入り口になりやすい部分のぜい弱性を把握して優先順位をつけて対策していく必要がある」と話していました。\n",
+    "trimmedLead": "不正アクセスによる情報漏えいが相次ぐなか、都内のセキュリティー企業では、顧客の企業のウェブサイトにぜい弱性がないかを確認する作業が急ピッチで行われています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261010de57651.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261010de57651",
+  "video": [],
+  "citation": [
+    {
+      "name": "米トランプ政権 ICC＝国際刑事裁判所を制裁対象に【詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261009de57527",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de57527/20261009de57527_E0000062939_1_s.jpg",
+      "datePublished": "2026-10-10T11:47:00+09:00"
+    },
+    {
+      "name": "ナビ・ピレイ氏が学んだ大学関係者「賞は米へのメッセージ」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261010de57585",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261010de57585/20261010de57585_E0000063187_1_s.jpg",
+      "datePublished": "2026-10-10T12:24:42+09:00"
+    },
+    {
+      "name": "政府 相次ぐ不正アクセス受け 官民問わず対策の徹底求める",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261010de57529",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261010de57529/20261010de57529_E0000062949_1_s.jpg",
+      "datePublished": "2026-10-10T05:14:16+09:00"
+    },
+    {
+      "name": "スカイチケット ブックオフでも…情報漏えい相次ぐ【対策は】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261009de57123",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de57123/20261009de57123_E0000060051_1_s.jpg",
+      "datePublished": "2026-10-10T02:54:09+09:00"
+    },
+    {
+      "name": "ノーベル平和賞にナビ・ピレイ氏 ICCの裁判官など歴任",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261007de55783",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55783/20261007de55783_E0000061310_1_s.jpg",
+      "datePublished": "2026-10-10T03:11:00+09:00"
+    },
+    {
+      "name": "アメリカ 運転免許証などの情報 1億5000万件以上が漏えいか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261009de57294",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de57294/20261009de57294_E0000060897_1_s.jpg",
+      "datePublished": "2026-10-09T17:10:00+09:00"
+    },
+    {
+      "name": "ビールメーカー4社 缶チューハイ価格も協議か 一部担当者説明",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261010de57551",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261010de57551/20261010de57551_E0000062980_1_s.jpg",
+      "datePublished": "2026-10-10T06:57:00+09:00"
+    },
+    {
+      "name": "簗農相 バス無料送迎報道で出納責任者「違法という認識ない」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261009de57496",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de57496/20261009de57496_E0000062895_1_s.jpg",
+      "datePublished": "2026-10-10T07:37:30+09:00"
+    },
+    {
+      "name": "生成AI 授業で生かすには 教育現場の模索",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56472",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56472/20261008de56472_E0000060201_1_s.jpg",
+      "datePublished": "2026-10-09T20:31:09+09:00"
+    },
+    {
+      "name": "6秒間に4発 “餃子の王将”社長を撃ったのは誰だ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56507",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56507/20261008de56507_E0000060137_1_s.jpg",
+      "datePublished": "2026-10-09T19:22:45+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
