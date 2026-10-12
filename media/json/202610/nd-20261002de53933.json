@@ -1,0 +1,114 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261002de53933",
+  "dataSourceId": "nd",
+  "name": "フランス パリの移動遊園地 200年続く遊園地を支えるフォランとは？【動画】",
+  "headline": "【動画】200年続くパリの移動遊園地",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261002de53933",
+    "playlistId": "news-nwa-international-nationwide-20261012",
+    "newsarticleName": "フランス パリの移動遊園地 200年続く遊園地を支えるフォランとは？【動画】",
+    "playlistName": "10月12日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "“もともとは国王や王妃によって始められた”と言われるフランス パリの移動遊園地\n\n場所を移しながら人々を楽しませる遊園地を支えてきた人たちがいます\n\n\nヨーロッパ総局カメラマン\n竹岡直幸\n2011年入",
+  "dateModified": "2026-10-12T13:47:51+09:00",
+  "datePublished": "2026-10-12T13:47:51+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53933/20261002de53933_E0000064514_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53933/20261002de53933_E0000064514_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000293",
+      "name": "フランス",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "“もともとは国王や王妃によって始められた”と言われるフランス パリの移動遊園地\n\n場所を移しながら人々を楽しませる遊園地を支えてきた人たちがいます\n\n\nヨーロッパ総局カメラマン\n竹岡直幸\n2011年入",
+  "articleBody": "“もともとは国王や王妃によって始められた”と言われるフランス パリの移動遊園地\n\n場所を移しながら人々を楽しませる遊園地を支えてきた人たちがいます\n\n\nヨーロッパ総局カメラマン\n竹岡直幸\n2011年入局\n松江局 熊本局 映像センター 首都圏などを経てこの夏から現所属\n",
+  "detailedArticleBody": {
+    "markedLead": "“もともとは国王や王妃によって始められた”と言われるフランス パリの移動遊園地\n\n場所を移しながら人々を楽しませる遊園地を支えてきた人たちがいます\n",
+    "markedBody": ":::::nw--editor\n::::nw--editor-item\n![](https://img.web.nhk/news/nd/kiji/20261002de53933/20261002de53933_E0000065733_1_l.jpg)\n\n:::nw--editor-text\nヨーロッパ総局カメラマン\\\n**竹岡直幸**\\\n2011年入局\\\n松江局 熊本局 映像センター 首都圏などを経てこの夏から現所属\n:::\n::::\n:::::\n",
+    "trimmedLead": "“もともとは国王や王妃によって始められた”と言われるフランス パリの移動遊園地\n\n場所を移しながら人々を楽しませる遊園地を支えてきた人たちがいます\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261002de53933.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261002de53933",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "【動画】200年続くパリの移動遊園地",
+      "description": "“もともとは国王や王妃によって始められた”と言われるフランス パリの移動遊園地\n\n場所を移しながら人々を楽しませる遊園地を支えてきた人たちがいます\n\n\nヨーロッパ総局カメラマン\n竹岡直幸\n2011年入",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261002de53933_E0000064511_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261002de53933/20261002de53933_E0000064514_1_l.jpg",
+      "duration": "PT2M12S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261002de53933_E0000064511_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53933/20261002de53933_E0000064514_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "【動画】中国伝統の気功を現代風に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261002de53931",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53931/20261002de53931_E0000064510_1_s.jpg",
+      "datePublished": "2026-10-11T15:51:03+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
