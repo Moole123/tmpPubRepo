@@ -1,0 +1,168 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261011de58038",
+  "dataSourceId": "nd",
+  "name": "生成AIの安全性評価するシステム開発",
+  "headline": "生成AIの安全性評価するシステム開発",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261011de58038",
+    "playlistId": "news-nwa-scienceculture-nationwide-20261012",
+    "newsarticleName": "生成AIの安全性評価するシステム開発",
+    "playlistName": "10月12日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "AIの進歩に伴い、AIが悪用されたり、人や社会に有害な情報が持ち出されたりすることを防ぐため、AIの安全性を評価するシステムを国の研究機関が開発しました。\n\n\n通常、生成AIは人や社会に有害な情報を出",
+  "dateModified": "2026-10-12T04:47:00+09:00",
+  "datePublished": "2026-10-12T04:47:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de58038/20261011de58038_E0000065385_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de58038/20261011de58038_E0000065385_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000106",
+      "name": "生成AI・人工知能",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "AIの進歩に伴い、AIが悪用されたり、人や社会に有害な情報が持ち出されたりすることを防ぐため、AIの安全性を評価するシステムを国の研究機関が開発しました。\n\n\n通常、生成AIは人や社会に有害な情報を出",
+  "articleBody": "AIの進歩に伴い、AIが悪用されたり、人や社会に有害な情報が持ち出されたりすることを防ぐため、AIの安全性を評価するシステムを国の研究機関が開発しました。\n\n\n通常、生成AIは人や社会に有害な情報を出力しないよう制限が施されていますが、AIに巧妙な質問をすることで制限を回避する「脱獄」と呼ばれる手法など、悪用されるおそれが指摘されています。\n\nこうした中、国の研究機関NICT＝情報通信研究機構はAIがこうした「脱獄」のような手法に対してどれだけ対応できるかを評価できるシステムをこのほど開発しました。\n\n「WISDOM-AR」と名付けられたこのシステムは、「武器」や「詐欺」など30を超えるテーマごとにAIをだまして回答を引き出そうとする指示を自動で作成し、AIがそれに対してどのように反応したかを評価します。\n\nNICTが行ったデモンストレーションでは、システムがある生成AIから爆弾の作り方を聞き出そうとする質問を投げかけこれに対してAIが材料や製造方法などの情報を答えてしまい、システムによって「有害」と判定されていました。\n\nNICTは、今年度中にもAIを利用している企業などへ試験的に導入し、実用化に向けた課題などを検証することにしています。\n\nNICTの鳥澤健太郎フェローは「システムでAIのリスクの度合いを評価することで、社会全体の安全性を高めることにつなげたい」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "AIの進歩に伴い、AIが悪用されたり、人や社会に有害な情報が持ち出されたりすることを防ぐため、AIの安全性を評価するシステムを国の研究機関が開発しました。\n",
+    "markedBody": "![](https://img.web.nhk/news/nd/kiji/20261011de58038/20261011de58038_E0000065384_1_l.jpg)\n\n通常、生成AIは人や社会に有害な情報を出力しないよう制限が施されていますが、AIに巧妙な質問をすることで制限を回避する「脱獄」と呼ばれる手法など、悪用されるおそれが指摘されています。\n\nこうした中、国の研究機関NICT＝情報通信研究機構はAIがこうした「脱獄」のような手法に対してどれだけ対応できるかを評価できるシステムをこのほど開発しました。\n\n![](https://img.web.nhk/news/nd/kiji/20261011de58038/20261011de58038_E0000065383_1_l.jpg)\n\n「WISDOM-AR」と名付けられたこのシステムは、「武器」や「詐欺」など30を超えるテーマごとにAIをだまして回答を引き出そうとする指示を自動で作成し、AIがそれに対してどのように反応したかを評価します。\n\nNICTが行ったデモンストレーションでは、システムがある生成AIから爆弾の作り方を聞き出そうとする質問を投げかけこれに対してAIが材料や製造方法などの情報を答えてしまい、システムによって「有害」と判定されていました。\n\nNICTは、今年度中にもAIを利用している企業などへ試験的に導入し、実用化に向けた課題などを検証することにしています。\n\nNICTの鳥澤健太郎フェローは「システムでAIのリスクの度合いを評価することで、社会全体の安全性を高めることにつなげたい」と話していました。\n",
+    "trimmedLead": "AIの進歩に伴い、AIが悪用されたり、人や社会に有害な情報が持ち出されたりすることを防ぐため、AIの安全性を評価するシステムを国の研究機関が開発しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261011de58038.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261011de58038",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "生成AIの安全性評価するシステム開発",
+      "description": "AIの進歩に伴い、AIが悪用されたり、人や社会に有害な情報が持ち出されたりすることを防ぐため、AIの安全性を評価するシステムを国の研究機関が開発しました。\n\n\n通常、生成AIは人や社会に有害な情報を出",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261011de58038_E0000065566_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261011de58038/20261011de58038_E0000065385_1_l.jpg",
+      "duration": "PT1M40S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261011de58038_E0000065566_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de58038/20261011de58038_E0000065385_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "米アンソロピック AIが警察に殺人事件の架空情報送信",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261010de57716",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261010de57716/20261010de57716_E0000063421_1_s.jpg",
+      "datePublished": "2026-10-10T19:03:00+09:00"
+    },
+    {
+      "name": "生成AI 授業で生かすには 教育現場の模索",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56472",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56472/20261008de56472_E0000060201_1_s.jpg",
+      "datePublished": "2026-10-09T20:31:09+09:00"
+    },
+    {
+      "name": "サウジ首都空港に攻撃 12人死亡 攻撃の応酬激化のおそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261011de57816",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de57816/20261011de57816_E0000064238_1_s.jpg",
+      "datePublished": "2026-10-11T18:59:00+09:00"
+    },
+    {
+      "name": "米 ICCを制裁対象に指定 非難や撤回を求める声相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261011de57845",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de57845/20261011de57845_E0000064538_1_s.jpg",
+      "datePublished": "2026-10-11T17:22:00+09:00"
+    },
+    {
+      "name": "トランプ大統領「ウクライナは新たな大統領を迎える時」と発言",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261011de57828",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de57828/20261011de57828_E0000064232_1_s.jpg",
+      "datePublished": "2026-10-11T09:53:00+09:00"
+    },
+    {
+      "name": "両陛下 青森で国民スポーツ大会 観戦 青森ねぶた祭 施設なども",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261011de57868",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de57868/20261011de57868_E0000064416_1_s.jpg",
+      "datePublished": "2026-10-11T18:05:00+09:00"
+    },
+    {
+      "name": "競泳 松下知之が短水路の世界新記録 男子400m個人メドレー",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261011de57993",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de57993/20261011de57993_E0000064911_1_s.jpg",
+      "datePublished": "2026-10-11T19:06:03+09:00"
+    },
+    {
+      "name": "CS セ・リーグはDeNAがファイナルステージ進出 巨人に2連勝",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261011de57945",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de57945/20261011de57945_E0000064550_1_s.jpg",
+      "datePublished": "2026-10-11T19:32:00+09:00"
+    },
+    {
+      "name": "CS パ・リーグ 日本ハムが西武に勝ち1勝1敗に 決着は第3戦へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261011de57954",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de57954/20261011de57954_E0000064576_1_s.jpg",
+      "datePublished": "2026-10-11T18:41:00+09:00"
+    },
+    {
+      "name": "中国経済 コロナ禍以来の低調 対策は“小粒”？【経済コラム】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261009de56974",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56974/20261009de56974_E0000060187_1_s.jpg",
+      "datePublished": "2026-10-11T08:57:20+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

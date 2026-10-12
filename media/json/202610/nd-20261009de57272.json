@@ -1,0 +1,141 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261009de57272",
+  "dataSourceId": "nd",
+  "name": "ノーベル経済学賞 きょう発表",
+  "headline": "ノーベル経済学賞 きょう発表",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261009de57272",
+    "playlistId": "news-nwa-business-nationwide-20261012",
+    "newsarticleName": "ノーベル経済学賞 きょう発表",
+    "playlistName": "10月12日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "12日はノーベル経済学賞の発表日です。\n\n\nことしのノーベル経済学賞の受賞者は、日本時間の12日午後6時45分以降に、スウェーデンの首都・ストックホルムで発表されます。\n\nこちらのページでは、現地の発",
+  "dateModified": "2026-10-12T09:59:25+09:00",
+  "datePublished": "2026-10-12T09:59:25+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de57272/20261009de57272_E0000060148_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de57272/20261009de57272_E0000060148_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000010106",
+      "name": "ノーベル賞2026",
+      "display": true
+    },
+    {
+      "id": "E0000000609",
+      "name": "ノーベル賞",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "12日はノーベル経済学賞の発表日です。\n\n\nことしのノーベル経済学賞の受賞者は、日本時間の12日午後6時45分以降に、スウェーデンの首都・ストックホルムで発表されます。\n\nこちらのページでは、現地の発",
+  "articleBody": "12日はノーベル経済学賞の発表日です。\n\n\nことしのノーベル経済学賞の受賞者は、日本時間の12日午後6時45分以降に、スウェーデンの首都・ストックホルムで発表されます。\n\nこちらのページでは、現地の発表会見の様子を、同時通訳付きで「ライブ配信」でお伝えするとともに、受賞者の情報を速報します。\n",
+  "detailedArticleBody": {
+    "markedLead": "12日はノーベル経済学賞の発表日です。\n",
+    "markedBody": "ことしのノーベル経済学賞の受賞者は、日本時間の12日午後6時45分以降に、スウェーデンの首都・ストックホルムで発表されます。\n\nこちらのページでは、現地の発表会見の様子を、同時通訳付きで「ライブ配信」でお伝えするとともに、受賞者の情報を速報します。\n",
+    "trimmedLead": "12日はノーベル経済学賞の発表日です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261009de57272.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261009de57272",
+  "video": [],
+  "citation": [
+    {
+      "name": "ノーベル化学賞 北川進さん 未来を変える「MOF」最前線",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015007321000",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261008de56493_E0000055801_1_s.jpg"
+    },
+    {
+      "name": "ノーベル賞 坂口志文さん「制御性T細胞」が切り開く未来の医療",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014995291000",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261008de56495_E0000055800_1_s.jpg"
+    },
+    {
+      "name": "ノーベル賞も夢じゃない？“スーパー高校生”の探求心",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014989031000",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261008de56496_E0000055799_1_s.jpg"
+    },
+    {
+      "name": "北川進さんにノーベル化学賞 日本の研究力を強化するには",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014949771000",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261008de56497_E0000055797_1_s.jpg"
+    },
+    {
+      "name": "坂口志文さん ノーベル生理学・医学賞 意義と背景",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014953841000",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261008de56498_E0000055798_1_s.jpg"
+    },
+    {
+      "name": "日本で広がる韓国文学 なぜ？芥川賞作家が語る魅力とは",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014884121000",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261008de56499_E0000055795_1_s.jpg"
+    },
+    {
+      "name": "今こそ記憶の“語り直し”を ノーベル賞作家 カズオ・イシグロ",
+      "url": "https://news.web.nhk/newsweb/na/nc-e64a75b9-7213-452e-8149-5e911c52368f",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261008de56501_E0000055789_1_s.jpg"
+    },
+    {
+      "name": "ノーベル平和賞 最年少選考委員長の訴え",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014663801000",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261008de56503_E0000055794_1_s.jpg"
+    },
+    {
+      "name": "中国でノーベル賞作家「川端康成」ブーム いったいなぜ？",
+      "url": "https://news.web.nhk/newsweb/na/nc-353ceafb-67e6-445e-abe0-12463cf574a8",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261008de56504_E0000055788_1_s.jpg"
+    },
+    {
+      "name": "サーロー節子さん 死者に代わって言い続ける",
+      "url": "https://news.web.nhk/newsweb/na/nc-840c162f-6a48-4d2a-ada5-92e8e16b19a8",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261008de56505_E0000055785_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
