@@ -1,0 +1,179 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261013de58643",
+  "dataSourceId": "nd",
+  "name": "「銀のさら」運営会社 最大約650万件の登録者情報漏えい可能性",
+  "headline": "「銀のさら」運営会社 最大約650万件の登録者情報漏えい可能性",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261013de58643",
+    "playlistId": "news-nwa-scienceculture-nationwide-20261013",
+    "newsarticleName": "「銀のさら」運営会社 最大約650万件の登録者情報漏えい可能性",
+    "playlistName": "10月13日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "宅配すしチェーン「銀のさら」などを運営する「ライドオンエクスプレスホールディングス」は13日、子会社が運営する公式サイトとアプリの登録者の情報、最大およそ650万件が漏えいした可能性があると発表しまし",
+  "dateModified": "2026-10-13T18:08:45+09:00",
+  "datePublished": "2026-10-13T17:03:16+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58643/20261013de58643_E0000066753_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58643/20261013de58643_E0000066753_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "科学・文化",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "E0000000106",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "宅配すしチェーン「銀のさら」などを運営する「ライドオンエクスプレスホールディングス」は13日、子会社が運営する公式サイトとアプリの登録者の情報、最大およそ650万件が漏えいした可能性があると発表しまし",
+  "articleBody": "宅配すしチェーン「銀のさら」などを運営する「ライドオンエクスプレスホールディングス」は13日、子会社が運営する公式サイトとアプリの登録者の情報、最大およそ650万件が漏えいした可能性があると発表しました。\n\n\n会社によりますと、外部サーバーへの不正アクセスの検知やシステム障害の発生を受けて調査したところ、公式サイトとアプリに登録している人の情報が漏えいした可能性があることがわかったということです。\n\n漏えいした可能性があるのは、最大約650万件で、氏名、住所、電話番号、メールアドレスのほか、注文履歴などが含まれるということです。\n\nまた家族の氏名と誕生日を入力している場合は、その情報も漏えいした可能性があるとしています。\n\nクレジットカードの情報は保有しておらず、漏えいの対象には含まれないということです。\n\n会社では「お客様、お取り引き先様など皆様に多大なご心配とご迷惑をおかけし、深くおわび申し上げます」とコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "宅配すしチェーン「銀のさら」などを運営する「ライドオンエクスプレスホールディングス」は13日、子会社が運営する公式サイトとアプリの登録者の情報、最大およそ650万件が漏えいした可能性があると発表しました。\n",
+    "markedBody": "会社によりますと、外部サーバーへの不正アクセスの検知やシステム障害の発生を受けて調査したところ、公式サイトとアプリに登録している人の情報が漏えいした可能性があることがわかったということです。\n\n漏えいした可能性があるのは、最大約650万件で、氏名、住所、電話番号、メールアドレスのほか、注文履歴などが含まれるということです。\n\nまた家族の氏名と誕生日を入力している場合は、その情報も漏えいした可能性があるとしています。\n\nクレジットカードの情報は保有しておらず、漏えいの対象には含まれないということです。\n\n会社では「お客様、お取り引き先様など皆様に多大なご心配とご迷惑をおかけし、深くおわび申し上げます」とコメントしています。\n",
+    "trimmedLead": "宅配すしチェーン「銀のさら」などを運営する「ライドオンエクスプレスホールディングス」は13日、子会社が運営する公式サイトとアプリの登録者の情報、最大およそ650万件が漏えいした可能性があると発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261013de58643.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261013de58643",
+  "video": [],
+  "citation": [
+    {
+      "name": "一連の不正アクセスは“AIエージェント悪用の可能性”解析で",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58380",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58380/20261013de58380_E0000067517_1_s.jpg",
+      "datePublished": "2026-10-13T17:44:00+09:00"
+    },
+    {
+      "name": "CEATEC開幕 フィジカルAIの出展相次ぐ サイバー攻撃への対応も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58370",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58370/20261013de58370_E0000066708_1_s.jpg",
+      "datePublished": "2026-10-13T17:06:20+09:00"
+    },
+    {
+      "name": "IMF 経済成長率引き上げも AIで“二極化”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58500",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58500/20261013de58500_E0000067299_1_s.jpg",
+      "datePublished": "2026-10-13T13:22:07+09:00"
+    },
+    {
+      "name": "株価 大きく値下がり AI・半導体産業 競争激化の警戒感などで",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58344",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58344/20261013de58344_E0000066737_1_s.jpg",
+      "datePublished": "2026-10-13T16:38:07+09:00"
+    },
+    {
+      "name": "韓国インチョンで切りつけ事件 8人けが うち1人心肺停止",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58547",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58547/20261013de58547_E0000067621_1_s.jpg",
+      "datePublished": "2026-10-13T17:56:00+09:00"
+    },
+    {
+      "name": "簗農相「説明尽くし真摯に対応」問責決議案提出の動きに",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58352",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58352/20261013de58352_E0000066691_1_s.jpg",
+      "datePublished": "2026-10-13T14:58:00+09:00"
+    },
+    {
+      "name": "奈良 香芝 こども園で園児が凍ったゼリー詰まらせ死亡",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58502",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58502/20261013de58502_E0000067327_1_s.jpg",
+      "datePublished": "2026-10-13T13:26:00+09:00"
+    },
+    {
+      "name": "高市首相 支援金“きめ細かな支援で画期的”早期成立目指す",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58397",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58397/20261013de58397_E0000066763_1_s.jpg",
+      "datePublished": "2026-10-13T11:58:00+09:00"
+    },
+    {
+      "name": "北朝鮮キム・ジョンウン総書記　ICBM級展示の博物館視察",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58513",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58513/20261013de58513_E0000067368_1_s.jpg",
+      "datePublished": "2026-10-13T13:43:00+09:00"
+    },
+    {
+      "name": "九州新幹線 博多～熊本で運転再開 熊本以南は終日見合わせ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58310",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58310/20261013de58310_E0000067495_1_s.jpg",
+      "datePublished": "2026-10-13T16:55:00+09:00"
+    },
+    {
+      "name": "ドジャース2連敗 山本由伸が先発も3回途中3失点で降板【詳報】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261012de58219",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261012de58219/20261012de58219_E0000066822_1_s.jpg",
+      "datePublished": "2026-10-13T14:57:00+09:00"
+    },
+    {
+      "name": "きょうから予算委員会 焦点は？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58427",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58427/20261013de58427_E0000066734_1_s.jpg",
+      "datePublished": "2026-10-13T13:54:38+09:00"
+    },
+    {
+      "name": "「やりがい感じるけど…」どうなる介護報酬 現場は？ ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261012de58129",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261012de58129/20261012de58129_E0000065777_1_s.jpg",
+      "datePublished": "2026-10-12T19:38:44+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
