@@ -1,0 +1,159 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261013de58881",
+  "dataSourceId": "nd",
+  "name": "フランスの冷凍庫管理システムにサイバー攻撃 食品に被害",
+  "headline": "フランスの冷凍庫管理システムにサイバー攻撃 食品に被害",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261013de58881",
+    "playlistId": "news-nwa-international-nationwide-20261013",
+    "newsarticleName": "フランスの冷凍庫管理システムにサイバー攻撃 食品に被害",
+    "playlistName": "10月13日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "フランスのスーパーマーケットで冷凍庫や冷蔵庫を管理するシステムがサイバー攻撃を受け、温度を不正に操作された結果、冷凍食品がとけるなどの被害が出ました。\n\n\nAFP通信などによりますと、12日にかけてフ",
+  "dateModified": "2026-10-13T21:34:56+09:00",
+  "datePublished": "2026-10-13T21:34:56+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58881/20261013de58881_E0000070161_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58881/20261013de58881_E0000070161_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "E0000000293",
+      "name": "フランス",
+      "display": true
+    },
+    {
+      "id": "E0000000403",
+      "name": "オランダ",
+      "display": true
+    },
+    {
+      "id": "E0000000473",
+      "name": "小売業",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "フランスのスーパーマーケットで冷凍庫や冷蔵庫を管理するシステムがサイバー攻撃を受け、温度を不正に操作された結果、冷凍食品がとけるなどの被害が出ました。\n\n\nAFP通信などによりますと、12日にかけてフ",
+  "articleBody": "フランスのスーパーマーケットで冷凍庫や冷蔵庫を管理するシステムがサイバー攻撃を受け、温度を不正に操作された結果、冷凍食品がとけるなどの被害が出ました。\n\n\nAFP通信などによりますと、12日にかけてフランスの複数のスーパーチェーンがサイバー攻撃を受け、あわせて400店舗以上の冷凍庫や冷蔵庫を遠隔で管理するシステムに異常が生じました。\n\n一部の店舗では、冷凍庫や冷蔵庫の霜を取る装置の設定温度が不正に操作され、50度まで引き上げられたため、冷凍食品やアイスクリームがとけたほか生鮮食品が傷むなどして廃棄を余儀なくされる被害が出たということです。\n\nパリのスーパーで撮影された映像では、冷凍庫から商品がなくなっている様子がわかります。\n\n管理システムを提供する企業は、更新が打ち切られた古いソフトウエアを搭載するシステムが狙われたという見方を示しているということです。\n\nフランスの当局は、ソフトウエアを可能なかぎり更新し、外部から管理画面にアクセスできないようにするなどの対策を呼びかけています。\n\nオランダでもサイバー攻撃か スーパーに食品届かず\n\nオランダなどでスーパーを展開する企業は、サイバーセキュリティーの問題が発生し、一部のシステムが使えなくなっていると、12日、発表しました。\n\n11日午後からオンラインのシステムが停止したため、一部の配送センターから店舗へ商品を届けることができず、生鮮食品の棚が空っぽになる事態が起きていると、オランダの公共放送は伝えています。\n\nオランダのサイバーセキュリティーの専門家は「悪意のある人物がシステムに侵入したことはほぼ間違いない」と述べ、サイバー攻撃を受けた可能性が高いという見方を示しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "フランスのスーパーマーケットで冷凍庫や冷蔵庫を管理するシステムがサイバー攻撃を受け、温度を不正に操作された結果、冷凍食品がとけるなどの被害が出ました。\n",
+    "markedBody": "AFP通信などによりますと、12日にかけてフランスの複数のスーパーチェーンがサイバー攻撃を受け、あわせて400店舗以上の冷凍庫や冷蔵庫を遠隔で管理するシステムに異常が生じました。\n\n一部の店舗では、冷凍庫や冷蔵庫の霜を取る装置の設定温度が不正に操作され、50度まで引き上げられたため、冷凍食品やアイスクリームがとけたほか生鮮食品が傷むなどして廃棄を余儀なくされる被害が出たということです。\n\nパリのスーパーで撮影された映像では、冷凍庫から商品がなくなっている様子がわかります。\n\n管理システムを提供する企業は、更新が打ち切られた古いソフトウエアを搭載するシステムが狙われたという見方を示しているということです。\n\nフランスの当局は、ソフトウエアを可能なかぎり更新し、外部から管理画面にアクセスできないようにするなどの対策を呼びかけています。\n\n## オランダでもサイバー攻撃か スーパーに食品届かず\n\nオランダなどでスーパーを展開する企業は、サイバーセキュリティーの問題が発生し、一部のシステムが使えなくなっていると、12日、発表しました。\n\n11日午後からオンラインのシステムが停止したため、一部の配送センターから店舗へ商品を届けることができず、生鮮食品の棚が空っぽになる事態が起きていると、オランダの公共放送は伝えています。\n\nオランダのサイバーセキュリティーの専門家は「悪意のある人物がシステムに侵入したことはほぼ間違いない」と述べ、サイバー攻撃を受けた可能性が高いという見方を示しています。\n",
+    "trimmedLead": "フランスのスーパーマーケットで冷凍庫や冷蔵庫を管理するシステムがサイバー攻撃を受け、温度を不正に操作された結果、冷凍食品がとけるなどの被害が出ました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261013de58881.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261013de58881",
+  "video": [],
+  "citation": [
+    {
+      "name": "自治体防災メール 不正アクセスでアドレス300万件など漏えいか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58789",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58789/20261013de58789_E0000069069_1_s.jpg",
+      "datePublished": "2026-10-13T21:54:35+09:00"
+    },
+    {
+      "name": "一連の不正アクセスは“AIエージェント悪用の可能性”解析で",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58380",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58380/20261013de58380_E0000067517_1_s.jpg",
+      "datePublished": "2026-10-13T19:49:24+09:00"
+    },
+    {
+      "name": "韓国インチョンで切りつけ事件 8人けが うち1人心肺停止",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58547",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58547/20261013de58547_E0000067621_1_s.jpg",
+      "datePublished": "2026-10-13T17:56:00+09:00"
+    },
+    {
+      "name": "IMF 経済成長率引き上げも AIで“二極化”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58500",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58500/20261013de58500_E0000067299_1_s.jpg",
+      "datePublished": "2026-10-13T13:22:07+09:00"
+    },
+    {
+      "name": "全日空 ボーイング「737MAX」 導入前に製造中の機体の検査公開",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58423",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58423/20261013de58423_E0000067414_1_s.jpg",
+      "datePublished": "2026-10-13T13:13:00+09:00"
+    },
+    {
+      "name": "中国とロシアが北極海航路など海洋協力の強化を確認",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58518",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58518/20261013de58518_E0000067387_1_s.jpg",
+      "datePublished": "2026-10-13T14:03:00+09:00"
+    },
+    {
+      "name": "北朝鮮キム・ジョンウン総書記　ICBM級展示の博物館視察",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58513",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58513/20261013de58513_E0000067368_1_s.jpg",
+      "datePublished": "2026-10-13T13:43:00+09:00"
+    },
+    {
+      "name": "ノーベル平和賞のピレイ氏がICC訪問 赤根所長らと面会",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58445",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58445/20261013de58445_E0000066771_1_s.jpg",
+      "datePublished": "2026-10-13T12:07:00+09:00"
+    },
+    {
+      "name": "ジャパンモビリティショー開幕 EVへのワイヤレス給電など展示",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58526",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58526/20261013de58526_E0000067610_1_s.jpg",
+      "datePublished": "2026-10-13T19:50:22+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
