@@ -1,0 +1,141 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261013de58781",
+  "dataSourceId": "nd",
+  "name": "ノーベル賞で注目 アミノ酸の分析で大阪大学など新手法を発表",
+  "headline": "ノーベル賞で注目 アミノ酸の分析で大阪大学など新手法を発表",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261013de58781",
+    "playlistId": "news-nwa-scienceculture-nationwide-20261013",
+    "newsarticleName": "ノーベル賞で注目 アミノ酸の分析で大阪大学など新手法を発表",
+    "playlistName": "10月13日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "ことしのノーベル化学賞に選ばれた硤合憲三さんの研究では、生命をつくるアミノ酸に2つのタイプがあることが注目されましたが、たった1つの分子を調べることでどちらのタイプか見分ける新たな手法を開発したと、大",
+  "dateModified": "2026-10-13T19:14:03+09:00",
+  "datePublished": "2026-10-13T19:14:03+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58781/20261013de58781_E0000068277_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58781/20261013de58781_E0000068277_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "科学・文化",
+    "暮らし"
+  ],
+  "topic": [
+    {
+      "id": "E0000000609",
+      "name": "ノーベル賞",
+      "display": true
+    },
+    {
+      "id": "E0000010106",
+      "name": "ノーベル賞2026",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ことしのノーベル化学賞に選ばれた硤合憲三さんの研究では、生命をつくるアミノ酸に2つのタイプがあることが注目されましたが、たった1つの分子を調べることでどちらのタイプか見分ける新たな手法を開発したと、大",
+  "articleBody": "ことしのノーベル化学賞に選ばれた硤合憲三さんの研究では、生命をつくるアミノ酸に2つのタイプがあることが注目されましたが、たった1つの分子を調べることでどちらのタイプか見分ける新たな手法を開発したと、大阪大学などのグループが発表しました。\n\n\n生命の材料となるアミノ酸には、「左手型」と「右手型」と呼ばれる2つのタイプがあり、地球上の生命は一部の例外を除くと「左手型」のアミノ酸だけを使っていることが知られています。\n\n大阪大学の谷口正輝教授やNASA＝アメリカ航空宇宙局などは、このタイプの違いについてたった1つの分子で見分ける新たな手法を開発したと発表しました。\n\nアミノ酸が電極の隙間を通る際に生じるわずかな電流の違いによってタイプの違いを見分けるもので、19種類のアミノ酸を調べたところ、8割から9割の精度で識別できたということです。\n\nグループは、この手法を実用化できれば、分析装置の小型化や簡素化につながるほか、宇宙探査で得られたサンプルに含まれるアミノ酸のタイプを分析することで、地球外生命の痕跡を探る指標として利用できる可能性があるとしています。\n\nこの研究はことしのノーベル化学賞に選ばれた硤合憲三さんの研究に関わることからも注目されていて、谷口教授は「硤合さんの受賞は私たちの研究にとっても励みになった。さらに計測技術を高め、次世代の分析装置の開発につなげたい」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "ことしのノーベル化学賞に選ばれた硤合憲三さんの研究では、生命をつくるアミノ酸に2つのタイプがあることが注目されましたが、たった1つの分子を調べることでどちらのタイプか見分ける新たな手法を開発したと、大阪大学などのグループが発表しました。\n",
+    "markedBody": "生命の材料となるアミノ酸には、「左手型」と「右手型」と呼ばれる2つのタイプがあり、地球上の生命は一部の例外を除くと「左手型」のアミノ酸だけを使っていることが知られています。\n\n大阪大学の谷口正輝教授やNASA＝アメリカ航空宇宙局などは、このタイプの違いについてたった1つの分子で見分ける新たな手法を開発したと発表しました。\n\nアミノ酸が電極の隙間を通る際に生じるわずかな電流の違いによってタイプの違いを見分けるもので、19種類のアミノ酸を調べたところ、8割から9割の精度で識別できたということです。\n\nグループは、この手法を実用化できれば、分析装置の小型化や簡素化につながるほか、宇宙探査で得られたサンプルに含まれるアミノ酸のタイプを分析することで、地球外生命の痕跡を探る指標として利用できる可能性があるとしています。\n\nこの研究はことしのノーベル化学賞に選ばれた硤合憲三さんの研究に関わることからも注目されていて、谷口教授は「硤合さんの受賞は私たちの研究にとっても励みになった。さらに計測技術を高め、次世代の分析装置の開発につなげたい」と話しています。\n",
+    "trimmedLead": "ことしのノーベル化学賞に選ばれた硤合憲三さんの研究では、生命をつくるアミノ酸に2つのタイプがあることが注目されましたが、たった1つの分子を調べることでどちらのタイプか見分ける新たな手法を開発したと、大阪大学などのグループが発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261013de58781.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261013de58781",
+  "video": [],
+  "citation": [
+    {
+      "name": "ノーベル化学賞 北川進さん 未来を変える「MOF」最前線",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015007321000",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261008de56493_E0000055801_1_s.jpg"
+    },
+    {
+      "name": "ノーベル賞 坂口志文さん「制御性T細胞」が切り開く未来の医療",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014995291000",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261008de56495_E0000055800_1_s.jpg"
+    },
+    {
+      "name": "ノーベル賞も夢じゃない？“スーパー高校生”の探求心",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014989031000",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261008de56496_E0000055799_1_s.jpg"
+    },
+    {
+      "name": "北川進さんにノーベル化学賞 日本の研究力を強化するには",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014949771000",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261008de56497_E0000055797_1_s.jpg"
+    },
+    {
+      "name": "坂口志文さん ノーベル生理学・医学賞 意義と背景",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014953841000",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261008de56498_E0000055798_1_s.jpg"
+    },
+    {
+      "name": "日本で広がる韓国文学 なぜ？芥川賞作家が語る魅力とは",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014884121000",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261008de56499_E0000055795_1_s.jpg"
+    },
+    {
+      "name": "今こそ記憶の“語り直し”を ノーベル賞作家 カズオ・イシグロ",
+      "url": "https://news.web.nhk/newsweb/na/nc-e64a75b9-7213-452e-8149-5e911c52368f",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261008de56501_E0000055789_1_s.jpg"
+    },
+    {
+      "name": "ノーベル平和賞 最年少選考委員長の訴え",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014663801000",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261008de56503_E0000055794_1_s.jpg"
+    },
+    {
+      "name": "中国でノーベル賞作家「川端康成」ブーム いったいなぜ？",
+      "url": "https://news.web.nhk/newsweb/na/nc-353ceafb-67e6-445e-abe0-12463cf574a8",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261008de56504_E0000055788_1_s.jpg"
+    },
+    {
+      "name": "サーロー節子さん 死者に代わって言い続ける",
+      "url": "https://news.web.nhk/newsweb/na/nc-840c162f-6a48-4d2a-ada5-92e8e16b19a8",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261008de56505_E0000055785_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
