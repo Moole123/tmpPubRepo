@@ -1,0 +1,160 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261014de59442",
+  "dataSourceId": "nd",
+  "name": "中小企業向けのセキュリティー対策セミナー",
+  "headline": "中小企業向けのセキュリティー対策セミナー",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261014de59442",
+    "playlistId": "news-nwa-business-nationwide-20261014",
+    "newsarticleName": "中小企業向けのセキュリティー対策セミナー",
+    "playlistName": "10月14日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "不正アクセスによる情報漏えいが相次ぐ中、中小企業を対象にセキュリティー対策などを紹介するセミナーが、14日、都内で開かれました。\n\n\nこのセミナーは企業のIT活用やセキュリティー対策に詳しい専門家で作",
+  "dateModified": "2026-10-14T20:27:03+09:00",
+  "datePublished": "2026-10-14T20:27:03+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59442/20261014de59442_E0000073275_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59442/20261014de59442_E0000073275_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000106",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    },
+    {
+      "id": "E0000000341",
+      "name": "東京都",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "不正アクセスによる情報漏えいが相次ぐ中、中小企業を対象にセキュリティー対策などを紹介するセミナーが、14日、都内で開かれました。\n\n\nこのセミナーは企業のIT活用やセキュリティー対策に詳しい専門家で作",
+  "articleBody": "不正アクセスによる情報漏えいが相次ぐ中、中小企業を対象にセキュリティー対策などを紹介するセミナーが、14日、都内で開かれました。\n\n\nこのセミナーは企業のIT活用やセキュリティー対策に詳しい専門家で作る協議会が、東京・立川市で開いたもので、中小企業の経営者などおよそ20人が参加しました。\n\nセミナーでは来年3月から企業のセキュリティー対策に関する新たな制度が始まることを踏まえ、講師が担当者や部署を定め、機密情報の保管状況を把握することや、取引先の企業とも機密情報の扱いについて取り決めておくことの重要性などを呼びかけました。\n\nまた、不正アクセスによる情報漏えいが相次いでいることから、多要素認証を導入したり、OS＝基本ソフトなどを最新の状態に保ったりすることに加え、重要なデータはバックアップをとるといった対策が重要だと呼びかけました。\n\n参加した電気工事を行う会社の担当者は、「取引先にも迷惑をかけるわけにはいかないので、社内の整備状況を踏まえ、しっかり対策したい」と話していました。\n\nセミナーの後に開かれた相談会では、企業の担当者から、限られた人員や資金で対応しなければならないといった悩みが聞かれました。\n\nセミナーを主催したITコーディネータ多摩協議会の黒坂武祐事務局長は「中小企業は資金面や専門の担当者がいないといった課題があるので、専門家や公的支援を利用し、対策してほしい」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "不正アクセスによる情報漏えいが相次ぐ中、中小企業を対象にセキュリティー対策などを紹介するセミナーが、14日、都内で開かれました。\n",
+    "markedBody": ":::nw--image-left\n![](https://img.web.nhk/news/nd/kiji/20261014de59442/20261014de59442_E0000073274_1_l.jpg)\n\nこのセミナーは企業のIT活用やセキュリティー対策に詳しい専門家で作る協議会が、東京・立川市で開いたもので、中小企業の経営者などおよそ20人が参加しました。\n\nセミナーでは来年3月から企業のセキュリティー対策に関する新たな制度が始まることを踏まえ、講師が担当者や部署を定め、機密情報の保管状況を把握することや、取引先の企業とも機密情報の扱いについて取り決めておくことの重要性などを呼びかけました。\n\nまた、不正アクセスによる情報漏えいが相次いでいることから、多要素認証を導入したり、OS＝基本ソフトなどを最新の状態に保ったりすることに加え、重要なデータはバックアップをとるといった対策が重要だと呼びかけました。\n\n参加した電気工事を行う会社の担当者は、「取引先にも迷惑をかけるわけにはいかないので、社内の整備状況を踏まえ、しっかり対策したい」と話していました。\n\nセミナーの後に開かれた相談会では、企業の担当者から、限られた人員や資金で対応しなければならないといった悩みが聞かれました。\n:::\n\n:::nw--image-left\n![](https://img.web.nhk/news/nd/kiji/20261014de59442/20261014de59442_E0000073271_1_l.jpg)\n\nセミナーを主催したITコーディネータ多摩協議会の黒坂武祐事務局長は「中小企業は資金面や専門の担当者がいないといった課題があるので、専門家や公的支援を利用し、対策してほしい」と話していました。\n:::\n",
+    "trimmedLead": "不正アクセスによる情報漏えいが相次ぐ中、中小企業を対象にセキュリティー対策などを紹介するセミナーが、14日、都内で開かれました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261014de59442.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261014de59442",
+  "video": [],
+  "citation": [
+    {
+      "name": "“詐欺師は名前と住所を正確に言ってきた” 情報流出リスクは",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56412",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56412/20261008de56412_E0000063396_1_s.jpg",
+      "datePublished": "2026-10-10T18:59:04+09:00"
+    },
+    {
+      "name": "オープンAI従業員を逮捕 役員会議室に録音機設置か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59061",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59061/20261014de59061_E0000070769_1_s.jpg",
+      "datePublished": "2026-10-14T12:21:00+09:00"
+    },
+    {
+      "name": "ニッスイの物流会社 全拠点で来週通常稼働へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59006",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59006/20261014de59006_E0000070710_1_s.jpg",
+      "datePublished": "2026-10-14T11:26:00+09:00"
+    },
+    {
+      "name": "自治体防災メール 不正アクセスでアドレス300万件など漏えいか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58789",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58789/20261013de58789_E0000069069_1_s.jpg",
+      "datePublished": "2026-10-13T21:54:35+09:00"
+    },
+    {
+      "name": "PayPay証券 日本株 ETF全銘柄の取引を再開",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de58971",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de58971/20261014de58971_E0000070641_1_s.jpg",
+      "datePublished": "2026-10-14T12:12:00+09:00"
+    },
+    {
+      "name": "「ゆめタウン」展開のイズミ 最大約40万件漏えいの可能性",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59111",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59111/20261014de59111_E0000071002_1_s.jpg",
+      "datePublished": "2026-10-14T12:41:33+09:00"
+    },
+    {
+      "name": "宿題をAIに丸投げ？ 生成AIの学力への影響は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261002de53846",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53846/20261002de53846_E0000070801_1_s.jpg",
+      "datePublished": "2026-10-14T17:23:29+09:00"
+    },
+    {
+      "name": "共同創業者 単独インタで語った“AIの未来”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59160",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59160/20261014de59160_E0000071639_1_s.jpg",
+      "datePublished": "2026-10-14T20:25:21+09:00"
+    },
+    {
+      "name": "止まらない個人情報漏えい 警察でも漏えいの可能性明らかに",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59388",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59388/20261014de59388_E0000071924_1_s.jpg",
+      "datePublished": "2026-10-14T20:48:07+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
