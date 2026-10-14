@@ -1,0 +1,148 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261014de59421",
+  "dataSourceId": "nd",
+  "name": "警察庁 米マイクロソフトと連携しネット犯罪サービスを無害化",
+  "headline": "警察庁 米マイクロソフトと連携しネット犯罪サービスを無害化",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261014de59421",
+    "playlistId": "news-nwa-society-nationwide-20261015",
+    "newsarticleName": "警察庁 米マイクロソフトと連携しネット犯罪サービスを無害化",
+    "playlistName": "10月15日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "警察庁はアメリカのIT大手のマイクロソフトなどと連携し、日本を標的にしたネット犯罪のグループに偽サイトの「型」を提供するなどしていた複数のサービスを、今月、アメリカでの訴訟によって無害化したと公表しま",
+  "dateModified": "2026-10-15T06:47:14+09:00",
+  "datePublished": "2026-10-15T06:47:14+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59421/20261014de59421_E0000073125_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59421/20261014de59421_E0000073125_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会",
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "E0000000655",
+      "name": "警察庁",
+      "display": true
+    },
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000208",
+      "name": "事件・事故",
+      "display": true
+    },
+    {
+      "id": "E0000000419",
+      "name": "アメリカ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "警察庁はアメリカのIT大手のマイクロソフトなどと連携し、日本を標的にしたネット犯罪のグループに偽サイトの「型」を提供するなどしていた複数のサービスを、今月、アメリカでの訴訟によって無害化したと公表しま",
+  "articleBody": "警察庁はアメリカのIT大手のマイクロソフトなどと連携し、日本を標的にしたネット犯罪のグループに偽サイトの「型」を提供するなどしていた複数のサービスを、今月、アメリカでの訴訟によって無害化したと公表しました。\n\n\n警察庁はアメリカのIT大手のマイクロソフトとサイバーセキュリティ強化を目指す連携協定を締結していて、日本を標的にした犯罪で悪用されているインターネット上の基盤やサービスについて共同で実態解明を進めてきました。\n\nその結果、実在の企業などになりすまして偽サイトに誘導し、IDやパスワードを盗み取る「フィッシング」と呼ばれる手口で犯罪グループに偽サイトの「型」を提供するなどしていたインターネット上の複数のサービスとその在りかを特定したということです。\n\nこれに基づいてマイクロソフトなどがアメリカで訴訟を起こし、今月、裁判所の命令によってサービスの無害化が実施されたということです。\n\nネット犯罪のグループはこうしたサービスを通常の検索ではアクセスできない闇サイトで売り買いしているとみられ、去年、日本の企業になりすまして作られたおよそ12万件の偽サイトを警察庁が分析したところ、およそ半数が今回無害化されたサービスを利用していたということです。\n\n犯罪グループは偽サイトに誘導して入手した情報を詐欺や不正送金に悪用していると考えられ、警察庁は引き続き、海外の機関などと連携し対策を強化するとしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "警察庁はアメリカのIT大手のマイクロソフトなどと連携し、日本を標的にしたネット犯罪のグループに偽サイトの「型」を提供するなどしていた複数のサービスを、今月、アメリカでの訴訟によって無害化したと公表しました。\n",
+    "markedBody": "警察庁はアメリカのIT大手のマイクロソフトとサイバーセキュリティ強化を目指す連携協定を締結していて、日本を標的にした犯罪で悪用されているインターネット上の基盤やサービスについて共同で実態解明を進めてきました。\n\nその結果、実在の企業などになりすまして偽サイトに誘導し、IDやパスワードを盗み取る「フィッシング」と呼ばれる手口で犯罪グループに偽サイトの「型」を提供するなどしていたインターネット上の複数のサービスとその在りかを特定したということです。\n\nこれに基づいてマイクロソフトなどがアメリカで訴訟を起こし、今月、裁判所の命令によってサービスの無害化が実施されたということです。\n\nネット犯罪のグループはこうしたサービスを通常の検索ではアクセスできない闇サイトで売り買いしているとみられ、去年、日本の企業になりすまして作られたおよそ12万件の偽サイトを警察庁が分析したところ、およそ半数が今回無害化されたサービスを利用していたということです。\n\n犯罪グループは偽サイトに誘導して入手した情報を詐欺や不正送金に悪用していると考えられ、警察庁は引き続き、海外の機関などと連携し対策を強化するとしています。\n",
+    "trimmedLead": "警察庁はアメリカのIT大手のマイクロソフトなどと連携し、日本を標的にしたネット犯罪のグループに偽サイトの「型」を提供するなどしていた複数のサービスを、今月、アメリカでの訴訟によって無害化したと公表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261014de59421.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261014de59421",
+  "video": [],
+  "citation": [
+    {
+      "name": "止まらない個人情報漏えい 警察でも漏えいの可能性明らかに",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59388",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59388/20261014de59388_E0000071924_1_s.jpg",
+      "datePublished": "2026-10-15T04:32:58+09:00"
+    },
+    {
+      "name": "AIがもたらすのは希望か脅威か アンソロピック創業者に問う",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59452",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59452/20261014de59452_E0000073969_1_s.jpg",
+      "datePublished": "2026-10-14T22:17:53+09:00"
+    },
+    {
+      "name": "オープンAI従業員を逮捕 役員会議室に録音機設置か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59061",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59061/20261014de59061_E0000070769_1_s.jpg",
+      "datePublished": "2026-10-14T12:21:00+09:00"
+    },
+    {
+      "name": "共同創業者 単独インタで語った“AIの未来”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59160",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59160/20261014de59160_E0000071639_1_s.jpg",
+      "datePublished": "2026-10-14T20:25:00+09:00"
+    },
+    {
+      "name": "簗農相辞表提出 首相きょう後任決定方針 野党は任命責任追及へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de59520",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59520/20261015de59520_E0000074056_1_s.jpg",
+      "datePublished": "2026-10-15T04:40:28+09:00"
+    },
+    {
+      "name": "北海道新聞記者の拘束受けて状況などの確認急ぐ 日本政府",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de59523",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59523/20261015de59523_E0000074058_1_s.jpg",
+      "datePublished": "2026-10-15T04:52:09+09:00"
+    },
+    {
+      "name": "漫画家が出版社を提訴 “出版権は消滅”確認を求める",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59459",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59459/20261014de59459_E0000073886_1_s.jpg",
+      "datePublished": "2026-10-15T05:18:53+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

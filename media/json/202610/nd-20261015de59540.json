@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261015de59540",
+  "dataSourceId": "nd",
+  "name": "NY市場 円相場 一時1ドル＝158円台後半まで値下がりも 荒い値動きに",
+  "headline": "NY市場 円相場 一時1ドル＝158円台後半も 荒い値動きに",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261015de59540",
+    "playlistId": "news-nwa-international-nationwide-20261015",
+    "newsarticleName": "NY市場 円相場 一時1ドル＝158円台後半まで値下がりも 荒い値動きに",
+    "playlistName": "10月15日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "14日のニューヨーク外国為替市場では、この日に発表されたアメリカの9月の消費者物価指数の伸びが市場予想を上回ったことで、円を売ってドルを買う動きが進み、円相場は一時、1ドル＝158円台後半まで値下がり",
+  "dateModified": "2026-10-15T06:15:11+09:00",
+  "datePublished": "2026-10-15T06:15:11+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59540/20261015de59540_E0000074077_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59540/20261015de59540_E0000074077_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000157",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "E0000000419",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "E0000000477",
+      "name": "金融",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "14日のニューヨーク外国為替市場では、この日に発表されたアメリカの9月の消費者物価指数の伸びが市場予想を上回ったことで、円を売ってドルを買う動きが進み、円相場は一時、1ドル＝158円台後半まで値下がり",
+  "articleBody": "14日のニューヨーク外国為替市場では、この日に発表されたアメリカの9月の消費者物価指数の伸びが市場予想を上回ったことで、円を売ってドルを買う動きが進み、円相場は一時、1ドル＝158円台後半まで値下がりしました。ただ、その後は円を買い戻す動きも出て、荒い値動きとなりました。\n\n\n14日に発表されたアメリカの9月の消費者物価指数が、去年の同じ月と比べて3.7％の上昇となり、市場予想を上回ったことで、投資家の間ではFRB＝連邦準備制度理事会による早期の利上げ観測がいくぶん高まりました。\n\nこのためニューヨーク外国為替市場では統計の発表直後から円を売ってドルを買う動きが進んで、円相場は一時、1ドル＝158円90銭台まで値下がりし、先月9月下旬以来、およそ3週間ぶりの円安水準となりました。\n\nただ、FRB高官が利上げを急がない考えを示す中で、その後はFRBが早期の利上げに踏み切る可能性は高くないとの見方が優勢となり、一転してドル売り円買いの動きが出て、1ドル＝158円台前半まで値上がりする荒い値動きとなりました。\n\n市場関係者は「株式市場でハイテク株が大きく下落し、投資家の間でリスクを避ける姿勢が強まるなかで、円が比較的安全な資産と見なされて買われたことも、円高方向に進んだ要因となった」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "14日のニューヨーク外国為替市場では、この日に発表されたアメリカの9月の消費者物価指数の伸びが市場予想を上回ったことで、円を売ってドルを買う動きが進み、円相場は一時、1ドル＝158円台後半まで値下がりしました。ただ、その後は円を買い戻す動きも出て、荒い値動きとなりました。\n",
+    "markedBody": "14日に発表されたアメリカの9月の消費者物価指数が、去年の同じ月と比べて3.7％の上昇となり、市場予想を上回ったことで、投資家の間ではFRB＝連邦準備制度理事会による早期の利上げ観測がいくぶん高まりました。\n\nこのためニューヨーク外国為替市場では統計の発表直後から円を売ってドルを買う動きが進んで、円相場は一時、1ドル＝158円90銭台まで値下がりし、先月9月下旬以来、およそ3週間ぶりの円安水準となりました。\n\nただ、FRB高官が利上げを急がない考えを示す中で、その後はFRBが早期の利上げに踏み切る可能性は高くないとの見方が優勢となり、一転してドル売り円買いの動きが出て、1ドル＝158円台前半まで値上がりする荒い値動きとなりました。\n\n市場関係者は「株式市場でハイテク株が大きく下落し、投資家の間でリスクを避ける姿勢が強まるなかで、円が比較的安全な資産と見なされて買われたことも、円高方向に進んだ要因となった」と話しています。\n",
+    "trimmedLead": "14日のニューヨーク外国為替市場では、この日に発表されたアメリカの9月の消費者物価指数の伸びが市場予想を上回ったことで、円を売ってドルを買う動きが進み、円相場は一時、1ドル＝158円台後半まで値下がりしました。ただ、その後は円を買い戻す動きも出て、荒い値動きとなりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261015de59540.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261015de59540",
+  "video": [],
+  "citation": [
+    {
+      "name": "米 9月の消費者物価 3.7％上昇 早期利上げ観測いくぶん高まる",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59486",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59486/20261014de59486_E0000074027_1_s.jpg",
+      "datePublished": "2026-10-15T00:40:43+09:00"
+    },
+    {
+      "name": "米ホワイトハウス 委員会でＦＲＢ理事の“不正疑惑”調査へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261010de57615",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261010de57615/20261010de57615_E0000063343_1_s.jpg",
+      "datePublished": "2026-10-10T13:48:00+09:00"
+    },
+    {
+      "name": "FRB利上げ インフレ上振れに警戒感 多くが追加利上げ支持",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56230",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56230/20261008de56230_E0000054512_1_s.jpg",
+      "datePublished": "2026-10-08T07:06:59+09:00"
+    },
+    {
+      "name": "AIがもたらすのは希望か脅威か アンソロピック創業者に問う",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59452",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59452/20261014de59452_E0000073969_1_s.jpg",
+      "datePublished": "2026-10-14T22:17:53+09:00"
+    },
+    {
+      "name": "共同創業者 単独インタで語った“AIの未来”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59160",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59160/20261014de59160_E0000071639_1_s.jpg",
+      "datePublished": "2026-10-14T20:25:00+09:00"
+    },
+    {
+      "name": "旧統一教会が最上位機関新設 責任者にハン総裁の孫を任命",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59487",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59487/20261014de59487_E0000074060_1_s.jpg",
+      "datePublished": "2026-10-14T23:14:00+09:00"
+    },
+    {
+      "name": "中国軍の空母が太平洋に向けて航行 戦闘機の発着も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59475",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59475/20261014de59475_E0000073954_1_s.jpg",
+      "datePublished": "2026-10-14T22:20:33+09:00"
+    },
+    {
+      "name": "サウジアラビア国営石油会社に攻撃 フーシ派は攻撃継続主張",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59083",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59083/20261014de59083_E0000071203_1_s.jpg",
+      "datePublished": "2026-10-14T22:16:06+09:00"
+    },
+    {
+      "name": "「プーチン大統領は“じいさん”」ロシアのエリート層に何が？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de58984",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de58984/20261014de58984_E0000070779_1_s.jpg",
+      "datePublished": "2026-10-14T18:02:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
