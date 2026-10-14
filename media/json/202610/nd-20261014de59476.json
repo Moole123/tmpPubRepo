@@ -1,0 +1,161 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261014de59476",
+  "dataSourceId": "nd",
+  "name": "ソフトバンク子会社 一部顧客のデータは取り出し可能",
+  "headline": "ソフトバンク子会社 一部顧客のデータは取り出し可能",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261014de59476",
+    "playlistId": "news-nwa-business-nationwide-20261014",
+    "newsarticleName": "ソフトバンク子会社 一部顧客のデータは取り出し可能",
+    "playlistName": "10月14日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "ソフトバンクの子会社が提供するクラウドサービスのシステムがサイバー攻撃を受けた問題で、会社は14日、復元が困難とみていた顧客のデータについて、一部は取り出せることがわかったと発表しました。\n\n\nソフト",
+  "dateModified": "2026-10-14T22:18:52+09:00",
+  "datePublished": "2026-10-14T22:18:52+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59476/20261014de59476_E0000073976_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59476/20261014de59476_E0000073976_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ソフトバンクの子会社が提供するクラウドサービスのシステムがサイバー攻撃を受けた問題で、会社は14日、復元が困難とみていた顧客のデータについて、一部は取り出せることがわかったと発表しました。\n\n\nソフト",
+  "articleBody": "ソフトバンクの子会社が提供するクラウドサービスのシステムがサイバー攻撃を受けた問題で、会社は14日、復元が困難とみていた顧客のデータについて、一部は取り出せることがわかったと発表しました。\n\n\nソフトバンクの子会社「IDCフロンティア」はクラウドサービスのシステムが身代金要求型のコンピューターウイルス「ランサムウエア」による攻撃を受けました。\n\n攻撃による影響を受けたのは495の企業や自治体などのデータで、サイトが閲覧できなくなるなど各地で影響が広がっています。\n\nこうしたなか会社は外部のセキュリティー企業と連携して行っている調査の進捗を公表し、復元が困難とみていたデータについて、事前にバックアップ機能を活用していた194の顧客については、データを取り出せることがわかったということです。\n\n該当する顧客には、データを復元できるかなどについて個別に連絡するとしています。\n\nまた会社では外部にデータが流出したかどうかについても調査を行っていますが、サイバー攻撃を受けたサーバーに保存されていたデータが外部に持ち出された形跡は確認されなかったということです。\n\n会社では「多大なるご心配とご迷惑をおかけしておりますことを深くおわび申し上げます。今後、新たにお知らせすべき事実が判明した場合には、速やかに報告します」としています。\n",
+  "detailedArticleBody": {
+    "markedLead": "ソフトバンクの子会社が提供するクラウドサービスのシステムがサイバー攻撃を受けた問題で、会社は14日、復元が困難とみていた顧客のデータについて、一部は取り出せることがわかったと発表しました。\n",
+    "markedBody": "ソフトバンクの子会社「IDCフロンティア」はクラウドサービスのシステムが身代金要求型のコンピューターウイルス「ランサムウエア」による攻撃を受けました。\n\n攻撃による影響を受けたのは495の企業や自治体などのデータで、サイトが閲覧できなくなるなど各地で影響が広がっています。\n\nこうしたなか会社は外部のセキュリティー企業と連携して行っている調査の進捗を公表し、復元が困難とみていたデータについて、事前にバックアップ機能を活用していた194の顧客については、データを取り出せることがわかったということです。\n\n該当する顧客には、データを復元できるかなどについて個別に連絡するとしています。\n\nまた会社では外部にデータが流出したかどうかについても調査を行っていますが、サイバー攻撃を受けたサーバーに保存されていたデータが外部に持ち出された形跡は確認されなかったということです。\n\n会社では「多大なるご心配とご迷惑をおかけしておりますことを深くおわび申し上げます。今後、新たにお知らせすべき事実が判明した場合には、速やかに報告します」としています。\n",
+    "trimmedLead": "ソフトバンクの子会社が提供するクラウドサービスのシステムがサイバー攻撃を受けた問題で、会社は14日、復元が困難とみていた顧客のデータについて、一部は取り出せることがわかったと発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261014de59476.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261014de59476",
+  "video": [],
+  "citation": [
+    {
+      "name": "【詳細】簗農相 辞表提出 道路予算発言など問題指摘の中",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59049",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59049/20261014de59049_E0000072700_1_s.jpg",
+      "datePublished": "2026-10-14T22:02:00+09:00"
+    },
+    {
+      "name": "埼玉 「大樹生命」元営業職員を顧客への詐欺容疑で逮捕",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59353",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59353/20261014de59353_E0000071620_1_s.jpg",
+      "datePublished": "2026-10-14T18:13:14+09:00"
+    },
+    {
+      "name": "共同創業者 単独インタで語った“AIの未来”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59160",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59160/20261014de59160_E0000071639_1_s.jpg",
+      "datePublished": "2026-10-14T20:25:00+09:00"
+    },
+    {
+      "name": "千葉豪雨 タクシー水没し乗客死亡の事故 詳しい経緯が判明 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59000",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59000/20261014de59000_E0000070705_1_s.jpg",
+      "datePublished": "2026-10-14T11:51:00+09:00"
+    },
+    {
+      "name": "ドジャース大谷翔平 第3戦先発へ「信じてくれる人のために」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de58989",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de58989/20261014de58989_E0000070675_1_s.jpg",
+      "datePublished": "2026-10-14T14:10:00+09:00"
+    },
+    {
+      "name": "ロシアが北海道新聞記者をスパイ容疑で拘束 長期化の懸念も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58917",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58917/20261013de58917_E0000070242_1_s.jpg",
+      "datePublished": "2026-10-14T12:03:00+09:00"
+    },
+    {
+      "name": "「あなたの取り締まりは行き過ぎ」 共和党内からも異論噴出？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58507",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58507/20261013de58507_E0000067408_1_s.jpg",
+      "datePublished": "2026-10-13T20:40:57+09:00"
+    },
+    {
+      "name": "オープンAI従業員を逮捕 役員会議室に録音機設置か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59061",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59061/20261014de59061_E0000070769_1_s.jpg",
+      "datePublished": "2026-10-14T12:21:00+09:00"
+    },
+    {
+      "name": "“詐欺師は名前と住所を正確に言ってきた” 情報流出リスクは",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56412",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56412/20261008de56412_E0000063396_1_s.jpg",
+      "datePublished": "2026-10-10T18:59:04+09:00"
+    },
+    {
+      "name": "一連の不正アクセスは“AIエージェント悪用の可能性”解析で",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58380",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58380/20261013de58380_E0000067517_1_s.jpg",
+      "datePublished": "2026-10-13T19:49:00+09:00"
+    },
+    {
+      "name": "“地球上最悪の侵略的植物”拡散か 大雨で堤防決壊 印旛沼から",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58529",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58529/20261013de58529_E0000067606_1_s.jpg",
+      "datePublished": "2026-10-13T18:34:57+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

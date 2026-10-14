@@ -1,0 +1,172 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261014de59455",
+  "dataSourceId": "nd",
+  "name": "高市首相 簗農相の辞表受理 「任命責任 重く受け止めている」",
+  "headline": "高市首相 簗農相の辞表受理 「任命責任 重く受け止めている」",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261014de59455",
+    "playlistId": "news-nwa-politics-nationwide-20261014",
+    "newsarticleName": "高市首相 簗農相の辞表受理 「任命責任 重く受け止めている」",
+    "playlistName": "10月14日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "今夜、渦中の簗農林水産大臣が辞表を提出。\n\n大臣が問題を抱えて辞任するのは高市内閣で初めてです。\n\n高市総理大臣は「任命責任を重く受け止めている」とした上で、後任の大臣は15日に明らかにする考えを示し",
+  "dateModified": "2026-10-14T23:11:39+09:00",
+  "datePublished": "2026-10-14T23:11:39+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59455/20261014de59455_E0000074012_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59455/20261014de59455_E0000074012_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000640",
+      "name": "高市内閣",
+      "display": true
+    },
+    {
+      "id": "E0000000456",
+      "name": "農林水産省",
+      "display": true
+    },
+    {
+      "id": "E0000000448",
+      "name": "国会",
+      "display": true
+    },
+    {
+      "id": "E0000000449",
+      "name": "衆議院",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "今夜、渦中の簗農林水産大臣が辞表を提出。\n\n大臣が問題を抱えて辞任するのは高市内閣で初めてです。\n\n高市総理大臣は「任命責任を重く受け止めている」とした上で、後任の大臣は15日に明らかにする考えを示し",
+  "articleBody": "今夜、渦中の簗農林水産大臣が辞表を提出。\n\n大臣が問題を抱えて辞任するのは高市内閣で初めてです。\n\n高市総理大臣は「任命責任を重く受け止めている」とした上で、後任の大臣は15日に明らかにする考えを示しました。\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "今夜、渦中の簗農林水産大臣が辞表を提出。\n\n大臣が問題を抱えて辞任するのは高市内閣で初めてです。\n\n高市総理大臣は「任命責任を重く受け止めている」とした上で、後任の大臣は15日に明らかにする考えを示しました。\n",
+    "markedBody": "",
+    "trimmedLead": "今夜、渦中の簗農林水産大臣が辞表を提出。\n\n大臣が問題を抱えて辞任するのは高市内閣で初めてです。\n\n高市総理大臣は「任命責任を重く受け止めている」とした上で、後任の大臣は15日に明らかにする考えを示しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261014de59455.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261014de59455",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "高市首相 簗農相の辞表受理 「任命責任 重く受け止めている」",
+      "description": "今夜、渦中の簗農林水産大臣が辞表を提出。\n\n大臣が問題を抱えて辞任するのは高市内閣で初めてです。\n\n高市総理大臣は「任命責任を重く受け止めている」とした上で、後任の大臣は15日に明らかにする考えを示し",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261014de59455_E0000074025_2_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261014de59455/20261014de59455_E0000074012_1_l.jpg",
+      "duration": "PT6M14S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261014de59455_E0000074025_2_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59455/20261014de59455_E0000074012_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "【詳細】簗農相 辞表提出 道路予算発言など問題指摘の中",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59049",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59049/20261014de59049_E0000072700_1_s.jpg",
+      "datePublished": "2026-10-14T22:02:00+09:00"
+    },
+    {
+      "name": "簗農相 これまでの発言や経緯",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de58990",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de58990/20261014de58990_E0000043936_1_s.jpg",
+      "datePublished": "2026-10-14T19:53:00+09:00"
+    },
+    {
+      "name": "高市首相 バス送迎“法令違反か否かは当局判断 簗大臣説明を”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de58993",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de58993/20261014de58993_E0000070691_1_s.jpg",
+      "datePublished": "2026-10-14T18:00:26+09:00"
+    },
+    {
+      "name": "共同創業者 単独インタで語った“AIの未来”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59160",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59160/20261014de59160_E0000071639_1_s.jpg",
+      "datePublished": "2026-10-14T20:25:00+09:00"
+    },
+    {
+      "name": "ロシアが北海道新聞記者をスパイ容疑で拘束 長期化の懸念も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58917",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58917/20261013de58917_E0000070242_1_s.jpg",
+      "datePublished": "2026-10-14T12:03:00+09:00"
+    },
+    {
+      "name": "消費税減税法案 与党20日審議入り提案 野党 支援金対象明示を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59229",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59229/20261014de59229_E0000071519_1_s.jpg",
+      "datePublished": "2026-10-14T16:46:00+09:00"
+    },
+    {
+      "name": "“地球上最悪の侵略的植物”拡散か 大雨で堤防決壊 印旛沼から",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58529",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58529/20261013de58529_E0000067606_1_s.jpg",
+      "datePublished": "2026-10-13T18:34:57+09:00"
+    },
+    {
+      "name": "オープンAI従業員を逮捕 役員会議室に録音機設置か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59061",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59061/20261014de59061_E0000070769_1_s.jpg",
+      "datePublished": "2026-10-14T12:21:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

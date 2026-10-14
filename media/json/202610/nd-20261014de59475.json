@@ -1,0 +1,172 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261014de59475",
+  "dataSourceId": "nd",
+  "name": "中国軍の空母が太平洋に向けて航行 戦闘機の発着も",
+  "headline": "中国軍の空母が太平洋に向けて航行 戦闘機の発着も",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261014de59475",
+    "playlistId": "news-nwa-society-nationwide-20261014",
+    "newsarticleName": "中国軍の空母が太平洋に向けて航行 戦闘機の発着も",
+    "playlistName": "10月14日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "中国海軍の空母が沖縄本島と宮古島の間を通って太平洋に向けて航行したのを確認したと防衛省が発表しました。その後、空母での戦闘機の発着も確認されたということで、防衛省が警戒と監視を続けています。\n\n\n防衛",
+  "dateModified": "2026-10-14T22:20:33+09:00",
+  "datePublished": "2026-10-14T22:20:33+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59475/20261014de59475_E0000073954_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59475/20261014de59475_E0000073954_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会",
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000215",
+      "name": "中国",
+      "display": true
+    },
+    {
+      "id": "E0000000391",
+      "name": "日中関係",
+      "display": true
+    },
+    {
+      "id": "E0000000515",
+      "name": "安全保障",
+      "display": true
+    },
+    {
+      "id": "E0000000193",
+      "name": "防衛省・自衛隊",
+      "display": true
+    },
+    {
+      "id": "E0000000375",
+      "name": "沖縄県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "中国海軍の空母が沖縄本島と宮古島の間を通って太平洋に向けて航行したのを確認したと防衛省が発表しました。その後、空母での戦闘機の発着も確認されたということで、防衛省が警戒と監視を続けています。\n\n\n防衛",
+  "articleBody": "中国海軍の空母が沖縄本島と宮古島の間を通って太平洋に向けて航行したのを確認したと防衛省が発表しました。その後、空母での戦闘機の発着も確認されたということで、防衛省が警戒と監視を続けています。\n\n\n防衛省によりますと、13日午前11時ごろ、中国海軍の空母「遼寧」とミサイル駆逐艦3隻のあわせて4隻が長崎県の男女群島の南西、およそ390キロの海域を南に航行するのを海上自衛隊が確認したということです。\n\nこの4隻は14日、沖縄本島と宮古島の間を南東に進み、太平洋に向けて航行しました。\n\nその後、石垣島の南、およそ250キロの海域で空母での戦闘機の発着が確認されたということです。\n\n空母「遼寧」をめぐっては、中国海軍は14日、西太平洋の海域に派遣して訓練を行うと発表していて、防衛省が警戒と監視を続けています。\n",
+  "detailedArticleBody": {
+    "markedLead": "中国海軍の空母が沖縄本島と宮古島の間を通って太平洋に向けて航行したのを確認したと防衛省が発表しました。その後、空母での戦闘機の発着も確認されたということで、防衛省が警戒と監視を続けています。\n",
+    "markedBody": "防衛省によりますと、13日午前11時ごろ、中国海軍の空母「遼寧」とミサイル駆逐艦3隻のあわせて4隻が長崎県の男女群島の南西、およそ390キロの海域を南に航行するのを海上自衛隊が確認したということです。\n\nこの4隻は14日、沖縄本島と宮古島の間を南東に進み、太平洋に向けて航行しました。\n\nその後、石垣島の南、およそ250キロの海域で空母での戦闘機の発着が確認されたということです。\n\n空母「遼寧」をめぐっては、中国海軍は14日、西太平洋の海域に派遣して訓練を行うと発表していて、防衛省が警戒と監視を続けています。\n",
+    "trimmedLead": "中国海軍の空母が沖縄本島と宮古島の間を通って太平洋に向けて航行したのを確認したと防衛省が発表しました。その後、空母での戦闘機の発着も確認されたということで、防衛省が警戒と監視を続けています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261014de59475.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261014de59475",
+  "video": [],
+  "citation": [
+    {
+      "name": "【詳細】簗農相 辞表提出 道路予算発言など問題指摘の中",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59049",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59049/20261014de59049_E0000072700_1_s.jpg",
+      "datePublished": "2026-10-14T22:02:00+09:00"
+    },
+    {
+      "name": "埼玉 「大樹生命」元営業職員を顧客への詐欺容疑で逮捕",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59353",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59353/20261014de59353_E0000071620_1_s.jpg",
+      "datePublished": "2026-10-14T18:13:14+09:00"
+    },
+    {
+      "name": "共同創業者 単独インタで語った“AIの未来”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59160",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59160/20261014de59160_E0000071639_1_s.jpg",
+      "datePublished": "2026-10-14T20:25:00+09:00"
+    },
+    {
+      "name": "千葉豪雨 タクシー水没し乗客死亡の事故 詳しい経緯が判明 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59000",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59000/20261014de59000_E0000070705_1_s.jpg",
+      "datePublished": "2026-10-14T11:51:00+09:00"
+    },
+    {
+      "name": "ドジャース大谷翔平 第3戦先発へ「信じてくれる人のために」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de58989",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de58989/20261014de58989_E0000070675_1_s.jpg",
+      "datePublished": "2026-10-14T14:10:00+09:00"
+    },
+    {
+      "name": "ロシアが北海道新聞記者をスパイ容疑で拘束 長期化の懸念も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58917",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58917/20261013de58917_E0000070242_1_s.jpg",
+      "datePublished": "2026-10-14T12:03:00+09:00"
+    },
+    {
+      "name": "「あなたの取り締まりは行き過ぎ」 共和党内からも異論噴出？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58507",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58507/20261013de58507_E0000067408_1_s.jpg",
+      "datePublished": "2026-10-13T20:40:57+09:00"
+    },
+    {
+      "name": "オープンAI従業員を逮捕 役員会議室に録音機設置か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59061",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59061/20261014de59061_E0000070769_1_s.jpg",
+      "datePublished": "2026-10-14T12:21:00+09:00"
+    },
+    {
+      "name": "“詐欺師は名前と住所を正確に言ってきた” 情報流出リスクは",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56412",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56412/20261008de56412_E0000063396_1_s.jpg",
+      "datePublished": "2026-10-10T18:59:04+09:00"
+    },
+    {
+      "name": "一連の不正アクセスは“AIエージェント悪用の可能性”解析で",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58380",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58380/20261013de58380_E0000067517_1_s.jpg",
+      "datePublished": "2026-10-13T19:49:00+09:00"
+    },
+    {
+      "name": "“地球上最悪の侵略的植物”拡散か 大雨で堤防決壊 印旛沼から",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58529",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58529/20261013de58529_E0000067606_1_s.jpg",
+      "datePublished": "2026-10-13T18:34:57+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

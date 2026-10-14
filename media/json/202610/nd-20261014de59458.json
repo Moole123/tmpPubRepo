@@ -1,0 +1,166 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261014de59458",
+  "dataSourceId": "nd",
+  "name": "国内初 遠隔で手術ロボット操作し支援 弘前大など",
+  "headline": "国内初 遠隔で手術ロボット操作し支援 弘前大など",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261014de59458",
+    "playlistId": "news-nwa-scienceculture-nationwide-20261014",
+    "newsarticleName": "国内初 遠隔で手術ロボット操作し支援 弘前大など",
+    "playlistName": "10月14日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "手術用のロボットを離れた場所にいる医師が操作し、遠隔で手術を支援する臨床研究を実施したと弘前大学などが発表しました。\n\nロボットを使って遠隔で手術に参加したのは国内初だということです。\n\n\nこれは弘前",
+  "dateModified": "2026-10-14T22:34:28+09:00",
+  "datePublished": "2026-10-14T22:34:28+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59458/20261014de59458_E0000073634_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59458/20261014de59458_E0000073634_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000148",
+      "name": "医療・健康",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "E0000000446",
+      "name": "サイエンス",
+      "display": true
+    },
+    {
+      "id": "E0000000330",
+      "name": "青森県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "手術用のロボットを離れた場所にいる医師が操作し、遠隔で手術を支援する臨床研究を実施したと弘前大学などが発表しました。\n\nロボットを使って遠隔で手術に参加したのは国内初だということです。\n\n\nこれは弘前",
+  "articleBody": "手術用のロボットを離れた場所にいる医師が操作し、遠隔で手術を支援する臨床研究を実施したと弘前大学などが発表しました。\n\nロボットを使って遠隔で手術に参加したのは国内初だということです。\n\n\nこれは弘前大学と日本外科学会のグループが14日、記者会見を開いて発表しました。\n\nグループは、ことし8月から大腸がんの患者5人を対象に手術用のロボットを離れた場所にいる医師が操作して手術支援を行う臨床研究を実施したということです。\n\n手術は弘前市にある弘前大学医学部附属病院と、およそ30キロ離れた五所川原市のつがる総合病院を光回線でつないで行われ、手術室にいる医師が腫瘍を切除する際などに離れた場所の医師がロボットを操作して支援したということです。\n\n手術はいずれも成功し、5人の患者は順調に回復しているということです。\n\n遠隔手術は医師が少ない地域でも専門性の高い手術を受けられる可能性が広がるとして各地で研究が進められていて、グループによりますとロボットを使って遠隔で手術に参加したのは国内初だということです。\n\nグループは今回の5人を含めて今年度中にあわせて10人に手術を行い、安全性などを検証するとしています。\n\n弘前大学の福田眞作学長は「青森県をはじめ、医師不足や医療アクセスに課題を抱える地域にとって遠隔医療は極めて重要だ。安全で質の高い医療を地域を問わず提供できる体制の構築を進めたい」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "手術用のロボットを離れた場所にいる医師が操作し、遠隔で手術を支援する臨床研究を実施したと弘前大学などが発表しました。\n\nロボットを使って遠隔で手術に参加したのは国内初だということです。\n",
+    "markedBody": "![](https://img.web.nhk/news/nd/kiji/20261014de59458/20261014de59458_E0000073633_1_l.jpg)\n\nこれは弘前大学と日本外科学会のグループが14日、記者会見を開いて発表しました。\n\nグループは、ことし8月から大腸がんの患者5人を対象に手術用のロボットを離れた場所にいる医師が操作して手術支援を行う臨床研究を実施したということです。\n\n手術は弘前市にある弘前大学医学部附属病院と、およそ30キロ離れた五所川原市のつがる総合病院を光回線でつないで行われ、手術室にいる医師が腫瘍を切除する際などに離れた場所の医師がロボットを操作して支援したということです。\n\n手術はいずれも成功し、5人の患者は順調に回復しているということです。\n\n遠隔手術は医師が少ない地域でも専門性の高い手術を受けられる可能性が広がるとして各地で研究が進められていて、グループによりますとロボットを使って遠隔で手術に参加したのは国内初だということです。\n\nグループは今回の5人を含めて今年度中にあわせて10人に手術を行い、安全性などを検証するとしています。\n\n弘前大学の福田眞作学長は「青森県をはじめ、医師不足や医療アクセスに課題を抱える地域にとって遠隔医療は極めて重要だ。安全で質の高い医療を地域を問わず提供できる体制の構築を進めたい」と話していました。\n",
+    "trimmedLead": "手術用のロボットを離れた場所にいる医師が操作し、遠隔で手術を支援する臨床研究を実施したと弘前大学などが発表しました。\n\nロボットを使って遠隔で手術に参加したのは国内初だということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261014de59458.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261014de59458",
+  "video": [],
+  "citation": [
+    {
+      "name": "【詳細】簗農相 辞表提出 道路予算発言など問題指摘の中",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59049",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59049/20261014de59049_E0000072700_1_s.jpg",
+      "datePublished": "2026-10-14T22:02:00+09:00"
+    },
+    {
+      "name": "埼玉 「大樹生命」元営業職員を顧客への詐欺容疑で逮捕",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59353",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59353/20261014de59353_E0000071620_1_s.jpg",
+      "datePublished": "2026-10-14T18:13:14+09:00"
+    },
+    {
+      "name": "共同創業者 単独インタで語った“AIの未来”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59160",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59160/20261014de59160_E0000071639_1_s.jpg",
+      "datePublished": "2026-10-14T20:25:00+09:00"
+    },
+    {
+      "name": "千葉豪雨 タクシー水没し乗客死亡の事故 詳しい経緯が判明 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59000",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59000/20261014de59000_E0000070705_1_s.jpg",
+      "datePublished": "2026-10-14T11:51:00+09:00"
+    },
+    {
+      "name": "ドジャース大谷翔平 第3戦先発へ「信じてくれる人のために」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de58989",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de58989/20261014de58989_E0000070675_1_s.jpg",
+      "datePublished": "2026-10-14T14:10:00+09:00"
+    },
+    {
+      "name": "ロシアが北海道新聞記者をスパイ容疑で拘束 長期化の懸念も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58917",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58917/20261013de58917_E0000070242_1_s.jpg",
+      "datePublished": "2026-10-14T12:03:00+09:00"
+    },
+    {
+      "name": "「あなたの取り締まりは行き過ぎ」 共和党内からも異論噴出？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58507",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58507/20261013de58507_E0000067408_1_s.jpg",
+      "datePublished": "2026-10-13T20:40:57+09:00"
+    },
+    {
+      "name": "オープンAI従業員を逮捕 役員会議室に録音機設置か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59061",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59061/20261014de59061_E0000070769_1_s.jpg",
+      "datePublished": "2026-10-14T12:21:00+09:00"
+    },
+    {
+      "name": "“詐欺師は名前と住所を正確に言ってきた” 情報流出リスクは",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261008de56412",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56412/20261008de56412_E0000063396_1_s.jpg",
+      "datePublished": "2026-10-10T18:59:04+09:00"
+    },
+    {
+      "name": "一連の不正アクセスは“AIエージェント悪用の可能性”解析で",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58380",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58380/20261013de58380_E0000067517_1_s.jpg",
+      "datePublished": "2026-10-13T19:49:00+09:00"
+    },
+    {
+      "name": "“地球上最悪の侵略的植物”拡散か 大雨で堤防決壊 印旛沼から",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58529",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58529/20261013de58529_E0000067606_1_s.jpg",
+      "datePublished": "2026-10-13T18:34:57+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
