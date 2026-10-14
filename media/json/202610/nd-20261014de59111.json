@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261014de59111",
+  "dataSourceId": "nd",
+  "name": "「ゆめタウン」展開のイズミ 最大約40万件漏えいの可能性",
+  "headline": "「ゆめタウン」展開のイズミ 最大約40万件漏えいの可能性",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261014de59111",
+    "playlistId": "news-nwa-scienceculture-nationwide-20261014",
+    "newsarticleName": "「ゆめタウン」展開のイズミ 最大約40万件漏えいの可能性",
+    "playlistName": "10月14日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "西日本で総合スーパーの「ゆめタウン」などを展開する「イズミ」は、会員向けのサービスを委託している会社が使っているクラウドサービスに不正アクセスがあった影響で、最大で40万件の会員情報が漏えいした可能性",
+  "dateModified": "2026-10-14T12:41:33+09:00",
+  "datePublished": "2026-10-14T12:41:33+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59111/20261014de59111_E0000071002_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59111/20261014de59111_E0000071002_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000106",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "西日本で総合スーパーの「ゆめタウン」などを展開する「イズミ」は、会員向けのサービスを委託している会社が使っているクラウドサービスに不正アクセスがあった影響で、最大で40万件の会員情報が漏えいした可能性",
+  "articleBody": "西日本で総合スーパーの「ゆめタウン」などを展開する「イズミ」は、会員向けのサービスを委託している会社が使っているクラウドサービスに不正アクセスがあった影響で、最大で40万件の会員情報が漏えいした可能性があると明らかにしました。\n\n\n「イズミ」では、ネットショッピングと配送サービスの会員向けにメールマガジンの配信を委託している会社が、ソフトバンクの子会社「IDCフロンティア」のクラウドサービスを利用していましたが、この会社が不正アクセスを受けた影響で、クラウドサービスに保管されている会員の情報が漏えいした可能性があると、14日に明らかにしました。\n\n漏えいした可能性があるのは、2つのサービスの会員の氏名とメールアドレス最大およそ40万件で、住所や電話番号、クレジットカード番号などについては、漏えいの可能性はないとしています。\n\nまた現時点で、実際に情報が漏えいしたり、不正に利用されたりした事実は確認されていないとしています。\n\n会社は「多大なるご心配とご迷惑をおかけし深くおわび申し上げます」とコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "西日本で総合スーパーの「ゆめタウン」などを展開する「イズミ」は、会員向けのサービスを委託している会社が使っているクラウドサービスに不正アクセスがあった影響で、最大で40万件の会員情報が漏えいした可能性があると明らかにしました。\n",
+    "markedBody": "「イズミ」では、ネットショッピングと配送サービスの会員向けにメールマガジンの配信を委託している会社が、ソフトバンクの子会社「IDCフロンティア」のクラウドサービスを利用していましたが、この会社が不正アクセスを受けた影響で、クラウドサービスに保管されている会員の情報が漏えいした可能性があると、14日に明らかにしました。\n\n漏えいした可能性があるのは、2つのサービスの会員の氏名とメールアドレス最大およそ40万件で、住所や電話番号、クレジットカード番号などについては、漏えいの可能性はないとしています。\n\nまた現時点で、実際に情報が漏えいしたり、不正に利用されたりした事実は確認されていないとしています。\n\n会社は「多大なるご心配とご迷惑をおかけし深くおわび申し上げます」とコメントしています。\n",
+    "trimmedLead": "西日本で総合スーパーの「ゆめタウン」などを展開する「イズミ」は、会員向けのサービスを委託している会社が使っているクラウドサービスに不正アクセスがあった影響で、最大で40万件の会員情報が漏えいした可能性があると明らかにしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261014de59111.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261014de59111",
+  "video": [],
+  "citation": [
+    {
+      "name": "ロシアが北海道新聞記者をスパイ容疑で拘束 長期化の懸念も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58917",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58917/20261013de58917_E0000070242_1_s.jpg",
+      "datePublished": "2026-10-14T12:03:00+09:00"
+    },
+    {
+      "name": "急発達する低気圧 北海道で暴風警戒 全国的に大気不安定",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de58942",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de58942/20261014de58942_E0000070594_1_s.jpg",
+      "datePublished": "2026-10-14T09:14:08+09:00"
+    },
+    {
+      "name": "ノーベル平和賞ピレイ氏 アメリカの対応「非常に悲しい」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de58934",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de58934/20261014de58934_E0000070265_1_s.jpg",
+      "datePublished": "2026-10-14T06:32:36+09:00"
+    },
+    {
+      "name": "簗農相 与党から続投困難の声も 高市首相 説明踏まえ判断へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de58923",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de58923/20261014de58923_E0000070252_1_s.jpg",
+      "datePublished": "2026-10-14T05:05:00+09:00"
+    },
+    {
+      "name": "ホワイトハウスの新しい報道官 初会見はわずか15分で終了",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de58937",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de58937/20261014de58937_E0000070267_1_s.jpg",
+      "datePublished": "2026-10-14T05:36:00+09:00"
+    },
+    {
+      "name": "個人情報の流出「不安感じる」77％ NHK世論調査",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58351",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58351/20261013de58351_E0000067361_1_s.jpg",
+      "datePublished": "2026-10-14T05:01:49+09:00"
+    },
+    {
+      "name": "一連の不正アクセスは“AIエージェント悪用の可能性”解析で",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58380",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58380/20261013de58380_E0000067517_1_s.jpg",
+      "datePublished": "2026-10-13T19:49:24+09:00"
+    },
+    {
+      "name": "なでしこジャパン 強豪ドイツに逆転負け 欧州遠征の強化試合で",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de58933",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de58933/20261014de58933_E0000070264_1_s.jpg",
+      "datePublished": "2026-10-14T04:13:00+09:00"
+    },
+    {
+      "name": "中国の企業関係者らが北方領土の択捉島を訪問",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58873",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58873/20261013de58873_E0000070149_1_s.jpg",
+      "datePublished": "2026-10-14T12:16:44+09:00"
+    },
+    {
+      "name": "“地球上最悪の侵略的植物”拡散か 大雨で堤防決壊 印旛沼から",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58529",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58529/20261013de58529_E0000067606_1_s.jpg",
+      "datePublished": "2026-10-13T18:34:57+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

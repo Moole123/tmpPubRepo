@@ -1,0 +1,178 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261014de58971",
+  "dataSourceId": "nd",
+  "name": "PayPay証券 日本株 ETF全銘柄の取引を再開",
+  "headline": "PayPay証券 日本株 ETF全銘柄の取引を再開",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261014de58971",
+    "playlistId": "news-nwa-business-nationwide-20261014",
+    "newsarticleName": "PayPay証券 日本株 ETF全銘柄の取引を再開",
+    "playlistName": "10月14日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "ネット証券のPayPay証券は、外部の接続先のみずほ証券のシステム障害により、きのう、日本株とETF＝上場投資信託の取引を停止していましたが、復旧作業が進んだ結果、きょう午前9時から取引を再開したと発",
+  "dateModified": "2026-10-14T12:12:00+09:00",
+  "datePublished": "2026-10-14T10:13:09+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de58971/20261014de58971_E0000070641_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de58971/20261014de58971_E0000070641_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000477",
+      "name": "金融",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ネット証券のPayPay証券は、外部の接続先のみずほ証券のシステム障害により、きのう、日本株とETF＝上場投資信託の取引を停止していましたが、復旧作業が進んだ結果、きょう午前9時から取引を再開したと発",
+  "articleBody": "ネット証券のPayPay証券は、外部の接続先のみずほ証券のシステム障害により、きのう、日本株とETF＝上場投資信託の取引を停止していましたが、復旧作業が進んだ結果、きょう午前9時から取引を再開したと発表しました。\n\n\nPayPay証券によりますと、きのう、外部の接続先のシステム障害によって日本株とETFのすべての銘柄の取引ができなくなりました。\n\n原因は外部の接続先であるみずほ証券の日本株取引に関する受注や発注のシステムに障害が発生したためで、サイバー攻撃や不正アクセスの影響ではないとしています。\n\nその後、復旧作業が進んだ結果、会社はきょう午前9時から取引を再開したということです。\n\n会社は、取引停止による顧客への影響については確認を進めているということで、「お客様に多大なご不便をおかけし深くおわびします。今後は関係各社と連携しシステムの安定稼働と再発防止に努めてまいります」とコメントしています。\n\n一方、みずほ証券もきょうから国内外の機関投資家などを対象にした日本株の取引の受付を再開したと発表しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "ネット証券のPayPay証券は、外部の接続先のみずほ証券のシステム障害により、きのう、日本株とETF＝上場投資信託の取引を停止していましたが、復旧作業が進んだ結果、きょう午前9時から取引を再開したと発表しました。\n",
+    "markedBody": "PayPay証券によりますと、きのう、外部の接続先のシステム障害によって日本株とETFのすべての銘柄の取引ができなくなりました。\n\n原因は外部の接続先であるみずほ証券の日本株取引に関する受注や発注のシステムに障害が発生したためで、サイバー攻撃や不正アクセスの影響ではないとしています。\n\nその後、復旧作業が進んだ結果、会社はきょう午前9時から取引を再開したということです。\n\n会社は、取引停止による顧客への影響については確認を進めているということで、「お客様に多大なご不便をおかけし深くおわびします。今後は関係各社と連携しシステムの安定稼働と再発防止に努めてまいります」とコメントしています。\n\n一方、みずほ証券もきょうから国内外の機関投資家などを対象にした日本株の取引の受付を再開したと発表しました。\n",
+    "trimmedLead": "ネット証券のPayPay証券は、外部の接続先のみずほ証券のシステム障害により、きのう、日本株とETF＝上場投資信託の取引を停止していましたが、復旧作業が進んだ結果、きょう午前9時から取引を再開したと発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261014de58971.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261014de58971",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "PayPay証券 日本株 ETF全銘柄の取引を再開",
+      "description": "ネット証券のPayPay証券は、外部の接続先のみずほ証券のシステム障害により、きのう、日本株とETF＝上場投資信託の取引を停止していましたが、復旧作業が進んだ結果、きょう午前9時から取引を再開したと発",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261014de58971_E0000070837_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261014de58971/20261014de58971_E0000070641_1_l.jpg",
+      "duration": "PT1M4S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261014de58971_E0000070837_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de58971/20261014de58971_E0000070641_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "PayPay証券 日本株とETF 全銘柄の取引停止 みずほ証券の障害で",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58806",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58806/20261013de58806_E0000069358_1_s.jpg",
+      "datePublished": "2026-10-13T22:48:35+09:00"
+    },
+    {
+      "name": "自治体防災メール 不正アクセスでアドレス300万件など漏えいか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58789",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58789/20261013de58789_E0000069069_1_s.jpg",
+      "datePublished": "2026-10-13T21:54:35+09:00"
+    },
+    {
+      "name": "ロシアが北海道新聞記者をスパイ容疑で拘束 長期化の懸念も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58917",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58917/20261013de58917_E0000070242_1_s.jpg",
+      "datePublished": "2026-10-14T12:03:00+09:00"
+    },
+    {
+      "name": "急発達する低気圧 北海道で暴風警戒 全国的に大気不安定",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de58942",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de58942/20261014de58942_E0000070594_1_s.jpg",
+      "datePublished": "2026-10-14T09:14:08+09:00"
+    },
+    {
+      "name": "きょうからCSファイナルステージ セ・リーグ 第1戦見どころは",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58888",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58888/20261013de58888_E0000070262_1_s.jpg",
+      "datePublished": "2026-10-14T06:21:48+09:00"
+    },
+    {
+      "name": "きょうからCSファイナルステージ パ・リーグ 第1戦見どころは",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58887",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58887/20261013de58887_E0000070263_1_s.jpg",
+      "datePublished": "2026-10-14T06:22:25+09:00"
+    },
+    {
+      "name": "なでしこジャパン 強豪ドイツに逆転負け 欧州遠征の強化試合で",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de58933",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de58933/20261014de58933_E0000070264_1_s.jpg",
+      "datePublished": "2026-10-14T04:13:00+09:00"
+    },
+    {
+      "name": "大リーグ ア・リーグ優勝決定シリーズ開幕 ガーディアンズ先勝",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58542",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58542/20261013de58542_E0000067465_1_s.jpg",
+      "datePublished": "2026-10-13T16:33:55+09:00"
+    },
+    {
+      "name": "NBA クリッパーズが河村勇輝との契約解除",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261013de58566",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58566/20261013de58566_E0000067487_1_s.jpg",
+      "datePublished": "2026-10-13T16:32:06+09:00"
+    },
+    {
+      "name": "負けても負けても…愛される 新“負け組の星”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55370",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55370/20261006de55370_E0000050955_1_s.jpg",
+      "datePublished": "2026-10-07T17:18:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
