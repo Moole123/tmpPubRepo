@@ -1,0 +1,184 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261015de59803",
+  "dataSourceId": "nd",
+  "name": "バーガーキング アプリの会員情報 約1118万件漏えい",
+  "headline": "バーガーキング アプリの会員情報 約1118万件漏えい",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261015de59803",
+    "playlistId": "news-nwa-scienceculture-nationwide-20261015",
+    "newsarticleName": "バーガーキング アプリの会員情報 約1118万件漏えい",
+    "playlistName": "10月15日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "ハンバーガーチェーン「バーガーキング」の運営会社は、不正アクセスが確認され、会員の情報、およそ1118万件が外部に漏えいしたと発表しました。漏れたのは会員の氏名やメールアドレスなどで、クレジットカード",
+  "dateModified": "2026-10-15T17:10:24+09:00",
+  "datePublished": "2026-10-15T16:01:23+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59803/20261015de59803_E0000075475_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59803/20261015de59803_E0000075475_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "科学・文化",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    },
+    {
+      "id": "E0000000702",
+      "name": "飲食業",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ハンバーガーチェーン「バーガーキング」の運営会社は、不正アクセスが確認され、会員の情報、およそ1118万件が外部に漏えいしたと発表しました。漏れたのは会員の氏名やメールアドレスなどで、クレジットカード",
+  "articleBody": "ハンバーガーチェーン「バーガーキング」の運営会社は、不正アクセスが確認され、会員の情報、およそ1118万件が外部に漏えいしたと発表しました。漏れたのは会員の氏名やメールアドレスなどで、クレジットカードの番号は含まれていないということです。\n\n\nハンバーガーチェーン「バーガーキング」を運営する「ビーケー・ジャパン」によりますと、今月2日から7日にかけてアプリの利用者の会員情報を管理するシステムが不正アクセスを受け、13日、情報の漏えいが確認されたということです。\n\n外部に漏れたのは、アプリを利用している会員の氏名や電話番号、メールアドレス、それに注文の利用履歴など、およそ1118万件です。\n\nクレジットカード番号は会社が情報を持っていないため、漏えいしていないということです。\n\n会社では、会員に順次、メールで連絡するということで、「多大なるご迷惑とご心配をおかけする事態となりましたことを深くお詫びします」とコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "ハンバーガーチェーン「バーガーキング」の運営会社は、不正アクセスが確認され、会員の情報、およそ1118万件が外部に漏えいしたと発表しました。漏れたのは会員の氏名やメールアドレスなどで、クレジットカードの番号は含まれていないということです。\n",
+    "markedBody": "ハンバーガーチェーン「バーガーキング」を運営する「ビーケー・ジャパン」によりますと、今月2日から7日にかけてアプリの利用者の会員情報を管理するシステムが不正アクセスを受け、13日、情報の漏えいが確認されたということです。\n\n外部に漏れたのは、アプリを利用している会員の氏名や電話番号、メールアドレス、それに注文の利用履歴など、およそ1118万件です。\n\nクレジットカード番号は会社が情報を持っていないため、漏えいしていないということです。\n\n会社では、会員に順次、メールで連絡するということで、「多大なるご迷惑とご心配をおかけする事態となりましたことを深くお詫びします」とコメントしています。\n",
+    "trimmedLead": "ハンバーガーチェーン「バーガーキング」の運営会社は、不正アクセスが確認され、会員の情報、およそ1118万件が外部に漏えいしたと発表しました。漏れたのは会員の氏名やメールアドレスなどで、クレジットカードの番号は含まれていないということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261015de59803.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261015de59803",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "バーガーキング アプリの会員情報 約1118万件漏えい",
+      "description": "ハンバーガーチェーン「バーガーキング」の運営会社は、不正アクセスが確認され、会員の情報、およそ1118万件が外部に漏えいしたと発表しました。漏れたのは会員の氏名やメールアドレスなどで、クレジットカード",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261015de59803_E0000075464_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261015de59803/20261015de59803_E0000075475_1_l.jpg",
+      "duration": "PT14S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261015de59803_E0000075464_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59803/20261015de59803_E0000075475_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "産婦人科向けシステムに不正アクセス 患者情報漏えいのおそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de59731",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59731/20261015de59731_E0000075329_1_s.jpg",
+      "datePublished": "2026-10-15T15:07:00+09:00"
+    },
+    {
+      "name": "凍ったゼリーで男児死亡 民間の認定こども園に監査 奈良 香芝",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de59577",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59577/20261015de59577_E0000074476_1_s.jpg",
+      "datePublished": "2026-10-15T15:08:00+09:00"
+    },
+    {
+      "name": "横浜高校の織田翔希投手がアメリカ挑戦を表明",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de59583",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59583/20261015de59583_E0000074527_1_s.jpg",
+      "datePublished": "2026-10-15T12:00:00+09:00"
+    },
+    {
+      "name": "農相に自民 武部新氏を起用 簗氏の後任に 高市首相",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de59560",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59560/20261015de59560_E0000074633_1_s.jpg",
+      "datePublished": "2026-10-15T15:02:00+09:00"
+    },
+    {
+      "name": "ドジャースが3連敗 WS進出にあとがなくなる【詳報】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59178",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59178/20261014de59178_E0000075396_1_s.jpg",
+      "datePublished": "2026-10-15T16:56:57+09:00"
+    },
+    {
+      "name": "漫画家が出版社を提訴 “出版権は消滅”確認を求める",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59459",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59459/20261014de59459_E0000073886_1_s.jpg",
+      "datePublished": "2026-10-15T05:18:53+09:00"
+    },
+    {
+      "name": "睡眠薬無許可で販売疑いで逮捕「トー横」の未成年への供給元か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de59683",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59683/20261015de59683_E0000074846_1_s.jpg",
+      "datePublished": "2026-10-15T12:47:32+09:00"
+    },
+    {
+      "name": "秋の園遊会 招待者決まる 宮部みゆきさんや吉田鋼太郎さんなど",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de59522",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59522/20261015de59522_E0000074062_1_s.jpg",
+      "datePublished": "2026-10-15T05:40:43+09:00"
+    },
+    {
+      "name": "拉致被害者帰国から24年 曽我ひとみさん“他被害国と連携を”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59435",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59435/20261014de59435_E0000073287_1_s.jpg",
+      "datePublished": "2026-10-15T12:22:00+09:00"
+    },
+    {
+      "name": "宿題をAIに丸投げ？ 生成AIの学力への影響は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261002de53846",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53846/20261002de53846_E0000070801_1_s.jpg",
+      "datePublished": "2026-10-14T17:23:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
