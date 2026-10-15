@@ -1,0 +1,151 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261015de59731",
+  "dataSourceId": "nd",
+  "name": "メドレー 産婦人科向け予約受付システムに不正アクセス 患者情報漏えいのおそれ",
+  "headline": "産婦人科向けシステムに不正アクセス 患者情報漏えいのおそれ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261015de59731",
+    "playlistId": "news-nwa-business-nationwide-20261015",
+    "newsarticleName": "メドレー 産婦人科向け予約受付システムに不正アクセス 患者情報漏えいのおそれ",
+    "playlistName": "10月15日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "産婦人科などの医療機関で導入されている予約・受付システムが、外部から不正アクセスを受けたとサービスを提供している会社が発表しました。会社によりますと、最大787の医療機関に登録された患者の個人情報が漏",
+  "dateModified": "2026-10-15T15:07:43+09:00",
+  "datePublished": "2026-10-15T15:07:43+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59731/20261015de59731_E0000075329_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59731/20261015de59731_E0000075329_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "暮らし"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "産婦人科などの医療機関で導入されている予約・受付システムが、外部から不正アクセスを受けたとサービスを提供している会社が発表しました。会社によりますと、最大787の医療機関に登録された患者の個人情報が漏",
+  "articleBody": "産婦人科などの医療機関で導入されている予約・受付システムが、外部から不正アクセスを受けたとサービスを提供している会社が発表しました。会社によりますと、最大787の医療機関に登録された患者の個人情報が漏えいしたおそれがあるということです。\n\n\n医療機関向けにサービスを提供しているIT企業「メドレー」によりますと、産婦人科などの医療機関で導入されている予約・受付システムに不正アクセスが確認され、14日深夜にサービスを停止したということです。\n\nこのシステムを利用する全国で最大787の医療機関に登録された、患者の氏名や連絡先などの個人情報が外部に漏えいしたおそれがあるということです。\n\n今月11日に外部の専門機関からの指摘を受けて調査したところ発覚したということで、実際に漏えいした情報や対象の医療機関など詳しい被害については調査中だとしています。\n\nサービスの停止により、患者はシステムを通じた予約や受付が利用できなくなっていて、今のところ再開の見通しは立っていないということです。\n\n会社は「多大なるご心配とご迷惑をおかけし、深くお詫び申し上げます」としています。\n",
+  "detailedArticleBody": {
+    "markedLead": "産婦人科などの医療機関で導入されている予約・受付システムが、外部から不正アクセスを受けたとサービスを提供している会社が発表しました。会社によりますと、最大787の医療機関に登録された患者の個人情報が漏えいしたおそれがあるということです。\n",
+    "markedBody": "![](https://img.web.nhk/news/nd/kiji/20261015de59731/20261015de59731_E0000075340_1_l.jpg)\n\n医療機関向けにサービスを提供しているIT企業「メドレー」によりますと、産婦人科などの医療機関で導入されている予約・受付システムに不正アクセスが確認され、14日深夜にサービスを停止したということです。\n\nこのシステムを利用する全国で最大787の医療機関に登録された、患者の氏名や連絡先などの個人情報が外部に漏えいしたおそれがあるということです。\n\n今月11日に外部の専門機関からの指摘を受けて調査したところ発覚したということで、実際に漏えいした情報や対象の医療機関など詳しい被害については調査中だとしています。\n\nサービスの停止により、患者はシステムを通じた予約や受付が利用できなくなっていて、今のところ再開の見通しは立っていないということです。\n\n会社は「多大なるご心配とご迷惑をおかけし、深くお詫び申し上げます」としています。\n",
+    "trimmedLead": "産婦人科などの医療機関で導入されている予約・受付システムが、外部から不正アクセスを受けたとサービスを提供している会社が発表しました。会社によりますと、最大787の医療機関に登録された患者の個人情報が漏えいしたおそれがあるということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261015de59731.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261015de59731",
+  "video": [],
+  "citation": [
+    {
+      "name": "止まらない個人情報漏えい 警察でも漏えいの可能性明らかに",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59388",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59388/20261014de59388_E0000071924_1_s.jpg",
+      "datePublished": "2026-10-15T04:32:58+09:00"
+    },
+    {
+      "name": "横浜高校の織田翔希投手がアメリカ挑戦を表明",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de59583",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59583/20261015de59583_E0000074527_1_s.jpg",
+      "datePublished": "2026-10-15T12:00:00+09:00"
+    },
+    {
+      "name": "農相に自民 武部新氏を起用 簗氏の後任に 高市首相",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de59560",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59560/20261015de59560_E0000074633_1_s.jpg",
+      "datePublished": "2026-10-15T15:02:49+09:00"
+    },
+    {
+      "name": "ドジャースが3連敗 WS進出にあとがなくなる【詳報】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59178",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59178/20261014de59178_E0000075396_1_s.jpg",
+      "datePublished": "2026-10-15T15:15:05+09:00"
+    },
+    {
+      "name": "漫画家が出版社を提訴 “出版権は消滅”確認を求める",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59459",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59459/20261014de59459_E0000073886_1_s.jpg",
+      "datePublished": "2026-10-15T05:18:53+09:00"
+    },
+    {
+      "name": "睡眠薬無許可で販売疑いで逮捕「トー横」の未成年への供給元か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de59683",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59683/20261015de59683_E0000074846_1_s.jpg",
+      "datePublished": "2026-10-15T12:47:32+09:00"
+    },
+    {
+      "name": "北海道新聞記者の拘束 日本政府 状況などの確認急ぎ対応検討へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de59523",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59523/20261015de59523_E0000074058_1_s.jpg",
+      "datePublished": "2026-10-15T12:04:00+09:00"
+    },
+    {
+      "name": "秋の園遊会 招待者決まる 宮部みゆきさんや吉田鋼太郎さんなど",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de59522",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59522/20261015de59522_E0000074062_1_s.jpg",
+      "datePublished": "2026-10-15T05:40:43+09:00"
+    },
+    {
+      "name": "拉致被害者帰国から24年 曽我ひとみさん“他被害国と連携を”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59435",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59435/20261014de59435_E0000073287_1_s.jpg",
+      "datePublished": "2026-10-15T12:22:00+09:00"
+    },
+    {
+      "name": "宿題をAIに丸投げ？ 生成AIの学力への影響は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261002de53846",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53846/20261002de53846_E0000070801_1_s.jpg",
+      "datePublished": "2026-10-14T17:23:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
