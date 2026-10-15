@@ -1,0 +1,133 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261015de60119",
+  "dataSourceId": "nd",
+  "name": "パキスタンの学校の屋根崩落 子どもなど33人死亡",
+  "headline": "パキスタンの学校の屋根崩落 子どもなど33人死亡",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261015de60119",
+    "playlistId": "news-nwa-international-nationwide-20261016",
+    "newsarticleName": "パキスタンの学校の屋根崩落 子どもなど33人死亡",
+    "playlistName": "10月16日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "パキスタンで学校の校舎の屋根が崩落し子どもと教師、あわせて33人が死亡し、警察は校舎の建築構造に問題があった可能性があるとみて調べています。\n\n\nパキスタン北西部の都市ペシャワルにある私立の学校で15",
+  "dateModified": "2026-10-16T00:13:00+09:00",
+  "datePublished": "2026-10-16T00:13:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de60119/20261015de60119_E0000078191_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de60119/20261015de60119_E0000078191_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000413",
+      "name": "パキスタン",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "パキスタンで学校の校舎の屋根が崩落し子どもと教師、あわせて33人が死亡し、警察は校舎の建築構造に問題があった可能性があるとみて調べています。\n\n\nパキスタン北西部の都市ペシャワルにある私立の学校で15",
+  "articleBody": "パキスタンで学校の校舎の屋根が崩落し子どもと教師、あわせて33人が死亡し、警察は校舎の建築構造に問題があった可能性があるとみて調べています。\n\n\nパキスタン北西部の都市ペシャワルにある私立の学校で15日午前、校舎の屋根が崩落しました。\n\n現地の病院によりますとこの事故で6歳から14歳の子ども32人と教師1人が死亡したということです。\n\n警察によりますと40人以上がけがをしました。\n\n警察は校舎の建築構造に問題があった可能性があるとみて、私立学校の経営者を拘束し原因を調べています。\n\nパキスタンでは建設コストを抑えるために建築基準を満たさない建物が崩れる事故がたびたび起きていてことし6月には東部の都市ラホールで学習塾の屋根が崩落し子ども14人が死亡しました。\n\n事故を受けてザルダリ大統領はSNSで声明を出し、犠牲者を追悼し、原因究明とともに再発防止に向けた安全対策が必要だという考えを強調しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "パキスタンで学校の校舎の屋根が崩落し子どもと教師、あわせて33人が死亡し、警察は校舎の建築構造に問題があった可能性があるとみて調べています。\n",
+    "markedBody": "パキスタン北西部の都市ペシャワルにある私立の学校で15日午前、校舎の屋根が崩落しました。\n\n現地の病院によりますとこの事故で6歳から14歳の子ども32人と教師1人が死亡したということです。\n\n警察によりますと40人以上がけがをしました。\n\n警察は校舎の建築構造に問題があった可能性があるとみて、私立学校の経営者を拘束し原因を調べています。\n\nパキスタンでは建設コストを抑えるために建築基準を満たさない建物が崩れる事故がたびたび起きていてことし6月には東部の都市ラホールで学習塾の屋根が崩落し子ども14人が死亡しました。\n\n事故を受けてザルダリ大統領はSNSで声明を出し、犠牲者を追悼し、原因究明とともに再発防止に向けた安全対策が必要だという考えを強調しました。\n",
+    "trimmedLead": "パキスタンで学校の校舎の屋根が崩落し子どもと教師、あわせて33人が死亡し、警察は校舎の建築構造に問題があった可能性があるとみて調べています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261015de60119.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261015de60119",
+  "video": [],
+  "citation": [
+    {
+      "name": "イスラエル情報機関の前長官 ネタニヤフ首相を提訴",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de59826",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59826/20261015de59826_E0000075528_1_s.jpg",
+      "datePublished": "2026-10-15T17:10:00+09:00"
+    },
+    {
+      "name": "G20 財務相・中央銀行総裁会議 世界経済やAIへの対応を議論",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de59525",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59525/20261015de59525_E0000074048_1_s.jpg",
+      "datePublished": "2026-10-15T18:15:14+09:00"
+    },
+    {
+      "name": "ホルムズ海峡で船舶攻撃増 米中間選挙前にイランが攻撃強化か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de60025",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de60025/20261015de60025_E0000076962_1_s.jpg",
+      "datePublished": "2026-10-15T19:30:00+09:00"
+    },
+    {
+      "name": "北朝鮮が潜水艦から発射する2種類の巡航ミサイルの発射実験",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de59586",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59586/20261015de59586_E0000074528_1_s.jpg",
+      "datePublished": "2026-10-15T11:04:00+09:00"
+    },
+    {
+      "name": "米半導体企業 最大3兆円規模で新工場建設へ 日米合意に基づき",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de59529",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59529/20261015de59529_E0000074059_1_s.jpg",
+      "datePublished": "2026-10-15T14:34:54+09:00"
+    },
+    {
+      "name": "EU 米のICCへの制裁対象指定を受け 「ブロッキング規則」調整",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de59536",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59536/20261015de59536_E0000074070_1_s.jpg",
+      "datePublished": "2026-10-15T08:04:00+09:00"
+    },
+    {
+      "name": "拉致被害者帰国から24年も12人安否不明 “全員の帰国実現を”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59435",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59435/20261014de59435_E0000075406_1_s.jpg",
+      "datePublished": "2026-10-15T22:11:21+09:00"
+    },
+    {
+      "name": "「プーチン大統領は“じいさん”」ロシアのエリート層に何が？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de58984",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de58984/20261014de58984_E0000070779_1_s.jpg",
+      "datePublished": "2026-10-14T18:02:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
