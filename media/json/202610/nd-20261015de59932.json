@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261015de59932",
+  "dataSourceId": "nd",
+  "name": "上野厚労相 来年度の介護報酬引き上げへ予算確保に意欲",
+  "headline": "上野厚労相 来年度の介護報酬引き上げへ予算確保に意欲",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261015de59932",
+    "playlistId": "news-nwa-politics-nationwide-20261015",
+    "newsarticleName": "上野厚労相 来年度の介護報酬引き上げへ予算確保に意欲",
+    "playlistName": "10月15日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "来年度の介護報酬の改定をめぐり、上野厚生労働大臣は、物価高への対応や介護現場で働く人たちの処遇改善につなげられるよう、報酬の引き上げに必要な予算の確保に取り組む考えを示しました。\n\n\n上野厚生労働大臣",
+  "dateModified": "2026-10-15T19:02:16+09:00",
+  "datePublished": "2026-10-15T19:02:16+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59932/20261015de59932_E0000075573_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59932/20261015de59932_E0000075573_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治",
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "来年度の介護報酬の改定をめぐり、上野厚生労働大臣は、物価高への対応や介護現場で働く人たちの処遇改善につなげられるよう、報酬の引き上げに必要な予算の確保に取り組む考えを示しました。\n\n\n上野厚生労働大臣",
+  "articleBody": "来年度の介護報酬の改定をめぐり、上野厚生労働大臣は、物価高への対応や介護現場で働く人たちの処遇改善につなげられるよう、報酬の引き上げに必要な予算の確保に取り組む考えを示しました。\n\n\n上野厚生労働大臣は15日、東京・杉並区にあるグループホームなどを訪れ、認知症の人たちが暮らす様子などを視察したほか、職員と意見を交わしました。\n\nこのあと、上野大臣は記者団に対し「物価高への懸念や賃上げ、経営環境の改善などの課題を十分に踏まえた形で、来年度の介護報酬改定に臨む必要があることを改めて実感した」と述べました。\n\nその上で「しっかりとした改定幅を確保できるよう努力していきたい」と述べ、物価高への対応や介護現場で働く人たちの処遇改善につなげられるよう、報酬の引き上げに必要な予算の確保に取り組む考えを示しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "来年度の介護報酬の改定をめぐり、上野厚生労働大臣は、物価高への対応や介護現場で働く人たちの処遇改善につなげられるよう、報酬の引き上げに必要な予算の確保に取り組む考えを示しました。\n",
+    "markedBody": "上野厚生労働大臣は15日、東京・杉並区にあるグループホームなどを訪れ、認知症の人たちが暮らす様子などを視察したほか、職員と意見を交わしました。\n\nこのあと、上野大臣は記者団に対し「物価高への懸念や賃上げ、経営環境の改善などの課題を十分に踏まえた形で、来年度の介護報酬改定に臨む必要があることを改めて実感した」と述べました。\n\nその上で「しっかりとした改定幅を確保できるよう努力していきたい」と述べ、物価高への対応や介護現場で働く人たちの処遇改善につなげられるよう、報酬の引き上げに必要な予算の確保に取り組む考えを示しました。\n",
+    "trimmedLead": "来年度の介護報酬の改定をめぐり、上野厚生労働大臣は、物価高への対応や介護現場で働く人たちの処遇改善につなげられるよう、報酬の引き上げに必要な予算の確保に取り組む考えを示しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261015de59932.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261015de59932",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
