@@ -1,0 +1,154 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261016de60163",
+  "dataSourceId": "nd",
+  "name": "Ｇ２０閉幕、世界経済やＡＩリスク議論も共同声明なし",
+  "headline": "G20閉幕 世界経済やAIリスク議論も共同声明なし",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261016de60163",
+    "playlistId": "news-nwa-international-nationwide-20261016",
+    "newsarticleName": "Ｇ２０閉幕、世界経済やＡＩリスク議論も共同声明なし",
+    "playlistName": "10月16日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "タイで開かれていたG20＝主要20か国の財務相・中央銀行総裁会議は15日閉幕しました。\n\nインフレや金利上昇が世界経済を下振れさせるリスクや高性能のAIが悪用された場合の影響を懸念する意見が相次ぎまし",
+  "dateModified": "2026-10-16T05:34:00+09:00",
+  "datePublished": "2026-10-16T05:34:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60163/20261016de60163_E0000078234_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60163/20261016de60163_E0000078234_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000179",
+      "name": "G20",
+      "display": true
+    },
+    {
+      "id": "E0000000477",
+      "name": "金融",
+      "display": true
+    },
+    {
+      "id": "E0000000725",
+      "name": "金利",
+      "display": true
+    },
+    {
+      "id": "E0000000106",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "E0000000463",
+      "name": "財務省",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "タイで開かれていたG20＝主要20か国の財務相・中央銀行総裁会議は15日閉幕しました。\n\nインフレや金利上昇が世界経済を下振れさせるリスクや高性能のAIが悪用された場合の影響を懸念する意見が相次ぎまし",
+  "articleBody": "タイで開かれていたG20＝主要20か国の財務相・中央銀行総裁会議は15日閉幕しました。\n\nインフレや金利上昇が世界経済を下振れさせるリスクや高性能のAIが悪用された場合の影響を懸念する意見が相次ぎましたが、共同声明のとりまとめは行われませんでした。\n\n\nタイの首都バンコクで開かれていたG20の会議はきのう15日閉幕しました。\n\n会議では、原油価格の高止まりなどを背景としたインフレや金利の上昇が世界経済を下振れさせるリスクを懸念する意見が各国から相次いだということです。\n\nまた、高性能の新たなAIモデルが悪用された場合に金融システムに悪影響を及ぼしかねないという指摘も出されたということです。\n\n出席した片山財務大臣は為替相場の過度な変動は経済に悪影響を与えるとするG20の考え方の再確認を呼びかけた上で、高い緊張感を持って金融市場の動向を注視する必要があると発言したということです。\n\nただ、今回は、政策協調などの踏み込んだ対応を進めようとする動きは乏しく、共同声明のとりまとめも行われませんでした。\n\n一方、G20の会議にあわせてG7＝主要7か国の財務相・中央銀行総裁会議も開かれ、高性能のAIモデルが悪用された場合の対応について各国がシミュレーションを行うことで合意したということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "タイで開かれていたG20＝主要20か国の財務相・中央銀行総裁会議は15日閉幕しました。\n\nインフレや金利上昇が世界経済を下振れさせるリスクや高性能のAIが悪用された場合の影響を懸念する意見が相次ぎましたが、共同声明のとりまとめは行われませんでした。\n",
+    "markedBody": "タイの首都バンコクで開かれていたG20の会議はきのう15日閉幕しました。\n\n会議では、原油価格の高止まりなどを背景としたインフレや金利の上昇が世界経済を下振れさせるリスクを懸念する意見が各国から相次いだということです。\n\nまた、高性能の新たなAIモデルが悪用された場合に金融システムに悪影響を及ぼしかねないという指摘も出されたということです。\n\n出席した片山財務大臣は為替相場の過度な変動は経済に悪影響を与えるとするG20の考え方の再確認を呼びかけた上で、高い緊張感を持って金融市場の動向を注視する必要があると発言したということです。\n\nただ、今回は、政策協調などの踏み込んだ対応を進めようとする動きは乏しく、共同声明のとりまとめも行われませんでした。\n\n一方、G20の会議にあわせてG7＝主要7か国の財務相・中央銀行総裁会議も開かれ、高性能のAIモデルが悪用された場合の対応について各国がシミュレーションを行うことで合意したということです。\n",
+    "trimmedLead": "タイで開かれていたG20＝主要20か国の財務相・中央銀行総裁会議は15日閉幕しました。\n\nインフレや金利上昇が世界経済を下振れさせるリスクや高性能のAIが悪用された場合の影響を懸念する意見が相次ぎましたが、共同声明のとりまとめは行われませんでした。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261016de60163.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261016de60163",
+  "video": [],
+  "citation": [
+    {
+      "name": "G20 財務相・中央銀行総裁会議 世界経済やAIへの対応を議論",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de59525",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59525/20261015de59525_E0000074048_1_s.jpg",
+      "datePublished": "2026-10-15T18:15:14+09:00"
+    },
+    {
+      "name": "片山財務相 日韓通貨スワップ延長で合意",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de60139",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de60139/20261015de60139_E0000078190_1_s.jpg",
+      "datePublished": "2026-10-16T02:12:25+09:00"
+    },
+    {
+      "name": "ホルムズ海峡で船舶攻撃増 米中間選挙前にイランが攻撃強化か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de60025",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de60025/20261015de60025_E0000076962_1_s.jpg",
+      "datePublished": "2026-10-15T19:30:00+09:00"
+    },
+    {
+      "name": "北朝鮮が潜水艦から発射する2種類の巡航ミサイルの発射実験",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de59586",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59586/20261015de59586_E0000074528_1_s.jpg",
+      "datePublished": "2026-10-15T11:04:00+09:00"
+    },
+    {
+      "name": "米半導体企業 最大3兆円規模で新工場建設へ 日米合意に基づき",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de59529",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59529/20261015de59529_E0000074059_1_s.jpg",
+      "datePublished": "2026-10-15T14:34:54+09:00"
+    },
+    {
+      "name": "EU 米のICCへの制裁対象指定を受け 「ブロッキング規則」調整",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de59536",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59536/20261015de59536_E0000074070_1_s.jpg",
+      "datePublished": "2026-10-15T08:04:00+09:00"
+    },
+    {
+      "name": "拉致被害者帰国から24年も12人安否不明 “全員の帰国実現を”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59435",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59435/20261014de59435_E0000075406_1_s.jpg",
+      "datePublished": "2026-10-15T22:11:21+09:00"
+    },
+    {
+      "name": "「プーチン大統領は“じいさん”」ロシアのエリート層に何が？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de58984",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de58984/20261014de58984_E0000070779_1_s.jpg",
+      "datePublished": "2026-10-14T18:02:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
