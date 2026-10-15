@@ -1,0 +1,174 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261015de60043",
+  "dataSourceId": "nd",
+  "name": "ソースネクスト 約2251万件の個人情報が流出か 不正アクセスで",
+  "headline": "ソースネクスト 約2251万件の個人情報が流出か 不正アクセスで",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261015de60043",
+    "playlistId": "news-nwa-scienceculture-nationwide-20261015",
+    "newsarticleName": "ソースネクスト 約2251万件の個人情報が流出か 不正アクセスで",
+    "playlistName": "10月15日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "年賀状ソフトなどを手がけるソースネクストは、会員情報を管理するシステムが不正アクセスを受け、2251万件余りの顧客の個人情報が流出した可能性があると発表しました。\n流出した可能性があるのは顧客の氏名や",
+  "dateModified": "2026-10-15T21:55:07+09:00",
+  "datePublished": "2026-10-15T19:24:33+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de60043/20261015de60043_E0000077264_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de60043/20261015de60043_E0000077264_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000105",
+      "name": "IT・ネット",
+      "display": true
+    },
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "年賀状ソフトなどを手がけるソースネクストは、会員情報を管理するシステムが不正アクセスを受け、2251万件余りの顧客の個人情報が流出した可能性があると発表しました。\n流出した可能性があるのは顧客の氏名や",
+  "articleBody": "年賀状ソフトなどを手がけるソースネクストは、会員情報を管理するシステムが不正アクセスを受け、2251万件余りの顧客の個人情報が流出した可能性があると発表しました。\n流出した可能性があるのは顧客の氏名や住所のほか、サービスにログインするために必要なパスワードなども含まれるということです。\n\n\nソースネクストの発表によりますと今月9日、会員情報を管理するシステムが不正アクセスを受け、顧客の個人情報2251万件余りが流出した可能性があるということです。\n\n流出した可能性があるのは、顧客の氏名、住所、生年月日、電話番号、メールアドレス、会社名のほか、サービスにログインする際に必要なパスワードなども含まれるということです。\n\n一方、クレジットカードの情報は含まれていないとしています。\n\nソースネクストは、年賀状やセキュリティー関連のソフトのほか、子会社がポケット型の翻訳機のサービスを手がけています。\n\n今回の事案を受けて、会社や関係先などを装った不審なメールや郵便物などが届く可能性があるとして、会社は、パスワードを変更するとともに、身に覚えのないメールなどに記載されたURLにはアクセスせず、不審なサイトに個人情報やパスワードなどを入力しないよう呼びかけています。\n\nソースネクストは外部の調査機関と連携して詳細な調査を進めるとしていて、「多大なるご迷惑とご心配をおかけしていることを深くおわび申し上げます。今後はシステムのセキュリティー対策、監視体制および情報管理体制を抜本的に見直すことで、再発防止に全力を尽くしてまいります」とコメントしています。\n\n専門家“他サービスにも同じパスワードなら すぐに変更を”\n\nセキュリティー会社S＆Jの三輪信雄社長は今回の情報漏えいについて「発表された情報からするとウェブサーバーのぜい弱性を狙ったものとみられ、最近相次いでいる一連の不正アクセスに含まれる攻撃だと思われる」と指摘しました。\n\nそしてサービスにログインする際のパスワードが大規模に漏えいしたとすれば深刻な事態だとして「パスワードにそのままでは読みとれないような処理をして保管していたとしても、技術的には時間をかければ解読することも可能だ。不正アクセスを受けてから発表までにすでに数日たっているが、漏えいした情報が悪用されるまでは時間との闘いだ。ほかのサービスにも同じパスワードを使っている利用者がいるなら、すぐに変更してほしい」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "年賀状ソフトなどを手がけるソースネクストは、会員情報を管理するシステムが不正アクセスを受け、2251万件余りの顧客の個人情報が流出した可能性があると発表しました。\\\n流出した可能性があるのは顧客の氏名や住所のほか、サービスにログインするために必要なパスワードなども含まれるということです。\n",
+    "markedBody": "ソースネクストの発表によりますと今月9日、会員情報を管理するシステムが不正アクセスを受け、顧客の個人情報2251万件余りが流出した可能性があるということです。\n\n流出した可能性があるのは、顧客の氏名、住所、生年月日、電話番号、メールアドレス、会社名のほか、サービスにログインする際に必要なパスワードなども含まれるということです。\n\n一方、クレジットカードの情報は含まれていないとしています。\n\nソースネクストは、年賀状やセキュリティー関連のソフトのほか、子会社がポケット型の翻訳機のサービスを手がけています。\n\n今回の事案を受けて、会社や関係先などを装った不審なメールや郵便物などが届く可能性があるとして、会社は、パスワードを変更するとともに、身に覚えのないメールなどに記載されたURLにはアクセスせず、不審なサイトに個人情報やパスワードなどを入力しないよう呼びかけています。\n\nソースネクストは外部の調査機関と連携して詳細な調査を進めるとしていて、「多大なるご迷惑とご心配をおかけしていることを深くおわび申し上げます。今後はシステムのセキュリティー対策、監視体制および情報管理体制を抜本的に見直すことで、再発防止に全力を尽くしてまいります」とコメントしています。\n\n## 専門家“他サービスにも同じパスワードなら すぐに変更を”\n\nセキュリティー会社S＆Jの三輪信雄社長は今回の情報漏えいについて「発表された情報からするとウェブサーバーのぜい弱性を狙ったものとみられ、最近相次いでいる一連の不正アクセスに含まれる攻撃だと思われる」と指摘しました。\n\nそしてサービスにログインする際のパスワードが大規模に漏えいしたとすれば深刻な事態だとして「パスワードにそのままでは読みとれないような処理をして保管していたとしても、技術的には時間をかければ解読することも可能だ。不正アクセスを受けてから発表までにすでに数日たっているが、漏えいした情報が悪用されるまでは時間との闘いだ。ほかのサービスにも同じパスワードを使っている利用者がいるなら、すぐに変更してほしい」と話していました。\n",
+    "trimmedLead": "年賀状ソフトなどを手がけるソースネクストは、会員情報を管理するシステムが不正アクセスを受け、2251万件余りの顧客の個人情報が流出した可能性があると発表しました。\n流出した可能性があるのは顧客の氏名や住所のほか、サービスにログインするために必要なパスワードなども含まれるということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261015de60043.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261015de60043",
+  "video": [],
+  "citation": [
+    {
+      "name": "相次ぐ不正アクセス “AIエージェント”使用の証拠見つかる",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de59790",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59790/20261015de59790_E0000075571_1_s.jpg",
+      "datePublished": "2026-10-15T19:30:00+09:00"
+    },
+    {
+      "name": "自治体システム運営 大阪のIT関連会社 サーバー復旧を発表",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de59824",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59824/20261015de59824_E0000075494_1_s.jpg",
+      "datePublished": "2026-10-15T19:48:47+09:00"
+    },
+    {
+      "name": "化粧品の通信販売会社　77万件あまりの会員情報漏えい",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de60014",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de60014/20261015de60014_E0000076623_1_s.jpg",
+      "datePublished": "2026-10-15T18:56:36+09:00"
+    },
+    {
+      "name": "JR3社「不正アクセスに伴う個人情報漏えい 確認されず」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de59844",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59844/20261015de59844_E0000077197_1_s.jpg",
+      "datePublished": "2026-10-15T19:15:35+09:00"
+    },
+    {
+      "name": "バーガーキング アプリの会員情報 約1118万件漏えい",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de59803",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59803/20261015de59803_E0000075475_1_s.jpg",
+      "datePublished": "2026-10-15T17:10:24+09:00"
+    },
+    {
+      "name": "横浜高校 織田翔希投手 アメリカ挑戦を表明“世界一の投手に”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de59583",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59583/20261015de59583_E0000074527_1_s.jpg",
+      "datePublished": "2026-10-15T12:00:00+09:00"
+    },
+    {
+      "name": "武部氏 認証式を経て農相に就任 辞表提出の簗氏の後任に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de59560",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59560/20261015de59560_E0000078111_1_s.jpg",
+      "datePublished": "2026-10-15T21:18:00+09:00"
+    },
+    {
+      "name": "ドジャースが3連敗 WS進出にあとがなくなる【詳報】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59178",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59178/20261014de59178_E0000075396_1_s.jpg",
+      "datePublished": "2026-10-15T16:56:57+09:00"
+    },
+    {
+      "name": "漫画家が出版社を提訴 “出版権は消滅”確認を求める",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59459",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59459/20261014de59459_E0000073886_1_s.jpg",
+      "datePublished": "2026-10-15T05:18:53+09:00"
+    },
+    {
+      "name": "睡眠薬無許可で販売疑いで逮捕「トー横」の未成年への供給元か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de59683",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59683/20261015de59683_E0000074846_1_s.jpg",
+      "datePublished": "2026-10-15T12:47:00+09:00"
+    },
+    {
+      "name": "北海道新聞記者の拘束 首相“スパイ活動事実ない”保護に注力",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de59523",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59523/20261015de59523_E0000074058_1_s.jpg",
+      "datePublished": "2026-10-15T16:12:00+09:00"
+    },
+    {
+      "name": "秋の園遊会 招待者決まる 宮部みゆきさんや吉田鋼太郎さんなど",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de59522",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59522/20261015de59522_E0000074062_1_s.jpg",
+      "datePublished": "2026-10-15T05:40:43+09:00"
+    },
+    {
+      "name": "拉致被害者帰国から24年も12人安否不明 “全員の帰国実現を”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261014de59435",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59435/20261014de59435_E0000075406_1_s.jpg",
+      "datePublished": "2026-10-15T22:11:21+09:00"
+    },
+    {
+      "name": "宿題をAIに丸投げ？ 生成AIの学力への影響は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261002de53846",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53846/20261002de53846_E0000070801_1_s.jpg",
+      "datePublished": "2026-10-14T17:23:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
