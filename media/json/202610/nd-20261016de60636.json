@@ -1,0 +1,168 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261016de60636",
+  "dataSourceId": "nd",
+  "name": "タイムズカー情報漏えい パーク24 本人確認の画像を即時削除へ",
+  "headline": "タイムズカー情報漏えい パーク24 本人確認の画像を即時削除へ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261016de60636",
+    "playlistId": "news-nwa-business-nationwide-20261016",
+    "newsarticleName": "タイムズカー情報漏えい パーク24 本人確認の画像を即時削除へ",
+    "playlistName": "10月16日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "駐車場の運営などを手がける「パーク24」は、不正なアクセスで運転免許証などの本人確認に使われる書類の画像およそ160万件が漏えいしたことを受けて、会員登録が完了した後、画像を即時削除するよう社内のルー",
+  "dateModified": "2026-10-16T18:28:39+09:00",
+  "datePublished": "2026-10-16T18:28:39+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60636/20261016de60636_E0000050573_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60636/20261016de60636_E0000050573_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "駐車場の運営などを手がける「パーク24」は、不正なアクセスで運転免許証などの本人確認に使われる書類の画像およそ160万件が漏えいしたことを受けて、会員登録が完了した後、画像を即時削除するよう社内のルー",
+  "articleBody": "駐車場の運営などを手がける「パーク24」は、不正なアクセスで運転免許証などの本人確認に使われる書類の画像およそ160万件が漏えいしたことを受けて、会員登録が完了した後、画像を即時削除するよう社内のルールを変更したと発表しました。\n\n\n「パーク24」は先月、子会社が運営するカーシェアリングサービス「タイムズカー」のシステムが不正アクセスを受けておよそ660万件の個人情報が外部に漏えいし、このうち運転免許証など本人確認に使われる書類の画像がおよそ160万件含まれていたと発表しました。\n\nこれを受けて会社では16日、本人確認に使われる書類の画像保有ルールを見直すことを明らかにしました。\n\nこれまで会社では、利用者が退会したあとも7年間にわたってこれらの画像を保有しつづけていましたが、新たなルールでは会員登録が完了した後、即時削除するということです。\n\nまた現在会社が保有している本人確認書類の画像については、今月末までにすべて削除するということです。\n\n一方、会社は情報漏えいの詳しい状況について、今週中をメドに調査結果を明らかにすると説明していましたが、調査に時間を要しているとして来週23日に発表を延期するということです。\n\nパーク24は「会員の皆様、関係者の皆様に多大なるご迷惑とご心配をおかけし、改めて深くおわび申し上げます」とコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "駐車場の運営などを手がける「パーク24」は、不正なアクセスで運転免許証などの本人確認に使われる書類の画像およそ160万件が漏えいしたことを受けて、会員登録が完了した後、画像を即時削除するよう社内のルールを変更したと発表しました。\n",
+    "markedBody": "「パーク24」は先月、子会社が運営するカーシェアリングサービス「タイムズカー」のシステムが不正アクセスを受けておよそ660万件の個人情報が外部に漏えいし、このうち運転免許証など本人確認に使われる書類の画像がおよそ160万件含まれていたと発表しました。\n\nこれを受けて会社では16日、本人確認に使われる書類の画像保有ルールを見直すことを明らかにしました。\n\nこれまで会社では、利用者が退会したあとも7年間にわたってこれらの画像を保有しつづけていましたが、新たなルールでは会員登録が完了した後、即時削除するということです。\n\nまた現在会社が保有している本人確認書類の画像については、今月末までにすべて削除するということです。\n\n一方、会社は情報漏えいの詳しい状況について、今週中をメドに調査結果を明らかにすると説明していましたが、調査に時間を要しているとして来週23日に発表を延期するということです。\n\nパーク24は「会員の皆様、関係者の皆様に多大なるご迷惑とご心配をおかけし、改めて深くおわび申し上げます」とコメントしています。\n",
+    "trimmedLead": "駐車場の運営などを手がける「パーク24」は、不正なアクセスで運転免許証などの本人確認に使われる書類の画像およそ160万件が漏えいしたことを受けて、会員登録が完了した後、画像を即時削除するよう社内のルールを変更したと発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261016de60636.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261016de60636",
+  "video": [],
+  "citation": [
+    {
+      "name": "【QA】サイバー攻撃で情報流出 なぜ相次ぐ？背景や対策を解説",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60258",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60258/20261016de60258_E0000079325_1_s.jpg",
+      "datePublished": "2026-10-16T13:59:20+09:00"
+    },
+    {
+      "name": "個人情報漏えい のべ1億6500万人分余に 利用者の対策は?",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60239",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60239/20261016de60239_E0000080983_1_s.jpg",
+      "datePublished": "2026-10-16T19:03:06+09:00"
+    },
+    {
+      "name": "イエローハット およそ180万人分の個人情報漏えいを確認",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60437",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60437/20261016de60437_E0000079612_1_s.jpg",
+      "datePublished": "2026-10-16T16:28:20+09:00"
+    },
+    {
+      "name": "ソースネクスト パスワード暗号化がない状態で流出 再設定を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60556",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60556/20261016de60556_E0000079642_1_s.jpg",
+      "datePublished": "2026-10-16T17:56:43+09:00"
+    },
+    {
+      "name": "ファンケル 不正アクセスで個人情報78万人余が外部流出",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60600",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60600/20261016de60600_E0000079676_1_s.jpg",
+      "datePublished": "2026-10-16T18:00:59+09:00"
+    },
+    {
+      "name": "ヤマト運輸 個人情報530万件余の外部流出を確認",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60395",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60395/20261016de60395_E0000079484_1_s.jpg",
+      "datePublished": "2026-10-16T15:02:54+09:00"
+    },
+    {
+      "name": "【詳しく】気象庁 緊急地震速報取り消し “M9.9と過大に推定”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60368",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60368/20261016de60368_E0000079391_1_s.jpg",
+      "datePublished": "2026-10-16T19:37:46+09:00"
+    },
+    {
+      "name": "“餃子の王将”社長殺害事件 暴力団幹部に無罪判決 京都地裁 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de60144",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de60144/20261015de60144_E0000079558_1_s.jpg",
+      "datePublished": "2026-10-16T18:27:00+09:00"
+    },
+    {
+      "name": "猪苗代湖ボート3人死傷事故 無罪取り消し 有罪確定へ 最高裁",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60234",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60234/20261016de60234_E0000079545_1_s.jpg",
+      "datePublished": "2026-10-16T18:55:00+09:00"
+    },
+    {
+      "name": "高市首相 予算配分増減時の公開あり方の充実“検討を指示”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60209",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60209/20261016de60209_E0000081326_1_s.jpg",
+      "datePublished": "2026-10-16T19:20:40+09:00"
+    },
+    {
+      "name": "ドジャース 大谷HRも敗退 3連覇逃す ブルワーズ戦【詳報】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de60061",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de60061/20261015de60061_E0000079374_1_s.jpg",
+      "datePublished": "2026-10-16T17:46:00+09:00"
+    },
+    {
+      "name": "台風30号 今後の情報に注意を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60169",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60169/20261016de60169_E0000079575_1_s.jpg",
+      "datePublished": "2026-10-16T17:31:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

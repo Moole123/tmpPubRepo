@@ -1,0 +1,162 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261016de60556",
+  "dataSourceId": "nd",
+  "name": "ソースネクスト パスワード暗号化がない状態で流出 再設定を",
+  "headline": "ソースネクスト パスワード暗号化がない状態で流出 再設定を",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261016de60556",
+    "playlistId": "news-nwa-scienceculture-nationwide-20261016",
+    "newsarticleName": "ソースネクスト パスワード暗号化がない状態で流出 再設定を",
+    "playlistName": "10月16日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "年賀状ソフトなどを手がける「ソースネクスト」で、メールアドレスやパスワードなど大量の個人情報が不正アクセスによって流出した問題で、このうちパスワードは暗号がかかっていない状態で流出していたことが会社へ",
+  "dateModified": "2026-10-16T17:56:43+09:00",
+  "datePublished": "2026-10-16T17:56:43+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60556/20261016de60556_E0000079642_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60556/20261016de60556_E0000079642_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "科学・文化",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    },
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "年賀状ソフトなどを手がける「ソースネクスト」で、メールアドレスやパスワードなど大量の個人情報が不正アクセスによって流出した問題で、このうちパスワードは暗号がかかっていない状態で流出していたことが会社へ",
+  "articleBody": "年賀状ソフトなどを手がける「ソースネクスト」で、メールアドレスやパスワードなど大量の個人情報が不正アクセスによって流出した問題で、このうちパスワードは暗号がかかっていない状態で流出していたことが会社への取材でわかりました。会社は二次被害につながるおそれがあるとして、パスワードの再設定を呼びかけています。\n\n\n年賀状やセキュリティー関連のソフトなどを手がける「ソースネクスト」は15日、会員情報を管理するシステムが今月9日に不正アクセスを受け、顧客の情報が流出したと明らかにしました。\n\n顧客の氏名や住所、電話番号、メールアドレスのほか、サービスにログインする際に必要なパスワードも含まれ、2251万件にのぼる可能性があるとしています。\n\n会社によりますと、このうちパスワードについては暗号化して保管していたものの、不正アクセスがあった会員情報の管理システムの中にパスワードを元の状態に戻すのに必要な情報も入っていたということです。\n\n会社は、不正アクセスの痕跡などから、パスワードは暗号がかかっていない状態で外部に流出したとみています。\n\n二次被害のおそれがあるとして、顧客に対しサービスにログインする際は従来とは異なるパスワードを再設定するよう呼びかけるとともに、外部の調査機関と連携して詳しい調査を進めることにしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "年賀状ソフトなどを手がける「ソースネクスト」で、メールアドレスやパスワードなど大量の個人情報が不正アクセスによって流出した問題で、このうちパスワードは暗号がかかっていない状態で流出していたことが会社への取材でわかりました。会社は二次被害につながるおそれがあるとして、パスワードの再設定を呼びかけています。\n",
+    "markedBody": "年賀状やセキュリティー関連のソフトなどを手がける「ソースネクスト」は15日、会員情報を管理するシステムが今月9日に不正アクセスを受け、顧客の情報が流出したと明らかにしました。\n\n顧客の氏名や住所、電話番号、メールアドレスのほか、サービスにログインする際に必要なパスワードも含まれ、2251万件にのぼる可能性があるとしています。\n\n会社によりますと、このうちパスワードについては暗号化して保管していたものの、不正アクセスがあった会員情報の管理システムの中にパスワードを元の状態に戻すのに必要な情報も入っていたということです。\n\n会社は、不正アクセスの痕跡などから、パスワードは暗号がかかっていない状態で外部に流出したとみています。\n\n二次被害のおそれがあるとして、顧客に対しサービスにログインする際は従来とは異なるパスワードを再設定するよう呼びかけるとともに、外部の調査機関と連携して詳しい調査を進めることにしています。\n",
+    "trimmedLead": "年賀状ソフトなどを手がける「ソースネクスト」で、メールアドレスやパスワードなど大量の個人情報が不正アクセスによって流出した問題で、このうちパスワードは暗号がかかっていない状態で流出していたことが会社への取材でわかりました。会社は二次被害につながるおそれがあるとして、パスワードの再設定を呼びかけています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261016de60556.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261016de60556",
+  "video": [],
+  "citation": [
+    {
+      "name": "ソースネクスト 約2251万件の個人情報が流出か 不正アクセスで",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de60043",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de60043/20261015de60043_E0000077264_1_s.jpg",
+      "datePublished": "2026-10-15T21:55:00+09:00"
+    },
+    {
+      "name": "相次ぐ個人情報流出 対策は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60271",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60271/20261016de60271_E0000078719_1_s.jpg",
+      "datePublished": "2026-10-16T14:48:40+09:00"
+    },
+    {
+      "name": "イエローハット およそ180万人分の個人情報漏えいを確認",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60437",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60437/20261016de60437_E0000079612_1_s.jpg",
+      "datePublished": "2026-10-16T16:28:20+09:00"
+    },
+    {
+      "name": "“餃子の王将”社長殺害事件 暴力団幹部に無罪判決 京都地裁 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de60144",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de60144/20261015de60144_E0000079558_1_s.jpg",
+      "datePublished": "2026-10-16T18:27:00+09:00"
+    },
+    {
+      "name": "猪苗代湖ボート3人死傷事故 無罪取り消し 有罪確定へ 最高裁",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60234",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60234/20261016de60234_E0000079545_1_s.jpg",
+      "datePublished": "2026-10-16T18:55:00+09:00"
+    },
+    {
+      "name": "高市首相 予算配分増減時の公開あり方の充実“検討を指示”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60209",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60209/20261016de60209_E0000081326_1_s.jpg",
+      "datePublished": "2026-10-16T19:20:40+09:00"
+    },
+    {
+      "name": "ドジャース 大谷HRも敗退 3連覇逃す ブルワーズ戦【詳報】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de60061",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de60061/20261015de60061_E0000079374_1_s.jpg",
+      "datePublished": "2026-10-16T17:46:00+09:00"
+    },
+    {
+      "name": "G20閉幕 世界経済やAIリスク議論も共同声明なし",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60163",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60163/20261016de60163_E0000078234_1_s.jpg",
+      "datePublished": "2026-10-16T10:58:39+09:00"
+    },
+    {
+      "name": "フランス抗議活動 無関係映像で“移民が暴動”偽情報拡散",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60286",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60286/20261016de60286_E0000078764_1_s.jpg",
+      "datePublished": "2026-10-16T11:47:58+09:00"
+    },
+    {
+      "name": "台風30号 今後の情報に注意を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60169",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60169/20261016de60169_E0000079575_1_s.jpg",
+      "datePublished": "2026-10-16T17:31:00+09:00"
+    },
+    {
+      "name": "【対策】“相次ぐ個人情報の流出” 私たちができることは",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60212",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60212/20261016de60212_E0000078634_1_s.jpg",
+      "datePublished": "2026-10-16T12:10:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
