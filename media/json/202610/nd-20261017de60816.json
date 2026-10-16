@@ -1,0 +1,156 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261017de60816",
+  "dataSourceId": "nd",
+  "name": "ナスダック株価指数2％超下落 AI関連企業の債務などに懸念",
+  "headline": "ナスダック株価指数2％超下落 AI関連企業の債務などに懸念",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261017de60816",
+    "playlistId": "news-nwa-business-nationwide-20261017",
+    "newsarticleName": "ナスダック株価指数2％超下落 AI関連企業の債務などに懸念",
+    "playlistName": "10月17日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "16日のニューヨーク株式市場では、AI関連企業の過剰債務などへの懸念を背景にハイテク株に売り注文が広がり、ナスダックの株価指数は2％を超える大幅な下落となりました。今週の下落率はおよそ4.5％となり、",
+  "dateModified": "2026-10-17T07:45:57+09:00",
+  "datePublished": "2026-10-17T07:45:57+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261017de60816/20261017de60816_E0000082589_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261017de60816/20261017de60816_E0000082589_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000157",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "E0000000419",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "16日のニューヨーク株式市場では、AI関連企業の過剰債務などへの懸念を背景にハイテク株に売り注文が広がり、ナスダックの株価指数は2％を超える大幅な下落となりました。今週の下落率はおよそ4.5％となり、",
+  "articleBody": "16日のニューヨーク株式市場では、AI関連企業の過剰債務などへの懸念を背景にハイテク株に売り注文が広がり、ナスダックの株価指数は2％を超える大幅な下落となりました。今週の下落率はおよそ4.5％となり、投資家の間でAI関連の銘柄からいったん資金を移す動きが広がりました。\n\n\n16日のニューヨーク株式市場では、半導体などAI関連の銘柄に売り注文が広がる展開となり、ナスダックの株価指数は前日から570ポイントあまり、率にして2.1％の大幅な下落となりました。\n\n今週の下落率はおよそ4.5％で、これはことし6月以来の大きさです。\n\nAI向けのクラウド事業を手がけるアメリカの「コアウィーブ」の社債の利回りが16％程度まで上昇したのをきっかけに、投資家の間ではAI関連企業の過剰債務や、借り入れに依存した資金調達への警戒感が一気に広がりました。\n\n今週のコアウィーブの株価の下落率は25％に達し、オラクルなど競合する企業や半導体大手のエヌビディアなど、AI関連銘柄全体に売り注文が広がる展開となりました。\n\nダウ平均株価の終値は前日と比べて175ドル28セント安い、5万2002ドル41セントでした。\n\n市場関係者は「AI関連銘柄をめぐる市場の反応は『行き過ぎている』と考える投資家もいるが、多くは再び資金を投じるための具体的な好材料を求めている」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "16日のニューヨーク株式市場では、AI関連企業の過剰債務などへの懸念を背景にハイテク株に売り注文が広がり、ナスダックの株価指数は2％を超える大幅な下落となりました。今週の下落率はおよそ4.5％となり、投資家の間でAI関連の銘柄からいったん資金を移す動きが広がりました。\n",
+    "markedBody": "16日のニューヨーク株式市場では、半導体などAI関連の銘柄に売り注文が広がる展開となり、ナスダックの株価指数は前日から570ポイントあまり、率にして2.1％の大幅な下落となりました。\n\n今週の下落率はおよそ4.5％で、これはことし6月以来の大きさです。\n\nAI向けのクラウド事業を手がけるアメリカの「コアウィーブ」の社債の利回りが16％程度まで上昇したのをきっかけに、投資家の間ではAI関連企業の過剰債務や、借り入れに依存した資金調達への警戒感が一気に広がりました。\n\n今週のコアウィーブの株価の下落率は25％に達し、オラクルなど競合する企業や半導体大手のエヌビディアなど、AI関連銘柄全体に売り注文が広がる展開となりました。\n\nダウ平均株価の終値は前日と比べて175ドル28セント安い、5万2002ドル41セントでした。\n\n市場関係者は「AI関連銘柄をめぐる市場の反応は『行き過ぎている』と考える投資家もいるが、多くは再び資金を投じるための具体的な好材料を求めている」と話しています。\n",
+    "trimmedLead": "16日のニューヨーク株式市場では、AI関連企業の過剰債務などへの懸念を背景にハイテク株に売り注文が広がり、ナスダックの株価指数は2％を超える大幅な下落となりました。今週の下落率はおよそ4.5％となり、投資家の間でAI関連の銘柄からいったん資金を移す動きが広がりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261017de60816.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261017de60816",
+  "video": [],
+  "citation": [
+    {
+      "name": "米アンソロピック共同創業者を直撃「AIがAIを開発する」とは？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60399",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60399/20261016de60399_E0000079664_1_s.jpg",
+      "datePublished": "2026-10-16T21:12:40+09:00"
+    },
+    {
+      "name": "ロシアで記者拘束 北海道新聞社「政府指示の取材はない」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60516",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60516/20261016de60516_E0000079658_1_s.jpg",
+      "datePublished": "2026-10-16T18:34:48+09:00"
+    },
+    {
+      "name": "ロシアで収容された経験 米有力紙記者が振り返る 現地の状況",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60397",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60397/20261016de60397_E0000081462_1_s.jpg",
+      "datePublished": "2026-10-16T19:40:50+09:00"
+    },
+    {
+      "name": "ICCの新たな試練～ノーベル平和賞とアメリカの制裁～",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60294",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60294/20261016de60294_E0000078779_1_s.jpg",
+      "datePublished": "2026-10-16T16:40:08+09:00"
+    },
+    {
+      "name": "ホワイトハウス新報道官 司法試験合格していないと認める",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60432",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60432/20261016de60432_E0000079567_1_s.jpg",
+      "datePublished": "2026-10-16T16:11:00+09:00"
+    },
+    {
+      "name": "「うるう秒」廃止決定 秒の新定義も検討へ 国際度量衡総会",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60174",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60174/20261016de60174_E0000078244_1_s.jpg",
+      "datePublished": "2026-10-16T15:14:58+09:00"
+    },
+    {
+      "name": "ウクライナの衛星通信の制限 ホワイトハウスの指示か 報道",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60404",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60404/20261016de60404_E0000079524_1_s.jpg",
+      "datePublished": "2026-10-16T16:09:00+09:00"
+    },
+    {
+      "name": "米国の8つの州がオープンAIを提訴 “子どもに危険な設計”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60299",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60299/20261016de60299_E0000078798_1_s.jpg",
+      "datePublished": "2026-10-16T12:28:00+09:00"
+    },
+    {
+      "name": "国連安保理が議長声明 フーシ派を非難 サウジへの連帯を表明",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60305",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60305/20261016de60305_E0000078811_1_s.jpg",
+      "datePublished": "2026-10-16T13:46:00+09:00"
+    },
+    {
+      "name": "米空母「セオドア・ルーズベルト」横須賀に入港 中東に展開か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60340",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60340/20261016de60340_E0000078876_1_s.jpg",
+      "datePublished": "2026-10-16T13:52:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
