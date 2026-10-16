@@ -1,0 +1,157 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261017de60802",
+  "dataSourceId": "nd",
+  "name": "台風30号 非常に強い勢力に発達する見込み 今後の情報に注意",
+  "headline": "台風30号 非常に強い勢力に発達する見込み 今後の情報に注意",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261017de60802",
+    "playlistId": "news-nwa-disaster-nationwide-20261017",
+    "newsarticleName": "台風30号 非常に強い勢力に発達する見込み 今後の情報に注意",
+    "playlistName": "10月17日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "強い台風30号は、日本のはるか南東の海上を西寄りに進んでいて、今後、非常に強い勢力に発達する見込みです。\n気象庁は、来週の進路予想には幅があり、今後の情報に注意するよう呼びかけています。\n\n\n気象庁の",
+  "dateModified": "2026-10-17T05:10:06+09:00",
+  "datePublished": "2026-10-17T05:00:15+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261017de60802/20261017de60802_E0000082487_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261017de60802/20261017de60802_E0000082487_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000202",
+      "name": "台風",
+      "display": true
+    },
+    {
+      "id": "E0000000114",
+      "name": "気象",
+      "display": true
+    },
+    {
+      "id": "E0000000682",
+      "name": "気象庁",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "強い台風30号は、日本のはるか南東の海上を西寄りに進んでいて、今後、非常に強い勢力に発達する見込みです。\n気象庁は、来週の進路予想には幅があり、今後の情報に注意するよう呼びかけています。\n\n\n気象庁の",
+  "articleBody": "強い台風30号は、日本のはるか南東の海上を西寄りに進んでいて、今後、非常に強い勢力に発達する見込みです。\n気象庁は、来週の進路予想には幅があり、今後の情報に注意するよう呼びかけています。\n\n\n気象庁の観測によりますと、強い台風30号は17日午前3時には、トラック諸島の近海を1時間に25キロの速さで西北西へ進んでいます。\n\n中心の気圧は980ヘクトパスカル、中心付近の最大風速は35メートル、最大瞬間風速は50メートルで、中心から半径75キロ以内では風速25メートル以上の暴風が吹いています。\n\n台風は西よりに進みながら発達し、19日には非常に強い勢力になると予想されています。\n\n今月22日には沖縄の南の海上に達すると予想されていますが、進路予想には幅があります。\n\n気象庁は今後の情報に注意するよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "強い台風30号は、日本のはるか南東の海上を西寄りに進んでいて、今後、非常に強い勢力に発達する見込みです。\\\n気象庁は、来週の進路予想には幅があり、今後の情報に注意するよう呼びかけています。\n",
+    "markedBody": "気象庁の観測によりますと、強い台風30号は17日午前3時には、トラック諸島の近海を1時間に25キロの速さで西北西へ進んでいます。\n\n中心の気圧は980ヘクトパスカル、中心付近の最大風速は35メートル、最大瞬間風速は50メートルで、中心から半径75キロ以内では風速25メートル以上の暴風が吹いています。\n\n```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"002\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\n    <div class=\"fs-wrap\">\n      <h2 class=\"freespace-title\">台風マップ</h2>\n\n      <a href=\"https://news.web.nhk/bousai-map/typhoon/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"tenkiBousaiMap-fullscreenBtn\">全画面でマップを見る</a>\n\n      <div class=\"tenkiBousaiMap-wrap\">\n        <iframe src=\"https://news.web.nhk/bousai-map/typhoon/?mapMenu=off&amp;help=off&amp;halfModal=off&amp;typhoonSelection=off&amp;disableUserLocation=on\" allowfullscreen=\"allowfullscreen\" scrolling=\"no\" class=\"js-iframe-dataMap\"></iframe>\n      </div>\n    </div>\n</div>\n```\n\n台風は西よりに進みながら発達し、19日には非常に強い勢力になると予想されています。\n\n今月22日には沖縄の南の海上に達すると予想されていますが、進路予想には幅があります。\n\n気象庁は今後の情報に注意するよう呼びかけています。\n",
+    "noHtmlMarkedLead": "強い台風30号は、日本のはるか南東の海上を西寄りに進んでいて、今後、非常に強い勢力に発達する見込みです。\\\n気象庁は、来週の進路予想には幅があり、今後の情報に注意するよう呼びかけています。\n",
+    "noHtmlMarkedBody": "気象庁の観測によりますと、強い台風30号は17日午前3時には、トラック諸島の近海を1時間に25キロの速さで西北西へ進んでいます。\n\n中心の気圧は980ヘクトパスカル、中心付近の最大風速は35メートル、最大瞬間風速は50メートルで、中心から半径75キロ以内では風速25メートル以上の暴風が吹いています。\n\n台風は西よりに進みながら発達し、19日には非常に強い勢力になると予想されています。\n\n今月22日には沖縄の南の海上に達すると予想されていますが、進路予想には幅があります。\n\n気象庁は今後の情報に注意するよう呼びかけています。\n",
+    "trimmedLead": "強い台風30号は、日本のはるか南東の海上を西寄りに進んでいて、今後、非常に強い勢力に発達する見込みです。\n気象庁は、来週の進路予想には幅があり、今後の情報に注意するよう呼びかけています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261017de60802.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261017de60802",
+  "video": [],
+  "citation": [
+    {
+      "name": "台風30号が発生 年間発生“30”は2013年以来 今後の情報に注意",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de59833",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59833/20261015de59833_E0000077148_1_s.jpg",
+      "datePublished": "2026-10-15T17:43:00+09:00"
+    },
+    {
+      "name": "緊急地震速報の過大推定 「過去の対策が機能せず」気象庁",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60368",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60368/20261016de60368_E0000079391_1_s.jpg",
+      "datePublished": "2026-10-16T23:48:00+09:00"
+    },
+    {
+      "name": "日銀植田総裁 今後も利上げ進める 2％の物価安定がより重要",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60782",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261017de60782/20261017de60782_E0000082480_1_s.jpg",
+      "datePublished": "2026-10-17T01:30:39+09:00"
+    },
+    {
+      "name": "個人情報漏えい のべ1億6500万人分余に 利用者の対策は?",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60239",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60239/20261016de60239_E0000080983_1_s.jpg",
+      "datePublished": "2026-10-16T21:29:50+09:00"
+    },
+    {
+      "name": "ヤマト運輸 個人情報530万件余の外部流出を確認",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60395",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60395/20261016de60395_E0000079484_1_s.jpg",
+      "datePublished": "2026-10-16T15:02:54+09:00"
+    },
+    {
+      "name": "“餃子の王将”社長殺害事件 暴力団幹部に無罪判決 京都地裁 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de60144",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de60144/20261015de60144_E0000079558_1_s.jpg",
+      "datePublished": "2026-10-16T20:25:38+09:00"
+    },
+    {
+      "name": "猪苗代湖ボート3人死傷事故 無罪取り消し 有罪確定へ 最高裁",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60234",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60234/20261016de60234_E0000079545_1_s.jpg",
+      "datePublished": "2026-10-16T18:55:00+09:00"
+    },
+    {
+      "name": "高市首相 予算配分増減時の公開あり方の充実“検討を指示”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60209",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60209/20261016de60209_E0000081326_1_s.jpg",
+      "datePublished": "2026-10-16T19:20:40+09:00"
+    },
+    {
+      "name": "ドジャース 大谷HRも敗退 3連覇逃す ブルワーズ戦【詳報】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de60061",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de60061/20261015de60061_E0000079374_1_s.jpg",
+      "datePublished": "2026-10-16T23:24:47+09:00"
+    },
+    {
+      "name": "【QA】サイバー攻撃で情報流出 なぜ相次ぐ？背景や対策を解説",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60258",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60258/20261016de60258_E0000079325_1_s.jpg",
+      "datePublished": "2026-10-16T13:59:20+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": true
+  }
+}
