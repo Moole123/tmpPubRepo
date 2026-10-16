@@ -1,0 +1,189 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261016de60258",
+  "dataSourceId": "nd",
+  "name": "【QA】サイバー攻撃による不正アクセスで個人情報流出 なぜ相次ぐ？背景や対策を解説",
+  "headline": "【QA】サイバー攻撃で情報流出 なぜ相次ぐ？背景や対策を解説",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261016de60258",
+    "playlistId": "news-nwa-scienceculture-nationwide-20261016",
+    "newsarticleName": "【QA】サイバー攻撃による不正アクセスで個人情報流出 なぜ相次ぐ？背景や対策を解説",
+    "playlistName": "10月16日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "止まらない企業へのサイバー攻撃。なぜ急に被害が相次ぐようになったのか。背景として指摘される「AIエージェント」や、対策について解説します。\n\n\nQ\n「AIエージェント」とは何ですか？\n\nA\n「AIエー",
+  "dateModified": "2026-10-16T13:59:20+09:00",
+  "datePublished": "2026-10-16T13:59:20+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60258/20261016de60258_E0000079325_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60258/20261016de60258_E0000079325_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000106",
+      "name": "生成AI・人工知能",
+      "display": true
+    },
+    {
+      "id": "E0000000575",
+      "name": "Q＆A解説",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "止まらない企業へのサイバー攻撃。なぜ急に被害が相次ぐようになったのか。背景として指摘される「AIエージェント」や、対策について解説します。\n\n\nQ\n「AIエージェント」とは何ですか？\n\nA\n「AIエー",
+  "articleBody": "止まらない企業へのサイバー攻撃。なぜ急に被害が相次ぐようになったのか。背景として指摘される「AIエージェント」や、対策について解説します。\n\n\nQ\n「AIエージェント」とは何ですか？\n\nA\n「AIエージェント」は、人間から1つ1つ指示を受けて実行するのではなく、AIがみずから考えて作業を進めるプログラムです。セキュリティーの専門機関と民間の専門家などが連携して、被害を受けた企業への攻撃に使われたサーバーを特定して解析に成功しました。\n\nサーバーには、システムの弱点を見つけるなどの攻撃ツールが複数見つかったほか、「AIエージェント」のプログラムが残されていました。セキュリティー会社のまとめで、2026年、企業や団体が公表した不正アクセスによる情報漏えいなどの被害件数は、9月末時点で去年1年間の593件をすでに上回る600件で、特に夏ごろから増えています。\n\nその理由として、このような「AIの悪用」が指摘されています。今回見つかった「AIエージェント」は海外の企業が公開している複数のAIモデルを使って構築されていて、攻撃ツールを状況に応じて使いわけながら攻撃を進めていた痕跡も残っていたということです。\n\nQ\n流出した個人情報は何に悪用されるリスクがあるのでしょうか？\n\nA\n流出した個人情報の一部は、ダークウェブと呼ばれる闇サイトや秘匿性の高いSNSで販売されているケースが確認されています。サイトでは、日本人のものとみられる住所や電話番号、メールアドレスなどの個人情報のほか、運転免許証などの本人確認書類まで販売されていることがあるということです。こうした闇サイトを通じて、個人情報がハッカー集団から特殊詐欺グループなどに渡り、別の犯罪に悪用されるリスクが高まります。\n\n例えば、警察官になりすました詐欺の電話がかかってきたり、企業を装ったフィッシング詐欺メールが届くおそれがあります。さらに、運転免許証などの本人確認書類まで漏えいした場合は、本人になりすまして口座やクレジットカード、ローン契約などをされるおそれも指摘されています。\n\nQ\n詐欺などの二次被害にあわないためには、どう対応すればいいのでしょうか？\n\nA\n【ニセ電話や詐欺メール・ショートメッセージに注意】\nまずは漏えいした情報を悪用したニセ電話や詐欺メール・ショートメッセージに注意することです。とくに相手は個人情報を把握しているため、心当たりがある内容を話されても慎重な対応が必要です。\n\n【利用企業のメールもリンクは開かない】\n利用している企業から緊急のお知らせなどと書かれたメールが届いても、リンクは開かずに公式のアプリやホームページからのお知らせを見るようにしましょう。\n\n【利用明細 こまめに確認】\n次にクレジットカードの利用明細などで、身に覚えのない不正な利用がないかこまめに確認することです。万一、そうした利用があった場合にはすぐにカード会社や金融機関に連絡しましょう。\n\n【パスワード変更 多要素認証の設定】\n最後に、同じパスワードを使い回している場合は、サービスごとに変更することや、生体認証やメールなど別の手段でも本人確認を行う多要素認証を設定しておくことも有効な対策になります。\n\n情報漏えいに関する記事のまとめはこちら\n",
+  "detailedArticleBody": {
+    "markedLead": "止まらない企業へのサイバー攻撃。なぜ急に被害が相次ぐようになったのか。背景として指摘される「AIエージェント」や、対策について解説します。\n",
+    "markedBody": ":::nw--colored {style=background-color:#E9FAF9}\n![](https://img.web.nhk/news/nd/kiji/20261016de60258/20261016de60258_E0000079201_1_l.jpg)\n\n**Q**\\\n**「AIエージェント」とは何ですか？**\n\nA\\\n「AIエージェント」は、人間から1つ1つ指示を受けて実行するのではなく、AIがみずから考えて作業を進めるプログラムです。セキュリティーの専門機関と民間の専門家などが連携して、被害を受けた企業への攻撃に使われたサーバーを特定して解析に成功しました。\n:::\n\n:::nw--colored {style=background-color:#E9FAF9}\n![](https://img.web.nhk/news/nd/kiji/20261016de60258/20261016de60258_E0000079211_1_l.jpg)\n\nサーバーには、システムの弱点を見つけるなどの攻撃ツールが複数見つかったほか、「AIエージェント」のプログラムが残されていました。セキュリティー会社のまとめで、2026年、企業や団体が公表した不正アクセスによる情報漏えいなどの被害件数は、9月末時点で去年1年間の593件をすでに上回る600件で、特に夏ごろから増えています。\n\nその理由として、このような「AIの悪用」が指摘されています。今回見つかった「AIエージェント」は海外の企業が公開している複数のAIモデルを使って構築されていて、攻撃ツールを状況に応じて使いわけながら攻撃を進めていた痕跡も残っていたということです。\n:::\n\n:::nw--colored {style=background-color:#E0F1FF}\n![](https://img.web.nhk/news/nd/kiji/20261016de60258/20261016de60258_E0000079225_1_l.jpg)\n\n**Q**\\\n**流出した個人情報は何に悪用されるリスクがあるのでしょうか？**\n\nA\\\n流出した個人情報の一部は、ダークウェブと呼ばれる闇サイトや秘匿性の高いSNSで販売されているケースが確認されています。サイトでは、日本人のものとみられる住所や電話番号、メールアドレスなどの個人情報のほか、運転免許証などの本人確認書類まで販売されていることがあるということです。こうした闇サイトを通じて、個人情報がハッカー集団から特殊詐欺グループなどに渡り、別の犯罪に悪用されるリスクが高まります。\n\n例えば、警察官になりすました詐欺の電話がかかってきたり、企業を装ったフィッシング詐欺メールが届くおそれがあります。さらに、運転免許証などの本人確認書類まで漏えいした場合は、本人になりすまして口座やクレジットカード、ローン契約などをされるおそれも指摘されています。\n:::\n\n:::nw--colored {style=background-color:#E6F2EE}\n![](https://img.web.nhk/news/nd/kiji/20261016de60258/20261016de60258_E0000079251_1_l.jpg)\n\n**Q**\\\n**詐欺などの二次被害にあわないためには、どう対応すればいいのでしょうか？**\n\nA\\\n【ニセ電話や詐欺メール・ショートメッセージに注意】\\\nまずは漏えいした情報を悪用したニセ電話や詐欺メール・ショートメッセージに注意することです。とくに相手は個人情報を把握しているため、心当たりがある内容を話されても慎重な対応が必要です。\n\n【利用企業のメールもリンクは開かない】\\\n利用している企業から緊急のお知らせなどと書かれたメールが届いても、リンクは開かずに公式のアプリやホームページからのお知らせを見るようにしましょう。\n\n【利用明細 こまめに確認】\\\n次にクレジットカードの利用明細などで、身に覚えのない不正な利用がないかこまめに確認することです。万一、そうした利用があった場合にはすぐにカード会社や金融機関に連絡しましょう。\n\n【パスワード変更 多要素認証の設定】\\\n最後に、同じパスワードを使い回している場合は、サービスごとに変更することや、生体認証やメールなど別の手段でも本人確認を行う多要素認証を設定しておくことも有効な対策になります。\n:::\n\n:::nw--link-type6 {href=https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000137}\n**情報漏えいに関する記事のまとめはこちら**\n:::\n",
+    "trimmedLead": "止まらない企業へのサイバー攻撃。なぜ急に被害が相次ぐようになったのか。背景として指摘される「AIエージェント」や、対策について解説します。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261016de60258.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261016de60258",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "【QA】サイバー攻撃で情報流出 なぜ相次ぐ？背景や対策を解説",
+      "description": "止まらない企業へのサイバー攻撃。なぜ急に被害が相次ぐようになったのか。背景として指摘される「AIエージェント」や、対策について解説します。\n\n\nQ\n「AIエージェント」とは何ですか？\n\nA\n「AIエー",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261016de60258_E0000079147_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261016de60258/20261016de60258_E0000079325_1_l.jpg",
+      "duration": "PT4M46S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261016de60258_E0000079147_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60258/20261016de60258_E0000079325_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "高市首相 簗前農相辞任を陳謝“内閣一丸で重要課題に対応”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60209",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60209/20261016de60209_E0000078630_1_s.jpg",
+      "datePublished": "2026-10-16T15:37:31+09:00"
+    },
+    {
+      "name": "アメリカ西部オレゴン州の小学校で銃撃 子ども3人と教師死亡",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60199",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60199/20261016de60199_E0000078519_1_s.jpg",
+      "datePublished": "2026-10-16T12:04:00+09:00"
+    },
+    {
+      "name": "ドジャース 大谷HRも敗退 3連覇逃す ブルワーズ戦【詳報】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de60061",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de60061/20261015de60061_E0000079374_1_s.jpg",
+      "datePublished": "2026-10-16T14:57:27+09:00"
+    },
+    {
+      "name": "“餃子の王将”社長殺害事件 暴力団幹部に無罪判決 京都地裁",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de60144",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de60144/20261015de60144_E0000079499_1_s.jpg",
+      "datePublished": "2026-10-16T15:40:47+09:00"
+    },
+    {
+      "name": "G20閉幕 世界経済やAIリスク議論も共同声明なし",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60163",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60163/20261016de60163_E0000078234_1_s.jpg",
+      "datePublished": "2026-10-16T10:58:39+09:00"
+    },
+    {
+      "name": "フランス抗議活動 無関係映像で“移民が暴動”偽情報拡散",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60286",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60286/20261016de60286_E0000078764_1_s.jpg",
+      "datePublished": "2026-10-16T11:47:58+09:00"
+    },
+    {
+      "name": "「うるう秒」廃止決定 秒の新定義も検討へ 国際度量衡総会",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60174",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60174/20261016de60174_E0000078244_1_s.jpg",
+      "datePublished": "2026-10-16T15:14:58+09:00"
+    },
+    {
+      "name": "バーガーキング アプリの会員情報 約1118万件漏えい",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de59803",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59803/20261015de59803_E0000075475_1_s.jpg",
+      "datePublished": "2026-10-15T17:10:24+09:00"
+    },
+    {
+      "name": "【対策】“相次ぐ個人情報の流出” 私たちができることは",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60212",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60212/20261016de60212_E0000078634_1_s.jpg",
+      "datePublished": "2026-10-16T12:10:00+09:00"
+    },
+    {
+      "name": "台風30号 今後の情報に注意を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60169",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60169/20261016de60169_E0000079575_1_s.jpg",
+      "datePublished": "2026-10-16T06:59:00+09:00"
+    },
+    {
+      "name": "相次ぐ不正アクセス “AIエージェント”使用の証拠見つかる",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de59790",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59790/20261015de59790_E0000075571_1_s.jpg",
+      "datePublished": "2026-10-15T19:30:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
