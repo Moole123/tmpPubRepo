@@ -1,0 +1,184 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261019de61781",
+  "dataSourceId": "nd",
+  "name": "「ふるさとチョイス」で不正アクセスの疑い サービス一時停止",
+  "headline": "「ふるさとチョイス」で不正アクセスの疑い サービス一時停止",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261019de61781",
+    "playlistId": "news-nwa-business-nationwide-20261019",
+    "newsarticleName": "「ふるさとチョイス」で不正アクセスの疑い サービス一時停止",
+    "playlistName": "10月19日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "ふるさと納税の仲介サイト「ふるさとチョイス」を運営するトラストバンクは19日、サイトで不正アクセスの疑いがある事象を検知したとして、サービスを一時、停止していると明らかにしました。\n\n個人情報の漏えい",
+  "dateModified": "2026-10-19T18:30:00+09:00",
+  "datePublished": "2026-10-19T18:30:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61781/20261019de61781_E0000088188_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61781/20261019de61781_E0000088188_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "暮らし"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ふるさと納税の仲介サイト「ふるさとチョイス」を運営するトラストバンクは19日、サイトで不正アクセスの疑いがある事象を検知したとして、サービスを一時、停止していると明らかにしました。\n\n個人情報の漏えい",
+  "articleBody": "ふるさと納税の仲介サイト「ふるさとチョイス」を運営するトラストバンクは19日、サイトで不正アクセスの疑いがある事象を検知したとして、サービスを一時、停止していると明らかにしました。\n\n個人情報の漏えいの有無などについては調査中だということです。\n\n\nトラストバンクによりますと、会社が運営しているふるさと納税の仲介サイト「ふるさとチョイス」で19日午前、不正アクセスの疑いがある事象を検知したため、午後4時前からサービスを一時、停止しているということです。\n\n会社では、個人情報の漏えいの有無などの確認を進めているということです。\n\n会社は「ご利用の皆様には多大なご迷惑とご心配をおかけしており、深くおわび申し上げます。早急なサービス再開を目指し対応を進めています」とコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "ふるさと納税の仲介サイト「ふるさとチョイス」を運営するトラストバンクは19日、サイトで不正アクセスの疑いがある事象を検知したとして、サービスを一時、停止していると明らかにしました。\n\n個人情報の漏えいの有無などについては調査中だということです。\n",
+    "markedBody": "トラストバンクによりますと、会社が運営しているふるさと納税の仲介サイト「ふるさとチョイス」で19日午前、不正アクセスの疑いがある事象を検知したため、午後4時前からサービスを一時、停止しているということです。\n\n会社では、個人情報の漏えいの有無などの確認を進めているということです。\n\n会社は「ご利用の皆様には多大なご迷惑とご心配をおかけしており、深くおわび申し上げます。早急なサービス再開を目指し対応を進めています」とコメントしています。\n",
+    "trimmedLead": "ふるさと納税の仲介サイト「ふるさとチョイス」を運営するトラストバンクは19日、サイトで不正アクセスの疑いがある事象を検知したとして、サービスを一時、停止していると明らかにしました。\n\n個人情報の漏えいの有無などについては調査中だということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261019de61781.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261019de61781",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "「ふるさとチョイス」で不正アクセスの疑い サービス一時停止",
+      "description": "ふるさと納税の仲介サイト「ふるさとチョイス」を運営するトラストバンクは19日、サイトで不正アクセスの疑いがある事象を検知したとして、サービスを一時、停止していると明らかにしました。\n\n個人情報の漏えい",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261019de61781_E0000088186_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261019de61781/20261019de61781_E0000088188_1_l.jpg",
+      "duration": "PT33S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261019de61781_E0000088186_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61781/20261019de61781_E0000088188_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "【情報漏えい】対策どうする 二次被害に遭わないためには",
+      "url": "https://news.web.nhk/newsweb/pl/editorial-nwa-0000000697",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261018de61119_E0000086259_1_s.jpg"
+    },
+    {
+      "name": "火星の衛星から砂持ち帰る計画 探査機「MMX」あす早朝打ち上げ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de61034",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261017de61034/20261017de61034_E0000083816_1_s.jpg",
+      "datePublished": "2026-10-19T18:04:20+09:00"
+    },
+    {
+      "name": "阪神 佐藤輝明 大リーグ挑戦へ 球団がポスティング移籍容認",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61537",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61537/20261019de61537_E0000086244_1_s.jpg",
+      "datePublished": "2026-10-19T20:08:20+09:00"
+    },
+    {
+      "name": "サッカー マンチェスターシティーの財務規則違反を認定",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61598",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61598/20261019de61598_E0000086345_1_s.jpg",
+      "datePublished": "2026-10-19T19:46:03+09:00"
+    },
+    {
+      "name": "「ふるさとチョイス」で不正アクセス疑い 阪急阪神百貨店でも",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61442",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61442/20261019de61442_E0000087102_1_s.jpg",
+      "datePublished": "2026-10-19T19:23:00+09:00"
+    },
+    {
+      "name": "台風30号急発達 猛烈な勢力に 沖縄は21日以降 大しけのおそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61331",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61331/20261019de61331_E0000088091_1_s.jpg",
+      "datePublished": "2026-10-19T19:25:29+09:00"
+    },
+    {
+      "name": "20日にかけ西日本と東日本を中心に大気不安定 激しい雨も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61334",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61334/20261019de61334_E0000086290_1_s.jpg",
+      "datePublished": "2026-10-19T19:21:05+09:00"
+    },
+    {
+      "name": "神奈川 藤沢 乗用車がバスなど次々に衝突1人死亡13人けが",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61387",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61387/20261019de61387_E0000085425_1_s.jpg",
+      "datePublished": "2026-10-19T19:18:00+09:00"
+    },
+    {
+      "name": "横浜市長選 原澤氏が初当選「信頼関係失わずよりよい横浜に」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de59772",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59772/20261015de59772_E0000085369_1_s.jpg",
+      "datePublished": "2026-10-19T17:26:49+09:00"
+    },
+    {
+      "name": "ごみ袋が大幅値上げ 4.5倍の1735円に いったいなぜ？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61378",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61378/20261019de61378_E0000085374_1_s.jpg",
+      "datePublished": "2026-10-19T11:21:00+09:00"
+    },
+    {
+      "name": "オーバードーズ 死亡ケースも多数 独自アンケートで見えた実態",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60683",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60683/20261016de60683_E0000081725_1_s.jpg",
+      "datePublished": "2026-10-19T11:27:27+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
