@@ -1,0 +1,168 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261019de61878",
+  "dataSourceId": "nd",
+  "name": "東・西日本で大気不安定に 台風30号の最新情報 確認を",
+  "headline": "東・西日本で大気不安定に 台風30号の最新情報 確認を",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261019de61878",
+    "playlistId": "news-nwa-disaster-nationwide-20261020",
+    "newsarticleName": "東・西日本で大気不安定に 台風30号の最新情報 確認を",
+    "playlistName": "10月20日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "前線が停滞する影響で、東日本と西日本を中心に大気の状態が非常に不安定になっていて、北陸で雨雲が発達しています。気象庁は低い土地の浸水や川の増水に警戒するとともに、落雷や竜巻などの激しい突風、ひょうに注",
+  "dateModified": "2026-10-20T06:23:04+09:00",
+  "datePublished": "2026-10-20T06:23:04+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61878/20261019de61878_E0000089060_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61878/20261019de61878_E0000089060_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000202",
+      "name": "台風",
+      "display": true
+    },
+    {
+      "id": "E0000000114",
+      "name": "気象",
+      "display": true
+    },
+    {
+      "id": "E0000000682",
+      "name": "気象庁",
+      "display": true
+    }
+  ],
+  "toc": [
+    {
+      "link": "#anchor-003",
+      "title": "大型で猛烈な台風30号 今後の進路は"
+    }
+  ],
+  "abstract": "前線が停滞する影響で、東日本と西日本を中心に大気の状態が非常に不安定になっていて、北陸で雨雲が発達しています。気象庁は低い土地の浸水や川の増水に警戒するとともに、落雷や竜巻などの激しい突風、ひょうに注",
+  "articleBody": "前線が停滞する影響で、東日本と西日本を中心に大気の状態が非常に不安定になっていて、北陸で雨雲が発達しています。気象庁は低い土地の浸水や川の増水に警戒するとともに、落雷や竜巻などの激しい突風、ひょうに注意するよう呼びかけています。\n\n\n東日本から西日本付近に停滞する前線に向かって暖かく湿った空気が流れ込んでいる影響で、大気の状態が非常に不安定になっていて、この時間、北陸で雨雲が発達しています。\n\n大気の非常に不安定な状態はこのあとも続き、北陸や新潟県、東海などでは局地的に、雷を伴って1時間に30ミリ以上の激しい雨が降る見込みです。\n\n気象庁は低い土地の浸水や川の増水に警戒するとともに、落雷や竜巻などの激しい突風、ひょうに注意するよう呼びかけています。\n\n大型で猛烈な台風30号 今後の進路は \n\n一方、大型で猛烈な台風30号は、20日午前3時にはフィリピンの東の海上を1時間に20キロの速さで西北西へ進んでいます。\n\n中心の気圧は935ヘクトパスカル、中心付近の最大風速は55メートル、最大瞬間風速は75メートルで、中心から半径150キロ以内では風速25メートル以上の暴風が吹いています。\n\n台風はこのあとも北西寄りに進み、23日から24日にかけて、非常に強い勢力で沖縄県の先島諸島に近づくと予想されています。\n\n沖縄県では21日から海上はうねりを伴って大しけとなり、風も強く吹く見込みです。\n\n台風が近づくと予想されている先島諸島では23日から24日にかけて暴風となるおそれがあります。\n\n気象庁は早めに備えを進めるよう呼びかけています。\n\nその後の進路の予報にはまだ幅があり、最新の情報を確認するようにしてください。\n",
+  "detailedArticleBody": {
+    "markedLead": "前線が停滞する影響で、東日本と西日本を中心に大気の状態が非常に不安定になっていて、北陸で雨雲が発達しています。気象庁は低い土地の浸水や川の増水に警戒するとともに、落雷や竜巻などの激しい突風、ひょうに注意するよう呼びかけています。\n",
+    "markedBody": "東日本から西日本付近に停滞する前線に向かって暖かく湿った空気が流れ込んでいる影響で、大気の状態が非常に不安定になっていて、この時間、北陸で雨雲が発達しています。\n\n大気の非常に不安定な状態はこのあとも続き、北陸や新潟県、東海などでは局地的に、雷を伴って1時間に30ミリ以上の激しい雨が降る見込みです。\n\n気象庁は低い土地の浸水や川の増水に警戒するとともに、落雷や竜巻などの激しい突風、ひょうに注意するよう呼びかけています。\n\n```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"002\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\n    <div class=\"fs-wrap\">\n      <h2 class=\"freespace-title\">雨雲レーダー</h2>\n\n      <a href=\"https://news.web.nhk/bousai-map/rain/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"tenkiBousaiMap-fullscreenBtn\">全画面でマップを見る</a>\n\n      <div class=\"tenkiBousaiMap-wrap\">\n        <iframe src=\"https://news.web.nhk/bousai-map/rain/?lat=36.3562&amp;lng=138.0922&amp;zoom=3.2&amp;mapMenu=off&amp;help=off&amp;hinan=off&amp;disableUserLocation=on\" allowfullscreen=\"allowfullscreen\" scrolling=\"no\" class=\"js-iframe-dataMap\"></iframe>\n      </div>\n    </div>\n</div>\n```\n\n## 大型で猛烈な台風30号 今後の進路は {id=anchor-003}\n\n![](https://img.web.nhk/news/nd/kiji/20261019de61878/20261019de61878_E0000089061_1_l.jpg)\n\n一方、大型で猛烈な台風30号は、20日午前3時にはフィリピンの東の海上を1時間に20キロの速さで西北西へ進んでいます。\n\n中心の気圧は935ヘクトパスカル、中心付近の最大風速は55メートル、最大瞬間風速は75メートルで、中心から半径150キロ以内では風速25メートル以上の暴風が吹いています。\n\n台風はこのあとも北西寄りに進み、23日から24日にかけて、非常に強い勢力で沖縄県の先島諸島に近づくと予想されています。\n\n沖縄県では21日から海上はうねりを伴って大しけとなり、風も強く吹く見込みです。\n\n台風が近づくと予想されている先島諸島では23日から24日にかけて暴風となるおそれがあります。\n\n気象庁は早めに備えを進めるよう呼びかけています。\n\nその後の進路の予報にはまだ幅があり、最新の情報を確認するようにしてください。\n\n```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"004\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\n    <div class=\"fs-wrap\">\n      <h2 class=\"freespace-title\">台風マップ</h2>\n\n      <a href=\"https://news.web.nhk/bousai-map/typhoon/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"tenkiBousaiMap-fullscreenBtn\">全画面でマップを見る</a>\n\n      <div class=\"tenkiBousaiMap-wrap\">\n        <iframe src=\"https://news.web.nhk/bousai-map/typhoon/?mapMenu=off&amp;help=off&amp;halfModal=off&amp;typhoonSelection=off&amp;disableUserLocation=on\" allowfullscreen=\"allowfullscreen\" scrolling=\"no\" class=\"js-iframe-dataMap\"></iframe>\n      </div>\n    </div>\n</div>\n```\n",
+    "noHtmlMarkedLead": "前線が停滞する影響で、東日本と西日本を中心に大気の状態が非常に不安定になっていて、北陸で雨雲が発達しています。気象庁は低い土地の浸水や川の増水に警戒するとともに、落雷や竜巻などの激しい突風、ひょうに注意するよう呼びかけています。\n",
+    "noHtmlMarkedBody": "東日本から西日本付近に停滞する前線に向かって暖かく湿った空気が流れ込んでいる影響で、大気の状態が非常に不安定になっていて、この時間、北陸で雨雲が発達しています。\n\n大気の非常に不安定な状態はこのあとも続き、北陸や新潟県、東海などでは局地的に、雷を伴って1時間に30ミリ以上の激しい雨が降る見込みです。\n\n気象庁は低い土地の浸水や川の増水に警戒するとともに、落雷や竜巻などの激しい突風、ひょうに注意するよう呼びかけています。\n\n## 大型で猛烈な台風30号 今後の進路は {id=anchor-003}\n\n![](https://img.web.nhk/news/nd/kiji/20261019de61878/20261019de61878_E0000089061_1_l.jpg)\n\n一方、大型で猛烈な台風30号は、20日午前3時にはフィリピンの東の海上を1時間に20キロの速さで西北西へ進んでいます。\n\n中心の気圧は935ヘクトパスカル、中心付近の最大風速は55メートル、最大瞬間風速は75メートルで、中心から半径150キロ以内では風速25メートル以上の暴風が吹いています。\n\n台風はこのあとも北西寄りに進み、23日から24日にかけて、非常に強い勢力で沖縄県の先島諸島に近づくと予想されています。\n\n沖縄県では21日から海上はうねりを伴って大しけとなり、風も強く吹く見込みです。\n\n台風が近づくと予想されている先島諸島では23日から24日にかけて暴風となるおそれがあります。\n\n気象庁は早めに備えを進めるよう呼びかけています。\n\nその後の進路の予報にはまだ幅があり、最新の情報を確認するようにしてください。\n",
+    "trimmedLead": "前線が停滞する影響で、東日本と西日本を中心に大気の状態が非常に不安定になっていて、北陸で雨雲が発達しています。気象庁は低い土地の浸水や川の増水に警戒するとともに、落雷や竜巻などの激しい突風、ひょうに注意するよう呼びかけています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261019de61878.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261019de61878",
+  "video": [],
+  "citation": [
+    {
+      "name": "火星衛星探査機「MMX」 火星へ向かう軌道に 打ち上げ成功",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61814",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61814/20261019de61814_E0000089057_1_s.jpg",
+      "datePublished": "2026-10-20T06:31:48+09:00"
+    },
+    {
+      "name": "不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261020de61888",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de61888/20261020de61888_E0000089020_1_s.jpg",
+      "datePublished": "2026-10-20T05:01:02+09:00"
+    },
+    {
+      "name": "食料品の消費税減税関連法案 きょう衆議院で審議入り ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61870",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61870/20261019de61870_E0000089012_1_s.jpg",
+      "datePublished": "2026-10-20T05:10:35+09:00"
+    },
+    {
+      "name": "ロシアによる記者拘束から1週間 政府「領事面会」強く求める",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61872",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61872/20261019de61872_E0000089015_1_s.jpg",
+      "datePublished": "2026-10-20T05:18:11+09:00"
+    },
+    {
+      "name": "米 中間選挙まで2週間 下院は民主党過半数うかがう 上院は接戦",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261020de61904",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de61904/20261020de61904_E0000089037_1_s.jpg",
+      "datePublished": "2026-10-20T05:37:38+09:00"
+    },
+    {
+      "name": "世界最大級ファンド「ブラックストーン」 日本に約6兆円投資へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61876",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61876/20261019de61876_E0000089018_1_s.jpg",
+      "datePublished": "2026-10-20T05:03:42+09:00"
+    },
+    {
+      "name": "上皇后さま 92歳の誕生日",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61822",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61822/20261019de61822_E0000088254_1_s.jpg",
+      "datePublished": "2026-10-20T00:00:50+09:00"
+    },
+    {
+      "name": "「ふるさとチョイス」で不正アクセス疑い 阪急阪神百貨店でも",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61442",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61442/20261019de61442_E0000087102_1_s.jpg",
+      "datePublished": "2026-10-19T19:23:00+09:00"
+    },
+    {
+      "name": "“簗氏 事務員報酬支払い”報道 大学教授が宇都宮地検に告発状",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61832",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61832/20261019de61832_E0000088273_1_s.jpg",
+      "datePublished": "2026-10-19T20:50:00+09:00"
+    },
+    {
+      "name": "台風30号急発達 猛烈な勢力に 沖縄は21日以降 大しけのおそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61331",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61331/20261019de61331_E0000088091_1_s.jpg",
+      "datePublished": "2026-10-19T19:25:29+09:00"
+    },
+    {
+      "name": "オーバードーズ 死亡ケースも多数 独自アンケートで見えた実態",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60683",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60683/20261016de60683_E0000081725_1_s.jpg",
+      "datePublished": "2026-10-19T11:27:27+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": true
+  }
+}
