@@ -1,0 +1,167 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261020de61888",
+  "dataSourceId": "nd",
+  "name": "不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社",
+  "headline": "不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261020de61888",
+    "playlistId": "news-nwa-business-nationwide-20261020",
+    "newsarticleName": "不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社",
+    "playlistName": "10月20日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "国内で相次いでいる不正アクセスの一部について、IT企業「GMOインターネットグループ」の情報セキュリティー専門の子会社は「調査したところ、中国系のAIが使われていたことを確認した」とする担当者の見解を",
+  "dateModified": "2026-10-20T05:01:02+09:00",
+  "datePublished": "2026-10-20T05:01:02+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de61888/20261020de61888_E0000089020_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de61888/20261020de61888_E0000089020_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000215",
+      "name": "中国",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "国内で相次いでいる不正アクセスの一部について、IT企業「GMOインターネットグループ」の情報セキュリティー専門の子会社は「調査したところ、中国系のAIが使われていたことを確認した」とする担当者の見解を",
+  "articleBody": "国内で相次いでいる不正アクセスの一部について、IT企業「GMOインターネットグループ」の情報セキュリティー専門の子会社は「調査したところ、中国系のAIが使われていたことを確認した」とする担当者の見解を明らかにしました。\n\n\nこれは「GMOインターネットグループ」の情報セキュリティー専門の子会社が自社のホームページ上で担当者の見解として明らかにしました。\n\nそれによりますと、日本企業を狙った不正アクセスの一部について、攻撃元を調査したところ、中国系のAIが使われていたことを確認したということです。\n\nこのAIは、先月下旬から発生した韓国の金融機関への不正アクセスで使われたと一部のメディアで報じられたものと同じだとしています。\n\n調査の中では、日本企業ばかりを狙った、AIを使った攻撃用の機器が6台確認され、小売りや物流、保険や金融などの業種を標的としていたということです。\n\n標的とされたことを確認した日本企業のうち8社は、先月から今月にかけて、情報漏えいに関する発表を行っていたということです。\n\n担当者は、ほかの国も攻撃の対象としているのかなど、今後も調査していくとしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "国内で相次いでいる不正アクセスの一部について、IT企業「GMOインターネットグループ」の情報セキュリティー専門の子会社は「調査したところ、中国系のAIが使われていたことを確認した」とする担当者の見解を明らかにしました。\n",
+    "markedBody": "これは「GMOインターネットグループ」の情報セキュリティー専門の子会社が自社のホームページ上で担当者の見解として明らかにしました。\n\nそれによりますと、日本企業を狙った不正アクセスの一部について、攻撃元を調査したところ、中国系のAIが使われていたことを確認したということです。\n\nこのAIは、先月下旬から発生した韓国の金融機関への不正アクセスで使われたと一部のメディアで報じられたものと同じだとしています。\n\n調査の中では、日本企業ばかりを狙った、AIを使った攻撃用の機器が6台確認され、小売りや物流、保険や金融などの業種を標的としていたということです。\n\n標的とされたことを確認した日本企業のうち8社は、先月から今月にかけて、情報漏えいに関する発表を行っていたということです。\n\n担当者は、ほかの国も攻撃の対象としているのかなど、今後も調査していくとしています。\n",
+    "trimmedLead": "国内で相次いでいる不正アクセスの一部について、IT企業「GMOインターネットグループ」の情報セキュリティー専門の子会社は「調査したところ、中国系のAIが使われていたことを確認した」とする担当者の見解を明らかにしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261020de61888.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261020de61888",
+  "video": [],
+  "citation": [
+    {
+      "name": "【速報中】火星衛星探査機「MMX」H3ロケットで打ち上げ 鹿児島",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61814",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61814/20261019de61814_E0000089029_1_s.jpg",
+      "datePublished": "2026-10-20T04:54:00+09:00"
+    },
+    {
+      "name": "「ふるさとチョイス」で不正アクセス疑い 阪急阪神百貨店でも",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61442",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61442/20261019de61442_E0000087102_1_s.jpg",
+      "datePublished": "2026-10-19T19:23:00+09:00"
+    },
+    {
+      "name": "上皇后さま 92歳の誕生日",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61822",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61822/20261019de61822_E0000088254_1_s.jpg",
+      "datePublished": "2026-10-20T00:00:50+09:00"
+    },
+    {
+      "name": "サッカー マンチェスターシティーの財務規則違反を認定",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61598",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61598/20261019de61598_E0000086345_1_s.jpg",
+      "datePublished": "2026-10-19T19:46:03+09:00"
+    },
+    {
+      "name": "高校無償化でも“私立は選べず”約3割 低所得世帯にNGO調査",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61526",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61526/20261019de61526_E0000087352_1_s.jpg",
+      "datePublished": "2026-10-19T19:27:00+09:00"
+    },
+    {
+      "name": "ストーカー加害者にGPS機器など検討へ 踏み込んだ対策の背景は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61517",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61517/20261019de61517_E0000086282_1_s.jpg",
+      "datePublished": "2026-10-19T19:48:20+09:00"
+    },
+    {
+      "name": "“簗氏 事務員報酬支払い”報道 大学教授が宇都宮地検に告発状",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61832",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61832/20261019de61832_E0000088273_1_s.jpg",
+      "datePublished": "2026-10-19T20:50:00+09:00"
+    },
+    {
+      "name": "阪神 佐藤輝明 大リーグ挑戦へ 球団がポスティング移籍容認",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61537",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61537/20261019de61537_E0000086244_1_s.jpg",
+      "datePublished": "2026-10-19T20:08:20+09:00"
+    },
+    {
+      "name": "台風30号急発達 猛烈な勢力に 沖縄は21日以降 大しけのおそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61331",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61331/20261019de61331_E0000088091_1_s.jpg",
+      "datePublished": "2026-10-19T19:25:29+09:00"
+    },
+    {
+      "name": "20日にかけ西日本と東日本を中心に大気不安定 激しい雨も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61334",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61334/20261019de61334_E0000086290_1_s.jpg",
+      "datePublished": "2026-10-19T19:21:05+09:00"
+    },
+    {
+      "name": "オーバードーズ 死亡ケースも多数 独自アンケートで見えた実態",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60683",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60683/20261016de60683_E0000081725_1_s.jpg",
+      "datePublished": "2026-10-19T11:27:27+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
