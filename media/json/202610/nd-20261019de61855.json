@@ -1,0 +1,162 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261019de61855",
+  "dataSourceId": "nd",
+  "name": "企業・自治体のメール配信会社に不正アクセス 900万件流出か",
+  "headline": "企業・自治体のメール配信会社に不正アクセス 900万件流出か",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261019de61855",
+    "playlistId": "news-nwa-business-nationwide-20261019",
+    "newsarticleName": "企業・自治体のメール配信会社に不正アクセス 900万件流出か",
+    "playlistName": "10月19日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "企業や自治体のメール配信サービスなどを手がける「ユミルリンク」は会社のシステムが不正なアクセスを受け、個人情報が外部に流出したと発表しました。\n流出した情報は、メールアドレスなどの個人情報を含むのべお",
+  "dateModified": "2026-10-19T22:39:13+09:00",
+  "datePublished": "2026-10-19T22:39:13+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61855/20261019de61855_E0000088985_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61855/20261019de61855_E0000088985_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "暮らし"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "企業や自治体のメール配信サービスなどを手がける「ユミルリンク」は会社のシステムが不正なアクセスを受け、個人情報が外部に流出したと発表しました。\n流出した情報は、メールアドレスなどの個人情報を含むのべお",
+  "articleBody": "企業や自治体のメール配信サービスなどを手がける「ユミルリンク」は会社のシステムが不正なアクセスを受け、個人情報が外部に流出したと発表しました。\n流出した情報は、メールアドレスなどの個人情報を含むのべおよそ900万件に上ると試算しています。\n\n\n企業や自治体のメールマガジンや安否確認メールなどの配信サービスを手がける「ユミルリンク」は一部のシステムが不正なアクセスを受け、個人情報が外部に流出したと19日、発表しました。\n\n今月16日に、不正アクセスがあったことが判明し、調べたところ会社のデータベースから情報が持ち出されたことが確認されたということです。\n\n流出した情報は、メールアドレスなどの個人情報を含むのべおよそ900万件に上ると試算しています。\n\n会社では不正アクセスが確認されたサーバーを直ちにネットワークから切り離すなどして被害の拡大防止を図るとともに流出した情報の詳細や影響範囲について引き続き調べるとしています。\n\n会社は、「みなさまに多大なご迷惑とご心配をおかけしますことを重ねて深くおわび申し上げます。新たな事実が判明した時点で、改めてご報告申し上げます」などとコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "企業や自治体のメール配信サービスなどを手がける「ユミルリンク」は会社のシステムが不正なアクセスを受け、個人情報が外部に流出したと発表しました。\\\n流出した情報は、メールアドレスなどの個人情報を含むのべおよそ900万件に上ると試算しています。\n",
+    "markedBody": "企業や自治体のメールマガジンや安否確認メールなどの配信サービスを手がける「ユミルリンク」は一部のシステムが不正なアクセスを受け、個人情報が外部に流出したと19日、発表しました。\n\n今月16日に、不正アクセスがあったことが判明し、調べたところ会社のデータベースから情報が持ち出されたことが確認されたということです。\n\n流出した情報は、メールアドレスなどの個人情報を含むのべおよそ900万件に上ると試算しています。\n\n会社では不正アクセスが確認されたサーバーを直ちにネットワークから切り離すなどして被害の拡大防止を図るとともに流出した情報の詳細や影響範囲について引き続き調べるとしています。\n\n会社は、「みなさまに多大なご迷惑とご心配をおかけしますことを重ねて深くおわび申し上げます。新たな事実が判明した時点で、改めてご報告申し上げます」などとコメントしています。\n",
+    "trimmedLead": "企業や自治体のメール配信サービスなどを手がける「ユミルリンク」は会社のシステムが不正なアクセスを受け、個人情報が外部に流出したと発表しました。\n流出した情報は、メールアドレスなどの個人情報を含むのべおよそ900万件に上ると試算しています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261019de61855.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261019de61855",
+  "video": [],
+  "citation": [
+    {
+      "name": "「ふるさとチョイス」で不正アクセス疑い 阪急阪神百貨店でも",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61442",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61442/20261019de61442_E0000087102_1_s.jpg",
+      "datePublished": "2026-10-19T19:23:00+09:00"
+    },
+    {
+      "name": "日本郵政 ポイントサイトに不正ログイン 他社の流出情報利用か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61849",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61849/20261019de61849_E0000088955_1_s.jpg",
+      "datePublished": "2026-10-19T21:52:31+09:00"
+    },
+    {
+      "name": "サッカー マンチェスターシティーの財務規則違反を認定",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61598",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61598/20261019de61598_E0000086345_1_s.jpg",
+      "datePublished": "2026-10-19T19:46:03+09:00"
+    },
+    {
+      "name": "高校無償化でも“私立は選べず”約3割 低所得世帯にNGO調査",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61526",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61526/20261019de61526_E0000087352_1_s.jpg",
+      "datePublished": "2026-10-19T19:27:00+09:00"
+    },
+    {
+      "name": "ストーカー加害者にGPS機器など検討へ 踏み込んだ対策の背景は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61517",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61517/20261019de61517_E0000086282_1_s.jpg",
+      "datePublished": "2026-10-19T19:48:20+09:00"
+    },
+    {
+      "name": "“簗氏 事務員報酬支払い”報道 大学教授が宇都宮地検に告発状",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61832",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61832/20261019de61832_E0000088273_1_s.jpg",
+      "datePublished": "2026-10-19T20:50:00+09:00"
+    },
+    {
+      "name": "阪神 佐藤輝明 大リーグ挑戦へ 球団がポスティング移籍容認",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61537",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61537/20261019de61537_E0000086244_1_s.jpg",
+      "datePublished": "2026-10-19T20:08:20+09:00"
+    },
+    {
+      "name": "台風30号急発達 猛烈な勢力に 沖縄は21日以降 大しけのおそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61331",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61331/20261019de61331_E0000088091_1_s.jpg",
+      "datePublished": "2026-10-19T19:25:29+09:00"
+    },
+    {
+      "name": "20日にかけ西日本と東日本を中心に大気不安定 激しい雨も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61334",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61334/20261019de61334_E0000086290_1_s.jpg",
+      "datePublished": "2026-10-19T19:21:05+09:00"
+    },
+    {
+      "name": "神奈川 藤沢 乗用車がバスなど次々に衝突1人死亡13人けが",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61387",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61387/20261019de61387_E0000085425_1_s.jpg",
+      "datePublished": "2026-10-19T19:18:00+09:00"
+    },
+    {
+      "name": "オーバードーズ 死亡ケースも多数 独自アンケートで見えた実態",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60683",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60683/20261016de60683_E0000081725_1_s.jpg",
+      "datePublished": "2026-10-19T11:27:27+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
