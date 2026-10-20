@@ -1,0 +1,183 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261020de62347",
+  "dataSourceId": "nd",
+  "name": "自動運転トラック 一般道で初成功 来年1月の商用運行目指す",
+  "headline": "自動運転トラック 一般道で初成功 来年1月の商用運行目指す",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261020de62347",
+    "playlistId": "news-nwa-business-nationwide-20261020",
+    "newsarticleName": "自動運転トラック 一般道で初成功 来年1月の商用運行目指す",
+    "playlistName": "10月20日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "自動運転トラックの実用化に向けて、高速道路だけでなく、国内で初めて一般道の一部区間での自動運転にシステム開発会社が成功したことが分かりました。この会社では来年1月から商用運行の開始を目指す方針です。\n",
+  "dateModified": "2026-10-20T17:50:00+09:00",
+  "datePublished": "2026-10-20T17:50:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de62347/20261020de62347_E0000090532_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de62347/20261020de62347_E0000090532_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000709",
+      "name": "物流",
+      "display": true
+    },
+    {
+      "id": "E0000000471",
+      "name": "自動車",
+      "display": true
+    },
+    {
+      "id": "E0000000651",
+      "name": "交通・インフラ",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "自動運転トラックの実用化に向けて、高速道路だけでなく、国内で初めて一般道の一部区間での自動運転にシステム開発会社が成功したことが分かりました。この会社では来年1月から商用運行の開始を目指す方針です。\n",
+  "articleBody": "自動運転トラックの実用化に向けて、高速道路だけでなく、国内で初めて一般道の一部区間での自動運転にシステム開発会社が成功したことが分かりました。この会社では来年1月から商用運行の開始を目指す方針です。\n\n\n国は物流の人手不足対策として、自動運転トラックによる幹線輸送の実用化を目指しています。\n\nこうした中、自動運転システムの開発を手がける企業「T2」が、高速道路だけでなく、国内で初めて一般道の一部区間での自動運転に成功しました。\n\n会社によりますと、今回の実験では、ドライバーが乗車した上でハンドルから手を放す「レベル2」の自動運転の大型トラックが▽神奈川県で一般道から料金所を通って東名高速道路に入る区間と、▽兵庫県では逆に中国自動車道から料金所を通って一般道に降りる区間の走行に成功したということです。\n\nこのうち走行した一般道は、自動運転に切り替えるための専用拠点と料金所との区間で、料金所をスムーズに通過する技術や、歩行者などとの安全な距離を確保しながら走行する技術などを実証したということです。\n\n会社では、高速道路に一般道をあわせた区間で来年1月から商用運行の開始を目指す方針で、物流での自動運転の活用が一段と広がるかが焦点です。\n",
+  "detailedArticleBody": {
+    "markedLead": "自動運転トラックの実用化に向けて、高速道路だけでなく、国内で初めて一般道の一部区間での自動運転にシステム開発会社が成功したことが分かりました。この会社では来年1月から商用運行の開始を目指す方針です。\n",
+    "markedBody": "国は物流の人手不足対策として、自動運転トラックによる幹線輸送の実用化を目指しています。\n\nこうした中、自動運転システムの開発を手がける企業「T2」が、高速道路だけでなく、国内で初めて一般道の一部区間での自動運転に成功しました。\n\n![](https://img.web.nhk/news/nd/kiji/20261020de62347/20261020de62347_E0000090531_1_l.jpg)\n\n会社によりますと、今回の実験では、ドライバーが乗車した上でハンドルから手を放す「レベル2」の自動運転の大型トラックが▽神奈川県で一般道から料金所を通って東名高速道路に入る区間と、▽兵庫県では逆に中国自動車道から料金所を通って一般道に降りる区間の走行に成功したということです。\n\nこのうち走行した一般道は、自動運転に切り替えるための専用拠点と料金所との区間で、料金所をスムーズに通過する技術や、歩行者などとの安全な距離を確保しながら走行する技術などを実証したということです。\n\n会社では、高速道路に一般道をあわせた区間で来年1月から商用運行の開始を目指す方針で、物流での自動運転の活用が一段と広がるかが焦点です。\n",
+    "trimmedLead": "自動運転トラックの実用化に向けて、高速道路だけでなく、国内で初めて一般道の一部区間での自動運転にシステム開発会社が成功したことが分かりました。この会社では来年1月から商用運行の開始を目指す方針です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261020de62347.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261020de62347",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "自動運転トラック 一般道で初成功 来年1月の商用運行目指す",
+      "description": "自動運転トラックの実用化に向けて、高速道路だけでなく、国内で初めて一般道の一部区間での自動運転にシステム開発会社が成功したことが分かりました。この会社では来年1月から商用運行の開始を目指す方針です。\n",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261020de62347_E0000090562_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261020de62347/20261020de62347_E0000090532_1_l.jpg",
+      "duration": "PT1M25S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261020de62347_E0000090562_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de62347/20261020de62347_E0000090532_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "無人の自動運転タクシー 日本でサービス開始の計画",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260915de50316",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260915de50316/20260915de50316_E0000030257_1_s.jpg",
+      "datePublished": "2026-09-15T14:11:00+09:00"
+    },
+    {
+      "name": "JR東日本が新しいQRコード決済開始 なぜ鉄道会社が？【Q＆A】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261020de62102",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de62102/20261020de62102_E0000091243_1_s.jpg",
+      "datePublished": "2026-10-20T17:47:00+09:00"
+    },
+    {
+      "name": "盛岡 東北道で車6台絡む事故 1台が炎上 1人死亡",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261020de61903",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de61903/20261020de61903_E0000089479_1_s.jpg",
+      "datePublished": "2026-10-20T05:09:00+09:00"
+    },
+    {
+      "name": "台風30号 沖縄の先島諸島に23日から接近へ 西日本に影響可能性",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261020de61985",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de61985/20261020de61985_E0000090344_1_s.jpg",
+      "datePublished": "2026-10-20T18:04:19+09:00"
+    },
+    {
+      "name": "火星衛星探査機「MMX」 火星へ向かう軌道に 打ち上げ成功",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61814",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61814/20261019de61814_E0000089509_1_s.jpg",
+      "datePublished": "2026-10-20T17:46:19+09:00"
+    },
+    {
+      "name": "栃木 日光 山中で作業員が背後からクマに襲われけが",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261020de62265",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de62265/20261020de62265_E0000090454_1_s.jpg",
+      "datePublished": "2026-10-20T17:21:38+09:00"
+    },
+    {
+      "name": "不正な口座開設防止へICチップ確認 金融機関で前倒しの動き",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261020de61966",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de61966/20261020de61966_E0000003783_1_s.jpg",
+      "datePublished": "2026-10-20T10:48:00+09:00"
+    },
+    {
+      "name": "不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261020de61888",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de61888/20261020de61888_E0000089020_1_s.jpg",
+      "datePublished": "2026-10-20T07:48:38+09:00"
+    },
+    {
+      "name": "企業・自治体のメール配信会社に不正アクセス 900万件流出か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61855",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61855/20261019de61855_E0000088985_1_s.jpg",
+      "datePublished": "2026-10-19T22:39:13+09:00"
+    },
+    {
+      "name": "世界最大級ファンド「ブラックストーン」 日本に約6兆円投資へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61876",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61876/20261019de61876_E0000089018_1_s.jpg",
+      "datePublished": "2026-10-20T05:03:42+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

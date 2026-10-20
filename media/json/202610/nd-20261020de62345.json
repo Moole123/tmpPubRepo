@@ -1,0 +1,151 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261020de62345",
+  "dataSourceId": "nd",
+  "name": "木原長官“サイバー攻撃実態解明努める”中国系AI使用見解受け",
+  "headline": "木原長官“サイバー攻撃実態解明努める”中国系AI使用見解受け",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261020de62345",
+    "playlistId": "news-nwa-politics-nationwide-20261020",
+    "newsarticleName": "木原長官“サイバー攻撃実態解明努める”中国系AI使用見解受け",
+    "playlistName": "10月20日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "国内で相次いでいる不正アクセスの一部で中国系のAIが使われたとする見解が公表されたことに関連し、木原官房長官は、外国による関与の可能性を含め、政府としてサイバー攻撃の実態解明に努めていくと説明しました",
+  "dateModified": "2026-10-20T18:11:29+09:00",
+  "datePublished": "2026-10-20T18:11:29+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de62345/20261020de62345_E0000090538_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de62345/20261020de62345_E0000090538_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "国内で相次いでいる不正アクセスの一部で中国系のAIが使われたとする見解が公表されたことに関連し、木原官房長官は、外国による関与の可能性を含め、政府としてサイバー攻撃の実態解明に努めていくと説明しました",
+  "articleBody": "国内で相次いでいる不正アクセスの一部で中国系のAIが使われたとする見解が公表されたことに関連し、木原官房長官は、外国による関与の可能性を含め、政府としてサイバー攻撃の実態解明に努めていくと説明しました。\n\n\nIT企業「GMOインターネットグループ」の情報セキュリティー専門の子会社は、国内で相次いでいる不正アクセスの一部について「調査したところ、中国系のAIが使われていたことを確認した」とする担当者の見解を自社のホームページ上で公表しました。\n\n木原官房長官は、午後の記者会見で「公表があったことは承知している。政府としては国家サイバー統括室が司令塔となり、情報収集に加え、被害企業から直接ヒアリングを行っている」と述べました。\n\nその上で「攻撃者の特定をいま、行っている。AIが悪用されている可能性やそれぞれの事案の背景、相互の関連性について詳細な分析を進めているが、現時点で確たることを申し上げる段階にはない。外国の主体による関与の可能性も含めて、サイバー攻撃の主体や攻撃元の実態解明に努めていく」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "国内で相次いでいる不正アクセスの一部で中国系のAIが使われたとする見解が公表されたことに関連し、木原官房長官は、外国による関与の可能性を含め、政府としてサイバー攻撃の実態解明に努めていくと説明しました。\n",
+    "markedBody": "IT企業「GMOインターネットグループ」の情報セキュリティー専門の子会社は、国内で相次いでいる不正アクセスの一部について「調査したところ、中国系のAIが使われていたことを確認した」とする担当者の見解を自社のホームページ上で公表しました。\n\n木原官房長官は、午後の記者会見で「公表があったことは承知している。政府としては国家サイバー統括室が司令塔となり、情報収集に加え、被害企業から直接ヒアリングを行っている」と述べました。\n\nその上で「攻撃者の特定をいま、行っている。AIが悪用されている可能性やそれぞれの事案の背景、相互の関連性について詳細な分析を進めているが、現時点で確たることを申し上げる段階にはない。外国の主体による関与の可能性も含めて、サイバー攻撃の主体や攻撃元の実態解明に努めていく」と述べました。\n",
+    "trimmedLead": "国内で相次いでいる不正アクセスの一部で中国系のAIが使われたとする見解が公表されたことに関連し、木原官房長官は、外国による関与の可能性を含め、政府としてサイバー攻撃の実態解明に努めていくと説明しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261020de62345.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261020de62345",
+  "video": [],
+  "citation": [
+    {
+      "name": "北日本から西日本 あすにかけ局地的に雷伴う激しい雨の見込み",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61878",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61878/20261019de61878_E0000089574_1_s.jpg",
+      "datePublished": "2026-10-20T11:56:00+09:00"
+    },
+    {
+      "name": "台風30号 沖縄の先島諸島に23日から接近へ 西日本に影響可能性",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261020de61985",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de61985/20261020de61985_E0000090344_1_s.jpg",
+      "datePublished": "2026-10-20T18:04:19+09:00"
+    },
+    {
+      "name": "東大の総長選めぐり 文部科学省が選考経緯の検証を要請",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261020de62095",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de62095/20261020de62095_E0000089919_1_s.jpg",
+      "datePublished": "2026-10-20T12:37:04+09:00"
+    },
+    {
+      "name": "大阪地裁前で男性刺される 逮捕の容疑者 金銭に関する不満か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261020de61997",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de61997/20261020de61997_E0000089521_1_s.jpg",
+      "datePublished": "2026-10-20T17:59:47+09:00"
+    },
+    {
+      "name": "火星衛星探査機「MMX」 火星へ向かう軌道に 打ち上げ成功",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61814",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61814/20261019de61814_E0000089509_1_s.jpg",
+      "datePublished": "2026-10-20T17:46:19+09:00"
+    },
+    {
+      "name": "食料品の消費税減税関連法案 衆議院で審議入り ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61870",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61870/20261019de61870_E0000089012_1_s.jpg",
+      "datePublished": "2026-10-20T13:03:00+09:00"
+    },
+    {
+      "name": "トランプ大統領と距離置く共和党の候補相次ぐ いったいなぜ？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61784",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61784/20261019de61784_E0000089157_1_s.jpg",
+      "datePublished": "2026-10-20T07:24:17+09:00"
+    },
+    {
+      "name": "世界最大級ファンド「ブラックストーン」 日本に約6兆円投資へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61876",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61876/20261019de61876_E0000089018_1_s.jpg",
+      "datePublished": "2026-10-20T05:03:42+09:00"
+    },
+    {
+      "name": "「声を上げ続けて」 500日拘束された記者が語るロシアの実態",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261018de61271",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261018de61271/20261018de61271_E0000084938_1_s.jpg",
+      "datePublished": "2026-10-20T07:25:58+09:00"
+    },
+    {
+      "name": "オーバードーズ 死亡ケースも多数 独自アンケートで見えた実態",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60683",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60683/20261016de60683_E0000081725_1_s.jpg",
+      "datePublished": "2026-10-19T11:27:27+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
