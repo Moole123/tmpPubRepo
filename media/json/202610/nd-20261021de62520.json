@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261021de62520",
+  "dataSourceId": "nd",
+  "name": "岩井コスモ証券 不正アクセスで顧客が意図しない売買注文",
+  "headline": "岩井コスモ証券 不正アクセスで顧客が意図しない売買注文",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261021de62520",
+    "playlistId": "news-nwa-business-nationwide-20261021",
+    "newsarticleName": "岩井コスモ証券 不正アクセスで顧客が意図しない売買注文",
+    "playlistName": "10月21日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "「岩井コスモ証券」は売買管理システムへの不正アクセスによって7つの口座で顧客が意図しない売買注文が発注されたことを確認したと発表しました。\n\n会社では、取引前の状態に戻す措置を完了し、顧客の負担は生じ",
+  "dateModified": "2026-10-21T00:26:19+09:00",
+  "datePublished": "2026-10-21T00:26:19+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62520/20261021de62520_E0000093096_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62520/20261021de62520_E0000093096_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000477",
+      "name": "金融",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "「岩井コスモ証券」は売買管理システムへの不正アクセスによって7つの口座で顧客が意図しない売買注文が発注されたことを確認したと発表しました。\n\n会社では、取引前の状態に戻す措置を完了し、顧客の負担は生じ",
+  "articleBody": "「岩井コスモ証券」は売買管理システムへの不正アクセスによって7つの口座で顧客が意図しない売買注文が発注されたことを確認したと発表しました。\n\n会社では、取引前の状態に戻す措置を完了し、顧客の負担は生じていないとしています。\n\n\n「岩井コスモ証券」の発表によりますと、今月14日、売買管理システムへの不正アクセスがあったということです。\n\n7つの口座で顧客が意図しない株の売買注文が発注され、このうち5つの口座で不正な取り引きが成立したことを確認したとしています。\n\n対象の顧客には個別に連絡を行い、すでに取引前の状態に戻す措置を完了しているため、顧客の負担は生じていないとしています。\n\n「岩井コスモ証券」をめぐっては、インターネット取引のシステムの運用などを委託している会社のシステムが不正アクセスを受けたことをすでに公表していて、20日までに4970人あまりの氏名やメールアドレスなどの個人情報が漏えいしたことが判明したとしています。\n\nただ、今回の不正取引は漏えいした個人情報が利用されたものではないということです。\n\n会社では、不正アクセスの原因となった箇所の特定と修正は完了したとしていて、「監視と点検を続けるとともにセキュリティー管理体制の強化と再発防止に取り組み、新たに判明した事実は速やかにお知らせします」とコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "「岩井コスモ証券」は売買管理システムへの不正アクセスによって7つの口座で顧客が意図しない売買注文が発注されたことを確認したと発表しました。\n\n会社では、取引前の状態に戻す措置を完了し、顧客の負担は生じていないとしています。\n",
+    "markedBody": "「岩井コスモ証券」の発表によりますと、今月14日、売買管理システムへの不正アクセスがあったということです。\n\n7つの口座で顧客が意図しない株の売買注文が発注され、このうち5つの口座で不正な取り引きが成立したことを確認したとしています。\n\n対象の顧客には個別に連絡を行い、すでに取引前の状態に戻す措置を完了しているため、顧客の負担は生じていないとしています。\n\n「岩井コスモ証券」をめぐっては、インターネット取引のシステムの運用などを委託している会社のシステムが不正アクセスを受けたことをすでに公表していて、20日までに4970人あまりの氏名やメールアドレスなどの個人情報が漏えいしたことが判明したとしています。\n\nただ、今回の不正取引は漏えいした個人情報が利用されたものではないということです。\n\n会社では、不正アクセスの原因となった箇所の特定と修正は完了したとしていて、「監視と点検を続けるとともにセキュリティー管理体制の強化と再発防止に取り組み、新たに判明した事実は速やかにお知らせします」とコメントしています。\n",
+    "trimmedLead": "「岩井コスモ証券」は売買管理システムへの不正アクセスによって7つの口座で顧客が意図しない売買注文が発注されたことを確認したと発表しました。\n\n会社では、取引前の状態に戻す措置を完了し、顧客の負担は生じていないとしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261021de62520.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261021de62520",
+  "video": [],
+  "citation": [
+    {
+      "name": "あす北～西日本で激しい雨か 北日本は荒天に 季節外れの暑さも",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61878",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61878/20261019de61878_E0000091650_1_s.jpg",
+      "datePublished": "2026-10-20T19:08:00+09:00"
+    },
+    {
+      "name": "新名神高速6人死亡事故 被告に拘禁刑7年の判決 津地裁",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261020de61968",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de61968/20261020de61968_E0000089508_1_s.jpg",
+      "datePublished": "2026-10-20T19:51:00+09:00"
+    },
+    {
+      "name": "ふるさとチョイス 445万件の個人情報流出を発表",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261020de62437",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de62437/20261020de62437_E0000092163_1_s.jpg",
+      "datePublished": "2026-10-20T20:18:53+09:00"
+    },
+    {
+      "name": "探査機「MMX」 火星へ向かう軌道に 衛星「フォボス」探査へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61814",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61814/20261019de61814_E0000089509_1_s.jpg",
+      "datePublished": "2026-10-20T20:04:00+09:00"
+    },
+    {
+      "name": "台風30号 先島諸島に23日から接近見込み 西日本に影響可能性も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261020de61985",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de61985/20261020de61985_E0000093050_1_s.jpg",
+      "datePublished": "2026-10-20T22:17:00+09:00"
+    },
+    {
+      "name": "食料品の消費税減税関連法案 首相“法案の早期成立目指す”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261020de61967",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de61967/20261020de61967_E0000090199_1_s.jpg",
+      "datePublished": "2026-10-20T17:49:00+09:00"
+    },
+    {
+      "name": "東大の総長選めぐり 文部科学省が選考経緯の検証を要請",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261020de62095",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de62095/20261020de62095_E0000089919_1_s.jpg",
+      "datePublished": "2026-10-20T12:37:04+09:00"
+    },
+    {
+      "name": "大阪地裁前で男性刺される 逮捕の容疑者 金銭に関する不満か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261020de61997",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de61997/20261020de61997_E0000089519_1_s.jpg",
+      "datePublished": "2026-10-20T17:59:00+09:00"
+    },
+    {
+      "name": "「声を上げ続けて」 500日拘束された記者が語るロシアの実態",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261018de61271",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261018de61271/20261018de61271_E0000084938_1_s.jpg",
+      "datePublished": "2026-10-20T07:25:58+09:00"
+    },
+    {
+      "name": "オーバードーズ 死亡ケースも多数 独自アンケートで見えた実態",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60683",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60683/20261016de60683_E0000081725_1_s.jpg",
+      "datePublished": "2026-10-19T11:27:27+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
