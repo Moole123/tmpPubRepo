@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261020de61985",
+  "dataSourceId": "nd",
+  "name": "【台風情報】台風30号 23日から沖縄の先島諸島に接近見込み その後進路を北寄りに変える可能性も",
+  "headline": "台風30号 23日から沖縄の先島諸島に接近見込み 最新情報確認を",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261020de61985",
+    "playlistId": "news-nwa-disaster-nationwide-20261020",
+    "newsarticleName": "【台風情報】台風30号 23日から沖縄の先島諸島に接近見込み その後進路を北寄りに変える可能性も",
+    "playlistName": "10月20日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "大型で非常に強い台風30号は、今月23日から24日にかけて沖縄県の先島諸島に接近する見込みです。沖縄県では21日から海上は大しけとなり、風も次第に強まる見込みで、気象庁は早めに備えを進めるよう呼びかけ",
+  "dateModified": "2026-10-20T11:53:18+09:00",
+  "datePublished": "2026-10-20T11:53:18+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de61985/20261020de61985_E0000089474_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de61985/20261020de61985_E0000089474_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000202",
+      "name": "台風",
+      "display": true
+    },
+    {
+      "id": "E0000000114",
+      "name": "気象",
+      "display": true
+    },
+    {
+      "id": "E0000000375",
+      "name": "沖縄県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "大型で非常に強い台風30号は、今月23日から24日にかけて沖縄県の先島諸島に接近する見込みです。沖縄県では21日から海上は大しけとなり、風も次第に強まる見込みで、気象庁は早めに備えを進めるよう呼びかけ",
+  "articleBody": "大型で非常に強い台風30号は、今月23日から24日にかけて沖縄県の先島諸島に接近する見込みです。沖縄県では21日から海上は大しけとなり、風も次第に強まる見込みで、気象庁は早めに備えを進めるよう呼びかけています。\n\n\n大型で非常に強い台風30号は、20日午前9時にはフィリピンの東の海上を1時間に20キロの速さで西北西へ進んでいます。\n\n中心の気圧は945ヘクトパスカル、中心付近の最大風速は50メートル、最大瞬間風速は70メートルで、中心から半径165キロ以内では風速25メートル以上の暴風が吹いています。\n\n台風はこのあとも北西寄りに進み、今月23日から24日にかけて非常に強い勢力で沖縄県の先島諸島に接近する見込みです。\n\n海上は次第にうねりを伴って波が高くなり、先島諸島では21日から、沖縄本島地方と大東島地方では22日から大しけとなる見込みです。\n\n台風と大陸にある高気圧との間で気圧の傾きが大きくなり、沖縄県では21日から風が強まる見込みで、特に先島諸島では今月23日から24日にかけて暴風となる見込みです。\n\n気象庁は風が強まる前に早めに備えを進めるよう呼びかけています。\n\nその後の予報にはまだ幅がありますが、進路を北寄りに変える可能性もあり、最新の情報を確認するようにしてください。\n\nNHK ONEニュース・防災アプリ\n\nNHK ONEニュース・防災アプリ\n大雨や台風の最新情報はニュース・防災アプリでも\n",
+  "detailedArticleBody": {
+    "markedLead": "大型で非常に強い台風30号は、今月23日から24日にかけて沖縄県の先島諸島に接近する見込みです。沖縄県では21日から海上は大しけとなり、風も次第に強まる見込みで、気象庁は早めに備えを進めるよう呼びかけています。\n",
+    "markedBody": "```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"001\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\n    <div class=\"fs-wrap\">\n      <h2 class=\"freespace-title\">台風マップ</h2>\n\n      <a href=\"https://news.web.nhk/bousai-map/typhoon/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"tenkiBousaiMap-fullscreenBtn\">全画面でマップを見る</a>\n\n      <div class=\"tenkiBousaiMap-wrap\">\n        <iframe src=\"https://news.web.nhk/bousai-map/typhoon/?mapMenu=off&amp;help=off&amp;halfModal=off&amp;typhoonSelection=off&amp;disableUserLocation=on\" allowfullscreen=\"allowfullscreen\" scrolling=\"no\" class=\"js-iframe-dataMap\"></iframe>\n      </div>\n    </div>\n</div>\n```\n\n大型で非常に強い台風30号は、20日午前9時にはフィリピンの東の海上を1時間に20キロの速さで西北西へ進んでいます。\n\n中心の気圧は945ヘクトパスカル、中心付近の最大風速は50メートル、最大瞬間風速は70メートルで、中心から半径165キロ以内では風速25メートル以上の暴風が吹いています。\n\n台風はこのあとも北西寄りに進み、今月23日から24日にかけて非常に強い勢力で沖縄県の先島諸島に接近する見込みです。\n\n海上は次第にうねりを伴って波が高くなり、先島諸島では21日から、沖縄本島地方と大東島地方では22日から大しけとなる見込みです。\n\n台風と大陸にある高気圧との間で気圧の傾きが大きくなり、沖縄県では21日から風が強まる見込みで、特に先島諸島では今月23日から24日にかけて暴風となる見込みです。\n\n気象庁は風が強まる前に早めに備えを進めるよう呼びかけています。\n\nその後の予報にはまだ幅がありますが、進路を北寄りに変える可能性もあり、最新の情報を確認するようにしてください。\n\n:::nw--link-type4 {href=https://www.nhk.or.jp/nhkone/service/app/news_bousai/}\n![NHK ONEニュース・防災アプリ](https://img.web.nhk/news/nd/kiji/20261020de61985/20261020de61985_E0000003923_1_l.jpg)\n\n**NHK ONEニュース・防災アプリ**\\\n大雨や台風の最新情報はニュース・防災アプリでも\n:::\n",
+    "noHtmlMarkedLead": "大型で非常に強い台風30号は、今月23日から24日にかけて沖縄県の先島諸島に接近する見込みです。沖縄県では21日から海上は大しけとなり、風も次第に強まる見込みで、気象庁は早めに備えを進めるよう呼びかけています。\n",
+    "noHtmlMarkedBody": "大型で非常に強い台風30号は、20日午前9時にはフィリピンの東の海上を1時間に20キロの速さで西北西へ進んでいます。\n\n中心の気圧は945ヘクトパスカル、中心付近の最大風速は50メートル、最大瞬間風速は70メートルで、中心から半径165キロ以内では風速25メートル以上の暴風が吹いています。\n\n台風はこのあとも北西寄りに進み、今月23日から24日にかけて非常に強い勢力で沖縄県の先島諸島に接近する見込みです。\n\n海上は次第にうねりを伴って波が高くなり、先島諸島では21日から、沖縄本島地方と大東島地方では22日から大しけとなる見込みです。\n\n台風と大陸にある高気圧との間で気圧の傾きが大きくなり、沖縄県では21日から風が強まる見込みで、特に先島諸島では今月23日から24日にかけて暴風となる見込みです。\n\n気象庁は風が強まる前に早めに備えを進めるよう呼びかけています。\n\nその後の予報にはまだ幅がありますが、進路を北寄りに変える可能性もあり、最新の情報を確認するようにしてください。\n\n:::nw--link-type4 {href=https://www.nhk.or.jp/nhkone/service/app/news_bousai/}\n![NHK ONEニュース・防災アプリ](https://img.web.nhk/news/nd/kiji/20261020de61985/20261020de61985_E0000003923_1_l.jpg)\n\n**NHK ONEニュース・防災アプリ**\\\n大雨や台風の最新情報はニュース・防災アプリでも\n:::\n",
+    "trimmedLead": "大型で非常に強い台風30号は、今月23日から24日にかけて沖縄県の先島諸島に接近する見込みです。沖縄県では21日から海上は大しけとなり、風も次第に強まる見込みで、気象庁は早めに備えを進めるよう呼びかけています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261020de61985.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261020de61985",
+  "video": [],
+  "citation": [
+    {
+      "name": "北日本から西日本 あすにかけ局地的に雷伴う激しい雨の見込み",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61878",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61878/20261019de61878_E0000089574_1_s.jpg",
+      "datePublished": "2026-10-20T11:56:38+09:00"
+    },
+    {
+      "name": "【最新の台風情報】予想進路や勢力などを詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/typhoon/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00002_E0000003277_1_s.jpg"
+    },
+    {
+      "name": "台風マップ 予想進路や勢力をリアルタイム表示",
+      "url": "https://news.web.nhk/bousai-map/typhoon/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00357_E0000003388_1_s.jpg"
+    },
+    {
+      "name": "新たな防災気象情報と避難 いつ避難する？",
+      "url": "https://news.web.nhk/newsweb/na/nc-73478668-2271-4d37-85e6-639be6f2927c",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00031_E0000003429_1_s.jpg"
+    },
+    {
+      "name": "台風接近前にやっておきたい備え「タイムライン」で",
+      "url": "https://news.web.nhk/newsweb/na/nc-cc4a20bc-9976-493f-a087-23512046b7d3",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00053_E0000002559_1_s.jpg"
+    },
+    {
+      "name": "台風や低気圧による「暴風」注意点と対策は",
+      "url": "https://news.web.nhk/newsweb/na/nc-ed932a80-8b04-49af-b4e8-2e364a35b909",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00040_E0000001749_1_s.jpg"
+    },
+    {
+      "name": "伊勢湾台風とは？犠牲者5000人超「暴走木材」が街を襲った",
+      "url": "https://news.web.nhk/newsweb/na/nc-eb22b635-e86a-4563-8a47-77db97cbcfe6",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00061_E0000002663_1_s.jpg"
+    },
+    {
+      "name": "天気防災サイト あなたの街の天気予報や災害情報を即時提供",
+      "url": "https://news.web.nhk/kishou-saigai/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00367_E0000003399_1_s.jpg"
+    },
+    {
+      "name": "オーバードーズ 死亡ケースも多数 独自アンケートで見えた実態",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60683",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60683/20261016de60683_E0000081725_1_s.jpg",
+      "datePublished": "2026-10-19T11:27:27+09:00"
+    },
+    {
+      "name": "「声を上げ続けて」 500日拘束された記者が語るロシアの実態",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261018de61271",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261018de61271/20261018de61271_E0000084938_1_s.jpg",
+      "datePublished": "2026-10-20T07:25:58+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": true
+  }
+}
