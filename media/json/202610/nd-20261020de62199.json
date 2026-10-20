@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261020de62199",
+  "dataSourceId": "nd",
+  "name": "10月分の政党交付金を交付 中道は5億8000万円余 総務省",
+  "headline": "10月分の政党交付金を交付 中道は5億8000万円余 総務省",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261020de62199",
+    "playlistId": "news-nwa-politics-nationwide-20261020",
+    "newsarticleName": "10月分の政党交付金を交付 中道は5億8000万円余 総務省",
+    "playlistName": "10月20日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "総務省は、ことし10月分の政党交付金を20日、交付し、このうち、議員1人を残して党を存続させた中道改革連合には5億8000万円あまりが交付されました。\n\n\n総務省は、政党交付金を年4回に分けて交付して",
+  "dateModified": "2026-10-20T16:24:14+09:00",
+  "datePublished": "2026-10-20T16:24:14+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de62199/20261020de62199_E0000090351_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de62199/20261020de62199_E0000090351_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "総務省は、ことし10月分の政党交付金を20日、交付し、このうち、議員1人を残して党を存続させた中道改革連合には5億8000万円あまりが交付されました。\n\n\n総務省は、政党交付金を年4回に分けて交付して",
+  "articleBody": "総務省は、ことし10月分の政党交付金を20日、交付し、このうち、議員1人を残して党を存続させた中道改革連合には5億8000万円あまりが交付されました。\n\n\n総務省は、政党交付金を年4回に分けて交付していて、ことし10月分の交付が20日、行われました。\n\n交付を受けたのは11の政党で、このうち、議員1人を残して党を存続させた中道改革連合には5億8470万3000円が交付されました。\n\n中道では9月、立憲民主党出身者20人と公明党出身者28人がそろって離党しましたが、今回の交付は、ことし4月に決定された交付額に基づいて行われたということです。\n\n中道は、受け取った政党交付金を衆議院選挙の際の債務の返済などに充てるとしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "総務省は、ことし10月分の政党交付金を20日、交付し、このうち、議員1人を残して党を存続させた中道改革連合には5億8000万円あまりが交付されました。\n",
+    "markedBody": "総務省は、政党交付金を年4回に分けて交付していて、ことし10月分の交付が20日、行われました。\n\n![](https://img.web.nhk/news/nd/kiji/20261020de62199/20261020de62199_E0000090350_1_l.jpg)\n\n交付を受けたのは11の政党で、このうち、議員1人を残して党を存続させた中道改革連合には5億8470万3000円が交付されました。\n\n中道では9月、立憲民主党出身者20人と公明党出身者28人がそろって離党しましたが、今回の交付は、ことし4月に決定された交付額に基づいて行われたということです。\n\n中道は、受け取った政党交付金を衆議院選挙の際の債務の返済などに充てるとしています。\n",
+    "trimmedLead": "総務省は、ことし10月分の政党交付金を20日、交付し、このうち、議員1人を残して党を存続させた中道改革連合には5億8000万円あまりが交付されました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261020de62199.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261020de62199",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
