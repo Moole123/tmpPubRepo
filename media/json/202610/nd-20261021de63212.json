@@ -1,0 +1,166 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261021de63212",
+  "dataSourceId": "nd",
+  "name": "【動画】道路まで水あふれる 子吉川沿い 秋田 由利本荘市",
+  "headline": "【動画】道路まで水あふれる 子吉川沿い 秋田 由利本荘市",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261021de63212",
+    "playlistId": "news-nwa-disaster-nationwide-20261021",
+    "newsarticleName": "【動画】道路まで水あふれる 子吉川沿い 秋田 由利本荘市",
+    "playlistName": "10月21日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "21日、午後6時ごろ、秋田県由利本荘市の子吉川沿いの道路を南に向かって走る車の中から撮影した映像です。\n\nドライバーの親族が助手席から撮影したということです。\n\n\n映像からは、川の水が道路まであふれ、",
+  "dateModified": "2026-10-21T22:55:41+09:00",
+  "datePublished": "2026-10-21T22:55:41+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de63212/20261021de63212_E0000097471_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de63212/20261021de63212_E0000097471_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000587",
+      "name": "大雨情報",
+      "display": true
+    },
+    {
+      "id": "E0000000333",
+      "name": "秋田県",
+      "display": true
+    },
+    {
+      "id": "E0000000114",
+      "name": "気象",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "21日、午後6時ごろ、秋田県由利本荘市の子吉川沿いの道路を南に向かって走る車の中から撮影した映像です。\n\nドライバーの親族が助手席から撮影したということです。\n\n\n映像からは、川の水が道路まであふれ、",
+  "articleBody": "21日、午後6時ごろ、秋田県由利本荘市の子吉川沿いの道路を南に向かって走る車の中から撮影した映像です。\n\nドライバーの親族が助手席から撮影したということです。\n\n\n映像からは、川の水が道路まであふれ、水しぶきをあげて車が走行している様子が確認できます。\n\nさらに川の上流付近で撮影された映像では、橋の真下まで川の水位が上がっている様子も確認できます。\n",
+  "detailedArticleBody": {
+    "markedLead": "21日、午後6時ごろ、秋田県由利本荘市の子吉川沿いの道路を南に向かって走る車の中から撮影した映像です。\n\nドライバーの親族が助手席から撮影したということです。\n",
+    "markedBody": "映像からは、川の水が道路まであふれ、水しぶきをあげて車が走行している様子が確認できます。\n\nさらに川の上流付近で撮影された映像では、橋の真下まで川の水位が上がっている様子も確認できます。\n",
+    "trimmedLead": "21日、午後6時ごろ、秋田県由利本荘市の子吉川沿いの道路を南に向かって走る車の中から撮影した映像です。\n\nドライバーの親族が助手席から撮影したということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261021de63212.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261021de63212",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "【動画】道路まで水あふれる 子吉川沿い 秋田 由利本荘市",
+      "description": "21日、午後6時ごろ、秋田県由利本荘市の子吉川沿いの道路を南に向かって走る車の中から撮影した映像です。\n\nドライバーの親族が助手席から撮影したということです。\n\n\n映像からは、川の水が道路まであふれ、",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261021de63212_E0000097465_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261021de63212/20261021de63212_E0000097471_1_l.jpg",
+      "duration": "PT16S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261021de63212_E0000097465_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de63212/20261021de63212_E0000097471_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "秋田 レベル5氾濫特別警報 気象庁と国交省会見【詳細】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261021de63153",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de63153/20261021de63153_E0000097037_1_s.jpg",
+      "datePublished": "2026-10-21T22:17:05+09:00"
+    },
+    {
+      "name": "【被害情報】秋田県警「被害なしも複数の倒木・冠水を確認」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261021de63167",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de63167/20261021de63167_E0000003907_1_s.jpg",
+      "datePublished": "2026-10-21T22:05:03+09:00"
+    },
+    {
+      "name": "【気象予報士解説】秋田 氾濫特別警報 今後の雨などの見通しは",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261021de63203",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de63203/20261021de63203_E0000097412_1_s.jpg",
+      "datePublished": "2026-10-21T21:58:32+09:00"
+    },
+    {
+      "name": "高市内閣発足1年 物価高対応など重要政策に取り組む考え強調",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261020de62511",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de62511/20261020de62511_E0000093097_1_s.jpg",
+      "datePublished": "2026-10-21T17:12:00+09:00"
+    },
+    {
+      "name": "東京 大阪 名古屋で最も遅い真夏日 各地で季節外れの暑さに",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261021de62637",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62637/20261021de62637_E0000094836_1_s.jpg",
+      "datePublished": "2026-10-21T20:23:26+09:00"
+    },
+    {
+      "name": "猛烈な台風30号 先島諸島23日接近 西日本に影響の可能性も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261021de62549",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62549/20261021de62549_E0000095894_1_s.jpg",
+      "datePublished": "2026-10-21T20:19:31+09:00"
+    },
+    {
+      "name": "『あなたは接客業に向いていない』なぜそこまで言われなければ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261006de55250",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55250/20261006de55250_E0000079382_1_s.jpg",
+      "datePublished": "2026-10-20T11:18:49+09:00"
+    },
+    {
+      "name": "オーバードーズ 死亡ケースも多数 独自アンケートで見えた実態",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60683",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60683/20261016de60683_E0000081725_1_s.jpg",
+      "datePublished": "2026-10-19T11:27:27+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
