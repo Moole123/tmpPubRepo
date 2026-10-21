@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261021de62966",
+  "dataSourceId": "nd",
+  "name": "全国20府県の警察官などの個人情報 不正アクセスで漏えいか",
+  "headline": "全国20府県の警察官などの個人情報 不正アクセスで漏えいか",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261021de62966",
+    "playlistId": "news-nwa-society-nationwide-20261021",
+    "newsarticleName": "全国20府県の警察官などの個人情報 不正アクセスで漏えいか",
+    "playlistName": "10月21日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "災害時の安否確認サービスを利用していた全国20の警察本部の警察官や職員の個人情報12万件あまりがサービスを提供していた会社への不正アクセスによって漏えいした可能性があることがわかりました。\n\n\n警察庁",
+  "dateModified": "2026-10-21T17:27:21+09:00",
+  "datePublished": "2026-10-21T17:27:21+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62966/20261021de62966_E0000094801_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62966/20261021de62966_E0000094801_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000598",
+      "name": "警察",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "災害時の安否確認サービスを利用していた全国20の警察本部の警察官や職員の個人情報12万件あまりがサービスを提供していた会社への不正アクセスによって漏えいした可能性があることがわかりました。\n\n\n警察庁",
+  "articleBody": "災害時の安否確認サービスを利用していた全国20の警察本部の警察官や職員の個人情報12万件あまりがサービスを提供していた会社への不正アクセスによって漏えいした可能性があることがわかりました。\n\n\n警察庁によりますと、漏えいした可能性があるのは、IT関連会社「アルカディア」が提供する災害時の安否確認サービスを利用していた全国20府県の警察本部の警察官や職員の個人情報です。\n\n「アルカディア」は外部からの不正アクセスによってサービスの利用者の氏名やメールアドレス、電話番号などの個人情報が漏えいした可能性があると発表しています。\n\n警察庁によりますと▽アルカディアの安否確認サービスを利用していた警察官や職員のメールアドレスがおよそ12万5000件漏えいしたとみられるほか、一部の警察本部については、所属先についての情報が漏れていた可能性があるとしています。\n\n▽このほか、アルカディアのシステムで、4府県の警察から防犯情報の配信を受けていた利用者のメールアドレスもおよそ1万6000件、漏えいしたとみられるということです。\n\n警察庁は「流出した情報が悪用されたケースは現段階で確認されていない」としています。\n",
+  "detailedArticleBody": {
+    "markedLead": "災害時の安否確認サービスを利用していた全国20の警察本部の警察官や職員の個人情報12万件あまりがサービスを提供していた会社への不正アクセスによって漏えいした可能性があることがわかりました。\n",
+    "markedBody": "警察庁によりますと、漏えいした可能性があるのは、IT関連会社「アルカディア」が提供する災害時の安否確認サービスを利用していた全国20府県の警察本部の警察官や職員の個人情報です。\n\n「アルカディア」は外部からの不正アクセスによってサービスの利用者の氏名やメールアドレス、電話番号などの個人情報が漏えいした可能性があると発表しています。\n\n警察庁によりますと▽アルカディアの安否確認サービスを利用していた警察官や職員のメールアドレスがおよそ12万5000件漏えいしたとみられるほか、一部の警察本部については、所属先についての情報が漏れていた可能性があるとしています。\n\n▽このほか、アルカディアのシステムで、4府県の警察から防犯情報の配信を受けていた利用者のメールアドレスもおよそ1万6000件、漏えいしたとみられるということです。\n\n警察庁は「流出した情報が悪用されたケースは現段階で確認されていない」としています。\n",
+    "trimmedLead": "災害時の安否確認サービスを利用していた全国20の警察本部の警察官や職員の個人情報12万件あまりがサービスを提供していた会社への不正アクセスによって漏えいした可能性があることがわかりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261021de62966.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261021de62966",
+  "video": [],
+  "citation": [
+    {
+      "name": "岩井コスモ証券 不正アクセスで顧客が意図しない売買注文",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261021de62520",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62520/20261021de62520_E0000093096_1_s.jpg",
+      "datePublished": "2026-10-21T00:26:19+09:00"
+    },
+    {
+      "name": "アメリカ政府 民生部門で中国AIのディープシーク利用禁止に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261021de62564",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62564/20261021de62564_E0000093265_1_s.jpg",
+      "datePublished": "2026-10-21T07:57:00+09:00"
+    },
+    {
+      "name": "「カーセンサーnet」などに不正アクセス 最大370万件漏えいか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261021de62694",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62694/20261021de62694_E0000093768_1_s.jpg",
+      "datePublished": "2026-10-21T12:04:00+09:00"
+    },
+    {
+      "name": "相次ぐ情報流出 AIの悪用に企業は対策を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261021de62685",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62685/20261021de62685_E0000093688_1_s.jpg",
+      "datePublished": "2026-10-21T12:56:52+09:00"
+    },
+    {
+      "name": "交番で「ショウリンジ」と叫ぶなどの行為 小学校低学年補導も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261021de62792",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62792/20261021de62792_E0000094548_1_s.jpg",
+      "datePublished": "2026-10-21T14:44:15+09:00"
+    },
+    {
+      "name": "不正アクセスによる個人情報漏えい相次ぎ警視庁に相談相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261021de62656",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62656/20261021de62656_E0000003571_1_s.jpg",
+      "datePublished": "2026-10-21T15:14:00+09:00"
+    },
+    {
+      "name": "木原長官“サイバー攻撃実態解明努める”中国系AI使用見解受け",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261020de62345",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de62345/20261020de62345_E0000090538_1_s.jpg",
+      "datePublished": "2026-10-20T18:11:29+09:00"
+    },
+    {
+      "name": "ふるさとチョイス 445万件の個人情報流出を発表",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261020de62437",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de62437/20261020de62437_E0000093117_1_s.jpg",
+      "datePublished": "2026-10-20T20:18:00+09:00"
+    },
+    {
+      "name": "国の省エネ住宅事業で2万3000件超の情報漏えいのおそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261020de62509",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de62509/20261020de62509_E0000093153_1_s.jpg",
+      "datePublished": "2026-10-20T23:39:00+09:00"
+    },
+    {
+      "name": "自民提言“サイバー攻撃対処へ 必要な予算や体制整備を”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261020de62455",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de62455/20261020de62455_E0000092360_1_s.jpg",
+      "datePublished": "2026-10-20T20:16:44+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
