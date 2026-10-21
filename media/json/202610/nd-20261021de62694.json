@@ -1,0 +1,167 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261021de62694",
+  "dataSourceId": "nd",
+  "name": "リクルート 「カーセンサーnet」などに不正アクセス 最大約370万件の個人情報漏えいか",
+  "headline": "「カーセンサーnet」などに不正アクセス 最大370万件漏えいか",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261021de62694",
+    "playlistId": "news-nwa-society-nationwide-20261021",
+    "newsarticleName": "リクルート 「カーセンサーnet」などに不正アクセス 最大約370万件の個人情報漏えいか",
+    "playlistName": "10月21日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "リクルートは、運営する中古車情報サイトの「カーセンサーnet」と、中古車販売店向けの業務支援サービスが、不正アクセスを受け、あわせて最大でおよそ370万件の個人情報が漏えいした可能性があると発表しまし",
+  "dateModified": "2026-10-21T12:04:00+09:00",
+  "datePublished": "2026-10-21T12:04:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62694/20261021de62694_E0000093768_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62694/20261021de62694_E0000093768_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "リクルートは、運営する中古車情報サイトの「カーセンサーnet」と、中古車販売店向けの業務支援サービスが、不正アクセスを受け、あわせて最大でおよそ370万件の個人情報が漏えいした可能性があると発表しまし",
+  "articleBody": "リクルートは、運営する中古車情報サイトの「カーセンサーnet」と、中古車販売店向けの業務支援サービスが、不正アクセスを受け、あわせて最大でおよそ370万件の個人情報が漏えいした可能性があると発表しました。\n\n\n発表によりますと、今月17日にリクルートが運営する中古車情報サイトの「カーセンサーnet」の関連システムへの不審なアクセスを検知し、調査の結果、中古車販売店へ問い合わせをしたおよそ320万件の氏名、住所、電話番号、メールアドレスなどが漏えいした可能性があるということです。\n\nまた、中古車販売店向けの業務支援サービスに登録した事業者の情報およそ48万件や、退職者を含む自社の従業員や、業務委託契約を結んでいる企業の従業員などの氏名やメールアドレスなどおよそ1万件が漏えいした可能性があり、「カーセンサーnet」とあわせて最大でおよそ370万件の個人情報が漏えいした可能性があるとしています。\n\nこのうち、中古車販売店向けの業務支援サービスでは、個人事業主の口座情報も漏えいした可能性があるとしています。\n\nリクルートは不正アクセスを受けたサイトやサービスを一時停止していて、「多大なご心配とご迷惑をおかけしておりますことを深くおわび申し上げます」とコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "リクルートは、運営する中古車情報サイトの「カーセンサーnet」と、中古車販売店向けの業務支援サービスが、不正アクセスを受け、あわせて最大でおよそ370万件の個人情報が漏えいした可能性があると発表しました。\n",
+    "markedBody": "発表によりますと、今月17日にリクルートが運営する中古車情報サイトの「カーセンサーnet」の関連システムへの不審なアクセスを検知し、調査の結果、中古車販売店へ問い合わせをしたおよそ320万件の氏名、住所、電話番号、メールアドレスなどが漏えいした可能性があるということです。\n\nまた、中古車販売店向けの業務支援サービスに登録した事業者の情報およそ48万件や、退職者を含む自社の従業員や、業務委託契約を結んでいる企業の従業員などの氏名やメールアドレスなどおよそ1万件が漏えいした可能性があり、「カーセンサーnet」とあわせて最大でおよそ370万件の個人情報が漏えいした可能性があるとしています。\n\nこのうち、中古車販売店向けの業務支援サービスでは、個人事業主の口座情報も漏えいした可能性があるとしています。\n\nリクルートは不正アクセスを受けたサイトやサービスを一時停止していて、「多大なご心配とご迷惑をおかけしておりますことを深くおわび申し上げます」とコメントしています。\n",
+    "trimmedLead": "リクルートは、運営する中古車情報サイトの「カーセンサーnet」と、中古車販売店向けの業務支援サービスが、不正アクセスを受け、あわせて最大でおよそ370万件の個人情報が漏えいした可能性があると発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261021de62694.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261021de62694",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "「カーセンサーnet」などに不正アクセス 最大370万件漏えいか",
+      "description": "リクルートは、運営する中古車情報サイトの「カーセンサーnet」と、中古車販売店向けの業務支援サービスが、不正アクセスを受け、あわせて最大でおよそ370万件の個人情報が漏えいした可能性があると発表しまし",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261021de62694_E0000093824_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261021de62694/20261021de62694_E0000093768_1_l.jpg",
+      "duration": "PT1M19S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261021de62694_E0000093824_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62694/20261021de62694_E0000093768_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "岩井コスモ証券 不正アクセスで顧客が意図しない売買注文",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261021de62520",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62520/20261021de62520_E0000093096_1_s.jpg",
+      "datePublished": "2026-10-21T00:26:19+09:00"
+    },
+    {
+      "name": "国の省エネ住宅事業で2万3000件超の情報漏えいのおそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261020de62509",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de62509/20261020de62509_E0000093153_1_s.jpg",
+      "datePublished": "2026-10-20T23:39:00+09:00"
+    },
+    {
+      "name": "ふるさとチョイス 445万件の個人情報流出を発表",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261020de62437",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de62437/20261020de62437_E0000093117_1_s.jpg",
+      "datePublished": "2026-10-20T20:18:00+09:00"
+    },
+    {
+      "name": "台風30号 先島諸島23日から接近見込み 西日本に影響の可能性も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261021de62549",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62549/20261021de62549_E0000093628_1_s.jpg",
+      "datePublished": "2026-10-21T12:30:00+09:00"
+    },
+    {
+      "name": "イーロン・マスク氏 スペースXとテスラの統合を特別委で議論",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261021de62558",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62558/20261021de62558_E0000093253_1_s.jpg",
+      "datePublished": "2026-10-21T10:23:00+09:00"
+    },
+    {
+      "name": "今年度上半期の貿易収支 2兆8000億円余の赤字",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261021de62600",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62600/20261021de62600_E0000093604_1_s.jpg",
+      "datePublished": "2026-10-21T11:02:34+09:00"
+    },
+    {
+      "name": "アメリカ政府 民生部門で中国AIのディープシーク利用禁止に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261021de62564",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62564/20261021de62564_E0000093265_1_s.jpg",
+      "datePublished": "2026-10-21T07:57:55+09:00"
+    },
+    {
+      "name": "神奈川 藤沢14人死傷事故 運転手「驚いてアクセル踏み込んだ」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261020de62515",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de62515/20261020de62515_E0000093094_1_s.jpg",
+      "datePublished": "2026-10-21T00:04:24+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
