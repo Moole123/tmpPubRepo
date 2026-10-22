@@ -1,0 +1,185 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261022de63278",
+  "dataSourceId": "nd",
+  "name": "【ドローン動画】一夜明けた子吉川は 秋田 由利本荘",
+  "headline": "【ドローン動画】一夜明けた子吉川は 秋田 由利本荘",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261022de63278",
+    "playlistId": "news-nwa-disaster-nationwide-20261022",
+    "newsarticleName": "【ドローン動画】一夜明けた子吉川は 秋田 由利本荘",
+    "playlistName": "10月22日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "22日午前6時40分ごろ、秋田県由利本荘市の子吉川をドローンを使って撮影しました。川やその周辺の様子です。詳しくは動画をご覧ください（データ放送ではご覧になれません）。\n\n\n",
+  "dateModified": "2026-10-22T07:22:19+09:00",
+  "datePublished": "2026-10-22T07:22:19+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63278/20261022de63278_E0000097676_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63278/20261022de63278_E0000097676_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000333",
+      "name": "秋田県",
+      "display": true
+    },
+    {
+      "id": "E0000000587",
+      "name": "大雨情報",
+      "display": true
+    },
+    {
+      "id": "E0000000114",
+      "name": "気象",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "22日午前6時40分ごろ、秋田県由利本荘市の子吉川をドローンを使って撮影しました。川やその周辺の様子です。詳しくは動画をご覧ください（データ放送ではご覧になれません）。\n\n\n",
+  "articleBody": "22日午前6時40分ごろ、秋田県由利本荘市の子吉川をドローンを使って撮影しました。川やその周辺の様子です。詳しくは動画をご覧ください（データ放送ではご覧になれません）。\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "22日午前6時40分ごろ、秋田県由利本荘市の子吉川をドローンを使って撮影しました。川やその周辺の様子です。詳しくは動画をご覧ください（データ放送ではご覧になれません）。\n",
+    "markedBody": "",
+    "trimmedLead": "22日午前6時40分ごろ、秋田県由利本荘市の子吉川をドローンを使って撮影しました。川やその周辺の様子です。詳しくは動画をご覧ください（データ放送ではご覧になれません）。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261022de63278.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261022de63278",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "【ドローン動画】一夜明けた子吉川は 秋田 由利本荘",
+      "description": "22日午前6時40分ごろ、秋田県由利本荘市の子吉川をドローンを使って撮影しました。川やその周辺の様子です。詳しくは動画をご覧ください（データ放送ではご覧になれません）。\n\n\n",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261022de63278_E0000097664_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261022de63278/20261022de63278_E0000097676_1_l.jpg",
+      "duration": "PT39S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261022de63278_E0000097664_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63278/20261022de63278_E0000097676_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "【上空映像】秋田 子吉川 氾濫特別警報は注意報に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261021de63227",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de63227/20261021de63227_E0000097931_1_s.jpg",
+      "datePublished": "2026-10-22T09:05:00+09:00"
+    },
+    {
+      "name": "秋田 由利本荘 市内の緊急安全確保すべて解除",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63270",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63270/20261022de63270_E0000003907_1_s.jpg",
+      "datePublished": "2026-10-22T02:59:55+09:00"
+    },
+    {
+      "name": "【動画】道路まで水あふれる 子吉川沿い 秋田 由利本荘市",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261021de63212",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de63212/20261021de63212_E0000097471_1_s.jpg",
+      "datePublished": "2026-10-21T22:55:00+09:00"
+    },
+    {
+      "name": "秋田 レベル5氾濫特別警報 気象庁と国交省会見【詳細】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261021de63153",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de63153/20261021de63153_E0000097037_1_s.jpg",
+      "datePublished": "2026-10-21T22:17:00+09:00"
+    },
+    {
+      "name": "【被害情報】秋田県警「被害なしも複数の倒木・冠水を確認」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261021de63167",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de63167/20261021de63167_E0000003907_1_s.jpg",
+      "datePublished": "2026-10-21T22:05:03+09:00"
+    },
+    {
+      "name": "洪水マップ 河川の氾濫危険度や河川カメラをリアルタイム表示",
+      "url": "https://news.web.nhk/bousai-map/flood/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00358_E0000003389_1_s.jpg"
+    },
+    {
+      "name": "川の氾濫 警戒のポイントは？",
+      "url": "https://news.web.nhk/newsweb/na/nc-1c290155-b464-4391-95b8-2f9687fa1f25",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00015_E0000001586_1_s.jpg"
+    },
+    {
+      "name": "【最新の河川情報】こちらから一覧でご覧になれます",
+      "url": "https://news.web.nhk/kishou-saigai/river/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00212_E0000003213_1_s.jpg"
+    },
+    {
+      "name": "天気防災マップ ふだんの雨雲予想から災害時のリスク情報まで",
+      "url": "https://news.web.nhk/bousai-map/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00366_E0000003397_1_s.jpg"
+    },
+    {
+      "name": "大雨 最新情報 雨雲レーダーは「NHK ONE ニュース・防災アプリ」で",
+      "url": "https://news.web.nhk/newsweb/na/na-k10014929581000",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00233_E0000003287_1_s.jpg"
+    },
+    {
+      "name": "“PHPでぜい弱性確認 速やかな対応を”情報処理推進機構",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261021de63209",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de63209/20261021de63209_E0000097441_1_s.jpg",
+      "datePublished": "2026-10-22T05:14:00+09:00"
+    },
+    {
+      "name": "猛烈な台風30号 あす先島諸島接近 早めに対策を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63248",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63248/20261022de63248_E0000097683_1_s.jpg",
+      "datePublished": "2026-10-22T07:06:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
