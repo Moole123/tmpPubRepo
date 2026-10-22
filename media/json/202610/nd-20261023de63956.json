@@ -1,0 +1,151 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261023de63956",
+  "dataSourceId": "nd",
+  "name": "マイクロソフト「中国系ハッカー集団が大規模サイバー攻撃」",
+  "headline": "マイクロソフト「中国系ハッカー集団が大規模サイバー攻撃」",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261023de63956",
+    "playlistId": "news-nwa-international-nationwide-20261023",
+    "newsarticleName": "マイクロソフト「中国系ハッカー集団が大規模サイバー攻撃」",
+    "playlistName": "10月23日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "アメリカのIT大手、「マイクロソフト」は、中国政府とつながりのあるハッカー集団がAIツールを使い、世界の数百の組織にサイバー攻撃を仕掛けていたと明らかにしました。このところ相次いでいる日本企業を標的と",
+  "dateModified": "2026-10-23T05:47:20+09:00",
+  "datePublished": "2026-10-23T05:47:20+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de63956/20261023de63956_E0000101721_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de63956/20261023de63956_E0000101721_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "アメリカのIT大手、「マイクロソフト」は、中国政府とつながりのあるハッカー集団がAIツールを使い、世界の数百の組織にサイバー攻撃を仕掛けていたと明らかにしました。このところ相次いでいる日本企業を標的と",
+  "articleBody": "アメリカのIT大手、「マイクロソフト」は、中国政府とつながりのあるハッカー集団がAIツールを使い、世界の数百の組織にサイバー攻撃を仕掛けていたと明らかにしました。このところ相次いでいる日本企業を標的としたサイバー攻撃にこのAIツールが使われたかは現時点では明らかになっていません。\n\n\nマイクロソフトは22日までに、中国政府とつながりのあるハッカー集団が9月以降、「ARTEX」と呼ばれる自律型のAIツールを使って世界の数百の企業や政府機関などを対象にサイバー攻撃を仕掛けていたと明らかにしました。\n\nマイクロソフトが自社システムへのアクセス記録などを分析し、確認したとしています。\n\n攻撃の対象は航空宇宙、防衛、それに金融サービス分野など幅広く、中には、標的を定めてから3時間かからずにシステムの重要な管理権限を取得したケースもあったということです。\n\nまた、1分間に最大で2900回、ログインを試みていたと指摘し、「攻撃を検知し、対処する時間がほとんどないペースだ」と分析しています。\n\n一方、このところ相次いでいる日本企業を標的としたサイバー攻撃にARTEXが関与しているかどうかは現時点では明らかになっていません。\n\nARTEXについては9月下旬以降に起きた、韓国の金融機関をねらったサイバー攻撃に使われたことが報告されています。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカのIT大手、「マイクロソフト」は、中国政府とつながりのあるハッカー集団がAIツールを使い、世界の数百の組織にサイバー攻撃を仕掛けていたと明らかにしました。このところ相次いでいる日本企業を標的としたサイバー攻撃にこのAIツールが使われたかは現時点では明らかになっていません。\n",
+    "markedBody": "マイクロソフトは22日までに、中国政府とつながりのあるハッカー集団が9月以降、「ARTEX」と呼ばれる自律型のAIツールを使って世界の数百の企業や政府機関などを対象にサイバー攻撃を仕掛けていたと明らかにしました。\n\nマイクロソフトが自社システムへのアクセス記録などを分析し、確認したとしています。\n\n攻撃の対象は航空宇宙、防衛、それに金融サービス分野など幅広く、中には、標的を定めてから3時間かからずにシステムの重要な管理権限を取得したケースもあったということです。\n\nまた、1分間に最大で2900回、ログインを試みていたと指摘し、「攻撃を検知し、対処する時間がほとんどないペースだ」と分析しています。\n\n一方、このところ相次いでいる日本企業を標的としたサイバー攻撃にARTEXが関与しているかどうかは現時点では明らかになっていません。\n\nARTEXについては9月下旬以降に起きた、韓国の金融機関をねらったサイバー攻撃に使われたことが報告されています。\n",
+    "trimmedLead": "アメリカのIT大手、「マイクロソフト」は、中国政府とつながりのあるハッカー集団がAIツールを使い、世界の数百の組織にサイバー攻撃を仕掛けていたと明らかにしました。このところ相次いでいる日本企業を標的としたサイバー攻撃にこのAIツールが使われたかは現時点では明らかになっていません。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261023de63956.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261023de63956",
+  "video": [],
+  "citation": [
+    {
+      "name": "ドラフト 織田翔希は巨人 菰田は日本ハムが交渉権【全名簿】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63461",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63461/20261022de63461_E0000099401_1_s.jpg",
+      "datePublished": "2026-10-23T00:17:00+09:00"
+    },
+    {
+      "name": "サイバー攻撃ぜい弱性悪用の猶予期間4分の1に 研究グループ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63896",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63896/20261022de63896_E0000101620_1_s.jpg",
+      "datePublished": "2026-10-22T22:00:34+09:00"
+    },
+    {
+      "name": "サウジアラビア東部で攻撃相次ぎ3人死亡 米国務省は退避命令",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63386",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63386/20261022de63386_E0000098067_1_s.jpg",
+      "datePublished": "2026-10-22T23:58:02+09:00"
+    },
+    {
+      "name": "デジタル教科書 “紙とデジタル”基本に 文科省指針案",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63547",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63547/20261022de63547_E0000099054_1_s.jpg",
+      "datePublished": "2026-10-22T19:25:00+09:00"
+    },
+    {
+      "name": "生のジャガイモ解禁 野党“米との協議は慎重な姿勢で”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63826",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63826/20261022de63826_E0000100925_1_s.jpg",
+      "datePublished": "2026-10-22T20:00:41+09:00"
+    },
+    {
+      "name": "神奈川県警 廃棄すべき運転免許証 警備部門の捜査などに流用か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63326",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63326/20261022de63326_E0000097977_1_s.jpg",
+      "datePublished": "2026-10-22T19:35:17+09:00"
+    },
+    {
+      "name": "台風30号 先島諸島が暴風域 西～東日本 接近前から大雨も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63248",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63248/20261022de63248_E0000098953_1_s.jpg",
+      "datePublished": "2026-10-23T01:11:00+09:00"
+    },
+    {
+      "name": "すき家 JR 証券会社も “PHP”対応でサービス一時停止相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63324",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63324/20261022de63324_E0000098032_1_s.jpg",
+      "datePublished": "2026-10-22T19:38:00+09:00"
+    },
+    {
+      "name": "AI“なりすまし”どう防ぐ？ 相次ぐ流出 「本人認証」最前線",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63457",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63457/20261022de63457_E0000099532_1_s.jpg",
+      "datePublished": "2026-10-22T20:01:05+09:00"
+    },
+    {
+      "name": "高市政権1年 成果と課題",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63418",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63418/20261022de63418_E0000098102_1_s.jpg",
+      "datePublished": "2026-10-22T16:13:52+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
