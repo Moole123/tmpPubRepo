@@ -1,0 +1,183 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261022de63353",
+  "dataSourceId": "nd",
+  "name": "免許証画像4000件など漏えいか 闇サイトで販売も レンタカー事業などを行う沖縄の会社から",
+  "headline": "免許証画像など漏えいし闇サイトで販売か 沖縄の会社から",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261022de63353",
+    "playlistId": "news-nwa-society-nationwide-20261022",
+    "newsarticleName": "免許証画像4000件など漏えいか 闇サイトで販売も レンタカー事業などを行う沖縄の会社から",
+    "playlistName": "10月22日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "沖縄のレンタカー事業などを行う会社から漏えいした可能性がある運転免許証の画像などの個人情報のデータが闇サイトで販売されていることが、NHKとセキュリティー会社の調査で分かりました。セキュリティー会社で",
+  "dateModified": "2026-10-22T11:54:00+09:00",
+  "datePublished": "2026-10-22T11:54:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63353/20261022de63353_E0000098031_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63353/20261022de63353_E0000098031_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    },
+    {
+      "id": "E0000000375",
+      "name": "沖縄県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "沖縄のレンタカー事業などを行う会社から漏えいした可能性がある運転免許証の画像などの個人情報のデータが闇サイトで販売されていることが、NHKとセキュリティー会社の調査で分かりました。セキュリティー会社で",
+  "articleBody": "沖縄のレンタカー事業などを行う会社から漏えいした可能性がある運転免許証の画像などの個人情報のデータが闇サイトで販売されていることが、NHKとセキュリティー会社の調査で分かりました。セキュリティー会社では、悪用への警戒が必要だとしています。\n\n\nことしに入り個人情報の流出が相次いでいることを受けて、NHKとセキュリティー会社の「トレンドマイクロ」が共同でインターネット上の闇サイトを調査したところ、那覇市に本社があるレンタカー事業などを行う「沖縄ツーリスト」の個人情報だとするデータが販売されていることが分かりました。\n\nデータの詳しい内容や真偽は分からないものの、闇サイトの販売ページにはサンプルとして複数の運転免許証の画像が掲載され、内容の説明として氏名や電話番号など60万件分のデータや4000件あまりの免許証などの画像があると書かれています。\n\n会社は21日にホームページで、顧客の個人情報が漏えいした可能性があり一部のサービスを一時停止したと発表していて、外部の専門家の協力のもと、対象となる情報や影響の範囲について調査を進めているとしています。\n\nNHKの取材に対し、会社は、データが闇サイトで販売されているかどうかなどについては調査中だとしています。\n\n沖縄ツーリスト\n「お客様には多大なるご迷惑とご心配をおかけいたしますことを、深くお詫び申し上げます」\n\nこれまで、企業から漏えいした個人情報が闇サイトで販売されるおそれが指摘されていましたが、「トレンドマイクロ」は、「実際に闇サイトで販売された場合、悪用されて二次被害につながるおそれが高まるため、警戒が必要だ」としています。\n",
+  "detailedArticleBody": {
+    "markedLead": "沖縄のレンタカー事業などを行う会社から漏えいした可能性がある運転免許証の画像などの個人情報のデータが闇サイトで販売されていることが、NHKとセキュリティー会社の調査で分かりました。セキュリティー会社では、悪用への警戒が必要だとしています。\n",
+    "markedBody": "![](https://img.web.nhk/news/nd/kiji/20261022de63353/20261022de63353_E0000098038_1_l.jpg \"データが販売されている闇サイト\")\n\nことしに入り個人情報の流出が相次いでいることを受けて、NHKとセキュリティー会社の「トレンドマイクロ」が共同でインターネット上の闇サイトを調査したところ、那覇市に本社があるレンタカー事業などを行う「沖縄ツーリスト」の個人情報だとするデータが販売されていることが分かりました。\n\nデータの詳しい内容や真偽は分からないものの、闇サイトの販売ページにはサンプルとして複数の運転免許証の画像が掲載され、内容の説明として氏名や電話番号など60万件分のデータや4000件あまりの免許証などの画像があると書かれています。\n\n会社は21日にホームページで、顧客の個人情報が漏えいした可能性があり一部のサービスを一時停止したと発表していて、外部の専門家の協力のもと、対象となる情報や影響の範囲について調査を進めているとしています。\n\nNHKの取材に対し、会社は、データが闇サイトで販売されているかどうかなどについては調査中だとしています。\n\n![](https://img.web.nhk/news/nd/kiji/20261022de63353/20261022de63353_E0000098064_1_l.jpg)\n\n:::nw--quote\n**沖縄ツーリスト**\\\n「お客様には多大なるご迷惑とご心配をおかけいたしますことを、深くお詫び申し上げます」\n:::\n\nこれまで、企業から漏えいした個人情報が闇サイトで販売されるおそれが指摘されていましたが、「トレンドマイクロ」は、「実際に闇サイトで販売された場合、悪用されて二次被害につながるおそれが高まるため、警戒が必要だ」としています。\n",
+    "trimmedLead": "沖縄のレンタカー事業などを行う会社から漏えいした可能性がある運転免許証の画像などの個人情報のデータが闇サイトで販売されていることが、NHKとセキュリティー会社の調査で分かりました。セキュリティー会社では、悪用への警戒が必要だとしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261022de63353.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261022de63353",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "免許証画像など漏えいし闇サイトで販売か 沖縄の会社から",
+      "description": "沖縄のレンタカー事業などを行う会社から漏えいした可能性がある運転免許証の画像などの個人情報のデータが闇サイトで販売されていることが、NHKとセキュリティー会社の調査で分かりました。セキュリティー会社で",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261022de63353_E0000098407_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261022de63353/20261022de63353_E0000098031_1_l.jpg",
+      "duration": "PT1M29S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261022de63353_E0000098407_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63353/20261022de63353_E0000098031_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "すき家 JR 証券会社も “PHP”対応でサービス一時停止相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63324",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63324/20261022de63324_E0000098032_1_s.jpg",
+      "datePublished": "2026-10-22T12:22:00+09:00"
+    },
+    {
+      "name": "不正アクセス“金融機関が狙われる段階に変わってきた可能性”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261021de62921",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62921/20261021de62921_E0000094782_1_s.jpg",
+      "datePublished": "2026-10-21T22:35:59+09:00"
+    },
+    {
+      "name": "“PHPでぜい弱性確認 速やかな対応を”情報処理推進機構",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261021de63209",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de63209/20261021de63209_E0000097441_1_s.jpg",
+      "datePublished": "2026-10-22T05:14:00+09:00"
+    },
+    {
+      "name": "相次ぐ情報流出 AIの悪用に企業は対策を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261021de62685",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62685/20261021de62685_E0000093688_1_s.jpg",
+      "datePublished": "2026-10-21T12:56:52+09:00"
+    },
+    {
+      "name": "神奈川県警 廃棄すべき運転免許証 警備部門の捜査などに流用か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63326",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63326/20261022de63326_E0000097977_1_s.jpg",
+      "datePublished": "2026-10-22T11:58:00+09:00"
+    },
+    {
+      "name": "中国AI発展に向けデータ事業担う国有企業を設立　",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261021de63217",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de63217/20261021de63217_E0000097518_1_s.jpg",
+      "datePublished": "2026-10-22T00:55:50+09:00"
+    },
+    {
+      "name": "猛烈な台風30号 あす先島諸島接近 早めに対策を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63248",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63248/20261022de63248_E0000097990_1_s.jpg",
+      "datePublished": "2026-10-22T12:44:00+09:00"
+    },
+    {
+      "name": "【ドローン動画】一夜明けた子吉川は 秋田 由利本荘",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63278",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63278/20261022de63278_E0000097676_1_s.jpg",
+      "datePublished": "2026-10-22T09:38:55+09:00"
+    },
+    {
+      "name": "隣の家の視線が不安…“目隠し”を求めて裁判に その結果は？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de59711",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59711/20261015de59711_E0000093617_1_s.jpg",
+      "datePublished": "2026-10-21T18:59:20+09:00"
+    },
+    {
+      "name": "ドラフト会議2026 注目選手一覧【高校生・大学生・社会人】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261021de62940",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62940/20261021de62940_E0000096399_1_s.jpg",
+      "datePublished": "2026-10-22T10:29:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
