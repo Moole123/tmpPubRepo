@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261022de63845",
+  "dataSourceId": "nd",
+  "name": "自民 国会改革作業チーム みらい 安野党首からヒアリング",
+  "headline": "自民 国会改革作業チーム みらい 安野党首からヒアリング",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261022de63845",
+    "playlistId": "news-nwa-politics-nationwide-20261022",
+    "newsarticleName": "自民 国会改革作業チーム みらい 安野党首からヒアリング",
+    "playlistName": "10月22日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "自民党は、国会改革を後押しするため新たに設けた作業チームの初会合を開き、AIやデジタル技術の活用についてチームみらいの安野党首からヒアリングを行いました。\n\n\n衆議院議院運営委員会の小委員会が、国会審",
+  "dateModified": "2026-10-22T20:16:08+09:00",
+  "datePublished": "2026-10-22T20:16:08+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63845/20261022de63845_E0000100980_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63845/20261022de63845_E0000100980_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000448",
+      "name": "国会",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "自民党は、国会改革を後押しするため新たに設けた作業チームの初会合を開き、AIやデジタル技術の活用についてチームみらいの安野党首からヒアリングを行いました。\n\n\n衆議院議院運営委員会の小委員会が、国会審",
+  "articleBody": "自民党は、国会改革を後押しするため新たに設けた作業チームの初会合を開き、AIやデジタル技術の活用についてチームみらいの安野党首からヒアリングを行いました。\n\n\n衆議院議院運営委員会の小委員会が、国会審議へのAIやデジタル技術の活用などについて議論を進める中、自民党は国会改革を後押ししようと、政治制度改革本部のもとに新たに作業チームを設け、22日初会合を開きました。\n\n22日の会合ではAIやデジタル技術に詳しいチームみらいの安野党首を招いてヒアリングを行い、法案資料や想定問答の作成へのAIの活用などについて話を聴きました。\n\nそして作業チームは今後も有識者からのヒアリングなどを重ね、検討を進めていくことを確認しました。\n\n会合のあと安野氏は記者団に対し「民間でいろいろな変化が起きている中、立法府の処理能力が変わらなければ永田町と外の世界との差がどんどん広がってしまうという危機感を共有した。国会改革の中でDXを進めていくべきでしっかり後押ししていきたい」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "自民党は、国会改革を後押しするため新たに設けた作業チームの初会合を開き、AIやデジタル技術の活用についてチームみらいの安野党首からヒアリングを行いました。\n",
+    "markedBody": "衆議院議院運営委員会の小委員会が、国会審議へのAIやデジタル技術の活用などについて議論を進める中、自民党は国会改革を後押ししようと、政治制度改革本部のもとに新たに作業チームを設け、22日初会合を開きました。\n\n22日の会合ではAIやデジタル技術に詳しいチームみらいの安野党首を招いてヒアリングを行い、法案資料や想定問答の作成へのAIの活用などについて話を聴きました。\n\nそして作業チームは今後も有識者からのヒアリングなどを重ね、検討を進めていくことを確認しました。\n\n![](https://img.web.nhk/news/nd/kiji/20261022de63845/20261022de63845_E0000100944_1_l.jpg)\n\n会合のあと安野氏は記者団に対し「民間でいろいろな変化が起きている中、立法府の処理能力が変わらなければ永田町と外の世界との差がどんどん広がってしまうという危機感を共有した。国会改革の中でDXを進めていくべきでしっかり後押ししていきたい」と述べました。\n",
+    "trimmedLead": "自民党は、国会改革を後押しするため新たに設けた作業チームの初会合を開き、AIやデジタル技術の活用についてチームみらいの安野党首からヒアリングを行いました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261022de63845.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261022de63845",
+  "video": [],
+  "citation": [
+    {
+      "name": "神奈川県警 廃棄すべき運転免許証 警備部門の捜査などに流用か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63326",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63326/20261022de63326_E0000097977_1_s.jpg",
+      "datePublished": "2026-10-22T19:35:17+09:00"
+    },
+    {
+      "name": "すき家 JR 証券会社も “PHP”対応でサービス一時停止相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63324",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63324/20261022de63324_E0000098032_1_s.jpg",
+      "datePublished": "2026-10-22T19:38:00+09:00"
+    },
+    {
+      "name": "免許証画像など漏えいし闇サイトで販売か 沖縄の会社から",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63353",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63353/20261022de63353_E0000098031_1_s.jpg",
+      "datePublished": "2026-10-22T11:54:00+09:00"
+    },
+    {
+      "name": "「カプコン」全世界の会員メールアドレスなど約1177万件漏えい",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63460",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63460/20261022de63460_E0000099046_1_s.jpg",
+      "datePublished": "2026-10-22T18:27:00+09:00"
+    },
+    {
+      "name": "自民政調会長 冬の電気・ガス支援“ガソリンとあわせて検討”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63530",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63530/20261022de63530_E0000098888_1_s.jpg",
+      "datePublished": "2026-10-22T15:37:00+09:00"
+    },
+    {
+      "name": "ドラフト 織田翔希は巨人 菰田は日本ハムが交渉権【全名簿】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63461",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63461/20261022de63461_E0000099401_1_s.jpg",
+      "datePublished": "2026-10-23T00:17:00+09:00"
+    },
+    {
+      "name": "台風30号 先島諸島一部が暴風域 西～東日本 接近前から大雨も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63248",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63248/20261022de63248_E0000098953_1_s.jpg",
+      "datePublished": "2026-10-22T19:16:00+09:00"
+    },
+    {
+      "name": "【ドローン動画】一夜明けた子吉川は 秋田 由利本荘",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63278",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63278/20261022de63278_E0000097676_1_s.jpg",
+      "datePublished": "2026-10-22T09:38:55+09:00"
+    },
+    {
+      "name": "高市政権1年 成果と課題",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63418",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63418/20261022de63418_E0000098102_1_s.jpg",
+      "datePublished": "2026-10-22T16:13:52+09:00"
+    },
+    {
+      "name": "相次ぐ情報流出 AIの悪用に企業は対策を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261021de62685",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62685/20261021de62685_E0000093688_1_s.jpg",
+      "datePublished": "2026-10-21T12:56:52+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
