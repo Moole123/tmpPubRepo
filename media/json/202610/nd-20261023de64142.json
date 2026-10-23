@@ -1,0 +1,156 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261023de64142",
+  "dataSourceId": "nd",
+  "name": "HISホテル事業会社 不正アクセスで約14万人分の個人情報流出か",
+  "headline": "HISホテル事業会社 不正アクセスで約14万人分の個人情報流出か",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261023de64142",
+    "playlistId": "news-nwa-business-nationwide-20261023",
+    "newsarticleName": "HISホテル事業会社 不正アクセスで約14万人分の個人情報流出か",
+    "playlistName": "10月23日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "大手旅行会社、エイチ・アイ・エスのホテル事業を行う子会社は、メールマガジンの配信を委託している外部の会社が不正アクセスを受け、会員およそ14万人分の個人情報が流出したおそれがあると発表しました。\n\n\n",
+  "dateModified": "2026-10-23T12:44:13+09:00",
+  "datePublished": "2026-10-23T12:44:13+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64142/20261023de64142_E0000003476_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64142/20261023de64142_E0000003476_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "大手旅行会社、エイチ・アイ・エスのホテル事業を行う子会社は、メールマガジンの配信を委託している外部の会社が不正アクセスを受け、会員およそ14万人分の個人情報が流出したおそれがあると発表しました。\n\n\n",
+  "articleBody": "大手旅行会社、エイチ・アイ・エスのホテル事業を行う子会社は、メールマガジンの配信を委託している外部の会社が不正アクセスを受け、会員およそ14万人分の個人情報が流出したおそれがあると発表しました。\n\n\n会社によりますと、21日、会員向けのメールマガジンの配信を委託している外部の会社が不正アクセスを受け、配信先のリストが流出したおそれがあると連絡を受けたということです。\n\n流出した可能性があるのは、会員およそ14万人分の氏名とメールアドレスで、既に退会した人の分も含まれる可能性があるということです。\n\nクレジットカードの情報は含まれていないとしています。\n\n会社ではメール配信サービスを停止し、詳しい被害状況を調べているということで、「お客様、関係者の皆様に多大なるご迷惑とご心配をおかけし、心よりおわび申し上げます」とコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "大手旅行会社、エイチ・アイ・エスのホテル事業を行う子会社は、メールマガジンの配信を委託している外部の会社が不正アクセスを受け、会員およそ14万人分の個人情報が流出したおそれがあると発表しました。\n",
+    "markedBody": "会社によりますと、21日、会員向けのメールマガジンの配信を委託している外部の会社が不正アクセスを受け、配信先のリストが流出したおそれがあると連絡を受けたということです。\n\n流出した可能性があるのは、会員およそ14万人分の氏名とメールアドレスで、既に退会した人の分も含まれる可能性があるということです。\n\nクレジットカードの情報は含まれていないとしています。\n\n会社ではメール配信サービスを停止し、詳しい被害状況を調べているということで、「お客様、関係者の皆様に多大なるご迷惑とご心配をおかけし、心よりおわび申し上げます」とコメントしています。\n",
+    "trimmedLead": "大手旅行会社、エイチ・アイ・エスのホテル事業を行う子会社は、メールマガジンの配信を委託している外部の会社が不正アクセスを受け、会員およそ14万人分の個人情報が流出したおそれがあると発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261023de64142.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261023de64142",
+  "video": [],
+  "citation": [
+    {
+      "name": "台風30号 先島諸島に最接近へ 暴風 高波に厳重警戒【ライブ】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de63968",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de63968/20261023de63968_E0000102876_1_s.jpg",
+      "datePublished": "2026-10-23T12:17:00+09:00"
+    },
+    {
+      "name": "GMO FX取引のサーバーに不正アクセス 口座で不正操作の相談も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de64076",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64076/20261023de64076_E0000102393_1_s.jpg",
+      "datePublished": "2026-10-23T12:02:00+09:00"
+    },
+    {
+      "name": "デジタル庁 最大1万3000件余の個人情報が漏えいの可能性",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de64088",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64088/20261023de64088_E0000003838_1_s.jpg",
+      "datePublished": "2026-10-23T12:10:12+09:00"
+    },
+    {
+      "name": "赤澤経産相「ホワイトハッカー」チーム 11月立ち上げ方針表明",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de64084",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64084/20261023de64084_E0000102340_1_s.jpg",
+      "datePublished": "2026-10-23T12:03:43+09:00"
+    },
+    {
+      "name": "PHPぜい弱性 厚労省 31システム一時停止 情報漏えい確認されず",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de64069",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64069/20261023de64069_E0000102325_1_s.jpg",
+      "datePublished": "2026-10-23T13:27:50+09:00"
+    },
+    {
+      "name": "プロ野球 巨人の新監督に松井秀喜氏が就任へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de64015",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64015/20261023de64015_E0000101674_1_s.jpg",
+      "datePublished": "2026-10-23T12:52:52+09:00"
+    },
+    {
+      "name": "ドラフト 織田翔希は巨人 菰田は日本ハムが交渉権【全名簿】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63461",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63461/20261022de63461_E0000102900_1_s.jpg",
+      "datePublished": "2026-10-23T00:17:00+09:00"
+    },
+    {
+      "name": "愛子さま 来月シンガポール訪問が正式決定",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de64070",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64070/20261023de64070_E0000102332_1_s.jpg",
+      "datePublished": "2026-10-23T12:02:59+09:00"
+    },
+    {
+      "name": "相次ぐ“独身偽装” 被害の実態を追う",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261021de62686",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62686/20261021de62686_E0000099006_1_s.jpg",
+      "datePublished": "2026-10-23T11:02:07+09:00"
+    },
+    {
+      "name": "AI“なりすまし”どう防ぐ？ 相次ぐ流出 「本人認証」最前線",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63457",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63457/20261022de63457_E0000099532_1_s.jpg",
+      "datePublished": "2026-10-22T20:01:05+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
