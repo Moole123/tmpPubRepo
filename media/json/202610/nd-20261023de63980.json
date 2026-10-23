@@ -1,0 +1,162 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261023de63980",
+  "dataSourceId": "nd",
+  "name": "ナスダック指数一時2.9％下落 AI投資への懸念が再燃",
+  "headline": "ナスダック指数一時2.9％下落 AI投資への懸念が再燃",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261023de63980",
+    "playlistId": "news-nwa-business-nationwide-20261023",
+    "newsarticleName": "ナスダック指数一時2.9％下落 AI投資への懸念が再燃",
+    "playlistName": "10月23日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "22日のニューヨーク株式市場では半導体などの銘柄に売り注文が広がり、ハイテク株の比率が高いナスダックの株価指数は一時、2.9％の大幅な下落となりました。AI開発への巨額投資の持続性に対する投資家の懸念",
+  "dateModified": "2026-10-23T07:58:34+09:00",
+  "datePublished": "2026-10-23T07:58:34+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de63980/20261023de63980_E0000101948_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de63980/20261023de63980_E0000101948_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000157",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "E0000000419",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "22日のニューヨーク株式市場では半導体などの銘柄に売り注文が広がり、ハイテク株の比率が高いナスダックの株価指数は一時、2.9％の大幅な下落となりました。AI開発への巨額投資の持続性に対する投資家の懸念",
+  "articleBody": "22日のニューヨーク株式市場では半導体などの銘柄に売り注文が広がり、ハイテク株の比率が高いナスダックの株価指数は一時、2.9％の大幅な下落となりました。AI開発への巨額投資の持続性に対する投資家の懸念が再び強まっています。\n\n\n22日のニューヨーク株式市場では、取り引き開始直後から半導体などAI関連銘柄を中心に売り注文が広がり、ハイテク株の比率が高いナスダックの株価指数は一時、前日から780ポイントあまり、率にしておよそ2.9％の大幅な下落となりました。\n\n最終的にはおよそ2.6％の下落で取り引きを終えました。\n\n21日にアメリカのIT大手「メタ」の幹部がAIへの巨額投資を続ける姿勢を示したことや、半導体大手「エヌビディア」のジェンスン・フアンCEOがネオクラウドと呼ばれるAI向けクラウド事業者について「需要は非常に大きいが、成長を支えるための資金が不足している」と述べたと伝わったことから、投資家の間でAIへの巨額投資が回収できなくなるとの懸念が再び強まった形です。\n\nまた、投資家の間でリスクを避ける姿勢が強まるなか、債券市場ではアメリカ国債を買う動きが強まり、長期金利の代表的な指標である10年ものの国債の利回りは5％の大台を割り込みました。\n\n市場関係者は「AI投資をめぐる懸念の高まりに加え、アメリカとイスラエルがイランへの攻撃を再開する可能性があると報じられたことも、ハイテク株を売って安全資産であるアメリカ国債などを買う動きにつながった」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "22日のニューヨーク株式市場では半導体などの銘柄に売り注文が広がり、ハイテク株の比率が高いナスダックの株価指数は一時、2.9％の大幅な下落となりました。AI開発への巨額投資の持続性に対する投資家の懸念が再び強まっています。\n",
+    "markedBody": "22日のニューヨーク株式市場では、取り引き開始直後から半導体などAI関連銘柄を中心に売り注文が広がり、ハイテク株の比率が高いナスダックの株価指数は一時、前日から780ポイントあまり、率にしておよそ2.9％の大幅な下落となりました。\n\n最終的にはおよそ2.6％の下落で取り引きを終えました。\n\n21日にアメリカのIT大手「メタ」の幹部がAIへの巨額投資を続ける姿勢を示したことや、半導体大手「エヌビディア」のジェンスン・フアンCEOがネオクラウドと呼ばれるAI向けクラウド事業者について「需要は非常に大きいが、成長を支えるための資金が不足している」と述べたと伝わったことから、投資家の間でAIへの巨額投資が回収できなくなるとの懸念が再び強まった形です。\n\nまた、投資家の間でリスクを避ける姿勢が強まるなか、債券市場ではアメリカ国債を買う動きが強まり、長期金利の代表的な指標である10年ものの国債の利回りは5％の大台を割り込みました。\n\n市場関係者は「AI投資をめぐる懸念の高まりに加え、アメリカとイスラエルがイランへの攻撃を再開する可能性があると報じられたことも、ハイテク株を売って安全資産であるアメリカ国債などを買う動きにつながった」と話しています。\n",
+    "trimmedLead": "22日のニューヨーク株式市場では半導体などの銘柄に売り注文が広がり、ハイテク株の比率が高いナスダックの株価指数は一時、2.9％の大幅な下落となりました。AI開発への巨額投資の持続性に対する投資家の懸念が再び強まっています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261023de63980.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261023de63980",
+  "video": [],
+  "citation": [
+    {
+      "name": "「長征」から90年 習主席が中国共産党の結束呼びかけ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de63930",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de63930/20261023de63930_E0000101700_1_s.jpg",
+      "datePublished": "2026-10-23T01:40:14+09:00"
+    },
+    {
+      "name": "モンゴル自然保護区で大規模火災 通信大手KDDIが謝罪",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de63949",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de63949/20261023de63949_E0000101720_1_s.jpg",
+      "datePublished": "2026-10-23T02:34:00+09:00"
+    },
+    {
+      "name": "道新記者に差し入れ 引き続き「領事面会」と即時解放働きかけ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de63959",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de63959/20261023de63959_E0000101725_1_s.jpg",
+      "datePublished": "2026-10-23T04:04:00+09:00"
+    },
+    {
+      "name": "マイクロソフト「中国政府とつながりある集団がサイバー攻撃」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de63956",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de63956/20261023de63956_E0000101788_1_s.jpg",
+      "datePublished": "2026-10-23T08:30:00+09:00"
+    },
+    {
+      "name": "ことしのヨーロッパ議会人権賞「サハロフ賞」にICC",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63864",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63864/20261022de63864_E0000101015_1_s.jpg",
+      "datePublished": "2026-10-22T20:54:39+09:00"
+    },
+    {
+      "name": "香港 168人死亡の高層住宅火災 委員会が報告書提出 近く公表へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63594",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63594/20261022de63594_E0000099016_1_s.jpg",
+      "datePublished": "2026-10-22T17:17:00+09:00"
+    },
+    {
+      "name": "フランス 首相が労働組合と面会も組合反発 22日はデモ禁止令",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63524",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63524/20261022de63524_E0000098939_1_s.jpg",
+      "datePublished": "2026-10-22T16:06:00+09:00"
+    },
+    {
+      "name": "米とイスラエルが中間選挙後のイラン再攻撃計画策定か 米報道",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63478",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63478/20261022de63478_E0000098731_1_s.jpg",
+      "datePublished": "2026-10-22T13:59:00+09:00"
+    },
+    {
+      "name": "【随時更新】ロシア ウクライナに軍事侵攻（10月22日の動き）",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260930de53355",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260930de53355/20260930de53355_E0000038702_1_s.jpg",
+      "datePublished": "2026-10-22T16:16:24+09:00"
+    },
+    {
+      "name": "回答率わずか3％？アメリカの世論調査は信頼できるのか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261020de62163",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de62163/20261020de62163_E0000091389_1_s.jpg",
+      "datePublished": "2026-10-22T20:43:54+09:00"
+    },
+    {
+      "name": "「声を上げ続けて」 500日拘束された記者が語るロシアの実態",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261018de61271",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261018de61271/20261018de61271_E0000084938_1_s.jpg",
+      "datePublished": "2026-10-20T07:25:58+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
