@@ -1,0 +1,149 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261024de64630",
+  "dataSourceId": "nd",
+  "name": "環境省 最大2万2000件漏えいか ブラストメールに不正アクセス",
+  "headline": "環境省 最大2万2000件漏えいか ブラストメールに不正アクセス",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261024de64630",
+    "playlistId": "news-nwa-society-nationwide-20261024",
+    "newsarticleName": "環境省 最大2万2000件漏えいか ブラストメールに不正アクセス",
+    "playlistName": "10月24日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "環境省は、6つのメールマガジンの配信に利用しているメール配信サービスで不正アクセスがあり、登録者のメールアドレスなどの情報が最大で2万2000件漏えいした可能性があると発表しました。\n\n\n環境省により",
+  "dateModified": "2026-10-24T02:00:19+09:00",
+  "datePublished": "2026-10-24T02:00:19+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64630/20261024de64630_E0000003833_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64630/20261024de64630_E0000003833_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000466",
+      "name": "環境省",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "環境省は、6つのメールマガジンの配信に利用しているメール配信サービスで不正アクセスがあり、登録者のメールアドレスなどの情報が最大で2万2000件漏えいした可能性があると発表しました。\n\n\n環境省により",
+  "articleBody": "環境省は、6つのメールマガジンの配信に利用しているメール配信サービスで不正アクセスがあり、登録者のメールアドレスなどの情報が最大で2万2000件漏えいした可能性があると発表しました。\n\n\n環境省によりますと、メールマガジンの配信に利用しているメール配信サービス「ブラストメール」を提供する会社「ラクスライトクラウド」から不正アクセスを受けたと連絡があったということです。\n\n環境省が配信している地球環境パートナーシッププラザメールマガジンや、地域循環共生圏メールマガジンなど合わせて6つのメールマガジンについて、登録者のメールアドレスのほか氏名などの情報が最大で2万2000件漏えいした可能性があるということです。\n\n今のところ、情報の漏えいは確認されていないとしています。\n\nメールマガジンの配信は、10月21日から停止されていて、再開時期は未定だということです。\n\n環境省は、不審なメールなどに注意するよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "環境省は、6つのメールマガジンの配信に利用しているメール配信サービスで不正アクセスがあり、登録者のメールアドレスなどの情報が最大で2万2000件漏えいした可能性があると発表しました。\n",
+    "markedBody": "環境省によりますと、メールマガジンの配信に利用しているメール配信サービス「ブラストメール」を提供する会社「ラクスライトクラウド」から不正アクセスを受けたと連絡があったということです。\n\n環境省が配信している地球環境パートナーシッププラザメールマガジンや、地域循環共生圏メールマガジンなど合わせて6つのメールマガジンについて、登録者のメールアドレスのほか氏名などの情報が最大で2万2000件漏えいした可能性があるということです。\n\n今のところ、情報の漏えいは確認されていないとしています。\n\nメールマガジンの配信は、10月21日から停止されていて、再開時期は未定だということです。\n\n環境省は、不審なメールなどに注意するよう呼びかけています。\n",
+    "trimmedLead": "環境省は、6つのメールマガジンの配信に利用しているメール配信サービスで不正アクセスがあり、登録者のメールアドレスなどの情報が最大で2万2000件漏えいした可能性があると発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261024de64630.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261024de64630",
+  "video": [],
+  "citation": [
+    {
+      "name": "台風30号 先島諸島に最接近 暴風や大雨に厳重警戒【気象解説】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de63968",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de63968/20261023de63968_E0000105939_1_s.jpg",
+      "datePublished": "2026-10-24T00:07:43+09:00"
+    },
+    {
+      "name": "高市首相 ガソリン補助 1リットル170円水準の見直し含め検討",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de64359",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64359/20261023de64359_E0000103273_1_s.jpg",
+      "datePublished": "2026-10-23T19:26:36+09:00"
+    },
+    {
+      "name": "モスバーガー 流通済みプリペイドカード情報 約57万件が流出",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de64388",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64388/20261023de64388_E0000103319_1_s.jpg",
+      "datePublished": "2026-10-23T22:13:49+09:00"
+    },
+    {
+      "name": "GMO FX取引のサーバーに不正アクセス 口座で不正操作の相談も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de64076",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64076/20261023de64076_E0000102339_1_s.jpg",
+      "datePublished": "2026-10-23T22:01:18+09:00"
+    },
+    {
+      "name": "作家の村上龍さん死去「コインロッカー・ベイビーズ」 74歳",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de64176",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64176/20261023de64176_E0000102916_1_s.jpg",
+      "datePublished": "2026-10-23T20:56:22+09:00"
+    },
+    {
+      "name": "改正皇室典範が施行へ 皇室の未来は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63317",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63317/20261022de63317_E0000098805_1_s.jpg",
+      "datePublished": "2026-10-23T19:28:16+09:00"
+    },
+    {
+      "name": "巨人新監督に就任 松井秀喜氏が会見「新たな黄金時代を」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de64015",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64015/20261023de64015_E0000103196_1_s.jpg",
+      "datePublished": "2026-10-23T18:30:20+09:00"
+    },
+    {
+      "name": "相次ぐ“独身偽装” 被害の実態を追う",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261021de62686",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62686/20261021de62686_E0000099006_1_s.jpg",
+      "datePublished": "2026-10-23T11:02:07+09:00"
+    },
+    {
+      "name": "AI“なりすまし”どう防ぐ？ 相次ぐ流出 「本人認証」最前線",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63457",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63457/20261022de63457_E0000099532_1_s.jpg",
+      "datePublished": "2026-10-22T20:01:05+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
