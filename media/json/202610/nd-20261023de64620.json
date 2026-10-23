@@ -1,0 +1,144 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261023de64620",
+  "dataSourceId": "nd",
+  "name": "墜落のグローバルホーク 機体の引き揚げ作業終了",
+  "headline": "墜落のグローバルホーク 機体の引き揚げ作業終了",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261023de64620",
+    "playlistId": "news-nwa-society-nationwide-20261024",
+    "newsarticleName": "墜落のグローバルホーク 機体の引き揚げ作業終了",
+    "playlistName": "10月24日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "鳥取県沖で墜落した航空自衛隊の大型無人偵察機「グローバルホーク」の機体を海中から引き揚げる作業が23日、終了しました。これまでに機体の大部分を回収したということで、自衛隊は回収した機体を分析して事故原",
+  "dateModified": "2026-10-24T00:04:51+09:00",
+  "datePublished": "2026-10-24T00:04:51+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64620/20261023de64620_E0000105999_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64620/20261023de64620_E0000105999_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000193",
+      "name": "防衛省・自衛隊",
+      "display": true
+    },
+    {
+      "id": "E0000000208",
+      "name": "事件・事故",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "鳥取県沖で墜落した航空自衛隊の大型無人偵察機「グローバルホーク」の機体を海中から引き揚げる作業が23日、終了しました。これまでに機体の大部分を回収したということで、自衛隊は回収した機体を分析して事故原",
+  "articleBody": "鳥取県沖で墜落した航空自衛隊の大型無人偵察機「グローバルホーク」の機体を海中から引き揚げる作業が23日、終了しました。これまでに機体の大部分を回収したということで、自衛隊は回収した機体を分析して事故原因の調査を進める方針です。\n\n\n先月15日、青森県にある航空自衛隊三沢基地所属の大型無人偵察機「グローバルホーク」が鳥取県沖で墜落した事故では、今月2日から海底に沈んだ機体を引き揚げるための作業が行われてきました。\n\n航空自衛隊によりますと、これまでに長さ6メートルと5メートルの機体の胴体の一部などを引き揚げていて、海中からの引き揚げ作業は23日で終了したということです。\n\n自衛隊が公開した今月17日の作業の写真には、網に入った機体の胴体が海中から引き揚げられる様子が写っています。\n\n23日までに機体の大部分を回収したということです。\n\n航空自衛隊は、回収した機体を分析して事故原因の調査を進めるほか、沿岸部では漂着する機体を回収するための巡回を続ける方針です。\n",
+  "detailedArticleBody": {
+    "markedLead": "鳥取県沖で墜落した航空自衛隊の大型無人偵察機「グローバルホーク」の機体を海中から引き揚げる作業が23日、終了しました。これまでに機体の大部分を回収したということで、自衛隊は回収した機体を分析して事故原因の調査を進める方針です。\n",
+    "markedBody": "先月15日、青森県にある航空自衛隊三沢基地所属の大型無人偵察機「グローバルホーク」が鳥取県沖で墜落した事故では、今月2日から海底に沈んだ機体を引き揚げるための作業が行われてきました。\n\n航空自衛隊によりますと、これまでに長さ6メートルと5メートルの機体の胴体の一部などを引き揚げていて、海中からの引き揚げ作業は23日で終了したということです。\n\n自衛隊が公開した今月17日の作業の写真には、網に入った機体の胴体が海中から引き揚げられる様子が写っています。\n\n23日までに機体の大部分を回収したということです。\n\n航空自衛隊は、回収した機体を分析して事故原因の調査を進めるほか、沿岸部では漂着する機体を回収するための巡回を続ける方針です。\n",
+    "trimmedLead": "鳥取県沖で墜落した航空自衛隊の大型無人偵察機「グローバルホーク」の機体を海中から引き揚げる作業が23日、終了しました。これまでに機体の大部分を回収したということで、自衛隊は回収した機体を分析して事故原因の調査を進める方針です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261023de64620.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261023de64620",
+  "video": [],
+  "citation": [
+    {
+      "name": "台風30号 先島諸島に最接近 暴風や大雨に厳重警戒【気象解説】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de63968",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de63968/20261023de63968_E0000105939_1_s.jpg",
+      "datePublished": "2026-10-24T00:07:43+09:00"
+    },
+    {
+      "name": "高市首相 ガソリン補助 1リットル170円水準の見直し含め検討",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de64359",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64359/20261023de64359_E0000103273_1_s.jpg",
+      "datePublished": "2026-10-23T19:26:36+09:00"
+    },
+    {
+      "name": "モスバーガー 流通済みプリペイドカード情報 約57万件が流出",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de64388",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64388/20261023de64388_E0000103319_1_s.jpg",
+      "datePublished": "2026-10-23T22:13:49+09:00"
+    },
+    {
+      "name": "GMO FX取引のサーバーに不正アクセス 口座で不正操作の相談も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de64076",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64076/20261023de64076_E0000102339_1_s.jpg",
+      "datePublished": "2026-10-23T22:01:18+09:00"
+    },
+    {
+      "name": "作家の村上龍さん死去「コインロッカー・ベイビーズ」 74歳",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de64176",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64176/20261023de64176_E0000102916_1_s.jpg",
+      "datePublished": "2026-10-23T20:56:22+09:00"
+    },
+    {
+      "name": "改正皇室典範が施行へ 皇室の未来は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63317",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63317/20261022de63317_E0000098805_1_s.jpg",
+      "datePublished": "2026-10-23T19:28:16+09:00"
+    },
+    {
+      "name": "巨人新監督に就任 松井秀喜氏が会見「新たな黄金時代を」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de64015",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64015/20261023de64015_E0000103196_1_s.jpg",
+      "datePublished": "2026-10-23T18:30:20+09:00"
+    },
+    {
+      "name": "相次ぐ“独身偽装” 被害の実態を追う",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261021de62686",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62686/20261021de62686_E0000099006_1_s.jpg",
+      "datePublished": "2026-10-23T11:02:07+09:00"
+    },
+    {
+      "name": "AI“なりすまし”どう防ぐ？ 相次ぐ流出 「本人認証」最前線",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63457",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63457/20261022de63457_E0000099532_1_s.jpg",
+      "datePublished": "2026-10-22T20:01:05+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
