@@ -1,0 +1,178 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261023de64076",
+  "dataSourceId": "nd",
+  "name": "GMO FX取引のサーバーに不正アクセス 口座で不正操作の相談も",
+  "headline": "GMO FX取引のサーバーに不正アクセス 口座で不正操作の相談も",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261023de64076",
+    "playlistId": "news-nwa-scienceculture-nationwide-20261023",
+    "newsarticleName": "GMO FX取引のサーバーに不正アクセス 口座で不正操作の相談も",
+    "playlistName": "10月23日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "IT大手のGMOインターネットグループは、FX＝外国為替証拠金取引などを行う投資家向けに提供している自動取引のサーバーが不正アクセスを受け、利用者の取引口座のIDやパスワードが第三者に閲覧された可能性",
+  "dateModified": "2026-10-23T12:02:00+09:00",
+  "datePublished": "2026-10-23T12:02:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64076/20261023de64076_E0000102393_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64076/20261023de64076_E0000102393_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "科学・文化",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    },
+    {
+      "id": "E0000000477",
+      "name": "金融",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "IT大手のGMOインターネットグループは、FX＝外国為替証拠金取引などを行う投資家向けに提供している自動取引のサーバーが不正アクセスを受け、利用者の取引口座のIDやパスワードが第三者に閲覧された可能性",
+  "articleBody": "IT大手のGMOインターネットグループは、FX＝外国為替証拠金取引などを行う投資家向けに提供している自動取引のサーバーが不正アクセスを受け、利用者の取引口座のIDやパスワードが第三者に閲覧された可能性があると発表しました。会社は、利用者から「口座で不正な操作が行われた」という相談が複数寄せられていることから、被害の状況を調べています。\n\n\nGMOインターネットグループでは、FX＝外国為替証拠金取引などで自動取引ができるサーバーをクラウド上で投資家向けに提供していて、10月20日にこのサーバーへの不正なアクセスが確認され、詳しく調べたところ、利用者の取引口座のIDやパスワードなどが第三者に閲覧された可能性があることがわかったということです。\n\nさらに会社には、利用者から「取引口座で不正な操作が行われた」といった相談が複数寄せられているということです。\n\nこのサーバーの利用はおよそ2万6000件にのぼるということで、会社では速やかなパスワードの変更や取引口座のログオフを呼びかけるとともに、証券会社などと連携して被害の状況を調べています。\n\n会社は「多大なるご迷惑とご心配をおかけしていることをおわびします」としています。\n",
+  "detailedArticleBody": {
+    "markedLead": "IT大手のGMOインターネットグループは、FX＝外国為替証拠金取引などを行う投資家向けに提供している自動取引のサーバーが不正アクセスを受け、利用者の取引口座のIDやパスワードが第三者に閲覧された可能性があると発表しました。会社は、利用者から「口座で不正な操作が行われた」という相談が複数寄せられていることから、被害の状況を調べています。\n",
+    "markedBody": "GMOインターネットグループでは、FX＝外国為替証拠金取引などで自動取引ができるサーバーをクラウド上で投資家向けに提供していて、10月20日にこのサーバーへの不正なアクセスが確認され、詳しく調べたところ、利用者の取引口座のIDやパスワードなどが第三者に閲覧された可能性があることがわかったということです。\n\nさらに会社には、利用者から「取引口座で不正な操作が行われた」といった相談が複数寄せられているということです。\n\nこのサーバーの利用はおよそ2万6000件にのぼるということで、会社では速やかなパスワードの変更や取引口座のログオフを呼びかけるとともに、証券会社などと連携して被害の状況を調べています。\n\n会社は「多大なるご迷惑とご心配をおかけしていることをおわびします」としています。\n",
+    "trimmedLead": "IT大手のGMOインターネットグループは、FX＝外国為替証拠金取引などを行う投資家向けに提供している自動取引のサーバーが不正アクセスを受け、利用者の取引口座のIDやパスワードが第三者に閲覧された可能性があると発表しました。会社は、利用者から「口座で不正な操作が行われた」という相談が複数寄せられていることから、被害の状況を調べています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261023de64076.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261023de64076",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "GMO FX取引のサーバーに不正アクセス 口座で不正操作の相談も",
+      "description": "IT大手のGMOインターネットグループは、FX＝外国為替証拠金取引などを行う投資家向けに提供している自動取引のサーバーが不正アクセスを受け、利用者の取引口座のIDやパスワードが第三者に閲覧された可能性",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261023de64076_E0000102392_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261023de64076/20261023de64076_E0000102393_1_l.jpg",
+      "duration": "PT1M3S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261023de64076_E0000102392_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64076/20261023de64076_E0000102393_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "プロ野球 巨人の新監督に松井秀喜氏が就任へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de64015",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64015/20261023de64015_E0000101674_1_s.jpg",
+      "datePublished": "2026-10-23T11:49:06+09:00"
+    },
+    {
+      "name": "台風30号先島諸島に最接近へ 暴風 高波 高潮に厳重警戒",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de63968",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de63968/20261023de63968_E0000102333_1_s.jpg",
+      "datePublished": "2026-10-23T12:17:17+09:00"
+    },
+    {
+      "name": "ドラフト 織田翔希は巨人 菰田は日本ハムが交渉権【全名簿】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63461",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63461/20261022de63461_E0000099401_1_s.jpg",
+      "datePublished": "2026-10-23T00:17:00+09:00"
+    },
+    {
+      "name": "9月消費者物価 生鮮食品除く指数 前年同月比＋2.1％",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de63991",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de63991/20261023de63991_E0000102063_1_s.jpg",
+      "datePublished": "2026-10-23T08:51:40+09:00"
+    },
+    {
+      "name": "マイクロソフト「中国政府とつながりある集団がサイバー攻撃」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de63956",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de63956/20261023de63956_E0000101788_1_s.jpg",
+      "datePublished": "2026-10-23T08:30:00+09:00"
+    },
+    {
+      "name": "旧姓通称使用拡大法案 政府・与党内で今国会提出困難の見方",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de63954",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de63954/20261023de63954_E0000101724_1_s.jpg",
+      "datePublished": "2026-10-23T05:27:00+09:00"
+    },
+    {
+      "name": "サイバー攻撃ぜい弱性悪用の猶予期間4分の1に 研究グループ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63896",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63896/20261022de63896_E0000101620_1_s.jpg",
+      "datePublished": "2026-10-22T22:00:34+09:00"
+    },
+    {
+      "name": "相次ぐ“独身偽装” 被害の実態を追う",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261021de62686",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62686/20261021de62686_E0000099006_1_s.jpg",
+      "datePublished": "2026-10-23T11:02:07+09:00"
+    },
+    {
+      "name": "AI“なりすまし”どう防ぐ？ 相次ぐ流出 「本人認証」最前線",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63457",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63457/20261022de63457_E0000099532_1_s.jpg",
+      "datePublished": "2026-10-22T20:01:05+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
