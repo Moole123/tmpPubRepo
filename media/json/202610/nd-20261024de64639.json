@@ -1,0 +1,180 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261024de64639",
+  "dataSourceId": "nd",
+  "name": "台風30号 台湾で1人死亡 500人以上けが 警戒続く",
+  "headline": "台風30号 台湾で1人死亡 500人以上けが 警戒続く",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261024de64639",
+    "playlistId": "news-nwa-disaster-nationwide-20261024",
+    "newsarticleName": "台風30号 台湾で1人死亡 500人以上けが 警戒続く",
+    "playlistName": "10月24日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "台風30号は24日明け方にかけて台湾に最も接近し、倒木などの被害が相次ぎ、これまでに1人が死亡し、500人以上がけがをしました。北部や中部では休校などの措置がとられ、警戒が続いています。\n\n\n台湾では",
+  "dateModified": "2026-10-24T11:43:00+09:00",
+  "datePublished": "2026-10-24T10:25:36+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64639/20261024de64639_E0000106406_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64639/20261024de64639_E0000106406_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害",
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000222",
+      "name": "台湾",
+      "display": true
+    },
+    {
+      "id": "E0000000202",
+      "name": "台風",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "台風30号は24日明け方にかけて台湾に最も接近し、倒木などの被害が相次ぎ、これまでに1人が死亡し、500人以上がけがをしました。北部や中部では休校などの措置がとられ、警戒が続いています。\n\n\n台湾では",
+  "articleBody": "台風30号は24日明け方にかけて台湾に最も接近し、倒木などの被害が相次ぎ、これまでに1人が死亡し、500人以上がけがをしました。北部や中部では休校などの措置がとられ、警戒が続いています。\n\n\n台湾では台風30号の接近に伴って風や雨が強まり、北部の新北で23日夜、65.1メートルの最大瞬間風速を観測しました。\n\n倒木などの被害も相次ぎ、消防によりますと、今回の台風で1人が死亡し、527人がけがをしたということです。\n\n日本の窓口機関の日本台湾交流協会台北事務所によりますと、これまでに日本人がけがをしたという情報は入っていないということです。\n\n台北など北部や中部の自治体では、24日も学校が休校となったほか、企業などでも従業員を自宅待機とする措置がとられ、台風への警戒が続いています。\n",
+  "detailedArticleBody": {
+    "markedLead": "台風30号は24日明け方にかけて台湾に最も接近し、倒木などの被害が相次ぎ、これまでに1人が死亡し、500人以上がけがをしました。北部や中部では休校などの措置がとられ、警戒が続いています。\n",
+    "markedBody": "台湾では台風30号の接近に伴って風や雨が強まり、北部の新北で23日夜、65.1メートルの最大瞬間風速を観測しました。\n\n倒木などの被害も相次ぎ、消防によりますと、今回の台風で1人が死亡し、527人がけがをしたということです。\n\n日本の窓口機関の日本台湾交流協会台北事務所によりますと、これまでに日本人がけがをしたという情報は入っていないということです。\n\n台北など北部や中部の自治体では、24日も学校が休校となったほか、企業などでも従業員を自宅待機とする措置がとられ、台風への警戒が続いています。\n",
+    "trimmedLead": "台風30号は24日明け方にかけて台湾に最も接近し、倒木などの被害が相次ぎ、これまでに1人が死亡し、500人以上がけがをしました。北部や中部では休校などの措置がとられ、警戒が続いています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261024de64639.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261024de64639",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "台風30号 台湾で1人死亡 500人以上けが 警戒続く",
+      "description": "台風30号は24日明け方にかけて台湾に最も接近し、倒木などの被害が相次ぎ、これまでに1人が死亡し、500人以上がけがをしました。北部や中部では休校などの措置がとられ、警戒が続いています。\n\n\n台湾では",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261024de64639_E0000106435_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261024de64639/20261024de64639_E0000106406_1_l.jpg",
+      "duration": "PT1M2S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261024de64639_E0000106435_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64639/20261024de64639_E0000106406_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "【最新情報】台風30号 先島諸島に接近 西～東日本で大雨おそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261024de64650",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64650/20261024de64650_E0000106593_1_s.jpg",
+      "datePublished": "2026-10-24T12:55:00+09:00"
+    },
+    {
+      "name": "【気象予報士解説 動画】台風30号 今後の見通しは",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261024de64705",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64705/20261024de64705_E0000106421_1_s.jpg",
+      "datePublished": "2026-10-24T12:15:16+09:00"
+    },
+    {
+      "name": "沖縄 石垣島地方に「線状降水帯直前予測」 気象庁発表",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261024de64712",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64712/20261024de64712_E0000003982_1_s.jpg",
+      "datePublished": "2026-10-24T10:38:39+09:00"
+    },
+    {
+      "name": "中国 チベット自治区の地震 16人死亡 1万2000人超が避難",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de64521",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64521/20261023de64521_E0000105077_1_s.jpg",
+      "datePublished": "2026-10-23T20:09:00+09:00"
+    },
+    {
+      "name": "ネパール ヒマラヤ山脈で2人の遺体見つかる 不明の日本人か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de64496",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64496/20261023de64496_E0000104479_1_s.jpg",
+      "datePublished": "2026-10-23T20:35:40+09:00"
+    },
+    {
+      "name": "「シャモンダウイルスのヒトへの感染を初確認」 フランス",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de63995",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de63995/20261023de63995_E0000102078_1_s.jpg",
+      "datePublished": "2026-10-23T09:28:43+09:00"
+    },
+    {
+      "name": "モンゴル自然保護区で大規模火災 通信大手KDDIが謝罪",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de63949",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de63949/20261023de63949_E0000101720_1_s.jpg",
+      "datePublished": "2026-10-23T02:34:00+09:00"
+    },
+    {
+      "name": "道新記者に差し入れ 引き続き「領事面会」と即時解放働きかけ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de63959",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de63959/20261023de63959_E0000101725_1_s.jpg",
+      "datePublished": "2026-10-23T21:24:06+09:00"
+    },
+    {
+      "name": "「声を上げ続けて」 500日拘束された記者が語るロシアの実態",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261018de61271",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261018de61271/20261018de61271_E0000084938_1_s.jpg",
+      "datePublished": "2026-10-20T07:25:58+09:00"
+    },
+    {
+      "name": "マイクロソフト「中国政府とつながりある集団がサイバー攻撃」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de63956",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de63956/20261023de63956_E0000101788_1_s.jpg",
+      "datePublished": "2026-10-23T08:30:00+09:00"
+    },
+    {
+      "name": "回答率わずか3％？アメリカの世論調査は信頼できるのか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261020de62163",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de62163/20261020de62163_E0000091389_1_s.jpg",
+      "datePublished": "2026-10-22T20:43:54+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
