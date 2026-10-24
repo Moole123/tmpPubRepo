@@ -1,0 +1,172 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261025de64987",
+  "dataSourceId": "nd",
+  "name": "【気象予報士解説 動画】台風30号 今後の見通しは",
+  "headline": "【気象予報士解説 動画】台風30号 今後の見通しは",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261025de64987",
+    "playlistId": "news-nwa-disaster-nationwide-20261025",
+    "newsarticleName": "【気象予報士解説 動画】台風30号 今後の見通しは",
+    "playlistName": "10月25日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "大型の台風30号は東シナ海を北上していて、しだいに東寄りに進路を変え九州に接近する見込みです。本州付近に停滞する前線に、台風から暖かく湿った空気が流れ込む影響で、東日本と西日本の広い範囲であさって27",
+  "dateModified": "2026-10-25T07:25:42+09:00",
+  "datePublished": "2026-10-25T07:25:42+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de64987/20261025de64987_E0000107765_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de64987/20261025de64987_E0000107765_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000202",
+      "name": "台風",
+      "display": true
+    },
+    {
+      "id": "E0000000114",
+      "name": "気象",
+      "display": true
+    },
+    {
+      "id": "E0000000587",
+      "name": "大雨情報",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "大型の台風30号は東シナ海を北上していて、しだいに東寄りに進路を変え九州に接近する見込みです。本州付近に停滞する前線に、台風から暖かく湿った空気が流れ込む影響で、東日本と西日本の広い範囲であさって27",
+  "articleBody": "大型の台風30号は東シナ海を北上していて、しだいに東寄りに進路を変え九州に接近する見込みです。本州付近に停滞する前線に、台風から暖かく湿った空気が流れ込む影響で、東日本と西日本の広い範囲であさって27日にかけて大雨となるおそれがあり、最新の情報を確認するようにしてください。\n\n今後の見通しについて、午前7時台に放送した気象予報士の解説です。\n（データ放送ではご覧になれません）\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "大型の台風30号は東シナ海を北上していて、しだいに東寄りに進路を変え九州に接近する見込みです。本州付近に停滞する前線に、台風から暖かく湿った空気が流れ込む影響で、東日本と西日本の広い範囲であさって27日にかけて大雨となるおそれがあり、最新の情報を確認するようにしてください。\n\n今後の見通しについて、午前7時台に放送した気象予報士の解説です。\\\n（データ放送ではご覧になれません）\n",
+    "markedBody": "",
+    "trimmedLead": "大型の台風30号は東シナ海を北上していて、しだいに東寄りに進路を変え九州に接近する見込みです。本州付近に停滞する前線に、台風から暖かく湿った空気が流れ込む影響で、東日本と西日本の広い範囲であさって27日にかけて大雨となるおそれがあり、最新の情報を確認するようにしてください。\n\n今後の見通しについて、午前7時台に放送した気象予報士の解説です。\n（データ放送ではご覧になれません）\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261025de64987.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261025de64987",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "【気象予報士解説 動画】台風30号 今後の見通しは",
+      "description": "大型の台風30号は東シナ海を北上していて、しだいに東寄りに進路を変え九州に接近する見込みです。本州付近に停滞する前線に、台風から暖かく湿った空気が流れ込む影響で、東日本と西日本の広い範囲であさって27",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261025de64987_E0000107768_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261025de64987/20261025de64987_E0000107765_1_l.jpg",
+      "duration": "PT3M50S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261025de64987_E0000107768_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de64987/20261025de64987_E0000107765_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "台風30号 台湾で1人死亡 600人以上けが 日本人学校で門倒れる",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261024de64639",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64639/20261024de64639_E0000106406_1_s.jpg",
+      "datePublished": "2026-10-24T22:26:02+09:00"
+    },
+    {
+      "name": "政府に緊急要請のGMO 被害拡大防げるか 利用者に呼びかけ強化 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261024de64946",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64946/20261024de64946_E0000106683_1_s.jpg",
+      "datePublished": "2026-10-25T04:54:25+09:00"
+    },
+    {
+      "name": "フランスで再び大規模なデモ 内相“暴力封じ込めた”強調",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261025de64977",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de64977/20261025de64977_E0000107693_1_s.jpg",
+      "datePublished": "2026-10-25T06:17:53+09:00"
+    },
+    {
+      "name": "海底のプラごみ対策 分解酵素混ぜた新たなプラスチック開発",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261024de64624",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64624/20261024de64624_E0000107676_1_s.jpg",
+      "datePublished": "2026-10-25T05:09:21+09:00"
+    },
+    {
+      "name": "キム総書記訪中 米朝交渉再開可能性見据え意思疎通のねらいか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261024de64966",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64966/20261024de64966_E0000107687_1_s.jpg",
+      "datePublished": "2026-10-25T05:15:25+09:00"
+    },
+    {
+      "name": "日本シリーズ ソフトバンク延長制し先勝 庄子が決勝打【詳報】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261024de64830",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64830/20261024de64830_E0000107655_1_s.jpg",
+      "datePublished": "2026-10-25T02:37:00+09:00"
+    },
+    {
+      "name": "巨人 松井秀喜新監督 球団施設を訪れスタッフなどにあいさつ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261024de64835",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64835/20261024de64835_E0000106769_3_s.jpg",
+      "datePublished": "2026-10-24T17:46:00+09:00"
+    },
+    {
+      "name": "お笑い芸人・ワッキーさん がん後遺症と向き合いながら舞台へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61354",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61354/20261019de61354_E0000089551_1_s.jpg",
+      "datePublished": "2026-10-24T16:45:27+09:00"
+    },
+    {
+      "name": "相次ぐ“独身偽装” 被害の実態を追う",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261021de62686",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62686/20261021de62686_E0000099006_1_s.jpg",
+      "datePublished": "2026-10-23T11:02:07+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
