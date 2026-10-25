@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261025de65230",
+  "dataSourceId": "nd",
+  "name": "巨人 ドラフト1位 4年目の浅野翔吾を自由契約 育成契約打診へ",
+  "headline": "巨人 ドラフト1位 4年目の浅野翔吾を自由契約 育成契約打診へ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261025de65230",
+    "playlistId": "news-nwa-sports-nationwide-20261025",
+    "newsarticleName": "巨人 ドラフト1位 4年目の浅野翔吾を自由契約 育成契約打診へ",
+    "playlistName": "10月25日のスポーツニュース",
+    "genreId": "sports",
+    "genreIdSlug": "sports"
+  },
+  "description": "プロ野球・巨人は、ドラフト1位で入団した4年目の浅野翔吾選手に対して、25日、自由契約とすることを通知したと発表しました。球団は育成選手としての再契約を打診するものとみられます。\n\n\n21歳の浅野選手",
+  "dateModified": "2026-10-25T18:13:10+09:00",
+  "datePublished": "2026-10-25T18:13:10+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65230/20261025de65230_E0000108377_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65230/20261025de65230_E0000108377_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "スポーツ"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "プロ野球・巨人は、ドラフト1位で入団した4年目の浅野翔吾選手に対して、25日、自由契約とすることを通知したと発表しました。球団は育成選手としての再契約を打診するものとみられます。\n\n\n21歳の浅野選手",
+  "articleBody": "プロ野球・巨人は、ドラフト1位で入団した4年目の浅野翔吾選手に対して、25日、自由契約とすることを通知したと発表しました。球団は育成選手としての再契約を打診するものとみられます。\n\n\n21歳の浅野選手は、身長1メートル72センチで持ち前のパワーを活かした長打力が魅力で、香川の高松商業から2023年にドラフト1位で巨人に入団しました。\n\nプロ2年目の2024年には40試合に出場し、3本のホームランを打ちましたが昨シーズンの出場は29試合、今シーズンは9試合にとどまっていました。\n\n浅野選手はことし8月に右ひざの内側の半月板を縫い合わせる手術を受け、現在はリハビリをしていますが、球団は25日、浅野選手に自由契約とすることを通知したと発表し、育成選手として再契約を打診する見込みです。\n",
+  "detailedArticleBody": {
+    "markedLead": "プロ野球・巨人は、ドラフト1位で入団した4年目の浅野翔吾選手に対して、25日、自由契約とすることを通知したと発表しました。球団は育成選手としての再契約を打診するものとみられます。\n",
+    "markedBody": "21歳の浅野選手は、身長1メートル72センチで持ち前のパワーを活かした長打力が魅力で、香川の高松商業から2023年にドラフト1位で巨人に入団しました。\n\nプロ2年目の2024年には40試合に出場し、3本のホームランを打ちましたが昨シーズンの出場は29試合、今シーズンは9試合にとどまっていました。\n\n浅野選手はことし8月に右ひざの内側の半月板を縫い合わせる手術を受け、現在はリハビリをしていますが、球団は25日、浅野選手に自由契約とすることを通知したと発表し、育成選手として再契約を打診する見込みです。\n",
+    "trimmedLead": "プロ野球・巨人は、ドラフト1位で入団した4年目の浅野翔吾選手に対して、25日、自由契約とすることを通知したと発表しました。球団は育成選手としての再契約を打診するものとみられます。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261025de65230.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261025de65230",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
