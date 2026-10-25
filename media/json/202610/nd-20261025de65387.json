@@ -1,0 +1,145 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261025de65387",
+  "dataSourceId": "nd",
+  "name": "長崎 漁港で男性死亡 台風に備え船を見に行ったか",
+  "headline": "長崎 漁港で男性死亡 台風に備え船を見に行ったか",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261025de65387",
+    "playlistId": "news-nwa-society-nationwide-20261025",
+    "newsarticleName": "長崎 漁港で男性死亡 台風に備え船を見に行ったか",
+    "playlistName": "10月25日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "25日午後、長崎県南島原市の漁港で、70代の漁師の男性が海に沈んでいるのが発見され、死亡しました。警察は、男性が台風に備えて船の様子を見に行き、何らかの理由で海に転落した可能性があると見て、当時の状況",
+  "dateModified": "2026-10-25T23:59:13+09:00",
+  "datePublished": "2026-10-25T23:59:13+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65387/20261025de65387_E0000003855_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65387/20261025de65387_E0000003855_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000370",
+      "name": "長崎県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "25日午後、長崎県南島原市の漁港で、70代の漁師の男性が海に沈んでいるのが発見され、死亡しました。警察は、男性が台風に備えて船の様子を見に行き、何らかの理由で海に転落した可能性があると見て、当時の状況",
+  "articleBody": "25日午後、長崎県南島原市の漁港で、70代の漁師の男性が海に沈んでいるのが発見され、死亡しました。警察は、男性が台風に備えて船の様子を見に行き、何らかの理由で海に転落した可能性があると見て、当時の状況を調べています。\n\n\n25日午後4時ごろ、長崎県南島原市の久木山漁港で男性が湾内に沈んでいると、消防に通報がありました。\n\n警察によりますと、近くに住む漁師の中尾輝夫さん（79）が、水深7メートルほどの海底に沈んでいたということで、消防に救助されましたが、すでに死亡していたということです。\n\n男性は昼すぎ、妻に「船を見に行ってくる」と言って出かけたということで、漁港に係留されている男性の漁船のほぼ真下で見つかったということです。\n\n警察は、男性が台風に備えて船の様子を見に行き、何らかの理由で海に転落した可能性があると見て、当時の詳しい状況を調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "25日午後、長崎県南島原市の漁港で、70代の漁師の男性が海に沈んでいるのが発見され、死亡しました。警察は、男性が台風に備えて船の様子を見に行き、何らかの理由で海に転落した可能性があると見て、当時の状況を調べています。\n",
+    "markedBody": "25日午後4時ごろ、長崎県南島原市の久木山漁港で男性が湾内に沈んでいると、消防に通報がありました。\n\n警察によりますと、近くに住む漁師の中尾輝夫さん（79）が、水深7メートルほどの海底に沈んでいたということで、消防に救助されましたが、すでに死亡していたということです。\n\n男性は昼すぎ、妻に「船を見に行ってくる」と言って出かけたということで、漁港に係留されている男性の漁船のほぼ真下で見つかったということです。\n\n警察は、男性が台風に備えて船の様子を見に行き、何らかの理由で海に転落した可能性があると見て、当時の詳しい状況を調べています。\n",
+    "trimmedLead": "25日午後、長崎県南島原市の漁港で、70代の漁師の男性が海に沈んでいるのが発見され、死亡しました。警察は、男性が台風に備えて船の様子を見に行き、何らかの理由で海に転落した可能性があると見て、当時の状況を調べています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261025de65387.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261025de65387",
+  "video": [],
+  "citation": [
+    {
+      "name": "台風30号は温帯低気圧に 西～東日本で大雨のおそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261024de64932",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64932/20261024de64932_E0000109263_1_s.jpg",
+      "datePublished": "2026-10-25T22:47:39+09:00"
+    },
+    {
+      "name": "ソフトバンクが2試合続けて延長制す 川村が決勝HR【詳報】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261025de65213",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65213/20261025de65213_E0000109257_1_s.jpg",
+      "datePublished": "2026-10-25T23:54:14+09:00"
+    },
+    {
+      "name": "福島県知事選挙 現職の内堀雅雄氏が4回目の当選",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261025de65086",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65086/20261025de65086_E0000109032_1_s.jpg",
+      "datePublished": "2026-10-25T22:13:55+09:00"
+    },
+    {
+      "name": "新潟市長選挙 現職の中原八一氏 3回目の当選",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261025de65104",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65104/20261025de65104_E0000109052_1_s.jpg",
+      "datePublished": "2026-10-25T23:07:40+09:00"
+    },
+    {
+      "name": "那覇市長選挙 現職の知念覚氏 2回目の当選",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261025de65105",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65105/20261025de65105_E0000109287_1_s.jpg",
+      "datePublished": "2026-10-25T23:06:16+09:00"
+    },
+    {
+      "name": "那覇　女性強盗殺人事件　米海兵隊員を起訴",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261025de65279",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65279/20261025de65279_E0000108428_1_s.jpg",
+      "datePublished": "2026-10-25T20:34:00+09:00"
+    },
+    {
+      "name": "誰にいくら支給？どうなる新たな支援金制度【経済コラム】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de64016",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64016/20261023de64016_E0000104977_1_s.jpg",
+      "datePublished": "2026-10-25T11:29:45+09:00"
+    },
+    {
+      "name": "揺らぐ米政治の“常識” 若者たちが問い直すイスラエル支持",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de59598",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59598/20261015de59598_E0000099066_1_s.jpg",
+      "datePublished": "2026-10-25T11:47:18+09:00"
+    },
+    {
+      "name": "GMO 不正アクセス問題で政府に「能動的サイバー防御」を要請",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261024de64764",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64764/20261024de64764_E0000106683_1_s.jpg",
+      "datePublished": "2026-10-24T18:57:00+09:00"
+    },
+    {
+      "name": "お笑い芸人・ワッキーさん がん後遺症と向き合いながら舞台へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61354",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61354/20261019de61354_E0000089551_1_s.jpg",
+      "datePublished": "2026-10-24T16:45:27+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
