@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261025de65362",
+  "dataSourceId": "nd",
+  "name": "GMO社長 能動的サイバー防御「国民生活への影響照らし検討を」",
+  "headline": "GMO社長 能動的サイバー防御「国民生活への影響照らし検討を」",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261025de65362",
+    "playlistId": "news-nwa-business-nationwide-20261025",
+    "newsarticleName": "GMO社長 能動的サイバー防御「国民生活への影響照らし検討を」",
+    "playlistName": "10月25日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "GMOインターネットグループの熊谷正寿社長は、不正アクセスの問題を受けて「能動的サイバー防御」を政府に要請したことについて、自身のブログで「国民生活への影響に照らして適用可能性を検討してもらいたい」と",
+  "dateModified": "2026-10-25T22:07:48+09:00",
+  "datePublished": "2026-10-25T22:07:48+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65362/20261025de65362_E0000109216_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65362/20261025de65362_E0000109216_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "GMOインターネットグループの熊谷正寿社長は、不正アクセスの問題を受けて「能動的サイバー防御」を政府に要請したことについて、自身のブログで「国民生活への影響に照らして適用可能性を検討してもらいたい」と",
+  "articleBody": "GMOインターネットグループの熊谷正寿社長は、不正アクセスの問題を受けて「能動的サイバー防御」を政府に要請したことについて、自身のブログで「国民生活への影響に照らして適用可能性を検討してもらいたい」と求めました。\n\n\nGMOインターネットグループは、投資家向けクラウドサービスが不正アクセスを受け、身に覚えのない取り引きが確認された問題で、24日被害の拡大を防止するため「能動的サイバー防御」を政府に緊急要請しました。\n\n熊谷正寿社長は、25日自身のブログで要請の理由について説明しました。\n\nこのなかで「私たちは法律が想定する電力やガスのような従来のインフラ事業者ではない。しかし国民の大切な資産とデータが国境を越えた脅威にさらされている今、実質的な国民生活への影響に照らして適用可能性を検討してもらいたい」と求めています。\n\n一方、顧客への補償の対応やシステムの刷新などにかかる費用は会社の責任で引き受けるとしています。\n\nそのうえで、AIを活用して情報の整理や痕跡の特定を行っているほか、裁判所を通じた開示請求の手続きに着手するなど、対応を進めていることを明らかにしました。\n",
+  "detailedArticleBody": {
+    "markedLead": "GMOインターネットグループの熊谷正寿社長は、不正アクセスの問題を受けて「能動的サイバー防御」を政府に要請したことについて、自身のブログで「国民生活への影響に照らして適用可能性を検討してもらいたい」と求めました。\n",
+    "markedBody": "GMOインターネットグループは、投資家向けクラウドサービスが不正アクセスを受け、身に覚えのない取り引きが確認された問題で、24日被害の拡大を防止するため「能動的サイバー防御」を政府に緊急要請しました。\n\n熊谷正寿社長は、25日自身のブログで要請の理由について説明しました。\n\nこのなかで「私たちは法律が想定する電力やガスのような従来のインフラ事業者ではない。しかし国民の大切な資産とデータが国境を越えた脅威にさらされている今、実質的な国民生活への影響に照らして適用可能性を検討してもらいたい」と求めています。\n\n一方、顧客への補償の対応やシステムの刷新などにかかる費用は会社の責任で引き受けるとしています。\n\nそのうえで、AIを活用して情報の整理や痕跡の特定を行っているほか、裁判所を通じた開示請求の手続きに着手するなど、対応を進めていることを明らかにしました。\n",
+    "trimmedLead": "GMOインターネットグループの熊谷正寿社長は、不正アクセスの問題を受けて「能動的サイバー防御」を政府に要請したことについて、自身のブログで「国民生活への影響に照らして適用可能性を検討してもらいたい」と求めました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261025de65362.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261025de65362",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
