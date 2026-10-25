@@ -1,0 +1,138 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261025de65141",
+  "dataSourceId": "nd",
+  "name": "マラソン競歩 川野将虎が世界新記録で優勝",
+  "headline": "マラソン競歩 川野将虎が世界新記録で優勝",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261025de65141",
+    "playlistId": "news-nwa-sports-nationwide-20261025",
+    "newsarticleName": "マラソン競歩 川野将虎が世界新記録で優勝",
+    "playlistName": "10月25日のスポーツニュース",
+    "genreId": "sports",
+    "genreIdSlug": "sports"
+  },
+  "description": "陸上の競歩でマラソンと同じ42.195キロで行われる新しい種目「マラソン競歩」の大会が山形県高畠町で行われ、川野将虎選手が速報タイムで2時間55分14秒の世界新記録をマークし優勝しました。\n\n\n「マラ",
+  "dateModified": "2026-10-25T14:22:00+09:00",
+  "datePublished": "2026-10-25T14:22:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65141/20261025de65141_E0000004053_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65141/20261025de65141_E0000004053_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "スポーツ"
+  ],
+  "topic": [
+    {
+      "id": "E0000000232",
+      "name": "陸上競技（競歩）",
+      "display": true
+    },
+    {
+      "id": "E0000000334",
+      "name": "山形県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "陸上の競歩でマラソンと同じ42.195キロで行われる新しい種目「マラソン競歩」の大会が山形県高畠町で行われ、川野将虎選手が速報タイムで2時間55分14秒の世界新記録をマークし優勝しました。\n\n\n「マラ",
+  "articleBody": "陸上の競歩でマラソンと同じ42.195キロで行われる新しい種目「マラソン競歩」の大会が山形県高畠町で行われ、川野将虎選手が速報タイムで2時間55分14秒の世界新記録をマークし優勝しました。\n\n\n「マラソン競歩」はこれまでの「35キロ競歩」に代わって国際大会で新たに実施されている種目です。\n\n来年の世界選手権の代表選考会を兼ねて高畠町で開かれた大会で、川野選手は速報タイムで2時間55分14秒の好記録で優勝しました。\n\n新種目である「マラソン競歩」について、世界陸連はことし1月1日以降に2時間56分30秒を切った場合に世界記録に認定すると規定していて、川野選手の記録が世界新記録となりました。\n",
+  "detailedArticleBody": {
+    "markedLead": "陸上の競歩でマラソンと同じ42.195キロで行われる新しい種目「マラソン競歩」の大会が山形県高畠町で行われ、川野将虎選手が速報タイムで2時間55分14秒の世界新記録をマークし優勝しました。\n",
+    "markedBody": "「マラソン競歩」はこれまでの「35キロ競歩」に代わって国際大会で新たに実施されている種目です。\n\n来年の世界選手権の代表選考会を兼ねて高畠町で開かれた大会で、川野選手は速報タイムで2時間55分14秒の好記録で優勝しました。\n\n新種目である「マラソン競歩」について、世界陸連はことし1月1日以降に2時間56分30秒を切った場合に世界記録に認定すると規定していて、川野選手の記録が世界新記録となりました。\n",
+    "trimmedLead": "陸上の競歩でマラソンと同じ42.195キロで行われる新しい種目「マラソン競歩」の大会が山形県高畠町で行われ、川野将虎選手が速報タイムで2時間55分14秒の世界新記録をマークし優勝しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261025de65141.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261025de65141",
+  "video": [],
+  "citation": [
+    {
+      "name": "フィギュア グランプリシリーズ第1戦 中井亜美が逆転優勝",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261025de64981",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de64981/20261025de64981_E0000107702_1_s.jpg",
+      "datePublished": "2026-10-25T06:34:36+09:00"
+    },
+    {
+      "name": "愛知・名古屋アジアパラ大会閉会式 7日間の熱戦に幕",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261024de64785",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64785/20261024de64785_E0000107652_1_s.jpg",
+      "datePublished": "2026-10-25T00:04:49+09:00"
+    },
+    {
+      "name": "日本シリーズ ソフトバンク延長制し先勝 庄子が決勝打【詳報】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261024de64830",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64830/20261024de64830_E0000107655_1_s.jpg",
+      "datePublished": "2026-10-25T02:37:00+09:00"
+    },
+    {
+      "name": "クライミングシリーズ スピードで大政涼が年間2位",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261025de65139",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65139/20261025de65139_E0000004053_1_s.jpg",
+      "datePublished": "2026-10-25T14:23:00+09:00"
+    },
+    {
+      "name": "サッカーJ1 第12節 広島が快勝 浅野拓磨が復帰後初ゴール",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261024de64945",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64945/20261024de64945_E0000107660_1_s.jpg",
+      "datePublished": "2026-10-25T00:13:10+09:00"
+    },
+    {
+      "name": "体操世界選手権 種目別 つり輪で岡が4位 ゆかで土井が4位",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261025de64973",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de64973/20261025de64973_E0000107697_1_s.jpg",
+      "datePublished": "2026-10-25T05:35:26+09:00"
+    },
+    {
+      "name": "ワールドシリーズが開幕 第1戦はブルワーズが勝利",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261024de64775",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64775/20261024de64775_E0000106709_1_s.jpg",
+      "datePublished": "2026-10-24T15:04:00+09:00"
+    },
+    {
+      "name": "ラグビー日本代表フィジーに競り負け 協会創立100周年記念試合",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261024de64849",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64849/20261024de64849_E0000107451_1_s.jpg",
+      "datePublished": "2026-10-24T22:40:52+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

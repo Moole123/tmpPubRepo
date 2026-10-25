@@ -1,0 +1,144 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261025de65139",
+  "dataSourceId": "nd",
+  "name": "クライミングシリーズ スピードで大政涼が年間2位",
+  "headline": "クライミングシリーズ スピードで大政涼が年間2位",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261025de65139",
+    "playlistId": "news-nwa-sports-nationwide-20261025",
+    "newsarticleName": "クライミングシリーズ スピードで大政涼が年間2位",
+    "playlistName": "10月25日のスポーツニュース",
+    "genreId": "sports",
+    "genreIdSlug": "sports"
+  },
+  "description": "スポーツクライミングのワールドクライミングシリーズはスピードの今シーズン最終戦が行われ、24歳の大政涼選手が3位に入って、年間成績でもこの種目では日本勢で初めての2位になりました。\n\n\n昨シーズンまで",
+  "dateModified": "2026-10-25T14:23:00+09:00",
+  "datePublished": "2026-10-25T14:23:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65139/20261025de65139_E0000004053_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65139/20261025de65139_E0000004053_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "スポーツ"
+  ],
+  "topic": [
+    {
+      "id": "E0000000248",
+      "name": "スポーツクライミング",
+      "display": true
+    },
+    {
+      "id": "E0000000552",
+      "name": "チリ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "スポーツクライミングのワールドクライミングシリーズはスピードの今シーズン最終戦が行われ、24歳の大政涼選手が3位に入って、年間成績でもこの種目では日本勢で初めての2位になりました。\n\n\n昨シーズンまで",
+  "articleBody": "スポーツクライミングのワールドクライミングシリーズはスピードの今シーズン最終戦が行われ、24歳の大政涼選手が3位に入って、年間成績でもこの種目では日本勢で初めての2位になりました。\n\n\n昨シーズンまでワールドカップとして開催されていたワールドクライミングシリーズは世界共通のルートが設定された高さ15メートルの壁を登る速さを競うスピードの今シーズン最終戦となる第7戦がチリで行われました。\n\n男子でこの種目の日本の第一人者、24歳の大政選手は、決勝ラウンドの1回戦、2回戦を勝ち上がりましたが、準決勝で世界記録保持者の中国の選手に敗れて3位決定戦に進みました。\n\n3位決定戦で、大政選手は愛知・名古屋アジア大会を制した中国の選手に競り勝って3位を確保しました。\n\n大政選手は今シーズンの各大会の順位ごとに与えられるポイントで決まる年間成績でも日本勢で初めての2位になりました。\n",
+  "detailedArticleBody": {
+    "markedLead": "スポーツクライミングのワールドクライミングシリーズはスピードの今シーズン最終戦が行われ、24歳の大政涼選手が3位に入って、年間成績でもこの種目では日本勢で初めての2位になりました。\n",
+    "markedBody": "昨シーズンまでワールドカップとして開催されていたワールドクライミングシリーズは世界共通のルートが設定された高さ15メートルの壁を登る速さを競うスピードの今シーズン最終戦となる第7戦がチリで行われました。\n\n男子でこの種目の日本の第一人者、24歳の大政選手は、決勝ラウンドの1回戦、2回戦を勝ち上がりましたが、準決勝で世界記録保持者の中国の選手に敗れて3位決定戦に進みました。\n\n3位決定戦で、大政選手は愛知・名古屋アジア大会を制した中国の選手に競り勝って3位を確保しました。\n\n大政選手は今シーズンの各大会の順位ごとに与えられるポイントで決まる年間成績でも日本勢で初めての2位になりました。\n",
+    "trimmedLead": "スポーツクライミングのワールドクライミングシリーズはスピードの今シーズン最終戦が行われ、24歳の大政涼選手が3位に入って、年間成績でもこの種目では日本勢で初めての2位になりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261025de65139.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261025de65139",
+  "video": [],
+  "citation": [
+    {
+      "name": "クライミングシリーズ スピード第6戦で大政涼が日本勢初優勝",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260919de51232",
+      "thumbnailUrl": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png",
+      "datePublished": "2026-09-19T14:13:00+09:00"
+    },
+    {
+      "name": "マラソン競歩 川野将虎が世界新記録で優勝",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261025de65141",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65141/20261025de65141_E0000004053_1_s.jpg",
+      "datePublished": "2026-10-25T14:22:00+09:00"
+    },
+    {
+      "name": "フィギュア グランプリシリーズ第1戦 中井亜美が逆転優勝",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261025de64981",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de64981/20261025de64981_E0000107702_1_s.jpg",
+      "datePublished": "2026-10-25T06:34:36+09:00"
+    },
+    {
+      "name": "愛知・名古屋アジアパラ大会閉会式 7日間の熱戦に幕",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261024de64785",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64785/20261024de64785_E0000107652_1_s.jpg",
+      "datePublished": "2026-10-25T00:04:49+09:00"
+    },
+    {
+      "name": "日本シリーズ ソフトバンク延長制し先勝 庄子が決勝打【詳報】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261024de64830",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64830/20261024de64830_E0000107655_1_s.jpg",
+      "datePublished": "2026-10-25T02:37:00+09:00"
+    },
+    {
+      "name": "サッカーJ1 第12節 広島が快勝 浅野拓磨が復帰後初ゴール",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261024de64945",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64945/20261024de64945_E0000107660_1_s.jpg",
+      "datePublished": "2026-10-25T00:13:10+09:00"
+    },
+    {
+      "name": "体操世界選手権 種目別 つり輪で岡が4位 ゆかで土井が4位",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261025de64973",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de64973/20261025de64973_E0000107697_1_s.jpg",
+      "datePublished": "2026-10-25T05:35:26+09:00"
+    },
+    {
+      "name": "ワールドシリーズが開幕 第1戦はブルワーズが勝利",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261024de64775",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64775/20261024de64775_E0000106709_1_s.jpg",
+      "datePublished": "2026-10-24T15:04:00+09:00"
+    },
+    {
+      "name": "ラグビー日本代表フィジーに競り負け 協会創立100周年記念試合",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261024de64849",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64849/20261024de64849_E0000107451_1_s.jpg",
+      "datePublished": "2026-10-24T22:40:52+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
