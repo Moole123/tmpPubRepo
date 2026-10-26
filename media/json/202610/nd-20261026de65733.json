@@ -1,0 +1,161 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261026de65733",
+  "dataSourceId": "nd",
+  "name": "ハッカー集団 GMOにあす期限で100万ドル要求 顧客脅迫も",
+  "headline": "ハッカー集団 GMOにあす期限で100万ドル要求 顧客脅迫も",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261026de65733",
+    "playlistId": "news-nwa-scienceculture-nationwide-20261026",
+    "newsarticleName": "ハッカー集団 GMOにあす期限で100万ドル要求 顧客脅迫も",
+    "playlistName": "10月26日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "GMOインターネットグループの投資家向けクラウドサービスに不正アクセスしたとみられるハッカー集団が、27日正午までに会社側に100万ドル＝日本円で1億5700万円余りを支払うよう求めていることが分かり",
+  "dateModified": "2026-10-26T17:11:22+09:00",
+  "datePublished": "2026-10-26T17:11:22+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65733/20261026de65733_E0000110772_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65733/20261026de65733_E0000110772_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "科学・文化",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "GMOインターネットグループの投資家向けクラウドサービスに不正アクセスしたとみられるハッカー集団が、27日正午までに会社側に100万ドル＝日本円で1億5700万円余りを支払うよう求めていることが分かり",
+  "articleBody": "GMOインターネットグループの投資家向けクラウドサービスに不正アクセスしたとみられるハッカー集団が、27日正午までに会社側に100万ドル＝日本円で1億5700万円余りを支払うよう求めていることが分かりました。\n\n会社側は「攻撃者からの要求には応じない」としています。\n\n\nGMOインターネットグループが投資家向けに提供しているFX＝外国為替証拠金取引などの自動取引ができるサーバーに不正アクセスがあり、これまでに会社は、顧客の情報が外部に持ち出され、一部の利用者で身に覚えのない不正な取り引きが確認されたと公表しています。\n\n不正アクセスしたとみられるハッカー集団はインターネット上のサイトに犯行声明を掲載していて、この中で日本時間の27日正午までに、GMO側に100万ドル＝日本円で1億5700万円余りを支払うように求めていることが分かりました。\n\nサイトでは、会社側が要求に応じない場合は、利用者の個人情報を公開するほか、サーバーを通じて侵入した個人パソコンを暗号化するなどと脅迫しています。\n\n一方、GMOは、「攻撃者からの要求には応じない」とした上で、ホームページで、利用者に対する「至急のお願い」として、パソコンなどをウイルス対策ソフトでフルスキャンすることやデータのバックアップを取得することなど対応を呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "GMOインターネットグループの投資家向けクラウドサービスに不正アクセスしたとみられるハッカー集団が、27日正午までに会社側に100万ドル＝日本円で1億5700万円余りを支払うよう求めていることが分かりました。\n\n会社側は「攻撃者からの要求には応じない」としています。\n",
+    "markedBody": "![](https://img.web.nhk/news/nd/kiji/20261026de65733/20261026de65733_E0000110758_1_l.jpg \"ハッカー集団による犯行声明\")\n\nGMOインターネットグループが投資家向けに提供しているFX＝外国為替証拠金取引などの自動取引ができるサーバーに不正アクセスがあり、これまでに会社は、顧客の情報が外部に持ち出され、一部の利用者で身に覚えのない不正な取り引きが確認されたと公表しています。\n\n不正アクセスしたとみられるハッカー集団はインターネット上のサイトに犯行声明を掲載していて、この中で日本時間の27日正午までに、GMO側に100万ドル＝日本円で1億5700万円余りを支払うように求めていることが分かりました。\n\nサイトでは、会社側が要求に応じない場合は、利用者の個人情報を公開するほか、サーバーを通じて侵入した個人パソコンを暗号化するなどと脅迫しています。\n\n一方、GMOは、「攻撃者からの要求には応じない」とした上で、ホームページで、利用者に対する「至急のお願い」として、パソコンなどをウイルス対策ソフトでフルスキャンすることやデータのバックアップを取得することなど対応を呼びかけています。\n",
+    "trimmedLead": "GMOインターネットグループの投資家向けクラウドサービスに不正アクセスしたとみられるハッカー集団が、27日正午までに会社側に100万ドル＝日本円で1億5700万円余りを支払うよう求めていることが分かりました。\n\n会社側は「攻撃者からの要求には応じない」としています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261026de65733.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261026de65733",
+  "video": [],
+  "citation": [
+    {
+      "name": "【情報漏えい】対策どうする 二次被害に遭わないためには",
+      "url": "https://news.web.nhk/newsweb/pl/editorial-nwa-0000000697",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261018de61119_E0000086259_1_s.jpg"
+    },
+    {
+      "name": "GMO 不正アクセス問題で政府に「能動的サイバー防御」を要請",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261024de64764",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64764/20261024de64764_E0000106683_1_s.jpg",
+      "datePublished": "2026-10-24T18:57:00+09:00"
+    },
+    {
+      "name": "GMO社長 能動的サイバー防御「国民生活への影響照らし検討を」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261025de65362",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65362/20261025de65362_E0000109216_1_s.jpg",
+      "datePublished": "2026-10-25T22:07:00+09:00"
+    },
+    {
+      "name": "政府 相次ぐ不正アクセス受け今夜関係閣僚会議開催へ ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65587",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65587/20261026de65587_E0000003842_1_s.jpg",
+      "datePublished": "2026-10-26T11:59:00+09:00"
+    },
+    {
+      "name": "台風30号は温帯低気圧に 西～東日本で非常に激しい雨のおそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65420",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65420/20261026de65420_E0000110688_1_s.jpg",
+      "datePublished": "2026-10-26T15:14:15+09:00"
+    },
+    {
+      "name": "将棋 西山朋佳女流四冠 プロ入り表明 初の女性プロ棋士誕生へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65487",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65487/20261026de65487_E0000110302_1_s.jpg",
+      "datePublished": "2026-10-26T16:30:34+09:00"
+    },
+    {
+      "name": "ブラジル大統領選挙 決選投票 現職のルーラ大統領が当選",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65416",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65416/20261026de65416_E0000109809_1_s.jpg",
+      "datePublished": "2026-10-26T14:40:47+09:00"
+    },
+    {
+      "name": "韓国と北朝鮮 軍事境界線付近 地雷爆発めぐり国連で非難の応酬",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65609",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65609/20261026de65609_E0000110278_1_s.jpg",
+      "datePublished": "2026-10-26T12:32:00+09:00"
+    },
+    {
+      "name": "誰にいくら支給？どうなる新たな支援金制度【経済コラム】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de64016",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64016/20261023de64016_E0000104977_1_s.jpg",
+      "datePublished": "2026-10-25T11:29:45+09:00"
+    },
+    {
+      "name": "揺らぐ米政治の“常識” 若者たちが問い直すイスラエル支持",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261015de59598",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59598/20261015de59598_E0000099066_1_s.jpg",
+      "datePublished": "2026-10-25T11:47:18+09:00"
+    },
+    {
+      "name": "お笑い芸人・ワッキーさん がん後遺症と向き合いながら舞台へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261019de61354",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61354/20261019de61354_E0000089551_1_s.jpg",
+      "datePublished": "2026-10-24T16:45:27+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
