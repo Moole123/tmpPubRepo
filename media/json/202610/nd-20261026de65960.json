@@ -1,0 +1,138 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261026de65960",
+  "dataSourceId": "nd",
+  "name": "福島 双葉町で不審メール相次ぐ 配信会社に不正アクセス",
+  "headline": "福島 双葉町で不審メール相次ぐ 配信会社に不正アクセス",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261026de65960",
+    "playlistId": "news-nwa-society-nationwide-20261026",
+    "newsarticleName": "福島 双葉町で不審メール相次ぐ 配信会社に不正アクセス",
+    "playlistName": "10月26日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "福島県双葉町で、町のメールマガジンの配信を受けている人たちに、クレジットカード会社を装った不審なメールが相次いで送られていることがわかりました。メールマガジンを配信する会社が、24日、不正アクセスを受",
+  "dateModified": "2026-10-26T20:34:47+09:00",
+  "datePublished": "2026-10-26T20:34:47+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65960/20261026de65960_E0000112655_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65960/20261026de65960_E0000112655_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会",
+    "暮らし"
+  ],
+  "topic": [
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000335",
+      "name": "福島県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "福島県双葉町で、町のメールマガジンの配信を受けている人たちに、クレジットカード会社を装った不審なメールが相次いで送られていることがわかりました。メールマガジンを配信する会社が、24日、不正アクセスを受",
+  "articleBody": "福島県双葉町で、町のメールマガジンの配信を受けている人たちに、クレジットカード会社を装った不審なメールが相次いで送られていることがわかりました。メールマガジンを配信する会社が、24日、不正アクセスを受けた痕跡を確認したということで、町は、登録者のメールアドレスが漏えいした可能性があるとして注意を呼びかけています。\n\n\n双葉町によりますと、24日以降、町のメールマガジンの配信を受けている人から、「クレジットカードの未払いの請求があるので手続きをしてほしい」という不審なメールが送られてきたという相談が、相次いで寄せられているということです。\n\nメールは実在するクレジットカード会社の名前で、メールマガジンを配信するアドレスから送られているということです。\n\n町によりますと、24日、町のメールマガジンの配信サービスを行っている東京・八王子市の会社「イグレックス」が、第三者による不正アクセスを受けた痕跡を確認していました。\n\nこのため町は、不正アクセスで登録者のメールアドレスが漏えいした可能性があるとして、状況を確認しています。\n\n双葉町のメールマガジンは、町民や職員などのメールアドレスおよそ1400件が登録されていて、不審なメールがどれくらい送られているかはわかっていないということで、町は「利用者にご迷惑とご心配をおかけし、心よりおわび申し上げます。メールマガジンで料金などを請求することは一切ないので、不審なメールを受信した場合は絶対に対応しないでほしい」と呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "福島県双葉町で、町のメールマガジンの配信を受けている人たちに、クレジットカード会社を装った不審なメールが相次いで送られていることがわかりました。メールマガジンを配信する会社が、24日、不正アクセスを受けた痕跡を確認したということで、町は、登録者のメールアドレスが漏えいした可能性があるとして注意を呼びかけています。\n",
+    "markedBody": "双葉町によりますと、24日以降、町のメールマガジンの配信を受けている人から、「クレジットカードの未払いの請求があるので手続きをしてほしい」という不審なメールが送られてきたという相談が、相次いで寄せられているということです。\n\nメールは実在するクレジットカード会社の名前で、メールマガジンを配信するアドレスから送られているということです。\n\n町によりますと、24日、町のメールマガジンの配信サービスを行っている東京・八王子市の会社「イグレックス」が、第三者による不正アクセスを受けた痕跡を確認していました。\n\nこのため町は、不正アクセスで登録者のメールアドレスが漏えいした可能性があるとして、状況を確認しています。\n\n双葉町のメールマガジンは、町民や職員などのメールアドレスおよそ1400件が登録されていて、不審なメールがどれくらい送られているかはわかっていないということで、町は「利用者にご迷惑とご心配をおかけし、心よりおわび申し上げます。メールマガジンで料金などを請求することは一切ないので、不審なメールを受信した場合は絶対に対応しないでほしい」と呼びかけています。\n",
+    "trimmedLead": "福島県双葉町で、町のメールマガジンの配信を受けている人たちに、クレジットカード会社を装った不審なメールが相次いで送られていることがわかりました。メールマガジンを配信する会社が、24日、不正アクセスを受けた痕跡を確認したということで、町は、登録者のメールアドレスが漏えいした可能性があるとして注意を呼びかけています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261026de65960.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261026de65960",
+  "video": [],
+  "citation": [
+    {
+      "name": "高市首相 不正アクセスで\"来週中メドに対策パッケージを\"",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65587",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65587/20261026de65587_E0000003842_1_s.jpg",
+      "datePublished": "2026-10-26T20:07:41+09:00"
+    },
+    {
+      "name": "ハッカー集団 GMOにあす期限で100万ドル要求 顧客脅迫も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65733",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65733/20261026de65733_E0000110772_1_s.jpg",
+      "datePublished": "2026-10-26T19:37:12+09:00"
+    },
+    {
+      "name": "原発避難者に公務員宿舎の明け渡し命じる判決 東京地裁",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65948",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65948/20261026de65948_E0000112175_1_s.jpg",
+      "datePublished": "2026-10-26T19:36:46+09:00"
+    },
+    {
+      "name": "家電量販店「Joshin」 顧客情報600万件漏えいの可能性 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65955",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65955/20261026de65955_E0000113330_1_s.jpg",
+      "datePublished": "2026-10-26T21:18:46+09:00"
+    },
+    {
+      "name": "日本最大級の工作機械見本市 AI活用した技術など紹介",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65946",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65946/20261026de65946_E0000111874_1_s.jpg",
+      "datePublished": "2026-10-26T19:04:59+09:00"
+    },
+    {
+      "name": "「タイムズカー」個人情報漏えい問題 被害者が集団提訴へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65793",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65793/20261026de65793_E0000110815_1_s.jpg",
+      "datePublished": "2026-10-26T18:01:00+09:00"
+    },
+    {
+      "name": "株価 値下がり 半導体関連の銘柄を中心に売り注文",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65589",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65589/20261026de65589_E0000110717_1_s.jpg",
+      "datePublished": "2026-10-26T16:05:40+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
