@@ -1,0 +1,160 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261026de66026",
+  "dataSourceId": "nd",
+  "name": "韓国でAI悪用し800万超の個人情報入手か グループ検挙",
+  "headline": "韓国でAI悪用し800万超の個人情報入手か グループ検挙",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261026de66026",
+    "playlistId": "news-nwa-international-nationwide-20261027",
+    "newsarticleName": "韓国でAI悪用し800万超の個人情報入手か グループ検挙",
+    "playlistName": "10月27日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "韓国で企業などのシステムに不正にアクセスし、800万件を超える個人情報を入手した上で、企業側を脅して金銭を要求していたとして国内のグループが検挙されました。韓国メディアは生成AIを悪用した大規模なハッ",
+  "dateModified": "2026-10-27T00:53:06+09:00",
+  "datePublished": "2026-10-27T00:53:06+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de66026/20261026de66026_E0000113421_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de66026/20261026de66026_E0000113421_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000376",
+      "name": "韓国",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000208",
+      "name": "事件・事故",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "韓国で企業などのシステムに不正にアクセスし、800万件を超える個人情報を入手した上で、企業側を脅して金銭を要求していたとして国内のグループが検挙されました。韓国メディアは生成AIを悪用した大規模なハッ",
+  "articleBody": "韓国で企業などのシステムに不正にアクセスし、800万件を超える個人情報を入手した上で、企業側を脅して金銭を要求していたとして国内のグループが検挙されました。韓国メディアは生成AIを悪用した大規模なハッキングに関連した初めての検挙だと伝えています。\n\n\n韓国メディアによりますと、グループは去年9月ごろからシステムのぜい弱性を診断するソフトウエアと生成AIを利用して、国内の企業や病院、それに教育機関などのウェブサイトに不正にアクセスし、およそ820万件の個人情報を入手していた疑いがあるということです。\n\nそのうえで、グループは「情報漏えいが外部に知られればイメージが損なわれる」などといった内容のメールを企業側に送りつけ、あわせて3億6000万ウォン、日本円で4200万円余りの金銭を要求した疑いももたれています。\n\n警察はグループの主犯格とみられる32歳の容疑者の身柄を起訴や公判を担当する公訴庁に送ったということです。\n\n韓国メディアは生成AIを悪用した大規模なハッキングに関連した初めての検挙だと伝えています。\n\n韓国では先月下旬以降、大手銀行などを標的にした不正アクセスにより、個人情報の漏えいが相次ぎ、AIを悪用したサイバー攻撃の可能性が指摘されていて、イ・ジェミョン(李在明)大統領がセキュリティー対策の強化を指示するなど、対応に追われています。\n",
+  "detailedArticleBody": {
+    "markedLead": "韓国で企業などのシステムに不正にアクセスし、800万件を超える個人情報を入手した上で、企業側を脅して金銭を要求していたとして国内のグループが検挙されました。韓国メディアは生成AIを悪用した大規模なハッキングに関連した初めての検挙だと伝えています。\n",
+    "markedBody": "韓国メディアによりますと、グループは去年9月ごろからシステムのぜい弱性を診断するソフトウエアと生成AIを利用して、国内の企業や病院、それに教育機関などのウェブサイトに不正にアクセスし、およそ820万件の個人情報を入手していた疑いがあるということです。\n\nそのうえで、グループは「情報漏えいが外部に知られればイメージが損なわれる」などといった内容のメールを企業側に送りつけ、あわせて3億6000万ウォン、日本円で4200万円余りの金銭を要求した疑いももたれています。\n\n警察はグループの主犯格とみられる32歳の容疑者の身柄を起訴や公判を担当する公訴庁に送ったということです。\n\n韓国メディアは生成AIを悪用した大規模なハッキングに関連した初めての検挙だと伝えています。\n\n韓国では先月下旬以降、大手銀行などを標的にした不正アクセスにより、個人情報の漏えいが相次ぎ、AIを悪用したサイバー攻撃の可能性が指摘されていて、イ・ジェミョン(李在明)大統領がセキュリティー対策の強化を指示するなど、対応に追われています。\n",
+    "trimmedLead": "韓国で企業などのシステムに不正にアクセスし、800万件を超える個人情報を入手した上で、企業側を脅して金銭を要求していたとして国内のグループが検挙されました。韓国メディアは生成AIを悪用した大規模なハッキングに関連した初めての検挙だと伝えています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261026de66026.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261026de66026",
+  "video": [],
+  "citation": [
+    {
+      "name": "ハッカー集団 GMOに27日期限で100万ドル要求 顧客脅迫も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65733",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65733/20261026de65733_E0000110772_1_s.jpg",
+      "datePublished": "2026-10-26T19:37:00+09:00"
+    },
+    {
+      "name": "家電量販店「Joshin」 顧客情報600万件漏えいの可能性 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65955",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65955/20261026de65955_E0000113330_1_s.jpg",
+      "datePublished": "2026-10-26T21:18:00+09:00"
+    },
+    {
+      "name": "「タイムズカー」個人情報漏えい問題 被害者が集団提訴へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65793",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65793/20261026de65793_E0000110815_1_s.jpg",
+      "datePublished": "2026-10-26T18:01:00+09:00"
+    },
+    {
+      "name": "自民 31議席削減案 各党との協議の進め方を実務者に一任",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65745",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65745/20261026de65745_E0000110740_1_s.jpg",
+      "datePublished": "2026-10-26T19:55:23+09:00"
+    },
+    {
+      "name": "福田康夫元首相が死去 90歳",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65501",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65501/20261026de65501_E0000109808_1_s.jpg",
+      "datePublished": "2026-10-26T23:20:24+09:00"
+    },
+    {
+      "name": "台風30号は温帯低気圧に 雨の範囲は東へ移動",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65420",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65420/20261026de65420_E0000110886_1_s.jpg",
+      "datePublished": "2026-10-26T19:13:29+09:00"
+    },
+    {
+      "name": "将棋 西山朋佳女流四冠 プロ入り表明 初の女性プロ棋士誕生へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65487",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65487/20261026de65487_E0000110302_1_s.jpg",
+      "datePublished": "2026-10-26T19:06:00+09:00"
+    },
+    {
+      "name": "ドクターイエローの後継「ドクターS」が初運行 JR東海",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65533",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65533/20261026de65533_E0000109927_1_s.jpg",
+      "datePublished": "2026-10-26T11:41:00+09:00"
+    },
+    {
+      "name": "“安全保障3文書”そもそも？なぜ改定？焦点は？暮らしにも？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65576",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65576/20261026de65576_E0000109858_1_s.jpg",
+      "datePublished": "2026-10-26T18:07:05+09:00"
+    },
+    {
+      "name": "YOASOBIが「ブラッサム」主題歌に込めたメッセージとは",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60262",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60262/20261016de60262_E0000078738_1_s.jpg",
+      "datePublished": "2026-10-26T19:19:05+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
