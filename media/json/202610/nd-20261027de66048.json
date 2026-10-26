@@ -1,0 +1,178 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261027de66048",
+  "dataSourceId": "nd",
+  "name": "GMO ハッカー集団から27日正午期限の脅迫続くなか 注意呼びかけを一段と強化",
+  "headline": "GMO ハッカー集団の脅迫続くなか 注意呼びかけを一段と強化",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261027de66048",
+    "playlistId": "news-nwa-business-nationwide-20261027",
+    "newsarticleName": "GMO ハッカー集団から27日正午期限の脅迫続くなか 注意呼びかけを一段と強化",
+    "playlistName": "10月27日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "GMOインターネットグループのサービスに不正アクセスがあり、身に覚えのない取り引きが確認された問題で、不正アクセスをしたとみられるハッカー集団は、27日正午までに会社側に1億5000万円余りを支払うよ",
+  "dateModified": "2026-10-27T04:54:00+09:00",
+  "datePublished": "2026-10-27T04:54:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66048/20261027de66048_E0000113437_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66048/20261027de66048_E0000113437_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "GMOインターネットグループのサービスに不正アクセスがあり、身に覚えのない取り引きが確認された問題で、不正アクセスをしたとみられるハッカー集団は、27日正午までに会社側に1億5000万円余りを支払うよ",
+  "articleBody": "GMOインターネットグループのサービスに不正アクセスがあり、身に覚えのない取り引きが確認された問題で、不正アクセスをしたとみられるハッカー集団は、27日正午までに会社側に1億5000万円余りを支払うよう要求しています。会社は要求には応じない姿勢で、利用者にパソコンのウイルスチェックを促すなど被害の拡大防止に向けた呼びかけを強化しています。\n\n\nGMOインターネットグループでは、FX＝外国為替証拠金取引などの自動取引ができる投資家向けのクラウドサービスに不正アクセスがあり、これまでに一部の利用者で身に覚えのない不正な取り引きが確認されたと明らかにしています。\n\nこのうち都内に本社があるOANDA証券は26日、GMOへの不正アクセスに伴って一部の顧客のアカウントで不正な取り引きがあったことを公表しました。\n\n不正アクセスをしたとみられるハッカー集団は、インターネット上のサイトに犯行声明を掲載していて、この中では日本時間の27日正午までに100万ドル＝日本円で1億5700万円余りを支払うよう会社側に求め、要求に応じない場合は利用者の個人情報を公開するなどと脅迫しています。\n\n一方、会社は「攻撃者の要求には応じない」という姿勢を示しています。\n\nハッカー集団の脅迫が続く中、会社は26日夜、改めて利用者に対して注意の呼びかけを行いました。\n\nこの中では、ウイルス対策ソフトを使いサービスを使っていた端末を網羅的にチェックする「フルスキャン」を行うこと、また、必要な写真や文書などのデータはネットワークから切り離したうえでバックアップすること、さらに、ログインした状態を解除しパスワードを変更することなどを促しています。\n\n会社は民間事業者単独での対応は難しいとして、政府に対し「能動的サイバー防御」の要請をしていますが、ハッカー集団が一方的に期限を設ける中、被害の拡大をどう防ぐかが課題となっています。\n",
+  "detailedArticleBody": {
+    "markedLead": "GMOインターネットグループのサービスに不正アクセスがあり、身に覚えのない取り引きが確認された問題で、不正アクセスをしたとみられるハッカー集団は、27日正午までに会社側に1億5000万円余りを支払うよう要求しています。会社は要求には応じない姿勢で、利用者にパソコンのウイルスチェックを促すなど被害の拡大防止に向けた呼びかけを強化しています。\n",
+    "markedBody": "GMOインターネットグループでは、FX＝外国為替証拠金取引などの自動取引ができる投資家向けのクラウドサービスに不正アクセスがあり、これまでに一部の利用者で身に覚えのない不正な取り引きが確認されたと明らかにしています。\n\nこのうち都内に本社があるOANDA証券は26日、GMOへの不正アクセスに伴って一部の顧客のアカウントで不正な取り引きがあったことを公表しました。\n\n不正アクセスをしたとみられるハッカー集団は、インターネット上のサイトに犯行声明を掲載していて、この中では日本時間の27日正午までに100万ドル＝日本円で1億5700万円余りを支払うよう会社側に求め、要求に応じない場合は利用者の個人情報を公開するなどと脅迫しています。\n\n一方、会社は「攻撃者の要求には応じない」という姿勢を示しています。\n\nハッカー集団の脅迫が続く中、会社は26日夜、改めて利用者に対して注意の呼びかけを行いました。\n\nこの中では、ウイルス対策ソフトを使いサービスを使っていた端末を網羅的にチェックする「フルスキャン」を行うこと、また、必要な写真や文書などのデータはネットワークから切り離したうえでバックアップすること、さらに、ログインした状態を解除しパスワードを変更することなどを促しています。\n\n会社は民間事業者単独での対応は難しいとして、政府に対し「能動的サイバー防御」の要請をしていますが、ハッカー集団が一方的に期限を設ける中、被害の拡大をどう防ぐかが課題となっています。\n",
+    "trimmedLead": "GMOインターネットグループのサービスに不正アクセスがあり、身に覚えのない取り引きが確認された問題で、不正アクセスをしたとみられるハッカー集団は、27日正午までに会社側に1億5000万円余りを支払うよう要求しています。会社は要求には応じない姿勢で、利用者にパソコンのウイルスチェックを促すなど被害の拡大防止に向けた呼びかけを強化しています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261027de66048.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261027de66048",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "GMO ハッカー集団の脅迫続くなか 注意呼びかけを一段と強化",
+      "description": "GMOインターネットグループのサービスに不正アクセスがあり、身に覚えのない取り引きが確認された問題で、不正アクセスをしたとみられるハッカー集団は、27日正午までに会社側に1億5000万円余りを支払うよ",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261027de66048_E0000113454_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261027de66048/20261027de66048_E0000113437_1_l.jpg",
+      "duration": "PT1M31S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261027de66048_E0000113454_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66048/20261027de66048_E0000113437_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "ハッカー集団 GMOに27日期限で100万ドル要求 顧客脅迫も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65733",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65733/20261026de65733_E0000110772_1_s.jpg",
+      "datePublished": "2026-10-26T19:37:00+09:00"
+    },
+    {
+      "name": "政府 AIのリスク対応で法改正に向け検討開始へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de66039",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de66039/20261026de66039_E0000113425_1_s.jpg",
+      "datePublished": "2026-10-27T00:44:24+09:00"
+    },
+    {
+      "name": "高市首相 不正アクセスで\"来週中メドに対策パッケージを\"",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65587",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65587/20261026de65587_E0000003842_1_s.jpg",
+      "datePublished": "2026-10-26T20:07:00+09:00"
+    },
+    {
+      "name": "家電量販店「Joshin」 顧客情報600万件漏えいの可能性 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65955",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65955/20261026de65955_E0000113330_1_s.jpg",
+      "datePublished": "2026-10-26T21:18:00+09:00"
+    },
+    {
+      "name": "「タイムズカー」個人情報漏えい問題 被害者が集団提訴へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65793",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65793/20261026de65793_E0000110815_1_s.jpg",
+      "datePublished": "2026-10-26T18:01:00+09:00"
+    },
+    {
+      "name": "電子ギフト会社に不正アクセス 5億5000万円分が不正発行",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de66013",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de66013/20261026de66013_E0000113436_1_s.jpg",
+      "datePublished": "2026-10-26T22:50:00+09:00"
+    },
+    {
+      "name": "メール配信会社 不正アクセスで5162万件余の情報流出",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66047",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66047/20261027de66047_E0000113434_1_s.jpg",
+      "datePublished": "2026-10-27T00:17:25+09:00"
+    },
+    {
+      "name": "楽天トラベル 不正アクセスで氏名やクレカ番号の一部など流出",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de66040",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de66040/20261026de66040_E0000113435_1_s.jpg",
+      "datePublished": "2026-10-27T00:32:28+09:00"
+    },
+    {
+      "name": "韓国でAI悪用し800万超の個人情報入手か グループ検挙",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de66026",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de66026/20261026de66026_E0000113421_1_s.jpg",
+      "datePublished": "2026-10-27T00:53:06+09:00"
+    },
+    {
+      "name": "ソフトバンク 緊急速報メールの配信すべて再開",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66055",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66055/20261027de66055_E0000113439_1_s.jpg",
+      "datePublished": "2026-10-27T01:03:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
