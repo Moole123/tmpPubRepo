@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261028de66717",
+  "dataSourceId": "nd",
+  "name": "イギリス基地テロ計画　外国情報機関支援の罪で2人起訴",
+  "headline": "英基地テロ計画　外国情報機関支援の罪で2人起訴",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261028de66717",
+    "playlistId": "news-nwa-international-nationwide-20261028",
+    "newsarticleName": "イギリス基地テロ計画　外国情報機関支援の罪で2人起訴",
+    "playlistName": "10月28日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "イギリスの空軍基地の近くでテロの計画があったとされる事件で、検察当局はロンドン在住の男2人を外国の情報機関を支援した罪などで起訴しました。\n\n警察はイランとのつながりを指摘しています。\n\n\nイギリス南",
+  "dateModified": "2026-10-28T03:54:14+09:00",
+  "datePublished": "2026-10-28T03:54:14+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66717/20261028de66717_E0000117786_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66717/20261028de66717_E0000117786_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "イギリスの空軍基地の近くでテロの計画があったとされる事件で、検察当局はロンドン在住の男2人を外国の情報機関を支援した罪などで起訴しました。\n\n警察はイランとのつながりを指摘しています。\n\n\nイギリス南",
+  "articleBody": "イギリスの空軍基地の近くでテロの計画があったとされる事件で、検察当局はロンドン在住の男2人を外国の情報機関を支援した罪などで起訴しました。\n\n警察はイランとのつながりを指摘しています。\n\n\nイギリス南西部のフェアフォード空軍基地はアメリカ軍がイランへの軍事作戦で使用したとされる基地で、9月以降、基地の近くでテロの計画があった疑いで警察が捜査しています。\n\nイギリスの検察当局は27日、ロンドン在住のいずれも24歳の男2人を国家安全保障法違反の罪で起訴したと発表しました。\n\nこのうち1人は外国の情報機関を支援した罪に問われているとし、警察はイランとのつながりを指摘しています。\n\n事件をめぐってはバーナム首相が10月中旬、イランの革命防衛隊が関与した可能性が高いという見方を強調する一方、イラン側は関与を否定しています。\n\nまたアメリカは事件が表面化した後の10月上旬、フェアフォード空軍基地に展開していたアメリカ軍のすべての爆撃機を撤収させたと明らかにしました。\n",
+  "detailedArticleBody": {
+    "markedLead": "イギリスの空軍基地の近くでテロの計画があったとされる事件で、検察当局はロンドン在住の男2人を外国の情報機関を支援した罪などで起訴しました。\n\n警察はイランとのつながりを指摘しています。\n",
+    "markedBody": "イギリス南西部のフェアフォード空軍基地はアメリカ軍がイランへの軍事作戦で使用したとされる基地で、9月以降、基地の近くでテロの計画があった疑いで警察が捜査しています。\n\nイギリスの検察当局は27日、ロンドン在住のいずれも24歳の男2人を国家安全保障法違反の罪で起訴したと発表しました。\n\nこのうち1人は外国の情報機関を支援した罪に問われているとし、警察はイランとのつながりを指摘しています。\n\n事件をめぐってはバーナム首相が10月中旬、イランの革命防衛隊が関与した可能性が高いという見方を強調する一方、イラン側は関与を否定しています。\n\nまたアメリカは事件が表面化した後の10月上旬、フェアフォード空軍基地に展開していたアメリカ軍のすべての爆撃機を撤収させたと明らかにしました。\n",
+    "trimmedLead": "イギリスの空軍基地の近くでテロの計画があったとされる事件で、検察当局はロンドン在住の男2人を外国の情報機関を支援した罪などで起訴しました。\n\n警察はイランとのつながりを指摘しています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261028de66717.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261028de66717",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
