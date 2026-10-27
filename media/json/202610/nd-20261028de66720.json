@@ -1,0 +1,144 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261028de66720",
+  "dataSourceId": "nd",
+  "name": "フィジカルAI 農業分野で導入や開発の動き",
+  "headline": "フィジカルAI 農業分野で導入や開発の動き",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261028de66720",
+    "playlistId": "news-nwa-business-nationwide-20261028",
+    "newsarticleName": "フィジカルAI 農業分野で導入や開発の動き",
+    "playlistName": "10月28日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "人手不足が深刻な農業の現場で、AIが作物の生育具合を自律的に判断して収穫を行うフィジカルAIを活用したロボットの導入や開発が進められています。\n\n\nこのうち産業用ロボット大手の安川電機はJA全農＝全国",
+  "dateModified": "2026-10-28T05:33:00+09:00",
+  "datePublished": "2026-10-28T05:33:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66720/20261028de66720_E0000117799_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66720/20261028de66720_E0000117799_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000474",
+      "name": "農業",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "人手不足が深刻な農業の現場で、AIが作物の生育具合を自律的に判断して収穫を行うフィジカルAIを活用したロボットの導入や開発が進められています。\n\n\nこのうち産業用ロボット大手の安川電機はJA全農＝全国",
+  "articleBody": "人手不足が深刻な農業の現場で、AIが作物の生育具合を自律的に判断して収穫を行うフィジカルAIを活用したロボットの導入や開発が進められています。\n\n\nこのうち産業用ロボット大手の安川電機はJA全農＝全国農業協同組合連合会と共同で、キュウリの収穫などを行うロボットを開発し、2026年から佐賀県の農場に導入しています。\n\nあらかじめ収穫に適したサイズをAIに学習させた上で、ロボットが農業用ハウスの中を移動し、作物の生育具合をカメラで自律的に判断してアームの先端のハサミで収穫します。\n\n会社によりますと、40分間でおよそ120本を収穫できるということで、人間と比べて作業スピードに課題はあるものの、学習を重ねることで人間と同じレベルまで性能を向上させたいとしています。\n\n会社の技術開発本部の松浦英典副本部長は「キュウリは成長が早く収穫時期を見極めるのが難しいため、開発担当者が収穫現場でデータを収集した。現場の困りごとをロボットで解決していきたい」と話していました。\n\nまた、宮崎県のベンチャー企業AGRISTは、フィジカルAIを活用してピーマンなどを自動で収穫するロボットを開発し、岩手県などの畑に導入されています。\n\nこのほか、山梨大学やファナックなどのグループは、ブドウを収穫するロボットの開発を進めていて、製造業だけでなく農業の現場でもフィジカルAIを活用する動きが広がっています。\n",
+  "detailedArticleBody": {
+    "markedLead": "人手不足が深刻な農業の現場で、AIが作物の生育具合を自律的に判断して収穫を行うフィジカルAIを活用したロボットの導入や開発が進められています。\n",
+    "markedBody": "このうち産業用ロボット大手の安川電機はJA全農＝全国農業協同組合連合会と共同で、キュウリの収穫などを行うロボットを開発し、2026年から佐賀県の農場に導入しています。\n\nあらかじめ収穫に適したサイズをAIに学習させた上で、ロボットが農業用ハウスの中を移動し、作物の生育具合をカメラで自律的に判断してアームの先端のハサミで収穫します。\n\n会社によりますと、40分間でおよそ120本を収穫できるということで、人間と比べて作業スピードに課題はあるものの、学習を重ねることで人間と同じレベルまで性能を向上させたいとしています。\n\n![](https://img.web.nhk/news/nd/kiji/20261028de66720/20261028de66720_E0000117798_1_l.jpg)\n\n会社の技術開発本部の松浦英典副本部長は「キュウリは成長が早く収穫時期を見極めるのが難しいため、開発担当者が収穫現場でデータを収集した。現場の困りごとをロボットで解決していきたい」と話していました。\n\nまた、宮崎県のベンチャー企業AGRISTは、フィジカルAIを活用してピーマンなどを自動で収穫するロボットを開発し、岩手県などの畑に導入されています。\n\nこのほか、山梨大学やファナックなどのグループは、ブドウを収穫するロボットの開発を進めていて、製造業だけでなく農業の現場でもフィジカルAIを活用する動きが広がっています。\n",
+    "trimmedLead": "人手不足が深刻な農業の現場で、AIが作物の生育具合を自律的に判断して収穫を行うフィジカルAIを活用したロボットの導入や開発が進められています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261028de66720.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261028de66720",
+  "video": [],
+  "citation": [
+    {
+      "name": "英基地テロ計画　外国情報機関支援の罪で2人起訴",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261028de66717",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66717/20261028de66717_E0000117786_1_s.jpg",
+      "datePublished": "2026-10-28T03:54:14+09:00"
+    },
+    {
+      "name": "日商の小林会頭がインド訪問　中小企業の進出を後押し",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261028de66715",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66715/20261028de66715_E0000117783_1_s.jpg",
+      "datePublished": "2026-10-28T03:59:28+09:00"
+    },
+    {
+      "name": "フラビオ・ボルソナロ氏 ブラジルを出国か 現地メディア報道",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261028de66719",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66719/20261028de66719_E0000117787_1_s.jpg",
+      "datePublished": "2026-10-28T04:31:30+09:00"
+    },
+    {
+      "name": "GMO サイトにアクセスしないで ハッカー側 1人の個人情報公開",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66048",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66048/20261027de66048_E0000113437_1_s.jpg",
+      "datePublished": "2026-10-27T21:12:05+09:00"
+    },
+    {
+      "name": "ソフトバンク子会社 サイバー攻撃受けた原因と対策を公表",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66660",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66660/20261027de66660_E0000117686_1_s.jpg",
+      "datePublished": "2026-10-27T21:45:13+09:00"
+    },
+    {
+      "name": "りそな 埼玉りそな 関西みらい 3銀行も顧客情報漏えいの可能性",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66670",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66670/20261027de66670_E0000117751_1_s.jpg",
+      "datePublished": "2026-10-27T22:29:53+09:00"
+    },
+    {
+      "name": "誰にいくら支給？どうなる新たな支援金制度【経済コラム】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de64016",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64016/20261023de64016_E0000104977_1_s.jpg",
+      "datePublished": "2026-10-25T11:29:45+09:00"
+    },
+    {
+      "name": "AI“なりすまし”どう防ぐ？ 相次ぐ流出 「本人認証」最前線",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63457",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63457/20261022de63457_E0000099532_1_s.jpg",
+      "datePublished": "2026-10-22T20:01:05+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
