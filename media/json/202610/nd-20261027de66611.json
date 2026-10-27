@@ -1,0 +1,162 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261027de66611",
+  "dataSourceId": "nd",
+  "name": "情報漏えい 27日も各社で発表相次ぐ",
+  "headline": "情報漏えい 27日も各社で発表相次ぐ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261027de66611",
+    "playlistId": "news-nwa-scienceculture-nationwide-20261027",
+    "newsarticleName": "情報漏えい 27日も各社で発表相次ぐ",
+    "playlistName": "10月27日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "27日も企業の間で不正アクセスに伴う個人情報の漏えいに関する発表が相次ぎました。\n\n\n「ソニーネットワークコミュニケーションズ」\n\nこのうち、ソニーの子会社「ソニーネットワークコミュニケーションズ」は",
+  "dateModified": "2026-10-27T19:32:00+09:00",
+  "datePublished": "2026-10-27T19:32:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66611/20261027de66611_E0000003476_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66611/20261027de66611_E0000003476_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "科学・文化",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "27日も企業の間で不正アクセスに伴う個人情報の漏えいに関する発表が相次ぎました。\n\n\n「ソニーネットワークコミュニケーションズ」\n\nこのうち、ソニーの子会社「ソニーネットワークコミュニケーションズ」は",
+  "articleBody": "27日も企業の間で不正アクセスに伴う個人情報の漏えいに関する発表が相次ぎました。\n\n\n「ソニーネットワークコミュニケーションズ」\n\nこのうち、ソニーの子会社「ソニーネットワークコミュニケーションズ」は、提供するインターネット接続サービスで今月19日に会員のデータベースが不正アクセスを受け、個人情報が漏えいしたことを確認したと明らかにしました。\n\n主に漏えいしたのは、現在の会員とことし3月以降に退会した人の個人情報、258万件あまりです。\n\n氏名や電話番号、メールアドレス、ユーザーID、生年月日などが含まれるということです。\n\nこのうち、口座番号や名義といった銀行口座の情報の漏えいは16件、確認されたということです。\n\nダイハツ工業\n\nダイハツ工業はメディア向けのウェブサイトの運用やメールマガジンの配信を委託している会社が使用するサービスが不正アクセスを受けたため、このウェブサイトに登録している利用者の個人情報が漏えいした可能性があると、27日、明らかにしました。\n\n会社は件数については公表していませんが、利用者の氏名や会社名のほか、役職やメールアドレスが漏えいした可能性があるということです。\n\nモスフードサービス\n\nモスフードサービスはキャンペーンで使用していた外部のツールが今月16日、不正アクセスを受け、キャンペーンに応募した人の情報、およそ1万4000件が漏えいしたと発表しました。\n\nSNSのユーザー名やID、応募した日時などが含まれるということです。\n\n会社では、キャンペーンの当選連絡などを装った不審なメッセージに注意するよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "27日も企業の間で不正アクセスに伴う個人情報の漏えいに関する発表が相次ぎました。\n",
+    "markedBody": "## 「ソニーネットワークコミュニケーションズ」\n\nこのうち、ソニーの子会社「ソニーネットワークコミュニケーションズ」は、提供するインターネット接続サービスで今月19日に会員のデータベースが不正アクセスを受け、個人情報が漏えいしたことを確認したと明らかにしました。\n\n主に漏えいしたのは、現在の会員とことし3月以降に退会した人の個人情報、258万件あまりです。\n\n氏名や電話番号、メールアドレス、ユーザーID、生年月日などが含まれるということです。\n\nこのうち、口座番号や名義といった銀行口座の情報の漏えいは16件、確認されたということです。\n\n## ダイハツ工業\n\nダイハツ工業はメディア向けのウェブサイトの運用やメールマガジンの配信を委託している会社が使用するサービスが不正アクセスを受けたため、このウェブサイトに登録している利用者の個人情報が漏えいした可能性があると、27日、明らかにしました。\n\n会社は件数については公表していませんが、利用者の氏名や会社名のほか、役職やメールアドレスが漏えいした可能性があるということです。\n\n## モスフードサービス\n\nモスフードサービスはキャンペーンで使用していた外部のツールが今月16日、不正アクセスを受け、キャンペーンに応募した人の情報、およそ1万4000件が漏えいしたと発表しました。\n\nSNSのユーザー名やID、応募した日時などが含まれるということです。\n\n会社では、キャンペーンの当選連絡などを装った不審なメッセージに注意するよう呼びかけています。\n",
+    "trimmedLead": "27日も企業の間で不正アクセスに伴う個人情報の漏えいに関する発表が相次ぎました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261027de66611.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261027de66611",
+  "video": [],
+  "citation": [
+    {
+      "name": "GMO サイトにアクセスしないで ハッカー側 1人の個人情報公開",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66048",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66048/20261027de66048_E0000113437_1_s.jpg",
+      "datePublished": "2026-10-27T19:28:06+09:00"
+    },
+    {
+      "name": "沖縄ツーリスト 最大約73万人分の個人情報漏えいと発表",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66245",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66245/20261027de66245_E0000114381_1_s.jpg",
+      "datePublished": "2026-10-27T14:07:33+09:00"
+    },
+    {
+      "name": "漫画家 ちばてつやさん死去 87歳 「あしたのジョー」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66136",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66136/20261027de66136_E0000113916_1_s.jpg",
+      "datePublished": "2026-10-27T19:43:07+09:00"
+    },
+    {
+      "name": "マイクロソフト希望退職を募集 対象6万人規模か 従業員の27％",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66125",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66125/20261027de66125_E0000113865_1_s.jpg",
+      "datePublished": "2026-10-27T10:56:00+09:00"
+    },
+    {
+      "name": "イスラエル総選挙 投票開始 ネタニヤフ首相続投できるかが焦点",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66339",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66339/20261027de66339_E0000114926_1_s.jpg",
+      "datePublished": "2026-10-27T19:54:55+09:00"
+    },
+    {
+      "name": "衆議院議員 定数31議席削減案で各党隔たり あす改めて協議へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66067",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66067/20261027de66067_E0000116773_1_s.jpg",
+      "datePublished": "2026-10-27T19:12:00+09:00"
+    },
+    {
+      "name": "元検事正 部下への性的暴行の起訴内容を否認 無罪を主張　",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66127",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66127/20261027de66127_E0000113857_1_s.jpg",
+      "datePublished": "2026-10-27T18:23:00+09:00"
+    },
+    {
+      "name": "「副首都」指定要件を決定 4道府県に指定可能性 政府",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66118",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66118/20261027de66118_E0000113851_1_s.jpg",
+      "datePublished": "2026-10-27T18:48:25+09:00"
+    },
+    {
+      "name": "アメリカ中間選挙 投票日まで1週間 与野党の攻防が激しさ増す",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66076",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66076/20261027de66076_E0000113467_1_s.jpg",
+      "datePublished": "2026-10-27T06:36:00+09:00"
+    },
+    {
+      "name": "村上宗隆はなぜ「1年目で35本塁打」を成し遂げられたのか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de64190",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64190/20261023de64190_E0000112617_1_s.jpg",
+      "datePublished": "2026-10-27T06:43:55+09:00"
+    },
+    {
+      "name": "あなたの家やマンションは大丈夫？浸水被害の死角とお金の備え",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65479",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65479/20261026de65479_E0000109940_1_s.jpg",
+      "datePublished": "2026-10-26T17:33:33+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
