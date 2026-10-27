@@ -1,0 +1,152 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261027de66316",
+  "dataSourceId": "nd",
+  "name": "古川デジタル相“警察や自衛隊の訓練実施でサイバー防御”",
+  "headline": "古川デジタル相“警察や自衛隊の訓練実施でサイバー防御”",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261027de66316",
+    "playlistId": "news-nwa-politics-nationwide-20261027",
+    "newsarticleName": "古川デジタル相“警察や自衛隊の訓練実施でサイバー防御”",
+    "playlistName": "10月27日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "不正アクセスによる情報漏えいが相次いでいる中、古川デジタル大臣は、警察や自衛隊などが参加する共同訓練を行うなどしてサイバー攻撃を未然に防ぐための取り組みを進めていると説明しました。\n\n\n古川デジタル大",
+  "dateModified": "2026-10-27T14:19:27+09:00",
+  "datePublished": "2026-10-27T14:19:27+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66316/20261027de66316_E0000114868_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66316/20261027de66316_E0000114868_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "不正アクセスによる情報漏えいが相次いでいる中、古川デジタル大臣は、警察や自衛隊などが参加する共同訓練を行うなどしてサイバー攻撃を未然に防ぐための取り組みを進めていると説明しました。\n\n\n古川デジタル大",
+  "articleBody": "不正アクセスによる情報漏えいが相次いでいる中、古川デジタル大臣は、警察や自衛隊などが参加する共同訓練を行うなどしてサイバー攻撃を未然に防ぐための取り組みを進めていると説明しました。\n\n\n古川デジタル大臣は27日、参議院内閣委員会で、10月から可能となった能動的サイバー防御の「無害化措置」の実効性を問われ「個別具体的な方法や対象を明らかにすると、攻撃側に対処法や態勢をとらせるなど支障をきたす可能性があるので控えたい」と述べました。\n\nその上で「国家サイバー統括室としては、実際の運用を見据えた訓練が極めて大事だと考えている。警察や防衛省・自衛隊などが参加する共同訓練を主催し、効果的かつ円滑な運用に向けて継続的に取り組んでいる」と述べました。\n\nまた「無害化措置」の運用については、厳格な要件に基づく必要最小限の措置とし、攻撃に用いられるサーバーなどに遠隔からログインし、プログラムの停止や削除などを行うと説明しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "不正アクセスによる情報漏えいが相次いでいる中、古川デジタル大臣は、警察や自衛隊などが参加する共同訓練を行うなどしてサイバー攻撃を未然に防ぐための取り組みを進めていると説明しました。\n",
+    "markedBody": "古川デジタル大臣は27日、参議院内閣委員会で、10月から可能となった能動的サイバー防御の「無害化措置」の実効性を問われ「個別具体的な方法や対象を明らかにすると、攻撃側に対処法や態勢をとらせるなど支障をきたす可能性があるので控えたい」と述べました。\n\nその上で「国家サイバー統括室としては、実際の運用を見据えた訓練が極めて大事だと考えている。警察や防衛省・自衛隊などが参加する共同訓練を主催し、効果的かつ円滑な運用に向けて継続的に取り組んでいる」と述べました。\n\nまた「無害化措置」の運用については、厳格な要件に基づく必要最小限の措置とし、攻撃に用いられるサーバーなどに遠隔からログインし、プログラムの停止や削除などを行うと説明しました。\n",
+    "trimmedLead": "不正アクセスによる情報漏えいが相次いでいる中、古川デジタル大臣は、警察や自衛隊などが参加する共同訓練を行うなどしてサイバー攻撃を未然に防ぐための取り組みを進めていると説明しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261027de66316.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261027de66316",
+  "video": [],
+  "citation": [
+    {
+      "name": "漫画家 ちばてつやさん死去 87歳 「あしたのジョー」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66136",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66136/20261027de66136_E0000113916_1_s.jpg",
+      "datePublished": "2026-10-27T14:45:00+09:00"
+    },
+    {
+      "name": "中東の集団防衛協定参加3か国とイランが会合 対話継続で一致",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66075",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66075/20261027de66075_E0000113451_1_s.jpg",
+      "datePublished": "2026-10-27T08:02:00+09:00"
+    },
+    {
+      "name": "マイクロソフト希望退職を募集 対象6万人規模か 従業員の27％",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66125",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66125/20261027de66125_E0000113865_1_s.jpg",
+      "datePublished": "2026-10-27T10:56:00+09:00"
+    },
+    {
+      "name": "衆議院議員 定数31削減案できょう政党間協議　",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66067",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66067/20261027de66067_E0000113446_1_s.jpg",
+      "datePublished": "2026-10-27T13:39:00+09:00"
+    },
+    {
+      "name": "元検事正 部下への性的暴行の起訴内容を否認 無罪を主張　",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66127",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66127/20261027de66127_E0000113857_1_s.jpg",
+      "datePublished": "2026-10-27T11:50:00+09:00"
+    },
+    {
+      "name": "「副首都」指定要件を決定 4道府県に指定可能性 政府",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66118",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66118/20261027de66118_E0000113851_1_s.jpg",
+      "datePublished": "2026-10-27T10:44:00+09:00"
+    },
+    {
+      "name": "GMO ハッカー集団“会社交渉応じなかった”1人の個人情報公開",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66048",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66048/20261027de66048_E0000113437_1_s.jpg",
+      "datePublished": "2026-10-27T13:11:00+09:00"
+    },
+    {
+      "name": "北海道新聞記者と「領事面会」実施 健康状態に問題なし 外務省",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de66041",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de66041/20261026de66041_E0000113426_1_s.jpg",
+      "datePublished": "2026-10-27T11:27:53+09:00"
+    },
+    {
+      "name": "アメリカ中間選挙 投票日まで1週間 与野党の攻防が激しさ増す",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66076",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66076/20261027de66076_E0000113467_1_s.jpg",
+      "datePublished": "2026-10-27T06:36:00+09:00"
+    },
+    {
+      "name": "村上宗隆はなぜ「1年目で35本塁打」を成し遂げられたのか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de64190",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64190/20261023de64190_E0000112617_1_s.jpg",
+      "datePublished": "2026-10-27T06:43:55+09:00"
+    },
+    {
+      "name": "あなたの家やマンションは大丈夫？浸水被害の死角とお金の備え",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65479",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65479/20261026de65479_E0000109940_1_s.jpg",
+      "datePublished": "2026-10-26T17:33:33+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

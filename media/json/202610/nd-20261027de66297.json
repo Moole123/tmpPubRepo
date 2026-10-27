@@ -1,0 +1,162 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261027de66297",
+  "dataSourceId": "nd",
+  "name": "KDDI 新会社を設立 フィジカルAI事業に本格的に参入へ",
+  "headline": "KDDI 新会社を設立 フィジカルAI事業に本格的に参入へ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261027de66297",
+    "playlistId": "news-nwa-business-nationwide-20261027",
+    "newsarticleName": "KDDI 新会社を設立 フィジカルAI事業に本格的に参入へ",
+    "playlistName": "10月27日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "KDDIは、グループ内に新会社を設立し、フィジカルAI事業に本格的に参入することを27日、明らかにしました。2030年度までに、新会社が開発したAI基盤を搭載した1000台以上のロボットを小売業や物流",
+  "dateModified": "2026-10-27T14:04:47+09:00",
+  "datePublished": "2026-10-27T14:04:47+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66297/20261027de66297_E0000114832_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66297/20261027de66297_E0000114832_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000472",
+      "name": "通信",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "KDDIは、グループ内に新会社を設立し、フィジカルAI事業に本格的に参入することを27日、明らかにしました。2030年度までに、新会社が開発したAI基盤を搭載した1000台以上のロボットを小売業や物流",
+  "articleBody": "KDDIは、グループ内に新会社を設立し、フィジカルAI事業に本格的に参入することを27日、明らかにしました。2030年度までに、新会社が開発したAI基盤を搭載した1000台以上のロボットを小売業や物流業などの現場に導入させることを目指しています。\n\n\nKDDIの松田浩路社長は、27日から都内で始まったイベントで、AI開発を行う子会社「イライザ」が先月、フィジカルAI事業を手がける新会社を設立したと発表しました。\n\n新会社では、2030年度までに、300億円を投資してロボットを動かすためのAI基盤の研究開発を進めるとともに、開発したAI基盤を搭載した1000台以上のロボットを小売業や物流業などの現場に導入させることを目指すとしています。\n\n会社によりますと、まずはグループ会社のコンビニチェーン、ローソンの店舗やグループの物流拠点などで、棚からものを取ったりこん包したりといった現場の作業に関するデータの収集を進めることにしています。\n\nまた、大阪・堺市にあるデータセンターを、ロボットや自動運転、ドローンといったフィジカルAIの実証の場として活用するということです。\n\n松田社長は、「実践的なデータを収集し、学習、モデル開発へと継続的にアップデートを行い、実用に耐えうるロボットへと進化させていきます」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "KDDIは、グループ内に新会社を設立し、フィジカルAI事業に本格的に参入することを27日、明らかにしました。2030年度までに、新会社が開発したAI基盤を搭載した1000台以上のロボットを小売業や物流業などの現場に導入させることを目指しています。\n",
+    "markedBody": "KDDIの松田浩路社長は、27日から都内で始まったイベントで、AI開発を行う子会社「イライザ」が先月、フィジカルAI事業を手がける新会社を設立したと発表しました。\n\n![](https://img.web.nhk/news/nd/kiji/20261027de66297/20261027de66297_E0000114830_1_l.jpg)\n\n新会社では、2030年度までに、300億円を投資してロボットを動かすためのAI基盤の研究開発を進めるとともに、開発したAI基盤を搭載した1000台以上のロボットを小売業や物流業などの現場に導入させることを目指すとしています。\n\n![](https://img.web.nhk/news/nd/kiji/20261027de66297/20261027de66297_E0000114829_1_l.jpg)\n\n会社によりますと、まずはグループ会社のコンビニチェーン、ローソンの店舗やグループの物流拠点などで、棚からものを取ったりこん包したりといった現場の作業に関するデータの収集を進めることにしています。\n\nまた、大阪・堺市にあるデータセンターを、ロボットや自動運転、ドローンといったフィジカルAIの実証の場として活用するということです。\n\n松田社長は、「実践的なデータを収集し、学習、モデル開発へと継続的にアップデートを行い、実用に耐えうるロボットへと進化させていきます」と話していました。\n",
+    "trimmedLead": "KDDIは、グループ内に新会社を設立し、フィジカルAI事業に本格的に参入することを27日、明らかにしました。2030年度までに、新会社が開発したAI基盤を搭載した1000台以上のロボットを小売業や物流業などの現場に導入させることを目指しています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261027de66297.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261027de66297",
+  "video": [],
+  "citation": [
+    {
+      "name": "漫画家 ちばてつやさん死去 87歳 「あしたのジョー」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66136",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66136/20261027de66136_E0000113916_1_s.jpg",
+      "datePublished": "2026-10-27T14:45:00+09:00"
+    },
+    {
+      "name": "中東の集団防衛協定参加3か国とイランが会合 対話継続で一致",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66075",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66075/20261027de66075_E0000113451_1_s.jpg",
+      "datePublished": "2026-10-27T08:02:00+09:00"
+    },
+    {
+      "name": "マイクロソフト希望退職を募集 対象6万人規模か 従業員の27％",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66125",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66125/20261027de66125_E0000113865_1_s.jpg",
+      "datePublished": "2026-10-27T10:56:00+09:00"
+    },
+    {
+      "name": "衆議院議員 定数31削減案できょう政党間協議　",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66067",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66067/20261027de66067_E0000113446_1_s.jpg",
+      "datePublished": "2026-10-27T13:39:00+09:00"
+    },
+    {
+      "name": "元検事正 部下への性的暴行の起訴内容を否認 無罪を主張　",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66127",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66127/20261027de66127_E0000113857_1_s.jpg",
+      "datePublished": "2026-10-27T11:50:00+09:00"
+    },
+    {
+      "name": "「副首都」指定要件を決定 4道府県に指定可能性 政府",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66118",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66118/20261027de66118_E0000113851_1_s.jpg",
+      "datePublished": "2026-10-27T10:44:00+09:00"
+    },
+    {
+      "name": "GMO ハッカー集団“会社交渉応じなかった”1人の個人情報公開",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66048",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66048/20261027de66048_E0000113437_1_s.jpg",
+      "datePublished": "2026-10-27T13:11:00+09:00"
+    },
+    {
+      "name": "北海道新聞記者と「領事面会」実施 健康状態に問題なし 外務省",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de66041",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de66041/20261026de66041_E0000113426_1_s.jpg",
+      "datePublished": "2026-10-27T11:27:53+09:00"
+    },
+    {
+      "name": "アメリカ中間選挙 投票日まで1週間 与野党の攻防が激しさ増す",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66076",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66076/20261027de66076_E0000113467_1_s.jpg",
+      "datePublished": "2026-10-27T06:36:00+09:00"
+    },
+    {
+      "name": "村上宗隆はなぜ「1年目で35本塁打」を成し遂げられたのか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de64190",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64190/20261023de64190_E0000112617_1_s.jpg",
+      "datePublished": "2026-10-27T06:43:55+09:00"
+    },
+    {
+      "name": "あなたの家やマンションは大丈夫？浸水被害の死角とお金の備え",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65479",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65479/20261026de65479_E0000109940_1_s.jpg",
+      "datePublished": "2026-10-26T17:33:33+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
