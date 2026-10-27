@@ -1,0 +1,174 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261027de66660",
+  "dataSourceId": "nd",
+  "name": "ソフトバンク子会社 サイバー攻撃受けた原因と対策を公表",
+  "headline": "ソフトバンク子会社 サイバー攻撃受けた原因と対策を公表",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261027de66660",
+    "playlistId": "news-nwa-scienceculture-nationwide-20261027",
+    "newsarticleName": "ソフトバンク子会社 サイバー攻撃受けた原因と対策を公表",
+    "playlistName": "10月27日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "ソフトバンクの子会社が提供するクラウドサービスのシステムがサイバー攻撃を受けた問題について、会社は27日、ぜい弱性があるか社内で診断を行っていなかった外部のソフトウエアが悪用されたことが原因だったと明",
+  "dateModified": "2026-10-27T21:45:13+09:00",
+  "datePublished": "2026-10-27T21:45:13+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66660/20261027de66660_E0000117686_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66660/20261027de66660_E0000117686_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "科学・文化",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ソフトバンクの子会社が提供するクラウドサービスのシステムがサイバー攻撃を受けた問題について、会社は27日、ぜい弱性があるか社内で診断を行っていなかった外部のソフトウエアが悪用されたことが原因だったと明",
+  "articleBody": "ソフトバンクの子会社が提供するクラウドサービスのシステムがサイバー攻撃を受けた問題について、会社は27日、ぜい弱性があるか社内で診断を行っていなかった外部のソフトウエアが悪用されたことが原因だったと明らかにしました。\n\n\nソフトバンクの子会社「IDCフロンティア」は、クラウドサービスのシステムが身代金要求型のコンピューターウイルス「ランサムウエア」による攻撃を受け、495の企業や自治体などでサイトが閲覧できなくなるなどの影響が出ました。\n\n会社では外部のセキュリティー企業と連携して、攻撃を受けた原因などを調査していて、27日、再発防止策などとあわせて発表しました。\n\nこの中では攻撃を受けた原因について、使用していた外部のソフトウエアのぜい弱性が悪用されたためだとしています。\n\n会社では自社のソフトウエアについては、ぜい弱性を診断するツールなどを使っていたということですが、外部のソフトウエアにはこうしたツールを適用していなかったということです。\n\nこのため、今後は外部のソフトウエアについてもぜい弱性がないか社内のツールを使って確認するほか、外部の専門家や社内の人材を集めて、セキュリティーを専門に管理する組織を設置することにしています。\n\nIDCフロンティアの鈴木勝久社長は、「今回の事態を真摯(しんし)に受け止め、これまでの取り組みを改めて検証し、再発防止に取り組んでいきます」とコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "ソフトバンクの子会社が提供するクラウドサービスのシステムがサイバー攻撃を受けた問題について、会社は27日、ぜい弱性があるか社内で診断を行っていなかった外部のソフトウエアが悪用されたことが原因だったと明らかにしました。\n",
+    "markedBody": "ソフトバンクの子会社「IDCフロンティア」は、クラウドサービスのシステムが身代金要求型のコンピューターウイルス「ランサムウエア」による攻撃を受け、495の企業や自治体などでサイトが閲覧できなくなるなどの影響が出ました。\n\n会社では外部のセキュリティー企業と連携して、攻撃を受けた原因などを調査していて、27日、再発防止策などとあわせて発表しました。\n\nこの中では攻撃を受けた原因について、使用していた外部のソフトウエアのぜい弱性が悪用されたためだとしています。\n\n会社では自社のソフトウエアについては、ぜい弱性を診断するツールなどを使っていたということですが、外部のソフトウエアにはこうしたツールを適用していなかったということです。\n\nこのため、今後は外部のソフトウエアについてもぜい弱性がないか社内のツールを使って確認するほか、外部の専門家や社内の人材を集めて、セキュリティーを専門に管理する組織を設置することにしています。\n\nIDCフロンティアの鈴木勝久社長は、「今回の事態を真摯(しんし)に受け止め、これまでの取り組みを改めて検証し、再発防止に取り組んでいきます」とコメントしています。\n",
+    "trimmedLead": "ソフトバンクの子会社が提供するクラウドサービスのシステムがサイバー攻撃を受けた問題について、会社は27日、ぜい弱性があるか社内で診断を行っていなかった外部のソフトウエアが悪用されたことが原因だったと明らかにしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261027de66660.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261027de66660",
+  "video": [],
+  "citation": [
+    {
+      "name": "GMO サイトにアクセスしないで ハッカー側 1人の個人情報公開",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66048",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66048/20261027de66048_E0000113437_1_s.jpg",
+      "datePublished": "2026-10-27T21:12:05+09:00"
+    },
+    {
+      "name": "沖縄ツーリスト 最大約73万人分の個人情報漏えいと発表",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66245",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66245/20261027de66245_E0000114381_1_s.jpg",
+      "datePublished": "2026-10-27T14:07:33+09:00"
+    },
+    {
+      "name": "漫画家 ちばてつやさん死去 87歳 「あしたのジョー」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66136",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66136/20261027de66136_E0000113916_1_s.jpg",
+      "datePublished": "2026-10-27T20:40:00+09:00"
+    },
+    {
+      "name": "中東の集団防衛協定参加3か国とイランが会合 対話継続で一致",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66075",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66075/20261027de66075_E0000113451_1_s.jpg",
+      "datePublished": "2026-10-27T08:02:00+09:00"
+    },
+    {
+      "name": "マイクロソフト希望退職を募集 対象6万人規模か 従業員の27％",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66125",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66125/20261027de66125_E0000113865_1_s.jpg",
+      "datePublished": "2026-10-27T10:56:00+09:00"
+    },
+    {
+      "name": "ワールドシリーズ第3戦 ブルワーズが快勝 3連勝で王手",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66335",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66335/20261027de66335_E0000114919_1_s.jpg",
+      "datePublished": "2026-10-27T15:35:00+09:00"
+    },
+    {
+      "name": "イスラエル総選挙 投票開始 ネタニヤフ首相続投できるかが焦点",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66339",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66339/20261027de66339_E0000114926_1_s.jpg",
+      "datePublished": "2026-10-27T21:18:20+09:00"
+    },
+    {
+      "name": "衆議院議員 定数31議席削減案で各党隔たり あす改めて協議へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66067",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66067/20261027de66067_E0000116773_1_s.jpg",
+      "datePublished": "2026-10-27T19:12:00+09:00"
+    },
+    {
+      "name": "元検事正 部下への性的暴行の起訴内容を否認 無罪を主張　",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66127",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66127/20261027de66127_E0000113857_1_s.jpg",
+      "datePublished": "2026-10-27T18:23:00+09:00"
+    },
+    {
+      "name": "「副首都」指定要件を決定 4道府県に指定可能性 政府",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66118",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66118/20261027de66118_E0000113851_1_s.jpg",
+      "datePublished": "2026-10-27T18:48:25+09:00"
+    },
+    {
+      "name": "アメリカ中間選挙 投票日まで1週間 与野党の攻防が激しさ増す",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66076",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66076/20261027de66076_E0000113467_1_s.jpg",
+      "datePublished": "2026-10-27T06:36:00+09:00"
+    },
+    {
+      "name": "村上宗隆はなぜ「1年目で35本塁打」を成し遂げられたのか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261023de64190",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64190/20261023de64190_E0000112617_1_s.jpg",
+      "datePublished": "2026-10-27T06:43:55+09:00"
+    },
+    {
+      "name": "あなたの家やマンションは大丈夫？浸水被害の死角とお金の備え",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65479",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65479/20261026de65479_E0000109940_1_s.jpg",
+      "datePublished": "2026-10-26T17:33:33+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

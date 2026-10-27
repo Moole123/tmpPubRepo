@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261027de66643",
+  "dataSourceId": "nd",
+  "name": "日本生命 元社員が診断書偽造で給付金を不正に受給",
+  "headline": "日本生命 元社員が診断書偽造で給付金を不正に受給",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261027de66643",
+    "playlistId": "news-nwa-business-nationwide-20261027",
+    "newsarticleName": "日本生命 元社員が診断書偽造で給付金を不正に受給",
+    "playlistName": "10月27日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "生命保険大手の日本生命は、30代の女性の元営業社員が医療機関の診断書の偽造を繰り返し、自身やその顧客らが、保険の給付金を不正に受け取っていたと発表しました。\n元社員や顧客などあわせて10人が不正に受け",
+  "dateModified": "2026-10-27T21:23:04+09:00",
+  "datePublished": "2026-10-27T21:23:04+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66643/20261027de66643_E0000117068_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66643/20261027de66643_E0000117068_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "生命保険大手の日本生命は、30代の女性の元営業社員が医療機関の診断書の偽造を繰り返し、自身やその顧客らが、保険の給付金を不正に受け取っていたと発表しました。\n元社員や顧客などあわせて10人が不正に受け",
+  "articleBody": "生命保険大手の日本生命は、30代の女性の元営業社員が医療機関の診断書の偽造を繰り返し、自身やその顧客らが、保険の給付金を不正に受け取っていたと発表しました。\n元社員や顧客などあわせて10人が不正に受け取っていた給付金は、900万円に上るということです。\n\n\n会社によりますと、高松支社に在籍していた30代の女性の営業社員は、おととし12月以降、医療機関の診断書を偽造して、自分が加入していた医療保険の給付金150万円を不正に受け取ったということです。\n\nさらに、自分の顧客や知人の9人についても診断書を偽造したということです。\n元社員や顧客などあわせて10人が不正に受け取っていた給付金は、900万円に上るということです。\n\n会社の社内システムで不正が発覚したということで、元社員は会社の聞き取りに対して事実関係を認め、偽造の対価として金銭を受け取っていたと話しているということです。\n\nこの社員はことし3月に会社を退職していますが、会社はこの社員を処分したのかどうか明らかにしていません。\n",
+  "detailedArticleBody": {
+    "markedLead": "生命保険大手の日本生命は、30代の女性の元営業社員が医療機関の診断書の偽造を繰り返し、自身やその顧客らが、保険の給付金を不正に受け取っていたと発表しました。\\\n元社員や顧客などあわせて10人が不正に受け取っていた給付金は、900万円に上るということです。\n",
+    "markedBody": "会社によりますと、高松支社に在籍していた30代の女性の営業社員は、おととし12月以降、医療機関の診断書を偽造して、自分が加入していた医療保険の給付金150万円を不正に受け取ったということです。\n\nさらに、自分の顧客や知人の9人についても診断書を偽造したということです。\\\n元社員や顧客などあわせて10人が不正に受け取っていた給付金は、900万円に上るということです。\n\n会社の社内システムで不正が発覚したということで、元社員は会社の聞き取りに対して事実関係を認め、偽造の対価として金銭を受け取っていたと話しているということです。\n\nこの社員はことし3月に会社を退職していますが、会社はこの社員を処分したのかどうか明らかにしていません。\n",
+    "trimmedLead": "生命保険大手の日本生命は、30代の女性の元営業社員が医療機関の診断書の偽造を繰り返し、自身やその顧客らが、保険の給付金を不正に受け取っていたと発表しました。\n元社員や顧客などあわせて10人が不正に受け取っていた給付金は、900万円に上るということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261027de66643.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261027de66643",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
