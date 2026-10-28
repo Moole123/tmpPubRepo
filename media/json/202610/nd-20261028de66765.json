@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261028de66765",
+  "dataSourceId": "nd",
+  "name": "GMO“個人情報が掲載されたサイトのドメイン停止を確認”",
+  "headline": "GMO“個人情報が掲載されたサイトのドメイン停止を確認”",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261028de66765",
+    "playlistId": "news-nwa-scienceculture-nationwide-20261028",
+    "newsarticleName": "GMO“個人情報が掲載されたサイトのドメイン停止を確認”",
+    "playlistName": "10月28日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "GMOインターネットグループのサービスが不正アクセスを受けている問題で、会社は、関係事業者と連携し対応を進め、利用者に関すると見られる個人情報が掲載されていたサイトのドメインが停止されたことを確認した",
+  "dateModified": "2026-10-28T12:18:00+09:00",
+  "datePublished": "2026-10-28T11:59:52+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66765/20261028de66765_E0000117785_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66765/20261028de66765_E0000117785_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "科学・文化",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "GMOインターネットグループのサービスが不正アクセスを受けている問題で、会社は、関係事業者と連携し対応を進め、利用者に関すると見られる個人情報が掲載されていたサイトのドメインが停止されたことを確認した",
+  "articleBody": "GMOインターネットグループのサービスが不正アクセスを受けている問題で、会社は、関係事業者と連携し対応を進め、利用者に関すると見られる個人情報が掲載されていたサイトのドメインが停止されたことを確認したと発表しました。\n\n引き続き関連するサイトの動向を監視するとともに、新たなサイトが開設された場合はサイトを停止させるなどの対応を取っていくとしています。\n\nあわせて会社は、攻撃したとみられるハッカー側のサイトへの誘導やその内容を引用する投稿などは攻撃に加担する結果につながりかねないとして控えるよう呼びかけています。\n\n\n木原官房長官 “被害企業と緊密連携で必要な対応”\n\n木原官房長官は午前の記者会見で、ハッカー集団が利用者に関するとみられる情報をネット上に公開したことを受けた政府の対応について「被害企業などとも緊密に連携をとり、必要な対応をスピード感を持って行っている。現在進行中の事案でもあり、具体的な対応については控える」と述べました。\n\n一方、会社側が不正アクセスに関与した人物の特定につながる有力な情報に懸賞金を出すなどの取り組みを打ち出したことについて「政府としてのコメントは控えるが、個人情報は個人の人格尊重の理念のもと、慎重に取り扱われるべきものだ。適正な取り扱いが図られなければならない」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "GMOインターネットグループのサービスが不正アクセスを受けている問題で、会社は、関係事業者と連携し対応を進め、利用者に関すると見られる個人情報が掲載されていたサイトのドメインが停止されたことを確認したと発表しました。\n\n引き続き関連するサイトの動向を監視するとともに、新たなサイトが開設された場合はサイトを停止させるなどの対応を取っていくとしています。\n\nあわせて会社は、攻撃したとみられるハッカー側のサイトへの誘導やその内容を引用する投稿などは攻撃に加担する結果につながりかねないとして控えるよう呼びかけています。\n",
+    "markedBody": "## 木原官房長官 “被害企業と緊密連携で必要な対応”\n\n木原官房長官は午前の記者会見で、ハッカー集団が利用者に関するとみられる情報をネット上に公開したことを受けた政府の対応について「被害企業などとも緊密に連携をとり、必要な対応をスピード感を持って行っている。現在進行中の事案でもあり、具体的な対応については控える」と述べました。\n\n一方、会社側が不正アクセスに関与した人物の特定につながる有力な情報に懸賞金を出すなどの取り組みを打ち出したことについて「政府としてのコメントは控えるが、個人情報は個人の人格尊重の理念のもと、慎重に取り扱われるべきものだ。適正な取り扱いが図られなければならない」と述べました。\n",
+    "trimmedLead": "GMOインターネットグループのサービスが不正アクセスを受けている問題で、会社は、関係事業者と連携し対応を進め、利用者に関すると見られる個人情報が掲載されていたサイトのドメインが停止されたことを確認したと発表しました。\n\n引き続き関連するサイトの動向を監視するとともに、新たなサイトが開設された場合はサイトを停止させるなどの対応を取っていくとしています。\n\nあわせて会社は、攻撃したとみられるハッカー側のサイトへの誘導やその内容を引用する投稿などは攻撃に加担する結果につながりかねないとして控えるよう呼びかけています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261028de66765.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261028de66765",
+  "video": [],
+  "citation": [
+    {
+      "name": "GMO サイトにアクセスしないで ハッカー側 1人の個人情報公開",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66048",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66048/20261027de66048_E0000113437_1_s.jpg",
+      "datePublished": "2026-10-27T21:12:05+09:00"
+    },
+    {
+      "name": "個人情報流出でカード不正利用の2次被害 悪用の最新手口は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65484",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65484/20261026de65484_E0000114989_1_s.jpg",
+      "datePublished": "2026-10-27T18:21:15+09:00"
+    },
+    {
+      "name": "KDDI メールで障害発生 不正アクセスは“現時点で確認されず”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261028de66791",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66791/20261028de66791_E0000118283_1_s.jpg",
+      "datePublished": "2026-10-28T11:38:00+09:00"
+    },
+    {
+      "name": "トランプ大統領 “重要州”テキサスで支持訴え",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261028de66787",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66787/20261028de66787_E0000118197_1_s.jpg",
+      "datePublished": "2026-10-28T11:48:06+09:00"
+    },
+    {
+      "name": "「高度専門職」で中国人を不正入国させたか 会社役員ら逮捕",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261028de66764",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66764/20261028de66764_E0000003570_1_s.jpg",
+      "datePublished": "2026-10-28T11:58:00+09:00"
+    },
+    {
+      "name": "東京と近畿で「木枯らし1号」 去年より6日早く",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261028de66801",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66801/20261028de66801_E0000118249_1_s.jpg",
+      "datePublished": "2026-10-28T11:29:00+09:00"
+    },
+    {
+      "name": "山梨の女性死亡事件　台湾で夫を拘束　高額保険か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261028de66734",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66734/20261028de66734_E0000117933_1_s.jpg",
+      "datePublished": "2026-10-28T07:15:00+09:00"
+    },
+    {
+      "name": "熊本地震3か月 住まいの確保と在宅避難者への継続支援が課題",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261028de66706",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66706/20261028de66706_E0000117781_1_s.jpg",
+      "datePublished": "2026-10-28T05:28:00+09:00"
+    },
+    {
+      "name": "広がる個人間の“精子提供” なぜ？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63495",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63495/20261022de63495_E0000099868_1_s.jpg",
+      "datePublished": "2026-10-27T11:43:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

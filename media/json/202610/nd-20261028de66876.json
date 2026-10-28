@@ -1,0 +1,149 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261028de66876",
+  "dataSourceId": "nd",
+  "name": "株価 値上がり 半導体などの銘柄に買い注文",
+  "headline": "株価 値上がり 半導体などの銘柄に買い注文",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261028de66876",
+    "playlistId": "news-nwa-business-nationwide-20261028",
+    "newsarticleName": "株価 値上がり 半導体などの銘柄に買い注文",
+    "playlistName": "10月28日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "28日の東京株式市場、AI開発企業の投資が今後も拡大するという見方から半導体など関連する銘柄に買い注文が入り、日経平均株価は値上がりしています。\n\n\n日経平均株価、午前の終値は、27日の終値と比べ79",
+  "dateModified": "2026-10-28T12:32:49+09:00",
+  "datePublished": "2026-10-28T12:32:49+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66876/20261028de66876_E0000118346_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66876/20261028de66876_E0000118346_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000157",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000475",
+      "name": "半導体",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "28日の東京株式市場、AI開発企業の投資が今後も拡大するという見方から半導体など関連する銘柄に買い注文が入り、日経平均株価は値上がりしています。\n\n\n日経平均株価、午前の終値は、27日の終値と比べ79",
+  "articleBody": "28日の東京株式市場、AI開発企業の投資が今後も拡大するという見方から半導体など関連する銘柄に買い注文が入り、日経平均株価は値上がりしています。\n\n\n日経平均株価、午前の終値は、27日の終値と比べ798円73銭高い6万4067円10銭。\n\n一方、東証株価指数、トピックスは0.84下がって3996.53。\n\n午前の出来高は、10億4216万株でした。\n\n市場関係者は「AI開発企業のアンソロピックが公表したIPO＝新規株式公開に向けた書類の内容を受けて、AI開発企業の投資が今後も拡大するという見方から半導体など関連する銘柄に買い注文が入っている。ただ、市場全体でみると値下がりしている銘柄の方が多い」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "28日の東京株式市場、AI開発企業の投資が今後も拡大するという見方から半導体など関連する銘柄に買い注文が入り、日経平均株価は値上がりしています。\n",
+    "markedBody": "日経平均株価、午前の終値は、27日の終値と比べ798円73銭高い6万4067円10銭。\n\n一方、東証株価指数、トピックスは0.84下がって3996.53。\n\n午前の出来高は、10億4216万株でした。\n\n市場関係者は「AI開発企業のアンソロピックが公表したIPO＝新規株式公開に向けた書類の内容を受けて、AI開発企業の投資が今後も拡大するという見方から半導体など関連する銘柄に買い注文が入っている。ただ、市場全体でみると値下がりしている銘柄の方が多い」と話しています。\n",
+    "trimmedLead": "28日の東京株式市場、AI開発企業の投資が今後も拡大するという見方から半導体など関連する銘柄に買い注文が入り、日経平均株価は値上がりしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261028de66876.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261028de66876",
+  "video": [],
+  "citation": [
+    {
+      "name": "「高度専門職」で中国人を不正入国させたか 会社役員ら逮捕",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261028de66764",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66764/20261028de66764_E0000003570_1_s.jpg",
+      "datePublished": "2026-10-28T11:58:00+09:00"
+    },
+    {
+      "name": "KDDI メールで障害発生 不正アクセスは“現時点で確認されず”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261028de66791",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66791/20261028de66791_E0000118283_1_s.jpg",
+      "datePublished": "2026-10-28T11:38:00+09:00"
+    },
+    {
+      "name": "東京と近畿で「木枯らし1号」 去年より6日早く",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261028de66801",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66801/20261028de66801_E0000118249_1_s.jpg",
+      "datePublished": "2026-10-28T11:29:00+09:00"
+    },
+    {
+      "name": "冬型気圧配置 初雪や「木枯らし1号」も 北日本は暴風など警戒",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261028de66726",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66726/20261028de66726_E0000118863_1_s.jpg",
+      "datePublished": "2026-10-28T12:03:00+09:00"
+    },
+    {
+      "name": "GMO“懸賞金支払い”で脅迫に対抗も不安続く",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261028de66716",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66716/20261028de66716_E0000117785_1_s.jpg",
+      "datePublished": "2026-10-28T05:07:00+09:00"
+    },
+    {
+      "name": "イスラエル総選挙開票続く“与野党陣営 獲得議席きっ抗か”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261028de66728",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66728/20261028de66728_E0000117934_2_s.jpg",
+      "datePublished": "2026-10-28T12:37:00+09:00"
+    },
+    {
+      "name": "山梨の女性死亡事件　台湾で夫を拘束　高額保険か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261028de66734",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66734/20261028de66734_E0000117933_1_s.jpg",
+      "datePublished": "2026-10-28T07:15:00+09:00"
+    },
+    {
+      "name": "個人情報流出でカード不正利用の2次被害 悪用の最新手口は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65484",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65484/20261026de65484_E0000114989_1_s.jpg",
+      "datePublished": "2026-10-27T18:21:15+09:00"
+    },
+    {
+      "name": "ことし秋のクマの出没は？ “どんぐり”の実りから予測する",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261021de62755",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62755/20261021de62755_E0000115891_1_s.jpg",
+      "datePublished": "2026-10-27T19:41:24+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
