@@ -1,0 +1,151 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261029de68043",
+  "dataSourceId": "nd",
+  "name": "首相動静 2026年10月28日",
+  "headline": "首相動静 2026年10月28日",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261029de68043",
+    "playlistId": "news-nwa-politics-nationwide-20261029",
+    "newsarticleName": "首相動静 2026年10月28日",
+    "playlistName": "10月29日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "（高市首相動静 2026年10月28日）\n\n\n10:31 徒歩で公邸発\n10:33 官邸着\n11:00 防災庁設置準備を担当する細野豪志防災担当大臣、内閣府の長橋和久防災監、横山征成政策統括官と面会（",
+  "dateModified": "2026-10-29T18:55:25+09:00",
+  "datePublished": "2026-10-29T18:55:25+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de68043/20261029de68043_E0000003852_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de68043/20261029de68043_E0000003852_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "E0000000526",
+      "name": "首相動静",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "（高市首相動静 2026年10月28日）\n\n\n10:31 徒歩で公邸発\n10:33 官邸着\n11:00 防災庁設置準備を担当する細野豪志防災担当大臣、内閣府の長橋和久防災監、横山征成政策統括官と面会（",
+  "articleBody": "（高市首相動静 2026年10月28日）\n\n\n10:31 徒歩で公邸発\n10:33 官邸着\n11:00 防災庁設置準備を担当する細野豪志防災担当大臣、内閣府の長橋和久防災監、横山征成政策統括官と面会（～11:20）\n16:01 自民党の小林鷹之政務調査会長からエネルギーの安定供給に関する提言書受け取り（～16:12）\n16:13 同党の小林政務調査会長と面会（～16:28）\n16:36 日本維新の会の柴田巧幹事長からエネルギー・物価高対策に関する提言書受け取り。遠藤敬総理大臣補佐官同席（～16:43）\n17:58 ドイツのメルツ首相を出迎え\n17:59 儀じょう隊による栄誉礼、儀じょう（～18:04）\n18:08 メルツ首相と首脳会談（～18:41）\n18:44 共同記者発表（～18:55）\n19:00 日独経済関係者の表敬（～19:17）\n19:18 高市総理大臣主催の夕食会（～20:15）\n20:17 メルツ首相を見送り（～20:18）\n20:19 徒歩で官邸発\n20:20 公邸着\n",
+  "detailedArticleBody": {
+    "markedLead": "（高市首相動静 2026年10月28日）\n",
+    "markedBody": "10:31 徒歩で公邸発\\\n10:33 官邸着\\\n11:00 防災庁設置準備を担当する細野豪志防災担当大臣、内閣府の長橋和久防災監、横山征成政策統括官と面会（～11:20）\\\n16:01 自民党の小林鷹之政務調査会長からエネルギーの安定供給に関する提言書受け取り（～16:12）\\\n16:13 同党の小林政務調査会長と面会（～16:28）\\\n16:36 日本維新の会の柴田巧幹事長からエネルギー・物価高対策に関する提言書受け取り。遠藤敬総理大臣補佐官同席（～16:43）\\\n17:58 ドイツのメルツ首相を出迎え\\\n17:59 儀じょう隊による栄誉礼、儀じょう（～18:04）\\\n18:08 メルツ首相と首脳会談（～18:41）\\\n18:44 共同記者発表（～18:55）\\\n19:00 日独経済関係者の表敬（～19:17）\\\n19:18 高市総理大臣主催の夕食会（～20:15）\\\n20:17 メルツ首相を見送り（～20:18）\\\n20:19 徒歩で官邸発\\\n20:20 公邸着\n",
+    "trimmedLead": "（高市首相動静 2026年10月28日）\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261029de68043.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261029de68043",
+  "video": [],
+  "citation": [
+    {
+      "name": "今季いちばんの冷え込み 肌寒い一日に 31日にかけ大気不安定",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de67465",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67465/20261029de67465_E0000122742_1_s.jpg",
+      "datePublished": "2026-10-29T18:50:00+09:00"
+    },
+    {
+      "name": "GMO“攻撃者の特定につながる有力情報入手”警察などに提出",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de67553",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67553/20261029de67553_E0000122728_1_s.jpg",
+      "datePublished": "2026-10-29T19:14:28+09:00"
+    },
+    {
+      "name": "スペイン鉄道事故で乗客名簿に日本人2人の名前 確認急ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de67453",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67453/20261029de67453_E0000122323_1_s.jpg",
+      "datePublished": "2026-10-29T19:26:00+09:00"
+    },
+    {
+      "name": "中部電力 浜岡原発3・4号機審査取り下げで3700億超の特別損失",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de67852",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67852/20261029de67852_E0000123747_1_s.jpg",
+      "datePublished": "2026-10-29T19:32:25+09:00"
+    },
+    {
+      "name": "芥川賞作家のトランスジェンダー暴露 甲府市議に賠償命令",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de67786",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67786/20261029de67786_E0000123644_1_s.jpg",
+      "datePublished": "2026-10-29T15:21:00+09:00"
+    },
+    {
+      "name": "クレジットカードの情報2800人分漏えいか フィギュア販売企業",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de67768",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67768/20261029de67768_E0000003476_1_s.jpg",
+      "datePublished": "2026-10-29T15:01:00+09:00"
+    },
+    {
+      "name": "松屋フーズ 不正アクセス検知 HPとアプリを停止",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de67623",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67623/20261029de67623_E0000123453_1_s.jpg",
+      "datePublished": "2026-10-29T14:33:54+09:00"
+    },
+    {
+      "name": "ライフカード 顧客のメールアドレスなど33万件余 漏えい可能性",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de67594",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67594/20261029de67594_E0000003476_1_s.jpg",
+      "datePublished": "2026-10-29T12:30:58+09:00"
+    },
+    {
+      "name": "日本サッカー協会 岡田武史氏が副会長を辞任 W杯対応めぐり",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261028de67231",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de67231/20261028de67231_E0000119648_1_s.jpg",
+      "datePublished": "2026-10-29T10:50:53+09:00"
+    },
+    {
+      "name": "個人情報流出でカード不正利用の2次被害 悪用の最新手口は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65484",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65484/20261026de65484_E0000114989_1_s.jpg",
+      "datePublished": "2026-10-27T18:21:15+09:00"
+    },
+    {
+      "name": "司法記者が裁判員やってみた",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65746",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65746/20261026de65746_E0000119583_1_s.jpg",
+      "datePublished": "2026-10-29T10:58:11+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

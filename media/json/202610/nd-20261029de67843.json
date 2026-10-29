@@ -1,0 +1,151 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261029de67843",
+  "dataSourceId": "nd",
+  "name": "愛知 安城 水道管工事現場で1人死亡1人不明“土砂に埋もれた”通報",
+  "headline": "愛知 水道管工事現場で1人死亡1人不明“土砂に埋もれた”通報",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261029de67843",
+    "playlistId": "news-nwa-society-nationwide-20261029",
+    "newsarticleName": "愛知 安城 水道管工事現場で1人死亡1人不明“土砂に埋もれた”通報",
+    "playlistName": "10月29日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "29日午後、愛知県安城市の水道管の工事現場で、作業員2人が土砂に埋まり、これまでに1人が救出されましたが、搬送先の病院で死亡が確認されました。\n消防などは、もう1人の救助活動を続けています。\n\n\n消防",
+  "dateModified": "2026-10-29T18:17:40+09:00",
+  "datePublished": "2026-10-29T16:42:34+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67843/20261029de67843_E0000123791_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67843/20261029de67843_E0000123791_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000351",
+      "name": "愛知県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "29日午後、愛知県安城市の水道管の工事現場で、作業員2人が土砂に埋まり、これまでに1人が救出されましたが、搬送先の病院で死亡が確認されました。\n消防などは、もう1人の救助活動を続けています。\n\n\n消防",
+  "articleBody": "29日午後、愛知県安城市の水道管の工事現場で、作業員2人が土砂に埋まり、これまでに1人が救出されましたが、搬送先の病院で死亡が確認されました。\n消防などは、もう1人の救助活動を続けています。\n\n\n消防によりますと、29日午後1時ごろ、安城市横山町の水道管の工事現場で、「作業中に2人が土砂に埋もれた」と通報がありました。\n\n警察によりますと、工事を行っていた男性作業員1人が土砂に埋もれたあと、救助にあたった別の男性作業員も埋もれたということです。\n\nこのうち、1人は救出されましたが、搬送先の病院で死亡が確認されました。\n\nもう1人の作業員は救出されていないということで、消防などが救助活動を続けています。\n\n現場はJR三河安城駅から南東におよそ1.5キロの住宅などが集まる地域です。\n",
+  "detailedArticleBody": {
+    "markedLead": "29日午後、愛知県安城市の水道管の工事現場で、作業員2人が土砂に埋まり、これまでに1人が救出されましたが、搬送先の病院で死亡が確認されました。\\\n消防などは、もう1人の救助活動を続けています。\n",
+    "markedBody": "消防によりますと、29日午後1時ごろ、安城市横山町の水道管の工事現場で、「作業中に2人が土砂に埋もれた」と通報がありました。\n\n警察によりますと、工事を行っていた男性作業員1人が土砂に埋もれたあと、救助にあたった別の男性作業員も埋もれたということです。\n\nこのうち、1人は救出されましたが、搬送先の病院で死亡が確認されました。\n\nもう1人の作業員は救出されていないということで、消防などが救助活動を続けています。\n\n現場はJR三河安城駅から南東におよそ1.5キロの住宅などが集まる地域です。\n",
+    "trimmedLead": "29日午後、愛知県安城市の水道管の工事現場で、作業員2人が土砂に埋まり、これまでに1人が救出されましたが、搬送先の病院で死亡が確認されました。\n消防などは、もう1人の救助活動を続けています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261029de67843.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261029de67843",
+  "video": [],
+  "citation": [
+    {
+      "name": "スペイン鉄道事故で乗客名簿に日本人2人の名前 確認急ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de67453",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67453/20261029de67453_E0000122323_1_s.jpg",
+      "datePublished": "2026-10-29T19:26:00+09:00"
+    },
+    {
+      "name": "中部電力 浜岡原発3・4号機審査取り下げで3700億超の特別損失",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de67852",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67852/20261029de67852_E0000123747_1_s.jpg",
+      "datePublished": "2026-10-29T19:32:25+09:00"
+    },
+    {
+      "name": "芥川賞作家のトランスジェンダー暴露 甲府市議に賠償命令",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de67786",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67786/20261029de67786_E0000123644_1_s.jpg",
+      "datePublished": "2026-10-29T15:21:00+09:00"
+    },
+    {
+      "name": "クレジットカードの情報2800人分漏えいか フィギュア販売企業",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de67768",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67768/20261029de67768_E0000003476_1_s.jpg",
+      "datePublished": "2026-10-29T15:01:00+09:00"
+    },
+    {
+      "name": "松屋フーズ 不正アクセス検知 HPとアプリを停止",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de67623",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67623/20261029de67623_E0000123453_1_s.jpg",
+      "datePublished": "2026-10-29T14:33:54+09:00"
+    },
+    {
+      "name": "今季いちばんの冷え込み 肌寒い一日に 31日にかけ大気不安定",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de67465",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67465/20261029de67465_E0000122742_1_s.jpg",
+      "datePublished": "2026-10-29T18:50:00+09:00"
+    },
+    {
+      "name": "GMO“攻撃者の特定につながる有力情報入手”警察などに提出",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de67553",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67553/20261029de67553_E0000122728_1_s.jpg",
+      "datePublished": "2026-10-29T19:14:28+09:00"
+    },
+    {
+      "name": "ライフカード 顧客のメールアドレスなど33万件余 漏えい可能性",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de67594",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67594/20261029de67594_E0000003476_1_s.jpg",
+      "datePublished": "2026-10-29T12:30:58+09:00"
+    },
+    {
+      "name": "日本サッカー協会 岡田武史氏が副会長を辞任 W杯対応めぐり",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261028de67231",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de67231/20261028de67231_E0000119648_1_s.jpg",
+      "datePublished": "2026-10-29T10:50:53+09:00"
+    },
+    {
+      "name": "個人情報流出でカード不正利用の2次被害 悪用の最新手口は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65484",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65484/20261026de65484_E0000114989_1_s.jpg",
+      "datePublished": "2026-10-27T18:21:15+09:00"
+    },
+    {
+      "name": "司法記者が裁判員やってみた",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65746",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65746/20261026de65746_E0000119583_1_s.jpg",
+      "datePublished": "2026-10-29T10:58:11+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
