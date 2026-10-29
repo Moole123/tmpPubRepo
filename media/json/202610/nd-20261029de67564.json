@@ -1,0 +1,167 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261029de67564",
+  "dataSourceId": "nd",
+  "name": "マイクロソフトとグーグルの決算 クラウド好調も明暗分かれる",
+  "headline": "マイクロソフトとグーグルの決算 クラウド好調も明暗分かれる",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261029de67564",
+    "playlistId": "news-nwa-international-nationwide-20261029",
+    "newsarticleName": "マイクロソフトとグーグルの決算 クラウド好調も明暗分かれる",
+    "playlistName": "10月29日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "アメリカのIT大手「マイクロソフト」と、「グーグル」の親会社「アルファベット」は28日、先月までの3か月間の決算を発表しました。いずれもクラウド事業に支えられ売り上げが伸びたものの、「アルファベット」",
+  "dateModified": "2026-10-29T13:12:00+09:00",
+  "datePublished": "2026-10-29T13:12:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67564/20261029de67564_E0000123223_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67564/20261029de67564_E0000123223_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    },
+    {
+      "id": "E0000000419",
+      "name": "アメリカ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "アメリカのIT大手「マイクロソフト」と、「グーグル」の親会社「アルファベット」は28日、先月までの3か月間の決算を発表しました。いずれもクラウド事業に支えられ売り上げが伸びたものの、「アルファベット」",
+  "articleBody": "アメリカのIT大手「マイクロソフト」と、「グーグル」の親会社「アルファベット」は28日、先月までの3か月間の決算を発表しました。いずれもクラウド事業に支えられ売り上げが伸びたものの、「アルファベット」は減益となり、明暗が分かれる形となりました。\n\n\n発表によりますと、マイクロソフトは、売り上げが去年の同じ時期から19％増えて922億7900万ドル、日本円にしておよそ14兆5800億円、最終的な利益は32％増えて、366億2900万ドル、日本円にしておよそ5兆7800億円となりました。\n\n生成AIの開発などで使われるクラウド基盤「Azure」の売り上げが48％増加し、業績を押し上げました。\n\nまた、グーグルの親会社「アルファベット」もクラウド事業の売り上げが好調だったことなどから売り上げが去年の同じ時期から25％増えて1275億7700万ドル、日本円にしておよそ20兆1500億円となりました。\n\n一方で、最終的な利益は25％減少して、261億7000万ドル、日本円にしておよそ4兆1300億円となりました。\n\n減益の背景には、主力の検索サービスによる広告事業が伸び悩んだことなどがあります。\n\n一方、会社は、この3か月間の設備投資が日本円にして8兆円を超える規模だったことを明らかにしたうえで、さらにAIへの投資を続ける方針を示しています。\n\nIT大手各社がAI開発に巨額の投資を続けるなか、市場では、投資に見合うだけの安定した収益につなげられるのかどうか関心が高まっていて、今回の決算では2社の間で明暗が分かれる形となりました。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカのIT大手「マイクロソフト」と、「グーグル」の親会社「アルファベット」は28日、先月までの3か月間の決算を発表しました。いずれもクラウド事業に支えられ売り上げが伸びたものの、「アルファベット」は減益となり、明暗が分かれる形となりました。\n",
+    "markedBody": "発表によりますと、マイクロソフトは、売り上げが去年の同じ時期から19％増えて922億7900万ドル、日本円にしておよそ14兆5800億円、最終的な利益は32％増えて、366億2900万ドル、日本円にしておよそ5兆7800億円となりました。\n\n生成AIの開発などで使われるクラウド基盤「Azure」の売り上げが48％増加し、業績を押し上げました。\n\nまた、グーグルの親会社「アルファベット」もクラウド事業の売り上げが好調だったことなどから売り上げが去年の同じ時期から25％増えて1275億7700万ドル、日本円にしておよそ20兆1500億円となりました。\n\n一方で、最終的な利益は25％減少して、261億7000万ドル、日本円にしておよそ4兆1300億円となりました。\n\n減益の背景には、主力の検索サービスによる広告事業が伸び悩んだことなどがあります。\n\n一方、会社は、この3か月間の設備投資が日本円にして8兆円を超える規模だったことを明らかにしたうえで、さらにAIへの投資を続ける方針を示しています。\n\nIT大手各社がAI開発に巨額の投資を続けるなか、市場では、投資に見合うだけの安定した収益につなげられるのかどうか関心が高まっていて、今回の決算では2社の間で明暗が分かれる形となりました。\n",
+    "trimmedLead": "アメリカのIT大手「マイクロソフト」と、「グーグル」の親会社「アルファベット」は28日、先月までの3か月間の決算を発表しました。いずれもクラウド事業に支えられ売り上げが伸びたものの、「アルファベット」は減益となり、明暗が分かれる形となりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261029de67564.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261029de67564",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "マイクロソフトとグーグルの決算 クラウド好調も明暗分かれる",
+      "description": "アメリカのIT大手「マイクロソフト」と、「グーグル」の親会社「アルファベット」は28日、先月までの3か月間の決算を発表しました。いずれもクラウド事業に支えられ売り上げが伸びたものの、「アルファベット」",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261029de67564_E0000123473_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261029de67564/20261029de67564_E0000123223_1_l.jpg",
+      "duration": "PT1M37S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261029de67564_E0000123473_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67564/20261029de67564_E0000123223_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "スペイン高速鉄道衝突事故“乗客名簿に日本人2人か”外務省",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de67453",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67453/20261029de67453_E0000122323_1_s.jpg",
+      "datePublished": "2026-10-29T11:57:00+09:00"
+    },
+    {
+      "name": "各地で今季いちばんの冷え込み 路面凍結などに注意を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de67465",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67465/20261029de67465_E0000122742_1_s.jpg",
+      "datePublished": "2026-10-29T12:01:00+09:00"
+    },
+    {
+      "name": "FRB 政策金利据え置き 12月会合で追加利上げ踏み切るかが焦点",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de67441",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67441/20261029de67441_E0000003542_1_s.jpg",
+      "datePublished": "2026-10-29T10:43:00+09:00"
+    },
+    {
+      "name": "【地震情報】千葉県北東部で震度5弱 津波の心配なし",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de67425",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67425/20261029de67425_E0000122318_1_s.jpg",
+      "datePublished": "2026-10-29T06:51:00+09:00"
+    },
+    {
+      "name": "日本サッカー協会 岡田武史氏が副会長を辞任 W杯対応めぐり",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261028de67231",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de67231/20261028de67231_E0000119648_1_s.jpg",
+      "datePublished": "2026-10-29T10:50:53+09:00"
+    },
+    {
+      "name": "プロ野球 ソフトバンクが2年連続の日本一 DeNAに4連勝【詳報】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261028de67008",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de67008/20261028de67008_W0000122163_1_s.jpg",
+      "datePublished": "2026-10-29T03:12:49+09:00"
+    },
+    {
+      "name": "個人情報流出でカード不正利用の2次被害 悪用の最新手口は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65484",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65484/20261026de65484_E0000114989_1_s.jpg",
+      "datePublished": "2026-10-27T18:21:15+09:00"
+    },
+    {
+      "name": "司法記者が裁判員やってみた",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65746",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65746/20261026de65746_E0000119583_1_s.jpg",
+      "datePublished": "2026-10-29T10:58:11+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
