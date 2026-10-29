@@ -1,0 +1,143 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261030de68144",
+  "dataSourceId": "nd",
+  "name": "朝日新聞 メール配信会社不正アクセスで7万件余漏えいか",
+  "headline": "朝日新聞 メール配信会社不正アクセスで7万件余漏えいか",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261030de68144",
+    "playlistId": "news-nwa-society-nationwide-20261030",
+    "newsarticleName": "朝日新聞 メール配信会社不正アクセスで7万件余漏えいか",
+    "playlistName": "10月30日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "企業や自治体のメール配信サービスなどを運営する「ユミルリンク」への不正アクセスの影響で、朝日新聞社は、のべ7万件余りのメールアドレスを中心とした個人情報が漏えいした可能性があると明らかにしました。\n\n",
+  "dateModified": "2026-10-30T00:46:00+09:00",
+  "datePublished": "2026-10-30T00:46:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68144/20261030de68144_E0000126567_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68144/20261030de68144_E0000126567_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "企業や自治体のメール配信サービスなどを運営する「ユミルリンク」への不正アクセスの影響で、朝日新聞社は、のべ7万件余りのメールアドレスを中心とした個人情報が漏えいした可能性があると明らかにしました。\n\n",
+  "articleBody": "企業や自治体のメール配信サービスなどを運営する「ユミルリンク」への不正アクセスの影響で、朝日新聞社は、のべ7万件余りのメールアドレスを中心とした個人情報が漏えいした可能性があると明らかにしました。\n\nクレジットカードの情報は含まれていないということです。\n\n会社によりますと、漏えいの可能性があるのは、デジタル版の購読のために登録された情報ではなく、会社や関連団体が実施したイベントなどで登録された人の情報だということで、朝日新聞社などを装った不審なメールに注意するよう呼びかけています。\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "企業や自治体のメール配信サービスなどを運営する「ユミルリンク」への不正アクセスの影響で、朝日新聞社は、のべ7万件余りのメールアドレスを中心とした個人情報が漏えいした可能性があると明らかにしました。\n\nクレジットカードの情報は含まれていないということです。\n\n会社によりますと、漏えいの可能性があるのは、デジタル版の購読のために登録された情報ではなく、会社や関連団体が実施したイベントなどで登録された人の情報だということで、朝日新聞社などを装った不審なメールに注意するよう呼びかけています。\n",
+    "markedBody": "",
+    "trimmedLead": "企業や自治体のメール配信サービスなどを運営する「ユミルリンク」への不正アクセスの影響で、朝日新聞社は、のべ7万件余りのメールアドレスを中心とした個人情報が漏えいした可能性があると明らかにしました。\n\nクレジットカードの情報は含まれていないということです。\n\n会社によりますと、漏えいの可能性があるのは、デジタル版の購読のために登録された情報ではなく、会社や関連団体が実施したイベントなどで登録された人の情報だということで、朝日新聞社などを装った不審なメールに注意するよう呼びかけています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261030de68144.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261030de68144",
+  "video": [],
+  "citation": [
+    {
+      "name": "GMO 攻撃者に関する情報精査 被害拡大防止で緊急の対応続く",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de67431",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67431/20261029de67431_E0000122288_1_s.jpg",
+      "datePublished": "2026-10-29T01:44:00+09:00"
+    },
+    {
+      "name": "ライフカード 顧客のメールアドレスなど33万件余 漏えい可能性",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de67594",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67594/20261029de67594_E0000003476_1_s.jpg",
+      "datePublished": "2026-10-29T12:30:58+09:00"
+    },
+    {
+      "name": "松屋フーズ 不正アクセス検知 HPとアプリを停止",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de67623",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67623/20261029de67623_E0000123453_1_s.jpg",
+      "datePublished": "2026-10-29T14:33:54+09:00"
+    },
+    {
+      "name": "クレジットカードの情報2800人分漏えいか フィギュア販売企業",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de67768",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67768/20261029de67768_E0000003476_1_s.jpg",
+      "datePublished": "2026-10-29T15:01:00+09:00"
+    },
+    {
+      "name": "不正アクセスによる個人情報漏えい のべ約2億6000万人分 政府",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de68067",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de68067/20261029de68067_E0000003476_1_s.jpg",
+      "datePublished": "2026-10-29T19:53:00+09:00"
+    },
+    {
+      "name": "メール配信会社「アララ」 不正アクセスで300万件のメアド流出",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de67976",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67976/20261029de67976_E0000003476_1_s.jpg",
+      "datePublished": "2026-10-29T17:52:00+09:00"
+    },
+    {
+      "name": "GMO“攻撃者の特定につながる有力情報入手”警察などに提出",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de67553",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67553/20261029de67553_E0000122728_1_s.jpg",
+      "datePublished": "2026-10-29T19:14:00+09:00"
+    },
+    {
+      "name": "アイリスオーヤマ 不正アクセス受け 通販サイト一時停止",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de68116",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de68116/20261029de68116_E0000126493_1_s.jpg",
+      "datePublished": "2026-10-29T22:38:43+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
