@@ -1,0 +1,145 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261029de67629",
+  "dataSourceId": "nd",
+  "name": "防衛省“北朝鮮から弾道ミサイルか すでに落下と推定”",
+  "headline": "防衛省“北朝鮮から弾道ミサイルか すでに落下と推定”",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261029de67629",
+    "playlistId": "news-nwa-international-nationwide-20261029",
+    "newsarticleName": "防衛省“北朝鮮から弾道ミサイルか すでに落下と推定”",
+    "playlistName": "10月29日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "防衛省は北朝鮮から発射された弾道ミサイルの可能性があるものについて、すでに落下したと推定されると発表しました。日本への影響がないか情報の収集を進めています。\n\nまた、韓国軍の合同参謀本部は、北朝鮮が日",
+  "dateModified": "2026-10-29T12:50:36+09:00",
+  "datePublished": "2026-10-29T12:43:20+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67629/20261029de67629_E0000003942_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67629/20261029de67629_E0000003942_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000146",
+      "name": "北朝鮮 ミサイル",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "防衛省は北朝鮮から発射された弾道ミサイルの可能性があるものについて、すでに落下したと推定されると発表しました。日本への影響がないか情報の収集を進めています。\n\nまた、韓国軍の合同参謀本部は、北朝鮮が日",
+  "articleBody": "防衛省は北朝鮮から発射された弾道ミサイルの可能性があるものについて、すでに落下したと推定されると発表しました。日本への影響がないか情報の収集を進めています。\n\nまた、韓国軍の合同参謀本部は、北朝鮮が日本海に向けて飛しょう体を発射したと、午後0時40分ごろに発表しました。\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "防衛省は北朝鮮から発射された弾道ミサイルの可能性があるものについて、すでに落下したと推定されると発表しました。日本への影響がないか情報の収集を進めています。\n\nまた、韓国軍の合同参謀本部は、北朝鮮が日本海に向けて飛しょう体を発射したと、午後0時40分ごろに発表しました。\n",
+    "markedBody": "",
+    "trimmedLead": "防衛省は北朝鮮から発射された弾道ミサイルの可能性があるものについて、すでに落下したと推定されると発表しました。日本への影響がないか情報の収集を進めています。\n\nまた、韓国軍の合同参謀本部は、北朝鮮が日本海に向けて飛しょう体を発射したと、午後0時40分ごろに発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261029de67629.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261029de67629",
+  "video": [],
+  "citation": [
+    {
+      "name": "スペイン高速鉄道衝突事故“乗客名簿に日本人2人か”外務省",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de67453",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67453/20261029de67453_E0000122323_1_s.jpg",
+      "datePublished": "2026-10-29T11:57:33+09:00"
+    },
+    {
+      "name": "各地で今季いちばんの冷え込み 路面凍結などに注意を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de67465",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67465/20261029de67465_E0000122742_1_s.jpg",
+      "datePublished": "2026-10-29T12:01:00+09:00"
+    },
+    {
+      "name": "GMO社長“攻撃者特定につながる情報入手 警察などに提出する”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de67553",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67553/20261029de67553_E0000122728_1_s.jpg",
+      "datePublished": "2026-10-29T12:36:09+09:00"
+    },
+    {
+      "name": "ライフカード 顧客のメールアドレスなど33万件余 漏えい可能性",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de67594",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67594/20261029de67594_E0000003476_1_s.jpg",
+      "datePublished": "2026-10-29T12:30:58+09:00"
+    },
+    {
+      "name": "FRB 政策金利据え置き 12月会合で追加利上げ踏み切るかが焦点",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de67441",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67441/20261029de67441_E0000003542_1_s.jpg",
+      "datePublished": "2026-10-29T10:43:00+09:00"
+    },
+    {
+      "name": "大リーグ ブルワーズがレイズに勝利 ワールドシリーズ初制覇",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de67619",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67619/20261029de67619_E0000004045_1_s.jpg",
+      "datePublished": "2026-10-29T12:21:00+09:00"
+    },
+    {
+      "name": "日本サッカー協会 岡田武史氏が副会長を辞任 W杯対応めぐり",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261028de67231",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de67231/20261028de67231_E0000119648_1_s.jpg",
+      "datePublished": "2026-10-29T10:50:53+09:00"
+    },
+    {
+      "name": "個人情報流出でカード不正利用の2次被害 悪用の最新手口は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65484",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65484/20261026de65484_E0000114989_1_s.jpg",
+      "datePublished": "2026-10-27T18:21:15+09:00"
+    },
+    {
+      "name": "長野 上松町 トロッコ列車から楽しむ秋",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261024de64699",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64699/20261024de64699_E0000122749_1_s.jpg",
+      "datePublished": "2026-10-29T13:10:00+09:00"
+    },
+    {
+      "name": "司法記者が裁判員やってみた",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65746",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65746/20261026de65746_E0000119583_1_s.jpg",
+      "datePublished": "2026-10-29T10:58:11+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
