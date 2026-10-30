@@ -1,0 +1,160 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261030de68404",
+  "dataSourceId": "nd",
+  "name": "暗号資産の「バイナンス」に不正アクセスか 影響額 約9900億円",
+  "headline": "暗号資産の「バイナンス」に不正アクセスか 影響額 約9900億円",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261030de68404",
+    "playlistId": "news-nwa-business-nationwide-20261030",
+    "newsarticleName": "暗号資産の「バイナンス」に不正アクセスか 影響額 約9900億円",
+    "playlistName": "10月30日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "暗号資産の取引所として世界的な大手の「バイナンス」は29日、不正アクセスとみられるセキュリティー上の問題が起き、影響額が推定でおよそ63億ドル、日本円にしておよそ9900億円に上ることを明らかにしまし",
+  "dateModified": "2026-10-30T14:43:00+09:00",
+  "datePublished": "2026-10-30T13:52:12+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68404/20261030de68404_E0000127826_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68404/20261030de68404_E0000127826_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000156",
+      "name": "暗号資産",
+      "display": true
+    },
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000477",
+      "name": "金融",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "暗号資産の取引所として世界的な大手の「バイナンス」は29日、不正アクセスとみられるセキュリティー上の問題が起き、影響額が推定でおよそ63億ドル、日本円にしておよそ9900億円に上ることを明らかにしまし",
+  "articleBody": "暗号資産の取引所として世界的な大手の「バイナンス」は29日、不正アクセスとみられるセキュリティー上の問題が起き、影響額が推定でおよそ63億ドル、日本円にしておよそ9900億円に上ることを明らかにしました。デジタル資産の分野で過去最大級の被害とみられると伝えられています。\n\n\n「バイナンス」は29日、セキュリティー上の問題が起きたとして、入金や出金を一時的に停止したことを明らかにしました。\n\nその上で、初期の調査の結果として、エンジニアのノートパソコンが攻撃を受け、不正アクセスによって出金ができる状態だった可能性があるとしています。\n\n影響額は推定でおよそ63億ドル、日本円にしておよそ9900億円に上るとしています。\n\nまた、およそ30億ドル、4700億円あまりの資産を凍結したことも明らかにし、今回の事案による損失はすべて会社側が負担するとしています。\n\nバイナンスは暗号資産の世界的な大手の取引所で、日本法人もあります。\n\n今回の問題をめぐって欧米のメディアは、「デジタル資産の分野で過去最大級の被害にあったとみられる」などと伝えています。\n\nまた、アメリカの有力紙、ウォール・ストリート・ジャーナルは、不正アクセスは北朝鮮のハッキンググループによるものとみられるという複数のサイバーセキュリティー調査会社の見方を伝えています。\n\nバイナンス 日本でも暗号資産の出し入れを停止\n\n「バイナンス」の日本法人によりますと、顧客は「ウォレット」と呼ばれる仕組みで暗号資産を管理していますが、セキュリティー上の問題が解消されるまで、顧客が暗号資産を出すのを止めているということです。\n\n会社では、「取引システムでセキュリティー事案が確認されましたが、現時点で日本の顧客の資産への影響は確認されておりません」としています。\n",
+  "detailedArticleBody": {
+    "markedLead": "暗号資産の取引所として世界的な大手の「バイナンス」は29日、不正アクセスとみられるセキュリティー上の問題が起き、影響額が推定でおよそ63億ドル、日本円にしておよそ9900億円に上ることを明らかにしました。デジタル資産の分野で過去最大級の被害とみられると伝えられています。\n",
+    "markedBody": "「バイナンス」は29日、セキュリティー上の問題が起きたとして、入金や出金を一時的に停止したことを明らかにしました。\n\nその上で、初期の調査の結果として、エンジニアのノートパソコンが攻撃を受け、不正アクセスによって出金ができる状態だった可能性があるとしています。\n\n影響額は推定でおよそ63億ドル、日本円にしておよそ9900億円に上るとしています。\n\nまた、およそ30億ドル、4700億円あまりの資産を凍結したことも明らかにし、今回の事案による損失はすべて会社側が負担するとしています。\n\nバイナンスは暗号資産の世界的な大手の取引所で、日本法人もあります。\n\n今回の問題をめぐって欧米のメディアは、「デジタル資産の分野で過去最大級の被害にあったとみられる」などと伝えています。\n\nまた、アメリカの有力紙、ウォール・ストリート・ジャーナルは、不正アクセスは北朝鮮のハッキンググループによるものとみられるという複数のサイバーセキュリティー調査会社の見方を伝えています。\n\n## バイナンス 日本でも暗号資産の出し入れを停止\n\n「バイナンス」の日本法人によりますと、顧客は「ウォレット」と呼ばれる仕組みで暗号資産を管理していますが、セキュリティー上の問題が解消されるまで、顧客が暗号資産を出すのを止めているということです。\n\n会社では、「取引システムでセキュリティー事案が確認されましたが、現時点で日本の顧客の資産への影響は確認されておりません」としています。\n",
+    "trimmedLead": "暗号資産の取引所として世界的な大手の「バイナンス」は29日、不正アクセスとみられるセキュリティー上の問題が起き、影響額が推定でおよそ63億ドル、日本円にしておよそ9900億円に上ることを明らかにしました。デジタル資産の分野で過去最大級の被害とみられると伝えられています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261030de68404.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261030de68404",
+  "video": [],
+  "citation": [
+    {
+      "name": "【解説】GMO“攻撃者につながる有力情報入手” 必要な対策は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68154",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68154/20261030de68154_E0000127022_1_s.jpg",
+      "datePublished": "2026-10-30T12:26:56+09:00"
+    },
+    {
+      "name": "スペイン鉄道事故 地元紙「外国人1人死亡 20人超安否確認中」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68323",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68323/20261030de68323_E0000127075_1_s.jpg",
+      "datePublished": "2026-10-30T11:57:00+09:00"
+    },
+    {
+      "name": "高級時計窃盗事件 店頭には従業員1人 手薄な時間帯狙ったか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68314",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68314/20261030de68314_E0000126545_1_s.jpg",
+      "datePublished": "2026-10-30T11:55:00+09:00"
+    },
+    {
+      "name": "【不正アクセス】きょうも個人情報の流出が相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68227",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68227/20261030de68227_E0000003473_1_s.jpg",
+      "datePublished": "2026-10-30T15:31:28+09:00"
+    },
+    {
+      "name": "渋谷駅前「ハチ公像」がシートで覆われる ハロウィーン前に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68224",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68224/20261030de68224_E0000126960_1_s.jpg",
+      "datePublished": "2026-10-30T14:29:30+09:00"
+    },
+    {
+      "name": "富士山で初冠雪 今シーズンから新しい手法で観測",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68207",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68207/20261030de68207_E0000126926_1_s.jpg",
+      "datePublished": "2026-10-30T10:33:57+09:00"
+    },
+    {
+      "name": "愛知 安城の水道管工事現場で土砂に埋まり作業中の親子2人死亡",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68166",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68166/20261030de68166_E0000126577_1_s.jpg",
+      "datePublished": "2026-10-30T04:38:00+09:00"
+    },
+    {
+      "name": "トルコの観光名所 カッパドキアで岩が崩落し 3人死亡",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68204",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68204/20261030de68204_E0000126934_2_s.jpg",
+      "datePublished": "2026-10-30T10:49:31+09:00"
+    },
+    {
+      "name": "司法記者が裁判員やってみた",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65746",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65746/20261026de65746_E0000119583_1_s.jpg",
+      "datePublished": "2026-10-29T10:58:11+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

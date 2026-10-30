@@ -1,0 +1,84 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261030de68426",
+  "dataSourceId": "nd",
+  "name": "福田康夫元首相の葬儀営まれる 高市首相らが参列",
+  "headline": "福田康夫元首相の葬儀営まれる 高市首相らが参列",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261030de68426",
+    "playlistId": "news-nwa-politics-nationwide-20261030",
+    "newsarticleName": "福田康夫元首相の葬儀営まれる 高市首相らが参列",
+    "playlistName": "10月30日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "今月亡くなった福田康夫元総理大臣の葬儀が東京都内で営まれ、高市総理大臣や自民党幹部らが参列して別れを惜しみました。\n\n\n福田康夫元総理大臣は、今月22日に90歳で亡くなり、30日午前、東京 南青山の青",
+  "dateModified": "2026-10-30T15:05:00+09:00",
+  "datePublished": "2026-10-30T15:05:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68426/20261030de68426_E0000127896_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68426/20261030de68426_E0000127896_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "E0000000341",
+      "name": "東京都",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "今月亡くなった福田康夫元総理大臣の葬儀が東京都内で営まれ、高市総理大臣や自民党幹部らが参列して別れを惜しみました。\n\n\n福田康夫元総理大臣は、今月22日に90歳で亡くなり、30日午前、東京 南青山の青",
+  "articleBody": "今月亡くなった福田康夫元総理大臣の葬儀が東京都内で営まれ、高市総理大臣や自民党幹部らが参列して別れを惜しみました。\n\n\n福田康夫元総理大臣は、今月22日に90歳で亡くなり、30日午前、東京 南青山の青山葬儀所で葬儀が営まれました。\n\n葬儀には、高市総理大臣をはじめ、自民党の小林政務調査会長や西村選挙対策委員長、萩生田幹事長代行ら自民党幹部のほか、石破前総理大臣や野田元総理大臣らが参列し、別れを惜しみました。\n\nそして、福田氏のひつぎを乗せた車が昼過ぎに斎場を出発しました。\n\n自民党によりますと、後日、福田氏のお別れの会が開催される予定だということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "今月亡くなった福田康夫元総理大臣の葬儀が東京都内で営まれ、高市総理大臣や自民党幹部らが参列して別れを惜しみました。\n",
+    "markedBody": "福田康夫元総理大臣は、今月22日に90歳で亡くなり、30日午前、東京 南青山の青山葬儀所で葬儀が営まれました。\n\n葬儀には、高市総理大臣をはじめ、自民党の小林政務調査会長や西村選挙対策委員長、萩生田幹事長代行ら自民党幹部のほか、石破前総理大臣や野田元総理大臣らが参列し、別れを惜しみました。\n\nそして、福田氏のひつぎを乗せた車が昼過ぎに斎場を出発しました。\n\n自民党によりますと、後日、福田氏のお別れの会が開催される予定だということです。\n",
+    "trimmedLead": "今月亡くなった福田康夫元総理大臣の葬儀が東京都内で営まれ、高市総理大臣や自民党幹部らが参列して別れを惜しみました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261030de68426.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261030de68426",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
