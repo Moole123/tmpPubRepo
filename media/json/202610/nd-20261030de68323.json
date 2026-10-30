@@ -1,0 +1,173 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261030de68323",
+  "dataSourceId": "nd",
+  "name": "スペイン鉄道事故 地元紙「外国人1人死亡 20人超安否確認中」",
+  "headline": "スペイン鉄道事故 地元紙「外国人1人死亡 20人超安否確認中」",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261030de68323",
+    "playlistId": "news-nwa-international-nationwide-20261030",
+    "newsarticleName": "スペイン鉄道事故 地元紙「外国人1人死亡 20人超安否確認中」",
+    "playlistName": "10月30日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "スペイン中部で高速鉄道の列車が別の列車に追突し、60人以上が死亡した事故で、地元メディアは事故に巻き込まれた外国人は50人以上で、このうち1人が死亡し、20人以上の安否を確認していると報じました。列車",
+  "dateModified": "2026-10-30T11:57:00+09:00",
+  "datePublished": "2026-10-30T11:57:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68323/20261030de68323_E0000127075_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68323/20261030de68323_E0000127075_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000519",
+      "name": "スペイン",
+      "display": true
+    },
+    {
+      "id": "E0000000208",
+      "name": "事件・事故",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "スペイン中部で高速鉄道の列車が別の列車に追突し、60人以上が死亡した事故で、地元メディアは事故に巻き込まれた外国人は50人以上で、このうち1人が死亡し、20人以上の安否を確認していると報じました。列車",
+  "articleBody": "スペイン中部で高速鉄道の列車が別の列車に追突し、60人以上が死亡した事故で、地元メディアは事故に巻き込まれた外国人は50人以上で、このうち1人が死亡し、20人以上の安否を確認していると報じました。列車の乗客名簿には日本人2人の名前が記載されていて、日本政府が確認を急いでいます。\n\n\nスペイン中部のトレド県で、28日、首都マドリードと南部の地域を結ぶ高速鉄道の列車が別の列車に追突した事故では、これまでに69人が死亡、100人以上がけがをしました。\n\nスペインの有力紙エルパイスは29日、スペイン外務省の複数の関係者の話として、事故に巻き込まれた外国人は20か国以上の51人で、このうち1人が死亡、9人がけがをして18人の無事が確認されていると報じました。\n\n残りの23人については、各国の大使館とともに安否確認を行っているとしています。\n\n日本の外務省によりますと、列車の乗客名簿に日本人2人の名前が記載されていたということで、現地の日本大使館が職員を派遣して確認を急いでいます。\n\nまた、捜査当局が列車の運行データを記録したブラックボックスを回収したということで、分析が進められると伝えています。\n\n一方、スペインのフェリペ国王夫妻は29日、事故で負傷した人たちが治療を受けている現地の病院を訪問しました。\n\nこの中で、フェリペ国王は「私たちは再び大きな打撃を受けた。この痛みを抱えながらも前に進まなければならない」などと述べ、早期の事故原因の究明や再発防止策の導入を訴えました。\n",
+  "detailedArticleBody": {
+    "markedLead": "スペイン中部で高速鉄道の列車が別の列車に追突し、60人以上が死亡した事故で、地元メディアは事故に巻き込まれた外国人は50人以上で、このうち1人が死亡し、20人以上の安否を確認していると報じました。列車の乗客名簿には日本人2人の名前が記載されていて、日本政府が確認を急いでいます。\n",
+    "markedBody": "スペイン中部のトレド県で、28日、首都マドリードと南部の地域を結ぶ高速鉄道の列車が別の列車に追突した事故では、これまでに69人が死亡、100人以上がけがをしました。\n\nスペインの有力紙エルパイスは29日、スペイン外務省の複数の関係者の話として、事故に巻き込まれた外国人は20か国以上の51人で、このうち1人が死亡、9人がけがをして18人の無事が確認されていると報じました。\n\n残りの23人については、各国の大使館とともに安否確認を行っているとしています。\n\n日本の外務省によりますと、列車の乗客名簿に日本人2人の名前が記載されていたということで、現地の日本大使館が職員を派遣して確認を急いでいます。\n\nまた、捜査当局が列車の運行データを記録したブラックボックスを回収したということで、分析が進められると伝えています。\n\n一方、スペインのフェリペ国王夫妻は29日、事故で負傷した人たちが治療を受けている現地の病院を訪問しました。\n\nこの中で、フェリペ国王は「私たちは再び大きな打撃を受けた。この痛みを抱えながらも前に進まなければならない」などと述べ、早期の事故原因の究明や再発防止策の導入を訴えました。\n",
+    "trimmedLead": "スペイン中部で高速鉄道の列車が別の列車に追突し、60人以上が死亡した事故で、地元メディアは事故に巻き込まれた外国人は50人以上で、このうち1人が死亡し、20人以上の安否を確認していると報じました。列車の乗客名簿には日本人2人の名前が記載されていて、日本政府が確認を急いでいます。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261030de68323.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261030de68323",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "スペイン鉄道事故 地元紙「外国人1人死亡 20人超安否確認中」",
+      "description": "スペイン中部で高速鉄道の列車が別の列車に追突し、60人以上が死亡した事故で、地元メディアは事故に巻き込まれた外国人は50人以上で、このうち1人が死亡し、20人以上の安否を確認していると報じました。列車",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261030de68323_E0000127217_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261030de68323/20261030de68323_E0000127075_1_l.jpg",
+      "duration": "PT1M24S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261030de68323_E0000127217_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68323/20261030de68323_E0000127075_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "イスラエル選挙 与野党とも過半数届かず連立協議へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68223",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68223/20261030de68223_E0000127024_1_s.jpg",
+      "datePublished": "2026-10-30T11:37:31+09:00"
+    },
+    {
+      "name": "トルコの観光名所 カッパドキアで岩が崩落し 3人死亡",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68204",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68204/20261030de68204_E0000126934_2_s.jpg",
+      "datePublished": "2026-10-30T10:49:31+09:00"
+    },
+    {
+      "name": "ドイツ メルツ首相 高市総理大臣にウクライナ防空支援を要請",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68186",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68186/20261030de68186_E0000126693_1_s.jpg",
+      "datePublished": "2026-10-30T10:22:52+09:00"
+    },
+    {
+      "name": "ベネズエラ マチャド氏が帰国後初会見 公の場で政治活動へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68194",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68194/20261030de68194_E0000126861_1_s.jpg",
+      "datePublished": "2026-10-30T10:26:04+09:00"
+    },
+    {
+      "name": "職員4万人余りの個人情報流出か アメリカ国土安全保障省",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68187",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68187/20261030de68187_E0000126694_1_s.jpg",
+      "datePublished": "2026-10-30T07:30:00+09:00"
+    },
+    {
+      "name": "“エヌビディアCEOと親密な関係の女性が中国協力者”米報道",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68195",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68195/20261030de68195_E0000126873_1_s.jpg",
+      "datePublished": "2026-10-30T10:24:21+09:00"
+    },
+    {
+      "name": "フォルクスワーゲン 7-9月期決算 8000億円超の大幅赤字",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de68034",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de68034/20261029de68034_E0000124920_1_s.jpg",
+      "datePublished": "2026-10-30T04:55:56+09:00"
+    },
+    {
+      "name": "米副大統領 イラン側に停戦へ向けた協議再開を提案か 米報道",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de68053",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de68053/20261029de68053_E0000125726_1_s.jpg",
+      "datePublished": "2026-10-29T20:16:00+09:00"
+    },
+    {
+      "name": "“50年の歩みが後退する”？ 米中間選挙 選挙区見直しの陰で",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261020de62440",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de62440/20261020de62440_E0000112229_1_s.jpg",
+      "datePublished": "2026-10-30T11:02:20+09:00"
+    },
+    {
+      "name": "有権者の評価は？製造業の再建目指す「トランプ関税」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65543",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65543/20261026de65543_E0000118251_1_s.jpg",
+      "datePublished": "2026-10-28T19:04:22+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
