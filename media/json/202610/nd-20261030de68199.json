@@ -1,0 +1,116 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261030de68199",
+  "dataSourceId": "nd",
+  "name": "完全失業率 9月は2.4％ 前月より0.1ポイント改善 総務省",
+  "headline": "完全失業率 9月は2.4％ 前月より0.1ポイント改善 総務省",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261030de68199",
+    "playlistId": "news-nwa-politics-nationwide-20261030",
+    "newsarticleName": "完全失業率 9月は2.4％ 前月より0.1ポイント改善 総務省",
+    "playlistName": "10月30日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "9月の全国の完全失業率は2.4％で、8月より0.1ポイント改善しました。\n\n\n総務省によりますと、9月の就業者数は6896万人で、2025年の同じ月と比べて33万人増え、比較可能な1953年以降で最も",
+  "dateModified": "2026-10-30T10:48:27+09:00",
+  "datePublished": "2026-10-30T08:35:57+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68199/20261030de68199_E0000003461_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68199/20261030de68199_E0000003461_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治",
+    "暮らし"
+  ],
+  "topic": [
+    {
+      "id": "E0000000703",
+      "name": "統計・指標",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "9月の全国の完全失業率は2.4％で、8月より0.1ポイント改善しました。\n\n\n総務省によりますと、9月の就業者数は6896万人で、2025年の同じ月と比べて33万人増え、比較可能な1953年以降で最も",
+  "articleBody": "9月の全国の完全失業率は2.4％で、8月より0.1ポイント改善しました。\n\n\n総務省によりますと、9月の就業者数は6896万人で、2025年の同じ月と比べて33万人増え、比較可能な1953年以降で最も多くなりました。\n\n主な産業別の就業者では「医療、福祉」が2025年の同じ月と比べて29万人増えた一方、「宿泊業、飲食サービス業」が21万人減りました。\n\nまた、正規の職員や従業員の数は3783万人で、2025年の同じ月と比べて23万人増え、35か月連続の増加となりました。\n\n一方、完全失業者数は169万人で、2025年の同じ月と比べて15万人減りました。\n\nこの結果、季節による変動要因を除いた全国の完全失業率は2.4％で、8月より0.1ポイント改善しました。\n\n総務省は「就業者数が大きく伸びるなど、雇用情勢は悪くない。完全失業者数の状況などについては引き続き、注視していきたい」としています。\n",
+  "detailedArticleBody": {
+    "markedLead": "9月の全国の完全失業率は2.4％で、8月より0.1ポイント改善しました。\n",
+    "markedBody": "総務省によりますと、9月の就業者数は6896万人で、2025年の同じ月と比べて33万人増え、比較可能な1953年以降で最も多くなりました。\n\n主な産業別の就業者では「医療、福祉」が2025年の同じ月と比べて29万人増えた一方、「宿泊業、飲食サービス業」が21万人減りました。\n\nまた、正規の職員や従業員の数は3783万人で、2025年の同じ月と比べて23万人増え、35か月連続の増加となりました。\n\n一方、完全失業者数は169万人で、2025年の同じ月と比べて15万人減りました。\n\nこの結果、季節による変動要因を除いた全国の完全失業率は2.4％で、8月より0.1ポイント改善しました。\n\n総務省は「就業者数が大きく伸びるなど、雇用情勢は悪くない。完全失業者数の状況などについては引き続き、注視していきたい」としています。\n",
+    "trimmedLead": "9月の全国の完全失業率は2.4％で、8月より0.1ポイント改善しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261030de68199.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261030de68199",
+  "video": [],
+  "citation": [
+    {
+      "name": "9月の有効求人倍率1.19倍 3か月ぶりに前月上回る",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de68097",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de68097/20261029de68097_E0000125802_1_s.jpg",
+      "datePublished": "2026-10-30T10:44:21+09:00"
+    },
+    {
+      "name": "自民 維新 国民“31減で法案成立を” ほかの野党 反対相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68151",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68151/20261030de68151_E0000126569_1_s.jpg",
+      "datePublished": "2026-10-30T05:33:00+09:00"
+    },
+    {
+      "name": "有権者の評価は？製造業の再建目指す「トランプ関税」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65543",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65543/20261026de65543_E0000118251_1_s.jpg",
+      "datePublished": "2026-10-28T19:04:22+09:00"
+    },
+    {
+      "name": "相続した実家を手放したい 広がる“不動産の有料引き取り”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261028de66810",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66810/20261028de66810_E0000122836_1_s.jpg",
+      "datePublished": "2026-10-29T17:12:35+09:00"
+    },
+    {
+      "name": "局地停戦のオレシュキで地雷除去完了 人道支援へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68175",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68175/20261030de68175_E0000126606_1_s.jpg",
+      "datePublished": "2026-10-30T06:54:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

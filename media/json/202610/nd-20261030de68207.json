@@ -1,0 +1,131 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261030de68207",
+  "dataSourceId": "nd",
+  "name": "富士山で初冠雪 今シーズンから新しい手法で観測",
+  "headline": "富士山で初冠雪 今シーズンから新しい手法で観測",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261030de68207",
+    "playlistId": "news-nwa-disaster-nationwide-20261030",
+    "newsarticleName": "富士山で初冠雪 今シーズンから新しい手法で観測",
+    "playlistName": "10月30日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "富士山で30日朝、初冠雪が観測されました。\n\n\n30日朝、気象データから富士山の山頂付近に1センチ以上の雪が積もっていると解析され、初冠雪が観測されました。\n\n気象庁によりますと、富士山の初冠雪は昨シ",
+  "dateModified": "2026-10-30T10:33:57+09:00",
+  "datePublished": "2026-10-30T10:33:57+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68207/20261030de68207_E0000126926_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68207/20261030de68207_E0000126926_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000114",
+      "name": "気象",
+      "display": true
+    },
+    {
+      "id": "E0000000347",
+      "name": "山梨県",
+      "display": true
+    },
+    {
+      "id": "E0000000350",
+      "name": "静岡県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "富士山で30日朝、初冠雪が観測されました。\n\n\n30日朝、気象データから富士山の山頂付近に1センチ以上の雪が積もっていると解析され、初冠雪が観測されました。\n\n気象庁によりますと、富士山の初冠雪は昨シ",
+  "articleBody": "富士山で30日朝、初冠雪が観測されました。\n\n\n30日朝、気象データから富士山の山頂付近に1センチ以上の雪が積もっていると解析され、初冠雪が観測されました。\n\n気象庁によりますと、富士山の初冠雪は昨シーズンまでは甲府地方気象台から職員が目視で観測していましたが、今シーズンから気象データをもとに積雪を解析する方法に変わったということです。\n\nこのため、去年と直接比較はできませんが、今シーズンは去年と比べると7日遅い観測となりました。\n\n甲府地方気象台によりますと、30日未明から富士山周辺に雨雲がかかり、山頂付近の気温が低くなったということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "富士山で30日朝、初冠雪が観測されました。\n",
+    "markedBody": "30日朝、気象データから富士山の山頂付近に1センチ以上の雪が積もっていると解析され、初冠雪が観測されました。\n\n![](https://img.web.nhk/news/nd/kiji/20261030de68207/20261030de68207_E0000126925_1_l.jpg)\n\n気象庁によりますと、富士山の初冠雪は昨シーズンまでは甲府地方気象台から職員が目視で観測していましたが、今シーズンから気象データをもとに積雪を解析する方法に変わったということです。\n\nこのため、去年と直接比較はできませんが、今シーズンは去年と比べると7日遅い観測となりました。\n\n甲府地方気象台によりますと、30日未明から富士山周辺に雨雲がかかり、山頂付近の気温が低くなったということです。\n",
+    "trimmedLead": "富士山で30日朝、初冠雪が観測されました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261030de68207.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261030de68207",
+  "video": [],
+  "citation": [
+    {
+      "name": "GMO 被害拡大防止へ有力情報は警察などと随時共有",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68154",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68154/20261030de68154_E0000126571_1_s.jpg",
+      "datePublished": "2026-10-30T05:03:00+09:00"
+    },
+    {
+      "name": "職員4万人余りの個人情報流出か アメリカ国土安全保障省",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68187",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68187/20261030de68187_E0000126694_1_s.jpg",
+      "datePublished": "2026-10-30T07:30:00+09:00"
+    },
+    {
+      "name": "「中野ブロードウェイ」で4600万円相当の腕時計 男が盗み逃走",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de68127",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de68127/20261029de68127_E0000126546_1_s.jpg",
+      "datePublished": "2026-10-30T00:39:00+09:00"
+    },
+    {
+      "name": "スペイン鉄道事故 指令センターが速度制限伝えず運転再開か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68171",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68171/20261030de68171_E0000126578_1_s.jpg",
+      "datePublished": "2026-10-30T05:38:00+09:00"
+    },
+    {
+      "name": "相続した実家を手放したい 広がる“不動産の有料引き取り”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261028de66810",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66810/20261028de66810_E0000122836_1_s.jpg",
+      "datePublished": "2026-10-29T17:12:35+09:00"
+    },
+    {
+      "name": "ことし秋のクマの出没は？ “どんぐり”の実りから予測する",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261021de62755",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62755/20261021de62755_E0000115891_1_s.jpg",
+      "datePublished": "2026-10-27T19:41:24+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

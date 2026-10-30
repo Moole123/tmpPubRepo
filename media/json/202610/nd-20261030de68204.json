@@ -1,0 +1,84 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261030de68204",
+  "dataSourceId": "nd",
+  "name": "トルコの観光名所 カッパドキアで岩が崩落し 3人死亡",
+  "headline": "トルコの観光名所 カッパドキアで岩が崩落し 3人死亡",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261030de68204",
+    "playlistId": "news-nwa-international-nationwide-20261030",
+    "newsarticleName": "トルコの観光名所 カッパドキアで岩が崩落し 3人死亡",
+    "playlistName": "10月30日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "トルコの観光名所カッパドキアで29日、岩の一部が崩落して3人が死亡し、地元当局は大雨の影響で崩れた可能性があるとしています。\n\n\nトルコ中部の観光名所カッパドキアで29日午後、観光客に人気の奇岩の一部",
+  "dateModified": "2026-10-30T10:49:31+09:00",
+  "datePublished": "2026-10-30T10:41:35+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68204/20261030de68204_E0000126934_2_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68204/20261030de68204_E0000126934_2_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000385",
+      "name": "トルコ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "トルコの観光名所カッパドキアで29日、岩の一部が崩落して3人が死亡し、地元当局は大雨の影響で崩れた可能性があるとしています。\n\n\nトルコ中部の観光名所カッパドキアで29日午後、観光客に人気の奇岩の一部",
+  "articleBody": "トルコの観光名所カッパドキアで29日、岩の一部が崩落して3人が死亡し、地元当局は大雨の影響で崩れた可能性があるとしています。\n\n\nトルコ中部の観光名所カッパドキアで29日午後、観光客に人気の奇岩の一部が崩落しました。\n\n地元のネブシェヒル県の知事は現地メディアに、この崩落によりこれまでに3人が死亡し、5人がけがをしたと明らかにしました。\n\nまた、崩落の原因については、大雨の影響で崩れた可能性があるという見方を示しています。\n\n首都アンカラにある日本大使館によりますと日本人がこの事故に巻き込まれたという情報は入っていないということです。\n\nカッパドキアは「妖精の煙突」と呼ばれる塔のような形をした岩が立ち並んだ独特の景観で知られ、世界遺産にも登録されています。\n",
+  "detailedArticleBody": {
+    "markedLead": "トルコの観光名所カッパドキアで29日、岩の一部が崩落して3人が死亡し、地元当局は大雨の影響で崩れた可能性があるとしています。\n",
+    "markedBody": "トルコ中部の観光名所カッパドキアで29日午後、観光客に人気の奇岩の一部が崩落しました。\n\n地元のネブシェヒル県の知事は現地メディアに、この崩落によりこれまでに3人が死亡し、5人がけがをしたと明らかにしました。\n\nまた、崩落の原因については、大雨の影響で崩れた可能性があるという見方を示しています。\n\n首都アンカラにある日本大使館によりますと日本人がこの事故に巻き込まれたという情報は入っていないということです。\n\nカッパドキアは「妖精の煙突」と呼ばれる塔のような形をした岩が立ち並んだ独特の景観で知られ、世界遺産にも登録されています。\n",
+    "trimmedLead": "トルコの観光名所カッパドキアで29日、岩の一部が崩落して3人が死亡し、地元当局は大雨の影響で崩れた可能性があるとしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261030de68204.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261030de68204",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
