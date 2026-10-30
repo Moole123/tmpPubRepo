@@ -1,0 +1,156 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261030de68790",
+  "dataSourceId": "nd",
+  "name": "日本交通 不正アクセスで29万人の個人情報漏えいおそれ",
+  "headline": "日本交通 不正アクセスで29万人の個人情報漏えいおそれ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261030de68790",
+    "playlistId": "news-nwa-society-nationwide-20261031",
+    "newsarticleName": "日本交通 不正アクセスで29万人の個人情報漏えいおそれ",
+    "playlistName": "10月31日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "タクシー大手の日本交通は、ことし7月に会社のシステムへの不正アクセスを受け、乗務員が関わった事故の相手やハイヤーの利用者、それに採用選考に応募した人など、あわせておよそ29万人の個人情報が漏えいしたお",
+  "dateModified": "2026-10-31T00:23:49+09:00",
+  "datePublished": "2026-10-31T00:23:49+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68790/20261030de68790_E0000130836_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68790/20261030de68790_E0000130836_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "タクシー大手の日本交通は、ことし7月に会社のシステムへの不正アクセスを受け、乗務員が関わった事故の相手やハイヤーの利用者、それに採用選考に応募した人など、あわせておよそ29万人の個人情報が漏えいしたお",
+  "articleBody": "タクシー大手の日本交通は、ことし7月に会社のシステムへの不正アクセスを受け、乗務員が関わった事故の相手やハイヤーの利用者、それに採用選考に応募した人など、あわせておよそ29万人の個人情報が漏えいしたおそれがあると発表しました。\n\n\n個人情報が漏えいしたおそれがあるのは、採用選考の応募者が10万人余り、乗務員が関わった事故の相手が7万人余り、退職者を含む従業員が6万人余り、ハイヤーの利用者などが1万人余りなどとなっています。\n\n氏名や住所、電話番号、メールアドレスなどのほか、従業員や採用選考の応募者の情報の中には、一部、マイナンバーや運転免許証、銀行口座の情報も含まれているということです。\n\nこの漏えいをめぐっては、30日、日本交通に業務を委託していた「東京電力ホールディングス」が2006年からことしにかけてハイヤーを利用した役員らの氏名や役職、住所などが漏えいした可能性があると発表しています。\n\n日本交通は、タクシーの利用者の情報やクレジットカード情報は漏えいしていないとしていて、「多大なるご迷惑とご心配をおかけし、深くおわび申し上げます」とコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "タクシー大手の日本交通は、ことし7月に会社のシステムへの不正アクセスを受け、乗務員が関わった事故の相手やハイヤーの利用者、それに採用選考に応募した人など、あわせておよそ29万人の個人情報が漏えいしたおそれがあると発表しました。\n",
+    "markedBody": "個人情報が漏えいしたおそれがあるのは、採用選考の応募者が10万人余り、乗務員が関わった事故の相手が7万人余り、退職者を含む従業員が6万人余り、ハイヤーの利用者などが1万人余りなどとなっています。\n\n氏名や住所、電話番号、メールアドレスなどのほか、従業員や採用選考の応募者の情報の中には、一部、マイナンバーや運転免許証、銀行口座の情報も含まれているということです。\n\nこの漏えいをめぐっては、30日、日本交通に業務を委託していた「東京電力ホールディングス」が2006年からことしにかけてハイヤーを利用した役員らの氏名や役職、住所などが漏えいした可能性があると発表しています。\n\n日本交通は、タクシーの利用者の情報やクレジットカード情報は漏えいしていないとしていて、「多大なるご迷惑とご心配をおかけし、深くおわび申し上げます」とコメントしています。\n",
+    "trimmedLead": "タクシー大手の日本交通は、ことし7月に会社のシステムへの不正アクセスを受け、乗務員が関わった事故の相手やハイヤーの利用者、それに採用選考に応募した人など、あわせておよそ29万人の個人情報が漏えいしたおそれがあると発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261030de68790.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261030de68790",
+  "video": [],
+  "citation": [
+    {
+      "name": "暗号資産の「バイナンス」に不正アクセスか 影響額 約9900億円",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68404",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68404/20261030de68404_E0000127826_1_s.jpg",
+      "datePublished": "2026-10-30T22:49:13+09:00"
+    },
+    {
+      "name": "【不正アクセス】個人情報流出などの発表相次ぐ（10月30日）",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68227",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68227/20261030de68227_E0000003473_1_s.jpg",
+      "datePublished": "2026-10-30T23:41:21+09:00"
+    },
+    {
+      "name": "GMO 4000万円損失の被害者「ずっと恐怖と闘っている」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68556",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68556/20261030de68556_E0000128115_1_s.jpg",
+      "datePublished": "2026-10-30T18:24:59+09:00"
+    },
+    {
+      "name": "日銀 政策金利据え置き 物価2％「ひとつの節目」 利上げは継続",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68221",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68221/20261030de68221_E0000128096_1_s.jpg",
+      "datePublished": "2026-10-30T19:31:00+09:00"
+    },
+    {
+      "name": "経団連 春闘方針原案“価格転嫁交渉 積極的に”【QAで詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68457",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68457/20261030de68457_E0000003609_1_s.jpg",
+      "datePublished": "2026-10-30T18:49:00+09:00"
+    },
+    {
+      "name": "高級時計窃盗事件 男が事前に施設内うろつく様子 防犯カメラに",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68647",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68647/20261030de68647_E0000128398_1_s.jpg",
+      "datePublished": "2026-10-30T19:23:00+09:00"
+    },
+    {
+      "name": "巨人 松井秀喜新監督が始動「新たな強いジャイアンツを」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68262",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68262/20261030de68262_E0000129785_1_s.jpg",
+      "datePublished": "2026-10-30T21:33:44+09:00"
+    },
+    {
+      "name": "11月の食品値上げ1400品目 高水準続く だいこんなども高値予想",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68255",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68255/20261030de68255_E0000128029_1_s.jpg",
+      "datePublished": "2026-10-30T18:11:09+09:00"
+    },
+    {
+      "name": "混迷のフランスはどこへ～市民デモと大統領選挙～",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68287",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68287/20261030de68287_E0000127038_1_s.jpg",
+      "datePublished": "2026-10-30T18:21:09+09:00"
+    },
+    {
+      "name": "日本ワイン ライバル3社が初タッグ なぜ？【経済コラム】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66605",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66605/20261027de66605_E0000127518_1_s.jpg",
+      "datePublished": "2026-10-30T19:13:23+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
