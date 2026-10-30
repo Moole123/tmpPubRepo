@@ -1,0 +1,156 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261030de68227",
+  "dataSourceId": "nd",
+  "name": "アパレル大手「ワールド個人情報120万件流出の可能性 ヤクルト本社も　政府 相談窓口集約の特設サイト開設",
+  "headline": "「ワールド」 不正アクセスで個人情報120万件流出の可能性",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261030de68227",
+    "playlistId": "news-nwa-scienceculture-nationwide-20261030",
+    "newsarticleName": "アパレル大手「ワールド個人情報120万件流出の可能性 ヤクルト本社も　政府 相談窓口集約の特設サイト開設",
+    "playlistName": "10月30日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "アパレル大手のワールドは、セレクトショップなどを展開する子会社のサーバーが不正アクセスを受け、保管されていた会員の個人情報のべおよそ120万件が流出した可能性があると発表しました。\n\n\n漏えいしたのは",
+  "dateModified": "2026-10-30T11:39:09+09:00",
+  "datePublished": "2026-10-30T11:24:09+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68227/20261030de68227_E0000127008_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68227/20261030de68227_E0000127008_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "科学・文化",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "アパレル大手のワールドは、セレクトショップなどを展開する子会社のサーバーが不正アクセスを受け、保管されていた会員の個人情報のべおよそ120万件が流出した可能性があると発表しました。\n\n\n漏えいしたのは",
+  "articleBody": "アパレル大手のワールドは、セレクトショップなどを展開する子会社のサーバーが不正アクセスを受け、保管されていた会員の個人情報のべおよそ120万件が流出した可能性があると発表しました。\n\n\n漏えいしたのは氏名、住所、電話番号、生年月日、メールアドレスなどで、クレジットカードなどの決済情報の流出は確認されていないとしています。\n\n会社によりますと、不正アクセスを受けたサーバーを外部ネットワークから遮断している影響で、子会社の通販サイトなどが一時停止しているということです。\n\nヤクルト本社でも\n\n「ヤクルト本社」は、ホームページが不正アクセスを受け、問い合わせフォームの利用者や運営する給食関連のサイトの会員など、現時点でおよそ4万件の個人情報が外部に流出したと発表しました。\n\n漏えいしたのは氏名や勤務先、メールアドレスなどで、クレジットカードや銀行口座の情報は預かっていないとしています。\n\n会社によりますと、10月26日にホームページへの不正アクセスが確認されたため、被害の拡大を防ぐ目的でホームページをいったん停止しているということです。\n\n政府 不正アクセスで相談窓口集約の特設サイトを開設\n\n不正アクセスによる情報漏えいが相次いでいることを受けて、政府は、企業や個人向けの注意喚起と相談窓口を集約した特設サイトを30日、開設しました。\n\nこれは古川デジタル大臣が閣議のあとの記者会見で発表したものです。\n\n新たに開設されたのは「サイバー対応特設サイト」という名称で、国家サイバー統括室のホームページのトップ画面から入ることができます。\n\n警察庁や経済産業省、金融庁、独立行政法人のIPA＝情報処理推進機構などが発信している企業や個人向けの注意喚起と相談窓口が一覧で示され、クリックするとそれぞれにつながる形となっています。\n\n各省庁や関係機関がそれぞれで発信している情報を集約し、個人や企業がアクセスしやすくする狙いがあります。\n\n古川デジタル大臣は「政府が出す注意喚起やメッセージを的確に伝えるため1つのサイトにまとめた。是非、活用していただきたい」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "アパレル大手のワールドは、セレクトショップなどを展開する子会社のサーバーが不正アクセスを受け、保管されていた会員の個人情報のべおよそ120万件が流出した可能性があると発表しました。\n",
+    "markedBody": "漏えいしたのは氏名、住所、電話番号、生年月日、メールアドレスなどで、クレジットカードなどの決済情報の流出は確認されていないとしています。\n\n会社によりますと、不正アクセスを受けたサーバーを外部ネットワークから遮断している影響で、子会社の通販サイトなどが一時停止しているということです。\n\n## ヤクルト本社でも\n\n「ヤクルト本社」は、ホームページが不正アクセスを受け、問い合わせフォームの利用者や運営する給食関連のサイトの会員など、現時点でおよそ4万件の個人情報が外部に流出したと発表しました。\n\n漏えいしたのは氏名や勤務先、メールアドレスなどで、クレジットカードや銀行口座の情報は預かっていないとしています。\n\n会社によりますと、10月26日にホームページへの不正アクセスが確認されたため、被害の拡大を防ぐ目的でホームページをいったん停止しているということです。\n\n----\n\n## 政府 不正アクセスで相談窓口集約の特設サイトを開設\n\n不正アクセスによる情報漏えいが相次いでいることを受けて、政府は、企業や個人向けの注意喚起と相談窓口を集約した特設サイトを30日、開設しました。\n\nこれは古川デジタル大臣が閣議のあとの記者会見で発表したものです。\n\n新たに開設されたのは「サイバー対応特設サイト」という名称で、国家サイバー統括室のホームページのトップ画面から入ることができます。\n\n警察庁や経済産業省、金融庁、独立行政法人のIPA＝情報処理推進機構などが発信している企業や個人向けの注意喚起と相談窓口が一覧で示され、クリックするとそれぞれにつながる形となっています。\n\n各省庁や関係機関がそれぞれで発信している情報を集約し、個人や企業がアクセスしやすくする狙いがあります。\n\n古川デジタル大臣は「政府が出す注意喚起やメッセージを的確に伝えるため1つのサイトにまとめた。是非、活用していただきたい」と述べました。\n",
+    "trimmedLead": "アパレル大手のワールドは、セレクトショップなどを展開する子会社のサーバーが不正アクセスを受け、保管されていた会員の個人情報のべおよそ120万件が流出した可能性があると発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261030de68227.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261030de68227",
+  "video": [],
+  "citation": [
+    {
+      "name": "富士山で初冠雪 今シーズンから新しい手法で観測",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68207",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68207/20261030de68207_E0000126926_1_s.jpg",
+      "datePublished": "2026-10-30T10:33:57+09:00"
+    },
+    {
+      "name": "東京23区の10月の消費者物価指数 前年同月比2.6％上昇",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68190",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68190/20261030de68190_E0000003932_1_s.jpg",
+      "datePublished": "2026-10-30T10:57:50+09:00"
+    },
+    {
+      "name": "愛知 安城の水道管工事現場で土砂に埋まり作業中の親子2人死亡",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68166",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68166/20261030de68166_E0000126577_1_s.jpg",
+      "datePublished": "2026-10-30T04:38:00+09:00"
+    },
+    {
+      "name": "別府ひき逃げ事件で新チラシ 八田容疑者の初公開写真も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68165",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68165/20261030de68165_E0000126576_1_s.jpg",
+      "datePublished": "2026-10-30T05:02:00+09:00"
+    },
+    {
+      "name": "「中野ブロードウェイ」で4600万円相当の腕時計 男が盗み逃走",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de68127",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de68127/20261029de68127_E0000126546_1_s.jpg",
+      "datePublished": "2026-10-30T00:39:00+09:00"
+    },
+    {
+      "name": "スペイン鉄道事故 指令センターが速度制限伝えず運転再開か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68171",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68171/20261030de68171_E0000126578_1_s.jpg",
+      "datePublished": "2026-10-30T05:38:00+09:00"
+    },
+    {
+      "name": "不正アクセスによる個人情報漏えい のべ約2億6000万人分 政府",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de68067",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de68067/20261029de68067_E0000003476_1_s.jpg",
+      "datePublished": "2026-10-29T19:53:00+09:00"
+    },
+    {
+      "name": "GMO“攻撃者の特定につながる有力情報入手”警察などに提出",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de67553",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67553/20261029de67553_E0000122728_1_s.jpg",
+      "datePublished": "2026-10-29T19:14:00+09:00"
+    },
+    {
+      "name": "個人情報流出でカード不正利用の2次被害 悪用の最新手口は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65484",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65484/20261026de65484_E0000114989_1_s.jpg",
+      "datePublished": "2026-10-27T18:21:15+09:00"
+    },
+    {
+      "name": "司法記者が裁判員やってみた",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65746",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65746/20261026de65746_E0000119583_1_s.jpg",
+      "datePublished": "2026-10-29T10:58:11+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
