@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261030de68704",
+  "dataSourceId": "nd",
+  "name": "佐賀大学 ランサムウェア被害で8万人分の個人情報流出か",
+  "headline": "佐賀大学 ランサムウェア被害で8万人分の個人情報流出か",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261030de68704",
+    "playlistId": "news-nwa-scienceculture-nationwide-20261030",
+    "newsarticleName": "佐賀大学 ランサムウェア被害で8万人分の個人情報流出か",
+    "playlistName": "10月30日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "佐賀大学は不正アクセスによる被害で大学の学生や教職員などおよそ8万人分の個人情報が流出した可能性があると発表しました。このほか、大学病院の患者の病名なども流出した可能性があり、大学では警察に相談するな",
+  "dateModified": "2026-10-30T19:28:53+09:00",
+  "datePublished": "2026-10-30T19:28:53+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68704/20261030de68704_E0000129824_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68704/20261030de68704_E0000129824_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000369",
+      "name": "佐賀県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "佐賀大学は不正アクセスによる被害で大学の学生や教職員などおよそ8万人分の個人情報が流出した可能性があると発表しました。このほか、大学病院の患者の病名なども流出した可能性があり、大学では警察に相談するな",
+  "articleBody": "佐賀大学は不正アクセスによる被害で大学の学生や教職員などおよそ8万人分の個人情報が流出した可能性があると発表しました。このほか、大学病院の患者の病名なども流出した可能性があり、大学では警察に相談するなど対応を進めています。\n\n\n佐賀大学は30日会見を開き、先月24日、事務部門が利用するNASと呼ばれるネットワークにつないでデータを保存する機械が身代金要求型のコンピューターウイルス「ランサムウェア」による被害にあい、大学の学生や教職員などおよそ8万人分の個人情報が流出した可能性があると発表しました。\n\n流出した可能性があるのは氏名や住所、それに電話番号やメールアドレス、パスワードなどだということです。\n\nこのほか、大学病院の患者の病名や受診日などの個人情報も流出した可能性があるということです。\n\n大学では、文部科学省に報告し警察へ相談などした上で、先月27日に端末の利用を再開したということです。\n\n佐賀大学の青木茂久副学長は「引き続き調査を行うとともに、情報セキュリティー対策の一層の強化に努め、再発防止を図ります」としています。\n",
+  "detailedArticleBody": {
+    "markedLead": "佐賀大学は不正アクセスによる被害で大学の学生や教職員などおよそ8万人分の個人情報が流出した可能性があると発表しました。このほか、大学病院の患者の病名なども流出した可能性があり、大学では警察に相談するなど対応を進めています。\n",
+    "markedBody": "佐賀大学は30日会見を開き、先月24日、事務部門が利用するNASと呼ばれるネットワークにつないでデータを保存する機械が身代金要求型のコンピューターウイルス「ランサムウェア」による被害にあい、大学の学生や教職員などおよそ8万人分の個人情報が流出した可能性があると発表しました。\n\n流出した可能性があるのは氏名や住所、それに電話番号やメールアドレス、パスワードなどだということです。\n\nこのほか、大学病院の患者の病名や受診日などの個人情報も流出した可能性があるということです。\n\n大学では、文部科学省に報告し警察へ相談などした上で、先月27日に端末の利用を再開したということです。\n\n佐賀大学の青木茂久副学長は「引き続き調査を行うとともに、情報セキュリティー対策の一層の強化に努め、再発防止を図ります」としています。\n",
+    "trimmedLead": "佐賀大学は不正アクセスによる被害で大学の学生や教職員などおよそ8万人分の個人情報が流出した可能性があると発表しました。このほか、大学病院の患者の病名なども流出した可能性があり、大学では警察に相談するなど対応を進めています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261030de68704.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261030de68704",
+  "video": [],
+  "citation": [
+    {
+      "name": "【不正アクセス】30日も個人情報流出などの発表が相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68227",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68227/20261030de68227_E0000003473_1_s.jpg",
+      "datePublished": "2026-10-30T19:46:00+09:00"
+    },
+    {
+      "name": "無印良品 不正アクセスで最大2726万件の個人情報 流出のおそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68460",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68460/20261030de68460_E0000127994_1_s.jpg",
+      "datePublished": "2026-10-30T16:51:12+09:00"
+    },
+    {
+      "name": "日銀 政策金利据え置き 物価2％「ひとつの節目」 利上げは継続",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68221",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68221/20261030de68221_E0000128096_1_s.jpg",
+      "datePublished": "2026-10-30T19:31:00+09:00"
+    },
+    {
+      "name": "11月の食品値上げ1400品目 高水準続く だいこんなども高値予想",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68255",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68255/20261030de68255_E0000128029_1_s.jpg",
+      "datePublished": "2026-10-30T18:11:09+09:00"
+    },
+    {
+      "name": "iPSパーキンソン病治療 承認後1例目の治療実施",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68495",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68495/20261030de68495_E0000128103_1_s.jpg",
+      "datePublished": "2026-10-30T17:45:37+09:00"
+    },
+    {
+      "name": "トクリュウ対策で通信アプリ遠隔把握の法案 衆議院で審議入り",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68230",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68230/20261030de68230_E0000128025_1_s.jpg",
+      "datePublished": "2026-10-30T16:31:49+09:00"
+    },
+    {
+      "name": "ユニクロ上海旗艦店刷新 日系小売中国で店舗見直しの動き",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68469",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68469/20261030de68469_E0000128017_1_s.jpg",
+      "datePublished": "2026-10-30T16:26:00+09:00"
+    },
+    {
+      "name": "個人情報流出でカード不正利用の2次被害 悪用の最新手口は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65484",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65484/20261026de65484_E0000114989_1_s.jpg",
+      "datePublished": "2026-10-27T18:21:15+09:00"
+    },
+    {
+      "name": "青森 十和田 奥入瀬渓流で紅葉見ごろ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261024de64699",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64699/20261024de64699_E0000127992_1_s.jpg",
+      "datePublished": "2026-10-30T16:11:49+09:00"
+    },
+    {
+      "name": "司法記者が裁判員やってみた",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65746",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65746/20261026de65746_E0000119583_1_s.jpg",
+      "datePublished": "2026-10-29T10:58:11+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

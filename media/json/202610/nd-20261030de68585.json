@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261030de68585",
+  "dataSourceId": "nd",
+  "name": "大和証券G 約11万人の個人情報流出おそれで“対策を強化”",
+  "headline": "大和証券G 約11万人の個人情報流出おそれで“対策を強化”",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261030de68585",
+    "playlistId": "news-nwa-business-nationwide-20261030",
+    "newsarticleName": "大和証券G 約11万人の個人情報流出おそれで“対策を強化”",
+    "playlistName": "10月30日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "証券大手の大和証券グループ本社は、不正アクセスの結果、子会社でおよそ11万人分の個人情報が漏えいした可能性が生じたことから、対策を強化していく考えを示しました。\n\n\n大和証券グループ本社の子会社で証券",
+  "dateModified": "2026-10-30T18:01:04+09:00",
+  "datePublished": "2026-10-30T18:01:04+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68585/20261030de68585_E0000128135_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68585/20261030de68585_E0000128135_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000477",
+      "name": "金融",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "証券大手の大和証券グループ本社は、不正アクセスの結果、子会社でおよそ11万人分の個人情報が漏えいした可能性が生じたことから、対策を強化していく考えを示しました。\n\n\n大和証券グループ本社の子会社で証券",
+  "articleBody": "証券大手の大和証券グループ本社は、不正アクセスの結果、子会社でおよそ11万人分の個人情報が漏えいした可能性が生じたことから、対策を強化していく考えを示しました。\n\n\n大和証券グループ本社の子会社で証券事業を担う大和証券は、今月5日、委託先のサーバーが不正アクセスを受け、およそ11万人分の顧客の氏名やメールアドレス、口座番号などの個人情報が漏えいしたおそれがあると発表しました。\n\nこれについて大和証券グループ本社の吉田光太郎CFOは30日の決算会見で、「顧客の情報を委託先でどのように管理しているのか、これまで以上に踏み込んで確認するべきだった」と述べました。\n\nその上で、再発を防止するため、社内に専門チームを設け顧客情報を扱う委託先に対して聞き取りなどを行っていると説明しました。\n\n吉田CFOは、「サイバーセキュリティは経営の最重要課題のひとつと位置付けている。顧客に安心して取引してもらえる環境を提供していくことが使命だ。必要な経営資源は予算や人員も機動的にちゅうちょなく投入していく」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "証券大手の大和証券グループ本社は、不正アクセスの結果、子会社でおよそ11万人分の個人情報が漏えいした可能性が生じたことから、対策を強化していく考えを示しました。\n",
+    "markedBody": "大和証券グループ本社の子会社で証券事業を担う大和証券は、今月5日、委託先のサーバーが不正アクセスを受け、およそ11万人分の顧客の氏名やメールアドレス、口座番号などの個人情報が漏えいしたおそれがあると発表しました。\n\nこれについて大和証券グループ本社の吉田光太郎CFOは30日の決算会見で、「顧客の情報を委託先でどのように管理しているのか、これまで以上に踏み込んで確認するべきだった」と述べました。\n\nその上で、再発を防止するため、社内に専門チームを設け顧客情報を扱う委託先に対して聞き取りなどを行っていると説明しました。\n\n吉田CFOは、「サイバーセキュリティは経営の最重要課題のひとつと位置付けている。顧客に安心して取引してもらえる環境を提供していくことが使命だ。必要な経営資源は予算や人員も機動的にちゅうちょなく投入していく」と述べました。\n",
+    "trimmedLead": "証券大手の大和証券グループ本社は、不正アクセスの結果、子会社でおよそ11万人分の個人情報が漏えいした可能性が生じたことから、対策を強化していく考えを示しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261030de68585.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261030de68585",
+  "video": [],
+  "citation": [
+    {
+      "name": "【不正アクセス】30日も個人情報流出などの発表が相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68227",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68227/20261030de68227_E0000003473_1_s.jpg",
+      "datePublished": "2026-10-30T19:46:00+09:00"
+    },
+    {
+      "name": "無印良品 不正アクセスで最大2726万件の個人情報 流出のおそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68460",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68460/20261030de68460_E0000127994_1_s.jpg",
+      "datePublished": "2026-10-30T16:51:12+09:00"
+    },
+    {
+      "name": "日銀 政策金利据え置き 物価2％「ひとつの節目」 利上げは継続",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68221",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68221/20261030de68221_E0000128096_1_s.jpg",
+      "datePublished": "2026-10-30T19:31:00+09:00"
+    },
+    {
+      "name": "11月の食品値上げ1400品目 高水準続く だいこんなども高値予想",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68255",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68255/20261030de68255_E0000128029_1_s.jpg",
+      "datePublished": "2026-10-30T18:11:09+09:00"
+    },
+    {
+      "name": "iPSパーキンソン病治療 承認後1例目の治療実施",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68495",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68495/20261030de68495_E0000128103_1_s.jpg",
+      "datePublished": "2026-10-30T17:45:37+09:00"
+    },
+    {
+      "name": "トクリュウ対策で通信アプリ遠隔把握の法案 衆議院で審議入り",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68230",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68230/20261030de68230_E0000128025_1_s.jpg",
+      "datePublished": "2026-10-30T16:31:49+09:00"
+    },
+    {
+      "name": "ユニクロ上海旗艦店刷新 日系小売中国で店舗見直しの動き",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68469",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68469/20261030de68469_E0000128017_1_s.jpg",
+      "datePublished": "2026-10-30T16:26:00+09:00"
+    },
+    {
+      "name": "個人情報流出でカード不正利用の2次被害 悪用の最新手口は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65484",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65484/20261026de65484_E0000114989_1_s.jpg",
+      "datePublished": "2026-10-27T18:21:15+09:00"
+    },
+    {
+      "name": "青森 十和田 奥入瀬渓流で紅葉見ごろ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261024de64699",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64699/20261024de64699_E0000127992_1_s.jpg",
+      "datePublished": "2026-10-30T16:11:49+09:00"
+    },
+    {
+      "name": "司法記者が裁判員やってみた",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65746",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65746/20261026de65746_E0000119583_1_s.jpg",
+      "datePublished": "2026-10-29T10:58:11+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

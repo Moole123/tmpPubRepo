@@ -1,0 +1,84 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261030de68695",
+  "dataSourceId": "nd",
+  "name": "韓国で日本人20代女性殺害される 知人の30代男を拘束",
+  "headline": "韓国で日本人20代女性殺害される 知人の30代男を拘束",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261030de68695",
+    "playlistId": "news-nwa-international-nationwide-20261030",
+    "newsarticleName": "韓国で日本人20代女性殺害される 知人の30代男を拘束",
+    "playlistName": "10月30日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "韓国の集合住宅で日本人の20代の女性が殺害される事件があり、警察は知り合いの30代の男を拘束し詳しいいきさつを調べています。\n\n\n韓国中部のチュンチョン南道（忠清南道）チョナン（天安）にある集合住宅で",
+  "dateModified": "2026-10-30T19:32:55+09:00",
+  "datePublished": "2026-10-30T19:32:55+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68695/20261030de68695_E0000129296_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68695/20261030de68695_E0000129296_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000376",
+      "name": "韓国",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "韓国の集合住宅で日本人の20代の女性が殺害される事件があり、警察は知り合いの30代の男を拘束し詳しいいきさつを調べています。\n\n\n韓国中部のチュンチョン南道（忠清南道）チョナン（天安）にある集合住宅で",
+  "articleBody": "韓国の集合住宅で日本人の20代の女性が殺害される事件があり、警察は知り合いの30代の男を拘束し詳しいいきさつを調べています。\n\n\n韓国中部のチュンチョン南道（忠清南道）チョナン（天安）にある集合住宅で28日午後、この住宅に滞在していた日本人の20代の女性が刃物のようなもので刺され死亡しているのが見つかりました。\n\n警察は現場から逃走したあと、南に100キロ以上離れたチョンジュ（全州）の宿泊施設にいた30代の男を29日の未明に拘束したということです。\n\n調べに対し「株式投資に失敗してみずから命を絶とうとしたが、一人で死ぬのが怖くなり知り合いの女性を道連れにしようと思った」などと話しているということです。\n\n警察によりますと、被害者の女性は男と知り合いで今月中旬に韓国に入国していたということです。\n\n警察は男の逮捕状を請求し、当時のいきさつを詳しく調べることにしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "韓国の集合住宅で日本人の20代の女性が殺害される事件があり、警察は知り合いの30代の男を拘束し詳しいいきさつを調べています。\n",
+    "markedBody": "韓国中部のチュンチョン南道（忠清南道）チョナン（天安）にある集合住宅で28日午後、この住宅に滞在していた日本人の20代の女性が刃物のようなもので刺され死亡しているのが見つかりました。\n\n警察は現場から逃走したあと、南に100キロ以上離れたチョンジュ（全州）の宿泊施設にいた30代の男を29日の未明に拘束したということです。\n\n調べに対し「株式投資に失敗してみずから命を絶とうとしたが、一人で死ぬのが怖くなり知り合いの女性を道連れにしようと思った」などと話しているということです。\n\n警察によりますと、被害者の女性は男と知り合いで今月中旬に韓国に入国していたということです。\n\n警察は男の逮捕状を請求し、当時のいきさつを詳しく調べることにしています。\n",
+    "trimmedLead": "韓国の集合住宅で日本人の20代の女性が殺害される事件があり、警察は知り合いの30代の男を拘束し詳しいいきさつを調べています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261030de68695.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261030de68695",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

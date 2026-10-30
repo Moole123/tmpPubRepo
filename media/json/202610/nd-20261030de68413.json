@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261030de68413",
+  "dataSourceId": "nd",
+  "name": "コメ価格 11週連続値下がり 過剰在庫で値下がり続く",
+  "headline": "コメ価格 11週連続値下がり 過剰在庫で値下がり続く",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261030de68413",
+    "playlistId": "news-nwa-business-nationwide-20261030",
+    "newsarticleName": "コメ価格 11週連続値下がり 過剰在庫で値下がり続く",
+    "playlistName": "10月30日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "全国のスーパーで今月25日までの1週間に販売されたコメの平均価格は、5キロあたり税込みで2788円となり、11週連続で値下がりしました。先月の民間のコメの在庫量はこの時期として最も多く、新米が本格的に",
+  "dateModified": "2026-10-30T18:37:00+09:00",
+  "datePublished": "2026-10-30T18:37:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68413/20261030de68413_E0000128554_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68413/20261030de68413_E0000128554_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000456",
+      "name": "農林水産省",
+      "display": true
+    },
+    {
+      "id": "E0000000584",
+      "name": "コメ",
+      "display": true
+    },
+    {
+      "id": "E0000000473",
+      "name": "小売業",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "全国のスーパーで今月25日までの1週間に販売されたコメの平均価格は、5キロあたり税込みで2788円となり、11週連続で値下がりしました。先月の民間のコメの在庫量はこの時期として最も多く、新米が本格的に",
+  "articleBody": "全国のスーパーで今月25日までの1週間に販売されたコメの平均価格は、5キロあたり税込みで2788円となり、11週連続で値下がりしました。先月の民間のコメの在庫量はこの時期として最も多く、新米が本格的に流通したあとも価格の下落基調が続いています。\n\n農林水産省の発表によりますと、全国のスーパーおよそ1000店で調べた今月25日までの1週間のコメの平均価格は、5キロあたり税込みで2788円と前の週より33円下がりました。\n\n値下がりは11週連続です。\n\n\n▽産地と品種が単一の銘柄米は61円値下がりして2811円となった一方、\n▽ブレンド米などは69円値上がりして2678円でした。\n\nまた、農林水産省が同じく30日公表した先月末時点の民間のコメの在庫量は255万トンと、この時期としては比較ができる2008年以降、最大の水準となりました。\n\n本格的な新米シーズンを迎えてもコメの過剰な在庫が解消されていない状態が続いていて、農林水産省は、「価格の下落基調が続いている」としています。\n",
+  "detailedArticleBody": {
+    "markedLead": "全国のスーパーで今月25日までの1週間に販売されたコメの平均価格は、5キロあたり税込みで2788円となり、11週連続で値下がりしました。先月の民間のコメの在庫量はこの時期として最も多く、新米が本格的に流通したあとも価格の下落基調が続いています。\n\n農林水産省の発表によりますと、全国のスーパーおよそ1000店で調べた今月25日までの1週間のコメの平均価格は、5キロあたり税込みで2788円と前の週より33円下がりました。\n\n値下がりは11週連続です。\n",
+    "markedBody": "![](https://img.web.nhk/news/nd/kiji/20261030de68413/20261030de68413_E0000128574_1_l.jpg)\n\n▽産地と品種が単一の銘柄米は61円値下がりして2811円となった一方、\\\n▽ブレンド米などは69円値上がりして2678円でした。\n\nまた、農林水産省が同じく30日公表した先月末時点の民間のコメの在庫量は255万トンと、この時期としては比較ができる2008年以降、最大の水準となりました。\n\n本格的な新米シーズンを迎えてもコメの過剰な在庫が解消されていない状態が続いていて、農林水産省は、「価格の下落基調が続いている」としています。\n",
+    "trimmedLead": "全国のスーパーで今月25日までの1週間に販売されたコメの平均価格は、5キロあたり税込みで2788円となり、11週連続で値下がりしました。先月の民間のコメの在庫量はこの時期として最も多く、新米が本格的に流通したあとも価格の下落基調が続いています。\n\n農林水産省の発表によりますと、全国のスーパーおよそ1000店で調べた今月25日までの1週間のコメの平均価格は、5キロあたり税込みで2788円と前の週より33円下がりました。\n\n値下がりは11週連続です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261030de68413.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261030de68413",
+  "video": [],
+  "citation": [
+    {
+      "name": "スペイン鉄道事故 地元紙「外国人1人死亡 20人超安否確認中」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68323",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68323/20261030de68323_E0000127075_1_s.jpg",
+      "datePublished": "2026-10-30T19:55:03+09:00"
+    },
+    {
+      "name": "高級時計窃盗事件 店頭には従業員1人 手薄な時間帯狙ったか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68314",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68314/20261030de68314_E0000126545_1_s.jpg",
+      "datePublished": "2026-10-30T11:55:00+09:00"
+    },
+    {
+      "name": "日銀 政策金利据え置き 物価2％「ひとつの節目」 利上げは継続",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68221",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68221/20261030de68221_E0000128096_1_s.jpg",
+      "datePublished": "2026-10-30T19:31:00+09:00"
+    },
+    {
+      "name": "【不正アクセス】30日も個人情報流出などの発表が相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68227",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68227/20261030de68227_E0000003473_1_s.jpg",
+      "datePublished": "2026-10-30T19:46:00+09:00"
+    },
+    {
+      "name": "ハロウィーン前に各地で対策 「ハチ公像」シートで覆われる ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68224",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68224/20261030de68224_E0000126960_1_s.jpg",
+      "datePublished": "2026-10-30T18:39:00+09:00"
+    },
+    {
+      "name": "富士山で初冠雪 今シーズンから新しい手法で観測",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68207",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68207/20261030de68207_E0000126926_1_s.jpg",
+      "datePublished": "2026-10-30T18:55:48+09:00"
+    },
+    {
+      "name": "愛知 安城の水道管工事現場で土砂に埋まり作業中の親子2人死亡",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68166",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68166/20261030de68166_E0000126577_1_s.jpg",
+      "datePublished": "2026-10-30T04:38:00+09:00"
+    },
+    {
+      "name": "トルコの観光名所 カッパドキアで岩が崩落し 3人死亡",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68204",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68204/20261030de68204_E0000126934_2_s.jpg",
+      "datePublished": "2026-10-30T10:49:31+09:00"
+    },
+    {
+      "name": "個人情報流出でカード不正利用の2次被害 悪用の最新手口は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65484",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65484/20261026de65484_E0000114989_1_s.jpg",
+      "datePublished": "2026-10-27T18:21:15+09:00"
+    },
+    {
+      "name": "司法記者が裁判員やってみた",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65746",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65746/20261026de65746_E0000119583_1_s.jpg",
+      "datePublished": "2026-10-29T10:58:11+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

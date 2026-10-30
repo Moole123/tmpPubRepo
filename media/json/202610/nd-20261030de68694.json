@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261030de68694",
+  "dataSourceId": "nd",
+  "name": "外務省 不正アクセス 個人情報約3600件漏えいの可能性",
+  "headline": "外務省 不正アクセスで個人情報約3600件漏えいの可能性",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261030de68694",
+    "playlistId": "news-nwa-scienceculture-nationwide-20261030",
+    "newsarticleName": "外務省 不正アクセス 個人情報約3600件漏えいの可能性",
+    "playlistName": "10月30日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "外務省は不正アクセスにより職員の氏名やメールアドレスなどおよそ3600件の個人情報が漏えいした可能性があると発表しました。機密性の高い情報やパスポートの情報などは含まれず2次被害も確認されていないとい",
+  "dateModified": "2026-10-30T18:47:03+09:00",
+  "datePublished": "2026-10-30T18:47:03+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68694/20261030de68694_E0000003834_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68694/20261030de68694_E0000003834_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000454",
+      "name": "外務省",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "外務省は不正アクセスにより職員の氏名やメールアドレスなどおよそ3600件の個人情報が漏えいした可能性があると発表しました。機密性の高い情報やパスポートの情報などは含まれず2次被害も確認されていないとい",
+  "articleBody": "外務省は不正アクセスにより職員の氏名やメールアドレスなどおよそ3600件の個人情報が漏えいした可能性があると発表しました。機密性の高い情報やパスポートの情報などは含まれず2次被害も確認されていないということです。\n\n\n外務省によりますと、ことし7月、運用するネットワークに対する不正アクセスを検知し、氏名やメールアドレスなどおよそ3600件の個人情報が漏えいした可能性があることがわかったということです。\n\nこのうちおよそ2700件は外務省の職員のもので残りのおよそ900件は主に外務省の職員とメールで業務上のやりとりをした人の情報とみられるということです。\n\n機密性の高いものや、パスポート情報などは含まれておらず情報を悪用されるなど2次被害も確認されていないとしています。\n\n外務省は「今後、情報が漏えいした可能性がある人を特定し個別に連絡していく。セキュリティー対策のさらなる強化に努め、再発防止に取り組んでいく」としています。\n",
+  "detailedArticleBody": {
+    "markedLead": "外務省は不正アクセスにより職員の氏名やメールアドレスなどおよそ3600件の個人情報が漏えいした可能性があると発表しました。機密性の高い情報やパスポートの情報などは含まれず2次被害も確認されていないということです。\n",
+    "markedBody": "外務省によりますと、ことし7月、運用するネットワークに対する不正アクセスを検知し、氏名やメールアドレスなどおよそ3600件の個人情報が漏えいした可能性があることがわかったということです。\n\nこのうちおよそ2700件は外務省の職員のもので残りのおよそ900件は主に外務省の職員とメールで業務上のやりとりをした人の情報とみられるということです。\n\n機密性の高いものや、パスポート情報などは含まれておらず情報を悪用されるなど2次被害も確認されていないとしています。\n\n外務省は「今後、情報が漏えいした可能性がある人を特定し個別に連絡していく。セキュリティー対策のさらなる強化に努め、再発防止に取り組んでいく」としています。\n",
+    "trimmedLead": "外務省は不正アクセスにより職員の氏名やメールアドレスなどおよそ3600件の個人情報が漏えいした可能性があると発表しました。機密性の高い情報やパスポートの情報などは含まれず2次被害も確認されていないということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261030de68694.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261030de68694",
+  "video": [],
+  "citation": [
+    {
+      "name": "【不正アクセス】30日も個人情報流出などの発表が相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68227",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68227/20261030de68227_E0000003473_1_s.jpg",
+      "datePublished": "2026-10-30T19:46:00+09:00"
+    },
+    {
+      "name": "無印良品 不正アクセスで最大2726万件の個人情報 流出のおそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68460",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68460/20261030de68460_E0000127994_1_s.jpg",
+      "datePublished": "2026-10-30T16:51:12+09:00"
+    },
+    {
+      "name": "日銀 政策金利据え置き 物価2％「ひとつの節目」 利上げは継続",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68221",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68221/20261030de68221_E0000128096_1_s.jpg",
+      "datePublished": "2026-10-30T19:31:00+09:00"
+    },
+    {
+      "name": "11月の食品値上げ1400品目 高水準続く だいこんなども高値予想",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68255",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68255/20261030de68255_E0000128029_1_s.jpg",
+      "datePublished": "2026-10-30T18:11:09+09:00"
+    },
+    {
+      "name": "iPSパーキンソン病治療 承認後1例目の治療実施",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68495",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68495/20261030de68495_E0000128103_1_s.jpg",
+      "datePublished": "2026-10-30T17:45:37+09:00"
+    },
+    {
+      "name": "トクリュウ対策で通信アプリ遠隔把握の法案 衆議院で審議入り",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68230",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68230/20261030de68230_E0000128025_1_s.jpg",
+      "datePublished": "2026-10-30T16:31:49+09:00"
+    },
+    {
+      "name": "ユニクロ上海旗艦店刷新 日系小売中国で店舗見直しの動き",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68469",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68469/20261030de68469_E0000128017_1_s.jpg",
+      "datePublished": "2026-10-30T16:26:00+09:00"
+    },
+    {
+      "name": "個人情報流出でカード不正利用の2次被害 悪用の最新手口は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65484",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65484/20261026de65484_E0000114989_1_s.jpg",
+      "datePublished": "2026-10-27T18:21:15+09:00"
+    },
+    {
+      "name": "青森 十和田 奥入瀬渓流で紅葉見ごろ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261024de64699",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64699/20261024de64699_E0000127992_1_s.jpg",
+      "datePublished": "2026-10-30T16:11:49+09:00"
+    },
+    {
+      "name": "司法記者が裁判員やってみた",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65746",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65746/20261026de65746_E0000119583_1_s.jpg",
+      "datePublished": "2026-10-29T10:58:11+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

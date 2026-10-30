@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261030de68556",
+  "dataSourceId": "nd",
+  "name": "GMO 不正アクセス問題 4000万円損失の被害者「ずっと恐怖と闘っている」",
+  "headline": "GMO 4000万円損失の被害者「ずっと恐怖と闘っている」",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261030de68556",
+    "playlistId": "news-nwa-scienceculture-nationwide-20261030",
+    "newsarticleName": "GMO 不正アクセス問題 4000万円損失の被害者「ずっと恐怖と闘っている」",
+    "playlistName": "10月30日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "GMOインターネットグループのサービスが不正アクセスを受けた問題で、身に覚えのない取り引きでおよそ4000万円の損失が出たという40代の男性が取材に応じ、「いつ自分の個人情報が公開されるか分からず、ず",
+  "dateModified": "2026-10-30T18:24:59+09:00",
+  "datePublished": "2026-10-30T18:24:59+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68556/20261030de68556_E0000128115_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68556/20261030de68556_E0000128115_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "GMOインターネットグループのサービスが不正アクセスを受けた問題で、身に覚えのない取り引きでおよそ4000万円の損失が出たという40代の男性が取材に応じ、「いつ自分の個人情報が公開されるか分からず、ず",
+  "articleBody": "GMOインターネットグループのサービスが不正アクセスを受けた問題で、身に覚えのない取り引きでおよそ4000万円の損失が出たという40代の男性が取材に応じ、「いつ自分の個人情報が公開されるか分からず、ずっと恐怖と闘っています」と現在の心境を語りました。\n\n\n不正アクセスを受けたFXの自動売買ができるサーバーで、2つの口座を使っていたという40代の投資家の男性は、今月21日の午後10時ごろ、知人から連絡を受けて、取り引き履歴を確認し、被害に気づいたと言います。\n\n身に覚えのない取り引きが6分間に100回以上繰り返され、およそ3000万円の損失が出ていました。\n\nそのおよそ4時間後の22日午前2時ごろ、今度はもう一つの口座で、10分間身に覚えのない取り引きが繰り返され、およそ1000万円の損失が出たということです。\n\n男性は「正直、何が起こっているのか分からなくて頭が真っ白になりました。もう1つの口座は大丈夫かなと思って、ほかの人への連絡を優先したら同じように不正取引で全部無くなってしまったのでもうどうしていいか分からなくなりました」と振り返りました。\n\n被害のあと、男性は、パスワードを変更して、パソコンを初期化しましたが、それでも不安は拭えず、結局、新しいパソコンを購入し直したということです。\n\n男性は「本当に被害が補償されるのか不安が大きく補償されるタイミングなどを考えると、どうやって生活していくか考えていますがまだ分からない状態です。損失が戻ってくるまで不安は消えないと思う」と話していました。\n\nまた今後、ハッカー側が新たにサイトを作って、個人情報を公開する可能性もあることから、恐怖が消えないということです。\n\n男性は、「いつ自分の情報が公開されるか分からない、本当に次は私になるのではないかという気持ちで、常にずっと恐怖と闘っています。夜もあまり眠れてないような状態です」と現在の心境を語りました。\n",
+  "detailedArticleBody": {
+    "markedLead": "GMOインターネットグループのサービスが不正アクセスを受けた問題で、身に覚えのない取り引きでおよそ4000万円の損失が出たという40代の男性が取材に応じ、「いつ自分の個人情報が公開されるか分からず、ずっと恐怖と闘っています」と現在の心境を語りました。\n",
+    "markedBody": "不正アクセスを受けたFXの自動売買ができるサーバーで、2つの口座を使っていたという40代の投資家の男性は、今月21日の午後10時ごろ、知人から連絡を受けて、取り引き履歴を確認し、被害に気づいたと言います。\n\n身に覚えのない取り引きが6分間に100回以上繰り返され、およそ3000万円の損失が出ていました。\n\nそのおよそ4時間後の22日午前2時ごろ、今度はもう一つの口座で、10分間身に覚えのない取り引きが繰り返され、およそ1000万円の損失が出たということです。\n\n男性は「正直、何が起こっているのか分からなくて頭が真っ白になりました。もう1つの口座は大丈夫かなと思って、ほかの人への連絡を優先したら同じように不正取引で全部無くなってしまったのでもうどうしていいか分からなくなりました」と振り返りました。\n\n被害のあと、男性は、パスワードを変更して、パソコンを初期化しましたが、それでも不安は拭えず、結局、新しいパソコンを購入し直したということです。\n\n男性は「本当に被害が補償されるのか不安が大きく補償されるタイミングなどを考えると、どうやって生活していくか考えていますがまだ分からない状態です。損失が戻ってくるまで不安は消えないと思う」と話していました。\n\nまた今後、ハッカー側が新たにサイトを作って、個人情報を公開する可能性もあることから、恐怖が消えないということです。\n\n男性は、「いつ自分の情報が公開されるか分からない、本当に次は私になるのではないかという気持ちで、常にずっと恐怖と闘っています。夜もあまり眠れてないような状態です」と現在の心境を語りました。\n",
+    "trimmedLead": "GMOインターネットグループのサービスが不正アクセスを受けた問題で、身に覚えのない取り引きでおよそ4000万円の損失が出たという40代の男性が取材に応じ、「いつ自分の個人情報が公開されるか分からず、ずっと恐怖と闘っています」と現在の心境を語りました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261030de68556.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261030de68556",
+  "video": [],
+  "citation": [
+    {
+      "name": "スペイン鉄道事故 地元紙「外国人1人死亡 20人超安否確認中」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68323",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68323/20261030de68323_E0000127075_1_s.jpg",
+      "datePublished": "2026-10-30T19:55:03+09:00"
+    },
+    {
+      "name": "高級時計窃盗事件 店頭には従業員1人 手薄な時間帯狙ったか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68314",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68314/20261030de68314_E0000126545_1_s.jpg",
+      "datePublished": "2026-10-30T11:55:00+09:00"
+    },
+    {
+      "name": "日銀 政策金利据え置き 物価2％「ひとつの節目」 利上げは継続",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68221",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68221/20261030de68221_E0000128096_1_s.jpg",
+      "datePublished": "2026-10-30T19:31:00+09:00"
+    },
+    {
+      "name": "【不正アクセス】30日も個人情報流出などの発表が相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68227",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68227/20261030de68227_E0000003473_1_s.jpg",
+      "datePublished": "2026-10-30T19:46:00+09:00"
+    },
+    {
+      "name": "ハロウィーン前に各地で対策 「ハチ公像」シートで覆われる ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68224",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68224/20261030de68224_E0000126960_1_s.jpg",
+      "datePublished": "2026-10-30T18:39:00+09:00"
+    },
+    {
+      "name": "富士山で初冠雪 今シーズンから新しい手法で観測",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68207",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68207/20261030de68207_E0000126926_1_s.jpg",
+      "datePublished": "2026-10-30T18:55:48+09:00"
+    },
+    {
+      "name": "愛知 安城の水道管工事現場で土砂に埋まり作業中の親子2人死亡",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68166",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68166/20261030de68166_E0000126577_1_s.jpg",
+      "datePublished": "2026-10-30T04:38:00+09:00"
+    },
+    {
+      "name": "トルコの観光名所 カッパドキアで岩が崩落し 3人死亡",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68204",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68204/20261030de68204_E0000126934_2_s.jpg",
+      "datePublished": "2026-10-30T10:49:31+09:00"
+    },
+    {
+      "name": "個人情報流出でカード不正利用の2次被害 悪用の最新手口は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65484",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65484/20261026de65484_E0000114989_1_s.jpg",
+      "datePublished": "2026-10-27T18:21:15+09:00"
+    },
+    {
+      "name": "司法記者が裁判員やってみた",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65746",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65746/20261026de65746_E0000119583_1_s.jpg",
+      "datePublished": "2026-10-29T10:58:11+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
