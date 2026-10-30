@@ -1,0 +1,144 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261031de68814",
+  "dataSourceId": "nd",
+  "name": "ナスダック指数一時3％余下落 AI投資への懸念再燃",
+  "headline": "ナスダック指数一時3％余下落 AI投資への懸念再燃",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261031de68814",
+    "playlistId": "news-nwa-international-nationwide-20261031",
+    "newsarticleName": "ナスダック指数一時3％余下落 AI投資への懸念再燃",
+    "playlistName": "10月31日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "30日のニューヨーク株式市場では、AI・半導体関連の銘柄に売り注文が膨らみ、ハイテク株の比率が高いナスダックの株価指数は一時、3％余りの下落となっています。\n\n\n29日に決算を発表したアメリカのIT大",
+  "dateModified": "2026-10-31T03:07:22+09:00",
+  "datePublished": "2026-10-31T03:07:22+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de68814/20261031de68814_E0000004049_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de68814/20261031de68814_E0000004049_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000157",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "30日のニューヨーク株式市場では、AI・半導体関連の銘柄に売り注文が膨らみ、ハイテク株の比率が高いナスダックの株価指数は一時、3％余りの下落となっています。\n\n\n29日に決算を発表したアメリカのIT大",
+  "articleBody": "30日のニューヨーク株式市場では、AI・半導体関連の銘柄に売り注文が膨らみ、ハイテク株の比率が高いナスダックの株価指数は一時、3％余りの下落となっています。\n\n\n29日に決算を発表したアメリカのIT大手「アマゾン」がAI開発に必要な設備投資を今後も積極的に続ける方針を打ち出したことや、アメリカの大手半導体メーカー「インテル」の売り上げの見通しが市場予想を下回ったことなどから投資家の間で、AI・半導体関連の投資が回収できなくなるのではないかとの懸念が再び強まったためです。\n",
+  "detailedArticleBody": {
+    "markedLead": "30日のニューヨーク株式市場では、AI・半導体関連の銘柄に売り注文が膨らみ、ハイテク株の比率が高いナスダックの株価指数は一時、3％余りの下落となっています。\n",
+    "markedBody": "29日に決算を発表したアメリカのIT大手「アマゾン」がAI開発に必要な設備投資を今後も積極的に続ける方針を打ち出したことや、アメリカの大手半導体メーカー「インテル」の売り上げの見通しが市場予想を下回ったことなどから投資家の間で、AI・半導体関連の投資が回収できなくなるのではないかとの懸念が再び強まったためです。\n",
+    "trimmedLead": "30日のニューヨーク株式市場では、AI・半導体関連の銘柄に売り注文が膨らみ、ハイテク株の比率が高いナスダックの株価指数は一時、3％余りの下落となっています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261031de68814.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261031de68814",
+  "video": [],
+  "citation": [
+    {
+      "name": "スペイン鉄道事故 地元紙「外国人1人死亡 20人超安否確認中」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68323",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68323/20261030de68323_E0000127075_1_s.jpg",
+      "datePublished": "2026-10-30T19:55:00+09:00"
+    },
+    {
+      "name": "暗号資産の「バイナンス」に不正アクセスか 影響額 約9900億円",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68404",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68404/20261030de68404_E0000127826_1_s.jpg",
+      "datePublished": "2026-10-30T22:49:13+09:00"
+    },
+    {
+      "name": "ユーロ圏GDP 7月から9月期 伸び率プラス0.4% 2期ぶり縮小",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68772",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68772/20261030de68772_E0000130789_1_s.jpg",
+      "datePublished": "2026-10-30T22:04:45+09:00"
+    },
+    {
+      "name": "北朝鮮国防省 米韓共同訓練を非難し対抗措置を示唆",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68530",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68530/20261030de68530_E0000128128_1_s.jpg",
+      "datePublished": "2026-10-30T17:41:25+09:00"
+    },
+    {
+      "name": "人気SFドラマ「スター・トレック」出演の英俳優死去",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68418",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68418/20261030de68418_E0000127907_1_s.jpg",
+      "datePublished": "2026-10-30T15:11:00+09:00"
+    },
+    {
+      "name": "“50年の歩みが後退する”？ 米中間選挙 選挙区見直しの陰で",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261020de62440",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de62440/20261020de62440_E0000112229_1_s.jpg",
+      "datePublished": "2026-10-30T11:02:20+09:00"
+    },
+    {
+      "name": "アメリカ政治を揺るがす“キリスト教ナショナリズム”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66374",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66374/20261027de66374_E0000118352_1_s.jpg",
+      "datePublished": "2026-10-30T22:34:17+09:00"
+    },
+    {
+      "name": "混迷のフランスはどこへ～市民デモと大統領選挙～",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68287",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68287/20261030de68287_E0000127038_1_s.jpg",
+      "datePublished": "2026-10-30T18:21:09+09:00"
+    },
+    {
+      "name": "イスラエル総選挙 政権交代はあるか？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68366",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68366/20261030de68366_E0000127463_1_s.jpg",
+      "datePublished": "2026-10-30T18:32:40+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
