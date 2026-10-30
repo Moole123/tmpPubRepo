@@ -1,0 +1,89 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261030de68482",
+  "dataSourceId": "nd",
+  "name": "衆議院 選挙制度の抜本改革で調査会設置へ 1年以内めどに答申",
+  "headline": "衆議院 選挙制度の抜本改革で調査会設置へ 1年以内めどに答申",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261030de68482",
+    "playlistId": "news-nwa-politics-nationwide-20261030",
+    "newsarticleName": "衆議院 選挙制度の抜本改革で調査会設置へ 1年以内めどに答申",
+    "playlistName": "10月30日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "衆議院の選挙制度の抜本改革を検討するため森衆議院議長のもとに15人程度の有識者からなる調査会が設置されることになりました。\n\n調査会では各党の主張について評価を行った上で、1年以内をめどに答申がまとめ",
+  "dateModified": "2026-10-30T16:28:35+09:00",
+  "datePublished": "2026-10-30T16:28:35+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68482/20261030de68482_E0000128027_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68482/20261030de68482_E0000128027_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "E0000000449",
+      "name": "衆議院",
+      "display": true
+    },
+    {
+      "id": "E0000000135",
+      "name": "選挙",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "衆議院の選挙制度の抜本改革を検討するため森衆議院議長のもとに15人程度の有識者からなる調査会が設置されることになりました。\n\n調査会では各党の主張について評価を行った上で、1年以内をめどに答申がまとめ",
+  "articleBody": "衆議院の選挙制度の抜本改革を検討するため森衆議院議長のもとに15人程度の有識者からなる調査会が設置されることになりました。\n\n調査会では各党の主張について評価を行った上で、1年以内をめどに答申がまとめられる見通しです。\n\n\n選挙制度改革を検討してきた与野党の協議会は、10月、議長のもとに有識者による調査会を設置して理想の選挙制度に向けた抜本改革を検討するなどとした報告書をまとめ、森衆議院議長に提出しました。\n\nこれを受けて、30日の衆議院議院運営委員会の理事会では森議長のもとに15人程度の有識者からなる調査会を新たに設置することが決まりました。\n\n調査会では、各党が主張した選挙制度の抜本改革案について、長所や短所、実現可能性などについて評価を行った上で1年以内をめどに答申がまとめられる見通しです。\n",
+  "detailedArticleBody": {
+    "markedLead": "衆議院の選挙制度の抜本改革を検討するため森衆議院議長のもとに15人程度の有識者からなる調査会が設置されることになりました。\n\n調査会では各党の主張について評価を行った上で、1年以内をめどに答申がまとめられる見通しです。\n",
+    "markedBody": "選挙制度改革を検討してきた与野党の協議会は、10月、議長のもとに有識者による調査会を設置して理想の選挙制度に向けた抜本改革を検討するなどとした報告書をまとめ、森衆議院議長に提出しました。\n\nこれを受けて、30日の衆議院議院運営委員会の理事会では森議長のもとに15人程度の有識者からなる調査会を新たに設置することが決まりました。\n\n調査会では、各党が主張した選挙制度の抜本改革案について、長所や短所、実現可能性などについて評価を行った上で1年以内をめどに答申がまとめられる見通しです。\n",
+    "trimmedLead": "衆議院の選挙制度の抜本改革を検討するため森衆議院議長のもとに15人程度の有識者からなる調査会が設置されることになりました。\n\n調査会では各党の主張について評価を行った上で、1年以内をめどに答申がまとめられる見通しです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261030de68482.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261030de68482",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261030de68460",
+  "dataSourceId": "nd",
+  "name": "無印良品 不正アクセスでメールアドレスや生年月日など最大2726万件の個人情報が流出のおそれ",
+  "headline": "無印良品 不正アクセスで最大2726万件の個人情報 流出のおそれ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261030de68460",
+    "playlistId": "news-nwa-scienceculture-nationwide-20261030",
+    "newsarticleName": "無印良品 不正アクセスでメールアドレスや生年月日など最大2726万件の個人情報が流出のおそれ",
+    "playlistName": "10月30日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "「無印良品」を展開する良品計画は、不正アクセスを受けて会社の公式アプリから最大およそ2726万件の個人情報が流出したおそれがあると発表しました。退会した人の情報も含まれているとしています。\n\n\n流出し",
+  "dateModified": "2026-10-30T16:51:12+09:00",
+  "datePublished": "2026-10-30T15:28:22+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68460/20261030de68460_E0000127994_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68460/20261030de68460_E0000127994_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "科学・文化",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "「無印良品」を展開する良品計画は、不正アクセスを受けて会社の公式アプリから最大およそ2726万件の個人情報が流出したおそれがあると発表しました。退会した人の情報も含まれているとしています。\n\n\n流出し",
+  "articleBody": "「無印良品」を展開する良品計画は、不正アクセスを受けて会社の公式アプリから最大およそ2726万件の個人情報が流出したおそれがあると発表しました。退会した人の情報も含まれているとしています。\n\n\n流出したおそれのある個人情報はメールアドレスと生年月日、それに性別で、すでに退会した人の情報も含まれているということです。\n\nクレジットカードの情報や氏名、住所、電話番号などは含まれていないとしています。\n\n会社によりますと、これまでのところこうした情報を悪用した被害は確認されていないということです。\n\n会社では、「多大なるご心配をおかけし誠に申し訳ございません。セキュリティー対策と監視体制のさらなる強化を実施してまいります」とコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "「無印良品」を展開する良品計画は、不正アクセスを受けて会社の公式アプリから最大およそ2726万件の個人情報が流出したおそれがあると発表しました。退会した人の情報も含まれているとしています。\n",
+    "markedBody": "流出したおそれのある個人情報はメールアドレスと生年月日、それに性別で、すでに退会した人の情報も含まれているということです。\n\nクレジットカードの情報や氏名、住所、電話番号などは含まれていないとしています。\n\n会社によりますと、これまでのところこうした情報を悪用した被害は確認されていないということです。\n\n会社では、「多大なるご心配をおかけし誠に申し訳ございません。セキュリティー対策と監視体制のさらなる強化を実施してまいります」とコメントしています。\n",
+    "trimmedLead": "「無印良品」を展開する良品計画は、不正アクセスを受けて会社の公式アプリから最大およそ2726万件の個人情報が流出したおそれがあると発表しました。退会した人の情報も含まれているとしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261030de68460.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261030de68460",
+  "video": [],
+  "citation": [
+    {
+      "name": "スペイン鉄道事故 地元紙「外国人1人死亡 20人超安否確認中」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68323",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68323/20261030de68323_E0000127075_1_s.jpg",
+      "datePublished": "2026-10-30T11:57:00+09:00"
+    },
+    {
+      "name": "高級時計窃盗事件 店頭には従業員1人 手薄な時間帯狙ったか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68314",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68314/20261030de68314_E0000126545_1_s.jpg",
+      "datePublished": "2026-10-30T11:55:00+09:00"
+    },
+    {
+      "name": "日銀 政策金利を据え置き 植田総裁 記者会見の詳細",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68221",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68221/20261030de68221_E0000128096_1_s.jpg",
+      "datePublished": "2026-10-30T17:03:02+09:00"
+    },
+    {
+      "name": "【不正アクセス】30日も個人情報流出の発表が相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68227",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68227/20261030de68227_E0000003473_1_s.jpg",
+      "datePublished": "2026-10-30T17:48:00+09:00"
+    },
+    {
+      "name": "渋谷駅前「ハチ公像」がシートで覆われる ハロウィーン前に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68224",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68224/20261030de68224_E0000126960_1_s.jpg",
+      "datePublished": "2026-10-30T14:29:30+09:00"
+    },
+    {
+      "name": "富士山で初冠雪 今シーズンから新しい手法で観測",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68207",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68207/20261030de68207_E0000126926_1_s.jpg",
+      "datePublished": "2026-10-30T10:33:57+09:00"
+    },
+    {
+      "name": "愛知 安城の水道管工事現場で土砂に埋まり作業中の親子2人死亡",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68166",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68166/20261030de68166_E0000126577_1_s.jpg",
+      "datePublished": "2026-10-30T04:38:00+09:00"
+    },
+    {
+      "name": "トルコの観光名所 カッパドキアで岩が崩落し 3人死亡",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68204",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68204/20261030de68204_E0000126934_2_s.jpg",
+      "datePublished": "2026-10-30T10:49:31+09:00"
+    },
+    {
+      "name": "個人情報流出でカード不正利用の2次被害 悪用の最新手口は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65484",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65484/20261026de65484_E0000114989_1_s.jpg",
+      "datePublished": "2026-10-27T18:21:15+09:00"
+    },
+    {
+      "name": "司法記者が裁判員やってみた",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65746",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65746/20261026de65746_E0000119583_1_s.jpg",
+      "datePublished": "2026-10-29T10:58:11+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

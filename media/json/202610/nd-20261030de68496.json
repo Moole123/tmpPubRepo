@@ -1,0 +1,89 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261030de68496",
+  "dataSourceId": "nd",
+  "name": "政府職員の負担軽減へ 国会答弁支援AIアプリ開発 デジタル庁 ",
+  "headline": "政府職員の負担軽減へ 国会答弁支援AIアプリ開発 デジタル庁 ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261030de68496",
+    "playlistId": "news-nwa-politics-nationwide-20261030",
+    "newsarticleName": "政府職員の負担軽減へ 国会答弁支援AIアプリ開発 デジタル庁 ",
+    "playlistName": "10月30日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "政府職員の業務の効率化に向けて、デジタル庁は国会答弁の作成を支援するAIアプリを開発し、30日から試験的な運用を始めました。\n\n\nAIの利活用をめぐって、デジタル庁は「源内」と呼ばれる安全で機密性が高",
+  "dateModified": "2026-10-30T16:50:36+09:00",
+  "datePublished": "2026-10-30T16:50:36+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68496/20261030de68496_E0000128036_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68496/20261030de68496_E0000128036_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "E0000000461",
+      "name": "デジタル庁",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "政府職員の業務の効率化に向けて、デジタル庁は国会答弁の作成を支援するAIアプリを開発し、30日から試験的な運用を始めました。\n\n\nAIの利活用をめぐって、デジタル庁は「源内」と呼ばれる安全で機密性が高",
+  "articleBody": "政府職員の業務の効率化に向けて、デジタル庁は国会答弁の作成を支援するAIアプリを開発し、30日から試験的な運用を始めました。\n\n\nAIの利活用をめぐって、デジタル庁は「源内」と呼ばれる安全で機密性が高い政府専用のAI基盤を使って、ことし5月から各府省向けに過去の国会答弁を検索できるアプリなどを提供しています。\n\n古川デジタル大臣は閣議のあとの記者会見で、このAI基盤を使って、新たに「国会答弁作成支援AIアプリ」を開発し、30日から各府省向けに試験的な運用を始めたと発表しました。\n\nアプリでは、国会議員からの質問を入力するとAIが質問の論点を整理して、過去の答弁や参考資料をもとに、数分で答弁の原案を作成するほか、「更問い」と言われる追加の質問とその答弁を予測する機能も盛り込まれています。\n\nただ、デジタル庁はアプリはあくまで業務を補助するもので、事実確認や政策判断は政府職員が責任を持って行うことが原則だとしていて、試験運用を踏まえてアプリを改修した上で来年から本格的な運用を始める予定です。\n\n古川大臣は「アプリの活用で職員の業務時間が短縮でき、国会審議の充実に資する答弁が作成できる点は非常によい。まだ試験版なので各大臣からもフィードバックをもらいたい」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "政府職員の業務の効率化に向けて、デジタル庁は国会答弁の作成を支援するAIアプリを開発し、30日から試験的な運用を始めました。\n",
+    "markedBody": "AIの利活用をめぐって、デジタル庁は「源内」と呼ばれる安全で機密性が高い政府専用のAI基盤を使って、ことし5月から各府省向けに過去の国会答弁を検索できるアプリなどを提供しています。\n\n![](https://img.web.nhk/news/nd/kiji/20261030de68496/20261030de68496_E0000128035_1_l.jpg)\n\n古川デジタル大臣は閣議のあとの記者会見で、このAI基盤を使って、新たに「国会答弁作成支援AIアプリ」を開発し、30日から各府省向けに試験的な運用を始めたと発表しました。\n\nアプリでは、国会議員からの質問を入力するとAIが質問の論点を整理して、過去の答弁や参考資料をもとに、数分で答弁の原案を作成するほか、「更問い」と言われる追加の質問とその答弁を予測する機能も盛り込まれています。\n\nただ、デジタル庁はアプリはあくまで業務を補助するもので、事実確認や政策判断は政府職員が責任を持って行うことが原則だとしていて、試験運用を踏まえてアプリを改修した上で来年から本格的な運用を始める予定です。\n\n古川大臣は「アプリの活用で職員の業務時間が短縮でき、国会審議の充実に資する答弁が作成できる点は非常によい。まだ試験版なので各大臣からもフィードバックをもらいたい」と述べました。\n",
+    "trimmedLead": "政府職員の業務の効率化に向けて、デジタル庁は国会答弁の作成を支援するAIアプリを開発し、30日から試験的な運用を始めました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261030de68496.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261030de68496",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
