@@ -1,0 +1,144 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261031de68967",
+  "dataSourceId": "nd",
+  "name": "委託先に不正アクセス受け 社債購入者情報漏えいの可能性 NTTデータが発表",
+  "headline": "NTTデータ委託先に不正アクセス 社債購入者情報漏えいの可能性",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261031de68967",
+    "playlistId": "news-nwa-business-nationwide-20261031",
+    "newsarticleName": "委託先に不正アクセス受け 社債購入者情報漏えいの可能性 NTTデータが発表",
+    "playlistName": "10月31日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "NTTデータは、社債購入者向けの特典付与サービスの委託先が不正アクセスを受けたと発表しました。このサービスを利用している近鉄グループホールディングスは、自社の社債を購入した人の氏名や購入金額の情報26",
+  "dateModified": "2026-10-31T17:35:03+09:00",
+  "datePublished": "2026-10-31T17:35:03+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de68967/20261031de68967_E0000131372_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de68967/20261031de68967_E0000131372_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "NTTデータは、社債購入者向けの特典付与サービスの委託先が不正アクセスを受けたと発表しました。このサービスを利用している近鉄グループホールディングスは、自社の社債を購入した人の氏名や購入金額の情報26",
+  "articleBody": "NTTデータは、社債購入者向けの特典付与サービスの委託先が不正アクセスを受けたと発表しました。このサービスを利用している近鉄グループホールディングスは、自社の社債を購入した人の氏名や購入金額の情報2678件が漏えいした可能性があるとしています。\n\n\nNTTデータは31日、社債購入者に対する特典付与を支援するサービスの委託先が不正アクセスを受けたと発表しました。\n\nこのサービスを利用している近鉄グループホールディングスは、2026年7月に発行した社債を100万円以上購入した人の氏名や購入金額の情報2678件が漏えいした可能性があると発表しました。証券口座番号やパスワードなど取引に関する情報は漏えいしていないとしています。\n\nまた、楽天証券は、近鉄グループホールディングスのほか、カゴメとJR西日本の社債を購入した人の情報のべ362件が、漏えいした可能性があると発表しました。\n\nさらに、SBI証券と野村証券も、社債の購入者の個人情報が一部、漏えいした可能性があるとしています。\n\nいずれの証券会社も自社のシステムに対する不正アクセスではなく、証券口座番号やパスワードなど取引に関する情報は漏えいしていないということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "NTTデータは、社債購入者向けの特典付与サービスの委託先が不正アクセスを受けたと発表しました。このサービスを利用している近鉄グループホールディングスは、自社の社債を購入した人の氏名や購入金額の情報2678件が漏えいした可能性があるとしています。\n",
+    "markedBody": "NTTデータは31日、社債購入者に対する特典付与を支援するサービスの委託先が不正アクセスを受けたと発表しました。\n\nこのサービスを利用している近鉄グループホールディングスは、2026年7月に発行した社債を100万円以上購入した人の氏名や購入金額の情報2678件が漏えいした可能性があると発表しました。証券口座番号やパスワードなど取引に関する情報は漏えいしていないとしています。\n\nまた、楽天証券は、近鉄グループホールディングスのほか、カゴメとJR西日本の社債を購入した人の情報のべ362件が、漏えいした可能性があると発表しました。\n\nさらに、SBI証券と野村証券も、社債の購入者の個人情報が一部、漏えいした可能性があるとしています。\n\nいずれの証券会社も自社のシステムに対する不正アクセスではなく、証券口座番号やパスワードなど取引に関する情報は漏えいしていないということです。\n",
+    "trimmedLead": "NTTデータは、社債購入者向けの特典付与サービスの委託先が不正アクセスを受けたと発表しました。このサービスを利用している近鉄グループホールディングスは、自社の社債を購入した人の氏名や購入金額の情報2678件が漏えいした可能性があるとしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261031de68967.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261031de68967",
+  "video": [],
+  "citation": [
+    {
+      "name": "“過去最大級被害”暗号資産大手バイナンス 複雑な攻撃あった",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261031de68827",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de68827/20261031de68827_E0000130864_1_s.jpg",
+      "datePublished": "2026-10-31T09:21:59+09:00"
+    },
+    {
+      "name": "GMO 4000万円損失の被害者「ずっと恐怖と闘っている」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68556",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68556/20261030de68556_E0000128115_1_s.jpg",
+      "datePublished": "2026-10-30T18:24:59+09:00"
+    },
+    {
+      "name": "11月の食品値上げ1400品目 高水準続く だいこんなども高値予想",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68255",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68255/20261030de68255_E0000128029_1_s.jpg",
+      "datePublished": "2026-10-30T18:11:09+09:00"
+    },
+    {
+      "name": "巨人 松井秀喜新監督が始動「新たな強いジャイアンツを」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68262",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68262/20261030de68262_E0000129785_1_s.jpg",
+      "datePublished": "2026-10-30T21:33:44+09:00"
+    },
+    {
+      "name": "日本交通 不正アクセスで29万人の個人情報漏えいおそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68790",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68790/20261030de68790_E0000130836_1_s.jpg",
+      "datePublished": "2026-10-31T00:23:49+09:00"
+    },
+    {
+      "name": "日銀 物価2％到達で定着に軸足移す 利上げどう進めるか焦点",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261031de68799",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de68799/20261031de68799_E0000130841_1_s.jpg",
+      "datePublished": "2026-10-31T05:01:25+09:00"
+    },
+    {
+      "name": "日本ワイン ライバル3社が初タッグ なぜ？【経済コラム】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66605",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66605/20261027de66605_E0000127518_1_s.jpg",
+      "datePublished": "2026-10-30T19:13:23+09:00"
+    },
+    {
+      "name": "混迷のフランスはどこへ～市民デモと大統領選挙～",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68287",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68287/20261030de68287_E0000127038_1_s.jpg",
+      "datePublished": "2026-10-30T18:21:09+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

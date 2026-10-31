@@ -1,0 +1,161 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261031de68949",
+  "dataSourceId": "nd",
+  "name": "アメリカ カリフォルニア州の商業施設 ハロウィーン関連の店で銃撃 1人死亡 少なくとも3人大けが",
+  "headline": "米西部の商業施設で銃撃 1人死亡 少なくとも3人大けが",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261031de68949",
+    "playlistId": "news-nwa-international-nationwide-20261031",
+    "newsarticleName": "アメリカ カリフォルニア州の商業施設 ハロウィーン関連の店で銃撃 1人死亡 少なくとも3人大けが",
+    "playlistName": "10月31日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "アメリカ西部、カリフォルニア州にある商業施設で30日に銃撃事件があり、現地の警察によりますとこれまでに1人が死亡、少なくとも3人が大けがをしました。警察は目撃者から話を聞くなどして容疑者の行方を捜査し",
+  "dateModified": "2026-10-31T17:53:00+09:00",
+  "datePublished": "2026-10-31T16:30:58+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/r/kiji/20261031de68949/20261031de68949_E0000131380_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/r/kiji/20261031de68949/20261031de68949_E0000131380_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000419",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "E0000000208",
+      "name": "事件・事故",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "アメリカ西部、カリフォルニア州にある商業施設で30日に銃撃事件があり、現地の警察によりますとこれまでに1人が死亡、少なくとも3人が大けがをしました。警察は目撃者から話を聞くなどして容疑者の行方を捜査し",
+  "articleBody": "アメリカ西部、カリフォルニア州にある商業施設で30日に銃撃事件があり、現地の警察によりますとこれまでに1人が死亡、少なくとも3人が大けがをしました。警察は目撃者から話を聞くなどして容疑者の行方を捜査しています。\n\n\nアメリカ・カリフォルニア州の警察の発表によりますと、現地時間の30日午後8時半ごろ（日本時間31日午後0時半ごろ）、州北部の町フェアフィールドの商業施設の中にあるハロウィーン関連の店で銃撃事件が発生しました。\n\nこれまでに1人が死亡し、6人がけがをして病院に搬送されましたが、このうちの3人は大けがを負っているということです。\n\n容疑者の行方はわかっていないということで警察が目撃者から話を聞くなどして捜査を進めています。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカ西部、カリフォルニア州にある商業施設で30日に銃撃事件があり、現地の警察によりますとこれまでに1人が死亡、少なくとも3人が大けがをしました。警察は目撃者から話を聞くなどして容疑者の行方を捜査しています。\n",
+    "markedBody": "アメリカ・カリフォルニア州の警察の発表によりますと、現地時間の30日午後8時半ごろ（日本時間31日午後0時半ごろ）、州北部の町フェアフィールドの商業施設の中にあるハロウィーン関連の店で銃撃事件が発生しました。\n\nこれまでに1人が死亡し、6人がけがをして病院に搬送されましたが、このうちの3人は大けがを負っているということです。\n\n容疑者の行方はわかっていないということで警察が目撃者から話を聞くなどして捜査を進めています。\n",
+    "trimmedLead": "アメリカ西部、カリフォルニア州にある商業施設で30日に銃撃事件があり、現地の警察によりますとこれまでに1人が死亡、少なくとも3人が大けがをしました。警察は目撃者から話を聞くなどして容疑者の行方を捜査しています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261031de68949.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261031de68949",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "米西部の商業施設で銃撃 1人死亡 少なくとも3人大けが",
+      "description": "アメリカ西部、カリフォルニア州にある商業施設で30日に銃撃事件があり、現地の警察によりますとこれまでに1人が死亡、少なくとも3人が大けがをしました。警察は目撃者から話を聞くなどして容疑者の行方を捜査し",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index_r.html?mrurl=https://media.vd.st.nhk/news/nd/r/20261031de68949_E0000131381_1_s/index.m3u8&mrposter=/news/u/news/nd/r/kiji/20261031de68949/20261031de68949_E0000131380_1_l.jpg",
+      "duration": "PT59S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/r/20261031de68949_E0000131381_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/r/kiji/20261031de68949/20261031de68949_E0000131380_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "スペイン高速列車事故 “後続列車に停止措置とらず 信号も青”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261031de68821",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de68821/20261031de68821_E0000130854_1_s.jpg",
+      "datePublished": "2026-10-31T17:42:38+09:00"
+    },
+    {
+      "name": "アメリカ中間選挙でAI「スロパガンダ」が…“真実”はどこに？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66600",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66600/20261027de66600_E0000127944_1_s.jpg",
+      "datePublished": "2026-10-31T17:11:00+09:00"
+    },
+    {
+      "name": "NTTデータ委託先に不正アクセス 社債購入者情報漏えいの可能性",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261031de68967",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de68967/20261031de68967_E0000131372_1_s.jpg",
+      "datePublished": "2026-10-31T17:35:03+09:00"
+    },
+    {
+      "name": "“過去最大級被害”暗号資産大手バイナンス 複雑な攻撃あった",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261031de68827",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de68827/20261031de68827_E0000130864_1_s.jpg",
+      "datePublished": "2026-10-31T09:21:59+09:00"
+    },
+    {
+      "name": "ロシア独立系新聞が編集部閉鎖へ ノーベル委員会「深く憂慮」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261031de68828",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de68828/20261031de68828_E0000130865_1_s.jpg",
+      "datePublished": "2026-10-31T06:37:00+09:00"
+    },
+    {
+      "name": "人気SFドラマ「スター・トレック」出演の英俳優死去",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68418",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68418/20261030de68418_E0000127907_1_s.jpg",
+      "datePublished": "2026-10-30T15:11:00+09:00"
+    },
+    {
+      "name": "“50年の歩みが後退する”？ 米中間選挙 選挙区見直しの陰で",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261020de62440",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de62440/20261020de62440_E0000112229_1_s.jpg",
+      "datePublished": "2026-10-30T11:02:20+09:00"
+    },
+    {
+      "name": "混迷のフランスはどこへ～市民デモと大統領選挙～",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68287",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68287/20261030de68287_E0000127038_1_s.jpg",
+      "datePublished": "2026-10-30T18:21:09+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": false,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": true,
+    "geoblockVideoFlg": true,
+    "rawHtmlFlg": false
+  }
+}
