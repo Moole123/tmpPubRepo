@@ -1,0 +1,121 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261102de69325",
+  "dataSourceId": "nd",
+  "name": "滋賀 甲賀市で住宅火災 家族3人と連絡取れず",
+  "headline": "滋賀 甲賀市で住宅火災 家族3人と連絡取れず",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261102de69325",
+    "playlistId": "news-nwa-society-nationwide-20261102",
+    "newsarticleName": "滋賀 甲賀市で住宅火災 家族3人と連絡取れず",
+    "playlistName": "11月2日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "2日未明、滋賀県甲賀市の住宅で火事があり、警察などによりますとこの家に住む家族3人と連絡が取れなくなっているということです。\n\n\n2日午前2時半すぎ、滋賀県甲賀市甲賀町の住宅で、「屋根から炎が噴き出し",
+  "dateModified": "2026-11-02T06:09:29+09:00",
+  "datePublished": "2026-11-02T06:09:29+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69325/20261102de69325_E0000133388_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69325/20261102de69325_E0000133388_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会",
+    "地域"
+  ],
+  "topic": [
+    {
+      "id": "E0000000657",
+      "name": "火災",
+      "display": true
+    },
+    {
+      "id": "E0000000353",
+      "name": "滋賀県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "2日未明、滋賀県甲賀市の住宅で火事があり、警察などによりますとこの家に住む家族3人と連絡が取れなくなっているということです。\n\n\n2日午前2時半すぎ、滋賀県甲賀市甲賀町の住宅で、「屋根から炎が噴き出し",
+  "articleBody": "2日未明、滋賀県甲賀市の住宅で火事があり、警察などによりますとこの家に住む家族3人と連絡が取れなくなっているということです。\n\n\n2日午前2時半すぎ、滋賀県甲賀市甲賀町の住宅で、「屋根から炎が噴き出している」と近くに住む人から消防に通報がありました。\n\n消防車など6台が出動しおよそ2時間後に火はほぼ消し止められましたが、警察や消防によりますと、この家に住む80代の男性などあわせて男女3人と連絡が取れなくなっているということです。\n\n消防が引き続き消火活動を進めるとともに、警察などが詳しい状況を調べています。\n\n現場はJR草津線の甲賀駅から東に500メートルほど離れた、住宅などが建ち並ぶ地域です。\n",
+  "detailedArticleBody": {
+    "markedLead": "2日未明、滋賀県甲賀市の住宅で火事があり、警察などによりますとこの家に住む家族3人と連絡が取れなくなっているということです。\n",
+    "markedBody": "2日午前2時半すぎ、滋賀県甲賀市甲賀町の住宅で、「屋根から炎が噴き出している」と近くに住む人から消防に通報がありました。\n\n消防車など6台が出動しおよそ2時間後に火はほぼ消し止められましたが、警察や消防によりますと、この家に住む80代の男性などあわせて男女3人と連絡が取れなくなっているということです。\n\n消防が引き続き消火活動を進めるとともに、警察などが詳しい状況を調べています。\n\n現場はJR草津線の甲賀駅から東に500メートルほど離れた、住宅などが建ち並ぶ地域です。\n",
+    "trimmedLead": "2日未明、滋賀県甲賀市の住宅で火事があり、警察などによりますとこの家に住む家族3人と連絡が取れなくなっているということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261102de69325.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261102de69325",
+  "video": [],
+  "citation": [
+    {
+      "name": "災害対策司令塔の「防災庁」が発足 体制の抜本的強化へ 政府",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261101de69293",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261101de69293/20261101de69293_E0000133331_1_s.jpg",
+      "datePublished": "2026-11-02T04:39:26+09:00"
+    },
+    {
+      "name": "GMOきょう会見 不安の抑止やぜい弱性指摘後の対応が焦点",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261101de69276",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261101de69276/20261101de69276_E0000133309_1_s.jpg",
+      "datePublished": "2026-11-02T04:42:07+09:00"
+    },
+    {
+      "name": "「秋の褒章」に現代美術家の奈良美智さんら",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261101de69275",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261101de69275/20261101de69275_E0000133339_1_s.jpg",
+      "datePublished": "2026-11-02T05:01:44+09:00"
+    },
+    {
+      "name": "アメリカ中間選挙でAI「スロパガンダ」が…“真実”はどこに？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66600",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66600/20261027de66600_E0000127944_1_s.jpg",
+      "datePublished": "2026-10-31T17:11:00+09:00"
+    },
+    {
+      "name": "江戸時代のUFO？“うつろ舟” 200年の謎がついに・・・",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66276",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66276/20261027de66276_E0000127922_1_s.jpg",
+      "datePublished": "2026-11-01T08:59:48+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
