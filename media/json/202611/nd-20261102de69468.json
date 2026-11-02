@@ -1,0 +1,115 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261102de69468",
+  "dataSourceId": "nd",
+  "name": "株価 値下がり AI分野の先行き不安から売り注文",
+  "headline": "株価 値下がり AI分野の先行き不安から売り注文",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261102de69468",
+    "playlistId": "news-nwa-business-nationwide-20261102",
+    "newsarticleName": "株価 値下がり AI分野の先行き不安から売り注文",
+    "playlistName": "11月2日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "週明けの2日の東京株式市場、先週末のニューヨーク市場で半導体関連の株価が下落した流れを受けて、多くの銘柄に売り注文が広がり、株価は値下がりしています。\n\n\n日経平均株価、午前の終値は先週末の終値と比べ",
+  "dateModified": "2026-11-02T12:22:05+09:00",
+  "datePublished": "2026-11-02T12:22:05+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69468/20261102de69468_E0000133901_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69468/20261102de69468_E0000133901_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000157",
+      "name": "株価・為替",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "週明けの2日の東京株式市場、先週末のニューヨーク市場で半導体関連の株価が下落した流れを受けて、多くの銘柄に売り注文が広がり、株価は値下がりしています。\n\n\n日経平均株価、午前の終値は先週末の終値と比べ",
+  "articleBody": "週明けの2日の東京株式市場、先週末のニューヨーク市場で半導体関連の株価が下落した流れを受けて、多くの銘柄に売り注文が広がり、株価は値下がりしています。\n\n\n日経平均株価、午前の終値は先週末の終値と比べて195円安い6万3095円11銭。\n\n東証株価指数、トピックスは33.46下がって3931.61。\n\n午前の出来高は10億2181万株でした。\n\n市場関係者は「AI関連企業の決算発表が国内外で相次ぐ中、収益性や今後の投資計画への懸念から多くの銘柄に売り注文が出ている。一方、これまで値下がりしていた銘柄を買い戻す動きもあり、日経平均株価が一時、値上がりに転じた場面もあった」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "週明けの2日の東京株式市場、先週末のニューヨーク市場で半導体関連の株価が下落した流れを受けて、多くの銘柄に売り注文が広がり、株価は値下がりしています。\n",
+    "markedBody": "日経平均株価、午前の終値は先週末の終値と比べて195円安い6万3095円11銭。\n\n東証株価指数、トピックスは33.46下がって3931.61。\n\n午前の出来高は10億2181万株でした。\n\n市場関係者は「AI関連企業の決算発表が国内外で相次ぐ中、収益性や今後の投資計画への懸念から多くの銘柄に売り注文が出ている。一方、これまで値下がりしていた銘柄を買い戻す動きもあり、日経平均株価が一時、値上がりに転じた場面もあった」と話しています。\n",
+    "trimmedLead": "週明けの2日の東京株式市場、先週末のニューヨーク市場で半導体関連の株価が下落した流れを受けて、多くの銘柄に売り注文が広がり、株価は値下がりしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261102de69468.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261102de69468",
+  "video": [],
+  "citation": [
+    {
+      "name": "「中野ブロードウェイ」高級腕時計窃盗事件 被害品が店に届く",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261102de69446",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69446/20261102de69446_E0000133862_1_s.jpg",
+      "datePublished": "2026-11-02T12:01:58+09:00"
+    },
+    {
+      "name": "スペイン高速鉄道事故 日本人1人の死亡確認 地元当局が発表",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261102de69346",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69346/20261102de69346_E0000133727_1_s.jpg",
+      "datePublished": "2026-11-02T10:48:32+09:00"
+    },
+    {
+      "name": "防災庁発足 「緊急要請」発表し備蓄や住宅耐震化など求める",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261102de69369",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69369/20261102de69369_E0000133899_1_s.jpg",
+      "datePublished": "2026-11-02T12:08:25+09:00"
+    },
+    {
+      "name": "中間選挙ってどんな選挙？トランプ政権は？わかりやすく解説",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261031de68925",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de68925/20261031de68925_E0000131301_1_s.jpg",
+      "datePublished": "2026-11-02T08:12:42+09:00"
+    },
+    {
+      "name": "江戸時代のUFO？“うつろ舟” 200年の謎がついに・・・",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66276",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66276/20261027de66276_E0000127922_1_s.jpg",
+      "datePublished": "2026-11-01T08:59:48+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
