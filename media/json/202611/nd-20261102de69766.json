@@ -1,0 +1,136 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261102de69766",
+  "dataSourceId": "nd",
+  "name": "ヒグマと衝突し脱線のJR宗谷線 3日も終日運転見合わせ",
+  "headline": "ヒグマと衝突し脱線のJR宗谷線 3日も終日運転見合わせ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261102de69766",
+    "playlistId": "news-nwa-society-nationwide-20261102",
+    "newsarticleName": "ヒグマと衝突し脱線のJR宗谷線 3日も終日運転見合わせ",
+    "playlistName": "11月2日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "特急列車がヒグマと衝突して脱線したため一部区間で運行できなくなっているJR宗谷線について、JR北海道は、脱線した車両に不具合が見つかり現場から移動させることができないとして、3日も終日運転を見合わせる",
+  "dateModified": "2026-11-02T19:27:02+09:00",
+  "datePublished": "2026-11-02T19:27:02+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69766/20261102de69766_E0000136186_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69766/20261102de69766_E0000136186_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000521",
+      "name": "クマ被害",
+      "display": true
+    },
+    {
+      "id": "E0000000329",
+      "name": "北海道",
+      "display": true
+    },
+    {
+      "id": "E0000000481",
+      "name": "鉄道",
+      "display": true
+    },
+    {
+      "id": "E0000000651",
+      "name": "交通・インフラ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "特急列車がヒグマと衝突して脱線したため一部区間で運行できなくなっているJR宗谷線について、JR北海道は、脱線した車両に不具合が見つかり現場から移動させることができないとして、3日も終日運転を見合わせる",
+  "articleBody": "特急列車がヒグマと衝突して脱線したため一部区間で運行できなくなっているJR宗谷線について、JR北海道は、脱線した車両に不具合が見つかり現場から移動させることができないとして、3日も終日運転を見合わせると発表しました。\n\n\nJR宗谷線では先月30日、旭川発稚内行きの特急サロベツ3号が線路上でヒグマと衝突し、先頭車両が脱線しました。\n\nこの影響で宗谷線は音威子府駅と稚内駅の間で運行できない状態が続いています。\n\nJR北海道は当初、復旧作業のめどが立ったとして3日の始発から運転を再開すると発表していましたが、その後、脱線した車両に不具合が見つかり、さらに1日程度時間がかかる見通しになったということです。\n\nこのためJR北海道は3日もこの区間の運転を終日見合わせることを決めました。\n\nJR北海道は引き続き旭川駅と稚内駅の間で代行バスを運行することにしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "特急列車がヒグマと衝突して脱線したため一部区間で運行できなくなっているJR宗谷線について、JR北海道は、脱線した車両に不具合が見つかり現場から移動させることができないとして、3日も終日運転を見合わせると発表しました。\n",
+    "markedBody": "JR宗谷線では先月30日、旭川発稚内行きの特急サロベツ3号が線路上でヒグマと衝突し、先頭車両が脱線しました。\n\nこの影響で宗谷線は音威子府駅と稚内駅の間で運行できない状態が続いています。\n\nJR北海道は当初、復旧作業のめどが立ったとして3日の始発から運転を再開すると発表していましたが、その後、脱線した車両に不具合が見つかり、さらに1日程度時間がかかる見通しになったということです。\n\nこのためJR北海道は3日もこの区間の運転を終日見合わせることを決めました。\n\nJR北海道は引き続き旭川駅と稚内駅の間で代行バスを運行することにしています。\n",
+    "trimmedLead": "特急列車がヒグマと衝突して脱線したため一部区間で運行できなくなっているJR宗谷線について、JR北海道は、脱線した車両に不具合が見つかり現場から移動させることができないとして、3日も終日運転を見合わせると発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261102de69766.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261102de69766",
+  "video": [],
+  "citation": [
+    {
+      "name": "ことし秋のクマの出没は？ “どんぐり”の実りから予測する",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261021de62755",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62755/20261021de62755_E0000115891_1_s.jpg",
+      "datePublished": "2026-10-27T19:41:24+09:00"
+    },
+    {
+      "name": "防災庁発足 「緊急要請」発表し備蓄や住宅耐震化など求める",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261102de69369",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69369/20261102de69369_E0000133899_1_s.jpg",
+      "datePublished": "2026-11-02T19:08:29+09:00"
+    },
+    {
+      "name": "サントリーHD 不正アクセスで個人情報約10万人分が漏えい",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261102de69622",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69622/20261102de69622_E0000134705_1_s.jpg",
+      "datePublished": "2026-11-02T16:23:41+09:00"
+    },
+    {
+      "name": "メール配信サービス「アララ」700万通超の不審メール確認",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261102de69506",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69506/20261102de69506_E0000134590_1_s.jpg",
+      "datePublished": "2026-11-02T14:15:00+09:00"
+    },
+    {
+      "name": "アメリカ中間選挙 トランプ大統領が中西部で遊説締めくくる",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261102de69457",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69457/20261102de69457_E0000133865_1_s.jpg",
+      "datePublished": "2026-11-02T18:29:11+09:00"
+    },
+    {
+      "name": "去年大量死 広島の養殖かき 今季水揚げ始まる 期待と不安の声",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261102de69556",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69556/20261102de69556_E0000134750_1_s.jpg",
+      "datePublished": "2026-11-02T17:15:03+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
