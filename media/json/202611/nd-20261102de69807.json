@@ -1,0 +1,132 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261102de69807",
+  "dataSourceId": "nd",
+  "name": "ロードサービス利用者の個人情報 最大約550万件漏えい",
+  "headline": "ロードサービス利用者の個人情報 最大約550万件漏えい",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261102de69807",
+    "playlistId": "news-nwa-business-nationwide-20261102",
+    "newsarticleName": "ロードサービス利用者の個人情報 最大約550万件漏えい",
+    "playlistName": "11月2日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "企業の業務を代行する事業を行う「プレステージ・インターナショナル」は2日、グループ会社のシステムが不正アクセスを受け、最大でおよそ550万件の個人情報が漏えいしたと発表しました。\n\n\nこの会社のグルー",
+  "dateModified": "2026-11-02T20:46:20+09:00",
+  "datePublished": "2026-11-02T20:46:20+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69807/20261102de69807_E0000136706_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69807/20261102de69807_E0000136706_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "企業の業務を代行する事業を行う「プレステージ・インターナショナル」は2日、グループ会社のシステムが不正アクセスを受け、最大でおよそ550万件の個人情報が漏えいしたと発表しました。\n\n\nこの会社のグルー",
+  "articleBody": "企業の業務を代行する事業を行う「プレステージ・インターナショナル」は2日、グループ会社のシステムが不正アクセスを受け、最大でおよそ550万件の個人情報が漏えいしたと発表しました。\n\n\nこの会社のグループ会社では、保険会社からロードサービスの受付や手配を行う業務を受託していて、今回漏えいが確認されたのはロードサービスを利用した人の個人情報、最大およそ550万件です。\n\n漏えいしたのは氏名、住所、電話番号、車両の登録番号などです。\n\n一部の人については金融機関の口座番号が漏えいしたとしていますが、漏えいしたのが口座番号の一部なのか、全体なのかは調査中だとしています。\n\n現時点でクレジットカード情報の漏えいは確認されていないとしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "企業の業務を代行する事業を行う「プレステージ・インターナショナル」は2日、グループ会社のシステムが不正アクセスを受け、最大でおよそ550万件の個人情報が漏えいしたと発表しました。\n",
+    "markedBody": "この会社のグループ会社では、保険会社からロードサービスの受付や手配を行う業務を受託していて、今回漏えいが確認されたのはロードサービスを利用した人の個人情報、最大およそ550万件です。\n\n漏えいしたのは氏名、住所、電話番号、車両の登録番号などです。\n\n一部の人については金融機関の口座番号が漏えいしたとしていますが、漏えいしたのが口座番号の一部なのか、全体なのかは調査中だとしています。\n\n現時点でクレジットカード情報の漏えいは確認されていないとしています。\n",
+    "trimmedLead": "企業の業務を代行する事業を行う「プレステージ・インターナショナル」は2日、グループ会社のシステムが不正アクセスを受け、最大でおよそ550万件の個人情報が漏えいしたと発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261102de69807.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261102de69807",
+  "video": [],
+  "citation": [
+    {
+      "name": "メール配信サービス「アララ」700万通超の不審メール確認",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261102de69506",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69506/20261102de69506_E0000134590_1_s.jpg",
+      "datePublished": "2026-11-02T14:15:00+09:00"
+    },
+    {
+      "name": "「アットコスメ」不正アクセス 約300万人分漏えい 肌質 髪質も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261102de69567",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69567/20261102de69567_E0000003476_1_s.jpg",
+      "datePublished": "2026-11-02T15:04:20+09:00"
+    },
+    {
+      "name": "サントリーHD 不正アクセスで個人情報約10万人分が漏えい",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261102de69622",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69622/20261102de69622_E0000134705_1_s.jpg",
+      "datePublished": "2026-11-02T16:23:41+09:00"
+    },
+    {
+      "name": "ノジマ 不正アクセスで約700万件の個人情報漏えい",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261102de69780",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69780/20261102de69780_E0000136493_1_s.jpg",
+      "datePublished": "2026-11-02T19:16:00+09:00"
+    },
+    {
+      "name": "GMO 不正アクセス問題 熊谷社長ら記者会見【詳細】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261102de69492",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69492/20261102de69492_E0000135773_1_s.jpg",
+      "datePublished": "2026-11-02T19:48:00+09:00"
+    },
+    {
+      "name": "GMO 熊谷社長会見で陳謝 ぜい弱性指摘 サービス運営に生かせず",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261101de69276",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261101de69276/20261101de69276_E0000136292_1_s.jpg",
+      "datePublished": "2026-11-02T21:25:31+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261102de69784",
+  "dataSourceId": "nd",
+  "name": "「ネットマイル」 最大で約549万人分の個人情報漏えいの可能性",
+  "headline": "「ネットマイル」 最大で約549万人分の個人情報漏えいの可能性",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261102de69784",
+    "playlistId": "news-nwa-scienceculture-nationwide-20261102",
+    "newsarticleName": "「ネットマイル」 最大で約549万人分の個人情報漏えいの可能性",
+    "playlistName": "11月2日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "ネット上でためたポイントを電子マネーなどに交換できるサービス「ネットマイル」の運営会社は、サービスのシステムが不正アクセスを受け、最大でおよそ549万人分の個人情報が漏えいした可能性があると発表しまし",
+  "dateModified": "2026-11-02T20:47:09+09:00",
+  "datePublished": "2026-11-02T20:47:09+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69784/20261102de69784_E0000136680_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69784/20261102de69784_E0000136680_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "科学・文化",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ネット上でためたポイントを電子マネーなどに交換できるサービス「ネットマイル」の運営会社は、サービスのシステムが不正アクセスを受け、最大でおよそ549万人分の個人情報が漏えいした可能性があると発表しまし",
+  "articleBody": "ネット上でためたポイントを電子マネーなどに交換できるサービス「ネットマイル」の運営会社は、サービスのシステムが不正アクセスを受け、最大でおよそ549万人分の個人情報が漏えいした可能性があると発表しました。\n\n\n漏えいの可能性があるのは、退会した会員を含む最大でおよそ549万人分の個人情報で、氏名やメールアドレスが含まれるということです。\n\n会社では金融機関やポイントの交換先などを装った不審なメール、電話などに注意するよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "ネット上でためたポイントを電子マネーなどに交換できるサービス「ネットマイル」の運営会社は、サービスのシステムが不正アクセスを受け、最大でおよそ549万人分の個人情報が漏えいした可能性があると発表しました。\n",
+    "markedBody": "漏えいの可能性があるのは、退会した会員を含む最大でおよそ549万人分の個人情報で、氏名やメールアドレスが含まれるということです。\n\n会社では金融機関やポイントの交換先などを装った不審なメール、電話などに注意するよう呼びかけています。\n",
+    "trimmedLead": "ネット上でためたポイントを電子マネーなどに交換できるサービス「ネットマイル」の運営会社は、サービスのシステムが不正アクセスを受け、最大でおよそ549万人分の個人情報が漏えいした可能性があると発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261102de69784.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261102de69784",
+  "video": [],
+  "citation": [
+    {
+      "name": "暗号資産大手バイナンスへのサイバー攻撃 FBI“北朝鮮が関与”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261101de69102",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261101de69102/20261101de69102_E0000132391_1_s.jpg",
+      "datePublished": "2026-11-01T11:56:00+09:00"
+    },
+    {
+      "name": "メール配信サービス「アララ」700万通超の不審メール確認",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261102de69506",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69506/20261102de69506_E0000134590_1_s.jpg",
+      "datePublished": "2026-11-02T14:15:00+09:00"
+    },
+    {
+      "name": "「アットコスメ」不正アクセス 約300万人分漏えい 肌質 髪質も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261102de69567",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69567/20261102de69567_E0000003476_1_s.jpg",
+      "datePublished": "2026-11-02T15:04:20+09:00"
+    },
+    {
+      "name": "サントリーHD 不正アクセスで個人情報約10万人分が漏えい",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261102de69622",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69622/20261102de69622_E0000134705_1_s.jpg",
+      "datePublished": "2026-11-02T16:23:41+09:00"
+    },
+    {
+      "name": "GMO 熊谷社長会見で陳謝 ぜい弱性指摘 サービス運営に生かせず",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261101de69276",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261101de69276/20261101de69276_E0000136292_1_s.jpg",
+      "datePublished": "2026-11-02T21:25:31+09:00"
+    },
+    {
+      "name": "GMO 不正アクセス問題 熊谷社長ら記者会見【詳細】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261102de69492",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69492/20261102de69492_E0000135773_1_s.jpg",
+      "datePublished": "2026-11-02T19:48:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
