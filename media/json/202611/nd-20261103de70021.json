@@ -1,0 +1,132 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261103de70021",
+  "dataSourceId": "nd",
+  "name": "横浜ゴム 委託先への不正アクセスでメールアドレスなど漏えい",
+  "headline": "横浜ゴム 委託先への不正アクセスでメールアドレスなど漏えい",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261103de70021",
+    "playlistId": "news-nwa-business-nationwide-20261103",
+    "newsarticleName": "横浜ゴム 委託先への不正アクセスでメールアドレスなど漏えい",
+    "playlistName": "11月3日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "タイヤメーカーの横浜ゴムは、ニュースリリースなどの配信サービスに登録している利用者の会社名とメールアドレスが、委託先に対する不正アクセスによって外部に漏えいしたと発表しました。\n\n\n発表によりますと、",
+  "dateModified": "2026-11-03T18:13:49+09:00",
+  "datePublished": "2026-11-03T18:13:49+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de70021/20261103de70021_E0000137997_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de70021/20261103de70021_E0000137997_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "タイヤメーカーの横浜ゴムは、ニュースリリースなどの配信サービスに登録している利用者の会社名とメールアドレスが、委託先に対する不正アクセスによって外部に漏えいしたと発表しました。\n\n\n発表によりますと、",
+  "articleBody": "タイヤメーカーの横浜ゴムは、ニュースリリースなどの配信サービスに登録している利用者の会社名とメールアドレスが、委託先に対する不正アクセスによって外部に漏えいしたと発表しました。\n\n\n発表によりますと、会社では、10月に不正アクセスを受けたと公表している、企業向けにメール配信サービスなどを提供している「アララ」に業務を委託していたということです。\n\n会社は、不審なメールが配信される可能性があるとして、利用者に対して注意するよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "タイヤメーカーの横浜ゴムは、ニュースリリースなどの配信サービスに登録している利用者の会社名とメールアドレスが、委託先に対する不正アクセスによって外部に漏えいしたと発表しました。\n",
+    "markedBody": "発表によりますと、会社では、10月に不正アクセスを受けたと公表している、企業向けにメール配信サービスなどを提供している「アララ」に業務を委託していたということです。\n\n会社は、不審なメールが配信される可能性があるとして、利用者に対して注意するよう呼びかけています。\n",
+    "trimmedLead": "タイヤメーカーの横浜ゴムは、ニュースリリースなどの配信サービスに登録している利用者の会社名とメールアドレスが、委託先に対する不正アクセスによって外部に漏えいしたと発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261103de70021.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261103de70021",
+  "video": [],
+  "citation": [
+    {
+      "name": "「バイナンス」へのサイバー攻撃 AI使った新たな手口か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de69892",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69892/20261103de69892_E0000137653_1_s.jpg",
+      "datePublished": "2026-11-03T11:05:06+09:00"
+    },
+    {
+      "name": "世界的な暗号資産取引所へのサイバー攻撃　北朝鮮が関与否定",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de69881",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69881/20261103de69881_E0000137629_1_s.jpg",
+      "datePublished": "2026-11-03T10:10:00+09:00"
+    },
+    {
+      "name": "韓国 イ大統領 セキュリティー対策の抜本強化を指示",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de69936",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69936/20261103de69936_E0000137901_1_s.jpg",
+      "datePublished": "2026-11-03T14:14:00+09:00"
+    },
+    {
+      "name": "アメリカ中間選挙 日本時間の今夜から投票開始 焦点は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de69868",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69868/20261103de69868_E0000137485_1_s.jpg",
+      "datePublished": "2026-11-03T12:26:00+09:00"
+    },
+    {
+      "name": "脚本家の倉本聰さん 「北の国から」富良野でお別れの会 北海道",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de69916",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69916/20261103de69916_E0000137687_1_s.jpg",
+      "datePublished": "2026-11-03T12:13:00+09:00"
+    },
+    {
+      "name": "大リーグ 大谷翔平がMVP最終候補に 4年連続の受賞なるか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de69910",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69910/20261103de69910_E0000137686_1_s.jpg",
+      "datePublished": "2026-11-03T11:59:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
