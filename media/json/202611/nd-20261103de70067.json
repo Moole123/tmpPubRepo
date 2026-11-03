@@ -1,0 +1,144 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261103de70067",
+  "dataSourceId": "nd",
+  "name": "サッカースペイン2部の試合で選手どうしが激突 1人死亡",
+  "headline": "サッカースペイン2部の試合で選手どうしが激突 1人死亡",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261103de70067",
+    "playlistId": "news-nwa-sports-nationwide-20261103",
+    "newsarticleName": "サッカースペイン2部の試合で選手どうしが激突 1人死亡",
+    "playlistName": "11月3日のスポーツニュース",
+    "genreId": "sports",
+    "genreIdSlug": "sports"
+  },
+  "description": "今月2日に行われたサッカーのスペイン2部の試合で、パスに反応して走り込んだ選手が飛び出してきた相手のゴールキーパーと激しくぶつかって倒れ、その後、死亡しました。\n\n\n複数の海外メディアによりますと、ス",
+  "dateModified": "2026-11-03T23:15:28+09:00",
+  "datePublished": "2026-11-03T23:15:28+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de70067/20261103de70067_E0000004053_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de70067/20261103de70067_E0000004053_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "スポーツ"
+  ],
+  "topic": [
+    {
+      "id": "E0000000101",
+      "name": "サッカー",
+      "display": true
+    },
+    {
+      "id": "E0000000519",
+      "name": "スペイン",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "今月2日に行われたサッカーのスペイン2部の試合で、パスに反応して走り込んだ選手が飛び出してきた相手のゴールキーパーと激しくぶつかって倒れ、その後、死亡しました。\n\n\n複数の海外メディアによりますと、ス",
+  "articleBody": "今月2日に行われたサッカーのスペイン2部の試合で、パスに反応して走り込んだ選手が飛び出してきた相手のゴールキーパーと激しくぶつかって倒れ、その後、死亡しました。\n\n\n複数の海外メディアによりますと、スペイン2部・テネリフェの30歳のフォワード、ヘスス・デ・ミゲル選手は2日に行われた試合で後方からの浮き球のパスに反応して走り込んだところ、ピッチ中央付近まで飛び出してきた相手のゴールキーパーと激しくぶつかりました。\n\nデ・ミゲル選手は倒れて動くことができず、試合は途中で打ち切られ、クラブは3日「これが真実だとは信じられないが、ヘスス・デ・ミゲル選手の悲劇的な死を伝える」として、デ・ミゲル選手が亡くなったと発表しました。\n\nスペインサッカー連盟は「スペインサッカー界はこの喪失に深い悲しみを共有している。連盟は家族や友人、関係者に対して心からの哀悼の意を表する」などと声明を出し、3日に予定されていた国内のカップ戦の試合を延期しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "今月2日に行われたサッカーのスペイン2部の試合で、パスに反応して走り込んだ選手が飛び出してきた相手のゴールキーパーと激しくぶつかって倒れ、その後、死亡しました。\n",
+    "markedBody": "複数の海外メディアによりますと、スペイン2部・テネリフェの30歳のフォワード、ヘスス・デ・ミゲル選手は2日に行われた試合で後方からの浮き球のパスに反応して走り込んだところ、ピッチ中央付近まで飛び出してきた相手のゴールキーパーと激しくぶつかりました。\n\nデ・ミゲル選手は倒れて動くことができず、試合は途中で打ち切られ、クラブは3日「これが真実だとは信じられないが、ヘスス・デ・ミゲル選手の悲劇的な死を伝える」として、デ・ミゲル選手が亡くなったと発表しました。\n\nスペインサッカー連盟は「スペインサッカー界はこの喪失に深い悲しみを共有している。連盟は家族や友人、関係者に対して心からの哀悼の意を表する」などと声明を出し、3日に予定されていた国内のカップ戦の試合を延期しました。\n",
+    "trimmedLead": "今月2日に行われたサッカーのスペイン2部の試合で、パスに反応して走り込んだ選手が飛び出してきた相手のゴールキーパーと激しくぶつかって倒れ、その後、死亡しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261103de70067.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261103de70067",
+  "video": [],
+  "citation": [
+    {
+      "name": "野球 日本代表 井口資仁監督が始動 宮崎で強化合宿",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de70010",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de70010/20261103de70010_E0000137990_1_s.jpg",
+      "datePublished": "2026-11-03T17:32:00+09:00"
+    },
+    {
+      "name": "サッカーアジア杯 開催を来年12月に延期 サウジ情勢の影響で",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de69969",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69969/20261103de69969_E0000137965_1_s.jpg",
+      "datePublished": "2026-11-03T22:34:51+09:00"
+    },
+    {
+      "name": "大リーグ 大谷翔平がMVP最終候補に 4年連続の受賞なるか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de69910",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69910/20261103de69910_E0000137686_1_s.jpg",
+      "datePublished": "2026-11-03T11:59:00+09:00"
+    },
+    {
+      "name": "カブス 鈴木誠也に“クオリファイング・オファー” 1年36億円",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de69908",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69908/20261103de69908_E0000137677_1_s.jpg",
+      "datePublished": "2026-11-03T11:53:00+09:00"
+    },
+    {
+      "name": "プロ野球 オリックス 宗佑磨 国内FA権を行使へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de69956",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69956/20261103de69956_E0000137963_1_s.jpg",
+      "datePublished": "2026-11-03T15:38:00+09:00"
+    },
+    {
+      "name": "プロ野球 西武 高橋光成が海外FA権を行使",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261102de69687",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69687/20261102de69687_E0000134821_1_s.jpg",
+      "datePublished": "2026-11-02T18:01:00+09:00"
+    },
+    {
+      "name": "中日 2日から秋のキャンプ 工藤新監督が指導",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261102de69800",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69800/20261102de69800_E0000136696_1_s.jpg",
+      "datePublished": "2026-11-02T20:33:00+09:00"
+    },
+    {
+      "name": "陸上男子 後藤大樹が400mで高校記録を21年ぶりに更新",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de70028",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de70028/20261103de70028_E0000004053_1_s.jpg",
+      "datePublished": "2026-11-03T18:11:00+09:00"
+    },
+    {
+      "name": "ユース五輪 競泳200m平泳ぎ 宮崎緒里 石川真菜 男女で金メダル",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de69953",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69953/20261103de69953_E0000137943_1_s.jpg",
+      "datePublished": "2026-11-03T15:30:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
