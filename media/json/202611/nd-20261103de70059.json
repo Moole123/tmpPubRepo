@@ -1,0 +1,139 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261103de70059",
+  "dataSourceId": "nd",
+  "name": "インフラや防衛分野に向け国産AIの開発進む",
+  "headline": "インフラや防衛分野に向け国産AIの開発進む",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261103de70059",
+    "playlistId": "news-nwa-business-nationwide-20261104",
+    "newsarticleName": "インフラや防衛分野に向け国産AIの開発進む",
+    "playlistName": "11月4日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "AIの活用がさまざまなインフラや防衛分野にも広がることが見込まれる中、国内の企業が基盤となるモデルから手がける「国産AI」の開発が進んでいます。\n\n\nこのうち、スタートアップ企業の「Sakana AI",
+  "dateModified": "2026-11-04T07:19:07+09:00",
+  "datePublished": "2026-11-04T07:19:07+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de70059/20261103de70059_E0000138508_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de70059/20261103de70059_E0000138508_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "AIの活用がさまざまなインフラや防衛分野にも広がることが見込まれる中、国内の企業が基盤となるモデルから手がける「国産AI」の開発が進んでいます。\n\n\nこのうち、スタートアップ企業の「Sakana AI",
+  "articleBody": "AIの活用がさまざまなインフラや防衛分野にも広がることが見込まれる中、国内の企業が基盤となるモデルから手がける「国産AI」の開発が進んでいます。\n\n\nこのうち、スタートアップ企業の「Sakana AI」は来月から大量のデータをAIに読み込ませるいわゆる「事前学習」を始め、来年春以降、段階的に新たなモデルの公開を目指すと発表しました。\n\nこの会社のAIモデルはすでに国内の大手金融機関で導入されていますが、今後は防衛省との契約に基づいて防衛分野の調査や分析にも活用される計画です。\n\n国内で利用されるAIの多くは海外の企業が提供するモデルを使ったものが多く、経済安全保障の観点からも国産AIの開発が欠かせないとされています。\n\nSakana AIの矢頭肇社長室長は「機密性の高いインフラに関わる業界からは国産AIのニーズが寄せられている。安全性の高いモデルを提供することは非常に重要だ」と話しています。\n\nこのほか「NEC」やスタートアップ企業の「プリファードネットワークス」はすでに国産AIを実用化していて、自治体や企業での導入も広がっています。\n\nまた、ソニーグループやソフトバンクなど日本企業40社余りが加わる「ノエトラ」は、作業を自律的に行う「フィジカルAI」向けのモデルの構築を目指し、今年度から順次成果を公開することにしていて、国内の企業の間でも開発が進んでいます。\n",
+  "detailedArticleBody": {
+    "markedLead": "AIの活用がさまざまなインフラや防衛分野にも広がることが見込まれる中、国内の企業が基盤となるモデルから手がける「国産AI」の開発が進んでいます。\n",
+    "markedBody": "このうち、スタートアップ企業の「Sakana AI」は来月から大量のデータをAIに読み込ませるいわゆる「事前学習」を始め、来年春以降、段階的に新たなモデルの公開を目指すと発表しました。\n\nこの会社のAIモデルはすでに国内の大手金融機関で導入されていますが、今後は防衛省との契約に基づいて防衛分野の調査や分析にも活用される計画です。\n\n国内で利用されるAIの多くは海外の企業が提供するモデルを使ったものが多く、経済安全保障の観点からも国産AIの開発が欠かせないとされています。\n\n![](https://img.web.nhk/news/nd/kiji/20261103de70059/20261103de70059_E0000138507_1_l.jpg)\n\nSakana AIの矢頭肇社長室長は「機密性の高いインフラに関わる業界からは国産AIのニーズが寄せられている。安全性の高いモデルを提供することは非常に重要だ」と話しています。\n\nこのほか「NEC」やスタートアップ企業の「プリファードネットワークス」はすでに国産AIを実用化していて、自治体や企業での導入も広がっています。\n\nまた、ソニーグループやソフトバンクなど日本企業40社余りが加わる「ノエトラ」は、作業を自律的に行う「フィジカルAI」向けのモデルの構築を目指し、今年度から順次成果を公開することにしていて、国内の企業の間でも開発が進んでいます。\n",
+    "trimmedLead": "AIの活用がさまざまなインフラや防衛分野にも広がることが見込まれる中、国内の企業が基盤となるモデルから手がける「国産AI」の開発が進んでいます。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261103de70059.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261103de70059",
+  "video": [],
+  "citation": [
+    {
+      "name": "スペイン列車事故 日本人2人の死亡確認 地元当局が身元特定",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de69859",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69859/20261103de69859_E0000137454_2_s.jpg",
+      "datePublished": "2026-11-03T10:14:00+09:00"
+    },
+    {
+      "name": "脚本家の倉本聰さん 「北の国から」富良野でお別れの会 北海道",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de69916",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69916/20261103de69916_E0000137687_1_s.jpg",
+      "datePublished": "2026-11-03T12:13:00+09:00"
+    },
+    {
+      "name": "GMO 経営トップ含めセキュリティーリスク対応の体制構築が課題",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de69861",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69861/20261103de69861_E0000137467_1_s.jpg",
+      "datePublished": "2026-11-03T05:02:00+09:00"
+    },
+    {
+      "name": "「秋の叙勲」受章者発表 各界で功労のあった計3861人が受章",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de69860",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69860/20261103de69860_E0000137459_1_s.jpg",
+      "datePublished": "2026-11-03T06:39:49+09:00"
+    },
+    {
+      "name": "作家の山中恒さんの手記全文が初公開 憲法公布時期に執筆",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261102de69842",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69842/20261102de69842_E0000137480_1_s.jpg",
+      "datePublished": "2026-11-03T05:30:00+09:00"
+    },
+    {
+      "name": "ロードサービス利用者の個人情報 最大約550万件漏えい",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261102de69807",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69807/20261102de69807_E0000136706_1_s.jpg",
+      "datePublished": "2026-11-02T20:46:20+09:00"
+    },
+    {
+      "name": "ベルギーやスウェーデン スーパーにサイバー攻撃か 食品に被害",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de69864",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69864/20261103de69864_E0000137469_1_s.jpg",
+      "datePublished": "2026-11-03T05:10:00+09:00"
+    },
+    {
+      "name": "ソウルの飲酒運転死亡事故から1年 犠牲者の日本人女性を悼む",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de69858",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69858/20261103de69858_E0000137444_1_s.jpg",
+      "datePublished": "2026-11-03T05:29:00+09:00"
+    },
+    {
+      "name": "クマはなぜここに その足跡を追いかけて",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de67785",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67785/20261029de67785_E0000136015_1_s.jpg",
+      "datePublished": "2026-11-02T19:18:41+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
