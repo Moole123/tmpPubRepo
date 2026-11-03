@@ -1,0 +1,145 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261104de70092",
+  "dataSourceId": "nd",
+  "name": "スペイン列車事故 AI導入し異常検知など再発防止策",
+  "headline": "スペイン列車事故 AI導入し異常検知など再発防止策",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261104de70092",
+    "playlistId": "news-nwa-international-nationwide-20261104",
+    "newsarticleName": "スペイン列車事故 AI導入し異常検知など再発防止策",
+    "playlistName": "11月4日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "スペイン中部で高速鉄道の列車が別の列車に追突し、69人が死亡した事故で、スペイン政府は再発防止に向けて、運転指令センターと運転士のやりとりの監視や異常事態の検知のためAIを使った技術を導入する方針を示",
+  "dateModified": "2026-11-04T05:05:36+09:00",
+  "datePublished": "2026-11-04T05:05:36+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70092/20261104de70092_E0000138531_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70092/20261104de70092_E0000138531_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000519",
+      "name": "スペイン",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "スペイン中部で高速鉄道の列車が別の列車に追突し、69人が死亡した事故で、スペイン政府は再発防止に向けて、運転指令センターと運転士のやりとりの監視や異常事態の検知のためAIを使った技術を導入する方針を示",
+  "articleBody": "スペイン中部で高速鉄道の列車が別の列車に追突し、69人が死亡した事故で、スペイン政府は再発防止に向けて、運転指令センターと運転士のやりとりの監視や異常事態の検知のためAIを使った技術を導入する方針を示しました。\n\n\nスペイン中部トレド県で先月28日、高速鉄道の列車が別の列車に追突し、地元当局によりますと、日本人2人を含む69人が死亡しました。\n\n事故の直前、2本の列車は制御システムの不具合で自動停止したあと、それぞれ運転指令センターから運転再開を指示されましたが、先行する列車は運転を再開できず、そこに後続の列車が高速で追突したことが分かっています。\n\nスペインのプエンテ運輸相は3日の会見で、システムの不具合が起きた場合の対応手順について、運転指令センターから指示を出す際は必ず別の担当者が内容をチェックするよう改めると明らかにしました。\n\nまた、指令センターと運転士のやりとりの監視や異常事態の検知のためにAIを使った技術を導入する方針を示しました。\n\nプエンテ運輸相は「事故により、システムの強化と非常時の対応手順の改善を早急に行うべきだということが明らかになった」と述べ、対応を急ぐ考えを強調しました。\n\n事故があった路線はスペインの主要な路線の1つですが、政府は今後、事故現場を復旧して運行を再開した場合でも来年予定されている新たな制御システムの導入まで列車の運行本数を減らすということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "スペイン中部で高速鉄道の列車が別の列車に追突し、69人が死亡した事故で、スペイン政府は再発防止に向けて、運転指令センターと運転士のやりとりの監視や異常事態の検知のためAIを使った技術を導入する方針を示しました。\n",
+    "markedBody": "スペイン中部トレド県で先月28日、高速鉄道の列車が別の列車に追突し、地元当局によりますと、日本人2人を含む69人が死亡しました。\n\n事故の直前、2本の列車は制御システムの不具合で自動停止したあと、それぞれ運転指令センターから運転再開を指示されましたが、先行する列車は運転を再開できず、そこに後続の列車が高速で追突したことが分かっています。\n\nスペインのプエンテ運輸相は3日の会見で、システムの不具合が起きた場合の対応手順について、運転指令センターから指示を出す際は必ず別の担当者が内容をチェックするよう改めると明らかにしました。\n\nまた、指令センターと運転士のやりとりの監視や異常事態の検知のためにAIを使った技術を導入する方針を示しました。\n\nプエンテ運輸相は「事故により、システムの強化と非常時の対応手順の改善を早急に行うべきだということが明らかになった」と述べ、対応を急ぐ考えを強調しました。\n\n事故があった路線はスペインの主要な路線の1つですが、政府は今後、事故現場を復旧して運行を再開した場合でも来年予定されている新たな制御システムの導入まで列車の運行本数を減らすということです。\n",
+    "trimmedLead": "スペイン中部で高速鉄道の列車が別の列車に追突し、69人が死亡した事故で、スペイン政府は再発防止に向けて、運転指令センターと運転士のやりとりの監視や異常事態の検知のためAIを使った技術を導入する方針を示しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261104de70092.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261104de70092",
+  "video": [],
+  "citation": [
+    {
+      "name": "スペイン列車事故 日本人2人の死亡確認 地元当局が身元特定",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de69859",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69859/20261103de69859_E0000137454_2_s.jpg",
+      "datePublished": "2026-11-03T10:14:00+09:00"
+    },
+    {
+      "name": "アメリカ中間選挙 投票続く 一部は日本時間の午前8時から開票",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de69983",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69983/20261103de69983_E0000137989_1_s.jpg",
+      "datePublished": "2026-11-04T03:30:17+09:00"
+    },
+    {
+      "name": "94年目の反乱？ 農家の怒りがトランプ大統領に逆風",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68751",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68751/20261030de68751_E0000134744_1_s.jpg",
+      "datePublished": "2026-11-03T11:32:11+09:00"
+    },
+    {
+      "name": "韓国大統領や高官の個人情報流出 イ大統領パスポート再発行へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de70007",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de70007/20261103de70007_E0000137986_1_s.jpg",
+      "datePublished": "2026-11-03T18:00:00+09:00"
+    },
+    {
+      "name": "米・ウクライナ・ロシアの実務者協議 10日からUAEで開催へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de69878",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69878/20261103de69878_E0000137625_1_s.jpg",
+      "datePublished": "2026-11-03T20:55:23+09:00"
+    },
+    {
+      "name": "ICC赤根所長 国連でアメリカの制裁批判 使命果たすと決意",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de69880",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69880/20261103de69880_E0000137626_1_s.jpg",
+      "datePublished": "2026-11-03T10:19:00+09:00"
+    },
+    {
+      "name": "北朝鮮が巡航ミサイルの発射実験を実施",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de69951",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69951/20261103de69951_E0000137938_1_s.jpg",
+      "datePublished": "2026-11-03T15:24:00+09:00"
+    },
+    {
+      "name": "米アップル主力スマートフォン好調で増益　半導体高騰の懸念も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de69962",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69962/20261103de69962_E0000003631_1_s.jpg",
+      "datePublished": "2026-11-03T15:43:00+09:00"
+    },
+    {
+      "name": "米アンソロピック 売り上げ13倍もAI開発への支出は140兆円余に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de69869",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69869/20261103de69869_E0000137487_1_s.jpg",
+      "datePublished": "2026-11-03T05:43:00+09:00"
+    },
+    {
+      "name": "まぎらわしい2人の候補 トランプ大統領が頭を抱えるワケは？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66349",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66349/20261027de66349_E0000134421_1_s.jpg",
+      "datePublished": "2026-11-02T13:12:18+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
