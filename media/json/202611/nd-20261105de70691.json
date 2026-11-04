@@ -1,0 +1,121 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261105de70691",
+  "dataSourceId": "nd",
+  "name": "日本郵便 サイバー攻撃で海外向け配送「UGX」一部停止",
+  "headline": "日本郵便 サイバー攻撃で海外向け配送「UGX」一部停止",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261105de70691",
+    "playlistId": "news-nwa-business-nationwide-20261105",
+    "newsarticleName": "日本郵便 サイバー攻撃で海外向け配送「UGX」一部停止",
+    "playlistName": "11月5日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "日本郵便は、出資先の会社が提供するシステムがサイバー攻撃を受け、海外宛ての配送サービス「UGX」で、一部利用ができなくなっていると発表しました。\n\n\n「UGX」は海外配送サービスの1つで、重さ50キロ",
+  "dateModified": "2026-11-05T02:20:03+09:00",
+  "datePublished": "2026-11-05T02:20:03+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70691/20261105de70691_E0000142661_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70691/20261105de70691_E0000142661_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "日本郵便は、出資先の会社が提供するシステムがサイバー攻撃を受け、海外宛ての配送サービス「UGX」で、一部利用ができなくなっていると発表しました。\n\n\n「UGX」は海外配送サービスの1つで、重さ50キロ",
+  "articleBody": "日本郵便は、出資先の会社が提供するシステムがサイバー攻撃を受け、海外宛ての配送サービス「UGX」で、一部利用ができなくなっていると発表しました。\n\n\n「UGX」は海外配送サービスの1つで、重さ50キロまでの荷物に対応しています。\n\n荷物を送る際はWEB上での発送手続きが必要ですが、サイバー攻撃を受けて、4日正午からこのシステムが稼働できなくなっているということです。\n\nこの影響で、イギリスやドイツ、韓国など一部の国宛ての発送ができなくなっています。\n\n一方、重さ30キロまでの荷物を送るEMS＝国際スピード郵便は利用できるということです。\n\nシステムは出資先の会社が提供していて、11月10日ごろの復旧を見込んでいるということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "日本郵便は、出資先の会社が提供するシステムがサイバー攻撃を受け、海外宛ての配送サービス「UGX」で、一部利用ができなくなっていると発表しました。\n",
+    "markedBody": "「UGX」は海外配送サービスの1つで、重さ50キロまでの荷物に対応しています。\n\n荷物を送る際はWEB上での発送手続きが必要ですが、サイバー攻撃を受けて、4日正午からこのシステムが稼働できなくなっているということです。\n\nこの影響で、イギリスやドイツ、韓国など一部の国宛ての発送ができなくなっています。\n\n一方、重さ30キロまでの荷物を送るEMS＝国際スピード郵便は利用できるということです。\n\nシステムは出資先の会社が提供していて、11月10日ごろの復旧を見込んでいるということです。\n",
+    "trimmedLead": "日本郵便は、出資先の会社が提供するシステムがサイバー攻撃を受け、海外宛ての配送サービス「UGX」で、一部利用ができなくなっていると発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261105de70691.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261105de70691",
+  "video": [],
+  "citation": [
+    {
+      "name": "「アララ」への不正アクセス影響 利用企業で情報漏えい相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70170",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70170/20261104de70170_E0000138996_1_s.jpg",
+      "datePublished": "2026-11-04T21:54:51+09:00"
+    },
+    {
+      "name": "良品計画 クレカ番号の全桁 約109万件が漏えいのおそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70494",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70494/20261104de70494_E0000141661_1_s.jpg",
+      "datePublished": "2026-11-04T19:14:00+09:00"
+    },
+    {
+      "name": "電子申請システム「LoGoフォーム」で障害　サービス停止",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70523",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70523/20261104de70523_E0000140392_1_s.jpg",
+      "datePublished": "2026-11-04T18:37:49+09:00"
+    },
+    {
+      "name": "デニーズ 旧アプリ利用者の個人情報漏えいか 不正アクセス受け",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70279",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70279/20261104de70279_E0000139663_1_s.jpg",
+      "datePublished": "2026-11-04T13:24:24+09:00"
+    },
+    {
+      "name": "セブン-イレブン “配達委託先から個人情報16万件余り漏えい”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70151",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70151/20261104de70151_E0000138933_1_s.jpg",
+      "datePublished": "2026-11-04T10:26:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
