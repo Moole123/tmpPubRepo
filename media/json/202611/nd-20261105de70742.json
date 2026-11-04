@@ -1,0 +1,84 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261105de70742",
+  "dataSourceId": "nd",
+  "name": "高市首相動静 2026年11月4日",
+  "headline": "高市首相動静 2026年11月4日",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261105de70742",
+    "playlistId": "news-nwa-politics-nationwide-20261105",
+    "newsarticleName": "高市首相動静 2026年11月4日",
+    "playlistName": "11月5日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "（高市首相動静 2026年11月4日）\n\n\n10:35 徒歩で公邸発\n10:36 官邸着\n11:04 自民党の鈴木宗男参議院議員と面会（～11:32）\n11:33 自民党の萩生田光一幹事長代行と面会（",
+  "dateModified": "2026-11-05T08:17:02+09:00",
+  "datePublished": "2026-11-05T08:17:02+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70742/20261105de70742_E0000003852_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70742/20261105de70742_E0000003852_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "E0000000526",
+      "name": "首相動静",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "（高市首相動静 2026年11月4日）\n\n\n10:35 徒歩で公邸発\n10:36 官邸着\n11:04 自民党の鈴木宗男参議院議員と面会（～11:32）\n11:33 自民党の萩生田光一幹事長代行と面会（",
+  "articleBody": "（高市首相動静 2026年11月4日）\n\n\n10:35 徒歩で公邸発\n10:36 官邸着\n11:04 自民党の鈴木宗男参議院議員と面会（～11:32）\n11:33 自民党の萩生田光一幹事長代行と面会（～11:58）\n13:56 城内実成長戦略担当大臣と面会（～14:13）\n14:47 原和也国家情報局長と面会（～15:10）\n18:14 官邸発\n18:15 公邸着\n",
+  "detailedArticleBody": {
+    "markedLead": "（高市首相動静 2026年11月4日）\n",
+    "markedBody": "10:35 徒歩で公邸発\\\n10:36 官邸着\\\n11:04 自民党の鈴木宗男参議院議員と面会（～11:32）\\\n11:33 自民党の萩生田光一幹事長代行と面会（～11:58）\\\n13:56 城内実成長戦略担当大臣と面会（～14:13）\\\n14:47 原和也国家情報局長と面会（～15:10）\\\n18:14 官邸発\\\n18:15 公邸着\n",
+    "trimmedLead": "（高市首相動静 2026年11月4日）\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261105de70742.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261105de70742",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": false,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
