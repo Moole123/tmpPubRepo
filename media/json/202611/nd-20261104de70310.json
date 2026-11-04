@@ -1,0 +1,131 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261104de70310",
+  "dataSourceId": "nd",
+  "name": "国会 原子力委員長ら2機関4人の人事案に同意",
+  "headline": "国会 原子力委員長ら2機関4人の人事案に同意",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261104de70310",
+    "playlistId": "news-nwa-politics-nationwide-20261104",
+    "newsarticleName": "国会 原子力委員長ら2機関4人の人事案に同意",
+    "playlistName": "11月4日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "原子力委員会の委員長に東京大学大学院教授の越塚誠一氏を新たに起用するなど、国会の同意が必要な2機関4人の人事案が国会で同意されました。\n\n\n4日の参議院本会議では、先に政府が示した2機関4人の人事案の",
+  "dateModified": "2026-11-04T14:38:44+09:00",
+  "datePublished": "2026-11-04T14:38:44+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70310/20261104de70310_E0000139732_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70310/20261104de70310_E0000139732_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "E0000000448",
+      "name": "国会",
+      "display": true
+    },
+    {
+      "id": "E0000000450",
+      "name": "参議院",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "原子力委員会の委員長に東京大学大学院教授の越塚誠一氏を新たに起用するなど、国会の同意が必要な2機関4人の人事案が国会で同意されました。\n\n\n4日の参議院本会議では、先に政府が示した2機関4人の人事案の",
+  "articleBody": "原子力委員会の委員長に東京大学大学院教授の越塚誠一氏を新たに起用するなど、国会の同意が必要な2機関4人の人事案が国会で同意されました。\n\n\n4日の参議院本会議では、先に政府が示した2機関4人の人事案の採決が行われ、いずれも賛成多数で同意されました。\n\nそれによりますと、原子力委員会の委員長に東京大学大学院教授の越塚誠一氏を新たに起用し、委員に元 日本原子力研究開発機構核不拡散・核セキュリティ総合支援センター長の直井洋介氏を再任するとしています。\n\nまた、公安審査委員会の委員に弁護士の島田耕一氏と、元 岐阜地方検察庁検事正で弁護士の十時希代子氏を新たに起用するとしています。\n\n人事案は先週、衆議院本会議でも同意されていて、これで国会の同意が得られたことになります。\n",
+  "detailedArticleBody": {
+    "markedLead": "原子力委員会の委員長に東京大学大学院教授の越塚誠一氏を新たに起用するなど、国会の同意が必要な2機関4人の人事案が国会で同意されました。\n",
+    "markedBody": "4日の参議院本会議では、先に政府が示した2機関4人の人事案の採決が行われ、いずれも賛成多数で同意されました。\n\nそれによりますと、原子力委員会の委員長に東京大学大学院教授の越塚誠一氏を新たに起用し、委員に元 日本原子力研究開発機構核不拡散・核セキュリティ総合支援センター長の直井洋介氏を再任するとしています。\n\nまた、公安審査委員会の委員に弁護士の島田耕一氏と、元 岐阜地方検察庁検事正で弁護士の十時希代子氏を新たに起用するとしています。\n\n人事案は先週、衆議院本会議でも同意されていて、これで国会の同意が得られたことになります。\n",
+    "trimmedLead": "原子力委員会の委員長に東京大学大学院教授の越塚誠一氏を新たに起用するなど、国会の同意が必要な2機関4人の人事案が国会で同意されました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261104de70310.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261104de70310",
+  "video": [],
+  "citation": [
+    {
+      "name": "消費税減税法案 自民“6日採決を” 民改“首相答弁聞き判断”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70249",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70249/20261104de70249_E0000139441_1_s.jpg",
+      "datePublished": "2026-11-04T12:55:32+09:00"
+    },
+    {
+      "name": "三菱UFJ 新ネット銀行ではキャッシュカード“発行しない”方針",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70251",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70251/20261104de70251_E0000139107_1_s.jpg",
+      "datePublished": "2026-11-04T13:28:00+09:00"
+    },
+    {
+      "name": "そもそも中間選挙って? 特集記事や特派員の最新報告はこちら",
+      "url": "https://news.web.nhk/newsweb/pl/editorial-nwa-0000000673",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261002de53937_E0000040535_1_s.jpg"
+    },
+    {
+      "name": "台風31号 暖湿気流入で関東や伊豆諸島 今夜遅くから大雨おそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70112",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70112/20261104de70112_E0000139699_1_s.jpg",
+      "datePublished": "2026-11-04T13:48:04+09:00"
+    },
+    {
+      "name": "暗号資産大手が報告書 偽面接やAIツールでシステムに侵入",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70104",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70104/20261104de70104_E0000138535_1_s.jpg",
+      "datePublished": "2026-11-04T08:18:48+09:00"
+    },
+    {
+      "name": "インフラや防衛分野に向け国産AIの開発進む",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de70059",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de70059/20261103de70059_E0000138508_1_s.jpg",
+      "datePublished": "2026-11-04T07:19:00+09:00"
+    },
+    {
+      "name": "クマはなぜここに その足跡を追いかけて",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de67785",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67785/20261029de67785_E0000136015_1_s.jpg",
+      "datePublished": "2026-11-02T19:18:41+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
