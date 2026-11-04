@@ -1,0 +1,141 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261105de70695",
+  "dataSourceId": "nd",
+  "name": "“サイバー攻撃で新チーム運用” 対策パッケージで政府調整",
+  "headline": "“サイバー攻撃で新チーム運用” 対策パッケージで政府調整",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261105de70695",
+    "playlistId": "news-nwa-politics-nationwide-20261105",
+    "newsarticleName": "“サイバー攻撃で新チーム運用” 対策パッケージで政府調整",
+    "playlistName": "11月5日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "不正アクセスによる情報漏えいが相次ぐ中、政府は、今週中をめどにとりまとめる緊急対策パッケージに、重大なサイバー攻撃事案に対応する新たなチームの運用を早期に開始することなどを盛り込む方向で調整しています",
+  "dateModified": "2026-11-05T06:23:49+09:00",
+  "datePublished": "2026-11-05T06:23:49+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70695/20261105de70695_E0000142663_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70695/20261105de70695_E0000142663_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000640",
+      "name": "高市内閣",
+      "display": true
+    },
+    {
+      "id": "E0000000448",
+      "name": "国会",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "不正アクセスによる情報漏えいが相次ぐ中、政府は、今週中をめどにとりまとめる緊急対策パッケージに、重大なサイバー攻撃事案に対応する新たなチームの運用を早期に開始することなどを盛り込む方向で調整しています",
+  "articleBody": "不正アクセスによる情報漏えいが相次ぐ中、政府は、今週中をめどにとりまとめる緊急対策パッケージに、重大なサイバー攻撃事案に対応する新たなチームの運用を早期に開始することなどを盛り込む方向で調整しています。\n\n\n不正アクセスによる情報漏えいが相次いでいることを受けて、先週、高市総理大臣は関係閣僚会議で、今週中をめどに緊急対策パッケージをとりまとめるよう指示しました。\n\nパッケージでは、一連の情報漏えいについて、多くの事例でソフトウエアのぜい弱性の放置など基本的な対策ができておらず、AIの進展でこうした隙が短時間で大規模に突かれていると指摘する方向で調整しています。\n\n具体的な対応では、基本的な対策の徹底として、企業に対し、本人確認のために取得した画像といった不要な個人データの消去を求めるほか、マイナンバーカードによる安全な本人確認の利活用の拡大などを打ち出す方向です。\n\nまた、サイバー攻撃への戦略的な対処として、社会や経済に重大な影響を与える事案に政府一体で対応する新たなチームの運用を今年度の早期に開始するなど、複数の組織の立ち上げを盛り込む見込みです。\n\nこのほか、公表前のぜい弱性に関する情報を早期に入手するため、海外のAI企業との協力関係の拡大なども打ち出す見通しです。\n\n政府は、6日にも関係閣僚会議を開き、パッケージを決定する方向で調整していて、改めて国家サイバー統括室が企業などに対策の徹底を呼びかけることも検討しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "不正アクセスによる情報漏えいが相次ぐ中、政府は、今週中をめどにとりまとめる緊急対策パッケージに、重大なサイバー攻撃事案に対応する新たなチームの運用を早期に開始することなどを盛り込む方向で調整しています。\n",
+    "markedBody": "不正アクセスによる情報漏えいが相次いでいることを受けて、先週、高市総理大臣は関係閣僚会議で、今週中をめどに緊急対策パッケージをとりまとめるよう指示しました。\n\nパッケージでは、一連の情報漏えいについて、多くの事例でソフトウエアのぜい弱性の放置など基本的な対策ができておらず、AIの進展でこうした隙が短時間で大規模に突かれていると指摘する方向で調整しています。\n\n具体的な対応では、基本的な対策の徹底として、企業に対し、本人確認のために取得した画像といった不要な個人データの消去を求めるほか、マイナンバーカードによる安全な本人確認の利活用の拡大などを打ち出す方向です。\n\nまた、サイバー攻撃への戦略的な対処として、社会や経済に重大な影響を与える事案に政府一体で対応する新たなチームの運用を今年度の早期に開始するなど、複数の組織の立ち上げを盛り込む見込みです。\n\nこのほか、公表前のぜい弱性に関する情報を早期に入手するため、海外のAI企業との協力関係の拡大なども打ち出す見通しです。\n\n政府は、6日にも関係閣僚会議を開き、パッケージを決定する方向で調整していて、改めて国家サイバー統括室が企業などに対策の徹底を呼びかけることも検討しています。\n",
+    "trimmedLead": "不正アクセスによる情報漏えいが相次ぐ中、政府は、今週中をめどにとりまとめる緊急対策パッケージに、重大なサイバー攻撃事案に対応する新たなチームの運用を早期に開始することなどを盛り込む方向で調整しています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261105de70695.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261105de70695",
+  "video": [],
+  "citation": [
+    {
+      "name": "良品計画 クレカ番号の全桁 約109万件が漏えいのおそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70494",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70494/20261104de70494_E0000141661_1_s.jpg",
+      "datePublished": "2026-11-04T19:14:00+09:00"
+    },
+    {
+      "name": "「アララ」への不正アクセス影響 利用企業で情報漏えい相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70170",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70170/20261104de70170_E0000138996_1_s.jpg",
+      "datePublished": "2026-11-04T21:54:51+09:00"
+    },
+    {
+      "name": "電子申請システム「LoGoフォーム」で障害　サービス停止",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70523",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70523/20261104de70523_E0000140392_1_s.jpg",
+      "datePublished": "2026-11-04T18:37:49+09:00"
+    },
+    {
+      "name": "セブン-イレブン “配達委託先から個人情報16万件余り漏えい”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70151",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70151/20261104de70151_E0000138933_1_s.jpg",
+      "datePublished": "2026-11-04T10:26:00+09:00"
+    },
+    {
+      "name": "デニーズ 旧アプリ利用者の個人情報漏えいか 不正アクセス受け",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70279",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70279/20261104de70279_E0000139663_1_s.jpg",
+      "datePublished": "2026-11-04T13:24:24+09:00"
+    },
+    {
+      "name": "サイバー攻撃で情報漏えいの可能性 10月は1億8500万件あまりに",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70482",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70482/20261104de70482_E0000003476_1_s.jpg",
+      "datePublished": "2026-11-04T18:13:17+09:00"
+    },
+    {
+      "name": "【アメリカ中間選挙2026 特集ページ】",
+      "url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000754",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261002de53937_E0000040535_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
