@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261104de70394",
+  "dataSourceId": "nd",
+  "name": "高市首相“北海道新聞記者の解放へ努力”鈴木宗男氏と会談",
+  "headline": "高市首相“北海道新聞記者の解放へ努力”鈴木宗男氏と会談",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261104de70394",
+    "playlistId": "news-nwa-politics-nationwide-20261104",
+    "newsarticleName": "高市首相“北海道新聞記者の解放へ努力”鈴木宗男氏と会談",
+    "playlistName": "11月4日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "ロシアの治安機関に北海道新聞の記者が拘束されていることをめぐり、高市総理大臣は、北海道が地元の自民党の鈴木宗男参議院議員と会談し、外交ルートなどを通じて記者の解放に向けて努力していく考えを示しました。",
+  "dateModified": "2026-11-04T18:09:02+09:00",
+  "datePublished": "2026-11-04T18:09:02+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70394/20261104de70394_E0000140024_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70394/20261104de70394_E0000140024_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治",
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "ロシアの治安機関に北海道新聞の記者が拘束されていることをめぐり、高市総理大臣は、北海道が地元の自民党の鈴木宗男参議院議員と会談し、外交ルートなどを通じて記者の解放に向けて努力していく考えを示しました。",
+  "articleBody": "ロシアの治安機関に北海道新聞の記者が拘束されていることをめぐり、高市総理大臣は、北海道が地元の自民党の鈴木宗男参議院議員と会談し、外交ルートなどを通じて記者の解放に向けて努力していく考えを示しました。\n\n\n会談は、4日午前、総理大臣官邸で、およそ30分間、行われました。\n\nこの中で高市総理大臣は、ロシアの治安機関に北海道新聞の記者が拘束されていることについて、日本政府として外交ルートなどを通じ、記者の解放に向け努力していく考えを示したということです。\n\nこのあと鈴木氏は記者団に対し「こういった事案は、一方的に言うと逆に問題をこじらせてしまうので、静かな対応をしているのが正解だ。冷静に対応し、外交ルートでしっかり要請しており、政府は最善を尽くしている」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "ロシアの治安機関に北海道新聞の記者が拘束されていることをめぐり、高市総理大臣は、北海道が地元の自民党の鈴木宗男参議院議員と会談し、外交ルートなどを通じて記者の解放に向けて努力していく考えを示しました。\n",
+    "markedBody": "会談は、4日午前、総理大臣官邸で、およそ30分間、行われました。\n\nこの中で高市総理大臣は、ロシアの治安機関に北海道新聞の記者が拘束されていることについて、日本政府として外交ルートなどを通じ、記者の解放に向け努力していく考えを示したということです。\n\nこのあと鈴木氏は記者団に対し「こういった事案は、一方的に言うと逆に問題をこじらせてしまうので、静かな対応をしているのが正解だ。冷静に対応し、外交ルートでしっかり要請しており、政府は最善を尽くしている」と述べました。\n",
+    "trimmedLead": "ロシアの治安機関に北海道新聞の記者が拘束されていることをめぐり、高市総理大臣は、北海道が地元の自民党の鈴木宗男参議院議員と会談し、外交ルートなどを通じて記者の解放に向けて努力していく考えを示しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261104de70394.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261104de70394",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

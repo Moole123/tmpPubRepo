@@ -1,0 +1,143 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261104de70494",
+  "dataSourceId": "nd",
+  "name": "良品計画 クレカ番号の全桁 約109万件が漏えいのおそれ 不正アクセス受け",
+  "headline": "良品計画 クレカ番号の全桁 約109万件が漏えいのおそれ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261104de70494",
+    "playlistId": "news-nwa-business-nationwide-20261104",
+    "newsarticleName": "良品計画 クレカ番号の全桁 約109万件が漏えいのおそれ 不正アクセス受け",
+    "playlistName": "11月4日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "「無印良品」を展開する良品計画は、不正アクセスを受けて、クレジットカード番号の全桁、およそ109万件が漏えいしたおそれがあると発表しました。\n\n\nこの中には、すでに期限切れとなっているカードも多く含ま",
+  "dateModified": "2026-11-04T18:07:59+09:00",
+  "datePublished": "2026-11-04T18:07:59+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70494/20261104de70494_E0000140022_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70494/20261104de70494_E0000140022_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000473",
+      "name": "小売業",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "「無印良品」を展開する良品計画は、不正アクセスを受けて、クレジットカード番号の全桁、およそ109万件が漏えいしたおそれがあると発表しました。\n\n\nこの中には、すでに期限切れとなっているカードも多く含ま",
+  "articleBody": "「無印良品」を展開する良品計画は、不正アクセスを受けて、クレジットカード番号の全桁、およそ109万件が漏えいしたおそれがあると発表しました。\n\n\nこの中には、すでに期限切れとなっているカードも多く含まれていて、現在も有効なカードは34万5000件としています。\n\n一方、カードの名義や有効期限、セキュリティコードは漏れていないということです。\n\n漏えいしたおそれがあるのは、「無印良品」での買い物で独自の特典が付与されるクレディセゾン発行の「MUJI Card」で、2021年7月までに入会した人の分だとしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "「無印良品」を展開する良品計画は、不正アクセスを受けて、クレジットカード番号の全桁、およそ109万件が漏えいしたおそれがあると発表しました。\n",
+    "markedBody": "この中には、すでに期限切れとなっているカードも多く含まれていて、現在も有効なカードは34万5000件としています。\n\n一方、カードの名義や有効期限、セキュリティコードは漏れていないということです。\n\n漏えいしたおそれがあるのは、「無印良品」での買い物で独自の特典が付与されるクレディセゾン発行の「MUJI Card」で、2021年7月までに入会した人の分だとしています。\n",
+    "trimmedLead": "「無印良品」を展開する良品計画は、不正アクセスを受けて、クレジットカード番号の全桁、およそ109万件が漏えいしたおそれがあると発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261104de70494.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261104de70494",
+  "video": [],
+  "citation": [
+    {
+      "name": "サイバー攻撃で情報漏えいの可能性 10月は1億8500万件あまりに",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70482",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70482/20261104de70482_E0000003476_1_s.jpg",
+      "datePublished": "2026-11-04T18:13:17+09:00"
+    },
+    {
+      "name": "消費税減税法案 自民“6日採決を” 民改“首相答弁聞き判断”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70249",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70249/20261104de70249_E0000139441_1_s.jpg",
+      "datePublished": "2026-11-04T18:25:04+09:00"
+    },
+    {
+      "name": "三菱UFJ 新ネット銀行ではキャッシュカード“発行しない”方針",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70251",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70251/20261104de70251_E0000139107_1_s.jpg",
+      "datePublished": "2026-11-04T13:28:00+09:00"
+    },
+    {
+      "name": "そもそも中間選挙って? 特集記事や特派員の最新報告はこちら",
+      "url": "https://news.web.nhk/newsweb/pl/editorial-nwa-0000000673",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261002de53937_E0000040535_1_s.jpg"
+    },
+    {
+      "name": "台風31号 関東や伊豆諸島 5日昼ごろにかけ大雨のおそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70112",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70112/20261104de70112_E0000139900_1_s.jpg",
+      "datePublished": "2026-11-04T18:10:01+09:00"
+    },
+    {
+      "name": "暗号資産大手が報告書 偽面接やAIツールでシステムに侵入",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70104",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70104/20261104de70104_E0000138535_1_s.jpg",
+      "datePublished": "2026-11-04T08:18:48+09:00"
+    },
+    {
+      "name": "インフラや防衛分野に向け国産AIの開発進む",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de70059",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de70059/20261103de70059_E0000138508_1_s.jpg",
+      "datePublished": "2026-11-04T07:19:00+09:00"
+    },
+    {
+      "name": "クマはなぜここに その足跡を追いかけて",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de67785",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67785/20261029de67785_E0000136015_1_s.jpg",
+      "datePublished": "2026-11-02T19:18:41+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
