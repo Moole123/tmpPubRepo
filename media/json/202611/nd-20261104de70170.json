@@ -1,0 +1,125 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261104de70170",
+  "dataSourceId": "nd",
+  "name": "アソビュー 会員情報1582万件余流出 「アララ」不正アクセスで",
+  "headline": "アソビュー 会員情報1582万件余流出 「アララ」不正アクセスで",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261104de70170",
+    "playlistId": "news-nwa-business-nationwide-20261104",
+    "newsarticleName": "アソビュー 会員情報1582万件余流出 「アララ」不正アクセスで",
+    "playlistName": "11月4日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "レジャー施設などの予約サービスを提供する「アソビュー」は、メール配信に利用していたサービスが不正アクセスを受けた影響で、会員の情報1582万件余りが流出したと発表しました。\n\n\n会社によりますと、流出",
+  "dateModified": "2026-11-04T11:21:53+09:00",
+  "datePublished": "2026-11-04T11:21:53+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70170/20261104de70170_E0000138996_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70170/20261104de70170_E0000138996_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "レジャー施設などの予約サービスを提供する「アソビュー」は、メール配信に利用していたサービスが不正アクセスを受けた影響で、会員の情報1582万件余りが流出したと発表しました。\n\n\n会社によりますと、流出",
+  "articleBody": "レジャー施設などの予約サービスを提供する「アソビュー」は、メール配信に利用していたサービスが不正アクセスを受けた影響で、会員の情報1582万件余りが流出したと発表しました。\n\n\n会社によりますと、流出したのはメールアドレスのほか名前や生年月日、電話番号などです。\n\nパスワードやクレジットカードの情報は流出の対象には含まれていないとしています。\n\nこの会社が利用していたのは、すでに不正アクセスを受けたことを公表している「アララ」が提供するメール配信サービスだということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "レジャー施設などの予約サービスを提供する「アソビュー」は、メール配信に利用していたサービスが不正アクセスを受けた影響で、会員の情報1582万件余りが流出したと発表しました。\n",
+    "markedBody": "会社によりますと、流出したのはメールアドレスのほか名前や生年月日、電話番号などです。\n\nパスワードやクレジットカードの情報は流出の対象には含まれていないとしています。\n\nこの会社が利用していたのは、すでに不正アクセスを受けたことを公表している「アララ」が提供するメール配信サービスだということです。\n",
+    "trimmedLead": "レジャー施設などの予約サービスを提供する「アソビュー」は、メール配信に利用していたサービスが不正アクセスを受けた影響で、会員の情報1582万件余りが流出したと発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261104de70170.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261104de70170",
+  "video": [],
+  "citation": [
+    {
+      "name": "【情報漏えい】対策どうする 二次被害に遭わないためには",
+      "url": "https://news.web.nhk/newsweb/pl/editorial-nwa-0000000697",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261018de61119_E0000086259_1_s.jpg"
+    },
+    {
+      "name": "セブン-イレブン “配達委託先から個人情報16万件余り漏えい”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70151",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70151/20261104de70151_E0000138933_1_s.jpg",
+      "datePublished": "2026-11-04T10:26:00+09:00"
+    },
+    {
+      "name": "横浜ゴム 委託先への不正アクセスでメールアドレスなど漏えい",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de70021",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de70021/20261103de70021_E0000137997_1_s.jpg",
+      "datePublished": "2026-11-03T19:15:32+09:00"
+    },
+    {
+      "name": "韓国大統領や高官の個人情報流出 イ大統領パスポート再発行へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de70007",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de70007/20261103de70007_E0000137986_1_s.jpg",
+      "datePublished": "2026-11-03T18:00:00+09:00"
+    },
+    {
+      "name": "「バイナンス」へのサイバー攻撃 AI使った新たな手口か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de69892",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69892/20261103de69892_E0000137653_1_s.jpg",
+      "datePublished": "2026-11-03T11:05:06+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
