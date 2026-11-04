@@ -1,0 +1,140 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261104de70278",
+  "dataSourceId": "nd",
+  "name": "JR宗谷線 ヒグマとの衝突事故から5日ぶり運転再開",
+  "headline": "JR宗谷線 ヒグマとの衝突事故から5日ぶり運転再開",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261104de70278",
+    "playlistId": "news-nwa-society-nationwide-20261104",
+    "newsarticleName": "JR宗谷線 ヒグマとの衝突事故から5日ぶり運転再開",
+    "playlistName": "11月4日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "特急列車がヒグマと衝突して脱線し一部区間で運行できない状態が続いていた北海道のJR宗谷線が、5日ぶりに全線で運転を再開しました。\n\n\nJR宗谷線は4日、ヒグマとの衝突事故から5日ぶりに全線で運転を再開",
+  "dateModified": "2026-11-04T13:03:48+09:00",
+  "datePublished": "2026-11-04T13:03:48+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70278/20261104de70278_E0000139568_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70278/20261104de70278_E0000139568_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000329",
+      "name": "北海道",
+      "display": true
+    },
+    {
+      "id": "E0000000481",
+      "name": "鉄道",
+      "display": true
+    },
+    {
+      "id": "E0000000651",
+      "name": "交通・インフラ",
+      "display": true
+    },
+    {
+      "id": "E0000000521",
+      "name": "クマ被害",
+      "display": true
+    },
+    {
+      "id": "E0000000208",
+      "name": "事件・事故",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "特急列車がヒグマと衝突して脱線し一部区間で運行できない状態が続いていた北海道のJR宗谷線が、5日ぶりに全線で運転を再開しました。\n\n\nJR宗谷線は4日、ヒグマとの衝突事故から5日ぶりに全線で運転を再開",
+  "articleBody": "特急列車がヒグマと衝突して脱線し一部区間で運行できない状態が続いていた北海道のJR宗谷線が、5日ぶりに全線で運転を再開しました。\n\n\nJR宗谷線は4日、ヒグマとの衝突事故から5日ぶりに全線で運転を再開し、稚内駅では午前10時29分に出発した上りの普通列車に数人の乗客が乗り込んでいました。\n\nJR宗谷線は先月30日、旭川発稚内行きの特急サロベツ3号が線路上でヒグマと衝突し、先頭車両が脱線しました。\n\n衝突したヒグマを取り除く作業に時間がかかったうえ、脱線した車両に不具合が確認されたことなどから音威子府駅と稚内駅の間で3日まで4日間にわたって運行できない状態が続きました。\n\nJR北海道によりますと、この間、特急26本を含めた列車63本が運休または部分運休し、およそ1700人に影響が出たということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "特急列車がヒグマと衝突して脱線し一部区間で運行できない状態が続いていた北海道のJR宗谷線が、5日ぶりに全線で運転を再開しました。\n",
+    "markedBody": "JR宗谷線は4日、ヒグマとの衝突事故から5日ぶりに全線で運転を再開し、稚内駅では午前10時29分に出発した上りの普通列車に数人の乗客が乗り込んでいました。\n\nJR宗谷線は先月30日、旭川発稚内行きの特急サロベツ3号が線路上でヒグマと衝突し、先頭車両が脱線しました。\n\n衝突したヒグマを取り除く作業に時間がかかったうえ、脱線した車両に不具合が確認されたことなどから音威子府駅と稚内駅の間で3日まで4日間にわたって運行できない状態が続きました。\n\nJR北海道によりますと、この間、特急26本を含めた列車63本が運休または部分運休し、およそ1700人に影響が出たということです。\n",
+    "trimmedLead": "特急列車がヒグマと衝突して脱線し一部区間で運行できない状態が続いていた北海道のJR宗谷線が、5日ぶりに全線で運転を再開しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261104de70278.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261104de70278",
+  "video": [],
+  "citation": [
+    {
+      "name": "クマはなぜここに その足跡を追いかけて",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de67785",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67785/20261029de67785_E0000136015_1_s.jpg",
+      "datePublished": "2026-11-02T19:18:41+09:00"
+    },
+    {
+      "name": "脚本家の倉本聰さん 「北の国から」富良野でお別れの会 北海道",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de69916",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69916/20261103de69916_E0000137687_1_s.jpg",
+      "datePublished": "2026-11-03T12:13:00+09:00"
+    },
+    {
+      "name": "ノースサファリサッポロ 建物撤去完了できず 札幌市が立入検査",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261102de69564",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69564/20261102de69564_E0000134587_1_s.jpg",
+      "datePublished": "2026-11-02T15:58:00+09:00"
+    },
+    {
+      "name": "そもそも中間選挙って? 特集記事や特派員の最新報告はこちら",
+      "url": "https://news.web.nhk/newsweb/pl/editorial-nwa-0000000673",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261002de53937_E0000040535_1_s.jpg"
+    },
+    {
+      "name": "暗号資産大手が報告書 偽面接やAIツールでシステムに侵入",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70104",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70104/20261104de70104_E0000138535_1_s.jpg",
+      "datePublished": "2026-11-04T08:18:48+09:00"
+    },
+    {
+      "name": "消費税減税法案 採決時期などめぐり与野党の調整本格化へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de70058",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de70058/20261103de70058_E0000138498_1_s.jpg",
+      "datePublished": "2026-11-04T05:37:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

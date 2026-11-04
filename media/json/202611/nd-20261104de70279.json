@@ -1,0 +1,149 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261104de70279",
+  "dataSourceId": "nd",
+  "name": "デニーズ 旧アプリ利用者の個人情報漏えいか 不正アクセス受け",
+  "headline": "デニーズ 旧アプリ利用者の個人情報漏えいか 不正アクセス受け",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261104de70279",
+    "playlistId": "news-nwa-business-nationwide-20261104",
+    "newsarticleName": "デニーズ 旧アプリ利用者の個人情報漏えいか 不正アクセス受け",
+    "playlistName": "11月4日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "レストランチェーン「デニーズ」の運営会社は、アプリの運営システムが不正アクセスを受け、過去に提供していたアプリの利用者の個人情報の一部が漏えいした可能性があると発表しました。\n\n\n会社によりますと、漏",
+  "dateModified": "2026-11-04T13:24:24+09:00",
+  "datePublished": "2026-11-04T13:24:24+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70279/20261104de70279_E0000139663_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70279/20261104de70279_E0000139663_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "レストランチェーン「デニーズ」の運営会社は、アプリの運営システムが不正アクセスを受け、過去に提供していたアプリの利用者の個人情報の一部が漏えいした可能性があると発表しました。\n\n\n会社によりますと、漏",
+  "articleBody": "レストランチェーン「デニーズ」の運営会社は、アプリの運営システムが不正アクセスを受け、過去に提供していたアプリの利用者の個人情報の一部が漏えいした可能性があると発表しました。\n\n\n会社によりますと、漏えいの可能性があるのは、過去に提供していたアプリの利用者のメールアドレスや生年月日、居住する都道府県などの情報です。\n\n名前や住所、パスワード、クレジットカード情報などは保持していないため、含まれていないということです。\n\n会社は、漏えいした情報の内容や対象となる人数について調査中だとしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "レストランチェーン「デニーズ」の運営会社は、アプリの運営システムが不正アクセスを受け、過去に提供していたアプリの利用者の個人情報の一部が漏えいした可能性があると発表しました。\n",
+    "markedBody": "![](https://img.web.nhk/news/nd/kiji/20261104de70279/20261104de70279_E0000139530_1_l.jpg)\n\n会社によりますと、漏えいの可能性があるのは、過去に提供していたアプリの利用者のメールアドレスや生年月日、居住する都道府県などの情報です。\n\n名前や住所、パスワード、クレジットカード情報などは保持していないため、含まれていないということです。\n\n会社は、漏えいした情報の内容や対象となる人数について調査中だとしています。\n",
+    "trimmedLead": "レストランチェーン「デニーズ」の運営会社は、アプリの運営システムが不正アクセスを受け、過去に提供していたアプリの利用者の個人情報の一部が漏えいした可能性があると発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261104de70279.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261104de70279",
+  "video": [],
+  "citation": [
+    {
+      "name": "そもそも中間選挙って? 特集記事や特派員の最新報告はこちら",
+      "url": "https://news.web.nhk/newsweb/pl/editorial-nwa-0000000673",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261002de53937_E0000040535_1_s.jpg"
+    },
+    {
+      "name": "台風31号 暖湿気流入で関東や伊豆諸島 今夜遅くから大雨おそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70112",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70112/20261104de70112_E0000139001_1_s.jpg",
+      "datePublished": "2026-11-04T11:57:48+09:00"
+    },
+    {
+      "name": "暗号資産大手が報告書 偽面接やAIツールでシステムに侵入",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70104",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70104/20261104de70104_E0000138535_1_s.jpg",
+      "datePublished": "2026-11-04T08:18:48+09:00"
+    },
+    {
+      "name": "消費税減税法案 採決時期などめぐり与野党の調整本格化へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de70058",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de70058/20261103de70058_E0000138498_1_s.jpg",
+      "datePublished": "2026-11-04T05:37:00+09:00"
+    },
+    {
+      "name": "インフラや防衛分野に向け国産AIの開発進む",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de70059",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de70059/20261103de70059_E0000138508_1_s.jpg",
+      "datePublished": "2026-11-04T07:19:00+09:00"
+    },
+    {
+      "name": "スペインの運輸相 辞任の意向を表明 列車事故を受けて",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70111",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70111/20261104de70111_E0000138570_1_s.jpg",
+      "datePublished": "2026-11-04T06:50:00+09:00"
+    },
+    {
+      "name": "スペイン列車事故 AI導入し異常検知など再発防止策",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70092",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70092/20261104de70092_E0000138531_1_s.jpg",
+      "datePublished": "2026-11-04T11:54:35+09:00"
+    },
+    {
+      "name": "サッカースペイン2部の試合で選手どうしが激突 1人死亡",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de70067",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de70067/20261103de70067_E0000004053_1_s.jpg",
+      "datePublished": "2026-11-03T23:15:28+09:00"
+    },
+    {
+      "name": "クマはなぜここに その足跡を追いかけて",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de67785",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67785/20261029de67785_E0000136015_1_s.jpg",
+      "datePublished": "2026-11-02T19:18:41+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

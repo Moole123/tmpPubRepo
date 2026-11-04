@@ -1,0 +1,149 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261104de70242",
+  "dataSourceId": "nd",
+  "name": "消費税減税法案 参議院は特別委を設置 委員長に自民 松村氏",
+  "headline": "消費税減税法案 参議院は特別委を設置 委員長に自民 松村氏",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261104de70242",
+    "playlistId": "news-nwa-politics-nationwide-20261104",
+    "newsarticleName": "消費税減税法案 参議院は特別委を設置 委員長に自民 松村氏",
+    "playlistName": "11月4日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "食料品の消費税減税関連法案をめぐり、参議院では4日の本会議で新たな特別委員会を設置して審議を行うことが決まり、その後開かれた委員会で自民党の松村元国家公安委員長が委員長に選ばれました。\n\n\n衆議院で食",
+  "dateModified": "2026-11-04T12:40:42+09:00",
+  "datePublished": "2026-11-04T12:40:42+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70242/20261104de70242_E0000139159_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70242/20261104de70242_E0000139159_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "E0000000450",
+      "name": "参議院",
+      "display": true
+    },
+    {
+      "id": "E0000000168",
+      "name": "消費税",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "食料品の消費税減税関連法案をめぐり、参議院では4日の本会議で新たな特別委員会を設置して審議を行うことが決まり、その後開かれた委員会で自民党の松村元国家公安委員長が委員長に選ばれました。\n\n\n衆議院で食",
+  "articleBody": "食料品の消費税減税関連法案をめぐり、参議院では4日の本会議で新たな特別委員会を設置して審議を行うことが決まり、その後開かれた委員会で自民党の松村元国家公安委員長が委員長に選ばれました。\n\n\n衆議院で食料品の消費税減税関連法案の審議が続く中、参議院では、法案が送られてきた場合、特別委員会を設置して審議を行うことで与野党が合意しています。\n\nこうした中、4日の参議院本会議では、新たに40人の委員からなる「消費税・支援金法案に関する特別委員会」を設置することが賛成多数で決まりました。\n\n続いて初めての特別委員会が開かれ、委員長に自民党の松村祥史・元国家公安委員長が選ばれました。\n",
+  "detailedArticleBody": {
+    "markedLead": "食料品の消費税減税関連法案をめぐり、参議院では4日の本会議で新たな特別委員会を設置して審議を行うことが決まり、その後開かれた委員会で自民党の松村元国家公安委員長が委員長に選ばれました。\n",
+    "markedBody": "衆議院で食料品の消費税減税関連法案の審議が続く中、参議院では、法案が送られてきた場合、特別委員会を設置して審議を行うことで与野党が合意しています。\n\nこうした中、4日の参議院本会議では、新たに40人の委員からなる「消費税・支援金法案に関する特別委員会」を設置することが賛成多数で決まりました。\n\n続いて初めての特別委員会が開かれ、委員長に自民党の松村祥史・元国家公安委員長が選ばれました。\n",
+    "trimmedLead": "食料品の消費税減税関連法案をめぐり、参議院では4日の本会議で新たな特別委員会を設置して審議を行うことが決まり、その後開かれた委員会で自民党の松村元国家公安委員長が委員長に選ばれました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261104de70242.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261104de70242",
+  "video": [],
+  "citation": [
+    {
+      "name": "衆院財務金融委 消費税減税法案 与党は6日採決提案も協議継続",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70162",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70162/20261104de70162_E0000138952_1_s.jpg",
+      "datePublished": "2026-11-04T12:17:08+09:00"
+    },
+    {
+      "name": "そもそも中間選挙って? 特集記事や特派員の最新報告はこちら",
+      "url": "https://news.web.nhk/newsweb/pl/editorial-nwa-0000000673",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261002de53937_E0000040535_1_s.jpg"
+    },
+    {
+      "name": "台風31号 暖湿気流入で関東や伊豆諸島 今夜遅くから大雨おそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70112",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70112/20261104de70112_E0000139001_1_s.jpg",
+      "datePublished": "2026-11-04T11:57:48+09:00"
+    },
+    {
+      "name": "暗号資産大手が報告書 偽面接やAIツールでシステムに侵入",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70104",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70104/20261104de70104_E0000138535_1_s.jpg",
+      "datePublished": "2026-11-04T08:18:48+09:00"
+    },
+    {
+      "name": "消費税減税法案 採決時期などめぐり与野党の調整本格化へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de70058",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de70058/20261103de70058_E0000138498_1_s.jpg",
+      "datePublished": "2026-11-04T05:37:00+09:00"
+    },
+    {
+      "name": "インフラや防衛分野に向け国産AIの開発進む",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de70059",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de70059/20261103de70059_E0000138508_1_s.jpg",
+      "datePublished": "2026-11-04T07:19:00+09:00"
+    },
+    {
+      "name": "スペインの運輸相 辞任の意向を表明 列車事故を受けて",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70111",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70111/20261104de70111_E0000138570_1_s.jpg",
+      "datePublished": "2026-11-04T06:50:00+09:00"
+    },
+    {
+      "name": "スペイン列車事故 AI導入し異常検知など再発防止策",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70092",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70092/20261104de70092_E0000138531_1_s.jpg",
+      "datePublished": "2026-11-04T11:54:35+09:00"
+    },
+    {
+      "name": "サッカースペイン2部の試合で選手どうしが激突 1人死亡",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de70067",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de70067/20261103de70067_E0000004053_1_s.jpg",
+      "datePublished": "2026-11-03T23:15:28+09:00"
+    },
+    {
+      "name": "クマはなぜここに その足跡を追いかけて",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de67785",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67785/20261029de67785_E0000136015_1_s.jpg",
+      "datePublished": "2026-11-02T19:18:41+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
