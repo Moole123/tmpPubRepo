@@ -1,0 +1,125 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261104de70670",
+  "dataSourceId": "nd",
+  "name": "千葉 南房総市に「レベル4土砂災害危険警報」",
+  "headline": "千葉 南房総市に「レベル4土砂災害危険警報」",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261104de70670",
+    "playlistId": "news-nwa-disaster-nationwide-20261105",
+    "newsarticleName": "千葉 南房総市に「レベル4土砂災害危険警報」",
+    "playlistName": "11月5日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "気象庁は4日午後11時44分、千葉県南房総市にレベル4土砂災害危険警報を発表しました。\n\n土砂災害の危険性が非常に高くなっているため、厳重な警戒が必要です。\n\n気象庁は自治体からの避難の情報を確認し、",
+  "dateModified": "2026-11-05T00:01:54+09:00",
+  "datePublished": "2026-11-05T00:01:54+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70670/20261104de70670_E0000003985_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70670/20261104de70670_E0000003985_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000340",
+      "name": "千葉県",
+      "display": true
+    },
+    {
+      "id": "E0000000114",
+      "name": "気象",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "気象庁は4日午後11時44分、千葉県南房総市にレベル4土砂災害危険警報を発表しました。\n\n土砂災害の危険性が非常に高くなっているため、厳重な警戒が必要です。\n\n気象庁は自治体からの避難の情報を確認し、",
+  "articleBody": "気象庁は4日午後11時44分、千葉県南房総市にレベル4土砂災害危険警報を発表しました。\n\n土砂災害の危険性が非常に高くなっているため、厳重な警戒が必要です。\n\n気象庁は自治体からの避難の情報を確認し、崖の近くなど危険な場所にいる人は速やかに安全な場所に避難するよう呼びかけています。\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "気象庁は4日午後11時44分、千葉県南房総市にレベル4土砂災害危険警報を発表しました。\n\n土砂災害の危険性が非常に高くなっているため、厳重な警戒が必要です。\n\n気象庁は自治体からの避難の情報を確認し、崖の近くなど危険な場所にいる人は速やかに安全な場所に避難するよう呼びかけています。\n",
+    "markedBody": "",
+    "trimmedLead": "気象庁は4日午後11時44分、千葉県南房総市にレベル4土砂災害危険警報を発表しました。\n\n土砂災害の危険性が非常に高くなっているため、厳重な警戒が必要です。\n\n気象庁は自治体からの避難の情報を確認し、崖の近くなど危険な場所にいる人は速やかに安全な場所に避難するよう呼びかけています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261104de70670.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261104de70670",
+  "video": [],
+  "citation": [
+    {
+      "name": "土砂災害 警戒や避難のポイントは？",
+      "url": "https://news.web.nhk/newsweb/na/nc-d921faff-fdcd-4223-b396-f948340c5c1c",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00016_E0000001588_1_s.jpg"
+    },
+    {
+      "name": "【気象警報・注意報】各地の発表状況を詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/warning/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00266_E0000003278_1_s.jpg"
+    },
+    {
+      "name": "【最新の避難情報】こちらから地域別でご覧になれます",
+      "url": "https://news.web.nhk/kishou-saigai/evacuation/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00211_E0000003212_1_s.jpg"
+    },
+    {
+      "name": "【最新の河川情報】こちらから一覧でご覧になれます",
+      "url": "https://news.web.nhk/kishou-saigai/river/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00212_E0000003213_1_s.jpg"
+    },
+    {
+      "name": "川の氾濫 警戒のポイントは？",
+      "url": "https://news.web.nhk/newsweb/na/nc-1c290155-b464-4391-95b8-2f9687fa1f25",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00015_E0000001586_1_s.jpg"
+    },
+    {
+      "name": "災害に遭う前に ハザードマップで危険を知る",
+      "url": "https://news.web.nhk/newsweb/na/nc-0c2dd9e1-562b-4711-a450-663274ad5d6c",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00014_E0000001585_1_s.jpg"
+    },
+    {
+      "name": "天気防災サイト あなたの街の天気予報や災害情報を即時提供",
+      "url": "https://news.web.nhk/kishou-saigai/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00367_E0000003399_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
