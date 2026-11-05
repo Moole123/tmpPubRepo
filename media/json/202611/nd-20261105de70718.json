@@ -1,0 +1,136 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261105de70718",
+  "dataSourceId": "nd",
+  "name": "フランスの銀行にサイバー攻撃 資金流出の可能性",
+  "headline": "フランスの銀行にサイバー攻撃 資金流出の可能性",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261105de70718",
+    "playlistId": "news-nwa-international-nationwide-20261105",
+    "newsarticleName": "フランスの銀行にサイバー攻撃 資金流出の可能性",
+    "playlistName": "11月5日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "フランスの銀行がサイバー攻撃を受け、地元メディアは日本円で200億円以上が不正に送金された可能性があると伝えました。フランスでは、11月に入って血液製剤を供給する公的機関でも保管設備でトラブルが起きる",
+  "dateModified": "2026-11-05T10:15:08+09:00",
+  "datePublished": "2026-11-05T10:15:08+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70718/20261105de70718_E0000142998_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70718/20261105de70718_E0000142998_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000293",
+      "name": "フランス",
+      "display": true
+    },
+    {
+      "id": "E0000000477",
+      "name": "金融",
+      "display": true
+    },
+    {
+      "id": "E0000000148",
+      "name": "医療・健康",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "フランスの銀行がサイバー攻撃を受け、地元メディアは日本円で200億円以上が不正に送金された可能性があると伝えました。フランスでは、11月に入って血液製剤を供給する公的機関でも保管設備でトラブルが起きる",
+  "articleBody": "フランスの銀行がサイバー攻撃を受け、地元メディアは日本円で200億円以上が不正に送金された可能性があると伝えました。フランスでは、11月に入って血液製剤を供給する公的機関でも保管設備でトラブルが起きるなど、サイバー攻撃が相次いでいます。\n\n\nフランス北西部にある銀行「クレディ・ミュチュエル・アルケア」は、不正な取り引きを可能にするサイバー攻撃を受け、安全確保のため一部の取り引きを一時的に停止したと、4日、発表しました。\n\n発表では「この事案はすでに解決し、顧客の資産には影響がない。影響額は確認中だが、グループの財務の健全性などを脅かすようなものではない」としています。\n\n一方、この攻撃の被害について、地元メディアは暗号資産の専門家の推計として、1億3300万ドル、日本円で210億円余りが外部の暗号資産の口座に不正に送金された可能性があると伝えています。\n\nまた、フランスで血液製剤を供給する公的機関によりますと、11月2日、サイバー攻撃を受け、3か所の拠点の低温保管設備で設定温度が大幅に引き上げられたということです。監視システムで異常を検知し、すぐに血液製剤をほかの場所に移したため、被害はなかったとしています。\n\nヨーロッパでは10月から11月にかけてスーパーの冷蔵庫や冷凍庫の設定温度が引き上げられるサイバー攻撃が相次ぎ、各国で被害が報告されています。\n",
+  "detailedArticleBody": {
+    "markedLead": "フランスの銀行がサイバー攻撃を受け、地元メディアは日本円で200億円以上が不正に送金された可能性があると伝えました。フランスでは、11月に入って血液製剤を供給する公的機関でも保管設備でトラブルが起きるなど、サイバー攻撃が相次いでいます。\n",
+    "markedBody": "フランス北西部にある銀行「クレディ・ミュチュエル・アルケア」は、不正な取り引きを可能にするサイバー攻撃を受け、安全確保のため一部の取り引きを一時的に停止したと、4日、発表しました。\n\n発表では「この事案はすでに解決し、顧客の資産には影響がない。影響額は確認中だが、グループの財務の健全性などを脅かすようなものではない」としています。\n\n一方、この攻撃の被害について、地元メディアは暗号資産の専門家の推計として、1億3300万ドル、日本円で210億円余りが外部の暗号資産の口座に不正に送金された可能性があると伝えています。\n\n![](https://img.web.nhk/news/nd/kiji/20261105de70718/20261105de70718_E0000142910_1_l.jpg)\n\nまた、フランスで血液製剤を供給する公的機関によりますと、11月2日、サイバー攻撃を受け、3か所の拠点の低温保管設備で設定温度が大幅に引き上げられたということです。監視システムで異常を検知し、すぐに血液製剤をほかの場所に移したため、被害はなかったとしています。\n\nヨーロッパでは10月から11月にかけてスーパーの冷蔵庫や冷凍庫の設定温度が引き上げられるサイバー攻撃が相次ぎ、各国で被害が報告されています。\n",
+    "trimmedLead": "フランスの銀行がサイバー攻撃を受け、地元メディアは日本円で200億円以上が不正に送金された可能性があると伝えました。フランスでは、11月に入って血液製剤を供給する公的機関でも保管設備でトラブルが起きるなど、サイバー攻撃が相次いでいます。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261105de70718.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261105de70718",
+  "video": [],
+  "citation": [
+    {
+      "name": "【アメリカ中間選挙2026 特集ページ】",
+      "url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000754",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261002de53937_E0000040535_1_s.jpg"
+    },
+    {
+      "name": "アメリカ中間選挙 民主党大勝 “トランプ氏に拒絶反応”米報道",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de69965",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69965/20261103de69965_E0000141859_1_s.jpg",
+      "datePublished": "2026-11-05T10:09:07+09:00"
+    },
+    {
+      "name": "トランプ大統領 敗北理由はイラン “でもまた同じ決断する”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de70714",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70714/20261105de70714_E0000142669_1_s.jpg",
+      "datePublished": "2026-11-05T05:57:47+09:00"
+    },
+    {
+      "name": "NYダウ平均株価 終値は1569ドル上昇 米政治混乱回避で買い注文",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70666",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70666/20261104de70666_E0000142706_1_s.jpg",
+      "datePublished": "2026-11-05T08:34:11+09:00"
+    },
+    {
+      "name": "イランで大規模反米デモ 最高指導者「敵対姿勢は変わらない」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70610",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70610/20261104de70610_E0000141866_1_s.jpg",
+      "datePublished": "2026-11-04T22:21:26+09:00"
+    },
+    {
+      "name": "ウクライナ人道停戦 メラニア夫人の“仲介外交”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70260",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70260/20261104de70260_E0000139111_1_s.jpg",
+      "datePublished": "2026-11-04T12:54:25+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
