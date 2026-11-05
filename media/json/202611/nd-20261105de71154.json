@@ -1,0 +1,138 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261105de71154",
+  "dataSourceId": "nd",
+  "name": "宝くじサイト 利用者パスワード意図せず変更される 一時停止に",
+  "headline": "宝くじサイト 利用者パスワード意図せず変更される 一時停止に",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261105de71154",
+    "playlistId": "news-nwa-business-nationwide-20261105",
+    "newsarticleName": "宝くじサイト 利用者パスワード意図せず変更される 一時停止に",
+    "playlistName": "11月5日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "宝くじの公式サイトで利用者のパスワードが意図せず変更される事象が確認されたということで、5日午前からホームページの利用を一時的に停止する措置がとられています。\n\n\n公式サイトでは、宝くじの購入や当選結",
+  "dateModified": "2026-11-05T18:09:38+09:00",
+  "datePublished": "2026-11-05T18:02:37+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71154/20261105de71154_E0000144077_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71154/20261105de71154_E0000144077_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "宝くじの公式サイトで利用者のパスワードが意図せず変更される事象が確認されたということで、5日午前からホームページの利用を一時的に停止する措置がとられています。\n\n\n公式サイトでは、宝くじの購入や当選結",
+  "articleBody": "宝くじの公式サイトで利用者のパスワードが意図せず変更される事象が確認されたということで、5日午前からホームページの利用を一時的に停止する措置がとられています。\n\n\n公式サイトでは、宝くじの購入や当選結果の確認などができるということですが、今のところ復旧のめどは立っていないということです。\n\n一方、店頭では宝くじの購入が可能だということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "宝くじの公式サイトで利用者のパスワードが意図せず変更される事象が確認されたということで、5日午前からホームページの利用を一時的に停止する措置がとられています。\n",
+    "markedBody": "公式サイトでは、宝くじの購入や当選結果の確認などができるということですが、今のところ復旧のめどは立っていないということです。\n\n一方、店頭では宝くじの購入が可能だということです。\n",
+    "trimmedLead": "宝くじの公式サイトで利用者のパスワードが意図せず変更される事象が確認されたということで、5日午前からホームページの利用を一時的に停止する措置がとられています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261105de71154.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261105de71154",
+  "video": [],
+  "citation": [
+    {
+      "name": "【情報漏えい】対策どうする 二次被害に遭わないためには",
+      "url": "https://news.web.nhk/newsweb/pl/editorial-nwa-0000000697",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261018de61119_E0000086259_1_s.jpg"
+    },
+    {
+      "name": "国税庁「e-Tax」不審な通信検知でメンテナンスも再開",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de70796",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70796/20261105de70796_E0000143139_1_s.jpg",
+      "datePublished": "2026-11-05T16:05:35+09:00"
+    },
+    {
+      "name": "ドコモに不正アクセスの可能性 オンラインサービス停止",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de70776",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70776/20261105de70776_E0000003646_1_s.jpg",
+      "datePublished": "2026-11-05T10:54:00+09:00"
+    },
+    {
+      "name": "ドコモ 通話やデータ通信しにくい状況 不正アクセス確認されず",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de70883",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70883/20261105de70883_E0000143717_1_s.jpg",
+      "datePublished": "2026-11-05T16:40:25+09:00"
+    },
+    {
+      "name": "2026年の新語・流行語大賞の候補 30のことばは？【全掲載】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de70801",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70801/20261105de70801_E0000143749_1_s.jpg",
+      "datePublished": "2026-11-05T17:03:55+09:00"
+    },
+    {
+      "name": "消費税減税法案 与党“あす衆院通過” 野党“首相答弁で判断”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de70693",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70693/20261105de70693_E0000142662_1_s.jpg",
+      "datePublished": "2026-11-05T16:09:00+09:00"
+    },
+    {
+      "name": "三井住友G保証会社 個人情報最大32万人分漏えい 住所や年収も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de71024",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71024/20261105de71024_E0000143971_1_s.jpg",
+      "datePublished": "2026-11-05T17:00:00+09:00"
+    },
+    {
+      "name": "【アメリカ中間選挙2026 特集ページ】",
+      "url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000754",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261002de53937_E0000040535_1_s.jpg"
+    },
+    {
+      "name": "「書道」無形文化遺産に登録へ ユネスコ評価機関「記載」勧告",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de70701",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70701/20261105de70701_E0000142664_1_s.jpg",
+      "datePublished": "2026-11-05T16:14:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

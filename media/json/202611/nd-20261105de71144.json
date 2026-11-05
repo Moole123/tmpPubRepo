@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261105de71144",
+  "dataSourceId": "nd",
+  "name": "ウクライナメディアにサイバー攻撃　ロシアによる工作か",
+  "headline": "ウクライナメディアにサイバー攻撃　ロシアによる工作か",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261105de71144",
+    "playlistId": "news-nwa-international-nationwide-20261105",
+    "newsarticleName": "ウクライナメディアにサイバー攻撃　ロシアによる工作か",
+    "playlistName": "11月5日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "ウクライナのメディア「キーウ・インディペンデント」はサイバー攻撃によって、ロシア語や英語で虚偽の内容を含むメールが読者に送られるなどの被害を受けたと発表しました。\n\n\n「キーウ・インディペンデント」に",
+  "dateModified": "2026-11-05T18:18:19+09:00",
+  "datePublished": "2026-11-05T18:18:19+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71144/20261105de71144_E0000144068_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71144/20261105de71144_E0000144068_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "ウクライナのメディア「キーウ・インディペンデント」はサイバー攻撃によって、ロシア語や英語で虚偽の内容を含むメールが読者に送られるなどの被害を受けたと発表しました。\n\n\n「キーウ・インディペンデント」に",
+  "articleBody": "ウクライナのメディア「キーウ・インディペンデント」はサイバー攻撃によって、ロシア語や英語で虚偽の内容を含むメールが読者に送られるなどの被害を受けたと発表しました。\n\n\n「キーウ・インディペンデント」によりますと、4日、サイバー攻撃によってウェブサイトが一時的に利用できなくなったほか、一部の読者に対し、ロシア語や英語で虚偽の内容を含むメールが送信されたということです。\n\nメールは合わせて4通送られ、「ゼレンスキー大統領が、プーチン大統領との会談のあと友情の証しとしてキーウに向けて核弾頭を発射した」などと記されていて、このメディアは、メールの内容などからロシアによる工作の可能性が高いとしています。\n\nまた、「私たちが日々伝えている戦争の一部であり、混乱を招き、信頼を損なおうとする試みだ」とコメントしています。\n\n読者の銀行口座の情報などは流出していないということです。\n\nウクライナでは、11月1日に空襲警報を通知するアプリに虚偽の通知が配信されるサイバー攻撃があり、ロシアによる侵攻が続くなか、社会の混乱を狙ったものだとみられています。\n",
+  "detailedArticleBody": {
+    "markedLead": "ウクライナのメディア「キーウ・インディペンデント」はサイバー攻撃によって、ロシア語や英語で虚偽の内容を含むメールが読者に送られるなどの被害を受けたと発表しました。\n",
+    "markedBody": "「キーウ・インディペンデント」によりますと、4日、サイバー攻撃によってウェブサイトが一時的に利用できなくなったほか、一部の読者に対し、ロシア語や英語で虚偽の内容を含むメールが送信されたということです。\n\nメールは合わせて4通送られ、「ゼレンスキー大統領が、プーチン大統領との会談のあと友情の証しとしてキーウに向けて核弾頭を発射した」などと記されていて、このメディアは、メールの内容などからロシアによる工作の可能性が高いとしています。\n\nまた、「私たちが日々伝えている戦争の一部であり、混乱を招き、信頼を損なおうとする試みだ」とコメントしています。\n\n読者の銀行口座の情報などは流出していないということです。\n\nウクライナでは、11月1日に空襲警報を通知するアプリに虚偽の通知が配信されるサイバー攻撃があり、ロシアによる侵攻が続くなか、社会の混乱を狙ったものだとみられています。\n",
+    "trimmedLead": "ウクライナのメディア「キーウ・インディペンデント」はサイバー攻撃によって、ロシア語や英語で虚偽の内容を含むメールが読者に送られるなどの被害を受けたと発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261105de71144.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261105de71144",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
