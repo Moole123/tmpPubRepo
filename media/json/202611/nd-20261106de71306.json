@@ -1,0 +1,154 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261106de71306",
+  "dataSourceId": "nd",
+  "name": "ナスダック5％超下落 AI・データセンター規制強化を懸念",
+  "headline": "ナスダック5％超下落 AI・データセンター規制強化を懸念",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261106de71306",
+    "playlistId": "news-nwa-international-nationwide-20261106",
+    "newsarticleName": "ナスダック5％超下落 AI・データセンター規制強化を懸念",
+    "playlistName": "11月6日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "5日のニューヨーク株式市場では半導体などの銘柄に売り注文が広がって、ハイテク株の比率が高いナスダックの株価指数は5％を超える大幅な下落となりました。背景には、アメリカの中間選挙で民主党が大勝し、AIや",
+  "dateModified": "2026-11-06T06:47:50+09:00",
+  "datePublished": "2026-11-06T01:37:36+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71306/20261106de71306_E0000146663_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71306/20261106de71306_E0000146663_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000157",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000419",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "E0000000754",
+      "name": "アメリカ中間選挙2026",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "5日のニューヨーク株式市場では半導体などの銘柄に売り注文が広がって、ハイテク株の比率が高いナスダックの株価指数は5％を超える大幅な下落となりました。背景には、アメリカの中間選挙で民主党が大勝し、AIや",
+  "articleBody": "5日のニューヨーク株式市場では半導体などの銘柄に売り注文が広がって、ハイテク株の比率が高いナスダックの株価指数は5％を超える大幅な下落となりました。背景には、アメリカの中間選挙で民主党が大勝し、AIやデータセンターの規制が強化されるのではないかとの懸念があり、アメリカのメディアはきょう1日でおよそ400兆円の時価総額が消失したと伝えています。\n\n\n5日のニューヨーク株式市場では半導体やAI関連の銘柄を中心に売り注文が広がる展開となり、ナスダックの株価指数は一時、前日と比べて5.7％を超える大幅な下落となりました。\n\n最終的にナスダックの株価指数は5.5％の下落で取り引きを終え、節目となる2万5000を割り込みました。\n\nこれは、ことし4月以来、およそ7か月ぶりの安値水準です。\n\n有力紙、「ウォール・ストリート・ジャーナル」は、ハイテク株の急落によってナスダックの株価指数を構成する銘柄では2.5兆ドル、日本円にしておよそ400兆円の時価総額が消失したと伝え、1日あたりとしては最大の減少額になったとしています。\n\nまた、ダウ平均株価も大きく下落し、終値は前日と比べて1833ドル6セント安い、5万1523ドル6セントでした。\n\nニューヨーク株式市場では、4日、株価が大きく上昇していましたが、5日は一転して急落する展開となりました。\n\n背景には、アメリカの中間選挙で民主党が上下両院に加えて南部テキサス州など各地の州知事選挙でも大勝したことで、AIやデータセンターに対する規制が強化され、半導体の需要などに悪影響が広がるのではないかとの懸念があります。\n\n投資家は規制の動向に神経をとがらせています。\n",
+  "detailedArticleBody": {
+    "markedLead": "5日のニューヨーク株式市場では半導体などの銘柄に売り注文が広がって、ハイテク株の比率が高いナスダックの株価指数は5％を超える大幅な下落となりました。背景には、アメリカの中間選挙で民主党が大勝し、AIやデータセンターの規制が強化されるのではないかとの懸念があり、アメリカのメディアはきょう1日でおよそ400兆円の時価総額が消失したと伝えています。\n",
+    "markedBody": "5日のニューヨーク株式市場では半導体やAI関連の銘柄を中心に売り注文が広がる展開となり、ナスダックの株価指数は一時、前日と比べて5.7％を超える大幅な下落となりました。\n\n最終的にナスダックの株価指数は5.5％の下落で取り引きを終え、節目となる2万5000を割り込みました。\n\nこれは、ことし4月以来、およそ7か月ぶりの安値水準です。\n\n有力紙、「ウォール・ストリート・ジャーナル」は、ハイテク株の急落によってナスダックの株価指数を構成する銘柄では2.5兆ドル、日本円にしておよそ400兆円の時価総額が消失したと伝え、1日あたりとしては最大の減少額になったとしています。\n\nまた、ダウ平均株価も大きく下落し、終値は前日と比べて1833ドル6セント安い、5万1523ドル6セントでした。\n\nニューヨーク株式市場では、4日、株価が大きく上昇していましたが、5日は一転して急落する展開となりました。\n\n背景には、アメリカの中間選挙で民主党が上下両院に加えて南部テキサス州など各地の州知事選挙でも大勝したことで、AIやデータセンターに対する規制が強化され、半導体の需要などに悪影響が広がるのではないかとの懸念があります。\n\n投資家は規制の動向に神経をとがらせています。\n",
+    "trimmedLead": "5日のニューヨーク株式市場では半導体などの銘柄に売り注文が広がって、ハイテク株の比率が高いナスダックの株価指数は5％を超える大幅な下落となりました。背景には、アメリカの中間選挙で民主党が大勝し、AIやデータセンターの規制が強化されるのではないかとの懸念があり、アメリカのメディアはきょう1日でおよそ400兆円の時価総額が消失したと伝えています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261106de71306.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261106de71306",
+  "video": [],
+  "citation": [
+    {
+      "name": "【アメリカ中間選挙2026 特集ページ】",
+      "url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000754",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261002de53937_E0000040535_1_s.jpg"
+    },
+    {
+      "name": "アメリカでデータセンター巡り住民投票“建設規制”圧倒支持",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de70992",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70992/20261105de70992_E0000143943_1_s.jpg",
+      "datePublished": "2026-11-05T16:46:00+09:00"
+    },
+    {
+      "name": "タイで初めてのAIエキスポ始まる",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de71224",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71224/20261105de71224_E0000145891_1_s.jpg",
+      "datePublished": "2026-11-05T20:06:00+09:00"
+    },
+    {
+      "name": "ウクライナメディアにサイバー攻撃　ロシアによる工作か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de71144",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71144/20261105de71144_E0000144068_1_s.jpg",
+      "datePublished": "2026-11-05T18:18:00+09:00"
+    },
+    {
+      "name": "中国輸入博覧会 日本からコンテンツ関連製品など売り込み",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de71182",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71182/20261105de71182_E0000144526_1_s.jpg",
+      "datePublished": "2026-11-05T18:36:00+09:00"
+    },
+    {
+      "name": "北朝鮮の党幹部が訪中 中朝のハイレベル往来続く",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de71088",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71088/20261105de71088_E0000144003_1_s.jpg",
+      "datePublished": "2026-11-05T18:02:00+09:00"
+    },
+    {
+      "name": "グーグル 学校向け学習サービスのAI機能を制限",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de70783",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70783/20261105de70783_E0000143065_1_s.jpg",
+      "datePublished": "2026-11-05T11:27:07+09:00"
+    },
+    {
+      "name": "フランスの銀行にサイバー攻撃 資金流出の可能性",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de70718",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70718/20261105de70718_E0000142998_1_s.jpg",
+      "datePublished": "2026-11-05T10:15:00+09:00"
+    },
+    {
+      "name": "N響桂冠名誉指揮者ヘルベルト・ブロムシュテットさん死去 99歳",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de70944",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70944/20261105de70944_E0000143827_1_s.jpg",
+      "datePublished": "2026-11-05T14:56:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

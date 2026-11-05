@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261106de71331",
+  "dataSourceId": "nd",
+  "name": "南米パラグアイの大統領が辞任表明 金融機関破綻の混乱受け",
+  "headline": "南米パラグアイの大統領が辞任表明 金融機関破綻の混乱受け",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261106de71331",
+    "playlistId": "news-nwa-international-nationwide-20261106",
+    "newsarticleName": "南米パラグアイの大統領が辞任表明 金融機関破綻の混乱受け",
+    "playlistName": "11月6日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "南米パラグアイのペニャ大統領は、自身と関係が深い大手金融機関が経営破綻したことの責任を追及され、5日、辞任を表明しました。\n\n\n南米パラグアイでは大手金融機関の「ウエノバンク」が経営破綻し、今月3日か",
+  "dateModified": "2026-11-06T06:52:16+09:00",
+  "datePublished": "2026-11-06T06:52:16+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71331/20261106de71331_E0000146694_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71331/20261106de71331_E0000146694_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "南米パラグアイのペニャ大統領は、自身と関係が深い大手金融機関が経営破綻したことの責任を追及され、5日、辞任を表明しました。\n\n\n南米パラグアイでは大手金融機関の「ウエノバンク」が経営破綻し、今月3日か",
+  "articleBody": "南米パラグアイのペニャ大統領は、自身と関係が深い大手金融機関が経営破綻したことの責任を追及され、5日、辞任を表明しました。\n\n\n南米パラグアイでは大手金融機関の「ウエノバンク」が経営破綻し、今月3日から中央銀行による破産手続きが始まりました。\n\nAP通信などによりますと、この金融機関は人口690万あまりのパラグアイでおよそ300万人の顧客がいて、経営陣はパラグアイのペニャ大統領と深い結びつきがあるということです。\n\n現地では預金を引き出せなくなった利用者による抗議デモが発生したほか、野党議員が弾劾手続きを検討するなど、大統領の責任を追及する動きが強まりました。\n\nこうした事態を受けてペニャ大統領は5日、SNSに「国民の皆様に謝罪します」などとする声明を投稿し、辞任する意向を明らかにしました。\n\n後任にはアリアナ副大統領が昇格し、事態の収拾に当たる見通しです。\n\nパラグアイは南米で唯一、台湾と外交関係があり、ペニャ大統領は率先して関係強化をはかってきました。\n",
+  "detailedArticleBody": {
+    "markedLead": "南米パラグアイのペニャ大統領は、自身と関係が深い大手金融機関が経営破綻したことの責任を追及され、5日、辞任を表明しました。\n",
+    "markedBody": "南米パラグアイでは大手金融機関の「ウエノバンク」が経営破綻し、今月3日から中央銀行による破産手続きが始まりました。\n\nAP通信などによりますと、この金融機関は人口690万あまりのパラグアイでおよそ300万人の顧客がいて、経営陣はパラグアイのペニャ大統領と深い結びつきがあるということです。\n\n現地では預金を引き出せなくなった利用者による抗議デモが発生したほか、野党議員が弾劾手続きを検討するなど、大統領の責任を追及する動きが強まりました。\n\nこうした事態を受けてペニャ大統領は5日、SNSに「国民の皆様に謝罪します」などとする声明を投稿し、辞任する意向を明らかにしました。\n\n後任にはアリアナ副大統領が昇格し、事態の収拾に当たる見通しです。\n\nパラグアイは南米で唯一、台湾と外交関係があり、ペニャ大統領は率先して関係強化をはかってきました。\n",
+    "trimmedLead": "南米パラグアイのペニャ大統領は、自身と関係が深い大手金融機関が経営破綻したことの責任を追及され、5日、辞任を表明しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261106de71331.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261106de71331",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
