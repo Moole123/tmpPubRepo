@@ -1,0 +1,136 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261105de71235",
+  "dataSourceId": "nd",
+  "name": "総務省消防庁 「安否情報システム」への不正アクセス確認",
+  "headline": "総務省消防庁 「安否情報システム」への不正アクセス確認",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261105de71235",
+    "playlistId": "news-nwa-business-nationwide-20261105",
+    "newsarticleName": "総務省消防庁 「安否情報システム」への不正アクセス確認",
+    "playlistName": "11月5日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "総務省消防庁は、武力攻撃を受けた際や災害時に住民の安否を共有するためのシステムで、不正アクセスが確認されたと発表しました。\n\n不正アクセスを受けた際、システムに個人情報は残っていなかったとみられるとい",
+  "dateModified": "2026-11-05T20:20:56+09:00",
+  "datePublished": "2026-11-05T20:20:56+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71235/20261105de71235_E0000145904_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71235/20261105de71235_E0000145904_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000455",
+      "name": "総務省",
+      "display": true
+    },
+    {
+      "id": "E0000000658",
+      "name": "消防庁",
+      "display": true
+    },
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "総務省消防庁は、武力攻撃を受けた際や災害時に住民の安否を共有するためのシステムで、不正アクセスが確認されたと発表しました。\n\n不正アクセスを受けた際、システムに個人情報は残っていなかったとみられるとい",
+  "articleBody": "総務省消防庁は、武力攻撃を受けた際や災害時に住民の安否を共有するためのシステムで、不正アクセスが確認されたと発表しました。\n\n不正アクセスを受けた際、システムに個人情報は残っていなかったとみられるということですが、保守などを委託している業者が詳しく調べているということです。\n\n\n総務省消防庁によりますと、「武力攻撃事態等における安否情報収集・提供システム」で、第三者からの不正アクセスの可能性があると、4日夜、内閣官房の「国家サイバー統括室」から連絡があり、保守などを委託している富士ソフトが調べたところ、不正アクセスが確認されたということです。\n\nこのシステムは国民保護法に基づき、武力攻撃を受けた際などの住民の安否情報を自治体が国や都道府県と共有するため、運用しています。\n\n市区町村が住民の安否情報を入力する仕組みで、災害時にも活用できるようにしています。\n\n東日本大震災では安否情報がおよそ16万3000件登録されましたが、その後使われた事例はなく、5年に一度、システムの更新作業を行っているため、震災時のデータは残っていないということです。\n\nそのため総務省消防庁は、不正アクセスを受けた際に個人情報は残っていなかったとみられるとしています。\n\n現在、富士ソフトが外部からのアクセスを遮断し、原因とともに、影響範囲を調べているということです。\n\n総務省消防庁は「関係の方々にご迷惑をおかけしたことを深くおわび申し上げます。運用保守業務の委託事業者に適切な対応を求めるとともに、再発防止に努めてまいります」としています。\n",
+  "detailedArticleBody": {
+    "markedLead": "総務省消防庁は、武力攻撃を受けた際や災害時に住民の安否を共有するためのシステムで、不正アクセスが確認されたと発表しました。\n\n不正アクセスを受けた際、システムに個人情報は残っていなかったとみられるということですが、保守などを委託している業者が詳しく調べているということです。\n",
+    "markedBody": "総務省消防庁によりますと、「武力攻撃事態等における安否情報収集・提供システム」で、第三者からの不正アクセスの可能性があると、4日夜、内閣官房の「国家サイバー統括室」から連絡があり、保守などを委託している富士ソフトが調べたところ、不正アクセスが確認されたということです。\n\nこのシステムは国民保護法に基づき、武力攻撃を受けた際などの住民の安否情報を自治体が国や都道府県と共有するため、運用しています。\n\n市区町村が住民の安否情報を入力する仕組みで、災害時にも活用できるようにしています。\n\n東日本大震災では安否情報がおよそ16万3000件登録されましたが、その後使われた事例はなく、5年に一度、システムの更新作業を行っているため、震災時のデータは残っていないということです。\n\nそのため総務省消防庁は、不正アクセスを受けた際に個人情報は残っていなかったとみられるとしています。\n\n現在、富士ソフトが外部からのアクセスを遮断し、原因とともに、影響範囲を調べているということです。\n\n総務省消防庁は「関係の方々にご迷惑をおかけしたことを深くおわび申し上げます。運用保守業務の委託事業者に適切な対応を求めるとともに、再発防止に努めてまいります」としています。\n",
+    "trimmedLead": "総務省消防庁は、武力攻撃を受けた際や災害時に住民の安否を共有するためのシステムで、不正アクセスが確認されたと発表しました。\n\n不正アクセスを受けた際、システムに個人情報は残っていなかったとみられるということですが、保守などを委託している業者が詳しく調べているということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261105de71235.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261105de71235",
+  "video": [],
+  "citation": [
+    {
+      "name": "【情報漏えい】対策どうする 二次被害に遭わないためには",
+      "url": "https://news.web.nhk/newsweb/pl/editorial-nwa-0000000697",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261018de61119_E0000086259_1_s.jpg"
+    },
+    {
+      "name": "ドコモで不正アクセス 電話番号など顧客情報最大約30万件流出",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de70776",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70776/20261105de70776_E0000003646_1_s.jpg",
+      "datePublished": "2026-11-05T19:31:41+09:00"
+    },
+    {
+      "name": "「ほっともっと」メルマガ配信の会員情報 最大約700万件が流出",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de71178",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71178/20261105de71178_E0000144566_1_s.jpg",
+      "datePublished": "2026-11-05T18:45:20+09:00"
+    },
+    {
+      "name": "宝くじサイト 利用者パスワード意図せず変更される 一時停止に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de71154",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71154/20261105de71154_E0000144077_1_s.jpg",
+      "datePublished": "2026-11-05T18:09:38+09:00"
+    },
+    {
+      "name": "「アララ」不正アクセス 影響は著名アーティストのFCにも",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de71074",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71074/20261105de71074_E0000144330_1_s.jpg",
+      "datePublished": "2026-11-05T18:32:00+09:00"
+    },
+    {
+      "name": "「ApplyNow」利用者のマイナンバーや口座情報など漏えい",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de71179",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71179/20261105de71179_E0000144583_1_s.jpg",
+      "datePublished": "2026-11-05T18:34:16+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
