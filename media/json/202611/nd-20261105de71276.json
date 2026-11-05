@@ -1,0 +1,142 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261105de71276",
+  "dataSourceId": "nd",
+  "name": "日本製紙 八代工場の紙やパルプの生産再開を断念",
+  "headline": "日本製紙 八代工場の紙やパルプの生産再開を断念",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261105de71276",
+    "playlistId": "news-nwa-society-nationwide-20261105",
+    "newsarticleName": "日本製紙 八代工場の紙やパルプの生産再開を断念",
+    "playlistName": "11月5日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "日本製紙はことし7月の熊本地震で被災し、新聞用紙などの生産を停止している熊本県八代市の工場について、紙やパルプの生産の再開を断念する方針を固めました。新たな事業を立ち上げることなどにより拠点は維持し、",
+  "dateModified": "2026-11-05T22:36:42+09:00",
+  "datePublished": "2026-11-05T22:36:42+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71276/20261105de71276_E0000146629_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71276/20261105de71276_E0000146629_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会",
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000010002",
+      "name": "令和8年熊本地震",
+      "display": true
+    },
+    {
+      "id": "E0000000371",
+      "name": "熊本県",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "日本製紙はことし7月の熊本地震で被災し、新聞用紙などの生産を停止している熊本県八代市の工場について、紙やパルプの生産の再開を断念する方針を固めました。新たな事業を立ち上げることなどにより拠点は維持し、",
+  "articleBody": "日本製紙はことし7月の熊本地震で被災し、新聞用紙などの生産を停止している熊本県八代市の工場について、紙やパルプの生産の再開を断念する方針を固めました。新たな事業を立ち上げることなどにより拠点は維持し、配置転換などにより社員の雇用は継続することを検討しています。\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "日本製紙はことし7月の熊本地震で被災し、新聞用紙などの生産を停止している熊本県八代市の工場について、紙やパルプの生産の再開を断念する方針を固めました。新たな事業を立ち上げることなどにより拠点は維持し、配置転換などにより社員の雇用は継続することを検討しています。\n",
+    "markedBody": "",
+    "trimmedLead": "日本製紙はことし7月の熊本地震で被災し、新聞用紙などの生産を停止している熊本県八代市の工場について、紙やパルプの生産の再開を断念する方針を固めました。新たな事業を立ち上げることなどにより拠点は維持し、配置転換などにより社員の雇用は継続することを検討しています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261105de71276.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261105de71276",
+  "video": [],
+  "citation": [
+    {
+      "name": "【情報漏えい】対策どうする 二次被害に遭わないためには",
+      "url": "https://news.web.nhk/newsweb/pl/editorial-nwa-0000000697",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261018de61119_E0000086259_1_s.jpg"
+    },
+    {
+      "name": "2026年の新語・流行語大賞の候補 30のことばは？【全掲載】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de70801",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70801/20261105de70801_E0000143749_1_s.jpg",
+      "datePublished": "2026-11-05T17:03:55+09:00"
+    },
+    {
+      "name": "チャイルドシート使用義務拡大を検討 子どもの体格なども考慮",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de71030",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71030/20261105de71030_E0000144047_1_s.jpg",
+      "datePublished": "2026-11-05T18:07:00+09:00"
+    },
+    {
+      "name": "【アメリカ中間選挙2026 特集ページ】",
+      "url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000000754",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261002de53937_E0000040535_1_s.jpg"
+    },
+    {
+      "name": "木原官房長官 COP31\"高市首相出席せず笹川環境相が参加予定\"",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de71230",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71230/20261105de71230_E0000145901_1_s.jpg",
+      "datePublished": "2026-11-05T20:16:01+09:00"
+    },
+    {
+      "name": "「書道」無形文化遺産に登録へ ユネスコ評価機関「記載」勧告",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de70701",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70701/20261105de70701_E0000142664_1_s.jpg",
+      "datePublished": "2026-11-05T19:32:00+09:00"
+    },
+    {
+      "name": "同じ住宅が5回もトクリュウの被害に…なぜ狙われた？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63318",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63318/20261022de63318_E0000134660_1_s.jpg",
+      "datePublished": "2026-11-05T17:46:00+09:00"
+    },
+    {
+      "name": "東大総長選 投票はなぜ覆った? 異例の“大逆転”を追った",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70318",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70318/20261104de70318_E0000143761_1_s.jpg",
+      "datePublished": "2026-11-05T19:12:31+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
