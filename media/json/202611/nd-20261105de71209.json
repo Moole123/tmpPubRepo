@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261105de71209",
+  "dataSourceId": "nd",
+  "name": "三重 四日市 住宅と車１台全焼 玄関付近で１人の遺体見つかる ",
+  "headline": "三重 四日市 住宅と車１台全焼 玄関付近で１人の遺体見つかる ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261105de71209",
+    "playlistId": "news-nwa-society-nationwide-20261105",
+    "newsarticleName": "三重 四日市 住宅と車１台全焼 玄関付近で１人の遺体見つかる ",
+    "playlistName": "11月5日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "5日午前、三重県四日市市で住宅1棟と車1台が全焼する火事があり、住宅の玄関で1人が遺体で見つかりました。\n\n警察が詳しい状況を調べています。\n\n\n5日午前10時半すぎ、四日市市西坂部町で、「家が燃えて",
+  "dateModified": "2026-11-05T19:22:58+09:00",
+  "datePublished": "2026-11-05T19:22:58+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71209/20261105de71209_E0000145757_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71209/20261105de71209_E0000145757_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "5日午前、三重県四日市市で住宅1棟と車1台が全焼する火事があり、住宅の玄関で1人が遺体で見つかりました。\n\n警察が詳しい状況を調べています。\n\n\n5日午前10時半すぎ、四日市市西坂部町で、「家が燃えて",
+  "articleBody": "5日午前、三重県四日市市で住宅1棟と車1台が全焼する火事があり、住宅の玄関で1人が遺体で見つかりました。\n\n警察が詳しい状況を調べています。\n\n\n5日午前10時半すぎ、四日市市西坂部町で、「家が燃えている。車が家にぶつかったようだ」という内容の通報が警察と消防にありました。\n\n消防車12台が出て消火活動にあたり、火はおよそ2時間後に消し止められましたが、木造2階建ての住宅1棟と車1台が全焼したほか、周辺の住宅5棟の壁などが焼けました。\n\n警察によりますと、全焼した住宅の玄関で1人が遺体で見つかったということです。\n\n警察と消防によりますと、この住宅には家族5人が暮らしていて、火事のあと全員と連絡が取れているということです。\n\n警察は死亡した1人の身元の確認を進めるとともに、車が燃えた状況など火事の詳しい状況を調べています。\n\n現場は四日市市立三重西小学校から北東に700メートルほど離れた住宅地です。\n",
+  "detailedArticleBody": {
+    "markedLead": "5日午前、三重県四日市市で住宅1棟と車1台が全焼する火事があり、住宅の玄関で1人が遺体で見つかりました。\n\n警察が詳しい状況を調べています。\n",
+    "markedBody": "5日午前10時半すぎ、四日市市西坂部町で、「家が燃えている。車が家にぶつかったようだ」という内容の通報が警察と消防にありました。\n\n消防車12台が出て消火活動にあたり、火はおよそ2時間後に消し止められましたが、木造2階建ての住宅1棟と車1台が全焼したほか、周辺の住宅5棟の壁などが焼けました。\n\n警察によりますと、全焼した住宅の玄関で1人が遺体で見つかったということです。\n\n警察と消防によりますと、この住宅には家族5人が暮らしていて、火事のあと全員と連絡が取れているということです。\n\n警察は死亡した1人の身元の確認を進めるとともに、車が燃えた状況など火事の詳しい状況を調べています。\n\n現場は四日市市立三重西小学校から北東に700メートルほど離れた住宅地です。\n",
+    "trimmedLead": "5日午前、三重県四日市市で住宅1棟と車1台が全焼する火事があり、住宅の玄関で1人が遺体で見つかりました。\n\n警察が詳しい状況を調べています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261105de71209.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261105de71209",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

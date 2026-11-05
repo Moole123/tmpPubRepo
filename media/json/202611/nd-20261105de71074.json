@@ -1,0 +1,120 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261105de71074",
+  "dataSourceId": "nd",
+  "name": "「アララ」不正アクセス 影響は著名アーティストのファンクラブにも",
+  "headline": "「アララ」不正アクセス 影響は著名アーティストのFCにも",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261105de71074",
+    "playlistId": "news-nwa-business-nationwide-20261105",
+    "newsarticleName": "「アララ」不正アクセス 影響は著名アーティストのファンクラブにも",
+    "playlistName": "11月5日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "企業向けにメール配信サービスなどを提供している「アララ」が不正アクセスを受けた問題で、5日も著名アーティストのファンクラブが相次いで会員への注意を呼びかけるなど、影響が広がっています。\n\n\n「アララ」",
+  "dateModified": "2026-11-05T18:32:00+09:00",
+  "datePublished": "2026-11-05T18:32:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71074/20261105de71074_E0000144330_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71074/20261105de71074_E0000144330_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "企業向けにメール配信サービスなどを提供している「アララ」が不正アクセスを受けた問題で、5日も著名アーティストのファンクラブが相次いで会員への注意を呼びかけるなど、影響が広がっています。\n\n\n「アララ」",
+  "articleBody": "企業向けにメール配信サービスなどを提供している「アララ」が不正アクセスを受けた問題で、5日も著名アーティストのファンクラブが相次いで会員への注意を呼びかけるなど、影響が広がっています。\n\n\n「アララ」は運営する企業向けのメール配信システムが不正アクセスを受けたことをすでに公表していて、契約先の企業の会員情報などが持ち出されたとしています。\n\nこの影響で、アーティストのファンクラブの運営などを手がける「Fanplus」は、今月2日、サービスの利用者のメールアドレスが漏えいしたと発表しています。\n\nこれを受けて、5日、歌手の森高千里さんや、バンドのTHE YELLOW MONKEY、Mrs. GREEN APPLEなど著名アーティストのファンクラブが相次いで会員に対し不審なメールへの注意を呼びかけました。\n\nまた5日、「アララ」にメール配信を委託していた企業では、飲食店の検索サイト「食べログ」などを運営するカカクコムが会員のメールアドレスなどおよそ570万件が漏えいしたと発表したほか、ボートレースに関するメールマガジンなどを配信している「日本レジャーチャンネル」が配信先のメールアドレス68万件あまりが漏えいしたと発表し、居酒屋を展開するモンテローザも会員のメールアドレスなど62万件あまりが漏えいしたおそれがあると明らかにしました。\n\nこのほか、紳士服大手のコナカは子会社のネット通販サイトやアプリに登録されたメールアドレス43万件あまり、三井住友銀行は法人向けメールマガジンの配信先メールアドレス22万件あまり、NTTタウンページはメールマガジンの配信先メールアドレス14万件あまり、三井不動産はオフィスのテナント企業の従業員向けのメールマガジンの配信先メールアドレス13万件あまりがそれぞれ漏えいしたと発表するなど、影響が広がっています。\n",
+  "detailedArticleBody": {
+    "markedLead": "企業向けにメール配信サービスなどを提供している「アララ」が不正アクセスを受けた問題で、5日も著名アーティストのファンクラブが相次いで会員への注意を呼びかけるなど、影響が広がっています。\n",
+    "markedBody": "「アララ」は運営する企業向けのメール配信システムが不正アクセスを受けたことをすでに公表していて、契約先の企業の会員情報などが持ち出されたとしています。\n\nこの影響で、アーティストのファンクラブの運営などを手がける「Fanplus」は、今月2日、サービスの利用者のメールアドレスが漏えいしたと発表しています。\n\nこれを受けて、5日、歌手の森高千里さんや、バンドのTHE YELLOW MONKEY、Mrs. GREEN APPLEなど著名アーティストのファンクラブが相次いで会員に対し不審なメールへの注意を呼びかけました。\n\nまた5日、「アララ」にメール配信を委託していた企業では、飲食店の検索サイト「食べログ」などを運営するカカクコムが会員のメールアドレスなどおよそ570万件が漏えいしたと発表したほか、ボートレースに関するメールマガジンなどを配信している「日本レジャーチャンネル」が配信先のメールアドレス68万件あまりが漏えいしたと発表し、居酒屋を展開するモンテローザも会員のメールアドレスなど62万件あまりが漏えいしたおそれがあると明らかにしました。\n\nこのほか、紳士服大手のコナカは子会社のネット通販サイトやアプリに登録されたメールアドレス43万件あまり、三井住友銀行は法人向けメールマガジンの配信先メールアドレス22万件あまり、NTTタウンページはメールマガジンの配信先メールアドレス14万件あまり、三井不動産はオフィスのテナント企業の従業員向けのメールマガジンの配信先メールアドレス13万件あまりがそれぞれ漏えいしたと発表するなど、影響が広がっています。\n",
+    "trimmedLead": "企業向けにメール配信サービスなどを提供している「アララ」が不正アクセスを受けた問題で、5日も著名アーティストのファンクラブが相次いで会員への注意を呼びかけるなど、影響が広がっています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261105de71074.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261105de71074",
+  "video": [],
+  "citation": [
+    {
+      "name": "ドコモに不正アクセスの可能性 オンラインサービス停止",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de70776",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70776/20261105de70776_E0000003646_1_s.jpg",
+      "datePublished": "2026-11-05T10:54:00+09:00"
+    },
+    {
+      "name": "国税庁「e-Tax」不審な通信検知でメンテナンスも再開",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de70796",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70796/20261105de70796_E0000143139_1_s.jpg",
+      "datePublished": "2026-11-05T16:05:35+09:00"
+    },
+    {
+      "name": "三井住友G保証会社 個人情報最大32万人分漏えい 住所や年収も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de71024",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71024/20261105de71024_E0000143971_1_s.jpg",
+      "datePublished": "2026-11-05T17:00:00+09:00"
+    },
+    {
+      "name": "【情報漏えい】対策どうする 二次被害に遭わないためには",
+      "url": "https://news.web.nhk/newsweb/pl/editorial-nwa-0000000697",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261018de61119_E0000086259_1_s.jpg"
+    },
+    {
+      "name": "2026年の新語・流行語大賞の候補 30のことばは？【全掲載】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de70801",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70801/20261105de70801_E0000143749_1_s.jpg",
+      "datePublished": "2026-11-05T17:03:55+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
