@@ -1,0 +1,126 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261105de71268",
+  "dataSourceId": "nd",
+  "name": "政府 事業者向けに要請 \"ぜい弱性診断継続など対策徹底を\"",
+  "headline": "政府 事業者向けに要請 \"ぜい弱性診断継続など対策徹底を\"",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261105de71268",
+    "playlistId": "news-nwa-politics-nationwide-20261105",
+    "newsarticleName": "政府 事業者向けに要請 \"ぜい弱性診断継続など対策徹底を\"",
+    "playlistName": "11月5日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "不正アクセスによる情報漏えいが相次ぐ中、政府は、ウェブサイトやアプリを使った事業を行う企業などに対し、AIも活用してぜい弱性の診断を継続的に行うことなど、対策の徹底を要請しました。\n\n\n国家サイバー統",
+  "dateModified": "2026-11-05T22:12:00+09:00",
+  "datePublished": "2026-11-05T22:12:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71268/20261105de71268_E0000146612_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71268/20261105de71268_E0000146612_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "不正アクセスによる情報漏えいが相次ぐ中、政府は、ウェブサイトやアプリを使った事業を行う企業などに対し、AIも活用してぜい弱性の診断を継続的に行うことなど、対策の徹底を要請しました。\n\n\n国家サイバー統",
+  "articleBody": "不正アクセスによる情報漏えいが相次ぐ中、政府は、ウェブサイトやアプリを使った事業を行う企業などに対し、AIも活用してぜい弱性の診断を継続的に行うことなど、対策の徹底を要請しました。\n\n\n国家サイバー統括室は、5日、ウェブサイトやアプリを使った事業を行い、個人情報を取り扱う企業などに対し、関係省庁を通じて、対策の徹底を要請しました。\n\nこの中では、一連の情報漏えいでは、企業がアプリなどを開発する際に、セキュリティー対応が不足している事例があるとしているほか、サイバー攻撃では、AIが使われている可能性が高い点なども指摘しています。\n\nそして基本的な対策として、AIも活用してウェブサイトなどのぜい弱性の診断を継続的に行うことや、ソフトウエアのぜい弱性が新たに公表された場合、速やかに対処できる体制を築くこと、委託先を含めたサプライチェーン全体のセキュリティーを管理できるしくみを整えることなどを求めています。\n\nさらに、サイバー攻撃による影響が、経営リスクに発展する可能性も考慮し、経営トップの判断で、必要な対策の強化に取り組むよう要請しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "不正アクセスによる情報漏えいが相次ぐ中、政府は、ウェブサイトやアプリを使った事業を行う企業などに対し、AIも活用してぜい弱性の診断を継続的に行うことなど、対策の徹底を要請しました。\n",
+    "markedBody": "国家サイバー統括室は、5日、ウェブサイトやアプリを使った事業を行い、個人情報を取り扱う企業などに対し、関係省庁を通じて、対策の徹底を要請しました。\n\nこの中では、一連の情報漏えいでは、企業がアプリなどを開発する際に、セキュリティー対応が不足している事例があるとしているほか、サイバー攻撃では、AIが使われている可能性が高い点なども指摘しています。\n\nそして基本的な対策として、AIも活用してウェブサイトなどのぜい弱性の診断を継続的に行うことや、ソフトウエアのぜい弱性が新たに公表された場合、速やかに対処できる体制を築くこと、委託先を含めたサプライチェーン全体のセキュリティーを管理できるしくみを整えることなどを求めています。\n\nさらに、サイバー攻撃による影響が、経営リスクに発展する可能性も考慮し、経営トップの判断で、必要な対策の強化に取り組むよう要請しています。\n",
+    "trimmedLead": "不正アクセスによる情報漏えいが相次ぐ中、政府は、ウェブサイトやアプリを使った事業を行う企業などに対し、AIも活用してぜい弱性の診断を継続的に行うことなど、対策の徹底を要請しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261105de71268.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261105de71268",
+  "video": [],
+  "citation": [
+    {
+      "name": "アイリスオーヤマ 約770万人分の個人情報が漏えいした可能性",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de71262",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71262/20261105de71262_E0000146597_1_s.jpg",
+      "datePublished": "2026-11-05T21:40:36+09:00"
+    },
+    {
+      "name": "松井証券 顧客のメールアドレス最大83万件漏えい",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de71265",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71265/20261105de71265_E0000146613_1_s.jpg",
+      "datePublished": "2026-11-05T22:04:15+09:00"
+    },
+    {
+      "name": "ドコモで不正アクセス 電話番号など顧客情報最大約30万件流出",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de70776",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70776/20261105de70776_E0000003646_1_s.jpg",
+      "datePublished": "2026-11-05T19:31:41+09:00"
+    },
+    {
+      "name": "日本製鉄 業績見通し上方修正 USスチールが業績押し上げ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de71233",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71233/20261105de71233_E0000145903_1_s.jpg",
+      "datePublished": "2026-11-05T20:25:00+09:00"
+    },
+    {
+      "name": "ロシア国内のJT関連工場 一時的にロシア企業管理下に 大統領令",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de71261",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71261/20261105de71261_E0000146608_1_s.jpg",
+      "datePublished": "2026-11-05T21:38:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

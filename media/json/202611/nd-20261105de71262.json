@@ -1,0 +1,130 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261105de71262",
+  "dataSourceId": "nd",
+  "name": "アイリスオーヤマ 約770万人分の個人情報が漏えいした可能性",
+  "headline": "アイリスオーヤマ 約770万人分の個人情報が漏えいした可能性",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261105de71262",
+    "playlistId": "news-nwa-business-nationwide-20261105",
+    "newsarticleName": "アイリスオーヤマ 約770万人分の個人情報が漏えいした可能性",
+    "playlistName": "11月5日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "大手生活用品メーカーのアイリスオーヤマは、会社の通販サイトが不正アクセスを受け、およそ770万人分の個人情報が漏えいした可能性があると発表しました。\n\n\n会社によりますと、漏えいした可能性があるのは外",
+  "dateModified": "2026-11-05T21:40:36+09:00",
+  "datePublished": "2026-11-05T21:40:36+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71262/20261105de71262_E0000146597_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71262/20261105de71262_E0000146597_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    },
+    {
+      "id": "E0000000473",
+      "name": "小売業",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "大手生活用品メーカーのアイリスオーヤマは、会社の通販サイトが不正アクセスを受け、およそ770万人分の個人情報が漏えいした可能性があると発表しました。\n\n\n会社によりますと、漏えいした可能性があるのは外",
+  "articleBody": "大手生活用品メーカーのアイリスオーヤマは、会社の通販サイトが不正アクセスを受け、およそ770万人分の個人情報が漏えいした可能性があると発表しました。\n\n\n会社によりますと、漏えいした可能性があるのは外部のクラウドサービスに保管していた、退会済みを含む会員の氏名、住所、電話番号、メールアドレス、生年月日などのデータおよそ580万人分と、会員登録なしで商品の購入などを行った人の氏名、住所、電話番号、メールアドレスおよそ190万人分で、いずれもクレジットカードの情報は含まれていないとしています。\n\n会社では、先月28日に通販サイトへの不正アクセスが確認されたとして、このサイトを停止して調査を続けていました。\n",
+  "detailedArticleBody": {
+    "markedLead": "大手生活用品メーカーのアイリスオーヤマは、会社の通販サイトが不正アクセスを受け、およそ770万人分の個人情報が漏えいした可能性があると発表しました。\n",
+    "markedBody": "会社によりますと、漏えいした可能性があるのは外部のクラウドサービスに保管していた、退会済みを含む会員の氏名、住所、電話番号、メールアドレス、生年月日などのデータおよそ580万人分と、会員登録なしで商品の購入などを行った人の氏名、住所、電話番号、メールアドレスおよそ190万人分で、いずれもクレジットカードの情報は含まれていないとしています。\n\n会社では、先月28日に通販サイトへの不正アクセスが確認されたとして、このサイトを停止して調査を続けていました。\n",
+    "trimmedLead": "大手生活用品メーカーのアイリスオーヤマは、会社の通販サイトが不正アクセスを受け、およそ770万人分の個人情報が漏えいした可能性があると発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261105de71262.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261105de71262",
+  "video": [],
+  "citation": [
+    {
+      "name": "総務省消防庁 「安否情報システム」への不正アクセス確認",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de71235",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71235/20261105de71235_E0000145904_1_s.jpg",
+      "datePublished": "2026-11-05T20:20:56+09:00"
+    },
+    {
+      "name": "「アララ」不正アクセス 影響は著名アーティストのFCにも",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de71074",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71074/20261105de71074_E0000144330_1_s.jpg",
+      "datePublished": "2026-11-05T18:32:00+09:00"
+    },
+    {
+      "name": "「ほっともっと」メルマガ配信の会員情報 最大約700万件が流出",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de71178",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71178/20261105de71178_E0000144566_1_s.jpg",
+      "datePublished": "2026-11-05T18:45:20+09:00"
+    },
+    {
+      "name": "ドコモで不正アクセス 電話番号など顧客情報最大約30万件流出",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de70776",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70776/20261105de70776_E0000003646_1_s.jpg",
+      "datePublished": "2026-11-05T19:31:41+09:00"
+    },
+    {
+      "name": "【情報漏えい】対策どうする 二次被害に遭わないためには",
+      "url": "https://news.web.nhk/newsweb/pl/editorial-nwa-0000000697",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261018de61119_E0000086259_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
