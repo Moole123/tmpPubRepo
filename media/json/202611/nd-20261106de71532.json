@@ -1,0 +1,160 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261106de71532",
+  "dataSourceId": "nd",
+  "name": "日産自動車の子会社 顧客情報最大で23万件余 漏えいの可能性 日産フィナンシャルサービス",
+  "headline": "日産自動車の子会社 顧客情報最大で23万件余 漏えいの可能性",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261106de71532",
+    "playlistId": "news-nwa-business-nationwide-20261106",
+    "newsarticleName": "日産自動車の子会社 顧客情報最大で23万件余 漏えいの可能性 日産フィナンシャルサービス",
+    "playlistName": "11月6日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "日産自動車の子会社で車のリース事業などを手がける日産フィナンシャルサービスは最大でおよそ23万6000件の顧客情報が漏えいした可能性があると発表しました。\n\n\nロードサービスの手配などを委託している会",
+  "dateModified": "2026-11-06T14:47:00+09:00",
+  "datePublished": "2026-11-06T14:47:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71532/20261106de71532_E0000147900_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71532/20261106de71532_E0000147900_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    },
+    {
+      "id": "E0000000471",
+      "name": "自動車",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "日産自動車の子会社で車のリース事業などを手がける日産フィナンシャルサービスは最大でおよそ23万6000件の顧客情報が漏えいした可能性があると発表しました。\n\n\nロードサービスの手配などを委託している会",
+  "articleBody": "日産自動車の子会社で車のリース事業などを手がける日産フィナンシャルサービスは最大でおよそ23万6000件の顧客情報が漏えいした可能性があると発表しました。\n\n\nロードサービスの手配などを委託している会社が不正アクセスを受けたためで、漏えいした可能性があるのは氏名や住所、電話番号などです。\n\nクレジットカードなどの情報は含まれておらず、今のところ、不正利用などの二次被害は確認されていないということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "日産自動車の子会社で車のリース事業などを手がける日産フィナンシャルサービスは最大でおよそ23万6000件の顧客情報が漏えいした可能性があると発表しました。\n",
+    "markedBody": "ロードサービスの手配などを委託している会社が不正アクセスを受けたためで、漏えいした可能性があるのは氏名や住所、電話番号などです。\n\nクレジットカードなどの情報は含まれておらず、今のところ、不正利用などの二次被害は確認されていないということです。\n",
+    "trimmedLead": "日産自動車の子会社で車のリース事業などを手がける日産フィナンシャルサービスは最大でおよそ23万6000件の顧客情報が漏えいした可能性があると発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261106de71532.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261106de71532",
+  "video": [],
+  "citation": [
+    {
+      "name": "【情報漏えい】対策どうする 二次被害に遭わないためには",
+      "url": "https://news.web.nhk/newsweb/pl/editorial-nwa-0000000697",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261018de61119_E0000086259_1_s.jpg"
+    },
+    {
+      "name": "不正アクセス対策 政府が予備費100億円の支出を決定",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71363",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71363/20261106de71363_E0000003476_1_s.jpg",
+      "datePublished": "2026-11-06T11:18:27+09:00"
+    },
+    {
+      "name": "大阪 港区の倉庫で火災 黒煙広がる けが人情報なし",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71443",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71443/20261106de71443_E0000147143_1_s.jpg",
+      "datePublished": "2026-11-06T12:03:11+09:00"
+    },
+    {
+      "name": "NTTドコモ通信障害が復旧 原因は装置の不具合",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71360",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71360/20261106de71360_E0000147048_1_s.jpg",
+      "datePublished": "2026-11-06T11:03:25+09:00"
+    },
+    {
+      "name": "消費税減税法案 衆議院を通過 自民・維新などの賛成多数で可決",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71359",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71359/20261106de71359_E0000113888_1_s.jpg",
+      "datePublished": "2026-11-06T15:21:48+09:00"
+    },
+    {
+      "name": "武部農相 公共事業受注企業から選挙中に受けた寄付を返金へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71388",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71388/20261106de71388_E0000147085_1_s.jpg",
+      "datePublished": "2026-11-06T11:33:11+09:00"
+    },
+    {
+      "name": "アメリカ 中間選挙の大敗受け ルビオ国務長官の去就報道相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de71260",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71260/20261105de71260_E0000146984_1_s.jpg",
+      "datePublished": "2026-11-06T11:38:00+09:00"
+    },
+    {
+      "name": "2026年の新語・流行語大賞の候補 30のことばは？【全掲載】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de70801",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70801/20261105de70801_E0000143749_1_s.jpg",
+      "datePublished": "2026-11-05T17:03:55+09:00"
+    },
+    {
+      "name": "ロシア国内のJT関連工場 一時的にロシア企業管理下に 大統領令",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de71261",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71261/20261105de71261_E0000146628_1_s.jpg",
+      "datePublished": "2026-11-06T13:30:15+09:00"
+    },
+    {
+      "name": "同じ住宅が5回もトクリュウの被害に…なぜ狙われた？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63318",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63318/20261022de63318_E0000134660_1_s.jpg",
+      "datePublished": "2026-11-05T17:46:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
