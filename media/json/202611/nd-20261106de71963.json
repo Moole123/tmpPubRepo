@@ -1,0 +1,136 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261106de71963",
+  "dataSourceId": "nd",
+  "name": "サイバー攻撃対応強化で法改正検討へ 国内通信情報取得が焦点",
+  "headline": "サイバー攻撃対応強化で法改正検討へ 国内通信情報取得が焦点",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261106de71963",
+    "playlistId": "news-nwa-politics-nationwide-20261106",
+    "newsarticleName": "サイバー攻撃対応強化で法改正検討へ 国内通信情報取得が焦点",
+    "playlistName": "11月6日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "政府はサイバー攻撃の情報収集能力を強化するため「能動的サイバー防御」の関連法の改正を検討します。現在の法律では認められていない、国内で完結する通信情報の取得を可能にするかが焦点となる見通しです。\n\n\n",
+  "dateModified": "2026-11-06T22:42:00+09:00",
+  "datePublished": "2026-11-06T22:42:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71963/20261106de71963_E0000151031_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71963/20261106de71963_E0000151031_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000472",
+      "name": "通信",
+      "display": true
+    },
+    {
+      "id": "E0000000133",
+      "name": "憲法",
+      "display": true
+    },
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "政府はサイバー攻撃の情報収集能力を強化するため「能動的サイバー防御」の関連法の改正を検討します。現在の法律では認められていない、国内で完結する通信情報の取得を可能にするかが焦点となる見通しです。\n\n\n",
+  "articleBody": "政府はサイバー攻撃の情報収集能力を強化するため「能動的サイバー防御」の関連法の改正を検討します。現在の法律では認められていない、国内で完結する通信情報の取得を可能にするかが焦点となる見通しです。\n\n\n政府は6日の関係閣僚会議で不正アクセスによる情報漏えいが相次いでいることを受けた「緊急対策パッケージ」を決定しました。\n\nこれを受けて高市総理大臣は、さらなる対応として古川デジタル大臣に対し、サイバー攻撃の情報収集能力を強化するため「能動的サイバー防御」の関連法の改正を検討するよう指示しました。\n\n関連法は2025年5月に成立し、これに基づいて、来年秋までに「能動的サイバー防御」の1つである通信情報の取得措置が開始されることになっていますが、現在の法律では、海外に関係する通信情報の取得は認められているものの、国内で完結する通信情報の取得は認められていません。\n\nこれについて与党からは、国内のサーバーを「踏み台」とするサイバー攻撃の把握が必要だという意見が出ています。\n\n一方、こうした通信情報の取得をめぐっては憲法が保障する「通信の秘密」との関係から、これまでの国会審議で野党側から慎重な対応を求める意見も出ていて、今後の法改正の検討では、国内で完結する通信情報の取得を可能にするかが焦点となる見通しです。\n",
+  "detailedArticleBody": {
+    "markedLead": "政府はサイバー攻撃の情報収集能力を強化するため「能動的サイバー防御」の関連法の改正を検討します。現在の法律では認められていない、国内で完結する通信情報の取得を可能にするかが焦点となる見通しです。\n",
+    "markedBody": "政府は6日の関係閣僚会議で不正アクセスによる情報漏えいが相次いでいることを受けた「緊急対策パッケージ」を決定しました。\n\n![](https://img.web.nhk/news/nd/kiji/20261106de71963/20261106de71963_E0000151032_1_l.jpg)\n\nこれを受けて高市総理大臣は、さらなる対応として古川デジタル大臣に対し、サイバー攻撃の情報収集能力を強化するため「能動的サイバー防御」の関連法の改正を検討するよう指示しました。\n\n関連法は2025年5月に成立し、これに基づいて、来年秋までに「能動的サイバー防御」の1つである通信情報の取得措置が開始されることになっていますが、現在の法律では、海外に関係する通信情報の取得は認められているものの、国内で完結する通信情報の取得は認められていません。\n\nこれについて与党からは、国内のサーバーを「踏み台」とするサイバー攻撃の把握が必要だという意見が出ています。\n\n一方、こうした通信情報の取得をめぐっては憲法が保障する「通信の秘密」との関係から、これまでの国会審議で野党側から慎重な対応を求める意見も出ていて、今後の法改正の検討では、国内で完結する通信情報の取得を可能にするかが焦点となる見通しです。\n",
+    "trimmedLead": "政府はサイバー攻撃の情報収集能力を強化するため「能動的サイバー防御」の関連法の改正を検討します。現在の法律では認められていない、国内で完結する通信情報の取得を可能にするかが焦点となる見通しです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261106de71963.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261106de71963",
+  "video": [],
+  "citation": [
+    {
+      "name": "国際ハッカー集団“日本企業はぜい弱性を放置”取材に回答",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71650",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71650/20261106de71650_E0000148166_1_s.jpg",
+      "datePublished": "2026-11-06T19:55:33+09:00"
+    },
+    {
+      "name": "128の信用金庫 サービスはすべて復旧 システム障害が原因",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71533",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71533/20261106de71533_E0000148009_1_s.jpg",
+      "datePublished": "2026-11-06T20:13:36+09:00"
+    },
+    {
+      "name": "アメリカ中間選挙の影響 日本にも トランプ政権 揺らぐ足元",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71870",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71870/20261106de71870_E0000150882_1_s.jpg",
+      "datePublished": "2026-11-06T22:02:19+09:00"
+    },
+    {
+      "name": "アララで新たなメールアドレスの流出確認 計8132万件に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71934",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71934/20261106de71934_E0000147917_1_s.jpg",
+      "datePublished": "2026-11-06T20:59:38+09:00"
+    },
+    {
+      "name": "NTTドコモ 最大29万件余の顧客情報流出で社長陳謝",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71859",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71859/20261106de71859_E0000149895_1_s.jpg",
+      "datePublished": "2026-11-06T21:53:25+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
