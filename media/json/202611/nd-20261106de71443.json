@@ -1,0 +1,149 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261106de71443",
+  "dataSourceId": "nd",
+  "name": "大阪 港区の倉庫で火災 黒煙広がる けが人情報なし",
+  "headline": "大阪 港区の倉庫で火災 黒煙広がる けが人情報なし",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261106de71443",
+    "playlistId": "news-nwa-society-nationwide-20261106",
+    "newsarticleName": "大阪 港区の倉庫で火災 黒煙広がる けが人情報なし",
+    "playlistName": "11月6日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "6日午前11時前、大阪 港区にある8階建ての倉庫から火が出て消防が消火活動を進めています。警察によりますと、倉庫は解体作業中でこれまでのところ、けが人は確認されていないということです。\n\n\n6日午前1",
+  "dateModified": "2026-11-06T12:03:11+09:00",
+  "datePublished": "2026-11-06T11:54:23+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71443/20261106de71443_E0000147143_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71443/20261106de71443_E0000147143_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000355",
+      "name": "大阪府",
+      "display": true
+    },
+    {
+      "id": "E0000000657",
+      "name": "火災",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "6日午前11時前、大阪 港区にある8階建ての倉庫から火が出て消防が消火活動を進めています。警察によりますと、倉庫は解体作業中でこれまでのところ、けが人は確認されていないということです。\n\n\n6日午前1",
+  "articleBody": "6日午前11時前、大阪 港区にある8階建ての倉庫から火が出て消防が消火活動を進めています。警察によりますと、倉庫は解体作業中でこれまでのところ、けが人は確認されていないということです。\n\n\n6日午前11時前、大阪 港区石田にある8階建ての倉庫で「倉庫が燃えている」と通行人から消防に通報がありました。\n\n消防によりますと、これまでに5階から6階の300平方メートルが焼け、延焼中だということで、消防車41台とヘリコプターが出動し、消火活動にあたっています。\n\n警察によりますと、倉庫は解体作業中で、作業していた人は全員避難し、これまでのところ、けが人は確認されていないということです。\n\n警察や消防が詳しい状況を調べています。\n\n現場は、JR弁天町駅から西におよそ500メートル離れたビルや倉庫が建ち並ぶエリアで周辺には小学校もあります。\n",
+  "detailedArticleBody": {
+    "markedLead": "6日午前11時前、大阪 港区にある8階建ての倉庫から火が出て消防が消火活動を進めています。警察によりますと、倉庫は解体作業中でこれまでのところ、けが人は確認されていないということです。\n",
+    "markedBody": "![](https://img.web.nhk/news/nd/kiji/20261106de71443/20261106de71443_E0000147144_1_l.jpg)\n\n6日午前11時前、大阪 港区石田にある8階建ての倉庫で「倉庫が燃えている」と通行人から消防に通報がありました。\n\n消防によりますと、これまでに5階から6階の300平方メートルが焼け、延焼中だということで、消防車41台とヘリコプターが出動し、消火活動にあたっています。\n\n警察によりますと、倉庫は解体作業中で、作業していた人は全員避難し、これまでのところ、けが人は確認されていないということです。\n\n警察や消防が詳しい状況を調べています。\n\n現場は、JR弁天町駅から西におよそ500メートル離れたビルや倉庫が建ち並ぶエリアで周辺には小学校もあります。\n",
+    "trimmedLead": "6日午前11時前、大阪 港区にある8階建ての倉庫から火が出て消防が消火活動を進めています。警察によりますと、倉庫は解体作業中でこれまでのところ、けが人は確認されていないということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261106de71443.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261106de71443",
+  "video": [],
+  "citation": [
+    {
+      "name": "NTTドコモ通信障害が復旧 原因は装置の不具合",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71360",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71360/20261106de71360_E0000147048_1_s.jpg",
+      "datePublished": "2026-11-06T11:03:25+09:00"
+    },
+    {
+      "name": "経済産業省 中部電力に業務改善命令 浜岡原発データ改ざん受け",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71336",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71336/20261106de71336_E0000146953_1_s.jpg",
+      "datePublished": "2026-11-06T10:42:27+09:00"
+    },
+    {
+      "name": "消費税減税法案 衆議院財金委で可決 午後の本会議で衆院通過へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71359",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71359/20261106de71359_E0000113888_1_s.jpg",
+      "datePublished": "2026-11-06T11:50:00+09:00"
+    },
+    {
+      "name": "不正アクセス対策 政府が予備費100億円の支出を決定",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71363",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71363/20261106de71363_E0000003476_1_s.jpg",
+      "datePublished": "2026-11-06T11:18:27+09:00"
+    },
+    {
+      "name": "アメリカ 中間選挙の大敗受け ルビオ国務長官の去就報道相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de71260",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71260/20261105de71260_E0000146984_1_s.jpg",
+      "datePublished": "2026-11-06T11:38:00+09:00"
+    },
+    {
+      "name": "アメリカ中間選挙 共和党大敗 トランプ大統領の対応は【詳報】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de69965",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69965/20261103de69965_E0000145914_1_s.jpg",
+      "datePublished": "2026-11-05T20:56:00+09:00"
+    },
+    {
+      "name": "2026年の新語・流行語大賞の候補 30のことばは？【全掲載】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de70801",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70801/20261105de70801_E0000143749_1_s.jpg",
+      "datePublished": "2026-11-05T17:03:55+09:00"
+    },
+    {
+      "name": "ロシア国内のJT関連工場 一時的にロシア企業管理下に 大統領令",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de71261",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71261/20261105de71261_E0000146628_1_s.jpg",
+      "datePublished": "2026-11-06T12:06:45+09:00"
+    },
+    {
+      "name": "【情報漏えい】対策どうする 二次被害に遭わないためには",
+      "url": "https://news.web.nhk/newsweb/pl/editorial-nwa-0000000697",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261018de61119_E0000086259_1_s.jpg"
+    },
+    {
+      "name": "同じ住宅が5回もトクリュウの被害に…なぜ狙われた？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63318",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63318/20261022de63318_E0000134660_1_s.jpg",
+      "datePublished": "2026-11-05T17:46:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
