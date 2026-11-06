@@ -1,0 +1,143 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261106de71902",
+  "dataSourceId": "nd",
+  "name": "国税庁装う偽メールが急増「メールで還付手続き案内しない」",
+  "headline": "国税庁装う偽メールが急増「メールで還付手続き案内しない」",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261106de71902",
+    "playlistId": "news-nwa-society-nationwide-20261107",
+    "newsarticleName": "国税庁装う偽メールが急増「メールで還付手続き案内しない」",
+    "playlistName": "11月7日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "国税庁を装って個人情報や金銭をだまし取ろうとする偽メールが急増しています。国税庁は「メールで還付手続きを案内したり納税を求めたりすることはない」として、ホームページで偽メールの特徴を詳しく紹介し、注意",
+  "dateModified": "2026-11-07T05:05:13+09:00",
+  "datePublished": "2026-11-07T05:05:13+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71902/20261106de71902_E0000150168_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71902/20261106de71902_E0000150168_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000663",
+      "name": "国税庁・国税局",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "国税庁を装って個人情報や金銭をだまし取ろうとする偽メールが急増しています。国税庁は「メールで還付手続きを案内したり納税を求めたりすることはない」として、ホームページで偽メールの特徴を詳しく紹介し、注意",
+  "articleBody": "国税庁を装って個人情報や金銭をだまし取ろうとする偽メールが急増しています。国税庁は「メールで還付手続きを案内したり納税を求めたりすることはない」として、ホームページで偽メールの特徴を詳しく紹介し、注意を呼びかけています。\n\n\n国税庁によりますと、国税庁や、税金の電子申告や納税ができるシステム「e－Tax」を装って、還付手続きや納税が必要であるなどとしてフィッシングサイトに誘導する偽のメールがことし9月下旬ごろから急増しているということです。\n\n国税庁の電話相談窓口にはこれまでも1日に数件程度、相談が寄せられていましたが、先月下旬までの1か月間は相談件数が800件ほどと急増したほか、全国の国税局や国税事務所にも1万3000件余りの問い合わせがきているということです。\n\nこのため国税庁はホームページで偽メールの特徴を詳しく紹介し、注意を呼びかけています。\n\n具体的には、偽メールには支払いを催促する文面があるものの、国税庁はメールで支払いの催促はしないとしています。\n\nまた、還付金の受け取りの手続きとしてアプリをインストールするボタンをクリックさせようとする偽メールもありますが、国税庁は還付金の手続きでアプリのダウンロードを求めることはないとしています。\n\n誤ってアプリのダウンロードやリンクをクリックすると、フィッシングサイトに誘導され、個人情報や金銭をだまし取られるおそれがあるということです。\n\n国税庁は、「国税庁やe－Taxからメールで還付手続きを案内したり、納税を求めたりすることはない」として、注意を呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "国税庁を装って個人情報や金銭をだまし取ろうとする偽メールが急増しています。国税庁は「メールで還付手続きを案内したり納税を求めたりすることはない」として、ホームページで偽メールの特徴を詳しく紹介し、注意を呼びかけています。\n",
+    "markedBody": "国税庁によりますと、国税庁や、税金の電子申告や納税ができるシステム「e－Tax」を装って、還付手続きや納税が必要であるなどとしてフィッシングサイトに誘導する偽のメールがことし9月下旬ごろから急増しているということです。\n\n国税庁の電話相談窓口にはこれまでも1日に数件程度、相談が寄せられていましたが、先月下旬までの1か月間は相談件数が800件ほどと急増したほか、全国の国税局や国税事務所にも1万3000件余りの問い合わせがきているということです。\n\nこのため国税庁はホームページで偽メールの特徴を詳しく紹介し、注意を呼びかけています。\n\n具体的には、偽メールには支払いを催促する文面があるものの、国税庁はメールで支払いの催促はしないとしています。\n\nまた、還付金の受け取りの手続きとしてアプリをインストールするボタンをクリックさせようとする偽メールもありますが、国税庁は還付金の手続きでアプリのダウンロードを求めることはないとしています。\n\n誤ってアプリのダウンロードやリンクをクリックすると、フィッシングサイトに誘導され、個人情報や金銭をだまし取られるおそれがあるということです。\n\n国税庁は、「国税庁やe－Taxからメールで還付手続きを案内したり、納税を求めたりすることはない」として、注意を呼びかけています。\n",
+    "trimmedLead": "国税庁を装って個人情報や金銭をだまし取ろうとする偽メールが急増しています。国税庁は「メールで還付手続きを案内したり納税を求めたりすることはない」として、ホームページで偽メールの特徴を詳しく紹介し、注意を呼びかけています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261106de71902.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261106de71902",
+  "video": [],
+  "citation": [
+    {
+      "name": "大分 陸上自衛隊戦車3人死亡事故 前の砲弾の破片が原因か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261107de71984",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de71984/20261107de71984_E0000151090_1_s.jpg",
+      "datePublished": "2026-11-07T04:56:32+09:00"
+    },
+    {
+      "name": "国際ハッカー集団“日本企業はぜい弱性を放置”取材に回答",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71650",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71650/20261106de71650_E0000148166_1_s.jpg",
+      "datePublished": "2026-11-06T19:55:33+09:00"
+    },
+    {
+      "name": "128の信用金庫 サービスはすべて復旧 システム障害が原因",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71533",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71533/20261106de71533_E0000148009_1_s.jpg",
+      "datePublished": "2026-11-06T20:13:36+09:00"
+    },
+    {
+      "name": "消費税減税法案 衆議院を通過 自民・維新などの賛成多数で可決",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71359",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71359/20261106de71359_E0000113888_1_s.jpg",
+      "datePublished": "2026-11-06T15:39:00+09:00"
+    },
+    {
+      "name": "なぜ共和党はここまで大敗した？トランプ大統領の次の一手は？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de71148",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71148/20261105de71148_E0000147142_1_s.jpg",
+      "datePublished": "2026-11-06T13:23:00+09:00"
+    },
+    {
+      "name": "アメリカ 中間選挙の大敗受け ルビオ国務長官の去就報道相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de71260",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71260/20261105de71260_E0000149918_1_s.jpg",
+      "datePublished": "2026-11-06T19:39:00+09:00"
+    },
+    {
+      "name": "ロシア国内のJT関連工場 一時的にロシア企業管理下に 大統領令",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de71261",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71261/20261105de71261_E0000148014_1_s.jpg",
+      "datePublished": "2026-11-06T13:30:00+09:00"
+    },
+    {
+      "name": "【情報漏えい】対策どうする 二次被害に遭わないためには",
+      "url": "https://news.web.nhk/newsweb/pl/editorial-nwa-0000000697",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261018de61119_E0000086259_1_s.jpg"
+    },
+    {
+      "name": "同じ住宅が5回もトクリュウの被害に…なぜ狙われた？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63318",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63318/20261022de63318_E0000134660_1_s.jpg",
+      "datePublished": "2026-11-05T17:46:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
