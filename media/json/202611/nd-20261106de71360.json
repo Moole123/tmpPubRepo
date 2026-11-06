@@ -1,0 +1,115 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261106de71360",
+  "dataSourceId": "nd",
+  "name": "NTTドコモ通信障害が復旧 原因は装置の不具合",
+  "headline": "NTTドコモ通信障害が復旧 原因は装置の不具合",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261106de71360",
+    "playlistId": "news-nwa-business-nationwide-20261106",
+    "newsarticleName": "NTTドコモ通信障害が復旧 原因は装置の不具合",
+    "playlistName": "11月6日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "NTTドコモでは、5日午前11時すぎから「5G SA」と呼ばれる通信の方式を契約している利用者の間で、通話やデータ通信などが利用しにくい状況が続いていましたが、6日午前1時20分ごろ復旧したということ",
+  "dateModified": "2026-11-06T11:03:25+09:00",
+  "datePublished": "2026-11-06T11:03:25+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71360/20261106de71360_E0000147048_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71360/20261106de71360_E0000147048_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "暮らし"
+  ],
+  "topic": [
+    {
+      "id": "E0000000472",
+      "name": "通信",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "NTTドコモでは、5日午前11時すぎから「5G SA」と呼ばれる通信の方式を契約している利用者の間で、通話やデータ通信などが利用しにくい状況が続いていましたが、6日午前1時20分ごろ復旧したということ",
+  "articleBody": "NTTドコモでは、5日午前11時すぎから「5G SA」と呼ばれる通信の方式を契約している利用者の間で、通話やデータ通信などが利用しにくい状況が続いていましたが、6日午前1時20分ごろ復旧したということです。\n\n\n会社では原因について、利用者の通信を管理する交換機に不具合が起きたためで、不正アクセスによるものではなかったとしています。\n\n会社では利用しにくい状況が続く場合は携帯電話を再起動するか、機内モードのスイッチを切り替えるなどしてほしいとしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "NTTドコモでは、5日午前11時すぎから「5G SA」と呼ばれる通信の方式を契約している利用者の間で、通話やデータ通信などが利用しにくい状況が続いていましたが、6日午前1時20分ごろ復旧したということです。\n",
+    "markedBody": "会社では原因について、利用者の通信を管理する交換機に不具合が起きたためで、不正アクセスによるものではなかったとしています。\n\n会社では利用しにくい状況が続く場合は携帯電話を再起動するか、機内モードのスイッチを切り替えるなどしてほしいとしています。\n",
+    "trimmedLead": "NTTドコモでは、5日午前11時すぎから「5G SA」と呼ばれる通信の方式を契約している利用者の間で、通話やデータ通信などが利用しにくい状況が続いていましたが、6日午前1時20分ごろ復旧したということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261106de71360.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261106de71360",
+  "video": [],
+  "citation": [
+    {
+      "name": "2026年の新語・流行語大賞の候補 30のことばは？【全掲載】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de70801",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70801/20261105de70801_E0000143749_1_s.jpg",
+      "datePublished": "2026-11-05T17:03:55+09:00"
+    },
+    {
+      "name": "自転車青切符 半年間で1万6000件交付 “ながらスマホ”が4割",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71298",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71298/20261106de71298_E0000146651_1_s.jpg",
+      "datePublished": "2026-11-06T00:29:53+09:00"
+    },
+    {
+      "name": "【情報漏えい】対策どうする 二次被害に遭わないためには",
+      "url": "https://news.web.nhk/newsweb/pl/editorial-nwa-0000000697",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261018de61119_E0000086259_1_s.jpg"
+    },
+    {
+      "name": "アメリカ中間選挙 共和党大敗 トランプ大統領の対応は【詳報】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de69965",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69965/20261103de69965_E0000145914_1_s.jpg",
+      "datePublished": "2026-11-05T20:56:00+09:00"
+    },
+    {
+      "name": "東大総長選 投票はなぜ覆った? 異例の“大逆転”を追った",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70318",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70318/20261104de70318_E0000143761_1_s.jpg",
+      "datePublished": "2026-11-05T19:12:31+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

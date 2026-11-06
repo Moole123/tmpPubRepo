@@ -1,0 +1,148 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261106de71363",
+  "dataSourceId": "nd",
+  "name": "不正アクセス対策 政府が予備費100億円の支出を決定 警察のシステム整備など 緊急対策パッケージに合わせ",
+  "headline": "不正アクセス対策 政府が予備費100億円の支出を決定",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261106de71363",
+    "playlistId": "news-nwa-politics-nationwide-20261106",
+    "newsarticleName": "不正アクセス対策 政府が予備費100億円の支出を決定 警察のシステム整備など 緊急対策パッケージに合わせ",
+    "playlistName": "11月6日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "不正アクセスによる情報漏えいが相次ぐ中、政府は、警察のシステム整備など対策に必要な費用として、今年度予算の予備費から100億円を支出することを決めました。\n\n\nこのところ、企業のサーバーなどへの不正ア",
+  "dateModified": "2026-11-06T11:18:27+09:00",
+  "datePublished": "2026-11-06T10:43:28+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71363/20261106de71363_E0000003476_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71363/20261106de71363_E0000003476_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000640",
+      "name": "高市内閣",
+      "display": true
+    },
+    {
+      "id": "E0000000153",
+      "name": "2026年度予算",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "不正アクセスによる情報漏えいが相次ぐ中、政府は、警察のシステム整備など対策に必要な費用として、今年度予算の予備費から100億円を支出することを決めました。\n\n\nこのところ、企業のサーバーなどへの不正ア",
+  "articleBody": "不正アクセスによる情報漏えいが相次ぐ中、政府は、警察のシステム整備など対策に必要な費用として、今年度予算の予備費から100億円を支出することを決めました。\n\n\nこのところ、企業のサーバーなどへの不正アクセスによって氏名や住所などの個人情報の漏えいが相次ぎ、身に覚えのない金融取り引きも確認され、被害が広がっています。\n\n政府は、6日にも緊急対策パッケージを決定することにしていて、これに合わせて6日朝の閣議で今年度予算の予備費から100億円を支出することを決めました。\n\n内訳は、警察が攻撃元のサーバーなどにアクセスして無害化措置を講じる「能動的サイバー防御」に必要なシステムを強化することなどの費用に41億円、デジタル庁のシステムのセキュリティーを強化するために38億円、AIを活用して政府などのシステムのぜい弱性を点検する費用に20億円となっています。\n\n政府は予備費の活用を通じてサイバー攻撃による被害の拡大を防ぐための対応を急ぎたい考えです。\n\n古川デジタル相“高性能AIでぜい弱性確認が有効 対策強化へ”\n\n古川デジタル大臣は閣議のあと記者団に対し、「プログラミング言語の『PHP』のように今まで見つからなかったぜい弱性が高性能AIによって検索される事例もある。セキュリティーのぜい弱性がサイバー攻撃の対象になる前に高性能AIを使ってシステムをチェックし、ぜい弱性が見つかった場合には速やかに対応する取り組みを続けることが有効な対応だ」と述べました。\n\nその上で「緊急対策パッケージの取り組みを速やかに実行することでサイバーセキュリティーのいっそうの強化に取り組んでいきたい」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "不正アクセスによる情報漏えいが相次ぐ中、政府は、警察のシステム整備など対策に必要な費用として、今年度予算の予備費から100億円を支出することを決めました。\n",
+    "markedBody": "このところ、企業のサーバーなどへの不正アクセスによって氏名や住所などの個人情報の漏えいが相次ぎ、身に覚えのない金融取り引きも確認され、被害が広がっています。\n\n政府は、6日にも緊急対策パッケージを決定することにしていて、これに合わせて6日朝の閣議で今年度予算の予備費から100億円を支出することを決めました。\n\n内訳は、警察が攻撃元のサーバーなどにアクセスして無害化措置を講じる「能動的サイバー防御」に必要なシステムを強化することなどの費用に41億円、デジタル庁のシステムのセキュリティーを強化するために38億円、AIを活用して政府などのシステムのぜい弱性を点検する費用に20億円となっています。\n\n政府は予備費の活用を通じてサイバー攻撃による被害の拡大を防ぐための対応を急ぎたい考えです。\n\n## 古川デジタル相“高性能AIでぜい弱性確認が有効 対策強化へ”\n\n古川デジタル大臣は閣議のあと記者団に対し、「プログラミング言語の『PHP』のように今まで見つからなかったぜい弱性が高性能AIによって検索される事例もある。セキュリティーのぜい弱性がサイバー攻撃の対象になる前に高性能AIを使ってシステムをチェックし、ぜい弱性が見つかった場合には速やかに対応する取り組みを続けることが有効な対応だ」と述べました。\n\nその上で「緊急対策パッケージの取り組みを速やかに実行することでサイバーセキュリティーのいっそうの強化に取り組んでいきたい」と述べました。\n",
+    "trimmedLead": "不正アクセスによる情報漏えいが相次ぐ中、政府は、警察のシステム整備など対策に必要な費用として、今年度予算の予備費から100億円を支出することを決めました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261106de71363.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261106de71363",
+  "video": [],
+  "citation": [
+    {
+      "name": "政府 事業者向けに要請 \"ぜい弱性診断継続など対策徹底を\"",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de71268",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71268/20261105de71268_E0000146612_1_s.jpg",
+      "datePublished": "2026-11-05T22:12:00+09:00"
+    },
+    {
+      "name": "関心高まる「サイバーBCP」 攻撃された後も事業継続へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71299",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71299/20261106de71299_E0000146658_1_s.jpg",
+      "datePublished": "2026-11-06T05:05:00+09:00"
+    },
+    {
+      "name": "【情報漏えい】対策どうする 二次被害に遭わないためには",
+      "url": "https://news.web.nhk/newsweb/pl/editorial-nwa-0000000697",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261018de61119_E0000086259_1_s.jpg"
+    },
+    {
+      "name": "2026年の新語・流行語大賞の候補 30のことばは？【全掲載】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de70801",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70801/20261105de70801_E0000143749_1_s.jpg",
+      "datePublished": "2026-11-05T17:03:55+09:00"
+    },
+    {
+      "name": "自転車青切符 半年間で1万6000件交付 “ながらスマホ”が4割",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71298",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71298/20261106de71298_E0000146651_1_s.jpg",
+      "datePublished": "2026-11-06T00:29:53+09:00"
+    },
+    {
+      "name": "ラグビー日本代表 7日にウェールズ戦へ メンバーを発表",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71303",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71303/20261106de71303_E0000146655_1_s.jpg",
+      "datePublished": "2026-11-06T01:05:03+09:00"
+    },
+    {
+      "name": "ロシア国内のJT関連工場 一時的にロシア企業管理下に 大統領令",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de71261",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71261/20261105de71261_E0000146628_1_s.jpg",
+      "datePublished": "2026-11-06T10:51:00+09:00"
+    },
+    {
+      "name": "メラニア夫人“ウクライナの局地的な停戦を永続的な平和へ”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71316",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71316/20261106de71316_E0000146667_1_s.jpg",
+      "datePublished": "2026-11-06T10:19:22+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
