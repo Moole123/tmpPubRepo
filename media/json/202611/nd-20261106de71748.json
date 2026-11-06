@@ -1,0 +1,154 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261106de71748",
+  "dataSourceId": "nd",
+  "name": "NTTスマイルエナジー 不正アクセスで顧客のポイント不正に交換",
+  "headline": "NTTスマイルエナジー 不正アクセスで顧客のポイント不正に交換",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261106de71748",
+    "playlistId": "news-nwa-business-nationwide-20261106",
+    "newsarticleName": "NTTスマイルエナジー 不正アクセスで顧客のポイント不正に交換",
+    "playlistName": "11月6日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "NTTグループで、太陽光発電に関連したサービスを手がける「NTTスマイルエナジー」は、10月に受けた不正アクセスの影響で、顧客が保有するポイントが不正に交換されていたと明らかにしました。\n\n\n何者かに",
+  "dateModified": "2026-11-06T19:12:03+09:00",
+  "datePublished": "2026-11-06T19:12:03+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71748/20261106de71748_E0000148140_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71748/20261106de71748_E0000148140_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    },
+    {
+      "id": "E0000000472",
+      "name": "通信",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "NTTグループで、太陽光発電に関連したサービスを手がける「NTTスマイルエナジー」は、10月に受けた不正アクセスの影響で、顧客が保有するポイントが不正に交換されていたと明らかにしました。\n\n\n何者かに",
+  "articleBody": "NTTグループで、太陽光発電に関連したサービスを手がける「NTTスマイルエナジー」は、10月に受けた不正アクセスの影響で、顧客が保有するポイントが不正に交換されていたと明らかにしました。\n\n\n何者かによってポイントの管理番号やポイント数などの情報が不正に読み取られ、10月30日と31日の2日間でおよそ1万4000件、800万ポイントが、他社の決済などに使えるポイントに交換されていたということです。\n\n会社では、被害にあった顧客を対象に10月28日時点で保有していたポイントを全額補償するとしています。\n\n会社は「システムのセキュリティー強化および監視体制の抜本的な見直しなど徹底した再発防止策を講じてまいります」とコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "NTTグループで、太陽光発電に関連したサービスを手がける「NTTスマイルエナジー」は、10月に受けた不正アクセスの影響で、顧客が保有するポイントが不正に交換されていたと明らかにしました。\n",
+    "markedBody": "何者かによってポイントの管理番号やポイント数などの情報が不正に読み取られ、10月30日と31日の2日間でおよそ1万4000件、800万ポイントが、他社の決済などに使えるポイントに交換されていたということです。\n\n会社では、被害にあった顧客を対象に10月28日時点で保有していたポイントを全額補償するとしています。\n\n会社は「システムのセキュリティー強化および監視体制の抜本的な見直しなど徹底した再発防止策を講じてまいります」とコメントしています。\n",
+    "trimmedLead": "NTTグループで、太陽光発電に関連したサービスを手がける「NTTスマイルエナジー」は、10月に受けた不正アクセスの影響で、顧客が保有するポイントが不正に交換されていたと明らかにしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261106de71748.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261106de71748",
+  "video": [],
+  "citation": [
+    {
+      "name": "国際ハッカー集団“日本企業はぜい弱性を放置”取材に回答",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71650",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71650/20261106de71650_E0000148166_1_s.jpg",
+      "datePublished": "2026-11-06T18:31:00+09:00"
+    },
+    {
+      "name": "【情報漏えい】対策どうする 二次被害に遭わないためには",
+      "url": "https://news.web.nhk/newsweb/pl/editorial-nwa-0000000697",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261018de61119_E0000086259_1_s.jpg"
+    },
+    {
+      "name": "128の信用金庫 他金融機関への送金除いてサービス復旧",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71533",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71533/20261106de71533_E0000148009_1_s.jpg",
+      "datePublished": "2026-11-06T19:00:14+09:00"
+    },
+    {
+      "name": "消費税減税法案 衆議院を通過 自民・維新などの賛成多数で可決",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71359",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71359/20261106de71359_E0000113888_1_s.jpg",
+      "datePublished": "2026-11-06T15:39:00+09:00"
+    },
+    {
+      "name": "株価 6万円割れ 値下がり幅は終値として過去3番目",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71341",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71341/20261106de71341_E0000148015_1_s.jpg",
+      "datePublished": "2026-11-06T18:45:46+09:00"
+    },
+    {
+      "name": "なぜ共和党はここまで大敗した？トランプ大統領の次の一手は？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de71148",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71148/20261105de71148_E0000147142_1_s.jpg",
+      "datePublished": "2026-11-06T13:23:00+09:00"
+    },
+    {
+      "name": "アメリカ 中間選挙の大敗受け ルビオ国務長官の去就報道相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de71260",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71260/20261105de71260_E0000146984_1_s.jpg",
+      "datePublished": "2026-11-06T11:38:00+09:00"
+    },
+    {
+      "name": "ロシア国内のJT関連工場 一時的にロシア企業管理下に 大統領令",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de71261",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71261/20261105de71261_E0000148014_1_s.jpg",
+      "datePublished": "2026-11-06T13:30:00+09:00"
+    },
+    {
+      "name": "同じ住宅が5回もトクリュウの被害に…なぜ狙われた？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63318",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63318/20261022de63318_E0000134660_1_s.jpg",
+      "datePublished": "2026-11-05T17:46:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

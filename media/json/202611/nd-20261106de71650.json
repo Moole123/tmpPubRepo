@@ -1,0 +1,143 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261106de71650",
+  "dataSourceId": "nd",
+  "name": "国際ハッカー集団「Qilin」にNHKが取材 日本企業狙う理由“システムのぜい弱性が放置されている”と主張",
+  "headline": "国際ハッカー集団“日本企業はぜい弱性を放置”取材に回答",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261106de71650",
+    "playlistId": "news-nwa-scienceculture-nationwide-20261106",
+    "newsarticleName": "国際ハッカー集団「Qilin」にNHKが取材 日本企業狙う理由“システムのぜい弱性が放置されている”と主張",
+    "playlistName": "11月6日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "国内外の企業にサイバー攻撃を仕掛けている国際ハッカー集団が、NHKの取材にメッセージで回答し、日本企業を狙う理由として、システムのぜい弱性が放置されていることがあるなどと主張しました。\n\n\nロシア系の",
+  "dateModified": "2026-11-06T18:31:00+09:00",
+  "datePublished": "2026-11-06T18:31:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71650/20261106de71650_E0000148166_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71650/20261106de71650_E0000148166_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "科学・文化",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "国内外の企業にサイバー攻撃を仕掛けている国際ハッカー集団が、NHKの取材にメッセージで回答し、日本企業を狙う理由として、システムのぜい弱性が放置されていることがあるなどと主張しました。\n\n\nロシア系の",
+  "articleBody": "国内外の企業にサイバー攻撃を仕掛けている国際ハッカー集団が、NHKの取材にメッセージで回答し、日本企業を狙う理由として、システムのぜい弱性が放置されていることがあるなどと主張しました。\n\n\nロシア系のハッカー集団「Qilin」（きりん）は、去年から今年にかけて、「アサヒグループホールディングス」や京王電鉄のグループ会社など、国内の多数の企業に身代金要求型のコンピューターウイルス＝「ランサムウエア」によるサイバー攻撃を行ったとされています。\n\nNHKが専門家の協力のもと、サイトや連絡先を特定し取材したところ、ハッカー集団が英語のメッセージで回答しました。\n\nこの中では自分たちのサイバー攻撃を“ビジネス”、脅迫の被害にあって金銭を支払ったとみられる企業を“クライアント”と称し、「クライアントは過去2年間で急激に増えている」などと主張しました。\n\nそして、サイバー攻撃で日本の企業を標的としている理由について問うたところ、システムにぜい弱性が放置されていることを挙げ、「みなさんは本当にアップデートを嫌がる。詳しく調べると、昔からある古いぜい弱性が次々に見つかる。ばかげているし、非常に奇妙なことだ。しかし、それで私たちはもうかる」などと主張しました。\n\n中には5年前に公開されたぜい弱性が修正されていないこともあったとしています。\n\nさらに、手口の詳細は明かせないとしましたが、攻撃や分析の一部に自分たちで開発したAIモデルを使っていることを明らかにし、ハッカー集団は日本の組織を対象にした攻撃は今後も増え続けるなどと主張しました。\n\n専門家「重要なサーバーはアップデート 国も対策呼びかけ必要」\n\nサイバーセキュリティーに詳しい 日本ハッカー協会 杉浦隆幸代表理事\n「あくまで攻撃側からどう見えているかという一方的な内容だということを踏まえる必要がある。ただ、日本企業では社内システムのぜい弱性をそのままにしているケースは確かに多いと思う。現在はAIによるぜい弱性の発見が相次いでいて、対応の不十分なシステムは守り切れない状態になっている。重要なサーバーはちゃんとアップデートするなど対策を進めるよう国も呼びかけていく必要がある」\n",
+  "detailedArticleBody": {
+    "markedLead": "国内外の企業にサイバー攻撃を仕掛けている国際ハッカー集団が、NHKの取材にメッセージで回答し、日本企業を狙う理由として、システムのぜい弱性が放置されていることがあるなどと主張しました。\n",
+    "markedBody": "![](https://img.web.nhk/news/nd/kiji/20261106de71650/20261106de71650_E0000149929_1_l.jpg)\n\nロシア系のハッカー集団「Qilin」（きりん）は、去年から今年にかけて、「アサヒグループホールディングス」や京王電鉄のグループ会社など、国内の多数の企業に身代金要求型のコンピューターウイルス＝「ランサムウエア」によるサイバー攻撃を行ったとされています。\n\nNHKが専門家の協力のもと、サイトや連絡先を特定し取材したところ、ハッカー集団が英語のメッセージで回答しました。\n\n![](https://img.web.nhk/news/nd/kiji/20261106de71650/20261106de71650_E0000149749_1_l.jpg)\n\nこの中では自分たちのサイバー攻撃を“ビジネス”、脅迫の被害にあって金銭を支払ったとみられる企業を“クライアント”と称し、「クライアントは過去2年間で急激に増えている」などと主張しました。\n\n![](https://img.web.nhk/news/nd/kiji/20261106de71650/20261106de71650_E0000148208_1_l.jpg)\n\nそして、サイバー攻撃で日本の企業を標的としている理由について問うたところ、システムにぜい弱性が放置されていることを挙げ、「みなさんは本当にアップデートを嫌がる。詳しく調べると、昔からある古いぜい弱性が次々に見つかる。ばかげているし、非常に奇妙なことだ。しかし、それで私たちはもうかる」などと主張しました。\n\n中には5年前に公開されたぜい弱性が修正されていないこともあったとしています。\n\nさらに、手口の詳細は明かせないとしましたが、攻撃や分析の一部に自分たちで開発したAIモデルを使っていることを明らかにし、ハッカー集団は日本の組織を対象にした攻撃は今後も増え続けるなどと主張しました。\n\n## 専門家「重要なサーバーはアップデート 国も対策呼びかけ必要」\n\n![](https://img.web.nhk/news/nd/kiji/20261106de71650/20261106de71650_E0000148099_1_l.jpg)\n\n:::nw--quote\n**サイバーセキュリティーに詳しい 日本ハッカー協会 杉浦隆幸代表理事**\\\n「あくまで攻撃側からどう見えているかという一方的な内容だということを踏まえる必要がある。ただ、日本企業では社内システムのぜい弱性をそのままにしているケースは確かに多いと思う。現在はAIによるぜい弱性の発見が相次いでいて、対応の不十分なシステムは守り切れない状態になっている。重要なサーバーはちゃんとアップデートするなど対策を進めるよう国も呼びかけていく必要がある」\n:::\n",
+    "trimmedLead": "国内外の企業にサイバー攻撃を仕掛けている国際ハッカー集団が、NHKの取材にメッセージで回答し、日本企業を狙う理由として、システムのぜい弱性が放置されていることがあるなどと主張しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261106de71650.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261106de71650",
+  "video": [],
+  "citation": [
+    {
+      "name": "情報漏えいリスク回避へ「勉強会」や「個人情報持たない企業」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71407",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71407/20261106de71407_E0000147128_1_s.jpg",
+      "datePublished": "2026-11-06T17:31:15+09:00"
+    },
+    {
+      "name": "128の信用金庫 他金融機関への送金除いてサービス復旧",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71533",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71533/20261106de71533_E0000148009_1_s.jpg",
+      "datePublished": "2026-11-06T19:00:14+09:00"
+    },
+    {
+      "name": "株価 6万円割れ 値下がり幅は終値として過去3番目",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71341",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71341/20261106de71341_E0000148015_1_s.jpg",
+      "datePublished": "2026-11-06T18:45:46+09:00"
+    },
+    {
+      "name": "消費税減税法案 衆議院を通過 自民・維新などの賛成多数で可決",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71359",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71359/20261106de71359_E0000113888_1_s.jpg",
+      "datePublished": "2026-11-06T15:39:00+09:00"
+    },
+    {
+      "name": "不正アクセス対策 政府が予備費100億円の支出を決定",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71363",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71363/20261106de71363_E0000003476_1_s.jpg",
+      "datePublished": "2026-11-06T11:18:27+09:00"
+    },
+    {
+      "name": "NTTドコモ通信障害が復旧 原因は装置の不具合",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71360",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71360/20261106de71360_E0000147048_1_s.jpg",
+      "datePublished": "2026-11-06T11:03:25+09:00"
+    },
+    {
+      "name": "【情報漏えい】対策どうする 二次被害に遭わないためには",
+      "url": "https://news.web.nhk/newsweb/pl/editorial-nwa-0000000697",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261018de61119_E0000086259_1_s.jpg"
+    },
+    {
+      "name": "同じ住宅が5回もトクリュウの被害に…なぜ狙われた？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261022de63318",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63318/20261022de63318_E0000134660_1_s.jpg",
+      "datePublished": "2026-11-05T17:46:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
