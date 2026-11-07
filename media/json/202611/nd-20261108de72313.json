@@ -1,0 +1,138 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261108de72313",
+  "dataSourceId": "nd",
+  "name": "地震の特徴 南海トラフ巨大地震との関連【災害担当記者 解説】",
+  "headline": "地震の特徴 南海トラフ巨大地震との関連【災害担当記者 解説】",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261108de72313",
+    "playlistId": "news-nwa-disaster-nationwide-20261108",
+    "newsarticleName": "地震の特徴 南海トラフ巨大地震との関連【災害担当記者 解説】",
+    "playlistName": "11月8日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "8日午前1時4分ごろ、愛知県で震度5強の揺れを観測する地震がありました。\n\n今回の地震の特徴や南海トラフ巨大地震との関連について、社会部災害担当の及川緑記者の解説です。\n\n（データ放送では動画をご覧い",
+  "dateModified": "2026-11-08T04:18:30+09:00",
+  "datePublished": "2026-11-08T04:18:30+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72313/20261108de72313_E0000152506_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72313/20261108de72313_E0000152506_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000389",
+      "name": "地震",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "8日午前1時4分ごろ、愛知県で震度5強の揺れを観測する地震がありました。\n\n今回の地震の特徴や南海トラフ巨大地震との関連について、社会部災害担当の及川緑記者の解説です。\n\n（データ放送では動画をご覧い",
+  "articleBody": "8日午前1時4分ごろ、愛知県で震度5強の揺れを観測する地震がありました。\n\n今回の地震の特徴や南海トラフ巨大地震との関連について、社会部災害担当の及川緑記者の解説です。\n\n（データ放送では動画をご覧いただけません）\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "8日午前1時4分ごろ、愛知県で震度5強の揺れを観測する地震がありました。\n\n今回の地震の特徴や南海トラフ巨大地震との関連について、社会部災害担当の及川緑記者の解説です。\n\n（データ放送では動画をご覧いただけません）\n",
+    "markedBody": "",
+    "trimmedLead": "8日午前1時4分ごろ、愛知県で震度5強の揺れを観測する地震がありました。\n\n今回の地震の特徴や南海トラフ巨大地震との関連について、社会部災害担当の及川緑記者の解説です。\n\n（データ放送では動画をご覧いただけません）\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261108de72313.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261108de72313",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "地震の特徴 南海トラフ巨大地震との関連【災害担当記者 解説】",
+      "description": "8日午前1時4分ごろ、愛知県で震度5強の揺れを観測する地震がありました。\n\n今回の地震の特徴や南海トラフ巨大地震との関連について、社会部災害担当の及川緑記者の解説です。\n\n（データ放送では動画をご覧い",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261108de72313_E0000152505_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261108de72313/20261108de72313_E0000152506_1_l.jpg",
+      "duration": "PT2M47S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261108de72313_E0000152505_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72313/20261108de72313_E0000152506_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "【地震情報】愛知県で震度5強 津波の心配なし",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72252",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72252/20261108de72252_E0000152476_1_s.jpg",
+      "datePublished": "2026-11-08T04:21:28+09:00"
+    },
+    {
+      "name": "気象庁記者会見 “同程度の地震に注意”【会見詳細】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72259",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72259/20261108de72259_E0000152498_1_s.jpg",
+      "datePublished": "2026-11-08T04:26:56+09:00"
+    },
+    {
+      "name": "専門家 「南海トラフ巨大地震とは結びつかないとみられる」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72284",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72284/20261108de72284_E0000152494_1_s.jpg",
+      "datePublished": "2026-11-08T02:55:18+09:00"
+    },
+    {
+      "name": "愛知 豊橋 車の販売店でショーウィンドウのガラス大きく割れる",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72297",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72297/20261108de72297_E0000152501_1_s.jpg",
+      "datePublished": "2026-11-08T03:33:37+09:00"
+    },
+    {
+      "name": "【地震】名古屋市のマンションでエレベーター停まる",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72302",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72302/20261108de72302_E0000152500_1_s.jpg",
+      "datePublished": "2026-11-08T03:28:51+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
