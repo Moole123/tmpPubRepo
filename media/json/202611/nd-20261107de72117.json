@@ -1,0 +1,146 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261107de72117",
+  "dataSourceId": "nd",
+  "name": "プロボウラーの中山律子さんが死去 一大ブーム起こす 84歳",
+  "headline": "プロボウラーの中山律子さんが死去 一大ブーム起こす 84歳",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261107de72117",
+    "playlistId": "news-nwa-society-nationwide-20261107",
+    "newsarticleName": "プロボウラーの中山律子さんが死去 一大ブーム起こす 84歳",
+    "playlistName": "11月7日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "「さわやか律子さん」の愛称で人気を集め、ボウリングの一大ブームを起こしたプロボウラーの中山律子さんが亡くなりました。\n\n84歳でした。\n\n\n",
+  "dateModified": "2026-11-07T15:24:00+09:00",
+  "datePublished": "2026-11-07T15:24:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72117/20261107de72117_E0000151600_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72117/20261107de72117_E0000151600_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会",
+    "スポーツ"
+  ],
+  "topic": [
+    {
+      "id": "E0000000103",
+      "name": "訃報",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "「さわやか律子さん」の愛称で人気を集め、ボウリングの一大ブームを起こしたプロボウラーの中山律子さんが亡くなりました。\n\n84歳でした。\n\n\n",
+  "articleBody": "「さわやか律子さん」の愛称で人気を集め、ボウリングの一大ブームを起こしたプロボウラーの中山律子さんが亡くなりました。\n\n84歳でした。\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "「さわやか律子さん」の愛称で人気を集め、ボウリングの一大ブームを起こしたプロボウラーの中山律子さんが亡くなりました。\n\n84歳でした。\n",
+    "markedBody": "![](https://img.web.nhk/news/nd/kiji/20261107de72117/20261107de72117_E0000151602_1_l.jpg)\n",
+    "trimmedLead": "「さわやか律子さん」の愛称で人気を集め、ボウリングの一大ブームを起こしたプロボウラーの中山律子さんが亡くなりました。\n\n84歳でした。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261107de72117.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261107de72117",
+  "video": [],
+  "citation": [
+    {
+      "name": "ラグビー日本代表 国際大会初戦 ウェールズ戦を前に最終調整",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261107de71986",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de71986/20261107de71986_E0000151100_1_s.jpg",
+      "datePublished": "2026-11-07T06:19:11+09:00"
+    },
+    {
+      "name": "フィギュアGP中国大会 男子前半は三浦が首位 佐藤が2位",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261107de71982",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de71982/20261107de71982_E0000151078_1_s.jpg",
+      "datePublished": "2026-11-07T00:51:38+09:00"
+    },
+    {
+      "name": "広島 通算76勝の東浜巨投手をソフトバンクからトレードで獲得",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71646",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71646/20261106de71646_E0000148084_1_s.jpg",
+      "datePublished": "2026-11-06T17:12:48+09:00"
+    },
+    {
+      "name": "パ・リーグ5球団 メールアドレス約2万5600件漏えい",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71746",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71746/20261106de71746_E0000004053_1_s.jpg",
+      "datePublished": "2026-11-06T19:04:00+09:00"
+    },
+    {
+      "name": "大相撲九州場所 横綱 大の里は初日に小結 義ノ富士と対戦",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71503",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71503/20261106de71503_E0000147813_1_s.jpg",
+      "datePublished": "2026-11-06T21:26:21+09:00"
+    },
+    {
+      "name": "ラグビー日本代表 欧州遠征“仮想W杯”【注目点を詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71447",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71447/20261106de71447_E0000147872_1_s.jpg",
+      "datePublished": "2026-11-06T13:56:34+09:00"
+    },
+    {
+      "name": "ロスパラ新競技のクライミング国際大会 會田祥が優勝",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71780",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/r/kiji/20261106de71780/20261106de71780_E0000148352_1_s.jpg",
+      "datePublished": "2026-11-06T20:54:00+09:00"
+    },
+    {
+      "name": "サッカー日本代表 森保監督が年内退任の見通し アジア杯延期で",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de71293",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71293/20261105de71293_E0000146646_1_s.jpg",
+      "datePublished": "2026-11-06T00:48:08+09:00"
+    },
+    {
+      "name": "甲子園2部制 代表校9割が熱中症対策「効果あった」と回答",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71860",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71860/20261106de71860_E0000150163_1_s.jpg",
+      "datePublished": "2026-11-06T20:34:00+09:00"
+    },
+    {
+      "name": "三冠王ら大リーグ移籍交渉開始",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de70833",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70833/20261105de70833_E0000143117_1_s.jpg",
+      "datePublished": "2026-11-05T13:12:04+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
