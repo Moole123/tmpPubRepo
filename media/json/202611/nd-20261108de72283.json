@@ -1,0 +1,148 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261108de72283",
+  "dataSourceId": "nd",
+  "name": "【鉄道】愛知県で震度5強 JR・名古屋鉄道は線路点検し運行判断",
+  "headline": "【鉄道】震度5強 JR・名古屋鉄道は線路点検し始発の運行判断",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261108de72283",
+    "playlistId": "news-nwa-disaster-nationwide-20261108",
+    "newsarticleName": "【鉄道】愛知県で震度5強 JR・名古屋鉄道は線路点検し運行判断",
+    "playlistName": "11月8日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "午前1時40分現在の鉄道の情報です。\n\nJR東海によりますと、今のところ、線路などに影響は確認されていませんが、今後、線路の点検を進め、8日朝の始発が平常どおり運行できるかどうか判断をするということで",
+  "dateModified": "2026-11-08T02:28:51+09:00",
+  "datePublished": "2026-11-08T02:28:51+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72283/20261108de72283_E0000003966_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72283/20261108de72283_E0000003966_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害",
+    "暮らし"
+  ],
+  "topic": [
+    {
+      "id": "E0000000389",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "E0000000351",
+      "name": "愛知県",
+      "display": true
+    },
+    {
+      "id": "E0000000651",
+      "name": "交通・インフラ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "午前1時40分現在の鉄道の情報です。\n\nJR東海によりますと、今のところ、線路などに影響は確認されていませんが、今後、線路の点検を進め、8日朝の始発が平常どおり運行できるかどうか判断をするということで",
+  "articleBody": "午前1時40分現在の鉄道の情報です。\n\nJR東海によりますと、今のところ、線路などに影響は確認されていませんが、今後、線路の点検を進め、8日朝の始発が平常どおり運行できるかどうか判断をするということです。\n\n\nまた、名古屋鉄道によりますと、これから線路の点検を開始し、その結果で始発からの運行できるか、判断することにしていて、一部に運休や遅れの可能性があるということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "午前1時40分現在の鉄道の情報です。\n\nJR東海によりますと、今のところ、線路などに影響は確認されていませんが、今後、線路の点検を進め、8日朝の始発が平常どおり運行できるかどうか判断をするということです。\n",
+    "markedBody": "また、名古屋鉄道によりますと、これから線路の点検を開始し、その結果で始発からの運行できるか、判断することにしていて、一部に運休や遅れの可能性があるということです。\n",
+    "trimmedLead": "午前1時40分現在の鉄道の情報です。\n\nJR東海によりますと、今のところ、線路などに影響は確認されていませんが、今後、線路の点検を進め、8日朝の始発が平常どおり運行できるかどうか判断をするということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261108de72283.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261108de72283",
+  "video": [],
+  "citation": [
+    {
+      "name": "鉄道運行情報",
+      "url": "https://news.web.nhk/news/traffic/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00046_E0000003285_1_s.jpg"
+    },
+    {
+      "name": "愛知県の高速 5つの道路で全線通行止め",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72280",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72280/20261108de72280_E0000003947_1_s.jpg",
+      "datePublished": "2026-11-08T02:21:09+09:00"
+    },
+    {
+      "name": "【交通】震度5強 中部空港 始発便 現時点で通常どおり運航予定",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72277",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72277/20261108de72277_E0000003966_1_s.jpg",
+      "datePublished": "2026-11-08T02:18:56+09:00"
+    },
+    {
+      "name": "地震マップ 最新の震度分布・震源をリアルタイム更新",
+      "url": "https://news.web.nhk/bousai-map/earthquake/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00362_E0000003393_1_s.jpg"
+    },
+    {
+      "name": "【最新の地震情報】各地の震度・震源を詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/earthquake/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00078_E0000003275_1_s.jpg"
+    },
+    {
+      "name": "「地震への備え」特選コンテンツ",
+      "url": "https://news.web.nhk/newsweb/sp/pl/editorial-nwa-0000000132",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00005_E0000001742_1_s.jpg"
+    },
+    {
+      "name": "首都直下地震 新たな被害想定 “死者 最大1万8000人”",
+      "url": "https://news.web.nhk/newsweb/na/nc-e348f9cc-3c19-4405-a5b0-210cab9aeaae",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00379_E0000003411_1_s.jpg"
+    },
+    {
+      "name": "長周期地震動とは？震源から離れても大きな揺れ どう備えれば",
+      "url": "https://news.web.nhk/newsweb/na/nc-a9e5a58e-908a-40b0-8afa-725c736a3822?_reload=2026-04-09T10%253A40%253A14.617Z",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00380_E0000003412_1_s.jpg"
+    },
+    {
+      "name": "非常用持ち出し袋 地震や水害で避難する際に あなたや家族、ペットに必要なものは？",
+      "url": "https://news.web.nhk/newsweb/na/nc-58cf1db6-d0c1-4fd2-93d3-99650cdc88f6",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00300_E0000003319_1_s.jpg"
+    },
+    {
+      "name": "天気防災マップ ふだんの雨雲予想から災害時のリスク情報まで",
+      "url": "https://news.web.nhk/bousai-map/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00366_E0000003397_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

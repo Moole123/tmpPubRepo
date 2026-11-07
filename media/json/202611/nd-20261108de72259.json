@@ -1,0 +1,154 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261108de72259",
+  "dataSourceId": "nd",
+  "name": "地震 愛知県で震度5強 気象庁が記者会見【ライブ配信予定】",
+  "headline": "地震 愛知県で震度5強 気象庁が記者会見【ライブ配信予定】",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261108de72259",
+    "playlistId": "news-nwa-disaster-nationwide-20261108",
+    "newsarticleName": "地震 愛知県で震度5強 気象庁が記者会見【ライブ配信予定】",
+    "playlistName": "11月8日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "震度5強の揺れを観測した地震について気象庁は、8日午前3時5分から記者会見を開き、地震活動の状況や警戒点について説明することにしています。\n\n記者会見の模様はこの記事でライブ配信でお伝えする予定です。",
+  "dateModified": "2026-11-08T01:36:00+09:00",
+  "datePublished": "2026-11-08T01:36:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72259/20261108de72259_E0000003831_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72259/20261108de72259_E0000003831_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000682",
+      "name": "気象庁",
+      "display": true
+    },
+    {
+      "id": "E0000000389",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "E0000000351",
+      "name": "愛知県",
+      "display": true
+    },
+    {
+      "id": "E0000000348",
+      "name": "長野県",
+      "display": true
+    },
+    {
+      "id": "E0000000349",
+      "name": "岐阜県",
+      "display": true
+    },
+    {
+      "id": "E0000000350",
+      "name": "静岡県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "震度5強の揺れを観測した地震について気象庁は、8日午前3時5分から記者会見を開き、地震活動の状況や警戒点について説明することにしています。\n\n記者会見の模様はこの記事でライブ配信でお伝えする予定です。",
+  "articleBody": "震度5強の揺れを観測した地震について気象庁は、8日午前3時5分から記者会見を開き、地震活動の状況や警戒点について説明することにしています。\n\n記者会見の模様はこの記事でライブ配信でお伝えする予定です。\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "震度5強の揺れを観測した地震について気象庁は、8日午前3時5分から記者会見を開き、地震活動の状況や警戒点について説明することにしています。\n\n==記者会見の模様はこの記事でライブ配信でお伝えする予定です。=={style=background-color:#fffbe8}\n",
+    "markedBody": "```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"001\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\n<div class=\"fs-wrap\">\n  <h2 class=\"freespace-title\">【ライブ配信予定】</h2>\n  <div class=\"video-player-fixed\">\n    <iframe src=\"https://news.web.nhk/n-data/conf/realtime/movie/player_rt20261017de60869_03.html\" title=\"NHKライブ配信\" allow=\"fullscreen\"></iframe>\n  </div>\n</div>\n</div>\n```\n\n```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"002\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\n<div class=\"fs-wrap\">\n  <h2 class=\"freespace-title\">【ライブ配信予定】</h2>\n  <div class=\"video-player-fixed\">\n    <iframe src=\"https://news.web.nhk/n-data/conf/realtime/movie/player_rt20261017de60869_04.html\" title=\"NHKライブ配信\" allow=\"fullscreen\"></iframe>\n  </div>\n</div>\n</div>\n```\n",
+    "noHtmlMarkedLead": "震度5強の揺れを観測した地震について気象庁は、8日午前3時5分から記者会見を開き、地震活動の状況や警戒点について説明することにしています。\n\n==記者会見の模様はこの記事でライブ配信でお伝えする予定です。=={style=background-color:#fffbe8}\n",
+    "trimmedLead": "震度5強の揺れを観測した地震について気象庁は、8日午前3時5分から記者会見を開き、地震活動の状況や警戒点について説明することにしています。\n\n記者会見の模様はこの記事でライブ配信でお伝えする予定です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261108de72259.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261108de72259",
+  "video": [],
+  "citation": [
+    {
+      "name": "【地震速報】愛知県で震度5強 津波の心配なし",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72252",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72252/20261108de72252_E0000152476_1_s.jpg",
+      "datePublished": "2026-11-08T02:25:34+09:00"
+    },
+    {
+      "name": "震度5強 行動する際の注意点",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72253",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72253/20261108de72253_E0000152485_1_s.jpg",
+      "datePublished": "2026-11-08T01:52:16+09:00"
+    },
+    {
+      "name": "震度5強観測の愛知県知多市“今のところ被害の情報なし”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72263",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72263/20261108de72263_E0000003973_1_s.jpg",
+      "datePublished": "2026-11-08T01:48:00+09:00"
+    },
+    {
+      "name": "【最新の地震情報】各地の震度・震源を詳しく",
+      "url": "https://news.web.nhk/kishou-saigai/earthquake/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00078_E0000003275_1_s.jpg"
+    },
+    {
+      "name": "「地震への備え」特選コンテンツ",
+      "url": "https://news.web.nhk/newsweb/sp/pl/editorial-nwa-0000000132",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00005_E0000001742_1_s.jpg"
+    },
+    {
+      "name": "長周期地震動とは？震源から離れても大きな揺れ どう備えれば",
+      "url": "https://news.web.nhk/newsweb/na/nc-a9e5a58e-908a-40b0-8afa-725c736a3822?_reload=2026-04-09T10%253A40%253A14.617Z",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00380_E0000003412_1_s.jpg"
+    },
+    {
+      "name": "非常用持ち出し袋 地震や水害で避難する際に あなたや家族、ペットに必要なものは？",
+      "url": "https://news.web.nhk/newsweb/na/nc-58cf1db6-d0c1-4fd2-93d3-99650cdc88f6",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00300_E0000003319_1_s.jpg"
+    },
+    {
+      "name": "地震マップ 最新の震度分布・震源をリアルタイム更新",
+      "url": "https://news.web.nhk/bousai-map/earthquake/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00362_E0000003393_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": true
+  }
+}
