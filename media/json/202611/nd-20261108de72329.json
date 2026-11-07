@@ -1,0 +1,130 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261108de72329",
+  "dataSourceId": "nd",
+  "name": "【鉄道影響】東海道新幹線 遅れ見込み 在来線一部運転見合わせ",
+  "headline": "【鉄道影響】東海道新幹線 遅れ見込み 在来線一部運転見合わせ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261108de72329",
+    "playlistId": "news-nwa-disaster-nationwide-20261108",
+    "newsarticleName": "【鉄道影響】東海道新幹線 遅れ見込み 在来線一部運転見合わせ",
+    "playlistName": "11月8日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "JR東海によりますと、東海道新幹線は地震の影響で静岡駅から岐阜羽島駅の間で設備の点検を行ったあと、速度を落として運転するため、8日の始発から遅れが発生する見込みだということです。\n\n在来線は東海道本線",
+  "dateModified": "2026-11-08T05:21:00+09:00",
+  "datePublished": "2026-11-08T05:04:50+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72329/20261108de72329_E0000003581_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72329/20261108de72329_E0000003581_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000389",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "E0000000481",
+      "name": "鉄道",
+      "display": true
+    },
+    {
+      "id": "E0000000651",
+      "name": "交通・インフラ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "JR東海によりますと、東海道新幹線は地震の影響で静岡駅から岐阜羽島駅の間で設備の点検を行ったあと、速度を落として運転するため、8日の始発から遅れが発生する見込みだということです。\n\n在来線は東海道本線",
+  "articleBody": "JR東海によりますと、東海道新幹線は地震の影響で静岡駅から岐阜羽島駅の間で設備の点検を行ったあと、速度を落として運転するため、8日の始発から遅れが発生する見込みだということです。\n\n在来線は東海道本線、中央本線、武豊線、飯田線の一部の区間でけさの始発から運転を見合わせるということです。\n\n\n名古屋鉄道は、一部路線で始発から運休や遅れの可能性があるということです。\n\n名古屋市営地下鉄も、点検作業のあと、平常どおり運行できるかどうか判断するということです。\n\n一方、近鉄は始発から平常どおり運行するということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "JR東海によりますと、東海道新幹線は地震の影響で静岡駅から岐阜羽島駅の間で設備の点検を行ったあと、速度を落として運転するため、8日の始発から遅れが発生する見込みだということです。\n\n在来線は東海道本線、中央本線、武豊線、飯田線の一部の区間でけさの始発から運転を見合わせるということです。\n",
+    "markedBody": "名古屋鉄道は、一部路線で始発から運休や遅れの可能性があるということです。\n\n名古屋市営地下鉄も、点検作業のあと、平常どおり運行できるかどうか判断するということです。\n\n一方、近鉄は始発から平常どおり運行するということです。\n",
+    "trimmedLead": "JR東海によりますと、東海道新幹線は地震の影響で静岡駅から岐阜羽島駅の間で設備の点検を行ったあと、速度を落として運転するため、8日の始発から遅れが発生する見込みだということです。\n\n在来線は東海道本線、中央本線、武豊線、飯田線の一部の区間でけさの始発から運転を見合わせるということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261108de72329.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261108de72329",
+  "video": [],
+  "citation": [
+    {
+      "name": "鉄道運行情報",
+      "url": "https://news.web.nhk/news/traffic/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00046_E0000003285_1_s.jpg"
+    },
+    {
+      "name": "【地震】寝台特急「サンライズ瀬戸・出雲」浜松市内で一時停車",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72298",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72298/20261108de72298_E0000003966_1_s.jpg",
+      "datePublished": "2026-11-08T04:50:09+09:00"
+    },
+    {
+      "name": "【地域局ニュース】NHKの各地域放送局の最新ニュースはこちらから",
+      "url": "https://news.web.nhk/news/special/rich_contents/lnews/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20260827de46643_E0000017723_1_s.jpg"
+    },
+    {
+      "name": "【地震情報】愛知県で震度5強 津波の心配なし",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72252",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72252/20261108de72252_E0000152476_1_s.jpg",
+      "datePublished": "2026-11-08T04:21:28+09:00"
+    },
+    {
+      "name": "気象庁記者会見 “同程度の地震に注意”【会見詳細】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72259",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72259/20261108de72259_E0000152498_1_s.jpg",
+      "datePublished": "2026-11-08T04:26:56+09:00"
+    },
+    {
+      "name": "専門家 「南海トラフ巨大地震とはメカニズム異なる」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72284",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72284/20261108de72284_E0000152494_1_s.jpg",
+      "datePublished": "2026-11-08T04:56:11+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
