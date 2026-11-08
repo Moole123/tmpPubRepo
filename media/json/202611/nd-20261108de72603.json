@@ -1,0 +1,144 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261108de72603",
+  "dataSourceId": "nd",
+  "name": "佐賀 鳥栖 ブリヂストンの工場で火事 けが人の情報なし",
+  "headline": "佐賀 鳥栖 ブリヂストンの工場で火事 けが人の情報なし",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261108de72603",
+    "playlistId": "news-nwa-society-nationwide-20261108",
+    "newsarticleName": "佐賀 鳥栖 ブリヂストンの工場で火事 けが人の情報なし",
+    "playlistName": "11月8日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "消防によりますと、8日午後7時半ごろ、佐賀県鳥栖市にある「ブリヂストン鳥栖工場」で火事が起きていると従業員から通報がありました。\n\n\n工場は現在も延焼中だということです。\n\n警察や消防によりますと、今",
+  "dateModified": "2026-11-08T21:39:46+09:00",
+  "datePublished": "2026-11-08T21:39:46+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72603/20261108de72603_E0000153740_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72603/20261108de72603_E0000153740_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000369",
+      "name": "佐賀県",
+      "display": true
+    },
+    {
+      "id": "E0000000657",
+      "name": "火災",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "消防によりますと、8日午後7時半ごろ、佐賀県鳥栖市にある「ブリヂストン鳥栖工場」で火事が起きていると従業員から通報がありました。\n\n\n工場は現在も延焼中だということです。\n\n警察や消防によりますと、今",
+  "articleBody": "消防によりますと、8日午後7時半ごろ、佐賀県鳥栖市にある「ブリヂストン鳥栖工場」で火事が起きていると従業員から通報がありました。\n\n\n工場は現在も延焼中だということです。\n\n警察や消防によりますと、今のところ、けが人の情報は入っていないということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "消防によりますと、8日午後7時半ごろ、佐賀県鳥栖市にある「ブリヂストン鳥栖工場」で火事が起きていると従業員から通報がありました。\n",
+    "markedBody": "工場は現在も延焼中だということです。\n\n警察や消防によりますと、今のところ、けが人の情報は入っていないということです。\n",
+    "trimmedLead": "消防によりますと、8日午後7時半ごろ、佐賀県鳥栖市にある「ブリヂストン鳥栖工場」で火事が起きていると従業員から通報がありました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261108de72603.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261108de72603",
+  "video": [],
+  "citation": [
+    {
+      "name": "COP31 あす開幕へ 対策実行に向け足並みそろえられるか焦点",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72408",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72408/20261108de72408_E0000153095_1_s.jpg",
+      "datePublished": "2026-11-08T19:37:06+09:00"
+    },
+    {
+      "name": "山林で女性遺体 女性が相談も警察は意向受け警告行わず",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72420",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72420/20261108de72420_E0000152789_1_s.jpg",
+      "datePublished": "2026-11-08T19:37:39+09:00"
+    },
+    {
+      "name": "秋篠宮ご夫妻 和歌山で「全国育樹祭」式典に出席",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72455",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72455/20261108de72455_E0000152988_1_s.jpg",
+      "datePublished": "2026-11-08T18:47:00+09:00"
+    },
+    {
+      "name": "消費税減税法案 片山財務相 食料品の販売価格下がる見通し示す",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72482",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72482/20261108de72482_E0000113888_1_s.jpg",
+      "datePublished": "2026-11-08T18:11:00+09:00"
+    },
+    {
+      "name": "JR内房線 約1か月半ぶりに全線再開 利用者から喜びの声 千葉",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72318",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72318/20261108de72318_E0000152862_1_s.jpg",
+      "datePublished": "2026-11-08T17:09:00+09:00"
+    },
+    {
+      "name": "愛知で震度5強 22人けが 各地の被害状況",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72310",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72310/20261108de72310_E0000152791_1_s.jpg",
+      "datePublished": "2026-11-08T17:52:00+09:00"
+    },
+    {
+      "name": "小泉防衛相 陸海空自衛隊の垣根を越えた組織のあり方検討",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72476",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72476/20261108de72476_E0000153027_1_s.jpg",
+      "datePublished": "2026-11-08T15:18:52+09:00"
+    },
+    {
+      "name": "日本はなぜ狙われる？サイバー攻撃 生活にも影響 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de70851",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70851/20261105de70851_E0000147150_1_s.jpg",
+      "datePublished": "2026-11-07T18:14:00+09:00"
+    },
+    {
+      "name": "宇宙の“声”に耳を澄ます 地球外知的生命を探せ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70374",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70374/20261104de70374_E0000147000_1_s.jpg",
+      "datePublished": "2026-11-07T16:20:47+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
