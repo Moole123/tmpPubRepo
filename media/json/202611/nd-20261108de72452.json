@@ -1,0 +1,138 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261108de72452",
+  "dataSourceId": "nd",
+  "name": "サッカー女子 U-17ワールドカップ 日本 12年ぶりの優勝はならず",
+  "headline": "サッカー女子 17歳以下のW杯 日本 12年ぶりの優勝はならず",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261108de72452",
+    "playlistId": "news-nwa-sports-nationwide-20261108",
+    "newsarticleName": "サッカー女子 U-17ワールドカップ 日本 12年ぶりの優勝はならず",
+    "playlistName": "11月8日のスポーツニュース",
+    "genreId": "sports",
+    "genreIdSlug": "sports"
+  },
+  "description": "サッカー女子の17歳以下のワールドカップで、日本は決勝でナイジェリアに1対2で敗れて、12年ぶりの優勝はなりませんでした。\n\n\n大会はモロッコで開催され、日本は準決勝で前回大会優勝の北朝鮮をペナルティ",
+  "dateModified": "2026-11-08T13:05:00+09:00",
+  "datePublished": "2026-11-08T13:05:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72452/20261108de72452_E0000152965_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72452/20261108de72452_E0000152965_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "スポーツ"
+  ],
+  "topic": [
+    {
+      "id": "E0000000101",
+      "name": "サッカー",
+      "display": true
+    },
+    {
+      "id": "E0000000424",
+      "name": "ナイジェリア",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "サッカー女子の17歳以下のワールドカップで、日本は決勝でナイジェリアに1対2で敗れて、12年ぶりの優勝はなりませんでした。\n\n\n大会はモロッコで開催され、日本は準決勝で前回大会優勝の北朝鮮をペナルティ",
+  "articleBody": "サッカー女子の17歳以下のワールドカップで、日本は決勝でナイジェリアに1対2で敗れて、12年ぶりの優勝はなりませんでした。\n\n\n大会はモロッコで開催され、日本は準決勝で前回大会優勝の北朝鮮をペナルティーキック戦の末にやぶって決勝に進み、7日はアフリカ勢として初めて決勝に進出したナイジェリアと対戦しました。\n\n日本は前半39分、相手のロングシュートをゴールキーパーがキャッチしきれずに先制され、後半開始直後にも追加点を奪われて、2点を追う展開となりました。\n\nそれでも35分、コーナーキックのチャンスから、ヘディングでの折り返しを伊藤風葵選手が右足で合わせて1点を返しました。\n\nしかし、その後、追いつくことはできず、1対2で敗れて準優勝となり、現在なでしこジャパンの長谷川唯選手などを擁して頂点に立った大会以来となる12年ぶりの優勝は、なりませんでした。\n\nナイジェリアはアフリカ勢として初めて大会を制しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "サッカー女子の17歳以下のワールドカップで、日本は決勝でナイジェリアに1対2で敗れて、12年ぶりの優勝はなりませんでした。\n",
+    "markedBody": "大会はモロッコで開催され、日本は準決勝で前回大会優勝の北朝鮮をペナルティーキック戦の末にやぶって決勝に進み、7日はアフリカ勢として初めて決勝に進出したナイジェリアと対戦しました。\n\n日本は前半39分、相手のロングシュートをゴールキーパーがキャッチしきれずに先制され、後半開始直後にも追加点を奪われて、2点を追う展開となりました。\n\nそれでも35分、コーナーキックのチャンスから、ヘディングでの折り返しを伊藤風葵選手が右足で合わせて1点を返しました。\n\nしかし、その後、追いつくことはできず、1対2で敗れて準優勝となり、現在なでしこジャパンの長谷川唯選手などを擁して頂点に立った大会以来となる12年ぶりの優勝は、なりませんでした。\n\nナイジェリアはアフリカ勢として初めて大会を制しました。\n",
+    "trimmedLead": "サッカー女子の17歳以下のワールドカップで、日本は決勝でナイジェリアに1対2で敗れて、12年ぶりの優勝はなりませんでした。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261108de72452.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261108de72452",
+  "video": [],
+  "citation": [
+    {
+      "name": "フィギュア 千葉百音が優勝 グランプリシリーズ第3戦 中国大会",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261107de72221",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72221/20261107de72221_E0000152431_1_s.jpg",
+      "datePublished": "2026-11-07T23:56:35+09:00"
+    },
+    {
+      "name": "J1 第14節 首位のFC東京 J1記録タイ9試合連続無失点で3連勝",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72248",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72248/20261108de72248_E0000152456_1_s.jpg",
+      "datePublished": "2026-11-08T00:22:13+09:00"
+    },
+    {
+      "name": "ラグビー日本代表 ウェールズと競り合うも敗戦 英国遠征",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261107de72220",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72220/20261107de72220_E0000152510_1_s.jpg",
+      "datePublished": "2026-11-08T07:19:04+09:00"
+    },
+    {
+      "name": "震度5強 愛知で観測約30年ぶり 1週間ほど同程度の揺れに注意",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72252",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72252/20261108de72252_E0000152476_1_s.jpg",
+      "datePublished": "2026-11-08T12:06:27+09:00"
+    },
+    {
+      "name": "JR内房線 約1か月半ぶりに全線再開 利用者から喜びの声 千葉",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72318",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72318/20261108de72318_E0000152862_1_s.jpg",
+      "datePublished": "2026-11-08T13:49:25+09:00"
+    },
+    {
+      "name": "愛知で震度5強 19人けが 各地の被害状況",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72310",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72310/20261108de72310_E0000152791_1_s.jpg",
+      "datePublished": "2026-11-08T11:56:00+09:00"
+    },
+    {
+      "name": "山林で女性遺体 監禁疑いで逮捕の容疑者と交際の女性か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72420",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72420/20261108de72420_E0000152789_1_s.jpg",
+      "datePublished": "2026-11-08T12:14:00+09:00"
+    },
+    {
+      "name": "トランプ大統領 総合格闘技団体代表に報道官打診",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72412",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72412/20261108de72412_E0000152780_1_s.jpg",
+      "datePublished": "2026-11-08T11:03:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
