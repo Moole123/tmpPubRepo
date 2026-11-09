@@ -1,0 +1,143 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261109de72879",
+  "dataSourceId": "nd",
+  "name": "「ラクスル」に不正アクセス 印刷データなど漏えいおそれ",
+  "headline": "「ラクスル」に不正アクセス 印刷データなど漏えいおそれ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261109de72879",
+    "playlistId": "news-nwa-business-nationwide-20261109",
+    "newsarticleName": "「ラクスル」に不正アクセス 印刷データなど漏えいおそれ",
+    "playlistName": "11月9日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "インターネット上で印刷サービスを展開する「ラクスル」は、システムが不正アクセスを受け、顧客から預かった印刷データなどが漏えいしたおそれがあると発表しました。対象の件数や範囲は調査中だとしています。\n\n",
+  "dateModified": "2026-11-09T14:40:11+09:00",
+  "datePublished": "2026-11-09T14:40:11+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72879/20261109de72879_E0000154999_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72879/20261109de72879_E0000154999_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "インターネット上で印刷サービスを展開する「ラクスル」は、システムが不正アクセスを受け、顧客から預かった印刷データなどが漏えいしたおそれがあると発表しました。対象の件数や範囲は調査中だとしています。\n\n",
+  "articleBody": "インターネット上で印刷サービスを展開する「ラクスル」は、システムが不正アクセスを受け、顧客から預かった印刷データなどが漏えいしたおそれがあると発表しました。対象の件数や範囲は調査中だとしています。\n\n\nラクスルは、インターネットで注文を受け付け、チラシや名刺、ポスターなどを印刷するサービスを展開していますが、8日午前0時すぎに顧客から預かった印刷データなどを処理するシステムが不正アクセスを受け、個人情報が漏えいしたおそれがあると発表しました。\n\n会社によりますと、漏えいしたおそれがあるのは印刷データのほか、請求書などに記載された氏名、会社名、住所、電話番号、メールアドレスなどで、対象となる件数や範囲は調査中だということです。\n\n一方で、クレジットカードの情報のほか、ログインに必要なIDとパスワードは漏えいしておらず、個人情報の不正利用などの二次被害は確認されていないということです。\n\n会社では不審なメールや電話などが顧客に届く可能性があるとしていて、そうしたメールなどが届いてもパスワードやクレジットカードの番号などを入力しないよう注意を呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "インターネット上で印刷サービスを展開する「ラクスル」は、システムが不正アクセスを受け、顧客から預かった印刷データなどが漏えいしたおそれがあると発表しました。対象の件数や範囲は調査中だとしています。\n",
+    "markedBody": "ラクスルは、インターネットで注文を受け付け、チラシや名刺、ポスターなどを印刷するサービスを展開していますが、8日午前0時すぎに顧客から預かった印刷データなどを処理するシステムが不正アクセスを受け、個人情報が漏えいしたおそれがあると発表しました。\n\n会社によりますと、漏えいしたおそれがあるのは印刷データのほか、請求書などに記載された氏名、会社名、住所、電話番号、メールアドレスなどで、対象となる件数や範囲は調査中だということです。\n\n一方で、クレジットカードの情報のほか、ログインに必要なIDとパスワードは漏えいしておらず、個人情報の不正利用などの二次被害は確認されていないということです。\n\n会社では不審なメールや電話などが顧客に届く可能性があるとしていて、そうしたメールなどが届いてもパスワードやクレジットカードの番号などを入力しないよう注意を呼びかけています。\n",
+    "trimmedLead": "インターネット上で印刷サービスを展開する「ラクスル」は、システムが不正アクセスを受け、顧客から預かった印刷データなどが漏えいしたおそれがあると発表しました。対象の件数や範囲は調査中だとしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261109de72879.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261109de72879",
+  "video": [],
+  "citation": [
+    {
+      "name": "木原長官 サイバー攻撃対応\"情報収集能力強化へ法改正検討\"",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72862",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72862/20261109de72862_E0000154980_1_s.jpg",
+      "datePublished": "2026-11-09T14:18:20+09:00"
+    },
+    {
+      "name": "【情報漏えい】対策どうする 二次被害に遭わないためには",
+      "url": "https://news.web.nhk/newsweb/pl/editorial-nwa-0000000697",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261018de61119_E0000086259_1_s.jpg"
+    },
+    {
+      "name": "7月30日の市場介入 7兆9756億円 円買い介入で過去最大",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72699",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72699/20261109de72699_E0000154188_1_s.jpg",
+      "datePublished": "2026-11-09T09:05:00+09:00"
+    },
+    {
+      "name": "エヌビディアがフアンCEO調査 中国情報機関協力女性と親密報道",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72697",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72697/20261109de72697_E0000154167_1_s.jpg",
+      "datePublished": "2026-11-09T09:21:00+09:00"
+    },
+    {
+      "name": "JR内房線が全線で運転再開 通勤・通学客からは安どの声",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72695",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72695/20261109de72695_E0000153960_1_s.jpg",
+      "datePublished": "2026-11-09T08:26:29+09:00"
+    },
+    {
+      "name": "山林遺体は石川県の20代女性と確認 監禁後まもなく殺害か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72639",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72639/20261109de72639_E0000153825_1_s.jpg",
+      "datePublished": "2026-11-09T08:42:13+09:00"
+    },
+    {
+      "name": "日本はなぜ狙われる？サイバー攻撃 生活にも影響 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de70851",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70851/20261105de70851_E0000147150_1_s.jpg",
+      "datePublished": "2026-11-07T18:14:00+09:00"
+    },
+    {
+      "name": "宇宙の“声”に耳を澄ます 地球外知的生命を探せ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70374",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70374/20261104de70374_E0000147000_1_s.jpg",
+      "datePublished": "2026-11-07T16:20:47+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

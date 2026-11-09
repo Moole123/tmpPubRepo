@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261109de72824",
+  "dataSourceId": "nd",
+  "name": "小学館 会員メールアドレスなど約199万件漏えいおそれ",
+  "headline": "小学館 会員メールアドレスなど約199万件漏えいおそれ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261109de72824",
+    "playlistId": "news-nwa-business-nationwide-20261109",
+    "newsarticleName": "小学館 会員メールアドレスなど約199万件漏えいおそれ",
+    "playlistName": "11月9日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "小学館は、メール配信サービスの委託先が不正アクセスを受けた影響で、会員のメールアドレスなどおよそ199万件が漏えいしたおそれがあると発表しました。\n\n\n会社によりますと、漏えいしたおそれがあるのは小学",
+  "dateModified": "2026-11-09T14:57:43+09:00",
+  "datePublished": "2026-11-09T14:57:43+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72824/20261109de72824_E0000154466_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72824/20261109de72824_E0000154466_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "小学館は、メール配信サービスの委託先が不正アクセスを受けた影響で、会員のメールアドレスなどおよそ199万件が漏えいしたおそれがあると発表しました。\n\n\n会社によりますと、漏えいしたおそれがあるのは小学",
+  "articleBody": "小学館は、メール配信サービスの委託先が不正アクセスを受けた影響で、会員のメールアドレスなどおよそ199万件が漏えいしたおそれがあると発表しました。\n\n\n会社によりますと、漏えいしたおそれがあるのは小学館IDの会員情報などおよそ199万件で、メールアドレスや生年月日などが含まれます。\n\n会員以外も含まれるかなど対象の範囲は確認中ですが、今のところ漏えいした情報を悪用する二次被害は確認されていないということです。\n\nこの会社がメールの配信を委託していた「アララ」をめぐっては、あわせて8100万件あまりのメールアドレスの流出が確認されていて、サービスを利用していた企業が相次いで情報の流出を公表しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "小学館は、メール配信サービスの委託先が不正アクセスを受けた影響で、会員のメールアドレスなどおよそ199万件が漏えいしたおそれがあると発表しました。\n",
+    "markedBody": "会社によりますと、漏えいしたおそれがあるのは小学館IDの会員情報などおよそ199万件で、メールアドレスや生年月日などが含まれます。\n\n会員以外も含まれるかなど対象の範囲は確認中ですが、今のところ漏えいした情報を悪用する二次被害は確認されていないということです。\n\nこの会社がメールの配信を委託していた「アララ」をめぐっては、あわせて8100万件あまりのメールアドレスの流出が確認されていて、サービスを利用していた企業が相次いで情報の流出を公表しています。\n",
+    "trimmedLead": "小学館は、メール配信サービスの委託先が不正アクセスを受けた影響で、会員のメールアドレスなどおよそ199万件が漏えいしたおそれがあると発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261109de72824.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261109de72824",
+  "video": [],
+  "citation": [
+    {
+      "name": "木原長官 サイバー攻撃対応\"情報収集能力強化へ法改正検討\"",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72862",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72862/20261109de72862_E0000154980_1_s.jpg",
+      "datePublished": "2026-11-09T14:18:20+09:00"
+    },
+    {
+      "name": "「ラクスル」に不正アクセス 印刷データなど漏えいおそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72879",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72879/20261109de72879_E0000154999_1_s.jpg",
+      "datePublished": "2026-11-09T14:40:11+09:00"
+    },
+    {
+      "name": "日本はなぜ狙われる？サイバー攻撃 生活にも影響 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de70851",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70851/20261105de70851_E0000147150_1_s.jpg",
+      "datePublished": "2026-11-07T18:14:00+09:00"
+    },
+    {
+      "name": "アララで新たなメールアドレスの流出確認 計8132万件に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71934",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71934/20261106de71934_E0000147917_1_s.jpg",
+      "datePublished": "2026-11-06T20:59:38+09:00"
+    },
+    {
+      "name": "7月30日の市場介入 7兆9756億円 円買い介入で過去最大",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72699",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72699/20261109de72699_E0000154188_1_s.jpg",
+      "datePublished": "2026-11-09T09:05:00+09:00"
+    },
+    {
+      "name": "エヌビディアがフアンCEO調査 中国情報機関協力女性と親密報道",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72697",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72697/20261109de72697_E0000154167_1_s.jpg",
+      "datePublished": "2026-11-09T09:21:00+09:00"
+    },
+    {
+      "name": "JR内房線が全線で運転再開 通勤・通学客からは安どの声",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72695",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72695/20261109de72695_E0000153960_1_s.jpg",
+      "datePublished": "2026-11-09T08:26:29+09:00"
+    },
+    {
+      "name": "山林遺体は石川県の20代女性と確認 監禁後まもなく殺害か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72639",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72639/20261109de72639_E0000153825_1_s.jpg",
+      "datePublished": "2026-11-09T08:42:13+09:00"
+    },
+    {
+      "name": "エジプトで列車衝突事故 7人死亡 112人けが",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72671",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72671/20261109de72671_E0000153844_1_s.jpg",
+      "datePublished": "2026-11-09T05:13:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
