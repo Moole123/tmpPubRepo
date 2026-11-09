@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261109de72718",
+  "dataSourceId": "nd",
+  "name": "銀座で強力な電波発し周辺のスマホ圏外に 電波法違反の疑いで逮捕 フィッシング詐欺メッセージ送信が狙いか",
+  "headline": "銀座で強力な電波発し周辺スマホ圏外に 電波法違反の疑い逮捕",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261109de72718",
+    "playlistId": "news-nwa-society-nationwide-20261109",
+    "newsarticleName": "銀座で強力な電波発し周辺のスマホ圏外に 電波法違反の疑いで逮捕 フィッシング詐欺メッセージ送信が狙いか",
+    "playlistName": "11月9日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "東京 銀座で、車に積んだ無線機から無許可で強力な電波を発し、周辺のスマートフォンに通信障害を起こさせたなどとして中国籍の容疑者が電波法違反の疑いで逮捕されました。\n\n警視庁は、影響が出たスマートフォン",
+  "dateModified": "2026-11-09T12:13:26+09:00",
+  "datePublished": "2026-11-09T12:13:26+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72718/20261109de72718_E0000154329_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72718/20261109de72718_E0000154329_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000208",
+      "name": "事件・事故",
+      "display": true
+    },
+    {
+      "id": "E0000000341",
+      "name": "東京都",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "東京 銀座で、車に積んだ無線機から無許可で強力な電波を発し、周辺のスマートフォンに通信障害を起こさせたなどとして中国籍の容疑者が電波法違反の疑いで逮捕されました。\n\n警視庁は、影響が出たスマートフォン",
+  "articleBody": "東京 銀座で、車に積んだ無線機から無許可で強力な電波を発し、周辺のスマートフォンに通信障害を起こさせたなどとして中国籍の容疑者が電波法違反の疑いで逮捕されました。\n\n警視庁は、影響が出たスマートフォンにフィッシング詐欺のメッセージを送りつけることが狙いだったとみて調べています。\n\n調べに対し、容疑を否認しているということです。\n\n\n逮捕されたのは、中国籍で東京 北区に住む無職の于海容疑者（31）です。\n\n警視庁によりますと7日、東京 銀座で車に積んだ無線機から無許可で強力な電波を発し、周辺のスマートフォンに通信障害を起こさせたなどとして電波法違反の疑いが持たれています。\n\n車の中から押収された「IMSIキャッチャー」という無線機から発した電波は、半径およそ500メートル以内にあるスマートフォンを一斉に「圏外」にしていたということです。\n\n「圏外」になったスマートフォンが別の接続先を探し始めると、旧世代の「2G」の通信規格で強制的に接続させ、フィッシング詐欺のメッセージを送りつけることが狙いだったとみられています。\n\n警視庁は銀座のほかに新宿、渋谷といった外国人観光客が多く集まる都内の繁華街で、たびたび不審な動きをしていた容疑者の車を確認していて、捜査で追跡した警察官のスマートフォンも「圏外」になったということです。\n\n詐欺のメッセージは、中国語で送っていたとみられ、警視庁は2025年1月以降、中国からの観光客や留学生など18人があわせておよそ400万円をだまし取られたとみて調べています。\n\n調べに対して「無線機なんていままで使ったことがないし、車に積んでいない」と供述し、容疑を否認しているということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "東京 銀座で、車に積んだ無線機から無許可で強力な電波を発し、周辺のスマートフォンに通信障害を起こさせたなどとして中国籍の容疑者が電波法違反の疑いで逮捕されました。\n\n警視庁は、影響が出たスマートフォンにフィッシング詐欺のメッセージを送りつけることが狙いだったとみて調べています。\n\n調べに対し、容疑を否認しているということです。\n",
+    "markedBody": "![](https://img.web.nhk/news/nd/kiji/20261109de72718/20261109de72718_E0000154324_1_l.jpg)\n\n逮捕されたのは、中国籍で東京 北区に住む無職の于海容疑者（31）です。\n\n警視庁によりますと7日、東京 銀座で車に積んだ無線機から無許可で強力な電波を発し、周辺のスマートフォンに通信障害を起こさせたなどとして電波法違反の疑いが持たれています。\n\n![](https://img.web.nhk/news/nd/kiji/20261109de72718/20261109de72718_E0000154328_1_l.jpg)\n\n車の中から押収された「IMSIキャッチャー」という無線機から発した電波は、半径およそ500メートル以内にあるスマートフォンを一斉に「圏外」にしていたということです。\n\n「圏外」になったスマートフォンが別の接続先を探し始めると、旧世代の「2G」の通信規格で強制的に接続させ、フィッシング詐欺のメッセージを送りつけることが狙いだったとみられています。\n\n警視庁は銀座のほかに新宿、渋谷といった外国人観光客が多く集まる都内の繁華街で、たびたび不審な動きをしていた容疑者の車を確認していて、捜査で追跡した警察官のスマートフォンも「圏外」になったということです。\n\n詐欺のメッセージは、中国語で送っていたとみられ、警視庁は2025年1月以降、中国からの観光客や留学生など18人があわせておよそ400万円をだまし取られたとみて調べています。\n\n調べに対して「無線機なんていままで使ったことがないし、車に積んでいない」と供述し、容疑を否認しているということです。\n",
+    "trimmedLead": "東京 銀座で、車に積んだ無線機から無許可で強力な電波を発し、周辺のスマートフォンに通信障害を起こさせたなどとして中国籍の容疑者が電波法違反の疑いで逮捕されました。\n\n警視庁は、影響が出たスマートフォンにフィッシング詐欺のメッセージを送りつけることが狙いだったとみて調べています。\n\n調べに対し、容疑を否認しているということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261109de72718.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261109de72718",
+  "video": [],
+  "citation": [
+    {
+      "name": "JR内房線が全線で運転再開 通勤・通学客からは安どの声",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72695",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72695/20261109de72695_E0000153960_1_s.jpg",
+      "datePublished": "2026-11-09T08:26:29+09:00"
+    },
+    {
+      "name": "消費税減税法案 あさって参議院で審議入り 与野党論戦へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72622",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72622/20261108de72622_E0000153769_1_s.jpg",
+      "datePublished": "2026-11-09T08:46:22+09:00"
+    },
+    {
+      "name": "山林遺体は石川県の20代女性と確認 監禁後まもなく殺害か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72639",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72639/20261109de72639_E0000153825_1_s.jpg",
+      "datePublished": "2026-11-09T08:42:13+09:00"
+    },
+    {
+      "name": "COP31 きょう開幕へ 各国が足並みそろえられるか焦点に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72633",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72633/20261108de72633_E0000153814_1_s.jpg",
+      "datePublished": "2026-11-09T08:37:47+09:00"
+    },
+    {
+      "name": "エジプトで列車衝突事故 7人死亡 112人けが",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72671",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72671/20261109de72671_E0000153844_1_s.jpg",
+      "datePublished": "2026-11-09T05:13:00+09:00"
+    },
+    {
+      "name": "佐賀 鳥栖 ブリヂストン工場で火事 3時間半後に消し止められる",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72603",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72603/20261108de72603_E0000153740_1_s.jpg",
+      "datePublished": "2026-11-09T00:14:23+09:00"
+    },
+    {
+      "name": "消費税減税法案 片山財務相 食料品の販売価格下がる見通し示す",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72482",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72482/20261108de72482_E0000113888_1_s.jpg",
+      "datePublished": "2026-11-08T18:11:00+09:00"
+    },
+    {
+      "name": "愛知で震度5強 22人けが 各地の被害状況",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72310",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72310/20261108de72310_E0000152791_1_s.jpg",
+      "datePublished": "2026-11-08T17:52:00+09:00"
+    },
+    {
+      "name": "日本はなぜ狙われる？サイバー攻撃 生活にも影響 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de70851",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70851/20261105de70851_E0000147150_1_s.jpg",
+      "datePublished": "2026-11-07T18:14:00+09:00"
+    },
+    {
+      "name": "宇宙の“声”に耳を澄ます 地球外知的生命を探せ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70374",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70374/20261104de70374_E0000147000_1_s.jpg",
+      "datePublished": "2026-11-07T16:20:47+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
