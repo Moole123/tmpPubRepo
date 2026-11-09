@@ -1,0 +1,131 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261109de73086",
+  "dataSourceId": "nd",
+  "name": "円相場 先週末に比べ小幅な値動き",
+  "headline": "円相場 先週末に比べ小幅な値動き",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261109de73086",
+    "playlistId": "news-nwa-business-nationwide-20261109",
+    "newsarticleName": "円相場 先週末に比べ小幅な値動き",
+    "playlistName": "11月9日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "9日の東京外国為替市場、先週末に発表されたアメリカの雇用統計の結果を踏まえてドルが買われた一方、原油の先物価格の下落からドルを売って円を買う動きが出て先週末の午後5時時点と比べると小幅な値動きとなりま",
+  "dateModified": "2026-11-09T18:30:01+09:00",
+  "datePublished": "2026-11-09T18:30:01+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de73086/20261109de73086_E0000155291_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de73086/20261109de73086_E0000155291_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000157",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "E0000000419",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "E0000000182",
+      "name": "原油価格",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "9日の東京外国為替市場、先週末に発表されたアメリカの雇用統計の結果を踏まえてドルが買われた一方、原油の先物価格の下落からドルを売って円を買う動きが出て先週末の午後5時時点と比べると小幅な値動きとなりま",
+  "articleBody": "9日の東京外国為替市場、先週末に発表されたアメリカの雇用統計の結果を踏まえてドルが買われた一方、原油の先物価格の下落からドルを売って円を買う動きが出て先週末の午後5時時点と比べると小幅な値動きとなりました。\n\n\n午後5時時点の円相場は、先週末と比べて1銭円安ドル高の1ドル＝157円95銭から96銭でした。\n\n一方、ユーロに対しては、7銭円高ユーロ安の1ユーロ＝176円45銭から49銭でした。\n\nユーロはドルに対して1ユーロ＝1.1171から72ドルでした。\n\n市場関係者は「アメリカの雇用統計の結果が雇用情勢の堅調さを改めて示す内容だったことで利上げ観測が強まりドルが買われたが、原油の先物価格が90ドルを下回ったことでドルを売って円を買い戻す動きが進んだ」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "9日の東京外国為替市場、先週末に発表されたアメリカの雇用統計の結果を踏まえてドルが買われた一方、原油の先物価格の下落からドルを売って円を買う動きが出て先週末の午後5時時点と比べると小幅な値動きとなりました。\n",
+    "markedBody": "午後5時時点の円相場は、先週末と比べて1銭円安ドル高の1ドル＝157円95銭から96銭でした。\n\n一方、ユーロに対しては、7銭円高ユーロ安の1ユーロ＝176円45銭から49銭でした。\n\nユーロはドルに対して1ユーロ＝1.1171から72ドルでした。\n\n市場関係者は「アメリカの雇用統計の結果が雇用情勢の堅調さを改めて示す内容だったことで利上げ観測が強まりドルが買われたが、原油の先物価格が90ドルを下回ったことでドルを売って円を買い戻す動きが進んだ」と話しています。\n",
+    "trimmedLead": "9日の東京外国為替市場、先週末に発表されたアメリカの雇用統計の結果を踏まえてドルが買われた一方、原油の先物価格の下落からドルを売って円を買う動きが出て先週末の午後5時時点と比べると小幅な値動きとなりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261109de73086.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261109de73086",
+  "video": [],
+  "citation": [
+    {
+      "name": "株価 先週末の急落から買い戻しも6万円台回復ならず",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72808",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72808/20261109de72808_E0000155131_1_s.jpg",
+      "datePublished": "2026-11-09T16:39:23+09:00"
+    },
+    {
+      "name": "9月景気動向指数 前月比0.7ポイント上昇 2か月ぶり上昇",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de73001",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de73001/20261109de73001_E0000003933_1_s.jpg",
+      "datePublished": "2026-11-09T17:13:00+09:00"
+    },
+    {
+      "name": "米ハイテク株不安定な値動き続くか データセンター規制懸念で",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72637",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72637/20261109de72637_E0000153821_1_s.jpg",
+      "datePublished": "2026-11-09T00:46:26+09:00"
+    },
+    {
+      "name": "三井化学がJSR買収を発表 国内化学業界で最大規模のM＆A",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72920",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72920/20261109de72920_E0000155126_1_s.jpg",
+      "datePublished": "2026-11-09T15:36:00+09:00"
+    },
+    {
+      "name": "景気映す銅価格“ドクター・カッパー”どう占う【経済コラム】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70576",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70576/20261104de70576_E0000149517_1_s.jpg",
+      "datePublished": "2026-11-06T19:49:22+09:00"
+    },
+    {
+      "name": "なぜ共和党はここまで大敗した？トランプ大統領の次の一手は？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de71148",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71148/20261105de71148_E0000147142_1_s.jpg",
+      "datePublished": "2026-11-06T13:23:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

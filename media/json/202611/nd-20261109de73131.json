@@ -1,0 +1,143 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261109de73131",
+  "dataSourceId": "nd",
+  "name": "山口県警 ミスでボーナスなど8000万円余が未払い 一部時効に",
+  "headline": "山口県警 ミスでボーナスなど8000万円余が未払い 一部時効に",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261109de73131",
+    "playlistId": "news-nwa-society-nationwide-20261109",
+    "newsarticleName": "山口県警 ミスでボーナスなど8000万円余が未払い 一部時効に",
+    "playlistName": "11月9日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "山口県警察本部で、給与などに関するシステムに誤った情報を入力したことが原因とみられるミスによって、500人余りの警察官のボーナスなどの一部、あわせて8000万円余りが未払いになっていることが、警察関係",
+  "dateModified": "2026-11-09T19:22:00+09:00",
+  "datePublished": "2026-11-09T19:22:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de73131/20261109de73131_E0000156736_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de73131/20261109de73131_E0000156736_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000363",
+      "name": "山口県",
+      "display": true
+    },
+    {
+      "id": "E0000000598",
+      "name": "警察",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "山口県警察本部で、給与などに関するシステムに誤った情報を入力したことが原因とみられるミスによって、500人余りの警察官のボーナスなどの一部、あわせて8000万円余りが未払いになっていることが、警察関係",
+  "articleBody": "山口県警察本部で、給与などに関するシステムに誤った情報を入力したことが原因とみられるミスによって、500人余りの警察官のボーナスなどの一部、あわせて8000万円余りが未払いになっていることが、警察関係者への取材でわかりました。\n\nこのうち5000万円余りについては時効だとして支払われない見通しで、県警は今後、該当する警察官に対して説明することにしています。\n\n\n警察関係者によりますと、未払いになっているのは、山口県警察本部が10年から20年ほど前に採用した大学卒の警察官500人余りのボーナスと、そのうち退職した人の退職手当のいずれも一部、あわせて8000万円余りです。\n\n給与などに関するシステムに大学卒と入力すべきところを高校卒と誤って入力していたことが原因とみられるということです。\n\n県警は、3000万円余りについて、さかのぼって支払うとしていますが、残る5000万円余りは、法律による時効だとして支払われない見通しだということです。\n\n県警は今後、該当する警察官に対して詳しい説明をすることにしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "山口県警察本部で、給与などに関するシステムに誤った情報を入力したことが原因とみられるミスによって、500人余りの警察官のボーナスなどの一部、あわせて8000万円余りが未払いになっていることが、警察関係者への取材でわかりました。\n\nこのうち5000万円余りについては時効だとして支払われない見通しで、県警は今後、該当する警察官に対して説明することにしています。\n",
+    "markedBody": "警察関係者によりますと、未払いになっているのは、山口県警察本部が10年から20年ほど前に採用した大学卒の警察官500人余りのボーナスと、そのうち退職した人の退職手当のいずれも一部、あわせて8000万円余りです。\n\n給与などに関するシステムに大学卒と入力すべきところを高校卒と誤って入力していたことが原因とみられるということです。\n\n県警は、3000万円余りについて、さかのぼって支払うとしていますが、残る5000万円余りは、法律による時効だとして支払われない見通しだということです。\n\n県警は今後、該当する警察官に対して詳しい説明をすることにしています。\n",
+    "trimmedLead": "山口県警察本部で、給与などに関するシステムに誤った情報を入力したことが原因とみられるミスによって、500人余りの警察官のボーナスなどの一部、あわせて8000万円余りが未払いになっていることが、警察関係者への取材でわかりました。\n\nこのうち5000万円余りについては時効だとして支払われない見通しで、県警は今後、該当する警察官に対して説明することにしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261109de73131.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261109de73131",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "山口県警 ミスでボーナスなど8000万円余が未払い 一部時効に",
+      "description": "山口県警察本部で、給与などに関するシステムに誤った情報を入力したことが原因とみられるミスによって、500人余りの警察官のボーナスなどの一部、あわせて8000万円余りが未払いになっていることが、警察関係",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261109de73131_E0000156744_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261109de73131/20261109de73131_E0000156736_1_l.jpg",
+      "duration": "PT54S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261109de73131_E0000156744_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de73131/20261109de73131_E0000156736_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "ニトリに不正アクセス 最大3762万件の個人情報が流出の可能性",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de73045",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de73045/20261109de73045_E0000155270_1_s.jpg",
+      "datePublished": "2026-11-09T19:17:59+09:00"
+    },
+    {
+      "name": "ソニー生命 契約者情報約290万件漏えい",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de73115",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de73115/20261109de73115_E0000155660_1_s.jpg",
+      "datePublished": "2026-11-09T18:41:51+09:00"
+    },
+    {
+      "name": "COP31開幕 気候変動対策の実行へ 議長国が各国に協力呼びかけ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72895",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72895/20261109de72895_E0000153811_1_s.jpg",
+      "datePublished": "2026-11-09T19:06:09+09:00"
+    },
+    {
+      "name": "高市内閣支持率53％ 不支持32％ NHK世論調査",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72711",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72711/20261109de72711_E0000156607_1_s.jpg",
+      "datePublished": "2026-11-09T19:00:16+09:00"
+    },
+    {
+      "name": "景気映す銅価格“ドクター・カッパー”どう占う【経済コラム】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70576",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70576/20261104de70576_E0000149517_1_s.jpg",
+      "datePublished": "2026-11-06T19:49:22+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
