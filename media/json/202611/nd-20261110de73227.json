@@ -1,0 +1,115 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261110de73227",
+  "dataSourceId": "nd",
+  "name": "アメリカ ヘグセス国防長官 弾劾訴追決議案を共和党議員が提出",
+  "headline": "アメリカ ヘグセス国防長官 弾劾訴追決議案を共和党議員が提出",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261110de73227",
+    "playlistId": "news-nwa-international-nationwide-20261110",
+    "newsarticleName": "アメリカ ヘグセス国防長官 弾劾訴追決議案を共和党議員が提出",
+    "playlistName": "11月10日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "イランへの軍事作戦をめぐり、アメリカ連邦議会下院で9日、ヘグセス国防長官の罷免を求める弾劾訴追の決議案が提出されました。\n\n\n決議案を提出したのは軍事作戦に批判的な立場をとってきた与党・共和党の下院議",
+  "dateModified": "2026-11-10T06:22:40+09:00",
+  "datePublished": "2026-11-10T06:22:40+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73227/20261110de73227_E0000157838_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73227/20261110de73227_E0000157838_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000419",
+      "name": "アメリカ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "イランへの軍事作戦をめぐり、アメリカ連邦議会下院で9日、ヘグセス国防長官の罷免を求める弾劾訴追の決議案が提出されました。\n\n\n決議案を提出したのは軍事作戦に批判的な立場をとってきた与党・共和党の下院議",
+  "articleBody": "イランへの軍事作戦をめぐり、アメリカ連邦議会下院で9日、ヘグセス国防長官の罷免を求める弾劾訴追の決議案が提出されました。\n\n\n決議案を提出したのは軍事作戦に批判的な立場をとってきた与党・共和党の下院議員で「ヘグセス長官が議会の承認を経ずにイランへの軍事作戦を続けているのは違法であり、責任を問われるべきだ」などと主張しています。\n\n共和党が大敗した中間選挙の結果はまだ議会の構成には反映されていませんが、共和党と野党・民主党の議席数の差は4議席で、共和党の議員の間でも支持する動きが出るかが注目されています。\n\nただ、仮に下院で決議案が可決されても罷免には上院で3分の2の賛成が必要なため、アメリカメディアはヘグセス長官が罷免される見通しは立っていないとしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "イランへの軍事作戦をめぐり、アメリカ連邦議会下院で9日、ヘグセス国防長官の罷免を求める弾劾訴追の決議案が提出されました。\n",
+    "markedBody": "決議案を提出したのは軍事作戦に批判的な立場をとってきた与党・共和党の下院議員で「ヘグセス長官が議会の承認を経ずにイランへの軍事作戦を続けているのは違法であり、責任を問われるべきだ」などと主張しています。\n\n共和党が大敗した中間選挙の結果はまだ議会の構成には反映されていませんが、共和党と野党・民主党の議席数の差は4議席で、共和党の議員の間でも支持する動きが出るかが注目されています。\n\nただ、仮に下院で決議案が可決されても罷免には上院で3分の2の賛成が必要なため、アメリカメディアはヘグセス長官が罷免される見通しは立っていないとしています。\n",
+    "trimmedLead": "イランへの軍事作戦をめぐり、アメリカ連邦議会下院で9日、ヘグセス国防長官の罷免を求める弾劾訴追の決議案が提出されました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261110de73227.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261110de73227",
+  "video": [],
+  "citation": [
+    {
+      "name": "ポーランド乱射事件 検察がテロ容疑で捜査 容疑者は死亡",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72678",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72678/20261109de72678_E0000153848_1_s.jpg",
+      "datePublished": "2026-11-09T19:59:13+09:00"
+    },
+    {
+      "name": "COP31開幕 気候変動対策の実行へ 議長国が各国に協力呼びかけ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72895",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72895/20261109de72895_E0000153811_1_s.jpg",
+      "datePublished": "2026-11-09T19:06:09+09:00"
+    },
+    {
+      "name": "日本ベトナム首脳会談 安保推進で一致 重要鉱物や原子力で連携",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72912",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72912/20261109de72912_E0000155361_1_s.jpg",
+      "datePublished": "2026-11-09T23:33:22+09:00"
+    },
+    {
+      "name": "JT ロシアの現地法人 一時管理対象も“現時点で事業継続”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de73135",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de73135/20261109de73135_E0000157032_1_s.jpg",
+      "datePublished": "2026-11-09T19:36:00+09:00"
+    },
+    {
+      "name": "トランプ大統領 米中ロ首脳会談開催に意欲“非核化”など議題",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72833",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72833/20261109de72833_E0000154777_1_s.jpg",
+      "datePublished": "2026-11-09T19:01:23+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
