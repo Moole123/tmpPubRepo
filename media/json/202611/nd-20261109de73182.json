@@ -1,0 +1,135 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261109de73182",
+  "dataSourceId": "nd",
+  "name": "震度5強 震源を静岡県西部から愛知県東部に変更 気象庁",
+  "headline": "震度5強 震源を静岡県西部から愛知県東部に変更 気象庁",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261109de73182",
+    "playlistId": "news-nwa-disaster-nationwide-20261109",
+    "newsarticleName": "震度5強 震源を静岡県西部から愛知県東部に変更 気象庁",
+    "playlistName": "11月9日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "8日未明、愛知県で震度5強の揺れを観測した地震について、気象庁は、データを詳しく精査した結果、震源の場所を静岡県西部から愛知県東部に変更しました。\n\n\n8日午前1時4分ごろに発生したマグニチュード5.",
+  "dateModified": "2026-11-09T22:13:00+09:00",
+  "datePublished": "2026-11-09T22:13:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de73182/20261109de73182_E0000157817_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de73182/20261109de73182_E0000157817_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000682",
+      "name": "気象庁",
+      "display": true
+    },
+    {
+      "id": "E0000000389",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "E0000000351",
+      "name": "愛知県",
+      "display": true
+    },
+    {
+      "id": "E0000000350",
+      "name": "静岡県",
+      "display": true
+    },
+    {
+      "id": "E0000000348",
+      "name": "長野県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "8日未明、愛知県で震度5強の揺れを観測した地震について、気象庁は、データを詳しく精査した結果、震源の場所を静岡県西部から愛知県東部に変更しました。\n\n\n8日午前1時4分ごろに発生したマグニチュード5.",
+  "articleBody": "8日未明、愛知県で震度5強の揺れを観測した地震について、気象庁は、データを詳しく精査した結果、震源の場所を静岡県西部から愛知県東部に変更しました。\n\n\n8日午前1時4分ごろに発生したマグニチュード5.7の地震では震度5強の強い揺れを愛知県知多市で観測したほか、震度5弱の揺れを、愛知県の瀬戸市、半田市、刈谷市、豊田市、新城市、東海市、みよし市、東郷町、静岡県の浜松市浜名区、岐阜県恵那市、長野県売木村で観測しました。\n\n地震は静岡県と愛知県の県境付近で発生していて、気象庁は当初、震源の場所を静岡県西部と発表していましたが、詳しく精査した結果、愛知県東部に変更しました。\n\n気象庁によりますと震源の深さは41キロで、陸の下に沈み込むフィリピン海プレートの内部で発生した地震だということです。\n\n今回の震源の周辺では、その後も体に揺れを感じないものも含めて地震活動が続いていて、気象庁は1週間ほどは最大震度5強程度の地震に注意するよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "8日未明、愛知県で震度5強の揺れを観測した地震について、気象庁は、データを詳しく精査した結果、震源の場所を静岡県西部から愛知県東部に変更しました。\n",
+    "markedBody": "8日午前1時4分ごろに発生したマグニチュード5.7の地震では震度5強の強い揺れを愛知県知多市で観測したほか、震度5弱の揺れを、愛知県の瀬戸市、半田市、刈谷市、豊田市、新城市、東海市、みよし市、東郷町、静岡県の浜松市浜名区、岐阜県恵那市、長野県売木村で観測しました。\n\n地震は静岡県と愛知県の県境付近で発生していて、気象庁は当初、震源の場所を静岡県西部と発表していましたが、詳しく精査した結果、愛知県東部に変更しました。\n\n気象庁によりますと震源の深さは41キロで、陸の下に沈み込むフィリピン海プレートの内部で発生した地震だということです。\n\n今回の震源の周辺では、その後も体に揺れを感じないものも含めて地震活動が続いていて、気象庁は1週間ほどは最大震度5強程度の地震に注意するよう呼びかけています。\n",
+    "trimmedLead": "8日未明、愛知県で震度5強の揺れを観測した地震について、気象庁は、データを詳しく精査した結果、震源の場所を静岡県西部から愛知県東部に変更しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261109de73182.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261109de73182",
+  "video": [],
+  "citation": [
+    {
+      "name": "震度5強“南海トラフに特段の影響を及ぼさず”気象庁検討会",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de73169",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de73169/20261109de73169_E0000157457_1_s.jpg",
+      "datePublished": "2026-11-09T21:03:00+09:00"
+    },
+    {
+      "name": "愛知で震度5強 22人けが 各地の被害状況",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72310",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72310/20261108de72310_E0000152791_1_s.jpg",
+      "datePublished": "2026-11-08T17:52:00+09:00"
+    },
+    {
+      "name": "震度5強 愛知で観測約30年ぶり 1週間ほど同程度の揺れに注意",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72252",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72252/20261108de72252_E0000152476_1_s.jpg",
+      "datePublished": "2026-11-08T12:06:00+09:00"
+    },
+    {
+      "name": "気象庁記者会見 “同程度の地震に注意”【会見詳細】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261108de72259",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72259/20261108de72259_E0000152498_1_s.jpg",
+      "datePublished": "2026-11-08T05:28:00+09:00"
+    },
+    {
+      "name": "防災庁 都道府県の窓口職員「地域防災連携推進員」に研修会",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de73178",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de73178/20261109de73178_E0000157805_1_s.jpg",
+      "datePublished": "2026-11-09T22:19:07+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
