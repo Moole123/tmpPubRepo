@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261110de73474",
+  "dataSourceId": "nd",
+  "name": "今年度上半期の経常収支　黒字幅は過去2番目の大きさに",
+  "headline": "今年度上半期の経常収支　黒字幅は過去2番目の大きさに",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261110de73474",
+    "playlistId": "news-nwa-business-nationwide-20261110",
+    "newsarticleName": "今年度上半期の経常収支　黒字幅は過去2番目の大きさに",
+    "playlistName": "11月10日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "財務省が発表した今年度上半期の国際収支によりますと、日本が海外との貿易や投資でどれだけ稼いだかを示す「経常収支」は17兆1482億円の黒字で、比較が可能な1985年度以降、年度の上半期としては2番目に",
+  "dateModified": "2026-11-10T15:08:34+09:00",
+  "datePublished": "2026-11-10T15:08:34+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73474/20261110de73474_E0000159067_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73474/20261110de73474_E0000159067_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "財務省が発表した今年度上半期の国際収支によりますと、日本が海外との貿易や投資でどれだけ稼いだかを示す「経常収支」は17兆1482億円の黒字で、比較が可能な1985年度以降、年度の上半期としては2番目に",
+  "articleBody": "財務省が発表した今年度上半期の国際収支によりますと、日本が海外との貿易や投資でどれだけ稼いだかを示す「経常収支」は17兆1482億円の黒字で、比較が可能な1985年度以降、年度の上半期としては2番目に大きい黒字幅となりました。\n\n海外の子会社から受け取った配当が高い水準を維持したほか、好調なインバウンド需要で旅行収支の黒字幅が拡大したことなどが要因です。\n\nただ、貿易収支は、原油価格の上昇で輸入額が増加したことなどから1兆697億円の赤字となりました。\n\n\n一方、ことし9月の経常収支は2兆3723億円の黒字でした。経常収支の黒字は3か月連続となります。\n",
+  "detailedArticleBody": {
+    "markedLead": "財務省が発表した今年度上半期の国際収支によりますと、日本が海外との貿易や投資でどれだけ稼いだかを示す「経常収支」は17兆1482億円の黒字で、比較が可能な1985年度以降、年度の上半期としては2番目に大きい黒字幅となりました。\n\n海外の子会社から受け取った配当が高い水準を維持したほか、好調なインバウンド需要で旅行収支の黒字幅が拡大したことなどが要因です。\n\nただ、貿易収支は、原油価格の上昇で輸入額が増加したことなどから1兆697億円の赤字となりました。\n",
+    "markedBody": "![](https://img.web.nhk/news/nd/kiji/20261110de73474/20261110de73474_E0000159065_1_l.jpg)\n\n一方、ことし9月の経常収支は2兆3723億円の黒字でした。経常収支の黒字は3か月連続となります。\n",
+    "trimmedLead": "財務省が発表した今年度上半期の国際収支によりますと、日本が海外との貿易や投資でどれだけ稼いだかを示す「経常収支」は17兆1482億円の黒字で、比較が可能な1985年度以降、年度の上半期としては2番目に大きい黒字幅となりました。\n\n海外の子会社から受け取った配当が高い水準を維持したほか、好調なインバウンド需要で旅行収支の黒字幅が拡大したことなどが要因です。\n\nただ、貿易収支は、原油価格の上昇で輸入額が増加したことなどから1兆697億円の赤字となりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261110de73474.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261110de73474",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
