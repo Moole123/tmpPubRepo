@@ -1,0 +1,130 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261110de73298",
+  "dataSourceId": "nd",
+  "name": "消費税減税法案 参院であす審議入り 与野党が議運委で正式合意",
+  "headline": "消費税減税法案 参院であす審議入り 与野党が議運委で正式合意",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261110de73298",
+    "playlistId": "news-nwa-politics-nationwide-20261110",
+    "newsarticleName": "消費税減税法案 参院であす審議入り 与野党が議運委で正式合意",
+    "playlistName": "11月10日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "食料品の消費税減税関連法案の審議日程をめぐり、参議院議院運営委員会が理事会を開き、11日に参議院本会議で審議入りするとともに、高市総理大臣に出席を求めて質疑を行うことで与野党が正式に合意しました。\n\n",
+  "dateModified": "2026-11-10T11:00:00+09:00",
+  "datePublished": "2026-11-10T11:00:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73298/20261110de73298_E0000158201_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73298/20261110de73298_E0000158201_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "E0000000168",
+      "name": "消費税",
+      "display": true
+    },
+    {
+      "id": "E0000000127",
+      "name": "税制改正",
+      "display": true
+    },
+    {
+      "id": "E0000000450",
+      "name": "参議院",
+      "display": true
+    },
+    {
+      "id": "E0000000448",
+      "name": "国会",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "食料品の消費税減税関連法案の審議日程をめぐり、参議院議院運営委員会が理事会を開き、11日に参議院本会議で審議入りするとともに、高市総理大臣に出席を求めて質疑を行うことで与野党が正式に合意しました。\n\n",
+  "articleBody": "食料品の消費税減税関連法案の審議日程をめぐり、参議院議院運営委員会が理事会を開き、11日に参議院本会議で審議入りするとともに、高市総理大臣に出席を求めて質疑を行うことで与野党が正式に合意しました。\n\n\n今の国会で最大の焦点となっている食料品の消費税減税関連法案は、先週衆議院を通過して参議院に送られました。\n\nこれを受けて、10日、参議院議院運営委員会が理事会を開き、審議日程を協議しました。\n\nそして、11日午前10時から本会議を開き、片山財務大臣が法案の趣旨説明を行って審議入りするとともに、高市総理大臣に出席を求めて質疑を行うことで与野党が正式に合意しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "食料品の消費税減税関連法案の審議日程をめぐり、参議院議院運営委員会が理事会を開き、11日に参議院本会議で審議入りするとともに、高市総理大臣に出席を求めて質疑を行うことで与野党が正式に合意しました。\n",
+    "markedBody": "今の国会で最大の焦点となっている食料品の消費税減税関連法案は、先週衆議院を通過して参議院に送られました。\n\nこれを受けて、10日、参議院議院運営委員会が理事会を開き、審議日程を協議しました。\n\nそして、11日午前10時から本会議を開き、片山財務大臣が法案の趣旨説明を行って審議入りするとともに、高市総理大臣に出席を求めて質疑を行うことで与野党が正式に合意しました。\n",
+    "trimmedLead": "食料品の消費税減税関連法案の審議日程をめぐり、参議院議院運営委員会が理事会を開き、11日に参議院本会議で審議入りするとともに、高市総理大臣に出席を求めて質疑を行うことで与野党が正式に合意しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261110de73298.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261110de73298",
+  "video": [],
+  "citation": [
+    {
+      "name": "自民党執行部 本会議退席で石破氏ら処分 参院審議向け結束図る",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de73202",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de73202/20261109de73202_E0000157827_1_s.jpg",
+      "datePublished": "2026-11-10T05:18:00+09:00"
+    },
+    {
+      "name": "安保3文書改定へ 政府側が防衛力強化の方向性を示す",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261110de73284",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73284/20261110de73284_E0000158184_1_s.jpg",
+      "datePublished": "2026-11-10T11:04:00+09:00"
+    },
+    {
+      "name": "参院 野党6党 消費税減税法案“委員会審議入りは首相出席を”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72947",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72947/20261109de72947_E0000155150_1_s.jpg",
+      "datePublished": "2026-11-09T20:23:26+09:00"
+    },
+    {
+      "name": "エヌビディアCEOと中国情報機関の協力者女性の疑惑 FBIが捜査 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261110de73265",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73265/20261110de73265_E0000158163_1_s.jpg",
+      "datePublished": "2026-11-10T10:15:28+09:00"
+    },
+    {
+      "name": "ちばてつやが伝えたかったこと 受け継がれる“漫画の力”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72709",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72709/20261109de72709_E0000154960_1_s.jpg",
+      "datePublished": "2026-11-09T17:53:51+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
