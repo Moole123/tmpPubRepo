@@ -1,0 +1,151 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261110de73779",
+  "dataSourceId": "nd",
+  "name": "日商 受験者最大約98万人分の情報漏えいか 不正アクセスの影響",
+  "headline": "日商 受験者最大約98万人分の情報漏えいか 不正アクセスの影響",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261110de73779",
+    "playlistId": "news-nwa-scienceculture-nationwide-20261110",
+    "newsarticleName": "日商 受験者最大約98万人分の情報漏えいか 不正アクセスの影響",
+    "playlistName": "11月10日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "日本商工会議所は、委託先のサーバーに不正アクセスがあり、インターネットを通じて行った簿記などの試験の受験者の個人情報、最大およそ98万人分が、漏えいした可能性があると発表しました。\n\n\n漏えいした可能",
+  "dateModified": "2026-11-10T19:53:54+09:00",
+  "datePublished": "2026-11-10T19:53:54+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73779/20261110de73779_E0000161157_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73779/20261110de73779_E0000161157_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "科学・文化",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "日本商工会議所は、委託先のサーバーに不正アクセスがあり、インターネットを通じて行った簿記などの試験の受験者の個人情報、最大およそ98万人分が、漏えいした可能性があると発表しました。\n\n\n漏えいした可能",
+  "articleBody": "日本商工会議所は、委託先のサーバーに不正アクセスがあり、インターネットを通じて行った簿記などの試験の受験者の個人情報、最大およそ98万人分が、漏えいした可能性があると発表しました。\n\n\n漏えいした可能性があるのは、2022年4月1日から今月4日にかけてインターネットを通じて行われた簿記やプログラミング、英語などの試験の受験者の情報です。\n\n氏名や生年月日、試験の結果などのほか、受験者が入力していた場合は住所や電話番号などの情報も漏えいした可能性があるということです。\n\n一方で、クレジットカードの情報は含まれていないということです。\n\n日本商工会議所では、漏えいした情報を使って不審なメールなどが届くおそれがあるとして、注意を呼びかけています。\n\n簿記などの試験は、すでに対策を講じたことから、通常どおり、インターネット上で受けられるということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "日本商工会議所は、委託先のサーバーに不正アクセスがあり、インターネットを通じて行った簿記などの試験の受験者の個人情報、最大およそ98万人分が、漏えいした可能性があると発表しました。\n",
+    "markedBody": "漏えいした可能性があるのは、2022年4月1日から今月4日にかけてインターネットを通じて行われた簿記やプログラミング、英語などの試験の受験者の情報です。\n\n氏名や生年月日、試験の結果などのほか、受験者が入力していた場合は住所や電話番号などの情報も漏えいした可能性があるということです。\n\n一方で、クレジットカードの情報は含まれていないということです。\n\n日本商工会議所では、漏えいした情報を使って不審なメールなどが届くおそれがあるとして、注意を呼びかけています。\n\n簿記などの試験は、すでに対策を講じたことから、通常どおり、インターネット上で受けられるということです。\n",
+    "trimmedLead": "日本商工会議所は、委託先のサーバーに不正アクセスがあり、インターネットを通じて行った簿記などの試験の受験者の個人情報、最大およそ98万人分が、漏えいした可能性があると発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261110de73779.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261110de73779",
+  "video": [],
+  "citation": [
+    {
+      "name": "総務省 サイバー攻撃の被害拡大防ぐアクセス抑止策の検討へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261110de73559",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73559/20261110de73559_E0000159313_1_s.jpg",
+      "datePublished": "2026-11-10T16:46:00+09:00"
+    },
+    {
+      "name": "エディオン 不正プログラムでクレカ情報500件余漏えいのおそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261110de73517",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73517/20261110de73517_E0000159191_1_s.jpg",
+      "datePublished": "2026-11-10T16:45:06+09:00"
+    },
+    {
+      "name": "自民 小渕氏 税調副会長の退任求められ受け入れ 古川氏は辞任",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261110de73714",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73714/20261110de73714_E0000159429_1_s.jpg",
+      "datePublished": "2026-11-10T18:54:00+09:00"
+    },
+    {
+      "name": "台風32号は小笠原接近へ 暴風に厳重警戒 北・東日本は冬の寒さ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261110de73756",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73756/20261110de73756_E0000161034_1_s.jpg",
+      "datePublished": "2026-11-10T19:16:34+09:00"
+    },
+    {
+      "name": "ソフトバンクグループ中間決算 7680億円の赤字 DC計画変更で",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261110de73545",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73545/20261110de73545_E0000159281_1_s.jpg",
+      "datePublished": "2026-11-10T20:03:00+09:00"
+    },
+    {
+      "name": "JIS不適合生コン製造などで認証取り消し 麻生コンクリート工業",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261110de73726",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73726/20261110de73726_E0000159922_1_s.jpg",
+      "datePublished": "2026-11-10T18:39:27+09:00"
+    },
+    {
+      "name": "JR東「ウォークスルー改札」山手線全駅など再来年春に導入へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261110de73528",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73528/20261110de73528_E0000159231_1_s.jpg",
+      "datePublished": "2026-11-10T16:19:00+09:00"
+    },
+    {
+      "name": "「トクリュウ」対策 通信内容を遠隔で把握する法案 衆院通過",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261110de73482",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73482/20261110de73482_E0000159155_1_s.jpg",
+      "datePublished": "2026-11-10T15:46:00+09:00"
+    },
+    {
+      "name": "巨人 ドラフト1位指名であいさつ 織田翔希投手は同席せず",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261110de73588",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73588/20261110de73588_E0000159386_1_s.jpg",
+      "datePublished": "2026-11-10T17:46:57+09:00"
+    },
+    {
+      "name": "ちばてつやが伝えたかったこと 受け継がれる“漫画の力”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72709",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72709/20261109de72709_E0000154960_1_s.jpg",
+      "datePublished": "2026-11-09T17:53:51+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
