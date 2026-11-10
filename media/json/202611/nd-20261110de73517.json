@@ -1,0 +1,144 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261110de73517",
+  "dataSourceId": "nd",
+  "name": "エディオン 不正プログラムでクレカ情報500件余漏えいのおそれ",
+  "headline": "エディオン 不正プログラムでクレカ情報500件余漏えいのおそれ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261110de73517",
+    "playlistId": "news-nwa-scienceculture-nationwide-20261110",
+    "newsarticleName": "エディオン 不正プログラムでクレカ情報500件余漏えいのおそれ",
+    "playlistName": "11月10日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "家電量販店大手のエディオンは、ネット通販サイトに不正なプログラムが組み込まれ、顧客が入力したクレジットカードの番号やセキュリティコードなどが最大で500件あまり漏えいしたおそれがあると発表しました。\n",
+  "dateModified": "2026-11-10T16:45:06+09:00",
+  "datePublished": "2026-11-10T16:45:06+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73517/20261110de73517_E0000159191_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73517/20261110de73517_E0000159191_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "科学・文化",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "家電量販店大手のエディオンは、ネット通販サイトに不正なプログラムが組み込まれ、顧客が入力したクレジットカードの番号やセキュリティコードなどが最大で500件あまり漏えいしたおそれがあると発表しました。\n",
+  "articleBody": "家電量販店大手のエディオンは、ネット通販サイトに不正なプログラムが組み込まれ、顧客が入力したクレジットカードの番号やセキュリティコードなどが最大で500件あまり漏えいしたおそれがあると発表しました。\n\n\nエディオンでは今月5日にネット通販サイトのサーバーに不正アクセスがあり、会員の氏名や住所、電話番号などの個人情報が最大で1万3685人分漏えいしたおそれがあると発表していました。\n\n会社では、この不正アクセスによる影響を調査していましたが、パソコンから通販サイトにアクセスし、決済情報を入力するシステムに不正なプログラムが組み込まれていたことが新たにわかったということです。\n\nこれによって今月4日の午後7時以降、クレジットカードの情報を入力した顧客のカード番号や有効期限、セキュリティコードなどが最大で556件、漏えいしたおそれがあるということです。\n\n会社では、カードが不正に利用されるおそれがあるとして、カード会社に監視を強化するよう依頼したほか、顧客に対しても身に覚えのない請求がある場合はカード会社に連絡するよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "家電量販店大手のエディオンは、ネット通販サイトに不正なプログラムが組み込まれ、顧客が入力したクレジットカードの番号やセキュリティコードなどが最大で500件あまり漏えいしたおそれがあると発表しました。\n",
+    "markedBody": "エディオンでは今月5日にネット通販サイトのサーバーに不正アクセスがあり、会員の氏名や住所、電話番号などの個人情報が最大で1万3685人分漏えいしたおそれがあると発表していました。\n\n会社では、この不正アクセスによる影響を調査していましたが、パソコンから通販サイトにアクセスし、決済情報を入力するシステムに不正なプログラムが組み込まれていたことが新たにわかったということです。\n\nこれによって今月4日の午後7時以降、クレジットカードの情報を入力した顧客のカード番号や有効期限、セキュリティコードなどが最大で556件、漏えいしたおそれがあるということです。\n\n会社では、カードが不正に利用されるおそれがあるとして、カード会社に監視を強化するよう依頼したほか、顧客に対しても身に覚えのない請求がある場合はカード会社に連絡するよう呼びかけています。\n",
+    "trimmedLead": "家電量販店大手のエディオンは、ネット通販サイトに不正なプログラムが組み込まれ、顧客が入力したクレジットカードの番号やセキュリティコードなどが最大で500件あまり漏えいしたおそれがあると発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261110de73517.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261110de73517",
+  "video": [],
+  "citation": [
+    {
+      "name": "JR東「ウォークスルー改札」山手線全駅など再来年春に導入へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261110de73528",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73528/20261110de73528_E0000159231_1_s.jpg",
+      "datePublished": "2026-11-10T16:19:38+09:00"
+    },
+    {
+      "name": "北日本と東日本で冬の寒さ 体調管理に注意",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261110de73237",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73237/20261110de73237_E0000158348_1_s.jpg",
+      "datePublished": "2026-11-10T12:00:00+09:00"
+    },
+    {
+      "name": "安保3文書改定へ 政府側が防衛力強化の方向性を示す",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261110de73284",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73284/20261110de73284_E0000158184_1_s.jpg",
+      "datePublished": "2026-11-10T11:04:00+09:00"
+    },
+    {
+      "name": "台風32号 小笠原諸島に接近へ 暴風や高波に警戒",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261110de73239",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73239/20261110de73239_E0000159247_1_s.jpg",
+      "datePublished": "2026-11-10T12:18:00+09:00"
+    },
+    {
+      "name": "Xに「いいね」14回で有罪判決 ストーカー規制法違反の罪",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261110de73342",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73342/20261110de73342_E0000158275_1_s.jpg",
+      "datePublished": "2026-11-10T11:51:00+09:00"
+    },
+    {
+      "name": "米・ロ・ウクライナの高官協議開始へ 和平へ進展あるか焦点",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261110de73289",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73289/20261110de73289_E0000158199_1_s.jpg",
+      "datePublished": "2026-11-10T11:02:32+09:00"
+    },
+    {
+      "name": "9月家計調査 実質の消費支出6.8％減 10か月連続の減少",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261110de73268",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73268/20261110de73268_E0000158204_1_s.jpg",
+      "datePublished": "2026-11-10T11:31:00+09:00"
+    },
+    {
+      "name": "ちばてつやが伝えたかったこと 受け継がれる“漫画の力”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72709",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72709/20261109de72709_E0000154960_1_s.jpg",
+      "datePublished": "2026-11-09T17:53:51+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

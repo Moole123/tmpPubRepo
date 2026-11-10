@@ -1,0 +1,132 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261110de73559",
+  "dataSourceId": "nd",
+  "name": "総務省 サイバー攻撃の被害拡大防ぐアクセス抑止策の検討へ",
+  "headline": "総務省 サイバー攻撃の被害拡大防ぐアクセス抑止策の検討へ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261110de73559",
+    "playlistId": "news-nwa-business-nationwide-20261110",
+    "newsarticleName": "総務省 サイバー攻撃の被害拡大防ぐアクセス抑止策の検討へ",
+    "playlistName": "11月10日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "企業などを狙ったサイバー攻撃が相次ぐなか、総務省は漏えいした個人情報がネット上に掲載された場合などを想定し、悪質なサイトへのアクセスを抑止する方法などを議論する新たな検討会を立ち上げると発表しました。",
+  "dateModified": "2026-11-10T16:46:00+09:00",
+  "datePublished": "2026-11-10T16:46:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73559/20261110de73559_E0000159313_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73559/20261110de73559_E0000159313_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000455",
+      "name": "総務省",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "企業などを狙ったサイバー攻撃が相次ぐなか、総務省は漏えいした個人情報がネット上に掲載された場合などを想定し、悪質なサイトへのアクセスを抑止する方法などを議論する新たな検討会を立ち上げると発表しました。",
+  "articleBody": "企業などを狙ったサイバー攻撃が相次ぐなか、総務省は漏えいした個人情報がネット上に掲載された場合などを想定し、悪質なサイトへのアクセスを抑止する方法などを議論する新たな検討会を立ち上げると発表しました。\n\n\n企業などを狙ったサイバー攻撃をめぐっては、漏えいした個人情報を悪用し、サービスを不正に利用するといった事案が発生しています。\n\nこうしたなか、総務省は被害の拡大を防ごうと、漏えいした個人情報が掲載されたサイトや攻撃者が脅迫用に使っているサイトなど、悪質なサイトへのアクセスを抑止する方法などを議論する新たな検討会を立ち上げると発表しました。\n\n具体的には、特定のサイトへのアクセスを遮断する「ブロッキング」だけでなく、悪質なサイト自体を消去することなど有効な対策を検討し、憲法で保障されている「通信の秘密」との関係も含め、必要な法整備などを議論するとしています。\n\n検討会は、今月下旬から議論を始め、来年中に報告書をとりまとめることにしています。\n\n藤井総務大臣は閣議のあとの会見で「サイバー攻撃で大規模な個人情報の漏えいが発生し、被害企業だけでなく、国民に広範な被害を及ぼしうる事態が生じている。サイトへのアクセス抑止は、通信の秘密との関係から丁寧な検討が必要だ」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "企業などを狙ったサイバー攻撃が相次ぐなか、総務省は漏えいした個人情報がネット上に掲載された場合などを想定し、悪質なサイトへのアクセスを抑止する方法などを議論する新たな検討会を立ち上げると発表しました。\n",
+    "markedBody": "企業などを狙ったサイバー攻撃をめぐっては、漏えいした個人情報を悪用し、サービスを不正に利用するといった事案が発生しています。\n\nこうしたなか、総務省は被害の拡大を防ごうと、漏えいした個人情報が掲載されたサイトや攻撃者が脅迫用に使っているサイトなど、悪質なサイトへのアクセスを抑止する方法などを議論する新たな検討会を立ち上げると発表しました。\n\n具体的には、特定のサイトへのアクセスを遮断する「ブロッキング」だけでなく、悪質なサイト自体を消去することなど有効な対策を検討し、憲法で保障されている「通信の秘密」との関係も含め、必要な法整備などを議論するとしています。\n\n検討会は、今月下旬から議論を始め、来年中に報告書をとりまとめることにしています。\n\n![](https://img.web.nhk/news/nd/kiji/20261110de73559/20261110de73559_E0000159334_1_l.jpg)\n\n藤井総務大臣は閣議のあとの会見で「サイバー攻撃で大規模な個人情報の漏えいが発生し、被害企業だけでなく、国民に広範な被害を及ぼしうる事態が生じている。サイトへのアクセス抑止は、通信の秘密との関係から丁寧な検討が必要だ」と述べました。\n",
+    "trimmedLead": "企業などを狙ったサイバー攻撃が相次ぐなか、総務省は漏えいした個人情報がネット上に掲載された場合などを想定し、悪質なサイトへのアクセスを抑止する方法などを議論する新たな検討会を立ち上げると発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261110de73559.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261110de73559",
+  "video": [],
+  "citation": [
+    {
+      "name": "ノキアCEO「通信インフラに投資拡大でサイバー攻撃対策を」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261110de73248",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73248/20261110de73248_E0000158126_1_s.jpg",
+      "datePublished": "2026-11-10T08:47:00+09:00"
+    },
+    {
+      "name": "エディオン 不正プログラムでクレカ情報500件余漏えいのおそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261110de73517",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73517/20261110de73517_E0000159191_1_s.jpg",
+      "datePublished": "2026-11-10T16:45:06+09:00"
+    },
+    {
+      "name": "ASEAN 特殊詐欺対策で連携強化",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261110de73347",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73347/20261110de73347_E0000158260_1_s.jpg",
+      "datePublished": "2026-11-10T12:51:19+09:00"
+    },
+    {
+      "name": "北日本と東日本で冬の寒さ 体調管理に注意",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261110de73237",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73237/20261110de73237_E0000158348_1_s.jpg",
+      "datePublished": "2026-11-10T12:00:00+09:00"
+    },
+    {
+      "name": "台風32号 小笠原諸島に接近へ 暴風や高波に警戒",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261110de73239",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73239/20261110de73239_E0000159247_1_s.jpg",
+      "datePublished": "2026-11-10T12:18:00+09:00"
+    },
+    {
+      "name": "ちばてつやが伝えたかったこと 受け継がれる“漫画の力”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72709",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72709/20261109de72709_E0000154960_1_s.jpg",
+      "datePublished": "2026-11-09T17:53:51+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
