@@ -1,0 +1,120 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261111de74075",
+  "dataSourceId": "nd",
+  "name": "韓国ソウル近郊 路線バスが信号待ちの車30台余に次々に衝突する事故 57人けが",
+  "headline": "韓国ソウル近郊 路線バスが信号待ちの車に次々に衝突 57人けが",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261111de74075",
+    "playlistId": "news-nwa-international-nationwide-20261111",
+    "newsarticleName": "韓国ソウル近郊 路線バスが信号待ちの車30台余に次々に衝突する事故 57人けが",
+    "playlistName": "11月11日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "韓国のソウル近郊で11日朝、走行中のバスが信号待ちをしていた車に次々に衝突する事故があり、通勤中の乗客など50人以上がけがをしました。\n\n\n韓国の通信社、連合ニュースによりますと、11日午前7時半すぎ",
+  "dateModified": "2026-11-11T13:35:00+09:00",
+  "datePublished": "2026-11-11T13:35:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de74075/20261111de74075_E0000163260_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de74075/20261111de74075_E0000163260_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000376",
+      "name": "韓国",
+      "display": true
+    },
+    {
+      "id": "E0000000208",
+      "name": "事件・事故",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "韓国のソウル近郊で11日朝、走行中のバスが信号待ちをしていた車に次々に衝突する事故があり、通勤中の乗客など50人以上がけがをしました。\n\n\n韓国の通信社、連合ニュースによりますと、11日午前7時半すぎ",
+  "articleBody": "韓国のソウル近郊で11日朝、走行中のバスが信号待ちをしていた車に次々に衝突する事故があり、通勤中の乗客など50人以上がけがをしました。\n\n\n韓国の通信社、連合ニュースによりますと、11日午前7時半すぎ、ソウル近郊のソンナムで、路線バスが走行中、信号待ちをしていた車30台余りに次々に衝突する事故がありました。\n\nこの事故で、バスで通勤途中だった乗客など57人がけがをし、このうち9人は重傷だということです。\n\nバスは100メートルから150メートルにわたってほかの車に衝突しながら走行したあと、中央分離帯に突っ込んで停止したということで、韓国メディアは前方が大破したバスの映像を伝えています。\n\n連合ニュースによりますと、バスの運転手からアルコールは検出されておらず、運転手は「ブレーキが作動しなかった」と話しているということで、警察が事故の詳しい原因を調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "韓国のソウル近郊で11日朝、走行中のバスが信号待ちをしていた車に次々に衝突する事故があり、通勤中の乗客など50人以上がけがをしました。\n",
+    "markedBody": "韓国の通信社、連合ニュースによりますと、11日午前7時半すぎ、ソウル近郊のソンナムで、路線バスが走行中、信号待ちをしていた車30台余りに次々に衝突する事故がありました。\n\nこの事故で、バスで通勤途中だった乗客など57人がけがをし、このうち9人は重傷だということです。\n\nバスは100メートルから150メートルにわたってほかの車に衝突しながら走行したあと、中央分離帯に突っ込んで停止したということで、韓国メディアは前方が大破したバスの映像を伝えています。\n\n連合ニュースによりますと、バスの運転手からアルコールは検出されておらず、運転手は「ブレーキが作動しなかった」と話しているということで、警察が事故の詳しい原因を調べています。\n",
+    "trimmedLead": "韓国のソウル近郊で11日朝、走行中のバスが信号待ちをしていた車に次々に衝突する事故があり、通勤中の乗客など50人以上がけがをしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261111de74075.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261111de74075",
+  "video": [],
+  "citation": [
+    {
+      "name": "アメリカ ヘグセス国防長官の弾劾決議案 共和党が事実上阻止",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261111de73959",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73959/20261111de73959_E0000162608_1_s.jpg",
+      "datePublished": "2026-11-11T12:18:00+09:00"
+    },
+    {
+      "name": "英警察が米軍兵士逮捕「関係国はロシア」 スパイ活動の疑い",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261111de73900",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73900/20261111de73900_E0000162505_1_s.jpg",
+      "datePublished": "2026-11-11T11:10:00+09:00"
+    },
+    {
+      "name": "トランプ大統領“エヌビディア疑惑”で2度報告受けたか 米報道",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261111de73950",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73950/20261111de73950_E0000162610_1_s.jpg",
+      "datePublished": "2026-11-11T12:12:00+09:00"
+    },
+    {
+      "name": "米 ルビオ国務長官 G7各国に「イランへ大規模戦闘 必要ない」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261111de73868",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73868/20261111de73868_E0000162012_1_s.jpg",
+      "datePublished": "2026-11-11T06:39:00+09:00"
+    },
+    {
+      "name": "G7外相会合閉幕 中東安定に向けた連携 ウクライナ支援継続確認",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261111de73871",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73871/20261111de73871_E0000162020_1_s.jpg",
+      "datePublished": "2026-11-11T06:17:25+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

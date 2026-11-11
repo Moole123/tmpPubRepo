@@ -1,0 +1,126 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261111de74080",
+  "dataSourceId": "nd",
+  "name": "来春の統一地方選 4月11日と25日実施が決定 国会で特例法成立",
+  "headline": "来春の統一地方選 4月11日と25日実施が決定 国会で特例法成立",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261111de74080",
+    "playlistId": "news-nwa-politics-nationwide-20261111",
+    "newsarticleName": "来春の統一地方選 4月11日と25日実施が決定 国会で特例法成立",
+    "playlistName": "11月11日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "来年春の統一地方選挙の日程を定める特例法が参議院本会議で可決・成立し、前半の知事選挙などは4月11日に、後半の市区町村長選挙などは4月25日に行われることが決まりました。\n\n\n4年に1度行われる統一地",
+  "dateModified": "2026-11-11T13:52:53+09:00",
+  "datePublished": "2026-11-11T13:52:53+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de74080/20261111de74080_E0000163296_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de74080/20261111de74080_E0000163296_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "E0000000135",
+      "name": "選挙",
+      "display": true
+    },
+    {
+      "id": "E0000000448",
+      "name": "国会",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "来年春の統一地方選挙の日程を定める特例法が参議院本会議で可決・成立し、前半の知事選挙などは4月11日に、後半の市区町村長選挙などは4月25日に行われることが決まりました。\n\n\n4年に1度行われる統一地",
+  "articleBody": "来年春の統一地方選挙の日程を定める特例法が参議院本会議で可決・成立し、前半の知事選挙などは4月11日に、後半の市区町村長選挙などは4月25日に行われることが決まりました。\n\n\n4年に1度行われる統一地方選挙は毎回特例法で投票の日程が定められていて、来年春に行われる次の統一地方選挙に向けた特例法は11日の参議院本会議で全会一致で可決・成立しました。\n\nこれにより、前半の道府県の知事と議員、政令指定都市の市長と議員の選挙は来年4月11日に、後半の市区町村の首長と議員の選挙は4月25日に、それぞれ行われることが決まりました。\n\n一方、特例法を審議した衆参両院の特別委員会ではそれぞれ付帯決議が可決され、いずれも特別区の設置を問う住民投票と関係自治体の選挙期間が重複しないよう最大限調整することを政府に求める内容が盛り込まれました。\n\n同様の内容は、ことし7月に「副首都」構想の関連法を審議した参議院の特別委員会で可決された付帯決議にも盛り込まれています。\n",
+  "detailedArticleBody": {
+    "markedLead": "来年春の統一地方選挙の日程を定める特例法が参議院本会議で可決・成立し、前半の知事選挙などは4月11日に、後半の市区町村長選挙などは4月25日に行われることが決まりました。\n",
+    "markedBody": "4年に1度行われる統一地方選挙は毎回特例法で投票の日程が定められていて、来年春に行われる次の統一地方選挙に向けた特例法は11日の参議院本会議で全会一致で可決・成立しました。\n\nこれにより、前半の道府県の知事と議員、政令指定都市の市長と議員の選挙は来年4月11日に、後半の市区町村の首長と議員の選挙は4月25日に、それぞれ行われることが決まりました。\n\n一方、特例法を審議した衆参両院の特別委員会ではそれぞれ付帯決議が可決され、いずれも特別区の設置を問う住民投票と関係自治体の選挙期間が重複しないよう最大限調整することを政府に求める内容が盛り込まれました。\n\n同様の内容は、ことし7月に「副首都」構想の関連法を審議した参議院の特別委員会で可決された付帯決議にも盛り込まれています。\n",
+    "trimmedLead": "来年春の統一地方選挙の日程を定める特例法が参議院本会議で可決・成立し、前半の知事選挙などは4月11日に、後半の市区町村長選挙などは4月25日に行われることが決まりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261111de74080.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261111de74080",
+  "video": [],
+  "citation": [
+    {
+      "name": "消費税減税と物価高対策 国民の意識は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261111de73981",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73981/20261111de73981_E0000162586_1_s.jpg",
+      "datePublished": "2026-11-11T13:17:08+09:00"
+    },
+    {
+      "name": "消費税減税法案が参院に 高市首相“支援金 勤労者の3割以上”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261111de73947",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73947/20261111de73947_E0000162542_1_s.jpg",
+      "datePublished": "2026-11-11T14:43:06+09:00"
+    },
+    {
+      "name": "NTTドコモ通信障害続く 不正アクセス確認されず",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261111de73934",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73934/20261111de73934_E0000162531_1_s.jpg",
+      "datePublished": "2026-11-11T14:56:00+09:00"
+    },
+    {
+      "name": "“年内入試”での生成AI活用めぐり大学の対応分かれる　",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261111de73858",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73858/20261111de73858_E0000162182_1_s.jpg",
+      "datePublished": "2026-11-11T08:18:00+09:00"
+    },
+    {
+      "name": "原爆ドーム保存運動のきっかけ 楮山ヒロ子さん新写真見つかる",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261111de73964",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73964/20261111de73964_E0000162701_1_s.jpg",
+      "datePublished": "2026-11-11T12:46:09+09:00"
+    },
+    {
+      "name": "タマホーム社員 火災保険不正請求の疑い 損保各社調査求める",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261111de73843",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73843/20261111de73843_E0000162002_1_s.jpg",
+      "datePublished": "2026-11-11T04:56:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
