@@ -1,0 +1,143 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261111de74257",
+  "dataSourceId": "nd",
+  "name": "ビックカメラ 法人顧客の企業情報13万件余が流出 不正アクセス",
+  "headline": "ビックカメラ 法人顧客の企業情報13万件余が流出 不正アクセス",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261111de74257",
+    "playlistId": "news-nwa-business-nationwide-20261111",
+    "newsarticleName": "ビックカメラ 法人顧客の企業情報13万件余が流出 不正アクセス",
+    "playlistName": "11月11日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "家電量販店大手の「ビックカメラ」は、法人顧客向けの問い合わせフォームが不正アクセスを受け、登録されていた企業の情報、13万3000件あまりが漏えいしたと発表しました。\n\n\n漏えいしたのは、法人顧客向け",
+  "dateModified": "2026-11-11T17:35:31+09:00",
+  "datePublished": "2026-11-11T17:35:31+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de74257/20261111de74257_E0000163655_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de74257/20261111de74257_E0000163655_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "家電量販店大手の「ビックカメラ」は、法人顧客向けの問い合わせフォームが不正アクセスを受け、登録されていた企業の情報、13万3000件あまりが漏えいしたと発表しました。\n\n\n漏えいしたのは、法人顧客向け",
+  "articleBody": "家電量販店大手の「ビックカメラ」は、法人顧客向けの問い合わせフォームが不正アクセスを受け、登録されていた企業の情報、13万3000件あまりが漏えいしたと発表しました。\n\n\n漏えいしたのは、法人顧客向けの問い合わせフォームに入力された企業名や部署名、担当者の氏名、それにメールアドレスだということです。\n\n会社ではこの問い合わせフォームを閉鎖するとともに、影響を受けた範囲などを調べています。\n\n一方、会社では一般向けの通販サイトへの影響は確認されていないとしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "家電量販店大手の「ビックカメラ」は、法人顧客向けの問い合わせフォームが不正アクセスを受け、登録されていた企業の情報、13万3000件あまりが漏えいしたと発表しました。\n",
+    "markedBody": "漏えいしたのは、法人顧客向けの問い合わせフォームに入力された企業名や部署名、担当者の氏名、それにメールアドレスだということです。\n\n会社ではこの問い合わせフォームを閉鎖するとともに、影響を受けた範囲などを調べています。\n\n一方、会社では一般向けの通販サイトへの影響は確認されていないとしています。\n",
+    "trimmedLead": "家電量販店大手の「ビックカメラ」は、法人顧客向けの問い合わせフォームが不正アクセスを受け、登録されていた企業の情報、13万3000件あまりが漏えいしたと発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261111de74257.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261111de74257",
+  "video": [],
+  "citation": [
+    {
+      "name": "【情報漏えい】対策どうする 二次被害に遭わないためには",
+      "url": "https://news.web.nhk/newsweb/pl/editorial-nwa-0000000697",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261018de61119_E0000086259_1_s.jpg"
+    },
+    {
+      "name": "日本はなぜ狙われる？サイバー攻撃 生活にも影響 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de70851",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70851/20261105de70851_E0000147150_1_s.jpg",
+      "datePublished": "2026-11-07T18:14:00+09:00"
+    },
+    {
+      "name": "徹底解説 相次ぐ不正アクセスなぜ？情報守るためにできること",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de71172",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71172/20261105de71172_E0000147138_1_s.jpg",
+      "datePublished": "2026-11-06T19:08:04+09:00"
+    },
+    {
+      "name": "国際ハッカー集団“日本企業はぜい弱性を放置”取材に回答",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71650",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71650/20261106de71650_E0000148166_1_s.jpg",
+      "datePublished": "2026-11-06T19:55:33+09:00"
+    },
+    {
+      "name": "情報漏えいリスク回避へ対策は？「個人情報持たない」企業も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71407",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71407/20261106de71407_E0000147128_1_s.jpg",
+      "datePublished": "2026-11-06T19:31:00+09:00"
+    },
+    {
+      "name": "ニトリに不正アクセス 最大3762万件の個人情報が流出の可能性",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de73045",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de73045/20261109de73045_E0000155270_1_s.jpg",
+      "datePublished": "2026-11-09T19:17:59+09:00"
+    },
+    {
+      "name": "日商 受験者最大約98万人分の情報漏えいか 不正アクセスの影響",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261110de73779",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73779/20261110de73779_E0000161157_1_s.jpg",
+      "datePublished": "2026-11-10T19:53:54+09:00"
+    },
+    {
+      "name": "1人1か月90万円？ 企業が直面 膨れ上がるAIコスト",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72816",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72816/20261109de72816_E0000159233_1_s.jpg",
+      "datePublished": "2026-11-10T19:52:40+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

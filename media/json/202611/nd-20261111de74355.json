@@ -1,0 +1,137 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261111de74355",
+  "dataSourceId": "nd",
+  "name": "AIを搭載 最新の人型ロボットの展示会",
+  "headline": "AIを搭載 最新の人型ロボットの展示会",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261111de74355",
+    "playlistId": "news-nwa-business-nationwide-20261111",
+    "newsarticleName": "AIを搭載 最新の人型ロボットの展示会",
+    "playlistName": "11月11日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "AIが搭載された最新の人型ロボットを集めた展示会が、11日から千葉市で始まりました。\n\n\n千葉市の幕張メッセで始まった展示会には、国内外の30の企業や団体が、AIを搭載した最新の人型ロボットなどを出展",
+  "dateModified": "2026-11-11T19:02:36+09:00",
+  "datePublished": "2026-11-11T19:02:36+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de74355/20261111de74355_E0000164265_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de74355/20261111de74355_E0000164265_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000340",
+      "name": "千葉県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "AIが搭載された最新の人型ロボットを集めた展示会が、11日から千葉市で始まりました。\n\n\n千葉市の幕張メッセで始まった展示会には、国内外の30の企業や団体が、AIを搭載した最新の人型ロボットなどを出展",
+  "articleBody": "AIが搭載された最新の人型ロボットを集めた展示会が、11日から千葉市で始まりました。\n\n\n千葉市の幕張メッセで始まった展示会には、国内外の30の企業や団体が、AIを搭載した最新の人型ロボットなどを出展しています。\n\nこのうち建築会社のブースでは、人手不足が深刻な建設現場で重機の操作などを任せることを目指して開発を進めている人型ロボットが展示されています。\n\n搭載したAIには車の運転操作を学習させてあり、ロボットがシミュレーターの運転席に座ってハンドルやアクセル、ブレーキなどを操作する様子が注目を集めていました。\n\n建設会社の龍竹一生社長は「現場で使えるAIでなければ意味がないと感じています。開発を始めて2か月ですが、人手不足の現場に導入できるようにしたい」と話していました。\n\nまた、中国に本社を置くロボット開発企業は、AIが荷物の大きさや形などを自律的に判断して仕分け作業を行うことができる人型ロボットを紹介していて、すでに物流倉庫などで活用されているということです。\n\nこの会社の張赫社長は「ヒューマノイドロボットは産業としては黎明期だが、自社のロボットは日本の部品を多く使っている。手を取り合いながら産業全体を盛り上げていきたい」と話していました。\n\nこの展示会は13日まで開かれています。\n",
+  "detailedArticleBody": {
+    "markedLead": "AIが搭載された最新の人型ロボットを集めた展示会が、11日から千葉市で始まりました。\n",
+    "markedBody": "千葉市の幕張メッセで始まった展示会には、国内外の30の企業や団体が、AIを搭載した最新の人型ロボットなどを出展しています。\n\n![](https://img.web.nhk/news/nd/kiji/20261111de74355/20261111de74355_E0000164264_1_l.jpg)\n\nこのうち建築会社のブースでは、人手不足が深刻な建設現場で重機の操作などを任せることを目指して開発を進めている人型ロボットが展示されています。\n\n搭載したAIには車の運転操作を学習させてあり、ロボットがシミュレーターの運転席に座ってハンドルやアクセル、ブレーキなどを操作する様子が注目を集めていました。\n\n![](https://img.web.nhk/news/nd/kiji/20261111de74355/20261111de74355_E0000164267_1_l.jpg)\n\n建設会社の龍竹一生社長は「現場で使えるAIでなければ意味がないと感じています。開発を始めて2か月ですが、人手不足の現場に導入できるようにしたい」と話していました。\n\nまた、中国に本社を置くロボット開発企業は、AIが荷物の大きさや形などを自律的に判断して仕分け作業を行うことができる人型ロボットを紹介していて、すでに物流倉庫などで活用されているということです。\n\nこの会社の張赫社長は「ヒューマノイドロボットは産業としては黎明期だが、自社のロボットは日本の部品を多く使っている。手を取り合いながら産業全体を盛り上げていきたい」と話していました。\n\nこの展示会は13日まで開かれています。\n",
+    "trimmedLead": "AIが搭載された最新の人型ロボットを集めた展示会が、11日から千葉市で始まりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261111de74355.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261111de74355",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "AIを搭載 最新の人型ロボットの展示会",
+      "description": "AIが搭載された最新の人型ロボットを集めた展示会が、11日から千葉市で始まりました。\n\n\n千葉市の幕張メッセで始まった展示会には、国内外の30の企業や団体が、AIを搭載した最新の人型ロボットなどを出展",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261111de74355_E0000164149_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261111de74355/20261111de74355_E0000164265_1_l.jpg",
+      "duration": "PT48S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261111de74355_E0000164149_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de74355/20261111de74355_E0000164265_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "アマゾンジャパン 独禁法調査で改善計画を提出 公取委が承認",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261111de73933",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73933/20261111de73933_E0000162834_1_s.jpg",
+      "datePublished": "2026-11-11T18:30:40+09:00"
+    },
+    {
+      "name": "NTTドコモ通信障害続く 不正アクセス確認されず",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261111de73934",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73934/20261111de73934_E0000162531_1_s.jpg",
+      "datePublished": "2026-11-11T14:56:00+09:00"
+    },
+    {
+      "name": "“年内入試”での生成AI活用めぐり大学の対応分かれる　",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261111de73858",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73858/20261111de73858_E0000162182_1_s.jpg",
+      "datePublished": "2026-11-11T08:18:00+09:00"
+    },
+    {
+      "name": "米 AI開発企業「アンソロピック」 IPOで10兆円余りを調達へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261111de73850",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73850/20261111de73850_E0000161994_1_s.jpg",
+      "datePublished": "2026-11-11T06:41:51+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
