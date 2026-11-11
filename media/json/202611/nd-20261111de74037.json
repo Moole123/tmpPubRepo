@@ -1,0 +1,143 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261111de74037",
+  "dataSourceId": "nd",
+  "name": "「ステップゴルフ」顔写真や銀行口座情報を漏えいか 不正アクセスで ゴルフスクールを運営",
+  "headline": "「ステップゴルフ」顔写真や口座情報漏えいか 不正アクセスで",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261111de74037",
+    "playlistId": "news-nwa-business-nationwide-20261111",
+    "newsarticleName": "「ステップゴルフ」顔写真や銀行口座情報を漏えいか 不正アクセスで ゴルフスクールを運営",
+    "playlistName": "11月11日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "ゴルフスクールを運営する「ステップゴルフ」は、予約システムなどが不正アクセスを受け、会員などの個人情報が外部に漏えいした可能性が高いと発表しました。\n\n\n漏えいした可能性があるのは、退会者を含めた会員",
+  "dateModified": "2026-11-11T12:47:58+09:00",
+  "datePublished": "2026-11-11T12:47:58+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de74037/20261111de74037_E0000163024_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de74037/20261111de74037_E0000163024_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ゴルフスクールを運営する「ステップゴルフ」は、予約システムなどが不正アクセスを受け、会員などの個人情報が外部に漏えいした可能性が高いと発表しました。\n\n\n漏えいした可能性があるのは、退会者を含めた会員",
+  "articleBody": "ゴルフスクールを運営する「ステップゴルフ」は、予約システムなどが不正アクセスを受け、会員などの個人情報が外部に漏えいした可能性が高いと発表しました。\n\n\n漏えいした可能性があるのは、退会者を含めた会員などの氏名や住所、電話番号、それにメールアドレスなどの個人情報、11万4000件あまりのほか、顔写真が10万7000件あまり、それに銀行口座の番号や名義などの情報が1万2000件あまりです。\n\n銀行口座の情報は暗号化されていない状態で保管されていたということです。\n\n会社は現時点で二次被害は確認されていないとしていますが、漏えいした情報を悪用し不審なメールなどが届く可能性があるとして注意を呼びかけています。\n\nさらに銀行の口座番号と名義だけで預金は引き出せないものの、念のため身に覚えのない引き落としなどがないか確認するよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "ゴルフスクールを運営する「ステップゴルフ」は、予約システムなどが不正アクセスを受け、会員などの個人情報が外部に漏えいした可能性が高いと発表しました。\n",
+    "markedBody": "漏えいした可能性があるのは、退会者を含めた会員などの氏名や住所、電話番号、それにメールアドレスなどの個人情報、11万4000件あまりのほか、顔写真が10万7000件あまり、それに銀行口座の番号や名義などの情報が1万2000件あまりです。\n\n銀行口座の情報は暗号化されていない状態で保管されていたということです。\n\n会社は現時点で二次被害は確認されていないとしていますが、漏えいした情報を悪用し不審なメールなどが届く可能性があるとして注意を呼びかけています。\n\nさらに銀行の口座番号と名義だけで預金は引き出せないものの、念のため身に覚えのない引き落としなどがないか確認するよう呼びかけています。\n",
+    "trimmedLead": "ゴルフスクールを運営する「ステップゴルフ」は、予約システムなどが不正アクセスを受け、会員などの個人情報が外部に漏えいした可能性が高いと発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261111de74037.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261111de74037",
+  "video": [],
+  "citation": [
+    {
+      "name": "【情報漏えい】対策どうする 二次被害に遭わないためには",
+      "url": "https://news.web.nhk/newsweb/pl/editorial-nwa-0000000697",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261018de61119_E0000086259_1_s.jpg"
+    },
+    {
+      "name": "日本はなぜ狙われる？サイバー攻撃 生活にも影響 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de70851",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70851/20261105de70851_E0000147150_1_s.jpg",
+      "datePublished": "2026-11-07T18:14:00+09:00"
+    },
+    {
+      "name": "徹底解説 相次ぐ不正アクセスなぜ？情報守るためにできること",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de71172",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71172/20261105de71172_E0000147138_1_s.jpg",
+      "datePublished": "2026-11-06T19:08:04+09:00"
+    },
+    {
+      "name": "国際ハッカー集団“日本企業はぜい弱性を放置”取材に回答",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71650",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71650/20261106de71650_E0000148166_1_s.jpg",
+      "datePublished": "2026-11-06T19:55:33+09:00"
+    },
+    {
+      "name": "情報漏えいリスク回避へ対策は？「個人情報持たない」企業も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71407",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71407/20261106de71407_E0000147128_1_s.jpg",
+      "datePublished": "2026-11-06T19:31:00+09:00"
+    },
+    {
+      "name": "ニトリに不正アクセス 最大3762万件の個人情報が流出の可能性",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de73045",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de73045/20261109de73045_E0000155270_1_s.jpg",
+      "datePublished": "2026-11-09T19:17:59+09:00"
+    },
+    {
+      "name": "日商 受験者最大約98万人分の情報漏えいか 不正アクセスの影響",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261110de73779",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73779/20261110de73779_E0000161157_1_s.jpg",
+      "datePublished": "2026-11-10T19:53:54+09:00"
+    },
+    {
+      "name": "1人1か月90万円？ 企業が直面 膨れ上がるAIコスト",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72816",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72816/20261109de72816_E0000159233_1_s.jpg",
+      "datePublished": "2026-11-10T19:52:40+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
