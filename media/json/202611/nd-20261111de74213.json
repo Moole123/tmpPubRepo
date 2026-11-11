@@ -1,0 +1,110 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261111de74213",
+  "dataSourceId": "nd",
+  "name": "司法試験 ことしの合格者は1595人 政府の目標の1500人を4年連続で超える",
+  "headline": "司法試験 ことしの合格者1595人 政府の目標を4年連続で超える",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261111de74213",
+    "playlistId": "news-nwa-politics-nationwide-20261111",
+    "newsarticleName": "司法試験 ことしの合格者は1595人 政府の目標の1500人を4年連続で超える",
+    "playlistName": "11月11日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "ことしの司法試験の合格者は1595人で、政府が目標としている1500人を4年連続で上回りました。\n\n\nことしの司法試験では、例年、法務省の敷地内などで行われていた合格者の受験番号の掲示が廃止され、合格",
+  "dateModified": "2026-11-11T16:39:00+09:00",
+  "datePublished": "2026-11-11T16:39:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de74213/20261111de74213_E0000163611_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de74213/20261111de74213_E0000163611_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000462",
+      "name": "法務省",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ことしの司法試験の合格者は1595人で、政府が目標としている1500人を4年連続で上回りました。\n\n\nことしの司法試験では、例年、法務省の敷地内などで行われていた合格者の受験番号の掲示が廃止され、合格",
+  "articleBody": "ことしの司法試験の合格者は1595人で、政府が目標としている1500人を4年連続で上回りました。\n\n\nことしの司法試験では、例年、法務省の敷地内などで行われていた合格者の受験番号の掲示が廃止され、合格者の発表は法務省のホームページ上だけで行われました。\n\n法務省によりますと、ことしの合格者は去年より14人多い1595人で、政府が目標としている1500人を4年連続で上回りました。\n\n受検者数は去年より30人余り増えて3871人でした。\n\n合格者の平均年齢は26.9歳で、最年少が20歳、最高齢は71歳でした。\n\n合格率は去年と同じ41.20％でした。\n\nまた、合格者に占める女性の割合は31.79％で、現在の試験制度が導入された2006年以降、最も高くなりました。\n\n一方、ことし初めて導入されたパソコンを使った試験では、247件の不具合が発生し、試験時間が不足した一部の受検者に加点する措置が取られました。\n\n法務省は「引き続き、より多くの人材に司法分野を志望してもらえるよう、環境づくりに努めたい」としています。\n",
+  "detailedArticleBody": {
+    "markedLead": "ことしの司法試験の合格者は1595人で、政府が目標としている1500人を4年連続で上回りました。\n",
+    "markedBody": "ことしの司法試験では、例年、法務省の敷地内などで行われていた合格者の受験番号の掲示が廃止され、合格者の発表は法務省のホームページ上だけで行われました。\n\n法務省によりますと、ことしの合格者は去年より14人多い1595人で、政府が目標としている1500人を4年連続で上回りました。\n\n受検者数は去年より30人余り増えて3871人でした。\n\n合格者の平均年齢は26.9歳で、最年少が20歳、最高齢は71歳でした。\n\n合格率は去年と同じ41.20％でした。\n\nまた、合格者に占める女性の割合は31.79％で、現在の試験制度が導入された2006年以降、最も高くなりました。\n\n一方、ことし初めて導入されたパソコンを使った試験では、247件の不具合が発生し、試験時間が不足した一部の受検者に加点する措置が取られました。\n\n法務省は「引き続き、より多くの人材に司法分野を志望してもらえるよう、環境づくりに努めたい」としています。\n",
+    "trimmedLead": "ことしの司法試験の合格者は1595人で、政府が目標としている1500人を4年連続で上回りました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261111de74213.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261111de74213",
+  "video": [],
+  "citation": [
+    {
+      "name": "民事裁判 審理迅速化へ法制審議会で議論開始",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71942",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71942/20261106de71942_E0000150843_1_s.jpg",
+      "datePublished": "2026-11-06T21:49:00+09:00"
+    },
+    {
+      "name": "民事裁判の“証拠”どう扱う？民事訴訟法改正の検討始まる",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260914de50045",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260914de50045/20260914de50045_E0000029694_1_s.jpg",
+      "datePublished": "2026-09-14T22:05:00+09:00"
+    },
+    {
+      "name": "司法記者が裁判員やってみた",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65746",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65746/20261026de65746_E0000119583_1_s.jpg",
+      "datePublished": "2026-10-29T10:58:00+09:00"
+    },
+    {
+      "name": "ICC赤根所長 国連でアメリカの制裁批判 使命果たすと決意",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de69880",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69880/20261103de69880_E0000137626_1_s.jpg",
+      "datePublished": "2026-11-03T10:19:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
