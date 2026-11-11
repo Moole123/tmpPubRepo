@@ -1,0 +1,151 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261111de73934",
+  "dataSourceId": "nd",
+  "name": "NTTドコモで通信障害 原因調査中",
+  "headline": "NTTドコモで通信障害 原因調査中",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261111de73934",
+    "playlistId": "news-nwa-business-nationwide-20261111",
+    "newsarticleName": "NTTドコモで通信障害 原因調査中",
+    "playlistName": "11月11日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "NTTドコモによりますと、全国で音声通話やデータ通信、ショートメールなどの携帯電話のサービスが利用しにくい状況が発生しているということです。\n\n\n会社は原因の調査を進めていて、不正アクセスによるものか",
+  "dateModified": "2026-11-11T11:29:19+09:00",
+  "datePublished": "2026-11-11T11:29:19+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73934/20261111de73934_E0000162531_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73934/20261111de73934_E0000162531_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "NTTドコモによりますと、全国で音声通話やデータ通信、ショートメールなどの携帯電話のサービスが利用しにくい状況が発生しているということです。\n\n\n会社は原因の調査を進めていて、不正アクセスによるものか",
+  "articleBody": "NTTドコモによりますと、全国で音声通話やデータ通信、ショートメールなどの携帯電話のサービスが利用しにくい状況が発生しているということです。\n\n\n会社は原因の調査を進めていて、不正アクセスによるものかどうかも含め、確認を急いでいます。\n",
+  "detailedArticleBody": {
+    "markedLead": "NTTドコモによりますと、全国で音声通話やデータ通信、ショートメールなどの携帯電話のサービスが利用しにくい状況が発生しているということです。\n",
+    "markedBody": "会社は原因の調査を進めていて、不正アクセスによるものかどうかも含め、確認を急いでいます。\n",
+    "trimmedLead": "NTTドコモによりますと、全国で音声通話やデータ通信、ショートメールなどの携帯電話のサービスが利用しにくい状況が発生しているということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261111de73934.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261111de73934",
+  "video": [],
+  "citation": [
+    {
+      "name": "逮捕の阿波市長ら 修理費用を機器の調達名目で請求か 徳島 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261111de73872",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73872/20261111de73872_E0000162025_1_s.jpg",
+      "datePublished": "2026-11-11T06:35:04+09:00"
+    },
+    {
+      "name": "各地で厳しい冷え込み 台風32号は小笠原離れるも高波警戒 　",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261111de73870",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73870/20261111de73870_E0000162096_1_s.jpg",
+      "datePublished": "2026-11-11T06:05:00+09:00"
+    },
+    {
+      "name": "エルニーニョ現象 過去最大の強さに どんな影響が",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261110de73297",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73297/20261110de73297_E0000161200_1_s.jpg",
+      "datePublished": "2026-11-10T19:48:00+09:00"
+    },
+    {
+      "name": "タマホーム社員 火災保険不正請求の疑い 損保各社調査求める",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261111de73843",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73843/20261111de73843_E0000162002_1_s.jpg",
+      "datePublished": "2026-11-11T04:56:00+09:00"
+    },
+    {
+      "name": "“ルフィ”広域強盗事件 詐欺グループトップ きょう初公判",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261110de73809",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73809/20261110de73809_E0000161879_1_s.jpg",
+      "datePublished": "2026-11-11T05:21:00+09:00"
+    },
+    {
+      "name": "小泉防衛相 来年の自民総裁選“高市首相が立候補なら支える”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261110de73825",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73825/20261110de73825_E0000161977_1_s.jpg",
+      "datePublished": "2026-11-10T23:58:00+09:00"
+    },
+    {
+      "name": "米 ロシア ウクライナ高官協議 ゼレンスキー大統領「建設的」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261111de73861",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73861/20261111de73861_E0000161024_1_s.jpg",
+      "datePublished": "2026-11-11T04:55:00+09:00"
+    },
+    {
+      "name": "消費税減税法案 参院できょう審議入り 与党少数の中で論戦へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261111de73840",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73840/20261111de73840_E0000161991_1_s.jpg",
+      "datePublished": "2026-11-11T04:52:00+09:00"
+    },
+    {
+      "name": "自民 小渕氏 税調副会長の退任求められ受け入れ 古川氏は辞任",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261110de73714",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73714/20261110de73714_E0000159429_1_s.jpg",
+      "datePublished": "2026-11-10T18:54:00+09:00"
+    },
+    {
+      "name": "ちばてつやが伝えたかったこと 受け継がれる“漫画の力”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72709",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72709/20261109de72709_E0000154960_1_s.jpg",
+      "datePublished": "2026-11-09T17:53:51+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

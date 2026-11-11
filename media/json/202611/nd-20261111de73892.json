@@ -1,0 +1,174 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261111de73892",
+  "dataSourceId": "nd",
+  "name": "岐阜市北一色のアパートで火事 1歳児含む12人搬送",
+  "headline": "岐阜市のアパートで火事 1歳児含む12人搬送",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261111de73892",
+    "playlistId": "news-nwa-society-nationwide-20261111",
+    "newsarticleName": "岐阜市北一色のアパートで火事 1歳児含む12人搬送",
+    "playlistName": "11月11日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "11日未明、岐阜市にあるアパートで火事があり、警察によりますと、このアパートに住む1歳から40代の12人が病院に搬送されました。けがの詳しい程度はわかっていませんが、搬送時に全員、意識はあったというこ",
+  "dateModified": "2026-11-11T10:20:46+09:00",
+  "datePublished": "2026-11-11T10:20:46+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73892/20261111de73892_E0000162454_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73892/20261111de73892_E0000162454_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会",
+    "地域"
+  ],
+  "topic": [
+    {
+      "id": "E0000000349",
+      "name": "岐阜県",
+      "display": true
+    },
+    {
+      "id": "E0000000657",
+      "name": "火災",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "11日未明、岐阜市にあるアパートで火事があり、警察によりますと、このアパートに住む1歳から40代の12人が病院に搬送されました。けがの詳しい程度はわかっていませんが、搬送時に全員、意識はあったというこ",
+  "articleBody": "11日未明、岐阜市にあるアパートで火事があり、警察によりますと、このアパートに住む1歳から40代の12人が病院に搬送されました。けがの詳しい程度はわかっていませんが、搬送時に全員、意識はあったということです。\n\n\n11日午前1時10分ごろ、岐阜市北一色のアパートで「1階から炎が上がっている」などと近くに住む人から警察と消防に通報がありました。\n\n消防が消火活動にあたり、火は、およそ2時間後に消し止められましたが、警察によりますと、このアパートに住む1歳から40代までの12人が病院に搬送されました。\n\n詳しいけがの程度はわかっていませんが、全員、搬送時に意識はあったということです。\n\nまた、逃げ遅れた人はいないということです。\n\n警察によりますとアパートは鉄骨3階建てで12部屋あり、警察は複数の通報の内容から1階の1室が火元とみて、火事の原因などを詳しく調べています。\n\n現場は、JR岐阜駅から東におよそ3キロ離れた住宅街の一角です。\n",
+  "detailedArticleBody": {
+    "markedLead": "11日未明、岐阜市にあるアパートで火事があり、警察によりますと、このアパートに住む1歳から40代の12人が病院に搬送されました。けがの詳しい程度はわかっていませんが、搬送時に全員、意識はあったということです。\n",
+    "markedBody": "11日午前1時10分ごろ、岐阜市北一色のアパートで「1階から炎が上がっている」などと近くに住む人から警察と消防に通報がありました。\n\n消防が消火活動にあたり、火は、およそ2時間後に消し止められましたが、警察によりますと、このアパートに住む1歳から40代までの12人が病院に搬送されました。\n\n詳しいけがの程度はわかっていませんが、全員、搬送時に意識はあったということです。\n\nまた、逃げ遅れた人はいないということです。\n\n警察によりますとアパートは鉄骨3階建てで12部屋あり、警察は複数の通報の内容から1階の1室が火元とみて、火事の原因などを詳しく調べています。\n\n現場は、JR岐阜駅から東におよそ3キロ離れた住宅街の一角です。\n",
+    "trimmedLead": "11日未明、岐阜市にあるアパートで火事があり、警察によりますと、このアパートに住む1歳から40代の12人が病院に搬送されました。けがの詳しい程度はわかっていませんが、搬送時に全員、意識はあったということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261111de73892.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261111de73892",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "岐阜市のアパートで火事 1歳児含む12人搬送",
+      "description": "11日未明、岐阜市にあるアパートで火事があり、警察によりますと、このアパートに住む1歳から40代の12人が病院に搬送されました。けがの詳しい程度はわかっていませんが、搬送時に全員、意識はあったというこ",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261111de73892_E0000162452_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261111de73892/20261111de73892_E0000162454_1_l.jpg",
+      "duration": "PT1M3S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261111de73892_E0000162452_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73892/20261111de73892_E0000162454_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "逮捕の阿波市長ら 修理費用を機器の調達名目で請求か 徳島 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261111de73872",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73872/20261111de73872_E0000162025_1_s.jpg",
+      "datePublished": "2026-11-11T06:35:04+09:00"
+    },
+    {
+      "name": "各地で厳しい冷え込み 台風32号は小笠原離れるも高波警戒 　",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261111de73870",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73870/20261111de73870_E0000162096_1_s.jpg",
+      "datePublished": "2026-11-11T06:05:00+09:00"
+    },
+    {
+      "name": "エルニーニョ現象 過去最大の強さに どんな影響が",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261110de73297",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73297/20261110de73297_E0000161200_1_s.jpg",
+      "datePublished": "2026-11-10T19:48:00+09:00"
+    },
+    {
+      "name": "タマホーム社員 火災保険不正請求の疑い 損保各社調査求める",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261111de73843",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73843/20261111de73843_E0000162002_1_s.jpg",
+      "datePublished": "2026-11-11T04:56:00+09:00"
+    },
+    {
+      "name": "“ルフィ”広域強盗事件 詐欺グループトップ きょう初公判",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261110de73809",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73809/20261110de73809_E0000161879_1_s.jpg",
+      "datePublished": "2026-11-11T05:21:00+09:00"
+    },
+    {
+      "name": "小泉防衛相 来年の自民総裁選“高市首相が立候補なら支える”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261110de73825",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73825/20261110de73825_E0000161977_1_s.jpg",
+      "datePublished": "2026-11-10T23:58:00+09:00"
+    },
+    {
+      "name": "米 ロシア ウクライナ高官協議 ゼレンスキー大統領「建設的」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261111de73861",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73861/20261111de73861_E0000161024_1_s.jpg",
+      "datePublished": "2026-11-11T04:55:00+09:00"
+    },
+    {
+      "name": "消費税減税法案 参院できょう審議入り 与党少数の中で論戦へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261111de73840",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73840/20261111de73840_E0000161991_1_s.jpg",
+      "datePublished": "2026-11-11T04:52:00+09:00"
+    },
+    {
+      "name": "自民 小渕氏 税調副会長の退任求められ受け入れ 古川氏は辞任",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261110de73714",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73714/20261110de73714_E0000159429_1_s.jpg",
+      "datePublished": "2026-11-10T18:54:00+09:00"
+    },
+    {
+      "name": "ちばてつやが伝えたかったこと 受け継がれる“漫画の力”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72709",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72709/20261109de72709_E0000154960_1_s.jpg",
+      "datePublished": "2026-11-09T17:53:51+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
