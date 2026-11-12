@@ -1,0 +1,144 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261112de74716",
+  "dataSourceId": "nd",
+  "name": "キユーピー 顧客のメールアドレス12万5千件余り流出",
+  "headline": "キユーピー 顧客のメールアドレス12万5千件余り流出",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261112de74716",
+    "playlistId": "news-nwa-business-nationwide-20261112",
+    "newsarticleName": "キユーピー 顧客のメールアドレス12万5千件余り流出",
+    "playlistName": "11月12日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "大手食品メーカーのキユーピーは、外部に運用を委託していたメール配信サービスが不正アクセスを受け、一部の顧客のメールアドレス12万5000件余りが外部に流出したと発表しました。\n\n\n委託先は「アララ」で",
+  "dateModified": "2026-11-12T13:35:19+09:00",
+  "datePublished": "2026-11-12T13:35:19+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74716/20261112de74716_E0000167463_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74716/20261112de74716_E0000167463_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "大手食品メーカーのキユーピーは、外部に運用を委託していたメール配信サービスが不正アクセスを受け、一部の顧客のメールアドレス12万5000件余りが外部に流出したと発表しました。\n\n\n委託先は「アララ」で",
+  "articleBody": "大手食品メーカーのキユーピーは、外部に運用を委託していたメール配信サービスが不正アクセスを受け、一部の顧客のメールアドレス12万5000件余りが外部に流出したと発表しました。\n\n\n委託先は「アララ」で、漏えいの可能性があるのは2023年の9月から10月末までの間に、キユーピー、アヲハタ、デリア食品、サラダクラブ、トウ・キユーピーから、キャンペーンの応募や問い合わせに関して自動返信メールを受け取った人のメールアドレス、12万5000件余りだということです。\n\n会社は、安全性が確認されるまでメール配信の運用を停止するということで、心当たりがない送信元からのメールのほか、不審なリンクや添付ファイルが含まれるメールを受信した際は、リンクへのアクセスやファイルの開封をしないよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "大手食品メーカーのキユーピーは、外部に運用を委託していたメール配信サービスが不正アクセスを受け、一部の顧客のメールアドレス12万5000件余りが外部に流出したと発表しました。\n",
+    "markedBody": "委託先は「アララ」で、漏えいの可能性があるのは2023年の9月から10月末までの間に、キユーピー、アヲハタ、デリア食品、サラダクラブ、トウ・キユーピーから、キャンペーンの応募や問い合わせに関して自動返信メールを受け取った人のメールアドレス、12万5000件余りだということです。\n\n会社は、安全性が確認されるまでメール配信の運用を停止するということで、心当たりがない送信元からのメールのほか、不審なリンクや添付ファイルが含まれるメールを受信した際は、リンクへのアクセスやファイルの開封をしないよう呼びかけています。\n",
+    "trimmedLead": "大手食品メーカーのキユーピーは、外部に運用を委託していたメール配信サービスが不正アクセスを受け、一部の顧客のメールアドレス12万5000件余りが外部に流出したと発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261112de74716.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261112de74716",
+  "video": [],
+  "citation": [
+    {
+      "name": "無印良品 展開の良品計画 不正アクセスを受けた会見で陳謝",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de74562",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74562/20261112de74562_E0000166677_1_s.jpg",
+      "datePublished": "2026-11-12T14:25:51+09:00"
+    },
+    {
+      "name": "エヌビディア フアンCEO解任へ準備 米紙報道 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de74529",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74529/20261112de74529_E0000166453_1_s.jpg",
+      "datePublished": "2026-11-12T13:28:41+09:00"
+    },
+    {
+      "name": "アメリカ ニューヨークで建物が倒壊 2人死亡 17人けが",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de74557",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74557/20261112de74557_E0000166655_1_s.jpg",
+      "datePublished": "2026-11-12T10:33:00+09:00"
+    },
+    {
+      "name": "広島 福山 住宅全焼 3人の遺体見つかる 「寝たばこ」可能性も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de74516",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74516/20261112de74516_E0000166817_1_s.jpg",
+      "datePublished": "2026-11-12T14:43:07+09:00"
+    },
+    {
+      "name": "日産自動車 中間決算 赤字幅縮小も2期連続の最終赤字",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de74555",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74555/20261112de74555_E0000166647_1_s.jpg",
+      "datePublished": "2026-11-12T10:22:00+09:00"
+    },
+    {
+      "name": "イタリアで6300校に爆破予告 イギリスの学校も標的に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de74534",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74534/20261112de74534_E0000166626_1_s.jpg",
+      "datePublished": "2026-11-12T09:13:49+09:00"
+    },
+    {
+      "name": "G7外相会合共同声明発表 ウクライナ支援継続を再確認",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de74519",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74519/20261112de74519_E0000166310_1_s.jpg",
+      "datePublished": "2026-11-12T06:06:00+09:00"
+    },
+    {
+      "name": "高速料金所600回余すり抜けたか 無免許運転の会社代表を逮捕",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261111de74363",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de74363/20261111de74363_E0000164022_1_s.jpg",
+      "datePublished": "2026-11-11T18:38:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

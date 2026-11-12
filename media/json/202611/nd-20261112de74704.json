@@ -1,0 +1,155 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261112de74704",
+  "dataSourceId": "nd",
+  "name": "福島第一原発“核燃料デブリ”取り出し向けデジタル技術活用へ",
+  "headline": "福島第一原発“核燃料デブリ”取り出し向けデジタル技術活用へ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261112de74704",
+    "playlistId": "news-nwa-scienceculture-nationwide-20261112",
+    "newsarticleName": "福島第一原発“核燃料デブリ”取り出し向けデジタル技術活用へ",
+    "playlistName": "11月12日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "東京電力福島第一原子力発電所の廃炉作業で最大の難関とされる「核燃料デブリ」の取り出しに向け、国や東京電力は、デジタル技術を活用した取り組みを強化しています。\n\n\n福島第一原発の事故で、原子炉の核燃料が",
+  "dateModified": "2026-11-12T13:34:44+09:00",
+  "datePublished": "2026-11-12T13:34:44+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74704/20261112de74704_E0000167450_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74704/20261112de74704_E0000167450_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000205",
+      "name": "福島第一原発",
+      "display": true
+    },
+    {
+      "id": "E0000000108",
+      "name": "原発",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "東京電力福島第一原子力発電所の廃炉作業で最大の難関とされる「核燃料デブリ」の取り出しに向け、国や東京電力は、デジタル技術を活用した取り組みを強化しています。\n\n\n福島第一原発の事故で、原子炉の核燃料が",
+  "articleBody": "東京電力福島第一原子力発電所の廃炉作業で最大の難関とされる「核燃料デブリ」の取り出しに向け、国や東京電力は、デジタル技術を活用した取り組みを強化しています。\n\n\n福島第一原発の事故で、原子炉の核燃料が溶け落ちた1号機から3号機には、「核燃料デブリ」があわせて880トン残っていると推計されていますが、今も強い放射線を出していて人が近づくのが難しいため、国や東京電力は、最新のデジタル技術を活用して、準備作業を進めることにしています。\n\nこのうち、ことし5月から始まった国が支援するプロジェクトではベンチャー企業や国の研究機関などが参加して、「フィジカルAI」の開発を進めています。\n\n「フィジカルAI」はロボットなどに搭載したAIが、カメラなどで現場の状況を認識し自律的に行動するもので、放射線量の高い場所の調査や機材の搬入などの作業を担うことが期待されるということです。\n\nベンチャー企業の大西威一郎社長は「将来的には『核燃料デブリ』の取り出し装置の搬入作業などでの活用を目指したい」と話していました。\n\nまた、東京電力はことし3月に小型のドローンで撮影した3号機の格納容器の映像のデータを分析し、立体的な画像を作るなど、内部調査にデジタル技術を活用しています。\n\n東京電力は、2037年度以降に「核燃料デブリ」の本格的な取り出しを始める方針を示していて、具体的な道筋をつけられるかが課題になります。\n",
+  "detailedArticleBody": {
+    "markedLead": "東京電力福島第一原子力発電所の廃炉作業で最大の難関とされる「核燃料デブリ」の取り出しに向け、国や東京電力は、デジタル技術を活用した取り組みを強化しています。\n",
+    "markedBody": "福島第一原発の事故で、原子炉の核燃料が溶け落ちた1号機から3号機には、「核燃料デブリ」があわせて880トン残っていると推計されていますが、今も強い放射線を出していて人が近づくのが難しいため、国や東京電力は、最新のデジタル技術を活用して、準備作業を進めることにしています。\n\n![](https://img.web.nhk/news/nd/kiji/20261112de74704/20261112de74704_E0000167429_1_l.jpg)\n\nこのうち、ことし5月から始まった国が支援するプロジェクトではベンチャー企業や国の研究機関などが参加して、「フィジカルAI」の開発を進めています。\n\n「フィジカルAI」はロボットなどに搭載したAIが、カメラなどで現場の状況を認識し自律的に行動するもので、放射線量の高い場所の調査や機材の搬入などの作業を担うことが期待されるということです。\n\n![](https://img.web.nhk/news/nd/kiji/20261112de74704/20261112de74704_E0000167448_1_l.jpg)\n\nベンチャー企業の大西威一郎社長は「将来的には『核燃料デブリ』の取り出し装置の搬入作業などでの活用を目指したい」と話していました。\n\nまた、東京電力はことし3月に小型のドローンで撮影した3号機の格納容器の映像のデータを分析し、立体的な画像を作るなど、内部調査にデジタル技術を活用しています。\n\n東京電力は、2037年度以降に「核燃料デブリ」の本格的な取り出しを始める方針を示していて、具体的な道筋をつけられるかが課題になります。\n",
+    "trimmedLead": "東京電力福島第一原子力発電所の廃炉作業で最大の難関とされる「核燃料デブリ」の取り出しに向け、国や東京電力は、デジタル技術を活用した取り組みを強化しています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261112de74704.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261112de74704",
+  "video": [],
+  "citation": [
+    {
+      "name": "エヌビディア フアンCEO解任へ準備 米紙報道 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de74529",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74529/20261112de74529_E0000166453_1_s.jpg",
+      "datePublished": "2026-11-12T13:28:41+09:00"
+    },
+    {
+      "name": "アメリカ ニューヨークで建物が倒壊 2人死亡 17人けが",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de74557",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74557/20261112de74557_E0000166655_1_s.jpg",
+      "datePublished": "2026-11-12T10:33:00+09:00"
+    },
+    {
+      "name": "広島 福山 住宅全焼 3人の遺体見つかる 「寝たばこ」可能性も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de74516",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74516/20261112de74516_E0000166817_1_s.jpg",
+      "datePublished": "2026-11-12T14:43:07+09:00"
+    },
+    {
+      "name": "日産自動車 中間決算 赤字幅縮小も2期連続の最終赤字",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de74555",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74555/20261112de74555_E0000166647_1_s.jpg",
+      "datePublished": "2026-11-12T10:22:00+09:00"
+    },
+    {
+      "name": "イタリアで6300校に爆破予告 イギリスの学校も標的に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de74534",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74534/20261112de74534_E0000166626_1_s.jpg",
+      "datePublished": "2026-11-12T09:13:49+09:00"
+    },
+    {
+      "name": "京都 亀岡の養鶏場で今シーズン初 鳥インフルエンザ感染確認",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de74535",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74535/20261112de74535_E0000166638_1_s.jpg",
+      "datePublished": "2026-11-12T10:49:00+09:00"
+    },
+    {
+      "name": "MLBカブスからFAの鈴木 1年契約拒否も「カブスも選択肢の1つ」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de74543",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74543/20261112de74543_E0000166645_1_s.jpg",
+      "datePublished": "2026-11-12T09:50:00+09:00"
+    },
+    {
+      "name": "大相撲九州場所 5日目見どころ 大の里は金星の宇良と",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261111de74480",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de74480/20261111de74480_E0000003491_1_s.jpg",
+      "datePublished": "2026-11-12T04:27:00+09:00"
+    },
+    {
+      "name": "G7外相会合共同声明発表 ウクライナ支援継続を再確認",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de74519",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74519/20261112de74519_E0000166310_1_s.jpg",
+      "datePublished": "2026-11-12T06:06:00+09:00"
+    },
+    {
+      "name": "高速料金所600回余すり抜けたか 無免許運転の会社代表を逮捕",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261111de74363",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de74363/20261111de74363_E0000164022_1_s.jpg",
+      "datePublished": "2026-11-11T18:38:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
