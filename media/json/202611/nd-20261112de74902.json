@@ -1,0 +1,151 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261112de74902",
+  "dataSourceId": "nd",
+  "name": "トヨタ アルファードGやカローラなど30車種 約9.6万台リコール",
+  "headline": "トヨタ アルファードGやカローラなど30車種 約9.6万台リコール",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261112de74902",
+    "playlistId": "news-nwa-business-nationwide-20261112",
+    "newsarticleName": "トヨタ アルファードGやカローラなど30車種 約9.6万台リコール",
+    "playlistName": "11月12日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "トヨタ自動車は「アルファードG」や「カローラ」など30車種、およそ9万6000台のリコールを国土交通省に届け出ました。\n助手席のエアバッグを膨らませるガス発生剤が劣化し、エアバッグが作動した際に想定と",
+  "dateModified": "2026-11-12T17:39:14+09:00",
+  "datePublished": "2026-11-12T17:39:14+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74902/20261112de74902_E0000167809_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74902/20261112de74902_E0000167809_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000700",
+      "name": "リコール・自主回収",
+      "display": true
+    },
+    {
+      "id": "E0000000471",
+      "name": "自動車",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "トヨタ自動車は「アルファードG」や「カローラ」など30車種、およそ9万6000台のリコールを国土交通省に届け出ました。\n助手席のエアバッグを膨らませるガス発生剤が劣化し、エアバッグが作動した際に想定と",
+  "articleBody": "トヨタ自動車は「アルファードG」や「カローラ」など30車種、およそ9万6000台のリコールを国土交通省に届け出ました。\n助手席のエアバッグを膨らませるガス発生剤が劣化し、エアバッグが作動した際に想定と異なる膨らみ方をして部品が破損するおそれがあるとしています。\n\n\nリコールの届け出があったのは2000年8月24日から2012年12月26日までに製造された「アルファードG」や「カローラ」など30車種、あわせて9万5927台です。\n\n国土交通省によりますと、これらの車では助手席のエアバッグを膨らませるためのガス発生剤について、温度や湿度の変化で劣化するのを防ぐ対策が不十分だったということです。\n\nこのためエアバッグが作動した際、想定と異なる膨らみ方をして部品の一部が破損するおそれがあるということです。\n\nこれまでに事故や不具合の報告はないということですが、トヨタは13日から全国の販売店で部品の交換などの対応を無料で行うとしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "トヨタ自動車は「アルファードG」や「カローラ」など30車種、およそ9万6000台のリコールを国土交通省に届け出ました。\\\n助手席のエアバッグを膨らませるガス発生剤が劣化し、エアバッグが作動した際に想定と異なる膨らみ方をして部品が破損するおそれがあるとしています。\n",
+    "markedBody": "リコールの届け出があったのは2000年8月24日から2012年12月26日までに製造された「アルファードG」や「カローラ」など30車種、あわせて9万5927台です。\n\n国土交通省によりますと、これらの車では助手席のエアバッグを膨らませるためのガス発生剤について、温度や湿度の変化で劣化するのを防ぐ対策が不十分だったということです。\n\nこのためエアバッグが作動した際、想定と異なる膨らみ方をして部品の一部が破損するおそれがあるということです。\n\nこれまでに事故や不具合の報告はないということですが、トヨタは13日から全国の販売店で部品の交換などの対応を無料で行うとしています。\n",
+    "trimmedLead": "トヨタ自動車は「アルファードG」や「カローラ」など30車種、およそ9万6000台のリコールを国土交通省に届け出ました。\n助手席のエアバッグを膨らませるガス発生剤が劣化し、エアバッグが作動した際に想定と異なる膨らみ方をして部品が破損するおそれがあるとしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261112de74902.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261112de74902",
+  "video": [],
+  "citation": [
+    {
+      "name": "無印良品 展開の良品計画 顧客情報漏えいで会見 社長陳謝",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de74562",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74562/20261112de74562_E0000167669_1_s.jpg",
+      "datePublished": "2026-11-12T19:33:28+09:00"
+    },
+    {
+      "name": "エヌビディアCEO“解任準備”報道 解任なら業界全体に影響も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de74529",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74529/20261112de74529_E0000168541_1_s.jpg",
+      "datePublished": "2026-11-12T21:55:19+09:00"
+    },
+    {
+      "name": "アメリカ ニューヨークで建物が倒壊 2人死亡 17人けが",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de74557",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74557/20261112de74557_E0000166655_1_s.jpg",
+      "datePublished": "2026-11-12T10:33:00+09:00"
+    },
+    {
+      "name": "株価 値下がり AI・半導体関連銘柄に売り注文",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de74676",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74676/20261112de74676_E0000167661_1_s.jpg",
+      "datePublished": "2026-11-12T12:17:00+09:00"
+    },
+    {
+      "name": "広島 福山 住宅全焼 3人の遺体見つかる 「寝たばこ」可能性も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de74516",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74516/20261112de74516_E0000166817_1_s.jpg",
+      "datePublished": "2026-11-12T14:43:07+09:00"
+    },
+    {
+      "name": "日産自動車 中間決算 赤字幅縮小も2期連続の最終赤字",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de74555",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74555/20261112de74555_E0000166647_1_s.jpg",
+      "datePublished": "2026-11-12T10:22:00+09:00"
+    },
+    {
+      "name": "イタリアで6300校に爆破予告 イギリスの学校も標的に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de74534",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74534/20261112de74534_E0000166626_1_s.jpg",
+      "datePublished": "2026-11-12T09:13:49+09:00"
+    },
+    {
+      "name": "大相撲九州場所 5日目見どころ 大の里は金星の宇良と",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261111de74480",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de74480/20261111de74480_E0000003491_1_s.jpg",
+      "datePublished": "2026-11-12T04:27:00+09:00"
+    },
+    {
+      "name": "高速料金所600回余すり抜けたか 無免許運転の会社代表を逮捕",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261111de74363",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de74363/20261111de74363_E0000164022_1_s.jpg",
+      "datePublished": "2026-11-11T18:38:00+09:00"
+    },
+    {
+      "name": "“取り調べ拒否します” 広がる動き",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261110de73322",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73322/20261110de73322_E0000163293_1_s.jpg",
+      "datePublished": "2026-11-12T14:01:36+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
