@@ -1,0 +1,154 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261113de75357",
+  "dataSourceId": "nd",
+  "name": "「フェーススティーラー」“顔泥棒”の手口 北朝鮮ハッカーが顔動画を録画・悪用 暗号資産盗む 米ＦＢＩ　",
+  "headline": "北朝鮮ハッカーが“顔泥棒” 暗号資産盗む 米FBI　",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261113de75357",
+    "playlistId": "news-nwa-international-nationwide-20261113",
+    "newsarticleName": "「フェーススティーラー」“顔泥棒”の手口 北朝鮮ハッカーが顔動画を録画・悪用 暗号資産盗む 米ＦＢＩ　",
+    "playlistName": "11月13日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "アメリカのFBI＝連邦捜査局は、北朝鮮のハッカーたちが、オンライン会議を装って参加した人の顔の動画を録画し、この動画を悪用する「フェーススティーラー」＝顔泥棒と呼ばれる手口で、1年半の間に4億ドル相当",
+  "dateModified": "2026-11-13T15:24:00+09:00",
+  "datePublished": "2026-11-13T15:24:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75357/20261113de75357_E0000171810_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75357/20261113de75357_E0000171810_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000111",
+      "name": "北朝鮮情勢",
+      "display": true
+    },
+    {
+      "id": "E0000000419",
+      "name": "アメリカ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "アメリカのFBI＝連邦捜査局は、北朝鮮のハッカーたちが、オンライン会議を装って参加した人の顔の動画を録画し、この動画を悪用する「フェーススティーラー」＝顔泥棒と呼ばれる手口で、1年半の間に4億ドル相当",
+  "articleBody": "アメリカのFBI＝連邦捜査局は、北朝鮮のハッカーたちが、オンライン会議を装って参加した人の顔の動画を録画し、この動画を悪用する「フェーススティーラー」＝顔泥棒と呼ばれる手口で、1年半の間に4億ドル相当を超える暗号資産を盗んでいたと発表しました。FBIはハッカーたちが使っていたインフラを無力化したとしています。\n\n\nFBIの12日の発表によりますと、北朝鮮のハッカーたちが使っていた「フェーススティーラー」＝顔泥棒と呼ばれる手口では、ハッカーが標的とする相手を偽の「チームズ」や「ズーム」のオンライン会議に知人などになりすまして誘導します。\n\nこのオンライン会議ではあたかも知人が参加しているかのように偽の動画が表示される一方、狙われた人物の顔はウェブカメラで録画されます。\n\nそして、会議の途中、偽の知人から「音声が聞こえない」とメッセージが届いたあと、ソフトウエアの更新が必要だとして悪意のあるプログラムをダウンロードさせるということです。\n\nこれによってハッカーたちは、相手の暗号資産やソーシャルメディアなどにアクセスできるようになるほか、録画した顔情報などを使って次は被害者の知人を標的にし、攻撃を繰り返していたということです。\n\nFBIは、ハッカーたちがこの手口で1年半の間に4億ドル、日本円で640億円相当を超える暗号資産を盗んでいたとしています。\n\nFBIはハッカーが使っていたインフラを無力化したとしていますが、そこには900人を超える被害者の顔の動画が保存され、なかにはサイバーセキュリティーの専門家も含まれていたということで、注意を呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカのFBI＝連邦捜査局は、北朝鮮のハッカーたちが、オンライン会議を装って参加した人の顔の動画を録画し、この動画を悪用する「フェーススティーラー」＝顔泥棒と呼ばれる手口で、1年半の間に4億ドル相当を超える暗号資産を盗んでいたと発表しました。FBIはハッカーたちが使っていたインフラを無力化したとしています。\n",
+    "markedBody": "FBIの12日の発表によりますと、北朝鮮のハッカーたちが使っていた「フェーススティーラー」＝顔泥棒と呼ばれる手口では、ハッカーが標的とする相手を偽の「チームズ」や「ズーム」のオンライン会議に知人などになりすまして誘導します。\n\nこのオンライン会議ではあたかも知人が参加しているかのように偽の動画が表示される一方、狙われた人物の顔はウェブカメラで録画されます。\n\nそして、会議の途中、偽の知人から「音声が聞こえない」とメッセージが届いたあと、ソフトウエアの更新が必要だとして悪意のあるプログラムをダウンロードさせるということです。\n\nこれによってハッカーたちは、相手の暗号資産やソーシャルメディアなどにアクセスできるようになるほか、録画した顔情報などを使って次は被害者の知人を標的にし、攻撃を繰り返していたということです。\n\nFBIは、ハッカーたちがこの手口で1年半の間に4億ドル、日本円で640億円相当を超える暗号資産を盗んでいたとしています。\n\nFBIはハッカーが使っていたインフラを無力化したとしていますが、そこには900人を超える被害者の顔の動画が保存され、なかにはサイバーセキュリティーの専門家も含まれていたということで、注意を呼びかけています。\n",
+    "trimmedLead": "アメリカのFBI＝連邦捜査局は、北朝鮮のハッカーたちが、オンライン会議を装って参加した人の顔の動画を録画し、この動画を悪用する「フェーススティーラー」＝顔泥棒と呼ばれる手口で、1年半の間に4億ドル相当を超える暗号資産を盗んでいたと発表しました。FBIはハッカーたちが使っていたインフラを無力化したとしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261113de75357.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261113de75357",
+  "video": [],
+  "citation": [
+    {
+      "name": "エヌビディア 暫定CEOを任命 フアン氏の後任選びは難航か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75212",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75212/20261113de75212_E0000170852_1_s.jpg",
+      "datePublished": "2026-11-13T15:18:00+09:00"
+    },
+    {
+      "name": "米大統領「イラン合意は不要」 副大統領には国内対応を要請",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75140",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75140/20261113de75140_E0000170722_1_s.jpg",
+      "datePublished": "2026-11-13T09:21:00+09:00"
+    },
+    {
+      "name": "独メルセデス ドイツ国内の工場閉鎖を検討 コスト削減が急務",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75168",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75168/20261113de75168_E0000170769_1_s.jpg",
+      "datePublished": "2026-11-13T11:16:00+09:00"
+    },
+    {
+      "name": "プーチン大統領 米特使らと会談で局地停戦提案 ウクライナ警戒",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75124",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75124/20261113de75124_E0000170437_1_s.jpg",
+      "datePublished": "2026-11-13T06:51:31+09:00"
+    },
+    {
+      "name": "防衛研究所 中国にとって南シナ海はアメリカと対抗する基盤",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75106",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75106/20261113de75106_E0000170387_1_s.jpg",
+      "datePublished": "2026-11-13T05:07:00+09:00"
+    },
+    {
+      "name": "ロシアによる北海道新聞記者拘束1か月 即時解放求め続ける",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75109",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75109/20261113de75109_E0000170393_1_s.jpg",
+      "datePublished": "2026-11-13T11:24:00+09:00"
+    },
+    {
+      "name": "COP31首脳級会合 英首相が中東情勢念頭に脱化石燃料訴え",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75130",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75130/20261113de75130_E0000170518_1_s.jpg",
+      "datePublished": "2026-11-13T07:37:00+09:00"
+    },
+    {
+      "name": "米ヘグセス国防長官ら「無名戦士の墓」で笑い声 衛兵が叱責",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de75054",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de75054/20261112de75054_E0000170290_1_s.jpg",
+      "datePublished": "2026-11-12T21:15:00+09:00"
+    },
+    {
+      "name": "韓国で広がる若者の読書ブーム “テキストヒップ”とは？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261021de63028",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de63028/20261021de63028_E0000110716_1_s.jpg",
+      "datePublished": "2026-11-12T09:17:36+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
