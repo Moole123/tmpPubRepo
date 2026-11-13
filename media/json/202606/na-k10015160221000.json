@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015160221000",
+  "dataSourceId": "na",
+  "name": "衆院議運委理事会 26日の本会議開催で与野党が合意",
+  "headline": "衆院議運委理事会 26日の本会議開催で与野党が合意",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015160221000",
+    "playlistId": "news-nwa-politics-nationwide-20260625",
+    "newsarticleName": "衆院議運委理事会 26日の本会議開催で与野党が合意",
+    "playlistName": "6月25日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "選挙期間中のSNSによる偽情報拡散などへの対策をめぐる法案の採決を行うため、26日、衆議院本会議を開催することで与野党が合意しました。\n\n\n25日午前に開かれた衆議院議院運営委員会の理事会で、野党側は",
+  "dateModified": "2026-06-25T21:06:46+09:00",
+  "datePublished": "2026-06-25T21:06:46+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260625/K10015160221_2606251919_0625210647_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260625/K10015160221_2606251919_0625210647_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "選挙期間中のSNSによる偽情報拡散などへの対策をめぐる法案の採決を行うため、26日、衆議院本会議を開催することで与野党が合意しました。\n\n\n25日午前に開かれた衆議院議院運営委員会の理事会で、野党側は",
+  "articleBody": "選挙期間中のSNSによる偽情報拡散などへの対策をめぐる法案の採決を行うため、26日、衆議院本会議を開催することで与野党が合意しました。\n\n\n25日午前に開かれた衆議院議院運営委員会の理事会で、野党側は、予算委員会の集中審議などを要求しているにもかかわらず回答がないとして、26日の本会議の開催には応じられないという考えを伝えました。\n\n議院運営委員会は午後、改めて理事会を開き、与党側は、選挙期間中のSNSによる偽情報拡散などへの対策をめぐる法案が特別委員会で全会一致で可決されたことを受けて、26日、本会議を開き、採決を行いたいと提案しました。\n\n野党側は「速やかに成立を図る必要がある」などとして提案に応じ、26日の本会議の開催で与野党が合意しました。\n\n一方、野党側は、衆議院議員の定数削減法案や「副首都」構想の関連法案の審議は認められないと重ねて主張し、引き続き、協議することになりました。\n",
+  "detailedArticleBody": {
+    "markedLead": "選挙期間中のSNSによる偽情報拡散などへの対策をめぐる法案の採決を行うため、26日、衆議院本会議を開催することで与野党が合意しました。\n",
+    "markedBody": "25日午前に開かれた衆議院議院運営委員会の理事会で、野党側は、予算委員会の集中審議などを要求しているにもかかわらず回答がないとして、26日の本会議の開催には応じられないという考えを伝えました。\n\n議院運営委員会は午後、改めて理事会を開き、与党側は、選挙期間中のSNSによる偽情報拡散などへの対策をめぐる法案が特別委員会で全会一致で可決されたことを受けて、26日、本会議を開き、採決を行いたいと提案しました。\n\n野党側は「速やかに成立を図る必要がある」などとして提案に応じ、26日の本会議の開催で与野党が合意しました。\n\n一方、野党側は、衆議院議員の定数削減法案や「副首都」構想の関連法案の審議は認められないと重ねて主張し、引き続き、協議することになりました。\n",
+    "trimmedLead": "選挙期間中のSNSによる偽情報拡散などへの対策をめぐる法案の採決を行うため、26日、衆議院本会議を開催することで与野党が合意しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015160221000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015160221000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

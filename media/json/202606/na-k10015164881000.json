@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015164881000",
+  "dataSourceId": "na",
+  "name": "ベネズエラに浄水器など緊急援助物資を供与 茂木外相",
+  "headline": "ベネズエラに浄水器など緊急援助物資を供与 茂木外相",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015164881000",
+    "playlistId": "news-nwa-politics-nationwide-20260630",
+    "newsarticleName": "ベネズエラに浄水器など緊急援助物資を供与 茂木外相",
+    "playlistName": "6月30日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "茂木外務大臣は、地震で大きな被害が出ている南米のベネズエラに対し、ポリタンクや浄水器などの緊急援助物資を供与すると発表しました。今後、国際緊急援助隊の派遣や緊急無償資金協力なども検討していくとしていま",
+  "dateModified": "2026-06-30T16:32:59+09:00",
+  "datePublished": "2026-06-30T16:32:59+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260630/K10015164881_2606301620_0630163300_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260630/K10015164881_2606301620_0630163300_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治",
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "茂木外務大臣は、地震で大きな被害が出ている南米のベネズエラに対し、ポリタンクや浄水器などの緊急援助物資を供与すると発表しました。今後、国際緊急援助隊の派遣や緊急無償資金協力なども検討していくとしていま",
+  "articleBody": "茂木外務大臣は、地震で大きな被害が出ている南米のベネズエラに対し、ポリタンクや浄水器などの緊急援助物資を供与すると発表しました。今後、国際緊急援助隊の派遣や緊急無償資金協力なども検討していくとしています。\n\n\n茂木外務大臣は、6月30日の記者会見で、6月24日、マグニチュード7を超える地震が連続して発生したベネズエラからの要請を受けて、緊急援助物資を供与すると発表しました。\n\nJICA＝国際協力機構を通じ、水を入れるためのポリタンク1500個や浄水器30台などを送るということです。\n\nさらに、現地の医療や復旧・復興のニーズを把握するため、JICAの調査団を現地に派遣していることを明らかにし、今後、国際緊急援助隊の派遣や緊急無償資金協力など必要な支援を検討していく考えを示しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "茂木外務大臣は、地震で大きな被害が出ている南米のベネズエラに対し、ポリタンクや浄水器などの緊急援助物資を供与すると発表しました。今後、国際緊急援助隊の派遣や緊急無償資金協力なども検討していくとしています。\n",
+    "markedBody": "![](https://news.web.nhk/news/html/20260630/K10015164881_2606301620_0630163300_02_03.jpg)\n\n茂木外務大臣は、6月30日の記者会見で、6月24日、マグニチュード7を超える地震が連続して発生したベネズエラからの要請を受けて、緊急援助物資を供与すると発表しました。\n\nJICA＝国際協力機構を通じ、水を入れるためのポリタンク1500個や浄水器30台などを送るということです。\n\nさらに、現地の医療や復旧・復興のニーズを把握するため、JICAの調査団を現地に派遣していることを明らかにし、今後、国際緊急援助隊の派遣や緊急無償資金協力など必要な支援を検討していく考えを示しました。\n",
+    "trimmedLead": "茂木外務大臣は、地震で大きな被害が出ている南米のベネズエラに対し、ポリタンクや浄水器などの緊急援助物資を供与すると発表しました。今後、国際緊急援助隊の派遣や緊急無償資金協力なども検討していくとしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015164881000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015164881000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

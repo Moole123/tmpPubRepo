@@ -1,0 +1,101 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015164791000",
+  "dataSourceId": "na",
+  "name": "アフラック生命 約438万人分 個人情報漏えい 一部は口座情報も 不正アクセス受け",
+  "headline": "アフラック生命 約438万人分 個人情報漏えい 一部は口座情報も",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015164791000",
+    "playlistId": "news-nwa-business-nationwide-20260630",
+    "newsarticleName": "アフラック生命 約438万人分 個人情報漏えい 一部は口座情報も 不正アクセス受け",
+    "playlistName": "6月30日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "がん保険を手がけるアフラック生命は、保険内容を確認する契約者専用サイトのシステムなどが不正アクセスを受け、名前や住所、電話番号などの個人情報、およそ438万人分が漏えいしたと明らかにしました。今のとこ",
+  "dateModified": "2026-06-30T16:14:48+09:00",
+  "datePublished": "2026-06-30T14:02:46+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260630/K10015164791_2606301403_0630140555_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260630/K10015164791_2606301403_0630140555_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "がん保険を手がけるアフラック生命は、保険内容を確認する契約者専用サイトのシステムなどが不正アクセスを受け、名前や住所、電話番号などの個人情報、およそ438万人分が漏えいしたと明らかにしました。今のとこ",
+  "articleBody": "がん保険を手がけるアフラック生命は、保険内容を確認する契約者専用サイトのシステムなどが不正アクセスを受け、名前や住所、電話番号などの個人情報、およそ438万人分が漏えいしたと明らかにしました。今のところ漏えいした情報の不正利用は確認されていないとしています。\n\n\n会社によりますと、保険内容を確認する契約者専用サイトのシステムなどが今月15日以降、複数回、不正アクセスを受けていたことが確認されたということです。\n\n不正なアクセスによって、現在の保険契約者に加え、かつて契約していた人も含め、あわせて438万人分の名前や住所、電話番号、契約している保険の保障内容などの個人情報が漏えいし、一部に保険料を振り替える口座情報も含まれているということです。\n\nマイナンバーやクレジットカードの情報は漏えいしておらず、今のところ個人情報の不正利用は確認されていないとしています。\n\n会社は現在、不正アクセスの拡大を防ぐため、関連するシステムを停止していますが、復旧のめどは立っていないということです。\n\nアフラック生命は「該当するお客様にご迷惑とご心配をおかけし、深くおわび申し上げます。不正アクセスに対するセキュリティー体制の強化に努めていく」とコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "がん保険を手がけるアフラック生命は、保険内容を確認する契約者専用サイトのシステムなどが不正アクセスを受け、名前や住所、電話番号などの個人情報、およそ438万人分が漏えいしたと明らかにしました。今のところ漏えいした情報の不正利用は確認されていないとしています。\n",
+    "markedBody": "会社によりますと、保険内容を確認する契約者専用サイトのシステムなどが今月15日以降、複数回、不正アクセスを受けていたことが確認されたということです。\n\n不正なアクセスによって、現在の保険契約者に加え、かつて契約していた人も含め、あわせて438万人分の名前や住所、電話番号、契約している保険の保障内容などの個人情報が漏えいし、一部に保険料を振り替える口座情報も含まれているということです。\n\nマイナンバーやクレジットカードの情報は漏えいしておらず、今のところ個人情報の不正利用は確認されていないとしています。\n\n会社は現在、不正アクセスの拡大を防ぐため、関連するシステムを停止していますが、復旧のめどは立っていないということです。\n\nアフラック生命は「該当するお客様にご迷惑とご心配をおかけし、深くおわび申し上げます。不正アクセスに対するセキュリティー体制の強化に努めていく」とコメントしています。\n",
+    "trimmedLead": "がん保険を手がけるアフラック生命は、保険内容を確認する契約者専用サイトのシステムなどが不正アクセスを受け、名前や住所、電話番号などの個人情報、およそ438万人分が漏えいしたと明らかにしました。今のところ漏えいした情報の不正利用は確認されていないとしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015164791000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015164791000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "アフラック生命 約438万人分 個人情報漏えい 一部は口座情報も",
+      "description": "がん保険を手がけるアフラック生命は、保険内容を確認する契約者専用サイトのシステムなどが不正アクセスを受け、名前や住所、電話番号などの個人情報、およそ438万人分が漏えいしたと明らかにしました。今のとこ",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015164791_202606301809_202606301815/index.m3u8&mrposter=/news/html/20260630/K10015164791_2606301403_0630140555_01_02.jpg",
+      "duration": "PT43S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015164791_202606301809_202606301815/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260630/K10015164791_2606301403_0630140555_01_02.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
