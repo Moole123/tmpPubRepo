@@ -1,0 +1,102 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015166061000",
+  "dataSourceId": "na",
+  "name": "ガソリン価格 全国平均169.8円 政府補助金で170円水準続く",
+  "headline": "ガソリン価格 全国平均169.8円 政府補助金で170円水準続く",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015166061000",
+    "playlistId": "news-nwa-business-nationwide-20260701",
+    "newsarticleName": "ガソリン価格 全国平均169.8円 政府補助金で170円水準続く",
+    "playlistName": "7月1日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "国の委託を受けて調査している石油情報センターによりますと、レギュラーガソリンの小売価格は、6月29日時点の全国平均で1リットル当たり169.8円と前の週と同じ価格でした。政府の激変緩和措置による補助金",
+  "dateModified": "2026-07-01T15:59:57+09:00",
+  "datePublished": "2026-07-01T15:59:57+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260701/K10015166061_2607011510_0701155958_02_01.jpg",
+      "height": 719,
+      "width": 1279
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260701/K10015166061_2607011510_0701155958_01_02.jpg",
+      "height": 719,
+      "width": 1279
+    }
+  },
+  "genre": [
+    "経済",
+    "暮らし"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "国の委託を受けて調査している石油情報センターによりますと、レギュラーガソリンの小売価格は、6月29日時点の全国平均で1リットル当たり169.8円と前の週と同じ価格でした。政府の激変緩和措置による補助金",
+  "articleBody": "国の委託を受けて調査している石油情報センターによりますと、レギュラーガソリンの小売価格は、6月29日時点の全国平均で1リットル当たり169.8円と前の週と同じ価格でした。政府の激変緩和措置による補助金で170円程度の水準が続いています。\n\n\n一方、経済産業省は7月2日からの出荷分を対象とした補助金の額は、1リットル当たり4.8円になると発表しました。\n\n高値での輸入となる代替調達が増えていることから補助金の算定方法を見直し、1リットル当たり4.9円を上乗せした結果だということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "国の委託を受けて調査している石油情報センターによりますと、レギュラーガソリンの小売価格は、6月29日時点の全国平均で1リットル当たり169.8円と前の週と同じ価格でした。政府の激変緩和措置による補助金で170円程度の水準が続いています。\n",
+    "markedBody": "一方、経済産業省は7月2日からの出荷分を対象とした補助金の額は、1リットル当たり4.8円になると発表しました。\n\n高値での輸入となる代替調達が増えていることから補助金の算定方法を見直し、1リットル当たり4.9円を上乗せした結果だということです。\n",
+    "trimmedLead": "国の委託を受けて調査している石油情報センターによりますと、レギュラーガソリンの小売価格は、6月29日時点の全国平均で1リットル当たり169.8円と前の週と同じ価格でした。政府の激変緩和措置による補助金で170円程度の水準が続いています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015166061000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015166061000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "ガソリン価格 全国平均169.8円 政府補助金で170円水準続く",
+      "description": "国の委託を受けて調査している石油情報センターによりますと、レギュラーガソリンの小売価格は、6月29日時点の全国平均で1リットル当たり169.8円と前の週と同じ価格でした。政府の激変緩和措置による補助金",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015166061_202607011821_202607011821/index.m3u8&mrposter=/news/html/20260701/K10015166061_2607011510_0701155958_01_02.jpg",
+      "duration": "PT30S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015166061_202607011821_202607011821/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260701/K10015166061_2607011510_0701155958_01_02.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

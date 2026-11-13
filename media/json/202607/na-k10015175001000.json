@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015175001000",
+  "dataSourceId": "na",
+  "name": "日本ではホルムズ海峡を通らない代替ルートでの原油調達が進む",
+  "headline": "日本ではホルムズ海峡を通らない代替ルートでの原油調達が進む",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015175001000",
+    "playlistId": "news-nwa-international-nationwide-20260712",
+    "newsarticleName": "日本ではホルムズ海峡を通らない代替ルートでの原油調達が進む",
+    "playlistName": "7月12日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "政府はホルムズ海峡が事実上、封鎖されて以降、ホルムズ海峡を通らないルートでの原油の調達、代替調達を進めていて、原油の輸入量の減少幅は縮小傾向にあります。\n\n\n資源エネルギー庁によりますと、ことし5月に",
+  "dateModified": "2026-07-12T16:21:28+09:00",
+  "datePublished": "2026-07-12T16:21:28+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260712/K10015175001_2607121557_0712162129_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260712/K10015175001_2607121557_0712162129_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "国際",
+    "経済"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "政府はホルムズ海峡が事実上、封鎖されて以降、ホルムズ海峡を通らないルートでの原油の調達、代替調達を進めていて、原油の輸入量の減少幅は縮小傾向にあります。\n\n\n資源エネルギー庁によりますと、ことし5月に",
+  "articleBody": "政府はホルムズ海峡が事実上、封鎖されて以降、ホルムズ海峡を通らないルートでの原油の調達、代替調達を進めていて、原油の輸入量の減少幅は縮小傾向にあります。\n\n\n資源エネルギー庁によりますと、ことし5月に日本に輸入された原油は729万キロリットルと、去年の同じ月より38％、減りましたが、減少幅は前の月の65％から縮小しました。\n\n輸入相手国でみると、サウジアラビアからの輸入は58％減ったほか、UAE＝アラブ首長国連邦からの輸入も33％の減少となるなど、中東からの輸入は大幅に減った一方、アメリカからの輸入が74％の大幅な増加となるなど代替調達が拡大しています。\n\n政府は代替調達により、今月は中東情勢が悪化する前の去年とほぼ同じ量を確保できる見込みだとしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "政府はホルムズ海峡が事実上、封鎖されて以降、ホルムズ海峡を通らないルートでの原油の調達、代替調達を進めていて、原油の輸入量の減少幅は縮小傾向にあります。\n",
+    "markedBody": "資源エネルギー庁によりますと、ことし5月に日本に輸入された原油は729万キロリットルと、去年の同じ月より38％、減りましたが、減少幅は前の月の65％から縮小しました。\n\n輸入相手国でみると、サウジアラビアからの輸入は58％減ったほか、UAE＝アラブ首長国連邦からの輸入も33％の減少となるなど、中東からの輸入は大幅に減った一方、アメリカからの輸入が74％の大幅な増加となるなど代替調達が拡大しています。\n\n政府は代替調達により、今月は中東情勢が悪化する前の去年とほぼ同じ量を確保できる見込みだとしています。\n",
+    "trimmedLead": "政府はホルムズ海峡が事実上、封鎖されて以降、ホルムズ海峡を通らないルートでの原油の調達、代替調達を進めていて、原油の輸入量の減少幅は縮小傾向にあります。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015175001000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015175001000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
