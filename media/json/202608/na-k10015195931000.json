@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015195931000",
+  "dataSourceId": "na",
+  "name": "AI高度化 自治体はサイバーセキュリティー対策強化を 林総務相",
+  "headline": "AI高度化 自治体はサイバーセキュリティー対策強化を 林総務相",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015195931000",
+    "playlistId": "news-nwa-politics-nationwide-20260804",
+    "newsarticleName": "AI高度化 自治体はサイバーセキュリティー対策強化を 林総務相",
+    "playlistName": "8月4日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "AIの高度化で地方自治体へのサイバー攻撃の危険性が高まっているとして、林総務大臣は4日、全国の都道府県知事と市区町村長に対し、サイバーセキュリティー対策の強化を求める書簡を送りました。\n\n\n書簡では、",
+  "dateModified": "2026-08-04T19:00:36+09:00",
+  "datePublished": "2026-08-04T19:00:36+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195931_2608041520_0804190037_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195931_2608041520_0804190037_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "AIの高度化で地方自治体へのサイバー攻撃の危険性が高まっているとして、林総務大臣は4日、全国の都道府県知事と市区町村長に対し、サイバーセキュリティー対策の強化を求める書簡を送りました。\n\n\n書簡では、",
+  "articleBody": "AIの高度化で地方自治体へのサイバー攻撃の危険性が高まっているとして、林総務大臣は4日、全国の都道府県知事と市区町村長に対し、サイバーセキュリティー対策の強化を求める書簡を送りました。\n\n\n書簡では、サイバー攻撃により国内の企業で業務停止や個人情報の漏えいが生じているとした上で、近年のAIの高度化でシステムのぜい弱性を発見されて攻撃を受ける危険性が高まっているなどと指摘しています。\n\nそして、サイバー攻撃への対策を強化するため、地方自治体のトップとして、サイバーセキュリティーの重要性について理解を深めるとともに、予算や人員の確保に向けてリーダーシップを発揮することなどを求めています。\n\n林総務大臣は閣議のあとの記者会見で「総務省としても、地方財政措置などを通じて、地方公共団体のサイバーセキュリティーの確保に向けて全力で取り組む」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "AIの高度化で地方自治体へのサイバー攻撃の危険性が高まっているとして、林総務大臣は4日、全国の都道府県知事と市区町村長に対し、サイバーセキュリティー対策の強化を求める書簡を送りました。\n",
+    "markedBody": "書簡では、サイバー攻撃により国内の企業で業務停止や個人情報の漏えいが生じているとした上で、近年のAIの高度化でシステムのぜい弱性を発見されて攻撃を受ける危険性が高まっているなどと指摘しています。\n\nそして、サイバー攻撃への対策を強化するため、地方自治体のトップとして、サイバーセキュリティーの重要性について理解を深めるとともに、予算や人員の確保に向けてリーダーシップを発揮することなどを求めています。\n\n林総務大臣は閣議のあとの記者会見で「総務省としても、地方財政措置などを通じて、地方公共団体のサイバーセキュリティーの確保に向けて全力で取り組む」と述べました。\n",
+    "trimmedLead": "AIの高度化で地方自治体へのサイバー攻撃の危険性が高まっているとして、林総務大臣は4日、全国の都道府県知事と市区町村長に対し、サイバーセキュリティー対策の強化を求める書簡を送りました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015195931000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015195931000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

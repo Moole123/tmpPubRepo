@@ -1,0 +1,80 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260820de45221",
+  "dataSourceId": "nd",
+  "name": "【台風情報】台風18号(ソウデル) 進路 勢力は 今後の情報に注意を",
+  "headline": "台風18号 23日には非常に強い勢力に発達か 今後の情報に注意を",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260820de45221",
+    "playlistId": "news-nwa-disaster-nationwide-20260820",
+    "newsarticleName": "【台風情報】台風18号(ソウデル) 進路 勢力は 今後の情報に注意を",
+    "playlistName": "8月20日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "19日に日本のはるか南東の海上で発生した台風18号は、23日・日曜日には非常に強い勢力に発達する見込みです。来週、南西諸島に近づくおそれがあり、気象庁は今後の情報に注意するよう呼びかけています。\n\n\n",
+  "dateModified": "2026-08-20T19:41:00+09:00",
+  "datePublished": "2026-08-20T11:40:26+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45221/20260820de45221_E0000014027_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45221/20260820de45221_E0000014027_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "19日に日本のはるか南東の海上で発生した台風18号は、23日・日曜日には非常に強い勢力に発達する見込みです。来週、南西諸島に近づくおそれがあり、気象庁は今後の情報に注意するよう呼びかけています。\n\n\n",
+  "articleBody": "19日に日本のはるか南東の海上で発生した台風18号は、23日・日曜日には非常に強い勢力に発達する見込みです。来週、南西諸島に近づくおそれがあり、気象庁は今後の情報に注意するよう呼びかけています。\n\n\nニュース・防災アプリ\n\nニュース・防災アプリ\n台風の最新の進路図やニュースはアプリでも\n\n気象庁によりますと、19日に日本のはるか南東の海上で発生した台風18号は、20日午後にはトラック諸島近海を進んでいます。\n\n台風はこのあと発達しながら北西よりに進み、23日の日曜日には非常に強い勢力になる見込みで、来週の前半ごろには南西諸島に近づくと予想されています。\n\nその後の予想にはまだ幅がありますが、日本に影響が出るおそれがあり、気象庁は今後の台風の情報に注意するよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "19日に日本のはるか南東の海上で発生した台風18号は、23日・日曜日には非常に強い勢力に発達する見込みです。来週、南西諸島に近づくおそれがあり、気象庁は今後の情報に注意するよう呼びかけています。\n",
+    "markedBody": ":::nw--link-type4 {href=https://www.nhk.or.jp/nhkone/service/app/news_bousai/}\n![ニュース・防災アプリ](https://img.web.nhk/news/nd/kiji/20260820de45221/20260820de45221_E0000003925_1_l.jpg)\n\n**ニュース・防災アプリ**\\\n台風の最新の進路図やニュースはアプリでも\n:::\n\n気象庁によりますと、19日に日本のはるか南東の海上で発生した台風18号は、20日午後にはトラック諸島近海を進んでいます。\n\n台風はこのあと発達しながら北西よりに進み、23日の日曜日には非常に強い勢力になる見込みで、来週の前半ごろには南西諸島に近づくと予想されています。\n\nその後の予想にはまだ幅がありますが、日本に影響が出るおそれがあり、気象庁は今後の台風の情報に注意するよう呼びかけています。\n\n```raw-html\n<div class=\"nw--freespace content--freearea js-free-spaces\" id=\"003\">\n<link rel=\"stylesheet\" href=\"https://news.web.nhk/news/freespace/css/straight-news.css\">\n    <div class=\"fs-wrap\">\n      <h2 class=\"freespace-title\">台風マップ</h2>\n\n      <a href=\"https://news.web.nhk/bousai-map/typhoon/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"tenkiBousaiMap-fullscreenBtn\">全画面でマップを見る</a>\n\n      <div class=\"tenkiBousaiMap-wrap\">\n        <iframe src=\"https://news.web.nhk/bousai-map/typhoon/?mapMenu=off&amp;help=off&amp;halfModal=off&amp;typhoonSelection=off&amp;disableUserLocation=on\" allowfullscreen=\"allowfullscreen\" scrolling=\"no\" class=\"js-iframe-dataMap\"></iframe>\n      </div>\n    </div>\n</div>\n```\n",
+    "noHtmlMarkedLead": "19日に日本のはるか南東の海上で発生した台風18号は、23日・日曜日には非常に強い勢力に発達する見込みです。来週、南西諸島に近づくおそれがあり、気象庁は今後の情報に注意するよう呼びかけています。\n",
+    "noHtmlMarkedBody": ":::nw--link-type4 {href=https://www.nhk.or.jp/nhkone/service/app/news_bousai/}\n![ニュース・防災アプリ](https://img.web.nhk/news/nd/kiji/20260820de45221/20260820de45221_E0000003925_1_l.jpg)\n\n**ニュース・防災アプリ**\\\n台風の最新の進路図やニュースはアプリでも\n:::\n\n気象庁によりますと、19日に日本のはるか南東の海上で発生した台風18号は、20日午後にはトラック諸島近海を進んでいます。\n\n台風はこのあと発達しながら北西よりに進み、23日の日曜日には非常に強い勢力になる見込みで、来週の前半ごろには南西諸島に近づくと予想されています。\n\nその後の予想にはまだ幅がありますが、日本に影響が出るおそれがあり、気象庁は今後の台風の情報に注意するよう呼びかけています。\n",
+    "trimmedLead": "19日に日本のはるか南東の海上で発生した台風18号は、23日・日曜日には非常に強い勢力に発達する見込みです。来週、南西諸島に近づくおそれがあり、気象庁は今後の情報に注意するよう呼びかけています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260820de45221.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260820de45221",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": true
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015196011000",
+  "dataSourceId": "na",
+  "name": "【動画】熊本地震 九州自動車道で路面隆起の瞬間",
+  "headline": "【動画】熊本地震 九州自動車道で路面隆起の瞬間",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015196011000",
+    "playlistId": "news-nwa-disaster-nationwide-20260804",
+    "newsarticleName": "【動画】熊本地震 九州自動車道で路面隆起の瞬間",
+    "playlistName": "8月4日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "先月28日の地震発生直後にあたる午後4時半ごろに熊本県内の九州自動車道を走っていたトラックのドライブレコーダーの映像です。\n\n\n高速道路を走行中に緊急地震速報が鳴り、熊本県八代市の大平山トンネルに入る",
+  "dateModified": "2026-08-04T16:50:03+09:00",
+  "datePublished": "2026-08-04T16:50:03+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260804/K10015196011_2608041641_0804165004_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260804/K10015196011_2608041641_0804165004_01_03.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "先月28日の地震発生直後にあたる午後4時半ごろに熊本県内の九州自動車道を走っていたトラックのドライブレコーダーの映像です。\n\n\n高速道路を走行中に緊急地震速報が鳴り、熊本県八代市の大平山トンネルに入る",
+  "articleBody": "先月28日の地震発生直後にあたる午後4時半ごろに熊本県内の九州自動車道を走っていたトラックのドライブレコーダーの映像です。\n\n\n高速道路を走行中に緊急地震速報が鳴り、熊本県八代市の大平山トンネルに入る直前に、砂ぼこりを巻き上げて路面が隆起する様子がわかります。\n\n運転していたのは、鹿児島市の運送会社に35年勤めるベテランドライバーで、会社によりますと、盛り上がった路面にぶつかりましたが、徐々に走行スピードを落としていたため前方のバンパーの破損だけで、運転手にけがはなかったということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "先月28日の地震発生直後にあたる午後4時半ごろに熊本県内の九州自動車道を走っていたトラックのドライブレコーダーの映像です。\n",
+    "markedBody": "高速道路を走行中に緊急地震速報が鳴り、熊本県八代市の大平山トンネルに入る直前に、砂ぼこりを巻き上げて路面が隆起する様子がわかります。\n\n運転していたのは、鹿児島市の運送会社に35年勤めるベテランドライバーで、会社によりますと、盛り上がった路面にぶつかりましたが、徐々に走行スピードを落としていたため前方のバンパーの破損だけで、運転手にけがはなかったということです。\n",
+    "trimmedLead": "先月28日の地震発生直後にあたる午後4時半ごろに熊本県内の九州自動車道を走っていたトラックのドライブレコーダーの映像です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015196011000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015196011000",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "【動画】熊本地震 九州自動車道で路面隆起の瞬間",
+      "description": "先月28日の地震発生直後にあたる午後4時半ごろに熊本県内の九州自動車道を走っていたトラックのドライブレコーダーの映像です。\n\n\n高速道路を走行中に緊急地震速報が鳴り、熊本県八代市の大平山トンネルに入る",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/k10015196011_202608041641_202608041641/index.m3u8&mrposter=/news/html/20260804/K10015196011_2608041641_0804165004_01_03.jpg",
+      "duration": "PT11S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/k10015196011_202608041641_202608041641/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/html/20260804/K10015196011_2608041641_0804165004_01_03.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

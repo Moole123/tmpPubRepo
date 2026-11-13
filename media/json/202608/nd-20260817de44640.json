@@ -1,0 +1,102 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260817de44640",
+  "dataSourceId": "nd",
+  "name": "【動画】停電続く総合病院 電気設備がある地下に水が",
+  "headline": "【動画】停電続く総合病院 電気設備がある地下に水が",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260817de44640",
+    "playlistId": "news-nwa-disaster-nationwide-20260817",
+    "newsarticleName": "【動画】停電続く総合病院 電気設備がある地下に水が",
+    "playlistName": "8月17日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "浸水した千葉市の山王病院の電気設備がある地下の映像です。病院では、豪雨の影響で、地下の電気設備と非常用電源が水没して使えなくなり停電が続いています。\n\n\n午後6時59分に地上に上がるスロープがある方か",
+  "dateModified": "2026-08-17T19:33:48+09:00",
+  "datePublished": "2026-08-17T19:33:48+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44640/20260817de44640_E0000010757_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44640/20260817de44640_E0000010757_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害",
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "浸水した千葉市の山王病院の電気設備がある地下の映像です。病院では、豪雨の影響で、地下の電気設備と非常用電源が水没して使えなくなり停電が続いています。\n\n\n午後6時59分に地上に上がるスロープがある方か",
+  "articleBody": "浸水した千葉市の山王病院の電気設備がある地下の映像です。病院では、豪雨の影響で、地下の電気設備と非常用電源が水没して使えなくなり停電が続いています。\n\n\n午後6時59分に地上に上がるスロープがある方から水が流れ込んできます。\n\nその後も水位はどんどん上がっていき、そのわずか14分後、画面右に写っている自転車がつかるほどの高さになったところで、停電によって映像が途絶えました。\n\n病院では診察を休止して復旧作業を進めていますが、再開のめどは立っていないということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "浸水した千葉市の山王病院の電気設備がある地下の映像です。病院では、豪雨の影響で、地下の電気設備と非常用電源が水没して使えなくなり停電が続いています。\n",
+    "markedBody": "午後6時59分に地上に上がるスロープがある方から水が流れ込んできます。\n\nその後も水位はどんどん上がっていき、そのわずか14分後、画面右に写っている自転車がつかるほどの高さになったところで、停電によって映像が途絶えました。\n\n病院では診察を休止して復旧作業を進めていますが、再開のめどは立っていないということです。\n",
+    "trimmedLead": "浸水した千葉市の山王病院の電気設備がある地下の映像です。病院では、豪雨の影響で、地下の電気設備と非常用電源が水没して使えなくなり停電が続いています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260817de44640.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260817de44640",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "【動画】停電続く総合病院 電気設備がある地下に水が",
+      "description": "浸水した千葉市の山王病院の電気設備がある地下の映像です。病院では、豪雨の影響で、地下の電気設備と非常用電源が水没して使えなくなり停電が続いています。\n\n\n午後6時59分に地上に上がるスロープがある方か",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20260817de44640_E0000010643_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20260817de44640/20260817de44640_E0000010757_1_l.jpg",
+      "duration": "PT14S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20260817de44640_E0000010643_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44640/20260817de44640_E0000010757_1_l.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": false,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

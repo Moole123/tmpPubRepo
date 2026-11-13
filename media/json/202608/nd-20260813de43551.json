@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260813de43551",
+  "dataSourceId": "nd",
+  "name": "高市首相動静 2026年8月12日",
+  "headline": "高市首相動静 2026年8月12日",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260813de43551",
+    "playlistId": "news-nwa-politics-nationwide-20260813",
+    "newsarticleName": "高市首相動静 2026年8月12日",
+    "playlistName": "8月13日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "（高市首相動静 2026年8月12日）\n\n\n11:04 徒歩で公邸発\n11:05 官邸着\n15:00 熊本地震非常災害対策本部会議（-15:30）\n15:31 片山さつき財務大臣と会話（-15:32）",
+  "dateModified": "2026-08-13T08:12:17+09:00",
+  "datePublished": "2026-08-13T08:12:17+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43551/20260813de43551_E0000003852_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43551/20260813de43551_E0000003852_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "（高市首相動静 2026年8月12日）\n\n\n11:04 徒歩で公邸発\n11:05 官邸着\n15:00 熊本地震非常災害対策本部会議（-15:30）\n15:31 片山さつき財務大臣と会話（-15:32）",
+  "articleBody": "（高市首相動静 2026年8月12日）\n\n\n11:04 徒歩で公邸発\n11:05 官邸着\n15:00 熊本地震非常災害対策本部会議（-15:30）\n15:31 片山さつき財務大臣と会話（-15:32）\n16:20 イランのペゼシュキアン大統領と電話会談（-16:40）\n16:44 市川恵一国家安全保障局長、原和也国家情報局長と面会（-17:02）\n17:03 原国家情報局長と面会（-17:14）\n18:01 報道各社のインタビュー（-18:03）\n18:04 徒歩で官邸発\n18:05 公邸着\n",
+  "detailedArticleBody": {
+    "markedLead": "（高市首相動静 2026年8月12日）\n",
+    "markedBody": "11:04 徒歩で公邸発\\\n11:05 官邸着\\\n15:00 熊本地震非常災害対策本部会議（-15:30）\\\n15:31 片山さつき財務大臣と会話（-15:32）\\\n16:20 イランのペゼシュキアン大統領と電話会談（-16:40）\\\n16:44 市川恵一国家安全保障局長、原和也国家情報局長と面会（-17:02）\\\n17:03 原国家情報局長と面会（-17:14）\\\n18:01 報道各社のインタビュー（-18:03）\\\n18:04 徒歩で官邸発\\\n18:05 公邸着\n",
+    "trimmedLead": "（高市首相動静 2026年8月12日）\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260813de43551.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260813de43551",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": false,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
