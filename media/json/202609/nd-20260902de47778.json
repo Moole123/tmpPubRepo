@@ -1,0 +1,101 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20260902de47778",
+  "dataSourceId": "nd",
+  "name": "注目集まる「電子投票」 浮かび上がった課題",
+  "headline": "注目集まる「電子投票」 浮かび上がった課題",
+  "identifierGroup": {
+    "newsarticleId": "nd-20260902de47778",
+    "playlistId": "news-nwa-politics-nationwide-20260902",
+    "newsarticleName": "注目集まる「電子投票」 浮かび上がった課題",
+    "playlistName": "9月2日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "8月30日に投開票が行われた香川県知事選挙では、善通寺市で「電子投票」が導入されました。\n\n投票所で候補者の名前を紙に書くのではなく、タブレット端末の画面をタッチするだけで投票できます。\n\n選挙管理委",
+  "dateModified": "2026-09-02T17:22:56+09:00",
+  "datePublished": "2026-09-02T17:22:56+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47778/20260902de47778_E0000022108_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47778/20260902de47778_E0000022108_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "8月30日に投開票が行われた香川県知事選挙では、善通寺市で「電子投票」が導入されました。\n\n投票所で候補者の名前を紙に書くのではなく、タブレット端末の画面をタッチするだけで投票できます。\n\n選挙管理委",
+  "articleBody": "8月30日に投開票が行われた香川県知事選挙では、善通寺市で「電子投票」が導入されました。\n\n投票所で候補者の名前を紙に書くのではなく、タブレット端末の画面をタッチするだけで投票できます。\n\n選挙管理委員会の作業はスピードアップしましたが、課題も浮かび上がりました。\n\n取材にあたった山本陶子記者に聞きました。\n\n\n電子投票で投票どう変わる？視覚障害者の“取り残される思い”\n\n電子投票で投票どう変わる？視覚障害者の“取り残される思い”\n",
+  "detailedArticleBody": {
+    "markedLead": "8月30日に投開票が行われた香川県知事選挙では、善通寺市で「電子投票」が導入されました。\n\n投票所で候補者の名前を紙に書くのではなく、タブレット端末の画面をタッチするだけで投票できます。\n\n選挙管理委員会の作業はスピードアップしましたが、課題も浮かび上がりました。\n\n取材にあたった山本陶子記者に聞きました。\n",
+    "markedBody": ":::nw--link-type4 {href=https://news.web.nhk/newsweb/na/nd-20260822de45659}\n![電子投票で投票どう変わる？視覚障害者の“取り残される思い”](https://img.web.nhk/news/nd/kiji/20260902de47778/20260902de47778_E0000022030_1_l.jpg)\n\n**電子投票で投票どう変わる？視覚障害者の“取り残される思い”**\n:::\n",
+    "trimmedLead": "8月30日に投開票が行われた香川県知事選挙では、善通寺市で「電子投票」が導入されました。\n\n投票所で候補者の名前を紙に書くのではなく、タブレット端末の画面をタッチするだけで投票できます。\n\n選挙管理委員会の作業はスピードアップしましたが、課題も浮かび上がりました。\n\n取材にあたった山本陶子記者に聞きました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20260902de47778.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20260902de47778",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "注目集まる「電子投票」 浮かび上がった課題",
+      "description": "8月30日に投開票が行われた香川県知事選挙では、善通寺市で「電子投票」が導入されました。\n\n投票所で候補者の名前を紙に書くのではなく、タブレット端末の画面をタッチするだけで投票できます。\n\n選挙管理委",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20260902de47778_E0000022106_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20260902de47778/20260902de47778_E0000022108_1_l.jpg",
+      "duration": "PT6M26S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20260902de47778_E0000022106_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47778/20260902de47778_E0000022108_1_l.jpg"
+    }
+  ],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
