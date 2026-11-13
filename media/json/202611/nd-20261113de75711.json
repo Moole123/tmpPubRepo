@@ -1,0 +1,145 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261113de75711",
+  "dataSourceId": "nd",
+  "name": "巨人 ファンクラブ会員のメールアドレス80万件あまり流出",
+  "headline": "巨人 ファンクラブ会員のメールアドレス80万件あまり流出",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261113de75711",
+    "playlistId": "news-nwa-society-nationwide-20261113",
+    "newsarticleName": "巨人 ファンクラブ会員のメールアドレス80万件あまり流出",
+    "playlistName": "11月13日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "プロ野球、巨人は公式ファンクラブの会員情報を管理するシステムがサイバー攻撃を受け、会員のメールアドレス80万件あまりが流出したと発表しました。\n\n\nこれは巨人が公式サイトで発表しました。\n\nそれにより",
+  "dateModified": "2026-11-13T22:14:49+09:00",
+  "datePublished": "2026-11-13T22:14:49+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75711/20261113de75711_E0000174687_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75711/20261113de75711_E0000174687_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会",
+    "スポーツ"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "プロ野球、巨人は公式ファンクラブの会員情報を管理するシステムがサイバー攻撃を受け、会員のメールアドレス80万件あまりが流出したと発表しました。\n\n\nこれは巨人が公式サイトで発表しました。\n\nそれにより",
+  "articleBody": "プロ野球、巨人は公式ファンクラブの会員情報を管理するシステムがサイバー攻撃を受け、会員のメールアドレス80万件あまりが流出したと発表しました。\n\n\nこれは巨人が公式サイトで発表しました。\n\nそれによりますと、12日、午前中にシステムのサーバーの容量がひっ迫してアクセスができなくなり、球団が調べたところ、外部から繰り返し不正なアクセスを受けて情報の漏えいが確認されたということです。\n\n詳しく調べたところ外部からのサイバー攻撃で、12日午前3時ごろに始まり午前9時ごろまでに会員のメールアドレスのうち80万7030件の流出が、13日午後わかったということです。\n\n球団はただちに攻撃を遮断する措置を講じ、その後のサイバー攻撃は確認されていません。\n\n球団によりますと、このシステムでは、クレジットカードの情報は保持しておらず流出の対象ではないということです。\n\n球団は、個人情報保護委員会に報告したということで、今後はセキュリティ対策を強化し、再発防止を図っていくとしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "プロ野球、巨人は公式ファンクラブの会員情報を管理するシステムがサイバー攻撃を受け、会員のメールアドレス80万件あまりが流出したと発表しました。\n",
+    "markedBody": "これは巨人が公式サイトで発表しました。\n\nそれによりますと、12日、午前中にシステムのサーバーの容量がひっ迫してアクセスができなくなり、球団が調べたところ、外部から繰り返し不正なアクセスを受けて情報の漏えいが確認されたということです。\n\n詳しく調べたところ外部からのサイバー攻撃で、12日午前3時ごろに始まり午前9時ごろまでに会員のメールアドレスのうち80万7030件の流出が、13日午後わかったということです。\n\n球団はただちに攻撃を遮断する措置を講じ、その後のサイバー攻撃は確認されていません。\n\n球団によりますと、このシステムでは、クレジットカードの情報は保持しておらず流出の対象ではないということです。\n\n球団は、個人情報保護委員会に報告したということで、今後はセキュリティ対策を強化し、再発防止を図っていくとしています。\n",
+    "trimmedLead": "プロ野球、巨人は公式ファンクラブの会員情報を管理するシステムがサイバー攻撃を受け、会員のメールアドレス80万件あまりが流出したと発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261113de75711.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261113de75711",
+  "video": [],
+  "citation": [
+    {
+      "name": "マイクロソフトの接続障害「日本は比較的安定した状態続く」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75121",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75121/20261113de75121_E0000170396_1_s.jpg",
+      "datePublished": "2026-11-13T22:46:55+09:00"
+    },
+    {
+      "name": "GMO FX不正取引の補償費用など現時点で30億5000万円想定と発表",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75297",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75297/20261113de75297_E0000171818_1_s.jpg",
+      "datePublished": "2026-11-13T18:56:48+09:00"
+    },
+    {
+      "name": "消費税減税法案 支援金“勤労者5割以上対象で検討”高市首相",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75159",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75159/20261113de75159_E0000171607_1_s.jpg",
+      "datePublished": "2026-11-13T19:36:00+09:00"
+    },
+    {
+      "name": "エヌビディア フアン氏 CEOを辞任 日本での受け止めは",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75212",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75212/20261113de75212_E0000170852_1_s.jpg",
+      "datePublished": "2026-11-13T18:53:00+09:00"
+    },
+    {
+      "name": "大阪市 100万件超の市民らのメールアドレス漏えい",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75397",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75397/20261113de75397_E0000171846_1_s.jpg",
+      "datePublished": "2026-11-13T16:01:00+09:00"
+    },
+    {
+      "name": "北朝鮮ハッカーが“顔泥棒” 暗号資産盗む 米FBI　",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75357",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75357/20261113de75357_E0000171867_1_s.jpg",
+      "datePublished": "2026-11-13T15:24:00+09:00"
+    },
+    {
+      "name": "紅白歌合戦ことしの出場歌手発表 初出場は7組【出場歌手一覧】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75147",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75147/20261113de75147_E0000171862_1_s.jpg",
+      "datePublished": "2026-11-13T19:47:07+09:00"
+    },
+    {
+      "name": "大リーグ 大谷翔平 4年連続5回目のMVP受賞ならず【詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75152",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75152/20261113de75152_E0000170765_1_s.jpg",
+      "datePublished": "2026-11-13T12:18:05+09:00"
+    },
+    {
+      "name": "“取り調べ拒否します” 広がる動き",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261110de73322",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73322/20261110de73322_E0000163293_1_s.jpg",
+      "datePublished": "2026-11-12T14:01:36+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

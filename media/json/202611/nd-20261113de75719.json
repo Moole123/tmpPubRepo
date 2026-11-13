@@ -1,0 +1,125 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261113de75719",
+  "dataSourceId": "nd",
+  "name": "マネックス証券 本人確認の画像データ1592件漏えいか",
+  "headline": "マネックス証券 本人確認の画像データ1592件漏えいか",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261113de75719",
+    "playlistId": "news-nwa-business-nationwide-20261113",
+    "newsarticleName": "マネックス証券 本人確認の画像データ1592件漏えいか",
+    "playlistName": "11月13日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "ネット証券大手のマネックス証券は、口座開設のシステムが不正アクセスを受け、1592件の本人確認のための画像データが漏えいした可能性があると発表しました。\n\n\n発表によりますと、マネックス証券は先月18",
+  "dateModified": "2026-11-13T22:54:39+09:00",
+  "datePublished": "2026-11-13T22:54:39+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75719/20261113de75719_E0000174695_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75719/20261113de75719_E0000174695_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ネット証券大手のマネックス証券は、口座開設のシステムが不正アクセスを受け、1592件の本人確認のための画像データが漏えいした可能性があると発表しました。\n\n\n発表によりますと、マネックス証券は先月18",
+  "articleBody": "ネット証券大手のマネックス証券は、口座開設のシステムが不正アクセスを受け、1592件の本人確認のための画像データが漏えいした可能性があると発表しました。\n\n\n発表によりますと、マネックス証券は先月18日、外部の委託先が運営・管理する口座開設のシステムで不正アクセスを検知し、翌日から口座開設の受付を一部停止して調査を進めていました。\n\nその結果、口座開設に必要な本人確認のための画像データ1592件が漏えいした可能性があることが分かったということです。\n\n漏えいした可能性がある情報には▽運転免許証の表面と裏面、▽マイナンバーカードの表面などが含まれているということです。\n\n一方、個人番号が記載されているマイナンバーカードの裏面の漏えいは確認されていないとしています。\n\nこのほか、2019年10月16日以降にオンラインで口座開設を申し込んだ顧客のメールアドレスが最大113万件漏えいした可能性もあるということです。\n\n一方、口座番号やパスワードなどは同じデータベースには含まれておらず、現時点では漏えいは確認していないとしています。\n\nマネックス証券は「お客様ならびに関係者の皆さまに多大なご心配とご迷惑をおかけしておりますことを深くおわび申し上げます」などとコメントしていて、不審なメールやショートメッセージを受け取った場合は、十分に注意するよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "ネット証券大手のマネックス証券は、口座開設のシステムが不正アクセスを受け、1592件の本人確認のための画像データが漏えいした可能性があると発表しました。\n",
+    "markedBody": "発表によりますと、マネックス証券は先月18日、外部の委託先が運営・管理する口座開設のシステムで不正アクセスを検知し、翌日から口座開設の受付を一部停止して調査を進めていました。\n\nその結果、口座開設に必要な本人確認のための画像データ1592件が漏えいした可能性があることが分かったということです。\n\n漏えいした可能性がある情報には▽運転免許証の表面と裏面、▽マイナンバーカードの表面などが含まれているということです。\n\n一方、個人番号が記載されているマイナンバーカードの裏面の漏えいは確認されていないとしています。\n\nこのほか、2019年10月16日以降にオンラインで口座開設を申し込んだ顧客のメールアドレスが最大113万件漏えいした可能性もあるということです。\n\n一方、口座番号やパスワードなどは同じデータベースには含まれておらず、現時点では漏えいは確認していないとしています。\n\nマネックス証券は「お客様ならびに関係者の皆さまに多大なご心配とご迷惑をおかけしておりますことを深くおわび申し上げます」などとコメントしていて、不審なメールやショートメッセージを受け取った場合は、十分に注意するよう呼びかけています。\n",
+    "trimmedLead": "ネット証券大手のマネックス証券は、口座開設のシステムが不正アクセスを受け、1592件の本人確認のための画像データが漏えいした可能性があると発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261113de75719.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261113de75719",
+  "video": [],
+  "citation": [
+    {
+      "name": "不正アクセス 基本的な対策徹底で官民連携確認 古川デジタル相",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75690",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75690/20261113de75690_E0000173974_1_s.jpg",
+      "datePublished": "2026-11-13T20:53:22+09:00"
+    },
+    {
+      "name": "東芝中間決算 最終利益前年同期比8倍 キオクシア株売却益など",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75685",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75685/20261113de75685_E0000173944_1_s.jpg",
+      "datePublished": "2026-11-13T21:10:26+09:00"
+    },
+    {
+      "name": "3メガバンクの中間決算 金利上昇で過去最高益",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75684",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75684/20261113de75684_E0000173952_1_s.jpg",
+      "datePublished": "2026-11-13T21:10:54+09:00"
+    },
+    {
+      "name": "巨人 ファンクラブ会員のメールアドレス80万件あまり流出",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75711",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75711/20261113de75711_E0000174687_1_s.jpg",
+      "datePublished": "2026-11-13T22:14:49+09:00"
+    },
+    {
+      "name": "マイクロソフトの接続障害「日本は比較的安定した状態続く」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75121",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75121/20261113de75121_E0000170396_1_s.jpg",
+      "datePublished": "2026-11-13T22:46:55+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

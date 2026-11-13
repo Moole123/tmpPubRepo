@@ -1,0 +1,149 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261114de75755",
+  "dataSourceId": "nd",
+  "name": "マイクロソフト 接続障害「広範囲にわたる復旧がみられる」",
+  "headline": "マイクロソフト 接続障害「広範囲にわたる復旧がみられる」",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261114de75755",
+    "playlistId": "news-nwa-international-nationwide-20261114",
+    "newsarticleName": "マイクロソフト 接続障害「広範囲にわたる復旧がみられる」",
+    "playlistName": "11月14日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "アメリカのIT大手、マイクロソフトは、「マイクロソフト365」と呼ばれるサービスで発生した大規模な接続障害について、日本時間の14日午前3時すぎ「広範囲にわたる復旧がみられる」とSNSに投稿しました。",
+  "dateModified": "2026-11-14T05:48:54+09:00",
+  "datePublished": "2026-11-14T05:25:09+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75755/20261114de75755_E0000174793_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75755/20261114de75755_E0000174793_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000010122",
+      "name": "マイクロソフト接続障害",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    },
+    {
+      "id": "E0000000419",
+      "name": "アメリカ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "アメリカのIT大手、マイクロソフトは、「マイクロソフト365」と呼ばれるサービスで発生した大規模な接続障害について、日本時間の14日午前3時すぎ「広範囲にわたる復旧がみられる」とSNSに投稿しました。",
+  "articleBody": "アメリカのIT大手、マイクロソフトは、「マイクロソフト365」と呼ばれるサービスで発生した大規模な接続障害について、日本時間の14日午前3時すぎ「広範囲にわたる復旧がみられる」とSNSに投稿しました。一方で、日本時間の14日午前5時すぎの投稿では「現時点では、完全な復旧の見込みは立っていない」としています。\n\n\nマイクロソフトは日本時間の13日午前3時ごろ、SNSへの投稿で「マイクロソフト365」と呼ばれるサービスで接続障害が発生していると明らかにし、メールソフト「アウトルック」を処理するシステムやオンライン会議ソフトの「チームズ」などの利用に影響が出る事態となりました。\n\nマイクロソフトは日本時間の13日夜11時ごろ、「サービスの利用状況について改善がみられる。処理が保留されているメールの数が大幅に減少し、通常のレベルに近づいている」とSNSに投稿しました。\n\nそのうえで、復旧作業が続いている間、一部の利用者では断続的なアクセス障害やメール配信の遅延といった問題が発生する可能性があるとしています。\n\nその後、日本時間の14日午前3時すぎの投稿では、「広範囲にわたる復旧がみられる」としたうえで、接続障害の原因については「サイバー攻撃やAIエージェントとは関係のない、技術的な問題だった」とし、引き続き調査を行う方針を示しました。\n\n一方で、日本時間の14日午前5時すぎの投稿では「現時点では、完全な復旧の見込みは立っていない」としています。\n\nマイクロソフトは「利用者が日々の重要な業務を行うためにわれわれのサービスを頼りにしていることを理解している。今回の障害による影響について深くおわび申し上げる」と謝罪のメッセージをSNSに投稿しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカのIT大手、マイクロソフトは、「マイクロソフト365」と呼ばれるサービスで発生した大規模な接続障害について、日本時間の14日午前3時すぎ「広範囲にわたる復旧がみられる」とSNSに投稿しました。一方で、日本時間の14日午前5時すぎの投稿では「現時点では、完全な復旧の見込みは立っていない」としています。\n",
+    "markedBody": "マイクロソフトは日本時間の13日午前3時ごろ、SNSへの投稿で「マイクロソフト365」と呼ばれるサービスで接続障害が発生していると明らかにし、メールソフト「アウトルック」を処理するシステムやオンライン会議ソフトの「チームズ」などの利用に影響が出る事態となりました。\n\nマイクロソフトは日本時間の13日夜11時ごろ、「サービスの利用状況について改善がみられる。処理が保留されているメールの数が大幅に減少し、通常のレベルに近づいている」とSNSに投稿しました。\n\nそのうえで、復旧作業が続いている間、一部の利用者では断続的なアクセス障害やメール配信の遅延といった問題が発生する可能性があるとしています。\n\nその後、日本時間の14日午前3時すぎの投稿では、「広範囲にわたる復旧がみられる」としたうえで、接続障害の原因については「サイバー攻撃やAIエージェントとは関係のない、技術的な問題だった」とし、引き続き調査を行う方針を示しました。\n\n一方で、日本時間の14日午前5時すぎの投稿では「現時点では、完全な復旧の見込みは立っていない」としています。\n\nマイクロソフトは「利用者が日々の重要な業務を行うためにわれわれのサービスを頼りにしていることを理解している。今回の障害による影響について深くおわび申し上げる」と謝罪のメッセージをSNSに投稿しています。\n",
+    "trimmedLead": "アメリカのIT大手、マイクロソフトは、「マイクロソフト365」と呼ばれるサービスで発生した大規模な接続障害について、日本時間の14日午前3時すぎ「広範囲にわたる復旧がみられる」とSNSに投稿しました。一方で、日本時間の14日午前5時すぎの投稿では「現時点では、完全な復旧の見込みは立っていない」としています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261114de75755.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261114de75755",
+  "video": [],
+  "citation": [
+    {
+      "name": "マイクロソフトの障害 在宅勤務の人はどう対応した？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75652",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75652/20261113de75652_E0000173795_1_s.jpg",
+      "datePublished": "2026-11-13T19:44:01+09:00"
+    },
+    {
+      "name": "マイクロソフトの障害 メールの相談や課題提出できない大学も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75596",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75596/20261113de75596_E0000172118_1_s.jpg",
+      "datePublished": "2026-11-13T18:39:12+09:00"
+    },
+    {
+      "name": "マイクロソフト障害でラジオ局 リスナーのお便り届かず ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75511",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75511/20261113de75511_E0000171916_1_s.jpg",
+      "datePublished": "2026-11-13T17:56:27+09:00"
+    },
+    {
+      "name": "マイクロソフト 接続障害 自治体や企業などでは",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75337",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75337/20261113de75337_E0000171878_1_s.jpg",
+      "datePublished": "2026-11-13T23:20:55+09:00"
+    },
+    {
+      "name": "エヌビディア先端半導体輸出 ラトニック商務長官の責任論浮上",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261114de75753",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75753/20261114de75753_E0000174792_1_s.jpg",
+      "datePublished": "2026-11-14T06:20:07+09:00"
+    },
+    {
+      "name": "イラン バーレーンの米軍通信設備を攻撃と発表",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75728",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75728/20261113de75728_E0000004049_1_s.jpg",
+      "datePublished": "2026-11-14T00:35:00+09:00"
+    },
+    {
+      "name": "日本とメキシコの外相 有識者会議で中長期の戦略的関係議論へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75730",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75730/20261113de75730_E0000174757_1_s.jpg",
+      "datePublished": "2026-11-13T23:43:49+09:00"
+    },
+    {
+      "name": "北朝鮮ハッカーが“顔泥棒” 暗号資産盗む 米FBI　",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75357",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75357/20261113de75357_E0000171867_1_s.jpg",
+      "datePublished": "2026-11-13T15:24:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

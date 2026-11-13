@@ -1,0 +1,142 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261113de75652",
+  "dataSourceId": "nd",
+  "name": "マイクロソフトの障害 在宅勤務の人はどう対応した？",
+  "headline": "マイクロソフトの障害 在宅勤務の人はどう対応した？",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261113de75652",
+    "playlistId": "news-nwa-scienceculture-nationwide-20261113",
+    "newsarticleName": "マイクロソフトの障害 在宅勤務の人はどう対応した？",
+    "playlistName": "11月13日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "「マイクロソフト」のサービスで発生した障害は、在宅勤務をする人にも影響が出ています。\n\n\n都内のコンサルティング会社に勤める横山倫太郎さんは、育児のため週2日ほど、在宅勤務をしています。\n\n人事部に所",
+  "dateModified": "2026-11-13T19:44:01+09:00",
+  "datePublished": "2026-11-13T19:44:01+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75652/20261113de75652_E0000173795_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75652/20261113de75652_E0000173795_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "科学・文化",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000010122",
+      "name": "マイクロソフト接続障害",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000419",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    },
+    {
+      "id": "E0000000131",
+      "name": "仕事・働き方",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "「マイクロソフト」のサービスで発生した障害は、在宅勤務をする人にも影響が出ています。\n\n\n都内のコンサルティング会社に勤める横山倫太郎さんは、育児のため週2日ほど、在宅勤務をしています。\n\n人事部に所",
+  "articleBody": "「マイクロソフト」のサービスで発生した障害は、在宅勤務をする人にも影響が出ています。\n\n\n都内のコンサルティング会社に勤める横山倫太郎さんは、育児のため週2日ほど、在宅勤務をしています。\n\n人事部に所属する横山さんは、社員のキャリア相談など面接の仕事が多く、予定の共有にマイクロソフトのサービス「Outlook」を利用していました。\n\nしかし、13日のシステム障害で、「Outlook」が使えなくなったため、ひとりひとりの社員と電話やチャットアプリで直接やりとりをしながら、紙の手帳に手書きで予定を書き込んでいました。\n\n横山さんは、「障害が今後も続けば、やり方を大きく変えないといけないので困っています。いざとなったらアナログというか、使い慣れている手帳が効率的だと思う」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "「マイクロソフト」のサービスで発生した障害は、在宅勤務をする人にも影響が出ています。\n",
+    "markedBody": "都内のコンサルティング会社に勤める横山倫太郎さんは、育児のため週2日ほど、在宅勤務をしています。\n\n人事部に所属する横山さんは、社員のキャリア相談など面接の仕事が多く、予定の共有にマイクロソフトのサービス「Outlook」を利用していました。\n\nしかし、13日のシステム障害で、「Outlook」が使えなくなったため、ひとりひとりの社員と電話やチャットアプリで直接やりとりをしながら、紙の手帳に手書きで予定を書き込んでいました。\n\n横山さんは、「障害が今後も続けば、やり方を大きく変えないといけないので困っています。いざとなったらアナログというか、使い慣れている手帳が効率的だと思う」と話していました。\n",
+    "trimmedLead": "「マイクロソフト」のサービスで発生した障害は、在宅勤務をする人にも影響が出ています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261113de75652.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261113de75652",
+  "video": [],
+  "citation": [
+    {
+      "name": "マイクロソフトの接続障害「日本は比較的安定した状態続く」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75121",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75121/20261113de75121_E0000170396_1_s.jpg",
+      "datePublished": "2026-11-13T22:46:55+09:00"
+    },
+    {
+      "name": "マイクロソフト障害でラジオ局 リスナーのお便り届かず ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75511",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75511/20261113de75511_E0000171916_1_s.jpg",
+      "datePublished": "2026-11-13T17:56:27+09:00"
+    },
+    {
+      "name": "マイクロソフト 接続障害 自治体や企業などでは",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75337",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75337/20261113de75337_E0000171878_1_s.jpg",
+      "datePublished": "2026-11-13T23:20:55+09:00"
+    },
+    {
+      "name": "マイクロソフトの障害 メールの相談や課題提出できない大学も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75596",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75596/20261113de75596_E0000172118_1_s.jpg",
+      "datePublished": "2026-11-13T18:39:12+09:00"
+    },
+    {
+      "name": "GMO FX不正取引の補償費用など現時点で30億5000万円想定と発表",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75297",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75297/20261113de75297_E0000171818_1_s.jpg",
+      "datePublished": "2026-11-13T18:56:48+09:00"
+    },
+    {
+      "name": "エヌビディア フアン氏 CEOを辞任 日本での受け止めは",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75212",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75212/20261113de75212_E0000170852_1_s.jpg",
+      "datePublished": "2026-11-13T18:53:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
