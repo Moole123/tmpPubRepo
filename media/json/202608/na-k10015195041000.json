@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015195041000",
+  "dataSourceId": "na",
+  "name": "天皇ご一家 熊本地震で被災した人たちに側近を通じお見舞い",
+  "headline": "天皇ご一家 熊本地震で被災した人たちに側近を通じお見舞い",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015195041000",
+    "playlistId": "news-nwa-disaster-nationwide-20260803",
+    "newsarticleName": "天皇ご一家 熊本地震で被災した人たちに側近を通じお見舞い",
+    "playlistName": "8月3日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "天皇ご一家は、今回の熊本地震で被災した人たちに対し3日、側近を通じてお見舞いの気持ちなどを伝えられました。\n\n\n熊本県によりますと、天皇皇后両陛下と長女の愛子さまは3日、側近を通じて木村知事に、地震で",
+  "dateModified": "2026-08-03T17:09:43+09:00",
+  "datePublished": "2026-08-03T17:09:43+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260803/K10015195041_2608031653_0803170944_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260803/K10015195041_2608031653_0803170944_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "気象・災害",
+    "社会"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "天皇ご一家は、今回の熊本地震で被災した人たちに対し3日、側近を通じてお見舞いの気持ちなどを伝えられました。\n\n\n熊本県によりますと、天皇皇后両陛下と長女の愛子さまは3日、側近を通じて木村知事に、地震で",
+  "articleBody": "天皇ご一家は、今回の熊本地震で被災した人たちに対し3日、側近を通じてお見舞いの気持ちなどを伝えられました。\n\n\n熊本県によりますと、天皇皇后両陛下と長女の愛子さまは3日、側近を通じて木村知事に、地震で亡くなった人への哀悼の気持ちや、被災した人たちへのお見舞いの気持ち、そして支援活動や応急・復旧活動にあたる人たちへのねぎらいの気持ちを伝えられたということです。\n\n天皇ご一家はとりわけ、断水が続いて厳しい暑さの中で避難生活を送っている人たちに心を寄せられているということです。\n\n熊本の人たちが10年前の地震の被害から復興への歩みを進める中、再び被災したことに心を痛め、1日も早く、安心して日々の生活を取り戻すこと被災地の復旧・復興が着実に進むことを願われているということです。\n\n天皇ご一家は3日から静岡県下田市で静養に入る予定でしたが、今回の地震を受けて取りやめられています。\n",
+  "detailedArticleBody": {
+    "markedLead": "天皇ご一家は、今回の熊本地震で被災した人たちに対し3日、側近を通じてお見舞いの気持ちなどを伝えられました。\n",
+    "markedBody": "熊本県によりますと、天皇皇后両陛下と長女の愛子さまは3日、側近を通じて木村知事に、地震で亡くなった人への哀悼の気持ちや、被災した人たちへのお見舞いの気持ち、そして支援活動や応急・復旧活動にあたる人たちへのねぎらいの気持ちを伝えられたということです。\n\n天皇ご一家はとりわけ、断水が続いて厳しい暑さの中で避難生活を送っている人たちに心を寄せられているということです。\n\n熊本の人たちが10年前の地震の被害から復興への歩みを進める中、再び被災したことに心を痛め、1日も早く、安心して日々の生活を取り戻すこと被災地の復旧・復興が着実に進むことを願われているということです。\n\n天皇ご一家は3日から静岡県下田市で静養に入る予定でしたが、今回の地震を受けて取りやめられています。\n",
+    "trimmedLead": "天皇ご一家は、今回の熊本地震で被災した人たちに対し3日、側近を通じてお見舞いの気持ちなどを伝えられました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015195041000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015195041000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

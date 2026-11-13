@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "na-k10015195091000",
+  "dataSourceId": "na",
+  "name": "日本版GPS衛星「みちびき7号機」 7日の打ち上げは延期 台風影響で JAXA",
+  "headline": "「みちびき7号機」7日の打ち上げは延期 台風影響で JAXA",
+  "identifierGroup": {
+    "newsarticleId": "na-k10015195091000",
+    "playlistId": "news-nwa-scienceculture-nationwide-20260803",
+    "newsarticleName": "日本版GPS衛星「みちびき7号機」 7日の打ち上げは延期 台風影響で JAXA",
+    "playlistName": "8月3日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "今月7日、鹿児島県の種子島宇宙センターからH3ロケットで打ち上げられる予定だった、日本版GPS衛星「みちびき」の7号機について、JAXA＝宇宙航空研究開発機構は、台風13号の影響で天候の悪化が予想され",
+  "dateModified": "2026-08-03T17:43:56+09:00",
+  "datePublished": "2026-08-03T17:43:56+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260803/K10015195091_2608031714_0803174357_02_01.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/html/20260803/K10015195091_2608031714_0803174357_01_02.jpg",
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "genre": [
+    "科学・文化"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "今月7日、鹿児島県の種子島宇宙センターからH3ロケットで打ち上げられる予定だった、日本版GPS衛星「みちびき」の7号機について、JAXA＝宇宙航空研究開発機構は、台風13号の影響で天候の悪化が予想され",
+  "articleBody": "今月7日、鹿児島県の種子島宇宙センターからH3ロケットで打ち上げられる予定だった、日本版GPS衛星「みちびき」の7号機について、JAXA＝宇宙航空研究開発機構は、台風13号の影響で天候の悪化が予想されるとして、打ち上げを延期すると発表しました。\n\n\n日本版GPS衛星とも呼ばれる「みちびき」の7号機は、位置を特定する機能を持つ人工衛星で、今月7日、種子島宇宙センターからH3ロケット9号機で打ち上げられる予定でした。\n\nJAXAは3日、台風13号の影響で天候の悪化が予想されるとして、打ち上げの延期を発表しました。\n\n新たな打ち上げ日は未定で、決まりしだい発表するとしています。\n\n「みちびき7号機」は当初ことし2月に打ち上げられる予定でしたが、去年12月にH3ロケット8号機の打ち上げが失敗したことを受けて延期されていました。\n",
+  "detailedArticleBody": {
+    "markedLead": "今月7日、鹿児島県の種子島宇宙センターからH3ロケットで打ち上げられる予定だった、日本版GPS衛星「みちびき」の7号機について、JAXA＝宇宙航空研究開発機構は、台風13号の影響で天候の悪化が予想されるとして、打ち上げを延期すると発表しました。\n",
+    "markedBody": "日本版GPS衛星とも呼ばれる「みちびき」の7号機は、位置を特定する機能を持つ人工衛星で、今月7日、種子島宇宙センターからH3ロケット9号機で打ち上げられる予定でした。\n\nJAXAは3日、台風13号の影響で天候の悪化が予想されるとして、打ち上げの延期を発表しました。\n\n新たな打ち上げ日は未定で、決まりしだい発表するとしています。\n\n「みちびき7号機」は当初ことし2月に打ち上げられる予定でしたが、去年12月にH3ロケット8号機の打ち上げが失敗したことを受けて延期されていました。\n",
+    "trimmedLead": "今月7日、鹿児島県の種子島宇宙センターからH3ロケットで打ち上げられる予定だった、日本版GPS衛星「みちびき」の7号機について、JAXA＝宇宙航空研究開発機構は、台風13号の影響で天候の悪化が予想されるとして、打ち上げを延期すると発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/na-k10015195091000.json",
+  "canonical": "https://news.web.nhk/newsweb/na/na-k10015195091000",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
