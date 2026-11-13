@@ -1,0 +1,173 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261112de75099",
+  "dataSourceId": "nd",
+  "name": "最高検が生成AIの捜査などへの使用で指針 全国の検察庁に周知",
+  "headline": "最高検が生成AIの捜査などへの使用で指針 全国の検察庁に周知",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261112de75099",
+    "playlistId": "news-nwa-society-nationwide-20261113",
+    "newsarticleName": "最高検が生成AIの捜査などへの使用で指針 全国の検察庁に周知",
+    "playlistName": "11月13日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "最高検察庁が、生成AIを暗号資産の取引に関わる捜査など一部の業務で使用できるとする指針をまとめ、全国の検察庁に周知したことが関係者への取材でわかりました。\n\n複雑化する資金の流れの解明などにつなげる狙",
+  "dateModified": "2026-11-13T05:25:00+09:00",
+  "datePublished": "2026-11-13T05:25:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de75099/20261112de75099_E0000170380_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de75099/20261112de75099_E0000170380_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000208",
+      "name": "事件・事故",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "最高検察庁が、生成AIを暗号資産の取引に関わる捜査など一部の業務で使用できるとする指針をまとめ、全国の検察庁に周知したことが関係者への取材でわかりました。\n\n複雑化する資金の流れの解明などにつなげる狙",
+  "articleBody": "最高検察庁が、生成AIを暗号資産の取引に関わる捜査など一部の業務で使用できるとする指針をまとめ、全国の検察庁に周知したことが関係者への取材でわかりました。\n\n複雑化する資金の流れの解明などにつなげる狙いがあるとみられます。\n\n\n生成AIをめぐっては、政府が官公庁での活用を進めるとする方針を示しています。\n\nこうしたなか、最高検察庁が生成AIについての指針をまとめ、先月、全国の検察庁に周知したことが、関係者への取材でわかりました。\n\nこの中では、生成AIを使用できる業務として、暗号資産の取引を追跡していく捜査や、医療分野など専門的な論文が捜査や裁判で必要になった際の要約や翻訳が挙げられています。\n\n暗号資産の取引をめぐっては、「トクリュウ」＝匿名・流動型犯罪グループなどが発覚を免れるために犯罪で得た資金を洗浄しているケースもあり、複雑化する資金の流れの解明などにつなげる狙いがあるとみられます。\n\n一方、生成AIを活用する際には、情報の漏えいや間違った回答をするリスクがあるため、指針には、使用できるのは指定された一部の生成AIに限り、正確性や客観性を確認すること、機密性の高い情報は入力しないこと、あくまで業務の参考や補助として使用することなどが注意点として挙げられているということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "最高検察庁が、生成AIを暗号資産の取引に関わる捜査など一部の業務で使用できるとする指針をまとめ、全国の検察庁に周知したことが関係者への取材でわかりました。\n\n複雑化する資金の流れの解明などにつなげる狙いがあるとみられます。\n",
+    "markedBody": "生成AIをめぐっては、政府が官公庁での活用を進めるとする方針を示しています。\n\nこうしたなか、最高検察庁が生成AIについての指針をまとめ、先月、全国の検察庁に周知したことが、関係者への取材でわかりました。\n\nこの中では、生成AIを使用できる業務として、暗号資産の取引を追跡していく捜査や、医療分野など専門的な論文が捜査や裁判で必要になった際の要約や翻訳が挙げられています。\n\n暗号資産の取引をめぐっては、「トクリュウ」＝匿名・流動型犯罪グループなどが発覚を免れるために犯罪で得た資金を洗浄しているケースもあり、複雑化する資金の流れの解明などにつなげる狙いがあるとみられます。\n\n一方、生成AIを活用する際には、情報の漏えいや間違った回答をするリスクがあるため、指針には、使用できるのは指定された一部の生成AIに限り、正確性や客観性を確認すること、機密性の高い情報は入力しないこと、あくまで業務の参考や補助として使用することなどが注意点として挙げられているということです。\n",
+    "trimmedLead": "最高検察庁が、生成AIを暗号資産の取引に関わる捜査など一部の業務で使用できるとする指針をまとめ、全国の検察庁に周知したことが関係者への取材でわかりました。\n\n複雑化する資金の流れの解明などにつなげる狙いがあるとみられます。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261112de75099.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261112de75099",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "最高検が生成AIの捜査などへの使用で指針 全国の検察庁に周知",
+      "description": "最高検察庁が、生成AIを暗号資産の取引に関わる捜査など一部の業務で使用できるとする指針をまとめ、全国の検察庁に周知したことが関係者への取材でわかりました。\n\n複雑化する資金の流れの解明などにつなげる狙",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261112de75099_E0000170431_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261112de75099/20261112de75099_E0000170380_1_l.jpg",
+      "duration": "PT1M24S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261112de75099_E0000170431_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de75099/20261112de75099_E0000170380_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "無印良品 展開の良品計画 顧客情報漏えいで会見 社長陳謝",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de74562",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74562/20261112de74562_E0000167669_1_s.jpg",
+      "datePublished": "2026-11-12T19:33:28+09:00"
+    },
+    {
+      "name": "首都圏で食品スーパーを展開の会社 約6.4万件の個人情報流出か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de75046",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de75046/20261112de75046_E0000169700_1_s.jpg",
+      "datePublished": "2026-11-12T20:44:55+09:00"
+    },
+    {
+      "name": "セキュリティーサービス企業に不正アクセス 顧客情報漏えいか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de75041",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de75041/20261112de75041_E0000147912_1_s.jpg",
+      "datePublished": "2026-11-12T20:39:02+09:00"
+    },
+    {
+      "name": "不二家 メルマガ会員のアドレス 最大で約15万件流出のおそれ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de75040",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de75040/20261112de75040_E0000169656_1_s.jpg",
+      "datePublished": "2026-11-12T20:14:32+09:00"
+    },
+    {
+      "name": "山本がオールMLBセカンドチームに 大谷は6年連続の選出逃す",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de74739",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74739/20261112de74739_E0000169487_1_s.jpg",
+      "datePublished": "2026-11-12T20:21:00+09:00"
+    },
+    {
+      "name": "冬の電気・ガス料金支援など 予備費およそ6500億円支出へ 政府",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de74827",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74827/20261112de74827_E0000167713_1_s.jpg",
+      "datePublished": "2026-11-12T16:42:00+09:00"
+    },
+    {
+      "name": "ソニー生命 一部社員の営業活動停止 金銭不正授受問題",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de74832",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74832/20261112de74832_E0000167704_1_s.jpg",
+      "datePublished": "2026-11-12T16:41:00+09:00"
+    },
+    {
+      "name": "養鶏場で今シーズン初 鳥インフルエンザ感染確認 卵価格影響は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de74535",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74535/20261112de74535_E0000167829_1_s.jpg",
+      "datePublished": "2026-11-12T19:41:48+09:00"
+    },
+    {
+      "name": "自民 維新 国民 定数31削減法案を共同提出“今国会成立を”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de74738",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74738/20261112de74738_E0000167546_1_s.jpg",
+      "datePublished": "2026-11-12T19:06:00+09:00"
+    },
+    {
+      "name": "“取り調べ拒否します” 広がる動き",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261110de73322",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73322/20261110de73322_E0000163293_1_s.jpg",
+      "datePublished": "2026-11-12T14:01:36+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

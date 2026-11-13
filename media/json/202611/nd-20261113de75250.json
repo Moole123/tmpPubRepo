@@ -1,0 +1,143 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261113de75250",
+  "dataSourceId": "nd",
+  "name": "株価 値上がり AI・半導体関連銘柄に買い注文",
+  "headline": "株価 値上がり AI・半導体関連銘柄に買い注文",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261113de75250",
+    "playlistId": "news-nwa-business-nationwide-20261113",
+    "newsarticleName": "株価 値上がり AI・半導体関連銘柄に買い注文",
+    "playlistName": "11月13日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "13日の東京株式市場、値下がりしていたAI・半導体関連の銘柄に買い注文が出て、日経平均株価は値上がりしています。\n\n\n▽日経平均株価、午前の終値は、12日の終値と比べ997円36銭高い6万1816円7",
+  "dateModified": "2026-11-13T12:37:02+09:00",
+  "datePublished": "2026-11-13T12:37:02+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75250/20261113de75250_E0000170899_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75250/20261113de75250_E0000170899_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000157",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000475",
+      "name": "半導体",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "13日の東京株式市場、値下がりしていたAI・半導体関連の銘柄に買い注文が出て、日経平均株価は値上がりしています。\n\n\n▽日経平均株価、午前の終値は、12日の終値と比べ997円36銭高い6万1816円7",
+  "articleBody": "13日の東京株式市場、値下がりしていたAI・半導体関連の銘柄に買い注文が出て、日経平均株価は値上がりしています。\n\n\n▽日経平均株価、午前の終値は、12日の終値と比べ997円36銭高い6万1816円72銭。\n\n▽東証株価指数、トピックスは30.21上がって3967.54。\n\n▽午前の出来高は10億7814万株でした。\n\n市場関係者は「AI・半導体業界の中心人物だったエヌビディアのトップの辞任が伝わったが、ニューヨーク市場では取引終了にかけてこの企業の株価の下げ幅は縮小した。東京市場ではきのうの時点ですでにリスクを織り込んでAI・半導体関連の銘柄が値下がりしていたため、きょう午前中は逆に買い注文につながった」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "13日の東京株式市場、値下がりしていたAI・半導体関連の銘柄に買い注文が出て、日経平均株価は値上がりしています。\n",
+    "markedBody": "▽日経平均株価、午前の終値は、12日の終値と比べ997円36銭高い6万1816円72銭。\n\n▽東証株価指数、トピックスは30.21上がって3967.54。\n\n▽午前の出来高は10億7814万株でした。\n\n市場関係者は「AI・半導体業界の中心人物だったエヌビディアのトップの辞任が伝わったが、ニューヨーク市場では取引終了にかけてこの企業の株価の下げ幅は縮小した。東京市場ではきのうの時点ですでにリスクを織り込んでAI・半導体関連の銘柄が値下がりしていたため、きょう午前中は逆に買い注文につながった」と話しています。\n",
+    "trimmedLead": "13日の東京株式市場、値下がりしていたAI・半導体関連の銘柄に買い注文が出て、日経平均株価は値上がりしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261113de75250.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261113de75250",
+  "video": [],
+  "citation": [
+    {
+      "name": "【速報中】マイクロソフトで接続障害 世界各地で影響も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75121",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75121/20261113de75121_E0000170396_1_s.jpg",
+      "datePublished": "2026-11-13T13:59:17+09:00"
+    },
+    {
+      "name": "エヌビディア フアンCEOが辞任 業界全体に影響も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de75078",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de75078/20261112de75078_E0000170371_1_s.jpg",
+      "datePublished": "2026-11-13T12:23:37+09:00"
+    },
+    {
+      "name": "円相場 一時1ドル＝160円台まで値下がり 約2か月ぶり円安水準",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75110",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75110/20261113de75110_E0000003666_1_s.jpg",
+      "datePublished": "2026-11-13T10:16:48+09:00"
+    },
+    {
+      "name": "山崎正昭元参議院議長が死去 84歳",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75154",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75154/20261113de75154_E0000170757_1_s.jpg",
+      "datePublished": "2026-11-13T10:42:00+09:00"
+    },
+    {
+      "name": "山形 寒河江 住宅火災で3人の遺体 3人居住 連絡とれず",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75126",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75126/20261113de75126_E0000170439_1_s.jpg",
+      "datePublished": "2026-11-13T09:31:00+09:00"
+    },
+    {
+      "name": "広島 3人死亡火災 同居の32歳長男が火つけたか 放火容疑で逮捕",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75122",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75122/20261113de75122_E0000170404_1_s.jpg",
+      "datePublished": "2026-11-13T12:24:45+09:00"
+    },
+    {
+      "name": "大リーグ 大谷翔平 4年連続5回目のMVP受賞ならず【詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75152",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75152/20261113de75152_E0000170765_1_s.jpg",
+      "datePublished": "2026-11-13T12:18:05+09:00"
+    },
+    {
+      "name": "“取り調べ拒否します” 広がる動き",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261110de73322",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73322/20261110de73322_E0000163293_1_s.jpg",
+      "datePublished": "2026-11-12T14:01:36+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
