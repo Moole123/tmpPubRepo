@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261113de75538",
+  "dataSourceId": "nd",
+  "name": "内閣府 沖縄関連サイト 約6000人分のアドレスなど漏えいおそれ",
+  "headline": "内閣府 沖縄関連サイト 約6000人分のアドレスなど漏えいおそれ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261113de75538",
+    "playlistId": "news-nwa-politics-nationwide-20261113",
+    "newsarticleName": "内閣府 沖縄関連サイト 約6000人分のアドレスなど漏えいおそれ",
+    "playlistName": "11月13日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "内閣府は、沖縄県の魅力を発信するポータルサイトのサーバーが不正アクセスを受けた影響で、このサイトで実施されたフォトコンテストなどに応募したおよそ6000人分の電話番号とメールアドレスが漏えいしたおそれ",
+  "dateModified": "2026-11-13T18:00:56+09:00",
+  "datePublished": "2026-11-13T18:00:56+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75538/20261113de75538_E0000171994_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75538/20261113de75538_E0000171994_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000678",
+      "name": "内閣府",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "内閣府は、沖縄県の魅力を発信するポータルサイトのサーバーが不正アクセスを受けた影響で、このサイトで実施されたフォトコンテストなどに応募したおよそ6000人分の電話番号とメールアドレスが漏えいしたおそれ",
+  "articleBody": "内閣府は、沖縄県の魅力を発信するポータルサイトのサーバーが不正アクセスを受けた影響で、このサイトで実施されたフォトコンテストなどに応募したおよそ6000人分の電話番号とメールアドレスが漏えいしたおそれがあると発表しました。\n\n\n内閣府によりますと、漏えいしたおそれがあるのは、内閣府の委託事業として、沖縄県の魅力を発信するポータルサイトで実施されたフォトコンテストなどに応募した5973人分の電話番号とメールアドレスなどです。\n\n内閣府は、サイトを運営する委託先が使用したサーバーが不正アクセスを受けたことが原因だとしています。\n\n現時点で、漏えいした情報が悪用される2次被害は確認されていないとしていますが、今後、悪用される可能性は否定できないとして、身に覚えのない連絡や不審なメールに注意するよう呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "内閣府は、沖縄県の魅力を発信するポータルサイトのサーバーが不正アクセスを受けた影響で、このサイトで実施されたフォトコンテストなどに応募したおよそ6000人分の電話番号とメールアドレスが漏えいしたおそれがあると発表しました。\n",
+    "markedBody": "内閣府によりますと、漏えいしたおそれがあるのは、内閣府の委託事業として、沖縄県の魅力を発信するポータルサイトで実施されたフォトコンテストなどに応募した5973人分の電話番号とメールアドレスなどです。\n\n内閣府は、サイトを運営する委託先が使用したサーバーが不正アクセスを受けたことが原因だとしています。\n\n現時点で、漏えいした情報が悪用される2次被害は確認されていないとしていますが、今後、悪用される可能性は否定できないとして、身に覚えのない連絡や不審なメールに注意するよう呼びかけています。\n",
+    "trimmedLead": "内閣府は、沖縄県の魅力を発信するポータルサイトのサーバーが不正アクセスを受けた影響で、このサイトで実施されたフォトコンテストなどに応募したおよそ6000人分の電話番号とメールアドレスが漏えいしたおそれがあると発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261113de75538.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261113de75538",
+  "video": [],
+  "citation": [
+    {
+      "name": "【更新中】マイクロソフトで接続障害 世界各地で影響広がる",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75121",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75121/20261113de75121_E0000170396_1_s.jpg",
+      "datePublished": "2026-11-13T18:05:39+09:00"
+    },
+    {
+      "name": "GMO FX不正取引の補償費用など現時点で30億5000万円想定と発表",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75297",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75297/20261113de75297_E0000171818_1_s.jpg",
+      "datePublished": "2026-11-13T18:56:48+09:00"
+    },
+    {
+      "name": "消費税減税法案 支援金“勤労者5割以上対象で検討” 高市首相",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75159",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75159/20261113de75159_E0000171607_1_s.jpg",
+      "datePublished": "2026-11-13T16:00:22+09:00"
+    },
+    {
+      "name": "エヌビディア フアン氏 CEOを辞任 日本での受け止めは",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75212",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75212/20261113de75212_E0000170852_1_s.jpg",
+      "datePublished": "2026-11-13T18:53:38+09:00"
+    },
+    {
+      "name": "大阪市 100万件超の市民らのメールアドレス漏えい",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75397",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75397/20261113de75397_E0000171846_1_s.jpg",
+      "datePublished": "2026-11-13T16:01:00+09:00"
+    },
+    {
+      "name": "北朝鮮ハッカーが“顔泥棒” 暗号資産盗む 米FBI　",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75357",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75357/20261113de75357_E0000171867_1_s.jpg",
+      "datePublished": "2026-11-13T15:24:00+09:00"
+    },
+    {
+      "name": "紅白歌合戦ことしの出場歌手発表 初出場は7組【出場歌手一覧】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75147",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75147/20261113de75147_E0000171862_1_s.jpg",
+      "datePublished": "2026-11-13T18:41:42+09:00"
+    },
+    {
+      "name": "大リーグ 大谷翔平 4年連続5回目のMVP受賞ならず【詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75152",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75152/20261113de75152_E0000170765_1_s.jpg",
+      "datePublished": "2026-11-13T12:18:05+09:00"
+    },
+    {
+      "name": "“取り調べ拒否します” 広がる動き",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261110de73322",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73322/20261110de73322_E0000163293_1_s.jpg",
+      "datePublished": "2026-11-12T14:01:36+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}

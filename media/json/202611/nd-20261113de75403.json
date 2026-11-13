@@ -1,0 +1,173 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261113de75403",
+  "dataSourceId": "nd",
+  "name": "武部農相の資産公開 前の大臣の辞任を受け",
+  "headline": "武部農相の資産公開 前の大臣の辞任を受け",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261113de75403",
+    "playlistId": "news-nwa-politics-nationwide-20261113",
+    "newsarticleName": "武部農相の資産公開 前の大臣の辞任を受け",
+    "playlistName": "11月13日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "前の大臣の辞任を受けて、先月就任した武部農林水産大臣の資産が公開されました。\n\n\n今回、公開の対象になったのは、前の大臣の辞任を受けて、先月15日に就任した武部農林水産大臣の資産です。\n\n公開された資",
+  "dateModified": "2026-11-13T17:05:00+09:00",
+  "datePublished": "2026-11-13T17:05:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75403/20261113de75403_E0000171853_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75403/20261113de75403_E0000171853_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "E0000000640",
+      "name": "高市内閣",
+      "display": true
+    },
+    {
+      "id": "E0000000456",
+      "name": "農林水産省",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "前の大臣の辞任を受けて、先月就任した武部農林水産大臣の資産が公開されました。\n\n\n今回、公開の対象になったのは、前の大臣の辞任を受けて、先月15日に就任した武部農林水産大臣の資産です。\n\n公開された資",
+  "articleBody": "前の大臣の辞任を受けて、先月就任した武部農林水産大臣の資産が公開されました。\n\n\n今回、公開の対象になったのは、前の大臣の辞任を受けて、先月15日に就任した武部農林水産大臣の資産です。\n\n公開された資産には、本人だけでなく家族の分も含まれ、土地と建物の評価額は、実際の取り引き価格ではなく、固定資産税の課税標準額です。また、預貯金に、普通預金と当座預金は含まれていません。\n\nそれによりますと、武部大臣の資産は、北海道北見市の土地と建物、有価証券などで1961万円です。\n\n貸付金が1633万円、借入金が5125万円あります。\n\nゴルフ会員権が1口あります。\n",
+  "detailedArticleBody": {
+    "markedLead": "前の大臣の辞任を受けて、先月就任した武部農林水産大臣の資産が公開されました。\n",
+    "markedBody": "今回、公開の対象になったのは、前の大臣の辞任を受けて、先月15日に就任した武部農林水産大臣の資産です。\n\n公開された資産には、本人だけでなく家族の分も含まれ、土地と建物の評価額は、実際の取り引き価格ではなく、固定資産税の課税標準額です。また、預貯金に、普通預金と当座預金は含まれていません。\n\nそれによりますと、武部大臣の資産は、北海道北見市の土地と建物、有価証券などで1961万円です。\n\n貸付金が1633万円、借入金が5125万円あります。\n\nゴルフ会員権が1口あります。\n",
+    "trimmedLead": "前の大臣の辞任を受けて、先月就任した武部農林水産大臣の資産が公開されました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261113de75403.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261113de75403",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "武部農相の資産公開 前の大臣の辞任を受け",
+      "description": "前の大臣の辞任を受けて、先月就任した武部農林水産大臣の資産が公開されました。\n\n\n今回、公開の対象になったのは、前の大臣の辞任を受けて、先月15日に就任した武部農林水産大臣の資産です。\n\n公開された資",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261113de75403_E0000171911_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261113de75403/20261113de75403_E0000171853_1_l.jpg",
+      "duration": "PT53S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261113de75403_E0000171911_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75403/20261113de75403_E0000171853_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "【更新中】マイクロソフトで接続障害 世界各地で影響広がる",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75121",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75121/20261113de75121_E0000170396_1_s.jpg",
+      "datePublished": "2026-11-13T18:05:39+09:00"
+    },
+    {
+      "name": "GMO FX不正取引の補償費用など現時点で30億5000万円想定と発表",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75297",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75297/20261113de75297_E0000171818_1_s.jpg",
+      "datePublished": "2026-11-13T18:56:48+09:00"
+    },
+    {
+      "name": "エヌビディア フアン氏 CEOを辞任 日本での受け止めは",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75212",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75212/20261113de75212_E0000170852_1_s.jpg",
+      "datePublished": "2026-11-13T18:53:38+09:00"
+    },
+    {
+      "name": "ロシアによる北海道新聞記者拘束1か月 即時解放求め続ける",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75109",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75109/20261113de75109_E0000170393_1_s.jpg",
+      "datePublished": "2026-11-13T11:24:00+09:00"
+    },
+    {
+      "name": "山崎正昭元参議院議長が死去 84歳",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75154",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75154/20261113de75154_E0000170757_1_s.jpg",
+      "datePublished": "2026-11-13T10:42:00+09:00"
+    },
+    {
+      "name": "独メルセデス ドイツ国内の工場閉鎖を検討 コスト削減が急務",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75168",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75168/20261113de75168_E0000170769_1_s.jpg",
+      "datePublished": "2026-11-13T11:16:00+09:00"
+    },
+    {
+      "name": "紅白歌合戦ことしの出場歌手発表 初出場は7組【出場歌手一覧】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75147",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75147/20261113de75147_E0000171862_1_s.jpg",
+      "datePublished": "2026-11-13T18:41:42+09:00"
+    },
+    {
+      "name": "広島 3人死亡火災 同居の32歳長男が火つけたか 放火容疑で逮捕",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75122",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75122/20261113de75122_E0000170404_1_s.jpg",
+      "datePublished": "2026-11-13T12:24:45+09:00"
+    },
+    {
+      "name": "大リーグ 大谷翔平 4年連続5回目のMVP受賞ならず【詳しく】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75152",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75152/20261113de75152_E0000170765_1_s.jpg",
+      "datePublished": "2026-11-13T12:18:05+09:00"
+    },
+    {
+      "name": "“取り調べ拒否します” 広がる動き",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261110de73322",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73322/20261110de73322_E0000163293_1_s.jpg",
+      "datePublished": "2026-11-12T14:01:36+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
