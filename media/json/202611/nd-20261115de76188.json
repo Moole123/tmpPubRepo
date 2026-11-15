@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261115de76188",
+  "dataSourceId": "nd",
+  "name": "福井 不正アクセスの影響でデジタル通貨サービスを一時停止",
+  "headline": "福井 不正アクセスの影響でデジタル通貨サービスを一時停止",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261115de76188",
+    "playlistId": "news-nwa-scienceculture-nationwide-20261115",
+    "newsarticleName": "福井 不正アクセスの影響でデジタル通貨サービスを一時停止",
+    "playlistName": "11月15日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "福井県が発行するデジタル地域通貨について、決済で使っている企業のシステムが不正アクセスを受けたため、県が一時、予防的な措置としてサービスを停止しました。\n\n利用者の個人情報の流出はこれまでのところ確認",
+  "dateModified": "2026-11-15T18:52:10+09:00",
+  "datePublished": "2026-11-15T18:52:10+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76188/20261115de76188_E0000176864_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76188/20261115de76188_E0000176864_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "科学・文化",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000346",
+      "name": "福井県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "福井県が発行するデジタル地域通貨について、決済で使っている企業のシステムが不正アクセスを受けたため、県が一時、予防的な措置としてサービスを停止しました。\n\n利用者の個人情報の流出はこれまでのところ確認",
+  "articleBody": "福井県が発行するデジタル地域通貨について、決済で使っている企業のシステムが不正アクセスを受けたため、県が一時、予防的な措置としてサービスを停止しました。\n\n利用者の個人情報の流出はこれまでのところ確認されていないということです。\n\n\n福井県は、県内の店舗などで使えるデジタル地域通貨「はぴコイン」を2023年から発行し、さまざまな地域振興策などにも活用しています。\n\n県や「はぴコイン」の運営会社によりますと、14日午後、決済で使っている東京の企業からシステムが不正アクセスを受けたと連絡が入ったということです。\n\nこれを受けて、県は14日夜から予防的な措置として、「はぴコイン」を利用するアプリのサービスを停止していましたが、15日夕方に復旧しました。\n\nアプリの利用者は先月末の時点でおよそ37万人で、個人情報の流出はこれまでのところ確認されていないということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "福井県が発行するデジタル地域通貨について、決済で使っている企業のシステムが不正アクセスを受けたため、県が一時、予防的な措置としてサービスを停止しました。\n\n利用者の個人情報の流出はこれまでのところ確認されていないということです。\n",
+    "markedBody": "![](https://img.web.nhk/news/nd/kiji/20261115de76188/20261115de76188_E0000176865_1_l.jpg)\n\n福井県は、県内の店舗などで使えるデジタル地域通貨「はぴコイン」を2023年から発行し、さまざまな地域振興策などにも活用しています。\n\n県や「はぴコイン」の運営会社によりますと、14日午後、決済で使っている東京の企業からシステムが不正アクセスを受けたと連絡が入ったということです。\n\nこれを受けて、県は14日夜から予防的な措置として、「はぴコイン」を利用するアプリのサービスを停止していましたが、15日夕方に復旧しました。\n\nアプリの利用者は先月末の時点でおよそ37万人で、個人情報の流出はこれまでのところ確認されていないということです。\n",
+    "trimmedLead": "福井県が発行するデジタル地域通貨について、決済で使っている企業のシステムが不正アクセスを受けたため、県が一時、予防的な措置としてサービスを停止しました。\n\n利用者の個人情報の流出はこれまでのところ確認されていないということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261115de76188.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261115de76188",
+  "video": [],
+  "citation": [
+    {
+      "name": "フィギュアGPアメリカ 中井亜美が今季世界最高得点で首位発進",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261115de76124",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76124/20261115de76124_E0000176805_1_s.jpg",
+      "datePublished": "2026-11-15T15:12:00+09:00"
+    },
+    {
+      "name": "インフルエンサー「あっすん」 風営法違反疑いで逮捕",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261115de76043",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76043/20261115de76043_E0000176428_1_s.jpg",
+      "datePublished": "2026-11-15T08:25:00+09:00"
+    },
+    {
+      "name": "ゼレンスキー大統領“米がNATO加盟と交換で軍撤退を打診”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261115de76042",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76042/20261115de76042_E0000176374_1_s.jpg",
+      "datePublished": "2026-11-15T09:01:00+09:00"
+    },
+    {
+      "name": "大阪 枚方女児死亡 “虐待”情報も市がことしは母親と面会せず",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261115de76074",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76074/20261115de76074_E0000176495_1_s.jpg",
+      "datePublished": "2026-11-15T11:53:00+09:00"
+    },
+    {
+      "name": "若手登竜門の国際コンクール バイオリンで小西真璃花さん4位",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261115de76044",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76044/20261115de76044_E0000176443_1_s.jpg",
+      "datePublished": "2026-11-15T08:53:00+09:00"
+    },
+    {
+      "name": "スペースXの大型宇宙船 地球周回後の発射台キャッチに初成功",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261115de76047",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76047/20261115de76047_E0000176482_1_s.jpg",
+      "datePublished": "2026-11-15T16:48:00+09:00"
+    },
+    {
+      "name": "ハンズ渋谷店営業終了 48年の歴史に幕 別れ惜しむ人でにぎわう",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261115de76062",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76062/20261115de76062_E0000176779_1_s.jpg",
+      "datePublished": "2026-11-15T19:15:00+09:00"
+    },
+    {
+      "name": "サッカー日本代表 ブラジルに勝利 W杯の雪辱果たす 通算2勝目",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261114de75990",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75990/20261114de75990_E0000176308_1_s.jpg",
+      "datePublished": "2026-11-15T00:04:00+09:00"
+    },
+    {
+      "name": "不動産が“負”の動産に？ 「実家じまいは3年以内」 なぜ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de74613",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74613/20261112de74613_E0000171863_1_s.jpg",
+      "datePublished": "2026-11-15T12:57:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
