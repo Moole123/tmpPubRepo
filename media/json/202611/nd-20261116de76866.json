@@ -1,0 +1,139 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261116de76866",
+  "dataSourceId": "nd",
+  "name": "トランプ大統領「キム・ジョンウン総書記とも会う可能性」",
+  "headline": "トランプ大統領「キム・ジョンウン総書記とも会う可能性」",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261116de76866",
+    "playlistId": "news-nwa-international-nationwide-20261116",
+    "newsarticleName": "トランプ大統領「キム・ジョンウン総書記とも会う可能性」",
+    "playlistName": "11月16日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "トランプ大統領は16日、アジア訪問に向けホワイトハウスを出発する際、記者団の取材に応じ、北朝鮮のキム・ジョンウン総書記と会う可能性があると述べました。\n\n\nトランプ大統領は「中国で習近平国家主席と会う",
+  "dateModified": "2026-11-16T23:52:00+09:00",
+  "datePublished": "2026-11-16T23:52:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76866/20261116de76866_E0000182014_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76866/20261116de76866_E0000182014_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000129",
+      "name": "トランプ大統領",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "トランプ大統領は16日、アジア訪問に向けホワイトハウスを出発する際、記者団の取材に応じ、北朝鮮のキム・ジョンウン総書記と会う可能性があると述べました。\n\n\nトランプ大統領は「中国で習近平国家主席と会う",
+  "articleBody": "トランプ大統領は16日、アジア訪問に向けホワイトハウスを出発する際、記者団の取材に応じ、北朝鮮のキム・ジョンウン総書記と会う可能性があると述べました。\n\n\nトランプ大統領は「中国で習近平国家主席と会う。ロシアのプーチン大統領とも会う。そしてわれわれはキム・ジョンウン総書記とも会うかもしれない。これは良いことだ。多くの成果を上げられるチャンスだ」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "トランプ大統領は16日、アジア訪問に向けホワイトハウスを出発する際、記者団の取材に応じ、北朝鮮のキム・ジョンウン総書記と会う可能性があると述べました。\n",
+    "markedBody": "トランプ大統領は「中国で習近平国家主席と会う。ロシアのプーチン大統領とも会う。そしてわれわれはキム・ジョンウン総書記とも会うかもしれない。これは良いことだ。多くの成果を上げられるチャンスだ」と述べました。\n",
+    "trimmedLead": "トランプ大統領は16日、アジア訪問に向けホワイトハウスを出発する際、記者団の取材に応じ、北朝鮮のキム・ジョンウン総書記と会う可能性があると述べました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261116de76866.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261116de76866",
+  "video": [],
+  "citation": [
+    {
+      "name": "中国・ASEAN首脳会議 中国は経済・貿易分野の協力推進呼びかけ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261116de76642",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76642/20261116de76642_E0000179170_1_s.jpg",
+      "datePublished": "2026-11-16T17:13:32+09:00"
+    },
+    {
+      "name": "高市首相 フィリピン到着 石油備蓄などで新たな枠組み提唱へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261116de76382",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76382/20261116de76382_E0000179091_1_s.jpg",
+      "datePublished": "2026-11-16T22:10:04+09:00"
+    },
+    {
+      "name": "アメリカ・中国・ロシアの3か国首脳会談 中国も正式に発表",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261116de76469",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76469/20261116de76469_E0000178274_1_s.jpg",
+      "datePublished": "2026-11-16T18:51:30+09:00"
+    },
+    {
+      "name": "エネルギー高騰で欧州は冬を前に懸念 再エネ導入加速か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261116de76518",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76518/20261116de76518_E0000178953_1_s.jpg",
+      "datePublished": "2026-11-16T16:18:27+09:00"
+    },
+    {
+      "name": "ベッセント米財務長官「エヌビディア 後任は社外から登用を」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261116de76473",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76473/20261116de76473_E0000178771_1_s.jpg",
+      "datePublished": "2026-11-16T13:06:42+09:00"
+    },
+    {
+      "name": "韓国の半導体製造の一大拠点公開 課題の中小企業育成へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261116de76485",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76485/20261116de76485_E0000178734_1_s.jpg",
+      "datePublished": "2026-11-16T13:09:00+09:00"
+    },
+    {
+      "name": "APEC首脳会議 揺らぐ国際秩序 日本の役割は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261116de76456",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76456/20261116de76456_E0000178273_1_s.jpg",
+      "datePublished": "2026-11-16T16:16:11+09:00"
+    },
+    {
+      "name": "オーストラリアの性風俗で働く日本人女性",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261009de57474",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de57474/20261009de57474_E0000075459_1_s.jpg",
+      "datePublished": "2026-11-15T13:10:44+09:00"
+    },
+    {
+      "name": "【随時更新】ロシア ウクライナに軍事侵攻（11月16日の動き）",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261028de67091",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de67091/20261028de67091_E0000119402_1_s.jpg",
+      "datePublished": "2026-11-16T16:42:33+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
