@@ -1,0 +1,179 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261116de76369",
+  "dataSourceId": "nd",
+  "name": "NTTドコモ 一部利用者で通信障害 携帯電話サービスが利用しにくい状況 原因調査を急ぐ 今月3度目",
+  "headline": "NTTドコモ 一部利用者で通信障害 今月3度目 原因調査を急ぐ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261116de76369",
+    "playlistId": "news-nwa-business-nationwide-20261116",
+    "newsarticleName": "NTTドコモ 一部利用者で通信障害 携帯電話サービスが利用しにくい状況 原因調査を急ぐ 今月3度目",
+    "playlistName": "11月16日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "NTTドコモによりますと、16日午前10時すぎから、一部の利用者の間で携帯電話のサービスが利用しにくい状況が発生しているということです。\n\n\n影響を受けているのは、「5G SA」と呼ばれる通信の方式を",
+  "dateModified": "2026-11-16T12:44:13+09:00",
+  "datePublished": "2026-11-16T10:53:36+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76369/20261116de76369_E0000178164_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76369/20261116de76369_E0000178164_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "暮らし"
+  ],
+  "topic": [
+    {
+      "id": "E0000000472",
+      "name": "通信",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    },
+    {
+      "id": "E0000000651",
+      "name": "交通・インフラ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "NTTドコモによりますと、16日午前10時すぎから、一部の利用者の間で携帯電話のサービスが利用しにくい状況が発生しているということです。\n\n\n影響を受けているのは、「5G SA」と呼ばれる通信の方式を",
+  "articleBody": "NTTドコモによりますと、16日午前10時すぎから、一部の利用者の間で携帯電話のサービスが利用しにくい状況が発生しているということです。\n\n\n影響を受けているのは、「5G SA」と呼ばれる通信の方式を契約している利用者で、携帯電話の音声通話やデータ通信、それにショートメールが利用しにくくなっているということです。\n\n会社では、設定画面で利用する回線を「4G」に設定し直し、電源を入れ直すなどすれば、再び利用できるようになることもあるとしています。\n\nまた会社で原因の調査を進めていますが、現在のところ、不正アクセスによるものではないとしています。\n\nNTTドコモの携帯電話サービスでは今回と同じ「5G SA」の利用者を対象としたサービスで、今月に入りトラブルが相次いでいて、すでに2度の通信障害が発生しています。\n\n会社は「大変ご迷惑をおかけしておりますことをおわび申し上げます」とコメントしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "NTTドコモによりますと、16日午前10時すぎから、一部の利用者の間で携帯電話のサービスが利用しにくい状況が発生しているということです。\n",
+    "markedBody": "影響を受けているのは、「5G SA」と呼ばれる通信の方式を契約している利用者で、携帯電話の音声通話やデータ通信、それにショートメールが利用しにくくなっているということです。\n\n会社では、設定画面で利用する回線を「4G」に設定し直し、電源を入れ直すなどすれば、再び利用できるようになることもあるとしています。\n\nまた会社で原因の調査を進めていますが、現在のところ、不正アクセスによるものではないとしています。\n\nNTTドコモの携帯電話サービスでは今回と同じ「5G SA」の利用者を対象としたサービスで、今月に入りトラブルが相次いでいて、すでに2度の通信障害が発生しています。\n\n会社は「大変ご迷惑をおかけしておりますことをおわび申し上げます」とコメントしています。\n",
+    "trimmedLead": "NTTドコモによりますと、16日午前10時すぎから、一部の利用者の間で携帯電話のサービスが利用しにくい状況が発生しているということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261116de76369.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261116de76369",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "NTTドコモ 一部利用者で通信障害 今月3度目 原因調査を急ぐ",
+      "description": "NTTドコモによりますと、16日午前10時すぎから、一部の利用者の間で携帯電話のサービスが利用しにくい状況が発生しているということです。\n\n\n影響を受けているのは、「5G SA」と呼ばれる通信の方式を",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261116de76369_E0000178282_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261116de76369/20261116de76369_E0000178164_1_l.jpg",
+      "duration": "PT1M1S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261116de76369_E0000178282_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76369/20261116de76369_E0000178164_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "元ジャンポケ斉藤慎二被告 性的暴行の罪で懲役4年の実刑判決",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261116de76383",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76383/20261116de76383_E0000178189_1_s.jpg",
+      "datePublished": "2026-11-16T14:01:19+09:00"
+    },
+    {
+      "name": "茨城 常磐道で車7台の事故 十数人けがの情報 2人搬送",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261116de76371",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76371/20261116de76371_E0000178169_1_s.jpg",
+      "datePublished": "2026-11-16T13:46:36+09:00"
+    },
+    {
+      "name": "火災で焼失した「首里城正殿」が復元 11月23日から一般公開へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261116de76402",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76402/20261116de76402_E0000178184_1_s.jpg",
+      "datePublished": "2026-11-16T12:29:53+09:00"
+    },
+    {
+      "name": "高市首相 東南アジアなどと先端技術分野で共同研究提案へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261115de76245",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76245/20261115de76245_E0000177580_1_s.jpg",
+      "datePublished": "2026-11-16T10:47:34+09:00"
+    },
+    {
+      "name": "7～9月GDP 年率-0.1％ 4期ぶりマイナス 個人消費減少【解説】 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261116de76344",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76344/20261116de76344_E0000178238_1_s.jpg",
+      "datePublished": "2026-11-16T12:36:19+09:00"
+    },
+    {
+      "name": "物流センター用地取得の5億円余を無申告か 脱税の疑いで告発",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261116de76453",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76453/20261116de76453_E0000178241_1_s.jpg",
+      "datePublished": "2026-11-16T12:09:26+09:00"
+    },
+    {
+      "name": "福岡市長選挙 再選挙へ 候補者13人 法定得票数に届かず",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261115de76099",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76099/20261115de76099_E0000178107_1_s.jpg",
+      "datePublished": "2026-11-16T06:29:00+09:00"
+    },
+    {
+      "name": "フィギュア 中井亜美 今季世界最高点で連勝 GPファイナル進出",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261116de76349",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76349/20261116de76349_E0000178128_1_s.jpg",
+      "datePublished": "2026-11-16T10:15:26+09:00"
+    },
+    {
+      "name": "不動産が“負”の動産に？ 「実家じまいは3年以内」 なぜ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de74613",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74613/20261112de74613_E0000171863_1_s.jpg",
+      "datePublished": "2026-11-15T12:57:00+09:00"
+    },
+    {
+      "name": "オーストラリアの性風俗で働く日本人女性",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261009de57474",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de57474/20261009de57474_E0000075459_1_s.jpg",
+      "datePublished": "2026-11-15T13:10:44+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
