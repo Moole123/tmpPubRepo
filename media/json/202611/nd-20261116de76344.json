@@ -1,0 +1,149 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261116de76344",
+  "dataSourceId": "nd",
+  "name": "7～9月のGDP 年率-0.1％ 4期ぶりのマイナス",
+  "headline": "7～9月のGDP 年率-0.1％ 4期ぶりのマイナス",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261116de76344",
+    "playlistId": "news-nwa-business-nationwide-20261116",
+    "newsarticleName": "7～9月のGDP 年率-0.1％ 4期ぶりのマイナス",
+    "playlistName": "11月16日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "2026年7月から9月までのGDP＝国内総生産は、個人消費が減少したことなどから、前の3か月と比べた実質の伸び率が年率換算でマイナス0.1％と4期ぶりのマイナスとなりました。\n\n\n内閣府が16日発表し",
+  "dateModified": "2026-11-16T09:53:59+09:00",
+  "datePublished": "2026-11-16T08:56:23+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76344/20261116de76344_E0000178116_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76344/20261116de76344_E0000178116_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000482",
+      "name": "GDP",
+      "display": true
+    },
+    {
+      "id": "E0000000678",
+      "name": "内閣府",
+      "display": true
+    },
+    {
+      "id": "E0000000703",
+      "name": "統計・指標",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "2026年7月から9月までのGDP＝国内総生産は、個人消費が減少したことなどから、前の3か月と比べた実質の伸び率が年率換算でマイナス0.1％と4期ぶりのマイナスとなりました。\n\n\n内閣府が16日発表し",
+  "articleBody": "2026年7月から9月までのGDP＝国内総生産は、個人消費が減少したことなどから、前の3か月と比べた実質の伸び率が年率換算でマイナス0.1％と4期ぶりのマイナスとなりました。\n\n\n内閣府が16日発表したことし7月から9月までのGDPの速報値は、物価の変動を除いた実質の伸び率が前の3か月と比べてマイナス0.02％でした。\n\nこれが1年間続いた場合の年率に換算するとマイナス0.1％で、4期ぶりのマイナスとなりました。\n\n項目ごとに見ますと、GDPのおよそ半分を占める「個人消費」は前の3か月と比べてマイナス0.3％でした。個人消費がマイナスとなるのは2期連続です。\n\n自動車やエアコン、それに日用品の消費が減ったほか、天候不順の影響で衣服への支出も減りました。\n\nまた、「住宅投資」がマイナス1.1％、「輸出」もマイナス0.2％でした。\n\n一方、「設備投資」はプラス1.6％で、半導体製造装置やサーバーなどの投資が増加しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "2026年7月から9月までのGDP＝国内総生産は、個人消費が減少したことなどから、前の3か月と比べた実質の伸び率が年率換算でマイナス0.1％と4期ぶりのマイナスとなりました。\n",
+    "markedBody": "内閣府が16日発表したことし7月から9月までのGDPの速報値は、物価の変動を除いた実質の伸び率が前の3か月と比べてマイナス0.02％でした。\n\nこれが1年間続いた場合の年率に換算するとマイナス0.1％で、4期ぶりのマイナスとなりました。\n\n項目ごとに見ますと、GDPのおよそ半分を占める「個人消費」は前の3か月と比べてマイナス0.3％でした。個人消費がマイナスとなるのは2期連続です。\n\n自動車やエアコン、それに日用品の消費が減ったほか、天候不順の影響で衣服への支出も減りました。\n\nまた、「住宅投資」がマイナス1.1％、「輸出」もマイナス0.2％でした。\n\n一方、「設備投資」はプラス1.6％で、半導体製造装置やサーバーなどの投資が増加しました。\n",
+    "trimmedLead": "2026年7月から9月までのGDP＝国内総生産は、個人消費が減少したことなどから、前の3か月と比べた実質の伸び率が年率換算でマイナス0.1％と4期ぶりのマイナスとなりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261116de76344.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261116de76344",
+  "video": [],
+  "citation": [
+    {
+      "name": "福岡市長選挙 再選挙へ 候補者13人 法定得票数に届かず",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261115de76099",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76099/20261115de76099_E0000178107_1_s.jpg",
+      "datePublished": "2026-11-16T06:29:00+09:00"
+    },
+    {
+      "name": "消費税減税法案 参院で審議続く 国民 公明の協力が焦点に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76325/20261116de76325_E0000177759_1_s.jpg",
+      "datePublished": "2026-11-16T05:38:00+09:00"
+    },
+    {
+      "name": "大阪 枚方 3歳女児死亡 父親が約1時間断続的に暴行か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261115de76282",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76282/20261115de76282_E0000177679_1_s.jpg",
+      "datePublished": "2026-11-16T05:26:00+09:00"
+    },
+    {
+      "name": "ASEAN首脳会議開幕 ミャンマー本格復帰の議論は先送り",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261115de76209",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76209/20261115de76209_E0000176914_1_s.jpg",
+      "datePublished": "2026-11-15T21:49:13+09:00"
+    },
+    {
+      "name": "ウクライナ 重機遠隔操作してがれき処理 日本の支援で実証実験",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261115de76292",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76292/20261115de76292_E0000177695_1_s.jpg",
+      "datePublished": "2026-11-16T05:40:00+09:00"
+    },
+    {
+      "name": "野球日本代表 韓国に5対1で勝利し大会3連覇",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261115de76311",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76311/20261115de76311_E0000177735_1_s.jpg",
+      "datePublished": "2026-11-16T01:37:18+09:00"
+    },
+    {
+      "name": "スペースXの大型宇宙船 地球周回後の発射台キャッチに初成功",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261115de76047",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76047/20261115de76047_E0000176482_1_s.jpg",
+      "datePublished": "2026-11-15T16:48:00+09:00"
+    },
+    {
+      "name": "ハンズ渋谷店営業終了 48年の歴史に幕 別れ惜しむ人でにぎわう",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261115de76062",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76062/20261115de76062_E0000176779_1_s.jpg",
+      "datePublished": "2026-11-15T19:15:00+09:00"
+    },
+    {
+      "name": "不動産が“負”の動産に？ 「実家じまいは3年以内」 なぜ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de74613",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74613/20261112de74613_E0000171863_1_s.jpg",
+      "datePublished": "2026-11-15T12:57:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
