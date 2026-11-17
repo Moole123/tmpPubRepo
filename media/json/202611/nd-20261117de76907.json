@@ -1,0 +1,140 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261117de76907",
+  "dataSourceId": "nd",
+  "name": "インドネシアでM6.6の地震 津波のおそれなし",
+  "headline": "インドネシアでM6.6の地震 津波のおそれなし",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261117de76907",
+    "playlistId": "news-nwa-international-nationwide-20261117",
+    "newsarticleName": "インドネシアでM6.6の地震 津波のおそれなし",
+    "playlistName": "11月17日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "USGS=アメリカの地質調査所によりますと、日本時間の17日午前6時すぎインドネシア東部を震源とする地震がありました。\n\n\n震源の深さは35キロ、地震の規模を示すマグニチュードは6.6と推定されていま",
+  "dateModified": "2026-11-17T08:29:00+09:00",
+  "datePublished": "2026-11-17T08:29:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de76907/20261117de76907_E0000004021_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de76907/20261117de76907_E0000004021_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際",
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000389",
+      "name": "地震",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "USGS=アメリカの地質調査所によりますと、日本時間の17日午前6時すぎインドネシア東部を震源とする地震がありました。\n\n\n震源の深さは35キロ、地震の規模を示すマグニチュードは6.6と推定されていま",
+  "articleBody": "USGS=アメリカの地質調査所によりますと、日本時間の17日午前6時すぎインドネシア東部を震源とする地震がありました。\n\n\n震源の深さは35キロ、地震の規模を示すマグニチュードは6.6と推定されています。\n\nまた、インドネシアの気象当局は、同じ時刻に東部でマグニチュード7.1の地震が発生し、この地震による津波のおそれはないと発表しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "USGS\\=アメリカの地質調査所によりますと、日本時間の17日午前6時すぎインドネシア東部を震源とする地震がありました。\n",
+    "markedBody": "震源の深さは35キロ、地震の規模を示すマグニチュードは6.6と推定されています。\n\nまた、インドネシアの気象当局は、同じ時刻に東部でマグニチュード7.1の地震が発生し、この地震による津波のおそれはないと発表しています。\n",
+    "trimmedLead": "USGS=アメリカの地質調査所によりますと、日本時間の17日午前6時すぎインドネシア東部を震源とする地震がありました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261117de76907.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261117de76907",
+  "video": [],
+  "citation": [
+    {
+      "name": "トランプ大統領 アジア訪問出発 キム総書記と会談実現も焦点　",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261116de76866",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76866/20261116de76866_E0000182014_1_s.jpg",
+      "datePublished": "2026-11-17T12:12:08+09:00"
+    },
+    {
+      "name": "トランプ大統領 アジア訪問へ出発 19日には初の米中ロ首脳会談",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261117de76879",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de76879/20261117de76879_E0000182021_1_s.jpg",
+      "datePublished": "2026-11-17T05:01:00+09:00"
+    },
+    {
+      "name": "東京 中野 女性刺殺事件 39歳容疑者を強盗殺人未遂疑いで逮捕",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261117de76885",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de76885/20261117de76885_E0000182073_1_s.jpg",
+      "datePublished": "2026-11-17T05:23:00+09:00"
+    },
+    {
+      "name": "理研のスパコン「富岳」不正アクセス 研究データなど漏えいか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261117de76883",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de76883/20261117de76883_E0000182023_1_s.jpg",
+      "datePublished": "2026-11-17T05:44:00+09:00"
+    },
+    {
+      "name": "衆院議員 定数削減法案“比例で31議席削減”きょう審議入り",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261117de76877",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de76877/20261117de76877_E0000182019_1_s.jpg",
+      "datePublished": "2026-11-17T05:25:00+09:00"
+    },
+    {
+      "name": "安全保障3文書の改定 防衛産業基盤の強化説明へ 政府",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261117de76890",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de76890/20261117de76890_E0000182055_1_s.jpg",
+      "datePublished": "2026-11-17T05:33:00+09:00"
+    },
+    {
+      "name": "大阪 “グリ下の帝王”逮捕 生活保護費を不正受給か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261116de76647",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76647/20261116de76647_E0000179172_1_s.jpg",
+      "datePublished": "2026-11-16T17:14:02+09:00"
+    },
+    {
+      "name": "不動産が“負”の動産に？ 「実家じまいは3年以内」 なぜ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de74613",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74613/20261112de74613_E0000171863_1_s.jpg",
+      "datePublished": "2026-11-15T12:57:00+09:00"
+    },
+    {
+      "name": "オーストラリアの性風俗で働く日本人女性",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261009de57474",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de57474/20261009de57474_E0000075459_1_s.jpg",
+      "datePublished": "2026-11-15T13:10:44+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
