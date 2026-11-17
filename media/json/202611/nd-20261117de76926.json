@@ -1,0 +1,167 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261117de76926",
+  "dataSourceId": "nd",
+  "name": "“M9.9”誤った緊急地震速報 背景に二重のエラー 気象庁が修正",
+  "headline": "“M9.9”誤った緊急地震速報 背景に二重のエラー 気象庁が修正",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261117de76926",
+    "playlistId": "news-nwa-disaster-nationwide-20261117",
+    "newsarticleName": "“M9.9”誤った緊急地震速報 背景に二重のエラー 気象庁が修正",
+    "playlistName": "11月17日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "先月16日、マグニチュードを9.9と過大に推定し誤った内容の緊急地震速報を発表したことについて、気象庁が調べた結果、日本から遠い場所で地震が起きた際に用いるプログラムに2つのエラーが重なって起きたこと",
+  "dateModified": "2026-11-17T12:16:00+09:00",
+  "datePublished": "2026-11-17T12:16:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de76926/20261117de76926_E0000182517_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de76926/20261117de76926_E0000182517_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000389",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "E0000000682",
+      "name": "気象庁",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "先月16日、マグニチュードを9.9と過大に推定し誤った内容の緊急地震速報を発表したことについて、気象庁が調べた結果、日本から遠い場所で地震が起きた際に用いるプログラムに2つのエラーが重なって起きたこと",
+  "articleBody": "先月16日、マグニチュードを9.9と過大に推定し誤った内容の緊急地震速報を発表したことについて、気象庁が調べた結果、日本から遠い場所で地震が起きた際に用いるプログラムに2つのエラーが重なって起きたことが関係者への取材でわかりました。今月17日までにすべての修正が終わり、運用に問題がないことを確認したということです。\n\n\n先月16日、カムチャツカ半島付近で発生したマグニチュード6.9の地震について、気象庁はマグニチュードを9.9と過大に推定して北海道から東海にかけて強い揺れが予想されるとする誤った内容の緊急地震速報を発表し、交通機関などに影響が出ました。\n\n気象庁が同様の発表がされないよう緊急的な対策を行ったうえで原因を詳しく分析したところ、日本から遠い場所で起きた地震に用いるプログラムに2つのエラーが重なって起きたことが関係者への取材でわかりました。\n\n本来、日本から一定の距離の対象領域の外に震源が定まった場合、誤差が大きいため、その震源やマグニチュードを緊急地震速報に用いない仕組みになっていました。\n\n今回は当初対象領域の中に推定されていた震源がおよそ1分後に対象領域の外に変わっていましたが、プログラムのエラーで震度を算出する際、対象領域外で推定されたマグニチュード9.9という過大な値を対象領域内の震源に当てはめてしまい、広い範囲に強い揺れが予測されたということです。\n\nまた震源から700キロを超える距離にある地震計のデータは使わない設計になっていましたが、こちらも人為的なミスで設定が外れていたというプログラムのエラーがありました。\n\nいずれかが正常に機能していれば緊急地震速報は発表されなかったとしていて、今月17日までにすべての修正を終え、運用に問題がないことも確認したということです。\n\n気象庁はプログラムのチェック方法などについても改善を進めるとしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "先月16日、マグニチュードを9.9と過大に推定し誤った内容の緊急地震速報を発表したことについて、気象庁が調べた結果、日本から遠い場所で地震が起きた際に用いるプログラムに2つのエラーが重なって起きたことが関係者への取材でわかりました。今月17日までにすべての修正が終わり、運用に問題がないことを確認したということです。\n",
+    "markedBody": "先月16日、カムチャツカ半島付近で発生したマグニチュード6.9の地震について、気象庁はマグニチュードを9.9と過大に推定して北海道から東海にかけて強い揺れが予想されるとする誤った内容の緊急地震速報を発表し、交通機関などに影響が出ました。\n\n![](https://img.web.nhk/news/nd/kiji/20261117de76926/20261117de76926_E0000079386_1_l.jpg \"当時のNHKニュース\")\n\n気象庁が同様の発表がされないよう緊急的な対策を行ったうえで原因を詳しく分析したところ、日本から遠い場所で起きた地震に用いるプログラムに2つのエラーが重なって起きたことが関係者への取材でわかりました。\n\n本来、日本から一定の距離の対象領域の外に震源が定まった場合、誤差が大きいため、その震源やマグニチュードを緊急地震速報に用いない仕組みになっていました。\n\n今回は当初対象領域の中に推定されていた震源がおよそ1分後に対象領域の外に変わっていましたが、プログラムのエラーで震度を算出する際、対象領域外で推定されたマグニチュード9.9という過大な値を対象領域内の震源に当てはめてしまい、広い範囲に強い揺れが予測されたということです。\n\n![](https://img.web.nhk/news/nd/kiji/20261117de76926/20261117de76926_E0000182863_1_l.jpg)\n\nまた震源から700キロを超える距離にある地震計のデータは使わない設計になっていましたが、こちらも人為的なミスで設定が外れていたというプログラムのエラーがありました。\n\nいずれかが正常に機能していれば緊急地震速報は発表されなかったとしていて、今月17日までにすべての修正を終え、運用に問題がないことも確認したということです。\n\n気象庁はプログラムのチェック方法などについても改善を進めるとしています。\n",
+    "trimmedLead": "先月16日、マグニチュードを9.9と過大に推定し誤った内容の緊急地震速報を発表したことについて、気象庁が調べた結果、日本から遠い場所で地震が起きた際に用いるプログラムに2つのエラーが重なって起きたことが関係者への取材でわかりました。今月17日までにすべての修正が終わり、運用に問題がないことを確認したということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261117de76926.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261117de76926",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "“M9.9”誤った緊急地震速報 背景に二重のエラー 気象庁が修正",
+      "description": "先月16日、マグニチュードを9.9と過大に推定し誤った内容の緊急地震速報を発表したことについて、気象庁が調べた結果、日本から遠い場所で地震が起きた際に用いるプログラムに2つのエラーが重なって起きたこと",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261117de76926_E0000182872_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261117de76926/20261117de76926_E0000182517_1_l.jpg",
+      "duration": "PT1M42S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261117de76926_E0000182872_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de76926/20261117de76926_E0000182517_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "緊急地震速報の過大推定 「過去の対策が機能せず」気象庁",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60368",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60368/20261016de60368_E0000079391_1_s.jpg",
+      "datePublished": "2026-10-16T23:48:00+09:00"
+    },
+    {
+      "name": "トランプ大統領 アジア訪問出発 キム総書記と会談実現も焦点　",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261116de76866",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76866/20261116de76866_E0000182014_1_s.jpg",
+      "datePublished": "2026-11-17T12:12:00+09:00"
+    },
+    {
+      "name": "東京 中野 女性刺殺事件 39歳容疑者を強盗殺人未遂疑いで逮捕",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261117de76885",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de76885/20261117de76885_E0000182073_1_s.jpg",
+      "datePublished": "2026-11-17T05:23:00+09:00"
+    },
+    {
+      "name": "理研のスパコン「富岳」不正アクセス 研究データなど漏えいか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261117de76883",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de76883/20261117de76883_E0000182023_1_s.jpg",
+      "datePublished": "2026-11-17T05:44:00+09:00"
+    },
+    {
+      "name": "衆院議員 定数削減法案“比例で31議席削減”きょう審議入り",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261117de76877",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de76877/20261117de76877_E0000182019_1_s.jpg",
+      "datePublished": "2026-11-17T05:25:00+09:00"
+    },
+    {
+      "name": "安全保障3文書の改定 防衛産業基盤の強化説明へ 政府",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261117de76890",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de76890/20261117de76890_E0000182055_1_s.jpg",
+      "datePublished": "2026-11-17T05:33:00+09:00"
+    },
+    {
+      "name": "大阪 “グリ下の帝王”逮捕 生活保護費を不正受給か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261116de76647",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76647/20261116de76647_E0000179172_1_s.jpg",
+      "datePublished": "2026-11-16T17:14:02+09:00"
+    },
+    {
+      "name": "不動産が“負”の動産に？ 「実家じまいは3年以内」 なぜ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de74613",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74613/20261112de74613_E0000171863_1_s.jpg",
+      "datePublished": "2026-11-15T12:57:00+09:00"
+    },
+    {
+      "name": "オーストラリアの性風俗で働く日本人女性",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261009de57474",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de57474/20261009de57474_E0000075459_1_s.jpg",
+      "datePublished": "2026-11-15T13:10:44+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
