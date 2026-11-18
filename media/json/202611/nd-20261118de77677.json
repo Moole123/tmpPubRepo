@@ -1,0 +1,132 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261118de77677",
+  "dataSourceId": "nd",
+  "name": "愛子さま シンガポール大統領を表敬訪問",
+  "headline": "愛子さま シンガポール大統領を表敬訪問",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261118de77677",
+    "playlistId": "news-nwa-society-nationwide-20261118",
+    "newsarticleName": "愛子さま シンガポール大統領を表敬訪問",
+    "playlistName": "11月18日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "シンガポールを公式訪問している天皇皇后両陛下の長女の愛子さまは18日、大統領を表敬訪問されました。\n\n\n17日からシンガポールを公式訪問している愛子さまは、現地時間の18日昼前、着物姿で大統領府に足を",
+  "dateModified": "2026-11-18T13:56:17+09:00",
+  "datePublished": "2026-11-18T13:56:17+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77677/20261118de77677_E0000187448_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77677/20261118de77677_E0000187448_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000159",
+      "name": "皇室",
+      "display": true
+    },
+    {
+      "id": "E0000000539",
+      "name": "シンガポール",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "シンガポールを公式訪問している天皇皇后両陛下の長女の愛子さまは18日、大統領を表敬訪問されました。\n\n\n17日からシンガポールを公式訪問している愛子さまは、現地時間の18日昼前、着物姿で大統領府に足を",
+  "articleBody": "シンガポールを公式訪問している天皇皇后両陛下の長女の愛子さまは18日、大統領を表敬訪問されました。\n\n\n17日からシンガポールを公式訪問している愛子さまは、現地時間の18日昼前、着物姿で大統領府に足を運び、ターマン・シャンムガラトナム大統領の出迎えを受けられました。\n\n愛子さまは、まず記帳台に漢字でお名前を書いたあと、両国の国旗の前で、ターマン大統領とともに報道陣の撮影に応じられました。\n\nこのあと懇談が行われ、愛子さまは英語で、日本とシンガポールの外交関係樹立60周年の節目に招待を受けたことに感謝を伝えるとともに、上皇ご夫妻が以前シンガポールを訪問されたことなどについて話されていました。\n\n愛子さまは18日、大統領主催の昼食会に臨み、おことばを述べられます。\n",
+  "detailedArticleBody": {
+    "markedLead": "シンガポールを公式訪問している天皇皇后両陛下の長女の愛子さまは18日、大統領を表敬訪問されました。\n",
+    "markedBody": "17日からシンガポールを公式訪問している愛子さまは、現地時間の18日昼前、着物姿で大統領府に足を運び、ターマン・シャンムガラトナム大統領の出迎えを受けられました。\n\n愛子さまは、まず記帳台に漢字でお名前を書いたあと、両国の国旗の前で、ターマン大統領とともに報道陣の撮影に応じられました。\n\nこのあと懇談が行われ、愛子さまは英語で、日本とシンガポールの外交関係樹立60周年の節目に招待を受けたことに感謝を伝えるとともに、上皇ご夫妻が以前シンガポールを訪問されたことなどについて話されていました。\n\n愛子さまは18日、大統領主催の昼食会に臨み、おことばを述べられます。\n",
+    "trimmedLead": "シンガポールを公式訪問している天皇皇后両陛下の長女の愛子さまは18日、大統領を表敬訪問されました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261118de77677.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261118de77677",
+  "video": [],
+  "citation": [
+    {
+      "name": "愛子さま シンガポールに向けて出発",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261117de77001",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de77001/20261117de77001_E0000182460_1_s.jpg",
+      "datePublished": "2026-11-17T12:32:00+09:00"
+    },
+    {
+      "name": "愛子さま 公式訪問先のシンガポールに到着",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261117de77414",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de77414/20261117de77414_E0000185959_1_s.jpg",
+      "datePublished": "2026-11-17T21:43:52+09:00"
+    },
+    {
+      "name": "サッカー日本代表 森保監督 最後の試合を勝利で飾れず【詳細】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261118de77462",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77462/20261118de77462_E0000187617_1_s.jpg",
+      "datePublished": "2026-11-18T12:45:00+09:00"
+    },
+    {
+      "name": "高市首相APECで中国へ出発 習主席対応は プーチン氏と接触調整",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261118de77470",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77470/20261118de77470_E0000186755_1_s.jpg",
+      "datePublished": "2026-11-18T14:52:03+09:00"
+    },
+    {
+      "name": "3歳の娘を暴行 死亡させたか 父親を逮捕 兵庫 伊丹",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261118de77627",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77627/20261118de77627_E0000186820_1_s.jpg",
+      "datePublished": "2026-11-18T12:25:14+09:00"
+    },
+    {
+      "name": "前橋 住宅街に出没したクマ1頭見つからず 警戒続く",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261118de77643",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77643/20261118de77643_E0000186847_1_s.jpg",
+      "datePublished": "2026-11-18T12:51:08+09:00"
+    },
+    {
+      "name": "地球から1光日 259億キロ離れた宇宙を進むボイジャー1号の旅",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261116de76380",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76380/20261116de76380_E0000183529_1_s.jpg",
+      "datePublished": "2026-11-17T23:58:22+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
