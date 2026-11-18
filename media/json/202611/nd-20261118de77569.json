@@ -1,0 +1,137 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261118de77569",
+  "dataSourceId": "nd",
+  "name": "アメリカ 国家安全保障局の機密通信が停止 大規模障害相次ぐ",
+  "headline": "アメリカ 国家安全保障局の機密通信が停止 大規模障害相次ぐ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261118de77569",
+    "playlistId": "news-nwa-international-nationwide-20261118",
+    "newsarticleName": "アメリカ 国家安全保障局の機密通信が停止 大規模障害相次ぐ",
+    "playlistName": "11月18日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "アメリカのNSA＝国家安全保障局が機密情報のやり取りに使っているネットワークで障害が起こり、停止したと複数のアメリカメディアが伝えました。アメリカでは先週以降、重要なインフラで大規模なシステム障害が相",
+  "dateModified": "2026-11-18T12:21:27+09:00",
+  "datePublished": "2026-11-18T11:49:44+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77569/20261118de77569_E0000186738_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77569/20261118de77569_E0000186738_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000419",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000129",
+      "name": "トランプ大統領",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "アメリカのNSA＝国家安全保障局が機密情報のやり取りに使っているネットワークで障害が起こり、停止したと複数のアメリカメディアが伝えました。アメリカでは先週以降、重要なインフラで大規模なシステム障害が相",
+  "articleBody": "アメリカのNSA＝国家安全保障局が機密情報のやり取りに使っているネットワークで障害が起こり、停止したと複数のアメリカメディアが伝えました。アメリカでは先週以降、重要なインフラで大規模なシステム障害が相次いでいて、懸念が広がっています。\n\n\nアメリカのCNNテレビなど複数のメディアは、17日、関係者の話として、NSA＝国家安全保障局が内部での機密情報のやり取りに使っているネットワークで障害が起こり、停止したと報じました。\n\nNSAなどの情報機関を統括するクレイトン国家情報長官はアメリカメディアのインタビューに対し、「システムのぜい弱性の修正作業を行った際、一部が復旧しなかった」と述べ、サイバー攻撃によるものではないと説明しました。\n\nNSAはアメリカ最大級の情報機関の1つで、外国の通信を傍受して情報を収集しているほか、政府機関のシステムをサイバー攻撃から守る役割を担っています。\n\nCNNテレビは、当局者などの話として政府は複数の通信網を備えていることから、アジアを訪問中のトランプ大統領との機密性の高いやり取りに影響はないとしています。\n\nアメリカでは先週以降、IT大手、マイクロソフトのサービスで大規模な接続障害が起きたほか、通信障害の影響で全土の空港で航空機の運航が一時停止されるなど、重要なインフラで大規模なシステム障害が相次いでいて、懸念が広がっています。\n\nルビオ国務長官「一連の障害 それぞれ関連性ない」\n\nルビオ国務長官は、18日、訪問先のフィリピンで記者団に対し、「一連の障害は、それぞれ関連性がなく、悪意のある人物やサイバー犯罪者によるものではないと、われわれが信じるに足るすべてのことが示している」と強調しました。\n\nルビオ長官は、安全保障政策を担当する大統領補佐官も兼ねています。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカのNSA＝国家安全保障局が機密情報のやり取りに使っているネットワークで障害が起こり、停止したと複数のアメリカメディアが伝えました。アメリカでは先週以降、重要なインフラで大規模なシステム障害が相次いでいて、懸念が広がっています。\n",
+    "markedBody": "アメリカのCNNテレビなど複数のメディアは、17日、関係者の話として、NSA＝国家安全保障局が内部での機密情報のやり取りに使っているネットワークで障害が起こり、停止したと報じました。\n\nNSAなどの情報機関を統括するクレイトン国家情報長官はアメリカメディアのインタビューに対し、「システムのぜい弱性の修正作業を行った際、一部が復旧しなかった」と述べ、サイバー攻撃によるものではないと説明しました。\n\nNSAはアメリカ最大級の情報機関の1つで、外国の通信を傍受して情報を収集しているほか、政府機関のシステムをサイバー攻撃から守る役割を担っています。\n\nCNNテレビは、当局者などの話として政府は複数の通信網を備えていることから、アジアを訪問中のトランプ大統領との機密性の高いやり取りに影響はないとしています。\n\nアメリカでは先週以降、IT大手、マイクロソフトのサービスで大規模な接続障害が起きたほか、通信障害の影響で全土の空港で航空機の運航が一時停止されるなど、重要なインフラで大規模なシステム障害が相次いでいて、懸念が広がっています。\n\n## ルビオ国務長官「一連の障害 それぞれ関連性ない」\n\nルビオ国務長官は、18日、訪問先のフィリピンで記者団に対し、「一連の障害は、それぞれ関連性がなく、悪意のある人物やサイバー犯罪者によるものではないと、われわれが信じるに足るすべてのことが示している」と強調しました。\n\nルビオ長官は、安全保障政策を担当する大統領補佐官も兼ねています。\n",
+    "trimmedLead": "アメリカのNSA＝国家安全保障局が機密情報のやり取りに使っているネットワークで障害が起こり、停止したと複数のアメリカメディアが伝えました。アメリカでは先週以降、重要なインフラで大規模なシステム障害が相次いでいて、懸念が広がっています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261118de77569.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261118de77569",
+  "video": [],
+  "citation": [
+    {
+      "name": "エヌビディア フアン氏復帰に意欲も取締役会は「意向ない」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261118de77484",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77484/20261118de77484_E0000186305_1_s.jpg",
+      "datePublished": "2026-11-18T10:31:00+09:00"
+    },
+    {
+      "name": "米軍がイランのミサイル施設を攻撃 両者で攻撃の応酬に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261118de77531",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77531/20261118de77531_E0000186648_1_s.jpg",
+      "datePublished": "2026-11-18T10:48:00+09:00"
+    },
+    {
+      "name": "ゼレンスキー大統領が戦果を強調 3か国首脳会談前に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261118de77487",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77487/20261118de77487_E0000186314_1_s.jpg",
+      "datePublished": "2026-11-18T06:45:00+09:00"
+    },
+    {
+      "name": "10月の貿易収支4765億円の赤字 赤字は6か月連続",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261118de77503",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77503/20261118de77503_E0000186645_1_s.jpg",
+      "datePublished": "2026-11-18T11:17:00+09:00"
+    },
+    {
+      "name": "地球から1光日 259億キロ離れた宇宙を進むボイジャー1号の旅",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261116de76380",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76380/20261116de76380_E0000183529_1_s.jpg",
+      "datePublished": "2026-11-17T23:58:22+09:00"
+    },
+    {
+      "name": "NY株式市場 ダウ 一時1000ドル超値下がり ITや金融に売り注文",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261118de77527",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77527/20261118de77527_E0000186650_1_s.jpg",
+      "datePublished": "2026-11-18T10:52:00+09:00"
+    },
+    {
+      "name": "パナソニック野球部 最後の戦い 名門が示した社会人野球の価値",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261116de76561",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76561/20261116de76561_E0000183109_1_s.jpg",
+      "datePublished": "2026-11-17T18:40:08+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
