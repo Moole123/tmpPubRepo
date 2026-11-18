@@ -1,0 +1,137 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261119de78111",
+  "dataSourceId": "nd",
+  "name": "熊本県で震度5弱 揺れの映像",
+  "headline": "熊本県で震度5弱 揺れの映像",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261119de78111",
+    "playlistId": "news-nwa-disaster-nationwide-20261119",
+    "newsarticleName": "熊本県で震度5弱 揺れの映像",
+    "playlistName": "11月19日の気象・災害ニュース",
+    "genreId": "disaster",
+    "genreIdSlug": "disaster"
+  },
+  "description": "19日午前2時22分ごろ、熊本県で震度5弱の揺れを観測する地震がありました。\n震度4を観測した八代市に設置したNHKのカメラによる揺れの映像です。\n\n\n",
+  "dateModified": "2026-11-19T03:21:48+09:00",
+  "datePublished": "2026-11-19T03:21:48+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78111/20261119de78111_E0000190496_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78111/20261119de78111_E0000190496_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000389",
+      "name": "地震",
+      "display": true
+    },
+    {
+      "id": "E0000000371",
+      "name": "熊本県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "19日午前2時22分ごろ、熊本県で震度5弱の揺れを観測する地震がありました。\n震度4を観測した八代市に設置したNHKのカメラによる揺れの映像です。\n\n\n",
+  "articleBody": "19日午前2時22分ごろ、熊本県で震度5弱の揺れを観測する地震がありました。\n震度4を観測した八代市に設置したNHKのカメラによる揺れの映像です。\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "19日午前2時22分ごろ、熊本県で震度5弱の揺れを観測する地震がありました。\\\n震度4を観測した八代市に設置したNHKのカメラによる揺れの映像です。\n",
+    "markedBody": "",
+    "trimmedLead": "19日午前2時22分ごろ、熊本県で震度5弱の揺れを観測する地震がありました。\n震度4を観測した八代市に設置したNHKのカメラによる揺れの映像です。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261119de78111.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261119de78111",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "熊本県で震度5弱 揺れの映像",
+      "description": "19日午前2時22分ごろ、熊本県で震度5弱の揺れを観測する地震がありました。\n震度4を観測した八代市に設置したNHKのカメラによる揺れの映像です。\n\n\n",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261119de78111_E0000190495_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261119de78111/20261119de78111_E0000190496_1_l.jpg",
+      "duration": "PT11S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261119de78111_E0000190495_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78111/20261119de78111_E0000190496_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "【地震情報】熊本県で震度5弱 津波の心配なし（2:22）",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261119de78097",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78097/20261119de78097_E0000190488_1_s.jpg",
+      "datePublished": "2026-11-19T03:45:00+09:00"
+    },
+    {
+      "name": "APEC 高市首相 習近平国家主席と握手 プーチン氏と意見交わす",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261118de77690",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77690/20261118de77690_E0000190352_1_s.jpg",
+      "datePublished": "2026-11-19T01:54:00+09:00"
+    },
+    {
+      "name": "EUがウクライナに7兆円余の追加融資へ「和平協議で優位に」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261119de78087",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78087/20261119de78087_E0000190468_1_s.jpg",
+      "datePublished": "2026-11-19T01:51:55+09:00"
+    },
+    {
+      "name": "歌手の太田裕美さん死去 71歳「木綿のハンカチーフ」大ヒット",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261118de77513",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77513/20261118de77513_E0000186666_1_s.jpg",
+      "datePublished": "2026-11-19T00:38:57+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
