@@ -1,0 +1,79 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261118de77491",
+  "dataSourceId": "nd",
+  "name": "日米首脳が短時間懇談 インド太平洋情勢で緊密連携確認",
+  "headline": "日米首脳が短時間懇談 インド太平洋情勢で緊密連携確認",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261118de77491",
+    "playlistId": "news-nwa-politics-nationwide-20261118",
+    "newsarticleName": "日米首脳が短時間懇談 インド太平洋情勢で緊密連携確認",
+    "playlistName": "11月18日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "フィリピンを訪問している高市総理大臣は、日本時間の17日夜、アメリカのトランプ大統領と短時間、懇談し、インド太平洋情勢を含む諸課題について今後とも緊密に連携していくことを確認しました。\n\n\n高市総理大",
+  "dateModified": "2026-11-18T06:56:51+09:00",
+  "datePublished": "2026-11-18T06:56:51+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77491/20261118de77491_E0000186317_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77491/20261118de77491_E0000186317_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治",
+    "国際"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "フィリピンを訪問している高市総理大臣は、日本時間の17日夜、アメリカのトランプ大統領と短時間、懇談し、インド太平洋情勢を含む諸課題について今後とも緊密に連携していくことを確認しました。\n\n\n高市総理大",
+  "articleBody": "フィリピンを訪問している高市総理大臣は、日本時間の17日夜、アメリカのトランプ大統領と短時間、懇談し、インド太平洋情勢を含む諸課題について今後とも緊密に連携していくことを確認しました。\n\n\n高市総理大臣は、日本時間の17日夜、訪問先のフィリピンでアメリカのトランプ大統領も参加して、日米豪印4か国の枠組み、クアッドの首脳会合に臨みました。\n\nその後、フィリピンのマルコス大統領主催のトランプ大統領を歓迎する夕食会に出席し、会場でトランプ大統領と短時間、懇談しました。\n\nこの中で両首脳は、インド太平洋情勢を含む諸課題について意見を交わし、今後とも緊密に連携していくことを確認しました。\n\n両首脳は、18日にAPEC＝アジア太平洋経済協力会議の首脳会議が行われる中国の深センを訪問することにしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "フィリピンを訪問している高市総理大臣は、日本時間の17日夜、アメリカのトランプ大統領と短時間、懇談し、インド太平洋情勢を含む諸課題について今後とも緊密に連携していくことを確認しました。\n",
+    "markedBody": "高市総理大臣は、日本時間の17日夜、訪問先のフィリピンでアメリカのトランプ大統領も参加して、日米豪印4か国の枠組み、クアッドの首脳会合に臨みました。\n\nその後、フィリピンのマルコス大統領主催のトランプ大統領を歓迎する夕食会に出席し、会場でトランプ大統領と短時間、懇談しました。\n\nこの中で両首脳は、インド太平洋情勢を含む諸課題について意見を交わし、今後とも緊密に連携していくことを確認しました。\n\n両首脳は、18日にAPEC＝アジア太平洋経済協力会議の首脳会議が行われる中国の深センを訪問することにしています。\n",
+    "trimmedLead": "フィリピンを訪問している高市総理大臣は、日本時間の17日夜、アメリカのトランプ大統領と短時間、懇談し、インド太平洋情勢を含む諸課題について今後とも緊密に連携していくことを確認しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261118de77491.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261118de77491",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
