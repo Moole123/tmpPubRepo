@@ -1,0 +1,154 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261118de77712",
+  "dataSourceId": "nd",
+  "name": "「日本版DBS」にぜい弱性見つかり来月の稼働遅れる見通し",
+  "headline": "「日本版DBS」にぜい弱性見つかり来月の稼働遅れる見通し",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261118de77712",
+    "playlistId": "news-nwa-society-nationwide-20261118",
+    "newsarticleName": "「日本版DBS」にぜい弱性見つかり来月の稼働遅れる見通し",
+    "playlistName": "11月18日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "子どもと接する仕事に就く人の性犯罪歴を確認する「日本版DBS」の専用システムについて、不正アクセスのおそれのあるぜい弱性が見つかり、12月からの稼働が大幅に遅れる見通しになりました。\nこども家庭庁は当",
+  "dateModified": "2026-11-18T17:24:00+09:00",
+  "datePublished": "2026-11-18T17:24:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77712/20261118de77712_E0000187616_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77712/20261118de77712_E0000187616_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000467",
+      "name": "こども家庭庁",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "子どもと接する仕事に就く人の性犯罪歴を確認する「日本版DBS」の専用システムについて、不正アクセスのおそれのあるぜい弱性が見つかり、12月からの稼働が大幅に遅れる見通しになりました。\nこども家庭庁は当",
+  "articleBody": "子どもと接する仕事に就く人の性犯罪歴を確認する「日本版DBS」の専用システムについて、不正アクセスのおそれのあるぜい弱性が見つかり、12月からの稼働が大幅に遅れる見通しになりました。\nこども家庭庁は当面、書面で対応する方法などを検討しています。\n\n\n12月25日に施行される「こども性暴力防止法」では、子どもと接する仕事に就く人の性犯罪歴について、「日本版DBS」の専用システムで確認するよう学校や保育所などの事業者に義務づけることになります。\n\n企業などの不正アクセスの事案が相次いでいることを受けて、こども家庭庁が「日本版DBS」のシステムをAIを使って再点検したところ、不正アクセスのおそれがあるぜい弱性が見つかったということです。\n\n現在、解消のめどが立っておらず、12月25日からの稼働が大幅に遅れる見通しだということです。\n\n一方、現段階では、システム内に性犯罪歴などの情報を入力していないため、情報流出のおそれはないとしています。\n\nこども家庭庁ではぜい弱性の解消に向けた作業を進めていて、当面、書面で対応する方法などを検討しているということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "子どもと接する仕事に就く人の性犯罪歴を確認する「日本版DBS」の専用システムについて、不正アクセスのおそれのあるぜい弱性が見つかり、12月からの稼働が大幅に遅れる見通しになりました。\\\nこども家庭庁は当面、書面で対応する方法などを検討しています。\n",
+    "markedBody": "12月25日に施行される「こども性暴力防止法」では、子どもと接する仕事に就く人の性犯罪歴について、「日本版DBS」の専用システムで確認するよう学校や保育所などの事業者に義務づけることになります。\n\n企業などの不正アクセスの事案が相次いでいることを受けて、こども家庭庁が「日本版DBS」のシステムをAIを使って再点検したところ、不正アクセスのおそれがあるぜい弱性が見つかったということです。\n\n現在、解消のめどが立っておらず、12月25日からの稼働が大幅に遅れる見通しだということです。\n\n一方、現段階では、システム内に性犯罪歴などの情報を入力していないため、情報流出のおそれはないとしています。\n\nこども家庭庁ではぜい弱性の解消に向けた作業を進めていて、当面、書面で対応する方法などを検討しているということです。\n",
+    "trimmedLead": "子どもと接する仕事に就く人の性犯罪歴を確認する「日本版DBS」の専用システムについて、不正アクセスのおそれのあるぜい弱性が見つかり、12月からの稼働が大幅に遅れる見通しになりました。\nこども家庭庁は当面、書面で対応する方法などを検討しています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261118de77712.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261118de77712",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "「日本版DBS」にぜい弱性見つかり来月の稼働遅れる見通し",
+      "description": "子どもと接する仕事に就く人の性犯罪歴を確認する「日本版DBS」の専用システムについて、不正アクセスのおそれのあるぜい弱性が見つかり、12月からの稼働が大幅に遅れる見通しになりました。\nこども家庭庁は当",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261118de77712_E0000187625_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261118de77712/20261118de77712_E0000187616_1_l.jpg",
+      "duration": "PT1M5S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261118de77712_E0000187625_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77712/20261118de77712_E0000187616_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "アメリカ 国家安全保障局の機密通信が停止 大規模障害相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261118de77569",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77569/20261118de77569_E0000186738_1_s.jpg",
+      "datePublished": "2026-11-18T12:21:27+09:00"
+    },
+    {
+      "name": "中野 女性刺殺事件 「女性との食事代などに800万円」供述",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261118de77644",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77644/20261118de77644_E0000187193_1_s.jpg",
+      "datePublished": "2026-11-18T14:13:56+09:00"
+    },
+    {
+      "name": "ネットにつながらない携帯電話発売へ 脱ネット需要がねらい",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261118de77672",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77672/20261118de77672_E0000187433_1_s.jpg",
+      "datePublished": "2026-11-18T19:56:55+09:00"
+    },
+    {
+      "name": "日本の自動車業界 主要素材・部品共通化 競争力強化へ【QA】 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261118de77529",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77529/20261118de77529_E0000186741_2_s.jpg",
+      "datePublished": "2026-11-18T19:54:49+09:00"
+    },
+    {
+      "name": "受刑者の選挙権制限は“合憲” 最高裁が初判断",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261118de77522",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77522/20261118de77522_E0000187894_1_s.jpg",
+      "datePublished": "2026-11-18T21:20:31+09:00"
+    },
+    {
+      "name": "地球から1光日 259億キロ離れた宇宙を進むボイジャー1号の旅",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261116de76380",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76380/20261116de76380_E0000183529_1_s.jpg",
+      "datePublished": "2026-11-17T23:58:22+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
