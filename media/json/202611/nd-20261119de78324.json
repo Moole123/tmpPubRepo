@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261119de78324",
+  "dataSourceId": "nd",
+  "name": "ソフトウエア「nginx」にぜい弱性 “必要な措置を”官房長官",
+  "headline": "ソフトウエア「nginx」にぜい弱性 “必要な措置を”官房長官",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261119de78324",
+    "playlistId": "news-nwa-society-nationwide-20261119",
+    "newsarticleName": "ソフトウエア「nginx」にぜい弱性 “必要な措置を”官房長官",
+    "playlistName": "11月19日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "木原官房長官はウェブサイトの運用などに世界中で広く使われている「nginx（エンジンエックス）」と呼ばれるソフトウエアにぜい弱性が見つかったとして、利用している事業者に対し、速やかにアップデートを行う",
+  "dateModified": "2026-11-19T13:37:08+09:00",
+  "datePublished": "2026-11-19T13:37:08+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78324/20261119de78324_E0000191650_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78324/20261119de78324_E0000191650_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会",
+    "政治"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "木原官房長官はウェブサイトの運用などに世界中で広く使われている「nginx（エンジンエックス）」と呼ばれるソフトウエアにぜい弱性が見つかったとして、利用している事業者に対し、速やかにアップデートを行う",
+  "articleBody": "木原官房長官はウェブサイトの運用などに世界中で広く使われている「nginx（エンジンエックス）」と呼ばれるソフトウエアにぜい弱性が見つかったとして、利用している事業者に対し、速やかにアップデートを行うなど必要な措置をとるよう呼びかけました。\n\n\n国家サイバー統括室は19日未明、ウェブサイトの運用などに世界中で広く使われている「nginx」と呼ばれるウェブサーバー向けのソフトウエアでぜい弱性が公表されたとSNSに投稿しました。\n\nこれについて木原官房長官は午前の記者会見で「現時点でぜい弱性に関係して被害があったとの報告は受けていない。このソフトウエアを利用する事業者に対しては必要な措置をとることをお願いしたい」と述べ、速やかにアップデートなどを行うよう呼びかけました。\n\nそのうえで「国家サイバー統括室を中心に関係省庁が連携しながら今後も必要な情報提供などを迅速に行っていく」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "木原官房長官はウェブサイトの運用などに世界中で広く使われている「nginx（エンジンエックス）」と呼ばれるソフトウエアにぜい弱性が見つかったとして、利用している事業者に対し、速やかにアップデートを行うなど必要な措置をとるよう呼びかけました。\n",
+    "markedBody": "国家サイバー統括室は19日未明、ウェブサイトの運用などに世界中で広く使われている「nginx」と呼ばれるウェブサーバー向けのソフトウエアでぜい弱性が公表されたとSNSに投稿しました。\n\nこれについて木原官房長官は午前の記者会見で「現時点でぜい弱性に関係して被害があったとの報告は受けていない。このソフトウエアを利用する事業者に対しては必要な措置をとることをお願いしたい」と述べ、速やかにアップデートなどを行うよう呼びかけました。\n\nそのうえで「国家サイバー統括室を中心に関係省庁が連携しながら今後も必要な情報提供などを迅速に行っていく」と述べました。\n",
+    "trimmedLead": "木原官房長官はウェブサイトの運用などに世界中で広く使われている「nginx（エンジンエックス）」と呼ばれるソフトウエアにぜい弱性が見つかったとして、利用している事業者に対し、速やかにアップデートを行うなど必要な措置をとるよう呼びかけました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261119de78324.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261119de78324",
+  "video": [],
+  "citation": [
+    {
+      "name": "エヌビディア フアン氏復帰に意欲も取締役会は「意向ない」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261118de77484",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77484/20261118de77484_E0000186305_1_s.jpg",
+      "datePublished": "2026-11-18T10:31:00+09:00"
+    },
+    {
+      "name": "ネットにつながらない携帯電話発売へ 脱ネット需要がねらい",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261118de77672",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77672/20261118de77672_E0000187433_1_s.jpg",
+      "datePublished": "2026-11-18T23:29:00+09:00"
+    },
+    {
+      "name": "Jリーグのチケット販売サイト 利用者情報238万件漏えい",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261118de78072",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de78072/20261118de78072_E0000190459_1_s.jpg",
+      "datePublished": "2026-11-19T04:06:20+09:00"
+    },
+    {
+      "name": "ソフトバンクGの孫社長「AIバブルではない」投資継続の考え",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261118de78044",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de78044/20261118de78044_E0000190433_1_s.jpg",
+      "datePublished": "2026-11-18T22:33:00+09:00"
+    },
+    {
+      "name": "【情報漏えい】対策どうする 二次被害に遭わないためには",
+      "url": "https://news.web.nhk/newsweb/pl/editorial-nwa-0000000697",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261018de61119_E0000086259_1_s.jpg"
+    },
+    {
+      "name": "徹底解説 相次ぐ不正アクセスなぜ？情報守るためにできること",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de71172",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71172/20261105de71172_E0000147138_1_s.jpg",
+      "datePublished": "2026-11-06T19:08:00+09:00"
+    },
+    {
+      "name": "情報漏えいリスク回避へ対策は？通販サイト閉鎖の企業も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261111de73911",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73911/20261111de73911_E0000163665_1_s.jpg",
+      "datePublished": "2026-11-11T18:51:00+09:00"
+    },
+    {
+      "name": "日本はなぜ狙われる？サイバー攻撃 生活にも影響 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de70851",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70851/20261105de70851_E0000147150_1_s.jpg",
+      "datePublished": "2026-11-07T18:14:00+09:00"
+    },
+    {
+      "name": "相次ぐ情報流出 犯罪グループの摘発は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261111de74020",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de74020/20261111de74020_E0000162650_1_s.jpg",
+      "datePublished": "2026-11-11T12:54:00+09:00"
+    },
+    {
+      "name": "国際ハッカー集団“日本企業はぜい弱性を放置”取材に回答",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261106de71650",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71650/20261106de71650_E0000148166_1_s.jpg",
+      "datePublished": "2026-11-06T19:55:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
