@@ -1,0 +1,174 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261119de78620",
+  "dataSourceId": "nd",
+  "name": "PHP 新たなぜい弱性が判明 サービス休止を計画する動きも",
+  "headline": "PHP 新たなぜい弱性が判明 サービス休止を計画する動きも",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261119de78620",
+    "playlistId": "news-nwa-scienceculture-nationwide-20261119",
+    "newsarticleName": "PHP 新たなぜい弱性が判明 サービス休止を計画する動きも",
+    "playlistName": "11月19日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "先月、重大なぜい弱性が見つかってウェブサイト停止などの影響が出たプログラミング言語「PHP」について、新たに重大なぜい弱性があることが分かり、運営する団体は修正プログラムを日本時間の19日夜に公開する",
+  "dateModified": "2026-11-19T18:38:00+09:00",
+  "datePublished": "2026-11-19T18:38:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78620/20261119de78620_E0000192500_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78620/20261119de78620_E0000192500_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "科学・文化",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "先月、重大なぜい弱性が見つかってウェブサイト停止などの影響が出たプログラミング言語「PHP」について、新たに重大なぜい弱性があることが分かり、運営する団体は修正プログラムを日本時間の19日夜に公開する",
+  "articleBody": "先月、重大なぜい弱性が見つかってウェブサイト停止などの影響が出たプログラミング言語「PHP」について、新たに重大なぜい弱性があることが分かり、運営する団体は修正プログラムを日本時間の19日夜に公開するとしています。すでにサイトやサービスの休止を計画する動きも出ています。\n\n\nPHPはウェブサイトなどに広く使われているプログラミング言語で、先月、重大なぜい弱性、つまり欠陥が見つかり、企業や公的機関がウェブサイトを修正したりサービスを一時停止したりする影響が広がりました。\n\nこのPHPについて、運営団体は新たに重大なぜい弱性が見つかったとして、日本時間の19日午後11時以降に修正のためのプログラムを公開すると明らかにし、PHPを使っている企業などに速やかに修正するよう求めています。\n\nただし、問題が起こるのは設定が標準ではない場合としていて、先月の時ほど影響が広がらない可能性もあります。\n\n今回の発表を受けて、PHPを使ったウェブサイトなどを提供している企業や公的機関では、先月と同じように緊急のサービス休止を計画する動きが出ています。\n\nこのうち、「預金保険機構」は、サーバーやシステムの緊急点検と修正プログラムの適用を行うため、振り込め詐欺被害に遭った場合の手続きなどを調べるサイトを19日昼過ぎから一時停止しました。作業が終わりしだい、サイトを復旧させる予定だとしています。\n\nまた、保育園と保護者の連絡などに使うアプリを提供している東京のIT関連企業「コドモン」は、19日夜に予定される修正プログラム公開を待って、サービスを停止するか判断するとしています。これを前に19日昼、サービスを止める可能性があることを保育施設などに知らせたということです。\n\nこのほかにも、サーバーを提供する企業や自治体でもサービスを止める可能性があると公表する動きが出ています。\n",
+  "detailedArticleBody": {
+    "markedLead": "先月、重大なぜい弱性が見つかってウェブサイト停止などの影響が出たプログラミング言語「PHP」について、新たに重大なぜい弱性があることが分かり、運営する団体は修正プログラムを日本時間の19日夜に公開するとしています。すでにサイトやサービスの休止を計画する動きも出ています。\n",
+    "markedBody": "PHPはウェブサイトなどに広く使われているプログラミング言語で、先月、重大なぜい弱性、つまり欠陥が見つかり、企業や公的機関がウェブサイトを修正したりサービスを一時停止したりする影響が広がりました。\n\nこのPHPについて、運営団体は新たに重大なぜい弱性が見つかったとして、日本時間の19日午後11時以降に修正のためのプログラムを公開すると明らかにし、PHPを使っている企業などに速やかに修正するよう求めています。\n\nただし、問題が起こるのは設定が標準ではない場合としていて、先月の時ほど影響が広がらない可能性もあります。\n\n今回の発表を受けて、PHPを使ったウェブサイトなどを提供している企業や公的機関では、先月と同じように緊急のサービス休止を計画する動きが出ています。\n\nこのうち、「預金保険機構」は、サーバーやシステムの緊急点検と修正プログラムの適用を行うため、振り込め詐欺被害に遭った場合の手続きなどを調べるサイトを19日昼過ぎから一時停止しました。作業が終わりしだい、サイトを復旧させる予定だとしています。\n\nまた、保育園と保護者の連絡などに使うアプリを提供している東京のIT関連企業「コドモン」は、19日夜に予定される修正プログラム公開を待って、サービスを停止するか判断するとしています。これを前に19日昼、サービスを止める可能性があることを保育施設などに知らせたということです。\n\nこのほかにも、サーバーを提供する企業や自治体でもサービスを止める可能性があると公表する動きが出ています。\n",
+    "trimmedLead": "先月、重大なぜい弱性が見つかってウェブサイト停止などの影響が出たプログラミング言語「PHP」について、新たに重大なぜい弱性があることが分かり、運営する団体は修正プログラムを日本時間の19日夜に公開するとしています。すでにサイトやサービスの休止を計画する動きも出ています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261119de78620.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261119de78620",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "PHP 新たなぜい弱性が判明 サービス休止を計画する動きも",
+      "description": "先月、重大なぜい弱性が見つかってウェブサイト停止などの影響が出たプログラミング言語「PHP」について、新たに重大なぜい弱性があることが分かり、運営する団体は修正プログラムを日本時間の19日夜に公開する",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261119de78620_E0000193640_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261119de78620/20261119de78620_E0000192500_1_l.jpg",
+      "duration": "PT1M17S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261119de78620_E0000193640_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78620/20261119de78620_E0000192500_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "ソフトウエア「nginx」にぜい弱性 “必要な措置を”官房長官",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261119de78324",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78324/20261119de78324_E0000192627_1_s.jpg",
+      "datePublished": "2026-11-19T18:33:00+09:00"
+    },
+    {
+      "name": "集客や広告宣伝支援「KARTE」に不正アクセス 利用企業に影響",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261117de77106",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de77106/20261117de77106_E0000147912_1_s.jpg",
+      "datePublished": "2026-11-17T23:34:45+09:00"
+    },
+    {
+      "name": "徹底解説 相次ぐ不正アクセスなぜ？情報守るためにできること",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de71172",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71172/20261105de71172_E0000147138_1_s.jpg",
+      "datePublished": "2026-11-06T19:08:00+09:00"
+    },
+    {
+      "name": "史上初 米中ロ首脳会談で「平和宣言」 核リスク低減へ対話を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261119de78117",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78117/20261119de78117_E0000193620_1_s.jpg",
+      "datePublished": "2026-11-19T21:32:14+09:00"
+    },
+    {
+      "name": "高市首相 訪問先の中国で記者会見【動画 全編】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261119de78187",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78187/20261119de78187_E0000191991_1_s.jpg",
+      "datePublished": "2026-11-19T18:09:00+09:00"
+    },
+    {
+      "name": "【動画】米中首脳会談 貿易やAIなど意見を交わしたか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261119de78419",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78419/20261119de78419_E0000191894_1_s.jpg",
+      "datePublished": "2026-11-19T19:07:46+09:00"
+    },
+    {
+      "name": "JT ロシア現地法人“実質的経営権喪失”約1兆3770億円の損失へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261119de78445",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78445/20261119de78445_E0000152158_1_s.jpg",
+      "datePublished": "2026-11-19T19:49:37+09:00"
+    },
+    {
+      "name": "大分 陸自戦車３人死亡事故 部品異物など原因で砲弾破裂と公表",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261119de78589",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78589/20261119de78589_E0000192080_1_s.jpg",
+      "datePublished": "2026-11-19T18:18:00+09:00"
+    },
+    {
+      "name": "警察のサイバー部門幹部が臨時会議 個人情報の流出相次ぐなか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261119de78229",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78229/20261119de78229_E0000191010_1_s.jpg",
+      "datePublished": "2026-11-19T11:51:45+09:00"
+    },
+    {
+      "name": "“いいねがつくから”じゃ済まされない アスリート盗撮深刻化",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261118de77620",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77620/20261118de77620_E0000187792_1_s.jpg",
+      "datePublished": "2026-11-19T12:36:55+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
