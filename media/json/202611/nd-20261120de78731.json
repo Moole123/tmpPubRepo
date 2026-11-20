@@ -1,0 +1,138 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261120de78731",
+  "dataSourceId": "nd",
+  "name": "カイロスロケット4号機 来年1月打ち上げへ 和歌山の発射場から",
+  "headline": "カイロスロケット4号機 来年1月打ち上げへ 和歌山の発射場から",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261120de78731",
+    "playlistId": "news-nwa-society-nationwide-20261120",
+    "newsarticleName": "カイロスロケット4号機 来年1月打ち上げへ 和歌山の発射場から",
+    "playlistName": "11月20日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "和歌山県の発射場から打ち上げられる民間の小型ロケット「カイロス」の4号機について、開発した東京の企業は来年1月22日に打ち上げる方向で調整していることが関係者への取材でわかりました。\n\n\n「カイロス」",
+  "dateModified": "2026-11-20T06:26:38+09:00",
+  "datePublished": "2026-11-20T06:26:38+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78731/20261120de78731_E0000194565_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78731/20261120de78731_E0000194565_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000358",
+      "name": "和歌山県",
+      "display": true
+    },
+    {
+      "id": "E0000000319",
+      "name": "宇宙",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "和歌山県の発射場から打ち上げられる民間の小型ロケット「カイロス」の4号機について、開発した東京の企業は来年1月22日に打ち上げる方向で調整していることが関係者への取材でわかりました。\n\n\n「カイロス」",
+  "articleBody": "和歌山県の発射場から打ち上げられる民間の小型ロケット「カイロス」の4号機について、開発した東京の企業は来年1月22日に打ち上げる方向で調整していることが関係者への取材でわかりました。\n\n\n「カイロス」は東京のベンチャー企業「スペースワン」が開発した小型ロケットで、和歌山県串本町の発射場からこれまでに3回打ち上げられましたが、いずれも失敗しています。\n\n関係者によりますと、企業は次の4号機について、人工衛星を搭載した上で来年1月22日に打ち上げる方向で調整していることがわかりました。\n\n「カイロス」は、民間企業単独としては国内初となる人工衛星の軌道投入を目指していますが、前回の3号機では飛行を中断する機能が作動して打ち上げが失敗し、企業が原因の特定と対策を行ってきました。\n\n企業は打ち上げ日について近く正式に発表する見通しで、4回目となる今回の打ち上げで初めての成功となるか注目されます。\n",
+  "detailedArticleBody": {
+    "markedLead": "和歌山県の発射場から打ち上げられる民間の小型ロケット「カイロス」の4号機について、開発した東京の企業は来年1月22日に打ち上げる方向で調整していることが関係者への取材でわかりました。\n",
+    "markedBody": "「カイロス」は東京のベンチャー企業「スペースワン」が開発した小型ロケットで、和歌山県串本町の発射場からこれまでに3回打ち上げられましたが、いずれも失敗しています。\n\n関係者によりますと、企業は次の4号機について、人工衛星を搭載した上で来年1月22日に打ち上げる方向で調整していることがわかりました。\n\n「カイロス」は、民間企業単独としては国内初となる人工衛星の軌道投入を目指していますが、前回の3号機では飛行を中断する機能が作動して打ち上げが失敗し、企業が原因の特定と対策を行ってきました。\n\n企業は打ち上げ日について近く正式に発表する見通しで、4回目となる今回の打ち上げで初めての成功となるか注目されます。\n",
+    "trimmedLead": "和歌山県の発射場から打ち上げられる民間の小型ロケット「カイロス」の4号機について、開発した東京の企業は来年1月22日に打ち上げる方向で調整していることが関係者への取材でわかりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261120de78731.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261120de78731",
+  "video": [],
+  "citation": [
+    {
+      "name": "H3ロケット 次の11号機の打ち上げ業務民営化へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de78738",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78738/20261120de78738_E0000194570_1_s.jpg",
+      "datePublished": "2026-11-20T05:42:47+09:00"
+    },
+    {
+      "name": "探査機ボイジャー1号 トラブル発生も「1光日」到達確認 NASA",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de78757",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78757/20261120de78757_E0000194583_1_s.jpg",
+      "datePublished": "2026-11-20T07:02:16+09:00"
+    },
+    {
+      "name": "「はやぶさ2」設計寿命超えたエンジン故障で最終目的地を変更",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261117de77308",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de77308/20261117de77308_E0000184125_1_s.jpg",
+      "datePublished": "2026-11-17T18:52:00+09:00"
+    },
+    {
+      "name": "スペースXの大型宇宙船 地球周回後の発射台キャッチに初成功",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261115de76047",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76047/20261115de76047_E0000176482_1_s.jpg",
+      "datePublished": "2026-11-15T16:48:00+09:00"
+    },
+    {
+      "name": "NASA長官「月面で日米の宇宙飛行士が肩を並べる日を楽しみに」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261119de78588",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78588/20261119de78588_E0000192068_1_s.jpg",
+      "datePublished": "2026-11-19T18:24:00+09:00"
+    },
+    {
+      "name": "地球から1光日 259億キロ離れた宇宙を進むボイジャー1号の旅",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261116de76380",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76380/20261116de76380_E0000183529_1_s.jpg",
+      "datePublished": "2026-11-17T23:58:22+09:00"
+    },
+    {
+      "name": "“いいねがつくから”じゃ済まされない アスリート盗撮深刻化",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261118de77620",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77620/20261118de77620_E0000187792_1_s.jpg",
+      "datePublished": "2026-11-19T12:36:55+09:00"
+    },
+    {
+      "name": "アプリ作りに専門知識が不要に!? AIが変える常識と落とし穴",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261117de77369",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de77369/20261117de77369_E0000189709_1_s.jpg",
+      "datePublished": "2026-11-18T19:17:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
