@@ -1,0 +1,78 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261120de79062",
+  "dataSourceId": "nd",
+  "name": "衆院国会改革小委 委員会資料オンライン化 通常国会から試行へ",
+  "headline": "衆院国会改革小委 委員会資料オンライン化 通常国会から試行へ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261120de79062",
+    "playlistId": "news-nwa-politics-nationwide-20261120",
+    "newsarticleName": "衆院国会改革小委 委員会資料オンライン化 通常国会から試行へ",
+    "playlistName": "11月20日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "衆議院議院運営委員会は国会改革などに関する小委員会を開き、各委員会で、現在、紙に印刷して配付されている資料をオンライン化し、タブレットなどで見ることができるようにする取り組みを、来年の通常国会から試験",
+  "dateModified": "2026-11-20T15:45:57+09:00",
+  "datePublished": "2026-11-20T15:45:57+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de79062/20261120de79062_E0000196141_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de79062/20261120de79062_E0000196141_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治"
+  ],
+  "topic": [],
+  "toc": [],
+  "abstract": "衆議院議院運営委員会は国会改革などに関する小委員会を開き、各委員会で、現在、紙に印刷して配付されている資料をオンライン化し、タブレットなどで見ることができるようにする取り組みを、来年の通常国会から試験",
+  "articleBody": "衆議院議院運営委員会は国会改革などに関する小委員会を開き、各委員会で、現在、紙に印刷して配付されている資料をオンライン化し、タブレットなどで見ることができるようにする取り組みを、来年の通常国会から試験的に始めることで与野党が合意しました。\n\n\n20日開かれた衆議院議院運営委員会の国会改革などに関する小委員会で、与野党は、各委員会でペーパーレス化に向けた取り組みを進めることを申し合わせました。\n\nこの中では、現在の、質問する議員などが資料を出席者の人数分、紙に印刷して配付している方法を改め、資料をオンライン化して共有し、タブレットなどで見ることができるようにするとしています。\n\nその上で、今後、オンライン化する資料の対象や共有範囲、保存方法といった運用ルールを取りまとめることを確認しました。\n\nそして、こうした方法を来年の通常国会から試験的に始めることで合意しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "衆議院議院運営委員会は国会改革などに関する小委員会を開き、各委員会で、現在、紙に印刷して配付されている資料をオンライン化し、タブレットなどで見ることができるようにする取り組みを、来年の通常国会から試験的に始めることで与野党が合意しました。\n",
+    "markedBody": "20日開かれた衆議院議院運営委員会の国会改革などに関する小委員会で、与野党は、各委員会でペーパーレス化に向けた取り組みを進めることを申し合わせました。\n\nこの中では、現在の、質問する議員などが資料を出席者の人数分、紙に印刷して配付している方法を改め、資料をオンライン化して共有し、タブレットなどで見ることができるようにするとしています。\n\nその上で、今後、オンライン化する資料の対象や共有範囲、保存方法といった運用ルールを取りまとめることを確認しました。\n\nそして、こうした方法を来年の通常国会から試験的に始めることで合意しました。\n",
+    "trimmedLead": "衆議院議院運営委員会は国会改革などに関する小委員会を開き、各委員会で、現在、紙に印刷して配付されている資料をオンライン化し、タブレットなどで見ることができるようにする取り組みを、来年の通常国会から試験的に始めることで与野党が合意しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261120de79062.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261120de79062",
+  "video": [],
+  "citation": [],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
