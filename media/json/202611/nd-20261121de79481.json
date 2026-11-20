@@ -1,0 +1,128 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261121de79481",
+  "dataSourceId": "nd",
+  "name": "ナスダック指数が一時3%超の下落 アンソロピック14％安",
+  "headline": "ナスダック指数が一時3%超の下落 アンソロピック14％安",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261121de79481",
+    "playlistId": "news-nwa-business-nationwide-20261121",
+    "newsarticleName": "ナスダック指数が一時3%超の下落 アンソロピック14％安",
+    "playlistName": "11月21日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "20日のニューヨーク株式市場では、AI開発などをめぐる先行きの不透明感が意識されるなか、半導体をはじめ幅広い銘柄に売り注文が広がり、ハイテク株の比率が高いナスダックの株価指数は前日から一時、900ポイ",
+  "dateModified": "2026-11-21T03:20:33+09:00",
+  "datePublished": "2026-11-21T03:20:33+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79481/20261121de79481_E0000004050_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79481/20261121de79481_E0000004050_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000419",
+      "name": "アメリカ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "20日のニューヨーク株式市場では、AI開発などをめぐる先行きの不透明感が意識されるなか、半導体をはじめ幅広い銘柄に売り注文が広がり、ハイテク株の比率が高いナスダックの株価指数は前日から一時、900ポイ",
+  "articleBody": "20日のニューヨーク株式市場では、AI開発などをめぐる先行きの不透明感が意識されるなか、半導体をはじめ幅広い銘柄に売り注文が広がり、ハイテク株の比率が高いナスダックの株価指数は前日から一時、900ポイントあまり、率にして3.8％を超える大幅な下落となりました。\n\n19日にナスダック市場に上場したAI開発企業の「アンソロピック」にも売り注文が出て株価は一時、14％を超える下落となるなど、ハイテク株から資金を移す動きが広がっています。\n\n\n",
+  "detailedArticleBody": {
+    "markedLead": "20日のニューヨーク株式市場では、AI開発などをめぐる先行きの不透明感が意識されるなか、半導体をはじめ幅広い銘柄に売り注文が広がり、ハイテク株の比率が高いナスダックの株価指数は前日から一時、900ポイントあまり、率にして3.8％を超える大幅な下落となりました。\n\n19日にナスダック市場に上場したAI開発企業の「アンソロピック」にも売り注文が出て株価は一時、14％を超える下落となるなど、ハイテク株から資金を移す動きが広がっています。\n",
+    "markedBody": "",
+    "trimmedLead": "20日のニューヨーク株式市場では、AI開発などをめぐる先行きの不透明感が意識されるなか、半導体をはじめ幅広い銘柄に売り注文が広がり、ハイテク株の比率が高いナスダックの株価指数は前日から一時、900ポイントあまり、率にして3.8％を超える大幅な下落となりました。\n\n19日にナスダック市場に上場したAI開発企業の「アンソロピック」にも売り注文が出て株価は一時、14％を超える下落となるなど、ハイテク株から資金を移す動きが広がっています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261121de79481.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261121de79481",
+  "video": [],
+  "citation": [
+    {
+      "name": "米中ロ首脳会談“国際秩序の変化を象徴” 世界 日本への影響は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de79408",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de79408/20261120de79408_E0000199139_1_s.jpg",
+      "datePublished": "2026-11-20T22:04:04+09:00"
+    },
+    {
+      "name": "トランプ大統領 アジア訪問終えホワイトハウスに 各国の反応は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de78820",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78820/20261120de78820_E0000195150_1_s.jpg",
+      "datePublished": "2026-11-20T19:47:11+09:00"
+    },
+    {
+      "name": "ペルー ケイコ・フジモリ大統領“米中双方と連携 対話を歓迎”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de79417",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de79417/20261120de79417_E0000198388_1_s.jpg",
+      "datePublished": "2026-11-20T23:35:56+09:00"
+    },
+    {
+      "name": "ネパールで日本人35人拘束 特殊詐欺に関与か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de79345",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de79345/20261120de79345_E0000197760_1_s.jpg",
+      "datePublished": "2026-11-20T19:07:00+09:00"
+    },
+    {
+      "name": "「外国代理人」登録制度 “身分偽り公務員に接触は罰則対象”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de79258",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de79258/20261120de79258_E0000196355_1_s.jpg",
+      "datePublished": "2026-11-20T20:34:33+09:00"
+    },
+    {
+      "name": "シンガポール訪問の愛子さま「実り多い滞在」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de78827",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78827/20261120de78827_E0000195079_1_s.jpg",
+      "datePublished": "2026-11-20T17:43:00+09:00"
+    },
+    {
+      "name": "少女たちに何が 深刻化する児童婚",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de78941",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78941/20261120de78941_E0000195253_1_s.jpg",
+      "datePublished": "2026-11-20T16:10:23+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
