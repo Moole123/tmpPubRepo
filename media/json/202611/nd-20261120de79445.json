@@ -1,0 +1,131 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261120de79445",
+  "dataSourceId": "nd",
+  "name": "政府ネットワークに不正アクセス 情報漏えい可能性 デジタル庁",
+  "headline": "政府ネットワークに不正アクセス 情報漏えい可能性 デジタル庁",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261120de79445",
+    "playlistId": "news-nwa-politics-nationwide-20261120",
+    "newsarticleName": "政府ネットワークに不正アクセス 情報漏えい可能性 デジタル庁",
+    "playlistName": "11月20日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "デジタル庁は、政府の情報ネットワークに外部から不正なアクセスがあり、一部の情報が漏えいした可能性があると発表しました。機密性が高い情報などが漏えいしていないか、詳細を調べています。\n\n\nデジタル庁の発",
+  "dateModified": "2026-11-20T22:35:23+09:00",
+  "datePublished": "2026-11-20T22:35:23+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de79445/20261120de79445_E0000199181_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de79445/20261120de79445_E0000199181_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000461",
+      "name": "デジタル庁",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "デジタル庁は、政府の情報ネットワークに外部から不正なアクセスがあり、一部の情報が漏えいした可能性があると発表しました。機密性が高い情報などが漏えいしていないか、詳細を調べています。\n\n\nデジタル庁の発",
+  "articleBody": "デジタル庁は、政府の情報ネットワークに外部から不正なアクセスがあり、一部の情報が漏えいした可能性があると発表しました。機密性が高い情報などが漏えいしていないか、詳細を調べています。\n\n\nデジタル庁の発表によりますと、今月12日に政府のネットワーク「GSS＝ガバメント・ソリューション・サービス」に外部から不正なアクセスがあったことを確認したということです。\n\n「GSS」は政府の業務効率化などの目的で2021年から運用が始まった情報ネットワークです。\n\nこのうち、大容量のファイルを共有する機能に不正アクセスがあり、一部の情報が漏えいした可能性があるということです。\n\n現在、ファイルの共有は停止しています。\n\n不正なアクセスは、ことし7月30日に始まり、今月12日までの期間に複数回あったとみられるということです。\n\nデジタル庁は、機密性が高い情報や個人情報が漏えいしていないか詳細を調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "デジタル庁は、政府の情報ネットワークに外部から不正なアクセスがあり、一部の情報が漏えいした可能性があると発表しました。機密性が高い情報などが漏えいしていないか、詳細を調べています。\n",
+    "markedBody": "デジタル庁の発表によりますと、今月12日に政府のネットワーク「GSS＝ガバメント・ソリューション・サービス」に外部から不正なアクセスがあったことを確認したということです。\n\n「GSS」は政府の業務効率化などの目的で2021年から運用が始まった情報ネットワークです。\n\nこのうち、大容量のファイルを共有する機能に不正アクセスがあり、一部の情報が漏えいした可能性があるということです。\n\n現在、ファイルの共有は停止しています。\n\n不正なアクセスは、ことし7月30日に始まり、今月12日までの期間に複数回あったとみられるということです。\n\nデジタル庁は、機密性が高い情報や個人情報が漏えいしていないか詳細を調べています。\n",
+    "trimmedLead": "デジタル庁は、政府の情報ネットワークに外部から不正なアクセスがあり、一部の情報が漏えいした可能性があると発表しました。機密性が高い情報などが漏えいしていないか、詳細を調べています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261120de79445.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261120de79445",
+  "video": [],
+  "citation": [
+    {
+      "name": "KARTE 不正アクセス 情報漏えいや漏えいおそれ のべ約2200社に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de79350",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de79350/20261120de79350_E0000197732_1_s.jpg",
+      "datePublished": "2026-11-20T20:03:54+09:00"
+    },
+    {
+      "name": "「ポケットチェンジ」パスポート番号2万件余流出",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de78976",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78976/20261120de78976_E0000147912_1_s.jpg",
+      "datePublished": "2026-11-20T13:42:22+09:00"
+    },
+    {
+      "name": "不正アクセス履歴保全チーム『警察庁FFF』発足式 ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de79090",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de79090/20261120de79090_E0000196345_1_s.jpg",
+      "datePublished": "2026-11-20T17:26:00+09:00"
+    },
+    {
+      "name": "税制改正 暮らしはどう変わる？注目テーマのポイント",
+      "url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000010125",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261120de79222_E0000196311_1_s.jpg"
+    },
+    {
+      "name": "高さ5メートルの草で発電！？ 新エネルギー最前線",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261119de78171",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78171/20261119de78171_E0000193594_1_s.jpg",
+      "datePublished": "2026-11-20T11:31:43+09:00"
+    },
+    {
+      "name": "相次ぐ企業の不正　要因と防止策は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de78889",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78889/20261120de78889_E0000195136_1_s.jpg",
+      "datePublished": "2026-11-20T15:47:15+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
