@@ -1,0 +1,161 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261120de79437",
+  "dataSourceId": "nd",
+  "name": "サイバー被害拡大防止へ アクセス抑止策を検討する初会合",
+  "headline": "サイバー被害拡大防止へ アクセス抑止策を検討する初会合",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261120de79437",
+    "playlistId": "news-nwa-society-nationwide-20261120",
+    "newsarticleName": "サイバー被害拡大防止へ アクセス抑止策を検討する初会合",
+    "playlistName": "11月20日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "企業などを狙ったサイバー攻撃が相次ぐなか、総務省は漏えいした個人情報がネット上に掲載された場合などを想定し、悪質なサイトへのアクセスを抑止する方法などを議論する検討会の初会合を開きました。\n\n\n企業な",
+  "dateModified": "2026-11-20T21:44:59+09:00",
+  "datePublished": "2026-11-20T21:44:59+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de79437/20261120de79437_E0000003813_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de79437/20261120de79437_E0000003813_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会",
+    "科学・文化"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000455",
+      "name": "総務省",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "企業などを狙ったサイバー攻撃が相次ぐなか、総務省は漏えいした個人情報がネット上に掲載された場合などを想定し、悪質なサイトへのアクセスを抑止する方法などを議論する検討会の初会合を開きました。\n\n\n企業な",
+  "articleBody": "企業などを狙ったサイバー攻撃が相次ぐなか、総務省は漏えいした個人情報がネット上に掲載された場合などを想定し、悪質なサイトへのアクセスを抑止する方法などを議論する検討会の初会合を開きました。\n\n\n企業などを狙ったサイバー攻撃をめぐっては、漏えいした個人情報を悪用し、サービスを不正に利用するといった事案が発生しています。\n\nこうしたなか総務省は被害の拡大を防ごうと、漏えいした個人情報が掲載されたサイトなどへのアクセスを抑止する方法を議論する検討会の初会合を20日開きました。\n\n会合には憲法や法律の専門家などが出席し、総務省の担当者からアクセスを遮断する「ブロッキング」だけでなく、サイトや投稿自体を消去するなどさまざまな方法があることが紹介されました。\n\nこれに対して参加した専門家からは、「アクセスの遮断を実施する根拠になる情報を誰が提供し、どのような事業者が遮断できるかなど、慎重な検討が必要だ」とか、「アクセス抑止の判断を誤った場合にどうするのか、通信事業者を保護する議論も必要だ」などといった意見が相次ぎました。\n\n検討会では今後、通信事業者へのヒアリングを実施したり、必要な法整備などを議論したりしたうえで、来年中に報告書をまとめることにしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "企業などを狙ったサイバー攻撃が相次ぐなか、総務省は漏えいした個人情報がネット上に掲載された場合などを想定し、悪質なサイトへのアクセスを抑止する方法などを議論する検討会の初会合を開きました。\n",
+    "markedBody": "企業などを狙ったサイバー攻撃をめぐっては、漏えいした個人情報を悪用し、サービスを不正に利用するといった事案が発生しています。\n\nこうしたなか総務省は被害の拡大を防ごうと、漏えいした個人情報が掲載されたサイトなどへのアクセスを抑止する方法を議論する検討会の初会合を20日開きました。\n\n会合には憲法や法律の専門家などが出席し、総務省の担当者からアクセスを遮断する「ブロッキング」だけでなく、サイトや投稿自体を消去するなどさまざまな方法があることが紹介されました。\n\nこれに対して参加した専門家からは、「アクセスの遮断を実施する根拠になる情報を誰が提供し、どのような事業者が遮断できるかなど、慎重な検討が必要だ」とか、「アクセス抑止の判断を誤った場合にどうするのか、通信事業者を保護する議論も必要だ」などといった意見が相次ぎました。\n\n検討会では今後、通信事業者へのヒアリングを実施したり、必要な法整備などを議論したりしたうえで、来年中に報告書をまとめることにしています。\n",
+    "trimmedLead": "企業などを狙ったサイバー攻撃が相次ぐなか、総務省は漏えいした個人情報がネット上に掲載された場合などを想定し、悪質なサイトへのアクセスを抑止する方法などを議論する検討会の初会合を開きました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261120de79437.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261120de79437",
+  "video": [],
+  "citation": [
+    {
+      "name": "KARTE 不正アクセス 情報漏えいや漏えいおそれ のべ約2200社に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de79350",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de79350/20261120de79350_E0000197732_1_s.jpg",
+      "datePublished": "2026-11-20T20:03:54+09:00"
+    },
+    {
+      "name": "関文科相 2024年に ほかに3回省庁担当者出席のパーティー開催",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de79430",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de79430/20261120de79430_E0000198754_1_s.jpg",
+      "datePublished": "2026-11-20T21:20:00+09:00"
+    },
+    {
+      "name": "仙台と山形結ぶ国道48号通行止め解除 大雪で一時車50台動けず ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de79196",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de79196/20261120de79196_E0000196300_1_s.jpg",
+      "datePublished": "2026-11-20T21:12:09+09:00"
+    },
+    {
+      "name": "北海道十勝岳 やや西側でも火山ガス観測 活発な領域やや拡大か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de79360",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de79360/20261120de79360_E0000197942_1_s.jpg",
+      "datePublished": "2026-11-20T19:12:04+09:00"
+    },
+    {
+      "name": "税制改正 暮らしはどう変わる？注目テーマのポイント",
+      "url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000010125",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261120de79222_E0000196311_1_s.jpg"
+    },
+    {
+      "name": "太平洋クロマグロ 韓国や台湾との協議で大型魚25％増枠へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de79372",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de79372/20261120de79372_E0000198256_1_s.jpg",
+      "datePublished": "2026-11-20T19:59:00+09:00"
+    },
+    {
+      "name": "日本とサウジアラビア 原油の備蓄可能量 3倍で合意",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de79347",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de79347/20261120de79347_E0000195801_1_s.jpg",
+      "datePublished": "2026-11-20T18:46:00+09:00"
+    },
+    {
+      "name": "JR四ツ谷駅で除草の仕事するヤギ 早期退職へ 草を食べ尽くす",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de79120",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de79120/20261120de79120_E0000196242_1_s.jpg",
+      "datePublished": "2026-11-20T16:57:00+09:00"
+    },
+    {
+      "name": "高さ5メートルの草で発電！？ 新エネルギー最前線",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261119de78171",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78171/20261119de78171_E0000193594_1_s.jpg",
+      "datePublished": "2026-11-20T11:31:43+09:00"
+    },
+    {
+      "name": "相次ぐ企業の不正　要因と防止策は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de78889",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78889/20261120de78889_E0000195136_1_s.jpg",
+      "datePublished": "2026-11-20T15:47:15+09:00"
+    },
+    {
+      "name": "多発する災害 ペットと飼い主の対策は？",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de78869",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78869/20261120de78869_E0000195091_1_s.jpg",
+      "datePublished": "2026-11-20T13:54:05+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
