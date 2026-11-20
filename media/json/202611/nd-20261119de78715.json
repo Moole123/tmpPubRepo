@@ -1,0 +1,179 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261119de78715",
+  "dataSourceId": "nd",
+  "name": "サイバー攻撃対策 日本は各国に比べAI使った検知などに遅れ",
+  "headline": "サイバー攻撃対策 日本は各国に比べAI使った検知などに遅れ",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261119de78715",
+    "playlistId": "news-nwa-scienceculture-nationwide-20261120",
+    "newsarticleName": "サイバー攻撃対策 日本は各国に比べAI使った検知などに遅れ",
+    "playlistName": "11月20日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "企業などへのサイバー攻撃が相次ぐなか、アメリカのデータセキュリティー大手が主要な国の状況を調べたところ、日本はAIを使った異常の検知などが各国に比べて遅れていることがわかりました。\n\n\nアメリカのデー",
+  "dateModified": "2026-11-20T06:35:16+09:00",
+  "datePublished": "2026-11-20T05:31:35+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78715/20261119de78715_E0000194543_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78715/20261119de78715_E0000194543_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "科学・文化",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "企業などへのサイバー攻撃が相次ぐなか、アメリカのデータセキュリティー大手が主要な国の状況を調べたところ、日本はAIを使った異常の検知などが各国に比べて遅れていることがわかりました。\n\n\nアメリカのデー",
+  "articleBody": "企業などへのサイバー攻撃が相次ぐなか、アメリカのデータセキュリティー大手が主要な国の状況を調べたところ、日本はAIを使った異常の検知などが各国に比べて遅れていることがわかりました。\n\n\nアメリカのデータセキュリティー大手「コヒシティ」は、世界12か国の企業のITやセキュリティーの担当者3200人を対象にサイバー対策などに関する調査を行いました。\n\nその結果がまとまり、過去1年間に重大なサイバー攻撃を受けた日本企業の割合は全体の65％と、去年に比べて1.4倍に増えています。\n\nただ、サイバー攻撃を受けた企業のうち、復旧作業にAIが貢献したと回答した割合は、インドやオーストラリアなどで40％前後だったのに対し、日本は25％にとどまっています。\n\nさらに、ぜい弱性や異常の検知にAIが貢献したと回答した割合もインドやイギリスで40％を超えていますが、日本は29％となっていて、いずれも12か国の中で最も低くなっています。\n\nまた、重要なデータをすべてバックアップしていると回答した割合も、日本では44％と最も低かったということです。\n\nこうした結果について調査を行った会社では、AIが進化し言葉の壁がなくなったことで日本でもサイバー攻撃が増えていて、異常の検知やデータのバックアップなどが追いついていない状況がうかがえると分析しています。\n\nそのうえで日本企業に対して実際の攻撃を想定した訓練を定期的に行うほか、AIを使ってシステムのぜい弱性や異常を素早く検知する必要があるとしています。\n",
+  "detailedArticleBody": {
+    "markedLead": "企業などへのサイバー攻撃が相次ぐなか、アメリカのデータセキュリティー大手が主要な国の状況を調べたところ、日本はAIを使った異常の検知などが各国に比べて遅れていることがわかりました。\n",
+    "markedBody": "アメリカのデータセキュリティー大手「コヒシティ」は、世界12か国の企業のITやセキュリティーの担当者3200人を対象にサイバー対策などに関する調査を行いました。\n\nその結果がまとまり、過去1年間に重大なサイバー攻撃を受けた日本企業の割合は全体の65％と、去年に比べて1.4倍に増えています。\n\nただ、サイバー攻撃を受けた企業のうち、復旧作業にAIが貢献したと回答した割合は、インドやオーストラリアなどで40％前後だったのに対し、日本は25％にとどまっています。\n\nさらに、ぜい弱性や異常の検知にAIが貢献したと回答した割合もインドやイギリスで40％を超えていますが、日本は29％となっていて、いずれも12か国の中で最も低くなっています。\n\nまた、重要なデータをすべてバックアップしていると回答した割合も、日本では44％と最も低かったということです。\n\nこうした結果について調査を行った会社では、AIが進化し言葉の壁がなくなったことで日本でもサイバー攻撃が増えていて、異常の検知やデータのバックアップなどが追いついていない状況がうかがえると分析しています。\n\nそのうえで日本企業に対して実際の攻撃を想定した訓練を定期的に行うほか、AIを使ってシステムのぜい弱性や異常を素早く検知する必要があるとしています。\n",
+    "trimmedLead": "企業などへのサイバー攻撃が相次ぐなか、アメリカのデータセキュリティー大手が主要な国の状況を調べたところ、日本はAIを使った異常の検知などが各国に比べて遅れていることがわかりました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261119de78715.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261119de78715",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "サイバー攻撃対策 日本は各国に比べAI使った検知などに遅れ",
+      "description": "企業などへのサイバー攻撃が相次ぐなか、アメリカのデータセキュリティー大手が主要な国の状況を調べたところ、日本はAIを使った異常の検知などが各国に比べて遅れていることがわかりました。\n\n\nアメリカのデー",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261119de78715_E0000194606_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261119de78715/20261119de78715_E0000194543_1_l.jpg",
+      "duration": "PT1M45S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261119de78715_E0000194606_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78715/20261119de78715_E0000194543_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "米AI開発「アンソロピック」上場 過去最大規模の約13兆円調達",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de78753",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78753/20261120de78753_E0000194575_1_s.jpg",
+      "datePublished": "2026-11-20T07:23:06+09:00"
+    },
+    {
+      "name": "史上初 米中ロ首脳会談で「平和宣言」 核リスク低減へ対話を",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261119de78117",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78117/20261119de78117_E0000193620_1_s.jpg",
+      "datePublished": "2026-11-19T21:32:00+09:00"
+    },
+    {
+      "name": "高市首相 トランプ大統領から米中ロ首脳会談の説明受ける",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261119de78721",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78721/20261119de78721_E0000194556_1_s.jpg",
+      "datePublished": "2026-11-19T23:48:26+09:00"
+    },
+    {
+      "name": "ロヒンギャ迫害はジェノサイドと認定 国際司法裁判所が判決",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261119de78716",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78716/20261119de78716_E0000194535_1_s.jpg",
+      "datePublished": "2026-11-20T08:26:06+09:00"
+    },
+    {
+      "name": "PHPに新たなぜい弱性 修正プログラム公開 サービス一時停止も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261119de78620",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78620/20261119de78620_E0000192500_1_s.jpg",
+      "datePublished": "2026-11-20T02:19:49+09:00"
+    },
+    {
+      "name": "資産情報漏えいした可能性の楽天証券に金融庁が報告徴求命令",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261119de78725",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78725/20261119de78725_E0000194562_1_s.jpg",
+      "datePublished": "2026-11-20T00:51:34+09:00"
+    },
+    {
+      "name": "JT ロシア現地法人“実質的経営権喪失”約1兆3770億円の損失へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261119de78445",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78445/20261119de78445_E0000152158_1_s.jpg",
+      "datePublished": "2026-11-20T07:49:33+09:00"
+    },
+    {
+      "name": "関文科相の政治資金パーティーめぐり 与野党折り合わず",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261119de78444",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78444/20261119de78444_E0000192013_1_s.jpg",
+      "datePublished": "2026-11-19T20:01:21+09:00"
+    },
+    {
+      "name": "“いいねがつくから”じゃ済まされない アスリート盗撮深刻化",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261118de77620",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77620/20261118de77620_E0000187792_1_s.jpg",
+      "datePublished": "2026-11-19T12:36:55+09:00"
+    },
+    {
+      "name": "アプリ作りに専門知識が不要に!? AIが変える常識と落とし穴",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261117de77369",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de77369/20261117de77369_E0000189709_1_s.jpg",
+      "datePublished": "2026-11-18T19:17:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
