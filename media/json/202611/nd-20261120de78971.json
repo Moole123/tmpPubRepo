@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261120de78971",
+  "dataSourceId": "nd",
+  "name": "古川デジタル相 マイクロソフト大規模接続障害で会社側に再発防止求める",
+  "headline": "古川デジタル相 マイクロソフト障害で会社側に再発防止求める",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261120de78971",
+    "playlistId": "news-nwa-politics-nationwide-20261120",
+    "newsarticleName": "古川デジタル相 マイクロソフト大規模接続障害で会社側に再発防止求める",
+    "playlistName": "11月20日の政治ニュース",
+    "genreId": "politics",
+    "genreIdSlug": "politics"
+  },
+  "description": "アメリカのIT大手、マイクロソフトのサービスで起きた大規模な接続障害を受けて、古川デジタル大臣は20日朝、日本法人の社長と面会し、再発防止や速やかな情報提供を求めたことを明らかにしました。\n\n\n古川デ",
+  "dateModified": "2026-11-20T13:23:50+09:00",
+  "datePublished": "2026-11-20T13:23:50+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78971/20261120de78971_E0000195861_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78971/20261120de78971_E0000195861_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "政治",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000419",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "E0000000461",
+      "name": "デジタル庁",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "アメリカのIT大手、マイクロソフトのサービスで起きた大規模な接続障害を受けて、古川デジタル大臣は20日朝、日本法人の社長と面会し、再発防止や速やかな情報提供を求めたことを明らかにしました。\n\n\n古川デ",
+  "articleBody": "アメリカのIT大手、マイクロソフトのサービスで起きた大規模な接続障害を受けて、古川デジタル大臣は20日朝、日本法人の社長と面会し、再発防止や速やかな情報提供を求めたことを明らかにしました。\n\n\n古川デジタル大臣は閣議のあとの記者会見で、20日朝に日本マイクロソフトの津坂美樹社長と面会し、先週、「マイクロソフト365」と呼ばれるサービスで発生した大規模な接続障害について報告を受けたことを明らかにしました。\n\nこの中で、古川大臣は今回の障害の影響で政府の情報システムでも支障が生じたことを踏まえ、原因を十分に究明して実効性のある再発防止に取り組むことや、今後、障害が発生した際には影響などについて速やかな情報提供を行うよう求めました。\n\nこれに対し会社側からは、復旧の見通しを迅速に知らせる体制を構築するという説明があったということです。\n\n古川大臣は「会社側からは根本的に対策を考え、1つずつ修正していくという話を聞いた。デジタル庁としても、同様の事案が発生した場合、業務や国民生活への影響を最小化するため、政府内のシステムの代替手段などを迅速に示していきたい」と述べました。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカのIT大手、マイクロソフトのサービスで起きた大規模な接続障害を受けて、古川デジタル大臣は20日朝、日本法人の社長と面会し、再発防止や速やかな情報提供を求めたことを明らかにしました。\n",
+    "markedBody": "古川デジタル大臣は閣議のあとの記者会見で、20日朝に日本マイクロソフトの津坂美樹社長と面会し、先週、「マイクロソフト365」と呼ばれるサービスで発生した大規模な接続障害について報告を受けたことを明らかにしました。\n\nこの中で、古川大臣は今回の障害の影響で政府の情報システムでも支障が生じたことを踏まえ、原因を十分に究明して実効性のある再発防止に取り組むことや、今後、障害が発生した際には影響などについて速やかな情報提供を行うよう求めました。\n\nこれに対し会社側からは、復旧の見通しを迅速に知らせる体制を構築するという説明があったということです。\n\n古川大臣は「会社側からは根本的に対策を考え、1つずつ修正していくという話を聞いた。デジタル庁としても、同様の事案が発生した場合、業務や国民生活への影響を最小化するため、政府内のシステムの代替手段などを迅速に示していきたい」と述べました。\n",
+    "trimmedLead": "アメリカのIT大手、マイクロソフトのサービスで起きた大規模な接続障害を受けて、古川デジタル大臣は20日朝、日本法人の社長と面会し、再発防止や速やかな情報提供を求めたことを明らかにしました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261120de78971.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261120de78971",
+  "video": [],
+  "citation": [
+    {
+      "name": "トランプ大統領 アジア訪問終えホワイトハウスに 各国の反応は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de78820",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78820/20261120de78820_E0000195150_1_s.jpg",
+      "datePublished": "2026-11-20T14:50:30+09:00"
+    },
+    {
+      "name": "北海道や北陸で暴風に警戒 山沿いでは積雪も 強い冬型気圧配置",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de78769",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78769/20261120de78769_E0000194726_1_s.jpg",
+      "datePublished": "2026-11-20T11:56:00+09:00"
+    },
+    {
+      "name": "陸自射撃場3人殺傷事件 初公判で弁護士が無罪主張 岐阜地裁",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de78822",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78822/20261120de78822_E0000195050_1_s.jpg",
+      "datePublished": "2026-11-20T12:43:00+09:00"
+    },
+    {
+      "name": "株価 一時3000円超の値下がり ほぼ全面安 午後に下げ幅拡大",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de78808",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78808/20261120de78808_E0000196050_1_s.jpg",
+      "datePublished": "2026-11-20T15:08:06+09:00"
+    },
+    {
+      "name": "前橋 クマの目撃情報相次ぐ 高校生が追いかけられる映像も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de78906",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78906/20261120de78906_E0000195500_1_s.jpg",
+      "datePublished": "2026-11-20T12:44:00+09:00"
+    },
+    {
+      "name": "片山金融相 漏えい可能性の楽天証券に“非常に遺憾”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de78854",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78854/20261120de78854_E0000195077_1_s.jpg",
+      "datePublished": "2026-11-20T11:25:28+09:00"
+    },
+    {
+      "name": "シンガポール訪問の愛子さま「実り多い滞在」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de78827",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78827/20261120de78827_E0000195079_1_s.jpg",
+      "datePublished": "2026-11-20T11:50:00+09:00"
+    },
+    {
+      "name": "高さ5メートルの草で発電！？ 新エネルギー最前線",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261119de78171",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78171/20261119de78171_E0000193594_1_s.jpg",
+      "datePublished": "2026-11-20T11:31:43+09:00"
+    },
+    {
+      "name": "“いいねがつくから”じゃ済まされない アスリート盗撮深刻化",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261118de77620",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77620/20261118de77620_E0000187792_1_s.jpg",
+      "datePublished": "2026-11-19T12:36:55+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
