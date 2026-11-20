@@ -1,0 +1,150 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261120de78760",
+  "dataSourceId": "nd",
+  "name": "ダウ平均株価が5万ドル割れ 終値としては約5か月ぶり",
+  "headline": "ダウ平均株価が5万ドル割れ 終値としては約5か月ぶり",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261120de78760",
+    "playlistId": "news-nwa-international-nationwide-20261120",
+    "newsarticleName": "ダウ平均株価が5万ドル割れ 終値としては約5か月ぶり",
+    "playlistName": "11月20日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "19日のニューヨーク株式市場では、AI開発の先行きをめぐる不透明感などが根強いなかで幅広い銘柄に売り注文が広がり、ダウ平均株価の終値は前日と比べて1101ドル11セント安い、4万9097ドル6セントで",
+  "dateModified": "2026-11-20T07:15:13+09:00",
+  "datePublished": "2026-11-20T04:18:40+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78760/20261120de78760_E0000194650_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78760/20261120de78760_E0000194650_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000157",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000419",
+      "name": "アメリカ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "19日のニューヨーク株式市場では、AI開発の先行きをめぐる不透明感などが根強いなかで幅広い銘柄に売り注文が広がり、ダウ平均株価の終値は前日と比べて1101ドル11セント安い、4万9097ドル6セントで",
+  "articleBody": "19日のニューヨーク株式市場では、AI開発の先行きをめぐる不透明感などが根強いなかで幅広い銘柄に売り注文が広がり、ダウ平均株価の終値は前日と比べて1101ドル11セント安い、4万9097ドル6セントでした。ダウ平均株価が終値で5万ドルを下回るのはことし6月以来、およそ5か月ぶりです。\n\n\nハイテク株の比率が高いナスダックの株価指数は、AI開発企業「アンソロピック」の上場を受けて一時は2％を超える上昇となりましたが、その後は利益を確定するための売り注文が広がり、最終的には前日からおよそ550ポイント、率にして2.2％あまり下落して取り引きを終えました。\n\n市場関係者は「アンソロピックが上場し、AIへの期待感などからハイテク関連の銘柄で株価が上昇していたところに、一転して急激に売り注文が広がり、投資家は冷や水を浴びせられた格好だ。ハイテク株が下落した際に通常は資金の受け皿となるような銘柄にまで売り注文が出たことで全面安の展開となった」と話しています。\n",
+  "detailedArticleBody": {
+    "markedLead": "19日のニューヨーク株式市場では、AI開発の先行きをめぐる不透明感などが根強いなかで幅広い銘柄に売り注文が広がり、ダウ平均株価の終値は前日と比べて1101ドル11セント安い、4万9097ドル6セントでした。ダウ平均株価が終値で5万ドルを下回るのはことし6月以来、およそ5か月ぶりです。\n",
+    "markedBody": "ハイテク株の比率が高いナスダックの株価指数は、AI開発企業「アンソロピック」の上場を受けて一時は2％を超える上昇となりましたが、その後は利益を確定するための売り注文が広がり、最終的には前日からおよそ550ポイント、率にして2.2％あまり下落して取り引きを終えました。\n\n市場関係者は「アンソロピックが上場し、AIへの期待感などからハイテク関連の銘柄で株価が上昇していたところに、一転して急激に売り注文が広がり、投資家は冷や水を浴びせられた格好だ。ハイテク株が下落した際に通常は資金の受け皿となるような銘柄にまで売り注文が出たことで全面安の展開となった」と話しています。\n",
+    "trimmedLead": "19日のニューヨーク株式市場では、AI開発の先行きをめぐる不透明感などが根強いなかで幅広い銘柄に売り注文が広がり、ダウ平均株価の終値は前日と比べて1101ドル11セント安い、4万9097ドル6セントでした。ダウ平均株価が終値で5万ドルを下回るのはことし6月以来、およそ5か月ぶりです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261120de78760.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261120de78760",
+  "video": [],
+  "citation": [
+    {
+      "name": "初の米中ロ首脳会談 国際秩序や国際情勢への影響が焦点",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de78735",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78735/20261120de78735_E0000194566_1_s.jpg",
+      "datePublished": "2026-11-20T06:00:00+09:00"
+    },
+    {
+      "name": "トランプ大統領アジア訪問終える 米中ロ直接対話重視の姿勢も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de78759",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78759/20261120de78759_E0000194594_1_s.jpg",
+      "datePublished": "2026-11-20T09:52:10+09:00"
+    },
+    {
+      "name": "プーチン大統領 米中ロ首脳会談意義強調 継続開催に前向き",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de78758",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78758/20261120de78758_E0000194593_1_s.jpg",
+      "datePublished": "2026-11-20T05:51:56+09:00"
+    },
+    {
+      "name": "ロヒンギャ迫害はジェノサイドと認定 国際司法裁判所が判決",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261119de78716",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78716/20261119de78716_E0000194535_1_s.jpg",
+      "datePublished": "2026-11-20T08:26:06+09:00"
+    },
+    {
+      "name": "米AI開発「アンソロピック」上場 過去最大規模の約13兆円調達",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de78753",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78753/20261120de78753_E0000194575_1_s.jpg",
+      "datePublished": "2026-11-20T07:23:06+09:00"
+    },
+    {
+      "name": "探査機ボイジャー1号 トラブル発生も「1光日」到達確認 NASA",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de78757",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78757/20261120de78757_E0000194583_1_s.jpg",
+      "datePublished": "2026-11-20T07:02:16+09:00"
+    },
+    {
+      "name": "ドイツBMW 2018年以来の24時間ストライキ実施へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261119de78723",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78723/20261119de78723_E0000194561_1_s.jpg",
+      "datePublished": "2026-11-20T01:43:15+09:00"
+    },
+    {
+      "name": "JT ロシア現地法人“実質的経営権喪失”約1兆3770億円の損失へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261119de78445",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78445/20261119de78445_E0000152158_1_s.jpg",
+      "datePublished": "2026-11-20T07:49:33+09:00"
+    },
+    {
+      "name": "地球から1光日 259億キロ離れた宇宙を進むボイジャー1号の旅",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261116de76380",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76380/20261116de76380_E0000183529_1_s.jpg",
+      "datePublished": "2026-11-17T23:58:22+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
