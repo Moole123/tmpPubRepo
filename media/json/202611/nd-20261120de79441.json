@@ -1,0 +1,143 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261120de79441",
+  "dataSourceId": "nd",
+  "name": "大崎電気 ネット上に技術情報の掲載確認 ランサムウエア攻撃で",
+  "headline": "大崎電気 ネット上に技術情報の掲載確認 ランサムウエア攻撃で",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261120de79441",
+    "playlistId": "news-nwa-business-nationwide-20261120",
+    "newsarticleName": "大崎電気 ネット上に技術情報の掲載確認 ランサムウエア攻撃で",
+    "playlistName": "11月20日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "サイバー攻撃を受け、スマートメーターなどの生産・出荷を停止している「大崎電気工業」は、自社のシステムに保存されていると思われる技術に関する情報がインターネット上に掲載されていることを確認したと発表しま",
+  "dateModified": "2026-11-20T22:28:36+09:00",
+  "datePublished": "2026-11-20T22:28:36+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de79441/20261120de79441_E0000199187_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de79441/20261120de79441_E0000199187_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済",
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "サイバー攻撃を受け、スマートメーターなどの生産・出荷を停止している「大崎電気工業」は、自社のシステムに保存されていると思われる技術に関する情報がインターネット上に掲載されていることを確認したと発表しま",
+  "articleBody": "サイバー攻撃を受け、スマートメーターなどの生産・出荷を停止している「大崎電気工業」は、自社のシステムに保存されていると思われる技術に関する情報がインターネット上に掲載されていることを確認したと発表しました。\n\n攻撃者によって掲載されたとみられるということで、生産・出荷の再開時期は引き続き未定だとしています。\n\n\n「大崎電気工業」では、身代金要求型のコンピューターウイルス＝「ランサムウエア」によるサイバー攻撃を受けた影響で生産関連システムが使えなくなり、電力の使用量を計測するスマートメーターなどの生産・出荷を18日から停止しています。\n\n会社は20日、その後の調査の結果を発表し、不正アクセスは今月15日に行われたと推定され、社外から社内ネットワークに接続するためのVPN機器の認証が突破されたことで、社内ネットワークに侵入されたということです。\n\nまた、自社のシステムに保存されていると思われる技術に関する情報がインターネット上に掲載されていることを、19日、確認したということです。\n\nこれらの情報は攻撃者によって掲載されたとみられるということで、会社では掲載された情報の内容やその他の情報の漏えいの有無を確認しています。\n\nスマートメーターなどの生産・出荷の再開時期は引き続き未定だとしています。\n\n会社によりますと、この会社のスマートメーターは国内シェアの4割を占め、主に電力会社向けに販売されているということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "サイバー攻撃を受け、スマートメーターなどの生産・出荷を停止している「大崎電気工業」は、自社のシステムに保存されていると思われる技術に関する情報がインターネット上に掲載されていることを確認したと発表しました。\n\n攻撃者によって掲載されたとみられるということで、生産・出荷の再開時期は引き続き未定だとしています。\n",
+    "markedBody": "「大崎電気工業」では、身代金要求型のコンピューターウイルス＝「ランサムウエア」によるサイバー攻撃を受けた影響で生産関連システムが使えなくなり、電力の使用量を計測するスマートメーターなどの生産・出荷を18日から停止しています。\n\n会社は20日、その後の調査の結果を発表し、不正アクセスは今月15日に行われたと推定され、社外から社内ネットワークに接続するためのVPN機器の認証が突破されたことで、社内ネットワークに侵入されたということです。\n\nまた、自社のシステムに保存されていると思われる技術に関する情報がインターネット上に掲載されていることを、19日、確認したということです。\n\nこれらの情報は攻撃者によって掲載されたとみられるということで、会社では掲載された情報の内容やその他の情報の漏えいの有無を確認しています。\n\nスマートメーターなどの生産・出荷の再開時期は引き続き未定だとしています。\n\n会社によりますと、この会社のスマートメーターは国内シェアの4割を占め、主に電力会社向けに販売されているということです。\n",
+    "trimmedLead": "サイバー攻撃を受け、スマートメーターなどの生産・出荷を停止している「大崎電気工業」は、自社のシステムに保存されていると思われる技術に関する情報がインターネット上に掲載されていることを確認したと発表しました。\n\n攻撃者によって掲載されたとみられるということで、生産・出荷の再開時期は引き続き未定だとしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261120de79441.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261120de79441",
+  "video": [],
+  "citation": [
+    {
+      "name": "KARTE 不正アクセス 情報漏えいや漏えいおそれ のべ約2200社に",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de79350",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de79350/20261120de79350_E0000197732_1_s.jpg",
+      "datePublished": "2026-11-20T20:03:54+09:00"
+    },
+    {
+      "name": "長野 国道142号の新和田トンネル付近 車の滞留が解消",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de79424",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de79424/20261120de79424_E0000199258_1_s.jpg",
+      "datePublished": "2026-11-20T23:58:26+09:00"
+    },
+    {
+      "name": "関文科相 2024年に ほかに3回省庁職員が出席のパーティー開催",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de79430",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de79430/20261120de79430_E0000198754_1_s.jpg",
+      "datePublished": "2026-11-20T22:21:12+09:00"
+    },
+    {
+      "name": "税制改正 暮らしはどう変わる？注目テーマのポイント",
+      "url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000010125",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261120de79222_E0000196311_1_s.jpg"
+    },
+    {
+      "name": "太平洋クロマグロ 韓国や台湾との協議で大型魚25％増枠へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de79372",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de79372/20261120de79372_E0000198256_1_s.jpg",
+      "datePublished": "2026-11-20T19:59:00+09:00"
+    },
+    {
+      "name": "日本とサウジアラビア 原油の備蓄可能量 3倍で合意",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de79347",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de79347/20261120de79347_E0000195801_1_s.jpg",
+      "datePublished": "2026-11-20T18:46:00+09:00"
+    },
+    {
+      "name": "高さ5メートルの草で発電！？ 新エネルギー最前線",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261119de78171",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78171/20261119de78171_E0000193594_1_s.jpg",
+      "datePublished": "2026-11-20T11:31:43+09:00"
+    },
+    {
+      "name": "相次ぐ企業の不正　要因と防止策は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de78889",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78889/20261120de78889_E0000195136_1_s.jpg",
+      "datePublished": "2026-11-20T15:47:15+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
