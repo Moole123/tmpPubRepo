@@ -1,0 +1,174 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261121de79604",
+  "dataSourceId": "nd",
+  "name": "ナスダック株価指数急落 今週4兆ドル時価総額が消失",
+  "headline": "ナスダック株価指数急落 今週4兆ドル時価総額が消失",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261121de79604",
+    "playlistId": "news-nwa-international-nationwide-20261121",
+    "newsarticleName": "ナスダック株価指数急落 今週4兆ドル時価総額が消失",
+    "playlistName": "11月21日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "ニューヨーク株式市場では20日、AI関連の政策をめぐる先行きの不透明感などを背景に売り注文が広がり、ハイテク株の比率が高いナスダックの株価指数は5％を超える急落となりました。\n\nアメリカのメディアは、",
+  "dateModified": "2026-11-21T13:33:05+09:00",
+  "datePublished": "2026-11-21T13:33:05+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79604/20261121de79604_E0000199822_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79604/20261121de79604_E0000199822_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際",
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000157",
+      "name": "株価・為替",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000419",
+      "name": "アメリカ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ニューヨーク株式市場では20日、AI関連の政策をめぐる先行きの不透明感などを背景に売り注文が広がり、ハイテク株の比率が高いナスダックの株価指数は5％を超える急落となりました。\n\nアメリカのメディアは、",
+  "articleBody": "ニューヨーク株式市場では20日、AI関連の政策をめぐる先行きの不透明感などを背景に売り注文が広がり、ハイテク株の比率が高いナスダックの株価指数は5％を超える急落となりました。\n\nアメリカのメディアは、今週だけで日本円にして630兆円以上の時価総額が失われたとした上で、「AI相場が勢いを失いつつある」と伝えています。\n\n\nアメリカでAIやデータセンターへの規制が強化されるとの警戒感に加え、巨額投資の採算性への懸念などを背景に、20日のニューヨーク株式市場では半導体や大手ITなどAI関連の銘柄を中心に売り注文が広がり、ナスダックの株価指数は前日から5％を超える急落となりました。\n\n前日にナスダック市場に上場したAI開発企業、「アンソロピック」の株価が8％余り、アメリカの証券取引委員会が会計上の問題がないかを調査していると報じられた半導体大手の「エヌビディア」の株価も14％余り、それぞれ下落しました。\n\n有力紙「ウォール・ストリート・ジャーナル」は、ナスダックの株価指数がことし初めからの上昇分をすべて失い、今週だけで時価総額が4兆ドル以上、日本円にして634兆円以上消失したと伝えています。\n\nそのうえで「AI相場が勢いを失いつつある。アンソロピックの上場さえも株価の下落を食い止めることはできなかった」と指摘し、「AIブーム」が曲がり角を迎えているとの専門家の見方を報じています。\n",
+  "detailedArticleBody": {
+    "markedLead": "ニューヨーク株式市場では20日、AI関連の政策をめぐる先行きの不透明感などを背景に売り注文が広がり、ハイテク株の比率が高いナスダックの株価指数は5％を超える急落となりました。\n\nアメリカのメディアは、今週だけで日本円にして630兆円以上の時価総額が失われたとした上で、「AI相場が勢いを失いつつある」と伝えています。\n",
+    "markedBody": "アメリカでAIやデータセンターへの規制が強化されるとの警戒感に加え、巨額投資の採算性への懸念などを背景に、20日のニューヨーク株式市場では半導体や大手ITなどAI関連の銘柄を中心に売り注文が広がり、ナスダックの株価指数は前日から5％を超える急落となりました。\n\n前日にナスダック市場に上場したAI開発企業、「アンソロピック」の株価が8％余り、アメリカの証券取引委員会が会計上の問題がないかを調査していると報じられた半導体大手の「エヌビディア」の株価も14％余り、それぞれ下落しました。\n\n有力紙「ウォール・ストリート・ジャーナル」は、ナスダックの株価指数がことし初めからの上昇分をすべて失い、今週だけで時価総額が4兆ドル以上、日本円にして634兆円以上消失したと伝えています。\n\nそのうえで「AI相場が勢いを失いつつある。アンソロピックの上場さえも株価の下落を食い止めることはできなかった」と指摘し、「AIブーム」が曲がり角を迎えているとの専門家の見方を報じています。\n",
+    "trimmedLead": "ニューヨーク株式市場では20日、AI関連の政策をめぐる先行きの不透明感などを背景に売り注文が広がり、ハイテク株の比率が高いナスダックの株価指数は5％を超える急落となりました。\n\nアメリカのメディアは、今週だけで日本円にして630兆円以上の時価総額が失われたとした上で、「AI相場が勢いを失いつつある」と伝えています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261121de79604.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261121de79604",
+  "video": [],
+  "citation": [
+    {
+      "name": "トランプ大統領 米国外のデータセンター建設認めず 罰則も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261121de79543",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79543/20261121de79543_E0000199566_1_s.jpg",
+      "datePublished": "2026-11-21T10:16:00+09:00"
+    },
+    {
+      "name": "仏大統領選元首相立候補表明 極右ルペン氏支持トップ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261121de79545",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79545/20261121de79545_E0000199628_1_s.jpg",
+      "datePublished": "2026-11-21T11:18:47+09:00"
+    },
+    {
+      "name": "トランプ大統領 中ロ首脳との3者会談の意義強調",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261121de79489",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79489/20261121de79489_E0000199294_1_s.jpg",
+      "datePublished": "2026-11-21T06:26:11+09:00"
+    },
+    {
+      "name": "サウジ側がフーシ派実効支配の首都攻撃 フーシ派は報復主張",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261121de79487",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79487/20261121de79487_E0000199306_1_s.jpg",
+      "datePublished": "2026-11-21T06:59:00+09:00"
+    },
+    {
+      "name": "ウクライナ“ロシアから最大規模攻撃 8人死亡約30人けが”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261121de79482",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79482/20261121de79482_E0000199277_1_s.jpg",
+      "datePublished": "2026-11-21T06:46:14+09:00"
+    },
+    {
+      "name": "COP31会期を延長 化石燃料からの脱却めぐり対立",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261121de79485",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79485/20261121de79485_E0000199295_1_s.jpg",
+      "datePublished": "2026-11-21T06:48:20+09:00"
+    },
+    {
+      "name": "英EU首脳会談 輸出入手続きの簡素化で合意 離脱後の関係強化",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261121de79488",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/r/kiji/20261121de79488/20261121de79488_E0000199313_1_s.jpg",
+      "datePublished": "2026-11-21T07:35:11+09:00"
+    },
+    {
+      "name": "米財務長官 米中で「軍事決定はAIでなく人間が関与」合意",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261121de79483",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79483/20261121de79483_E0000199280_1_s.jpg",
+      "datePublished": "2026-11-21T07:44:00+09:00"
+    },
+    {
+      "name": "国連事務総長は9回目の投票も決まらず",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261121de79510",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79510/20261121de79510_E0000199419_1_s.jpg",
+      "datePublished": "2026-11-21T07:51:00+09:00"
+    },
+    {
+      "name": "トランプ大統領がMLB選手のピート・ローズ氏に恩赦",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de79436",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de79436/20261120de79436_E0000199149_1_s.jpg",
+      "datePublished": "2026-11-20T23:44:09+09:00"
+    },
+    {
+      "name": "米中ロ首脳会談“国際秩序の変化を象徴” 世界 日本への影響は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de79408",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de79408/20261120de79408_E0000199139_1_s.jpg",
+      "datePublished": "2026-11-20T22:04:04+09:00"
+    },
+    {
+      "name": "トランプ大統領 アジア訪問終えホワイトハウスに 各国の反応は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de78820",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78820/20261120de78820_E0000195150_1_s.jpg",
+      "datePublished": "2026-11-20T19:47:11+09:00"
+    },
+    {
+      "name": "少女たちに何が 深刻化する児童婚",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de78941",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78941/20261120de78941_E0000195253_1_s.jpg",
+      "datePublished": "2026-11-20T16:10:23+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
