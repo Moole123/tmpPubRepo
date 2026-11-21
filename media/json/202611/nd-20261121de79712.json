@@ -1,0 +1,182 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261121de79712",
+  "dataSourceId": "nd",
+  "name": "除雪車にはねられ 国道横断中の女性死亡 福井 勝山",
+  "headline": "除雪車にはねられ 国道横断中の女性死亡 福井 勝山",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261121de79712",
+    "playlistId": "news-nwa-society-nationwide-20261121",
+    "newsarticleName": "除雪車にはねられ 国道横断中の女性死亡 福井 勝山",
+    "playlistName": "11月21日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "21日午前、福井県勝山市の国道で道路を横断していた71歳の女性が後ろに進んでいた大型の除雪車にはねられて死亡しました。\n\n\n警察によりますと、21日午前10時ごろ、勝山市長山町の国道の交差点で近くに住",
+  "dateModified": "2026-11-21T21:38:33+09:00",
+  "datePublished": "2026-11-21T18:45:36+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79712/20261121de79712_E0000199892_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79712/20261121de79712_E0000199892_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000346",
+      "name": "福井県",
+      "display": true
+    },
+    {
+      "id": "E0000000208",
+      "name": "事件・事故",
+      "display": true
+    },
+    {
+      "id": "E0000000697",
+      "name": "大雪・寒さ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "21日午前、福井県勝山市の国道で道路を横断していた71歳の女性が後ろに進んでいた大型の除雪車にはねられて死亡しました。\n\n\n警察によりますと、21日午前10時ごろ、勝山市長山町の国道の交差点で近くに住",
+  "articleBody": "21日午前、福井県勝山市の国道で道路を横断していた71歳の女性が後ろに進んでいた大型の除雪車にはねられて死亡しました。\n\n\n警察によりますと、21日午前10時ごろ、勝山市長山町の国道の交差点で近くに住む71歳の女性が道路を横断していて、後ろに進んでいた大型の除雪車にはねられました。\n\n女性は頭などを強く打って、病院に搬送されましたが死亡しました。\n\n警察によりますと、除雪車は福井県の委託を受け除雪作業にあたっていて、雪が10センチ程度積もっていた右折用の車線を除雪しようと後ろに進んでいたところ、交差点付近で女性をはねたとみられるということです。\n\n警察は事故の状況を詳しく調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "21日午前、福井県勝山市の国道で道路を横断していた71歳の女性が後ろに進んでいた大型の除雪車にはねられて死亡しました。\n",
+    "markedBody": "警察によりますと、21日午前10時ごろ、勝山市長山町の国道の交差点で近くに住む71歳の女性が道路を横断していて、後ろに進んでいた大型の除雪車にはねられました。\n\n女性は頭などを強く打って、病院に搬送されましたが死亡しました。\n\n警察によりますと、除雪車は福井県の委託を受け除雪作業にあたっていて、雪が10センチ程度積もっていた右折用の車線を除雪しようと後ろに進んでいたところ、交差点付近で女性をはねたとみられるということです。\n\n警察は事故の状況を詳しく調べています。\n",
+    "trimmedLead": "21日午前、福井県勝山市の国道で道路を横断していた71歳の女性が後ろに進んでいた大型の除雪車にはねられて死亡しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261121de79712.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261121de79712",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "除雪車にはねられ 国道横断中の女性死亡 福井 勝山",
+      "description": "21日午前、福井県勝山市の国道で道路を横断していた71歳の女性が後ろに進んでいた大型の除雪車にはねられて死亡しました。\n\n\n警察によりますと、21日午前10時ごろ、勝山市長山町の国道の交差点で近くに住",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261121de79712_E0000200344_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261121de79712/20261121de79712_E0000199892_1_l.jpg",
+      "duration": "PT15S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261121de79712_E0000200344_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79712/20261121de79712_E0000199892_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "大雪「除雪」事故を防ぐポイントは",
+      "url": "https://news.web.nhk/newsweb/na/nc-5c80b9e0-4451-4fe6-8365-a7d38915bb2d",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00043_E0000002014_1_s.jpg"
+    },
+    {
+      "name": "冬型の気圧配置 北・東日本の山沿い中心に積雪増 交通に影響",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261121de79490",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79490/20261121de79490_E0000199887_1_s.jpg",
+      "datePublished": "2026-11-21T18:40:00+09:00"
+    },
+    {
+      "name": "福島 北塩原村 倒木で国道通行止め 514世帯948人が孤立状態",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261121de79612",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79612/20261121de79612_E0000199864_1_s.jpg",
+      "datePublished": "2026-11-21T19:08:39+09:00"
+    },
+    {
+      "name": "【動画】今後の雨と積雪の見通しは 気象予報士解説 （21日）",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261121de79497",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79497/20261121de79497_E0000200408_1_s.jpg",
+      "datePublished": "2026-11-21T19:40:49+09:00"
+    },
+    {
+      "name": "前橋 市街地出没のクマ見つからず 22日朝から捜索再開",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261121de79555",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79555/20261121de79555_E0000199609_1_s.jpg",
+      "datePublished": "2026-11-21T20:56:09+09:00"
+    },
+    {
+      "name": "リニア工事現場付近の川で水吹き上がる JR東海が関連調査 川崎",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261121de79560",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79560/20261121de79560_E0000199619_1_s.jpg",
+      "datePublished": "2026-11-21T11:13:00+09:00"
+    },
+    {
+      "name": "英王立音楽大学が久石譲さんに名誉学位 日本人では初",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261121de79509",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79509/20261121de79509_E0000199375_1_s.jpg",
+      "datePublished": "2026-11-21T07:40:00+09:00"
+    },
+    {
+      "name": "スタートアップ成長のカギは「非上場株」？！【経済コラム】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261119de78590",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78590/20261119de78590_E0000198273_1_s.jpg",
+      "datePublished": "2026-11-21T13:47:26+09:00"
+    },
+    {
+      "name": "税制改正 暮らしはどう変わる？注目テーマのポイント",
+      "url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000010125",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261120de79222_E0000196311_1_s.jpg"
+    },
+    {
+      "name": "相次ぐ企業の不正　要因と防止策は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de78889",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78889/20261120de78889_E0000195136_1_s.jpg",
+      "datePublished": "2026-11-20T15:47:15+09:00"
+    },
+    {
+      "name": "ビールカルテル疑惑 関係者が語った業界の裏側",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70389",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70389/20261104de70389_E0000195064_1_s.jpg",
+      "datePublished": "2026-11-20T18:23:04+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
