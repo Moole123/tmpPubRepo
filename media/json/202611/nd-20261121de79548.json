@@ -1,0 +1,172 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261121de79548",
+  "dataSourceId": "nd",
+  "name": "埼玉 三郷ジャンクション近くの物流施設で火事 消火活動続く",
+  "headline": "埼玉 三郷ジャンクション近くの物流施設で火事 消火活動続く",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261121de79548",
+    "playlistId": "news-nwa-society-nationwide-20261121",
+    "newsarticleName": "埼玉 三郷ジャンクション近くの物流施設で火事 消火活動続く",
+    "playlistName": "11月21日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "21日朝、埼玉県三郷市の物流施設で火事があり、現在も消火活動が続いています。\n\n消防によりますと、これまでに逃げ遅れやけが人などの情報は入っていないということです。\n\n\n消防や警察によりますと、21日",
+  "dateModified": "2026-11-21T10:14:09+09:00",
+  "datePublished": "2026-11-21T10:14:09+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79548/20261121de79548_E0000199563_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79548/20261121de79548_E0000199563_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000657",
+      "name": "火災",
+      "display": true
+    },
+    {
+      "id": "E0000000339",
+      "name": "埼玉県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "21日朝、埼玉県三郷市の物流施設で火事があり、現在も消火活動が続いています。\n\n消防によりますと、これまでに逃げ遅れやけが人などの情報は入っていないということです。\n\n\n消防や警察によりますと、21日",
+  "articleBody": "21日朝、埼玉県三郷市の物流施設で火事があり、現在も消火活動が続いています。\n\n消防によりますと、これまでに逃げ遅れやけが人などの情報は入っていないということです。\n\n\n消防や警察によりますと、21日午前7時半ごろ、埼玉県三郷市の物流施設の従業員から、火事があったと通報がありました。\n\n午前8時半すぎにNHKが上空から撮影した映像では、物流施設から黒い煙が立ち上がっているのが確認できます。\n\n消防によりますと、午前9時ごろの時点では、逃げ遅れやけが人などの情報は入っていないということで、現在も消火活動が続いています。\n\n現場は、三郷ジャンクションの南側の物流施設が建ち並ぶエリアです。\n",
+  "detailedArticleBody": {
+    "markedLead": "21日朝、埼玉県三郷市の物流施設で火事があり、現在も消火活動が続いています。\n\n消防によりますと、これまでに逃げ遅れやけが人などの情報は入っていないということです。\n",
+    "markedBody": "消防や警察によりますと、21日午前7時半ごろ、埼玉県三郷市の物流施設の従業員から、火事があったと通報がありました。\n\n午前8時半すぎにNHKが上空から撮影した映像では、物流施設から黒い煙が立ち上がっているのが確認できます。\n\n消防によりますと、午前9時ごろの時点では、逃げ遅れやけが人などの情報は入っていないということで、現在も消火活動が続いています。\n\n現場は、三郷ジャンクションの南側の物流施設が建ち並ぶエリアです。\n",
+    "trimmedLead": "21日朝、埼玉県三郷市の物流施設で火事があり、現在も消火活動が続いています。\n\n消防によりますと、これまでに逃げ遅れやけが人などの情報は入っていないということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261121de79548.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261121de79548",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "埼玉 三郷ジャンクション近くの物流施設で火事 消火活動続く",
+      "description": "21日朝、埼玉県三郷市の物流施設で火事があり、現在も消火活動が続いています。\n\n消防によりますと、これまでに逃げ遅れやけが人などの情報は入っていないということです。\n\n\n消防や警察によりますと、21日",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261121de79548_E0000199564_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261121de79548/20261121de79548_E0000199563_1_l.jpg",
+      "duration": "PT32S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261121de79548_E0000199564_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79548/20261121de79548_E0000199563_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "埼玉 八潮 道路陥没事故裁判 県が責任認める さいたま地裁",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de79035",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de79035/20261120de79035_E0000196301_1_s.jpg",
+      "datePublished": "2026-11-20T18:14:06+09:00"
+    },
+    {
+      "name": "冬型の気圧配置 北～東日本の山沿い中心に積雪増 各地で事故も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261121de79490",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79490/20261121de79490_E0000199862_1_s.jpg",
+      "datePublished": "2026-11-21T15:38:00+09:00"
+    },
+    {
+      "name": "関文科相 政治資金パーティーめぐり 野党から辞任要求相次ぐ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261121de79475",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79475/20261121de79475_E0000199292_1_s.jpg",
+      "datePublished": "2026-11-21T06:30:58+09:00"
+    },
+    {
+      "name": "日本企業などから高額収入の海外居住者 課税強化へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de79460",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de79460/20261120de79460_E0000199274_1_s.jpg",
+      "datePublished": "2026-11-21T05:33:28+09:00"
+    },
+    {
+      "name": "安保3文書 与党内で防衛費の大幅増額求める意見強まる",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261121de79473",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79473/20261121de79473_E0000199271_1_s.jpg",
+      "datePublished": "2026-11-21T05:30:23+09:00"
+    },
+    {
+      "name": "英王立音楽大学が久石譲さんに名誉学位 日本人では初",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261121de79509",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79509/20261121de79509_E0000199375_1_s.jpg",
+      "datePublished": "2026-11-21T07:40:14+09:00"
+    },
+    {
+      "name": "物価高 アイスは値上げ 居酒屋やピザ店は低価格で 農家は悲鳴",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de78800",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78800/20261120de78800_E0000196326_1_s.jpg",
+      "datePublished": "2026-11-20T19:02:00+09:00"
+    },
+    {
+      "name": "税制改正 暮らしはどう変わる？注目テーマのポイント",
+      "url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000010125",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261120de79222_E0000196311_1_s.jpg"
+    },
+    {
+      "name": "相次ぐ企業の不正　要因と防止策は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de78889",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78889/20261120de78889_E0000195136_1_s.jpg",
+      "datePublished": "2026-11-20T15:47:15+09:00"
+    },
+    {
+      "name": "ビールカルテル疑惑 関係者が語った業界の裏側",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70389",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70389/20261104de70389_E0000195064_1_s.jpg",
+      "datePublished": "2026-11-20T18:23:04+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
