@@ -1,0 +1,135 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261122de79936",
+  "dataSourceId": "nd",
+  "name": "タワーレコード 不正アクセスで約1100万件の個人情報流出",
+  "headline": "タワーレコード 不正アクセスで約1100万件の個人情報流出",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261122de79936",
+    "playlistId": "news-nwa-scienceculture-nationwide-20261122",
+    "newsarticleName": "タワーレコード 不正アクセスで約1100万件の個人情報流出",
+    "playlistName": "11月22日の科学・文化ニュース",
+    "genreId": "scienceculture",
+    "genreIdSlug": "science-culture"
+  },
+  "description": "音楽コンテンツなどを販売する「タワーレコード」は、運営する通販サイトが不正アクセスを受け、顧客のメールアドレスや氏名などあわせておよそ1100万件の個人情報が流出したと発表しました。\n\n\n「タワーレコ",
+  "dateModified": "2026-11-22T15:11:18+09:00",
+  "datePublished": "2026-11-22T15:11:18+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79936/20261122de79936_E0000201170_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79936/20261122de79936_E0000201170_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "科学・文化",
+    "暮らし"
+  ],
+  "topic": [
+    {
+      "id": "E0000000137",
+      "name": "サイバー攻撃",
+      "display": true
+    },
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000698",
+      "name": "企業・経営",
+      "display": true
+    },
+    {
+      "id": "E0000000109",
+      "name": "文化・芸術・エンタメ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "音楽コンテンツなどを販売する「タワーレコード」は、運営する通販サイトが不正アクセスを受け、顧客のメールアドレスや氏名などあわせておよそ1100万件の個人情報が流出したと発表しました。\n\n\n「タワーレコ",
+  "articleBody": "音楽コンテンツなどを販売する「タワーレコード」は、運営する通販サイトが不正アクセスを受け、顧客のメールアドレスや氏名などあわせておよそ1100万件の個人情報が流出したと発表しました。\n\n\n「タワーレコード」は、運営する通販サイトが不正アクセスを受けたことを今月19日に確認し、調査の結果、顧客の個人情報が流出したことがわかったと、21日、発表しました。\n\n流出したのは会員登録をしていた顧客のメールアドレスや会員IDのほか、氏名や配送先の住所などあわせておよそ1100万件の個人情報で、中には退会から3年以内の顧客の情報も含まれるということです。\n\n会社は顧客からの問い合わせなどに対応するため、退会から3年以内の顧客の情報を保管していたということで、今後、保管期間を見直すことも検討するということです。\n\n一方、流出した個人情報にクレジットカードの情報は含まれていないほか、21日までに流出した情報が悪用されたなどといった二次被害は確認されていないということです。\n\n会社は顧客に対し、不審なメールを受信した場合は、添付されたファイルを開かないことやクレジットカード情報などを入力しないよう注意を呼びかけています。\n",
+  "detailedArticleBody": {
+    "markedLead": "音楽コンテンツなどを販売する「タワーレコード」は、運営する通販サイトが不正アクセスを受け、顧客のメールアドレスや氏名などあわせておよそ1100万件の個人情報が流出したと発表しました。\n",
+    "markedBody": "「タワーレコード」は、運営する通販サイトが不正アクセスを受けたことを今月19日に確認し、調査の結果、顧客の個人情報が流出したことがわかったと、21日、発表しました。\n\n流出したのは会員登録をしていた顧客のメールアドレスや会員IDのほか、氏名や配送先の住所などあわせておよそ1100万件の個人情報で、中には退会から3年以内の顧客の情報も含まれるということです。\n\n会社は顧客からの問い合わせなどに対応するため、退会から3年以内の顧客の情報を保管していたということで、今後、保管期間を見直すことも検討するということです。\n\n一方、流出した個人情報にクレジットカードの情報は含まれていないほか、21日までに流出した情報が悪用されたなどといった二次被害は確認されていないということです。\n\n会社は顧客に対し、不審なメールを受信した場合は、添付されたファイルを開かないことやクレジットカード情報などを入力しないよう注意を呼びかけています。\n",
+    "trimmedLead": "音楽コンテンツなどを販売する「タワーレコード」は、運営する通販サイトが不正アクセスを受け、顧客のメールアドレスや氏名などあわせておよそ1100万件の個人情報が流出したと発表しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261122de79936.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261122de79936",
+  "video": [],
+  "citation": [
+    {
+      "name": "六花亭に不正アクセス クレカ情報不正利用とみられる被害確認",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261122de79904",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79904/20261122de79904_E0000201167_1_s.jpg",
+      "datePublished": "2026-11-22T14:02:00+09:00"
+    },
+    {
+      "name": "【情報漏えい】対策どうする 二次被害に遭わないためには",
+      "url": "https://news.web.nhk/newsweb/pl/editorial-nwa-0000000697",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261018de61119_E0000086259_1_s.jpg"
+    },
+    {
+      "name": "福島 北塩原村 宿泊客帰宅開始も514世帯孤立 猪苗代町でも孤立",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261122de79781",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79781/20261122de79781_E0000201053_1_s.jpg",
+      "datePublished": "2026-11-22T14:13:04+09:00"
+    },
+    {
+      "name": "前橋 市街地に出没のクマ見つからず 無人カメラで暗きょ捜索へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261122de79777",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79777/20261122de79777_E0000200811_1_s.jpg",
+      "datePublished": "2026-11-22T12:26:00+09:00"
+    },
+    {
+      "name": "AIで未解決難問“リーマン予想”証明主張 専門家の受けとめは?",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261122de79817",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79817/20261122de79817_E0000200936_1_s.jpg",
+      "datePublished": "2026-11-22T14:24:00+09:00"
+    },
+    {
+      "name": "税制改正 暮らしはどう変わる？注目テーマのポイント",
+      "url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-E0000010125",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20261120de79222_E0000196311_1_s.jpg"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
