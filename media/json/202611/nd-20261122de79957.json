@@ -1,0 +1,131 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261122de79957",
+  "dataSourceId": "nd",
+  "name": "高知空港に緊急着陸した米軍戦闘機が離陸",
+  "headline": "高知空港に緊急着陸した米軍戦闘機が離陸",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261122de79957",
+    "playlistId": "news-nwa-society-nationwide-20261122",
+    "newsarticleName": "高知空港に緊急着陸した米軍戦闘機が離陸",
+    "playlistName": "11月22日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "今月20日、高知空港に緊急着陸し、空港内にとどまっていたアメリカ軍の戦闘機が、22日午前、離陸しました。これまでのところ、民間航空便への影響は出ていないということです。\n\n\n高知県などによりますと、2",
+  "dateModified": "2026-11-22T16:18:00+09:00",
+  "datePublished": "2026-11-22T16:18:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79957/20261122de79957_E0000201182_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79957/20261122de79957_E0000201182_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000478",
+      "name": "航空",
+      "display": true
+    },
+    {
+      "id": "E0000000367",
+      "name": "高知県",
+      "display": true
+    },
+    {
+      "id": "E0000000419",
+      "name": "アメリカ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "今月20日、高知空港に緊急着陸し、空港内にとどまっていたアメリカ軍の戦闘機が、22日午前、離陸しました。これまでのところ、民間航空便への影響は出ていないということです。\n\n\n高知県などによりますと、2",
+  "articleBody": "今月20日、高知空港に緊急着陸し、空港内にとどまっていたアメリカ軍の戦闘機が、22日午前、離陸しました。これまでのところ、民間航空便への影響は出ていないということです。\n\n\n高知県などによりますと、20日午前11時すぎ、南国市の高知空港に、アメリカ軍の岩国基地に所属する「F35B」が緊急着陸しました。\n\n戦闘機はその後、空港内にとどまっていましたが、22日午前、給油とみられる作業が行われたあと、午前11時40分ごろに離陸しました。\n\n高知空港事務所によりますと、これまでに民間航空便への影響は出ていないということです。\n\n高知空港には、2025年3月にもアメリカ軍岩国基地に所属するF35戦闘機が着陸し、機体整備などのため40日余りにわたって空港にとどまりました。\n",
+  "detailedArticleBody": {
+    "markedLead": "今月20日、高知空港に緊急着陸し、空港内にとどまっていたアメリカ軍の戦闘機が、22日午前、離陸しました。これまでのところ、民間航空便への影響は出ていないということです。\n",
+    "markedBody": "高知県などによりますと、20日午前11時すぎ、南国市の高知空港に、アメリカ軍の岩国基地に所属する「F35B」が緊急着陸しました。\n\n戦闘機はその後、空港内にとどまっていましたが、22日午前、給油とみられる作業が行われたあと、午前11時40分ごろに離陸しました。\n\n高知空港事務所によりますと、これまでに民間航空便への影響は出ていないということです。\n\n高知空港には、2025年3月にもアメリカ軍岩国基地に所属するF35戦闘機が着陸し、機体整備などのため40日余りにわたって空港にとどまりました。\n",
+    "trimmedLead": "今月20日、高知空港に緊急着陸し、空港内にとどまっていたアメリカ軍の戦闘機が、22日午前、離陸しました。これまでのところ、民間航空便への影響は出ていないということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261122de79957.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261122de79957",
+  "video": [],
+  "citation": [
+    {
+      "name": "高知空港に米軍の戦闘機1機が緊急着陸 民間航空機など影響なし",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de79057",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de79057/20261120de79057_E0000196143_1_s.jpg",
+      "datePublished": "2026-11-20T15:34:27+09:00"
+    },
+    {
+      "name": "タワーレコード 不正アクセスで約1100万件の個人情報流出",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261122de79936",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79936/20261122de79936_E0000201170_1_s.jpg",
+      "datePublished": "2026-11-22T15:11:18+09:00"
+    },
+    {
+      "name": "日本の探査機「みお」水星の周回軌道に投入 欧州の探査機と",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261122de79873",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79873/20261122de79873_E0000201162_1_s.jpg",
+      "datePublished": "2026-11-22T14:29:38+09:00"
+    },
+    {
+      "name": "福島 北塩原村 宿泊客帰宅開始も514世帯孤立 猪苗代町でも孤立",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261122de79781",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79781/20261122de79781_E0000201053_1_s.jpg",
+      "datePublished": "2026-11-22T14:13:04+09:00"
+    },
+    {
+      "name": "沖縄 首里城正殿が復元“二度と失われないよう つないでいく”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261122de79841",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79841/20261122de79841_E0000201215_1_s.jpg",
+      "datePublished": "2026-11-22T18:06:00+09:00"
+    },
+    {
+      "name": "神奈川 伊勢原 大山のモミジ見ごろ 各地の紅葉も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261121de79544",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79544/20261121de79544_E0000199840_1_s.jpg",
+      "datePublished": "2026-11-22T16:06:43+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
