@@ -1,0 +1,177 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261122de79817",
+  "dataSourceId": "nd",
+  "name": "アンソロピック所属の数学者 AIで難問「リーマン予想」を証明と主張",
+  "headline": "AIで未解決難問“リーマン予想”証明主張 専門家の受けとめは?",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261122de79817",
+    "playlistId": "news-nwa-international-nationwide-20261122",
+    "newsarticleName": "アンソロピック所属の数学者 AIで難問「リーマン予想」を証明と主張",
+    "playlistName": "11月22日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "アメリカの新興AI企業、アンソロピックに所属する数学者が、数学の難問とされる「リーマン予想」をAIを使って証明したと主張しました。専門家による検証で認められれば歴史的な成果となります。\n\n\n「リーマン",
+  "dateModified": "2026-11-22T14:24:00+09:00",
+  "datePublished": "2026-11-22T10:10:11+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79817/20261122de79817_E0000200936_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79817/20261122de79817_E0000200936_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000105",
+      "name": "ＡＩ・ネット・ＩＴ",
+      "display": true
+    },
+    {
+      "id": "E0000000419",
+      "name": "アメリカ",
+      "display": true
+    },
+    {
+      "id": "E0000000446",
+      "name": "サイエンス",
+      "display": true
+    }
+  ],
+  "toc": [
+    {
+      "link": "#anchor-003",
+      "title": "専門家「こんなにも早く解かれたということに驚き」"
+    }
+  ],
+  "abstract": "アメリカの新興AI企業、アンソロピックに所属する数学者が、数学の難問とされる「リーマン予想」をAIを使って証明したと主張しました。専門家による検証で認められれば歴史的な成果となります。\n\n\n「リーマン",
+  "articleBody": "アメリカの新興AI企業、アンソロピックに所属する数学者が、数学の難問とされる「リーマン予想」をAIを使って証明したと主張しました。専門家による検証で認められれば歴史的な成果となります。\n\n\n「リーマン予想」は、1859年にドイツの数学者ベルンハルト・リーマンが提唱したもので、2、3、5、7と続く、1とその数自体でしか割り切れない「素数」に隠れた規則性があるのではないかという数学上の予想です。\n\nこれについて、アンソロピックに所属する数学者、レベント・アルポゲ氏は20日、自身のサイトで「クロードと協力してリーマン予想の証明を発見したと考えている」と発表し、自社のAIを使って証明したと主張しました。\n\n証明は論文ではなく、コンピューターで検証可能なコードとして公開され、マサチューセッツ工科大学の研究者が検証したところ、公開された証明のコードにこれまでに問題は確認されていないということです。\n\n「リーマン予想」は数学界の最大級の未解決問題の1つで、アメリカの数学研究機関が解決した人に100万ドル、日本円でおよそ1億6000万円の懸賞金をかけています。\n\n今後、専門家による検証の結果、証明が正しいと認められれば、歴史的な成果となります。\n\nAIをめぐっては、近年、数学の難問に対して新たな証明や発見をもたらしたとする研究成果が相次いでいて、今回の主張も高い関心を集めています。\n\n専門家「こんなにも早く解かれたということに驚き」 \n\n今回の証明は、「Lean」と呼ばれるプログラミングのコードで書かれていて、その研究者などからなる国際的なコミュニティーは日本時間の21日夜、検証の結果を発表し、「証明が正しいと確信している」とする声明を出しています。\n\n数学研究とAIについて詳しい「ZEN大学」の加藤文元教授は、「リーマン予想が正しく、その証明が存在することは、検証されたと思っていいと思う。リーマン予想は数学の大きな問題の中でも別格の存在なので、こんなにも早く解かれたということに驚いた」と話しています。\n\n一方で「AIが示した数学は人間が読んですぐに分かるようにはなっておらず、本当に人間が理解する段階はまだまだこれからだ」と指摘しました。\n\nまた、AIによる研究成果が相次ぐ現状について、「いまは過渡期だと思うが、新しいAI時代に数学のやり方や方法論を根本的に変えていかなければならない。実現できるか未知数だが、数学を発展させていく上でAIと人間が協力し合う関係を上手に築き上げることが大切だと思う」と話していました。\n",
+  "detailedArticleBody": {
+    "markedLead": "アメリカの新興AI企業、アンソロピックに所属する数学者が、数学の難問とされる「リーマン予想」をAIを使って証明したと主張しました。専門家による検証で認められれば歴史的な成果となります。\n",
+    "markedBody": "![](https://img.web.nhk/news/nd/kiji/20261122de79817/20261122de79817_E0000200933_1_l.jpg)\n\n「リーマン予想」は、1859年にドイツの数学者ベルンハルト・リーマンが提唱したもので、2、3、5、7と続く、1とその数自体でしか割り切れない「素数」に隠れた規則性があるのではないかという数学上の予想です。\n\nこれについて、アンソロピックに所属する数学者、レベント・アルポゲ氏は20日、自身のサイトで「クロードと協力してリーマン予想の証明を発見したと考えている」と発表し、自社のAIを使って証明したと主張しました。\n\n![](https://img.web.nhk/news/nd/kiji/20261122de79817/20261122de79817_E0000200934_1_l.jpg)\n\n証明は論文ではなく、コンピューターで検証可能なコードとして公開され、マサチューセッツ工科大学の研究者が検証したところ、公開された証明のコードにこれまでに問題は確認されていないということです。\n\n「リーマン予想」は数学界の最大級の未解決問題の1つで、アメリカの数学研究機関が解決した人に100万ドル、日本円でおよそ1億6000万円の懸賞金をかけています。\n\n今後、専門家による検証の結果、証明が正しいと認められれば、歴史的な成果となります。\n\nAIをめぐっては、近年、数学の難問に対して新たな証明や発見をもたらしたとする研究成果が相次いでいて、今回の主張も高い関心を集めています。\n\n## 専門家「こんなにも早く解かれたということに驚き」 {id=anchor-003}\n\n今回の証明は、「Lean」と呼ばれるプログラミングのコードで書かれていて、その研究者などからなる国際的なコミュニティーは日本時間の21日夜、検証の結果を発表し、「証明が正しいと確信している」とする声明を出しています。\n\n数学研究とAIについて詳しい「ZEN大学」の加藤文元教授は、「リーマン予想が正しく、その証明が存在することは、検証されたと思っていいと思う。リーマン予想は数学の大きな問題の中でも別格の存在なので、こんなにも早く解かれたということに驚いた」と話しています。\n\n一方で「AIが示した数学は人間が読んですぐに分かるようにはなっておらず、本当に人間が理解する段階はまだまだこれからだ」と指摘しました。\n\nまた、AIによる研究成果が相次ぐ現状について、「いまは過渡期だと思うが、新しいAI時代に数学のやり方や方法論を根本的に変えていかなければならない。実現できるか未知数だが、数学を発展させていく上でAIと人間が協力し合う関係を上手に築き上げることが大切だと思う」と話していました。\n",
+    "trimmedLead": "アメリカの新興AI企業、アンソロピックに所属する数学者が、数学の難問とされる「リーマン予想」をAIを使って証明したと主張しました。専門家による検証で認められれば歴史的な成果となります。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261122de79817.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261122de79817",
+  "video": [
+    {
+      "type": "VideoObject",
+      "name": "AIで未解決難問“リーマン予想”証明主張 専門家の受けとめは?",
+      "description": "アメリカの新興AI企業、アンソロピックに所属する数学者が、数学の難問とされる「リーマン予想」をAIを使って証明したと主張しました。専門家による検証で認められれば歴史的な成果となります。\n\n\n「リーマン",
+      "embedUrl": "https://news.web.nhk/n-data/conf/player/index.html?mrurl=https://media.vd.st.nhk/news/nd/20261122de79817_E0000200951_1_s/index.m3u8&mrposter=/news/u/news/nd/kiji/20261122de79817/20261122de79817_E0000200936_1_l.jpg",
+      "duration": "PT1M33S",
+      "identifierGroup": {
+        "environmentId": "newsWeb",
+        "streamType": "newsWeb"
+      },
+      "detailedContent": [
+        {
+          "contentUrl": "https://media.vd.st.nhk/news/nd/20261122de79817_E0000200951_1_s/index.m3u8",
+          "encodingFormat": [
+            "video/MP2T",
+            "vnd.apple.mpegURL"
+          ],
+          "name": "hls"
+        }
+      ],
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79817/20261122de79817_E0000200936_1_l.jpg"
+    }
+  ],
+  "citation": [
+    {
+      "name": "六花亭に不正アクセス クレカ情報不正利用とみられる被害確認",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261122de79904",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79904/20261122de79904_E0000201167_1_s.jpg",
+      "datePublished": "2026-11-22T14:02:00+09:00"
+    },
+    {
+      "name": "安保3文書 非核三原則などめぐり与野党意見交わす NHK日曜討論",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261122de79839",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79839/20261122de79839_E0000200947_1_s.jpg",
+      "datePublished": "2026-11-22T12:32:00+09:00"
+    },
+    {
+      "name": "日本海側中心に断続的に雪と雨 各地今シーズン一番の冷え込み",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261121de79767",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79767/20261121de79767_E0000201092_1_s.jpg",
+      "datePublished": "2026-11-22T11:55:00+09:00"
+    },
+    {
+      "name": "「いつかではなくナルハヤ」還暦迎えたユニコーンのメッセージ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de74699",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74699/20261112de74699_E0000171873_1_s.jpg",
+      "datePublished": "2026-11-22T11:13:40+09:00"
+    },
+    {
+      "name": "福島 北塩原村 宿泊客帰宅開始も514世帯孤立 猪苗代町でも孤立",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261122de79781",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79781/20261122de79781_E0000201053_1_s.jpg",
+      "datePublished": "2026-11-22T14:13:04+09:00"
+    },
+    {
+      "name": "“バズり”を追い求める狂騒の裏で―",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de74610",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74610/20261112de74610_E0000192025_1_s.jpg",
+      "datePublished": "2026-11-22T11:38:11+09:00"
+    },
+    {
+      "name": "沖縄 火災で焼失の首里城正殿 きょう国主催の「復元完成式」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261121de79741",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79741/20261121de79741_E0000200531_1_s.jpg",
+      "datePublished": "2026-11-22T04:50:00+09:00"
+    },
+    {
+      "name": "前橋 市街地に出没のクマ見つからず 無人カメラで暗きょ捜索へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261122de79777",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79777/20261122de79777_E0000200811_1_s.jpg",
+      "datePublished": "2026-11-22T12:26:00+09:00"
+    },
+    {
+      "name": "香川 JR予讃線信号トラブル 特急など約6時間立往生も運転再開",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261122de79790",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79790/20261122de79790_E0000200721_1_s.jpg",
+      "datePublished": "2026-11-22T06:14:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": true,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
