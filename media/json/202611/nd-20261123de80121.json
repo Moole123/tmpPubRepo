@@ -1,0 +1,121 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261123de80121",
+  "dataSourceId": "nd",
+  "name": "インドネシアの製菓工場で火災 3人死亡 36人行方不明",
+  "headline": "インドネシアの製菓工場で火災 3人死亡 36人行方不明",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261123de80121",
+    "playlistId": "news-nwa-international-nationwide-20261123",
+    "newsarticleName": "インドネシアの製菓工場で火災 3人死亡 36人行方不明",
+    "playlistName": "11月23日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "インドネシアの首都ジャカルタの近郊にある菓子の製造工場で21日、火災が発生し、地元当局によりますと3人が死亡し、36人が行方不明になっています。\n\n\nインドネシアの首都ジャカルタ近郊にある菓子の製造工",
+  "dateModified": "2026-11-23T05:40:07+09:00",
+  "datePublished": "2026-11-23T05:40:07+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80121/20261123de80121_E0000201936_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80121/20261123de80121_E0000201936_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000416",
+      "name": "インドネシア",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "インドネシアの首都ジャカルタの近郊にある菓子の製造工場で21日、火災が発生し、地元当局によりますと3人が死亡し、36人が行方不明になっています。\n\n\nインドネシアの首都ジャカルタ近郊にある菓子の製造工",
+  "articleBody": "インドネシアの首都ジャカルタの近郊にある菓子の製造工場で21日、火災が発生し、地元当局によりますと3人が死亡し、36人が行方不明になっています。\n\n\nインドネシアの首都ジャカルタ近郊にある菓子の製造工場で21日、火災が発生しました。\n\n地元当局によりますと3人の死亡が確認されたほか、36人の行方がわからなくなっているということです。\n\n当局が現場で撮影した映像からは屋根の一部が焼け落ち、建物内部の設備が広い範囲で焦げ、ところどころで火がくすぶっている様子が確認できます。\n\n出火の原因はわかっていませんが、AP通信は従業員の話として、建物内にあった冷却装置から火が出たと伝えています。\n\n当局は行方不明者の捜索を続けるとともに、火災の原因を調べています。\n",
+  "detailedArticleBody": {
+    "markedLead": "インドネシアの首都ジャカルタの近郊にある菓子の製造工場で21日、火災が発生し、地元当局によりますと3人が死亡し、36人が行方不明になっています。\n",
+    "markedBody": "インドネシアの首都ジャカルタ近郊にある菓子の製造工場で21日、火災が発生しました。\n\n地元当局によりますと3人の死亡が確認されたほか、36人の行方がわからなくなっているということです。\n\n当局が現場で撮影した映像からは屋根の一部が焼け落ち、建物内部の設備が広い範囲で焦げ、ところどころで火がくすぶっている様子が確認できます。\n\n出火の原因はわかっていませんが、AP通信は従業員の話として、建物内にあった冷却装置から火が出たと伝えています。\n\n当局は行方不明者の捜索を続けるとともに、火災の原因を調べています。\n",
+    "trimmedLead": "インドネシアの首都ジャカルタの近郊にある菓子の製造工場で21日、火災が発生し、地元当局によりますと3人が死亡し、36人が行方不明になっています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261123de80121.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261123de80121",
+  "video": [],
+  "citation": [
+    {
+      "name": "COP31成果文書採択断念 化石燃料からの脱却言及なしに反発の声",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261122de79933",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79933/20261122de79933_E0000201168_1_s.jpg",
+      "datePublished": "2026-11-23T04:45:00+09:00"
+    },
+    {
+      "name": "韓国 大学入試 スマートグラスなどの対策で混乱 教育相が辞意",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261122de80041",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de80041/20261122de80041_E0000201745_1_s.jpg",
+      "datePublished": "2026-11-22T20:21:50+09:00"
+    },
+    {
+      "name": "AIで未解決難問“リーマン予想”証明主張 専門家の受けとめは?",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261122de79817",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79817/20261122de79817_E0000200936_1_s.jpg",
+      "datePublished": "2026-11-22T14:24:00+09:00"
+    },
+    {
+      "name": "イラン バーレーンの米軍施設を標的に攻撃と発表 緊張続く",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261122de79868",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79868/20261122de79868_E0000200970_1_s.jpg",
+      "datePublished": "2026-11-22T12:22:00+09:00"
+    },
+    {
+      "name": "フィンランド沖 ロシアの貨物船に無人機攻撃 ウクライナ関与か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261122de79863",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79863/20261122de79863_E0000201021_1_s.jpg",
+      "datePublished": "2026-11-22T12:42:00+09:00"
+    },
+    {
+      "name": "“バズり”を追い求める狂騒の裏で―",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de74610",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74610/20261112de74610_E0000192025_1_s.jpg",
+      "datePublished": "2026-11-22T11:38:11+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
