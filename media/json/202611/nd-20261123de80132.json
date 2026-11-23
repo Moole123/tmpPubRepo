@@ -1,0 +1,132 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261123de80132",
+  "dataSourceId": "nd",
+  "name": "松山市中心部近くの住宅で火事 2人と連絡取れず",
+  "headline": "松山市中心部近くの住宅で火事 2人と連絡取れず",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261123de80132",
+    "playlistId": "news-nwa-society-nationwide-20261123",
+    "newsarticleName": "松山市中心部近くの住宅で火事 2人と連絡取れず",
+    "playlistName": "11月23日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "23日午前3時すぎ、松山市の中心部に近い住宅街で火事があり、住宅1棟が全焼しました。\n警察によりますと、火事のあとこの家に2人で住んでいるいずれも50代の姉と弟と連絡が取れなくなっているということで、",
+  "dateModified": "2026-11-23T08:27:27+09:00",
+  "datePublished": "2026-11-23T08:27:27+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80132/20261123de80132_E0000202067_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80132/20261123de80132_E0000202067_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000657",
+      "name": "火災",
+      "display": true
+    },
+    {
+      "id": "E0000000366",
+      "name": "愛媛県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "23日午前3時すぎ、松山市の中心部に近い住宅街で火事があり、住宅1棟が全焼しました。\n警察によりますと、火事のあとこの家に2人で住んでいるいずれも50代の姉と弟と連絡が取れなくなっているということで、",
+  "articleBody": "23日午前3時すぎ、松山市の中心部に近い住宅街で火事があり、住宅1棟が全焼しました。\n警察によりますと、火事のあとこの家に2人で住んでいるいずれも50代の姉と弟と連絡が取れなくなっているということで、警察と消防が確認を進めています。\n\n\n23日午前3時すぎ、松山市土橋町の住宅で「火災が起きている」と通りかかった人から警察に通報がありました。\n\n消防車など9台が出て消火にあたり、火はおよそ3時間半後にほぼ消し止められましたが、木造2階建ての住宅1棟が全焼しました。\n\n警察によりますと、この家にはいずれも50代の姉と弟が住んでいて、火事のあと連絡が取れなくなっているということです。\n\n警察と消防が確認を進めるとともに、火事の詳しい原因を調べています。\n\n現場はJR松山駅から南東に1キロほどの松山市中心部に近い住宅街です。\n",
+  "detailedArticleBody": {
+    "markedLead": "23日午前3時すぎ、松山市の中心部に近い住宅街で火事があり、住宅1棟が全焼しました。\\\n警察によりますと、火事のあとこの家に2人で住んでいるいずれも50代の姉と弟と連絡が取れなくなっているということで、警察と消防が確認を進めています。\n",
+    "markedBody": "23日午前3時すぎ、松山市土橋町の住宅で「火災が起きている」と通りかかった人から警察に通報がありました。\n\n消防車など9台が出て消火にあたり、火はおよそ3時間半後にほぼ消し止められましたが、木造2階建ての住宅1棟が全焼しました。\n\n警察によりますと、この家にはいずれも50代の姉と弟が住んでいて、火事のあと連絡が取れなくなっているということです。\n\n警察と消防が確認を進めるとともに、火事の詳しい原因を調べています。\n\n現場はJR松山駅から南東に1キロほどの松山市中心部に近い住宅街です。\n",
+    "trimmedLead": "23日午前3時すぎ、松山市の中心部に近い住宅街で火事があり、住宅1棟が全焼しました。\n警察によりますと、火事のあとこの家に2人で住んでいるいずれも50代の姉と弟と連絡が取れなくなっているということで、警察と消防が確認を進めています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261123de80132.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261123de80132",
+  "video": [],
+  "citation": [
+    {
+      "name": "COP31成果文書採択断念 化石燃料からの脱却言及なしに反発の声",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261122de79933",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79933/20261122de79933_E0000201168_1_s.jpg",
+      "datePublished": "2026-11-23T04:45:00+09:00"
+    },
+    {
+      "name": "大相撲九州場所 大の里 7回目の優勝 若元春との優勝決定戦制す",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261122de79989",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79989/20261122de79989_E0000201222_1_s.jpg",
+      "datePublished": "2026-11-22T23:11:24+09:00"
+    },
+    {
+      "name": "クマは地下水路に? 内部調査も姿は確認できず 警戒続く前橋",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261122de79777",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79777/20261122de79777_E0000200695_1_s.jpg",
+      "datePublished": "2026-11-22T20:45:28+09:00"
+    },
+    {
+      "name": "木原官房長官“関文科相の説明重要 人事は総理が決めること”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261122de80043",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de80043/20261122de80043_E0000201676_1_s.jpg",
+      "datePublished": "2026-11-22T19:09:11+09:00"
+    },
+    {
+      "name": "沖縄 首里城正殿が復元“二度と失われないよう つないでいく”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261122de79841",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79841/20261122de79841_E0000201215_1_s.jpg",
+      "datePublished": "2026-11-22T18:06:00+09:00"
+    },
+    {
+      "name": "「東アジア反日武装戦線」メンバーの死刑囚が東京拘置所で死亡",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261122de79958",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79958/20261122de79958_E0000201202_1_s.jpg",
+      "datePublished": "2026-11-22T20:37:59+09:00"
+    },
+    {
+      "name": "“バズり”を追い求める狂騒の裏で―",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de74610",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74610/20261112de74610_E0000192025_1_s.jpg",
+      "datePublished": "2026-11-22T11:38:11+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
