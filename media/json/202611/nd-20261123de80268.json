@@ -1,0 +1,136 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261123de80268",
+  "dataSourceId": "nd",
+  "name": "長野 雪の影響で停電続く “24日中の復旧を目指す”",
+  "headline": "長野 雪の影響で停電続く “24日中の復旧を目指す”",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261123de80268",
+    "playlistId": "news-nwa-society-nationwide-20261123",
+    "newsarticleName": "長野 雪の影響で停電続く “24日中の復旧を目指す”",
+    "playlistName": "11月23日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "先週末から断続的に降り続いた雪による倒木などの影響で、長野市などの一部では今も停電が続いています。\n中部電力パワーグリッドでは24日中の復旧を目指しているということです。\n\n\n中部電力パワーグリッドに",
+  "dateModified": "2026-11-23T18:52:56+09:00",
+  "datePublished": "2026-11-23T18:52:56+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80268/20261123de80268_E0000202378_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80268/20261123de80268_E0000202378_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会"
+  ],
+  "topic": [
+    {
+      "id": "E0000000348",
+      "name": "長野県",
+      "display": true
+    },
+    {
+      "id": "E0000000697",
+      "name": "大雪・寒さ",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "先週末から断続的に降り続いた雪による倒木などの影響で、長野市などの一部では今も停電が続いています。\n中部電力パワーグリッドでは24日中の復旧を目指しているということです。\n\n\n中部電力パワーグリッドに",
+  "articleBody": "先週末から断続的に降り続いた雪による倒木などの影響で、長野市などの一部では今も停電が続いています。\n中部電力パワーグリッドでは24日中の復旧を目指しているということです。\n\n\n中部電力パワーグリッドによりますと、先週末から断続的に降り続いた雪による倒木や木の枝が電線や配電設備などに接触していることが原因で、23日午後5時現在、長野市や大町市、それに白馬村など、県内の5つの市町村の一部、あわせて1250戸で停電が続いているということです。\n\n市町村別の内訳は、長野市が鬼無里地区などのおよそ930戸、大町市が美麻地区などのおよそ170戸、小川村がおよそ80戸、白馬村がおよそ50戸、信濃町がおよそ40戸となっています。\n\n中部電力パワーグリッドでは24日中の復旧を目指して作業を進めているということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "先週末から断続的に降り続いた雪による倒木などの影響で、長野市などの一部では今も停電が続いています。\\\n中部電力パワーグリッドでは24日中の復旧を目指しているということです。\n",
+    "markedBody": "中部電力パワーグリッドによりますと、先週末から断続的に降り続いた雪による倒木や木の枝が電線や配電設備などに接触していることが原因で、23日午後5時現在、長野市や大町市、それに白馬村など、県内の5つの市町村の一部、あわせて1250戸で停電が続いているということです。\n\n市町村別の内訳は、長野市が鬼無里地区などのおよそ930戸、大町市が美麻地区などのおよそ170戸、小川村がおよそ80戸、白馬村がおよそ50戸、信濃町がおよそ40戸となっています。\n\n中部電力パワーグリッドでは24日中の復旧を目指して作業を進めているということです。\n",
+    "trimmedLead": "先週末から断続的に降り続いた雪による倒木などの影響で、長野市などの一部では今も停電が続いています。\n中部電力パワーグリッドでは24日中の復旧を目指しているということです。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261123de80268.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261123de80268",
+  "video": [],
+  "citation": [
+    {
+      "name": "停電情報",
+      "url": "https://news.web.nhk/kishou-saigai/poweroutage/",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00041_E0000003434_1_s.jpg"
+    },
+    {
+      "name": "【いま知りたい】地震 津波 停電・断水 災害にどう備えれば",
+      "url": "https://news.web.nhk/newsweb/sp/pl/editorial-nwa-0000000132",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/morenews/20240103de00344_E0000003374_1_s.jpg"
+    },
+    {
+      "name": "岐阜 雪の影響で停電 携帯電話の通信障害や鉄道運転見合わせも",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261123de80192",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80192/20261123de80192_E0000202322_1_s.jpg",
+      "datePublished": "2026-11-23T18:22:12+09:00"
+    },
+    {
+      "name": "福島 大雪による孤立状態が解消 電力復旧作業や雪かき進む",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261123de80164",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80164/20261123de80164_E0000202128_1_s.jpg",
+      "datePublished": "2026-11-23T19:11:30+09:00"
+    },
+    {
+      "name": "横溝正史が戦時下に陸軍「幻の雑誌」に掲載した推理小説発見",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261123de80134",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80134/20261123de80134_E0000202079_1_s.jpg",
+      "datePublished": "2026-11-23T09:16:00+09:00"
+    },
+    {
+      "name": "大相撲九州場所 優勝の大の里「自分の相撲 やっと思い出した」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261123de80151",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80151/20261123de80151_E0000202093_1_s.jpg",
+      "datePublished": "2026-11-23T12:07:00+09:00"
+    },
+    {
+      "name": "東京電力 福島での廃炉と賠償の部門を統合へ",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261123de80254",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80254/20261123de80254_E0000202368_1_s.jpg",
+      "datePublished": "2026-11-23T18:24:08+09:00"
+    },
+    {
+      "name": "住宅街のクマ“水路に潜む可能性”警戒続く 学校は再開へ 前橋",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261122de80089",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de80089/20261122de80089_E0000195192_1_s.jpg",
+      "datePublished": "2026-11-23T17:50:59+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
