@@ -1,0 +1,132 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261123de80114",
+  "dataSourceId": "nd",
+  "name": "ウクライナ キーウ近郊に攻撃 4人死亡 ロシアの攻撃激化",
+  "headline": "ウクライナ キーウ近郊に攻撃 4人死亡 ロシアの攻撃激化",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261123de80114",
+    "playlistId": "news-nwa-international-nationwide-20261123",
+    "newsarticleName": "ウクライナ キーウ近郊に攻撃 4人死亡 ロシアの攻撃激化",
+    "playlistName": "11月23日の国際ニュース",
+    "genreId": "international",
+    "genreIdSlug": "international"
+  },
+  "description": "ロシアによる軍事侵攻が続くウクライナで22日、首都キーウ近郊の集合住宅などが無人機攻撃を受けあわせて4人が死亡しました。ロシア軍の攻撃はこの数日で激しさを増していて、さらなる攻撃に警戒が強まっています",
+  "dateModified": "2026-11-23T05:19:29+09:00",
+  "datePublished": "2026-11-23T05:19:29+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80114/20261123de80114_E0000201934_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80114/20261123de80114_E0000201934_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "国際"
+  ],
+  "topic": [
+    {
+      "id": "E0000000296",
+      "name": "ウクライナ情勢",
+      "display": true
+    },
+    {
+      "id": "E0000000220",
+      "name": "ロシア",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "ロシアによる軍事侵攻が続くウクライナで22日、首都キーウ近郊の集合住宅などが無人機攻撃を受けあわせて4人が死亡しました。ロシア軍の攻撃はこの数日で激しさを増していて、さらなる攻撃に警戒が強まっています",
+  "articleBody": "ロシアによる軍事侵攻が続くウクライナで22日、首都キーウ近郊の集合住宅などが無人機攻撃を受けあわせて4人が死亡しました。ロシア軍の攻撃はこの数日で激しさを増していて、さらなる攻撃に警戒が強まっています。\n\n\nウクライナの非常事態庁や地元当局によりますと、22日、キーウ州にある5階建ての集合住宅がロシア軍の無人機による攻撃を受けました。\n\nこの攻撃で、これまでに3人が死亡し、およそ10人ががれきの下に取り残されている可能性があり、救助活動が行われているということです。\n\nまた地元当局は、同じキーウ州でこの日、スーパーマーケットがロシア軍の無人機攻撃を受けて、1人が死亡し、3人がけがをしたとしています。\n\n今月17日、ウクライナ軍が、ロシア本土とロシアが一方的に併合したクリミアを結ぶ橋を攻撃したことを受けて、ロシアのプーチン大統領は報復の考えを示し、この数日でウクライナへの攻撃は激しさを増しています。\n\nウクライナのゼレンスキー大統領は22日、SNSに投稿し、ロシア軍がこの1週間でおよそ2700機の無人機や165発のミサイルなどを使って攻撃を行ったと明らかにしました。\n\nその上で、「防衛を強化する必要がある」としてアメリカに対し、ウクライナの支援国がすでに資金を拠出しているアメリカ製の防空システム「パトリオット」の迎撃ミサイルの移転を承認するよう改めて求めました。\n",
+  "detailedArticleBody": {
+    "markedLead": "ロシアによる軍事侵攻が続くウクライナで22日、首都キーウ近郊の集合住宅などが無人機攻撃を受けあわせて4人が死亡しました。ロシア軍の攻撃はこの数日で激しさを増していて、さらなる攻撃に警戒が強まっています。\n",
+    "markedBody": "ウクライナの非常事態庁や地元当局によりますと、22日、キーウ州にある5階建ての集合住宅がロシア軍の無人機による攻撃を受けました。\n\nこの攻撃で、これまでに3人が死亡し、およそ10人ががれきの下に取り残されている可能性があり、救助活動が行われているということです。\n\nまた地元当局は、同じキーウ州でこの日、スーパーマーケットがロシア軍の無人機攻撃を受けて、1人が死亡し、3人がけがをしたとしています。\n\n今月17日、ウクライナ軍が、ロシア本土とロシアが一方的に併合したクリミアを結ぶ橋を攻撃したことを受けて、ロシアのプーチン大統領は報復の考えを示し、この数日でウクライナへの攻撃は激しさを増しています。\n\nウクライナのゼレンスキー大統領は22日、SNSに投稿し、ロシア軍がこの1週間でおよそ2700機の無人機や165発のミサイルなどを使って攻撃を行ったと明らかにしました。\n\nその上で、「防衛を強化する必要がある」としてアメリカに対し、ウクライナの支援国がすでに資金を拠出しているアメリカ製の防空システム「パトリオット」の迎撃ミサイルの移転を承認するよう改めて求めました。\n",
+    "trimmedLead": "ロシアによる軍事侵攻が続くウクライナで22日、首都キーウ近郊の集合住宅などが無人機攻撃を受けあわせて4人が死亡しました。ロシア軍の攻撃はこの数日で激しさを増していて、さらなる攻撃に警戒が強まっています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261123de80114.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261123de80114",
+  "video": [],
+  "citation": [
+    {
+      "name": "COP31成果文書採択断念 化石燃料からの脱却言及なしに反発の声",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261122de79933",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79933/20261122de79933_E0000201168_1_s.jpg",
+      "datePublished": "2026-11-23T04:45:00+09:00"
+    },
+    {
+      "name": "AIで未解決難問“リーマン予想”証明主張 専門家の受けとめは?",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261122de79817",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79817/20261122de79817_E0000200936_1_s.jpg",
+      "datePublished": "2026-11-22T14:24:00+09:00"
+    },
+    {
+      "name": "イラン バーレーンの米軍施設を標的に攻撃と発表 緊張続く",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261122de79868",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79868/20261122de79868_E0000200970_1_s.jpg",
+      "datePublished": "2026-11-22T12:22:00+09:00"
+    },
+    {
+      "name": "フィンランド沖 ロシアの貨物船に無人機攻撃 ウクライナ関与か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261122de79863",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79863/20261122de79863_E0000201021_1_s.jpg",
+      "datePublished": "2026-11-22T12:42:00+09:00"
+    },
+    {
+      "name": "デンマーク ロシア主導の暗殺計画阻止と発表 首相「制裁強化」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261122de79796",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79796/20261122de79796_E0000200752_1_s.jpg",
+      "datePublished": "2026-11-22T08:38:38+09:00"
+    },
+    {
+      "name": "ゼレンスキー大統領「3か国首脳会談はロシアにとっては失敗」",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261122de79819",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79819/20261122de79819_E0000200812_1_s.jpg",
+      "datePublished": "2026-11-22T08:07:00+09:00"
+    },
+    {
+      "name": "“バズり”を追い求める狂騒の裏で―",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de74610",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74610/20261112de74610_E0000192025_1_s.jpg",
+      "datePublished": "2026-11-22T11:38:11+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
