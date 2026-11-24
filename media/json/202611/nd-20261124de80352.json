@@ -1,0 +1,127 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261124de80352",
+  "dataSourceId": "nd",
+  "name": "日経平均株価 一時2000円超値上がり",
+  "headline": "日経平均株価 一時2000円超値上がり",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261124de80352",
+    "playlistId": "news-nwa-business-nationwide-20261124",
+    "newsarticleName": "日経平均株価 一時2000円超値上がり",
+    "playlistName": "11月24日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "連休明けの24日の東京株式市場、取引開始直後から買い注文が広がり、日経平均株価は一時、2000円以上値上がりしています。\n\n\nアメリカの半導体大手「エヌビディア」のCEOにジェンスン・フアン氏が復帰す",
+  "dateModified": "2026-11-24T09:24:00+09:00",
+  "datePublished": "2026-11-24T09:24:00+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261124de80352/20261124de80352_E0000203332_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261124de80352/20261124de80352_E0000203332_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000157",
+      "name": "株価・為替",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "連休明けの24日の東京株式市場、取引開始直後から買い注文が広がり、日経平均株価は一時、2000円以上値上がりしています。\n\n\nアメリカの半導体大手「エヌビディア」のCEOにジェンスン・フアン氏が復帰す",
+  "articleBody": "連休明けの24日の東京株式市場、取引開始直後から買い注文が広がり、日経平均株価は一時、2000円以上値上がりしています。\n\n\nアメリカの半導体大手「エヌビディア」のCEOにジェンスン・フアン氏が復帰すると発表されたことを受けて、23日のニューヨーク株式市場では、ハイテク株の比率が高いナスダック株価指数をはじめ、主要な指数がそろって上昇しました。\n\nこの流れを引き継いで、東京市場でもAIや半導体関連の銘柄を中心に買い注文が広がっています。\n",
+  "detailedArticleBody": {
+    "markedLead": "連休明けの24日の東京株式市場、取引開始直後から買い注文が広がり、日経平均株価は一時、2000円以上値上がりしています。\n",
+    "markedBody": "アメリカの半導体大手「エヌビディア」のCEOにジェンスン・フアン氏が復帰すると発表されたことを受けて、23日のニューヨーク株式市場では、ハイテク株の比率が高いナスダック株価指数をはじめ、主要な指数がそろって上昇しました。\n\nこの流れを引き継いで、東京市場でもAIや半導体関連の銘柄を中心に買い注文が広がっています。\n",
+    "trimmedLead": "連休明けの24日の東京株式市場、取引開始直後から買い注文が広がり、日経平均株価は一時、2000円以上値上がりしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261124de80352.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261124de80352",
+  "video": [],
+  "citation": [
+    {
+      "name": "エヌビディアCEO 辞任のフアン氏が復帰へ 株価一時36％超上昇",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261123de80304",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80304/20261123de80304_E0000202896_1_s.jpg",
+      "datePublished": "2026-11-24T06:38:00+09:00"
+    },
+    {
+      "name": "【記者解説】エヌビディア フアン氏復帰 辞任から一転 背景は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261124de80348",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261124de80348/20261124de80348_E0000203078_1_s.jpg",
+      "datePublished": "2026-11-24T07:29:49+09:00"
+    },
+    {
+      "name": "スタートアップ成長のカギは「非上場株」？！【経済コラム】",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261119de78590",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78590/20261119de78590_E0000198273_1_s.jpg",
+      "datePublished": "2026-11-21T13:47:26+09:00"
+    },
+    {
+      "name": "相次ぐ企業の不正　要因と防止策は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261120de78889",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78889/20261120de78889_E0000195136_1_s.jpg",
+      "datePublished": "2026-11-20T15:47:15+09:00"
+    },
+    {
+      "name": "日銀物価目標２％～到達の意味と金融政策のリスク",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de74598",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74598/20261112de74598_E0000166693_1_s.jpg",
+      "datePublished": "2026-11-12T14:58:00+09:00"
+    },
+    {
+      "name": "不正防止につながるか 免税新制度「リファンド方式」に密着",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72814",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72814/20261109de72814_E0000155204_1_s.jpg",
+      "datePublished": "2026-11-10T20:05:00+09:00"
+    },
+    {
+      "name": "長期化する中東情勢～どう抑える有事のエネルギーコスト",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261109de72778",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72778/20261109de72778_E0000154383_1_s.jpg",
+      "datePublished": "2026-11-09T13:19:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
