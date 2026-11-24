@@ -1,0 +1,138 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261124de80343",
+  "dataSourceId": "nd",
+  "name": "雪の影響で停電続く 岐阜県内約3190戸 長野県内470戸",
+  "headline": "雪の影響で停電続く 岐阜県内約3190戸 長野県内470戸",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261124de80343",
+    "playlistId": "news-nwa-society-nationwide-20261124",
+    "newsarticleName": "雪の影響で停電続く 岐阜県内約3190戸 長野県内470戸",
+    "playlistName": "11月24日の社会ニュース",
+    "genreId": "society",
+    "genreIdSlug": "society"
+  },
+  "description": "岐阜県の山沿いの地域では、雪の影響による停電が続いていて、長いところでは24日で5日目になります。\nまた、先週末から断続的に降り続いた雪による倒木などの影響で、長野県内の一部でも今も停電が続いています",
+  "dateModified": "2026-11-24T06:32:38+09:00",
+  "datePublished": "2026-11-24T06:32:38+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261124de80343/20261124de80343_E0000202975_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261124de80343/20261124de80343_E0000202975_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "社会",
+    "気象・災害"
+  ],
+  "topic": [
+    {
+      "id": "E0000000114",
+      "name": "気象",
+      "display": true
+    },
+    {
+      "id": "E0000000349",
+      "name": "岐阜県",
+      "display": true
+    },
+    {
+      "id": "E0000000348",
+      "name": "長野県",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "岐阜県の山沿いの地域では、雪の影響による停電が続いていて、長いところでは24日で5日目になります。\nまた、先週末から断続的に降り続いた雪による倒木などの影響で、長野県内の一部でも今も停電が続いています",
+  "articleBody": "岐阜県の山沿いの地域では、雪の影響による停電が続いていて、長いところでは24日で5日目になります。\nまた、先週末から断続的に降り続いた雪による倒木などの影響で、長野県内の一部でも今も停電が続いています。\n\n中部電力などでは、多くの地域で24日中の復旧を目指して作業を進めることにしています。\n\n\n気象台によりますと、岐阜県では今月18日夜から山沿いを中心に雪が降り始め、郡上市や飛騨市、それに白川村ではこの時期としては積雪が多くなっています。\n\n午前5時の積雪は郡上市の長滝で22センチ、白川村で14センチ、飛騨市河合で7センチとなっています。\n\n中部電力によりますと、この雪の影響で午前5時現在、郡上市や高山市など岐阜県内の約3190戸で停電が続いていて、長いところでは24日で5日目になります。\n\n雪による倒木や電線が切れるなどの被害が発生していて、積雪で現場に行くのに時間もかかることなどから、停電が長期化しているということです。\n\n中部電力は、停電が続く多くの地域で24日中の復旧を目指して作業を進めていますが、一部では復旧に26日までかかると見込まれる地域もあるということです。\n\n長野県内5つの市町村の一部 470戸でも停電続く\n\n中部電力パワーグリッドによりますと、先週末から断続的に降り続いた雪による倒木や木の枝が電線や配電設備などに接触していることが原因で、24日午前5時現在、長野市や大町市、それに白馬村など、県内の5つの市町村の一部、あわせて470戸で停電が続いているということです。\n\n市町村別の内訳は長野市がおよそ340戸、小川村がおよそ80戸、信濃町がおよそ40戸、大町市と白馬村がいずれもおよそ20戸となっています。\n\n中部電力パワーグリッドでは24日中の復旧を目指して作業を進めているということです。\n",
+  "detailedArticleBody": {
+    "markedLead": "岐阜県の山沿いの地域では、雪の影響による停電が続いていて、長いところでは24日で5日目になります。\\\nまた、先週末から断続的に降り続いた雪による倒木などの影響で、長野県内の一部でも今も停電が続いています。\n\n中部電力などでは、多くの地域で24日中の復旧を目指して作業を進めることにしています。\n",
+    "markedBody": "気象台によりますと、岐阜県では今月18日夜から山沿いを中心に雪が降り始め、郡上市や飛騨市、それに白川村ではこの時期としては積雪が多くなっています。\n\n午前5時の積雪は郡上市の長滝で22センチ、白川村で14センチ、飛騨市河合で7センチとなっています。\n\n中部電力によりますと、この雪の影響で午前5時現在、郡上市や高山市など岐阜県内の約3190戸で停電が続いていて、長いところでは24日で5日目になります。\n\n雪による倒木や電線が切れるなどの被害が発生していて、積雪で現場に行くのに時間もかかることなどから、停電が長期化しているということです。\n\n中部電力は、停電が続く多くの地域で24日中の復旧を目指して作業を進めていますが、一部では復旧に26日までかかると見込まれる地域もあるということです。\n\n## 長野県内5つの市町村の一部 470戸でも停電続く\n\n中部電力パワーグリッドによりますと、先週末から断続的に降り続いた雪による倒木や木の枝が電線や配電設備などに接触していることが原因で、24日午前5時現在、長野市や大町市、それに白馬村など、県内の5つの市町村の一部、あわせて470戸で停電が続いているということです。\n\n市町村別の内訳は長野市がおよそ340戸、小川村がおよそ80戸、信濃町がおよそ40戸、大町市と白馬村がいずれもおよそ20戸となっています。\n\n中部電力パワーグリッドでは24日中の復旧を目指して作業を進めているということです。\n",
+    "trimmedLead": "岐阜県の山沿いの地域では、雪の影響による停電が続いていて、長いところでは24日で5日目になります。\nまた、先週末から断続的に降り続いた雪による倒木などの影響で、長野県内の一部でも今も停電が続いています。\n\n中部電力などでは、多くの地域で24日中の復旧を目指して作業を進めることにしています。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261124de80343.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261124de80343",
+  "video": [],
+  "citation": [
+    {
+      "name": "荒れた天気 強風・土砂災害に十分注意 あす日本海側で雪強まる",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261123de80284",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80284/20261123de80284_E0000202974_1_s.jpg",
+      "datePublished": "2026-11-24T06:22:00+09:00"
+    },
+    {
+      "name": "岐阜 雪の影響で停電 携帯電話の通信障害や鉄道運転見合わせも",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261123de80192",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80192/20261123de80192_E0000202322_1_s.jpg",
+      "datePublished": "2026-11-23T18:22:12+09:00"
+    },
+    {
+      "name": "福島 大雪による孤立状態が解消 電力復旧作業や雪かき進む",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261123de80164",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80164/20261123de80164_E0000202128_1_s.jpg",
+      "datePublished": "2026-11-23T19:11:30+09:00"
+    },
+    {
+      "name": "自宅が被災、でも避難所には行けない…在宅避難者の支援は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261029de67621",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67621/20261029de67621_E0000123131_1_s.jpg",
+      "datePublished": "2026-10-29T19:17:00+09:00"
+    },
+    {
+      "name": "あなたの家やマンションは大丈夫？浸水被害の死角とお金の備え",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65479",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65479/20261026de65479_E0000109940_1_s.jpg",
+      "datePublished": "2026-10-26T17:33:00+09:00"
+    },
+    {
+      "name": "異常気象が日常に 大雨につながる海の熱波",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260924de52129",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52129/20260924de52129_E0000034745_1_s.jpg",
+      "datePublished": "2026-09-24T13:36:00+09:00"
+    },
+    {
+      "name": "災害時に注意 SNSで広がるデマ情報",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260812de43384",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43384/20260812de43384_E0000006994_1_s.jpg",
+      "datePublished": "2026-08-12T17:33:00+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
