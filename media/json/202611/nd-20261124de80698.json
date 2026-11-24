@@ -1,0 +1,151 @@
+{
+  "type": "NewsArticle",
+  "id": "nd-20261124de80698",
+  "dataSourceId": "nd",
+  "name": "11月の月例経済報告「総じてみれば緩やかに回復」基調判断維持",
+  "headline": "11月の月例経済報告「総じてみれば緩やかに回復」基調判断維持",
+  "identifierGroup": {
+    "newsarticleId": "nd-20261124de80698",
+    "playlistId": "news-nwa-business-nationwide-20261124",
+    "newsarticleName": "11月の月例経済報告「総じてみれば緩やかに回復」基調判断維持",
+    "playlistName": "11月24日の経済ニュース",
+    "genreId": "business",
+    "genreIdSlug": "business"
+  },
+  "description": "政府は、11月の月例経済報告で、景気の現状について「総じてみれば緩やかに回復している」として基調判断を維持しました。\n\n\n10月の判断は「緩やかに回復している」で、「総じてみれば」という表現を加え、堅",
+  "dateModified": "2026-11-24T17:52:15+09:00",
+  "datePublished": "2026-11-24T17:52:15+09:00",
+  "author": {
+    "image": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "NHK ONE ニュース",
+    "type": "Organization",
+    "url": "https://news.web.nhk/newsweb"
+  },
+  "publisher": {
+    "logo": {
+      "url": "https://news.web.nhk/nhk-logo.png",
+      "height": 600,
+      "width": 600
+    },
+    "name": "日本放送協会",
+    "type": "Organization"
+  },
+  "image": {
+    "icon": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261124de80698/20261124de80698_E0000204486_1_s.jpg",
+      "height": 360,
+      "width": 640
+    },
+    "medium": {
+      "url": "https://imgu.web.nhk/news/u/news/nd/kiji/20261124de80698/20261124de80698_E0000204486_1_l.jpg",
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "genre": [
+    "経済"
+  ],
+  "topic": [
+    {
+      "id": "E0000000703",
+      "name": "統計・指標",
+      "display": true
+    }
+  ],
+  "toc": [],
+  "abstract": "政府は、11月の月例経済報告で、景気の現状について「総じてみれば緩やかに回復している」として基調判断を維持しました。\n\n\n10月の判断は「緩やかに回復している」で、「総じてみれば」という表現を加え、堅",
+  "articleBody": "政府は、11月の月例経済報告で、景気の現状について「総じてみれば緩やかに回復している」として基調判断を維持しました。\n\n\n10月の判断は「緩やかに回復している」で、「総じてみれば」という表現を加え、堅調な企業部門と消費が振るわない家計部門とで差が生じている状況を反映したとしています。\n\n個別の項目では、\n▽「個人消費」は、物価高などによって消費者の購買意欲が下押しされていることから、「持ち直しの動きに足踏みがみられる」として、2年9か月ぶりに下方修正しました。\n\n▽一方、「生産」は、AI関連の需要を背景に半導体製造装置の生産が増加していることなどから、「総じてみれば持ち直している」として2か月ぶりに上方修正しました。\n\n▽また、「輸出」は、熊本地震の影響で落ち込んでいた自動車の輸出が回復したことなどから、「持ち直しの動きがみられる」として、5か月ぶりに上方修正しました。\n",
+  "detailedArticleBody": {
+    "markedLead": "政府は、11月の月例経済報告で、景気の現状について「総じてみれば緩やかに回復している」として基調判断を維持しました。\n",
+    "markedBody": "10月の判断は「緩やかに回復している」で、「総じてみれば」という表現を加え、堅調な企業部門と消費が振るわない家計部門とで差が生じている状況を反映したとしています。\n\n個別の項目では、\\\n▽「個人消費」は、物価高などによって消費者の購買意欲が下押しされていることから、「持ち直しの動きに足踏みがみられる」として、2年9か月ぶりに下方修正しました。\n\n▽一方、「生産」は、AI関連の需要を背景に半導体製造装置の生産が増加していることなどから、「総じてみれば持ち直している」として2か月ぶりに上方修正しました。\n\n▽また、「輸出」は、熊本地震の影響で落ち込んでいた自動車の輸出が回復したことなどから、「持ち直しの動きがみられる」として、5か月ぶりに上方修正しました。\n",
+    "trimmedLead": "政府は、11月の月例経済報告で、景気の現状について「総じてみれば緩やかに回復している」として基調判断を維持しました。\n"
+  },
+  "url": "https://api.web.nhk/r8/t/newsarticle/na/nd-20261124de80698.json",
+  "canonical": "https://news.web.nhk/newsweb/na/nd-20261124de80698",
+  "video": [],
+  "citation": [
+    {
+      "name": "10月の月例経済報告 「緩やかに回復」を維持",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261027de66635",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66635/20261027de66635_E0000117049_1_s.jpg",
+      "datePublished": "2026-10-27T21:01:00+09:00"
+    },
+    {
+      "name": "【詳しく】エヌビディアCEO フアン氏が復帰へ 水面下の動きは",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261123de80304",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80304/20261123de80304_E0000203393_1_s.jpg",
+      "datePublished": "2026-11-24T17:45:40+09:00"
+    },
+    {
+      "name": "ヴェレダ・ジャパン クレジットカード情報4万5600人余 流出か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261124de80569",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261124de80569/20261124de80569_E0000147912_1_s.jpg",
+      "datePublished": "2026-11-24T15:11:38+09:00"
+    },
+    {
+      "name": "荒れた天気 強風 急な強い雨など注意 気温下がり雪も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261123de80284",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80284/20261123de80284_E0000205143_1_s.jpg",
+      "datePublished": "2026-11-24T19:24:29+09:00"
+    },
+    {
+      "name": "ICC赤根所長 “管轄権厳格に守り活動 世界のために努力”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261124de80353",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261124de80353/20261124de80353_E0000204878_1_s.jpg",
+      "datePublished": "2026-11-24T19:06:03+09:00"
+    },
+    {
+      "name": "参議院 野党6党 関文科相に対する問責決議案 提出方針で一致",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261124de80396",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261124de80396/20261124de80396_E0000203499_1_s.jpg",
+      "datePublished": "2026-11-24T19:32:01+09:00"
+    },
+    {
+      "name": "長野 岐阜 福島 雪の影響で停電続く 丸4日以上停電の地域も",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261124de80343",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261124de80343/20261124de80343_E0000203458_1_s.jpg",
+      "datePublished": "2026-11-24T19:36:00+09:00"
+    },
+    {
+      "name": "市営住宅に別人入居236戸 管理厳格化へ条例改正へ 三重 伊賀市",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261124de80559",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261124de80559/20261124de80559_E0000204481_1_s.jpg",
+      "datePublished": "2026-11-24T17:02:00+09:00"
+    },
+    {
+      "name": "木原長官 高市首相の中国到着時に段差“日本側で把握し対応”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261124de80412",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261124de80412/20261124de80412_E0000203460_1_s.jpg",
+      "datePublished": "2026-11-24T11:55:00+09:00"
+    },
+    {
+      "name": "日中首脳会談実現せず　対話再開に向けた道筋は",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261124de80455",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261124de80455/20261124de80455_E0000203520_1_s.jpg",
+      "datePublished": "2026-11-24T14:19:05+09:00"
+    },
+    {
+      "name": "なぜトランプ大統領は世界最大級の博物館を標的にしたのか",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260824de46005",
+      "thumbnailUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46005/20260824de46005_E0000199040_1_s.jpg",
+      "datePublished": "2026-11-23T08:30:45+09:00"
+    }
+  ],
+  "additionalProperty": {
+    "webviewFlg": false,
+    "liveUpdateFlg": false,
+    "hidenewFlg": false,
+    "hiddenFlg": false,
+    "eibunFlg": false,
+    "twitterCardFlg": true,
+    "detailFlg": true,
+    "tokusyuFlg": false,
+    "geoblockImageFlg": false,
+    "geoblockVideoFlg": false,
+    "rawHtmlFlg": false
+  }
+}
